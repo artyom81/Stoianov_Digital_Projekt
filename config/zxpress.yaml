@@ -1,4 +1,4 @@
-# ZXPress FCS Endpoint – zentrale Konfiguration (ersetzt alte zxpress.yaml komplett)
+# ZXPress FCS Endpoint – zentrale Konfiguration
 
 endpoint:
   sru_version: "2.0"

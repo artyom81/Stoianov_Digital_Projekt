@@ -162,7 +162,7 @@ def main():
     parser.add_argument("--mag-url", help="URL der Magazinseite (issue.php?id=…)")
     parser.add_argument("--out-root", help="Ausgabe-Ordner (z.B. data/zxpress/magazines/Z80)")
     parser.add_argument("--mag-root", help="Optional: Root-Verzeichnis für Patch/Fetch (überschreibt Ziel)")
-    parser.add_argument("--root", default="data/zxpress/magazines", help="Standard-Root, wenn nichts anderes angegeben ist")
+    parser.add_argument("--root", default="data_test/zxpress/magazines", help="Standard-Root, wenn nichts anderes angegeben ist")
     parser.add_argument("--retry-missing", action="store_true", help="Fehlende Artikel erneut laden")
     parser.add_argument("--dry-run", action="store_true", help="Nur anzeigen/patchen, nichts persistentes verändern")
     parser.add_argument("--validate", action="store_true", help="Am Ende Pydantic-Validierung ausführen")
