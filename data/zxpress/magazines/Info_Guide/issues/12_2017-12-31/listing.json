@@ -1,0 +1,353 @@
+[
+  {
+    "article_id": 18234,
+    "article_url": "https://zxpress.ru/article.php?id=18234",
+    "print_url": "https://zxpress.ru/print.php?id=18234",
+    "title_link": "Помощь - об оболочке: произошли некоторые изменения в кнопках.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Помощь_-_об_оболочке_произошли_некоторые_изменения_в_кнопках"
+  },
+  {
+    "article_id": 18235,
+    "article_url": "https://zxpress.ru/article.php?id=18235",
+    "print_url": "https://zxpress.ru/print.php?id=18235",
+    "title_link": "Предисловие - от авторов: Прошедшие два года были очень насыщенными.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Предисловие_-_от_авторов_Прошедшие_два_года_были_очень_насыщ"
+  },
+  {
+    "article_id": 18236,
+    "article_url": "https://zxpress.ru/article.php?id=18236",
+    "print_url": "https://zxpress.ru/print.php?id=18236",
+    "title_link": "Комьюнити - ZX Spectrum: Как это было в Рязани (1980-е).",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Комьюнити_-_ZX_Spectrum_Как_это_было_в_Рязани_1980-е"
+  },
+  {
+    "article_id": 18237,
+    "article_url": "https://zxpress.ru/article.php?id=18237",
+    "print_url": "https://zxpress.ru/print.php?id=18237",
+    "title_link": "Комьюнити - ZX Spectrum: Как это было в Рязани (1991-1993).",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Комьюнити_-_ZX_Spectrum_Как_это_было_в_Рязани_1991-1993"
+  },
+  {
+    "article_id": 18238,
+    "article_url": "https://zxpress.ru/article.php?id=18238",
+    "print_url": "https://zxpress.ru/print.php?id=18238",
+    "title_link": "Комьюнити - ZX Spectrum: Как это было в Рязани (1993-1995).",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Комьюнити_-_ZX_Spectrum_Как_это_было_в_Рязани_1993-1995"
+  },
+  {
+    "article_id": 18239,
+    "article_url": "https://zxpress.ru/article.php?id=18239",
+    "print_url": "https://zxpress.ru/print.php?id=18239",
+    "title_link": "Комьюнити - ZX Spectrum: Как это было в Рязани (1995-1997).",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Комьюнити_-_ZX_Spectrum_Как_это_было_в_Рязани_1995-1997"
+  },
+  {
+    "article_id": 18240,
+    "article_url": "https://zxpress.ru/article.php?id=18240",
+    "print_url": "https://zxpress.ru/print.php?id=18240",
+    "title_link": "Комьюнити - сценеры шутят.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Комьюнити_-_сценеры_шутят"
+  },
+  {
+    "article_id": 18241,
+    "article_url": "https://zxpress.ru/article.php?id=18241",
+    "print_url": "https://zxpress.ru/print.php?id=18241",
+    "title_link": "Код - этюды: вызов процедур по списку адресов.",
+    "order": 8,
+    "issue_label": "12",
+    "short_slug": "Код_-_этюды_вызов_процедур_по_списку_адресов"
+  },
+  {
+    "article_id": 18242,
+    "article_url": "https://zxpress.ru/article.php?id=18242",
+    "print_url": "https://zxpress.ru/print.php?id=18242",
+    "title_link": "Код - 3D демы на ZX Spectrum: история развития 3д движков.",
+    "order": 9,
+    "issue_label": "12",
+    "short_slug": "Код_-_3D_демы_на_ZX_Spectrum_история_развития_3д_движков"
+  },
+  {
+    "article_id": 18243,
+    "article_url": "https://zxpress.ru/article.php?id=18243",
+    "print_url": "https://zxpress.ru/print.php?id=18243",
+    "title_link": "Код - 3D движок: оптимизация на прообразе 3D Construction Kit.",
+    "order": 10,
+    "issue_label": "12",
+    "short_slug": "Код_-_3D_движок_оптимизация_на_прообразе_3D_Construction_Kit"
+  },
+  {
+    "article_id": 18244,
+    "article_url": "https://zxpress.ru/article.php?id=18244",
+    "print_url": "https://zxpress.ru/print.php?id=18244",
+    "title_link": "Код - 3D движок: фрагменты.",
+    "order": 11,
+    "issue_label": "12",
+    "short_slug": "Код_-_3D_движок_фрагменты"
+  },
+  {
+    "article_id": 18245,
+    "article_url": "https://zxpress.ru/article.php?id=18245",
+    "print_url": "https://zxpress.ru/print.php?id=18245",
+    "title_link": "Код - Посекторный движок для 3D-шутера от Destr.",
+    "order": 12,
+    "issue_label": "12",
+    "short_slug": "Код_-_Посекторныи_движок_для_3D-шутера_от_Destr"
+  },
+  {
+    "article_id": 18246,
+    "article_url": "https://zxpress.ru/article.php?id=18246",
+    "print_url": "https://zxpress.ru/print.php?id=18246",
+    "title_link": "Код - 3D скролл на ZX Spectrum (часть 1).",
+    "order": 13,
+    "issue_label": "12",
+    "short_slug": "Код_-_3D_скролл_на_ZX_Spectrum_часть_1"
+  },
+  {
+    "article_id": 18247,
+    "article_url": "https://zxpress.ru/article.php?id=18247",
+    "print_url": "https://zxpress.ru/print.php?id=18247",
+    "title_link": "Код - 3D скролл на ZX Spectrum: реализация (часть 2).",
+    "order": 14,
+    "issue_label": "12",
+    "short_slug": "Код_-_3D_скролл_на_ZX_Spectrum_реализация_часть_2"
+  },
+  {
+    "article_id": 18248,
+    "article_url": "https://zxpress.ru/article.php?id=18248",
+    "print_url": "https://zxpress.ru/print.php?id=18248",
+    "title_link": "Графика - графические редакторы: Старый софт от Alone Coder'а.",
+    "order": 15,
+    "issue_label": "12",
+    "short_slug": "Графика_-_графические_редакторы_Старыи_софт_от_Alone_Coderа"
+  },
+  {
+    "article_id": 18249,
+    "article_url": "https://zxpress.ru/article.php?id=18249",
+    "print_url": "https://zxpress.ru/print.php?id=18249",
+    "title_link": "Графика - палитра: Палитровые эффекты в играх.",
+    "order": 16,
+    "issue_label": "12",
+    "short_slug": "Графика_-_палитра_Палитровые_эффекты_в_играх"
+  },
+  {
+    "article_id": 18250,
+    "article_url": "https://zxpress.ru/article.php?id=18250",
+    "print_url": "https://zxpress.ru/print.php?id=18250",
+    "title_link": "Музыка - биперные движки: Двоичная модуляция (часть 1).",
+    "order": 17,
+    "issue_label": "12",
+    "short_slug": "Музыка_-_биперные_движки_Двоичная_модуляция_часть_1"
+  },
+  {
+    "article_id": 18251,
+    "article_url": "https://zxpress.ru/article.php?id=18251",
+    "print_url": "https://zxpress.ru/print.php?id=18251",
+    "title_link": "Музыка - биперные движки: Двоичная модуляция (часть 1).",
+    "order": 18,
+    "issue_label": "12",
+    "short_slug": "Музыка_-_биперные_движки_Двоичная_модуляция_часть_1"
+  },
+  {
+    "article_id": 18252,
+    "article_url": "https://zxpress.ru/article.php?id=18252",
+    "print_url": "https://zxpress.ru/print.php?id=18252",
+    "title_link": "Системки - история операционной системы CP/M для Спектрума (часть 1).",
+    "order": 19,
+    "issue_label": "12",
+    "short_slug": "Системки_-_история_операционнои_системы_CPM_для_Спектрума_ча"
+  },
+  {
+    "article_id": 18253,
+    "article_url": "https://zxpress.ru/article.php?id=18253",
+    "print_url": "https://zxpress.ru/print.php?id=18253",
+    "title_link": "Системки - история операционной системы CP/M для Спектрума: ограничения (часть 2).",
+    "order": 20,
+    "issue_label": "12",
+    "short_slug": "Системки_-_история_операционнои_системы_CPM_для_Спектрума_ог"
+  },
+  {
+    "article_id": 18254,
+    "article_url": "https://zxpress.ru/article.php?id=18254",
+    "print_url": "https://zxpress.ru/print.php?id=18254",
+    "title_link": "Системки - NedoLang: Начало - самый простой процедурный язык (часть 1).",
+    "order": 21,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_Начало_-_самыи_простои_процедурныи_язык"
+  },
+  {
+    "article_id": 18255,
+    "article_url": "https://zxpress.ru/article.php?id=18255",
+    "print_url": "https://zxpress.ru/print.php?id=18255",
+    "title_link": "Системки - NedoLang: Путь к самокомпиляции (часть 2).",
+    "order": 22,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_Путь_к_самокомпиляции_часть_2"
+  },
+  {
+    "article_id": 18256,
+    "article_url": "https://zxpress.ru/article.php?id=18256",
+    "print_url": "https://zxpress.ru/print.php?id=18256",
+    "title_link": "Системки - NedoLang: Проклятие языка Си (часть 3).",
+    "order": 23,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_Проклятие_языка_Си_часть_3"
+  },
+  {
+    "article_id": 18257,
+    "article_url": "https://zxpress.ru/article.php?id=18257",
+    "print_url": "https://zxpress.ru/print.php?id=18257",
+    "title_link": "Системки - NedoLang: Памяти под самокомпиляцию не хватало (часть 4).",
+    "order": 24,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_Памяти_под_самокомпиляцию_не_хватало_час"
+  },
+  {
+    "article_id": 18258,
+    "article_url": "https://zxpress.ru/article.php?id=18258",
+    "print_url": "https://zxpress.ru/print.php?id=18258",
+    "title_link": "Системки - NedoLang: ускорение (часть 5).",
+    "order": 25,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_ускорение_часть_5"
+  },
+  {
+    "article_id": 18259,
+    "article_url": "https://zxpress.ru/article.php?id=18259",
+    "print_url": "https://zxpress.ru/print.php?id=18259",
+    "title_link": "Системки - NedoLang: Куда плыть дальше (часть 6).",
+    "order": 26,
+    "issue_label": "12",
+    "short_slug": "Системки_-_NedoLang_Куда_плыть_дальше_часть_6"
+  },
+  {
+    "article_id": 18260,
+    "article_url": "https://zxpress.ru/article.php?id=18260",
+    "print_url": "https://zxpress.ru/print.php?id=18260",
+    "title_link": "Металлолом - Знакомьтесь, ATM-turbo 3! ATM-turbo 3 (v8.0) -\r\n что это такое и с чем его едят.",
+    "order": 27,
+    "issue_label": "12",
+    "short_slug": "Металлолом_-_Знакомьтесь_ATM-turbo_3_ATM-turbo_3_v80_-_что_э"
+  },
+  {
+    "article_id": 18261,
+    "article_url": "https://zxpress.ru/article.php?id=18261",
+    "print_url": "https://zxpress.ru/print.php?id=18261",
+    "title_link": "Металлолом - Из истории Betadisk'а: Дисковый интерфейс от Technology\r\nResearch был.",
+    "order": 28,
+    "issue_label": "12",
+    "short_slug": "Металлолом_-_Из_истории_Betadiskа_Дисковыи_интерфеис_от_Tech"
+  },
+  {
+    "article_id": 18262,
+    "article_url": "https://zxpress.ru/article.php?id=18262",
+    "print_url": "https://zxpress.ru/print.php?id=18262",
+    "title_link": "Дикий ум - Компрессия: Первые компрессоры графики на Speccy (часть 1).",
+    "order": 29,
+    "issue_label": "12",
+    "short_slug": "Дикии_ум_-_Компрессия_Первые_компрессоры_графики_на_Speccy_ч"
+  },
+  {
+    "article_id": 18263,
+    "article_url": "https://zxpress.ru/article.php?id=18263",
+    "print_url": "https://zxpress.ru/print.php?id=18263",
+    "title_link": "Дикий ум - Компрессия: Фичи с эвристикой, Потоковая декомпрессия, Сжатие музыки (часть 2).",
+    "order": 30,
+    "issue_label": "12",
+    "short_slug": "Дикии_ум_-_Компрессия_Фичи_с_эвристикои_Потоковая_декомпресс"
+  },
+  {
+    "article_id": 18264,
+    "article_url": "https://zxpress.ru/article.php?id=18264",
+    "print_url": "https://zxpress.ru/print.php?id=18264",
+    "title_link": "Игрушки - От редакции: 2017-й год вышел очень богатым на события.",
+    "order": 31,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_От_редакции_2017-и_год_вышел_очень_богатым_на_собы"
+  },
+  {
+    "article_id": 18265,
+    "article_url": "https://zxpress.ru/article.php?id=18265",
+    "print_url": "https://zxpress.ru/print.php?id=18265",
+    "title_link": "Игрушки - интервью с автором игры Mickey the Basic game (Sergio).",
+    "order": 32,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_интервью_с_автором_игры_Mickey_the_Basic_game_Serg"
+  },
+  {
+    "article_id": 18266,
+    "article_url": "https://zxpress.ru/article.php?id=18266",
+    "print_url": "https://zxpress.ru/print.php?id=18266",
+    "title_link": "Игрушки - квест \"Неожиданное Путешествие\" - взгляд изнутри.",
+    "order": 33,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_квест_Неожиданное_Путешествие_-_взгляд_изнутри"
+  },
+  {
+    "article_id": 18267,
+    "article_url": "https://zxpress.ru/article.php?id=18267",
+    "print_url": "https://zxpress.ru/print.php?id=18267",
+    "title_link": "Игрушки - Nomad: интервью с автором скролл-шутера Nomad (Hippiman).",
+    "order": 34,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_Nomad_интервью_с_автором_скролл-шутера_Nomad_Hippi"
+  },
+  {
+    "article_id": 18268,
+    "article_url": "https://zxpress.ru/article.php?id=18268",
+    "print_url": "https://zxpress.ru/print.php?id=18268",
+    "title_link": "Игрушки - Скроллинг в Evo SDK.",
+    "order": 35,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_Скроллинг_в_Evo_SDK"
+  },
+  {
+    "article_id": 18269,
+    "article_url": "https://zxpress.ru/article.php?id=18269",
+    "print_url": "https://zxpress.ru/print.php?id=18269",
+    "title_link": "Игрушки - Hints & Tips: Mickey, Nomad.",
+    "order": 36,
+    "issue_label": "12",
+    "short_slug": "Игрушки_-_Hints_Tips_Mickey_Nomad"
+  },
+  {
+    "article_id": 18270,
+    "article_url": "https://zxpress.ru/article.php?id=18270",
+    "print_url": "https://zxpress.ru/print.php?id=18270",
+    "title_link": "Мыльница - Errata: ошибки в Info Guide #11, ACNews #65.",
+    "order": 37,
+    "issue_label": "12",
+    "short_slug": "Мыльница_-_Errata_ошибки_в_Info_Guide_11_ACNews_65"
+  },
+  {
+    "article_id": 18271,
+    "article_url": "https://zxpress.ru/article.php?id=18271",
+    "print_url": "https://zxpress.ru/print.php?id=18271",
+    "title_link": "Письма - отзывы о журнале от: raver, destr, sirx, survivor, Ellvis, Utz и Николая Амосова.",
+    "order": 38,
+    "issue_label": "12",
+    "short_slug": "Письма_-_отзывы_о_журнале_от_raver_destr_sirx_survivor_Ellvi"
+  },
+  {
+    "article_id": 18272,
+    "article_url": "https://zxpress.ru/article.php?id=18272",
+    "print_url": "https://zxpress.ru/print.php?id=18272",
+    "title_link": "Об авторах - Авторы журнала.",
+    "order": 39,
+    "issue_label": "12",
+    "short_slug": "Об_авторах_-_Авторы_журнала"
+  }
+]

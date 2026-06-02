@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "B",
+  "issue_date_iso": "1994-10-01",
+  "order": 15,
+  "article_id": 16908,
+  "title_link": "Есть такое мнение! - Сделай книгу сам или болезнь сиквела.",
+  "title_h1": "200 B - Есть такое мнение! - Сделай книгу сам или болезнь сиквела.",
+  "print_url": "https://zxpress.ru/print.php?id=16908",
+  "article_url": "https://zxpress.ru/article.php?id=16908",
+  "fetched_at": "2026-05-31T21:29:12Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 241,
+  "magazine_name": "World in the Web",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-01-28",
+  "order": 1,
+  "article_id": 12790,
+  "title_link": "Вступление - Идея создания этой газеты посетила нас после небольшой\r\nтусовки самых видных синклеристов нашего города.",
+  "title_h1": "World in the Web 01 - Вступление - Идея создания этой газеты посетила нас после небольшой тусовки самых видных синклеристов нашего города.",
+  "print_url": "https://zxpress.ru/print.php?id=12790",
+  "article_url": "https://zxpress.ru/article.php?id=12790",
+  "fetched_at": "2026-05-31T23:17:54Z"
+}

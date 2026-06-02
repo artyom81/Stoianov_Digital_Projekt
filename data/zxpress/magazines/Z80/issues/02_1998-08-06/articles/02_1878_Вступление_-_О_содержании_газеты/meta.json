@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-08-06",
+  "order": 2,
+  "article_id": 1878,
+  "title_link": "Вступление - О содержании газеты...",
+  "title_h1": "#Z80 02 - Вступление - О содержании газеты...",
+  "print_url": "https://zxpress.ru/print.php?id=1878",
+  "article_url": "https://zxpress.ru/article.php?id=1878",
+  "fetched_at": "2026-05-31T21:28:22Z"
+}

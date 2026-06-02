@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 1289,
+    "article_url": "https://zxpress.ru/article.php?id=1289",
+    "print_url": "https://zxpress.ru/print.php?id=1289",
+    "title_link": "Coding - Как кодить оптимально: генерация синус-таблицы, вывод атрибутного черно/белого спрайта.",
+    "order": 1,
+    "issue_label": "0A",
+    "short_slug": "Coding_-_Как_кодить_оптимально_генерация_синус-таблицы_вывод"
+  },
+  {
+    "article_id": 1292,
+    "article_url": "https://zxpress.ru/article.php?id=1292",
+    "print_url": "https://zxpress.ru/print.php?id=1292",
+    "title_link": "Games of Millennium - Игры по мотивам фильма Renegade (Отступник).",
+    "order": 2,
+    "issue_label": "0A",
+    "short_slug": "Games_of_Millennium_-_Игры_по_мотивам_фильма_Renegade_Отступ"
+  },
+  {
+    "article_id": 1284,
+    "article_url": "https://zxpress.ru/article.php?id=1284",
+    "print_url": "https://zxpress.ru/print.php?id=1284",
+    "title_link": "Вступление - Ах, вот я...",
+    "order": 3,
+    "issue_label": "0A",
+    "short_slug": "Вступление_-_Ах_вот_я"
+  },
+  {
+    "article_id": 1293,
+    "article_url": "https://zxpress.ru/article.php?id=1293",
+    "print_url": "https://zxpress.ru/print.php?id=1293",
+    "title_link": "Голос из могилы - Loki: Super Spectrum или Sprinter 80-ых?",
+    "order": 4,
+    "issue_label": "0A",
+    "short_slug": "Голос_из_могилы_-_Loki_Super_Spectrum_или_Sprinter_80-ых"
+  },
+  {
+    "article_id": 1287,
+    "article_url": "https://zxpress.ru/article.php?id=1287",
+    "print_url": "https://zxpress.ru/print.php?id=1287",
+    "title_link": "Злоба дня - CC'999: мы же Вас предупреждали...",
+    "order": 5,
+    "issue_label": "0A",
+    "short_slug": "Злоба_дня_-_CC999_мы_же_Вас_предупреждали"
+  },
+  {
+    "article_id": 1288,
+    "article_url": "https://zxpress.ru/article.php?id=1288",
+    "print_url": "https://zxpress.ru/print.php?id=1288",
+    "title_link": "Злоба дня - F.A....Q",
+    "order": 6,
+    "issue_label": "0A",
+    "short_slug": "Злоба_дня_-_FAQ"
+  },
+  {
+    "article_id": 1285,
+    "article_url": "https://zxpress.ru/article.php?id=1285",
+    "print_url": "https://zxpress.ru/print.php?id=1285",
+    "title_link": "Новости - Ожидание CC'999 хуже самого CC'999.",
+    "order": 7,
+    "issue_label": "0A",
+    "short_slug": "Новости_-_Ожидание_CC999_хуже_самого_CC999"
+  },
+  {
+    "article_id": 1286,
+    "article_url": "https://zxpress.ru/article.php?id=1286",
+    "print_url": "https://zxpress.ru/print.php?id=1286",
+    "title_link": "Обзор - Обзор новинок: Forever, Heresy #1, Helicopter, Pussy.",
+    "order": 8,
+    "issue_label": "0A",
+    "short_slug": "Обзор_-_Обзор_новинок_Forever_Heresy_1_Helicopter_Pussy"
+  },
+  {
+    "article_id": 1294,
+    "article_url": "https://zxpress.ru/article.php?id=1294",
+    "print_url": "https://zxpress.ru/print.php?id=1294",
+    "title_link": "Приложение - Работы с CC'99: Apocalips, Eclipse, Absent.",
+    "order": 9,
+    "issue_label": "0A",
+    "short_slug": "Приложение_-_Работы_с_CC99_Apocalips_Eclipse_Absent"
+  }
+]

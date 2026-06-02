@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "1997-03-04",
+  "order": 11,
+  "article_id": 2851,
+  "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 3).",
+  "title_h1": "ZX-News 23 - Юмор - \"Штирлиц - русский SysOp\" (глава 3).",
+  "print_url": "https://zxpress.ru/print.php?id=2851",
+  "article_url": "https://zxpress.ru/article.php?id=2851",
+  "fetched_at": "2026-05-31T23:28:59Z"
+}

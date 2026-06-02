@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6310,
+    "article_url": "https://zxpress.ru/article.php?id=6310",
+    "print_url": "https://zxpress.ru/print.php?id=6310",
+    "title_link": "Эхо - Обзор писем читателей газеты: Beard, Space5, DarkMax.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Эхо_-_Обзор_писем_читателеи_газеты_Beard_Space5_DarkMax"
+  },
+  {
+    "article_id": 6311,
+    "article_url": "https://zxpress.ru/article.php?id=6311",
+    "print_url": "https://zxpress.ru/print.php?id=6311",
+    "title_link": "Система - Организация почты в C-DOS v1.32.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Система_-_Организация_почты_в_C-DOS_v132"
+  },
+  {
+    "article_id": 6312,
+    "article_url": "https://zxpress.ru/article.php?id=6312",
+    "print_url": "https://zxpress.ru/print.php?id=6312",
+    "title_link": "Алгоритмы - Подпрограммы связанные с выводом на экран: переход к предыдущему символу по экранному адресу, переход на следующую экранную линию, переход к предыдущей линии экрана, как определить адрес атрибута для заданного символа с координатами XY, переход к следующей строке атрибутов. Быстрая процедура умножения.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Алгоритмы_-_Подпрограммы_связанные_с_выводом_на_экран_перехо"
+  },
+  {
+    "article_id": 6313,
+    "article_url": "https://zxpress.ru/article.php?id=6313",
+    "print_url": "https://zxpress.ru/print.php?id=6313",
+    "title_link": "Железо - Гальвоническая развязка с телефонной линией в C-DOS модеме.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Железо_-_Гальвоническая_развязка_с_телефоннои_линиеи_в_C-DOS"
+  },
+  {
+    "article_id": 6314,
+    "article_url": "https://zxpress.ru/article.php?id=6314",
+    "print_url": "https://zxpress.ru/print.php?id=6314",
+    "title_link": "Мозаика - Спектрум в Internet.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Мозаика_-_Спектрум_в_Internet"
+  },
+  {
+    "article_id": 6315,
+    "article_url": "https://zxpress.ru/article.php?id=6315",
+    "print_url": "https://zxpress.ru/print.php?id=6315",
+    "title_link": "BRAVO на отдых - Рассказы : Автобус, Ода комару.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "BRAVO_на_отдых_-_Рассказы_Автобус_Ода_комару"
+  },
+  {
+    "article_id": 6316,
+    "article_url": "https://zxpress.ru/article.php?id=6316",
+    "print_url": "https://zxpress.ru/print.php?id=6316",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

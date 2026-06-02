@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16969,
+    "article_url": "https://zxpress.ru/article.php?id=16969",
+    "print_url": "https://zxpress.ru/print.php?id=16969",
+    "title_link": "От авторов - Итак, добро пожаловать в первый номер нашей, так сказать, газеты!",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "От_авторов_-_Итак_добро_пожаловать_в_первыи_номер_нашеи_так"
+  },
+  {
+    "article_id": 16970,
+    "article_url": "https://zxpress.ru/article.php?id=16970",
+    "print_url": "https://zxpress.ru/print.php?id=16970",
+    "title_link": "Интервью - Screamer.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Интервью_-_Screamer"
+  },
+  {
+    "article_id": 16971,
+    "article_url": "https://zxpress.ru/article.php?id=16971",
+    "print_url": "https://zxpress.ru/print.php?id=16971",
+    "title_link": "Ньюсы - Сенсационное известие! Бабы сценерам дают!!!",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Ньюсы_-_Сенсационное_известие_Бабы_сценерам_дают"
+  },
+  {
+    "article_id": 14491,
+    "article_url": "https://zxpress.ru/article.php?id=14491",
+    "print_url": "https://zxpress.ru/print.php?id=14491",
+    "title_link": "Реклама - Любой Soft для Вас и Вашего ZX 48-256.Есть все!",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_Любои_Soft_для_Вас_и_Вашего_ZX_48-256Есть_все"
+  },
+  {
+    "article_id": 11810,
+    "article_url": "https://zxpress.ru/article.php?id=11810",
+    "print_url": "https://zxpress.ru/print.php?id=11810",
+    "title_link": "Вступление - системные требования к компьютеру.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_системные_требования_к_компьютеру"
+  },
+  {
+    "article_id": 4641,
+    "article_url": "https://zxpress.ru/article.php?id=4641",
+    "print_url": "https://zxpress.ru/print.php?id=4641",
+    "title_link": "Дебют - прохождение \"Castle Master\" - игра, которую отличает трехмерная закрашенная графика и \r\nобилие головоломок.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Дебют_-_прохождение_Castle_Master_-_игра_которую_отличает_тр"
+  },
+  {
+    "article_id": 7911,
+    "article_url": "https://zxpress.ru/article.php?id=7911",
+    "print_url": "https://zxpress.ru/print.php?id=7911",
+    "title_link": "Семь и 1/2 - Армейские маразмы.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Семь_и_12_-_Армеиские_маразмы"
+  },
+  {
+    "article_id": 2207,
+    "article_url": "https://zxpress.ru/article.php?id=2207",
+    "print_url": "https://zxpress.ru/print.php?id=2207",
+    "title_link": "Post... - Письма читателей по поводу желания попить пивка...",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Post_-_Письма_читателеи_по_поводу_желания_попить_пивка"
+  }
+]

@@ -1,0 +1,187 @@
+KrNews 03 - Авторы - Об авторах и оболочке.
+┌──────────────────────────────────────┐
+│         Об авторах и оболочке        │
+└──────────────────────────────────────┘
+
+Создатели новой оболочки:
+
+         Coding:
+                 Viper/TechnoLab
+                 Creator/Sendest
+
+         Music:
+                 Chirkoff/Kurt
+
+         Remixed:
+                 Viper/TechnoLab
+
+         Gfx:    BUTTONS
+                 Angel/TechnoLab
+
+         Screen: DRAGON
+                 Mania/Sendest
+       
+         Viewer: FAST
+                 X-Trade
+
+         Tokens: C00L
+                 Viper/TechnoLab
+                
+   Эта  оболочка  написана   для  газеты
+Kr.News,   в   ней  используется  основа
+вьюера  от  X-TRADE, переработанная  для
+работы на SLOW RAM машинах  и работающая
+с  токенизированным  форматом  текста  +
+распаковка по прерываниям,  что позволя-
+ет сократить объем текста  как минимум в
+1.65-1.7 раз. В связи с тем,  что  текст
+проходит  обработку  не  менее  3!  раз,
+просьба проверять свои статьи на предмет
+грамматических, орфографических  и  иных
+ошибок.
+   В оболочке  используется  разбивка по
+статьям, как в журналах, но в отличии от
+них, подгрузок с диска не производится.
+
+   Используется курсор:
+    - Sinclair1 + mouse (в последующем)
+    - горячие клавиши (для текста)
+           q     - вверх
+           a     - вниз
+           o     - на страницу назад
+           p     - на страницу вперед
+           sp,ed - выход в оглавление
+           =<,b  - начало текста
+           >=,e  - конец текста
+           hidden keys...
+
+   Тормоз  с выходом  был вызван  сле-
+дующими причинами:
+1) сессия
+2) депакеры не хотели работать на пре-
+   рываниях
+3) не хотело работать на "Краснодарах"
+   и им подобных... :-)
+4) постоянная нехватка времени
+   @ cetera .
+
+   При  обнаружении  глюков  сообщайте
+Максу на рынок.
+
+   Оболочка  готова к  работе  с  мышью,
+осталась только  одна проблема - подклю-
+чить мышь!
+
+                VIPER
+
+             тел.579-936
+
+
+                . . .
+
+   Жарников Максим Михайлович (Маxx)
+   - редактор (may be main)
+       т. (262) 5-38-09 (с 18 до 23)
+353180 Краснодарский край
+               ст.Динская,
+               ул.Кирова, д.71
+
+                . . .
+
+
+   Рощупко Виктор Сергеевич ( VTS )
+   - пока что кодер :)
+   - а может быть и хардер...
+
+   telephone device not present :(((((
+
+353202 Краснодарский край
+               г.Краснодар
+               ст.Старокорсунская
+               ул.Степная, д.23
+
+                . . .
+
+
+
+  Кроме вышеуказанных почтовых адресов 
+с редакцией газеты можно также связаться
+по электронной почте:
+
+FIDO:   2:5063/44.5
+Kostya Levichev    <-- PC
+Subj: to Maxx
+
+2:5063/5.10
+Pavel Gybsky       <-- AMIGA
+Subj: to Maxx   
+
+I-Net:  pechkin@prostokwashino.ru
+Subj: Посылка для дяди Maxx'a :)
+
+  HELLO'S FROM ALL:
+  -----------------
+  Viator/RUSH
+  Ironman/PUNGENCY
+  Rom Corp. /VVG
+  ELF/AYRUN/CPU
+  UVI/C.I.C.
+  ALOS
+  VALE
+  WERBOV K.
+  SCUM, BLAZ
+  D-Man/EI
+  Чирцов И./Dimentia Corp.
+  Коцарев А./Dream to Reality
+  Спашко В.
+  Sector/SSG.
+  Медноногов В.
+  Медноногов A.
+  Ruster
+  F.LORD, MOT, CARDYNAL/ACCEPT CO.
+  TIM, CONT/JVC
+  JOKER/AWS MAFIA PC
+  ALL/HELL RISERS
+  MIRON
+  ALL MEMBER'S of CONSUL PARTY'97/SOCHI
+  Dimka/Excess
+   all members of Exsess & Shark groups
+  captain Nemo
+  X-Trade
+
+
+  >Krasnodar:
+   VTS
+   Smart
+   Flint
+   Iron Alex
+   Alex
+   Alex Naz.
+   ALS
+   Striker(PC must die)
+   Nik-O
+   J.P.
+   Michael
+   Шурик/30гр.
+   AZURe
+   Kurt
+   Chirkoff
+   Striker
+   Amigo
+   Shadowman
+   GAS 13
+   Chip-ZX
+   Boss
+   Mr.Mulch
+   Dax
+   Jime Jee
+   N.Master
+   Petya
+   Mr.Linker  
+   Andy
+   Dragon
+   Костик-TV_repairer
+   ТЫ, читающий этот текст, 
+если ТЫ отсустствуешь выше...
+
+   etc...

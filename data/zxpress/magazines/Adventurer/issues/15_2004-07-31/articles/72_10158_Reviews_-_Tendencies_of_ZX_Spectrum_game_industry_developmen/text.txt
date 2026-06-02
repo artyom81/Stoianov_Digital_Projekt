@@ -1,0 +1,353 @@
+Adventurer 15 - Reviews - Tendencies of ZX Spectrum game industry development.
+Modern game making              
+Chasm/CyberPunks Unity          
+
+ Tendencies of Spectrum game
+ industry development
+
+During last few years the uprising
+interest for games and gamemaking
+became more evident, moreover,
+not only in Russia, but also Eastern
+and even Western Europe. In this
+article I want to follow the roots of
+this phenomenon and possible ten-
+dencies of its development and its
+place in the global Spectrum
+scene.
+
+Historically was defined, that to the
+1994 all major labels such as Ocean,
+Codemasters, Gremlin, etc. stoped
+their publishing activity on
+Spectrum and moved towards
+Amiga, PC and game consoles, that
+started to gain more and more popu-
+larity. Due to this fact, the softwa-
+re flow that joined Western Europe
+with its Eastern part and which was
+strong enough earlier, grew wea-
+ker and finally became extinct. I
+don't know exactly, how it was in
+other countries of former socia-
+lism, such as Poland, Slovakia,
+Chezh Republic, but I guess
+Spectrum (along with C64 and Amiga)
+remained the most popular compu-
+ter there till the mid 90-ies, and
+this can be proved by appearance of
+such games as "Twilight",
+"Quadrax", "Prva akcia", "Sher-
+wood", "Adventurer" between
+1990-1995, but we all can be sure
+that in Russia Spectrum till the end
+of 90-ies was the most popular com-
+puter with thousands of users. At
+first, it was defined by relatively
+low prices for Spectum clones, that
+were being produced with good suf-
+ficiency (some of them even on big
+national enterprises), besides, the
+prices for more progressive compu-
+ters were still high, and that's why
+most of people couldn't afford to
+buy those expensive toys. For
+example, prices for Amiga and PC va-
+ried between $300-1000, and a good
+working Pentagon, Scorpion costed
+about $20-100, of course, depen-
+ding on its configuration.
+As it is known, the most part of com-
+puter users are gamers, so the
+main software sales for Spectrum in
+ex-USSR were being kept by games.
+At the beginning, it were games that
+couldn't reach Russia from Europe
+earlier, and later, games, made by
+Russians. Of course, the major part
+of gamers dreamt about more
+"powerful" machines, which could
+allow to play more progressive
+games, comparing with those which
+were available for ordinary
+spectrumist till the mid 90-ies,
+exactly this fact pushed the most of
+gamemakers to make game conver-
+sions of popular games, as it could
+bring not only mental pleasure, but
+also real money. We can remember
+success of such games as "UFO 1,
+2", "Prince of Persia", "Mortal
+Kombat", "Black Raven" (with its
+prototype -Warcraft) and others,
+however, some original develop-
+ments gained certain popularity -
+"Star Inheritance" and its clones,
+"Kolobok Zoom", "Pussy",
+"Technodrom", "Last Hero of Light
+Force". To the end of 90-ies there
+was a situation, when second hand
+pc's became cheaper, and also game
+consoles as such as SPS, 3DO and Sa-
+turn, it made some Spectum users
+leave, and due to this the Russian
+Spectrum game industry grew wea-
+ker and weaker, cos it couldn't find
+a customer with enough of money. It
+can be described with the following
+table and diagramm, that shows the
+amount of games, released between
+1990 and 2003.
+
+╔══╦══╦══╦══╦══╦══╦══╦══╦══╦══╦══╦══╦══╦══╦══╗
+║Y.║90║91║92║93║94║95║96║97║98║99║00║01║02║03║
+╠══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══╣
+║N.║03║07║08║17║33║81║57║39║33║31║21║16║11║09║
+╚══╩══╩══╩══╩══╩══╩══╩══╩══╩══╩══╩══╩══╩══╩══╝
+
+
+
+And now here we came to the analy-
+sis of current sutuation, that appe-
+ared in the world Spectrum game in-
+dustry. In the beginning of new mil-
+lennium, there were very few game
+releases, however, the activity of
+Studio Stall and Action, who possess
+the persistance and continued to
+make games one after another, is an
+exclusion. Other coders and prog-
+rammers were being held by demos-
+cene.
+
+This situation resulted in a contest,
+held by Perspective Group in the be-
+ginning of 2002 and which pushed
+many programmers to develop their
+games. By the end, there was relea-
+sed a good compilation of interes-
+ting Spectrum games. Perspective
+decided not to stop and continued
+their activity by releasing a new
+game by Action - "Imperia 2", ho-
+wever, this action didn't succeed
+due to the low quality of the game
+(the publisher didn't check whether
+it is possible to play or not), and so
+free version of the game appeared
+in Internet.
+
+In the beginning of 2003 Simon Ully-
+att from UK founds his label - Crono-
+soft, oriented towards gamemaking
+for retro machines such as
+Spectrum, ZX81, C64, Vic 20, Oric,
+Sord M5, Dragon 32 and so on. Cur-
+rently this label distributes follo-
+wing games for Spectrum: "Egghead
+in Space"; "Football Glory"; four
+games pack: "Zblast SD", "Scrolly
+Stack", "Dotathon 2" and "Soli-
+yawn"; "Rough Justice"; "Gloop! ";
+"FlashBeer"; "Hop'n, 'Chop"; "Wan-
+ted Dead or Alive". However, I sho-
+uld mention the relatively high (com-
+paring with Russian) price -
+1.5-2.99 pounds and the fact, that
+all these games are released only on
+tape (due to the multiple versions of
+different DOS), but it must be appre-
+ciated that Simon Ullyatt looks after
+the quality of released pro-
+ducts.
+
+Now I'll try to analize the motiva-
+tion that keeps gamemakers relea-
+se games. Let's begin with "Rus-
+sians". As I've read before, that
+it's almost improssible to gain any
+money for your project. So, what
+does make them carry their ideas
+thru titanically difficuilt work? Elf
+asked a few people with this ques-
+tion on CAFe'2003. And it appears
+that the main aspect in gamemaking
+is to be pleased with having your
+OWN game for Spectrum. Having
+read the letters from Simon Ullyatt
+and some forums at World of
+Spectrum, I suppose, that there is
+almost equal situation in Europe,
+cos the summs that author of the
+game gain from selling the project
+are very small and that's why I can
+conclude, that moral satisfaction
+can lead programmers into such ac-
+tions (it's a pleasure to hold the de-
+signed cassette with your own game
+in your hands), or possibly, the feel
+of nostalgy also affects, concerning
+the Shaw Brothers.
+
+To describe the situation more pre-
+cisely, we decidied to make a poll,
+asking people do they play games,
+what games and will they buy
+anything. 38 Spectrum lovers, acti-
+ve and not, ex-USSR and users ab-
+road were qestioned. Among them
+22 people do play Spectrum games,
+16 won't pay a penny for any game,
+though there were 3 ones, who wo-
+uld like to sponsor the game pro-
+jects and gamemakers' compos.
+Also, we wanted to learn the playing
+activity and tastes of players, and
+here are the statistics of answers
+on the question "When did you play a
+Spectrum game last time?":
+
+Yesterday - 4 
+3 days ago - 1
+a week ago - 5
+2 weeks ago - 1
+a month ago - 2
+2 months ago - 2
+3 months ago - 1
+4 months ago - 1
+6 months ago - 5
+a year ago - 3
+2 years ago - 3
+3 years ago - 1
+5 years ago - 1
+7 years ago - 1
+10 years ago - 1
+long time ago - 6
+
+As you can see, people still play
+Spectrum games and by the way,
+answers as "yesterday" and "a
+week ago" came mainly from ab-
+road. The most popular games are
+"Dizzy", "Dan Dare", "Black
+Raven", "Star Inheritance", "Your
+Game'02" compilation, "Lethargy"
+and "Pussy".
+
+Also, the poll results showed the
+image of a "perfect" game, which
+gamers would pay for. Russian lan-
+guage users are definately for ga-
+mes like "Star Inheritance" and
+"Black Raven" -they are certain
+hits, and as I can suppose, many of
+western gamers don't even know
+about these games. Also, the RPG
+games are popular, like "Moon
+Wind" and quality puzzles/logic
+games. Europeans prefer ac-
+tion/adventure games, "Dizzy" clo-
+nes in particular. There were also
+specific opinions: for example, one
+our native demands mandatory mou-
+se support, sound improvement
+(General Sound, DMA), HDD support
+and extended screen modes (for
+example, Profi screen). Though wo-
+uldn't pay more than 1-2 eur for
+such game :) Most of europeans are
+orthodox - 48kb+tape standart is a
+stable classics and every game sho-
+uld run on such hardware, though
+one of the respondents would buy
+"good games, with more than 500kb
+size on disk, with mouse support,
+512kb memory and ZXVGS mode". But
+one thing that is common for every-
+one - the game genre is not impor-
+tant, it's only need to be a NEW game
+for Spectrum, professionally made
+with a good screenplay.
+
+Finally, some words for distribu-
+tors and developers. As time has
+showed, commercial distribution of
+games on the territory of the for-
+mer USSR is almost unreal, cos the
+majority of Spectrum users don'
+want to pay money and prefer to
+wait for free or crack releases of
+games. Speaking about buying ga-
+mes released by Cronosoft by Rus-
+sian gamers I can say only one
+thing, and this can seem too pity for
+our western mates, - nobody would
+pay more than 1,5-3 eur for games
+of the 80-ies' technical level, and a
+tape version in addition. I realise,
+that for western retrogamers it's
+not so high price for the nostalgy,
+but for our consumers, spoilt by
+progressive games, its beyond the
+sense, cos even "Your Game'02"
+compilation and "Imperia 2", surely
+made on a high technical level
+(higher, than all Cronosoft rele-
+ases), were seld in not more than 30
+copies on a price of 3 eur.
+each.
+
+Some words for western game deve-
+lopers - if you want your products
+to be seen in ex-USSR, you should
+make a free release, or distribute
+your game thru Perspective label,
+which would spread your game in
+TR-DOS version, and can't count on
+any profit.
+
+As the poll made among russian ga-
+memakers showed, they don't even
+think about commercial distribution
+of their games, cos they un-
+derstand that nobody would pay,
+and getting only moral satisfaction
+from realizing, that many people
+can play their game (for example,
+Slip^Action said, that he wrote a
+game and gave an agreement for
+commercial distribution of his game
+in the game pack only because he
+wanted Spectrumists get acquain-
+ted with his novel, based on "Impe-
+ria 2").
+
+However, we shouldn't forget about
+the european Spectrum users -the
+strong TR-DOS attachment and rus-
+sian language don't let them enjoy
+amazing games in a full scape, cos
+the only possibility to play these
+games is the usage of emulator with
+a total misunderstanding of rus-
+sian, as like as we when playing the
+games, with incomprehensible for
+the most russians izquierda, de-
+recha, arriba, abajo, fuego. To
+make 128kb game with a tape loader
+and to translate a game isn't so
+hard (for example, it can easily be
+made with "Lethargy" by Studion
+Stall). Then you can ask Cronosoft
+about distribution and then to plea-
+se yourself with knowing that YOUR
+game is available for every real
+machine user all over the world. Mo-
+reover, as Simon Ullyatt says, you
+won't lose the possibility to spread
+your game in any way you'd like to
+make it with royalties from every
+copy sold by Cronosoft.
+
+So, retrogaming still alive & Speccy
+never die!!!

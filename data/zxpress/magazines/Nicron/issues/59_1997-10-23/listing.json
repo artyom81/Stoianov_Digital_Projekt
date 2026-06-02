@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6850,
+    "article_url": "https://zxpress.ru/article.php?id=6850",
+    "print_url": "https://zxpress.ru/print.php?id=6850",
+    "title_link": "Вступление - стихи и содержание номера.",
+    "order": 1,
+    "issue_label": "59",
+    "short_slug": "Вступление_-_стихи_и_содержание_номера"
+  },
+  {
+    "article_id": 6851,
+    "article_url": "https://zxpress.ru/article.php?id=6851",
+    "print_url": "https://zxpress.ru/print.php?id=6851",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "59",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6852,
+    "article_url": "https://zxpress.ru/article.php?id=6852",
+    "print_url": "https://zxpress.ru/print.php?id=6852",
+    "title_link": "Интервью - интервью с Дионисом Георгисом, Генеральным директором \"Движения 'F'.",
+    "order": 3,
+    "issue_label": "59",
+    "short_slug": "Интервью_-_интервью_с_Дионисом_Георгисом_Генеральным_директо"
+  },
+  {
+    "article_id": 6853,
+    "article_url": "https://zxpress.ru/article.php?id=6853",
+    "print_url": "https://zxpress.ru/print.php?id=6853",
+    "title_link": "Разное - фрагменты эхоконференции FIDO о фестивале Enlight'97.",
+    "order": 4,
+    "issue_label": "59",
+    "short_slug": "Разное_-_фрагменты_эхоконференции_FIDO_о_фестивале_Enlight97"
+  },
+  {
+    "article_id": 6854,
+    "article_url": "https://zxpress.ru/article.php?id=6854",
+    "print_url": "https://zxpress.ru/print.php?id=6854",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 5,
+    "issue_label": "59",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6855,
+    "article_url": "https://zxpress.ru/article.php?id=6855",
+    "print_url": "https://zxpress.ru/print.php?id=6855",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "59",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6856,
+    "article_url": "https://zxpress.ru/article.php?id=6856",
+    "print_url": "https://zxpress.ru/print.php?id=6856",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "59",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

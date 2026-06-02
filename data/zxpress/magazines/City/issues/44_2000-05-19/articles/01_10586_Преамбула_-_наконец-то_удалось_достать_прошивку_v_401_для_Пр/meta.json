@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "44",
+  "issue_date_iso": "2000-05-19",
+  "order": 1,
+  "article_id": 10586,
+  "title_link": "Преамбула - наконец-то удалось достать прошивку v. 4.01 для ПрофПЗУ.",
+  "title_h1": "City 44 - Преамбула - наконец-то удалось достать прошивку v. 4.01 для ПрофПЗУ.",
+  "print_url": "https://zxpress.ru/print.php?id=10586",
+  "article_url": "https://zxpress.ru/article.php?id=10586",
+  "fetched_at": "2026-05-31T21:51:58Z"
+}

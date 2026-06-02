@@ -1,0 +1,986 @@
+Info Guide 13 - Wild - тетрис в 256 байт и змейка размером 55 байт
+Плотность кода
+Alone Coder
+Как вы помните, в
+Inferno #3
+Shiru
+опу─
+бликовал
+Snake
+длиной в
+255
+байт, а в
+Info
+Guide #10
+я опубликовал  упрощённый
+Snake
+длиной
+121
+байт. Он был написан на кодах
+калькулятора
+Basic 48
+и казался довольно
+плотным.
+   Однако  потом
+Firestarter
+предложил со─
+вершенно новый алгоритм
+Snake.
+Он писал не
+в редакцию,он написал на
+Хабр,
+а потом тут
+же удалил статью. Но сам исходник сохрани─
+лся.
+   Игра  занимала
+93
+байта, а работала она
+так. Все  "кролики" разбрасываются по полю
+уже в начале уровня и хранятся непосредст─
+венно  в атрибутах экрана. Массива с коор─
+динатами  змейки тоже нет, есть только го─
+лова, которая двигается и рисуется опреде─
+лённым  кодом атрибута, означающим "взрос─
+лость" змеи. Каждый игровой кадр уменьшаю─
+тся  коды  атрибутов на всём игровом поле,
+кроме  пустых мест и кроликов. Получается,
+что  за  головой  остаётся след - "хвост",
+столкновение  с которым заканчивается пла─
+чевно. Чем  змея  "взрослее", тем  длиннее
+этот  хвост. А если она выросла до опреде─
+лённого  уровня, соответствующего  полному
+отсутствию кроликов на поле, то игра начи─
+нается сначала (но смысла в этом нет).
+   Таким образом,нужно только написать эф─
+фективный код генерации кроликов, проверки
+клетки в позиции будущей головы,декремента
+цвета с одновременным подсчётом кроликов и
+опроса клавиш.
+
+   После  того, как
+Firestarter
+забросил
+проект  и  исчез,  исходник  оптимизировал
+krt17.
+У  него  получилось
+85
+байт при том
+же поведении. Но было видно, что
+85
+байт -
+не  предел. Тем более,что известно, что на
+IBM PC
+игра
+Snake
+в версии от
+Jin X
+зани─
+мает
+64
+байта, а
+Nibbles
+(змея,которая ра─
+стёт всегда, без кроликов и движения хвос─
+та) с конкурса
+Hugi compo
+- всего
+48
+байт.
+   После  предварительного  ознакомления с
+версией от
+krt17
+я выиграл несколько байт
+за  счёт  смены порядка кусков кода. Потом
+учёл регистры при вызове из Бейсика.Но это
+было  не самое главное сокращение. Код оп─
+роса клавиш остался довольно жирным (пожа─
+луй, жирнее,чем в моём
+Snake121
+). И я по─
+ступил самым радикальным способом - клави─
+ши  управления  выбраны таким образом, что
+переводятся  в  дельту  перемещения головы
+наиболее коротко:
+sub (hl):ld c,a:sbc a,a:
+ld b,a.
+Для этого пришлось выбрать доволь─
+но  оригинальные  клавиши управления -
+","
+влево,
+"."
+вправо,
+ENTER
+вверх,
+M
+вниз.
+Результат того стоил -
+55
+байт, трепещите,
+писюканцы!
+   В последний момент я обнаружил,что мож─
+но выиграть ещё пару байт,если обслуживать
+столкновение с хвостом, который ещё сущес─
+твует, но  уже виден как чёрный. Так что в
+исходнике можно переключить два варианта -
+55
+байт и
+53
+байта!
+;Alone Coder 53/55 bytes 10.11.2020
+;from  basic:
+;de=0x5d83/5dcc, hl=0x2d2b, bc=start
+;from TR-DOS RUN "..." CODE:
+;de=0x5d83, hl=0x2d2b, bc=start
+l1
+ld d,0x5b
+if 1==0 ;55 bytes
+ld a,(hl)
+inc a
+cp 9
+jr nc,restart
+;collided with visible
+;tail
+else ;53 bytes
+;a=0xff in most cases
+add a,(hl)
+cp d
+;0x5b
+jr c,restart
+;collided with visible
+;or invisible tail
+endif
+ld a,h
+inc a
+and 00000011b
+;screen margin
+jr nz,norestart
+restart
+;at restart: e=0xff, d=0x5b
+ld h,d
+;0x5b
+rabbit1
+ld a,r
+ld (hl),e
+;0xff
+cpl
+jr z,rabbit2
+inc (hl)
+;0x00
+rabbit2
+dec hl
+bit 3,h
+jr nz,rabbit1
+;l=0xff
+;bc=direction (delta)
+inc h
+;0x58
+norestart
+ld (hl),0x2d
+;0x21 ;head
+;, LEFT
+;. RIGHT
+;ENTER UP
+;M DOWN
+ld a,(23560)
+sub (hl)
+;0x2d
+ld c,a
+sbc a a
+ld b,a
+;bc=1/-1/32/-32
+;ld d,0x5a
+move1
+ld a,(de)
+dec a
+cp 0xfe
+jr nc,move2
+;was 0xff = rabbit
+;or 0x00 = empty
+ld (de),a
+;move snake
+;(decrease colour)
+move2
+jr nz,move3
+dec (hl)
+;was 0xff = uneaten rabbit,
+;so decrease snake size
+;(head color)
+move3
+dec de
+bit 6,d
+jr nz,move1
+;e=0xff
+;d=0x3f
+add hl,bc
+jr l1
+* * *
+Пожалуй, самым  коротким  Тетрисом  для
+Спектрума
+долгое время был
+Impetris
+- пла─
+гин для
+ACEdit.
+Занимал он
+745
+байт, кидал
+цветные  фигуры, показывал следующую, счи─
+тал  очки  (они  даже прыгали на экране) и
+даже  ускорялся  по  мере прохождения. Что
+касается  прыгающих очков и ускорения, это
+было  довольно излишне в этом классе, да и
+остальное  выглядит необязательным для ре─
+корда. А  рекорд  на
+IBM PC
+к настоящему
+времени  опустился ниже
+256
+байт (без под─
+счёта очков).
+   А что можем сделать мы?
+   За  основу я взял не
+Impetris,
+а Тетрис
+из
+NedoOS.
+Там  был  довольно  рыхлый, но
+очень понятный код, до этого написанный за
+два часа в качестве обучалки. Работу я вёл
+на стриме, точнее,на двух стримах - поско─
+льку  Тетрис действительно неплох для обу─
+чения ассемблеру.
+   Что я, например, делал:
+  -
+заменил координаты фигуры на адрес.
+-
+объединил процедуры отрисовки,стирания
+и проверки.
+-
+объединил  процедуры
+storeposition
+и
+restoreposition.
+-
+сократил опрос клавиш до минимума.
+-
+оптимизировал  поиск и удаление полных
+линий (вопреки интуиции,
+CPIR
+не помог!)
+Я закончил  стримить, когда  достиг
+256
+байт. Но не мог решить, оставить ли стенки
+(их  отсутствие  приводило  к зацикливанию
+поля  и  невозможности  показать счёт). Но
+потом мне подсказали простую процедуру пе─
+чати, а  ещё  пришло  в  голову  несколько
+идей, так  что  финальная версия влезает в
+256
+байт  вместе с показом счёта, то есть
+получается лучше, чем версия для
+IBM PC!
+Обратите внимание:игра рассчитывает,что
+в  начале  буфера  принтера
+(0x5b00)
+лежат
+нули, как это положено на
+48K
+машине. Кро─
+ме того, опять-таки, как там положено, эк─
+ран  залит  атрибутом
+0x38.
+Память  после
+программы тоже считается пустой.
+   Фигуры занимают
+1
+байт на каждую, кроме
+последней, а  первые две даже используются
+в качестве параметра
+jp.
+Стенки  находятся на расстоянии
+16
+зна─
+комест  друг  от  друга, чтобы рисовать их
+одним циклом,а не двумя (дно гарантируется
+буфером принтера).
+   И в это даже можно играть!
+;Alone Coder 02,28.12.2020
+;48K or usr0 only!
+;(0x5b00..5b1f must be clean)
+SCORE=1
+WALLS=1
+if WALLS
+fieldwid=16
+else
+fieldwid=32
+endif
+fieldhgt=24
+fieldx=16-fieldwid/2
+fieldy=0
+addrDropFig=0x580c
+emptyattr=0x38
+newfig=%0110011011000110
+if WALLS
+;begin=0x6100-(fieldx-1)-16
+begin=newfig-13
+else
+begin=newfig
+endif
+display "begin=",begin,"=",/D,begin
+;hl=0x2d2b
+;de=0x5dxx
+;bc=begin
+;hx=0
+;iy=0x5c3a
+;bc'=0x1114
+;hl'=10072
+if WALLS
+xor a
+ld hl,0x5800+(fieldx-1)
+ld (hl),a
+ld de,0x5800+(fieldx-1)+fieldwid
+;ld b,2 ;bc,0x300-(fieldx-1)-32
+ld bc,0x300-(fieldx-1)-16
+ldir
+;newfig
+endif
+if (WALLS == 0) && (SCORE == 1)
+ld (iy+86),0xff
+endif
+ld a,r
+and 7
+ld hl,figs
+add a,l
+ld l,a
+xor a
+ld de,curfig
+ld (de),a
+inc de
+ld b,3
+;-
+rld
+ld (de),a
+inc de ;e
+djnz $-4
+ld hl,addrDropFig
+ld (curxy),hl
+gameloop
+ld a,prfig_pixel&0xff
+;proc addr
+call prfig_curxy
+halt
+halt
+halt
+ld a,prfig_clearpixel&0xff
+;procaddr
+call prfig_curxy
+;nz!!!
+call storeposition_ldir
+;bc=0
+ld hl,(curxy)
+ld (oldcurxy),hl
+ld hl,(curxy)
+xor a
+;z!
+in a,(0xfe)
+rra
+;'q'
+jr c,$+3
+dec l
+rra
+;'w'
+jr c,$+3
+inc l
+;rra ;'e'
+;jr nc,godown ;bug with right+down!!
+nodown
+jr nz,noautodown
+;left or right
+;pressed - don't fall
+exx
+rlc b
+;was 0x11, then random(?) with
+;few bits on
+exx
+jr nc,noautodown
+godown
+ld c,32
+;also flag for stopfig
+add hl,bc
+noautodown
+ld (curxy),hl
+rra
+;'e';'r'
+jr c,norotfig
+ld hl,curfig
+ld sp,hl
+pop bc
+pop de
+ld sp,hl
+rotfig0
+xor a
+rr c
+rla
+rr b
+rla
+rr e
+rla
+rr d
+rla
+ld (hl),a
+inc l
+jr nz,rotfig0
+ld c,l
+;0 ;or else rotation near a
+;wall can stop fig!!!
+norotfig
+ld lx,c
+;32=stopfig for godown,
+;0=no godown
+ld a,prfig_checkpixel&0xff
+;procaddr
+call prfig_curxy
+;z=collision
+call z,restoreposition
+;can't move
+;in that direction
+jr nz,gameloop
+;no collision
+;a=0
+cp lx
+;32=stopfig for godown,
+;0=no godown
+jr z,gameloop
+;collided not with gnd
+stopfig
+ld hl,(oldcurxy)
+ld a,prfig_pixel&0xff
+;proc addr
+call prfig
+;search a filled line from above
+;if found, shift down (with lddr)
+;ld hl,0x5800+fieldx-1
+;ld lx,fieldhgt
+ld hl,0x5a00+fieldx-1
+;only lowest 8
+;lines can be fired
+finddellines0
+xor a
+;for "or (hl)"
+ld b,fieldwid
+checkfilledline0
+inc hl
+or (hl)
+djnz checkfilledline0
+jr nz,finddellines_nofire
+;ld a,emptyattr
+;ld bc,fieldwid
+;cpir
+;jr z,finddellines_nofire ;extrabyte
+;hl=last byte of current line
+push hl
+ex de,hl
+ld hl,-32
+add hl,de
+ld a,h
+sub 0x58
+ld b,a
+ld c,l
+;bc=(y-1)*32
+;bc=hl-#5800=de-#5820
+lddr
+if SCORE
+inc hx
+ld c,hx
+ld a,22
+rst 16
+;requires iy=23610
+xor a
+rst 16
+rst 16
+;call 11563
+;call 11747
+call 0x1a1b
+;print bc
+endif
+pop hl
+finddellines_nofire
+;ld de,32-fieldwid
+;add hl,de
+;xor a ;for "or (hl)" in next line
+;dec lx
+;jr nz,finddellines0
+ld a,l
+add a,32-fieldwid
+ld l,a
+jr nc,finddellines0
+if SCORE
+;ld b,hx ;lines fired (0..4)
+;inc a ;ld c,1 ;if there are fired
+;lines, c=0 (if there aren't,
+;c<<256 = 0)
+;add a,a
+;djnz $-1 ;a=2,4,8,16
+;exx
+;add a,h
+;ld h,a
+;exx
+;ld c,a
+;ld a,22
+;rst 16 ;requires iy=23610
+;xor a
+;rst 16
+;rst 16
+;call 11563 ;6683
+;call 11747 ;-
+endif
+;if WALLS
+;jp newfig
+;else
+db 0xc3
+;endif
+figs
+display "figs=",figs
+db %11000110
+;zigzag2
+db %01100110
+;square
+db %00110110
+;zigzag1
+db %11110000
+;I
+db %00101110
+;L
+db %01000111
+;J
+db %01001110
+;T
+db %01001110
+;T (8 figs)
+nfigs=($-figs)
+display "nfigs=",nfigs
+restoreposition
+;z
+ld hl,(oldcurxy)
+ld (curxy),hl
+storeposition_ldir
+restoreposition_ldir
+;nz=store
+;z=restore
+ld bc,4
+ld de,curfig
+ld hl,oldcurfig
+jr z,$+3
+ex de,hl
+ldir
+prfig_clearpixel
+ld (hl),emptyattr
+ret
+prfig_pixel
+ld (hl),0
+prfig_checkpixel
+and (hl)
+ret
+prfig_curxy
+ld hl,(curxy)
+prfig
+;NC!!!
+ld (prfig_calladdr),a
+or h
+;(a&8) != 0
+ld de,curfig
+prfig_lines
+ex de,hl
+ld b,(hl)
+;%0000pppp
+set 4,b
+;%0001pppp
+ex de,hl
+prfig_pixels
+prfig_calladdr=$+1
+call c,prfig_pixel
+inc hl
+;x
+srl b
+;pixel
+jr nz,prfig_pixels
+ld c,32-5
+add hl,bc
+inc e
+jr nz,prfig_lines
+or a
+ret
+end
+;это конец файла игры!
+curxy
+dw 0
+oldcurxy
+dw 0
+align 256
+ds 256-4
+curfig
+ds 4
+nop
+;for spoiling
+oldcurfig
+ds 4
+* * *
+Многие  видели  исходник  рейтрейса  на
+Бейсике, который  считает два шарика
+8
+ча─
+сов. Этот исходник промелькнул в Интернете
+в
+2018
+году и исчез, но заставил задумать─
+ся: а на какую скорость можно рассчитывать
+на ассемблере, и можно ли вписать рендер в
+1
+килобайт (жанр процедурной графики)?
+Для проверки я поступил следующим обра─
+зом:
+  -
+сначала  переписал  этот рендер на
+C++
+Builder
+и получил правильную картинку.
+-
+потом  заменил флоаты на 32-битные це─
+лые числа.
+-
+потом  переписал код для совместимости
+с
+NedoLang.
+-
+перенёс  код  в
+NedoLang
+и допилил до
+работоспособности.
+-
+процедуры,скомпилированные
+NedoLang'ом
+в ассемблер, оптимизировал одну за другой.
+-
+определил нужные диапазоны чисел и пе─
+реписал всё на 16-битные целые.
+-
+только после этого стал загонять в ки─
+лобайт с учётом компрессора
+(Hrum
+оказался
+лучше, чем
+MegaLZ
+) и добавлять мелкие оп─
+тимизации, чтобы  оказаться на грани. Пос─
+ледней  оптимизацией  был расчёт "на лету"
+квадратов, за пределы которых точно не вы─
+ходят  шарики. (Я не стал вбивать эти раз─
+меры железно и даже сделал версию с анима─
+цией.)
+Итак,мой результат (демонстрировался на
+Дне Космонавтики
+в
+2019
+году): ровно
+1024
+байта,  менее
+71
+секунды  на  Пентагоне.
+Ускорение  в
+400
+раз при том же разрешении
+256x176,
+что и в оригинале!
+Интересно,что
+Daniel A.Nagy
+тоже прово─
+дил  такой  же эксперимент, но использовал
+свою  библиотеку 2-байтных флоатов
+(lpfp).
+Его  версия  занимает  в  упакованном виде
+около
+4
+килобайт и рендерит экран более
+5
+минут, с качеством совсем чуть-чуть лучше,
+чем в наших 16-битных целых...
+   Сохраню  свою версию на память в прило─
+жении. Цветная  версия  есть в репозитории
+NedoOS.
+Может быть, кто-то сможет ускорить
+или  придумает  полезное  применение этому
+рейтрейсу?
+* * *
+На
+Hugi compo
+было ещё несколько инте─
+ресных size compo:
+  -
+вычисление выражений с
++-*/
+, скобками
+и унарными
++-
+(
+117
+байт)
+-
+игра
+Pong
+(
+142
+байта)
+-
+игра
+"крестики-нолики"
+(
+213
+байт)
+-
+игра
+Sokoban
+с  заданной  картой (
+189
+байт)
+-
+интерпретатор
+brainfuck
+(
+98
+байт)
+-
+поиск  простых чисел  до миллиона (
+76
+байт)
+Известны также рекорды по размерам шах─
+матных  программ  (несколько версий меньше
+512
+байт, качество игры которых ещё пред─
+стоит сравнить) и по размеру выводилки ло─
+готипа
+Unix
+(
+http://www.deater.net/weave/
+vmwprod/asm/ll/ll.html
+-  правда, код для
+Z80
+там написан из рук вон плохо).
+Обычно
+x86
+выигрывает  у  всех других
+процессоров. Но означает ли это,что нельзя
+придумать  более  плотную  систему команд?
+Конечно, нет.  Там  довольно  много  битов
+тратится  на  указание  номеров регистров,
+адресов и ширины слова. Сам размер байта в
+8
+бит тоже не обязательно идеален. Команды
+могут быть короче, вплоть до
+4
+бит на сте─
+ковом процессоре.
+   Я проводил  такой  эксперимент в газете
+ACNews #59;
+потом допиливал этот движок,но
+так и не использовал;потом пробовал писать
+стековый процессор с 4-битными командами и
+для
+FPGA.
+Последняя моя мысль по интерпретируемо─
+му стековому процессору выглядела так (со─
+вершенно  не  проверена  на  работоспособ─
+ность):
+;для условий,выходов и ветвлений 3 команды
+; jrNC N, ifZ{scf}
+;для математики 4 команды
+; sub, add, sub1, inc(+rcf)
+;для стека 3 команды
+; push(dup), pop(skip), swap
+;для переменных 4 команды:
+; getvar N, putvar N, peek8, poke8
+;для  управления  3 команды
+; callr N, ret, z80
+(z80 позволяет дальше писать машинный код)
+;входим в скрипт по rst #10,для этого надо
+;патчить адрес в описателе канала #5cb6
+;(#5d26 в TR-DOS)
+;104b:
+_startscript
+pop hl
+;skip #15fe (return from call
+;#162c)
+pop hl
+;restore hl'
+exx
+;de=вершина стека
+pop hl
+;address after RST #10
+_callq:
+ld c,0x55
+_getcmd:
+ld a,(hl)
+rlc c
+jr nc,$+2+5
+;первый раз не сдвигаем
+rrca
+rrca
+rrca
+rrca
+inc hl
+and 15
+ret z
+;0=ret ;флаги сейчас в f',
+;на выходе из call они достанутся
+ld b,a
+push hl
+;return addr
+ld l,(hl)
+;read 8bit
+djnz _ncall
+;1 ;call N
+;лежит в конце байта, так что сейчас
+;c=0x55, hl=следующий байт
+call jphl
+;jp (hl);call machine code
+;procedure ;на выходе флаги в f'
+_popincq
+;флаги сейчас в f'
+pop hl
+;return addr после call-ret
+inc hl
+;skip 8bit
+jr _callq
+;можно переделать на
+;push bc... pop bc (медленнее, но
+;делает ex af,af')
+_ncall:
+ld h,vars/256
+djnz _nputvar
+;2 ; putvar N: (var)<=reg (не удаляем его,
+;а то лишний pop)
+;лежит в конце байта, так что сейчас
+;c=0x55, hl=следующий байт
+ld (hl),e
+inc hl
+ld (hl),d
+jr _popincq
+;не получается выбросить
+_nputvar:
+djnz _ngetvar
+;3 ; getvar N: reg<=(var) (затираем старый
+;TOS, а то лишний push - а без него можно
+;объединить ветки)
+;лежит в конце байта, так что сейчас
+;c=0x55, hl=следующий байт
+ld e,(hl)
+inc hl
+ld d,(hl)
+jr _popincq
+_ngetvar:
+pop hl
+ex af,af'
+;flags
+djnz _njrnc
+;4
+jr c,_getcmd
+ld l,(hl)
+_njrnc:
+djnz _npush
+;5
+push de
+_npush:
+djnz _npop
+;6
+pop de
+_npop:
+djnz _nswap
+;7
+ex de,hl
+ex (sp),hl
+ex de,hl
+_nswap:
+ex (sp),hl
+djnz _nsub
+;8 ;reg<=pop-reg-CY ;_oldminusnew
+sbc hl,de
+_nsub:
+djnz _nadd
+;9 ;reg<=reg+pop
+add hl,de
+_nadd:
+djnz _nsub1
+;A ;sub1
+scf
+ld d,b
+;0
+ld e,b
+;0
+sbc hl,de
+_nsub1:
+ex de,hl
+pop hl
+djnz _ninc
+;B ;inc(+rcf)
+inc de
+or a
+_ninc:
+djnz _npeek8
+;C ;peek8 ;можно сделать h<-l<-(hl)?
+ld l,(hl)
+ld h,b
+;0
+_npeek8:
+djnz _npoke8
+;D ;poke8
+ld a,l
+pop hl
+ld (hl),a
+_npoke8:
+djnz _nifzscf
+;E ;ifZ{scf}
+jr nz,_nifzscf
+scf
+_nifzscf:
+ex af,af'
+;flags
+djnz _getcmd
+;F ;z80 - нет выхода в _getcmd
+;лежит в конце байта, так что сейчас
+;c=0x55, hl=следующий байт
+jp (hl)
+Мы, конечно, не  верим в фантастические
+цифры типа
+"Код для M-машины был в три-че─
+тыре  раза меньше кода для PDP-11 и i8086,
+в  два-три  раза  меньше кода для Motorola
+68000 и в полтора-два раза меньше кода для
+National Semiconductor 32000",
+но чем чёрт
+не  шутит? Ведь  команды  могут  быть даже
+плавающей  длины. А  если  вообще заточить
+процессор  на  определённую задачу (напри─
+мер, матричные  вычисления), то  программа
+под  него может быть вдвое меньше, чем для
+обычных CPU:
+https://
+nabbla1.livejournal.com/234532.html
+Но вопрос:если бы вы не зависели от те─
+кущих  систем  команд и готовых компилято─
+ров, а сами проектировали процессор,то ка─
+кую систему команд бы вы предложили? Авто─
+ры
+RISC-V
+утверждают,что несмотря на прос─
+тую систему команд, они достигли плотности
+кода  не хуже
+x86.
+Так ли это на самом де─
+ле? Можно  ли как-то доказать "почти-опти─
+мальность" системы  команд  по размеру для
+типичных задач? Например,что больше чем на
+10%
+уже не сократить при заданных ограни─
+чениях (скажем, не более
+256
+команд)?
+   Пишите свои мысли!

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 73,
+    "article_url": "https://zxpress.ru/article.php?id=73",
+    "print_url": "https://zxpress.ru/print.php?id=73",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2118,
+    "article_url": "https://zxpress.ru/article.php?id=2118",
+    "print_url": "https://zxpress.ru/print.php?id=2118",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2117,
+    "article_url": "https://zxpress.ru/article.php?id=2117",
+    "print_url": "https://zxpress.ru/print.php?id=2117",
+    "title_link": "Застрял ? - Описание игры Sacred Sword (La Espada Sagrada).",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Застрял_-_Описание_игры_Sacred_Sword_La_Espada_Sagrada"
+  },
+  {
+    "article_id": 2116,
+    "article_url": "https://zxpress.ru/article.php?id=2116",
+    "print_url": "https://zxpress.ru/print.php?id=2116",
+    "title_link": "Мозаика - Cheat'ы к программам : Darkman, Welcom Pres 1.",
+    "order": 4,
+    "issue_label": "42",
+    "short_slug": "Мозаика_-_Cheatы_к_программам_Darkman_Welcom_Pres_1"
+  },
+  {
+    "article_id": 2120,
+    "article_url": "https://zxpress.ru/article.php?id=2120",
+    "print_url": "https://zxpress.ru/print.php?id=2120",
+    "title_link": "Новье !? - О программах: Super Cars, Darkman, La Abadia Del Crunen.",
+    "order": 5,
+    "issue_label": "42",
+    "short_slug": "Новье_-_О_программах_Super_Cars_Darkman_La_Abadia_Del_Crunen"
+  },
+  {
+    "article_id": 2119,
+    "article_url": "https://zxpress.ru/article.php?id=2119",
+    "print_url": "https://zxpress.ru/print.php?id=2119",
+    "title_link": "Презентация - Командер нового поколения - DOS v1.9, Turbo Assembler v4.0,\r\n Rock Disk Service v3.1.",
+    "order": 6,
+    "issue_label": "42",
+    "short_slug": "Презентация_-_Командер_нового_поколения_-_DOS_v19_Turbo_Asse"
+  },
+  {
+    "article_id": 2115,
+    "article_url": "https://zxpress.ru/article.php?id=2115",
+    "print_url": "https://zxpress.ru/print.php?id=2115",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "42",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

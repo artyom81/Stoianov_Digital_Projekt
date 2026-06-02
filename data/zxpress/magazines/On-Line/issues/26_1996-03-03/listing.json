@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 71,
+    "article_url": "https://zxpress.ru/article.php?id=71",
+    "print_url": "https://zxpress.ru/print.php?id=71",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2041,
+    "article_url": "https://zxpress.ru/article.php?id=2041",
+    "print_url": "https://zxpress.ru/print.php?id=2041",
+    "title_link": "IBM - IBM + Эмулятор = ZX Spectrum.",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "IBM_-_IBM_Эмулятор_ZX_Spectrum"
+  },
+  {
+    "article_id": 2043,
+    "article_url": "https://zxpress.ru/article.php?id=2043",
+    "print_url": "https://zxpress.ru/print.php?id=2043",
+    "title_link": "ONLopros - Результаты опроса 100 пользователей ZXNet.",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "ONLopros_-_Результаты_опроса_100_пользователеи_ZXNet"
+  },
+  {
+    "article_id": 2042,
+    "article_url": "https://zxpress.ru/article.php?id=2042",
+    "print_url": "https://zxpress.ru/print.php?id=2042",
+    "title_link": "Застрял ? - Новелла-проходилка по игре \"48 Утюгов\" часть 2.",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "Застрял_-_Новелла-проходилка_по_игре_48_Утюгов_часть_2"
+  },
+  {
+    "article_id": 2040,
+    "article_url": "https://zxpress.ru/article.php?id=2040",
+    "print_url": "https://zxpress.ru/print.php?id=2040",
+    "title_link": "Мозаика - Cheat'ы к играм : Super Bike Tranz am, Twin Turbo v8,\r\n Blazing Thunder. LPT-Covox для Scorpion'ов. Конкурс: разработка текстово-графического сканера.",
+    "order": 5,
+    "issue_label": "26",
+    "short_slug": "Мозаика_-_Cheatы_к_играм_Super_Bike_Tranz_am_Twin_Turbo_v8_B"
+  },
+  {
+    "article_id": 2039,
+    "article_url": "https://zxpress.ru/article.php?id=2039",
+    "print_url": "https://zxpress.ru/print.php?id=2039",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "26",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

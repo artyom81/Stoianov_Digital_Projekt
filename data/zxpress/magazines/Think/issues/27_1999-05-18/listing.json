@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 4263,
+    "article_url": "https://zxpress.ru/article.php?id=4263",
+    "print_url": "https://zxpress.ru/print.php?id=4263",
+    "title_link": "От автора - Скоро защита диплома...",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "От_автора_-_Скоро_защита_диплома"
+  },
+  {
+    "article_id": 4264,
+    "article_url": "https://zxpress.ru/article.php?id=4264",
+    "print_url": "https://zxpress.ru/print.php?id=4264",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4265,
+    "article_url": "https://zxpress.ru/article.php?id=4265",
+    "print_url": "https://zxpress.ru/print.php?id=4265",
+    "title_link": "Обзор новинок - Козел, Dark Square (demo), Iron Attack (demo).",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "Обзор_новинок_-_Козел_Dark_Square_demo_Iron_Attack_demo"
+  },
+  {
+    "article_id": 4266,
+    "article_url": "https://zxpress.ru/article.php?id=4266",
+    "print_url": "https://zxpress.ru/print.php?id=4266",
+    "title_link": "Миниатюры - Короткие рассказы Кира Булычева.",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "Миниатюры_-_Короткие_рассказы_Кира_Булычева"
+  },
+  {
+    "article_id": 4267,
+    "article_url": "https://zxpress.ru/article.php?id=4267",
+    "print_url": "https://zxpress.ru/print.php?id=4267",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 5,
+    "issue_label": "27",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4268,
+    "article_url": "https://zxpress.ru/article.php?id=4268",
+    "print_url": "https://zxpress.ru/print.php?id=4268",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "53",
+  "issue_date_iso": "2001-05-14",
+  "order": 1,
+  "article_id": 13595,
+  "title_link": "Преамбула - Вот и вышел в свет 53-й выпуск нашей газеты.",
+  "title_h1": "City 53 - Преамбула - Вот и вышел в свет 53-й выпуск нашей газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=13595",
+  "article_url": "https://zxpress.ru/article.php?id=13595",
+  "fetched_at": "2026-05-31T21:52:30Z"
+}

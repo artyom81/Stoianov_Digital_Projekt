@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 7269,
+    "article_url": "https://zxpress.ru/article.php?id=7269",
+    "print_url": "https://zxpress.ru/print.php?id=7269",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "117",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7270,
+    "article_url": "https://zxpress.ru/article.php?id=7270",
+    "print_url": "https://zxpress.ru/print.php?id=7270",
+    "title_link": "Новости - программа Dr. Mario, обновление KAY-1024.",
+    "order": 2,
+    "issue_label": "117",
+    "short_slug": "Новости_-_программа_Dr_Mario_обновление_KAY-1024"
+  },
+  {
+    "article_id": 7271,
+    "article_url": "https://zxpress.ru/article.php?id=7271",
+    "print_url": "https://zxpress.ru/print.php?id=7271",
+    "title_link": "Софт - Тест интеллекта по Айзенку - теперь и на Спектруме!",
+    "order": 3,
+    "issue_label": "117",
+    "short_slug": "Софт_-_Тест_интеллекта_по_Аизенку_-_теперь_и_на_Спектруме"
+  },
+  {
+    "article_id": 7272,
+    "article_url": "https://zxpress.ru/article.php?id=7272",
+    "print_url": "https://zxpress.ru/print.php?id=7272",
+    "title_link": "Опрос - Анкета от Eternity Industry.",
+    "order": 4,
+    "issue_label": "117",
+    "short_slug": "Опрос_-_Анкета_от_Eternity_Industry"
+  },
+  {
+    "article_id": 7273,
+    "article_url": "https://zxpress.ru/article.php?id=7273",
+    "print_url": "https://zxpress.ru/print.php?id=7273",
+    "title_link": "События - demoparty Millennium и Paradox. Краткий отчет.",
+    "order": 5,
+    "issue_label": "117",
+    "short_slug": "События_-_demoparty_Millennium_и_Paradox_Краткии_отчет"
+  },
+  {
+    "article_id": 7274,
+    "article_url": "https://zxpress.ru/article.php?id=7274",
+    "print_url": "https://zxpress.ru/print.php?id=7274",
+    "title_link": "Юмор - анекдоты.",
+    "order": 6,
+    "issue_label": "117",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 7275,
+    "article_url": "https://zxpress.ru/article.php?id=7275",
+    "print_url": "https://zxpress.ru/print.php?id=7275",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "117",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7276,
+    "article_url": "https://zxpress.ru/article.php?id=7276",
+    "print_url": "https://zxpress.ru/print.php?id=7276",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "117",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  },
+  {
+    "article_id": 7277,
+    "article_url": "https://zxpress.ru/article.php?id=7277",
+    "print_url": "https://zxpress.ru/print.php?id=7277",
+    "title_link": "Софт - описание программы проверки интеллекта.",
+    "order": 9,
+    "issue_label": "117",
+    "short_slug": "Софт_-_описание_программы_проверки_интеллекта"
+  }
+]

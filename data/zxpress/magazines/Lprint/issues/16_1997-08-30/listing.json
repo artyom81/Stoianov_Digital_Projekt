@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12366,
+    "article_url": "https://zxpress.ru/article.php?id=12366",
+    "print_url": "https://zxpress.ru/print.php?id=12366",
+    "title_link": "От редакции - Использование материалов из\r\nгазеты без согласия редакции CТРОГО\r\nЗАПРЕЩЕНО.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "От_редакции_-_Использование_материалов_изгазеты_без_согласия"
+  },
+  {
+    "article_id": 12367,
+    "article_url": "https://zxpress.ru/article.php?id=12367",
+    "print_url": "https://zxpress.ru/print.php?id=12367",
+    "title_link": "Новости - Появились новые журналы: ZX-FORMAT 6 и ZX-POWER 2.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Новости_-_Появились_новые_журналы_ZX-FORMAT_6_и_ZX-POWER_2"
+  },
+  {
+    "article_id": 12368,
+    "article_url": "https://zxpress.ru/article.php?id=12368",
+    "print_url": "https://zxpress.ru/print.php?id=12368",
+    "title_link": "Личность - Краткие биографические справки на некоторые личности.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Личность_-_Краткие_биографические_справки_на_некоторые_лично"
+  },
+  {
+    "article_id": 12369,
+    "article_url": "https://zxpress.ru/article.php?id=12369",
+    "print_url": "https://zxpress.ru/print.php?id=12369",
+    "title_link": "Письма - Письмо от FileSof'а: отношение\r\nк Минским газетам.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Письма_-_Письмо_от_FileSofа_отношениек_Минским_газетам"
+  },
+  {
+    "article_id": 12370,
+    "article_url": "https://zxpress.ru/article.php?id=12370",
+    "print_url": "https://zxpress.ru/print.php?id=12370",
+    "title_link": "Календарь - Календарик юного любителя слушать что попало.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Календарь_-_Календарик_юного_любителя_слушать_что_попало"
+  },
+  {
+    "article_id": 12371,
+    "article_url": "https://zxpress.ru/article.php?id=12371",
+    "print_url": "https://zxpress.ru/print.php?id=12371",
+    "title_link": "Дискуссия - О наездах в газете.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Дискуссия_-_О_наездах_в_газете"
+  },
+  {
+    "article_id": 12372,
+    "article_url": "https://zxpress.ru/article.php?id=12372",
+    "print_url": "https://zxpress.ru/print.php?id=12372",
+    "title_link": "Отвлечемся - Худеть! С завтряшнего дня...",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Отвлечемся_-_Худеть_С_завтряшнего_дня"
+  },
+  {
+    "article_id": 12373,
+    "article_url": "https://zxpress.ru/article.php?id=12373",
+    "print_url": "https://zxpress.ru/print.php?id=12373",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 8,
+    "issue_label": "16",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

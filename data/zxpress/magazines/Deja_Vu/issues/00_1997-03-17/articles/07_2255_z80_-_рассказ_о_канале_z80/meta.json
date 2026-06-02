@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "1997-03-17",
+  "order": 7,
+  "article_id": 2255,
+  "title_link": "#z80 - рассказ о канале #z80",
+  "title_h1": "RIP 14 - #z80 - рассказ о канале #z80",
+  "print_url": "https://zxpress.ru/print.php?id=2255",
+  "article_url": "https://zxpress.ru/article.php?id=2255",
+  "fetched_at": "2026-05-31T21:53:58Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1998-07-18",
+  "order": 3,
+  "article_id": 354,
+  "title_link": "Новости - Spectrum новости из Питера",
+  "title_h1": "Micro 05 - Новости - Spectrum новости из Питера",
+  "print_url": "https://zxpress.ru/print.php?id=354",
+  "article_url": "https://zxpress.ru/article.php?id=354",
+  "fetched_at": "2026-05-31T22:25:18Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 17121,
+    "article_url": "https://zxpress.ru/article.php?id=17121",
+    "print_url": "https://zxpress.ru/print.php?id=17121",
+    "title_link": "Pokes - бессмертие к играми.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Pokes_-_бессмертие_к_играми"
+  },
+  {
+    "article_id": 17122,
+    "article_url": "https://zxpress.ru/article.php?id=17122",
+    "print_url": "https://zxpress.ru/print.php?id=17122",
+    "title_link": "Анонс - Сейчас немного о том что скоро появится!",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Анонс_-_Сеичас_немного_о_том_что_скоро_появится"
+  },
+  {
+    "article_id": 16604,
+    "article_url": "https://zxpress.ru/article.php?id=16604",
+    "print_url": "https://zxpress.ru/print.php?id=16604",
+    "title_link": "Опрос - Вашему вниманию предлагается опрос населения на тему конфигурации компьютера.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Опрос_-_Вашему_вниманию_предлагается_опрос_населения_на_тему"
+  },
+  {
+    "article_id": 5547,
+    "article_url": "https://zxpress.ru/article.php?id=5547",
+    "print_url": "https://zxpress.ru/print.php?id=5547",
+    "title_link": "Система - обзор системных программ: E-Mage Work Station, Sprite Editor, X-DOS, Chunks Graphics Editor, Firestarter Viewer, Steep Format, XAS 9.10, Exhume.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Система_-_обзор_системных_программ_E-Mage_Work_Station_Sprit"
+  },
+  {
+    "article_id": 5803,
+    "article_url": "https://zxpress.ru/article.php?id=5803",
+    "print_url": "https://zxpress.ru/print.php?id=5803",
+    "title_link": "COM-port & timer - Последовательный порт для Spectruma!!!",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "COM-port_timer_-_Последовательныи_порт_для_Spectruma"
+  },
+  {
+    "article_id": 1340,
+    "article_url": "https://zxpress.ru/article.php?id=1340",
+    "print_url": "https://zxpress.ru/print.php?id=1340",
+    "title_link": "Новости - Maxwell в Самаре.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Maxwell_в_Самаре"
+  },
+  {
+    "article_id": 3046,
+    "article_url": "https://zxpress.ru/article.php?id=3046",
+    "print_url": "https://zxpress.ru/print.php?id=3046",
+    "title_link": "От редакции - С Новым годом!\r\n Воспоминания о старых добрых временах.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_С_Новым_годом_Воспоминания_о_старых_добрых_вре"
+  }
+]

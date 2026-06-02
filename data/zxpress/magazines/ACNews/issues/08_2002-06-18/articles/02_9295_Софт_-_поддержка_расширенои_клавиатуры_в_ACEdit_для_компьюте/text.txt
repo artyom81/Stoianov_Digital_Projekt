@@ -1,0 +1,105 @@
+ACNews 08 - Софт - поддержка расширеной клавиатуры в ACEdit для компьютеров моделей "СПАРК" и "Аллофон".
+---------------------- Extend keyboard -------------------------
+
+   Я постоянно забывал написать, что за странный режим клавиату-
+ры поддерживается в ACE, начиная с версии 0.51.
+   (а поддерживается ли она? не проверил...)
+
+   Шайтан, ещё  до  того, как ушёл в армию, занимался переделкой
+редактора  под  разные раскладки. Раскладку номер 3 он делал для
+своего  компьютера. В своё время была распространена схема подк-
+лючения расширенной клавиатуры (дополнительные русские буквы) на
+неиспользованном 5 бите порта #fe. Впервые такая клавиатура поя-
+вилась на компьютерах моделей "СПАРК" и "Аллофон". Поддержка та-
+кой клавиатуры появилась ещё в первых версиях IS-DOS; там и мож-
+но найти её наиболее полное описание.
+
+EXTKEYB LD A,(FLGKEY+1)
+        INC A
+        AND 4
+        RET Z
+        LD A,#DF
+        IN A,(-2)
+        AND 32
+        LD D,A
+        LD A,-9
+        CALL INER
+        LD A,#EF
+        CALL INER
+        LD A,#BF
+        CALL INER
+        LD A,#7F
+        CALL INER
+        LD A,-3
+        CALL INER
+        LD A,-5
+        IN A,(-2)
+        AND 32
+        RLCA
+        RLCA
+        OR D
+        LD D,A
+        LD A,-2
+        IN A,(-2)
+        AND 32
+        RLCA
+        OR D
+        CPL
+        AND A
+        RET Z
+        LD E,-3
+        INC E,E,E
+        RRCA
+        JR NC,$-4
+        PUSH HL
+        LD HL,23658
+        LD A,#7F
+        IN A,(-2)
+        RRA
+        RRA
+        JR NC,ext3
+        INC E
+        LD A,-2
+        IN A,(-2)
+        RRA
+        JR NC,ext3
+       BIT 3,(HL) ;???
+        JR NZ,$+3
+        INC E
+ext3    LD D,0
+        BIT 0,(HL)
+        LD HL,D5TABR
+        JR Z,$+5
+        LD HL,D5TABL
+        ADD HL,DE
+        XOR A
+        OR (HL)
+        LD (23560),A
+        POP HL
+        HALT
+        HALT
+        RET
+INER    IN A,(-2)
+        AND 32
+        RRC D
+        OR D
+        LD D,A
+        RET
+
+        ;SS  CAP  NORM
+D5TABL  DEFB 34,34,34 ;dffe
+        DEFB "___     ;f7fe
+        DEFB "{[[     ;effe
+        DEFB "}]]     ;bffe
+        DEFB "|\     ;7ffe
+        DEFB "@``     ;fdfe
+        DEFB 7,7,7    ;fefe
+        DEFB "^^^     ;fbfe
+D5TABR  DEFB 34,"Хх
+        DEFB "_Ъъ
+        DEFB "{Жж
+        DEFB "}Ээ
+        DEFB "|Бб
+        DEFB "@Юю
+        DEFB 7,7,7
+        DEFB "^Ёё

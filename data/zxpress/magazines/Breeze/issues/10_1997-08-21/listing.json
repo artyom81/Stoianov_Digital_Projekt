@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 6024,
+    "article_url": "https://zxpress.ru/article.php?id=6024",
+    "print_url": "https://zxpress.ru/print.php?id=6024",
+    "title_link": "От авторов - Спектрум умирает, а PC рулит?",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "От_авторов_-_Спектрум_умирает_а_PC_рулит"
+  },
+  {
+    "article_id": 6025,
+    "article_url": "https://zxpress.ru/article.php?id=6025",
+    "print_url": "https://zxpress.ru/print.php?id=6025",
+    "title_link": "От авторов - о Севастопольских группах и новом обьединении спектрумистов \"Amazing\r\nSoftware Making\".",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "От_авторов_-_о_Севастопольских_группах_и_новом_обьединении_с"
+  },
+  {
+    "article_id": 6026,
+    "article_url": "https://zxpress.ru/article.php?id=6026",
+    "print_url": "https://zxpress.ru/print.php?id=6026",
+    "title_link": "Новости - новинки: Doom, Dragonia, Avenger, Great Gurianos, Cerius, Offtopic, Hip Hop, Treminal v2, Online 84-85.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Новости_-_новинки_Doom_Dragonia_Avenger_Great_Gurianos_Ceriu"
+  },
+  {
+    "article_id": 6027,
+    "article_url": "https://zxpress.ru/article.php?id=6027",
+    "print_url": "https://zxpress.ru/print.php?id=6027",
+    "title_link": "Новости - результаты опроса Спектрумистов: рейтинг популярности - Игры, Системные программы, Журналы, Железо и т.д.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Новости_-_результаты_опроса_Спектрумистов_реитинг_популярнос"
+  },
+  {
+    "article_id": 6028,
+    "article_url": "https://zxpress.ru/article.php?id=6028",
+    "print_url": "https://zxpress.ru/print.php?id=6028",
+    "title_link": "Новости - анонс свежих поступлений от Oberon Group.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Новости_-_анонс_свежих_поступлении_от_Oberon_Group"
+  },
+  {
+    "article_id": 6029,
+    "article_url": "https://zxpress.ru/article.php?id=6029",
+    "print_url": "https://zxpress.ru/print.php?id=6029",
+    "title_link": "Новости - Некролог по безвременно покинувшего ряды спектрумистов Deribas/Duke Soft Group.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Новости_-_Некролог_по_безвременно_покинувшего_ряды_спектруми"
+  },
+  {
+    "article_id": 6030,
+    "article_url": "https://zxpress.ru/article.php?id=6030",
+    "print_url": "https://zxpress.ru/print.php?id=6030",
+    "title_link": "Анонс - Что ждет спектрумовский мир в близжайшее время: Enlight 97, Spectrofon 22-23, партия всевозможных игр, журналов, demo из Запорожья и Челябинска.",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Анонс_-_Что_ждет_спектрумовскии_мир_в_близжаишее_время_Enlig"
+  },
+  {
+    "article_id": 6031,
+    "article_url": "https://zxpress.ru/article.php?id=6031",
+    "print_url": "https://zxpress.ru/print.php?id=6031",
+    "title_link": "Обо всем - интервью очень известной всем группой FLASH Inc.",
+    "order": 8,
+    "issue_label": "10",
+    "short_slug": "Обо_всем_-_интервью_очень_известнои_всем_группои_FLASH_Inc"
+  },
+  {
+    "article_id": 6032,
+    "article_url": "https://zxpress.ru/article.php?id=6032",
+    "print_url": "https://zxpress.ru/print.php?id=6032",
+    "title_link": "Обо всем - тексты с IBM: Андрей СМИРЯГИН - \"ОНА\".",
+    "order": 9,
+    "issue_label": "10",
+    "short_slug": "Обо_всем_-_тексты_с_IBM_Андреи_СМИРЯГИН_-_ОНА"
+  },
+  {
+    "article_id": 6033,
+    "article_url": "https://zxpress.ru/article.php?id=6033",
+    "print_url": "https://zxpress.ru/print.php?id=6033",
+    "title_link": "Org 3000 - и вновь о клавиатуре для ZX Spectrum: ЙЦУКЕН vs QWERTY.",
+    "order": 10,
+    "issue_label": "10",
+    "short_slug": "Org_3000_-_и_вновь_о_клавиатуре_для_ZX_Spectrum_ИЦУКЕН_vs_QW"
+  },
+  {
+    "article_id": 6034,
+    "article_url": "https://zxpress.ru/article.php?id=6034",
+    "print_url": "https://zxpress.ru/print.php?id=6034",
+    "title_link": "Рекалама - рекалама и обьявления.",
+    "order": 11,
+    "issue_label": "10",
+    "short_slug": "Рекалама_-_рекалама_и_обьявления"
+  }
+]

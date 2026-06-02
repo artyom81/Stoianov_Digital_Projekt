@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12599,
+    "article_url": "https://zxpress.ru/article.php?id=12599",
+    "print_url": "https://zxpress.ru/print.php?id=12599",
+    "title_link": "Вступление - Редакция газеты \"NICRON\"приносит свои извинения за запоздалый\r\nвыпуск газеты.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_Редакция_газеты_NICRONприносит_свои_извинения_з"
+  },
+  {
+    "article_id": 12600,
+    "article_url": "https://zxpress.ru/article.php?id=12600",
+    "print_url": "https://zxpress.ru/print.php?id=12600",
+    "title_link": "BBS info - здесь Вы узнаете о работающих BBS.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "BBS_info_-_здесь_Вы_узнаете_о_работающих_BBS"
+  },
+  {
+    "article_id": 12601,
+    "article_url": "https://zxpress.ru/article.php?id=12601",
+    "print_url": "https://zxpress.ru/print.php?id=12601",
+    "title_link": "Анекдоты - Развлекательная рубрика анекдоты.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Анекдоты_-_Развлекательная_рубрика_анекдоты"
+  },
+  {
+    "article_id": 12602,
+    "article_url": "https://zxpress.ru/article.php?id=12602",
+    "print_url": "https://zxpress.ru/print.php?id=12602",
+    "title_link": "Картинки - красивая ASCII графика.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Картинки_-_красивая_ASCII_графика"
+  },
+  {
+    "article_id": 12603,
+    "article_url": "https://zxpress.ru/article.php?id=12603",
+    "print_url": "https://zxpress.ru/print.php?id=12603",
+    "title_link": "Кусать подано - Праздничное меню для тех, кто хочет\r\nпоесть и выпить за наше здоровье.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Кусать_подано_-_Праздничное_меню_для_тех_кто_хочетпоесть_и_в"
+  },
+  {
+    "article_id": 12604,
+    "article_url": "https://zxpress.ru/article.php?id=12604",
+    "print_url": "https://zxpress.ru/print.php?id=12604",
+    "title_link": "UFO II - способ для увеличения ученых в игре UFO II.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "UFO_II_-_способ_для_увеличения_ученых_в_игре_UFO_II"
+  },
+  {
+    "article_id": 12605,
+    "article_url": "https://zxpress.ru/article.php?id=12605",
+    "print_url": "https://zxpress.ru/print.php?id=12605",
+    "title_link": "Реклама - А я все еще жду твоей рекламы!",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_А_я_все_еще_жду_твоеи_рекламы"
+  }
+]

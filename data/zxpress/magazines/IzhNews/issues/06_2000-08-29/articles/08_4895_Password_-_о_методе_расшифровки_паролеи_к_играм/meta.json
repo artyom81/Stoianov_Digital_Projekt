@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "2000-08-29",
+  "order": 8,
+  "article_id": 4895,
+  "title_link": "Password - о методе расшифровки паролей к играм.",
+  "title_h1": "IzhNews 06 - Password - о методе расшифровки паролей к играм.",
+  "print_url": "https://zxpress.ru/print.php?id=4895",
+  "article_url": "https://zxpress.ru/article.php?id=4895",
+  "fetched_at": "2026-05-31T22:15:34Z"
+}

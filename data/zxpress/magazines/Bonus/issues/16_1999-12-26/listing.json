@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 92,
+    "article_url": "https://zxpress.ru/article.php?id=92",
+    "print_url": "https://zxpress.ru/print.php?id=92",
+    "title_link": "Вступление - Сегодня 3 января двухтысячного года, я сижу за самым обычным столом, в\r\nсамой обычной квартире конца 90-х.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Вступление_-_Сегодня_3_января_двухтысячного_года_я_сижу_за_с"
+  },
+  {
+    "article_id": 10597,
+    "article_url": "https://zxpress.ru/article.php?id=10597",
+    "print_url": "https://zxpress.ru/print.php?id=10597",
+    "title_link": "News - Вся прошедшая неделя проходила под мнимым лозунгом \"Даешь хороший Интернет!\".",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "News_-_Вся_прошедшая_неделя_проходила_под_мнимым_лозунгом_Да"
+  },
+  {
+    "article_id": 10598,
+    "article_url": "https://zxpress.ru/article.php?id=10598",
+    "print_url": "https://zxpress.ru/print.php?id=10598",
+    "title_link": "Анекдоты - приколы, афоризмы и прочий отстой...",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Анекдоты_-_приколы_афоризмы_и_прочии_отстои"
+  },
+  {
+    "article_id": 10599,
+    "article_url": "https://zxpress.ru/article.php?id=10599",
+    "print_url": "https://zxpress.ru/print.php?id=10599",
+    "title_link": "Internet - \"Закон есть закон\".",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Internet_-_Закон_есть_закон"
+  },
+  {
+    "article_id": 10600,
+    "article_url": "https://zxpress.ru/article.php?id=10600",
+    "print_url": "https://zxpress.ru/print.php?id=10600",
+    "title_link": "Во что играем? - обзор спектрумовских игр недели.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Во_что_играем_-_обзор_спектрумовских_игр_недели"
+  },
+  {
+    "article_id": 10601,
+    "article_url": "https://zxpress.ru/article.php?id=10601",
+    "print_url": "https://zxpress.ru/print.php?id=10601",
+    "title_link": "Хи-Хи-Хит Парад - лучшая поп-пятерка песен.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Хи-Хи-Хит_Парад_-_лучшая_поп-пятерка_песен"
+  },
+  {
+    "article_id": 10602,
+    "article_url": "https://zxpress.ru/article.php?id=10602",
+    "print_url": "https://zxpress.ru/print.php?id=10602",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

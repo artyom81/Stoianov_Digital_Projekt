@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-12-31",
+  "order": 4,
+  "article_id": 495,
+  "title_link": "Обзор - О новинках программного обеспечения в г.Рыбинске : Octopus,\r\n Lords of Chaos, Pipe Dream, 48 Утюгов, Поле чудес. Лучшая десятка.",
+  "title_h1": "Adventurer 01 - Обзор - О новинках программного обеспечения в г.Рыбинске : Octopus,  Lords of Chaos, Pipe Dream, 48 Утюгов, Поле чудес. Лучшая десятка.",
+  "print_url": "https://zxpress.ru/print.php?id=495",
+  "article_url": "https://zxpress.ru/article.php?id=495",
+  "fetched_at": "2026-05-31T21:32:19Z"
+}

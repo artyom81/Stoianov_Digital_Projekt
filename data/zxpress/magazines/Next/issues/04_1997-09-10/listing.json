@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15433,
+    "article_url": "https://zxpress.ru/article.php?id=15433",
+    "print_url": "https://zxpress.ru/print.php?id=15433",
+    "title_link": "Новости - В дополнение ко вчерашнему сообщению о новье.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Новости_-_В_дополнение_ко_вчерашнему_сообщению_о_новье"
+  },
+  {
+    "article_id": 15434,
+    "article_url": "https://zxpress.ru/article.php?id=15434",
+    "print_url": "https://zxpress.ru/print.php?id=15434",
+    "title_link": "Скандалы - Прямым давлением на независимую прессу можно назвать инцидент, произошедший в минувшее воскресенье.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Скандалы_-_Прямым_давлением_на_независимую_прессу_можно_назв"
+  },
+  {
+    "article_id": 15435,
+    "article_url": "https://zxpress.ru/article.php?id=15435",
+    "print_url": "https://zxpress.ru/print.php?id=15435",
+    "title_link": "Мнения - Полным маразмом и \"ежедневным bbsTOP'ом\" назвал сегодня выпуск газеты NEXT А.Никифоров.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Мнения_-_Полным_маразмом_и_ежедневным_bbsTOPом_назвал_сегодн"
+  },
+  {
+    "article_id": 15436,
+    "article_url": "https://zxpress.ru/article.php?id=15436",
+    "print_url": "https://zxpress.ru/print.php?id=15436",
+    "title_link": "Разное - Zx-Net. Поиск.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Разное_-_Zx-Net_Поиск"
+  }
+]

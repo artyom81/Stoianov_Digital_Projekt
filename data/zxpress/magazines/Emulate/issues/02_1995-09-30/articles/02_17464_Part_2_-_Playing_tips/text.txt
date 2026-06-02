@@ -1,0 +1,307 @@
+02 - Part 2 - Playing tips.
+==========================================
+***************************
+*  PART 2 - PLAYING TIPS  *
+***************************
+
+Welcome  to this months section of playing
+tips.  This month we feature tips for last
+months  Wally extravaganza, Pyjamarama and
+some hints to get you started in the world
+of The Bards Tale.
+If  you  are  interested  in  more  POKEs,
+you`ll    find   another   collection   of
+Multiface  pokes  in  the SNAPS section of
+the mag (see Part 3 for more details)
+
+==========================================
+==========================================
+
+PYJAMARAMA
+
+For all those of you still stuck in Wallys
+dreamland  in  last months game, heres the
+complete solution:-
+
+1)  Get  the  Bucket  and  fill  it at the
+bathroom tap.
+2)  Get the Plant Pot and head to the room
+containing the fly-traps.
+3)  Swap  the  BP  Can  for  the bucket of
+water.
+4) Get the triangle key from Floor 3.
+5)  Go  to  Floor 1 and fill the BP Can at
+the petrol pump.
+6)  Get the pound coin and swap it for the
+penny.
+7)  Enter  the now unlocked Toilet and get
+the hammer.
+8)   Swap   the   hammer   for   the  fire
+extinguisher in the lift room.
+9)  Go  to  floor  3  and  find  the  room
+containing the pile of tea chests.
+10)  Climb  up the chests and exit through
+the window.
+11) Continue past fire and quickly get the
+square key.
+12)  Enter  the  unlocked snooker room and
+get the laser gun.
+13) With triangle key and laser gun, go to
+Floor 1.
+14)  Go  past the pump room and take, then
+drop the battery.
+15) With the Bp Can and the Full Laser Gun
+go to Floor 3.
+16)  Enter  the rocket and leave the laser
+gun on the moon.
+17)  Returning  to  Earth,  slide down the
+banister and get the helmet.
+18)   Swap  the  library  ticket  for  the
+library book.
+19)  With the helmet and the book, get the
+scissors.
+20)  Switch  HELP  on,  and go to the room
+with the balloon.
+21)  Get  the  box key and swap it for the
+magnet.
+22)  Re-fill  the BP Can and return to the
+moon with the magnet.
+23)  Touch  the  magnetic lock and get the
+clock key.
+24)  Return  to  Wallys Bedroom, touch the
+clock and you have done it!!
+
+Next  month  we  will include the complete
+solution   for  the  much  more  difficult
+second  game in the Wally saga - Everyones
+a Wally!!
+
+==========================================
+==========================================
+
+A-Z MULTIFACE POKES II
+
+Another  great list of multiface pokes for
+you  to  use  with your Emulator. To enter
+hem,  simply  use the POKE-IT utility that
+came  with  last  months issue, or use the
+multiface   option   with  the  registered
+version   of  Z80.  Then  just  enter  the
+address  and value listed below to get the
+desired  effect.  If more than one poke is
+listed  with  an  effect  they must all be
+entered  for it to occur. Unless otherwise
+stated,  all POKES are for infinite lives.
+An  x  in  the  POKE means a number in the
+value 1-255 can be entered in its place. A
+(?)  means  the  effect  of  the  POKE  is
+unknown (!)
+
+NAME              POKE
+==========================================
+3D SPACE WARS     26244,0:26949,0
+3D STAR STRIKE    56733,0 energy
+A DAY IN THE LIFE 45525,183
+ACTION REFLEX     50770-2,0:50964-6,0
+AIRWOLF           45982,0
+ALCHEMIST         47340,0
+ALIEN ATTACK      63178,0:63152,0
+ALIEN SWARM       24266,x
+ANDROID 2         52262,0 lives;
+                  53894,0 time
+AQUARIUM          31055,0
+ARC OF YESOD      47590,0
+ASTRO BLASTER     26369,x x=# of lives;
+                  47422,0 lives
+AUTOMANIA         53801,x x=# of lives;
+                  64968,167 lives
+BOMBJACK          49984,0; 49530,x
+BLUE THUNDER      41006,x
+BATTLE RACE       44641,0
+BLACK HAWK        34695,183
+BLADE ALLEY       58201,0
+BLIND ALLEY       25284,0
+BLUE MAX          43983-5,195,163,167
+BOMBER MAN        33248,0 lives;
+                  32851,x x=lives;
+                  32846,x x=difficulty
+BOMBSCARE         56777,0 lives
+BRUCE LEE         51795,0 lives 1st part;
+                  51803,0 lives 2nd part
+BOUNTY BOB
+     STRIKES BACK 50955,0
+BOULDERDASH 3     45460-2,0;
+                  26011-3,0 time;
+                  40464-6,0;
+                  31007-3,0 lives
+CANNON BALL       32807,x # of lives;
+                  32957,0 lives
+CAVELON           24019,146; 24080,184
+CAVERN FIGHTER    31683-4,0
+COMBAT LYNX       42525-7,0
+COOKIE            26197,0 (?);
+                  28698,0 lives
+CAPTAIN KELLY     42982,0 energy;
+                  47145,0 (?); 42517,0 (?)
+CYBERNOID 2       36198,0 lives
+CYBERUN           62930-2,0 lives;
+                  36188,175 lives
+CYCLONE           37536,0 lives,
+                  33429,0 time
+DEAD RACER        27150,0
+DEATH CHASE       26463,0
+DIGGER DAN        25559,0; 26363,0
+DOOMSDAY CASTLE   38902,201;
+                  29440,201 energy
+DUET              44114,0; 46185,0
+DUKES OF HAZARD   44246,0
+DUN DARACH        44458,0;
+                  45395-7,153 money
+DYNAMITE DAN      52678,0; 57035,0 lives;
+                  58770,201 no enemies;
+                  59093,201 no enemies
+DYNATRON MISSION  44969,x x=# of lives
+EQUINOX           41917,52
+EVERYONES A WALLY 58215,182
+FAIRLIGHT         61893,0; 62797,24 no (?)
+                  63478,24; 58813,62
+FALL GUY          43539,0 (?); 43402 or
+                  43403,195 bonus;
+                  44199,0 lives
+FANTASTIC VOYAGE  54492,0; 54277,0
+FIGHTING WARRIOR  61212,16
+FIREBIRDS         27235,0
+FORT APOCALYPSE   36939,0
+FRED              31171,0 energy; 37729,0
+GILDER RIDER      34931,0 bombs;
+                  34973,0 energy;
+                  34818,0 time;
+                  37441,0 laser
+GOTCHA            55926,0
+GIANT'S REVENGE   24504,0
+GUNFRIGHT         23912,201; 42640,x;
+                  49250,0; 46022,0;
+                  48224,0;
+                  51715,201
+GREAT GUARDIANS   34962,0
+GROUND ATTACK     27872,0
+HIGHWAY           37268,43 time
+HORACE AND THE
+          SPIDERS 27680,167
+HERBERT'S
+        DUMMY RUN 36739,x
+INCREDIBLE
+ SHRINCING FIREMAN 59505,x
+JANGLER           29848,0
+JET PAC           25020,0 lives;
+                  26075,0 rockets;
+                  25373,x x=lives
+JET SET WILLY 2   31254,195
+JUMPING JACK      30094,102
+KIREL             59322,154 time,
+                  35392,0 lives
+KNIGHT LORE       50205-7,0 time;
+                  53567,0 lives;
+                  50084,201 ??; 49759,x
+KNIGHTMARE        38686,16; 38693,16
+KONG 2            42523-5,0; 43100-2,0;
+                  44111-3,0
+KRAHECK           22538,54
+KUNG-FU           51267,0 lives;
+                  52166,201 no music
+LEGEND OF AMAZON
+            WOMEN 57960,0 or(?) 183
+MAGLAXIANS        59350,x x=?
+MAGLAXIANS        59354,7
+MONTY ON THE RUN  39039,x x=# of lives;
+                  36765,0 immunity;
+                  39090,x x=?;
+                  40238,195; 34716,24
+N.O.M.A.D.        40785,x
+NIGHT GUNNER      24763,182 (?);
+                  24001-3,195,194,94 (?)
+NIGHT SHADE       52739,0
+NODES OF YESOD    32661,0
+ORION             37319,201 lives
+PANAMA JOE        38633,167
+PHEENIX           29375,0
+PI-BALLED         46457,0;44416,5; 46441,0
+PINBALL           31566,0 or(?)
+                  28950,x lives
+PINBALL WIZARD    51566,0
+POGO              44259,0; 44260,33
+PSSST             24984,0 lives;27250,1(?)
+PSYTON            41100,1
+PYJAMARAMA        48670,0
+QUAZATRON         58347-9,195,220,224 imun
+RAID OVER MOSCOW  40299,182; 43364,182 (?)
+                  46507,182 (?); 49130,182
+REFLEX            58153,183 (?)
+RENTAKILL RITA    57982,0 lives;
+                  58520,0 (?); 58229,0
+RIVER RESCUE      33199,255
+ROAD RACER        27150,0
+ROBIN OF THE WOOD 49111,0
+ROLLER COASTER    36594,50; 36868-9,70,0
+ROMMEL'S REVENGE  42976,0
+RYGAR             51216,0; 61577,0
+SABRE WULF        43575,244 lives;
+                  44685,186:44677,84:
+                  44675,255 (?)
+SAM SPADE         25215,0:26381,0
+SAMANTHA FOX      23408,6 (23392,255)
+SCHIZOIDS         25102,0
+SIDEWALK          52877,100 time
+SIR FRED          46650,167
+SKOOL DAZE        30464,201
+SOUL OF A ROBOT   25812,x x=# of lives
+SPACE RAIDERS     25962,0 lives
+SPACE ZOMBIES     29553,0
+SPECTRAL INVADERS 25062,254
+SPECTRES          25690,183
+SPELLBOUND        55066,0; 55070-2,0;
+                  27871,0; 36133,0
+SPIKY HAROLD      34813,0; 34808,24
+SPINDIZZY         48072,201; 48401,201
+STAINLESS STEEL   49323,4; 46957,103
+STARCLASH         25381,183
+STARION           46526,0; 46600,0
+STEIN             29277,x or(?)
+                  33723,0 lives;
+                  28265,x x=(?)
+STOP THE EXPRESS  34464,183; 34926,183;
+                  35257,183
+STRANGELOOP       63160,182
+SUPER STUNTMAN    27262,0 time
+TASWORD TWO       64516,x x=Border Colour
+TAU CETI          49784,201
+TBATB             31981,0:31984,24 time
+TECHNICIAN TED    44259,0
+TERROR DAKTYL 4D  37629,0 lives
+THE KILL.
+    STRONTIUM DOG 52156,0 lives
+THE LIVING
+        DAYLIGHTS 38913,201
+THE PYRAMID       44685,0 energy
+THUNDERBIRDS      50927-30,0
+TLL               35006,0 lives;
+                  35807,0 time
+TOUR DE FORCE     42062,0 cycles(?);
+                  45472,24 time
+TRASHMAN          52037,0 time; 48985,201;
+                  42457-9,0
+TRASHMAN 2        38656,142 or(?)38658,183
+TRIBBLE TRUBBLE   31981,0:31984,24 time
+TUNNEL            29711,0
+TURBO ESPRIT      60514-21,0; 60573-80,0;
+                  62434-41,0
+TUTANKHAMUN       27783,0
+UNDERWURLDE       59376,0 lives;38043,0(?)
+                  45019,201(?); 59591,0(?)
+WHO DARES WINS 2  50833,0
+WIZARD'S LAIR     25522,x x=# of lives
+WORSE THINGS
+           HAPPEN 35443,0
+YABBA DABBA DOO   37003,x
+
+==========================================

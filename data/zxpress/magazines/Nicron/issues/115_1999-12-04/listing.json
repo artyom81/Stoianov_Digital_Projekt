@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 7246,
+    "article_url": "https://zxpress.ru/article.php?id=7246",
+    "print_url": "https://zxpress.ru/print.php?id=7246",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "115",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7247,
+    "article_url": "https://zxpress.ru/article.php?id=7247",
+    "print_url": "https://zxpress.ru/print.php?id=7247",
+    "title_link": "События - демопати CC999.999.",
+    "order": 2,
+    "issue_label": "115",
+    "short_slug": "События_-_демопати_CC999999"
+  },
+  {
+    "article_id": 7248,
+    "article_url": "https://zxpress.ru/article.php?id=7248",
+    "print_url": "https://zxpress.ru/print.php?id=7248",
+    "title_link": "События - демопати Chaos Constructions - 2000. Поправки к правилам.",
+    "order": 3,
+    "issue_label": "115",
+    "short_slug": "События_-_демопати_Chaos_Constructions_-_2000_Поправки_к_пра"
+  },
+  {
+    "article_id": 7249,
+    "article_url": "https://zxpress.ru/article.php?id=7249",
+    "print_url": "https://zxpress.ru/print.php?id=7249",
+    "title_link": "События - демопати Millennium Party.",
+    "order": 4,
+    "issue_label": "115",
+    "short_slug": "События_-_демопати_Millennium_Party"
+  },
+  {
+    "article_id": 7250,
+    "article_url": "https://zxpress.ru/article.php?id=7250",
+    "print_url": "https://zxpress.ru/print.php?id=7250",
+    "title_link": "Развлечения - ответы на головоломки.",
+    "order": 5,
+    "issue_label": "115",
+    "short_slug": "Развлечения_-_ответы_на_головоломки"
+  },
+  {
+    "article_id": 7251,
+    "article_url": "https://zxpress.ru/article.php?id=7251",
+    "print_url": "https://zxpress.ru/print.php?id=7251",
+    "title_link": "Информация - о дате начала 21-го века.",
+    "order": 6,
+    "issue_label": "115",
+    "short_slug": "Информация_-_о_дате_начала_21-го_века"
+  },
+  {
+    "article_id": 7252,
+    "article_url": "https://zxpress.ru/article.php?id=7252",
+    "print_url": "https://zxpress.ru/print.php?id=7252",
+    "title_link": "Разное - о хулиганских звонках.",
+    "order": 7,
+    "issue_label": "115",
+    "short_slug": "Разное_-_о_хулиганских_звонках"
+  },
+  {
+    "article_id": 7253,
+    "article_url": "https://zxpress.ru/article.php?id=7253",
+    "print_url": "https://zxpress.ru/print.php?id=7253",
+    "title_link": "Рассказ - Экзамен.",
+    "order": 8,
+    "issue_label": "115",
+    "short_slug": "Рассказ_-_Экзамен"
+  },
+  {
+    "article_id": 7254,
+    "article_url": "https://zxpress.ru/article.php?id=7254",
+    "print_url": "https://zxpress.ru/print.php?id=7254",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 9,
+    "issue_label": "115",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7255,
+    "article_url": "https://zxpress.ru/article.php?id=7255",
+    "print_url": "https://zxpress.ru/print.php?id=7255",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 10,
+    "issue_label": "115",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

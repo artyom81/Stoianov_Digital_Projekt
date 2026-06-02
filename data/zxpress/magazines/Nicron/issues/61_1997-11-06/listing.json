@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6863,
+    "article_url": "https://zxpress.ru/article.php?id=6863",
+    "print_url": "https://zxpress.ru/print.php?id=6863",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "61",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6864,
+    "article_url": "https://zxpress.ru/article.php?id=6864",
+    "print_url": "https://zxpress.ru/print.php?id=6864",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "61",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6865,
+    "article_url": "https://zxpress.ru/article.php?id=6865",
+    "print_url": "https://zxpress.ru/print.php?id=6865",
+    "title_link": "Информация - \"круглый стол\" организаторов Фестиваля FunTop98.",
+    "order": 3,
+    "issue_label": "61",
+    "short_slug": "Информация_-_круглыи_стол_организаторов_Фестиваля_FunTop98"
+  },
+  {
+    "article_id": 6866,
+    "article_url": "https://zxpress.ru/article.php?id=6866",
+    "print_url": "https://zxpress.ru/print.php?id=6866",
+    "title_link": "Полезное - о скрытой функции цифрового плеера SONY и о незначительном глюке в АОH'е.",
+    "order": 4,
+    "issue_label": "61",
+    "short_slug": "Полезное_-_о_скрытои_функции_цифрового_плеера_SONY_и_о_незна"
+  },
+  {
+    "article_id": 6867,
+    "article_url": "https://zxpress.ru/article.php?id=6867",
+    "print_url": "https://zxpress.ru/print.php?id=6867",
+    "title_link": "События - MTV: Вручение призов.",
+    "order": 5,
+    "issue_label": "61",
+    "short_slug": "События_-_MTV_Вручение_призов"
+  },
+  {
+    "article_id": 6868,
+    "article_url": "https://zxpress.ru/article.php?id=6868",
+    "print_url": "https://zxpress.ru/print.php?id=6868",
+    "title_link": "Юмор - школьные приколы.",
+    "order": 6,
+    "issue_label": "61",
+    "short_slug": "Юмор_-_школьные_приколы"
+  },
+  {
+    "article_id": 6869,
+    "article_url": "https://zxpress.ru/article.php?id=6869",
+    "print_url": "https://zxpress.ru/print.php?id=6869",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "61",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6870,
+    "article_url": "https://zxpress.ru/article.php?id=6870",
+    "print_url": "https://zxpress.ru/print.php?id=6870",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "61",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

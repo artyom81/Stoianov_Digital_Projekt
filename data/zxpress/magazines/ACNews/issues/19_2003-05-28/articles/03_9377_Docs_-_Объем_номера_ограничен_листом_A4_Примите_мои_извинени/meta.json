@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2003-05-28",
+  "order": 3,
+  "article_id": 9377,
+  "title_link": "Docs - Объём номера ограничен листом A4. Примите мои извинения :(",
+  "title_h1": "ACNews 19 - Docs - Объём номера ограничен листом A4. Примите мои извинения :(",
+  "print_url": "https://zxpress.ru/print.php?id=9377",
+  "article_url": "https://zxpress.ru/article.php?id=9377",
+  "fetched_at": "2026-05-31T21:30:39Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1995-12-31",
+  "order": 8,
+  "article_id": 458,
+  "title_link": "От редакции - О новшествах в журнале.",
+  "title_h1": "Speccy 03 - От редакции - О новшествах в журнале.",
+  "print_url": "https://zxpress.ru/print.php?id=458",
+  "article_url": "https://zxpress.ru/article.php?id=458",
+  "fetched_at": "2026-05-31T23:04:06Z"
+}

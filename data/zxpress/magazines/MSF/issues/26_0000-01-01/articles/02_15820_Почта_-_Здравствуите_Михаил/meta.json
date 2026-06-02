@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "26",
+  "issue_date_iso": "0000-01-01",
+  "order": 2,
+  "article_id": 15820,
+  "title_link": "Почта - Здравствуйте, Михаил!",
+  "title_h1": "MSF 26 - Почта - Здравствуйте, Михаил!",
+  "print_url": "https://zxpress.ru/print.php?id=15820",
+  "article_url": "https://zxpress.ru/article.php?id=15820",
+  "fetched_at": "2026-05-31T22:30:20Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 102,
+    "article_url": "https://zxpress.ru/article.php?id=102",
+    "print_url": "https://zxpress.ru/print.php?id=102",
+    "title_link": "BBS NEWS - Список действующих серверов.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "BBS_NEWS_-_Список_деиствующих_серверов"
+  },
+  {
+    "article_id": 8771,
+    "article_url": "https://zxpress.ru/article.php?id=8771",
+    "print_url": "https://zxpress.ru/print.php?id=8771",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 8773,
+    "article_url": "https://zxpress.ru/article.php?id=8773",
+    "print_url": "https://zxpress.ru/print.php?id=8773",
+    "title_link": "Компот - Рассказ \"С Новым годом!\"",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Компот_-_Рассказ_С_Новым_годом"
+  },
+  {
+    "article_id": 8775,
+    "article_url": "https://zxpress.ru/article.php?id=8775",
+    "print_url": "https://zxpress.ru/print.php?id=8775",
+    "title_link": "Лит.Страничка - Стихотворение М.Милюкова \"Встречая Новый год\".",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "ЛитСтраничка_-_Стихотворение_ММилюкова_Встречая_Новыи_год"
+  },
+  {
+    "article_id": 8772,
+    "article_url": "https://zxpress.ru/article.php?id=8772",
+    "print_url": "https://zxpress.ru/print.php?id=8772",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8770,
+    "article_url": "https://zxpress.ru/article.php?id=8770",
+    "print_url": "https://zxpress.ru/print.php?id=8770",
+    "title_link": "Ужасные новости - OLDMAN уходит на суперкомпьютер - DENDY...",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Ужасные_новости_-_OLDMAN_уходит_на_суперкомпьютер_-_DENDY"
+  },
+  {
+    "article_id": 8774,
+    "article_url": "https://zxpress.ru/article.php?id=8774",
+    "print_url": "https://zxpress.ru/print.php?id=8774",
+    "title_link": "Эксперимент - Результаты соц.опроса на тему спектрума (10 вопросов...)",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Эксперимент_-_Результаты_соцопроса_на_тему_спектрума_10_вопр"
+  }
+]

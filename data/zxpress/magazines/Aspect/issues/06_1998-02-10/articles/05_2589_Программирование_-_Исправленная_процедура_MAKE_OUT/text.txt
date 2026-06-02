@@ -1,0 +1,955 @@
+Aspect 06 - Программирование - Исправленная процедура MAKE OUT.
+Прежде всего сообщаю всем,кто использовал
+процедуру  MAKEOUT, что  в  ней   найдена
+ошибка, вот текст исправленной процедуры:
+;ВХОД :
+;  HL - АДРЕС ПРОЦЕДУРЫ ВЫВОДА
+;  D  - ВЕРХНЯЯ  ПОЗИЦИЯ ПО Y
+;  E  - ЛЕВАЯ ПОЗИЦИЯ ПО X
+;  B  - ВЫСОТА ВИРТУАЛЬНОГО ЭКРАНА
+; (В ТЕКСТОВЫХ КООРДИНАТАХ)
+;  C  - ДЛИНА ВИРТУАЛЬНОГО ЭКРАНА/2
+; (ТОЖЕ В ТЕКСТВЫХ КООРДИНАТАХ)
+;ВЫХОД : НЕТ
+MAKOUT
+   LD   (HL),#21
+   XOR   A
+   DUP   2
+   INC   HL
+   LD   (HL),A
+   EDUP
+   INC   HL
+   LD   (HL),#39
+   INC   HL
+   LD   (HL),#EB
+   INC   HL
+   LD   (HL),#F9
+   INC   HL
+MAKOUT1
+   PUSH   DE
+   LD   A,D
+   DUP   3
+   RRCA
+   EDUP
+   AND   #E0
+   ADD   A,E
+   LD   E,A
+   LD   A,D
+   AND   #18
+   OR   #40
+   LD   D,A
+   LD   A,8
+MAKOUT2
+   PUSH   BC
+   PUSH   DE
+MAKOUT3
+   LD   (HL),#E1
+   INC   HL
+   LD   (HL),#22
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   INC   E      ; <- здесь был только один INC E
+   INC   E 
+   DEC   C
+   JR   NZ,MAKOUT3
+   POP   DE
+   POP   BC
+   INC   D
+   DEC   A
+   JR   NZ,MAKOUT2
+   POP   DE
+   INC   D
+   DJNZ   MAKOUT1
+   LD   (HL),#EB
+   INC   HL
+   LD   (HL),#F9
+   INC   HL
+   LD   (HL),#C9
+   RET
+Ну вот, а  теперича  обещанная  процедура
+вывода спрайта 16*12 на весь экран, т. е.
+на экране будет  четыре  спрайта  16*12 :
+ORG   #61A8
+   CALL   ZAPTAB      ;заполним таблицу адресов
+   CALL   ZAPOLN      ;сделаем процедуру вывода
+   DI
+   LD   DE,SPRADRES   ;адрес вашего спрайта
+   CALL   SPEEDOUT   ;выводим его
+   EI
+   RET
+; ЗДЕСЬ ДЕЛАЕТСЯ ПРОЦЕДУРА ВЫВОДА
+ZAPOLN
+   LD   HL,SPEEDOUT 
+   LD   BC,#0C00   ;ВЫСОТА 12
+   LD   (HL),#21   ;LD HL,0
+   INC   HL
+   LD   (HL),C
+   INC   HL
+   LD   (HL),C
+   INC   HL
+   LD   (HL),#39   ;ADD HL,SP
+   INC   HL
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+   CALL   ZAPOUT      ;ЗАПОЛНЯЕМ ПРОЦЕДУРУ ВЫВОДА
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+   LD   (HL),201   ;RET
+   RET
+;B-ВЫСОТА ЭКРАНА В ТЕКСТ.КООРДИНАТАХ
+;C-НАЧАЛЬНАЯ ПОЗИЦИЯ ПО ВЕРЫИКАЛИ
+;HL-АДРЕС ПРОЦЕДУРЫ ВЫВОДА
+ZAPOUT
+   LD   IX,TABLE   ;ТАБЛИЦА АДРЕСОВ В IX
+   DI
+   PUSH   IY
+   LD   IY,TABLE   ;ТО ЖЕ НО В IY
+   LD   E,C
+   LD   D,0
+   EX   DE,HL      ;HL=HL*8
+   ADD   HL,HL
+   ADD   HL,HL
+   ADD   HL,HL
+   ADD   HL,HL
+   EX   DE,HL
+   ADD   IX,DE      ;НАЧАЛЬНЫЙ АДРЕС В ТАБЛИЦЕ
+   ADD   IY,DE
+   LD   DE,192      ;СМЕЩАЕМ НА ПОЛЭКРАНА
+   ADD   IY,DE
+   LD   E,D ;DE=0
+ZAPOUT3
+   ADD   IX,DE      ;ПЕРЕХОД К СЛЕДУЮЩЕЙ
+   ADD   IY,DE      ;СТРОКЕ
+   LD   E,(IX)
+   LD   D,(IX+1)
+   PUSH   DE
+   LD   (__DE),DE
+   LD   E,(IY)
+   LD   D,(IY+1)
+
+   LD   C,8      ;8 БАЙТ В СИМВОЛЕ
+ZAPOUT1
+   PUSH   DE
+   LD   A,8
+ZAPOUT2
+   LD   (HL),#E1   ;POP HL
+   INC   HL
+   LD   (HL),#22   ;LD (ADDR1),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   EX   AF,AF'      ;ВЫВОД В СЛЕДУЮЩУЮ ЧЕТВЕРТЬ
+   LD   A,E      ;ЭКРАНА
+   ADD   A,#10      ;+16
+   LD   E,A
+   LD   (HL),#22   ;LD (ADDR1+16),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   SUB   #E      ;-14=-16+2
+   LD   E,A
+   LD   (_DE),DE
+   LD   DE,(__DE)   ;АНАЛОГИЧНО...
+   LD   (HL),#22   ;LD (ADDR2),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   LD   A,E
+   ADD   A,#10 ;+16
+   LD   E,A
+   LD   (HL),#22   ;LD (ADDR2+16),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   SUB   #E      ;-14=-16+2
+   LD   E,A
+   LD   (__DE),DE
+   LD   DE,(_DE)
+   EX   AF,AF'
+   DEC   A
+   JR   NZ,ZAPOUT2   ;И ТАК 8 РАЗ...
+   POP   DE
+   INC   D
+   LD   (__DE),DE
+   EX   DE,HL
+   EX   (SP),HL
+   EX   DE,HL
+   INC   D
+   DEC   C
+   JR   NZ,ZAPOUT1   ;ТАК ТОЖЕ 8 РАЗ...
+   POP   DE
+   LD   DE,16
+   DJNZ   ZAPOUT3      ;ПЕРЕХОД К СЛЕДУЮЩЕЙ СТРОКЕ
+   POP   IY
+   EI
+   RET
+_DE   DEFW   0
+__DE   DEFW   0
+;ЗАПОЛНЕНИЕ ТАБЛИЦЫ АДРЕСОВ
+ZAPTAB
+   LD   IX,TABLE
+   LD   HL,#4000
+   CALL   ZAPADR
+   LD   HL,#4800
+   CALL   ZAPADR
+   LD   HL,#5000
+   CALL   ZAPADR
+   LD   (IX),#FF
+   LD   (IX+1),#FF
+   LD   (IX+2),#FF
+   RET
+ZAPADR
+   LD   DE,#20
+   LD   C,8
+ZAPAD2
+   PUSH   HL
+   LD   B,8
+ZAPAD1
+   LD   (IX),L
+   LD   (IX+1),H
+   INC   IX
+   INC   IX
+   INC   H
+   DJNZ   ZAPAD1
+   POP   HL
+   ADD   HL,DE
+   DEC   C
+   JR   NZ,ZAPAD2
+   RET
+TABLE   DEFS   5000
+SPEEDOUT
+Собственно, аналогично строятся процедуры
+для вывода спрайтов 2*2,4*4, 8*8, и т. д.
+Кстати   спрайты   можно   выводить    не
+изготовля процедуры вывода.Вот ,например,
+код процедуры  выводящей  два  спрайта  в
+шахматном порядке в треть экрана ,спрайты
+размером 4*4 :
+; BC - АДРЕС 1-ГО СПРАЙТА
+; DE - АДРЕС 2-ГО СПРАЙТА
+; HL - АДРЕС ТРЕТИ ЭКРАНА
+SPROUT
+   LD   (SPROUT1+1),BC
+   DI
+   LD   (SPROUT2+1),DE
+   LD   (SPSAVE+1),SP   ;СОХРАНЯЕМ УКАЗАТЕЛЬ СТЕКА
+   LD   DE,#0800   ;ВЫВОД С КОНЦА ТРЕТИ ЭКРАНА
+   ADD   HL,DE
+   LD   (SPROUT3+1),HL
+   LD   DE,-#80      ;ПОЛОВИНА ТРЕТИ ЭКРАНА
+   ADD   HL,DE
+   LD   (SPROUT4+1),HL
+   LD   D,H
+   LD   E,#20      ;СМЕщЕНИЕ НА СТРОКУ
+   LD   C,4
+SPROUT5
+   LD   B,8      ;8 БАЙТОВ В СИМВОЛЕ
+NEXTSPP
+   EXX         ;ЧТО НУЖНА СОХРАНЯМЕ,ОДНАКА 
+   EX   AF,AF'
+SPROUT1
+   LD   SP,00      ;ЗДЕСЬ БУДЕТ АДРЕС СПРАЙТА
+   POP   AF      ;БЕРЕМ ДАННЫЕ
+   POP   BC
+   LD   (SPROUT1+1),SP   ;СОХРАНЕМ ПОЗИЦИЮ
+SPROUT2
+   LD   SP,00      ;АНАЛОГИЧНО ДЛЯ 2-ГО СПРАЙТА
+   POP   DE
+   POP   HL
+   LD   (SPROUT2+1),SP
+SPROUT3
+   LD   SP,0      ;АДРЕС ВЫВОДА
+   DUP   4
+   PUSH   DE      ;КЛАДЕМ ДАННЫЕ В ШАХМАТНОМ 
+   PUSH   HL      ;ПОРЯДКЕ
+   PUSH   AF
+   PUSH   BC
+   EDUP
+SPROUT4
+   LD   SP,0      ;ТО ЖЕ НО В ДРУГУЮ
+   DUP   4      ;ПОЛОВИНУ ТРЕТИ ЭКРАНА
+   PUSH   AF
+   PUSH   BC
+   PUSH   DE
+   PUSH   HL
+   EDUP
+   EX   AF,AF'
+   EXX         ;ВОССТАНАВЛИВАЕМСЯ
+   LD   A,(SPROUT3+2)   ;ВСЕ ВЫШЕ
+   DEC   A      ;ВЫШЕ И ВЫШЕ
+   LD   (SPROUT3+2),A
+   LD   A,(SPROUT4+2)
+   DEC   A
+   LD   (SPROUT4+2),A
+   DJNZ   NEXTSPP
+   LD   HL,(SPROUT4+1)
+   LD   H,D
+   LD   A,L
+   SUB   E
+   LD   L,A
+   LD   (SPROUT4+1),HL
+   LD   A,(SPROUT3+1)
+   SUB   E
+   LD   L,A
+   LD   (SPROUT3+1),HL
+   DEC   C
+   JP   NZ,SPROUT5
+SPSAVE
+   LD   SP,0      ;ВОССТАНАВЛИВАЕМ СТЕК
+   EI
+   RET
+А вот и пример обращения к ней:
+LD   HL,#4800   ;СЕРЕДИНКА ЭКРАНА
+   LD   DE,SPR1
+   LD   BC,SPR2
+   CALL   SPROUT
+Мда, ну а теперича я покажу другой прикол
+с процедурой быстрой графики :
+ORG   #61A8
+   LD   HL,#4000   ;ЧИСТИМ ЭКРАН
+   LD   DE,#4001
+   LD   BC,6144
+   LD   (HL),L
+   LDIR
+   LD   BC,767      ;INK 7:PAPER 0:BRIGHT 1
+   LD   (HL),71
+   LDIR
+   LD   HL,15616   ;ПОИЗДЕВАЕМСЯ НАД ФОНТОМ
+   LD   DE,FONT
+   LD   BC,768
+   PUSH   DE
+   LDIR
+   POP   HL
+   PUSH   HL
+   LD   BC,#6060
+PREOBR1
+   PUSH   BC
+   SUB   A
+   LD   B,A
+   SET   2,B
+   DUP   4
+   INC   HL
+   EDUP
+PREOBR2
+   LD   A,(HL)
+   LD   C,A
+   SLA   A
+   OR   C
+   LD   (HL),A
+   INC   HL
+   DJNZ   PREOBR2
+   POP   BC
+   DJNZ   PREOBR1
+   POP   HL
+   LD   (FONT32+1),HL 
+   LD   HL,#C000   ;ЧИСТИМ ВИРТУАЛЬНЫЙ ЭКРАН
+   LD   DE,#C001
+   LD   BC,#4000
+   LD   (HL),0
+   LDIR
+   LD   HL,#C600   ;НАЧАЛЬНАЯ ПОЗИЦИЯ 
+   LD   (INT3+1),HL
+   LD   HL,SPEED   ;СТРОИМ ПРОЦЕДУРУ ВЫВОДА
+   LD   DE,#800      ;Y=8,X=0
+   LD   BC,#1010   ;В ВЫСОТУ 16,А В ДЛИНУ 32 !
+   CALL   MAKOUT
+   LD   HL,INTERR   ;СТАВИМ СВОЙ ОБРАБОТЧИК
+   CALL   IMON      ;ПРЕРЫВАНИЙ
+   LD   HL,TEXT0   ;ПЕЧАТАЕМ ТЕКСТ ВО 2-Й
+   LD   DE,#C820   ;ПОЛОВИНЕ ВИРТ.ЭКРАНА
+   LD   C,#20      ;СЛЕЩЕНИЕ
+   CALL   VIRTWRITE   ;ПРОЦЕДУРА ВЫВОДА ТЕКСТА
+   LD   A,#1C      ;НА ВИРТ. ЭКРАН
+   PUSH   AF      ;ВСЯКОГО РОДА УСТАНОВКИ
+   PUSH   HL
+   LD   (INT4),A
+   LD   A,C
+   LD   (INT5+1),A
+   LD   A,1
+   LD   (INT1+1),A
+WAITER
+   EI         ;ЖДЕМ КНОПОЧКУ
+   HALT
+   LD   A,#7F      ;ЭНТО SPACE
+   IN   A,(#FE)
+   BIT   0,A
+   JR   Z,WAITER1
+   LD   A,#BF      ;А ЭТО ENTER
+   IN   A,(#FE)
+   BIT   0,A
+   JP   NZ,WAITER
+   LD   A,C      ;МЕНЯЕМ ПОЛОВИНКИ ВИРТ.ЭКРАНА
+   XOR   #20
+   LD   C,A
+   LD   E,A
+   LD   D,#C8
+   CALL   VIRTCLEAR   ;ЧИСТИМ ПОЛОВИНКУ
+   POP   HL
+   LD   A,(HL)      ;ЕСЛИ 1 ТО КОНЕЦ ТЕКСТА
+   DEC   A
+   JP   NZ,WAITER2
+   LD   HL,TEXT0   ;А ЕСЛИ КОНЕЦ ТЕКСТА,ТО
+            ;НАДО ПЕРЕЙТИ НА НАЧАЛО
+WAITER2
+   CALL   VIRTWRITE   ;ПЕЧАТАЕМ
+   POP   AF
+   XOR   1
+   PUSH   AF
+   PUSH   HL
+   LD   (INT4),A   ;ПЕРЕУСТАНАВЛИВАЕМСЯ
+   LD   A,C
+   LD   (INT5+1),A
+   LD   A,1
+   LD   (INT1+1),A
+   LD   B,33      ;ЖДАТЬ ПОКА ЭКРАН НЕ ПОЯВИТСЯ
+WAITER0
+   EI
+   HALT
+   DJNZ   WAITER0
+   JR   WAITER
+WAITER1
+   POP   HL      ;КОНЕЦ
+   POP   AF      ;ДЕЛУ ВЕНЕЦ
+   DI         ;ВОССТАНАВЛИВАЕМ ПРЕРЫВАНИЯ
+   LD   A,63
+   LD   I,A
+   IM   1
+   EI
+   RET         ;ВЫХОДИМ-С
+; ПРОЦЕДУРА  УСТаНОВКИ  СВОИХ  ПРЕРЫВАНИЙ
+; НА ВХОДЕ HL - АДРЕС ПРОЦЕДУРЫ ОБРАБОТКИ
+IMON   DI
+   LD   A,24      ;JR 65524
+   LD   (65535),A
+   LD   A,195      ;JP ADDR
+   LD   (65524),A
+   LD   (65525),HL
+   LD   HL,#FE00   ;ЭНТО ДЛЯ ПРЫГАЮЩЕГО INTА
+LD   DE,#FE01
+   LD   BC,256
+   LD   A,H
+   LD   (HL),#FF
+   LDIR
+   DI
+   LD   I,A
+   IM   2
+   EI
+   RET
+;ПРОЦЕДУРА ОБРАБОТКИ ПРЕРЫВАНИЙ
+INTERR
+   PUSH   AF      ;СОХРАНЯЕМСЯ
+   PUSH   HL
+   PUSH   DE
+   PUSH   BC
+INT1   LD   A,0      ;РАЗРЕШЕНО ЛИ ДВИГАТЬСЯ ?
+   AND   A
+INT3   LD   DE,0
+   JR   Z,INT7
+INT4   INC   E      ;ДА ,РАЗРЕШЕНО=> ДВИГАЕМ
+INT7   LD   HL,128      ;СМЕЩАЕМ НА 4 ПИКСЕЛЯ 
+   ADD   HL,DE
+   EX   DE,HL
+   LD   (INT3+1),DE
+   LD   A,E 
+   AND   #3F      ;МЫ ДОСТИГЛИ ЦЕЛИ ?
+INT5   CP   #20
+   JP   NZ,INT6
+   XOR   A      ;ДА,БОЛЬШЕ ДВИГАТЬ НЕ НАДА !
+   LD   (INT1+1),A
+INT6   LD   A,D 
+INT8   CP   #C8
+   JP   NZ,INT9
+   LD   A,(INT7+2)
+   XOR   #FF
+   LD   (INT7+2),A
+   LD   A,(INT8+1)
+   XOR   12
+   LD   (INT8+1),A
+INT9   CALL   SPEED      ;ВЫВОДИМ-С
+   POP   BC
+   POP   DE
+   POP   HL
+   POP   AF
+   EI
+   RET
+;ОЧИСТКА ЧАСТИ ВИРТУАЛЬНОГО ЭКРАНА
+;НА ВХОДЕ DE - АДРЕС ПОЛОВИНКИ
+VIRTCLEAR
+   PUSH   DE
+   PUSH   BC
+   LD   BC,#8020   ;В ВЫСОТУ 128,В ДЛИНУ 32
+   EX   DE,HL
+   LD   E,#20      ;СМЕЩЕНИЕ
+   LD   D,0
+VIRTC1
+   PUSH   BC
+VIRTC2
+   LD   (HL),D
+   INC   HL
+   DEC   C
+   JP   NZ,VIRTC2
+   ADD   HL,DE
+   POP   BC
+   DJNZ   VIRTC1
+   POP   BC
+   POP   DE
+   RET
+; ВЫВОД ТАКСТА НА ВИРТ. ЭКРАН
+;ВХОД HL - АДРЕС ТЕКСТА
+;DE - АДРЕС ПОЛОВИНКИ ВИРТ.ЭКРАНА  
+;C - СМЕЩЕНИЕ 0 ИЛИ 32
+VIRTWRITE
+   LD   A,(HL)      ;БЕРЕМ КОД СИМВОЛА
+   INC   HL
+   AND   A      ;КОНЕЦ ТЕКСТА ?
+   RET   Z      ;ДА !!!
+   CP   #0D      ;ПЕРЕВОД СТРОКИ
+   JR   Z,VIRTWR1   ;ДА !!!
+   CALL   PRSYM      ;ВЫВОДИМ СИМВОЛ
+   LD   A,E      ;ДОСТИЖЕНИЕ КОНЦА СТРОКИ
+   AND   #1F
+   CP   #1F
+   JR   Z,VIRTWR1   ;ДОКАТИЛИСЬ...
+   INC   E 
+   JP   VIRTWRITE   ;ВСЕ ЕЩЕ ВПЕРЕДИ !
+VIRTWR1
+   INC   D      ;ДЕЛАЕМ INC D ДВА РАЗА
+   INC   D      ;Т.К. У НАС ДВА ЭКРАНА
+   LD   E,C
+   JP   VIRTWRITE   ;ПРОДОЛЖИМ-С
+;ВЫВОД СИМВОЛА НА ВИРТ.ЭКРАН
+PRSYM   PUSH   HL
+   PUSH   BC
+   PUSH   DE
+   SUB   #20
+FONT32
+   LD   DE,15616   ;ЗДЕСЬ БУДЕТ АДРЕС ФОНТА
+   LD   L,A
+   LD   H,0
+   ADD   HL,HL
+   ADD   HL,HL
+   ADD   HL,HL
+   ADD   HL,DE
+   LD   C,L
+   LD   B,H
+   POP   HL
+   PUSH   HL
+   LD   DE,#40
+   DUP   8
+   LD   A,(BC)
+   INC   BC
+   LD   (HL),A
+   ADD   HL,DE
+   EDUP
+   POP   DE
+   POP   BC
+   POP   HL
+   RET
+;ВХОД :
+;  HL - АДРЕС ПРОЦЕДУРЫ ВЫВОДА
+;  D  - ВЕРХНЯЯ  ПОЗИЦИЯ ПО Y
+;  E  - ЛЕВАЯ ПОЗИЦИЯ ПО X
+;  B  - ВЫСОТА ВИРТУАЛЬНОГО ЭКРАНА
+; (В ТЕКСТОВЫХ КООРДИНАТАХ)
+;  C  - ДЛИНА ВИРТУАЛЬНОГО ЭКРАНА/2
+; (ТОЖЕ В ТЕКСТВЫХ КООРДИНАТАХ)
+;ВЫХОД : НЕТ
+MAKOUT
+   LD   (HL),#21   ;LD HL,0
+   XOR   A
+   DUP   2
+   INC   HL
+   LD   (HL),A
+   EDUP
+   INC   HL
+   LD   (HL),#39   ;ADD HL,SP
+   INC   HL
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+MAKOUT1
+   PUSH   DE
+   LD   A,D
+   DUP   3
+   RRCA
+   EDUP
+   AND   #E0
+   ADD   A,E
+   LD   E,A
+   LD   A,D
+   AND   #18
+   OR   #40
+   LD   D,A
+   LD   A,8
+MAKOUT2
+   PUSH   BC
+   PUSH   DE
+MAKOUT3
+   LD   (HL),#E1   ;POP HL
+   INC   HL
+   LD   (HL),#22   ;LD (ADDR),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   INC   E
+   INC   E
+   DEC   C
+   JR   NZ,MAKOUT3
+   LD   (HL),#21   ;LD HL,#20
+   INC   HL
+   LD   (HL),#20
+   INC   HL
+   LD   (HL),C
+   INC   HL
+   LD   (HL),#39   ;ADD HL,SP
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+   POP   DE
+   POP   BC
+   INC   D
+   DEC   A
+   JR   NZ,MAKOUT2
+   POP   DE
+   INC   D
+   DJNZ   MAKOUT1
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+   LD   (HL),#C9   ;RET
+   RET
+; ТЕКСТ ДЛЯ ВЫВОДА ФОРМАТ:
+;  ЛЮБЫЕ СИМВОЛЫ,#0D - ПЕРЕВОД СТРОКИ,
+;  0 - КОНЕЦ СТРАНИЦЫ,1 КОНЕЦ ТЕКСТА
+TEXT0   DEFS   32,"+"
+   DEFB   "+         +"
+   DEFB   "+      HELLO  SPBZXNET !!!     +"
+   DEFB   "+         +"
+   DEFB   "+        TRSOFT PRESENT      +"
+   DEFB   "+         +"
+   DEFB   "+       THIS MOVING TEXT      +"
+   DEFB   "+         +"
+   DEFB   "+      TO EXIT PRESS SPACE     +"
+   DEFB   "+         +"
+   DEFB   "+ AND PRESS ENTER TO NEXT PAGE +"
+   DEFB   "+         +"
+   DEFB   "+         +"
+   DEFS   32,"+"
+   DEFB   0
+   DEFB   " H  H  EEEE  L   L  OO   "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " HHHH  EEE   L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  E     L   L O  O  "
+   DEFB   " H  H  EEEE  LLLL  LLLL  OO   "
+   DEFB   0,1,1
+FONT   DEFS   768
+SPEED
+Понаяли, почему такая скорость ? Да очень
+просто ! Текст никуда не двигается  и  не
+скроллируется, а только меняется адрес  в
+процедуре вывода,а изменить адрес намного
+короче  и  быстрее, чем  скроллировать  и
+сдвигать.Вот еще один пример :
+ORG   #61A8
+   LD   HL,SPEED    ;ДЕЛАЕМ ПРОЦЕДУРУ ВЫВОДА
+   LD   DE,#400
+   LD   BC,#0F10
+   CALL   MAKOUT
+   LD   HL,#C000    ;ЧИСТИМ ВИРТ.ЭКРАН
+   LD   DE,#C001
+   LD   BC,#3FFF
+   LD   (HL),0
+   LDIR
+   LD   HL,#4000    ;ЧИСТИМ ЭКРАН
+   LD   DE,#4001
+   LD   BC,6143
+   LD   (HL),0
+   LDIR
+   LD   HL,#5800    ;УСТАНАВЛИВАЕМ АТРИБУТЫ
+   LD   DE,#5801
+   LD   BC,767
+   LD   (HL),71
+   LDIR
+   LD   HL,INTERR   ;СТАВИМ СВОЙ ОБРАБОТЧИК 
+   CALL   IMON      ;ПРЕРЫВАНИЙ
+   LD   HL,TEXT      ;ПЕЧАТАЕМ ТЕКСТ
+   LD   DE,#D000   ;ТЕЛЕТАЙПОМ
+   LD   C,0
+   LD   B,C
+   CALL   T_TAPE
+   XOR   A
+   LD   (23560),A
+MECH   EI
+   HALT
+   LD   A,(23560)
+   JR   Z,MECH
+   RET
+;ПРОЦЕДУРА ПЕЧАТИ ТЕЛЕТАЙПОМ
+T_TAPE
+   LD   A,(HL)      ;КОНЕЦ ТЕКСТА ?
+   INC   HL
+   AND   A
+   JR   Z,T_TAPE0   ;ДА !
+   CP   #0D      ;ПЕРЕВОД СТРОКИ ?
+   JR   Z,NEXTLINE0   ;ДА !
+   CALL   PRINS      ;ВЫВОД СИМВОЛА
+   INC   E 
+   LD   A,E
+   BIT   5,E
+   JR   Z,T_TAPE1
+   JR   NEXTLINE
+T_TAPE0
+   LD   A,32      ;ЗАТИРАЕМ КУРСОР
+   CALL   PRINS 
+   RET         ;И ВЫХОДИМ
+NEXTLINE0
+   LD   A,32      ;ЗАТИРАЕМ КУРСОР
+   CALL   PRINS
+NEXTLINE
+   INC   D
+   INC   D
+   INC   D
+   LD   E,C
+T_TAPE1
+   LD   A,"@"      ;ВЫВОДИМ КУРСОР
+   CALL   PRINS
+   EI
+   HALT         ;ЖДЕМ-С
+   HALT
+   HALT
+   JR   T_TAPE
+;ПРОЦЕДУРА ОБРАБОТКИ ПРЕРЫВАНИЙ
+INTERR
+   DI 
+   PUSH   HL
+   PUSH   DE
+   PUSH   AF
+INT1   LD   HL,#D000   ;НАЧАЛЬНАЯ ПОЗИЦИЯ
+INT0   LD   A,1
+   DEC   A
+   LD   (INT0+1),A
+   JP   NZ,INT3
+   LD   A,1
+   LD   (INT0+1),A
+INT2   INC   H      ;СКРОЛЛИРУЕМСЯ
+   LD   (INT1+1),HL
+   LD   A,H
+INT4   CP   #E0      ;ДО ОПРЕДЕЛЕННЫХ ПРЕДЕЛОВ
+   JP   NZ,INT3      ;КОНЕЧНО
+   LD   A,(INT2)
+   XOR   1
+   LD   (INT2),A
+   LD   A,(INT4+1)
+   XOR   32
+   LD   (INT4+1),A
+INT3   EX   DE,HL
+   CALL   SPEED      ;ВЫВОДИМ
+   POP   AF
+   POP   DE
+   POP   HL
+   EI
+   RET
+PRINS   PUSH   HL
+   PUSH   BC
+   PUSH   DE
+   SUB   #20
+   LD   L,A
+   LD   H,0
+   ADD   HL,HL
+   ADD   HL,HL
+   ADD   HL,HL
+   LD   DE,15616
+   ADD   HL,DE
+   EX   DE,HL
+   POP   HL
+   PUSH   HL
+   LD   C,E
+   LD   B,D
+   LD   DE,32
+   DUP   8
+   LD   A,(BC)
+   INC   BC
+   DUP   2
+   LD   (HL),A
+   ADD   HL,DE
+   EDUP
+   LD   (HL),D
+   ADD   HL,DE
+   EDUP
+   POP   DE
+   POP   BC
+   POP   HL
+   RЕТ
+;НУ А ЭТО ПРОЦЕДУРА ПОСТРОЕНИЯ ПРОЦЕДУРЫ
+;ВЫВОДА !!!
+
+;ВХОД:
+;  HL - АДРЕС ПРОЦЕДУРЫ ВЫВОДА
+;  D  - ВЕРХНЯЯ  ПОЗИЦИЯ ПО Y
+;  E  - ЛЕВАЯ ПОЗИЦИЯ ПО X
+;  B  - ВЫСОТА ВИРТУАЛЬНОГО ЭКРАНА
+; (В ТЕКСТОВЫХ КООРДИНАТАХ)
+;  C  - ДЛИНА ВИРТУАЛЬНОГО ЭКРАНА/2
+; (ТОЖЕ В ТЕКСТВЫХ КООРДИНАТАХ)
+;ВЫХОД : НЕТ
+MAKOUT
+   LD   (HL),#21   ;LD HL,0
+   XOR   A
+   DUP   2
+   INC   HL
+   LD   (HL),A
+   EDUP
+   INC   HL
+   LD   (HL),#39   ;ADD HL,SP
+   INC   HL
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+MAKOUT1
+   PUSH   DE
+   LD   A,D
+   DUP   3
+   RRCA
+   EDUP
+   AND   #E0
+   ADD   A,E
+   LD   E,A
+   LD   A,D
+   AND   #18
+   OR   #40
+   LD   D,A
+   LD   A,8
+MAKOUT2
+   PUSH   BC
+   PUSH   DE
+MAKOUT3
+   LD   (HL),#E1   ;POP HL
+   INC   HL
+   LD   (HL),#22   ;LD (ADDR),HL
+   INC   HL
+   LD   (HL),E
+   INC   HL
+   LD   (HL),D
+   INC   HL
+   INC   E
+   INC   E
+   DEC   C
+   JR   NZ,MAKOUT3
+   POP   DE
+   POP   BC
+   INC   D
+   DEC   A
+   JR   NZ,MAKOUT2
+   POP   DE
+   INC   D
+   DJNZ   MAKOUT1
+   LD   (HL),#EB   ;EX DE,HL
+   INC   HL
+   LD   (HL),#F9   ;LD SP,HL
+   INC   HL
+   LD   (HL),#C9   ;RET
+   RET
+;БЕЗ КОММЕНТАРИЕВ
+IMON   DI
+   LD   A,24
+   LD   (65535),A
+   LD   A,195
+   LD   (65524),A
+   LD   (65525),HL
+   LD   HL,#FE00
+   LD   DE,#FE01
+   LD   BC,256
+   LD   A,H
+   LD   (HL),#FF
+   LDIR
+   DI
+   LD   I,A
+   IM   2
+   EI
+   RET
+
+TEXT   DEFS   32,"*"
+   DEFB   "*      HELLO SPBZXNET !!!"
+   DEFB   "     *"
+   DEFB   "*    WRITTEN BY TRUSOV ILYA"
+   DEFB   "   *"
+   DEFS   32,"*"
+   DEFB   0
+SPEED
+Да, не поймите что  таким  макаром  можно
+выводить только  монохромные  картинки, с
+цветными можно поступать абсолютно также.
+Кстати тем же макаром можно  организовать
+скроллер - т. е. текст сначала  полностью
+выводится а затем при нажатии  на  кнопки
+лишь  меняется   адрес   на   виртуальном
+экране. Так  что   скроллинг   происходит
+оочень быстро. Кстати можно строить вывод
+при помощи команд LD и PUSH :
+;ПРОЦЕДУРА ВЫВОДА  СПРАЙТА  2X1  НА  2/3
+;ЭКРАНА СНИЗУ
+;ВХОДНЫЕ ДАНЫЕ : DE - АДРЕС СПРАЙТА + 16
+;ВЫХОДНЫЕ ДАНЫЕ : НЕТ
+P2X2   LD   HL,#5800   ;ВЫВОД НИЖНЮЮ ТРЕТЬ 
+   LD   (P2X2_0+1),HL
+   LD   H,#50      ;ВЫВОД ВО ВТОРУЮ ТРЕТЬ
+   LD   (P2X2_1+1),HL
+   EX   DE,HL
+   LD   (P2X2_4+1),SP   ;СОХРАНЯЕМ УКАЗАТЕЛЬ НА СТЕК
+   LD   A,8      ;ВОСЕМЬ БАЙТ В СИМВОЛЕ
+   DEC   HL
+P2X2_3
+   LD   D,(HL)      ;БЕРЕМ ИСХОДНЫЕ ДАННЫЕ
+   DEC   HL
+   LD   E,(HL)
+   DEC   HL
+P2X2_0
+   LD   SP,0
+   DUP   128      ;ВЫВОДИМ 
+   PUSH   DE
+   EDUP
+   LD   (P2X2_0+1),SP
+P2X2_1
+   LD   SP,0
+   DUP   128      ;И ЕщЕ РАЗ,НО В ДРУГУЮ ЧАСТЬ
+   PUSH   DE
+   EDUP
+   LD   (P2X2_1+1),SP
+   DEC   A
+   JP   NZ,P2X2_3
+P2X2_4
+   LD   SP,0
+   RET
+Ну вот,собственно,пора с быстрой графикой
+кончать : основные принципы вы знаете , а
+дальше можно извращатьса как душе  угодно
+и хоть до бесконечности...
+(C) Trusov Ilya

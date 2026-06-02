@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 2917,
+    "article_url": "https://zxpress.ru/article.php?id=2917",
+    "print_url": "https://zxpress.ru/print.php?id=2917",
+    "title_link": "Oт редакции - О выходе ньюски летом.",
+    "order": 1,
+    "issue_label": "31",
+    "short_slug": "Oт_редакции_-_О_выходе_ньюски_летом"
+  },
+  {
+    "article_id": 2920,
+    "article_url": "https://zxpress.ru/article.php?id=2920",
+    "print_url": "https://zxpress.ru/print.php?id=2920",
+    "title_link": "Интернет - Прямое включение в Internet.",
+    "order": 2,
+    "issue_label": "31",
+    "short_slug": "Интернет_-_Прямое_включение_в_Internet"
+  },
+  {
+    "article_id": 2918,
+    "article_url": "https://zxpress.ru/article.php?id=2918",
+    "print_url": "https://zxpress.ru/print.php?id=2918",
+    "title_link": "Список BBS - Список BBS. Открылся третий гейт с FidoNet.",
+    "order": 3,
+    "issue_label": "31",
+    "short_slug": "Список_BBS_-_Список_BBS_Открылся_третии_геит_с_FidoNet"
+  },
+  {
+    "article_id": 2919,
+    "article_url": "https://zxpress.ru/article.php?id=2919",
+    "print_url": "https://zxpress.ru/print.php?id=2919",
+    "title_link": "Устав SPbZXNet - Устав сети SPbZXNet v2.18.",
+    "order": 4,
+    "issue_label": "31",
+    "short_slug": "Устав_SPbZXNet_-_Устав_сети_SPbZXNet_v218"
+  },
+  {
+    "article_id": 2921,
+    "article_url": "https://zxpress.ru/article.php?id=2921",
+    "print_url": "https://zxpress.ru/print.php?id=2921",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 5,
+    "issue_label": "31",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  }
+]

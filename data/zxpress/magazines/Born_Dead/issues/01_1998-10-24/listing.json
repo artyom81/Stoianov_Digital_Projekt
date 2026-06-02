@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 700,
+    "article_url": "https://zxpress.ru/article.php?id=700",
+    "print_url": "https://zxpress.ru/print.php?id=700",
+    "title_link": "Легенды оживают - О выходе журналов ZX-Power #3 и Oberon #5.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Легенды_оживают_-_О_выходе_журналов_ZX-Power_3_и_Oberon_5"
+  },
+  {
+    "article_id": 701,
+    "article_url": "https://zxpress.ru/article.php?id=701",
+    "print_url": "https://zxpress.ru/print.php?id=701",
+    "title_link": "Новое в мире звуков - O проблемах качественного цифрового звука на AY.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Новое_в_мире_звуков_-_O_проблемах_качественного_цифрового_зв"
+  },
+  {
+    "article_id": 699,
+    "article_url": "https://zxpress.ru/article.php?id=699",
+    "print_url": "https://zxpress.ru/print.php?id=699",
+    "title_link": "От авторов - О выходе первого номера Самарской газеты.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_О_выходе_первого_номера_Самарскои_газеты"
+  },
+  {
+    "article_id": 5279,
+    "article_url": "https://zxpress.ru/article.php?id=5279",
+    "print_url": "https://zxpress.ru/print.php?id=5279",
+    "title_link": "От редакции - Критика , информация об авторах.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_Критика_информация_об_авторах"
+  },
+  {
+    "article_id": 4783,
+    "article_url": "https://zxpress.ru/article.php?id=4783",
+    "print_url": "https://zxpress.ru/print.php?id=4783",
+    "title_link": "Тема - Тусовка: CSP'99 - интервью с отцом группы Playgear классным дядькой Ze Pagan.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Тема_-_Тусовка_CSP99_-_интервью_с_отцом_группы_Playgear_клас"
+  },
+  {
+    "article_id": 1920,
+    "article_url": "https://zxpress.ru/article.php?id=1920",
+    "print_url": "https://zxpress.ru/print.php?id=1920",
+    "title_link": "WANTED !!! - Разыскиваются все те же программы.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "WANTED_-_Разыскиваются_все_те_же_программы"
+  },
+  {
+    "article_id": 4586,
+    "article_url": "https://zxpress.ru/article.php?id=4586",
+    "print_url": "https://zxpress.ru/print.php?id=4586",
+    "title_link": "С миру по биту - Вячеслав Меднаногов отвечает на письма читалетелей по игре НЛО - Враг Неизвестен.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "С_миру_по_биту_-_Вячеслав_Меднаногов_отвечает_на_письма_чита"
+  },
+  {
+    "article_id": 10516,
+    "article_url": "https://zxpress.ru/article.php?id=10516",
+    "print_url": "https://zxpress.ru/print.php?id=10516",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 26).",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_26"
+  }
+]

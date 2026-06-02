@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 10246,
+    "article_url": "https://zxpress.ru/article.php?id=10246",
+    "print_url": "https://zxpress.ru/print.php?id=10246",
+    "title_link": "Вступление - не заставил себя долго ждать новый номер нашей газеты ;).",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "Вступление_-_не_заставил_себя_долго_ждать_новыи_номер_нашеи"
+  },
+  {
+    "article_id": 10247,
+    "article_url": "https://zxpress.ru/article.php?id=10247",
+    "print_url": "https://zxpress.ru/print.php?id=10247",
+    "title_link": "Софт - X-DOS о планах развития новой оперционной системы для Спектрума.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Софт_-_X-DOS_о_планах_развития_новои_оперционнои_системы_для"
+  },
+  {
+    "article_id": 10248,
+    "article_url": "https://zxpress.ru/article.php?id=10248",
+    "print_url": "https://zxpress.ru/print.php?id=10248",
+    "title_link": "News - Черная ворона - новый электронный журналы на Спектруме.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "News_-_Черная_ворона_-_новыи_электронныи_журналы_на_Спектрум"
+  },
+  {
+    "article_id": 10249,
+    "article_url": "https://zxpress.ru/article.php?id=10249",
+    "print_url": "https://zxpress.ru/print.php?id=10249",
+    "title_link": "News - Новости, старости: Chaos Construction 2001 состоялся, Pussy стала freeware, новое бумажное издание на спектруме, Raver покинул ряды Phantasy, новая версия эмулятора спектрума Real Speccy, Assembly 2001, новый коммандер Real Commander 2.0, Delirium Tremens уходят со спектрума...",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "News_-_Новости_старости_Chaos_Construction_2001_состоялся_Pu"
+  },
+  {
+    "article_id": 10250,
+    "article_url": "https://zxpress.ru/article.php?id=10250",
+    "print_url": "https://zxpress.ru/print.php?id=10250",
+    "title_link": "Press - обзор свежей прессы: Explorer 1,2,3, IzhNews #0C, Body, Zx-Light, Inferno #2, ULTIMATUM#2, MADNESS #1, KoSME#0.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Press_-_обзор_свежеи_прессы_Explorer_123_IzhNews_0C_Body_Zx-"
+  },
+  {
+    "article_id": 10251,
+    "article_url": "https://zxpress.ru/article.php?id=10251",
+    "print_url": "https://zxpress.ru/print.php?id=10251",
+    "title_link": "Humor - юмор.",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "Humor_-_юмор"
+  },
+  {
+    "article_id": 10252,
+    "article_url": "https://zxpress.ru/article.php?id=10252",
+    "print_url": "https://zxpress.ru/print.php?id=10252",
+    "title_link": "Fazan - Поток БезФазания от Анонимного Лица/GmdTeam.",
+    "order": 7,
+    "issue_label": "19",
+    "short_slug": "Fazan_-_Поток_БезФазания_от_Анонимного_ЛицаGmdTeam"
+  },
+  {
+    "article_id": 10253,
+    "article_url": "https://zxpress.ru/article.php?id=10253",
+    "print_url": "https://zxpress.ru/print.php?id=10253",
+    "title_link": "Программирование - формирование изображения на экране монитора.",
+    "order": 8,
+    "issue_label": "19",
+    "short_slug": "Программирование_-_формирование_изображения_на_экране_монито"
+  },
+  {
+    "article_id": 10254,
+    "article_url": "https://zxpress.ru/article.php?id=10254",
+    "print_url": "https://zxpress.ru/print.php?id=10254",
+    "title_link": "Программирование - формирование изображения на экране монитора (продолжение).",
+    "order": 9,
+    "issue_label": "19",
+    "short_slug": "Программирование_-_формирование_изображения_на_экране_монито"
+  },
+  {
+    "article_id": 10255,
+    "article_url": "https://zxpress.ru/article.php?id=10255",
+    "print_url": "https://zxpress.ru/print.php?id=10255",
+    "title_link": "Демопати - Chaos C0NstRucTI0n'2001 отчет от Shiru Otaku.",
+    "order": 10,
+    "issue_label": "19",
+    "short_slug": "Демопати_-_Chaos_C0NstRucTI0n2001_отчет_от_Shiru_Otaku"
+  },
+  {
+    "article_id": 10256,
+    "article_url": "https://zxpress.ru/article.php?id=10256",
+    "print_url": "https://zxpress.ru/print.php?id=10256",
+    "title_link": "Демопати - Chaos C0NstRucTI0n'2001: результаты.",
+    "order": 11,
+    "issue_label": "19",
+    "short_slug": "Демопати_-_Chaos_C0NstRucTI0n2001_результаты"
+  },
+  {
+    "article_id": 10257,
+    "article_url": "https://zxpress.ru/article.php?id=10257",
+    "print_url": "https://zxpress.ru/print.php?id=10257",
+    "title_link": "Демосцена - портрет \"нового\" Спектрумиста.",
+    "order": 12,
+    "issue_label": "19",
+    "short_slug": "Демосцена_-_портрет_нового_Спектрумиста"
+  },
+  {
+    "article_id": 10258,
+    "article_url": "https://zxpress.ru/article.php?id=10258",
+    "print_url": "https://zxpress.ru/print.php?id=10258",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 13,
+    "issue_label": "19",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

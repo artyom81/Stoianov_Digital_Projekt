@@ -1,0 +1,1142 @@
+01 - Part 2 - Playing tips.
+****************************
+*  PART 2  - PLAYING TIPS  *
+****************************
+
+ As  this is the first issue, we have had
+no  requests as yet for any playing tips,
+so  for one issue only, here is the (sort
+of)  definitive  list  of Multiface pokes
+for  the  Spectrum.  I'm sure this can be
+added  to,  so let me know if you know of
+any others. These POKES can be entered by
+the  use  of the PD utility included with
+this  issue, POKE-IT, as well as with the
+registered  version  of  the  PC emulator
+Z80.
+
+
+GAME NAME         EFFECT  POKE   POKE
+=========================================
+1942              Lives          47007  0
+1943              Rolls          53158  0
+                  Energy         57538  0
+19 Shooting Range Time 33849 0   33531  0
+                  Ammo 33539 195 35717  0
+                  No wt limit    35718  0
+                                 36451 62
+                                 36452  0
+                  Full Speed     36453  0
+ЗDC               Immunity      34298 201
+                  Jumps          34036  0
+                  Oxygen         26955  0
+3D STARFIGHTER    Bits          35714 183
+720 DEGREES       Time          41918   0
+                  Lives         40774   0
+                  Money         40360   0
+                  Tickets       37357   0
+ABU SIMBEL        Lives         49290   n
+                  TF objects    45877 201
+                  TF yourself   47656   0
+ACADEMY           No restrictions
+                     31378 225  31386 255
+                  Load any level 32924 33
+                  Immunity      50584 201
+                  Fuel          44456   0
+                  Bombs         44831   0
+                  Missiles      44716   0
+                  Flares        44752   0
+                  AMMS          44794   0
+ACE               Immortality   32506   0
+                     32507   0  32508   0
+ACROJET           Lives         25148  10
+ACTION FORCE II   Energy        51454  36
+                  Lives         51904   0
+                  Tank Hits 10  60579  49
+AD ASTRA          Better Fire   28591   0
+                     28592   0  28593   0
+                  Lives         35852   0
+AGENT X           Time & Lives  26099   0
+                                25917   0
+                  Energy        57776   0
+AGENT X II Pt1    Lives         57821   0
+AGENT X II Pt2    Lives         62499   0
+AGENT X II PtЗ    Lives         50561   0
+AH DIDDUMS        Lives         24942   n
+AIRWOLF 2         Lives         53471   0
+ALIEN 8           Immortality   43735 201
+ALIEN HIGHWAY     Immunity      39443   0
+                                39142   0
+                  Time          35125   0
+ALIENS            Ammo 31014 0  30829   0
+                                30830   0
+                  No impregnation
+                                30831   0
+                  Stamina       31834   0
+                  No Capture    30768   0
+                                34484 195
+ALIEN SYNDROME    Lives         47503   0
+                  Immunity      47984   0
+AMAUROTE          No Bomb BounceЧб192   0
+                  Money         42506   0
+                  No damage     42456   0
+                  Bombs         38552   0
+                  No city damagŴ2974 175
+                  No explosions 38341   0
+AMAZON WOMEN      Lives         57690 183
+ANARCHY           Lives         42404   n
+ANDROID           Lives         52250  32
+ARCADIA           Lives         25776   0
+ARCTIC FOX        Missiles/MinesS8309   0
+ARKANOID          Lives         33702   0
+ARKANOID II 48    Lives 33055 255 33909 0
+                  Two bats      40413   1
+                  Catch         40413   4
+                  Laser         40413  32
+                  Next screen   40414   1
+                  Power Ball    40415  64
+                  Bricks no moveЗЗ423   0
+                                33429   0
+                  No of bricks  40443   n
+                  Speed of ball 40420   n
+ARKANOID II 128   Lives         37586   0
+                  Lives         32815   n
+                  High Speed    36451  62
+                     36452 100  36453   0
+ARMY MOVES Pt1    Lives         54597   0
+ARMY MOVES Pt2    Lives         53772   0
+ARTURA            Energy        32138 182
+ATF               No wt limit   35717   0
+                                35718   0
+                  Full speed    36451  62
+                     36452 102  36453   0
+                  Lives         32815   n
+                  Lives         32990   0
+ATHENA            Megajumps     50267   0
+                  Time          55268  61
+                  Lives         51212   0
+ATIC ATAC         Lives & EnergyЗб519   0
+                     35353   0  39092  92
+ATTACK TOMATOES   Time          25323   0
+                  Lives         49433   0
+ATV SIMULATOR     Lives         60250   0
+                  Time          53718 201
+AUF WIEDERSEHEN M.Immunity      42160 201
+                  Walk on water 37002   0
+                  No crushing   47715 201
+                  Aliens harmless
+                                42160 201
+AVENGER           Kwon calls    41619  24
+                  Lives         58294   0
+BALL CRAZY        Lives         28086   n
+BARBARIAN (Palace)Lives         51005   n
+BARBARIAN (Psygn.)Lives         27680   n
+BASIL GREAT MOUSE Lives 41296 0 41968 201
+BATMAN            Lives         36798   0
+BATTY             Lives         47633   n
+BEDLAM            Lives 58691 0 59430   0
+                        59783 0 59972   0
+                                60069   0
+                  Stop Balls    30037   0
+BIGFOOT           Lives         55189   0
+BIONIC COMMANDO   Lives         34690   0
+                  Lives         34741   n
+BLACK LAMP        Lives         33606 127
+                                34487 127
+BLIND PANIC       Energy        40596 201
+                  Keys          38688 195
+                  Screen Co-ordsЗ8929   x
+                                38930   y
+                  Level         41013   l
+                  Auto-Fire     34513  58
+                  Energy        52108   0
+BMX KIDZ          Energy        52108   0
+BMX SIMULATOR     Lives         49264  58
+BOBBY BEARING     Lives         28094   0
+BOBSLEIGH         Time 43589 0  43549   0
+                                43614   0
+BOMBJACK II       Lives         25379   0
+BOOTY             Lives         58294   0
+BOUNDER           Lives         36610   0
+BOUNTY BOB        Lives         50155   n
+BRAIN ACHE        Lives         28064   0
+BRAVESTARR        Time 51803 24 51804  18
+BRIDE OF FRANKEN. Energy        40476 201
+                  No nastie     37605 201
+                  Life Elixir   35486 201
+BUBBLE BOBBLE     Lives         43871  52
+                  Pause skips   36854 225
+                      36855 225 36856 195
+                      36857   7 36858 141
+BUBBLER           Lives         57517   0
+                  Time          52533   0
+BUGGY BOY 128k    Time          37966  24
+CAMELOT WARRIORS  Lives 53920 33 53921  6
+                                53922   0
+CAR WARS          Lives         32337   0
+CATCH 23          Ammo          46813   0
+                  Bombs         61635   0
+CAULDRON          Lives         40060   0
+                  Magic 28602 0 34756   0
+CAULDRON II       Lives         52133   0
+CERIUS            Lives         65520   0
+CHILLER           Lives         34025   0
+CHRONOS           Lives         53407   n
+                  Auto fire     26987 201
+CHUCKIE EGG       Lives         42873   0
+CHUCKIE EGG 2     Lives         35453   0
+COBRA             Lives         36515 183
+COMBAT SCHOOL     Time          37088   0
+                  Normal Time   37088  53
+CONQUESTADOR      Immunity      59490   0
+                  No nasties    62370   0
+COP-OUT           Immunity      44929   0
+CRAZY CARS        Time          29403   0
+CRITICAL MASS     Energy        56879   0
+CROSSWIZE         Lives         51617   0
+                  Immunity      33848   8
+CRYSTAL CASTLES   Lives         63763   0
+CYBERNOID         Lives         24917 255
+                  Weapons       31799   0
+                  Immunity      36617 195
+                  Cyber-Maces   27210   0
+                                27211   0
+                  Lives         25941   n
+                  No cannons    34732 201
+                                36156 201
+                  No aliens     36928 201
+                  No rockets    38896 201
+                  No nasties    39906 201
+CYBERNOID II      Ammo          32202   0
+DAN DARE          Energy        23974 168
+DAN DARE 2        Time 23453 237 60677  0
+                  Lives         23450 212
+                  No Treens     61827   0
+                                61840   0
+                  Immunity      56382 201
+                  Level 53778 0 63397  11
+                  Energy        58278  62
+                  58280   18    58281 201
+DARK SIDE         Shields       45482   0
+                                47924   0
+                  Fuel          45436   0
+                  Time          47621 167
+DEATHSCAPE        Everything    50752   0
+                                51186   0
+DEATHWISH 3       Everything    38678 183
+                                39353 183
+                                43301 183
+DEFENDA           Lives         37531   0
+                  Smart Bombs   34163   0
+DEFLEKTOR         Everything    34473   0
+                                41784   0
+                                42707 201
+                  Energy        42557 201
+                  No overload   42627 201
+DEMONS REVENGE    Energy        30699  17
+DENIZEN           Torch         58594   0
+                                56505 205
+                  Bullets       61226   0
+                  Energy        56355   0
+                                60614   0
+                                64053   0
+                  Door Passes   60822   0
+                                60823   0
+                                60824   0
+DESOLATOR         Flips         36770   0
+                  Energy        45205 201
+DEVIANTS          Ammo          35272   0
+                                35286   0
+                  Time          26575   0
+                  Energy        61196   0
+DIZZY             Immunity      54216   0
+DOOMDARKS REVENGE No mist       28262  24
+                                25525   0
+                  Free movement 33886  24
+                                33887  25
+                  Dragons no harm
+                                33611 201
+                  Choose at night
+                                34388  62
+                                31423 195
+                  Free warriors 34601   0
+                                34639   0
+                  See buildup   26009 122
+                  Always recruitЗ1957  62
+                                32064  24
+                  No night move 33270 201
+                  Control All   29583  62
+                                29584  57
+                                29585  50
+                                29586 130
+                                29587  93
+                                29588  24
+                                29589 241
+DOUBLE TAKE       Lives         40243 201
+                                39475 201
+DOWN TO EARTH     Lives         40141 182
+                  Bombs         38583   0
+                                38911   0
+                                39168   0
+                                39387   0
+                  Unknown       40141 205
+DRILLER           Energy        48246   0
+                  Shield        49425   0
+                                49022   0
+DRUID             Energy        24890 201
+DRUID 2           Energy        30012  58
+                  No nasties    34639  24
+DRAGONS LAIR      Lives         51867   0
+DYNATRON          Lives         44969   n
+EIDOLON           Immunity      41317   0
+                                41318  24
+                                36117 201
+                                40232  78
+                                41455  17
+ELITE 48k         Dead Aliens   46848 201
+ENDURO RACER      Time          43542   0
+                                43643   0
+ESKIMO EDDIE      Lives         24686  24
+                                24687  76
+EXOLON            Immunity      38120 201
+                  Ammo          31646   0
+                  Grenades      35456   0
+                  No nasties    42338   0
+                  No cannon fireЗб845   0
+                  Lives         38221   0
+EXPRESS RAIDER    Strength      60503   0
+                  Lives         60154   0
+                  Time          61100   0
+FAT WORM BLOWS    Immunity      30624 201
+FAIRLIGHT 2       Energy        30429   0
+                  No locked doors
+                                32027  24
+                  Carry anythingЗ1341   0
+FINDERS KEEPERS   Lives         34252   0
+FIREFLY           Lives         44997 255
+FIRELORD          Lives         34509   0
+FIRETRAP          Lives         46509 195
+                  Time          47629   0
+                  Immunity      45654   0
+                                45655 122
+FLYING SHARK      Lives         54462 201
+                  Smart Bombs   54379   3
+FRANK N STEIN     100 Lives     28277 100
+FREDDY HARDEST Pt1Lives         64011 183
+                  Invincible    63519  24
+FREDDY HARDEST Pt2Lives         61607 183
+FREEZ BEEZ        Lives         34610   0
+FUTURE KNIGHT     Energy        31683   0
+GALVAN            Lives         23290   0
+                                23414   0
+GAME OVER         Lives         39333   0
+                                38691   0
+                  Power         39273 201
+                                38631 201
+                  Grenades      32416   0
+                                32378   0
+GARFIELD BIG FAT  No hunger     33595   0
+GAUNTLET          No generation 34884  24
+                  Health        48489   0
+                                48497   0
+                  Time          36919   0
+                  Keys          44566   0
+                  Extra Fire    38050   0
+                                38052   0
+                  Amulet        43414   0
+                  Potions       43617  24
+                  Set thru wall 37492  24
+                  Start wr die  38769  62
+                                38770 192
+                                38771   0
+                  Big Pockets   44378  24
+                                44384 255
+                  Monsters      40897 201
+                  No missiles   38170  24
+GHOSTS N GOBLINS  Lives         33352 201
+                  Extra Speed   33433 201
+GILLIGANS GOLD    Lives         52881   0
+GOONIES           Lives         33400 183
+GOTHIK            Lives         43934  58
+GREAT ESCAPE      Energy        41953 183
+GREAT GURIANOS    Lives         34962   0
+GREEN BERET       Lives         42076   0
+                  Extra Fire    46377   8
+                  No mines      44607   0
+                  No mortar     47183   0
+GUNFIGHTER        Lives         65535   0
+GRYZOR            Lives         33015   n
+GYROSCOPE         Everything    53887 201
+                                59149   0
+HALLS OF THINGS   Energy        32717   0
+HEAD OVER HEELS   Immunity      43132   0
+                  Lives         42195   0
+                  Super Jumps   35315   0
+HEIST 2012        Lives         36106  12
+                                36190  12
+HELLFIRE ATTACK   Lives         50017   0
+HORACE GOES SKIINGNo traffic    29270   0
+HUNCHBACK         Lives         26888   0
+HYSTERIA          Invincible    44588 201
+I, BALL           Lives         49165   0
+                                48790   0
+                  Missiles      45188   0
+                  No overheat   49781  33
+I, BALL 2         Lives         43384   n
+                  Time          49483   0
+IKARI WARRIORS    Invincible    40272   0
+IMPOSSABALL       Lives         41185   0
+                  Time          37706   0
+                                37539   0
+INDIANA JONES TEM.Lives         33948   0
+INSPECTOR GADGET  Energy        54993   0
+INTO THE EAGLES N.Ammo          36640   0
+                                36641   0
+                  Keys          40512   0
+                                40513   0
+                  Hits          41136   0
+                                41137   0
+                  Explosives    40096 195
+                  Time          36640   0
+                                33641   0
+JACK & THE BEANST.Lives         56110   0
+JACK THE NIPPER   Immunity      44278  58
+                                44285  58
+JACK THE NIPPER 2 Lives         43251   0
+JAILBREAK         Lives         50651   0
+JET SET WILLY     No monsters   35123   0
+                  Jumping       36358   0
+                  Fall w/o dyingЗб477   1
+                  No code       34275   0
+                  No attic bug  59900 255
+                  No objects    37874   0
+                  Lives         35899   0
+                  Tree Easier   36545   0
+                  Collect tap   41983 255
+                  No Maria      37925   0
+                  No Hades      50512 168
+                                50520 168
+JOE BLADE         Stop Clock    65026  50
+                                38506   0
+                  Doors Unlockedб5029  50
+                  No enemies    65032  50
+                  Energy        65035   0
+                                37797   0
+JUDGE DREDD       Lives         24936  24
+
+KAI TEMPLE        Lives         47783   0
+                                47824   0
+KARNOV            Lives         32972   0
+KILLER RING       Lives         33636   0
+KNIGHTMARE        Energy        38686  16
+                                38693  16
+KOKOTINI WILF     Lives         42214   n
+KOSMIC KANGA      Lives         36212   0
+KRAKOUT           Lives         46565   0
+
+LAZER WHEEL       Lives         32849   0
+LAZY JONES        Lives         56693   0
+LEGEND OF KAGE    Lives         30609   n
+LIGHTFORCE        Lives         40725   0
+LIVING DAYLIGHTS  Lives         38913 201
+LUNAR JETMAN      Lives         23439 201
+                                36963   0
+MAD MAX           Lives         58472  12
+MANIC MINER       Lives         35136   0
+MARBLE MADNESS    Lives         39579   0
+MARIO BROS        Lives         44079   0
+MASTERS OF UNIVER.Lives         42173   0
+                  Lives         42174   n
+                  Immunity      51406   0
+                  No Of Ghosts  43210   n
+                  Slow Clock    52346  60
+                  Any No Chords 41420 175
+                                41421   0
+METROCROSS        Time          43006 195
+                                44490   0
+MONTY MOLE        Fall w/o dyingЗ5874 255
+                  Lives         38004   0
+MOON ALERT        100 Lives     42404 255
+MOON STRIKE       Lives         52221   0
+MOTOS             Lives         42241   0
+MR WIMPY          Skip Screen 1 33501   0
+                  Lives         33693   0
+MUGSY             Lives         43012   0
+MUTANT MONTY      Lives         54933   0
+NEBULUS           Lives         32921   0
+NEMESIS           Lives         51949   0
+NIGEL MANSELLS GP 255 Seconds   33581 255
+                             -  33596 255
+NORTHSTAR         No Aliens     44433   0
+NOSFERATU         Time          32499   0
+                  No Nasties    39791 201
+ORBIX THE TERRORB.Lives         65529 191
+                                32127   0
+                                32188   0
+OUT RUN           Time          39204   0
+OVERLANDER        Lives         29521   0
+PACLAND           Lives         23541   0
+PAPERBOY          Papers        49263   0
+                  Lives         50577 190
+                  Immunity      50495 201
+PENTAGRAM         Lives         49977 182
+PROJECT FUTURE    No Aliens     27662   0
+PSYTRON           Fuel          28625   0
+                  Oxygen        26143 255
+                                26144   0
+PUD PUD           Lives         49287   0
+PUNCHY            Lives         45632   0
+RAMBO             Lives         27401  52
+                                80263   0
+RAMPAGE           Lives         56693   0
+RANARAMA          Lives         57436 205
+                                59836 205
+                                57572 201
+                                59821   0
+                                57421   0
+RASTAN            Lives         48909   n
+REBEL             Immunity      49958   0
+                  Energy        51139   0
+                                49239   0
+                  Time          49249   0
+RENEGADE          Lives         41048 195
+RENEGADE III      Lives         38500   0
+                  Time          39095   0
+RIVER RESCUE      Lives         33420   0
+ROGUE-TROOPER     Lives         30942   0
+                  Fire Power    35091   0
+RYGAR             Time          41048 195
+                  Lives         61577   0
+SABOTEUR          Clock         46998   0
+                  Lives         29894   0
+SABOTEUR 2        Time          37122   0
+                  Energy        61340 201
+SACRED ARMOUR ANT.Lives         34270   0
+SALAMANDER        Invincible    38902 201
+SAS COMBAT        Lives         33034   0
+SCOOBY DOO        Lives         29614   0
+SCUBA DIVE        Lives         55711   n
+SHAOLINS ROAD     Lives         50274 183
+SIDEARMS          Lives         29411 127
+SIDEWIZE          Invincible    52637   9
+                                52647   9
+SIGMA 7           Lives         34202  19
+                                58524  19
+                                58852  19
+SKATEBOARD        Lives         22568   0
+SLAPFIGHT         Lives         48872   0
+                                48873   0
+                                48874   0
+SOLOMONS KEY      Lives         49344   0
+                  Fireballs     50831   0
+SPACE HARRIER     Lives         51755 194
+                                51756 191
+SPLIT PERSONALIT. Lives         54397  99
+                                54398   2
+STAINLESS STEEL   Lives         40702   0
+STARGLIDER        Fuel          54647 201
+                  Shield        54690 201
+STREET HAWK       Lives         39990  91
+STARGLIDER        Fuel          54647 201
+                  Shield        54690 201
+STAR RAIDERS 2    Lives         46214 195
+STORMLORD         Lives         56877   0
+STREET GANG       Lives         39254   0
+STRIKE FORCE COBRALives         48389   0
+                                48568   0
+                                48585   0
+SUPER CYCLE       Time          43560 150
+SWEEVOS WORLD     Lives         33219   0
+                  Lives         37008   n
+TANTALUS          Immunity      42247   0
+                  Lives         42228   0
+TARZAN            Lives         51002 183
+                                51185 183
+                  Energy        52268 183
+                  Time          51013   0
+TECHNICIAN TED 128Immunity      43147  33
+                                44485  24
+                  Fall w/o dyingЧЗ201 255
+                  Walk thru walls
+                                44492   0
+                  Time          41067   0
+                  Lives         43766   0
+                                43788  24
+TERRA CRESTA      Lives         37797   0
+                                37798   0
+                                37799   0
+THUNDERCATS       Lives         31401   0
+                                31402   0
+THRUST II         Lives         34200   0
+TIR NA NOG        No Sidhe      34202 200
+TOP GUN          Lives Player 1 26460   0
+                 Lives Player 2 27727   n
+                                27728   n
+TRANSMUTOR        Lives         28878   0
+TRANTOR           Time          56711   0
+                  Energy        56596   0
+
+UCM            Lives Player 1    36337   0
+               Lives Player 2    43734   0
+URIDIUM        Immunity          55419   0
+                                 55420 255
+               Lives             31308   0
+
+WAR            Lives             37033   0
+WESTBANK       Lives             51210   0
+WILD WEST HERO 30 Lives          23821  30
+WIZBALL        Immortality       23430 188
+WONDERBOY      Lives             34362   0
+               Axe               34338   0
+               Load any level    34106 195
+                                 40816 195
+               Immunity          34106 195
+                                 40816 195
+               Vitality          41250 195
+                41870 195        38176   0
+WRIGGLER       Lives             50173   0
+
+XECUTOR        Invincible Pl 1   47216 201
+               Invincible Pl 2   47320 201
+               No Enemy Fire     48259 201
+XEVIOUS        Lives             53592 200
+XENO           Lives             22225   1
+
+YOGI BEAR      Lives             35090   0
+                35091   0        24900   0
+                35092   0        35093   0
+                45026  24
+
+ZAXXON         Lives             48825 250
+ZIP ZAP        Lives             53752   0
+ZYNAPS         Lives             45592  24
+                45008 255
+               Immunity          39775 201
+ZZOOM          Lives             24743   0
+
+  Unless  otherwise stated, the effects of
+these   POKES   are  infinite.  Any  pokes
+containing  "n"  can  have a number in the
+range  1-255  inserted  in  its place. For
+example  a lives POKE - eg, 23456,n can be
+entered  as 23456,200 for 200 lives. Those
+POKES  with  more  than  one set of values
+(for  example the YOGI BEAR poke which has
+6)  all  values  must  be  entered for the
+effect to occur.
+
+==========================================
+
+PLAYING GUIDE No.1 - Dizzy
+
+  The  most  sadistically  annoying set of
+adventures ever devised were the series of
+Dizzy   games   by  the  ironically  named
+Darling  brothers. But, if you are tearing
+your  hair  out,  unable  to pull yourself
+through   the   never-   ending   set   of
+adventures,   heres   a  complete  set  of
+solutions to all seven of the Dizzy games,
+plus  some  tips.  I have not included the
+whereabouts  of  the  collectibles in each
+game  (ie,  the  "30 coins") as this would
+make  for a massive list, but just for the
+record,  heres  what you must look out for
+in each game:
+DIZZY                   - Nowt
+DIZZY Crash Edition     - Nowt 2
+DIZZY 2                 - 30 Gold Coins
+DIZZY 2 Crash Edition   - 16 Gold Coins
+DIZZY 3                 - 30 Gold Coins
+DIZZY 3.5               - Nowt 3
+DIZZY 4                 - 30 Diamonds
+DIZZY 5                 - 30 Stars
+DIZZY 6                 - 20 Cherries
+DIZZY 7                 - Nowt 4
+
+  At the end of the solutions, there a few
+cheats  for  the  games,  and  any  I have
+missed, I would love to hear about. If you
+desperately  need  to know the whereabouts
+of  the  items  above,  drop us a line and
+we'll  see if we can sort it out for Issue
+2!
+
+==========================================
+
+DIZZY
+
+  R,  GET  GREASE  GUN,  R,  R, USE GUN ON
+CART,  D,  GET  KEY,  U,  Lx10, USE KEY ON
+DOOR,  R, R, U, GET SPADE, D, R, USE SPADE
+BELOW SPIDER, D, GET TROWEL, USE TROWEL ON
+UPPER  MUSHROOM,  R, R, GET CUTTERS, L, L,
+U,  Lx7,  D, L, L, DROP CUTTERS ON CHAINS,
+L,  L,  GET  WIG, RxЧ, U, RxЗ, DROP WIG IN
+POT,  LxЗ,  D, D, GET RAINCOAT, U, U, LxЗ,
+U,  TAKE  DRY ICE, D, RxЗ, D, LxЧ, USE DRY
+ICE,  L, TAKE AMULET, RxS, U, DROP AMULET,
+D, R, GET GUN, L, D, KILL GHOST, R, D, GET
+GOLD,  U,  L,  U,  U,  Rx9,  DROP  GOLD IN
+BUCKET,  GET  LINING,  Lxб, DROP LINING IN
+POT,  LxЗ,  D, D, RxЗ, GET OIL, LxЗ, U, U,
+Rx13,   DROP   OIL   ON  DRAWBRIDGE,  TAKE
+FEATHER,  Lx10, DROP FEATHER IN POT, Rx12,
+TAKE  TROLL  BREW, Lx12, DROP BREW IN POT,
+R, TAKE TORCH, L, LIGHT FIRE UNDER POT, R,
+R, TAKE FLASK, L, L, DROP FLASK ON POT, L,
+L,  L,  TAKE  AMULET,  Rx14, U, R, DESTROY
+FIREBALLS,  L,  D, Lx11, TAKE FLASK, Rx11,
+U,  R,  DROP  FLASK BY ZAKS......Done It!!
+Note:  Several  objects are useful in this
+game,  but  are  not vital to complete the
+adventure. Just for the record, these are:
+CLOVE OF GARLIC - Kills bats
+INSECTICIDE - Kills Spiders
+BIRD SEED - Kills...er...Birds
+PICKAXE - Unblocks tunnel, to get dagger
+HARD HAT - Destroys falling stalactites
+EMERALD - Drop on yellow statue  to  enter
+tomb
+
+==========================================
+
+DIZZY - Crash Edition
+
+  L,  L,  GET EGG & GREASE GUN, L, USE GUN
+ON  CART,  D, GET PURSE, DROP AT BOTTOM OF
+SCREEN,  D, GET GARLIC, U, L, JUMP ON BAT,
+R, DROP GARLIC, L, GET EGG & BOTTLE, R, U,
+R,  R, DROP BOTTLE, L, L, D, GET PURSE, U,
+R, R, R, DROP GOLD, L, GET BOTTLE, R, DROP
+BOTTLE  ON  POT, GET PURSE, R, DROP PURSE,
+GET  BIRD  SEED, JUMP ON BIRD, R, R, R, R,
+KILL  BIRD,  U, KILL BIRDS, DROP SEED, GET
+LASER,  D, L, USE SPRINGBOARD TO JUMP LEFT
+ONTO  WALL,  L,  L,  L, L, DROP LASER, GET
+PURSE, R, R, R, R, R, DROP PURSE, GET WIG,
+L,  L,  USE  SPRINGBOARD, L, L, L, L, DROP
+WIG  IN  POT,  R, R, GET CUTTERS, L, L, L,
+DROP CUTTERS, R, R, GET LASER, L, L, L, L,
+D,  D,  DROP LASER, U, GET GARLIC, R, KILL
+BAT,  R, GET ONTO PLATFORM, JUMP SO BRIDGE
+FALLS,  R, DROP GARLIC, GET FEATHER, L, L,
+L,  U  U,  R, R, R, PUT FEATHER IN POT, L,
+GET CUTTERS, L, L, L, GET TROLL BREW, DROP
+CUTTERS,  R,  USE  SPRINGBOARD  TO  GO TOP
+RIGHT,  R, R, PUT BREW IN POT, L, L, L, L,
+GET  CUTTERS, R, USE SPRINGBOARD, D, L, L,
+USE CUTTERS, USE RAFT TO GET LINING, R, R,
+U,  R,  R,  R,  PUT  LINING IN POT, R, GET
+TORCH,   L,  LIGHT  FIRE  UNDER  POT,  GET
+BOTTLE ..... Done it!!!!
+
+==========================================
+
+DIZZY 2 - Treasure Island Dizzy
+
+  L,  GET  CHEST,  DROP CHEST BY CLIFF, U,
+Lx8,  U, U, GET SNORKLE, R, KICK STONE, R,
+R, GET SWORD, GET CAMERA, D, D, RxS, D, R,
+DROP  SWORD,  DROP CAMERA, R, D, R, R, GET
+SPADE,  R,  DROP SPADE ON ROCK, LxЗ, U, L,
+GET  CAMERA,  GET  SWORD, R, D, RxЧ, U, R,
+RxЧ,  GIVE  CAMERA  TO  STOREKEEPER, R, R,
+DROP  BOAT,  LxЗ,  GET  BIBLE,  L, L, DROP
+SWORD  ON  GRAVE, GET AXE, RETURN TO START
+SCREEN, L, U, L, L, DROP AXE ON BRIDGE, D,
+R,  GET  TREASURE,  RETURN TO STOREKEEPER,
+GIVE  TREASURE, R, R, DROP MOTOR, GET KEY,
+LxS, D, L, GET DYNAMITE, R, R, R, DROP KEY
+ON  BARREL,  D,  GET  MICROWAVE, RETURN TO
+START  SCREEN, DROP OVEN, L, U, Lxб, U, U,
+GET  DETONATOR,  D,  D, LxЧ, DROP DYNAMITE
+BESIDE ROCK, GO BEHIND OTHER ROCK AND DROP
+DETONATOR,   TAKE  BAG,  RETURN  TO  START
+SCREEN,  TAKE OVEN, RETURN TO STOREKEEPER,
+GIVE  BAG,  GIVE  OVEN, R, R, DROP PETROL,
+DROP  KEY,  R, Now, just pay the taxman 30
+Gold coins and you've done it!
+
+==========================================
+
+DIZZY 3 - Fantasy World Dizzy
+
+  GIVE  APPLE,  TAKE  BREAD, TAKE JUG, USE
+JUG  ON  FIRE,  L,  TAKE ROCK, RIGHT, DROP
+BREAD  AT RAT, U, DROP ROCK, TOP-LEFT, USE
+SWITCH,  U,  R, GET KEY, L, D, L, D, R, R,
+SWAP KEY FOR ROCK, L, L, UNDER LEDGE, SWAP
+BONE  FOR ROCK, ONTO LEDGE, L, AVOID BIRD,
+L,  DROP ROCKS INTO WATER, R, R, R, R, GET
+ROCK,  L,  L, L, L, USE ROCK, WALK ON LOG,
+L,  GET  KEY,  LxЗ,  TALK  TO  DOZY,  TAKE
+POTION, Rx8, USE POTION, L, GET KEY, R, R,
+R,  BOTTOM-LEFT,  USE  ONE  KEY  IN BOTTOM
+RIGHT  MACHINE, ANOTHER IN TOP LEFT, R, R,
+GET  COW,  R,  R, GET KEY, LxS, USE KEY IN
+BOTTOM LEFT, R, U, L, UP-RIGHT, U, TALK TO
+ELDER,  GET  CROWBAR,  D, L, WALK LEFT AND
+LAND  NEAR DRAGON, R, USE CROWBAR ON WELL,
+D,  L,  WAIT, GIVE COW TO SHOPKEEPER, TAKE
+BEAN,   R,   R,  GET  KEY,  L,  D,  R,  R,
+BOTTOM-LEFT,  USE  LAST  KEY,  R,  R, DROP
+BEAN,  L,  U, L, L, UP-RIGHT, U, TOP-LEFT,
+GET   PICKAXE,   R,   BOTTOM-  RIGHT,  GET
+KNOCKER,  L, L, FALL AND LAND NEAR DRAGON,
+LxЗ,  TOP-LEFT,  U,  R,  U, USE KNOCKER ON
+DOOR,  L, GET BUCKET, R, D, L, D, Rx9, USE
+BUCKET IN WATER, L, L, USE BEAN ON MANURE,
+USE  BUCKET,  U,  R, U, R, R, JUMP ON NEXT
+TWO  CLOUDS,  WALK RIGHT, R, JUMP GAP, GET
+EGG,  WALK  LEFT  THROUGH  GAP AND LAND ON
+VOLCANO,  L, D, LxЧ, D, DROP EGG ON STRAW,
+R,  USE  AXE  ON  LEDGE UNDER COIN, L, GET
+RUG, R, L, U, R, R, U, RxЗ, USE RUG, TOUCH
+SWITCH,  RESCUE DAISY (And if you have all
+30 coins...you've done it!!)
+
+==========================================
+
+DIZZY 3.5 - Into Magicland
+
+  U, TAKE HANDLE, JUMP LEFT, TAKE ROPE, R,
+USE  ROPE, TAKE BOOTS, L, U, R, JUMP RIGHT
+OFF  PLATFORM  TO  LAND  ON CLOUD, R, DROP
+BOOTS,  TAKE SHORT ROPE, USE ROPE ON SHORT
+ROPE,   USE  TIED  ROPE  ON  MACHINE,  USE
+HANDLE,  USE  HANDLE,  USE  HANDLE,  ENTER
+TELEPORTER....And you enter....
+
+==========================================
+
+DIZZY 4 - Magicland Dizzy
+
+  L,  GET  KEY,  L,  L,  L, JUMP ON SHARKS
+BACK,  USE KEY, DROP BOTTLE, L, GET HANDLE
+UP  STAIRCASE, L, L, U, GET POWER PILL, D,
+R,  R,  R,  JUMP  ON  WINDOWSILL,  JUMP ON
+CLOUD,  JUMP  RIGHT,  FALL ONTO WELL, JUMP
+RIGHT,  JUMP  LEFT,  TAKE  DUSTER FALL OFF
+CLOUD,  D,  STAY  ON  LEFT  OF  WELL,  USE
+HANDLE, TAKE BUCKET, DROP DUSTER, R, R, R,
+R,  KILL  GHOSTS,  TAKE  FROG,  R, TALK TO
+GLENDA,  R,  FILL  BUCKET,  L, GET DRINKME
+POTION,  L,  L, L ,L, L, L, L, L, DROP ALL
+EXCEPT DORA, L, GIVE DORA TO PRINCE, R, UP
+STAIRS,  R,  JUMP  ACROSS  TO TOP OF WELL,
+JUMP  RIGHT,  JUMP RIGHT TAKE STICK, U, GO
+TO  MIDDLE  OF  TOP  RIGHT  PLATFORM, JUMP
+RIGHT,  GET CAT, JUMP RIGHT OFF EDGE, TAKE
+DAGGER,   JUMP  LEFT,  JUMP  LEFT,  GO  TO
+GLENDA,  GIVE  CAT, (GO TO HALL), CUT LEAF
+FROM  BUSH,  LEAVE  IT,  GET BUCKET, L, L,
+START DRAWBRIDGE, L, L, L, CUT GOATS ROPE,
+USE  STICK,  L,  L, DROP BUCKET ON DENZIL,
+TAKE  STEREO  TO  HALL,  DROP STEREO, TAKE
+POTION,  U, GO TO WINDOWSILL, JUMP LEFT TO
+TOP  OF BED, JUMP LEFT, U, U, TAKE ROD, D,
+D, L, GET CROSS, L, JUMP OUT OF WINDOW, L,
+DROP  ROD  ON DOZY, L, L, L, L, D, D, TAKE
+TORCH,  R,  DROP POTION ON DAISY, L, U, U,
+R, R, R, R, TAKE APPLE, DROP CROSS, (GO TO
+DYLAN), GET LEAF, (GO TO GLENDA), GIVE ALL
+ITEMS  TO  HER,  TAKE POTION, GO TO DYLAN,
+USE  POTION  ON DYLAN, GO TO HALL, COLLECT
+CLOTH,  DROP  CLOTH,  GET  STEREO, U, L, L
+JUMP  OUT  WINDOW,  D,  JUMP LEFT, U, JUMP
+RIGHT,  JUMP RIGHT, JUMP LEFT, DROP STEREO
+NEXT TO BARD, TAKE PIPES, GO TO WELL, FALL
+LEFT  INTO  WELL,  JUMP RIGHT, PLAY PIPES,
+JUMP LEFT, L, GET SOMETHING STICKY, L, GET
+LAMP,  U,  DROP  PIPES,  TAKE CLOTH, GO TO
+SWORD  IN  STONE,  TAKE EXCALIBUR, L, DROP
+LAMP,  USE DUSTER ON LAMP, DROP DUSTER, GO
+TO  ICE CASTLE, JUMP LEFT, U, U, JUMP LEFT
+OFF  EDGE  OF THE TOP LEFT LEDGE, D, ENTER
+MIRROR,  TAKE  QUEEN, L, SAVE GRAND DIZZY,
+GO  TO  VOLCANO, JUMP ACROSS ON CLOUDS, R,
+D,  D,  GO  TO  DEVIL, TAKE TRIDENT, GO TO
+ZAKS,  DROP  TRIDENT ON HIM, TAKE RING, GO
+TO  DEVIL,  L,  JUMP LEFT TO MIDDLE STONE,
+DROP RING IN LAVA, R, GO TO DEVIL, TALK TO
+DEVIL  - And thats it! Just 30 diamonds to
+find before you complete the game!...
+
+==========================================
+
+DIZZY 5 - Spellbound Dizzy
+
+  L,  D, GET TRAMPETTE, L, DROP TRAMPETTE,
+JUMP  LEFT,  L,  GET HEAVY ROCK, R, D, GET
+TRAMPETTE,  R, DROP TRAMPETTE, JUMP RIGHT,
+R, ON MUSHROOM, JUMP RIGHT, DROP ROCK, GET
+STAR,  D,  L, CROSS CHASM, L, GET ROCK, R,
+CROSS  CHASM,  R, ON MUSHROOM, JUMP RIGHT,
+DROP  ROCK,  D,  L,  CROSS  CHASM,  L,  ON
+MUSHROOM,  JUMP  RIGHT JUMP LEFT, STAND ON
+RIGHT OF CLOUD, JUMP RIGHT, GET STAR, JUMP
+LEFT,  STAND  ON LEFT OF CLOUD, JUMP LEFT,
+JUMP LEFT, L, GET BRAKE SHOE, GET STAR, R,
+R,  R, CROSS CHASM, DROP BRAKE SHOE, CROSS
+CHASM,  L,  GET  ROCK, R, CROSS CHASM, GET
+ROCK,  R, R, D, D, D, R, PUT BRAKE SHOE ON
+MINECART,  DROP  ROCK,  L,  U, U, U, L, ON
+MUSHROOM,  JUMP RIGHT, GET ROCKS, D, R, D,
+D,  D,  L,  DROP ROCK, GET CRYSTAL LEAVES,
+GET  STAR,  DROP LEAVES, ON PLATFORM, WALK
+TO LEFT EDGE, U, L, GET HAMMER, R, D, RxЧ,
+DROP  ROCK,  USE  HAMMER  ON BENT RAILING,
+DROP  HAMMER,  L,  RIDE  IN  CART,  R,  ON
+PLATFORM,  JUMP RIGHT, GET BAG, JUMP LEFT,
+JUMP  RIGHT,  JUMP LEFT, GET MEGAPHONE, L,
+GET  RAILING,  GET  STAR, DROP RAILING, L,
+GET  RAILING,  GET STAR, DROP RAILING, GET
+RAILING,  GET  RAILING, ON MUSHROOM, JUMP,
+STAND  ON EDGE OF CLOUD, JUMP LEFT, L, GET
+STAR,  ON  PLATFORM,  GET  STAR,  R, R, R,
+STAND  ON  RIGHT  OF CLOUD, JUMP RIGHT, U,
+GET   STAR,  D,  L,  L,  D,  L,  GET  GOLD
+SHAMROCK, DROP RAILINGS, D, GET STAR, LxЧ,
+UxЗ,   L,   DROP   GOLD   SHAMROCK,   DROP
+MEGAPHONE, L, CROSS CHASM, L, GET ROCK, R,
+CROSS CHASM, ON MUSHROOM, JUMP RIGHT, DROP
+ROCK,  D,  L,  CROSS  CHASM,  L,  GET FOUR
+ROCKS,  R,  CROSS  CHASM,  R, ON MUSHROOM,
+JUMP  RIGHT,  GET  ROCK,  D,  R, Dxб, DROP
+ROCK,  GET  LID,  L,  STAND  ON  RIGHT  OF
+SCALES,  DROP  ROCK,  D,  L, TALK TO GRAND
+DIZZY,  GET EAR-TRUMPET, ON MUSHROOM, JUMP
+RIGHT,  R,  U,  R,  U,  U,  L,  L, TALK TO
+THEODORE,  GIVE  TRUMPET  AND  5 STARS, R,
+DROP  TRUMPET,  R,  UxЗ,  GET  STAR, L, L,
+CROSS  CHASM,  L,  GET  2  ROCKS, R, CROSS
+CHASM,  R,  GET  MEGAPHONE, R, DxЗ, L, GET
+EAR  TRUMPET,  DROP ROCKS, ON PLATFORM, L,
+U,  L,  USE  MEGAPHONE  ABOVE  DENZIL, GET
+DENZILS  VIBES,  R, D, R, OFF PLATFORM, L,
+GIVE  VIBES AND 5 STARS TO THEODORE, R, R,
+UxЗ,  L,  DROP TRUMPET AND MEGAPHONE, DROP
+VIBES,  L, CROSS CHASM, L, GET 3 ROCKS, R,
+CROSS  CHASM,  R, GET SHAMROCK, R, DxS, R,
+R,  GET  STAR,  TALK  TO  LEPRECHAUN,  GET
+TALISMAN,    DROP    3    ROCKS,   L,   L,
+UxЧ......Done It!!!!
+
+==========================================
+
+DIZZY 6 - Dizzy, Prince of the Yolk Folk
+
+  GET  JUG,  GET LEAVES, GET MATCHES, DROP
+LEAVES  BY  DOOR, USE MATCHES, USE JUG, L,
+L, GET PICKAXE, R, R, R, GET CAGE, JUMP R,
+JUMP  R, GET BRIDGE KIT, D, USE PICKAXE ON
+ROCKFACE,  DROP PICKAXE, L, U, GET NUGGET,
+D,  R,  R,  ON  BOAT,  R,  OFF  BOAT, GIVE
+NUGGET, R, DROP CAGE ON POGIE, U, U, STAND
+ON RIGHT OF PLATFORM, JUMP R, JUMP R, JUMP
+R,  GET HARP, L, L, U, U, L, L, GIVE HARP,
+GET  CHEESE,  R, D, R, USE CHEESE ON CAGE,
+GET  CAGE,  L,  L,  L, U, L, L, L, L, DROP
+CAGE,  L, ON PLATFORM, R, GET MOTOR, L, L,
+U,  R,  GET KEY, L, D, R, OFF PLATFORM, R,
+R,  ON PLATFORM, R, R, R, D, R, R, TALK TO
+FERRYMAN, GIVE MOTOR, GET SCYTHE, R, U, U,
+STAND ON EDGE OF PLATFORM, JUMP R, JUMP R,
+JUMP  R,  USE  SCYTHE  ON  BRAMBLES, R, ON
+PLATFORM,  L,  U,  R,  R, R, U, USE KEY ON
+DOOR,   D,  ON  PLATFORM,  L,  L,  L,  GET
+TWEEZERS,  R, R, R, OFF PLATFORM, L, L, L,
+D, R, GET BUGLE, OFF PLATFORM, L, L, L, L,
+L,  L,  U,  L,  L, L, TALK TO BUGLER, GIVE
+BUGLE,  ON  PLATFORM,  R, R, TALK TO LION,
+USE TWEEZERS, GET THORN, R, D, R, R, R, U,
+U,  STAND  ON  RIGHT  OF PLATFORM, JUMP R,
+JUMP  R,  JUMP R, R, ON PLATFORM, L, U, R,
+R,  R,  DROP  THORN,  R,  ON  PLATFORM, L,
+DESTROY  DOPPELGANGER, R, OFF PLATFORM, L,
+GET  SPANNER, L, L, D, R, OFF PLATFORM, L,
+L, L, L, L, L, U, L, L, L, GET BOOK, L, L,
+ON   PLATFORM,   L,   L,  USE  SPANNER  ON
+MECHANISM,  R,  R,  OFF PLATFORM, L, L, L,
+TALK  TO PRINCESS, GIVE BOOK, GET FLAG, R,
+R,  R, ON PLATFORM, L, U, ON PLATFORM, USE
+FLAG  ON  POLE,  TALK  TO  BUGLER, TALK TO
+KING,  OFF PLATFORM, R, R, ON PLATFORM, R,
+R,  D,  R, R, R, U, U, STAND ON RIGHT EDGE
+OF PLATFORM, JUMP R, JUMP R, JUMP R, R, ON
+PLATFORM,  L,  U,  R, R, R, U, KISS DAISY,
+TALK   TO  DAISY....(If  you  got  all  20
+cherries...you've done it!!)
+
+==========================================
+
+DIZZY 7 - Crystal Kingdom Dizzy
+
+  PART 1 - L, GET WEIGHT, RxЧ, GET WEIGHT,
+Lx2, DROP WEIGHT ON LIFT CONTROL PLATFORM,
+ENTER  WINDOW,  GET  WHIP,  L,  U, L, DROP
+WEIGHT  ON  LIFT  CONTROL  PLATFORM, R, U,
+JUMP  RIGHT  ONTO PLATFORM, U, L, STAND ON
+EDGE  OF  PLATFORM,  DROP  WHIP,  L, ENTER
+HOUSE, TALK TO DYLAN, GET NEWSPAPER, L, D,
+JUMP  LEFT,  L,  ON  CLOUDS, D, GET HEART,
+UP-LEFT, GET SCREWDRIVER, R, D, RxЗ, U, L,
+ENTER  HOUSE, TALK TO DENZIL, GET SPANNER,
+TALK TO DENZIL, GET GLASSES, L, Rx2, D, R,
+ENTER  HOUSE,  USE  SPANNER  ON GENERATOR,
+LxЗ,  U,  R, ENTER HOUSE TALK TO DORA, GET
+CAKE,  L,  D, TALK TO CJ, GET UMBRELLA, L,
+DROP    NEWSPAPER,   LxS,   GET   DIAMOND,
+UP-RIGHT,  L, DOWN-RIGHT, Rx2, USE DIAMOND
+ON   WELL,   TALK   TO   GENIE,  Rx2,  GET
+NEWSPAPER,  U,  ENTER HOUSE, TALK TO GRAND
+DIZZY.
+
+  PART  2 - R, GET FISH FOOD, R, DROP FISH
+FOOD  NEAR EDGE, R, TALK TO CAPTAIN, R, U,
+GET  TAPE, D, R, UxЗ, GET BLU-TAC, DxЧ, R,
+DROP BLU-TAC, L, U, R, L, GET WHEEL, D, R,
+GET SAW, Lx2, D, R, DROP WHEEL, DOWN-LEFT,
+Lx2,  GET PLANK, DOWN-RIGHT, D, DROP PLANK
+BY   DRIP,   GET   HEART,  DOWN-RIGHT,  L,
+DOWN-RIGHT,  GET  NEEDLE AND THREAD, L, U,
+L,  UP-RIGHT,  GET  PATCH,  L, DOWN-RIGHT,
+UP-RIGHT,  L, DOWN-RIGHT, GET SCISSORS, R,
+UP-LEFT,  UxЗ, DROP SCISSORS ON HORIZONTAL
+POLE D, U, DROP PATCH BY HOLE, DxЗ, R, GET
+WHEEL,  GET BLU-TAC, L, U, Lx2, DROP WHEEL
+ON POST, LxЗ, TALK TO DOZY, GET FLAG, RxS,
+UxЗ,  DROP FLAG BY POST, DxЗ, Lx2, TALK TO
+CAPTAIN,  GET  BADGE,  Lx2, SWAP BADGE FOR
+MAP  &  TELESCOPE,  Rx2,  TALK TO CAPTAIN,
+Rx2,   UxЗ,  STAND  ON  CROWS  NEST,  DROP
+TELESCOPE.
+
+  PART  3 - GET TORCH, Rx2, UP-RIGHT, JUMP
+LEFT,  JUMP  RIGHT,  JUMP  LEFT x2, D, GET
+FLIPPERS,  D,  RxЗ,  GET TANKS, R, Dx2, L,
+DROP  TANKS  AND  FLIPPERS,  U,  L, R, GET
+PICK, L, UP-LEFT, L, GET HEART, L, GET OIL
+CAN, L, DOWN-RIGHT, D DROP PICK BY BLOCKS,
+RxЧ,  DROP TORCH AND CAN, GET FLIPPERS AND
+TANKS, R, Ux2, DROP PICK, Dx2, L, GET CAN,
+R, Ux2, DROP TANKS AND FLIPPERS, GET PICK,
+Lx2,  DROP PICK UNDER WHITE PIPE, DROP CAN
+UNDER  DRIPS, LxЗ, DROP CAN BY LIFT, STAND
+ON  PAD PRESS FIRE, R, DROP PICK, RxЧ, GET
+TANKS AND FLIPPERS, Dx2, L, DROP TANKS AND
+FLIPPERS,  GET  TORCH, U, L, UP-LEFT, Lx2,
+D,  TALK TO MAN, L, GET CHALICE AND SWORD,
+R,  DROP  CHALICE AND SWORD UNDER LIFT, L,
+GET CROWN, R, DROP CROWN UNDER LIFT, STAND
+ON  PAD  AND  PRESS FIRE, Rx2, U, GET PIN,
+Rx2,   D,   DROP   TORCH,  GET  TANKS  AND
+FLIPPERS,  R,  Ux2,  DROP  TANKS,  L, DROP
+FLIPPERS  AND  PIN,  LxЧ, TALK TO MAN, GET
+PUNCTURE  KIT, GET CROWN, RxS, DROP KIT ON
+DINGHY,  TAKE  TANKS, DROP ON DINGHY, DROP
+CROWN  ON  DINGHY, L, DROP TANKS, LxЧ, GET
+SWORD  AND  CHALICE, RxЧ, GET PIN, R, DROP
+SWORD, PIN AND CHALICE ON DINGHY
+
+  PART  4  -  U,  R, D, R, UP-LEFT, U, GET
+CRYSTAL, D, R, DOWN-LEFT, U, L, D, TALK TO
+MAN,  GET  CHALICE,  CROWN AND SWORD, RxЗ,
+DROP  CHALICE,  CROWN  AND  SWORD ON WHITE
+PART  OF  CATAPULT, R, GET SALT POT, U, R,
+D,  R,  GET PARACHUTE, L, U, D, U, U, DROP
+SALT  POT ON BLUE BOX, GET CROWN, D, L, U,
+GET  BLOCK  OF  ICE,  DROP CROWN, Rx2, GET
+SWORD,  DROP  PARACHUTE, D, D, L, U, L, D,
+L,  DROP  ICE ON SMALL LEDGE, GET CHALICE,
+R, Ux2, GET CROWN, L, DROP CROWN IN MIDDLE
+SPACE,  DROP  SWORD  IN  RIGHT SPACE, DROP
+CHALICE IN LEFT SPACE, TALK TO MAN....Done
+it!!
+
+==========================================
+
+KWIK SNAX
+
+  The  directions  for the bonus games are
+as follows:
+
+ICE WORLD
+Game 1 - L, D, U, R, U, L, D
+Game 2 - U, D, L, R, D, L, U
+Game 3 - U, L, U, R, L, D, L, U, L, U, L
+Game 4 - U, R, L, D, R, L, D, L, U, D, R,U
+Game 5 - U, L, U, R, D, R, U, L, D, L, D,
+R, D, R, U, L
+
+CLOUD WORLD
+Game 1 - U, D, L, R, U, L, R, D, L
+Game 2 - R, L, U, L, U, R, U, L, R
+Game 3 - U, R, U, L, D, R, U, L
+Game 4 - L, D, L, U, L, U, R, R, U, R, U
+Game 5 - R, D, L, U, R, U, L, D, R, D, R,
+U, L, D, R, D, R, U
+
+CUCKOO WORLD
+Game 1 - U, L, D, L, R, U, R, D, R, D
+Game 2 - D, L, R, D, R, L, D, R, D, R, U
+Game 3 - U, L, R, D, L, D, R, D, L, R, U,L
+Game 4 - D, R, L, D, R, U, L, D, U, R, U,
+L, R, U
+Game 5 - U, L, D, L, D, R, L, U, R
+
+ZAKS DUNGEON
+Game 1 - R, U, R, U, L, U, R, D, L
+Game 2 - U, R, D, L, U, R, U, R
+Game 3 - R, U, R, D, R, U, R, D, L, U
+Game 4 - U, L, D, R, D, U, R
+Game 5 - R, U, L, R, U, R, U, L, U, R, D,L
+
+
+==========================================
+
+CHEATS FOR DIZZY GAMES:
+
+  DIZZY  -  Pause  the  game  and  type in
+NOOTRAC 4571. Dizzy will disappear and you
+can move around thr screens using Z and X.
+Press space to make Dizzy reappear in your
+chosen screen.
+
+  DIZZY 2 - When you press ENTER to start,
+hold  down  O,  A,  P  and  C  until Dizzy
+disappears.  You  can then move around the
+screens  using  Z and X and press Space to
+re-appear
+
+  DIZZY  5  -  Start  game  and press Q to
+quit.  Now  type in IWANTANOMLETTE and the
+border  will flash . Now start and you can
+press  C for a cheat menu. PS, Codemasters
+are the bad spellers, not me ;)
+
+  DIZZY  7  - Passwords for other parts of
+game: 2 - BOOK    3 - WALL    4- DOZY
+
+  BUBBLE  DIZZY  -  When  you start, leave
+Dizzy  at the bottom of the screen. Return
+later  and you will find you have loads of
+lives.
+
+  DIZZY  DOWN  THE  RAPIDS  - On the Title
+Screen,  type  in CHEAT, then press Enter.
+You should now have infinite energy.
+
+==========================================
+==========================================
+
+  If  you do have any requests for playing
+tips  in your favourite games, or have any
+great  cheats to share with others, simply
+send  it to the main E-MAIL address at the
+beginning  of the mag, and title your mail
+"PLAYING TIPS"
+
+==========================================
+==========================================

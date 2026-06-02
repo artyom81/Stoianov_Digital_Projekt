@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 8191,
+    "article_url": "https://zxpress.ru/article.php?id=8191",
+    "print_url": "https://zxpress.ru/print.php?id=8191",
+    "title_link": "Новости - новости от Ковровских спектрумистах, о Черном Вороне и т.п.",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "Новости_-_новости_от_Ковровских_спектрумистах_о_Черном_Ворон"
+  },
+  {
+    "article_id": 8192,
+    "article_url": "https://zxpress.ru/article.php?id=8192",
+    "print_url": "https://zxpress.ru/print.php?id=8192",
+    "title_link": "О разном - сетевые новости из Москвы и не только.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "О_разном_-_сетевые_новости_из_Москвы_и_не_только"
+  },
+  {
+    "article_id": 8193,
+    "article_url": "https://zxpress.ru/article.php?id=8193",
+    "print_url": "https://zxpress.ru/print.php?id=8193",
+    "title_link": "О разном - спектрум умирает, а виноваты мы сами?",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "О_разном_-_спектрум_умирает_а_виноваты_мы_сами"
+  },
+  {
+    "article_id": 8194,
+    "article_url": "https://zxpress.ru/article.php?id=8194",
+    "print_url": "https://zxpress.ru/print.php?id=8194",
+    "title_link": "Разборки - прохождение квестовой игры Seaquest.",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Разборки_-_прохождение_квестовои_игры_Seaquest"
+  },
+  {
+    "article_id": 8195,
+    "article_url": "https://zxpress.ru/article.php?id=8195",
+    "print_url": "https://zxpress.ru/print.php?id=8195",
+    "title_link": "Сделай сам - исправление программы для форматирования дисков FAST FORMAT'а.",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "Сделаи_сам_-_исправление_программы_для_форматирования_дисков"
+  },
+  {
+    "article_id": 8196,
+    "article_url": "https://zxpress.ru/article.php?id=8196",
+    "print_url": "https://zxpress.ru/print.php?id=8196",
+    "title_link": "Сделай сам - календарик на тему Speccy.",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Сделаи_сам_-_календарик_на_тему_Speccy"
+  },
+  {
+    "article_id": 8197,
+    "article_url": "https://zxpress.ru/article.php?id=8197",
+    "print_url": "https://zxpress.ru/print.php?id=8197",
+    "title_link": "Железо - схема расширения памяти Пентагона до 256кб.",
+    "order": 7,
+    "issue_label": "40",
+    "short_slug": "Железо_-_схема_расширения_памяти_Пентагона_до_256кб"
+  },
+  {
+    "article_id": 8198,
+    "article_url": "https://zxpress.ru/article.php?id=8198",
+    "print_url": "https://zxpress.ru/print.php?id=8198",
+    "title_link": "Демопати - глобальный отчет Ковровских Спектрумистов о путешетсвие на питерское пати Chaos Construction 2001.",
+    "order": 8,
+    "issue_label": "40",
+    "short_slug": "Демопати_-_глобальныи_отчет_Ковровских_Спектрумистов_о_путеш"
+  },
+  {
+    "article_id": 8199,
+    "article_url": "https://zxpress.ru/article.php?id=8199",
+    "print_url": "https://zxpress.ru/print.php?id=8199",
+    "title_link": "Imagination - Моя сказка.",
+    "order": 9,
+    "issue_label": "40",
+    "short_slug": "Imagination_-_Моя_сказка"
+  },
+  {
+    "article_id": 8200,
+    "article_url": "https://zxpress.ru/article.php?id=8200",
+    "print_url": "https://zxpress.ru/print.php?id=8200",
+    "title_link": "Comics - приколы и казусы из жизни Ковровских спектрумистов: Vel, Vik, Kool, Ash.",
+    "order": 10,
+    "issue_label": "40",
+    "short_slug": "Comics_-_приколы_и_казусы_из_жизни_Ковровских_спектрумистов"
+  },
+  {
+    "article_id": 8201,
+    "article_url": "https://zxpress.ru/article.php?id=8201",
+    "print_url": "https://zxpress.ru/print.php?id=8201",
+    "title_link": "Comics - Путешествие оттуда и сюда: ЕЖИК",
+    "order": 11,
+    "issue_label": "40",
+    "short_slug": "Comics_-_Путешествие_оттуда_и_сюда_ЕЖИК"
+  },
+  {
+    "article_id": 8202,
+    "article_url": "https://zxpress.ru/article.php?id=8202",
+    "print_url": "https://zxpress.ru/print.php?id=8202",
+    "title_link": "Реклама - реклама и обьявления, софт и игры для спектрума.",
+    "order": 12,
+    "issue_label": "40",
+    "short_slug": "Реклама_-_реклама_и_обьявления_софт_и_игры_для_спектрума"
+  },
+  {
+    "article_id": 8203,
+    "article_url": "https://zxpress.ru/article.php?id=8203",
+    "print_url": "https://zxpress.ru/print.php?id=8203",
+    "title_link": "Credits - создатели газеты.",
+    "order": 13,
+    "issue_label": "40",
+    "short_slug": "Credits_-_создатели_газеты"
+  }
+]

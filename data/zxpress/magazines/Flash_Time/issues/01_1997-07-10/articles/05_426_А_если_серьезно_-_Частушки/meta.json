@@ -1,0 +1,15 @@
+{
+  "magazine_id": 80,
+  "magazine_name": "Flash Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-07-10",
+  "order": 5,
+  "article_id": 426,
+  "title_link": "А если серьёзно - Частушки",
+  "title_h1": "Flash Time 01 - А если серьёзно - Частушки",
+  "print_url": "https://zxpress.ru/print.php?id=426",
+  "article_url": "https://zxpress.ru/article.php?id=426",
+  "fetched_at": "2026-05-31T22:07:03Z"
+}

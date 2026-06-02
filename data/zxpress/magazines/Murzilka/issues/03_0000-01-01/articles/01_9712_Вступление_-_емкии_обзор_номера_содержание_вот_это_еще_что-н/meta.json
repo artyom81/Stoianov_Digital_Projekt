@@ -1,0 +1,15 @@
+{
+  "magazine_id": 130,
+  "magazine_name": "Murzilka",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "0000-01-01",
+  "order": 1,
+  "article_id": 9712,
+  "title_link": "Вступление - ёмкий обзор номера + содержание + вот это + ещё что-нибудь.",
+  "title_h1": "Murzilka 03 - Вступление - ёмкий обзор номера + содержание + вот это + ещё что-нибудь.",
+  "print_url": "https://zxpress.ru/print.php?id=9712",
+  "article_url": "https://zxpress.ru/article.php?id=9712",
+  "fetched_at": "2026-05-31T22:30:46Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 17008,
+    "article_url": "https://zxpress.ru/article.php?id=17008",
+    "print_url": "https://zxpress.ru/print.php?id=17008",
+    "title_link": "ZX-Spectrum - Пропорциональный шрифт.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "ZX-Spectrum_-_Пропорциональныи_шрифт"
+  },
+  {
+    "article_id": 17009,
+    "article_url": "https://zxpress.ru/article.php?id=17009",
+    "print_url": "https://zxpress.ru/print.php?id=17009",
+    "title_link": "Oracle - Установка pепозитоpия.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Oracle_-_Установка_pепозитоpия"
+  },
+  {
+    "article_id": 17010,
+    "article_url": "https://zxpress.ru/article.php?id=17010",
+    "print_url": "https://zxpress.ru/print.php?id=17010",
+    "title_link": "Oracle - SQL-задача.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Oracle_-_SQL-задача"
+  },
+  {
+    "article_id": 17011,
+    "article_url": "https://zxpress.ru/article.php?id=17011",
+    "print_url": "https://zxpress.ru/print.php?id=17011",
+    "title_link": "Nokia - 6100. Internet GPRS.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Nokia_-_6100_Internet_GPRS"
+  },
+  {
+    "article_id": 17012,
+    "article_url": "https://zxpress.ru/article.php?id=17012",
+    "print_url": "https://zxpress.ru/print.php?id=17012",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Юмор_-_Анекдоты"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1999-01-12",
+  "order": 3,
+  "article_id": 5173,
+  "title_link": "Полезные сведения - знаете ли Вы,что...",
+  "title_h1": "Micro 12 - Полезные сведения - знаете ли Вы,что...",
+  "print_url": "https://zxpress.ru/print.php?id=5173",
+  "article_url": "https://zxpress.ru/article.php?id=5173",
+  "fetched_at": "2026-05-31T22:25:33Z"
+}

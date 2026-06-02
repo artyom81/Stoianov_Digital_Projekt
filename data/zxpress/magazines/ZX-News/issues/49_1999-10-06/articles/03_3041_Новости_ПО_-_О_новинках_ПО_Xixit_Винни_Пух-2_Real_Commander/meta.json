@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "49",
+  "issue_date_iso": "1999-10-06",
+  "order": 3,
+  "article_id": 3041,
+  "title_link": "Новости ПО - О новинках ПО: Xixit, Винни Пух-2, Real Commander v1.8,\r\n Adventurer #9, Miracle #3, ZX-Format #9.",
+  "title_h1": "ZX-News 49 - Новости ПО - О новинках ПО: Xixit, Винни Пух-2, Real Commander v1.8,  Adventurer #9, Miracle #3, ZX-Format #9.",
+  "print_url": "https://zxpress.ru/print.php?id=3041",
+  "article_url": "https://zxpress.ru/article.php?id=3041",
+  "fetched_at": "2026-05-31T23:30:21Z"
+}

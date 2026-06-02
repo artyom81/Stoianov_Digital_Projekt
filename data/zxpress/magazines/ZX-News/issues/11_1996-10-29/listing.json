@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2742,
+    "article_url": "https://zxpress.ru/article.php?id=2742",
+    "print_url": "https://zxpress.ru/print.php?id=2742",
+    "title_link": "Железо - Цифрованная музыка на ZX: General Sound, AY-шка, COVOX, Sound Drive - как они работают.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Железо_-_Цифрованная_музыка_на_ZX_General_Sound_AY-шка_COVOX"
+  },
+  {
+    "article_id": 2743,
+    "article_url": "https://zxpress.ru/article.php?id=2743",
+    "print_url": "https://zxpress.ru/print.php?id=2743",
+    "title_link": "Игры - Обзор новых программ: Shadow Danger, Song in Lines 5. Описание игры \"Кости Покер\".",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Игры_-_Обзор_новых_программ_Shadow_Danger_Song_in_Lines_5_Оп"
+  },
+  {
+    "article_id": 2741,
+    "article_url": "https://zxpress.ru/article.php?id=2741",
+    "print_url": "https://zxpress.ru/print.php?id=2741",
+    "title_link": "Новости - Фирма \"Скорпион\" выпустила SMUC ( Scorpion & Moa Universal\r\n Controller) - для подключения к ZX винчестера,Hayes-модема, подключение CMOS-часов и NVRAM (энергонезависимая память).",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Новости_-_Фирма_Скорпион_выпустила_SMUC_Scorpion_Moa_Univers"
+  },
+  {
+    "article_id": 2740,
+    "article_url": "https://zxpress.ru/article.php?id=2740",
+    "print_url": "https://zxpress.ru/print.php?id=2740",
+    "title_link": "От авторов - Как готовится газета.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "От_авторов_-_Как_готовится_газета"
+  },
+  {
+    "article_id": 2745,
+    "article_url": "https://zxpress.ru/article.php?id=2745",
+    "print_url": "https://zxpress.ru/print.php?id=2745",
+    "title_link": "Письма - Письмо из Армии.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Письма_-_Письмо_из_Армии"
+  },
+  {
+    "article_id": 2748,
+    "article_url": "https://zxpress.ru/article.php?id=2748",
+    "print_url": "https://zxpress.ru/print.php?id=2748",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2747,
+    "article_url": "https://zxpress.ru/article.php?id=2747",
+    "print_url": "https://zxpress.ru/print.php?id=2747",
+    "title_link": "Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "Список_BBS_-_Список_ныне_деиствующих_BBS_в_городе_С-Петербур"
+  },
+  {
+    "article_id": 2746,
+    "article_url": "https://zxpress.ru/article.php?id=2746",
+    "print_url": "https://zxpress.ru/print.php?id=2746",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 8,
+    "issue_label": "11",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2744,
+    "article_url": "https://zxpress.ru/article.php?id=2744",
+    "print_url": "https://zxpress.ru/print.php?id=2744",
+    "title_link": "Юмор - Теория ошибок.",
+    "order": 9,
+    "issue_label": "11",
+    "short_slug": "Юмор_-_Теория_ошибок"
+  }
+]

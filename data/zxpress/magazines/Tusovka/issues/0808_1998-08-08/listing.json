@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 17733,
+    "article_url": "https://zxpress.ru/article.php?id=17733",
+    "print_url": "https://zxpress.ru/print.php?id=17733",
+    "title_link": "Введение - Привет всем поклонникам тусовки!",
+    "order": 1,
+    "issue_label": "0808",
+    "short_slug": "Введение_-_Привет_всем_поклонникам_тусовки"
+  },
+  {
+    "article_id": 17734,
+    "article_url": "https://zxpress.ru/article.php?id=17734",
+    "print_url": "https://zxpress.ru/print.php?id=17734",
+    "title_link": "Тусоака - From : KPN, To : All.",
+    "order": 2,
+    "issue_label": "0808",
+    "short_slug": "Тусоака_-_From_KPN_To_All"
+  },
+  {
+    "article_id": 17735,
+    "article_url": "https://zxpress.ru/article.php?id=17735",
+    "print_url": "https://zxpress.ru/print.php?id=17735",
+    "title_link": "Напоследок - Авторы.",
+    "order": 3,
+    "issue_label": "0808",
+    "short_slug": "Напоследок_-_Авторы"
+  },
+  {
+    "article_id": 9138,
+    "article_url": "https://zxpress.ru/article.php?id=9138",
+    "print_url": "https://zxpress.ru/print.php?id=9138",
+    "title_link": "GMX - Доработка плат \"ScorpionZS-256 Turbo+\" для установки GMX. Работа с GMX.",
+    "order": 4,
+    "issue_label": "0808",
+    "short_slug": "GMX_-_Доработка_плат_ScorpionZS-256_Turbo_для_установки_GMX"
+  },
+  {
+    "article_id": 12255,
+    "article_url": "https://zxpress.ru/article.php?id=12255",
+    "print_url": "https://zxpress.ru/print.php?id=12255",
+    "title_link": "Розыск - Разыскиваются: CYRUS-2 128 & FINAL FIGHT.",
+    "order": 5,
+    "issue_label": "0808",
+    "short_slug": "Розыск_-_Разыскиваются_CYRUS-2_128_FINAL_FIGHT"
+  },
+  {
+    "article_id": 10342,
+    "article_url": "https://zxpress.ru/article.php?id=10342",
+    "print_url": "https://zxpress.ru/print.php?id=10342",
+    "title_link": "Ликбез - полное описание + полный дизассмблер ПЗУ (часть 2).",
+    "order": 6,
+    "issue_label": "0808",
+    "short_slug": "Ликбез_-_полное_описание_полныи_дизассмблер_ПЗУ_часть_2"
+  },
+  {
+    "article_id": 16280,
+    "article_url": "https://zxpress.ru/article.php?id=16280",
+    "print_url": "https://zxpress.ru/print.php?id=16280",
+    "title_link": "SUPA-ГAMZ - JACK DA NIPPER IN COCONUT CAPERZ.",
+    "order": 7,
+    "issue_label": "0808",
+    "short_slug": "SUPA-ГAMZ_-_JACK_DA_NIPPER_IN_COCONUT_CAPERZ"
+  },
+  {
+    "article_id": 7670,
+    "article_url": "https://zxpress.ru/article.php?id=7670",
+    "print_url": "https://zxpress.ru/print.php?id=7670",
+    "title_link": "О разном - Ответы на письма Paracel-у и ASH-у.",
+    "order": 8,
+    "issue_label": "0808",
+    "short_slug": "О_разном_-_Ответы_на_письма_Paracel-у_и_ASH-у"
+  }
+]

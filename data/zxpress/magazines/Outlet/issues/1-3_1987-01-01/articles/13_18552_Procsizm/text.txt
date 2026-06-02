@@ -1,0 +1,4 @@
+1-3 - Procsizm
+PROCSIM is just a very simple simulation of BASIC procedures on the Spectrum. If you are interested in BASIC programming you might like topthe program and try to figure out how it works.
+The program itself is of no interest! It simply squares any number you enter. It was kept absurdly simple so that you could make sense of the listing more readily. (That's my story and I'm sticking to it!)
+No machine code is used but the procedures do work as listed! It's a bit of a cheat really butit re-inforced my conviction that procedures are no more thana load of hype! - BRIAN CAVERS

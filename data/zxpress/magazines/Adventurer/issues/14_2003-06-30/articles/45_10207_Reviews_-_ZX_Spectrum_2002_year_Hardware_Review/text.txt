@@ -1,0 +1,301 @@
+Adventurer 14 - Reviews - ZX Spectrum 2002 year Hardware Review.
+Hardware Review         
+Clear                   
+
+Almost every zine (periodical or
+not) on Speccy reckons its duty to
+review the new software. But I've
+never seen a hardware review
+(except articles about Spectrum
+modifications). That's why I've de-
+cided to make such review in Adven-
+turer.
+
+Technological progress looks for-
+ward: the silicon valley giants
+are working at 65 nanometers pro-
+cess for their 3... GHz pentiums,
+athlons and so on with core volta-
+ge lesser than 1 Volt, but we are
+still on 5V, 3,5/7 MHz... It seems
+that we hopelessly missed that
+progress (and maybe it's better
+for us).
+
+Today, there are only 2 manufactu-
+rers of spectrum-compatible
+machines in Russia: Peters+ and
+Nemo. Well-known in a distant pass
+Scorpion  doesn't  develop
+spectrum hardware anymore, it just
+sells out their remains.
+
+Peters+
+
+In 1997 caused a sensation with
+their latest work - Sprinter. By
+developing a computer with fle-
+xible (uploading) architecture ba-
+sed on "Altera" they prepared for
+the world domination among other
+spectrum-compatible  products.
+Though Sprinter has a plenty of ad-
+vantages such as few video modes,
+hdd and mouse it didn't conquer
+the market due to the bad AY emula-
+tion or maybe just because of con-
+cervative consumers... Perhaps,
+the price for this hardware is too
+high -115$ for motherboard and
+170$ for assembled computer with
+mouse and keyboard. Also there is
+no information from Sprinter users
+that somehow can reveal the advan-
+tages and disadvantages of using
+this machine.
+
+Sprinter obtained nothing new in
+architecture during last few
+years, only some elements were rep-
+laced with their new analogues.
+
+Peters+ is developing a new model
+now, they say that every single
+machine is handmade and subjected
+to the following tune up. Cur-
+rently, this manufacture aimed at
+the eastern consumers, and even
+Peters+ official site had no rus-
+sian version until recent time.
+
+More:
+
+http://www.petersplus.com/sprinter.htm 
+
+Nemo
+
+His creation - "Kay 1024" 7MHz is
+the "last hope of user", because
+it's impossible to buy something
+different due to the another pro-
+duction's absence (except secon-
+dhand machines). "Kay 1024" has
+a lot of advantages and a one big
+drawback -unswitchable turbo mode.
+So, the programms (games and
+demos), written for Pentagon 3,5
+MHz work incorrectly.
+
+The only possible contact with Ne-
+mo is snail mail. It lets Nemo to
+be too late with the answers and
+brings a lot of upsets to the cus-
+tomers and sometimes make them
+avoid of such deals. By publishing
+his "deep thoughts" in mass media,
+Nemo showed everybody his own
+philosophy, and according to this
+he tries to promote "the most prog-
+ressive machine". At the same time
+he ignores the modern means of
+communication leaving himself loc-
+ked up in the Stone Age.
+
+If he had an email, perhaps he co-
+uld have stopped complaining about
+the "money earning difficuilty" on
+Spectrum.
+
+I want to say some words about the
+project from the city of Li-
+cichansk, Ukraine. It is a Penta-
+gon 1024 motherboard with all cur-
+rently available modifications. As
+I know, this motherboard exists in
+a single copy and is very
+unstable. It would be very hard
+for an ordinary consumer to use
+this product even having the detai-
+led schematics and the maintenance
+guide.
+
+The dimensions of this mother-
+board: 25x40 cm. It consists just
+a little more than 100 pieces of
+logic and fits only a big tower pc
+case. This fact means that this
+project is unprofessional, compa-
+ring with original Pentagon mother-
+board with its dimensions 31x13,5
+and 100 pieces of logic.
+
+During 2002 there was nothing new
+in interenet about this project,
+and it is possible to make a
+conclusion that the project is
+stopped and development is can-
+celled. So, you can forget about
+acquiring this motherboard.
+
+There are yet many talanted people
+on Spectrum aboard. Delighted with
+the nearest past, they are also
+trying to develop their hardware.
+Currently, there are few various
+projects but the most deserving of
+being reveiwed here are:
+
+ZX Spectrum SE (Germany, crea-
+tor -Andrew Owen)
+
+ZX Spectrum +3e (Spain, Harry
+Lancaster)
+
+Sparky eZX (USA, Richard Kelsh)
+
+While reading about these projects
+I've made a conclusion that even
+their creators live in different
+countries they are joined together
+in their desire to make their com-
+puters compatible with each other,
+when Russians are not. For
+example, Nemo directs his Kay
+towards Is-Dos, Peters+ made so-
+mething totally new and not compa-
+tible with any other OS for their
+Sprinter. Even for Pentagon much
+more operating systems were crea-
+ted also not compatible with each
+other. It seems that every OS deve-
+loper imagine himself a genius and
+don't concern about others, questi-
+oning himself lately, why his ope-
+rating system wasn't accepted by
+the masses.
+
+All following computers can work
+under "Extended Basic", which is
+currently is being developed.
+
+So, ZX Spectrum SE. The first in-
+formation appeared in 1999 and now
+this project is finished comple-
+tely, the first example of this
+machine was made already, though
+its specification differs from
+what was in the beginning of the
+development. The prototype is a
+portugal Timex TC2048, strongly
+changed by Jarek Adamski, who
+developed and realized all modifi-
+cations. Models of Timex TC2048,
+TS/TC2068 and UK2086 can be ea-
+sily modificated to ZX Spectrum
+SE. It is possible to gain the
+most of the functional possibili-
+ties of ZX Spectrum SE, except ad-
+ditional RAM and video modes of
+Timex, on the other models mentio-
+ned above.
+
+Specifications: extended video
+mode 512x192, TR-DOS emulation,
+280 Kb ROM + 27 Kb Video ROM, IDE
+HDD is coming soon, 3.528 MHz pro-
+cessor with 70512 tacts per int
+against Pentagon with 3,5 MHz and
+71680 tacts. Int frequency is
+50.04 Hz, Pentagon - 48 Hz. Never-
+theless, these parameters don't al-
+low to emulate Pentagon, so rus-
+sian soft wont work correctly.
+
+Somebody can argue - why does he
+compare everything with Pen-
+tagon? The reason is very simple
+Pentagon 128 with 3,5 MHz is the
+ex-USSR standard machine de facto,
+and all soft is being made for it.
+
+More:
+
+http://zxse.raww.net/
+
+ZX Spectrum +3e
+
+ZX Spectrum +3e is an extended
+configuration of Sinclair ZX
+Spectrum +3, which was built by
+Amstrad in the end of 80ies. All
+improvement is reduced to the rep-
+lacement of the old ROM with the
+new one which has the old mistakes
+corrected and also some Basic +3
+commands added. One of the most im-
+portant features of the new ROM is
+IDE drive support. So, it's so-
+mething like non-turbo Scorpion
+ZS-256, solely the amount of vir-
+tual diskettes is 65536. Communica-
+tion with HDD uses 1 byte, that's
+why only half of disk space can be
+used. These diskettes may have the
+maximum size in 16 Mb, but they
+can't be TR-DOS disks due to the
+TR-DOS absence in ROM.
+
+More:
+
+http://www.zxplus3e.plus.com/
+
+Next project - Sparky eZX
+
+It is based on the 8-bit processor
+eZ80 50 MHz. As the developer
+says, this system was built for ex-
+periments and entertaining. Becau-
+se processor is manufactured only
+in a VQFP case, which couldn't be
+moulded to a motherboard (i have
+some doubts on this statement),
+the developer refused to built a
+motherboard at all. It will be rep-
+laced by "ZiLOG eZ80 evaluation
+board", which has the processor al-
+ready mounted by Zilog. This board
+is promoted by its producer as a
+complete internet web-server.
+
+Currently, the full specification
+isn't available, there is only so-
+me information about this product:
+16 Mb ROM, keyboard and modem can
+be attached directly to processor
+thru RS232 port. The original ver-
+sion of programmable "Extended
+Basic" is being written now, it
+will use all 16Mb of memory.
+
+This project is not finished, so
+it is too early to talk about it.
+
+More:
+
+http://members.cox.net/rjkelsch/
+
+Finally, I want to express my opi-
+nion about these projects. A lot
+of work was put into all of them,
+but conformably to ex-USSR they
+all have no perspectives. It is be-
+cause of our TR-DOS and 3,5 MHz.
+My vision of Spectrum in future -
+in any modifications it must pro-
+vide 100% correct work as a Penta-
+gon 128, 3,5 MHz with TR-DOS
+5.03. In any other way, machine
+will be distanced from user and
+forgotten, what already happened
+with some of Spectrum compa-
+tibles.

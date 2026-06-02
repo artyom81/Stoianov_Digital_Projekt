@@ -1,0 +1,86 @@
+Bred 01 - Для программистов - процедру вывода спрайта размером 2*2 знакоместа от Capry/Studio Stall.
+Для програмистов
+Павел Стахов / Studio Stall
+
+Предлагаю доработанню мною процедру вы-
+вода спрайта размером 2*2 знакоместа.
+
+;b=y c=x
+;a=номер спрайта
+
+SPRITE1 DI
+        LD (WSP1+1),SP
+        LD H,0
+        LD L,A
+        ADD HL,HL
+        ADD HL,HL
+        ADD HL,HL
+        ADD HL,HL
+        ADD HL,HL
+        ADD HL,HL
+        LD DE,S_ADR
+        ADD HL,DE
+        LD C,A
+        CALL 8880
+        NEG
+        ADD A,8
+        LD (LSB+2),A
+        LD SP,HL
+        LD A,16
+
+S15     EX AF,AF'
+        LD A,D
+        CP #58
+        JR NC,WSP1
+        POP HL
+        POP IX
+        XOR A
+
+LSB     LD BC,#00FF
+
+S_LP1   ADD HL,HL
+        SET 0,L
+        RL C
+        ADD IX,IX
+        RLA
+        DJNZ S_LP1
+        LD B,A
+        LD A,(DE)
+        AND C
+        OR B
+        LD (DE),A
+        INC E
+        LD A,(DE)
+        AND B
+        OR HX
+        LD (DE),A
+        INC E
+        LD A,(DE)
+        AND L
+        OR LX
+        LD (DE),A
+        DEC E
+        DEC E
+        INC D
+        LD A,D
+        AND 7
+        JR NZ,S14
+        LD A,E
+        ADD A,#20
+        LD E,A
+        JR C,S14
+        LD A,D
+        SUB 8
+        LD D,A
+
+S14     EX AF,AF'
+        DEC A
+        JR NZ,S15
+
+WSP1    LD SP,0
+        EI
+        RET
+
+S_SDR   ЗАГРЖАЕМ СПРАЙТ...
+
+----------------------------------------

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 45,
+    "article_url": "https://zxpress.ru/article.php?id=45",
+    "print_url": "https://zxpress.ru/print.php?id=45",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "59",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2392,
+    "article_url": "https://zxpress.ru/article.php?id=2392",
+    "print_url": "https://zxpress.ru/print.php?id=2392",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "59",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2391,
+    "article_url": "https://zxpress.ru/article.php?id=2391",
+    "print_url": "https://zxpress.ru/print.php?id=2391",
+    "title_link": "Железо - О решении проблем , связанных с подключением к Speccy\r\n CGA/EGA мониторов.",
+    "order": 3,
+    "issue_label": "59",
+    "short_slug": "Железо_-_О_решении_проблем_связанных_с_подключением_к_Speccy"
+  },
+  {
+    "article_id": 2393,
+    "article_url": "https://zxpress.ru/article.php?id=2393",
+    "print_url": "https://zxpress.ru/print.php?id=2393",
+    "title_link": "Новье !? - О играх: King Valley, Iinter Change, Go Bear Go,\r\n Rangers, Cavemania, Randex, Sex Xonix, Space Gun,\r\n Super Seymour Saves the Planet.",
+    "order": 4,
+    "issue_label": "59",
+    "short_slug": "Новье_-_О_играх_King_Valley_Iinter_Change_Go_Bear_Go_Rangers"
+  },
+  {
+    "article_id": 2390,
+    "article_url": "https://zxpress.ru/article.php?id=2390",
+    "print_url": "https://zxpress.ru/print.php?id=2390",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "59",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

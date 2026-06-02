@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6145,
+    "article_url": "https://zxpress.ru/article.php?id=6145",
+    "print_url": "https://zxpress.ru/print.php?id=6145",
+    "title_link": "Вступление - вступительное слово и оглавление.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Вступление_-_вступительное_слово_и_оглавление"
+  },
+  {
+    "article_id": 6146,
+    "article_url": "https://zxpress.ru/article.php?id=6146",
+    "print_url": "https://zxpress.ru/print.php?id=6146",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6147,
+    "article_url": "https://zxpress.ru/article.php?id=6147",
+    "print_url": "https://zxpress.ru/print.php?id=6147",
+    "title_link": "Железо - обзор микропроцессора Zilog Z380, продолжение.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Железо_-_обзор_микропроцессора_Zilog_Z380_продолжение"
+  },
+  {
+    "article_id": 6148,
+    "article_url": "https://zxpress.ru/article.php?id=6148",
+    "print_url": "https://zxpress.ru/print.php?id=6148",
+    "title_link": "Программирование - курс изучения ассемблера от Wlodek Black, продолжение.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Программирование_-_курс_изучения_ассемблера_от_Wlodek_Black"
+  },
+  {
+    "article_id": 6149,
+    "article_url": "https://zxpress.ru/article.php?id=6149",
+    "print_url": "https://zxpress.ru/print.php?id=6149",
+    "title_link": "Игры - \"Гражданин, пройдемте... игру\" - анонс новой рубрики.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Игры_-_Гражданин_проидемте_игру_-_анонс_новои_рубрики"
+  },
+  {
+    "article_id": 6150,
+    "article_url": "https://zxpress.ru/article.php?id=6150",
+    "print_url": "https://zxpress.ru/print.php?id=6150",
+    "title_link": "Графика - картинкa АNSI графики.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Графика_-_картинкa_АNSI_графики"
+  },
+  {
+    "article_id": 6151,
+    "article_url": "https://zxpress.ru/article.php?id=6151",
+    "print_url": "https://zxpress.ru/print.php?id=6151",
+    "title_link": "Самиздат - пьеса \"Как трезвеют SysOp-ы\", акт второй. Savin Boris.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Самиздат_-_пьеса_Как_трезвеют_SysOp-ы_акт_второи_Savin_Boris"
+  },
+  {
+    "article_id": 6152,
+    "article_url": "https://zxpress.ru/article.php?id=6152",
+    "print_url": "https://zxpress.ru/print.php?id=6152",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6153,
+    "article_url": "https://zxpress.ru/article.php?id=6153",
+    "print_url": "https://zxpress.ru/print.php?id=6153",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

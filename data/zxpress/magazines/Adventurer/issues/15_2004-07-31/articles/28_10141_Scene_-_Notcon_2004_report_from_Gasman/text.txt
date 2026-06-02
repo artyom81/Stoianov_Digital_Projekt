@@ -1,0 +1,212 @@
+Adventurer 15 - Scene - Notcon 2004 report from Gasman.
+Notcon 2004 report              
+Gasman                          
+
+Notcon 2004 report 
+by Gasman
+
+It was 2002's Extreme Computing
+festival, where a significant por-
+tion  of the programme was devoted
+to a celebration of the Spectrum's
+20th  birthday, which first prod-
+ded me into doing a talk. They had
+a number  of short slots available
+for people to come forward and
+give 'lightning  presentations',
+but in the end I decided that ma-
+king up a talk on the  spot was a
+bit too hardcore. Instead, I had
+to wait around another two  years
+for a similar event to come
+along... finally NotCon provided
+that  opportunity.
+
+I was allocated a 10 minute slot
+for my presentation, with a sugges-
+tion  to concentrate on the hardwa-
+re side of things. I started out
+wondering  what I could cover, but
+soon found out that the bigger
+problem was  deciding what to lea-
+ve out - 10 minutes isn't very
+long at all.  Originally I wasn't
+going to mention the demo scene at
+all, and I was  just going to de-
+monstrate DivIDE by loading up a
+game, but at the last  minute I re-
+alised that this would result in
+an awkward moment in the  talk whe-
+re I'd go "Look, it's Manic Miner.
+Woo, Manic Miner everyone.  Er,
+yay." So, I went for a bit of
+self-promotion instead, and put
+Losing Victoria on the playlist.
+
+From past experience, I've found
+that when you mention the demo
+scene  to a typical British geek,
+one of two things will happen.
+Either their  eyes will light up
+and they'll wax lyrical about Futu-
+re Crew, Desert  Dream, Gravis
+Ultrasounds and Farbrausch, or
+they'll stare at you with  a confu-
+sed expression. For the benefit of
+the latter category, I had to  gi-
+ve a very brief explanation of the
+demo scene, and you can probably
+imagine how hard that is to do. Af-
+ter cutting out countless details
+of  the cracking scene, 256-byte
+intros, realtime vs precalcula-
+tion,  technical demos vs artistic
+demos, and all sorts of other sub-
+jects I  really wanted to mention,
+I trimmed it down to about 30 se-
+conds.
+
+My turn on the stage came after Ja-
+mes Larsson, who gave a highly  ec-
+centric demonstration of telling
+the time using a BBC Micro and a
+prawn sandwich. (For those who
+aren't familiar with it, the BBC
+Micro  was the main rival computer
+to the Spectrum in the UK, but see-
+mingly  unknown in other co-
+untries. Anyway, that's not nearly
+as important as  the prawn
+sandwich.) This was going to be a
+tough act to follow...
+
+Still, there was an encouraging
+sign right at the start, when
+(after a  small delay fixing up
+the projector) the Spectrum star-
+tup menu sprang  onto the screen,
+accompanied by a hearty cheer
+from the audience. This  was, af-
+ter all, a crowd that largely grew
+up with the Spectrum and have
+fond memories of it, even if
+they've long since "moved on".
+
+Quite surprising, then, that nobo-
+dy seemed to recognise the
+Sinclair  microdrive cartridge
+that I brandished at the start of
+the talk to  illustrate how far
+we'd come in 20 years. All in all,
+the early stages  of the talk pas-
+sed rather quietly (at least I
+didn't see any  tumbleweeds rol-
+ling past...) but the audience per-
+ked up a bit when my  demo
+started. I didn't really have time
+to savour the moment, because I
+was busy crawling under the table
+trying to get the sound to work.
+(In  a fit of paranoia, I decided
+to bring my own speakers along,
+just in  case. This turned out to
+be a very good idea.)
+
+The demo got a big round of
+applause, which was very satisfy-
+ing indeed.  A quick breather, and
+then I moved on to the subject of
+CompactFlash.  People still
+weren't laughing at my crap jokes,
+but there were some  definite mur-
+murs of excitement about the
+hardware developments. To me  the
+leap from IDE to CF didn't seem a
+very big one (or a very  interes-
+ting one from a Spectrum hardware
+point of view), but I guess  the
+idea of an ultra-modern storage me-
+dium on vintage hardware captured
+everyone's imagination.
+
+<twra2|down> IDE to CF with ISO fi-
+le system?
+<Ewan_> :-)
+<twra2|down> this is _madness_
+<johnli> disorganised chaos
+<johnli> would be the technical
+term
+<Canis> but bleepy madness, which
+is almost always good
+
+- live IRC discussion from the
+event on #notcon
+
+I was running very short on time
+by this point, so I had to move
+quickly on to the finale, my strea-
+ming video of Let Forever Be by
+the  Chemical Brothers. The ini-
+tial mention of streaming video
+got a laugh -  people weren't sure
+how seriously to take it... I was
+going to  introduce it with some
+technical blurb about BMP2SCR and
+the  limitations of the AY chip,
+but I ended up skipping that and
+cutting  straight to the demonstra-
+tion instead. This spot of improvi-
+sation  turned out to be very ef-
+fective, as if to casually say
+"oh, this is  what we do all the
+time on the Speccy" - and that was
+the moment that  the whole crowd
+had their preconceptions about the
+possibilities of  8-bitters over-
+turned...
+
+<Canis> heh, let forever be
+<plasticbagUK> that is the most
+random thing I've ever seen in my
+fucking life
+
+In his opening speech, co-organi-
+ser Danny O'Brien had encouraged
+everyone at the conference to col-
+laborate and strike up discus-
+sions,  and while I assumed he had
+the more 'mainstream' seminars in
+mind, I  was pleasantly surprised
+with the reception I got from visi-
+tors later  on - I had a chat with
+someone in search of new things to
+do with his  Z80-based Amstrad
+NC100 laptop (deciding that a port
+of Contiki was a  possibility),
+dispensed some advice on Speccy
+cross-development, and  met a
+prospective scener who had re-
+cently moved to England from South
+Africa but found that the scene he-
+re isn't quite as active as he'd
+hoped. In the evening, when we all
+headed out to Wagamama, one of
+London's  finest noodle bars, I
+got talking with Mark Robson of
+vectrex.org.uk.  The Vectrex is an
+extremely rare home computer of
+the 80s, notable for  its custom
+CRT display which is vector-based
+rather than raster-based.  I got
+to hear about the peculiar ballet
+act required to get the  electron
+beam producing smooth graphics...
+if only they were easier to  get
+hold of, this would surely be the
+next great conquest of the demo
+scene.
+
+elfh> the transcription of a pre-
+sentation, could be read at:
+http://www.zxdemo.org
+/article.p hp?id=8)

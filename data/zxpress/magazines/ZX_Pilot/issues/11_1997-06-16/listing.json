@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 7631,
+    "article_url": "https://zxpress.ru/article.php?id=7631",
+    "print_url": "https://zxpress.ru/print.php?id=7631",
+    "title_link": "Наши новости - С днем рождения SAT!",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Наши_новости_-_С_днем_рождения_SAT"
+  },
+  {
+    "article_id": 7632,
+    "article_url": "https://zxpress.ru/article.php?id=7632",
+    "print_url": "https://zxpress.ru/print.php?id=7632",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7633,
+    "article_url": "https://zxpress.ru/article.php?id=7633",
+    "print_url": "https://zxpress.ru/print.php?id=7633",
+    "title_link": "Обзор - О новых играх: CRYSTAL CASTLES , ELITE SUPER TRUX , OPEN IT!",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Обзор_-_О_новых_играх_CRYSTAL_CASTLES_ELITE_SUPER_TRUX_OPEN"
+  },
+  {
+    "article_id": 7634,
+    "article_url": "https://zxpress.ru/article.php?id=7634",
+    "print_url": "https://zxpress.ru/print.php?id=7634",
+    "title_link": "Разберемся - Описание игр BATMAN-3 , PUZZNIC.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Разберемся_-_Описание_игр_BATMAN-3_PUZZNIC"
+  },
+  {
+    "article_id": 7635,
+    "article_url": "https://zxpress.ru/article.php?id=7635",
+    "print_url": "https://zxpress.ru/print.php?id=7635",
+    "title_link": "Разберемся - Подробный отчет о прохождении игры DIZZY-6.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игры_DIZZY-6"
+  },
+  {
+    "article_id": 7636,
+    "article_url": "https://zxpress.ru/article.php?id=7636",
+    "print_url": "https://zxpress.ru/print.php?id=7636",
+    "title_link": "AMIGA vs PC - О компьютере Амига 2000.",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "AMIGA_vs_PC_-_О_компьютере_Амига_2000"
+  },
+  {
+    "article_id": 7637,
+    "article_url": "https://zxpress.ru/article.php?id=7637",
+    "print_url": "https://zxpress.ru/print.php?id=7637",
+    "title_link": "COMPUTER WORLDS - Новелла по игре \"BATMAN-2. A FEET WORSE THAN DEATH!\"",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "COMPUTER_WORLDS_-_Новелла_по_игре_BATMAN-2_A_FEET_WORSE_THAN"
+  },
+  {
+    "article_id": 7638,
+    "article_url": "https://zxpress.ru/article.php?id=7638",
+    "print_url": "https://zxpress.ru/print.php?id=7638",
+    "title_link": "HINTS! - Фирменные cheat mode : DIZZY-1 , INTO the EAGLES NEST , IRON SOLDIER , SABOTAGE , OPEN IT!, PUZZNIC, RENEGADE 3, LODE RUNNER, ROBOCOP 2.",
+    "order": 8,
+    "issue_label": "11",
+    "short_slug": "HINTS_-_Фирменные_cheat_mode_DIZZY-1_INTO_the_EAGLES_NEST_IR"
+  },
+  {
+    "article_id": 7639,
+    "article_url": "https://zxpress.ru/article.php?id=7639",
+    "print_url": "https://zxpress.ru/print.php?id=7639",
+    "title_link": "О разном - \"Не фирменный\" cheat mode в игре DIZZY-7",
+    "order": 9,
+    "issue_label": "11",
+    "short_slug": "О_разном_-_Не_фирменныи_cheat_mode_в_игре_DIZZY-7"
+  },
+  {
+    "article_id": 7640,
+    "article_url": "https://zxpress.ru/article.php?id=7640",
+    "print_url": "https://zxpress.ru/print.php?id=7640",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 10,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 18123,
+    "article_url": "https://zxpress.ru/article.php?id=18123",
+    "print_url": "https://zxpress.ru/print.php?id=18123",
+    "title_link": "Вступление - Трепещите и внимайте!",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Трепещите_и_внимаите"
+  },
+  {
+    "article_id": 18124,
+    "article_url": "https://zxpress.ru/article.php?id=18124",
+    "print_url": "https://zxpress.ru/print.php?id=18124",
+    "title_link": "Встреча близких - отчет Eugeny7 об отпуске в Коктебеле.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Встреча_близких_-_отчет_Eugeny7_об_отпуске_в_Коктебеле"
+  },
+  {
+    "article_id": 18125,
+    "article_url": "https://zxpress.ru/article.php?id=18125",
+    "print_url": "https://zxpress.ru/print.php?id=18125",
+    "title_link": "Новости - David Saphier изобрел полезную\r\nутилиту для игроделов, использующих Arcade Game Desinger (AGD).",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Новости_-_David_Saphier_изобрел_полезнуюутилиту_для_игродело"
+  },
+  {
+    "article_id": 18126,
+    "article_url": "https://zxpress.ru/article.php?id=18126",
+    "print_url": "https://zxpress.ru/print.php?id=18126",
+    "title_link": "Новости - пару новостишек из Сибири: Kas29 готов представить\r\nмиру свою новую игру, Buddy чинит свою крышу и совсем\r\nзабил на Спек, NOT-Soft вся банда занята подготовкой к CSP.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Новости_-_пару_новостишек_из_Сибири_Kas29_готов_представитьм"
+  },
+  {
+    "article_id": 18127,
+    "article_url": "https://zxpress.ru/article.php?id=18127",
+    "print_url": "https://zxpress.ru/print.php?id=18127",
+    "title_link": "Обьявление - Напоминаю, что \"ЗаRulem Печатное Слово\" с нетерпением ждет Ваших статей!",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Обьявление_-_Напоминаю_что_ЗаRulem_Печатное_Слово_с_нетерпен"
+  },
+  {
+    "article_id": 18128,
+    "article_url": "https://zxpress.ru/article.php?id=18128",
+    "print_url": "https://zxpress.ru/print.php?id=18128",
+    "title_link": "Контакты - контакты авторов газеты.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Контакты_-_контакты_авторов_газеты"
+  }
+]

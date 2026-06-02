@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 1881,
+    "article_url": "https://zxpress.ru/article.php?id=1881",
+    "print_url": "https://zxpress.ru/print.php?id=1881",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Авторы_-_авторы_газеты"
+  },
+  {
+    "article_id": 1878,
+    "article_url": "https://zxpress.ru/article.php?id=1878",
+    "print_url": "https://zxpress.ru/print.php?id=1878",
+    "title_link": "Вступление - О содержании газеты...",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_О_содержании_газеты"
+  },
+  {
+    "article_id": 1880,
+    "article_url": "https://zxpress.ru/article.php?id=1880",
+    "print_url": "https://zxpress.ru/print.php?id=1880",
+    "title_link": "Опрос - Опрос Спектрумистов на IRC канале #Z80.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Опрос_-_Опрос_Спектрумистов_на_IRC_канале_Z80"
+  },
+  {
+    "article_id": 1879,
+    "article_url": "https://zxpress.ru/article.php?id=1879",
+    "print_url": "https://zxpress.ru/print.php?id=1879",
+    "title_link": "Проект - О проекте Virtual FunTop (первое виртуальное демопати).",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Проект_-_О_проекте_Virtual_FunTop_первое_виртуальное_демопат"
+  }
+]

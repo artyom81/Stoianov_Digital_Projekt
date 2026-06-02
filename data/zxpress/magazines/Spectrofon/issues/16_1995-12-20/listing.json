@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 4575,
+    "article_url": "https://zxpress.ru/article.php?id=4575",
+    "print_url": "https://zxpress.ru/print.php?id=4575",
+    "title_link": "Экспертиза - подробный разбор игры \"Hacker\".",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Экспертиза_-_подробныи_разбор_игры_Hacker"
+  },
+  {
+    "article_id": 4576,
+    "article_url": "https://zxpress.ru/article.php?id=4576",
+    "print_url": "https://zxpress.ru/print.php?id=4576",
+    "title_link": "Обзор - \"жизнь на спектруме бьет ключем\" - обзор основных событий 1995 года.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Обзор_-_жизнь_на_спектруме_бьет_ключем_-_обзор_основных_собы"
+  },
+  {
+    "article_id": 4577,
+    "article_url": "https://zxpress.ru/article.php?id=4577",
+    "print_url": "https://zxpress.ru/print.php?id=4577",
+    "title_link": "С миру по биту - ответы на письма читателей по игре \"Звёздное Наследие\".",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "С_миру_по_биту_-_ответы_на_письма_читателеи_по_игре_Звездное"
+  },
+  {
+    "article_id": 4578,
+    "article_url": "https://zxpress.ru/article.php?id=4578",
+    "print_url": "https://zxpress.ru/print.php?id=4578",
+    "title_link": "С миру по биту - интервью с группой STEP (создателями Spectrofon и Звёздного Наследия).",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "С_миру_по_биту_-_интервью_с_группои_STEP_создателями_Spectro"
+  },
+  {
+    "article_id": 4579,
+    "article_url": "https://zxpress.ru/article.php?id=4579",
+    "print_url": "https://zxpress.ru/print.php?id=4579",
+    "title_link": "Чемпионат - финал чемпионата вирусов по игре \"ВИРУС-1\".",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Чемпионат_-_финал_чемпионата_вирусов_по_игре_ВИРУС-1"
+  },
+  {
+    "article_id": 4580,
+    "article_url": "https://zxpress.ru/article.php?id=4580",
+    "print_url": "https://zxpress.ru/print.php?id=4580",
+    "title_link": "Система - о проблемах совместимости клонов Спектрума. Основы программирования музыкального процессора AY-8910/12.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Система_-_о_проблемах_совместимости_клонов_Спектрума_Основы"
+  },
+  {
+    "article_id": 4581,
+    "article_url": "https://zxpress.ru/article.php?id=4581",
+    "print_url": "https://zxpress.ru/print.php?id=4581",
+    "title_link": "Конструктор - универсальная схема дешифрации порта расширения для машин с \r\nдополнительной памятью. Сравнение компьютеров \"PROFI\" и \"SCORPION\".",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Конструктор_-_универсальная_схема_дешифрации_порта_расширени"
+  },
+  {
+    "article_id": 4582,
+    "article_url": "https://zxpress.ru/article.php?id=4582",
+    "print_url": "https://zxpress.ru/print.php?id=4582",
+    "title_link": "Фантазия - \"Невыполнимое задание\" - компьютерная новелла по мотивам игры \r\n\"Impossible Mission\".",
+    "order": 8,
+    "issue_label": "16",
+    "short_slug": "Фантазия_-_Невыполнимое_задание_-_компьютерная_новелла_по_мо"
+  },
+  {
+    "article_id": 4583,
+    "article_url": "https://zxpress.ru/article.php?id=4583",
+    "print_url": "https://zxpress.ru/print.php?id=4583",
+    "title_link": "Реклама - бесплатные обьявления.",
+    "order": 9,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_бесплатные_обьявления"
+  }
+]

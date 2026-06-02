@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6800,
+    "article_url": "https://zxpress.ru/article.php?id=6800",
+    "print_url": "https://zxpress.ru/print.php?id=6800",
+    "title_link": "Второй специальный выпуск - Третий международный фестиваль компьютерного искусства \"ENLIGHT'97\". Вступление и заявлением Председателя Оргкомитета.",
+    "order": 1,
+    "issue_label": "51",
+    "short_slug": "Второи_специальныи_выпуск_-_Третии_международныи_фестиваль_к"
+  },
+  {
+    "article_id": 6801,
+    "article_url": "https://zxpress.ru/article.php?id=6801",
+    "print_url": "https://zxpress.ru/print.php?id=6801",
+    "title_link": "Интервью - ANTARES: интервью неудачников.",
+    "order": 2,
+    "issue_label": "51",
+    "short_slug": "Интервью_-_ANTARES_интервью_неудачников"
+  },
+  {
+    "article_id": 6802,
+    "article_url": "https://zxpress.ru/article.php?id=6802",
+    "print_url": "https://zxpress.ru/print.php?id=6802",
+    "title_link": "Информация - \"Sprinter-97\". Описание и возможности.",
+    "order": 3,
+    "issue_label": "51",
+    "short_slug": "Информация_-_Sprinter-97_Описание_и_возможности"
+  },
+  {
+    "article_id": 6803,
+    "article_url": "https://zxpress.ru/article.php?id=6803",
+    "print_url": "https://zxpress.ru/print.php?id=6803",
+    "title_link": "Тусовка - отдых на фестивале Enlight'97.",
+    "order": 4,
+    "issue_label": "51",
+    "short_slug": "Тусовка_-_отдых_на_фестивале_Enlight97"
+  },
+  {
+    "article_id": 6804,
+    "article_url": "https://zxpress.ru/article.php?id=6804",
+    "print_url": "https://zxpress.ru/print.php?id=6804",
+    "title_link": "Итоги - Hеофициальные предварительные итоги Enlight'97.",
+    "order": 5,
+    "issue_label": "51",
+    "short_slug": "Итоги_-_Hеофициальные_предварительные_итоги_Enlight97"
+  },
+  {
+    "article_id": 6805,
+    "article_url": "https://zxpress.ru/article.php?id=6805",
+    "print_url": "https://zxpress.ru/print.php?id=6805",
+    "title_link": "Итоги - Итоговая таблица результатов Enlight'97.",
+    "order": 6,
+    "issue_label": "51",
+    "short_slug": "Итоги_-_Итоговая_таблица_результатов_Enlight97"
+  },
+  {
+    "article_id": 6806,
+    "article_url": "https://zxpress.ru/article.php?id=6806",
+    "print_url": "https://zxpress.ru/print.php?id=6806",
+    "title_link": "Итоги - мнения об Enlight'97.",
+    "order": 7,
+    "issue_label": "51",
+    "short_slug": "Итоги_-_мнения_об_Enlight97"
+  },
+  {
+    "article_id": 6807,
+    "article_url": "https://zxpress.ru/article.php?id=6807",
+    "print_url": "https://zxpress.ru/print.php?id=6807",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "51",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

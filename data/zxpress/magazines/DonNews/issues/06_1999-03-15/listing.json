@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6400,
+    "article_url": "https://zxpress.ru/article.php?id=6400",
+    "print_url": "https://zxpress.ru/print.php?id=6400",
+    "title_link": "Предисловие - О выходе газеты...",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Предисловие_-_О_выходе_газеты"
+  },
+  {
+    "article_id": 6401,
+    "article_url": "https://zxpress.ru/article.php?id=6401",
+    "print_url": "https://zxpress.ru/print.php?id=6401",
+    "title_link": "Местные новости - О делах в различных группах.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Местные_новости_-_О_делах_в_различных_группах"
+  },
+  {
+    "article_id": 6402,
+    "article_url": "https://zxpress.ru/article.php?id=6402",
+    "print_url": "https://zxpress.ru/print.php?id=6402",
+    "title_link": "За бугром - Chaos Construction 1999.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "За_бугром_-_Chaos_Construction_1999"
+  },
+  {
+    "article_id": 6403,
+    "article_url": "https://zxpress.ru/article.php?id=6403",
+    "print_url": "https://zxpress.ru/print.php?id=6403",
+    "title_link": "Мнение - Знакомство с разными компьютерами.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Мнение_-_Знакомство_с_разными_компьютерами"
+  },
+  {
+    "article_id": 6404,
+    "article_url": "https://zxpress.ru/article.php?id=6404",
+    "print_url": "https://zxpress.ru/print.php?id=6404",
+    "title_link": "Новье - О новинках: X-Files #2, ZX-Guide #1, Deja Vu #6-7, Voyager #2,\r\n Translate Words, Fisher, Kick da Gaga, Best View v2.6,\r\n Кролик Роджер, Piggy, Lazarus, Slide Show, Hrust.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Новье_-_О_новинках_X-Files_2_ZX-Guide_1_Deja_Vu_6-7_Voyager"
+  },
+  {
+    "article_id": 6405,
+    "article_url": "https://zxpress.ru/article.php?id=6405",
+    "print_url": "https://zxpress.ru/print.php?id=6405",
+    "title_link": "Бухаловка - О party азовской группы Delta Hackers Group.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Бухаловка_-_О_party_азовскои_группы_Delta_Hackers_Group"
+  },
+  {
+    "article_id": 6407,
+    "article_url": "https://zxpress.ru/article.php?id=6407",
+    "print_url": "https://zxpress.ru/print.php?id=6407",
+    "title_link": "Приложение - Mega Apocalipse.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Приложение_-_Mega_Apocalipse"
+  },
+  {
+    "article_id": 6408,
+    "article_url": "https://zxpress.ru/article.php?id=6408",
+    "print_url": "https://zxpress.ru/print.php?id=6408",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 6409,
+    "article_url": "https://zxpress.ru/article.php?id=6409",
+    "print_url": "https://zxpress.ru/print.php?id=6409",
+    "title_link": "Послесловие - Как делался этот номер.",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Послесловие_-_Как_делался_этот_номер"
+  }
+]

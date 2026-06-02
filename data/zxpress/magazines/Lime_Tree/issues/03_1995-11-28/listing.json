@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 98,
+    "article_url": "https://zxpress.ru/article.php?id=98",
+    "print_url": "https://zxpress.ru/print.php?id=98",
+    "title_link": "Wanted - розыск программ для ZX Spectrum.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Wanted_-_розыск_программ_для_ZX_Spectrum"
+  },
+  {
+    "article_id": 8756,
+    "article_url": "https://zxpress.ru/article.php?id=8756",
+    "print_url": "https://zxpress.ru/print.php?id=8756",
+    "title_link": "BBS-NEWS - новости московских BBS станций.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "BBS-NEWS_-_новости_московских_BBS_станции"
+  },
+  {
+    "article_id": 8757,
+    "article_url": "https://zxpress.ru/article.php?id=8757",
+    "print_url": "https://zxpress.ru/print.php?id=8757",
+    "title_link": "ЮМОР - подборка свежих анекдотов.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "ЮМОР_-_подборка_свежих_анекдотов"
+  },
+  {
+    "article_id": 8758,
+    "article_url": "https://zxpress.ru/article.php?id=8758",
+    "print_url": "https://zxpress.ru/print.php?id=8758",
+    "title_link": "Литературная страничка - продолжение поэмы Ивана Баркова и Малюкова Рифнатовича.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Литературная_страничка_-_продолжение_поэмы_Ивана_Баркова_и_М"
+  }
+]

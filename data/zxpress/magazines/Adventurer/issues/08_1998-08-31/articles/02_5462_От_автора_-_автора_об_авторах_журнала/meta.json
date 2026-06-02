@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-08-31",
+  "order": 2,
+  "article_id": 5462,
+  "title_link": "От автора - автора: об авторах журнала.",
+  "title_h1": "Adventurer 08 - От автора - автора: об авторах журнала.",
+  "print_url": "https://zxpress.ru/print.php?id=5462",
+  "article_url": "https://zxpress.ru/article.php?id=5462",
+  "fetched_at": "2026-05-31T21:33:36Z"
+}

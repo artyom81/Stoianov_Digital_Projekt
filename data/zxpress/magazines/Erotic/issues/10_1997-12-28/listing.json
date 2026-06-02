@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 17583,
+    "article_url": "https://zxpress.ru/article.php?id=17583",
+    "print_url": "https://zxpress.ru/print.php?id=17583",
+    "title_link": "Вступление - От авторов.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Вступление_-_От_авторов"
+  },
+  {
+    "article_id": 17584,
+    "article_url": "https://zxpress.ru/article.php?id=17584",
+    "print_url": "https://zxpress.ru/print.php?id=17584",
+    "title_link": "Рассказ - Отрывок из романа \"Восшествие...\".",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Рассказ_-_Отрывок_из_романа_Восшествие"
+  },
+  {
+    "article_id": 17585,
+    "article_url": "https://zxpress.ru/article.php?id=17585",
+    "print_url": "https://zxpress.ru/print.php?id=17585",
+    "title_link": "Рассказ - Из чрева. Глава 1-2.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Рассказ_-_Из_чрева_Глава_1-2"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9949,
+    "article_url": "https://zxpress.ru/article.php?id=9949",
+    "print_url": "https://zxpress.ru/print.php?id=9949",
+    "title_link": "News - KSA-7G запустил NTSC-кодер на микросхеме CXA 1145 фирмы Sony.",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "News_-_KSA-7G_запустил_NTSC-кодер_на_микросхеме_CXA_1145_фир"
+  },
+  {
+    "article_id": 9950,
+    "article_url": "https://zxpress.ru/article.php?id=9950",
+    "print_url": "https://zxpress.ru/print.php?id=9950",
+    "title_link": "Music - Вернёмся к давно обещанной теме \"музыки на заданные сэмплы\".",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "Music_-_Вернемся_к_давно_обещаннои_теме_музыки_на_заданные_с"
+  },
+  {
+    "article_id": 9951,
+    "article_url": "https://zxpress.ru/article.php?id=9951",
+    "print_url": "https://zxpress.ru/print.php?id=9951",
+    "title_link": "Docs - о больших строках текста в Ac Edit.",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "Docs_-_о_больших_строках_текста_в_Ac_Edit"
+  },
+  {
+    "article_id": 9952,
+    "article_url": "https://zxpress.ru/article.php?id=9952",
+    "print_url": "https://zxpress.ru/print.php?id=9952",
+    "title_link": "Guide - Формат модуля Chip Tracker 1.x",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "Guide_-_Формат_модуля_Chip_Tracker_1x"
+  }
+]

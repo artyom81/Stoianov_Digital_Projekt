@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 1068,
+    "article_url": "https://zxpress.ru/article.php?id=1068",
+    "print_url": "https://zxpress.ru/print.php?id=1068",
+    "title_link": "Enlight'97 - Краткий отчет от ROM Corp.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Enlight97_-_Краткии_отчет_от_ROM_Corp"
+  },
+  {
+    "article_id": 1075,
+    "article_url": "https://zxpress.ru/article.php?id=1075",
+    "print_url": "https://zxpress.ru/print.php?id=1075",
+    "title_link": "Newness - Описание программы Paracels Alkatraz Protection v2.0",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Newness_-_Описание_программы_Paracels_Alkatraz_Protection_v2"
+  },
+  {
+    "article_id": 1074,
+    "article_url": "https://zxpress.ru/article.php?id=1074",
+    "print_url": "https://zxpress.ru/print.php?id=1074",
+    "title_link": "Rants & Raves - Что мы используем при создании газеты ?..",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Rants_Raves_-_Что_мы_используем_при_создании_газеты"
+  },
+  {
+    "article_id": 1070,
+    "article_url": "https://zxpress.ru/article.php?id=1070",
+    "print_url": "https://zxpress.ru/print.php?id=1070",
+    "title_link": "TOP TEN - Лучшая десятка системных программ.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "TOP_TEN_-_Лучшая_десятка_системных_программ"
+  },
+  {
+    "article_id": 1078,
+    "article_url": "https://zxpress.ru/article.php?id=1078",
+    "print_url": "https://zxpress.ru/print.php?id=1078",
+    "title_link": "Авторы",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Авторы"
+  },
+  {
+    "article_id": 1077,
+    "article_url": "https://zxpress.ru/article.php?id=1077",
+    "print_url": "https://zxpress.ru/print.php?id=1077",
+    "title_link": "Анекдоты - 9 анекдотов...",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Анекдоты_-_9_анекдотов"
+  },
+  {
+    "article_id": 1073,
+    "article_url": "https://zxpress.ru/article.php?id=1073",
+    "print_url": "https://zxpress.ru/print.php?id=1073",
+    "title_link": "Ассмблер - Красивый эффект \"Горение спрайта\".",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Ассмблер_-_Красивыи_эффект_Горение_спраита"
+  },
+  {
+    "article_id": 1072,
+    "article_url": "https://zxpress.ru/article.php?id=1072",
+    "print_url": "https://zxpress.ru/print.php?id=1072",
+    "title_link": "Въедем - Описание игры : How to be a complete bastard.",
+    "order": 8,
+    "issue_label": "10",
+    "short_slug": "Въедем_-_Описание_игры_How_to_be_a_complete_bastard"
+  },
+  {
+    "article_id": 1067,
+    "article_url": "https://zxpress.ru/article.php?id=1067",
+    "print_url": "https://zxpress.ru/print.php?id=1067",
+    "title_link": "Наши новости - Игра Sex Bomber от Melted Show.",
+    "order": 9,
+    "issue_label": "10",
+    "short_slug": "Наши_новости_-_Игра_Sex_Bomber_от_Melted_Show"
+  },
+  {
+    "article_id": 1071,
+    "article_url": "https://zxpress.ru/article.php?id=1071",
+    "print_url": "https://zxpress.ru/print.php?id=1071",
+    "title_link": "Новелла - Компьютерная новелла \"The Neverending Story\" часть 1",
+    "order": 10,
+    "issue_label": "10",
+    "short_slug": "Новелла_-_Компьютерная_новелла_The_Neverending_Story_часть_1"
+  },
+  {
+    "article_id": 1069,
+    "article_url": "https://zxpress.ru/article.php?id=1069",
+    "print_url": "https://zxpress.ru/print.php?id=1069",
+    "title_link": "Обзорчик - Обзор игровых программ: Starglider, Scramble Spirits, The Acid game 1-4, Narcopolice, Slaine.",
+    "order": 11,
+    "issue_label": "10",
+    "short_slug": "Обзорчик_-_Обзор_игровых_программ_Starglider_Scramble_Spirit"
+  },
+  {
+    "article_id": 1066,
+    "article_url": "https://zxpress.ru/article.php?id=1066",
+    "print_url": "https://zxpress.ru/print.php?id=1066",
+    "title_link": "От авторов - Небольшой юбилей газеты.",
+    "order": 12,
+    "issue_label": "10",
+    "short_slug": "От_авторов_-_Небольшои_юбилеи_газеты"
+  },
+  {
+    "article_id": 1076,
+    "article_url": "https://zxpress.ru/article.php?id=1076",
+    "print_url": "https://zxpress.ru/print.php?id=1076",
+    "title_link": "Отдохнем ?! - Прикольный рассказик \"Мелкий\".",
+    "order": 13,
+    "issue_label": "10",
+    "short_slug": "Отдохнем_-_Прикольныи_рассказик_Мелкии"
+  },
+  {
+    "article_id": 1065,
+    "article_url": "https://zxpress.ru/article.php?id=1065",
+    "print_url": "https://zxpress.ru/print.php?id=1065",
+    "title_link": "Содержание",
+    "order": 14,
+    "issue_label": "10",
+    "short_slug": "Содержание"
+  }
+]

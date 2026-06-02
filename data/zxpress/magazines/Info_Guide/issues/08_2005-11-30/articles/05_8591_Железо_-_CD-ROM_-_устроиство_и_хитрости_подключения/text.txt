@@ -1,0 +1,681 @@
+Info Guide 08 - Железо - CD-ROM - устройство и хитрости подключения.
+Беседы о CD
+CD-ROM - очень капризное устройство.Ма─
+ло того, что оно не вполне документировано
+(впрочем,и в том,что документировано,можно
+утонуть) - разные модели весьма отличаются
+программно друг от друга.Наибольший опыт в
+данном вопросе приобрёл
+Budder
+(Константин
+Зайцев),
+который опробовал кучу приводов и
+написал  приличный  копировщик.
+SMT,
+автор
+эмулятора
+Unreal Speccy,
+больше опирается
+на документацию.
+В мозговом штурме участвовали, конечно,
+не только я (
+Alone Coder
+),
+Budder
+и
+SMT,
+но и
+Vega, Kury, ZET-9, AmoNik
+и др. Хотя
+многие  вопросы  по  сей  день  решить  не
+удалось, но  думаю, некоторые  промежуточ─
+ные результаты опубликовать полезно. Пред─
+полагается, что  читатель  уже  знаком  со
+статьёй
+Vega
+в
+Абзац #25.
+Там неверно рас─
+писана  команда
+READ TOC
+(чтение таблицы
+сессий). Судя  по  стандарту
+INF-8020
+(это
+тот самый оригинальный документ,определяю─
+щий  поведение  CD-ROM'ов, но в нём многое
+стыдливо  замалчивается - существует  даже
+справочник
+"ATA-ATAPI errata"
+),
+FUNC
+- то
+же число, что
+FORMAT,
+но  сдвинутое  на 6
+бит  влево.
+FUNC>>6
+и
+FORMAT
+должны совпа─
+дать, т.к.новые приводы могут не поддержи─
+вать
+FUNC
+(пцшные устройства часто распро─
+страняются с драйверами, и каждая компания
+может понимать "стандарт" так, как хочет).
+Чтобы  прочитать  данные  по всем сессиям,
+нужно  указать
+BEGTRK=0
+и
+FORMAT=0.
+Если
+только последнюю - то
+FORMAT=1. LENGTН
+ну─
+жно  ставить  по максимуму (
+2048,
+старшим
+байтом  вперёд), а  привод  сам определит,
+сколько  байт передавать (число байт перед
+обменом кладётся в регистры цилиндра ATA).
+Команда  не срабатывает  с первой попытки!
+Чтобы она сработала, перед  её выполнением
+нужно считать, например, сектор
+0.
+Но я забежал вперёд. Итак, начинаем:
+SMT:
+
+S>> По стандарту ATAPI после reset устрой─
+S>> ство обязано держать статус в нуле,
+S>> чтобы старые до-атапишные bios'ы не
+S>> опознали его за винт. А главное, никто
+S>> не обязывает CD-ROM ставить DRDY после
+S>> команды, это на усмотрение разработчи─
+S>> ков устройства.
+DB> А когда оно включит статус в единицу?
+После выполнения первой ATAPI-команды
+(#A0). Но после сброса обязательно 0, в
+этом отличие от ATA.
+
+DB> А что значит ситуация, когда из рег.
+DB> состояния читается #D0 (то бишь заня─
+DB> то) и ни одна прога не хочет видеть
+DB> CD-ROM? Как его программно сбросить в
+DB> этой ситуации? Помогает только холод─
+DB> ный сброс :(
+Бит SRST (Soft Reset - #0C, потом #08 в
+Device Control Register (у Nemo порт #C8))
+Потом нужно дать команду #08, дождаться
+снятия BSY.
+
+The ATA software reset mechanism, SRST,
+(bit 2 in the Device Control Register)
+cannot be used for ATAPI Devices, because
+resets issued by the ATAPI driver would
+also reset any attached hard disk and vice
+versa. To solve this ATAPI defines an
+ATAPI Soft Reset command using a reserved
+ATA opcode which could be decoded by the
+interface controller hardware.
+To maintain Master / Slave compatibility
+with ATA disk drives and prevent detection
+of ATAPI Devices by non ATAPI-aware BIOS,
+ATAPI Devices shall implement the
+following upon receipt of an ATA SRST:
+1. Perform SRST PDIAG sequence see "5.18.2
+SRST Initialization Sequence" on page 46.
+2. Initialize the task file with Status =
+00h or 10h, Error = According to SRST
+Sequence, Sector Count = 01h, Sector
+Number = 01h, Cylinder Low = 14h, Cylinder
+High = EBh and Drive/Head = 00h. Note that
+Device 0 will be seleted after the
+completion of the SRST sequence.
+3. The functionality of the DRDY and DSC
+bits shall be restored on the first
+command following an SRST.
+4. Continue executing commands or play
+operations.
+5. Leave Mode settings or Set Feature
+settings unchanged.
+6. If a selected ATAPI Device detects SRST
+while its own DRQ or BSY is set (1), then
+the command in progress shall be stopped.
+DB> А у тебя не завалялось инструкции, как
+DB> регулировать скорость вращения в
+DB> CD-ROM'е?
+10.8.23 SET CD SPEED Command
+The SET CD SPEED command provides a means
+for the Нost to set the spindle speed to
+be used while reading and writing CD data.
+Note that the Play commands may not use
+the speed set by this command.
+0 Operation code (BBh)
+1 Reserved
+2 MSB Read Drive Speed in Kbytes/Second
+3 LSB
+4 MSB Reserved for Write Drive Speed in
+Kbytes/Second
+5 LSB
+6 Reserved
+7 Reserved
+8 Reserved
+9 Reserved
+10 Reserved
+11 Reserved
+The Drive Speed parameter contains the
+requested Data Rate the drive should use.
+The drive may choose to select the speed
+specified or any slower rate. A value of
+FFFFh will set the Drive Speed to the
+Maximum supported. Requesting a speed
+faster than the drive supports will not
+generate an error. The actual maximum
+speed supported is returned in the
+Capabilities Mode Sense page (See
+"10.8.6.4 CD-ROM Capabilities and
+Mechanical Status Page" on page 115.)
+Замечания  по  поводу  скорости с сайта
+insidePro.com:
+------------------------------------------
+Хакерские секреты,
+или
+Рецепты тормозной жидкости для CD
+
+   Появление высокоскоростных приводов CD-
+ROM  породило огромное количество проблем,
+и, по общему  мнению пользователей, плюсов
+здесь гораздо меньше,чем минусов.Это реак─
+тивный гул, вибрация, разорванные в клочья
+диски - скажите, на  кой  черт всё это вам
+нужно? К тому же,многие из алгоритмов при─
+вязки  к CD на высоких скоростях чувствуют
+себя крайне неустойчиво, и защищённый диск
+запускается далеко не с первого раза, если
+вообще запускается.Какой же из всего этого
+выход? Естественно - тормозить! Благо, ко─
+манду SET CD SEED (опкод 0BBh) большинство
+приводов  всё-таки  поддерживает. Казалось
+бы,задал нужные параметры и вперёд! Ан нет
+- тут всё не так просто...
+   Неприятность первая (маленькая, но зато
+досадная). Скорость задаётся не в "иксах",
+а в  килобайтах в секунду  (именно в кило─
+байтах, а не байтах!). Причём  однократной
+скорости передачи соответствует пропускная
+способность в  176  килобайт  в секунду. А
+двукратной?  Думаете, 176*2=352? А  вот  и
+нет - 353! Зато трёхкратная скорость вычи─
+сляется  в полном соответствии с привычной
+нам математикой: 176*3=528, но уже 4-крат─
+ная скорость опять отклоняется от "иксов":
+176*4=704, против 706 по стандарту. Непра─
+вильно  заданная скорость приводит к уста─
+новке скорости, на ступень меньшей ожидае─
+мой, причём  соответствие  между  исками и
+ступенями далеко не однозначное. Допустим,
+привод  поддерживает следующий ряд скорос─
+тей: 16x,24x,32x и 40х. Если заданная ско─
+рость (в килобайтах  в секунду) не дотяги─
+вает до нормативной скорости 32 "икса", то
+привод переходит на ближайшую "снизу" под─
+держиваемую им скорость,т.е.в нашем случае
+16х. Отсюда мораль: для перевода "иксов" в
+килобайты  в секунду  их нужно умножать не
+на 176, а на 177!
+   Неприятность  вторая  (крупнее и досад─
+нее). Команды, выдающей полный список под─
+держиваемых скоростей,в стандартной специ─
+фикации нет,и добывать эту информацию при─
+ходится  исключительно  методом  перебора.
+Корректно работающая программа перед нача─
+лом такого перебора должна убедиться в от─
+сутствии носителя в приводе, а если он там
+есть - принудительно открыть лоток. Дело в
+том, что раскручивание некачественного CD-
+ROM диска  до высоких скоростей может при─
+вести  к его  разрыву  и вытекающей отсюда
+порче самого привода. Пользователь  должен
+быть  абсолютно уверен в том, что установ─
+ленный в привод диск будет вращаться имен─
+но с той скоростью,с которой его просят, и
+ваша  программа  не станет самопроизвольно
+увеличивать  скорость  без  видимых  на то
+причин.
+   Неприятность  третья  (или тихий ужас).
+Некоторые приводы (в частности, TEAC 522E)
+успешно заглатывают команду SET CD SPEED и
+подтверждают факт изменения скорости, воз─
+вращая в MODE SENSE её новое значение, од─
+нако физически скорость диска остаётся не─
+изменной вплоть до тех пор, пока к нему не
+произойдёт  того или иного обращения. Поэ─
+тому вслед за SET CD SPEED недурно бы дать
+команду чтения сектора с диска, если,коне─
+чно, диск вообще присутствует. Изменять же
+скорость привода без диска в лотке - сове─
+ршенно  бессмысленная  операция, пригодная
+разве что для построения ряда поддерживае─
+мых скоростей,т.к.после вставки нового ди─
+ска  в привод прежние скоростные установки
+оказываются  недействительными, и наиболее
+оптимальная (с точки зрения привода!) ско─
+рость для каждого диска определяется инди─
+видуально. Также  привод  вправе  изменять
+скорость диска по своему усмотрению, пони─
+жая её, если чтение идет неважно, и, соот─
+ветственно, увеличивая  обороты, если  всё
+идёт хорошо.
+------------------------------------------
+Последний  абзац - чистая правда, сам с
+этим мучаюсь.
+Budder:
+
+   Определение HDD (Master) и CDD (Slave):
+------------------------------------------
+DETECT  CALL SEL_MAS
+CALL DRDET
+LD A,D:OR E:LD A,0:JR NZ,ENDC
+INC A
+ENDC    LD (HDEN),A
+CALL SEL_SLA
+LD A,#08:CALL COMM
+LD A,1,(CDEN),A
+CALL CDDET:RET Z
+NoCD    LD A,201,(PTCD),A
+XOR A:LD (CDEN),A
+RET
+CDEN    NOP
+;1-устройство есть,
+HDEN    NOP
+;0-устройство отсутствует
+------------------------------------------
+Hа  выходе  результат  будет  в
+CDEN
+и
+HDEN!
+------------------------------------------
+COMM    LD BC,#F0:OUT A:RET
+XPOZI   LD (LTHL),HL,(LTDE),DE
+;LBA on!
+LD A,H,H,D,D,E,E,A
+;DE,cyl H,head L,sec
+POZI    LD A,H:AND %00001111:LD H,A
+LD A,(DRVRE)
+OR H
+LD BC,#D0:OUT A
+LD A,L,C,#70:OUT A
+LD A,D,C,#B0:OUT A
+LD A,E,C,#90:OUT A
+RET
+RPOZ    LD BC,#D0:IN A:AND #0F
+LD H,A,C,#70:IN A
+LD L,A,C,#B0:IN A
+LD D,A,C,#90:IN A
+LD E,A
+RET
+;-----------------------------------------
+CDDET   CALL SEL_SLA
+DRDET   LD DE,0
+LD H,D,L,E
+CALL XPOZI
+LD A,#EC
+CALL COMM
+.3
+HALT
+;задержка в 3/50 сек,
+;дающая IDE устройству
+CALL RPOZ
+;время подумать, а
+LD HL,#EB14
+;есть ли оно? ;)
+OR A:SBC HL,DE
+RET Z
+NFOC    LD A,1:OR A
+RET
+;-----------------------------------------
+SEL_SLA LD A,#B0
+LD (DRVRE),A
+LD BC,#D0:OUT A:LD C,#F0:IN A
+RLCA
+RET
+SEL_MAS LD A,#E0
+JR SEL_SLA+2
+;-----------------------------------------
+DRVRE   NOP
+LTHL    DS 2
+LTDE    DS 2
+------------------------------------------
+Процедуры ожидания BSY:
+------------------------------------------
+RDY     LD BC,#F0:IN A
+;бесконечное
+RLCA:RET NC
+;ожидание BSY
+JR RDY
+READY   LD E,0,D,0
+;ожидание BSY
+LD BC,#F0:IN A
+;с тайм-аутом
+RLCA:JR C,RY
+XOR A:OUT (254),A:RET
+RY      LD BC,#F0,BC,#F0
+;холостой ход
+DEC D:JR NZ,READY+4
+DEC E:JR NZ,READY+2
+LD A,1:OUT (254),A
+CALL ECCOM
+EI:HALT
+JR READY
+ECCOM   NOP:LD BC,#F0,A,#EC:OUT A:RET
+;при работе с HDD в ECCOM нужно занести
+;значение 201 (RET), а при работе с CDD
+;занести 0 (NOP)
+В нынешнем движке
+WDC
+вместо
+READY
+сто─
+ит
+READY2:
+------------------------------------------
+READY2  XOR A:LD (TMR),A
+;ожидание BSY
+REA     LD BC,#F0:IN A
+;с тайм-аутом
+RLCA:JR NC,RY2
+;в 1/2 секунды
+LD A,(TMR):CP 25:JR C,REA
+LD A,1:OUT (254),A
+CALL ECCOM
+EI:HALT
+JR READY2
+RY2     XOR A:OUT (254),A
+RET
+TMR     NOP
+I_N_T   PUSH HL
+;должно висеть
+LD HL,TMR:INC (HL)
+;на прерываниях
+POP HL
+EI
+RET
+------------------------------------------
+Hо таковой требует присутствия счётчика
+на прерываниях...
+
+   Hа  самом  деле
+READY
+нужно  вызывать
+ТОЛЬКО  перед выполнением новой команды, а
+в некоторых случаях, где таковое принципи─
+ально, вызывать  после команды обычный
+RDY
+(или не вызывать ни тот, ни другой).
+Пример:
+CALL READY
+;ожидание/
+;задание готовности
+CALL EJECT
+;передача пакета
+;на выдвиг трея
+CALL RDY
+;ожидание исполнения
+
+   Ещё  одно  важное  место - это ожидание
+DRQ перед приёмом данных  в процедуре чте─
+ния сектора:
+------------------------------------------
+;процедура чтения сектора
+;HL=куды остальное в пакете сидит
+READSE  LD (HLAD),HL
+RETRYL  XOR A:OUT (254),A
+CALL READY
+LD HL,READP:CALL SNDPAK
+;отдаём команду
+LOADSE1 LD A,5:OUT (254),A
+;чтения сектора
+CALL READY
+CALL ERROR_7:JR C,RETRYL
+LD D,0
+;на некоторых особо глючных CD-приводах
+;здесь может повиснуть,если сделать просто
+;вызов WAITDRQ
+WDQ     LD BC,#F0:IN A
+BIT 3,A:JR NZ,WQR
+DEC D:JR Z,RETRYL
+JR WDQ
+WQR     LD HL,(HLAD)
+GSLOD
+.4
+CALL READS
+XOR A:OUT (254),A
+RET
+HLAD    DS 2
+READS   LD C,#10,D,#80
+RE1     INI:INC C
+INI:DEC C
+INI:INC C
+INI:DEC C
+DEC D:JR NZ,RE1
+RET
+;-----------------------------------------
+SNDPAK  PUSH HL
+;IN HL ADDR OF PAK
+CALL READY
+CALL SEL_SLA
+LD HL,#0800
+CALL OUTRCIL
+;выставляем значения
+;счётчика байтов
+LD A,#A0
+;даём комаду о
+LD BC,#F0:OUT A
+;передаче пакета
+POP HL
+LD BC,12
+TRANSOU PUSH BC
+CALL RDY
+CALL WAITDRQ
+POP BC
+OR A
+RR B,C
+JR NC,$+3
+INC BC
+TOUT1   PUSH BC
+INC HL
+LD A,(HL),BC,#11
+OUT A
+DEC HL
+LD A,(HL):DEC C
+OUT A
+INC HL,HL
+POP BC
+DEC BC
+LD A,B
+OR C
+JR NZ,TOUT1
+RET
+OUTRCIL LD A,L,BC,#90:OUT A
+LD A,H,C,#B0:OUT A
+RET
+;-------------чтение пакета---------------
+ERRT    POP BC
+RET
+TRANSIN
+;HL=куды BC=скока
+PUSH BC
+CALL SEL_SLA
+CALL RDY,ERROR_7:JR C,ERRT
+CALL WAITDRQ
+POP BC
+OR A
+RR B,C
+JR NC,$+3
+INC BC
+T_I1    IN A,(#10):LD (HL),A:INC HL
+IN A,(#11):LD (HL),A:INC HL
+DEC BC
+LD A,B:OR C
+JR NZ,T_I1
+RET
+HLTOLEN LD BC,#90,A,L:OUT A
+LD BC,#B0,A,H:OUT A
+RET
+LENTOHL LD BC,#90:IN A:LD L,A
+LD BC,#B0:IN A:LD H,A
+RET
+WAITDRQ LD BC,#F0:IN A
+BIT 3,A:RET NZ
+JR WAITDRQ
+ERROR_7 LD BC,#F0:IN A
+RRCA
+RET
+------------------------------------------
+Во всех  остальных процедурах можно вы─
+зывать просто
+WAITDRQ!
+(Где таковое требу─
+ется.)
+
+   Ожидание CD привода в любой момент вре─
+мени: подробно описать не могу, т.к.многие
+мелочи уже не помню. Скажу только,что в те
+самые моменты, когда диск не готов,CD при─
+вод  воспринимает любую команду как ошибку
+(за искл. некоторых).Сигнал BSY индицирует
+о занятости, как минимум  после подачи ка─
+кой-либо команды (к примеру,передача паке─
+та), но если не было ошибки!
+   После передачи пакета независимо от то─
+го, был  ли он передан, ставится процедура
+READY (смотрим  процедуру чтения сектора),
+за ней  проверка сигнала ошибки в регистре
+состояния. Если ошибка,то повторяем подачу
+пакета, таким  образом  и ожидается готов─
+ность CD привода в любой момент вренени...
+   В моём двиге есть ещё одна особенность:
+контроль таймаутов,кот. обязательно должны
+быть  в  процедуре  ожидания  BSY (во всех
+драйверах на PC так делается),я выбрал 1/2
+секунды. Hа PC ограничение по времени ожи─
+дания стоит не только на BSY,но и на оста─
+льные сигналы.При таймауте у меня в движке
+подаётся команда #EC, кот. является обяза─
+тельной для всех ATAPI устройств,и которая
+отвешивает  BSY! (Если не нравится #EC, то
+можно использовать #00,но для таковой надо
+ещё указывать код субкоманды в FR (регистр
+свойств), в нашем случае он=0.)
+SMT:
+
+   Ещё немного поигрался с прямым доступом
+к CD-ROM и понял, откуда растут ноги у по─
+дачи  пакета с кодом #00. Часто первая по─
+данная  на  CD-ROM  команда  выполняется с
+ошибкой. Но нужно смотреть,что за ошибка,а
+не пытаться  повторить или дать другую ко─
+манду. Скорее всего, в регистре ошибок ус─
+тановлены  MC
+[???]
+или  MCR
+[Media Change
+Requested в ATAPI - D3  регистра ошибок]
+,
+т.е. юзер  нажимал eject или вставил новый
+диск. В этом  случае привод оповещает хост
+отбрасыванием  следующей  команды с соотв.
+ошибкой.A вместо того,чтобы посылать пакет
+#00, который  "проглотит"  это оповещение,
+нужно  повторить  операцию, если ошибка из
+разряда MC/MCR. Ведь вполне возможно (хотя
+очень маловероятно),что смена носителя или
+нажатие eject придётся как раз между кома─
+ндами #00 и рабочей командой,тогда рабочая
+команда  обломается, несмотря  на  заранее
+переданный #00.
+
+10.8.26 TEST UNIT READY Command
+The TEST UNIT READY command provides a
+means to check if the Device is ready.
+This is not a request for a self-test. If
+the Device would accept an appropriate
+medium-access command without returning
+CHECK CONDITION sta-tus, this command
+shall return a GOOD status. If the Device
+cannot become operational or is in a state
+such that an Host Computer action (e.g.
+START/STOP UNIT command with LoEj = 0 &
+Start = 1) is required to make the unit
+ready, the ATAPI CD-ROM Drive shall return
+CHECK CONDITION status with a sense key of
+NOT READY. 10.8.26.1 Using the TEST UNIT
+READY Command The TEST UNIT READY command
+is useful in that it allows a Host
+Computer to poll a Device until it is
+ready without the need to allocate space
+for returned data. It is especially useful
+to check cartridge status. ATAPI CD-ROM
+Drives are expected to respond promptly to
+indicate the current status of the device.
+0 Operation code (00h)
+1 Reserved
+2 Reserved
+3 Reserved
+4 Reserved
+5 Reserved
+6 Reserved
+7 Reserved
+8 Reserved
+9 Reserved
+10 Reserved
+11 Reserved
+P.S. И тогда становится понятно, почему
+в твоём случае пакет #00 требовался только
+один раз - ты просто диск не менял.
+
+DB> 1. Когда я формирую сброс через управ─
+DB> ляющий регистр (#0C, потом через неко─
+DB> торое время #08), то как определить,
+DB> когда мне дать #08? Имхо должен быть
+DB> какой-то сигнал об этом?
+Снятие BSY. Он моментально устанавливается
+после подачи #08.
+   Сброс через ATA SRST не прерывает кома─
+нду ATAPI, лишь выставляет сигнатуру в ре─
+гистре цилиндра. Впрочем, он не мешает.
+
+DB> 2. Если запустить инициализацию до то─
+DB> го, как сидюк после аппаратного сброса
+DB> (RES на шлейфе) успевает раскрутиться,
+DB> то CD-ROM игнорирует команды. Как я ни
+DB> читал регистры статуса и ошибки, но
+DB> разницы между двумя состояниями (успел
+DB> /не успел раскрутиться) не заметил.
+Ошибки читаются командой REQUEST SENSE
+(#03).
+
+DB> 3. Hекоторые приводы дают ошибку на
+DB> команду установки скорости, после чего
+DB> перестают реагировать на команды. Как
+DB> заставить их работать после этого?
+Не давать команду. Про поддержку спросить
+через MODE SENSE / CAPABILITIES.
+Ред.:
+Там нет признака,что привод умеет
+менять скорость!
+DB> 4. Как узнать, что пришло время снова
+DB> подать команду установки скорости
+DB> (т.е. как узнать, что привод её само─
+DB> произвольно изменил)?
+а. Считать текущую скорость через
+MODE SENSE / CAPABILITIES
+(#5A с параметром #2A).
+б. Обычно скорость сбрасывается при смене
+носителя. Ставить флажок после обработки
+MCR; если флаг установлен, перед командой
+задать заново скорость (для простоты можно
+предварить чтение каталога SET CD SPEED.
+Раз диск сменился, пользователь вынужден
+перечитать, заодно скорость установится).

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16019,
+    "article_url": "https://zxpress.ru/article.php?id=16019",
+    "print_url": "https://zxpress.ru/print.php?id=16019",
+    "title_link": "От авторов - Вступление.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Вступление"
+  },
+  {
+    "article_id": 16020,
+    "article_url": "https://zxpress.ru/article.php?id=16020",
+    "print_url": "https://zxpress.ru/print.php?id=16020",
+    "title_link": "Разное - Chарter 1.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Разное_-_Chарter_1"
+  },
+  {
+    "article_id": 16021,
+    "article_url": "https://zxpress.ru/article.php?id=16021",
+    "print_url": "https://zxpress.ru/print.php?id=16021",
+    "title_link": "Разное - Chарter 2.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Разное_-_Chарter_2"
+  },
+  {
+    "article_id": 16022,
+    "article_url": "https://zxpress.ru/article.php?id=16022",
+    "print_url": "https://zxpress.ru/print.php?id=16022",
+    "title_link": "От авторов - Креаторы и всё такое...",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Креаторы_и_все_такое"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 8177,
+    "article_url": "https://zxpress.ru/article.php?id=8177",
+    "print_url": "https://zxpress.ru/print.php?id=8177",
+    "title_link": "Credits - создатели газеты.",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "Credits_-_создатели_газеты"
+  },
+  {
+    "article_id": 8165,
+    "article_url": "https://zxpress.ru/article.php?id=8165",
+    "print_url": "https://zxpress.ru/print.php?id=8165",
+    "title_link": "Новости - выход газеты это уже новость.",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "Новости_-_выход_газеты_это_уже_новость"
+  },
+  {
+    "article_id": 8166,
+    "article_url": "https://zxpress.ru/article.php?id=8166",
+    "print_url": "https://zxpress.ru/print.php?id=8166",
+    "title_link": "Наш гость - мемуары спектрумиста из Дзержинска - Nuts.",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Наш_гость_-_мемуары_спектрумиста_из_Дзержинска_-_Nuts"
+  },
+  {
+    "article_id": 8167,
+    "article_url": "https://zxpress.ru/article.php?id=8167",
+    "print_url": "https://zxpress.ru/print.php?id=8167",
+    "title_link": "О разном - Мысли Nuts о системном софте для спектрума.",
+    "order": 4,
+    "issue_label": "42",
+    "short_slug": "О_разном_-_Мысли_Nuts_о_системном_софте_для_спектрума"
+  },
+  {
+    "article_id": 8168,
+    "article_url": "https://zxpress.ru/article.php?id=8168",
+    "print_url": "https://zxpress.ru/print.php?id=8168",
+    "title_link": "О разном - Arhon рассуждает о причинах увядания геймдева на Спектруме.",
+    "order": 5,
+    "issue_label": "42",
+    "short_slug": "О_разном_-_Arhon_рассуждает_о_причинах_увядания_геимдева_на"
+  },
+  {
+    "article_id": 8169,
+    "article_url": "https://zxpress.ru/article.php?id=8169",
+    "print_url": "https://zxpress.ru/print.php?id=8169",
+    "title_link": "Тема - одно из последних открытых писем Nemo (ответ SirX'у).",
+    "order": 6,
+    "issue_label": "42",
+    "short_slug": "Тема_-_одно_из_последних_открытых_писем_Nemo_ответ_SirXу"
+  },
+  {
+    "article_id": 8170,
+    "article_url": "https://zxpress.ru/article.php?id=8170",
+    "print_url": "https://zxpress.ru/print.php?id=8170",
+    "title_link": "Тему - Достоин ли NEMO уважения? Да кто такой этот NEMO?",
+    "order": 7,
+    "issue_label": "42",
+    "short_slug": "Тему_-_Достоин_ли_NEMO_уважения_Да_кто_такои_этот_NEMO"
+  },
+  {
+    "article_id": 8171,
+    "article_url": "https://zxpress.ru/article.php?id=8171",
+    "print_url": "https://zxpress.ru/print.php?id=8171",
+    "title_link": "Тема - Nemo просто обыкновенный хам, не уважающий никого!!! Или его подставили?",
+    "order": 8,
+    "issue_label": "42",
+    "short_slug": "Тема_-_Nemo_просто_обыкновенныи_хам_не_уважающии_никого_Или"
+  },
+  {
+    "article_id": 8172,
+    "article_url": "https://zxpress.ru/article.php?id=8172",
+    "print_url": "https://zxpress.ru/print.php?id=8172",
+    "title_link": "Coding - как использовать компьютер для борьбы с комарами (программа отпугивающая комаров).",
+    "order": 9,
+    "issue_label": "42",
+    "short_slug": "Coding_-_как_использовать_компьютер_для_борьбы_с_комарами_пр"
+  },
+  {
+    "article_id": 8173,
+    "article_url": "https://zxpress.ru/article.php?id=8173",
+    "print_url": "https://zxpress.ru/print.php?id=8173",
+    "title_link": "Новелла - День Открытых Дверей.",
+    "order": 10,
+    "issue_label": "42",
+    "short_slug": "Новелла_-_День_Открытых_Двереи"
+  },
+  {
+    "article_id": 8174,
+    "article_url": "https://zxpress.ru/article.php?id=8174",
+    "print_url": "https://zxpress.ru/print.php?id=8174",
+    "title_link": "Comics - отчет с пьянки Vel'a.",
+    "order": 11,
+    "issue_label": "42",
+    "short_slug": "Comics_-_отчет_с_пьянки_Vela"
+  },
+  {
+    "article_id": 8175,
+    "article_url": "https://zxpress.ru/article.php?id=8175",
+    "print_url": "https://zxpress.ru/print.php?id=8175",
+    "title_link": "Post scriptum - рассказ о нелегкой судьбе этого номера газеты.",
+    "order": 12,
+    "issue_label": "42",
+    "short_slug": "Post_scriptum_-_рассказ_о_нелегкои_судьбе_этого_номера_газет"
+  },
+  {
+    "article_id": 8176,
+    "article_url": "https://zxpress.ru/article.php?id=8176",
+    "print_url": "https://zxpress.ru/print.php?id=8176",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 13,
+    "issue_label": "42",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

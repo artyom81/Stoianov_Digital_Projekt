@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 11038,
+    "article_url": "https://zxpress.ru/article.php?id=11038",
+    "print_url": "https://zxpress.ru/print.php?id=11038",
+    "title_link": "Как переделывать игры - подпрограммы работающие с лентой.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Как_переделывать_игры_-_подпрограммы_работающие_с_лентои"
+  },
+  {
+    "article_id": 11039,
+    "article_url": "https://zxpress.ru/article.php?id=11039",
+    "print_url": "https://zxpress.ru/print.php?id=11039",
+    "title_link": "Как переделывать игры - поиск подпрограмм работающих с лентой.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Как_переделывать_игры_-_поиск_подпрограмм_работающих_с_ленто"
+  },
+  {
+    "article_id": 11040,
+    "article_url": "https://zxpress.ru/article.php?id=11040",
+    "print_url": "https://zxpress.ru/print.php?id=11040",
+    "title_link": "Как переделывать игры - подпрограммы работы с диском.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Как_переделывать_игры_-_подпрограммы_работы_с_диском"
+  },
+  {
+    "article_id": 988,
+    "article_url": "https://zxpress.ru/article.php?id=988",
+    "print_url": "https://zxpress.ru/print.php?id=988",
+    "title_link": "Читатель-читателю - И.Рощин. Драйвер экрана для компьютера \"Пентагон-128\".",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Читатель-читателю_-_ИРощин_Драивер_экрана_для_компьютера_Пен"
+  },
+  {
+    "article_id": 3032,
+    "article_url": "https://zxpress.ru/article.php?id=3032",
+    "print_url": "https://zxpress.ru/print.php?id=3032",
+    "title_link": "Презентация - Презентация игры Awaken.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Презентация_-_Презентация_игры_Awaken"
+  },
+  {
+    "article_id": 12328,
+    "article_url": "https://zxpress.ru/article.php?id=12328",
+    "print_url": "https://zxpress.ru/print.php?id=12328",
+    "title_link": "Новости - Загадочная идея в MOVE #8.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Загадочная_идея_в_MOVE_8"
+  },
+  {
+    "article_id": 4648,
+    "article_url": "https://zxpress.ru/article.php?id=4648",
+    "print_url": "https://zxpress.ru/print.php?id=4648",
+    "title_link": "Экспертиза - подробно рассмотрена игра \"Hostages\". Вы участник операции \r\n\"Юпитер\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Экспертиза_-_подробно_рассмотрена_игра_Hostages_Вы_участник"
+  },
+  {
+    "article_id": 13236,
+    "article_url": "https://zxpress.ru/article.php?id=13236",
+    "print_url": "https://zxpress.ru/print.php?id=13236",
+    "title_link": "Новости - Techno Lab вeдyт paзpaбoткy игpы, paбoтa нaд жypнaлoм DЕJA VU зaмopoжeнa нa нeoпpeдeлeнный cpoк, Delirium Tremens делают \"Стекло 2\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Techno_Lab_вeдyт_paзpaбoткy_игpы_paбoтa_нaд_жypнaл"
+  }
+]

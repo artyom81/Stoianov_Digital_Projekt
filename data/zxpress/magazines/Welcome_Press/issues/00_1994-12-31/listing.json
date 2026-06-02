@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 13699,
+    "article_url": "https://zxpress.ru/article.php?id=13699",
+    "print_url": "https://zxpress.ru/print.php?id=13699",
+    "title_link": "От редакции - Вам предлагается демонстрационный\r\nномер электронного журнала \"Welcome Press\".",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "От_редакции_-_Вам_предлагается_демонстрационныиномер_электро"
+  },
+  {
+    "article_id": 13700,
+    "article_url": "https://zxpress.ru/article.php?id=13700",
+    "print_url": "https://zxpress.ru/print.php?id=13700",
+    "title_link": "К авторам - Мы сможем помочь в воплощении Вашей, даже\r\nфантастической, мысли в реальность и Вы всё\r\nравно останетесь ее автором!",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "К_авторам_-_Мы_сможем_помочь_в_воплощении_Вашеи_дажефантасти"
+  },
+  {
+    "article_id": 5203,
+    "article_url": "https://zxpress.ru/article.php?id=5203",
+    "print_url": "https://zxpress.ru/print.php?id=5203",
+    "title_link": "Doomdarks Revenge - полное описание ролевой игры, в которой вам предстоит сражаться со злом.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Doomdarks_Revenge_-_полное_описание_ролевои_игры_в_которои_в"
+  },
+  {
+    "article_id": 10502,
+    "article_url": "https://zxpress.ru/article.php?id=10502",
+    "print_url": "https://zxpress.ru/print.php?id=10502",
+    "title_link": "Смак - Сегодня у нас на закуску шашлык.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Смак_-_Сегодня_у_нас_на_закуску_шашлык"
+  },
+  {
+    "article_id": 14197,
+    "article_url": "https://zxpress.ru/article.php?id=14197",
+    "print_url": "https://zxpress.ru/print.php?id=14197",
+    "title_link": "partyzone - millenium'02:report",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "partyzone_-_millenium02report"
+  },
+  {
+    "article_id": 6881,
+    "article_url": "https://zxpress.ru/article.php?id=6881",
+    "print_url": "https://zxpress.ru/print.php?id=6881",
+    "title_link": "Информация - кандидат технических наук Моисей Гельман о повременной оплате телефонных разговоров в Москве.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Информация_-_кандидат_технических_наук_Моисеи_Гельман_о_повр"
+  },
+  {
+    "article_id": 8228,
+    "article_url": "https://zxpress.ru/article.php?id=8228",
+    "print_url": "https://zxpress.ru/print.php?id=8228",
+    "title_link": "Coding - пишем необычную бегущую строку.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Coding_-_пишем_необычную_бегущую_строку"
+  }
+]

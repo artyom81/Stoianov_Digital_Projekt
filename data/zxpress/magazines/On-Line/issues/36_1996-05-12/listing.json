@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 54,
+    "article_url": "https://zxpress.ru/article.php?id=54",
+    "print_url": "https://zxpress.ru/print.php?id=54",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2085,
+    "article_url": "https://zxpress.ru/article.php?id=2085",
+    "print_url": "https://zxpress.ru/print.php?id=2085",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2086,
+    "article_url": "https://zxpress.ru/article.php?id=2086",
+    "print_url": "https://zxpress.ru/print.php?id=2086",
+    "title_link": "Застрял ? - Описание игры \"Octopus\".",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Застрял_-_Описание_игры_Octopus"
+  },
+  {
+    "article_id": 2084,
+    "article_url": "https://zxpress.ru/article.php?id=2084",
+    "print_url": "https://zxpress.ru/print.php?id=2084",
+    "title_link": "Мозаика - Cheat'ы к программам: Snare, Reckless Rufus, Gonzalezz.\r\n Speccy или Dendy? Об ошибках в программах отечественного производства.",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Мозаика_-_Cheatы_к_программам_Snare_Reckless_Rufus_Gonzalezz"
+  },
+  {
+    "article_id": 2083,
+    "article_url": "https://zxpress.ru/article.php?id=2083",
+    "print_url": "https://zxpress.ru/print.php?id=2083",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

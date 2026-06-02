@@ -1,0 +1,29 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "2001-05-31",
+      "articles_count": 50
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "2002-01-29",
+      "articles_count": 79
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "2003-01-31",
+      "articles_count": 25
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "2004-09-30",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "11",
+      "issue_date_iso": "2011-08-26",
+      "articles_count": 16
+    }
+  ]
+}

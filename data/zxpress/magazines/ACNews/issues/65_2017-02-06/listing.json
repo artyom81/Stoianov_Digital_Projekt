@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 18514,
+    "article_url": "https://zxpress.ru/article.php?id=18514",
+    "print_url": "https://zxpress.ru/print.php?id=18514",
+    "title_link": "Новости - Я вернулся к разработке языка NedoLang, AmoNik дописал драйвер HDD, vBv выложил свою знаменитую коллекцию спектрумовского софта, FlashZX выпустил полную версию игры DinoRun",
+    "order": 1,
+    "issue_label": "65",
+    "short_slug": "Новости_-_Я_вернулся_к_разработке_языка_NedoLang_AmoNik_допи"
+  },
+  {
+    "article_id": 18515,
+    "article_url": "https://zxpress.ru/article.php?id=18515",
+    "print_url": "https://zxpress.ru/print.php?id=18515",
+    "title_link": "News - John Silver recovered his broken leg and returned to his job, Deathsoft continues to reverse engineer the schematics of 1818VG93 disk controller using microphotographs, Hippiman/Conscience has translated his PC game Dizzy Rescues, vBv has released his famous collection of ZX Spectrum software",
+    "order": 2,
+    "issue_label": "65",
+    "short_slug": "News_-_John_Silver_recovered_his_broken_leg_and_returned_to"
+  },
+  {
+    "article_id": 18516,
+    "article_url": "https://zxpress.ru/article.php?id=18516",
+    "print_url": "https://zxpress.ru/print.php?id=18516",
+    "title_link": "АТМ-Турбо и все-все-все - и немного истори компьютера Profi",
+    "order": 3,
+    "issue_label": "65",
+    "short_slug": "АТМ-Турбо_и_все-все-все_-_и_немного_истори_компьютера_Profi"
+  },
+  {
+    "article_id": 18517,
+    "article_url": "https://zxpress.ru/article.php?id=18517",
+    "print_url": "https://zxpress.ru/print.php?id=18517",
+    "title_link": "Советский софт для Speccy - софт выходивший до 1991 года",
+    "order": 4,
+    "issue_label": "65",
+    "short_slug": "Советскии_софт_для_Speccy_-_софт_выходившии_до_1991_года"
+  },
+  {
+    "article_id": 18518,
+    "article_url": "https://zxpress.ru/article.php?id=18518",
+    "print_url": "https://zxpress.ru/print.php?id=18518",
+    "title_link": "Soviet Union Speccy software - for 1991 year",
+    "order": 5,
+    "issue_label": "65",
+    "short_slug": "Soviet_Union_Speccy_software_-_for_1991_year"
+  },
+  {
+    "article_id": 18519,
+    "article_url": "https://zxpress.ru/article.php?id=18519",
+    "print_url": "https://zxpress.ru/print.php?id=18519",
+    "title_link": "ATM-Turbo and others ZX Spectrum clones , history of Profi computer",
+    "order": 6,
+    "issue_label": "65",
+    "short_slug": "ATM-Turbo_and_others_ZX_Spectrum_clones_history_of_Profi_com"
+  }
+]

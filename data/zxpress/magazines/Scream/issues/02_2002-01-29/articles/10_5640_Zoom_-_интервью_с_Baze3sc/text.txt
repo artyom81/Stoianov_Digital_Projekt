@@ -1,0 +1,125 @@
+Scream 02 - Zoom - интервью с Baze/3sc.
+|3sc 
+|kristoph-baze 
+
+
+[?] Current group staff? 
+
+riXta  (pyt0) - coder. the founder of the group, recently almost 
+inactive  (although  he significantly participated in demos Open
+Your  Eyes  and MQM 5). occasionally he codes some crazy utility 
+or  intro for PC. he studies at IT university and he is program-
+ming  boards  for  telecommunication voice systems (and he is my
+best friend, as we know each other for 13 years :). 
+
+bEETLE - coder.  he  is  very good at optimization and exploring 
+new  ideas or tricks. he is our little genius and even if he se-
+ems inactive, he provides very useful brainstorming support.. he
+studies at two universities (math-physics and also IT). he works
+as  artificial  intelligence  programmer  for PC game-developing
+company.
+
+huGe (astex) - coder, designer, graphician. huGe has great know- 
+ledge  of  hardware, excellent coding skills and most important-
+ly - sense  of  art and unconventional thinking. he greatly par-
+ticipates  to  overall  look and design of our works. he studies
+hardware engineering and works for a company developing UPC's.
+
+baze - coder,  designer, musician, graphician. well... hehe, I'm 
+the  founder  of  the group and perhaps the idea-leader. i study
+information technologies and i work as a programmer for telecom-
+munication  voice  system boards (formerly i coded bank informa-
+tion  systems). I'm demoscene addict and i like to do everything
+on my own :) Blah, it's hard to write about myself ;)
+
+[?] What are you working on now? What plans for the future? 
+
+As  with  any scener in his middle 20's, we lack spare time  for
+coding.  That's  why  we don't plan anything and our productions
+are rather spontaneous (and recently also rare :). We decided to
+develop  our  skills  and  minds  and not get stuck in one point
+(knowing Z80 code, saying that PC sucks and that's all). I would
+say  that  we  are  now more into art than into coding. It means
+that  code  is  just  the way, not the goal. This is what we are
+working  on  now (except  job,  having a break, sleep, sport and
+spending good time with friends :):
+
+Square - the  web  gallery of mine and huGe's photos, images and 
+drawings.  it  is  oriented  into minimal - industrial - digital
+art. we decided to create this gallery because we felt that the-
+re are  some ideas and feelings that can not be expressed by co-
+de.  There  are already lots of material available. Gallery will
+be  placed  at www.square.sk.  At  the moment there is just some
+pseudo-page.  We  already made a multimedial presentation in the
+Theatre  of  Music  containing  this  material and we want to do
+more.
+
+Football  robot - this  is  actually a funny university project. 
+The  goal  is  to develop a robot team capable of playing robot-
+football.  The  only  member  of  our  group that works on it is
+bEETLE - he codes all artificial intelligence and physical model 
+of the world into robot's "head".
+
+256b  intros - this  is  my hobby, as I like to code not only on 
+Z80 but also on x86's. Also, bEETLE likes this kind of coding if
+he has some spare time. At the moment I'm coding an intro called
+Tube  to  be  presented at Syndeecate party in early August. I'm
+always  fighting  hard against my toughest opponents like Serzh,
+Dement/Broncs or CPOC/Downtown :) 
+
+Z80  code - I'm intentionally not saying that we are working  on 
+THIS  or  THIS project... times are changing, ideas/opinions are 
+changing  too. To be honest, I don't think that Spectrum can ex-
+press  all  we  want to express, nor that we have to use all our
+brainpower  to  code fast and clean code for Z80. But some of us
+just love Spectrum. If I get the good idea and motivation, I co-
+de some routines that may from time to time appear in  intro. Or
+we may suddenly decide to make a "short-kinda-art" demo, like we
+did with The Loop, which was misunderstood. However, only me and
+maybe  huGe, with enough motivation, are active on ZX scene. The
+rest  of the group is no longer interested in Speccy and I comp-
+letely  understand them, as they know everything about ZX, their
+knowledge is beyond ZX's capabilities and it's no longer a chal-
+lenge  for  them. The result - spontaneously, new pieces of code
+for  ZX  may  appear, mainly from me with huGe's support, but if
+they won't, don't be surprised :) And... yeah, I will try to put
+The Loop into presentable state :)
+
+Our  plans?  Easy question, because I said that we don't plan :)
+We  just want to keep the spirit, continue contributing to Squa-
+re, do some crazy pieces of code on ANY platform and maybe orga-
+nize  another  multimedial (or VJ?) show with images/animations,
+do  some art webs like http://minimal-huge.host.sk/ :). Our sec-
+ret  wish is to produce a PC demo, but heaven knows if that wish
+will be ever fulfilled.
+
+[?] Are  you  going to chaos constructions'1 in SPB? Or will you 
+    make demo/intro/mus/gfx for it?
+
+No, I'm not going this (and last ;) time. I've been to many gre-
+at demoparties around and this time I don't feel like travelling
+across  such  distance to see another one. However, I would like
+to  meet some of these crazy people somewhere and somewhen and I
+believe there will be a chance :)
+
+As  for contributions... I'm not optimistic. It will be a matter
+of  last-moment  decision  and that's why NO DEMO, for sure. The
+intro  is  possible,  but I would better publish 100% intro some
+time  later  than  50% intro just to be ready at CC1. As for mu-
+sic... I  think  that my tunes are not presentable to masses and
+they  are  not good enough to compete with top musicians (though
+they  may  fit as a soundtrack for demo). And ... hm, gfx ... it
+would  be  again something strange like Blue from Forever party.
+Knowing  nature  of  CC parties, it wouldn't even pass preselec-
+tion,  so why to try. People seem to like preciously drawn mons-
+ters :)  I  would  rather  support Phat party because I like its
+"image".
+
+[?] Baze, honey, i want "the  loop";D  When  i will see it on my 
+    zx?
+
+Hehe,  HEAVEN KNOWS :))) As you know, we got a bit disappointed,
+because  we  coded  good  engine with semaphores, pipes and some
+really  fast  pieces  of code. Idea was also not bad and design,
+imho,  was  original  [though hard to watch :]. Result - fiasco.
+That's why I'm lacking motivation. Howgh :) We will see.

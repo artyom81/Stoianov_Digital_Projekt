@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1996-07-31",
+  "order": 13,
+  "article_id": 548,
+  "title_link": "Система - Описание системных программ: XAS, MASM 1.1, Copy v3.3 turbo,\r\nPower Assembler v3.0, Turbo Assembler, Rock Disk Service v3.1, LZ-Compressor v1.0, PCX Show v1.0, Memory test v1.3, Digital Music Macker.",
+  "title_h1": "Adventurer 04 - Система - Описание системных программ: XAS, MASM 1.1, Copy v3.3 turbo, Power Assembler v3.0, Turbo Assembler, Rock Disk Service v3.1, LZ-Compressor v1.0, PCX Show v1.0, Memory test v1.3, Digital Music Macker.",
+  "print_url": "https://zxpress.ru/print.php?id=548",
+  "article_url": "https://zxpress.ru/article.php?id=548",
+  "fetched_at": "2026-05-31T21:32:39Z"
+}

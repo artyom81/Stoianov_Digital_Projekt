@@ -1,0 +1,15 @@
+{
+  "magazine_id": 12,
+  "magazine_name": "Amazing",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-07-14",
+  "order": 3,
+  "article_id": 5856,
+  "title_link": "Обозрение - обзор программ из приложения: STV v1.3, Sample Editor v2.1, TDU v1.0, Crasher, RBI, YES, RDG, MOdule Converter, RC v1.4, Dark Square, 12 Тайных Книг.",
+  "title_h1": "Amazing 02 - Обозрение - обзор программ из приложения: STV v1.3, Sample Editor v2.1, TDU v1.0, Crasher, RBI, YES, RDG, MOdule Converter, RC v1.4, Dark Square, 12 Тайных Книг.",
+  "print_url": "https://zxpress.ru/print.php?id=5856",
+  "article_url": "https://zxpress.ru/article.php?id=5856",
+  "fetched_at": "2026-05-31T21:36:40Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 14059,
+    "article_url": "https://zxpress.ru/article.php?id=14059",
+    "print_url": "https://zxpress.ru/print.php?id=14059",
+    "title_link": "scene intro - сценовое вступление.",
+    "order": 1,
+    "issue_label": "3C",
+    "short_slug": "scene_intro_-_сценовое_вступление"
+  },
+  {
+    "article_id": 14060,
+    "article_url": "https://zxpress.ru/article.php?id=14060",
+    "print_url": "https://zxpress.ru/print.php?id=14060",
+    "title_link": "body postbox - нам пишут.",
+    "order": 2,
+    "issue_label": "3C",
+    "short_slug": "body_postbox_-_нам_пишут"
+  },
+  {
+    "article_id": 14061,
+    "article_url": "https://zxpress.ru/article.php?id=14061",
+    "print_url": "https://zxpress.ru/print.php?id=14061",
+    "title_link": "new warez - свежий warez: Pro Tracker 3.57,RIP #15,>Video Studio,Horror Fast Test,Psychoz 12,BestView 2.13,Приключения Алкаша Михалыча. Залупяга,Starcraft Demo,Сafe Warez Pack,Loosing Victoria,Lovemaker,ZX-Guide 4.5,Horror Word 1.01,Heresy #9, #10.",
+    "order": 3,
+    "issue_label": "3C",
+    "short_slug": "new_warez_-_свежии_warez_Pro_Tracker_357RIP_15Video_StudioHo"
+  },
+  {
+    "article_id": 14062,
+    "article_url": "https://zxpress.ru/article.php?id=14062",
+    "print_url": "https://zxpress.ru/print.php?id=14062",
+    "title_link": "scene news - новости zx сцены.",
+    "order": 4,
+    "issue_label": "3C",
+    "short_slug": "scene_news_-_новости_zx_сцены"
+  },
+  {
+    "article_id": 14063,
+    "article_url": "https://zxpress.ru/article.php?id=14063",
+    "print_url": "https://zxpress.ru/print.php?id=14063",
+    "title_link": "scene on - история демосцены.",
+    "order": 5,
+    "issue_label": "3C",
+    "short_slug": "scene_on_-_история_демосцены"
+  },
+  {
+    "article_id": 14064,
+    "article_url": "https://zxpress.ru/article.php?id=14064",
+    "print_url": "https://zxpress.ru/print.php?id=14064",
+    "title_link": "real life - почему не дают бабы?",
+    "order": 6,
+    "issue_label": "3C",
+    "short_slug": "real_life_-_почему_не_дают_бабы"
+  },
+  {
+    "article_id": 14065,
+    "article_url": "https://zxpress.ru/article.php?id=14065",
+    "print_url": "https://zxpress.ru/print.php?id=14065",
+    "title_link": "brain damage - by cj.flexo",
+    "order": 7,
+    "issue_label": "3C",
+    "short_slug": "brain_damage_-_by_cjflexo"
+  },
+  {
+    "article_id": 14066,
+    "article_url": "https://zxpress.ru/article.php?id=14066",
+    "print_url": "https://zxpress.ru/print.php?id=14066",
+    "title_link": "заключение - авторы и т.д.",
+    "order": 8,
+    "issue_label": "3C",
+    "short_slug": "заключение_-_авторы_и_тд"
+  }
+]

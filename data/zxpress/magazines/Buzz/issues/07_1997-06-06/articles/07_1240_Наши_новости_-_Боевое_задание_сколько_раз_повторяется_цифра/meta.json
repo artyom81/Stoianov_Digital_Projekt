@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1997-06-06",
+  "order": 7,
+  "article_id": 1240,
+  "title_link": "Наши новости - Боевое задание : сколько раз повторяется цифра \"7\" в этом номере газеты.",
+  "title_h1": "Buzz 07 - Наши новости - Боевое задание : сколько раз повторяется цифра \"7\" в этом номере газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=1240",
+  "article_url": "https://zxpress.ru/article.php?id=1240",
+  "fetched_at": "2026-05-31T21:47:32Z"
+}

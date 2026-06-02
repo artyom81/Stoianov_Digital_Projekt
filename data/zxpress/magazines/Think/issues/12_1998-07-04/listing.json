@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 4157,
+    "article_url": "https://zxpress.ru/article.php?id=4157",
+    "print_url": "https://zxpress.ru/print.php?id=4157",
+    "title_link": "От автора - возвращение из лагеря...",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "От_автора_-_возвращение_из_лагеря"
+  },
+  {
+    "article_id": 4158,
+    "article_url": "https://zxpress.ru/article.php?id=4158",
+    "print_url": "https://zxpress.ru/print.php?id=4158",
+    "title_link": "Проходилка - Operation R.R. (demo)",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Проходилка_-_Operation_RR_demo"
+  },
+  {
+    "article_id": 4159,
+    "article_url": "https://zxpress.ru/article.php?id=4159",
+    "print_url": "https://zxpress.ru/print.php?id=4159",
+    "title_link": "Обзор новинок - Тайна капитана Шелтона (demo)",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Обзор_новинок_-_Таина_капитана_Шелтона_demo"
+  },
+  {
+    "article_id": 4160,
+    "article_url": "https://zxpress.ru/article.php?id=4160",
+    "print_url": "https://zxpress.ru/print.php?id=4160",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4161,
+    "article_url": "https://zxpress.ru/article.php?id=4161",
+    "print_url": "https://zxpress.ru/print.php?id=4161",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4162,
+    "article_url": "https://zxpress.ru/article.php?id=4162",
+    "print_url": "https://zxpress.ru/print.php?id=4162",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

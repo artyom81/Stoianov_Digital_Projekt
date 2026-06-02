@@ -1,0 +1,15 @@
+{
+  "magazine_id": 43,
+  "magazine_name": "Clime",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-03-02",
+  "order": 5,
+  "article_id": 10733,
+  "title_link": "Сеть - краткий свод правил для пользователей BBS.",
+  "title_h1": "Clime 01 - Сеть - краткий свод правил для пользователей BBS.",
+  "print_url": "https://zxpress.ru/print.php?id=10733",
+  "article_url": "https://zxpress.ru/article.php?id=10733",
+  "fetched_at": "2026-05-31T21:52:38Z"
+}

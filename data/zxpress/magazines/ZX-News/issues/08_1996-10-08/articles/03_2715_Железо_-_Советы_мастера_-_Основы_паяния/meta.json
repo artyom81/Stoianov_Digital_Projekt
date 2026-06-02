@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1996-10-08",
+  "order": 3,
+  "article_id": 2715,
+  "title_link": "Железо - Советы мастера. - Основы паяния.",
+  "title_h1": "ZX-News 08 - Железо - Советы мастера. - Основы паяния.",
+  "print_url": "https://zxpress.ru/print.php?id=2715",
+  "article_url": "https://zxpress.ru/article.php?id=2715",
+  "fetched_at": "2026-05-31T23:28:01Z"
+}

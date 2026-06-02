@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "2003-12-31",
+  "order": 3,
+  "article_id": 9947,
+  "title_link": "Анонс - анонс содержания журнала \"Фантадром-4\".",
+  "title_h1": "ACNews 25 - Анонс - анонс содержания журнала \"Фантадром-4\".",
+  "print_url": "https://zxpress.ru/print.php?id=9947",
+  "article_url": "https://zxpress.ru/article.php?id=9947",
+  "fetched_at": "2026-05-31T21:30:47Z"
+}

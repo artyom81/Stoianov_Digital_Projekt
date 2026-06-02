@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2001-06-18",
+  "order": 9,
+  "article_id": 13365,
+  "title_link": "Введение - мы вновь встречаемся на страницах\r\n или на экранах.",
+  "title_h1": "ZX Park 08 - Введение - мы вновь встречаемся на страницах  или на экранах.",
+  "print_url": "https://zxpress.ru/print.php?id=13365",
+  "article_url": "https://zxpress.ru/article.php?id=13365",
+  "fetched_at": "2026-05-31T21:30:07Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1996-11-19",
+  "order": 3,
+  "article_id": 2777,
+  "title_link": "Железо - Подключение Hays-совместимого модема к Скорпиону.",
+  "title_h1": "ZX-News 15 - Железо - Подключение Hays-совместимого модема к Скорпиону.",
+  "print_url": "https://zxpress.ru/print.php?id=2777",
+  "article_url": "https://zxpress.ru/article.php?id=2777",
+  "fetched_at": "2026-05-31T23:28:25Z"
+}

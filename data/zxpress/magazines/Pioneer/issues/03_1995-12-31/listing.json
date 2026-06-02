@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 11810,
+    "article_url": "https://zxpress.ru/article.php?id=11810",
+    "print_url": "https://zxpress.ru/print.php?id=11810",
+    "title_link": "Вступление - системные требования к компьютеру.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_системные_требования_к_компьютеру"
+  },
+  {
+    "article_id": 11811,
+    "article_url": "https://zxpress.ru/article.php?id=11811",
+    "print_url": "https://zxpress.ru/print.php?id=11811",
+    "title_link": "От авторов - О проблемах создания журнала.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_О_проблемах_создания_журнала"
+  },
+  {
+    "article_id": 11812,
+    "article_url": "https://zxpress.ru/article.php?id=11812",
+    "print_url": "https://zxpress.ru/print.php?id=11812",
+    "title_link": "Подробно - Описание игровых программ : MULTI PLAYER SOCCER MANAGER.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Подробно_-_Описание_игровых_программ_MULTI_PLAYER_SOCCER_MAN"
+  },
+  {
+    "article_id": 11813,
+    "article_url": "https://zxpress.ru/article.php?id=11813",
+    "print_url": "https://zxpress.ru/print.php?id=11813",
+    "title_link": "Подробно - Описание игровых программ : ROCK STAR.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Подробно_-_Описание_игровых_программ_ROCK_STAR"
+  },
+  {
+    "article_id": 11814,
+    "article_url": "https://zxpress.ru/article.php?id=11814",
+    "print_url": "https://zxpress.ru/print.php?id=11814",
+    "title_link": "Обзор - ELITE - игра поколений.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Обзор_-_ELITE_-_игра_поколении"
+  },
+  {
+    "article_id": 11815,
+    "article_url": "https://zxpress.ru/article.php?id=11815",
+    "print_url": "https://zxpress.ru/print.php?id=11815",
+    "title_link": "Система - Новый мощный музыкальный редактор DIGITAL MUSIC MAKER.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Система_-_Новыи_мощныи_музыкальныи_редактор_DIGITAL_MUSIC_MA"
+  },
+  {
+    "article_id": 11816,
+    "article_url": "https://zxpress.ru/article.php?id=11816",
+    "print_url": "https://zxpress.ru/print.php?id=11816",
+    "title_link": "Железо - О компьютерах SCORPION-256 & COMPACT-128.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Железо_-_О_компьютерах_SCORPION-256_COMPACT-128"
+  },
+  {
+    "article_id": 11817,
+    "article_url": "https://zxpress.ru/article.php?id=11817",
+    "print_url": "https://zxpress.ru/print.php?id=11817",
+    "title_link": "Связист - Обратная связь по письмам читателей.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Связист_-_Обратная_связь_по_письмам_читателеи"
+  },
+  {
+    "article_id": 11818,
+    "article_url": "https://zxpress.ru/article.php?id=11818",
+    "print_url": "https://zxpress.ru/print.php?id=11818",
+    "title_link": "Новелла - Новелла по игре \"LORD OF MIDNIGHT\".",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Новелла_-_Новелла_по_игре_LORD_OF_MIDNIGHT"
+  },
+  {
+    "article_id": 11819,
+    "article_url": "https://zxpress.ru/article.php?id=11819",
+    "print_url": "https://zxpress.ru/print.php?id=11819",
+    "title_link": "Пародия - Компьютерная новелла по игре \"Звездное наследие -2\" (продолжение).",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "Пародия_-_Компьютерная_новелла_по_игре_Звездное_наследие_-2"
+  },
+  {
+    "article_id": 11820,
+    "article_url": "https://zxpress.ru/article.php?id=11820",
+    "print_url": "https://zxpress.ru/print.php?id=11820",
+    "title_link": "Реклама - Лучшая пятерка игр. Реклама и объявления.",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Лучшая_пятерка_игр_Реклама_и_объявления"
+  }
+]

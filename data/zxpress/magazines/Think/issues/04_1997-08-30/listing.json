@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3357,
+    "article_url": "https://zxpress.ru/article.php?id=3357",
+    "print_url": "https://zxpress.ru/print.php?id=3357",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 3355,
+    "article_url": "https://zxpress.ru/article.php?id=3355",
+    "print_url": "https://zxpress.ru/print.php?id=3355",
+    "title_link": "Анекдоты - 14 анекдотов.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Анекдоты_-_14_анекдотов"
+  },
+  {
+    "article_id": 3353,
+    "article_url": "https://zxpress.ru/article.php?id=3353",
+    "print_url": "https://zxpress.ru/print.php?id=3353",
+    "title_link": "Ассемблер - Индикатор для AY-8910 (12) - 2 процедуры.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Ассемблер_-_Индикатор_для_AY-8910_12_-_2_процедуры"
+  },
+  {
+    "article_id": 3352,
+    "article_url": "https://zxpress.ru/article.php?id=3352",
+    "print_url": "https://zxpress.ru/print.php?id=3352",
+    "title_link": "Говорят дети - 8 фенечек...",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Говорят_дети_-_8_фенечек"
+  },
+  {
+    "article_id": 3356,
+    "article_url": "https://zxpress.ru/article.php?id=3356",
+    "print_url": "https://zxpress.ru/print.php?id=3356",
+    "title_link": "Головоломки - Букеты, Раставьте знаки, Косвенные данные.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Головоломки_-_Букеты_Раставьте_знаки_Косвенные_данные"
+  },
+  {
+    "article_id": 3354,
+    "article_url": "https://zxpress.ru/article.php?id=3354",
+    "print_url": "https://zxpress.ru/print.php?id=3354",
+    "title_link": "Картинки с IBM - 4 картинки с IBM из игры JAZZY.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Картинки_с_IBM_-_4_картинки_с_IBM_из_игры_JAZZY"
+  },
+  {
+    "article_id": 3351,
+    "article_url": "https://zxpress.ru/article.php?id=3351",
+    "print_url": "https://zxpress.ru/print.php?id=3351",
+    "title_link": "Обзор новинок - О новинках ПО: The Hexxagon 2, Пираты, Mortal Kombat (Mafia),\r\n Monster Land demo, DOOM pre release v1.5b",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Обзор_новинок_-_О_новинках_ПО_The_Hexxagon_2_Пираты_Mortal_K"
+  },
+  {
+    "article_id": 3349,
+    "article_url": "https://zxpress.ru/article.php?id=3349",
+    "print_url": "https://zxpress.ru/print.php?id=3349",
+    "title_link": "От автора - Вот и четвертый номер газеты.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "От_автора_-_Вот_и_четвертыи_номер_газеты"
+  },
+  {
+    "article_id": 3350,
+    "article_url": "https://zxpress.ru/article.php?id=3350",
+    "print_url": "https://zxpress.ru/print.php?id=3350",
+    "title_link": "Проходилка - Описание-проходилка игры: Занни и Бонни часть 1: Спасение.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Проходилка_-_Описание-проходилка_игры_Занни_и_Бонни_часть_1"
+  },
+  {
+    "article_id": 3358,
+    "article_url": "https://zxpress.ru/article.php?id=3358",
+    "print_url": "https://zxpress.ru/print.php?id=3358",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

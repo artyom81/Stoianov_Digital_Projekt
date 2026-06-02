@@ -1,0 +1,368 @@
+Info Guide 11 - Системки - ZX-Basic Compiler: расширяемый кросс-компилятор.
+ZX-Basic Compiler
+ZX-Basic Compiler,
+удивительно простой
+расширяемый кросс-компилятор
+Paulo Silva (Nitrofurano/Conscience) 
+
+   Моё  увлечение  -  разрабатывать разные
+вещи  для  поддержки ретросцены. Тут ещё и
+ностальгия и возможность наконец добраться
+до компьютеров,которым не повезло с полно─
+ценной поддержкой во время их выпуска. Ещё
+я  всегда поражаюсь, как современные прог─
+раммы  тормозят на новых компьютерах, хотя
+мы могли делать даже более интересные вещи
+на старом железе (на котором выросли), это
+при всех его ограничениях.
+   Поэтому  мне захотелось поучаствовать в
+конкурсах  типа  MSXDev, CSSCGC
+(Crap game
+compo) и т.п., причём CSSCGC особенно заи─
+нтересовал, потому  что большинство тамош─
+них, так сказать, "игр" писались с помощью
+Boriel's ZX-Basic Compiler, где  можно ис─ 
+пользовать синтаксис,очень похожий на всем
+известный Sinclair ZX Spectrum Basic.
+   Я попробовал  написать несколько экспе─
+риментальных кусков кода (
+http://
+nitrofurano.altervista.org/retrocoding/
+zxspectrum ), потом  посылал некоторые на─
+броски игр на CSSCGC (наверно, штук 5-6 за
+3 года,точно не помню - но они приведены в
+списке
+http://www.boriel.com/wiki/en/
+index.php/ZX_BASIC:Released_Programs ).
+Быстрый  старт - просто  набрать  кусок
+кода в текстовом редакторе, скомпилировать
+его консольной командой типа
+
+zxb.py -tBa helloworld.zxb
+(что создаёт файл .tap - см.
+http://www.boriel.com/wiki/en/index.php/
+ZX_BASIC:Zxb#Command_Line_Options ).
+ZX-Basic Compiler довольно удивил своей
+совместимостью: он  весь написан на Python
+(кроме ассемблерных библиотек для
+Z80, ис─
+пользуемых при кросс-компиляции) - лично я
+работаю с ним под GNU/Linux. При этом мож─
+но  создавать  свои библиотеки и использо─
+вать встроенный  ассемблер, что  открывает
+возможность того,что оригинальный разрабо─
+тчик, Jose' Rodriguez (boriel),  и не пре─
+дусматривал:компилировать под любое другое
+железо на процессоре Z80.И что меня совсем
+удивило,не только на форуме ZX-Basic доду─
+мались  до этого, а ещё и Haroldo Pinheiro
+(haroldoop) пользовался этим для разработ─ 
+ки  под  Sega Master System  и  выкладывал
+свои программы (
+http://www.smspower.org/
+Homebrew/Index?q=$:Platform=SMS ).
+Я активно сижу на форуме ZX-Basic
+(
+http://www.boriel.com/forum/
+zx-basic-compiler/ ) и  вношу информацию в
+ZX-Basic wiki (
+http://www.boriel.com/
+wiki/en/index.php/ZX_BASIC ), чтобы разоб─
+раться ещё больше и попытаться помочь про─
+екту, который мне так нравится.
+   Я занялся всякими железками на Z80
+(
+http://www.boriel.com/wiki/en/index.php/
+ZX_BASIC:Released_Programs#OTHER_HARDWARE)
+и собираю информацию по ним, которая может
+помочь  для  проекта (
+http://
+www.boriel.com/wiki/en/index.php/
+ZX_BASIC:Other_architectures ) - начал я с
+MSX (мне надо знать  и как работают видео─ 
+режимы  на  чипах
+V9958 и V9990 ), Mattel
+Aquarius  и  консолей  типа Colecovision и 
+SG-1000. 
+   Поддержка этих железок довольно хитрая,
+ведь мало того,что надо сделать библиотеки
+для  их архитектурных особенностей (видео─
+процессоры, звуковые процессоры,если такие
+есть, раскладка памяти, порты ввода-вывода
+и т.д.),так ведь ещё в большинстве случаев
+надо компилировать в файл-образ ПЗУ,к чему
+ZX-Basic Compiler был совершенно  не прис─ 
+пособлен,поэтому приходилось в начале про─
+граммы выделять каждой переменной конкрет─
+ный адрес.
+   Поскольку было понятно, что каждый ком─
+пьютер или приставка имеет свой формат ле─
+нты  или ПЗУ, я как пользователь GNU/Linux
+написал  простой  скрипт  на bash, который
+мог бы "перевести" скомпилированный бинар─
+ник  в запускаемый  образ, а потом в конце
+запустить  соответствующий эмулятор, чтобы
+проверить результат.
+
+   Когда  я увидел, что Jim Bagley написал
+PacManicMinerMan  для  аркадного  автомата 
+PacMan (в кросс-ассемблере, скорее всего в 
+Pasmo ), я решил сделать что-то похожее на 
+ZX-Basic Compiler. Я  долго  возился, пока 
+Jim не объяснил мне, что такое
+watchdog, о
+котором я никогда не подозревал!:D - тогда
+я раззадорился поддержать ещё больше арка─
+дных машин на Z80 (
+http://www.boriel.com/
+wiki/en/index.php/
+ZX_BASIC:Released_Programs#Arcade_Systems
+- сейчас их там, наверно, около 30 ).
+
+   Среди  всего  прочего  была  и плата ZX
+Evo, с которой было явно проще, потому что 
+её  основная  прошивка  реализует  клон ZX
+Spectrum. Библиотеки  для видеорежимов ATM 
+Turbo 2+ просто  щёлкают режимы, палитру и 
+память.
+
+   Например,
+zxatmshadow(%11101010,1)
+устанавливает режим
+320x200, это реализуе─
+тся в библиотеке вот таким кодом:
+
+sub zxatmshadow(tvl as ubyte,tst as byte):
+asm
+ld a,(ix+7)
+and $01
+cp 0
+jp z,zxatmshadowclose
+zxatmshadowset:
+halt
+;- Включить тен.порты и доступ к палитре: 
+;- ld a,%10101011 ;;- 6912 screen,turbo 
+;- ld a,%10100011 ;;- 6912 screen,noturbo 
+;- ld hl,$2a53 ;;- out (c),a:ret в TR-DOS 
+;- push hl 
+;- jp $3d2f ;;- nop:ret в TR-DOS
+ld a,(ix+5)
+ld bc,$bd77
+jp zxatmshadowoutdosend
+zxatmshadowoutdos:
+ld hl,$2a53
+;;- out (c),a:ret в TR-DOS
+push hl
+jp $3d2f
+;;- nop:ret в TR-DOS
+zxatmshadowoutdosend:
+call zxatmshadowoutdos
+jp zxatmshadowend
+zxatmshadowclose:
+; Выключить теневые порты. 
+;;- ld a,%10101011 ;;- 6912 screen,turbo 
+;;- ld a,%10100011 ;;- 6912 screen,noturbo
+ld a,(ix+5)
+ld bc,$ff77
+out (c),a
+zxatmshadowend:
+end asm
+end sub
+Запись  12-битного цвета rgb (типа
+#C55
+- Indian Red,в цвет номер
+3 ) будет выгля─
+деть как
+zxatmpalettergb(3,$C55)
+(но  значение  цвета  обрежется  до  6 бит
+из-за ограничений железа)
+
+sub zxatmpalettergb(tad as ubyte,
+tvl as uinteger):
+'- формат: $RGB 12bit
+asm
+ld e,(ix+7)
+ld d,(ix+6)
+ld a,d
+and %10001000
+rr a
+rr a
+rr a
+ld b,a
+ld a,d
+and %00000100
+rl a
+rl a
+rl a
+or b
+ld b,a
+ld a,d
+and %01000000
+rl a
+or b
+ld b,a
+ld a,e
+and %00000100
+rl a
+rl a
+rl a
+rl a
+or b
+ld b,a
+ld a,e
+and %00001000
+rr a
+rr a
+or b
+ld b,a
+ld a,(ix+5)
+and %00001000
+or %00000001
+xor $FF
+ld c,a
+ld a,(ix+5)
+and %00000111
+out (c),a
+ld a,$ff
+ld c,a
+ld a,b
+xor $FF
+out (c),a
+end asm
+end sub
+Причём,разумеется,библиотеки тоже можно
+писать  на бейсике, или на смеси ассеблера
+с бейсиком, как удобно программисту  и как
+он умеет, и в зависимости от того, что де─
+лает код и какая нужна скорость.
+   Библиотеки  вставляются  через
+include
+в главный модуль на ZX-Basic, например:
+
+#include "library/zxatmshadow.zxbasic"
+И  вся  программа  компилируется  через
+bash-скрипт, например:
+
+rm exampleO1.scl
+cp library/boot_zmakebas.bas boot.bas
+zmakebas -r -o boot.B boot.bas
+rm boot.bas
+mctrd cscl exampleO1.scl
+mctrd add boot.B exampleO1.scl -b -a 10
+zxb.py --org=28672 exampleO1.zxbasic
+mv exampleO1.bin exec1.C
+mctrd add exec1.C exampleO1.scl
+rm *.B *.C
+wine /opt/wine/emulators/UnrealSpeccy/
+unreal.exe exampleO1.scl &
+Этот скрипт подготавливает  образ диска
+со скомпилированной программой (и всем,что
+ей нужно), а потом автоматически запускает
+эмулятор с этим диском.
+
+   Для токенизации бейсик-загрузчика испо─
+льзуется  zmakebas. Файл
+boot_zmakebas.bas
+выглядит так:
+
+10 clear 28671:border 0:cls
+20 randomize usr 15619:rem:load"a:exec1"
+code 28672
+30 randomize usr 28672
+Mctrd - это  консольная утилита для со─
+здания образов
+.scl или .trd и копирования
+файлов   в  них.  Всё  остальное - команды
+bash. Даже  если  вы  незнакомы  с  Unix и 
+bash, подобные  скрипты  можно легко напи─ 
+сать для других операционных систем.
+
+   Загрузчик  в  слайдшоу для IVP'2014 ATM
+Turbo/ZX Evo gfx compo, которое  я  делал, 
+работает  немного не так: всю основную ра─
+боту  делает  токенизированный  бейсик  из
+zmakebas,  а   компилированный  бейсик  из 
+ZX-Basic  Compiler  только меняет экранный 
+режим и выводит картинку. Слайдшоу исполь─
+зует обычные 4-битные .bmp-файлы.
+
+  -
+boot.bas (токенизируется в zmakebas ):
+10 clear 28671:border 0:cls
+11 randomize usr 15619:rem:load"a:amtm"
+code 32768
+20 let amnt=0:for i=0 to 2:
+let amnt=(amnt*10)+(peek(32768+i)-48):
+next i
+21 let dltm=0:for i=4 to 7:
+let dltm=(dltm*10)+(peek(32768+i)-48):
+next i
+22 randomize usr 15619:rem:load"a:setscO"
+code 28672
+30 for l=1 to amnt
+31 let w$=str$(1000+l):let w$=w$(2 to)
+32 out 65527,255:out 32765,24+0
+33 randomize usr 15619:rem:load"a:"+w$
+code 32768
+34 randomize usr 28672
+35 pause dltm
+36 next l
+37 goto 30
+- компилирующий bash-скрипт
+.sh:
+rm slideshow_ipv2014_evolutiongfxcompo.scl
+zmakebas -r -o boot.B boot.bas
+mctrd cscl
+slideshow_ipv2014_evolutiongfxcompo.scl
+mctrd add boot.B
+slideshow_ipv2014_evolutiongfxcompo.scl
+-b -a 10
+# zxb.py -t --org=28672 setscreenO.zxbasic
+zxb.py --org=28672 setscreenO.zxbasic
+mv setscreenO.bin setscO.C
+mctrd add setscO.C
+slideshow_ipv2014_evolutiongfxcompo.scl
+cp amtm.txt amtm.C
+mctrd add amtm.C
+slideshow_ipv2014_evolutiongfxcompo.scl
+rm *.B *.C
+a=1;for i in pics/*.bmp;do new=$(printf
+"%03d.C" ${a});cp ${i} ${new};let a=a+1;
+done
+for i in *.C;do mctrd add $i
+slideshow_ipv2014_evolutiongfxcompo.scl;
+done
+rm *.B *.C
+xpeccy
+slideshow_ipv2014_evolutiongfxcompo.scl
+#wine /opt/wine/emulators/UnrealSpeccy/ 
+   unreal.exe
+   slideshow_ipv2014_evolutiongfxcompo.scl
+
+   (чтобы  скопировать  картинки  на образ
+диска
+.scl,  используется  цикл  "a=1; for
+i in pics/*.bmp;  do new=$(printf "%03d.C"
+${a});cp ${i} ${new};let a=a+1; done", это
+картинки в 4-битном .bmp-формате.)
+Одна из будущих целей Boriel's ZX Basic
+Compiler
+- распространить  его  на  другие
+процессорные  архитектуры, кроме
+Z80:
+на
+6502, 8080, 6809, 6800
+и т.п. Это бы  сде─
+лало  его  настоящим  многоцелевым  кросс-
+компилятором. Задача непростая, так как он
+много использует регистр
+IX,
+а архитектуры
+типа
+6502
+и
+8080
+не имеют такого регистра.
+Может  быть, кто-то  захочет сделать ветки
+для этого или даже реализует мультиархите─
+ктурную компиляцию?

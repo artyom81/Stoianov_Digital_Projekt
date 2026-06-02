@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-30",
+  "order": 18,
+  "article_id": 379,
+  "title_link": "Семь и 1/2 - Повесть о настоящем Werewolfe или Virtual'но амижный синдром.",
+  "title_h1": "Deja Vu 01 - Семь и 1/2 - Повесть о настоящем Werewolfe или Virtual'но амижный синдром.",
+  "print_url": "https://zxpress.ru/print.php?id=379",
+  "article_url": "https://zxpress.ru/article.php?id=379",
+  "fetched_at": "2026-05-31T21:54:07Z"
+}

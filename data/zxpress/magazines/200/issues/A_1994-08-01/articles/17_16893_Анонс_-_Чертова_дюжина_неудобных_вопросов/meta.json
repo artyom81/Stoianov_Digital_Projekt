@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "A",
+  "issue_date_iso": "1994-08-01",
+  "order": 17,
+  "article_id": 16893,
+  "title_link": "Анонс - Чертова дюжина неудобных вопросов.",
+  "title_h1": "200 A - Анонс - Чертова дюжина неудобных вопросов.",
+  "print_url": "https://zxpress.ru/print.php?id=16893",
+  "article_url": "https://zxpress.ru/article.php?id=16893",
+  "fetched_at": "2026-05-31T21:29:03Z"
+}

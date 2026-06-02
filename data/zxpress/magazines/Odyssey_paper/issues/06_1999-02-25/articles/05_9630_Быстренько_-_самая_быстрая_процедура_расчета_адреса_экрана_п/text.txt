@@ -1,0 +1,34 @@
+Odyssey paper 06 - Быстренько - самая быстрая процедура расчета адреса экрана по координатам и самая быстрая процедура печати точки.
+Быстренько
+__________
+(C) Phantom Lord
+Самый fastовый на мой взгляд расчет адре-
+ся по двум координатам:
+;B - X , E - Y
+LD L,B     ; 4 takts
+LD H,#66   ; 7
+LD D,(HL)  ; 7
+EX DE,HL   ; 4
+LD E,(HL)  ; 7
+INC H      ; 4
+LD D,(HL)  ; 7 = 40 takts
+Отсюда вытекает и самый быстрый plot:
+;B - X , E - Y
+LD L,B     ; 4 takts
+LD H,#66   ; 7
+LD D,(HL)  ; 7
+INC H      ; 4
+LD C,(HL)  ; 7
+EX DE,HL   ; 4
+LD E,(HL)  ; 7
+INC H      ; 4
+LD D,(HL)  ; 7
+LD A,(DE)  ; 7
+OR C       ; 4
+LD (DE),A  ; 7 = 69 takts
+ORG #6600
+DB #C0,#C0,#C0,#C0,#C0,#C0,#C0,#C0
+DB #C2,#C2,#C2,#C2,#C2,#C2,#C2,#C2
+...
+DB #FE,#FE,#FE,#FE,#FE,#FE,#FE,#FE
+На #C000 создаются адреса экрана.

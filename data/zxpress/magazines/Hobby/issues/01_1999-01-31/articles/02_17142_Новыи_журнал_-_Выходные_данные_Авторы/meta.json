@@ -1,0 +1,15 @@
+{
+  "magazine_id": 96,
+  "magazine_name": "Hobby",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-01-31",
+  "order": 2,
+  "article_id": 17142,
+  "title_link": "Новый журнал - Выходные данные. Авторы.",
+  "title_h1": "Hobby 01 - Новый журнал - Выходные данные. Авторы.",
+  "print_url": "https://zxpress.ru/print.php?id=17142",
+  "article_url": "https://zxpress.ru/article.php?id=17142",
+  "fetched_at": "2026-05-31T22:12:40Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12901,
+    "article_url": "https://zxpress.ru/article.php?id=12901",
+    "print_url": "https://zxpress.ru/print.php?id=12901",
+    "title_link": "Новость месяца - В составе FLASH Corporation появился новый человек! LAS из Санкт-Петербурга!",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Новость_месяца_-_В_составе_FLASH_Corporation_появился_новыи"
+  },
+  {
+    "article_id": 12902,
+    "article_url": "https://zxpress.ru/article.php?id=12902",
+    "print_url": "https://zxpress.ru/print.php?id=12902",
+    "title_link": "Железо - Sprinter... Самый большой недостаток это 8 бит!",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Железо_-_Sprinter_Самыи_большои_недостаток_это_8_бит"
+  },
+  {
+    "article_id": 9305,
+    "article_url": "https://zxpress.ru/article.php?id=9305",
+    "print_url": "https://zxpress.ru/print.php?id=9305",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  },
+  {
+    "article_id": 3611,
+    "article_url": "https://zxpress.ru/article.php?id=3611",
+    "print_url": "https://zxpress.ru/print.php?id=3611",
+    "title_link": "Coding - Комментарии к исходникам, опубликованным в Scenergy #1",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Coding_-_Комментарии_к_исходникам_опубликованным_в_Scenergy"
+  },
+  {
+    "article_id": 1961,
+    "article_url": "https://zxpress.ru/article.php?id=1961",
+    "print_url": "https://zxpress.ru/print.php?id=1961",
+    "title_link": "Заметки СисОпа - Правила пользования ZX-Magazine BBS-2...",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Заметки_СисОпа_-_Правила_пользования_ZX-Magazine_BBS-2"
+  },
+  {
+    "article_id": 13455,
+    "article_url": "https://zxpress.ru/article.php?id=13455",
+    "print_url": "https://zxpress.ru/print.php?id=13455",
+    "title_link": "Оболочка - спaсибo Alex'у, твoя oбoлoчкa деpжaлa нaс \"пoд кpылoм\" целых пять нoмеpoв!",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Оболочка_-_спaсибo_Alexу_твoя_oбoлoчкa_деpжaлa_нaс_пoд_кpылo"
+  },
+  {
+    "article_id": 17140,
+    "article_url": "https://zxpress.ru/article.php?id=17140",
+    "print_url": "https://zxpress.ru/print.php?id=17140",
+    "title_link": "Послесловие - Авторы.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Послесловие_-_Авторы"
+  }
+]

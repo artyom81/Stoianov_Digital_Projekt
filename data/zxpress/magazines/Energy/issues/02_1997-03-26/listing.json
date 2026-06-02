@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3855,
+    "article_url": "https://zxpress.ru/article.php?id=3855",
+    "print_url": "https://zxpress.ru/print.php?id=3855",
+    "title_link": "BBS - Список работающих BBS в Минске.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "BBS_-_Список_работающих_BBS_в_Минске"
+  },
+  {
+    "article_id": 3856,
+    "article_url": "https://zxpress.ru/article.php?id=3856",
+    "print_url": "https://zxpress.ru/print.php?id=3856",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3852,
+    "article_url": "https://zxpress.ru/article.php?id=3852",
+    "print_url": "https://zxpress.ru/print.php?id=3852",
+    "title_link": "Анекдот - 30 анекдотов.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Анекдот_-_30_анекдотов"
+  },
+  {
+    "article_id": 3857,
+    "article_url": "https://zxpress.ru/article.php?id=3857",
+    "print_url": "https://zxpress.ru/print.php?id=3857",
+    "title_link": "Байки из склепа - Леди Гамельтон.\r\n Эди Мерфи, Федя съел медведя.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Баики_из_склепа_-_Леди_Гамельтон_Эди_Мерфи_Федя_съел_медведя"
+  },
+  {
+    "article_id": 3853,
+    "article_url": "https://zxpress.ru/article.php?id=3853",
+    "print_url": "https://zxpress.ru/print.php?id=3853",
+    "title_link": "Металлургия - Аппаратная доработка компьютера \"Байт\" для устранения\r\n проблемы с загрузкой.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Металлургия_-_Аппаратная_доработка_компьютера_Баит_для_устра"
+  },
+  {
+    "article_id": 3858,
+    "article_url": "https://zxpress.ru/article.php?id=3858",
+    "print_url": "https://zxpress.ru/print.php?id=3858",
+    "title_link": "Монолог - Об электронных изданиях...",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Монолог_-_Об_электронных_изданиях"
+  },
+  {
+    "article_id": 3854,
+    "article_url": "https://zxpress.ru/article.php?id=3854",
+    "print_url": "https://zxpress.ru/print.php?id=3854",
+    "title_link": "От редакции - О создании Минского Модемноги Издания.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "От_редакции_-_О_создании_Минского_Модемноги_Издания"
+  }
+]

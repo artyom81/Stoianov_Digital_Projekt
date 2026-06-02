@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 145,
+    "article_url": "https://zxpress.ru/article.php?id=145",
+    "print_url": "https://zxpress.ru/print.php?id=145",
+    "title_link": "Предисловие - Газета вышла с опозданием...",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Предисловие_-_Газета_вышла_с_опозданием"
+  },
+  {
+    "article_id": 146,
+    "article_url": "https://zxpress.ru/article.php?id=146",
+    "print_url": "https://zxpress.ru/print.php?id=146",
+    "title_link": "Розыск - Разыскиваются: LOS INHUMANOS, MERCS...",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Розыск_-_Разыскиваются_LOS_INHUMANOS_MERCS"
+  },
+  {
+    "article_id": 12163,
+    "article_url": "https://zxpress.ru/article.php?id=12163",
+    "print_url": "https://zxpress.ru/print.php?id=12163",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12164,
+    "article_url": "https://zxpress.ru/article.php?id=12164",
+    "print_url": "https://zxpress.ru/print.php?id=12164",
+    "title_link": "Печатается с продолж. - Выпускникам военных кафедр посвещается (часть 2,3).",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Печатается_с_продолж_-_Выпускникам_военных_кафедр_посвещаетс"
+  },
+  {
+    "article_id": 12165,
+    "article_url": "https://zxpress.ru/article.php?id=12165",
+    "print_url": "https://zxpress.ru/print.php?id=12165",
+    "title_link": "Версии - 2 версии игры: DARKMAN.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Версии_-_2_версии_игры_DARKMAN"
+  },
+  {
+    "article_id": 12166,
+    "article_url": "https://zxpress.ru/article.php?id=12166",
+    "print_url": "https://zxpress.ru/print.php?id=12166",
+    "title_link": "Видео - Боевик \"Скала\".",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Видео_-_Боевик_Скала"
+  },
+  {
+    "article_id": 12167,
+    "article_url": "https://zxpress.ru/article.php?id=12167",
+    "print_url": "https://zxpress.ru/print.php?id=12167",
+    "title_link": "Фэнтези - Айзенк Азимов \"Человек, который никогда не мал\".",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Фэнтези_-_Аизенк_Азимов_Человек_которыи_никогда_не_мал"
+  },
+  {
+    "article_id": 12168,
+    "article_url": "https://zxpress.ru/article.php?id=12168",
+    "print_url": "https://zxpress.ru/print.php?id=12168",
+    "title_link": "Фэнтези - Стадо звездных драконов.",
+    "order": 8,
+    "issue_label": "10",
+    "short_slug": "Фэнтези_-_Стадо_звездных_драконов"
+  },
+  {
+    "article_id": 12169,
+    "article_url": "https://zxpress.ru/article.php?id=12169",
+    "print_url": "https://zxpress.ru/print.php?id=12169",
+    "title_link": "Разбиралка - Прохождение игры THE GREAT ESCAPE.",
+    "order": 9,
+    "issue_label": "10",
+    "short_slug": "Разбиралка_-_Прохождение_игры_THE_GREAT_ESCAPE"
+  },
+  {
+    "article_id": 12170,
+    "article_url": "https://zxpress.ru/article.php?id=12170",
+    "print_url": "https://zxpress.ru/print.php?id=12170",
+    "title_link": "Сплошные приколы - 8 проколов.\r\n Сборник высказываний советских офицеров (продолжение).",
+    "order": 10,
+    "issue_label": "10",
+    "short_slug": "Сплошные_приколы_-_8_проколов_Сборник_высказывании_советских"
+  },
+  {
+    "article_id": 12171,
+    "article_url": "https://zxpress.ru/article.php?id=12171",
+    "print_url": "https://zxpress.ru/print.php?id=12171",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 11,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

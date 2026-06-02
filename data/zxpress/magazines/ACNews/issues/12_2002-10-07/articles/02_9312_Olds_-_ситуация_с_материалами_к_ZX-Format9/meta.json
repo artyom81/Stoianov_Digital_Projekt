@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "2002-10-07",
+  "order": 2,
+  "article_id": 9312,
+  "title_link": "Olds - ситуация с материалами к ZX-Format#9.",
+  "title_h1": "ACNews 12 - Olds - ситуация с материалами к ZX-Format#9.",
+  "print_url": "https://zxpress.ru/print.php?id=9312",
+  "article_url": "https://zxpress.ru/article.php?id=9312",
+  "fetched_at": "2026-05-31T21:30:26Z"
+}

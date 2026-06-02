@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 2232,
+    "article_url": "https://zxpress.ru/article.php?id=2232",
+    "print_url": "https://zxpress.ru/print.php?id=2232",
+    "title_link": "Intro - Werewolves вернулся...",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Intro_-_Werewolves_вернулся"
+  },
+  {
+    "article_id": 2234,
+    "article_url": "https://zxpress.ru/article.php?id=2234",
+    "print_url": "https://zxpress.ru/print.php?id=2234",
+    "title_link": "Mail box - Письма... и ответы...",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Mail_box_-_Письма_и_ответы"
+  },
+  {
+    "article_id": 2235,
+    "article_url": "https://zxpress.ru/article.php?id=2235",
+    "print_url": "https://zxpress.ru/print.php?id=2235",
+    "title_link": "Marazm - Один день.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Marazm_-_Один_день"
+  },
+  {
+    "article_id": 2236,
+    "article_url": "https://zxpress.ru/article.php?id=2236",
+    "print_url": "https://zxpress.ru/print.php?id=2236",
+    "title_link": "Outro",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Outro"
+  },
+  {
+    "article_id": 2233,
+    "article_url": "https://zxpress.ru/article.php?id=2233",
+    "print_url": "https://zxpress.ru/print.php?id=2233",
+    "title_link": "Sorrow News - Итоги Doxycon'98 и FunTop'98.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Sorrow_News_-_Итоги_Doxycon98_и_FunTop98"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 131,
+  "magazine_name": "Mustang",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2004-01-27",
+  "order": 6,
+  "article_id": 8284,
+  "title_link": "Модем - О проблеме при подключении модемов к машинам с раздельными полями памяти.",
+  "title_h1": "KrNews 07 - Модем - О проблеме при подключении модемов к машинам с раздельными полями памяти.",
+  "print_url": "https://zxpress.ru/print.php?id=8284",
+  "article_url": "https://zxpress.ru/article.php?id=8284",
+  "fetched_at": "2026-05-31T22:31:16Z"
+}

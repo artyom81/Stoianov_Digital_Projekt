@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16705,
+    "article_url": "https://zxpress.ru/article.php?id=16705",
+    "print_url": "https://zxpress.ru/print.php?id=16705",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16706,
+    "article_url": "https://zxpress.ru/article.php?id=16706",
+    "print_url": "https://zxpress.ru/print.php?id=16706",
+    "title_link": "ZX in the world - С сегодняшнего номера в этой рубрике мы будем, по мере возможности, освешать все новости, а может и события, относительно новых коммуникационных возможностей Спектрума.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "ZX_in_the_world_-_С_сегодняшнего_номера_в_этои_рубрике_мы_бу"
+  },
+  {
+    "article_id": 16707,
+    "article_url": "https://zxpress.ru/article.php?id=16707",
+    "print_url": "https://zxpress.ru/print.php?id=16707",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16708,
+    "article_url": "https://zxpress.ru/article.php?id=16708",
+    "print_url": "https://zxpress.ru/print.php?id=16708",
+    "title_link": "Юмор - That is true.",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "Юмор_-_That_is_true"
+  },
+  {
+    "article_id": 16709,
+    "article_url": "https://zxpress.ru/article.php?id=16709",
+    "print_url": "https://zxpress.ru/print.php?id=16709",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16710,
+    "article_url": "https://zxpress.ru/article.php?id=16710",
+    "print_url": "https://zxpress.ru/print.php?id=16710",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "27",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

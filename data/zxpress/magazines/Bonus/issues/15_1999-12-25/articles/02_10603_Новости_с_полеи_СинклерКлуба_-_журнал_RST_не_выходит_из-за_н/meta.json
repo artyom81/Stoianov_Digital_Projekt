@@ -1,0 +1,15 @@
+{
+  "magazine_id": 29,
+  "magazine_name": "Bonus",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1999-12-25",
+  "order": 2,
+  "article_id": 10603,
+  "title_link": "Новости с полей СинклерКлуба - журнал RST не выходит из-за неработающего скорпа главного редактора журнала.",
+  "title_h1": "Bonus 15 - Новости с полей СинклерКлуба - журнал RST не выходит из-за неработающего скорпа главного редактора журнала.",
+  "print_url": "https://zxpress.ru/print.php?id=10603",
+  "article_url": "https://zxpress.ru/article.php?id=10603",
+  "fetched_at": "2026-05-31T21:44:29Z"
+}

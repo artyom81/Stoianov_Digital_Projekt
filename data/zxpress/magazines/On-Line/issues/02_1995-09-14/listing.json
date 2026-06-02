@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 87,
+    "article_url": "https://zxpress.ru/article.php?id=87",
+    "print_url": "https://zxpress.ru/print.php?id=87",
+    "title_link": "B.B.S. Новости - Свод правил для пользователей B.B.S.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "BBS_Новости_-_Свод_правил_для_пользователеи_BBS"
+  },
+  {
+    "article_id": 1914,
+    "article_url": "https://zxpress.ru/article.php?id=1914",
+    "print_url": "https://zxpress.ru/print.php?id=1914",
+    "title_link": "Железо - Turbo Z-80 , сигнал INT для \"Пентагон 128\".",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Железо_-_Turbo_Z-80_сигнал_INT_для_Пентагон_128"
+  },
+  {
+    "article_id": 1913,
+    "article_url": "https://zxpress.ru/article.php?id=1913",
+    "print_url": "https://zxpress.ru/print.php?id=1913",
+    "title_link": "Застрял ? - Разбор игры Lord of Chaos.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Застрял_-_Разбор_игры_Lord_of_Chaos"
+  },
+  {
+    "article_id": 1912,
+    "article_url": "https://zxpress.ru/article.php?id=1912",
+    "print_url": "https://zxpress.ru/print.php?id=1912",
+    "title_link": "Новости - Разговор о последних новостях из хаккеровской жизни . Над\r\n чем работает Nomy, KSA, Omen Corporation, L.O.S.W. ,\r\n Legion of Steel, Fantomssoft, Flash Inc, Kamikaze,\r\n Golden Disk, Inferno.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Разговор_о_последних_новостях_из_хаккеровскои_жизн"
+  },
+  {
+    "article_id": 1915,
+    "article_url": "https://zxpress.ru/article.php?id=1915",
+    "print_url": "https://zxpress.ru/print.php?id=1915",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "14",
+  "issue_date_iso": "1999-06-06",
+  "order": 3,
+  "article_id": 10394,
+  "title_link": "Смайлик - Сколько анекдотов о ментах вы знаете?",
+  "title_h1": "City 14 - Смайлик - Сколько анекдотов о ментах вы знаете?",
+  "print_url": "https://zxpress.ru/print.php?id=10394",
+  "article_url": "https://zxpress.ru/article.php?id=10394",
+  "fetched_at": "2026-05-31T21:50:30Z"
+}

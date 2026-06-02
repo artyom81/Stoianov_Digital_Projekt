@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3696,
+    "article_url": "https://zxpress.ru/article.php?id=3696",
+    "print_url": "https://zxpress.ru/print.php?id=3696",
+    "title_link": "HACKERS TOP'99 - О съезде спектрумистов Белоруссии.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "HACKERS_TOP99_-_О_съезде_спектрумистов_Белоруссии"
+  },
+  {
+    "article_id": 3694,
+    "article_url": "https://zxpress.ru/article.php?id=3694",
+    "print_url": "https://zxpress.ru/print.php?id=3694",
+    "title_link": "В паутине - Внедрен в использование редактор Lara Croft.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "В_паутине_-_Внедрен_в_использование_редактор_Lara_Croft"
+  },
+  {
+    "article_id": 3698,
+    "article_url": "https://zxpress.ru/article.php?id=3698",
+    "print_url": "https://zxpress.ru/print.php?id=3698",
+    "title_link": "Каракули мозга - Правила выживания в химической лаборатории.\r\n Дятел.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Каракули_мозга_-_Правила_выживания_в_химическои_лаборатории"
+  },
+  {
+    "article_id": 3697,
+    "article_url": "https://zxpress.ru/article.php?id=3697",
+    "print_url": "https://zxpress.ru/print.php?id=3697",
+    "title_link": "Лаборатория - О доработках Speccy: Аппаратная пауза, квази-турбо, Кварц 14300.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Лаборатория_-_О_доработках_Speccy_Аппаратная_пауза_квази-тур"
+  },
+  {
+    "article_id": 3695,
+    "article_url": "https://zxpress.ru/article.php?id=3695",
+    "print_url": "https://zxpress.ru/print.php?id=3695",
+    "title_link": "Навезли новья - Обзор новинок ПО: Adventurer #10, Fanat #1, Psychoz #3 & 4,\r\n Heresy #3&4,Born Dead #0E,Real Commander v1.9, PcuZip v1.1,\r\n ZX-Word v2.01, MK-54, QSV v2.0, KILL PC-3.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_Adventurer_10_Fanat_1_Psych"
+  },
+  {
+    "article_id": 3692,
+    "article_url": "https://zxpress.ru/article.php?id=3692",
+    "print_url": "https://zxpress.ru/print.php?id=3692",
+    "title_link": "От редакции - Газете исполнился год...",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "От_редакции_-_Газете_исполнился_год"
+  },
+  {
+    "article_id": 3693,
+    "article_url": "https://zxpress.ru/article.php?id=3693",
+    "print_url": "https://zxpress.ru/print.php?id=3693",
+    "title_link": "События, факты - Проекты года: Pussy, Clickmania, Криминальный Дед Мороз, Awaken\r\n на завершающей стадии.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "События_факты_-_Проекты_года_Pussy_Clickmania_Криминальныи_Д"
+  }
+]

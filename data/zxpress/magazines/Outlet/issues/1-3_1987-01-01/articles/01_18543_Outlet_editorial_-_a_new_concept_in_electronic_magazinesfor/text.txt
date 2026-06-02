@@ -1,0 +1,250 @@
+1-3 - Outlet editorial - a new  concept in electronic magazines for the Spectrum
+By Ron Cavers
+                              
+Hello, and welcome to the first
+ever issue of OUTLET - a new   
+concept in electronic magazines
+for the Spectrum. (Unless you  
+know different!)
+
+What's OUTLET all about?
+
+
+
+Well, OUTLET is for sharing.
+Letters, routines, articles,
+reviews, programs, opinions and
+ideas. OUTLET can be enjoyed on
+different levels - by the
+readers who like to browse their
+way  through a magazine, by the
+enthusiasts who want to get to
+grips with programs and routines
+to find out what makes them
+tick, by the users who want to
+share their knowledge with
+others. OUTLET is flexible -
+delivered on a regular monthly
+cycle or on demand, delivered on
+a cartridge supplied by us or
+one of your own, available on
+subscription or by monthly
+purchase.
+
+
+
+Yes, I know most of this is on
+the form but I'm just reminding 
+you what a bargain you've got!
+It's just a quid, John (if you
+send us a cartridge) and what
+else can you get for a quid
+these days? So don't mess about
+just get that order form in the
+post and, if you like, tell us
+what your last bargain cost you.
+Or tell us what rubbish programs
+you've bought recently, or what
+programming difficulties you've
+had, or how you nearly tore up 
+your good conduct medal when you
+found the dog playing with the
+only back-up of your new mega-
+game after just experiencing a
+15-sector drop-out during final
+testing....
+
+
+
+And just to make it easy for you
+we are providing a JOTTER
+program in this issue to give a
+quick and simple way of sending
+in letters, comments, reviews
+and short articles. We will
+accept word processor text files
+from  those bursting to
+serialise their first novel. Any
+of these, or short routines, or
+mega- programs can be saved onto
+a cartridge and sent to us using
+the enclosed order form. If you
+are providing your own cartridge
+for your next issue of OUTLET
+then put any articles, letters,
+competition entries, on that.
+We'll check it before
+duplication AS LONG AS YOU'VE
+MARKED THE 'CONTRIBUTIONS BOX'
+ON THE ORDER FORM!
+
+
+
+Just put these into the simple
+yellow wallet which can be
+placed in the window envelope
+provided (make sure our address
+is in the window), stick a stamp
+on it and stick it in the pillar
+box just outside your house -
+you haven't got a pillar box
+outside your  house? - well, I
+have, and I'll let you use it,
+lots of other people do and I
+don't even know them. Where was
+I? Oh, yes. What could be easier
+to do? What? You don't like
+licking stamps? Well, O.K.,
+we'll try and get some pre-paid
+envelopes printed -see how
+obliging we are here?
+
+
+
+Now, as this is the first issue
+of OUTLET, we have used the
+letters page to explain a few
+ground rules and to try to
+anticipate some of the early
+queries. However, there are
+bound  to be some things we have
+overlooked so just send us a
+note - using JOTTER, or whatever
+- and we'll fill in details
+during the coming issues.
+
+Hopefully, programs will include
+instructions where needed but
+occasionally we may give a
+little further information here
+in the editorial so you'd be
+better off reading this first
+before diving into the software
+(crafty way of getting you to
+read this eh?).
+
+
+
+If you have a message to send or
+an advert to place (no charge 
+to individuals and no charge to
+commercial enterprises for the 
+time being) then pin it on the
+OUTBOARD - again, as with the
+letters section, being the first
+issue, many of these are dummy
+entries. Hopefully, you will get
+the idea and send in your own 
+contributions to this section
+(otherwise we shall look jolly
+silly).
+
+
+Have you something you want to
+get off your chest? Are you
+outraged by something in the
+computer industry? Feel like
+splitting an infinitive? Then
+let it all hang out - relieve
+the tension - send a few
+paragraphs to SHOUTBURST. Our
+first contribution is a real gem
+from my brother Brian - anyone
+out there want to argue about
+it? Read all about it in
+SHOUTBURST!
+
+Anyone who has bought programs
+from us in the past will know
+that we have always maintained
+'open' programs in the hope that
+those interested in finding out
+what makes things tick will look
+under the bonnet.
+
+
+
+So, whilst any programming
+techniques and explanations
+given in OUTLET will generally
+concern a program or routine
+appearing in that issue, if
+anyone has any queries about the
+actual structure of OUTLET - the
+house-keeping routines etc, then
+we will be happy to try to
+explain.
+
+One thing that we will give more
+detail about here is the printer
+routine. As you are no doubt
+aware, there are many types of
+printers and interfaces but in
+order not to spend too much
+precious memory with a lot of
+'if,  and, & buts', OUTLET deals
+with the three  most popular
+set-ups:-
+
+
+
+1) ZX-Type Printer 2) Epson
+compatible via I/Face 1 3) Epson
+compatible via Kempston. Should
+you wish to make any changes, we
+list here the areas you will
+need to look at in the CONTENTS
+Basic listing:-
+
+1160/ Interface check lines    
+1185                            
+                              
+1300  Set up Interface 1        
+                              
+1400  Set up Kempston           
+                              
+1500  Initialise printer & Mode 
+                              
+1800  Printer Menu              
+                              
+9930  Baud Rate Initialised
+
+
+
+Note: the Baud rate can be
+changed whilst the program is
+running but will need to be
+reset whenever you re-load the
+CONTENTS.
+
+If anyone has any particular
+difficulty, please let us know
+and we will do our best to
+advise how to customise your
+setup.
+
+IMPORTANT! ONE OF THE CHARACTER
+SETS IN THE CONTENTS BASIC IS
+ACCESSED DIRECTLY IN A REM
+STATEMENT. THIS MEANS THAT, WHEN
+EDITING PROGRAM LINES, THE
+LISTING WILL CORRUPT UNLESS THE
+SET IS FIRST SWITCHED OFF. SO,
+IF YOU EVER BREAK INTO THE
+CONTENTS BASIC,
+
+
+
+ ...IMMEDIATELY TYPE - RUN 9994
+- AS A DIRECT COMMAND. THIS WILL
+SWITCH IN AUTO-CHARS (available
+to you as a separate character 
+set in this issue) WHICH IS
+BOOTED, AS CODE, INTO MEMORY.
+
+That's all for now folks, but
+Brian and I will be back next
+month with Issue 2 - every
+sector brimming with goodies -
+and don't forget, we're waiting
+to hear from you!

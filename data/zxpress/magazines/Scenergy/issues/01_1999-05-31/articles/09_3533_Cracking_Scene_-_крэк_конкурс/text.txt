@@ -1,0 +1,118 @@
+Scenergy 01 - Cracking Scene - крэк конкурс.
+Непосредственно к правилам.
+
+1. Все   релизы, которые  будут  закачены  на  приведенные  ниже
+   ftp-сайта, в упомянутые  директории,  будут  претендовать  на
+   статус firstrelease.
+
+2. Релизом должна быть игра, выпущенная начиная с 29.06.99, т.е.
+   в день выхода Scenergy в свет. Это означает, естественно, что
+   крэк может быть сделан и позже указанной даты.
+
+3. Релиз  должен быть закачан на все ftp-сайты, если какой-то из
+   сайтов в дауне - сообщите email'ом на scenergy@chaosite.com и
+   пробуйте   закачать   релиз  на  ftp  позже.  Но  если  такой
+   возможности  все  же нет, то релиз будет засчитан и так. Если
+   релиз закачан не на все ftp-сайты, а релиз другой группы - на
+   большее  количество,  то  статус  firstrelease  присваивается
+   второй  группе.  Исключения  считаются  в  том  случае, когда
+   какой-либо  из  ftp в дауне и Scenergy получил email по этому
+   поводу.
+
+4. Как   rerelease   будут  засчитаны  все  крэки,  закачанные в
+   firstreleases  директорию,  спустя  3  часа  или  более после
+   закачки  версии  другой  группы.  Также,  минусовые  очки как
+   rerelease автоматически получат все закачанные крэки игрушек,
+   которые выпущены раньше 29.06.99.
+
+5. Существует  трехчасовой лимит времени. Это означает, что если
+   другой  релиз  одной и той же игры, крэкнутый и закачанный на
+   ftp-сайты  другой  группой  не более чем через три часа после
+   закачки  первой,  то  это  не считается rerelease, хотя очки,
+   конечно, получает тот, кто закачал первым.
+   Это  относится  и  к  3-му пункту - если в течении трех часов
+   никто  не закачал релиз на большее количество ftp-сайтов, чем
+   первая  группа,  то пусть лучше больше не старается, т.к. это
+   будет rerelease.
+   А  первая  группа,  независимо  от  того,  на сколько ftp она
+   закачала,  минусовые  очки  получать  не будет, но может быть
+   переплюнута другой группой по количеству сайтов.
+
+6. Minor   bugs   в   релизе  получает  штарфные  очки,  но  как
+   firstrelease  засчитан  будет,  а major bugs и игры на другом
+   языке  (не английском), как firstrelease не считаются и могут
+   быть зерелижены другой группой.
+   
+7. Очки  за  игру даются в зависимости от ее качества и качества
+   крэка.  Данные очки определяются редакторами Scenergy Release
+   Charts.
+
+8. Каждый крэк тестируется на ZS Scorpion и Pentagon в различных
+   конфигурациях.
+
+9. Редакторы  Scenergy  Release  Charts оставляют за собой право
+   добавить  или  отнять  очки в специальных случаях, которые не
+   предусмотрены в данных правилах.
+
+10. Информационная часть Scenergy Release Charts:
+
+Editors of Scenergy Release Charts:
+-----------------------------------
+Raver/Phantasy
+Max Iwamoto/Code Busters
+
+
+
+
+
+
+Used FTP sites:
+---------------
+Acid Nature [Phantasy and Progress HQ]
+ftp://ftp.oic.lv/acid-nature/speccy/incoming/firstreleases/
+
+Chaosite [Concern Chaos HQ]
+ftp://chaosite.com:303/incoming/zxspectrum/firstreleases/
+
+Sweet Confusion [Phantasy and Fatality HQ]
+ftp://ftp.rivne.ua/incoming/firstreleases/
+
+Ascendancy [Ascendancy Creative Labs HQ]
+ftp://ftp.telecom.grodno.by/upload(zx)/firstreleases/
+
+Soul's Storage [Digital Reality HQ]
+ftp://194.8.180.130/home/hirez/incoming/firstreleases/
+
+
+
+
+Main points:
+----------------
+Previews: 1-2 points
+Full games: 3-5 points
+
+
+Crack points:
+--------------
+Trainer: 0-2 points
+Translation: 0-2 points
+
+
+Bonus points:
+-------------
+Multicolor/#FD fix: 0-2 points
+Docs included: 0-1 point
+TR-DOS save/load added: 1.5 points
+Hi-score saver installed: 1.5 points
+
+Minus points:
+-------------
+Rerelease: -5 points
+No crunching: -3 points
+No trainer: -1 point
+Minor bugs: -1 point
+Not onefiled: -1 point
+
+
+
+                          Happy Cracking!

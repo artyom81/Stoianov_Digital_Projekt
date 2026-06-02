@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 180,
+    "article_url": "https://zxpress.ru/article.php?id=180",
+    "print_url": "https://zxpress.ru/print.php?id=180",
+    "title_link": "Предисловие - MAXIMUM - будет закрыт...",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "Предисловие_-_MAXIMUM_-_будет_закрыт"
+  },
+  {
+    "article_id": 12278,
+    "article_url": "https://zxpress.ru/article.php?id=12278",
+    "print_url": "https://zxpress.ru/print.php?id=12278",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12279,
+    "article_url": "https://zxpress.ru/article.php?id=12279",
+    "print_url": "https://zxpress.ru/print.php?id=12279",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

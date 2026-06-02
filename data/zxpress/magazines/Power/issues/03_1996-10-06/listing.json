@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 10806,
+    "article_url": "https://zxpress.ru/article.php?id=10806",
+    "print_url": "https://zxpress.ru/print.php?id=10806",
+    "title_link": "Новости - FLASH Inc.: Закончена работа над музыкальным редактором\r\nFLASH TRACKER 2 для COVOX/SOUNDRIVE.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Новости_-_FLASH_Inc_Закончена_работа_над_музыкальным_редакто"
+  },
+  {
+    "article_id": 10807,
+    "article_url": "https://zxpress.ru/article.php?id=10807",
+    "print_url": "https://zxpress.ru/print.php?id=10807",
+    "title_link": "Разборка - тактика игры в игре UFO-1.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Разборка_-_тактика_игры_в_игре_UFO-1"
+  },
+  {
+    "article_id": 10808,
+    "article_url": "https://zxpress.ru/article.php?id=10808",
+    "print_url": "https://zxpress.ru/print.php?id=10808",
+    "title_link": "Новинки - новые игры: UFO 2 \"Дьявилы Бездны\", Last Battle, Ice Climber, \r\nPrince of Persia, Final Fight, Neverending Story, Duckula 2, Open It!",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Новинки_-_новые_игры_UFO_2_Дьявилы_Бездны_Last_Battle_Ice_Cl"
+  },
+  {
+    "article_id": 10809,
+    "article_url": "https://zxpress.ru/article.php?id=10809",
+    "print_url": "https://zxpress.ru/print.php?id=10809",
+    "title_link": "Разыскиваются - игры.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Разыскиваются_-_игры"
+  },
+  {
+    "article_id": 10810,
+    "article_url": "https://zxpress.ru/article.php?id=10810",
+    "print_url": "https://zxpress.ru/print.php?id=10810",
+    "title_link": "Cheat - чит к игре Abu Simbel Profonation.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Cheat_-_чит_к_игре_Abu_Simbel_Profonation"
+  },
+  {
+    "article_id": 10811,
+    "article_url": "https://zxpress.ru/article.php?id=10811",
+    "print_url": "https://zxpress.ru/print.php?id=10811",
+    "title_link": "Музыка - хитпарад Covox и AY музыки.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Музыка_-_хитпарад_Covox_и_AY_музыки"
+  },
+  {
+    "article_id": 10812,
+    "article_url": "https://zxpress.ru/article.php?id=10812",
+    "print_url": "https://zxpress.ru/print.php?id=10812",
+    "title_link": "Реклама - Реклама и объявления публикуются бесплатно.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления_публикуются_бесплатно"
+  }
+]

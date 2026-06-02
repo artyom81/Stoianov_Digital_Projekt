@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 10586,
+    "article_url": "https://zxpress.ru/article.php?id=10586",
+    "print_url": "https://zxpress.ru/print.php?id=10586",
+    "title_link": "Преамбула - наконец-то удалось достать прошивку v. 4.01 для ПрофПЗУ.",
+    "order": 1,
+    "issue_label": "44",
+    "short_slug": "Преамбула_-_наконец-то_удалось_достать_прошивку_v_401_для_Пр"
+  },
+  {
+    "article_id": 10587,
+    "article_url": "https://zxpress.ru/article.php?id=10587",
+    "print_url": "https://zxpress.ru/print.php?id=10587",
+    "title_link": "Железо - RS-232 Интерфейс для SPECTRUM компьюетров.",
+    "order": 2,
+    "issue_label": "44",
+    "short_slug": "Железо_-_RS-232_Интерфеис_для_SPECTRUM_компьюетров"
+  },
+  {
+    "article_id": 10588,
+    "article_url": "https://zxpress.ru/article.php?id=10588",
+    "print_url": "https://zxpress.ru/print.php?id=10588",
+    "title_link": "Смайлик - анекдоты из прошлого.",
+    "order": 3,
+    "issue_label": "44",
+    "short_slug": "Смаилик_-_анекдоты_из_прошлого"
+  },
+  {
+    "article_id": 10589,
+    "article_url": "https://zxpress.ru/article.php?id=10589",
+    "print_url": "https://zxpress.ru/print.php?id=10589",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 34).",
+    "order": 4,
+    "issue_label": "44",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_34"
+  },
+  {
+    "article_id": 10590,
+    "article_url": "https://zxpress.ru/article.php?id=10590",
+    "print_url": "https://zxpress.ru/print.php?id=10590",
+    "title_link": "Бук - ПАПАХИ HА БАШHЯХ.",
+    "order": 5,
+    "issue_label": "44",
+    "short_slug": "Бук_-_ПАПАХИ_HА_БАШHЯХ"
+  },
+  {
+    "article_id": 10591,
+    "article_url": "https://zxpress.ru/article.php?id=10591",
+    "print_url": "https://zxpress.ru/print.php?id=10591",
+    "title_link": "Beatles - Ticket to Ride.",
+    "order": 6,
+    "issue_label": "44",
+    "short_slug": "Beatles_-_Ticket_to_Ride"
+  },
+  {
+    "article_id": 10592,
+    "article_url": "https://zxpress.ru/article.php?id=10592",
+    "print_url": "https://zxpress.ru/print.php?id=10592",
+    "title_link": "Наш смак - окрошка сборная мясная.",
+    "order": 7,
+    "issue_label": "44",
+    "short_slug": "Наш_смак_-_окрошка_сборная_мясная"
+  },
+  {
+    "article_id": 10593,
+    "article_url": "https://zxpress.ru/article.php?id=10593",
+    "print_url": "https://zxpress.ru/print.php?id=10593",
+    "title_link": "Реклама - двигатель торговли.",
+    "order": 8,
+    "issue_label": "44",
+    "short_slug": "Реклама_-_двигатель_торговли"
+  }
+]

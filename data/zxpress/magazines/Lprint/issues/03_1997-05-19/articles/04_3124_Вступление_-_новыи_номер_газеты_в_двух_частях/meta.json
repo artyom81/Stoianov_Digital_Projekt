@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-05-19",
+  "order": 4,
+  "article_id": 3124,
+  "title_link": "Вступление - новый номер газеты в двух частях.",
+  "title_h1": "Lprint 03 - Вступление - новый номер газеты в двух частях.",
+  "print_url": "https://zxpress.ru/print.php?id=3124",
+  "article_url": "https://zxpress.ru/article.php?id=3124",
+  "fetched_at": "2026-05-31T22:20:29Z"
+}

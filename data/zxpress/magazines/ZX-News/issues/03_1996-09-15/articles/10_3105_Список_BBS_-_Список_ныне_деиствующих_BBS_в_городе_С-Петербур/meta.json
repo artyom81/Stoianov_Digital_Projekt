@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1996-09-15",
+  "order": 10,
+  "article_id": 3105,
+  "title_link": "Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+  "title_h1": "ZX-News 03 - Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+  "print_url": "https://zxpress.ru/print.php?id=3105",
+  "article_url": "https://zxpress.ru/article.php?id=3105",
+  "fetched_at": "2026-05-31T23:27:46Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3260,
+    "article_url": "https://zxpress.ru/article.php?id=3260",
+    "print_url": "https://zxpress.ru/print.php?id=3260",
+    "title_link": "PUSH HL - RET ...",
+    "order": 1,
+    "issue_label": "0E",
+    "short_slug": "PUSH_HL_-_RET"
+  },
+  {
+    "article_id": 3258,
+    "article_url": "https://zxpress.ru/article.php?id=3258",
+    "print_url": "https://zxpress.ru/print.php?id=3258",
+    "title_link": "Мы выбираем - Результаты статистического опроса пользователей Спектрума\r\n в городе Гомеле.",
+    "order": 2,
+    "issue_label": "0E",
+    "short_slug": "Мы_выбираем_-_Результаты_статистического_опроса_пользователе"
+  },
+  {
+    "article_id": 3256,
+    "article_url": "https://zxpress.ru/article.php?id=3256",
+    "print_url": "https://zxpress.ru/print.php?id=3256",
+    "title_link": "От авторов - О создании журнала в Белоруссии.",
+    "order": 3,
+    "issue_label": "0E",
+    "short_slug": "От_авторов_-_О_создании_журнала_в_Белоруссии"
+  },
+  {
+    "article_id": 3261,
+    "article_url": "https://zxpress.ru/article.php?id=3261",
+    "print_url": "https://zxpress.ru/print.php?id=3261",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "0E",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3259,
+    "article_url": "https://zxpress.ru/article.php?id=3259",
+    "print_url": "https://zxpress.ru/print.php?id=3259",
+    "title_link": "Улыбнись - История одного мальчика - Юры.",
+    "order": 5,
+    "issue_label": "0E",
+    "short_slug": "Улыбнись_-_История_одного_мальчика_-_Юры"
+  },
+  {
+    "article_id": 3257,
+    "article_url": "https://zxpress.ru/article.php?id=3257",
+    "print_url": "https://zxpress.ru/print.php?id=3257",
+    "title_link": "Что нового - О новинках в Минске.",
+    "order": 6,
+    "issue_label": "0E",
+    "short_slug": "Что_нового_-_О_новинках_в_Минске"
+  }
+]

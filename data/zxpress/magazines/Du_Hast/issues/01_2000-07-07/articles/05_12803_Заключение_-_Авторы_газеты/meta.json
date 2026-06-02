@@ -1,0 +1,15 @@
+{
+  "magazine_id": 60,
+  "magazine_name": "Du Hast",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2000-07-07",
+  "order": 5,
+  "article_id": 12803,
+  "title_link": "Заключение - Авторы газеты.",
+  "title_h1": "Du Hast 01 - Заключение - Авторы газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=12803",
+  "article_url": "https://zxpress.ru/article.php?id=12803",
+  "fetched_at": "2026-05-31T21:59:47Z"
+}

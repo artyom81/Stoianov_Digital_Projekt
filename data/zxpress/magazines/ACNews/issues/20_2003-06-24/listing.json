@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9378,
+    "article_url": "https://zxpress.ru/article.php?id=9378",
+    "print_url": "https://zxpress.ru/print.php?id=9378",
+    "title_link": "News - Из армии вернулся Dissonator/i8",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "News_-_Из_армии_вернулся_Dissonatori8"
+  },
+  {
+    "article_id": 9379,
+    "article_url": "https://zxpress.ru/article.php?id=9379",
+    "print_url": "https://zxpress.ru/print.php?id=9379",
+    "title_link": "Мысли - Присылайте спорные материалы. Большинство из них будет рано или\r\nпоздно опубликовано!",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Мысли_-_Присылаите_спорные_материалы_Большинство_из_них_буде"
+  },
+  {
+    "article_id": 9380,
+    "article_url": "https://zxpress.ru/article.php?id=9380",
+    "print_url": "https://zxpress.ru/print.php?id=9380",
+    "title_link": "Smile - приколы от Александра Никифорова из Минска.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Smile_-_приколы_от_Александра_Никифорова_из_Минска"
+  },
+  {
+    "article_id": 9381,
+    "article_url": "https://zxpress.ru/article.php?id=9381",
+    "print_url": "https://zxpress.ru/print.php?id=9381",
+    "title_link": "Docs - UnRar считает оборванными архивы, находящиеся в конце диска.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Docs_-_UnRar_считает_оборванными_архивы_находящиеся_в_конце"
+  }
+]

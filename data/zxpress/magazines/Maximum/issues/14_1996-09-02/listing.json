@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 151,
+    "article_url": "https://zxpress.ru/article.php?id=151",
+    "print_url": "https://zxpress.ru/print.php?id=151",
+    "title_link": "Предисловие - С новым учебным годом!",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Предисловие_-_С_новым_учебным_годом"
+  },
+  {
+    "article_id": 152,
+    "article_url": "https://zxpress.ru/article.php?id=152",
+    "print_url": "https://zxpress.ru/print.php?id=152",
+    "title_link": "Сплошные приколы - 4 прикола.\r\n Сборник высказываний советских офицеров (продолжение).",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Сплошные_приколы_-_4_прикола_Сборник_высказывании_советских"
+  },
+  {
+    "article_id": 12188,
+    "article_url": "https://zxpress.ru/article.php?id=12188",
+    "print_url": "https://zxpress.ru/print.php?id=12188",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12189,
+    "article_url": "https://zxpress.ru/article.php?id=12189",
+    "print_url": "https://zxpress.ru/print.php?id=12189",
+    "title_link": "Печатается с продолж. - Сто рассказов о Чукче (1-25).",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Печатается_с_продолж_-_Сто_рассказов_о_Чукче_1-25"
+  },
+  {
+    "article_id": 12190,
+    "article_url": "https://zxpress.ru/article.php?id=12190",
+    "print_url": "https://zxpress.ru/print.php?id=12190",
+    "title_link": "Видео - Боевик \"Боеголовка\".",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Видео_-_Боевик_Боеголовка"
+  },
+  {
+    "article_id": 12191,
+    "article_url": "https://zxpress.ru/article.php?id=12191",
+    "print_url": "https://zxpress.ru/print.php?id=12191",
+    "title_link": "Версии - 2 версии игры: UFO-1.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Версии_-_2_версии_игры_UFO-1"
+  },
+  {
+    "article_id": 12192,
+    "article_url": "https://zxpress.ru/article.php?id=12192",
+    "print_url": "https://zxpress.ru/print.php?id=12192",
+    "title_link": "Розыск - Разыскиваются: ZHAK & NARC...",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Розыск_-_Разыскиваются_ZHAK_NARC"
+  },
+  {
+    "article_id": 12193,
+    "article_url": "https://zxpress.ru/article.php?id=12193",
+    "print_url": "https://zxpress.ru/print.php?id=12193",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 39,
+    "article_url": "https://zxpress.ru/article.php?id=39",
+    "print_url": "https://zxpress.ru/print.php?id=39",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2007,
+    "article_url": "https://zxpress.ru/article.php?id=2007",
+    "print_url": "https://zxpress.ru/print.php?id=2007",
+    "title_link": "Застрял ? - Словарь адвентюрной игры \"Revolt\".",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Застрял_-_Словарь_адвентюрнои_игры_Revolt"
+  },
+  {
+    "article_id": 2008,
+    "article_url": "https://zxpress.ru/article.php?id=2008",
+    "print_url": "https://zxpress.ru/print.php?id=2008",
+    "title_link": "Мозаика - Рассуждения о IS-DOS'e. Cheat'ы к программам : Mountain Bike Rracer, Combat Zone, The Last Mission.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Мозаика_-_Рассуждения_о_IS-DOSe_Cheatы_к_программам_Mountain"
+  },
+  {
+    "article_id": 2009,
+    "article_url": "https://zxpress.ru/article.php?id=2009",
+    "print_url": "https://zxpress.ru/print.php?id=2009",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2006,
+    "article_url": "https://zxpress.ru/article.php?id=2006",
+    "print_url": "https://zxpress.ru/print.php?id=2006",
+    "title_link": "Страничка СисОпа - E-Mail - 4. Об адресации.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Страничка_СисОпа_-_E-Mail_-_4_Об_адресации"
+  }
+]

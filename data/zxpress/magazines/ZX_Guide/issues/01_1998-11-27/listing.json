@@ -1,0 +1,227 @@
+[
+  {
+    "article_id": 18620,
+    "article_url": "https://zxpress.ru/article.php?id=18620",
+    "print_url": "https://zxpress.ru/print.php?id=18620",
+    "title_link": "Об игрушках - Doom by Digital Reality",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Об_игрушках_-_Doom_by_Digital_Reality"
+  },
+  {
+    "article_id": 18621,
+    "article_url": "https://zxpress.ru/article.php?id=18621",
+    "print_url": "https://zxpress.ru/print.php?id=18621",
+    "title_link": "Об игрушках - Ikari warriors",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Об_игрушках_-_Ikari_warriors"
+  },
+  {
+    "article_id": 18622,
+    "article_url": "https://zxpress.ru/article.php?id=18622",
+    "print_url": "https://zxpress.ru/print.php?id=18622",
+    "title_link": "Об игрушках - Демо-версия игры Wolfenstein 3D",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Об_игрушках_-_Демо-версия_игры_Wolfenstein_3D"
+  },
+  {
+    "article_id": 18623,
+    "article_url": "https://zxpress.ru/article.php?id=18623",
+    "print_url": "https://zxpress.ru/print.php?id=18623",
+    "title_link": "Ассемблер - Краткий урок ассемблера для ламеров",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Краткии_урок_ассемблера_для_ламеров"
+  },
+  {
+    "article_id": 18624,
+    "article_url": "https://zxpress.ru/article.php?id=18624",
+    "print_url": "https://zxpress.ru/print.php?id=18624",
+    "title_link": "Ассемблер - Этюды",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Этюды"
+  },
+  {
+    "article_id": 18625,
+    "article_url": "https://zxpress.ru/article.php?id=18625",
+    "print_url": "https://zxpress.ru/print.php?id=18625",
+    "title_link": "Ликбез - горе от ума: о выводе экрана за прерывание",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Ликбез_-_горе_от_ума_о_выводе_экрана_за_прерывание"
+  },
+  {
+    "article_id": 18626,
+    "article_url": "https://zxpress.ru/article.php?id=18626",
+    "print_url": "https://zxpress.ru/print.php?id=18626",
+    "title_link": "Ликбез - Никогда! обзор ассемблеров: EditAs,Zeus,GENS,TASM,PASM,ZX-Asm,MASM,\r\nXAS,ALASM,IS-DOS Assembler",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Ликбез_-_Никогда_обзор_ассемблеров_EditAsZeusGENSTASMPASMZX-"
+  },
+  {
+    "article_id": 18627,
+    "article_url": "https://zxpress.ru/article.php?id=18627",
+    "print_url": "https://zxpress.ru/print.php?id=18627",
+    "title_link": "TR-DOS - Функции TR-DOS",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "TR-DOS_-_Функции_TR-DOS"
+  },
+  {
+    "article_id": 18628,
+    "article_url": "https://zxpress.ru/article.php?id=18628",
+    "print_url": "https://zxpress.ru/print.php?id=18628",
+    "title_link": "Железо - расширяем экран спектрума методом \"тыка\"",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Железо_-_расширяем_экран_спектрума_методом_тыка"
+  },
+  {
+    "article_id": 18629,
+    "article_url": "https://zxpress.ru/article.php?id=18629",
+    "print_url": "https://zxpress.ru/print.php?id=18629",
+    "title_link": "Рабочий стол - Описание редактора AC Edit v0.09",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Рабочии_стол_-_Описание_редактора_AC_Edit_v009"
+  },
+  {
+    "article_id": 18630,
+    "article_url": "https://zxpress.ru/article.php?id=18630",
+    "print_url": "https://zxpress.ru/print.php?id=18630",
+    "title_link": "Рабочий стол - Теневой многотекстовый\r\n ассемблер-отладчик ALASM v4.1\r\n Краткое описание",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Рабочии_стол_-_Теневои_многотекстовыи_ассемблер-отладчик_ALA"
+  },
+  {
+    "article_id": 18631,
+    "article_url": "https://zxpress.ru/article.php?id=18631",
+    "print_url": "https://zxpress.ru/print.php?id=18631",
+    "title_link": "Интервью - воспоминания Alone Coder",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_воспоминания_Alone_Coder"
+  },
+  {
+    "article_id": 18632,
+    "article_url": "https://zxpress.ru/article.php?id=18632",
+    "print_url": "https://zxpress.ru/print.php?id=18632",
+    "title_link": "Отдохнем - анекдоты",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_анекдоты"
+  },
+  {
+    "article_id": 18633,
+    "article_url": "https://zxpress.ru/article.php?id=18633",
+    "print_url": "https://zxpress.ru/print.php?id=18633",
+    "title_link": "Отдохнем - БИЛЛ - ГЕРОЙ ГАЛАКТИКИ (1)",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_БИЛЛ_-_ГЕРОИ_ГАЛАКТИКИ_1"
+  },
+  {
+    "article_id": 18634,
+    "article_url": "https://zxpress.ru/article.php?id=18634",
+    "print_url": "https://zxpress.ru/print.php?id=18634",
+    "title_link": "Отдохнем - Аркадий Стругацкий, Борис Стругацкий: Чрезвычайное происшествие",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_Аркадии_Стругацкии_Борис_Стругацкии_Чрезвычаиное"
+  },
+  {
+    "article_id": 18635,
+    "article_url": "https://zxpress.ru/article.php?id=18635",
+    "print_url": "https://zxpress.ru/print.php?id=18635",
+    "title_link": "Почтовый ящик - обьявления",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Почтовыи_ящик_-_обьявления"
+  },
+  {
+    "article_id": 18636,
+    "article_url": "https://zxpress.ru/article.php?id=18636",
+    "print_url": "https://zxpress.ru/print.php?id=18636",
+    "title_link": "Управление - Страничка помощи",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Управление_-_Страничка_помощи"
+  },
+  {
+    "article_id": 18637,
+    "article_url": "https://zxpress.ru/article.php?id=18637",
+    "print_url": "https://zxpress.ru/print.php?id=18637",
+    "title_link": "Авторы - авторы журнала",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Авторы_-_авторы_журнала"
+  },
+  {
+    "article_id": 18638,
+    "article_url": "https://zxpress.ru/article.php?id=18638",
+    "print_url": "https://zxpress.ru/print.php?id=18638",
+    "title_link": "От редактора - Мы выпустили этот журнал чтобы принести массу информации, которой не дают остальные журналы",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "От_редактора_-_Мы_выпустили_этот_журнал_чтобы_принести_массу"
+  },
+  {
+    "article_id": 18639,
+    "article_url": "https://zxpress.ru/article.php?id=18639",
+    "print_url": "https://zxpress.ru/print.php?id=18639",
+    "title_link": "Как я это сделал - Как я делал этот журнал",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Как_я_это_сделал_-_Как_я_делал_этот_журнал"
+  },
+  {
+    "article_id": 13135,
+    "article_url": "https://zxpress.ru/article.php?id=13135",
+    "print_url": "https://zxpress.ru/print.php?id=13135",
+    "title_link": "МinskZxNet - Значит русский рэп можно, а чеченский блек нельзя?",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "МinskZxNet_-_Значит_русскии_рэп_можно_а_чеченскии_блек_нельз"
+  },
+  {
+    "article_id": 1193,
+    "article_url": "https://zxpress.ru/article.php?id=1193",
+    "print_url": "https://zxpress.ru/print.php?id=1193",
+    "title_link": "ASH & Funtop - Впечатления о Fun Top от ASH'а.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "ASH_Funtop_-_Впечатления_о_Fun_Top_от_ASHа"
+  },
+  {
+    "article_id": 6300,
+    "article_url": "https://zxpress.ru/article.php?id=6300",
+    "print_url": "https://zxpress.ru/print.php?id=6300",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 5532,
+    "article_url": "https://zxpress.ru/article.php?id=5532",
+    "print_url": "https://zxpress.ru/print.php?id=5532",
+    "title_link": "Железо - Звуковая карта с прямым доступом: DMA Sound Card (описание схемы и программирования).",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Железо_-_Звуковая_карта_с_прямым_доступом_DMA_Sound_Card_опи"
+  },
+  {
+    "article_id": 6507,
+    "article_url": "https://zxpress.ru/article.php?id=6507",
+    "print_url": "https://zxpress.ru/print.php?id=6507",
+    "title_link": "NEOS - NEOS о глюках и не только.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "NEOS_-_NEOS_о_глюках_и_не_только"
+  }
+]

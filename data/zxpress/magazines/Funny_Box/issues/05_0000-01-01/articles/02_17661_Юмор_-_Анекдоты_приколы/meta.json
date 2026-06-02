@@ -1,0 +1,15 @@
+{
+  "magazine_id": 87,
+  "magazine_name": "Funny Box",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "0000-01-01",
+  "order": 2,
+  "article_id": 17661,
+  "title_link": "Юмор - Анекдоты, приколы.",
+  "title_h1": "Funny Box 05 - Юмор - Анекдоты, приколы.",
+  "print_url": "https://zxpress.ru/print.php?id=17661",
+  "article_url": "https://zxpress.ru/article.php?id=17661",
+  "fetched_at": "2026-05-31T22:09:12Z"
+}

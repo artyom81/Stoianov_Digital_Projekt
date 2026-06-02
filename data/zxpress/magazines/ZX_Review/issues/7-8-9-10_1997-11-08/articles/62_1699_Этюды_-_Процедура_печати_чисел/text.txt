@@ -1,0 +1,50 @@
+ZX Review 7-8-9-10 - Этюды - Процедура печати чисел.
+(c) Нуритдинов Ильдар, Татарстан
+Хочу предложить вашему внима-
+нию процедуру для  печати  чисел
+от 0 до 255 из аккумулятора.
+140.
+ORG     #61A8
+        LD      A,#10  ;число
+        LD      (K3),A
+        CALL    DELENIE;число:10
+        LD      (K2),A
+        CALL    DELENIE;число:100
+        LD      (K1),A
+        LD      A,(K2) ;┐
+        CALL    UMNA   ;│
+        LD      A,(K3) ;├число-10*INT(число/10)+48
+        SUB     C      ;│
+        ADD     A,48   ;│
+        LD      (K3),A ;┘
+        LD      A,(K1) ;┐
+        CALL    UMNA   ;│
+        LD      A,(K2) ;├INT(число/10)-10*INT(число/100)+48
+        SUB     C      ;│
+        ADD     A,48   ;│
+        LD      (K2),A ;┘
+        LD      A,(K1) ;┐
+        ADD     A,48   ;├INT(число/100)+48
+        LD      (K1),A ;┘
+        LD      DE,K1  ;печать числа
+        LD      BC,3
+        JP      #203C
+UMNA    LD      C,A    ;умножение аккумулятора на 10
+        LD      B,9
+UM1     ADD     A,C
+        DJNZ    UM1
+        LD      C,A
+        RET
+DELENIE LD      B,0
+DEL1    CP      10
+        JR      C,DEL2
+        SUB     10
+        INC     B
+        JR      DEL1
+DEL2    LD      A,B
+        RET
+K1      DEFB    0    ;число, преобразованное в символьную строку
+K2      DEFB    0
+K3      DEFB    02
+
+           *   *   *

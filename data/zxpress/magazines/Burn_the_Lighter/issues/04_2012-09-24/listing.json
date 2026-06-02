@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 13211,
+    "article_url": "https://zxpress.ru/article.php?id=13211",
+    "print_url": "https://zxpress.ru/print.php?id=13211",
+    "title_link": "Incoming - новые игры: Mojon Twins' Covertape #1, Willy Meets The Beatles, VADE RETRO, RodLand (in color).",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Incoming_-_новые_игры_Mojon_Twins_Covertape_1_Willy_Meets_Th"
+  },
+  {
+    "article_id": 13212,
+    "article_url": "https://zxpress.ru/article.php?id=13212",
+    "print_url": "https://zxpress.ru/print.php?id=13212",
+    "title_link": "Insight - интернет на Спектруме, размышления moroz1999.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Insight_-_интернет_на_Спектруме_размышления_moroz1999"
+  },
+  {
+    "article_id": 13213,
+    "article_url": "https://zxpress.ru/article.php?id=13213",
+    "print_url": "https://zxpress.ru/print.php?id=13213",
+    "title_link": "Credits - авторы газеты.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

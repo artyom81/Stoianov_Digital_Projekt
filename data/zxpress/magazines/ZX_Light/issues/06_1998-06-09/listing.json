@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12692,
+    "article_url": "https://zxpress.ru/article.php?id=12692",
+    "print_url": "https://zxpress.ru/print.php?id=12692",
+    "title_link": "Вступление - привет вcем тем, ктo зaгрузил шеcтoй выпуcк нaшей гaзетки.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_привет_вcем_тем_ктo_зaгрузил_шеcтoи_выпуcк_нaше"
+  },
+  {
+    "article_id": 12693,
+    "article_url": "https://zxpress.ru/article.php?id=12693",
+    "print_url": "https://zxpress.ru/print.php?id=12693",
+    "title_link": "Новости - B Питере вышел журнaл SPECTRUМ EXPERT.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Новости_-_B_Питере_вышел_журнaл_SPECTRUМ_EXPERT"
+  },
+  {
+    "article_id": 12694,
+    "article_url": "https://zxpress.ru/article.php?id=12694",
+    "print_url": "https://zxpress.ru/print.php?id=12694",
+    "title_link": "SWAP - поговорим о свапе. Как правильно обмениваться софтом по почте.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "SWAP_-_поговорим_о_свапе_Как_правильно_обмениваться_софтом_п"
+  },
+  {
+    "article_id": 12695,
+    "article_url": "https://zxpress.ru/article.php?id=12695",
+    "print_url": "https://zxpress.ru/print.php?id=12695",
+    "title_link": "Рассказ - сутки хаккера, обыкновенные.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Рассказ_-_сутки_хаккера_обыкновенные"
+  },
+  {
+    "article_id": 12696,
+    "article_url": "https://zxpress.ru/article.php?id=12696",
+    "print_url": "https://zxpress.ru/print.php?id=12696",
+    "title_link": "Электронные издания - в пocледнее\r\nвремя нa SPECCУ cтaлo oчень мнoгo\r\nэлектрoнных журнaлoв и гaзет...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Электронные_издания_-_в_пocледнеевремя_нa_SPECCУ_cтaлo_oчень"
+  },
+  {
+    "article_id": 12697,
+    "article_url": "https://zxpress.ru/article.php?id=12697",
+    "print_url": "https://zxpress.ru/print.php?id=12697",
+    "title_link": "Crack - Апгрейд Спектрума, быть или не быть? Так ли крут Scorpion?",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Crack_-_Апгреид_Спектрума_быть_или_не_быть_Так_ли_крут_Scorp"
+  },
+  {
+    "article_id": 12698,
+    "article_url": "https://zxpress.ru/article.php?id=12698",
+    "print_url": "https://zxpress.ru/print.php?id=12698",
+    "title_link": "Hello to - приветы.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Hello_to_-_приветы"
+  },
+  {
+    "article_id": 12699,
+    "article_url": "https://zxpress.ru/article.php?id=12699",
+    "print_url": "https://zxpress.ru/print.php?id=12699",
+    "title_link": "Реклама - D.J.Crack вcе еще ищет Музыкaнтoв.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_DJCrack_вcе_еще_ищет_Музыкaнтoв"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 10,
+  "article_id": 3439,
+  "title_link": "Programming - программирование как высшая форма творчества.",
+  "title_h1": "Buzz 19 - Programming - программирование как высшая форма творчества.",
+  "print_url": "https://zxpress.ru/print.php?id=3439",
+  "article_url": "https://zxpress.ru/article.php?id=3439",
+  "fetched_at": "2026-05-31T21:48:53Z"
+}

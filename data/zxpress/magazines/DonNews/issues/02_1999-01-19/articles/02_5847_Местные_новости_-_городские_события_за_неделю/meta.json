@@ -1,0 +1,15 @@
+{
+  "magazine_id": 58,
+  "magazine_name": "DonNews",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-01-19",
+  "order": 2,
+  "article_id": 5847,
+  "title_link": "Местные новости - городские события за неделю.",
+  "title_h1": "DonNews 02 - Местные новости - городские события за неделю.",
+  "print_url": "https://zxpress.ru/print.php?id=5847",
+  "article_url": "https://zxpress.ru/article.php?id=5847",
+  "fetched_at": "2026-05-31T21:58:20Z"
+}

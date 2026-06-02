@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 15424,
+    "article_url": "https://zxpress.ru/article.php?id=15424",
+    "print_url": "https://zxpress.ru/print.php?id=15424",
+    "title_link": "Новости - Поклонникам минской компьютерной газеты X-Files подготовлен неприятный сюрприз.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Поклонникам_минскои_компьютернои_газеты_X-Files_по"
+  },
+  {
+    "article_id": 15425,
+    "article_url": "https://zxpress.ru/article.php?id=15425",
+    "print_url": "https://zxpress.ru/print.php?id=15425",
+    "title_link": "Zx-Net - BBS работает ежедневно.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Zx-Net_-_BBS_работает_ежедневно"
+  },
+  {
+    "article_id": 15426,
+    "article_url": "https://zxpress.ru/article.php?id=15426",
+    "print_url": "https://zxpress.ru/print.php?id=15426",
+    "title_link": "Обломы - Газета Move сегодня чуть не распрощались с анкетами и материалами.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Обломы_-_Газета_Move_сегодня_чуть_не_распрощались_с_анкетами"
+  },
+  {
+    "article_id": 15427,
+    "article_url": "https://zxpress.ru/article.php?id=15427",
+    "print_url": "https://zxpress.ru/print.php?id=15427",
+    "title_link": "Грустим - Есть еще кто нибудь на сетях или опять я сам с собою pазговаpивать буду.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Грустим_-_Есть_еще_кто_нибудь_на_сетях_или_опять_я_сам_с_соб"
+  },
+  {
+    "article_id": 15428,
+    "article_url": "https://zxpress.ru/article.php?id=15428",
+    "print_url": "https://zxpress.ru/print.php?id=15428",
+    "title_link": "Опровержения - В прошлом выпуске NEXT#02 была неправильна приведена конфигурация компьютера SatSoft'а.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Опровержения_-_В_прошлом_выпуске_NEXT02_была_неправильна_при"
+  },
+  {
+    "article_id": 15429,
+    "article_url": "https://zxpress.ru/article.php?id=15429",
+    "print_url": "https://zxpress.ru/print.php?id=15429",
+    "title_link": "Поиск игр - Разыскиваются PC игры.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Поиск_игр_-_Разыскиваются_PC_игры"
+  },
+  {
+    "article_id": 15430,
+    "article_url": "https://zxpress.ru/article.php?id=15430",
+    "print_url": "https://zxpress.ru/print.php?id=15430",
+    "title_link": "Нужна помощь - Внимание, кто может помочь Werewolves'у?",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Нужна_помощь_-_Внимание_кто_может_помочь_Werewolvesу"
+  },
+  {
+    "article_id": 15431,
+    "article_url": "https://zxpress.ru/article.php?id=15431",
+    "print_url": "https://zxpress.ru/print.php?id=15431",
+    "title_link": "Анонс - Анонс газеты. Памятка.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Анонс_-_Анонс_газеты_Памятка"
+  },
+  {
+    "article_id": 15432,
+    "article_url": "https://zxpress.ru/article.php?id=15432",
+    "print_url": "https://zxpress.ru/print.php?id=15432",
+    "title_link": "Срочно в номер - Перед самым выходом NEXT#3 стало известно о прибытии в Минск крупной партии новья.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Срочно_в_номер_-_Перед_самым_выходом_NEXT3_стало_известно_о"
+  }
+]

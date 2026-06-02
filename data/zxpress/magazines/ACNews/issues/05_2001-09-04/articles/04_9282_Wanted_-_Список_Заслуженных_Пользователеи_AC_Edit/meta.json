@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "2001-09-04",
+  "order": 4,
+  "article_id": 9282,
+  "title_link": "Wanted - Список Заслуженных Пользователей AC Edit.",
+  "title_h1": "ACNews 05 - Wanted - Список Заслуженных Пользователей AC Edit.",
+  "print_url": "https://zxpress.ru/print.php?id=9282",
+  "article_url": "https://zxpress.ru/article.php?id=9282",
+  "fetched_at": "2026-05-31T21:30:14Z"
+}

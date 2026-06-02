@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-04-09",
+  "order": 7,
+  "article_id": 3494,
+  "title_link": "Новости - Свежие новости из жизни ковровских хакеров.",
+  "title_h1": "Buzz 03 - Новости - Свежие новости из жизни ковровских хакеров.",
+  "print_url": "https://zxpress.ru/print.php?id=3494",
+  "article_url": "https://zxpress.ru/article.php?id=3494",
+  "fetched_at": "2026-05-31T21:47:19Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 20,
+  "article_id": 8013,
+  "title_link": "CODING - Как создать некопируемый сектор.",
+  "title_h1": "Deja Vu 08 - CODING - Как создать некопируемый сектор.",
+  "print_url": "https://zxpress.ru/print.php?id=8013",
+  "article_url": "https://zxpress.ru/article.php?id=8013",
+  "fetched_at": "2026-05-31T21:55:35Z"
+}

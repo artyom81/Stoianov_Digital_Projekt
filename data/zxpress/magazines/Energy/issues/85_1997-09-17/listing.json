@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 3924,
+    "article_url": "https://zxpress.ru/article.php?id=3924",
+    "print_url": "https://zxpress.ru/print.php?id=3924",
+    "title_link": "Warp Designer v1 - Описание Warp Designer v1.0 (конструктор искажений).",
+    "order": 1,
+    "issue_label": "85",
+    "short_slug": "Warp_Designer_v1_-_Описание_Warp_Designer_v10_конструктор_ис"
+  },
+  {
+    "article_id": 3923,
+    "article_url": "https://zxpress.ru/article.php?id=3923",
+    "print_url": "https://zxpress.ru/print.php?id=3923",
+    "title_link": "Горячая десятка - Горячая десятка игр.",
+    "order": 2,
+    "issue_label": "85",
+    "short_slug": "Горячая_десятка_-_Горячая_десятка_игр"
+  },
+  {
+    "article_id": 3922,
+    "article_url": "https://zxpress.ru/article.php?id=3922",
+    "print_url": "https://zxpress.ru/print.php?id=3922",
+    "title_link": "Новости - О выходе юбилейного девятого номера...",
+    "order": 3,
+    "issue_label": "85",
+    "short_slug": "Новости_-_О_выходе_юбилеиного_девятого_номера"
+  },
+  {
+    "article_id": 3925,
+    "article_url": "https://zxpress.ru/article.php?id=3925",
+    "print_url": "https://zxpress.ru/print.php?id=3925",
+    "title_link": "Приложение - О приложении следующего номера.",
+    "order": 4,
+    "issue_label": "85",
+    "short_slug": "Приложение_-_О_приложении_следующего_номера"
+  }
+]

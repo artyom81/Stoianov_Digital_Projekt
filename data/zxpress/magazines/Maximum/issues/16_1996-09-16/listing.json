@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 155,
+    "article_url": "https://zxpress.ru/article.php?id=155",
+    "print_url": "https://zxpress.ru/print.php?id=155",
+    "title_link": "Предисловие - Скоро вы увидите, то что никогда не видели.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Предисловие_-_Скоро_вы_увидите_то_что_никогда_не_видели"
+  },
+  {
+    "article_id": 12201,
+    "article_url": "https://zxpress.ru/article.php?id=12201",
+    "print_url": "https://zxpress.ru/print.php?id=12201",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12202,
+    "article_url": "https://zxpress.ru/article.php?id=12202",
+    "print_url": "https://zxpress.ru/print.php?id=12202",
+    "title_link": "Печатается с продолж. - Сто рассказов о Чукче (51-75).",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Печатается_с_продолж_-_Сто_рассказов_о_Чукче_51-75"
+  },
+  {
+    "article_id": 12203,
+    "article_url": "https://zxpress.ru/article.php?id=12203",
+    "print_url": "https://zxpress.ru/print.php?id=12203",
+    "title_link": "Видео - Боевик \"Ликвидатор\".",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Видео_-_Боевик_Ликвидатор"
+  },
+  {
+    "article_id": 12204,
+    "article_url": "https://zxpress.ru/article.php?id=12204",
+    "print_url": "https://zxpress.ru/print.php?id=12204",
+    "title_link": "Версии - 2 версии игры: BLINKY'S.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Версии_-_2_версии_игры_BLINKYS"
+  },
+  {
+    "article_id": 12205,
+    "article_url": "https://zxpress.ru/article.php?id=12205",
+    "print_url": "https://zxpress.ru/print.php?id=12205",
+    "title_link": "Розыск - Разыскиваются: ARCHON-2 & FOUR SOCCER SIMULATOR...",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Розыск_-_Разыскиваются_ARCHON-2_FOUR_SOCCER_SIMULATOR"
+  },
+  {
+    "article_id": 12206,
+    "article_url": "https://zxpress.ru/article.php?id=12206",
+    "print_url": "https://zxpress.ru/print.php?id=12206",
+    "title_link": "Сплошные приколы - Сборник высказываний советских офицеров (продолжение).",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Сплошные_приколы_-_Сборник_высказывании_советских_офицеров_п"
+  },
+  {
+    "article_id": 12207,
+    "article_url": "https://zxpress.ru/article.php?id=12207",
+    "print_url": "https://zxpress.ru/print.php?id=12207",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

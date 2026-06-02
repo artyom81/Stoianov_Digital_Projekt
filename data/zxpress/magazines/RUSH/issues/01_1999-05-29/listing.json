@@ -1,0 +1,470 @@
+[
+  {
+    "article_id": 3772,
+    "article_url": "https://zxpress.ru/article.php?id=3772",
+    "print_url": "https://zxpress.ru/print.php?id=3772",
+    "title_link": "AMIGA NEWS - \r\n AMIGA OS v3.5 - вопросы и ответы.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_AMIGA_OS_v35_-_вопросы_и_ответы"
+  },
+  {
+    "article_id": 3771,
+    "article_url": "https://zxpress.ru/article.php?id=3771",
+    "print_url": "https://zxpress.ru/print.php?id=3771",
+    "title_link": "AMIGA NEWS - \r\n Описание Viewer'а графических файлов - Fast JPEG.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_Описание_Viewerа_графических_фаилов_-_Fast_JPEG"
+  },
+  {
+    "article_id": 3770,
+    "article_url": "https://zxpress.ru/article.php?id=3770",
+    "print_url": "https://zxpress.ru/print.php?id=3770",
+    "title_link": "AMIGA NEWS - \r\n Программинг на Amiga: О Amiga изнутри, Графика, Сопроцессоры, Особенности ассемблера.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_Программинг_на_Amiga_О_Amiga_изнутри_Графика_Со"
+  },
+  {
+    "article_id": 3768,
+    "article_url": "https://zxpress.ru/article.php?id=3768",
+    "print_url": "https://zxpress.ru/print.php?id=3768",
+    "title_link": "AMIGA NEWS - \r\n События 1998 года (обзор событий).",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_События_1998_года_обзор_событии"
+  },
+  {
+    "article_id": 3773,
+    "article_url": "https://zxpress.ru/article.php?id=3773",
+    "print_url": "https://zxpress.ru/print.php?id=3773",
+    "title_link": "AMIGA NEWS - Cheat'ы Для Amiga-игр: After The War, Magicland Dizzy,\r\n Fantasy World Dizzy, Alien Breed, Exolon, Jagar Zj2200,\r\n Goblins, Mega Ball, Prince Of Persia,Projects-x, UGH!,\r\n Rick Dangerous-2.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_Cheatы_Для_Amiga-игр_After_The_War_Magicland_Di"
+  },
+  {
+    "article_id": 3769,
+    "article_url": "https://zxpress.ru/article.php?id=3769",
+    "print_url": "https://zxpress.ru/print.php?id=3769",
+    "title_link": "AMIGA NEWS - Амига GFX-чип Permedia2.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_Амига_GFX-чип_Permedia2"
+  },
+  {
+    "article_id": 3767,
+    "article_url": "https://zxpress.ru/article.php?id=3767",
+    "print_url": "https://zxpress.ru/print.php?id=3767",
+    "title_link": "AMIGA NEWS - Амига сегодня.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "AMIGA_NEWS_-_Амига_сегодня"
+  },
+  {
+    "article_id": 3783,
+    "article_url": "https://zxpress.ru/article.php?id=3783",
+    "print_url": "https://zxpress.ru/print.php?id=3783",
+    "title_link": "Spectrum программинг - Быстрые 3D-расчеты: продвинутый алгоритм.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Spectrum_программинг_-_Быстрые_3D-расчеты_продвинутыи_алгори"
+  },
+  {
+    "article_id": 3784,
+    "article_url": "https://zxpress.ru/article.php?id=3784",
+    "print_url": "https://zxpress.ru/print.php?id=3784",
+    "title_link": "Spectrum программинг - Звуковые эффекты для музыкального процессора и их совмещение с основной мелодией.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Spectrum_программинг_-_Звуковые_эффекты_для_музыкального_про"
+  },
+  {
+    "article_id": 3785,
+    "article_url": "https://zxpress.ru/article.php?id=3785",
+    "print_url": "https://zxpress.ru/print.php?id=3785",
+    "title_link": "Spectrum программинг - Зеркальное отображение байтов\r\n и Восстановление фона из буфера.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Spectrum_программинг_-_Зеркальное_отображение_баитов_и_Восст"
+  },
+  {
+    "article_id": 3800,
+    "article_url": "https://zxpress.ru/article.php?id=3800",
+    "print_url": "https://zxpress.ru/print.php?id=3800",
+    "title_link": "Spectrum программинг - Краткое пособие для системного кодера. Советы автору \"boot'a\", паковщика, Музыкального редакторы.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Spectrum_программинг_-_Краткое_пособие_для_системного_кодера"
+  },
+  {
+    "article_id": 3799,
+    "article_url": "https://zxpress.ru/article.php?id=3799",
+    "print_url": "https://zxpress.ru/print.php?id=3799",
+    "title_link": "Spectrum программинг - Современные методы кодинга и современные способы работы с графикой.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Spectrum_программинг_-_Современные_методы_кодинга_и_современ"
+  },
+  {
+    "article_id": 3757,
+    "article_url": "https://zxpress.ru/article.php?id=3757",
+    "print_url": "https://zxpress.ru/print.php?id=3757",
+    "title_link": "The End - эпилог.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "The_End_-_эпилог"
+  },
+  {
+    "article_id": 3788,
+    "article_url": "https://zxpress.ru/article.php?id=3788",
+    "print_url": "https://zxpress.ru/print.php?id=3788",
+    "title_link": "ZX-SOFT - \"Черный \r\nВорон II\": Готовьтесь к очередному хиту \r\n от Copper Feet !",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "ZX-SOFT_-_Черныи_Ворон_II_Готовьтесь_к_очередному_хиту_от_Co"
+  },
+  {
+    "article_id": 3787,
+    "article_url": "https://zxpress.ru/article.php?id=3787",
+    "print_url": "https://zxpress.ru/print.php?id=3787",
+    "title_link": "ZX-SOFT - Описание программ: Real Commander v1.6",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "ZX-SOFT_-_Описание_программ_Real_Commander_v16"
+  },
+  {
+    "article_id": 3789,
+    "article_url": "https://zxpress.ru/article.php?id=3789",
+    "print_url": "https://zxpress.ru/print.php?id=3789",
+    "title_link": "ZX-SOFT - споры о демо: Forever vs Refresh.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "ZX-SOFT_-_споры_о_демо_Forever_vs_Refresh"
+  },
+  {
+    "article_id": 3802,
+    "article_url": "https://zxpress.ru/article.php?id=3802",
+    "print_url": "https://zxpress.ru/print.php?id=3802",
+    "title_link": "Аторы - Авторы журнала.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Аторы_-_Авторы_журнала"
+  },
+  {
+    "article_id": 3776,
+    "article_url": "https://zxpress.ru/article.php?id=3776",
+    "print_url": "https://zxpress.ru/print.php?id=3776",
+    "title_link": "Виртуальный Спекки - Конвертация графики на Спектрум с PC и Амиги.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Виртуальныи_Спекки_-_Конвертация_графики_на_Спектрум_с_PC_и"
+  },
+  {
+    "article_id": 3774,
+    "article_url": "https://zxpress.ru/article.php?id=3774",
+    "print_url": "https://zxpress.ru/print.php?id=3774",
+    "title_link": "Виртуальный Спекки - Эмулятор от CodeBusters на Амиге.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Виртуальныи_Спекки_-_Эмулятор_от_CodeBusters_на_Амиге"
+  },
+  {
+    "article_id": 3775,
+    "article_url": "https://zxpress.ru/article.php?id=3775",
+    "print_url": "https://zxpress.ru/print.php?id=3775",
+    "title_link": "Виртуальный Спекки - Эмуляторы ZX-SPECTRUM на PC: Где взять последнии версии FAQ по эмуляции ZX-Spectrum, Какие эмуляторы наиболее удобны - эмулятор Лунтера, UKV v1.2, Шалаева.\r\n Что за файлы с расширением *.$b,*.$c,*.$s,*.$z,*.$w ?\r\n Как прочесть формат \"hobeta\". Как и в каком эмуляторе\r\n можно работать в iS-DOS. Конвертация файлов .z80 в .$\r\n и обратно. Файлы с расширением .fdi. Проблемы с эмулятором UKV. Как получить чистый файл образа диска\r\n (.trd) для эмулятора Шалаева. Существует ли Российский ZX-ориентированный FTP или WWW сервер? Hobeta отказывается читать/писать диски 3.5\" - что делать?",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Виртуальныи_Спекки_-_Эмуляторы_ZX-SPECTRUM_на_PC_Где_взять_п"
+  },
+  {
+    "article_id": 3795,
+    "article_url": "https://zxpress.ru/article.php?id=3795",
+    "print_url": "https://zxpress.ru/print.php?id=3795",
+    "title_link": "Вступление - история создания журнала.",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_история_создания_журнала"
+  },
+  {
+    "article_id": 3758,
+    "article_url": "https://zxpress.ru/article.php?id=3758",
+    "print_url": "https://zxpress.ru/print.php?id=3758",
+    "title_link": "Вступление - О целях сценового журнала - RUSH.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_О_целях_сценового_журнала_-_RUSH"
+  },
+  {
+    "article_id": 3780,
+    "article_url": "https://zxpress.ru/article.php?id=3780",
+    "print_url": "https://zxpress.ru/print.php?id=3780",
+    "title_link": "Интервью - Большое интервью с группой ANTARES.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_Большое_интервью_с_группои_ANTARES"
+  },
+  {
+    "article_id": 3781,
+    "article_url": "https://zxpress.ru/article.php?id=3781",
+    "print_url": "https://zxpress.ru/print.php?id=3781",
+    "title_link": "Интервью - Интервью с Kvazar'ом из RUSH.",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_Интервью_с_Kvazarом_из_RUSH"
+  },
+  {
+    "article_id": 3782,
+    "article_url": "https://zxpress.ru/article.php?id=3782",
+    "print_url": "https://zxpress.ru/print.php?id=3782",
+    "title_link": "Интервью - Интервью с группой из Витебска Power group.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_Интервью_с_группои_из_Витебска_Power_group"
+  },
+  {
+    "article_id": 3778,
+    "article_url": "https://zxpress.ru/article.php?id=3778",
+    "print_url": "https://zxpress.ru/print.php?id=3778",
+    "title_link": "Информацриум - \r\n CD с эмуляторами и ZX-софтом.",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Информацриум_-_CD_с_эмуляторами_и_ZX-софтом"
+  },
+  {
+    "article_id": 3779,
+    "article_url": "https://zxpress.ru/article.php?id=3779",
+    "print_url": "https://zxpress.ru/print.php?id=3779",
+    "title_link": "Информацриум - Интересные INTERNET адреса.",
+    "order": 27,
+    "issue_label": "01",
+    "short_slug": "Информацриум_-_Интересные_INTERNET_адреса"
+  },
+  {
+    "article_id": 3777,
+    "article_url": "https://zxpress.ru/article.php?id=3777",
+    "print_url": "https://zxpress.ru/print.php?id=3777",
+    "title_link": "Информацриум - Обзор журналов и книг об Амиге.",
+    "order": 28,
+    "issue_label": "01",
+    "short_slug": "Информацриум_-_Обзор_журналов_и_книг_об_Амиге"
+  },
+  {
+    "article_id": 3759,
+    "article_url": "https://zxpress.ru/article.php?id=3759",
+    "print_url": "https://zxpress.ru/print.php?id=3759",
+    "title_link": "О журнале - Платформобесие - многоплатформенная оболочка для журнала.",
+    "order": 29,
+    "issue_label": "01",
+    "short_slug": "О_журнале_-_Платформобесие_-_многоплатформенная_оболочка_для"
+  },
+  {
+    "article_id": 3793,
+    "article_url": "https://zxpress.ru/article.php?id=3793",
+    "print_url": "https://zxpress.ru/print.php?id=3793",
+    "title_link": "Параллельные миры - История центральных процессоров и Windows.",
+    "order": 30,
+    "issue_label": "01",
+    "short_slug": "Параллельные_миры_-_История_центральных_процессоров_и_Window"
+  },
+  {
+    "article_id": 3794,
+    "article_url": "https://zxpress.ru/article.php?id=3794",
+    "print_url": "https://zxpress.ru/print.php?id=3794",
+    "title_link": "Параллельные миры - обзор моделей компьютера Macintosh.",
+    "order": 31,
+    "issue_label": "01",
+    "short_slug": "Параллельные_миры_-_обзор_моделеи_компьютера_Macintosh"
+  },
+  {
+    "article_id": 3786,
+    "article_url": "https://zxpress.ru/article.php?id=3786",
+    "print_url": "https://zxpress.ru/print.php?id=3786",
+    "title_link": "Развитие Spectrum - 128 цветов на Спектруме (описание расширения графической палитры).",
+    "order": 32,
+    "issue_label": "01",
+    "short_slug": "Развитие_Spectrum_-_128_цветов_на_Спектруме_описание_расшире"
+  },
+  {
+    "article_id": 3798,
+    "article_url": "https://zxpress.ru/article.php?id=3798",
+    "print_url": "https://zxpress.ru/print.php?id=3798",
+    "title_link": "Развитие Spectrum - Блокировка порта клавиатуры SPECCY при подключении\r\n C-DOS модема.",
+    "order": 33,
+    "issue_label": "01",
+    "short_slug": "Развитие_Spectrum_-_Блокировка_порта_клавиатуры_SPECCY_при_п"
+  },
+  {
+    "article_id": 3796,
+    "article_url": "https://zxpress.ru/article.php?id=3796",
+    "print_url": "https://zxpress.ru/print.php?id=3796",
+    "title_link": "Развитие Spectrum - Новый Speccy - AZXMONSTRUM 512K.",
+    "order": 34,
+    "issue_label": "01",
+    "short_slug": "Развитие_Spectrum_-_Новыи_Speccy_-_AZXMONSTRUM_512K"
+  },
+  {
+    "article_id": 3803,
+    "article_url": "https://zxpress.ru/article.php?id=3803",
+    "print_url": "https://zxpress.ru/print.php?id=3803",
+    "title_link": "Развитие SPECTRUM - Новый Spectrum от Синклера.",
+    "order": 35,
+    "issue_label": "01",
+    "short_slug": "Развитие_SPECTRUM_-_Новыи_Spectrum_от_Синклера"
+  },
+  {
+    "article_id": 3797,
+    "article_url": "https://zxpress.ru/article.php?id=3797",
+    "print_url": "https://zxpress.ru/print.php?id=3797",
+    "title_link": "Развитие Spectrum - Потомки процессора Z80.",
+    "order": 36,
+    "issue_label": "01",
+    "short_slug": "Развитие_Spectrum_-_Потомки_процессора_Z80"
+  },
+  {
+    "article_id": 3791,
+    "article_url": "https://zxpress.ru/article.php?id=3791",
+    "print_url": "https://zxpress.ru/print.php?id=3791",
+    "title_link": "Реклама - подробный прайслист фирмы Скорпион.",
+    "order": 37,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_подробныи_праислист_фирмы_Скорпион"
+  },
+  {
+    "article_id": 3790,
+    "article_url": "https://zxpress.ru/article.php?id=3790",
+    "print_url": "https://zxpress.ru/print.php?id=3790",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 38,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3792,
+    "article_url": "https://zxpress.ru/article.php?id=3792",
+    "print_url": "https://zxpress.ru/print.php?id=3792",
+    "title_link": "Реклама - Реклама фирмы X-Trade.",
+    "order": 39,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_фирмы_X-Trade"
+  },
+  {
+    "article_id": 3761,
+    "article_url": "https://zxpress.ru/article.php?id=3761",
+    "print_url": "https://zxpress.ru/print.php?id=3761",
+    "title_link": "Смысл без смысла - Рассказы: Самый счастливый человек, Третий глаз, Спаситель Вселенной, Цветик-семицветик, Жизнь только начинается, Страшный суд.",
+    "order": 40,
+    "issue_label": "01",
+    "short_slug": "Смысл_без_смысла_-_Рассказы_Самыи_счастливыи_человек_Третии"
+  },
+  {
+    "article_id": 3764,
+    "article_url": "https://zxpress.ru/article.php?id=3764",
+    "print_url": "https://zxpress.ru/print.php?id=3764",
+    "title_link": "Сцена vs профессионалы - собрав команду лучших\r\nлюдей со сцены, мы сможем создавать\r\nпрограммы высочайшего качества...",
+    "order": 41,
+    "issue_label": "01",
+    "short_slug": "Сцена_vs_профессионалы_-_собрав_команду_лучшихлюдеи_со_сцены"
+  },
+  {
+    "article_id": 3766,
+    "article_url": "https://zxpress.ru/article.php?id=3766",
+    "print_url": "https://zxpress.ru/print.php?id=3766",
+    "title_link": "Сценохрония - Живучий Спектрум: Spectrum дорог большинству из нас. \r\nПочему ?",
+    "order": 42,
+    "issue_label": "01",
+    "short_slug": "Сценохрония_-_Живучии_Спектрум_Spectrum_дорог_большинству_из"
+  },
+  {
+    "article_id": 3763,
+    "article_url": "https://zxpress.ru/article.php?id=3763",
+    "print_url": "https://zxpress.ru/print.php?id=3763",
+    "title_link": "Сценохрония - Краткий обзор новостей от группы RUSH.",
+    "order": 43,
+    "issue_label": "01",
+    "short_slug": "Сценохрония_-_Краткии_обзор_новостеи_от_группы_RUSH"
+  },
+  {
+    "article_id": 3762,
+    "article_url": "https://zxpress.ru/article.php?id=3762",
+    "print_url": "https://zxpress.ru/print.php?id=3762",
+    "title_link": "Сценохрония - Обзор сцено-событий: Alliance, Alchemist Research, Asphyxia, Brokimsoft, CodeBusters, Concern Chaos, Copper Feet, Crystal Dream, Digital Reality, E0Mage, Energy Minds, Entire, Excess, Fatality и т.д.",
+    "order": 44,
+    "issue_label": "01",
+    "short_slug": "Сценохрония_-_Обзор_сцено-событии_Alliance_Alchemist_Researc"
+  },
+  {
+    "article_id": 3801,
+    "article_url": "https://zxpress.ru/article.php?id=3801",
+    "print_url": "https://zxpress.ru/print.php?id=3801",
+    "title_link": "Сценохрония - Отголоски Fun Top'98.",
+    "order": 45,
+    "issue_label": "01",
+    "short_slug": "Сценохрония_-_Отголоски_Fun_Top98"
+  },
+  {
+    "article_id": 3765,
+    "article_url": "https://zxpress.ru/article.php?id=3765",
+    "print_url": "https://zxpress.ru/print.php?id=3765",
+    "title_link": "Сценохрония - Проект Long Live Amiga, призванный\r\nпомочь становлению и развитию \r\nамиговской сцены.",
+    "order": 46,
+    "issue_label": "01",
+    "short_slug": "Сценохрония_-_Проект_Long_Live_Amiga_призванныипомочь_станов"
+  },
+  {
+    "article_id": 3760,
+    "article_url": "https://zxpress.ru/article.php?id=3760",
+    "print_url": "https://zxpress.ru/print.php?id=3760",
+    "title_link": "Управление оболочкой - о ZX версии оболочки.",
+    "order": 47,
+    "issue_label": "01",
+    "short_slug": "Управление_оболочкои_-_о_ZX_версии_оболочки"
+  },
+  {
+    "article_id": 16380,
+    "article_url": "https://zxpress.ru/article.php?id=16380",
+    "print_url": "https://zxpress.ru/print.php?id=16380",
+    "title_link": "Пoд знaкom Свacтики - Нa нaпиcaниe cтaтьи нa этy тemy meня пoдтoлкнyл Unbeliever и, пo cпрaвeдливocти, читaть этo вы дoлжны в eгo Born Dead'e.",
+    "order": 48,
+    "issue_label": "01",
+    "short_slug": "Пoд_знaкom_Свacтики_-_Нa_нaпиcaниe_cтaтьи_нa_этy_тemy_meня_п"
+  },
+  {
+    "article_id": 11604,
+    "article_url": "https://zxpress.ru/article.php?id=11604",
+    "print_url": "https://zxpress.ru/print.php?id=11604",
+    "title_link": "Werewolf - Зверь из Жеводана 2.",
+    "order": 49,
+    "issue_label": "01",
+    "short_slug": "Werewolf_-_Зверь_из_Жеводана_2"
+  },
+  {
+    "article_id": 7012,
+    "article_url": "https://zxpress.ru/article.php?id=7012",
+    "print_url": "https://zxpress.ru/print.php?id=7012",
+    "title_link": "События - эмблема FunTop98 от Hика Ионова.",
+    "order": 50,
+    "issue_label": "01",
+    "short_slug": "События_-_эмблема_FunTop98_от_Hика_Ионова"
+  },
+  {
+    "article_id": 1417,
+    "article_url": "https://zxpress.ru/article.php?id=1417",
+    "print_url": "https://zxpress.ru/print.php?id=1417",
+    "title_link": "Вводная статья к сборнику ответов на письма пользователей ZX Spectrum поступившие в фирму C Nemo.",
+    "order": 51,
+    "issue_label": "01",
+    "short_slug": "Вводная_статья_к_сборнику_ответов_на_письма_пользователеи_ZX"
+  },
+  {
+    "article_id": 2317,
+    "article_url": "https://zxpress.ru/article.php?id=2317",
+    "print_url": "https://zxpress.ru/print.php?id=2317",
+    "title_link": "Приложение - Pinkword, Digital Desing.",
+    "order": 52,
+    "issue_label": "01",
+    "short_slug": "Приложение_-_Pinkword_Digital_Desing"
+  }
+]

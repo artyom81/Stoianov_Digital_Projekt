@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3934,
+    "article_url": "https://zxpress.ru/article.php?id=3934",
+    "print_url": "https://zxpress.ru/print.php?id=3934",
+    "title_link": "FANTASY - Роман Г.Гаррисона \"Чума из космоса\" (продолжение).",
+    "order": 1,
+    "issue_label": "97",
+    "short_slug": "FANTASY_-_Роман_ГГаррисона_Чума_из_космоса_продолжение"
+  },
+  {
+    "article_id": 3926,
+    "article_url": "https://zxpress.ru/article.php?id=3926",
+    "print_url": "https://zxpress.ru/print.php?id=3926",
+    "title_link": "Байки из склепа - Кинотеатр...",
+    "order": 2,
+    "issue_label": "97",
+    "short_slug": "Баики_из_склепа_-_Кинотеатр"
+  },
+  {
+    "article_id": 3935,
+    "article_url": "https://zxpress.ru/article.php?id=3935",
+    "print_url": "https://zxpress.ru/print.php?id=3935",
+    "title_link": "Десятка месяца - Горячая десятка игр.",
+    "order": 3,
+    "issue_label": "97",
+    "short_slug": "Десятка_месяца_-_Горячая_десятка_игр"
+  },
+  {
+    "article_id": 3928,
+    "article_url": "https://zxpress.ru/article.php?id=3928",
+    "print_url": "https://zxpress.ru/print.php?id=3928",
+    "title_link": "Мысли - О газетах в Минске.",
+    "order": 4,
+    "issue_label": "97",
+    "short_slug": "Мысли_-_О_газетах_в_Минске"
+  },
+  {
+    "article_id": 3932,
+    "article_url": "https://zxpress.ru/article.php?id=3932",
+    "print_url": "https://zxpress.ru/print.php?id=3932",
+    "title_link": "Нововсти - О новых программах от белоруских программистов.",
+    "order": 5,
+    "issue_label": "97",
+    "short_slug": "Нововсти_-_О_новых_программах_от_белоруских_программистов"
+  },
+  {
+    "article_id": 3927,
+    "article_url": "https://zxpress.ru/article.php?id=3927",
+    "print_url": "https://zxpress.ru/print.php?id=3927",
+    "title_link": "Опрос - Анкета для читателей газеты.",
+    "order": 6,
+    "issue_label": "97",
+    "short_slug": "Опрос_-_Анкета_для_читателеи_газеты"
+  },
+  {
+    "article_id": 3931,
+    "article_url": "https://zxpress.ru/article.php?id=3931",
+    "print_url": "https://zxpress.ru/print.php?id=3931",
+    "title_link": "От авторов - ENERGY - вновь как газета.",
+    "order": 7,
+    "issue_label": "97",
+    "short_slug": "От_авторов_-_ENERGY_-_вновь_как_газета"
+  },
+  {
+    "article_id": 3933,
+    "article_url": "https://zxpress.ru/article.php?id=3933",
+    "print_url": "https://zxpress.ru/print.php?id=3933",
+    "title_link": "Письмо в LPRINT - Критика газеты LPRINT...",
+    "order": 8,
+    "issue_label": "97",
+    "short_slug": "Письмо_в_LPRINT_-_Критика_газеты_LPRINT"
+  },
+  {
+    "article_id": 3930,
+    "article_url": "https://zxpress.ru/article.php?id=3930",
+    "print_url": "https://zxpress.ru/print.php?id=3930",
+    "title_link": "Поле чудес - Шуточный рассказ \"Капитал шоу \"Поле Чудес\".",
+    "order": 9,
+    "issue_label": "97",
+    "short_slug": "Поле_чудес_-_Шуточныи_рассказ_Капитал_шоу_Поле_Чудес"
+  },
+  {
+    "article_id": 3929,
+    "article_url": "https://zxpress.ru/article.php?id=3929",
+    "print_url": "https://zxpress.ru/print.php?id=3929",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 10,
+    "issue_label": "97",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  }
+]

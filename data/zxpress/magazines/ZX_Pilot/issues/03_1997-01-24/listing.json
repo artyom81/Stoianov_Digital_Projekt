@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 7564,
+    "article_url": "https://zxpress.ru/article.php?id=7564",
+    "print_url": "https://zxpress.ru/print.php?id=7564",
+    "title_link": "Наши новости - Окончательные данные в номинации ZX-DEMO COMPO.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Наши_новости_-_Окончательные_данные_в_номинации_ZX-DEMO_COMP"
+  },
+  {
+    "article_id": 7565,
+    "article_url": "https://zxpress.ru/article.php?id=7565",
+    "print_url": "https://zxpress.ru/print.php?id=7565",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7566,
+    "article_url": "https://zxpress.ru/article.php?id=7566",
+    "print_url": "https://zxpress.ru/print.php?id=7566",
+    "title_link": "DUCK NEWS - Союз AMIGA + SPECCY. Вшитый вирус PRESTOR в ПЗУ компьютеров Пентагон.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "DUCK_NEWS_-_Союз_AMIGA_SPECCY_Вшитыи_вирус_PRESTOR_в_ПЗУ_ком"
+  },
+  {
+    "article_id": 7567,
+    "article_url": "https://zxpress.ru/article.php?id=7567",
+    "print_url": "https://zxpress.ru/print.php?id=7567",
+    "title_link": "DUCK NEWS - Вшитый вирус PRESTOR в ПЗУ компьютеров Пентагон.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "DUCK_NEWS_-_Вшитыи_вирус_PRESTOR_в_ПЗУ_компьютеров_Пентагон"
+  },
+  {
+    "article_id": 7568,
+    "article_url": "https://zxpress.ru/article.php?id=7568",
+    "print_url": "https://zxpress.ru/print.php?id=7568",
+    "title_link": "Разберемся - Описание миссий игры BATTLE COMMAND.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Разберемся_-_Описание_миссии_игры_BATTLE_COMMAND"
+  },
+  {
+    "article_id": 7569,
+    "article_url": "https://zxpress.ru/article.php?id=7569",
+    "print_url": "https://zxpress.ru/print.php?id=7569",
+    "title_link": "Разберемся - Подробное описание игры CARRIER COMMAND.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Разберемся_-_Подробное_описание_игры_CARRIER_COMMAND"
+  },
+  {
+    "article_id": 7570,
+    "article_url": "https://zxpress.ru/article.php?id=7570",
+    "print_url": "https://zxpress.ru/print.php?id=7570",
+    "title_link": "HINTS! - 59 паролей к игре LEMMINGS.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "HINTS_-_59_паролеи_к_игре_LEMMINGS"
+  },
+  {
+    "article_id": 7571,
+    "article_url": "https://zxpress.ru/article.php?id=7571",
+    "print_url": "https://zxpress.ru/print.php?id=7571",
+    "title_link": "Конкурс - Конкурс на лучший вирус продолжается.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Конкурс_-_Конкурс_на_лучшии_вирус_продолжается"
+  },
+  {
+    "article_id": 7572,
+    "article_url": "https://zxpress.ru/article.php?id=7572",
+    "print_url": "https://zxpress.ru/print.php?id=7572",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

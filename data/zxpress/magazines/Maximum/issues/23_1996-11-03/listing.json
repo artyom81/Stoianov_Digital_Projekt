@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 169,
+    "article_url": "https://zxpress.ru/article.php?id=169",
+    "print_url": "https://zxpress.ru/print.php?id=169",
+    "title_link": "Предисловие - О планах редакции газеты.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "Предисловие_-_О_планах_редакции_газеты"
+  },
+  {
+    "article_id": 170,
+    "article_url": "https://zxpress.ru/article.php?id=170",
+    "print_url": "https://zxpress.ru/print.php?id=170",
+    "title_link": "Сплошные приколы - Сборник высказываний советских офицеров (продолжение).",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Сплошные_приколы_-_Сборник_высказывании_советских_офицеров_п"
+  },
+  {
+    "article_id": 12247,
+    "article_url": "https://zxpress.ru/article.php?id=12247",
+    "print_url": "https://zxpress.ru/print.php?id=12247",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12248,
+    "article_url": "https://zxpress.ru/article.php?id=12248",
+    "print_url": "https://zxpress.ru/print.php?id=12248",
+    "title_link": "Видео - Комедия \"Бархонов и его телохранитель\".",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Видео_-_Комедия_Бархонов_и_его_телохранитель"
+  },
+  {
+    "article_id": 12249,
+    "article_url": "https://zxpress.ru/article.php?id=12249",
+    "print_url": "https://zxpress.ru/print.php?id=12249",
+    "title_link": "Разбиралка - Описание игры BATMAN THE BIRD in the HAND.",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Разбиралка_-_Описание_игры_BATMAN_THE_BIRD_in_the_HAND"
+  },
+  {
+    "article_id": 12250,
+    "article_url": "https://zxpress.ru/article.php?id=12250",
+    "print_url": "https://zxpress.ru/print.php?id=12250",
+    "title_link": "Версии - 2 версии игры: JAWS.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Версии_-_2_версии_игры_JAWS"
+  },
+  {
+    "article_id": 12251,
+    "article_url": "https://zxpress.ru/article.php?id=12251",
+    "print_url": "https://zxpress.ru/print.php?id=12251",
+    "title_link": "Розыск - Разыскиваются: CAVEMANIA & NIGHT SHIT...",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Розыск_-_Разыскиваются_CAVEMANIA_NIGHT_SHIT"
+  },
+  {
+    "article_id": 12252,
+    "article_url": "https://zxpress.ru/article.php?id=12252",
+    "print_url": "https://zxpress.ru/print.php?id=12252",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6536,
+    "article_url": "https://zxpress.ru/article.php?id=6536",
+    "print_url": "https://zxpress.ru/print.php?id=6536",
+    "title_link": "INTRO - Бред какой то.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "INTRO_-_Бред_какои_то"
+  },
+  {
+    "article_id": 6537,
+    "article_url": "https://zxpress.ru/article.php?id=6537",
+    "print_url": "https://zxpress.ru/print.php?id=6537",
+    "title_link": "Сплетни SCEN'ы - Новости.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Сплетни_SCENы_-_Новости"
+  },
+  {
+    "article_id": 6538,
+    "article_url": "https://zxpress.ru/article.php?id=6538",
+    "print_url": "https://zxpress.ru/print.php?id=6538",
+    "title_link": "HARD - KEMPSTON MOUSE INTERFACE.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "HARD_-_KEMPSTON_MOUSE_INTERFACE"
+  },
+  {
+    "article_id": 6539,
+    "article_url": "https://zxpress.ru/article.php?id=6539",
+    "print_url": "https://zxpress.ru/print.php?id=6539",
+    "title_link": "Ремонт - Продолжение цикла \"Ремонт Пентагона\".",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Ремонт_-_Продолжение_цикла_Ремонт_Пентагона"
+  },
+  {
+    "article_id": 6540,
+    "article_url": "https://zxpress.ru/article.php?id=6540",
+    "print_url": "https://zxpress.ru/print.php?id=6540",
+    "title_link": "911 - Прохождение DIZZY-7",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "911_-_Прохождение_DIZZY-7"
+  },
+  {
+    "article_id": 6541,
+    "article_url": "https://zxpress.ru/article.php?id=6541",
+    "print_url": "https://zxpress.ru/print.php?id=6541",
+    "title_link": "8) - Юмор",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "8_-_Юмор"
+  },
+  {
+    "article_id": 6542,
+    "article_url": "https://zxpress.ru/article.php?id=6542",
+    "print_url": "https://zxpress.ru/print.php?id=6542",
+    "title_link": "Credits - Кто трудился над номером, контакты...",
+    "order": 7,
+    "issue_label": "19",
+    "short_slug": "Credits_-_Кто_трудился_над_номером_контакты"
+  }
+]

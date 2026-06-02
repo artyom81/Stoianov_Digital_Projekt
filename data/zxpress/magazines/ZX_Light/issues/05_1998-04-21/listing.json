@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 12683,
+    "article_url": "https://zxpress.ru/article.php?id=12683",
+    "print_url": "https://zxpress.ru/print.php?id=12683",
+    "title_link": "Введение - у нашей газеты \r\nтеперь новый VIEW`er.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Введение_-_у_нашеи_газеты_теперь_новыи_VIEWer"
+  },
+  {
+    "article_id": 12684,
+    "article_url": "https://zxpress.ru/article.php?id=12684",
+    "print_url": "https://zxpress.ru/print.php?id=12684",
+    "title_link": "Новости - в шестом номере будет поддержка GENERAL SOUNDа.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Новости_-_в_шестом_номере_будет_поддержка_GENERAL_SOUNDа"
+  },
+  {
+    "article_id": 12685,
+    "article_url": "https://zxpress.ru/article.php?id=12685",
+    "print_url": "https://zxpress.ru/print.php?id=12685",
+    "title_link": "Интервью - интервью с художником FL.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Интервью_-_интервью_с_художником_FL"
+  },
+  {
+    "article_id": 12686,
+    "article_url": "https://zxpress.ru/article.php?id=12686",
+    "print_url": "https://zxpress.ru/print.php?id=12686",
+    "title_link": "Софт - о Черном Вороне.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Софт_-_о_Черном_Вороне"
+  },
+  {
+    "article_id": 12687,
+    "article_url": "https://zxpress.ru/article.php?id=12687",
+    "print_url": "https://zxpress.ru/print.php?id=12687",
+    "title_link": "Music found - разговор об\r\nМузыкальныx редактораx для ZX Spectrum.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Music_found_-_разговор_обМузыкальныx_редактораx_для_ZX_Spect"
+  },
+  {
+    "article_id": 12688,
+    "article_url": "https://zxpress.ru/article.php?id=12688",
+    "print_url": "https://zxpress.ru/print.php?id=12688",
+    "title_link": "TOP 5 - Пятерка игрушек.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "TOP_5_-_Пятерка_игрушек"
+  },
+  {
+    "article_id": 12689,
+    "article_url": "https://zxpress.ru/article.php?id=12689",
+    "print_url": "https://zxpress.ru/print.php?id=12689",
+    "title_link": "Юмор - На кладбище ветер свищет, На кладбище нищий дрищет...",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_На_кладбище_ветер_свищет_На_кладбище_нищии_дрищет"
+  },
+  {
+    "article_id": 12690,
+    "article_url": "https://zxpress.ru/article.php?id=12690",
+    "print_url": "https://zxpress.ru/print.php?id=12690",
+    "title_link": "Hellos - приветы.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Hellos_-_приветы"
+  },
+  {
+    "article_id": 12691,
+    "article_url": "https://zxpress.ru/article.php?id=12691",
+    "print_url": "https://zxpress.ru/print.php?id=12691",
+    "title_link": "Реклама - всегда есть в продаже дисководы, \r\n мониторы, компьютеры SРECTRUМ 48-768k.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_всегда_есть_в_продаже_дисководы_мониторы_компьютер"
+  }
+]

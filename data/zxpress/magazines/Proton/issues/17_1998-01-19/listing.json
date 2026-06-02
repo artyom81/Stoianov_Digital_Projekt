@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16632,
+    "article_url": "https://zxpress.ru/article.php?id=16632",
+    "print_url": "https://zxpress.ru/print.php?id=16632",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16633,
+    "article_url": "https://zxpress.ru/article.php?id=16633",
+    "print_url": "https://zxpress.ru/print.php?id=16633",
+    "title_link": "Астрология - Астрологический прогноз на предстоящую неделю.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Астрология_-_Астрологическии_прогноз_на_предстоящую_неделю"
+  },
+  {
+    "article_id": 16634,
+    "article_url": "https://zxpress.ru/article.php?id=16634",
+    "print_url": "https://zxpress.ru/print.php?id=16634",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16635,
+    "article_url": "https://zxpress.ru/article.php?id=16635",
+    "print_url": "https://zxpress.ru/print.php?id=16635",
+    "title_link": "От авторов - Редакция.",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

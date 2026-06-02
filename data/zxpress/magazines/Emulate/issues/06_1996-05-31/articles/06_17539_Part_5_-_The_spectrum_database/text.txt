@@ -1,0 +1,124 @@
+06 - Part 5 - The spectrum database.
+==========================================
+*************************************
+*  PART 5  - THE SPECTRUM DATABASE  *
+*************************************
+
+Reveiwed by Stephen Smith
+
+Okay, I know what you're thinking - why am
+I  writing  this?  (I hope you're thinking
+that anyway, otherwise you don't know much
+about  the  Spectrum games Database). It's
+like  Julian  Gollop  reveiwing  Rebelstar
+Raiders,    or    Pete   Cooke   reviewing
+Micronought   One.   Yes,  I  created  the
+database and have even written quite a few
+entries  for  it  as well. However, I will
+try to remain as impartial as possible.
+
+The  original  idea  of the Spectrum Games
+Database  (or  SGD  as I will now refer to
+it, since I am not being paid by the word.
+In  fact I don't think I'm getting paid at
+all...)  was  to  be  a  complete  tome of
+knowledge  regarding  Spectrum  games. And
+this  is  still the goal, although I might
+extend   it   to  include  every  Spectrum
+program rather than just games.
+
+I  used to hate it when I would download a
+Spectrum  game from an ftp site, load into
+my  emulator,  and  then not know what the
+Hell  to  do.  Unfortunately,  due  to the
+sheer number of Spectrum games, I do still
+have  this  problem when I download a game
+that  doesn't  have  an  entry,  but  that
+number  of  games  is  decreasing  all the
+time.
+
+So   how  do  I  get  an  entry?  This  is
+simplicity  itself.  All you have to do is
+go   to  the  SGD  web  site,  located  at
+www.hermetica.com/technologia/sinclair
+/stevo/gamedbs/gamedbs.html.   From  there
+you  are  greeted  with  an excellent logo
+(drawn by Paulo "Nusco" Perotta) long page
+of  text, much like this, of me explaining
+what  it's  all  about.  If  you are lucky
+enough  to  own  a  web  browser  that can
+handle  frames,  down  the  left hand side
+will   be  the  letters  of  the  alphabet
+starting  with  "Nos"  (obviously). If you
+don't,   then  you  will  need  to  scroll
+further  down  the  page  for  this  list.
+Anyway,  should  you  click  on any of the
+letters,  you  will  be taken to a list of
+Spectrum   games   that  start  with  this
+letter.  I  do not know if these lists are
+complete  (chances are "no"), but they are
+getting  there.  Some  of  them  are  even
+links,  and  this  is  how  you  access an
+entry.
+
+Each entry is a text file with the name of
+the  game  at  the  top, and is divided up
+into sections, for example "publisher" and
+"controls"  etc...  Each  entry  is slowly
+building up into everything that you could
+ever know about the game, from how to play
+it to where to find it to what the reviews
+in the magazines were.
+
+The  SGD  is  looking  for as much help as
+possible.  One  of  the great things about
+the  Spectrum  was that there were so many
+games.  This does mean that each one needs
+instructions,   and  so  I  am  constantly
+asking  people  to  write  entries for the
+database.  At  the  moment the entries are
+coming  in faster than ever, and in fact I
+am  having  trouble  keeping up. But don't
+let this stop you.
+
+There  was  a  bit of a problem previously
+with some of the links not going anywhere,
+but  that  has now been sorted. Admittedly
+this can be annoying, but we are doing our
+best. However, problems aside, its turning
+into  a great success, and it could be the
+next Internet Movie Database. Indeed, what
+of  the  future? Maybe a front end similar
+to  the IMdB, to help you even find a game
+that you didn't know you you wanted?
+
+COMMENTS:
+"Well,  sume  of  dem links dint work, but
+fer  those  that  did, it wus gweat. I was
+'aving  trouble  workin oot what was going
+orn  in  Manic  Miner,  but this sortid me
+out. But what's the key fer shoot?"
+
+"It's a great idea, and that Stephen Smith
+should be given a meddle. In fact, I think
+every    person    who    subscribes    to
+comp.sys.sinclair   should   send   him  a
+tenner."
+
+"What's a Spectrum?  Hello?"
+
+"I'm a Commodore User." [smack] "Urgh."
+
+Playability: 10%  - Well, it's not really
+                    a game.
+Graphics:    100% - What graphics there
+                    are (1 logo) is
+                    excellent.
+Sound:       0%   - Er, there is none.
+Lastability: 100% - This one will run and
+                    run. It's improving
+                    all the time.
+Overall:     100% - Hey, I tried to be
+                    impartial!
+
+==========================================

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 47,
+    "article_url": "https://zxpress.ru/article.php?id=47",
+    "print_url": "https://zxpress.ru/print.php?id=47",
+    "title_link": "B.B.S. Новости - Появился новичок Rabbit BBS.\r\n О иммитаторе сети ZxNet.",
+    "order": 1,
+    "issue_label": "53",
+    "short_slug": "BBS_Новости_-_Появился_новичок_Rabbit_BBS_О_иммитаторе_сети"
+  },
+  {
+    "article_id": 2366,
+    "article_url": "https://zxpress.ru/article.php?id=2366",
+    "print_url": "https://zxpress.ru/print.php?id=2366",
+    "title_link": "Enlight'96 - Первые результаты Enlight'96.",
+    "order": 2,
+    "issue_label": "53",
+    "short_slug": "Enlight96_-_Первые_результаты_Enlight96"
+  },
+  {
+    "article_id": 2367,
+    "article_url": "https://zxpress.ru/article.php?id=2367",
+    "print_url": "https://zxpress.ru/print.php?id=2367",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 3,
+    "issue_label": "53",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2368,
+    "article_url": "https://zxpress.ru/article.php?id=2368",
+    "print_url": "https://zxpress.ru/print.php?id=2368",
+    "title_link": "ZXNet - О точках входа в сеть ZXNet.",
+    "order": 4,
+    "issue_label": "53",
+    "short_slug": "ZXNet_-_О_точках_входа_в_сеть_ZXNet"
+  },
+  {
+    "article_id": 2365,
+    "article_url": "https://zxpress.ru/article.php?id=2365",
+    "print_url": "https://zxpress.ru/print.php?id=2365",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "53",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 17991,
+    "article_url": "https://zxpress.ru/article.php?id=17991",
+    "print_url": "https://zxpress.ru/print.php?id=17991",
+    "title_link": "Новости - В городе появился новый железячник Евгений Серёгин.",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "Новости_-_В_городе_появился_новыи_железячник_Евгении_Серегин"
+  },
+  {
+    "article_id": 17992,
+    "article_url": "https://zxpress.ru/article.php?id=17992",
+    "print_url": "https://zxpress.ru/print.php?id=17992",
+    "title_link": "Опрос - какие у вас ПЗУ.",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "Опрос_-_какие_у_вас_ПЗУ"
+  },
+  {
+    "article_id": 17993,
+    "article_url": "https://zxpress.ru/article.php?id=17993",
+    "print_url": "https://zxpress.ru/print.php?id=17993",
+    "title_link": "Про список - как составлялся список активных спектрумистов.",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Про_список_-_как_составлялся_список_активных_спектрумистов"
+  },
+  {
+    "article_id": 17994,
+    "article_url": "https://zxpress.ru/article.php?id=17994",
+    "print_url": "https://zxpress.ru/print.php?id=17994",
+    "title_link": "Конец - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "Конец_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

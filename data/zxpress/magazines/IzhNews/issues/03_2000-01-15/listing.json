@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4872,
+    "article_url": "https://zxpress.ru/article.php?id=4872",
+    "print_url": "https://zxpress.ru/print.php?id=4872",
+    "title_link": "Вступление - третий номер не заставил себя долго ждать.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_третии_номер_не_заставил_себя_долго_ждать"
+  },
+  {
+    "article_id": 4873,
+    "article_url": "https://zxpress.ru/article.php?id=4873",
+    "print_url": "https://zxpress.ru/print.php?id=4873",
+    "title_link": "Об авторах - о тех, кто трудился над созданием этого номера.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Об_авторах_-_о_тех_кто_трудился_над_созданием_этого_номера"
+  },
+  {
+    "article_id": 4874,
+    "article_url": "https://zxpress.ru/article.php?id=4874",
+    "print_url": "https://zxpress.ru/print.php?id=4874",
+    "title_link": "Новости - пополнение в группе Vish Soft.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Новости_-_пополнение_в_группе_Vish_Soft"
+  },
+  {
+    "article_id": 4875,
+    "article_url": "https://zxpress.ru/article.php?id=4875",
+    "print_url": "https://zxpress.ru/print.php?id=4875",
+    "title_link": "Письмо - критическое письмо в адрес редакции газеты.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Письмо_-_критическое_письмо_в_адрес_редакции_газеты"
+  },
+  {
+    "article_id": 4876,
+    "article_url": "https://zxpress.ru/article.php?id=4876",
+    "print_url": "https://zxpress.ru/print.php?id=4876",
+    "title_link": "Глюки - эссе о глюках, фичах и прочих неприятностях.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Глюки_-_эссе_о_глюках_фичах_и_прочих_неприятностях"
+  },
+  {
+    "article_id": 4877,
+    "article_url": "https://zxpress.ru/article.php?id=4877",
+    "print_url": "https://zxpress.ru/print.php?id=4877",
+    "title_link": "Железо - о полезных для Спектрума железках: Sounddrive.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Железо_-_о_полезных_для_Спектрума_железках_Sounddrive"
+  },
+  {
+    "article_id": 18084,
+    "article_url": "https://zxpress.ru/article.php?id=18084",
+    "print_url": "https://zxpress.ru/print.php?id=18084",
+    "title_link": "Железо - о полезных для Спектрума железках: Vicomm Modem.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Железо_-_о_полезных_для_Спектрума_железках_Vicomm_Modem"
+  },
+  {
+    "article_id": 18085,
+    "article_url": "https://zxpress.ru/article.php?id=18085",
+    "print_url": "https://zxpress.ru/print.php?id=18085",
+    "title_link": "Железо - о полезных для Спектрума железках: расширение памаяти на Simm.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Железо_-_о_полезных_для_Спектрума_железках_расширение_памаят"
+  }
+]

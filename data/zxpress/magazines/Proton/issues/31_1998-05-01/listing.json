@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16729,
+    "article_url": "https://zxpress.ru/article.php?id=16729",
+    "print_url": "https://zxpress.ru/print.php?id=16729",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS,",
+    "order": 1,
+    "issue_label": "31",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16730,
+    "article_url": "https://zxpress.ru/article.php?id=16730",
+    "print_url": "https://zxpress.ru/print.php?id=16730",
+    "title_link": "CDOS-модем - В предыдущем номере Proton'а было написано о небольшой доработке модема для корректной работы EMS.",
+    "order": 2,
+    "issue_label": "31",
+    "short_slug": "CDOS-модем_-_В_предыдущем_номере_Protonа_было_написано_о_неб"
+  },
+  {
+    "article_id": 16731,
+    "article_url": "https://zxpress.ru/article.php?id=16731",
+    "print_url": "https://zxpress.ru/print.php?id=16731",
+    "title_link": "EMS - Наверное уже практически не осталось в Московской сетке человека, не слышавшего что-либо о новой терминальной программе.",
+    "order": 3,
+    "issue_label": "31",
+    "short_slug": "EMS_-_Наверное_уже_практически_не_осталось_в_Московскои_сетк"
+  },
+  {
+    "article_id": 16732,
+    "article_url": "https://zxpress.ru/article.php?id=16732",
+    "print_url": "https://zxpress.ru/print.php?id=16732",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "31",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16733,
+    "article_url": "https://zxpress.ru/article.php?id=16733",
+    "print_url": "https://zxpress.ru/print.php?id=16733",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "31",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16734,
+    "article_url": "https://zxpress.ru/article.php?id=16734",
+    "print_url": "https://zxpress.ru/print.php?id=16734",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "31",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

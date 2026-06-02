@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 9121,
+    "article_url": "https://zxpress.ru/article.php?id=9121",
+    "print_url": "https://zxpress.ru/print.php?id=9121",
+    "title_link": "Введение - Новая листалка-читалка ZX-PILOT'а.",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "Введение_-_Новая_листалка-читалка_ZX-PILOTа"
+  },
+  {
+    "article_id": 9122,
+    "article_url": "https://zxpress.ru/article.php?id=9122",
+    "print_url": "https://zxpress.ru/print.php?id=9122",
+    "title_link": "Новости - Газете 2 года.",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "Новости_-_Газете_2_года"
+  },
+  {
+    "article_id": 9123,
+    "article_url": "https://zxpress.ru/article.php?id=9123",
+    "print_url": "https://zxpress.ru/print.php?id=9123",
+    "title_link": "Наш гость - Сегодня в гостях SOBOS из AREASOFT.",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Наш_гость_-_Сегодня_в_гостях_SOBOS_из_AREASOFT"
+  },
+  {
+    "article_id": 9124,
+    "article_url": "https://zxpress.ru/article.php?id=9124",
+    "print_url": "https://zxpress.ru/print.php?id=9124",
+    "title_link": "Разберемся - Описание игры KLIATBA NOCI (Клятва Ночи).",
+    "order": 4,
+    "issue_label": "30",
+    "short_slug": "Разберемся_-_Описание_игры_KLIATBA_NOCI_Клятва_Ночи"
+  },
+  {
+    "article_id": 9125,
+    "article_url": "https://zxpress.ru/article.php?id=9125",
+    "print_url": "https://zxpress.ru/print.php?id=9125",
+    "title_link": "Амига - О возможностях AMIGA 600 в сравнении с IBM PC 386.",
+    "order": 5,
+    "issue_label": "30",
+    "short_slug": "Амига_-_О_возможностях_AMIGA_600_в_сравнении_с_IBM_PC_386"
+  },
+  {
+    "article_id": 9126,
+    "article_url": "https://zxpress.ru/article.php?id=9126",
+    "print_url": "https://zxpress.ru/print.php?id=9126",
+    "title_link": "HARD and SOFT - Подключение CGS монитора к Спектруму.",
+    "order": 6,
+    "issue_label": "30",
+    "short_slug": "HARD_and_SOFT_-_Подключение_CGS_монитора_к_Спектруму"
+  },
+  {
+    "article_id": 9127,
+    "article_url": "https://zxpress.ru/article.php?id=9127",
+    "print_url": "https://zxpress.ru/print.php?id=9127",
+    "title_link": "COMPLEX COMPO - Виртуальный фестиваль компьютерного искусства в\r\n Польше.",
+    "order": 7,
+    "issue_label": "30",
+    "short_slug": "COMPLEX_COMPO_-_Виртуальныи_фестиваль_компьютерного_искусств"
+  },
+  {
+    "article_id": 9128,
+    "article_url": "https://zxpress.ru/article.php?id=9128",
+    "print_url": "https://zxpress.ru/print.php?id=9128",
+    "title_link": "О разном - О судьбе Спекки. Сколько можно жевать сопли по\r\n PC и AMIGA!",
+    "order": 8,
+    "issue_label": "30",
+    "short_slug": "О_разном_-_О_судьбе_Спекки_Сколько_можно_жевать_сопли_по_PC"
+  },
+  {
+    "article_id": 9129,
+    "article_url": "https://zxpress.ru/article.php?id=9129",
+    "print_url": "https://zxpress.ru/print.php?id=9129",
+    "title_link": "BIRTHDAY - С днем рождения SOBOS, POL, BIT MASTER.",
+    "order": 9,
+    "issue_label": "30",
+    "short_slug": "BIRTHDAY_-_С_днем_рождения_SOBOS_POL_BIT_MASTER"
+  },
+  {
+    "article_id": 9130,
+    "article_url": "https://zxpress.ru/article.php?id=9130",
+    "print_url": "https://zxpress.ru/print.php?id=9130",
+    "title_link": "Сделай сам - Распечатай себе календарь на 1999 год.",
+    "order": 10,
+    "issue_label": "30",
+    "short_slug": "Сделаи_сам_-_Распечатаи_себе_календарь_на_1999_год"
+  },
+  {
+    "article_id": 9131,
+    "article_url": "https://zxpress.ru/article.php?id=9131",
+    "print_url": "https://zxpress.ru/print.php?id=9131",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 11,
+    "issue_label": "30",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9132,
+    "article_url": "https://zxpress.ru/article.php?id=9132",
+    "print_url": "https://zxpress.ru/print.php?id=9132",
+    "title_link": "Credits - авторы газеты.",
+    "order": 12,
+    "issue_label": "30",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

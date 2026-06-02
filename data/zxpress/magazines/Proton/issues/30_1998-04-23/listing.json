@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16723,
+    "article_url": "https://zxpress.ru/article.php?id=16723",
+    "print_url": "https://zxpress.ru/print.php?id=16723",
+    "title_link": "BSS - Сетевые новости. ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "BSS_-_Сетевые_новости_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16724,
+    "article_url": "https://zxpress.ru/article.php?id=16724",
+    "print_url": "https://zxpress.ru/print.php?id=16724",
+    "title_link": "CDOS-модем - В одном из предыдущих номеров нашей газеты мы опубликовали статью о настройке модема, так чтобы работала EMS.",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "CDOS-модем_-_В_одном_из_предыдущих_номеров_нашеи_газеты_мы_о"
+  },
+  {
+    "article_id": 16725,
+    "article_url": "https://zxpress.ru/article.php?id=16725",
+    "print_url": "https://zxpress.ru/print.php?id=16725",
+    "title_link": "Кодинг - На этот раз я расскажу о выводе на экран 64 символов в строке.",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Кодинг_-_На_этот_раз_я_расскажу_о_выводе_на_экран_64_символо"
+  },
+  {
+    "article_id": 16726,
+    "article_url": "https://zxpress.ru/article.php?id=16726",
+    "print_url": "https://zxpress.ru/print.php?id=16726",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "30",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16727,
+    "article_url": "https://zxpress.ru/article.php?id=16727",
+    "print_url": "https://zxpress.ru/print.php?id=16727",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "30",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16728,
+    "article_url": "https://zxpress.ru/article.php?id=16728",
+    "print_url": "https://zxpress.ru/print.php?id=16728",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "30",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

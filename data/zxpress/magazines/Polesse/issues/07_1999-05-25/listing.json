@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3512,
+    "article_url": "https://zxpress.ru/article.php?id=3512",
+    "print_url": "https://zxpress.ru/print.php?id=3512",
+    "title_link": "Ассемблер - Стек, мнемоника - CALL...",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Ассемблер_-_Стек_мнемоника_-_CALL"
+  },
+  {
+    "article_id": 3510,
+    "article_url": "https://zxpress.ru/article.php?id=3510",
+    "print_url": "https://zxpress.ru/print.php?id=3510",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3511,
+    "article_url": "https://zxpress.ru/article.php?id=3511",
+    "print_url": "https://zxpress.ru/print.php?id=3511",
+    "title_link": "Навезли новья - Обзор новинок ПО: Super Laser Squad, Gambit, Take It, Nether\r\n Earth + 22 Level, TrmsHob, Real Commander v1.61 & 1.7, Best\r\n View v2.8.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_Super_Laser_Squad_Gambit_Ta"
+  },
+  {
+    "article_id": 3513,
+    "article_url": "https://zxpress.ru/article.php?id=3513",
+    "print_url": "https://zxpress.ru/print.php?id=3513",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3509,
+    "article_url": "https://zxpress.ru/article.php?id=3509",
+    "print_url": "https://zxpress.ru/print.php?id=3509",
+    "title_link": "События, факты - Завершение работы над трехлетним проектом Crime Santa Clause\r\n Deja Vu.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "События_факты_-_Завершение_работы_над_трехлетним_проектом_Cr"
+  }
+]

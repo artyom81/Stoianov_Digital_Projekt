@@ -1,0 +1,170 @@
+Scenergy 02 - Coding - процедура быстрого умножения.
+FAST EXPONENTIAL MULTIPLY
+                                                      [baze/3SC]
+
+ Some  smart  man  said  hundreds  years ago: "When there are no
+limits,  there is no creativity". Unfortunately we don't live in
+his  era.  He  would  be  probably  glad to see how Z80 assembly
+coders perform multiply.
+
+ When we look at common calculations, we mostly need to multiply
+some integer by fractional number in range <0, 1>. Good examples
+are sinus, cosinus or perspective. People which are not familiar
+with  fixed  point arithmetics might wonder how to achieve this.
+As always... simply:
+
+1) Pre-multiply fraction by 256 [to make it appear as 8-bit
+   integer].
+2) Multiply our two 8-bit integers.
+3) Divide whole 16-bit result by 256 [actually, just take higher
+   byte].
+
+ This article is about doing it FAST. The main idea is hidden in
+equation:
+
+a * b = exp(log(a) + log(b))    [where LOG is natural logarithm]
+
+ Smart  coder  will immediately find out that we need just three
+table  lookups and one addition. So our first attempt would look
+like:
+
+B, C - operands
+
+        ld      h,LOG      ; set pointer to LOG table
+        ld      l,b
+        ld      a,(hl)     ; get logarithm of the first integer
+        ld      l,c
+        add     a,(hl)     ; add logarithm of the second integer
+        inc     h          ; move to EXP table
+        ld      l,a
+        ld      a,(hl)     ; get higher byte of the result
+
+ Unfortunately,  this  will not work. To prevent ADD A,(HL) from
+overflow  we  must  store  logarithms  with only 7-bit precision
+which  would  cause our results to be inaccurate. What do I mean
+by  7-bit  precision?  Look.  When  we are making LOG table, the
+biggest entry we can get is:
+
+log(255) = 5.54126... => 6
+
+ It is a good idea to pre-multiply all entries by 127 / log(255)
+and  save  the  logarithmic  curve with more precision [so there
+will  be no numbers 0 - 6 but 0 - 127]. Let's call this constant
+S [scale]. Of course, we must slightly modify the calculation of
+EXP table:
+
+for X = 0 to 254
+  EXP[X] = exp(X / S) / 256
+
+ Anyway,  this  is  just  an example. To make our routine really
+work,  we  must  increase  scale. After various experiments with
+Busy  we found out that 10-bits is optimum. Results are accurate
+[many  times  they  are  even  correctly  rounded!]  and  memory
+requirements are still acceptable. Logarithms are no more 8-bit.
+They  are  stored  in 512 bytes long table. EXP table has 1024 +
+1024  entries  and  S  =  1023 / log(255). So we can move a step
+forward and write our second attempt:
+
+        ld      h,LOG           ; set pointer to LOG table
+        ld      l,b
+        ld      e,(hl)
+        inc     h
+        ld      d,(hl)          ; store logarithm of B into DE
+        ld      l,c
+        ld      b,(hl)
+        dec     h
+        ld      c,(hl)          ; store logarithm of C into BC
+>       ld      hl,EXP          ; set pointer to EXP table
+>       add     hl,bc
+        add     hl,de
+        ld      a,(hl)          ; get the result
+
+ This   routine   would  work  perfectly.  Anyway,  it  has  one
+disatvantage  -  it  can  be  faster. We can cut off highlighted
+instructions  by  famous  table  offset  trick.  Imagine that we
+stored  EXP  table at address 200 * 256. Look what happens if we
+increase higher byte of logarithms by 100:
+
+ld      h,LOG
+ld      l,b
+ld      e,(hl)   ; get lower byte of log(B)
+inc     h
+ld      d,(hl)   ; get higher byte of log(B) increased by 100
+ld      l,c
+ld      a,(hl)   ; get higher byte of log(C) increased by 100
+dec     h
+ld      l,(hl)   ; get lower byte of log(C)
+ld      h,a      ; store complete logarithms into HL and DE
+add     hl,de    ; 100 + 100 = 200! we have pointer to EXP table
+ld      a,(hl)   ; get the result
+
+We have just developed complete multiply in 73 T!
+ Now  let's  talk  about  handling negative numbers. It would be
+nice  to  call the same routine dependless of operand signs. And
+it  is  possible to do it. We will just extend our trick and add
+two different table offsets to higher byte of the logarithm. One
+for  positive  numbers  [entries  0  - 127] and one for negative
+numbers  [entries  128 - 255]. Since EXP table is 2048 [8 * 256]
+bytes  long, difference between these values must be at least 8.
+Let's  take values 100 and 108 for example and make out possible
+variations:
+
+               [+] * [+] = [+]    [+] * [-] = [-]
+               100 + 100 = 200    100 + 108 = 208
+
+               [-] * [+] = [-]    [-] * [-] = [+]
+               108 + 100 = 208    108 + 108 = 216
+
+ So,  at  address  200  *  256 will begin ordinary EXP table. At
+address  208  *  256  will  be  stored  EXP  table with negative
+results.  And  once  again,  there will be ordinary positive EXP
+table at address 216 * 256. We will lose 6K of memory instead of
+2K,  but  we don't need to care about signs. In addition, tables
+will be more accurate. Because all integers will lie in interval
+<-127, 127>, we can use S = 1023 / log(127).
+
+ Those  of you which are extremely smart can ask: "Hah! And what
+if  one  operand  will  be  zero? Everybody knows that log(0) is
+undefined!".  Yes...  but  can  we  give  up  after such voyage?
+Definitely no! We just fill table entries for log(0) with zeroes
+[but  we  must  add  correct  table offsets to higher byte]. The
+worsest  case  is: log(0) + log(127). When we add them together,
+we  will  get  1023  [supposing that logarithms were scaled] and
+final result will be:
+
+exp(1023 / S) = 255
+
+ Since  higher  byte  of 255 is 0, our problem is solved. If you
+decide  to  use  correct  rounding  you can get value 1. In most
+cases  nobody  will  notice  this little inaccuracy. However, it
+depends  on  the  nature  of  whole problem. Either we decide to
+round  [and  risk]  or  to  ignore fractional part [and make all
+multiplies  slightly  inaccurate]. It's upon you. I suppose that
+nobody will make any additional zero checks.
+
+ Finally,  I  will  put  there X * sin(Y) routine, which is very
+useful   in   vector  rotations.  The  only  difference  between
+"classic"  multiply and this routine is in additional LOG table,
+which  actually contains no S * log(abs(Y)), but S * log(abs(127
+*  sin(Y  * PI / 128))) entries. If you are wondering about ABS,
+you  better  jump  few pages back and think again about handling
+signs by table offsets.
+
+        ld      h,LOG
+        ld      l,b
+        ld      e,(hl)
+        inc     h
+        ld      d,(hl)          ; get log(B)
+        inc     h
+        ld      l,c
+        ld      a,(hl)
+        inc     h
+        ld      h,(hl)
+        ld      l,a             ; get log(sin(C))
+        add     hl,de
+        ld      a,(hl)          ; and we are finished
+
+ You  will probably spend lot of time by building tables, but it
+is well worth the effort. See ya next time.
+
+-baze-3SC->

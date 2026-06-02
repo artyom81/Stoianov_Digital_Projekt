@@ -1,0 +1,15 @@
+{
+  "magazine_id": 123,
+  "magazine_name": "Mirage",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "0000-01-01",
+  "order": 5,
+  "article_id": 130,
+  "title_link": "Предисловие - Разношерстная газета.",
+  "title_h1": "Maximum 02 - Предисловие - Разношерстная газета.",
+  "print_url": "https://zxpress.ru/print.php?id=130",
+  "article_url": "https://zxpress.ru/article.php?id=130",
+  "fetched_at": "2026-05-31T22:26:57Z"
+}

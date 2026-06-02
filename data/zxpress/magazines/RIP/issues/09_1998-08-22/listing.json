@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 2230,
+    "article_url": "https://zxpress.ru/article.php?id=2230",
+    "print_url": "https://zxpress.ru/print.php?id=2230",
+    "title_link": "Interview - Интервью zHenYa - сценер из Литвы.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Interview_-_Интервью_zHenYa_-_сценер_из_Литвы"
+  },
+  {
+    "article_id": 2228,
+    "article_url": "https://zxpress.ru/article.php?id=2228",
+    "print_url": "https://zxpress.ru/print.php?id=2228",
+    "title_link": "Intro - Вчера в Москве прошел FunTop'98.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Intro_-_Вчера_в_Москве_прошел_FunTop98"
+  },
+  {
+    "article_id": 2231,
+    "article_url": "https://zxpress.ru/article.php?id=2231",
+    "print_url": "https://zxpress.ru/print.php?id=2231",
+    "title_link": "Outro - Следующий номер, возможно, будет на шведском.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Outro_-_Следующии_номер_возможно_будет_на_шведском"
+  },
+  {
+    "article_id": 2229,
+    "article_url": "https://zxpress.ru/article.php?id=2229",
+    "print_url": "https://zxpress.ru/print.php?id=2229",
+    "title_link": "Post... - Письмо из Швеции.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Post_-_Письмо_из_Швеции"
+  }
+]

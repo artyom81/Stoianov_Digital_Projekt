@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1999-05-29",
+  "order": 8,
+  "article_id": 10391,
+  "title_link": "Реклама - Пpодается пpинтеp МС 6337. Hедоpого.",
+  "title_h1": "City 13 - Реклама - Пpодается пpинтеp МС 6337. Hедоpого.",
+  "print_url": "https://zxpress.ru/print.php?id=10391",
+  "article_url": "https://zxpress.ru/article.php?id=10391",
+  "fetched_at": "2026-05-31T21:50:28Z"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 14380,
+    "article_url": "https://zxpress.ru/article.php?id=14380",
+    "print_url": "https://zxpress.ru/print.php?id=14380",
+    "title_link": "Хит - ТОП 10 игр для Спектрума.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Хит_-_ТОП_10_игр_для_Спектрума"
+  },
+  {
+    "article_id": 14381,
+    "article_url": "https://zxpress.ru/article.php?id=14381",
+    "print_url": "https://zxpress.ru/print.php?id=14381",
+    "title_link": "Система - описание ассемблерa MASM (Master Assembler v1.0 for 128k).",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Система_-_описание_ассемблерa_MASM_Master_Assembler_v10_for"
+  },
+  {
+    "article_id": 14382,
+    "article_url": "https://zxpress.ru/article.php?id=14382",
+    "print_url": "https://zxpress.ru/print.php?id=14382",
+    "title_link": "Игры - описание игры Fighter Bomber.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Игры_-_описание_игры_Fighter_Bomber"
+  },
+  {
+    "article_id": 14383,
+    "article_url": "https://zxpress.ru/article.php?id=14383",
+    "print_url": "https://zxpress.ru/print.php?id=14383",
+    "title_link": "Новости - Вплотную занялись написанием своей игры HAMON 4.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Вплотную_занялись_написанием_своеи_игры_HAMON_4"
+  },
+  {
+    "article_id": 14384,
+    "article_url": "https://zxpress.ru/article.php?id=14384",
+    "print_url": "https://zxpress.ru/print.php?id=14384",
+    "title_link": "Обзор - Spectrofon 20, Space Gun, Doom, Paradise Lost.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Обзор_-_Spectrofon_20_Space_Gun_Doom_Paradise_Lost"
+  },
+  {
+    "article_id": 14385,
+    "article_url": "https://zxpress.ru/article.php?id=14385",
+    "print_url": "https://zxpress.ru/print.php?id=14385",
+    "title_link": "Почтовый ящик - Так-как это первый выпуск нашей газеты, писем пока нет.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Почтовыи_ящик_-_Так-как_это_первыи_выпуск_нашеи_газеты_писем"
+  },
+  {
+    "article_id": 14386,
+    "article_url": "https://zxpress.ru/article.php?id=14386",
+    "print_url": "https://zxpress.ru/print.php?id=14386",
+    "title_link": "Реклама - Продается компьютер \"БАЛТИК 128к\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Продается_компьютер_БАЛТИК_128к"
+  },
+  {
+    "article_id": 5377,
+    "article_url": "https://zxpress.ru/article.php?id=5377",
+    "print_url": "https://zxpress.ru/print.php?id=5377",
+    "title_link": "Scene - IRCmania: \"IRC что же это такое? Первый раз попадая сюда, ты с трудом понимаешь, что твориться вокруг\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Scene_-_IRCmania_IRC_что_же_это_такое_Первыи_раз_попадая_сюд"
+  },
+  {
+    "article_id": 17839,
+    "article_url": "https://zxpress.ru/article.php?id=17839",
+    "print_url": "https://zxpress.ru/print.php?id=17839",
+    "title_link": "A Cure For Travel Sickness",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "A_Cure_For_Travel_Sickness"
+  },
+  {
+    "article_id": 5406,
+    "article_url": "https://zxpress.ru/article.php?id=5406",
+    "print_url": "https://zxpress.ru/print.php?id=5406",
+    "title_link": "ГонЫ - зарифмованый \"Крик\".",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "ГонЫ_-_зарифмованыи_Крик"
+  },
+  {
+    "article_id": 8066,
+    "article_url": "https://zxpress.ru/article.php?id=8066",
+    "print_url": "https://zxpress.ru/print.php?id=8066",
+    "title_link": "Новости - новости от Челябинских спектрумистов.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новости_от_Челябинских_спектрумистов"
+  },
+  {
+    "article_id": 9358,
+    "article_url": "https://zxpress.ru/article.php?id=9358",
+    "print_url": "https://zxpress.ru/print.php?id=9358",
+    "title_link": "Just i-net - Internet на спектруме, что уже сделано и зачем это нужно.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Just_i-net_-_Internet_на_спектруме_что_уже_сделано_и_зачем_э"
+  }
+]

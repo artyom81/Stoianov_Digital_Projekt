@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 17568,
+    "article_url": "https://zxpress.ru/article.php?id=17568",
+    "print_url": "https://zxpress.ru/print.php?id=17568",
+    "title_link": "Вступление - От авторов.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_От_авторов"
+  },
+  {
+    "article_id": 17569,
+    "article_url": "https://zxpress.ru/article.php?id=17569",
+    "print_url": "https://zxpress.ru/print.php?id=17569",
+    "title_link": "Рассказ - Холостяк.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Рассказ_-_Холостяк"
+  },
+  {
+    "article_id": 17570,
+    "article_url": "https://zxpress.ru/article.php?id=17570",
+    "print_url": "https://zxpress.ru/print.php?id=17570",
+    "title_link": "Учебник - \"Ветви персика\": Многотомное издание индийских монахов, которые пытаются научить духовной и плотской любви людей (продолжение).",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Учебник_-_Ветви_персика_Многотомное_издание_индииских_монахо"
+  }
+]

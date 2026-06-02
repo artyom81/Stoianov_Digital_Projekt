@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1997-12-30",
+  "order": 4,
+  "article_id": 1103,
+  "title_link": "Анекдоты - 22 анекдота...",
+  "title_h1": "Buzz 12 - Анекдоты - 22 анекдота...",
+  "print_url": "https://zxpress.ru/print.php?id=1103",
+  "article_url": "https://zxpress.ru/article.php?id=1103",
+  "fetched_at": "2026-05-31T21:47:54Z"
+}

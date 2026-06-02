@@ -1,0 +1,155 @@
+[
+  {
+    "article_id": 5279,
+    "article_url": "https://zxpress.ru/article.php?id=5279",
+    "print_url": "https://zxpress.ru/print.php?id=5279",
+    "title_link": "От редакции - Критика , информация об авторах.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_редакции_-_Критика_информация_об_авторах"
+  },
+  {
+    "article_id": 5280,
+    "article_url": "https://zxpress.ru/article.php?id=5280",
+    "print_url": "https://zxpress.ru/print.php?id=5280",
+    "title_link": "Авторская программа - Презентация редактора шрифтов размером 16x16 пикселей :\r\n Double Font Editor v1.3 и модификатора шрифта.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Авторская_программа_-_Презентация_редактора_шрифтов_размером"
+  },
+  {
+    "article_id": 5281,
+    "article_url": "https://zxpress.ru/article.php?id=5281",
+    "print_url": "https://zxpress.ru/print.php?id=5281",
+    "title_link": "Авторская программа - программа \"Модификатор шрифта\".",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Авторская_программа_-_программа_Модификатор_шрифта"
+  },
+  {
+    "article_id": 5282,
+    "article_url": "https://zxpress.ru/article.php?id=5282",
+    "print_url": "https://zxpress.ru/print.php?id=5282",
+    "title_link": "Авторская программа - демо-версия программы \"Formik Acid\".",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Авторская_программа_-_демо-версия_программы_Formik_Acid"
+  },
+  {
+    "article_id": 5283,
+    "article_url": "https://zxpress.ru/article.php?id=5283",
+    "print_url": "https://zxpress.ru/print.php?id=5283",
+    "title_link": "Авторская программа - Программа для катализации дисков : Chemne Base v0.6.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Авторская_программа_-_Программа_для_катализации_дисков_Chemn"
+  },
+  {
+    "article_id": 5284,
+    "article_url": "https://zxpress.ru/article.php?id=5284",
+    "print_url": "https://zxpress.ru/print.php?id=5284",
+    "title_link": "Авторская программа - NET v1.0 - соединение в сеть нескольких компьютеров ZX Spectrum.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Авторская_программа_-_NET_v10_-_соединение_в_сеть_нескольких"
+  },
+  {
+    "article_id": 5285,
+    "article_url": "https://zxpress.ru/article.php?id=5285",
+    "print_url": "https://zxpress.ru/print.php?id=5285",
+    "title_link": "Программирование - Программа пропорциональной печати и Windows (позволяет\r\n выводить на экран 4 вида окон).",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Программирование_-_Программа_пропорциональнои_печати_и_Windo"
+  },
+  {
+    "article_id": 5286,
+    "article_url": "https://zxpress.ru/article.php?id=5286",
+    "print_url": "https://zxpress.ru/print.php?id=5286",
+    "title_link": "Тусовка - Приветы и высказывания : С.Куксин,К.Феськов,В.Аншуков.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Тусовка_-_Приветы_и_высказывания_СКуксинКФеськовВАншуков"
+  },
+  {
+    "article_id": 5287,
+    "article_url": "https://zxpress.ru/article.php?id=5287",
+    "print_url": "https://zxpress.ru/print.php?id=5287",
+    "title_link": "Стиль - Дизайн интерфейса ваших программ.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Стиль_-_Дизаин_интерфеиса_ваших_программ"
+  },
+  {
+    "article_id": 5288,
+    "article_url": "https://zxpress.ru/article.php?id=5288",
+    "print_url": "https://zxpress.ru/print.php?id=5288",
+    "title_link": "Игроскоп - Описание игры \"Postman Pat-1\".",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Игроскоп_-_Описание_игры_Postman_Pat-1"
+  },
+  {
+    "article_id": 5289,
+    "article_url": "https://zxpress.ru/article.php?id=5289",
+    "print_url": "https://zxpress.ru/print.php?id=5289",
+    "title_link": "Железо - Самодельное сканирующее устройство : принцип работы.",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Железо_-_Самодельное_сканирующее_устроиство_принцип_работы"
+  },
+  {
+    "article_id": 5290,
+    "article_url": "https://zxpress.ru/article.php?id=5290",
+    "print_url": "https://zxpress.ru/print.php?id=5290",
+    "title_link": "Новелла - Новелла \"НЛО - враг неизвестен или охотничьи угодья на\r\n окраине галактики\" (часть 3).",
+    "order": 12,
+    "issue_label": "07",
+    "short_slug": "Новелла_-_Новелла_НЛО_-_враг_неизвестен_или_охотничьи_угодья"
+  },
+  {
+    "article_id": 5291,
+    "article_url": "https://zxpress.ru/article.php?id=5291",
+    "print_url": "https://zxpress.ru/print.php?id=5291",
+    "title_link": "Музобоз - Результаты второго тура конкурса на лучшую музыкальную\r\n демонстрацию.",
+    "order": 13,
+    "issue_label": "07",
+    "short_slug": "Музобоз_-_Результаты_второго_тура_конкурса_на_лучшую_музыкал"
+  },
+  {
+    "article_id": 5292,
+    "article_url": "https://zxpress.ru/article.php?id=5292",
+    "print_url": "https://zxpress.ru/print.php?id=5292",
+    "title_link": "Музобоз - Mitchell отпровергает мнение, о том что мелодии быстрее писать в Sound Tracker Pro чем в АSM.",
+    "order": 14,
+    "issue_label": "07",
+    "short_slug": "Музобоз_-_Mitchell_отпровергает_мнение_о_том_что_мелодии_быс"
+  },
+  {
+    "article_id": 5293,
+    "article_url": "https://zxpress.ru/article.php?id=5293",
+    "print_url": "https://zxpress.ru/print.php?id=5293",
+    "title_link": "Идея - Каким быть видеоконтролеру для ZX-SPECTRUM'a.",
+    "order": 15,
+    "issue_label": "07",
+    "short_slug": "Идея_-_Каким_быть_видеоконтролеру_для_ZX-SPECTRUMa"
+  },
+  {
+    "article_id": 5294,
+    "article_url": "https://zxpress.ru/article.php?id=5294",
+    "print_url": "https://zxpress.ru/print.php?id=5294",
+    "title_link": "Новости от OMEGA HG - Сценарий новой игры \"NAVIGATOR\".",
+    "order": 16,
+    "issue_label": "07",
+    "short_slug": "Новости_от_OMEGA_HG_-_Сценарии_новои_игры_NAVIGATOR"
+  },
+  {
+    "article_id": 5295,
+    "article_url": "https://zxpress.ru/article.php?id=5295",
+    "print_url": "https://zxpress.ru/print.php?id=5295",
+    "title_link": "Реклама - Реклама и обьявления.",
+    "order": 17,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_обьявления"
+  }
+]

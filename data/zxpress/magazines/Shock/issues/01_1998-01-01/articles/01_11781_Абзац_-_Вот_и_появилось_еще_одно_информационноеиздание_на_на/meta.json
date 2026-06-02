@@ -1,0 +1,15 @@
+{
+  "magazine_id": 185,
+  "magazine_name": "Shock",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-01-01",
+  "order": 1,
+  "article_id": 11781,
+  "title_link": "Абзац - Вот и появилось еще одно информационное\r\nиздание на нашей любимом Спектруме.",
+  "title_h1": "Shock 01 - Абзац - Вот и появилось еще одно информационное издание на нашей любимом Спектруме.",
+  "print_url": "https://zxpress.ru/print.php?id=11781",
+  "article_url": "https://zxpress.ru/article.php?id=11781",
+  "fetched_at": "2026-05-31T23:01:03Z"
+}

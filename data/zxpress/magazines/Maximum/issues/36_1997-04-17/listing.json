@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 206,
+    "article_url": "https://zxpress.ru/article.php?id=206",
+    "print_url": "https://zxpress.ru/print.php?id=206",
+    "title_link": "AMIGA NEWS - Будещее - это Амига...",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "AMIGA_NEWS_-_Будещее_-_это_Амига"
+  },
+  {
+    "article_id": 207,
+    "article_url": "https://zxpress.ru/article.php?id=207",
+    "print_url": "https://zxpress.ru/print.php?id=207",
+    "title_link": "Версии - 2 версии игры: KOMANDO 2. Скрытые части в журнале FAULTLES n 2, 3, 4, 5.",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "Версии_-_2_версии_игры_KOMANDO_2_Скрытые_части_в_журнале_FAU"
+  },
+  {
+    "article_id": 205,
+    "article_url": "https://zxpress.ru/article.php?id=205",
+    "print_url": "https://zxpress.ru/print.php?id=205",
+    "title_link": "Вступление - Будет СисОпник.",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Вступление_-_Будет_СисОпник"
+  },
+  {
+    "article_id": 9800,
+    "article_url": "https://zxpress.ru/article.php?id=9800",
+    "print_url": "https://zxpress.ru/print.php?id=9800",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9801,
+    "article_url": "https://zxpress.ru/article.php?id=9801",
+    "print_url": "https://zxpress.ru/print.php?id=9801",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 9799,
+    "article_url": "https://zxpress.ru/article.php?id=9799",
+    "print_url": "https://zxpress.ru/print.php?id=9799",
+    "title_link": "Сплошные приколы - 3 анекдота.",
+    "order": 6,
+    "issue_label": "36",
+    "short_slug": "Сплошные_приколы_-_3_анекдота"
+  }
+]

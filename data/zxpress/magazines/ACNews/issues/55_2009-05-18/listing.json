@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 14663,
+    "article_url": "https://zxpress.ru/article.php?id=14663",
+    "print_url": "https://zxpress.ru/print.php?id=14663",
+    "title_link": "Новости - Комикс, городской конкурс, областной конкурс, untergrund.net, нeмного о музыкe.",
+    "order": 1,
+    "issue_label": "55",
+    "short_slug": "Новости_-_Комикс_городскои_конкурс_областнои_конкурс_untergr"
+  },
+  {
+    "article_id": 14664,
+    "article_url": "https://zxpress.ru/article.php?id=14664",
+    "print_url": "https://zxpress.ru/print.php?id=14664",
+    "title_link": "Ликбез - Немного о русском языке.",
+    "order": 2,
+    "issue_label": "55",
+    "short_slug": "Ликбез_-_Немного_о_русском_языке"
+  },
+  {
+    "article_id": 14665,
+    "article_url": "https://zxpress.ru/article.php?id=14665",
+    "print_url": "https://zxpress.ru/print.php?id=14665",
+    "title_link": "Железо - Немного о NeoGS.",
+    "order": 3,
+    "issue_label": "55",
+    "short_slug": "Железо_-_Немного_о_NeoGS"
+  },
+  {
+    "article_id": 14666,
+    "article_url": "https://zxpress.ru/article.php?id=14666",
+    "print_url": "https://zxpress.ru/print.php?id=14666",
+    "title_link": "Кодинг - О плавных листалках.",
+    "order": 4,
+    "issue_label": "55",
+    "short_slug": "Кодинг_-_О_плавных_листалках"
+  }
+]

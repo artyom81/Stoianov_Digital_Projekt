@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-09-30",
+  "order": 8,
+  "article_id": 5543,
+  "title_link": "Интерфейс - репортаж CPU с CC'999.",
+  "title_h1": "Adventurer 10 - Интерфейс - репортаж CPU с CC'999.",
+  "print_url": "https://zxpress.ru/print.php?id=5543",
+  "article_url": "https://zxpress.ru/article.php?id=5543",
+  "fetched_at": "2026-05-31T21:34:11Z"
+}

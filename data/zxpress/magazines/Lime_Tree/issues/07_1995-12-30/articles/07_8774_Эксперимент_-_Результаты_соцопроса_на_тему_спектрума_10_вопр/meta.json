@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1995-12-30",
+  "order": 7,
+  "article_id": 8774,
+  "title_link": "Эксперимент - Результаты соц.опроса на тему спектрума (10 вопросов...)",
+  "title_h1": "Lime Tree 07 - Эксперимент - Результаты соц.опроса на тему спектрума (10 вопросов...)",
+  "print_url": "https://zxpress.ru/print.php?id=8774",
+  "article_url": "https://zxpress.ru/article.php?id=8774",
+  "fetched_at": "2026-05-31T22:19:17Z"
+}

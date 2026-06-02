@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1999-06-29",
+  "order": 4,
+  "article_id": 10402,
+  "title_link": "Смайлик - анекдоты про политику.",
+  "title_h1": "City 16 - Смайлик - анекдоты про политику.",
+  "print_url": "https://zxpress.ru/print.php?id=10402",
+  "article_url": "https://zxpress.ru/article.php?id=10402",
+  "fetched_at": "2026-05-31T21:50:37Z"
+}

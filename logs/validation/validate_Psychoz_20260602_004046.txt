@@ -1,0 +1,18 @@
+  Magazin: Psychoz
+  - WARN: unklare Issue-Ordnerstruktur bei '12' (keine issue.json und kein Label/Datum im Namen)
+
+✅ Validierung: OK - Psychoz
+   (mit Warnungen)
+  - [Issue #05] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #06] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #07] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #08] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #09] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #10] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #11] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #12] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #16] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #17] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #18] unbekanntes Datum → Platzhalter '0000-01-01'
+  - WARN: unklare Issue-Ordnerstruktur bei '12' (keine issue.json und kein Label/Datum im Namen)
+   ➜ Issues: 18 | Artikel gesamt: 268

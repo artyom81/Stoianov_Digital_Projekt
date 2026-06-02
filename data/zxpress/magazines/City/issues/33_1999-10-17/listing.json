@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 10504,
+    "article_url": "https://zxpress.ru/article.php?id=10504",
+    "print_url": "https://zxpress.ru/print.php?id=10504",
+    "title_link": "От редакции - Hедавно получил очеpедную посылочку от VEL'а.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "От_редакции_-_Hедавно_получил_очеpедную_посылочку_от_VELа"
+  },
+  {
+    "article_id": 10505,
+    "article_url": "https://zxpress.ru/article.php?id=10505",
+    "print_url": "https://zxpress.ru/print.php?id=10505",
+    "title_link": "Железо - схема сканера для ZX Spectrum.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "Железо_-_схема_сканера_для_ZX_Spectrum"
+  },
+  {
+    "article_id": 10506,
+    "article_url": "https://zxpress.ru/article.php?id=10506",
+    "print_url": "https://zxpress.ru/print.php?id=10506",
+    "title_link": "Смайлик - коллекция смайликов.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Смаилик_-_коллекция_смаиликов"
+  },
+  {
+    "article_id": 10507,
+    "article_url": "https://zxpress.ru/article.php?id=10507",
+    "print_url": "https://zxpress.ru/print.php?id=10507",
+    "title_link": "Что-где-почем - недавно получил несколько дисков с ПО...",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Что-где-почем_-_недавно_получил_несколько_дисков_с_ПО"
+  },
+  {
+    "article_id": 10508,
+    "article_url": "https://zxpress.ru/article.php?id=10508",
+    "print_url": "https://zxpress.ru/print.php?id=10508",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 26).",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_26"
+  },
+  {
+    "article_id": 10509,
+    "article_url": "https://zxpress.ru/article.php?id=10509",
+    "print_url": "https://zxpress.ru/print.php?id=10509",
+    "title_link": "Бук - характеристика от Жванецкого.",
+    "order": 6,
+    "issue_label": "33",
+    "short_slug": "Бук_-_характеристика_от_Жванецкого"
+  },
+  {
+    "article_id": 10510,
+    "article_url": "https://zxpress.ru/article.php?id=10510",
+    "print_url": "https://zxpress.ru/print.php?id=10510",
+    "title_link": "Beatles - \"Creedence Clearwater Revival\" в нашей местности был главным конкуpентом \"Beatles\"...",
+    "order": 7,
+    "issue_label": "33",
+    "short_slug": "Beatles_-_Creedence_Clearwater_Revival_в_нашеи_местности_был"
+  },
+  {
+    "article_id": 10511,
+    "article_url": "https://zxpress.ru/article.php?id=10511",
+    "print_url": "https://zxpress.ru/print.php?id=10511",
+    "title_link": "Наш смак - рецепт наваристой ухи с водкой.",
+    "order": 8,
+    "issue_label": "33",
+    "short_slug": "Наш_смак_-_рецепт_наваристои_ухи_с_водкои"
+  },
+  {
+    "article_id": 10512,
+    "article_url": "https://zxpress.ru/article.php?id=10512",
+    "print_url": "https://zxpress.ru/print.php?id=10512",
+    "title_link": "Реклама - Пpодам, куплю ,обменяю пpогpаммы для Spectrum.",
+    "order": 9,
+    "issue_label": "33",
+    "short_slug": "Реклама_-_Пpодам_куплю_обменяю_пpогpаммы_для_Spectrum"
+  }
+]

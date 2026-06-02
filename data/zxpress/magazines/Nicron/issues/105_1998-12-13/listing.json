@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 7171,
+    "article_url": "https://zxpress.ru/article.php?id=7171",
+    "print_url": "https://zxpress.ru/print.php?id=7171",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "105",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7172,
+    "article_url": "https://zxpress.ru/article.php?id=7172",
+    "print_url": "https://zxpress.ru/print.php?id=7172",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "105",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7173,
+    "article_url": "https://zxpress.ru/article.php?id=7173",
+    "print_url": "https://zxpress.ru/print.php?id=7173",
+    "title_link": "Программирование - вспомогательные операции при выводе спрайтав область экранной памяти.",
+    "order": 3,
+    "issue_label": "105",
+    "short_slug": "Программирование_-_вспомогательные_операции_при_выводе_спраи"
+  },
+  {
+    "article_id": 7174,
+    "article_url": "https://zxpress.ru/article.php?id=7174",
+    "print_url": "https://zxpress.ru/print.php?id=7174",
+    "title_link": "Железо - доработка CDOS-модема.",
+    "order": 4,
+    "issue_label": "105",
+    "short_slug": "Железо_-_доработка_CDOS-модема"
+  },
+  {
+    "article_id": 7175,
+    "article_url": "https://zxpress.ru/article.php?id=7175",
+    "print_url": "https://zxpress.ru/print.php?id=7175",
+    "title_link": "Софт - баг почтового редактора \"Lara Croft\".",
+    "order": 5,
+    "issue_label": "105",
+    "short_slug": "Софт_-_баг_почтового_редактора_Lara_Croft"
+  },
+  {
+    "article_id": 7176,
+    "article_url": "https://zxpress.ru/article.php?id=7176",
+    "print_url": "https://zxpress.ru/print.php?id=7176",
+    "title_link": "Рассказ - На мосту.",
+    "order": 6,
+    "issue_label": "105",
+    "short_slug": "Рассказ_-_На_мосту"
+  },
+  {
+    "article_id": 7177,
+    "article_url": "https://zxpress.ru/article.php?id=7177",
+    "print_url": "https://zxpress.ru/print.php?id=7177",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "105",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7178,
+    "article_url": "https://zxpress.ru/article.php?id=7178",
+    "print_url": "https://zxpress.ru/print.php?id=7178",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "105",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

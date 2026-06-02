@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 16242,
+    "article_url": "https://zxpress.ru/article.php?id=16242",
+    "print_url": "https://zxpress.ru/print.php?id=16242",
+    "title_link": "От авторов - Вступительное слово.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_Вступительное_слово"
+  },
+  {
+    "article_id": 16243,
+    "article_url": "https://zxpress.ru/article.php?id=16243",
+    "print_url": "https://zxpress.ru/print.php?id=16243",
+    "title_link": "О журнале - Новый компьютерный журнал Dune.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "О_журнале_-_Новыи_компьютерныи_журнал_Dune"
+  },
+  {
+    "article_id": 16244,
+    "article_url": "https://zxpress.ru/article.php?id=16244",
+    "print_url": "https://zxpress.ru/print.php?id=16244",
+    "title_link": "Игры - Seymour at the movies, Quazatron, Nether earth, Batty 3+,",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Игры_-_Seymour_at_the_movies_Quazatron_Nether_earth_Batty_3"
+  },
+  {
+    "article_id": 16245,
+    "article_url": "https://zxpress.ru/article.php?id=16245",
+    "print_url": "https://zxpress.ru/print.php?id=16245",
+    "title_link": "Contact`s - Реклама и контактная информация.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Contacts_-_Реклама_и_контактная_информация"
+  },
+  {
+    "article_id": 5436,
+    "article_url": "https://zxpress.ru/article.php?id=5436",
+    "print_url": "https://zxpress.ru/print.php?id=5436",
+    "title_link": "Технология спрайтов - часть 8: печать спрайтов (координаты заданы в знакоместах).",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Технология_спраитов_-_часть_8_печать_спраитов_координаты_зад"
+  },
+  {
+    "article_id": 16640,
+    "article_url": "https://zxpress.ru/article.php?id=16640",
+    "print_url": "https://zxpress.ru/print.php?id=16640",
+    "title_link": "Кодинг - Разбор опечаток из предыдущей статьи...",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Кодинг_-_Разбор_опечаток_из_предыдущеи_статьи"
+  },
+  {
+    "article_id": 8774,
+    "article_url": "https://zxpress.ru/article.php?id=8774",
+    "print_url": "https://zxpress.ru/print.php?id=8774",
+    "title_link": "Эксперимент - Результаты соц.опроса на тему спектрума (10 вопросов...)",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Эксперимент_-_Результаты_соцопроса_на_тему_спектрума_10_вопр"
+  },
+  {
+    "article_id": 15354,
+    "article_url": "https://zxpress.ru/article.php?id=15354",
+    "print_url": "https://zxpress.ru/print.php?id=15354",
+    "title_link": "TwilighT - Идeя пришлa oднoврeмeннo, и нaм и пaрням из FISНВONE, пoслe прoхoждeния в Минскe пoдoбнoгo мeрoприятия.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "TwilighT_-_Идeя_пришлa_oднoврeмeннo_и_нaм_и_пaрням_из_FISНВO"
+  },
+  {
+    "article_id": 17154,
+    "article_url": "https://zxpress.ru/article.php?id=17154",
+    "print_url": "https://zxpress.ru/print.php?id=17154",
+    "title_link": "Из книг - История. Российский экслибрис. Предмет собирательства. Mеждународное общество. Литература.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Из_книг_-_История_Россиискии_экслибрис_Предмет_собирательств"
+  }
+]

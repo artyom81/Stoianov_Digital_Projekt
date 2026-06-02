@@ -1,0 +1,432 @@
+03 - Part 2 - Playing tips.
+==========================================
+****************************
+*  PART 2  - PLAYING TIPS  *
+****************************
+
+FINDERS KEEPERS
+We'll  begin this month with some tips for
+the  classic  Magic  Knight  Game, Finders
+Keepers.  Heres a complete list of all the
+objects   you  can  find  in  the  castle,
+complete  with  their  location  and their
+value. At the end is a small list of items
+you can combine to form other items. To do
+so, just hold both items at the same time.
+The  Gunpowder and the Torch allows you to
+blow  up the Big Puss in Boots, completing
+the game.
+
+A White Gold Ring  THE TREASURY    @255.99
+A Pewter Tankard   DR WOMBATS BEDROOM
+                                   @255.99
+A SMB Hard Disk    THE BLOOD BATH ROOM
+                                   @250.00
+Gordons Foot       GORDON THE TRADERS ROOM
+                                   @245.95
+A Gold Bar         COMBINATION     @200.00
+Exaclibur          COMBINATION     @200.00
+The Trans Mat Key  GORT THE TRADERS ROOM
+                                   @200.00
+Tube Of Glue       THE ASTROLOGERS STUDY
+                                   @200.00
+A Pair of Skis     THE BEER CELLAR @192.82
+A Dragons Egg      THE ICE CREAM FACTORY
+                                   @172.42
+A Sticky Bun       ANNA THE TRADERS ROOM
+                                   @150.00
+A Leather Saddle   THE TRANS MAT ROOM
+                                   @138.11
+Diamond Dust       CASTLE TELEPORT ROOM
+                                   @114.49
+The Mud Monster    COMBINATION     @100.00
+Silver Goblet      THE INNER CHAMBER
+                                   @100.00
+A Plastic Fleece   THE KINGS FUN ROOM
+                                   @ 87.49
+A Silver Sundial   COLD HUPER MAZE @ 75.50
+A Moon Rock       CRAZY WIZARDS STORE ROOM
+                                   @ 75.00
+The Iron Mace      GORDON THE TRADERS ROOM
+                                   @ 70.00
+The Magic Flame    THE TREASURY    @ 68.01
+A Golden Hare      DR WOMBATS BEDROOM
+                                   @ 60.21
+A Bird of Paradise GORT THE TRADERS ROOM
+                                   @ 51.97
+A Glass Shoe       COLD UPPER MAZE @ 50.87
+Ship in a Bottle   COMBINATION     @ 50.00
+A large Hairy Dog  GORDON THE TRADERS ROOM
+                                   @ 48.67
+A Silk Cloak       THE TRANS MAT ROOM
+                                   @ 33.62
+A Spark Of Life    COLD UPPER MAZE @ 30.00
+A Bar Of Lead      SLIMEY LOWER MAZE
+                                   @ 27.52
+A Top Hat         CRAZY WIZARDS STORE ROOM
+                                   @ 26.26
+Sulphur            ANNA THE TRADERS ROOM
+                                   @ 23.95
+A Blacksmith       ROOM WITH A VIEW
+                                   @ 20.00
+A Model Cutty Sark THE KINGS FUN ROOM
+                                   @ 20.00
+A Jesters Hat      COLD UPPER MAZE @ 18.62
+Philosophers Stone SLIMEY LOWER MAZE
+                                   @ 18.35
+A Burning Torch    COLD UPPER MAZE @ 15.00
+A Red Dress        THE COLDEST     @ 14.95
+An Unlit Candle     ROOM IN CASTLE @ 14.90
+Charcol            GORT THE TRADERS ROOM
+                                   @ 11.86
+A Communicator     DR WOMBATS LABORATORY
+                                   @ 10.00
+A Servants Tray THE BIG PUSS WITHOUT BOOTS
+                                   @  6.30
+A Broken Sword     SLIMEY LOWER MAZE
+                                   @  5.18
+A Birthday Card    THE KINGS ART ROOM
+                                   @  5.00
+A Crystal Ball     THE NEEDLEWORK ROOM
+                                   @  4.87
+A Bowl Of Milk     THE KINGS ART ROOM
+                                   @  4.44
+A Clowns Nose   THE BIG PUSS WITHOUT BOOTS
+                                   @  2.95
+A Tin Of Soup      THE BEER CELLAR @  2.50
+A Carving Knife    THE ASTROLOGERS STUDY
+                                   @  1.50
+A Rock Python      DR WOMBATS LABORATORY
+                                   @  1.50
+An Empty Bottle    THE BLOOD BATH ROOM
+                                   @  1.08
+A Pile Of Mud      SLIMEY LOWER MAZE
+                                   @  0.62
+A Z80A Chip        THE NEEDLEWORK ROOM
+                                   @  0.50
+A Small Coconut    ANNA QUAYS BEDROOM
+                                   @  0.16
+Saltpetre       THE BIG PUSS WITHOUT BOOTS
+                                   @  0.00
+Gunpowder       THE BIG PUSS WITHOUT BOOTS
+                                   @  0.00
+
+COMBINATIONS
+Philosophers  Stone  +  Bar of Lead = Gold
+Bar @200.00
+Spark  Of  Life  +  Pile  Of Mud = The Mud
+Monster @100.00
+A  Broken Sword + A Blacksmith = Excalibur
+@200.00
+A  Mouse + Lump of Cheese = Very Fat Mouse
+Bottle + Model Cutty Sark = Ship in Bottle
+@ 50.00
+Saltpetre + Sulphur + Charcol = Gunpowder
+Gunpowder + Burning Torch = Blow Up Cat
+
+==========================================
+
+SPELLBOUND
+
+This   following  solution  was  typed  by
+Willis  Nelson  and posted to the Sinclair
+newsgroup.  For anyone you may have missed
+it,  here it is again as part of our Magic
+Knight guide:
+
+Get  the  glowing bottle from the L-Shaped
+Room,  go  to the Roof Garden, and get the
+wand  of  command (it's in the room at the
+extreme  right).  Also  get  the bottle of
+liquid.  Go  to  the second floor, and get
+the elf horn from Samsun, and Miolnir from
+Elrand.  Summon  Thor  and Florin (you may
+have  to  go  back and wake him up) to the
+lift.  Give  Miolnir  to Thor, and command
+him  to help. He'll fix the lift. Give the
+bottle  of  liquid  to Florin. Command him
+and  Thor  to  sleep.  When your energy is
+getting  low,  simply  take  the bottle of
+liquid  from Florin and hand it back. This
+will  replenish your strength. Move to the
+ground  floor,  then  stand on the pool of
+liquid.  Cast Armouris Photonicus. You can
+now  drop  the  glowing  bottle  and  free
+Banshee.  Take  the  shield and the candle
+(from  the  Зrd floor) and go to the first
+room  in  the  Roof Garden - the room with
+the  four  leaf  clover.  Cast  Candellium
+Illuminatum   (make   sure  you  have  the
+shield!).  You'll  need  the candle if you
+read  the  ancient  scroll.  Get  the  red
+herring  from  the  third  floor,  and the
+power-pong  plant  from  the basement. You
+can now cast Fumaticus Protectium - and be
+able  to  pass through the gas room on the
+1st floor. Get the trumpet, and give it to
+Elrand.  Go  to  the Tower (Чth floor) and
+summon  Thor.  Command  him  to  help. His
+thunderbolt  will  weaken  the wall on the
+2nd  floor.  Go  to  the  wall  on the 2nd
+floor,  summon  Elrand, and command him to
+help.  He'll  blow  the wall down with his
+trumpet.  Take the two pieces of brickwork
+left over from this, and use them to build
+a  way  to get over the Tower (Чth floor).
+Get  the  javelin  from the Чth floor, and
+give  it  to  Samsum. Summon Rosmar to the
+Secret   Tunnel  Entrance,  give  her  the
+pocket  laser,  and  ask her to help. This
+will open up the tunnel. Go through as far
+as  the  Pit. Summon Samsun and ask him to
+help.  He'll  throw  his platform into the
+middle  of  the pit, enabling Magic Knight
+to  get  across.  (To make things slightly
+easier,  the  pieces of brickwork can also
+be used here - but first get both coloured
+crystals  from  the Чth floor). The broken
+talisman can be fixed by giving it and the
+tube of glue to Florin, and commanding him
+to help. You can now cast Project Physical
+Body  by  holding  the  talisman  and  the
+crystal  ball. The idea now is to keep the
+various characters well-fed, happy, and to
+make sure they have plenty of sleep (don't
+worry  about  Banshee).  Do this until you
+have   36   hours   left   on   the  clock
+(Crystallium Spectralis only works with 36
+hours  or  less to go). Now go to the Most
+Magic  Room.  Hold  the  white  gold ring.
+Summon  Orik  the Clerik, and give him the
+crystal ball and the book of Shadows. Cast
+Crystallium  Spectralis,  then  throw  the
+three  coloured  crystals at Gimbal. He'll
+now  be  free.  Cast  the Release Spell by
+holding  the white gold ring and the magic
+talisman.  Now  go to the last room on the
+second  floor  (that is. the room furthest
+to the right). Working your way from right
+to  left  along the second floor, blow the
+elf-horn  and summon the characters in the
+order  you  see  them  in their portraits.
+Once  you've  summoned  the last character
+(Gimbal) you'll have successfully sent all
+the  characters  home, and hence completed
+the game.
+
+==========================================
+
+STORMBRINGER Part 1
+Taken from YS Smash Tips
+
+To  start  with, always take the bottle of
+liquid  from  the  room to the left of the
+start.  Drink  this  when your energy gets
+low.  Get  the  chicken and if you wait it
+will  lay a golden egg, a bronze egg and a
+silver  one. Take the newspaper from Robin
+of Shylock (he will take an egg in return)
+and  read  it. Wear the right disguise, as
+only  with  the  right  disguise  and  the
+newspaper  will  you  get into the castle.
+Walk  to  Entwood  and  drop  the  advert.
+Barker   the  Ent  lives  here,  but  he's
+invisible.  Take  the Brass Ankh and Magic
+Talsiman  from  him  and  wear  them.  The
+Talisman keeps your magic high, whilst the
+Ankh  restores  your  energy to 60 when it
+gets down to 0, unless you're killed by an
+axe  or  the Cloud. Go into the first room
+of the castle, and you'll teleport to your
+pocket  and  into  limbo! Get and wear the
+boots.  These  allow  you  to use the jump
+chute!  So go left, picking up the advert,
+and pulling any levers you may find, until
+you   reach   the  jump  chute.  Drop  the
+teleport and jump up the chute to the top.
+Go  left  until  you  get to the big white
+statue.  Pull  the  lever, then walk under
+the arrow and drop the advert, but get the
+arrow.  Pick  up  the advert and drop down
+the   flashing   hole.   Find  Rachael  of
+Amazonia,  and  command  her  to help. You
+must  convert  the number she tells you in
+binary.  Go  right  (pull  any  levers you
+find)  until you find the jump chute. Drop
+down  the hole. Drop the advert and arrow.
+Pick  up  the  glow  shield  and  wear  it
+straight  away as it drains your energy at
+a  startling  rate  if you don't. Take the
+teleport  pad  and go up one level to Main
+Lever  1.  The  idea  on  this level is to
+enter the binary number on the levers. For
+example,  if  your number was 12, then the
+binary for that would be 0001100. So you'd
+pull  levers  three  and four. The room to
+the  left  is  dark, so you must walk very
+close  to  the  left hand side of the Main
+Lever 1, take off the shield, run left and
+drop it very quickly. To get past the wall
+in Main Lever 4, throw the teleport pad at
+Reggie  the  Rat and teleport. If you have
+pulled the right levers, the security door
+will  be  open and you can go through, and
+the   main   teleport   will   have   been
+activated.  If you make a mess, cast Magic
+Fulcrum  to  return  the  levers  to their
+original  positions. When you've finished,
+teleport,  pick  up  the  teleport pad, go
+right till you find the hole and fall down
+it.  Make  sure you have the silver arrow,
+and  activate the teleport. You'll go into
+limbo.  Find Robin and give him the arrow.
+Get  the  chicken and wait until it lays a
+golden  egg.  Give  the egg to Robin. Walk
+left  until  you  find  Bearwoolf. Then go
+right one screen and stand in front of the
+plant  with  the  red  flower.  Cast  Pass
+Plant.  Quickly  go  and  pick  up the Elf
+Horn,  as  this  room  drains your energy,
+walk back to the plant and cast Pass Plant
+again.  Walk  left  until  you are about a
+centimetre  away  from  Bearwoolf's  hand.
+Then   blow  the  horn  to  summon  Robin.
+Command  Robin  to  help  and  he'll shoot
+Bearwoolf,  who'll turn into a Teddy Bear.
+Find  the  advert  and  come  back  to the
+screen  where  Bearwoolf  was. Just before
+you  get  to  the edge of the screen, jump
+and  you'll  land on a platform. Go across
+five  screens  like  this  and you'll find
+Bearwoolf's  hoard.  Drop  the advert, and
+pick  up  the  magic missile, stand on the
+advert, and pick up the magic missile.
+
+To be continued...
+
+==========================================
+
+EVERYONE'S A WALLY
+As  promised  last month, heres a complete
+guide to the second in the series of Wally
+games,  the extremely difficult "Everyones
+a  Wally"  If a characters name appears in
+front  of a sentence, you must become that
+character for it to work properly.
+
+THE FIRST LETTER
+WILMA  :  Get Books 1 and 2. Go to library
+and  swap  Book  1  for the jump leads and
+Book  2  for the Bunsen Burner. Get Book 3
+and swap for the letter B
+
+THE SECOND LETTER
+WALLY  : Get Gas Mask and go into past the
+shark,  into  the  sewer.  Get  the second
+letter, R.
+DICK  :  Get  Gas Mask and go to cave. Get
+Leaking  Gas  Pipe.  Exit the cave and get
+the  chewing  gum. Go to Work Shed and put
+pipe  on the bench. Get the patch and walk
+under  the  bench with the pipe on it. Get
+Repaired  Pipe  and Gas Mask and return to
+cave. Replace Pipe.
+
+THE THIRD LETTER
+WALLY : Get Super Glue and the Broken Hook
+from  the  docks. Go to the shed. Put hook
+on   bench  and  walk  under  bench.  Take
+Repaired Hook and replace it on the crane.
+WILMA  :  Get  Parcel and Stamp. Go to far
+end  of  Post  Office.  Swap  the  stamped
+Parcel for the letter E.
+
+THE FOURTH LETTER
+TOM  :  Get Oil can. Use it on the trolley
+in the supermarket.
+HARRY  :  Jump  on  trolley,  then  on the
+counter the get the letter A.
+
+THE FIFTH LETTER
+WILMA  : Get Monkey Nuts, and swap for the
+Monkey Wrench in the Zoo.
+DICK : Get Plunger and Monkey Wrench. Jump
+to top of statue in park.
+WALLY  :  Get  Empty Bucket and Sand. Fill
+Bucket  At  Fountain  and  swap it for the
+cement  in  the  screen  with  the  cement
+mixer.   Get  the  trowel,  and  with  the
+cement, walk past the pile of bricks.
+HARRY  : Get Fuse Wire and Blown Fuse. Get
+Good  Insulator  and  screwdriver. Enter a
+phone box and play the game until you hear
+a  bleep.  Go  to  the  pylon and swap the
+insulator for the bad one.
+TOM  :  Get  Flat  Battery  from Fork Lift
+Truck and the Jump Leads. Go to the Petrol
+Station.  Charge Battery on Green Battery.
+Replace battery in truck.
+WALLY : Stand on Truck, jump onto wall and
+get the letter K.
+
+TO COMPLETE THE GAME
+Each  character  must take their letter to
+the  bank. Wilma should take the letter B,
+Tom  takes  R, Dick takes E, Harry takes A
+and  Wally  takes  K,  to  spell  the word
+BREAK, which should open the safe!
+
+Join  us  here  again  next month for some
+more playing tips, including a solution to
+this  months  Wally  game, Herbert's Dummy
+Run.
+
+==========================================
+
+REBELSTAR POKES
+By Matthew Pimm
+
+I  came  across  a realy interesting thing
+when   I   was  programing  the  Rebelstar
+editor....     There    is    a    missing
+droid !!!!!!!
+
+Just  when  you  thought  you  had battled
+against the worst Rebelstar could throw at
+you  another  droid was waiting. The droid
+hasn't  got  a  name  and must have been a
+graphic  the  programer  Julian Gollop had
+intended   to  use.  I  wrote  this  short
+program so you could see this new droid.
+
+You   can   enter  these  pokes  via  your
+Spectrum  emulator,  multiface  or you can
+merge  the  basic  loader  and  place  the
+following program before the randomize usr
+statement.
+
+FOR f=61519to 61550:Read a:poke f,a:next f
+
+DATA 7,207,121,205,31,23,21,55
+DATA 224,243,158,179,248,248,248,252
+DATA 37,39,109,77,73,255,137,255
+DATA 252,124,254,126,222,255,223,255
+
+POKE 44292,71:POKE 44293,85:POKE 44294,78:
+POKE 44295,129:POKE 44358,71:
+POKE 44359,85:POKE 44360,65:POKE 44361,82
+POKE 44362,68:POKE 44363,129
+
+Then  run  the  program, you will find the
+old  Sentry  Droids  will  now  be the new
+droids, which I have called Guard Droids.
+
+As  for  the  Rebelstar  editor  this is a
+project  inspired  by  Julian  Baird which
+should  be ready for the new year and will
+be in Emulate first!
+
+Happy Raiding !
+M.Pimm, Assistant Editor
+
+==========================================

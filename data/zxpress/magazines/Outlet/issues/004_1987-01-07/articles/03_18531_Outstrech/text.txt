@@ -1,0 +1,45 @@
+004 - Outstrech
+INSTRUCTIONS AND INFORMATION 
+OUTSTRETCH creates double-height
+text by  stretching  any  normal
+character set and generating two
+new char sets - one with the top
+half and one with the bottom  of
+the new, double-size characters.
+Use the LOAD,STRETCH AND RE-SAVE
+option  and note the information
+at the end.TOPCHARS in OUTLET 03
+gives a clear explanation as  to
+what is happening and provides a
+ready-made routine:TOP GO SUB to
+display double-height characters
+
+The STRETCH CODE is in a REM at 
+line 9850 and this can  be saved
+separately as 'STRETCH REM' and 
+MERGEd into your programs.  Save
+space by loading normal sets(768
+bytes each)and stretch as needed
+(This only saves room where 3 or
+more sets are used).
+
+To use 'STRETCH REM', LOAD your 
+char set and page it in as usual
+with the low byte of the address
+of the char set in 23606 and the
+high byte MINUS 1 in 23607.  Not
+sure how to do that? One way is:
+ RANDOMIZE ADDRESS, POKE 23606, 
+ PEEK 23670 and POKE 23607,PEEK 
+ 23671-1.   then...
+RANDOMIZE ADDRESS(where you want
+the stretched chars)+GO SUB 9850
+
+To use the new chars,page in the
+address(you chose)PLUS 768,PRINT
+ONE LINE OF TEXT,  SUBTRACT 768,
+page that address in - and PRINT
+THE SAME LINE AGAIN.
+For blocks of text - why not use
+the routine from TOPCHARS called
+'TOP GO SUB' or write your own.

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 78,
+    "article_url": "https://zxpress.ru/article.php?id=78",
+    "print_url": "https://zxpress.ru/print.php?id=78",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2096,
+    "article_url": "https://zxpress.ru/article.php?id=2096",
+    "print_url": "https://zxpress.ru/print.php?id=2096",
+    "title_link": "B.B.S. Новости - Почему на IBM все пучком , или что нам не хватает ?",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "BBS_Новости_-_Почему_на_IBM_все_пучком_или_что_нам_не_хватае"
+  },
+  {
+    "article_id": 2095,
+    "article_url": "https://zxpress.ru/article.php?id=2095",
+    "print_url": "https://zxpress.ru/print.php?id=2095",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2094,
+    "article_url": "https://zxpress.ru/article.php?id=2094",
+    "print_url": "https://zxpress.ru/print.php?id=2094",
+    "title_link": "Железо - Предварительный усилитель для АЦП.\r\n Схема подключения электретного микрофона.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Железо_-_Предварительныи_усилитель_для_АЦП_Схема_подключения"
+  },
+  {
+    "article_id": 2097,
+    "article_url": "https://zxpress.ru/article.php?id=2097",
+    "print_url": "https://zxpress.ru/print.php?id=2097",
+    "title_link": "Мозаика - Joker: новости из Харькова.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Мозаика_-_Joker_новости_из_Харькова"
+  },
+  {
+    "article_id": 2098,
+    "article_url": "https://zxpress.ru/article.php?id=2098",
+    "print_url": "https://zxpress.ru/print.php?id=2098",
+    "title_link": "Мозаика - Что нового нам готовит Magic Soft?",
+    "order": 6,
+    "issue_label": "38",
+    "short_slug": "Мозаика_-_Что_нового_нам_готовит_Magic_Soft"
+  },
+  {
+    "article_id": 2099,
+    "article_url": "https://zxpress.ru/article.php?id=2099",
+    "print_url": "https://zxpress.ru/print.php?id=2099",
+    "title_link": "Новье !? - О программах : Fifteen's, Reckless Rufus, Peking, Смагли-2.",
+    "order": 7,
+    "issue_label": "38",
+    "short_slug": "Новье_-_О_программах_Fifteens_Reckless_Rufus_Peking_Смагли-2"
+  },
+  {
+    "article_id": 2093,
+    "article_url": "https://zxpress.ru/article.php?id=2093",
+    "print_url": "https://zxpress.ru/print.php?id=2093",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

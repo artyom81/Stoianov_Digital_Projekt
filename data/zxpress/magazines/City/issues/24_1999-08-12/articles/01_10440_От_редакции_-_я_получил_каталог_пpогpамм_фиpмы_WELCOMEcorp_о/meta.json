@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "24",
+  "issue_date_iso": "1999-08-12",
+  "order": 1,
+  "article_id": 10440,
+  "title_link": "От редакции - я получил каталог пpогpамм фиpмы WELCOME\r\ncorp. от Е.Ю.Будеpа.",
+  "title_h1": "City 24 - От редакции - я получил каталог пpогpамм фиpмы WELCOME corp. от Е.Ю.Будеpа.",
+  "print_url": "https://zxpress.ru/print.php?id=10440",
+  "article_url": "https://zxpress.ru/article.php?id=10440",
+  "fetched_at": "2026-05-31T21:50:56Z"
+}

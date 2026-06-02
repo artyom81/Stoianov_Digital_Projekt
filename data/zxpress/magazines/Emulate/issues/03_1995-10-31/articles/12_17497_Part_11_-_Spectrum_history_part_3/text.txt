@@ -1,0 +1,156 @@
+03 - Part 11 - Spectrum history (part 3).
+==========================================
+****************************************
+*  PART 11  - SPECTRUM HISTORY PART 3  *
+****************************************
+
+Continuing  our series looking back at the
+History  of  Sir  Clive  and  the Sinclair
+Computers, we head back to 1987 and take a
+look  at  what  Crash thought of the first
+new  Sinclair  machine  since  the Amstrad
+buyout - the Z88.
+
+SINCLAIR'S Z88 - Pandora's Box?
+Review taken from Crash #39 - April 1987
+
+GENESIS
+Uncle  Clive has been plugging the idea of
+a  portable  machine  since he first began
+making  computers  -  in  fact,  his first
+computer  concept,  the  NewBrain,  was  a
+portable   machine.   That  was  orignally
+developed   in   1978  by  his  old  firm,
+Sinclair  Radionics. Later it was sold off
+to  Newbury  Laboratories, who launched it
+to an indifferent world in 1982.
+As  Radionics  collapsed at the end of the
+seventies,  Clive  Sinclair  set  up a new
+firm,  Science  of  Cambridge,  with Chris
+Curry,  a  star employee from his previous
+firm. When Radionics finally bit the dust,
+Science  of  Cambridge was renamed twice -
+first  to  Sinclair  Computers and then to
+Sinclair    Research.   No-one   was   the
+slightest   bit   surprised  at  this,  as
+Science of Cambridge advertisements looked
+exactly the same as theirearlier Radionics
+counterparts.  The  Sinclair link had been
+obvious all along.
+
+RECURRENT THEMES
+Clive has now sold his surname to Amstrad,
+but  that  doesn't  stop him putting CLIVE
+SINCLAIR (without the 'Sir') in large type
+at  the  top  of the first page of the Z88
+brochure.  The  leaflet  follows the usual
+Sinclair  format,  just as the new company
+name follows on from previous titles.
+Cambridge  Computer  seems  to  be  run on
+something  of  a  showstring.  The Z88 was
+first  revealed at a lunch for journalists
+at  Sir  Clive's house in London. Two days
+later  a  prospective  customer arrived at
+the  firm's Which Computer Show stand, and
+asked  the  name of the Sales Director. He
+was told, apologetically, that they hadn't
+got one!
+Chris  Curry  has evidently been impressed
+by  the  ease with which Sinclair has kept
+the ball rolling from one firm to another.
+Curry  set  up  his  own company in 1979 -
+Acorn  Computers  - and he duly left Uncle
+Clive  after  the ZX-80, to work full time
+on  his  own.  Acorn,  like  Radionics and
+Sinclair  Research, had it's ups and downs
+and was eventually bailed out by Olivetti.
+Curry  abandoned  ship,  but he's still in
+the game - he's the man behind the Red Box
+add-ons which we reviewed in the Christmas
+Special.
+
+MORE PRE-HISTORY
+Science   of  Cambridge  avoided  portable
+machines  at  first.  They produced a tiny
+bare-board  computer  called the MK14, and
+then  the ZX-80 - the first useful looking
+computer  to  sell  for  under  ▄▒00.  The
+design  of  the  Spectrum  ROM  is closely
+allied  to  that  of  the  ZX-80  with the
+ZX-81  - which actually was useful - as an
+intermediate    step   between   the   two
+machines.
+In 1980 we were told that the ZX-80 "would
+be  linked  to  a flat screen display." In
+May of 1981 Sinclair upgraded his promise,
+announcing  a  version of the ZX-81 with a
+"four or five inch flat screen", scaled up
+from  the Radionics pocket TV display...it
+never  turned  up - even in protoype form.
+In   1983   the   QL   was  planned  as  a
+go-anywhere  machine,  with  space  for  a
+column  of  U2 batteries along the back of
+the  case.  Portability  went  out  of the
+window  in the rush to get something on to
+the  shelves,  as the bottom began to drop
+out of the micro market.
+
+GENESIS REVISITED
+A  design  recognisably similar to that of
+the  Z88 was born early in 1984, partly in
+an attempt to salvage ideas left over from
+the  development  of  the QL and the LC-3.
+The   low   cost   LC-3   was  the  first,
+unreleased  Super-Spectrum. It was scrappe
+in  1982,  when  a  follow  up didn't seem
+necessary, and Sinclair Research turned to
+grander designs.
+The  details  of the planned portable were
+published  in  February  1985,  and it was
+scheduled  for  launch  "in 1986". At this
+stage  the  machine  was  based around the
+Spectrum  design, with a Z80 processor and
+support  for  Spectrum  software. Built-in
+business  packages  were  promised,  along
+with   "bank   switched"   plug-in  memory
+cartridges.  SA "proper light up display",
+again  derive  from  the  pocket  TV,  was
+considered essential.
+"Liquid  Crystal  is  rubbish",  Sir Clive
+explained. "Nobody pursuing that avenue is
+getting  anywhere. Nobody in the world has
+an  answer  to  the flat display problem -
+except us."
+
+PANDORAS BOX
+After   a   massive   development  effort,
+Sinclair  engineers did manage to scale up
+the  Microvision  display,  but the result
+was  not  judged  a great success. The new
+screen  used  a  combination of lenses and
+mirrors  to  project  a picture in the air
+between  the  lid  and  the  base  of  the
+prototype machine. The idea was ingenious,
+and it worked after a fashion - but it was
+heavy,  greedy  for  power,  fragile,  and
+ill-suited to mass production...and that's
+being   kind!   This  machine  was  dubbed
+"Pandora" inside the company. Like that of
+the  "Loki" proposal which I demolished in
+August  1986,  this  name  was  rather  an
+obscure  joke.  According to ancient myth,
+Pandora  was  a  character  who  made  the
+mistake  of  opening  the box in which all
+the evils of the world were trapped, along
+with  one  more  benign  quality  -  hope.
+Opening  the  Pandora  computer case could
+have released just about anything!
+Under the termes of his sell-out, Sinclair
+is   required  to  offer  future  computer
+designs  to  Amstrad.  One look at Pandora
+was  enough  to  put  them  off - the gave
+Sinclair permission to go it alone.
+
+Continued Next Issue...
+
+==========================================

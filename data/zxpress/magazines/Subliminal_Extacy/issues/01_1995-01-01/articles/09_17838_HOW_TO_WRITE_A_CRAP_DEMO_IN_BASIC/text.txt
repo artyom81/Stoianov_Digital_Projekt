@@ -1,0 +1,158 @@
+Subliminal Extacy 01 - HOW TO WRITE A CRAP DEMO IN BASIC
+HOW TO WRITE A CRAP DEMO IN BASIC  by Pandagirl.                
+================================================                           
+                                                                
+                                                                
+Ingredients (*available from Prism or Alchemist)                
+                                                                
+ A Spectrum 128 (not a +3 if you can help it)                   
+ Tasword (or similar word processor)                            
+*Soundtracker                                                   
+*Soundtracker Compiler                                          
+*Mikropol Screen compressor                                     
+*Uniscroll version 2.1                                          
+ Art Studio or similar package                                  
+ BASIC loader / controller (supplied)                           
+                                                                
+First think up a good idea. I don't usually bother with these   
+but they can help a crap demo become average by making people   
+think it will be worth loading.                                 
+                                                                
+Your first demo won't have loads of sprites flying about or     
+techy effects (trust me on this one ok?) Let's settle for a     
+simple one screen / one tune / one scroller type demo, just like
+my first two were. The moral is, if your second demo is the same
+as your first, then why the fuck did you bother. I ignored this 
+simple rule in life but I'm excused cos' I said so.             
+                                                                
+Are you crap at drawing? You could nick a screen from a game    
+with the help of a MULTIFACE if you really are fucking hopeless 
+but that really is scrapping the bottom of your already spotless
+barrel. I'm no great artist myself but using an illustration    
+from a magazine, I draw a grid over it in 1CM blocks. You can   
+then draw up a grid on your art program and convert the pixels  
+box by box. This is what me and the smelly Fudgepacker does to  
+thrill your eyeballs and gives pretty good results. The more you
+practice doing it, the better you're efforts will become.       
+                                                                
+Digi-screens can look pretty good too but try to avoid using    
+things you've already seen in demos hundreds of times before!   
+Leave a gap for where your scrolling text will go, three        
+attribute blocks high is usually enough. Remember that whatever 
+colour codes you have left on your finished art screen will be  
+the colours that your text will scroll with so try to avoid     
+using black ink on black paper ok? Jesus, some people...        
+                                                                
+You could leave your screen as a standard 6912 bytes file but   
+this is even more crap than NARC was as a game. The Mikropol    
+screen compressor will scrunch your screen down into a nice     
+compact chunk of code. The compressor is simple to use so save  
+off your code with a helpful name (try SCREEN!) Keep this nice  
+and safe on a cassette called 'bits of finished crap' so you    
+know where to find it later. I suppose you could save a 6912    
+bytes file to RAM disk or whatever by why bother.               
+                                                                
+You could have a silent demo with just your text to thrill the  
+demo watchers, but that really is a no-no. It took me quite a   
+while to learn how to wield Soundtracker into making noises that
+actually sounded like a tune. I'm not going to tell you how to  
+use it, I'll be here all fucking night. As it's your first go at
+Speccy demos why don't you nick one? Alchemist has loads of     
+files to choose from. You could even try remixing it. When you  
+don't know what the fuck you are doing on Soundtracker you can  
+come up with some pretty nifty audios!                          
+                                                                
+The compiler will pack it nicely but this is where a pencil and 
+paper will come in handy. You have to save your tune code to a  
+certain address so it's time to do some memory management!      
+                                                                
+The BASIC program provided with this boring article will run    
+your bits of stuff, you just have to load them to the right     
+addresses! In the example, music code will be loaded to address 
+60000. So save your tune code with the compiler to (yes, that's 
+right) 60000. Write down all the other shit too, especially the 
+LENGTH of your code. If you don't then you can fuck off now and 
+do something a bit less tiresome.                               
+                                                                
+Bottom is on the telly in a minute but I'll press on.           
+                                                                
+Do you have Tasword or some other WP? Well you should have. This
+is what you'll write your scroller text on. If there are two of 
+you in your mob then one can use UPPER case and the other can   
+use the little one. When you come to doing minor flash things   
+like having a customized font it'll look like two fonts! Do try 
+to write something interesting and not shit like "I can't think 
+of anything to say". If you are a boring twat, LIE! make it up, 
+copy some porno text from your hand shandy mags, anything but   
+the above. You don't know how shit it looks! Turn the bloody    
+word wrap off too. Save your textfile as 'TEXT' (it's only a    
+suggestion, you could call it TwatBandit for all I care). Do    
+remember to make a note of the text length. In the example      
+program it's important not to make it longer than 9999 bytes,   
+otherwise you'll over-write your music code in memory. Or rather
+your text will stop dead at address 60000 in our example.       
+                                                                
+You will be using Visions Uniscroll to control things which is a
+very nice bit of scroll code. The helpfile that comes with it   
+has loads of info on text effects but let's keep it simple.     
+The code is located at address 33280 or something. To keep it   
+even more simple, you'll be loading each bit of your demo in    
+seperate blocks. Your second demo could be planned with each bit
+of code following the next so you can save the whole lot off as 
+one huge chunk of sexy byte action.                             
+                                                                
+Right, you've now got three bits of code; screen, music and text
+file, plus the Uniscroll code - that's four. Now you need to    
+load each bit into your Speccy with simple load commands. Do    
+this in direct command style (i.e. don't use fucking line       
+numbers you daft cunts)                                         
+                                                                
+The Code you want from the Uniscroll utility should be called   
+"uniscr2.1" or something. Make sure you load the correct bit of 
+code to the correct addresses or you'll be up shit street.      
+                                                                
+CLEAR 33279: LOAD "" CODE 33280                                 
+                                                                
+LOAD "SCREEN" CODE 40000                                        
+                                                                
+LOAD "TEXT" CODE 50000                                          
+                                                                
+LOAD "MUSIC" CODE 60000                                         
+                                                                
+Now for the bit that makes it all work; the BASIC listing. Yes, 
+not all PD demos are slick machine coded instant orgasms:       
+                                                                
+ 10 REM your crap demo name                                     
+ 20 CLEAR 33279: LOAD""CODE 33280                               
+ 30 LOAD "" CODE 40000: LOAD "" CODE 50000: LOAD "" CODE 60000  
+ 40 REM Uniscroll pokes                                         
+ 50 POKE 33280,pixels from top of screen (0-175)                
+ 60 POKE 33281,0: POKE 33282,60: REM points to standard font    
+ 70 POKE 33283,80: POKE 33284,195: REM points to TEXT at 50000  
+ 80 POKE 33285,1: REM split text option. 1 = normal 2-4 = split 
+ 90 POKE 33286,speed (values of 1-4)                            
+100 POKE 33287,8: REM width of each character                   
+110 POKE 33291,30: REM width of scrolling 'box'. Use even no's  
+120 POKE 33292,1: REM x position of squares in scrolling 'box'  
+130 POKE 33293,8: REM height of character                       
+140 REM Display screen picture                                  
+150 RANDOMIZE USR 40000                                         
+160 REM Scroll/Music interupt routine                           
+170 RANDOMIZE USR 33297: RANDOMIZE USR 60000                    
+180 RANDOMIZE USR 33402: RANDOMIZE USR 60006: PAUSE 1: GOTO 180 
+200 SAVE "Demo name" LINE 10: SAVE "SCREEN" CODE 40000,len:     
+    SAVE "TEXT" CODE 50000,len: SAVE "MUSIC" CODE 60000,len     
+                                                                
+Owners of Popsnog and Vaseline can see this working in action!  
+Pretty crap eh? but it works and it feels good to make demos.   
+To save your demo just type GOTO 200 and press those keys when  
+instructed you lucky people. Just remember to enter your own    
+lengths of Code where it says len, ok? Now fuck off and do it.  
+Remember kids, it's all in BASIC so anyone can do the above!!   
+                                                                
+NEXT ISSUE: Adding a custom font                                
+            Adding a loading screen                             
+            Keypresses to other parts                           
+            Code splicing                                       
+                                                                
+END

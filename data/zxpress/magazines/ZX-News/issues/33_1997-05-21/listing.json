@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 2924,
+    "article_url": "https://zxpress.ru/article.php?id=2924",
+    "print_url": "https://zxpress.ru/print.php?id=2924",
+    "title_link": "Oт редакции - Программа праздновании юбилея сети SpbZxNet.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "Oт_редакции_-_Программа_праздновании_юбилея_сети_SpbZxNet"
+  },
+  {
+    "article_id": 2926,
+    "article_url": "https://zxpress.ru/article.php?id=2926",
+    "print_url": "https://zxpress.ru/print.php?id=2926",
+    "title_link": "Интервью - Отвечает Алексей Леготин (Famous Faces Factory).",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "Интервью_-_Отвечает_Алексеи_Леготин_Famous_Faces_Factory"
+  },
+  {
+    "article_id": 2925,
+    "article_url": "https://zxpress.ru/article.php?id=2925",
+    "print_url": "https://zxpress.ru/print.php?id=2925",
+    "title_link": "Список BBS - Сетевой гейт. Список BBS.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Список_BBS_-_Сетевои_геит_Список_BBS"
+  },
+  {
+    "article_id": 2927,
+    "article_url": "https://zxpress.ru/article.php?id=2927",
+    "print_url": "https://zxpress.ru/print.php?id=2927",
+    "title_link": "Устав SpbZxNet - Памятка начинающим пользователям сети SpbZxNet v2.01.",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Устав_SpbZxNet_-_Памятка_начинающим_пользователям_сети_SpbZx"
+  },
+  {
+    "article_id": 2928,
+    "article_url": "https://zxpress.ru/article.php?id=2928",
+    "print_url": "https://zxpress.ru/print.php?id=2928",
+    "title_link": "Хит-парад - 10 лучших программ, по итогам продаж фирмы Welcome.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Хит-парад_-_10_лучших_программ_по_итогам_продаж_фирмы_Welcom"
+  }
+]

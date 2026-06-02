@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1998-05-21",
+  "order": 3,
+  "article_id": 3270,
+  "title_link": "Улыбнись - Сутки хаккера, обыкновенные.",
+  "title_h1": "Body 10 - Улыбнись - Сутки хаккера, обыкновенные.",
+  "print_url": "https://zxpress.ru/print.php?id=3270",
+  "article_url": "https://zxpress.ru/article.php?id=3270",
+  "fetched_at": "2026-05-31T21:41:11Z"
+}

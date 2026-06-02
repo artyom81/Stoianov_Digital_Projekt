@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2001-12-31",
+  "order": 31,
+  "article_id": 3484,
+  "title_link": "Thank you! - пишите нам!",
+  "title_h1": "Buzz 20 - Thank you! - пишите нам!",
+  "print_url": "https://zxpress.ru/print.php?id=3484",
+  "article_url": "https://zxpress.ru/article.php?id=3484",
+  "fetched_at": "2026-05-31T21:49:09Z"
+}

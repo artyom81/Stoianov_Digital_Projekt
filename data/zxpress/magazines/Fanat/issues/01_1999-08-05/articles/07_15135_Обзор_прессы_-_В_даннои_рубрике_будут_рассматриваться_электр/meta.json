@@ -1,0 +1,15 @@
+{
+  "magazine_id": 70,
+  "magazine_name": "Fanat",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-08-05",
+  "order": 7,
+  "article_id": 15135,
+  "title_link": "Обзор прессы - В данной рубрике будут рассматриваться электронные газеты и журналы, которые попались мне на глаза.",
+  "title_h1": "Fanat 01 - Обзор прессы - В данной рубрике будут рассматриваться электронные газеты и журналы, которые попались мне на глаза.",
+  "print_url": "https://zxpress.ru/print.php?id=15135",
+  "article_url": "https://zxpress.ru/article.php?id=15135",
+  "fetched_at": "2026-05-31T22:03:49Z"
+}

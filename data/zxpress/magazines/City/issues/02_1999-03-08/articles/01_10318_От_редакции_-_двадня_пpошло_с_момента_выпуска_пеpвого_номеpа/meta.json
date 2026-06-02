@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-03-08",
+  "order": 1,
+  "article_id": 10318,
+  "title_link": "От редакции - два\r\nдня пpошло с момента выпуска пеpвого номеpа.",
+  "title_h1": "City 02 - От редакции - два дня пpошло с момента выпуска пеpвого номеpа.",
+  "print_url": "https://zxpress.ru/print.php?id=10318",
+  "article_url": "https://zxpress.ru/article.php?id=10318",
+  "fetched_at": "2026-05-31T21:49:59Z"
+}

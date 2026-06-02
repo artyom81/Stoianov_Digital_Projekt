@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1999-12-31",
+  "order": 10,
+  "article_id": 8344,
+  "title_link": "IS-DOS - Операционные системы для Спектрума.",
+  "title_h1": "KrNews 11 - IS-DOS - Операционные системы для Спектрума.",
+  "print_url": "https://zxpress.ru/print.php?id=8344",
+  "article_url": "https://zxpress.ru/article.php?id=8344",
+  "fetched_at": "2026-05-31T22:17:52Z"
+}

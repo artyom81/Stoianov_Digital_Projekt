@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1998-04-30",
+  "order": 6,
+  "article_id": 348,
+  "title_link": "Севастополь - о спектруме в Севастополе",
+  "title_h1": "Micro 04 - Севастополь - о спектруме в Севастополе",
+  "print_url": "https://zxpress.ru/print.php?id=348",
+  "article_url": "https://zxpress.ru/article.php?id=348",
+  "fetched_at": "2026-05-31T22:25:17Z"
+}

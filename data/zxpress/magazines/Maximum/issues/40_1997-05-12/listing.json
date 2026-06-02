@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 9789,
+    "article_url": "https://zxpress.ru/article.php?id=9789",
+    "print_url": "https://zxpress.ru/print.php?id=9789",
+    "title_link": "Версии - 2 версии игры: CHRONOS 128K.",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "Версии_-_2_версии_игры_CHRONOS_128K"
+  },
+  {
+    "article_id": 219,
+    "article_url": "https://zxpress.ru/article.php?id=219",
+    "print_url": "https://zxpress.ru/print.php?id=219",
+    "title_link": "Вступление - Заполняйте и присылайте анкеты.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "Вступление_-_Заполняите_и_присылаите_анкеты"
+  },
+  {
+    "article_id": 220,
+    "article_url": "https://zxpress.ru/article.php?id=220",
+    "print_url": "https://zxpress.ru/print.php?id=220",
+    "title_link": "Наша анкета - небольшой опрос.",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "Наша_анкета_-_небольшои_опрос"
+  },
+  {
+    "article_id": 9791,
+    "article_url": "https://zxpress.ru/article.php?id=9791",
+    "print_url": "https://zxpress.ru/print.php?id=9791",
+    "title_link": "Печатается с продолж. - Как ломаются полуоси (часть 2).",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Печатается_с_продолж_-_Как_ломаются_полуоси_часть_2"
+  },
+  {
+    "article_id": 221,
+    "article_url": "https://zxpress.ru/article.php?id=221",
+    "print_url": "https://zxpress.ru/print.php?id=221",
+    "title_link": "Презентация - Презентация новой газеты \"Мираж\".",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "Презентация_-_Презентация_новои_газеты_Мираж"
+  },
+  {
+    "article_id": 222,
+    "article_url": "https://zxpress.ru/article.php?id=222",
+    "print_url": "https://zxpress.ru/print.php?id=222",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9788,
+    "article_url": "https://zxpress.ru/article.php?id=9788",
+    "print_url": "https://zxpress.ru/print.php?id=9788",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 7,
+    "issue_label": "40",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 9790,
+    "article_url": "https://zxpress.ru/article.php?id=9790",
+    "print_url": "https://zxpress.ru/print.php?id=9790",
+    "title_link": "Сплошные приколы - Сказка о храбром программисте, царе Мегафлопе, и злодее\r\n Полинорфе.",
+    "order": 8,
+    "issue_label": "40",
+    "short_slug": "Сплошные_приколы_-_Сказка_о_храбром_программисте_царе_Мегафл"
+  }
+]

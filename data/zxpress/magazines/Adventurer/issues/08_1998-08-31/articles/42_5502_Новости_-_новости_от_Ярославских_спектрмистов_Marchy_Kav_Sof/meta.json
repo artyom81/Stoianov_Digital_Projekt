@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-08-31",
+  "order": 42,
+  "article_id": 5502,
+  "title_link": "Новости - новости от Ярославских спектрмистов: Marchy, Kav Software, Nicolas Viper, Dr Shura, Harkonnen, MacKeymn, DJ Reason.",
+  "title_h1": "Adventurer 08 - Новости - новости от Ярославских спектрмистов: Marchy, Kav Software, Nicolas Viper, Dr Shura, Harkonnen, MacKeymn, DJ Reason.",
+  "print_url": "https://zxpress.ru/print.php?id=5502",
+  "article_url": "https://zxpress.ru/article.php?id=5502",
+  "fetched_at": "2026-05-31T21:33:54Z"
+}

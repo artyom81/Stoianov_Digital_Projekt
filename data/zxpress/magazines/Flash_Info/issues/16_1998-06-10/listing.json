@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13871,
+    "article_url": "https://zxpress.ru/article.php?id=13871",
+    "print_url": "https://zxpress.ru/print.php?id=13871",
+    "title_link": "Вступление - Cтоль поспешный выход связан с обилием новостей в этом номере.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Вступление_-_Cтоль_поспешныи_выход_связан_с_обилием_новостеи"
+  },
+  {
+    "article_id": 13872,
+    "article_url": "https://zxpress.ru/article.php?id=13872",
+    "print_url": "https://zxpress.ru/print.php?id=13872",
+    "title_link": "Новости - вести с полей: CPU, EТERNIТY INDUSТRY.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Новости_-_вести_с_полеи_CPU_EТERNIТY_INDUSТRY"
+  },
+  {
+    "article_id": 13873,
+    "article_url": "https://zxpress.ru/article.php?id=13873",
+    "print_url": "https://zxpress.ru/print.php?id=13873",
+    "title_link": "Обзор игр - Quadrax, Samurai Warrior, Match Day, Mad Mix 1,2.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Обзор_игр_-_Quadrax_Samurai_Warrior_Match_Day_Mad_Mix_12"
+  },
+  {
+    "article_id": 13874,
+    "article_url": "https://zxpress.ru/article.php?id=13874",
+    "print_url": "https://zxpress.ru/print.php?id=13874",
+    "title_link": "Пуля в воде не тонет? - Полезные и интересные сведения, которые можно подчерпнуть из голливу дских фильмов.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Пуля_в_воде_не_тонет_-_Полезные_и_интересные_сведения_которы"
+  },
+  {
+    "article_id": 13875,
+    "article_url": "https://zxpress.ru/article.php?id=13875",
+    "print_url": "https://zxpress.ru/print.php?id=13875",
+    "title_link": "Реклама - XОТИТE?! МНОГО НОВОГО П/О ДЛЯ SPEACY.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_XОТИТE_МНОГО_НОВОГО_ПО_ДЛЯ_SPEACY"
+  },
+  {
+    "article_id": 13876,
+    "article_url": "https://zxpress.ru/article.php?id=13876",
+    "print_url": "https://zxpress.ru/print.php?id=13876",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

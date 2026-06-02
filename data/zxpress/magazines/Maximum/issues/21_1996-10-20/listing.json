@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 165,
+    "article_url": "https://zxpress.ru/article.php?id=165",
+    "print_url": "https://zxpress.ru/print.php?id=165",
+    "title_link": "Предисловие - Привет всем любителям...",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "Предисловие_-_Привет_всем_любителям"
+  },
+  {
+    "article_id": 166,
+    "article_url": "https://zxpress.ru/article.php?id=166",
+    "print_url": "https://zxpress.ru/print.php?id=166",
+    "title_link": "Сплошные приколы - Сборник высказываний советских офицеров (продолжение).",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Сплошные_приколы_-_Сборник_высказывании_советских_офицеров_п"
+  },
+  {
+    "article_id": 12234,
+    "article_url": "https://zxpress.ru/article.php?id=12234",
+    "print_url": "https://zxpress.ru/print.php?id=12234",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12235,
+    "article_url": "https://zxpress.ru/article.php?id=12235",
+    "print_url": "https://zxpress.ru/print.php?id=12235",
+    "title_link": "Печатается с продолж. - Телесценарий: Спасение-911.",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Печатается_с_продолж_-_Телесценарии_Спасение-911"
+  },
+  {
+    "article_id": 12236,
+    "article_url": "https://zxpress.ru/article.php?id=12236",
+    "print_url": "https://zxpress.ru/print.php?id=12236",
+    "title_link": "Версии - 2 версии игры: THE TURN.",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Версии_-_2_версии_игры_THE_TURN"
+  },
+  {
+    "article_id": 12237,
+    "article_url": "https://zxpress.ru/article.php?id=12237",
+    "print_url": "https://zxpress.ru/print.php?id=12237",
+    "title_link": "Видео - Боевик \"Поезд с деньгами\".",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "Видео_-_Боевик_Поезд_с_деньгами"
+  },
+  {
+    "article_id": 12238,
+    "article_url": "https://zxpress.ru/article.php?id=12238",
+    "print_url": "https://zxpress.ru/print.php?id=12238",
+    "title_link": "Розыск - Разыскиваются: SHADOW DANGER 128 & FLAG...",
+    "order": 7,
+    "issue_label": "21",
+    "short_slug": "Розыск_-_Разыскиваются_SHADOW_DANGER_128_FLAG"
+  },
+  {
+    "article_id": 12239,
+    "article_url": "https://zxpress.ru/article.php?id=12239",
+    "print_url": "https://zxpress.ru/print.php?id=12239",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

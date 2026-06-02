@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 14485,
+    "article_url": "https://zxpress.ru/article.php?id=14485",
+    "print_url": "https://zxpress.ru/print.php?id=14485",
+    "title_link": "Вступление - Этот номер мне пришлось делать на БАЙТе-128,\r\nт.к. мой Scorpion сломался.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_Этот_номер_мне_пришлось_делать_на_БАИТе-128тк_м"
+  },
+  {
+    "article_id": 14486,
+    "article_url": "https://zxpress.ru/article.php?id=14486",
+    "print_url": "https://zxpress.ru/print.php?id=14486",
+    "title_link": "Игры - топ игр и журналов для спектрума.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Игры_-_топ_игр_и_журналов_для_спектрума"
+  },
+  {
+    "article_id": 14487,
+    "article_url": "https://zxpress.ru/article.php?id=14487",
+    "print_url": "https://zxpress.ru/print.php?id=14487",
+    "title_link": "Железо - описание схемы подключения 1Mb 30pin SIMM к \"Пентагон\".",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Железо_-_описание_схемы_подключения_1Mb_30pin_SIMM_к_Пентаго"
+  },
+  {
+    "article_id": 14488,
+    "article_url": "https://zxpress.ru/article.php?id=14488",
+    "print_url": "https://zxpress.ru/print.php?id=14488",
+    "title_link": "Отрывки из писем - Pawel/RealSoft, Mr.ZEG/TVG, Ph.Digger.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Отрывки_из_писем_-_PawelRealSoft_MrZEGTVG_PhDigger"
+  },
+  {
+    "article_id": 14489,
+    "article_url": "https://zxpress.ru/article.php?id=14489",
+    "print_url": "https://zxpress.ru/print.php?id=14489",
+    "title_link": "Юмор - Единица измерения в физике !",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Юмор_-_Единица_измерения_в_физике"
+  },
+  {
+    "article_id": 14490,
+    "article_url": "https://zxpress.ru/article.php?id=14490",
+    "print_url": "https://zxpress.ru/print.php?id=14490",
+    "title_link": "FIDO-шалости - Кpаткое пособие детям по сбоpке домашнего компьютеpа из неликвидов.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "FIDO-шалости_-_Кpаткое_пособие_детям_по_сбоpке_домашнего_ком"
+  },
+  {
+    "article_id": 14491,
+    "article_url": "https://zxpress.ru/article.php?id=14491",
+    "print_url": "https://zxpress.ru/print.php?id=14491",
+    "title_link": "Реклама - Любой Soft для Вас и Вашего ZX 48-256.Есть все!",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Любои_Soft_для_Вас_и_Вашего_ZX_48-256Есть_все"
+  }
+]

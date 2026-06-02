@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3266,
+    "article_url": "https://zxpress.ru/article.php?id=3266",
+    "print_url": "https://zxpress.ru/print.php?id=3266",
+    "title_link": "PC SUX ! - AMIGA RULEZZZ ...!",
+    "order": 1,
+    "issue_label": "0F",
+    "short_slug": "PC_SUX_-_AMIGA_RULEZZZ"
+  },
+  {
+    "article_id": 3264,
+    "article_url": "https://zxpress.ru/article.php?id=3264",
+    "print_url": "https://zxpress.ru/print.php?id=3264",
+    "title_link": "Новый проект - MEGADEMO к дню рождения Спектрума.",
+    "order": 2,
+    "issue_label": "0F",
+    "short_slug": "Новыи_проект_-_MEGADEMO_к_дню_рождения_Спектрума"
+  },
+  {
+    "article_id": 3262,
+    "article_url": "https://zxpress.ru/article.php?id=3262",
+    "print_url": "https://zxpress.ru/print.php?id=3262",
+    "title_link": "От авторов - Об особенностях каждой рубрики газеты.",
+    "order": 3,
+    "issue_label": "0F",
+    "short_slug": "От_авторов_-_Об_особенностях_каждои_рубрики_газеты"
+  },
+  {
+    "article_id": 3267,
+    "article_url": "https://zxpress.ru/article.php?id=3267",
+    "print_url": "https://zxpress.ru/print.php?id=3267",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "0F",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3265,
+    "article_url": "https://zxpress.ru/article.php?id=3265",
+    "print_url": "https://zxpress.ru/print.php?id=3265",
+    "title_link": "Улыбнись - Распорядок рабочего дня.",
+    "order": 5,
+    "issue_label": "0F",
+    "short_slug": "Улыбнись_-_Распорядок_рабочего_дня"
+  },
+  {
+    "article_id": 3263,
+    "article_url": "https://zxpress.ru/article.php?id=3263",
+    "print_url": "https://zxpress.ru/print.php?id=3263",
+    "title_link": "Что нового - О новинках в Минске.\r\n Пароли к игре The Last Courier.",
+    "order": 6,
+    "issue_label": "0F",
+    "short_slug": "Что_нового_-_О_новинках_в_Минске_Пароли_к_игре_The_Last_Cour"
+  }
+]

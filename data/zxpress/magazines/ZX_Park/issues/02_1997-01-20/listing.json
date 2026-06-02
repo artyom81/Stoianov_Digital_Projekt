@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13320,
+    "article_url": "https://zxpress.ru/article.php?id=13320",
+    "print_url": "https://zxpress.ru/print.php?id=13320",
+    "title_link": "Введение - начиная издавать эту газету, мы\r\nрасчитывали на то, что газета сможет помочь пользователям компьютеров г.Чайковский поддерживать связь.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Введение_-_начиная_издавать_эту_газету_мырасчитывали_на_то_ч"
+  },
+  {
+    "article_id": 13321,
+    "article_url": "https://zxpress.ru/article.php?id=13321",
+    "print_url": "https://zxpress.ru/print.php?id=13321",
+    "title_link": "Новости - В городе новостей особых нет.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Новости_-_В_городе_новостеи_особых_нет"
+  },
+  {
+    "article_id": 13322,
+    "article_url": "https://zxpress.ru/article.php?id=13322",
+    "print_url": "https://zxpress.ru/print.php?id=13322",
+    "title_link": "Обзор - За минувшую неделю поступили новые про\r\nграммы разных жанров.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_За_минувшую_неделю_поступили_новые_программы_разных"
+  },
+  {
+    "article_id": 13323,
+    "article_url": "https://zxpress.ru/article.php?id=13323",
+    "print_url": "https://zxpress.ru/print.php?id=13323",
+    "title_link": "Хит-Парад - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Хит-Парад_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13324,
+    "article_url": "https://zxpress.ru/article.php?id=13324",
+    "print_url": "https://zxpress.ru/print.php?id=13324",
+    "title_link": "Советы - Игра \"48 УТЮГОВ\", пароли уровней.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Советы_-_Игра_48_УТЮГОВ_пароли_уровнеи"
+  },
+  {
+    "article_id": 13325,
+    "article_url": "https://zxpress.ru/article.php?id=13325",
+    "print_url": "https://zxpress.ru/print.php?id=13325",
+    "title_link": "Реклама - Ремонт компьютеров, дисководов , мониторов, принтеров и т.д.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Ремонт_компьютеров_дисководов_мониторов_принтеров"
+  }
+]

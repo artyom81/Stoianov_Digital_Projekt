@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 17589,
+    "article_url": "https://zxpress.ru/article.php?id=17589",
+    "print_url": "https://zxpress.ru/print.php?id=17589",
+    "title_link": "Вступление - От авторов.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Вступление_-_От_авторов"
+  },
+  {
+    "article_id": 17590,
+    "article_url": "https://zxpress.ru/article.php?id=17590",
+    "print_url": "https://zxpress.ru/print.php?id=17590",
+    "title_link": "Рассказ - Шведская тройка.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Рассказ_-_Шведская_троика"
+  }
+]

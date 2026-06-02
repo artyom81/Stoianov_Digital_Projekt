@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2905,
+    "article_url": "https://zxpress.ru/article.php?id=2905",
+    "print_url": "https://zxpress.ru/print.php?id=2905",
+    "title_link": "General Sound - X-Player - первый нормальный плеер модов для General Sound.",
+    "order": 1,
+    "issue_label": "29",
+    "short_slug": "General_Sound_-_X-Player_-_первыи_нормальныи_плеер_модов_для"
+  },
+  {
+    "article_id": 2898,
+    "article_url": "https://zxpress.ru/article.php?id=2898",
+    "print_url": "https://zxpress.ru/print.php?id=2898",
+    "title_link": "Oт редакции - О работе сети SpbZxNet.",
+    "order": 2,
+    "issue_label": "29",
+    "short_slug": "Oт_редакции_-_О_работе_сети_SpbZxNet"
+  },
+  {
+    "article_id": 2901,
+    "article_url": "https://zxpress.ru/article.php?id=2901",
+    "print_url": "https://zxpress.ru/print.php?id=2901",
+    "title_link": "Дискуссия - XTR-modem и программное обеспечение: cтоит ли покупать PC, и если, да , то какой ?",
+    "order": 3,
+    "issue_label": "29",
+    "short_slug": "Дискуссия_-_XTR-modem_и_программное_обеспечение_cтоит_ли_пок"
+  },
+  {
+    "article_id": 2900,
+    "article_url": "https://zxpress.ru/article.php?id=2900",
+    "print_url": "https://zxpress.ru/print.php?id=2900",
+    "title_link": "Интернет - Электронная почта. Списки рассылки. Телеконференция UseNet.",
+    "order": 4,
+    "issue_label": "29",
+    "short_slug": "Интернет_-_Электронная_почта_Списки_рассылки_Телеконференция"
+  },
+  {
+    "article_id": 2904,
+    "article_url": "https://zxpress.ru/article.php?id=2904",
+    "print_url": "https://zxpress.ru/print.php?id=2904",
+    "title_link": "Лит.страничка - Дневник. Дон Громкий. (продолжение)",
+    "order": 5,
+    "issue_label": "29",
+    "short_slug": "Литстраничка_-_Дневник_Дон_Громкии_продолжение"
+  },
+  {
+    "article_id": 2899,
+    "article_url": "https://zxpress.ru/article.php?id=2899",
+    "print_url": "https://zxpress.ru/print.php?id=2899",
+    "title_link": "Список BBS - Список BBS. Открылась новая I.P.S. BBS.",
+    "order": 6,
+    "issue_label": "29",
+    "short_slug": "Список_BBS_-_Список_BBS_Открылась_новая_IPS_BBS"
+  },
+  {
+    "article_id": 2906,
+    "article_url": "https://zxpress.ru/article.php?id=2906",
+    "print_url": "https://zxpress.ru/print.php?id=2906",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 7,
+    "issue_label": "29",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2902,
+    "article_url": "https://zxpress.ru/article.php?id=2902",
+    "print_url": "https://zxpress.ru/print.php?id=2902",
+    "title_link": "Эхо-конференции - Список зарегистрированных эхо-конференций сети SPbZXNet.\r\n Список эхо-конференций гейтуемых из FIDO.",
+    "order": 8,
+    "issue_label": "29",
+    "short_slug": "Эхо-конференции_-_Список_зарегистрированных_эхо-конференции"
+  },
+  {
+    "article_id": 2903,
+    "article_url": "https://zxpress.ru/article.php?id=2903",
+    "print_url": "https://zxpress.ru/print.php?id=2903",
+    "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 8 & 9).",
+    "order": 9,
+    "issue_label": "29",
+    "short_slug": "Юмор_-_Штирлиц_-_русскии_SysOp_глава_8_9"
+  }
+]

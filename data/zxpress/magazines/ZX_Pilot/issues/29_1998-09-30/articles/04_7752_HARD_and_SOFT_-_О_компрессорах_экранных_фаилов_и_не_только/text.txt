@@ -1,0 +1,498 @@
+ZX Pilot 29 - HARD and SOFT - О компрессорах экранных файлов и не только...
+(C) Д.П.
+
+ О компрессорах экранных файлов и не только...
+
+   Поводом  для  написания  этого  текста послужил тот факт, что
+большинство   (!)   программ,  работающих  с  экранными  файлами
+(картинками)   совершенно  не  хотят  работать  с  запакованными
+экранами,   и  работают  лишь  с  файлами  длиной  6912  байт  -
+стандартными экранными файлами.
+   На самом деле определить с точностью 99%, что конкретный файл
+является  картинкой,  не  представляет  особого  труда. В каждом
+распаковщике обязательно должны присутствовать две вещи:
+
+   1. Подвязка под загруженный адрес.
+
+   В большинстве случаев делают так:
+
+...
+CALL#0056
+ADR1DECSP
+DECSP;далее из стека извлекается адрес ADR1
+...
+
+   Но иногда встречается и такой вариант:
+
+...
+CALL#1FC6
+ADR2...;в регистровой паре HL адрес ADR2
+
+   2. Поскольку   заставка   распаковывается   на  экран,  то  в
+распаковщике  должна  стоять  команда  загрузки регистровой пары
+числом #4000. В подавляющем большинстве случаев (по крайней мере
+мне  не  встречались  другие  варианты)  такой регистровой парой
+является DE.
+
+   Подведу  итог:  Файл  длиной  менее  6912  байт  является  (с
+вероятностью 99%) упакованным экраном, если в его начале (первые
+50 байт) встречаются команды:
+
+   1. CALL XXXX: DEC SP: DEC SP или CALL #1FC6
+   2. LD DE,#4000 или LD DE,#4800 или LD DE,#5000
+
+   Примечание:  распаковщики,  использующие  буфер 6912 байт для
+распаковки экрана не могут быть опознанны вышеописанным способом
+по  той  причине,  что загрузка регистровой пары (не обязательно
+DE) числом #4000 в первые 50 байт распаковщика не попадают.
+
+   В  последнее  время  могут  попадаться  упакованные файлы без
+распаковщика. Такие файлы, например, создают программы:
+
+Quick Screen Viewer 1.0 by Abba/Inside Law: (формат упакованного
+экрана  такой  же,  как  у ASC, только без декомпрессора). Файлы
+такого формата имеют расширение "$" и параметр старт=40000
+
+Laser Compact 4.0: расширение "P", параметр старт=40004(#9C44)
+Laser Compact 5.0: расширение "P", параметр старт=40005(#9C45)
+ 
+   Ниже  приведены  3  распаковщика:  для  файлов, упакованных в
+формате  ASC,  LC4.0,  LC5.0. Для распаковки картинки необходимо
+записать   в   HL   адрес   упакованной   картинки   и   вызвать
+соответствующий распаковщик.
+   Чтобы  исключить  некоторые  специфические  команды  STORM  и
+другую  малополезную  информацию,  распаковщики  даны  в формате
+дизассемблера STS5.1.
+
+Распаковщик ASC (Screen Crasher):
+   (Минимальная коррекция авторского варианта,
+     подключаемого к файлу).
+
+LL8000PUSHHL
+CALL#0052
+DECSP
+DECSP
+POPBC
+LDHL,#0097
+ADDHL,BC
+EXDE,HL 
+LDHL,#0066
+ADDHL,BC
+LD(HL),E
+INCHL
+LD(HL),D
+LDHL,#007B
+ADDHL,BC
+LD(HL),E
+INCHL
+LD(HL),D
+LDHL,#0089
+ADDHL,BC
+LD(HL),E
+INCHL
+LD(HL),D
+NOP
+NOP
+NOP
+POPHL
+LDDE,#4000
+PUSHDE
+EXX
+EXAF,AF' 
+LDA,#03
+ORA
+LDB,#08
+LDC,B
+POPHL
+EXAF,AF' 
+EXX
+LL8034LDA,(HL)
+BIT7,A
+JRNZ,LL8073
+AND#07
+LDC,A
+LDA,(HL)
+RRCA
+RRCA
+RRCA
+AND#0F
+ADDA,#03
+LDB,A
+INCHL
+LDA,E
+SUB(HL)
+INCHL
+PUSHHL
+LDL,A
+LDA,D
+SBCA,C
+LDH,A
+LL804EPUSHHL
+LDA,H
+AND#58
+CP#58
+JRZ,LL8068
+LDC,A
+LDA,L
+AND#07
+ORC
+LDC,A
+ADDHL,HL
+ADDHL,HL
+LDA,H
+AND#1F
+LDH,A
+LDA,L
+AND#E0
+ORH
+LDL,A
+LDH,C
+LL8068LDA,(HL)
+CALL#74A6
+POPHL
+INCHL
+DJNZLL804E
+POPHL
+JRLL8034
+LL8073AND#7F
+JRZ,LL8094
+INCHL
+BIT6,A
+JRNZ,LL8086
+LDB,A
+LL807DLDA,(HL)
+CALL#74A6
+INCHL
+DJNZLL807D
+JRLL8034
+LL8086AND#3F
+ADDA,#03
+LDB,A
+LDA,(HL)
+LL808CCALL#74A6
+DJNZLL808C
+INCHL
+JRLL8034
+LL8094EXX 
+LDHL,#2758
+EXX
+EI
+RET
+INCDE
+EXX
+LD(HL),A
+EXAF,AF' 
+JRZ,LL80BA
+INCH
+DJNZLL80BF
+LDDE,#F820
+ADDHL,DE
+DECC
+JRNZ,LL80BD
+LDDE,#FF01
+ADDHL,DE
+ADDA,#08
+JRNC,LL80BB
+LDDE,#07E0
+ADDHL,DE
+DECA
+JRLL80BB
+LL80BAINCHL
+LL80BBLDC,#08
+LL80BDLDB,#08
+LL80BFEXAF,AF' 
+EXX
+RET
+
+Распаковщик Laser Compact 4.0.
+
+LL8100  LDA,(HL)
+LDLX,A
+AND#03
+RLCA
+RLCA
+RLCA
+OR#40
+LDD,A
+LDE,#00
+LDA,(HL)
+INCHL
+AND#FC
+LDC,A
+LDA,#58
+SUBC
+LDC,A
+LL8116LDA,(HL)
+SUB#C0
+JRC,LL8135
+INCHL
+RETZ
+RRA
+LDB,A
+LDA,(HL)
+JRNC,LL8168
+SRLB
+JRNZ,LL812D
+LDB,A
+INCHL
+JRNC,LL8131
+LL812AXORA
+JRLL8168
+LL812DJRC,LL812A
+INCB
+XORA
+LL8131LDA,(HL)
+INCHL
+JRLL8168
+LL8135ADDA,#40
+BIT7,A
+EXAF,AF' 
+LDA,(HL)
+OR#F8
+LDB,A
+LDA,(HL)
+INCHL
+RRCA
+RRCA
+RRCA
+AND#0F
+JRNZ,LL814C
+LDA,(HL)
+INCHL
+RRA 
+RLB
+LL814CINCA
+PUSHHL
+LDL,(HL)
+LDH,B
+LDB,A
+EXAF,AF' 
+ADDHL,DE
+LL8153EXAF,AF' 
+LDA,H
+CPC
+JRNC,LL8191
+XORL
+AND#F8
+XORL
+EXX
+LDD,A
+EXX
+XORL
+XORH
+RLCA
+RLCA
+LL8163EXX
+LDE,A
+EXAF,AF' 
+LDA,(DE)
+EXX
+LL8168EXAF,AF' 
+LDA,D
+CPC
+JRNC,LL8192
+XORE
+AND#F8
+XORE
+EXX
+LDD,A
+EXX
+XORE
+XORD
+RLCA
+RLCA
+LL8178EXX
+LDE,A
+EXAF,AF' 
+LD(DE),A
+EXX
+INCDE
+JRZ,LL8188
+INCHL
+JRC,LL818B
+LDA,(HL)
+LL8184DJNZLL8168
+JRLL8116
+LL8188JRNC,LL8184
+DECHL
+LL818BDJNZLL8153
+POPHL
+INCHL
+JRLL8116
+LL8191SCF
+LL8192PUSHAF
+ADDA,LX
+EXX
+LDD,A
+EXX
+POPAF
+LDA,E
+JRNC,LL8178
+LDA,L
+JRLL8163
+
+Распаковщик Laser Compact 5.0.
+
+LL8200LDA,(HL)
+LDD,A
+AND#03
+RLCA
+RLCA
+RLCA
+OR#40
+EXX
+LDD,A
+LDE,#00
+EXX
+LDA,(HL)
+INCHL
+AND#FC
+LDC,A
+LDA,#58
+SUBC
+LDHX,A
+LDE,#80
+LL821ALDA,(HL)
+INCHL
+LDLX,#FF
+LL821FEXX
+JRNZ,LL827A
+SLAE
+JRNZ,LL822A
+LDE,(HL)
+INCHL
+RLE
+LL822AJRC,LL821A
+LL822CEXAF,AF' 
+LDBC,#FF56
+LDA,B
+LL8231SLAE
+JRNZ,LL8239
+LDE,(HL)
+INCHL
+RLE
+LL8239JRNC,LL8243
+SLAC
+JRC,LL8248
+SLAB
+JRLL8231
+LL8243SLAC
+CCF
+JRC,LL824B
+LL8248RLA
+JRNZ,LL8231
+LL824BADCA,B
+EXAF,AF' 
+JRC,LL825A
+EXAF,AF' 
+CP#FC
+JRZ,LL82A6
+LL8254ADCA,#FF
+LDLX,A
+JRLL822C
+LL825ALDA,(HL)
+INCHL
+SLAE
+JRNZ,LL8264
+LDE,(HL)
+INCHL
+RLE
+LL8264EXX
+LDL,A
+EXAF,AF' 
+LDH,A
+ADDHL,DE
+LL8269LDA,H
+CPHX
+JRNC,LL8299
+XORL
+AND#F8
+XORL
+LDB,A
+XORL
+XORH
+RLCA
+RLCA
+LDC,A
+LL8278EXAF,AF' 
+LDA,(BC)
+LL827AEXAF,AF' 
+LDA,D
+CPHX
+JRNC,LL829A
+XORE
+AND#F8
+XORE
+LDB,A
+XORE
+XORD
+RLCA
+RLCA
+LDC,A
+LL828AEXAF,AF' 
+LD(BC),A
+INCDE
+JRNC,LL8291
+DECHL
+DECHL
+LL8291INCHL
+EXAF,AF' 
+INCLX
+JRNZ,LL8269
+JRLL821F
+LL8299SCF
+LL829APUSHAF
+EXX
+ADDA,D
+EXX
+LDB,A
+POPAF
+LDC,E
+JRNC,LL828A
+LDC,L
+JRLL8278
+LL82A6LDA,(HL)
+INCHL
+INCA
+JRNZ,LL8254
+LDHL,#2758
+EXX
+RET
+
+   Ниже  приведены  результаты сравнений различных компрессоров.
+Эти 20 картинок заняли первые места на Enlight'96.
+
+экранASCLC3.1LC4.0LC5.0LAZYMSP1.4
+
+ 1. tiger219720472007194320322025
+ 2. chaos+494646664609435244424481
+ 3. chaos413038883921380339033919
+ 4. darkgod393337233700359636483679
+ 5. kazansk250522882277219822422256
+ 6. knight404639163878380638953953
+ 7. slavik295727992782282929262952
+ 8. st.peter 993 901 806 807 866 852
+ 9. fil4375934663461328833683399
+10. before323229842983288829932975
+11. rush391136923687358036833683
+12. fil2169915101459141915071471
+13. shaoling373635503538350036393679
+14. go489446594621468947554746
+15. lifeshit271325322473242325572553
+16. znachok196118331804179818961896
+17. steel151413771303128013571340
+18. fil3207118951875188019811973
+19. hardrok411838763891376439363963
+20. fil1235821602161217422232237
+
+
+ASC:Screen Crasher 2.6 by ASC, 1992 год;
+LC3.1:Laser Compact 3.1, 1995 год;
+LC4.0:Laser Compact 4.0, май 1998 года;
+LC5.0:Laser Compact 5.0, август 1998 года;
+LAZY:LAZYPACK 1.0 by PANDA, декабрь 1997 года;
+MSP1.4:Maxsoft Screen Packer 1.4, март 1998 года,
+    (с использованием буфера 6912 байт).
+
+   Все  экраны  были  упакованы в режиме "максимальное сжатие" с
+"подвязкой" распаковщика.

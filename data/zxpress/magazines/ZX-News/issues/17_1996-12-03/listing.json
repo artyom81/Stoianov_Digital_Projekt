@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 2791,
+    "article_url": "https://zxpress.ru/article.php?id=2791",
+    "print_url": "https://zxpress.ru/print.php?id=2791",
+    "title_link": "Oт авторов - Фидошные рубрики в ZX-News.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Oт_авторов_-_Фидошные_рубрики_в_ZX-News"
+  },
+  {
+    "article_id": 2798,
+    "article_url": "https://zxpress.ru/article.php?id=2798",
+    "print_url": "https://zxpress.ru/print.php?id=2798",
+    "title_link": "Информация - Что такое код '73'.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Информация_-_Что_такое_код_73"
+  },
+  {
+    "article_id": 2796,
+    "article_url": "https://zxpress.ru/article.php?id=2796",
+    "print_url": "https://zxpress.ru/print.php?id=2796",
+    "title_link": "Письма - Какие бывают ZX'ы... : Москва 48К, Балтик, Москва 128К,\r\n Ленинград 1, Пентагон 48.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Письма_-_Какие_бывают_ZXы_Москва_48К_Балтик_Москва_128К_Лени"
+  },
+  {
+    "article_id": 2794,
+    "article_url": "https://zxpress.ru/article.php?id=2794",
+    "print_url": "https://zxpress.ru/print.php?id=2794",
+    "title_link": "Программистам - Перехват Reset'a на 128к машинах (на примере игры Doble Xinox).",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Программистам_-_Перехват_Reseta_на_128к_машинах_на_примере_и"
+  },
+  {
+    "article_id": 2800,
+    "article_url": "https://zxpress.ru/article.php?id=2800",
+    "print_url": "https://zxpress.ru/print.php?id=2800",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2792,
+    "article_url": "https://zxpress.ru/article.php?id=2792",
+    "print_url": "https://zxpress.ru/print.php?id=2792",
+    "title_link": "Сетевые новости - График работы BBS'ок.",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Сетевые_новости_-_График_работы_BBSок"
+  },
+  {
+    "article_id": 2795,
+    "article_url": "https://zxpress.ru/article.php?id=2795",
+    "print_url": "https://zxpress.ru/print.php?id=2795",
+    "title_link": "Системные программы - Translator (BBS Utilites) - замена букв Н,Р,У на латинские.\r\n Killer - обрезка муссора в конце текстовго файла.\r\n Adder - \"склеивает\" файлы в один.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "Системные_программы_-_Translator_BBS_Utilites_-_замена_букв"
+  },
+  {
+    "article_id": 2793,
+    "article_url": "https://zxpress.ru/article.php?id=2793",
+    "print_url": "https://zxpress.ru/print.php?id=2793",
+    "title_link": "Скорпион-256 - Ремонт Скорпиона своими руками (часть-2)",
+    "order": 8,
+    "issue_label": "17",
+    "short_slug": "Скорпион-256_-_Ремонт_Скорпиона_своими_руками_часть-2"
+  },
+  {
+    "article_id": 2799,
+    "article_url": "https://zxpress.ru/article.php?id=2799",
+    "print_url": "https://zxpress.ru/print.php?id=2799",
+    "title_link": "Хит-парад - 10 лучших программ, по итогам продаж фирмы Welcome.",
+    "order": 9,
+    "issue_label": "17",
+    "short_slug": "Хит-парад_-_10_лучших_программ_по_итогам_продаж_фирмы_Welcom"
+  },
+  {
+    "article_id": 2797,
+    "article_url": "https://zxpress.ru/article.php?id=2797",
+    "print_url": "https://zxpress.ru/print.php?id=2797",
+    "title_link": "Юмор - Фидошный юмор - Словарь ламера.",
+    "order": 10,
+    "issue_label": "17",
+    "short_slug": "Юмор_-_Фидошныи_юмор_-_Словарь_ламера"
+  }
+]

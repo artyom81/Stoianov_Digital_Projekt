@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "47",
+  "issue_date_iso": "2000-06-19",
+  "order": 7,
+  "article_id": 13550,
+  "title_link": "Смак - антрекот с картофелем.",
+  "title_h1": "City 47 - Смак - антрекот с картофелем.",
+  "print_url": "https://zxpress.ru/print.php?id=13550",
+  "article_url": "https://zxpress.ru/article.php?id=13550",
+  "fetched_at": "2026-05-31T21:52:11Z"
+}

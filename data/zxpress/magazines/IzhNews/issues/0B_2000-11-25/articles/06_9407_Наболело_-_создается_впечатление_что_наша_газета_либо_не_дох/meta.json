@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "0B",
+  "issue_date_iso": "2000-11-25",
+  "order": 6,
+  "article_id": 9407,
+  "title_link": "Наболело - создается впечатление, что наша газета либо не доходит по адресу, либо вообще игнорируется и сразу же стирается.",
+  "title_h1": "IzhNews 0B - Наболело - создается впечатление, что наша газета либо не доходит по адресу, либо вообще игнорируется и сразу же стирается.",
+  "print_url": "https://zxpress.ru/print.php?id=9407",
+  "article_url": "https://zxpress.ru/article.php?id=9407",
+  "fetched_at": "2026-05-31T22:15:55Z"
+}

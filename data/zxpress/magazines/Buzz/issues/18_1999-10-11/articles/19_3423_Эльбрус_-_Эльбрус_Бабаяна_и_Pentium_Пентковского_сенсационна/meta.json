@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1999-10-11",
+  "order": 19,
+  "article_id": 3423,
+  "title_link": "Эльбрус - Эльбрус Бабаяна и Pentium Пентковского (сенсационная статья о новом русском процессоре).",
+  "title_h1": "Buzz 18 - Эльбрус - Эльбрус Бабаяна и Pentium Пентковского (сенсационная статья о новом русском процессоре).",
+  "print_url": "https://zxpress.ru/print.php?id=3423",
+  "article_url": "https://zxpress.ru/article.php?id=3423",
+  "fetched_at": "2026-05-31T21:48:49Z"
+}

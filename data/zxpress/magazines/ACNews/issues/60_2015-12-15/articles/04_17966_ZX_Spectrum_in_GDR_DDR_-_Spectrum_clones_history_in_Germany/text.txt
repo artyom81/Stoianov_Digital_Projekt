@@ -1,0 +1,107 @@
+ACNews 60 - ZX Spectrum in GDR (DDR) - Spectrum clones history in Germany.
+ZX Spectrum in GDR (DDR)
+by utz
+Although being far ahead of the West in the early days of the
+computer age, by the 1980s the situation in the GDR looked as
+grim as just about anywhere in the Eastern block. Official
+GDR-produced computers were mostly unavailable to the public,
+western computers had to be either illegally imported or (after
+1985) bought for "hard" currency and at horrendous prices at the
+"Intershop", and although there were many hobbyist computer
+designs published in various magazines and books from 1984
+onwards, few of them were actually built due to the
+unavailability of the necessary components.
+
+Nevertheless, there were several Spectrum clones made, though
+none of them was produced in any significant quantities.
+
+The first GDR clone, called GDC1 (Grafik-Display-Computer 1),
+was developed at the TH Ilmenau (Technical University Ilmenau)
+in 1985. Like all GDR ZX clones, it uses the home-made U880 CPU
+in place of a Z80. It's compatibility is rather limited: The CPU
+pauses during screen redraw, IO is controlled via a PIO rather
+than IO ports, and of course no ULA (replaced by 2 domestically
+made PIOs (U855) and a CTC (U857)). Also, the ROM consist of
+just a ЧKB EPROM bootloader, which loads the actual OS from
+tape. The machine had 64K RAM in the standard configuration and
+could be extended to 256K. There were several versions of this
+machine, all with a similar configuration. It is not known how
+many boards were produced, and only very few survive today. The
+nickname "FDJ-Computer" suggests that it was endorsed by the FDJ
+(Free German Youth, the state-run youth organization) in some
+places. http://www.robotron-net.de/eigenbau.html#GDC
+
+Next, we had Spectral, also known as EPRO2. It was developed by
+IFAM (Engineer Office for Applied Microelectronics) Erfurt in
+1987, build by VEB Mikroelektronik "Karl Marx", and sold by VEB
+Robotron-Vertrieb Erfurt from December 1988 on. Latter company
+still exists today under the name "Hubner-Elektronik", as well
+as the IFAM, which still holds the rights to the design. The
+machine had 48K of RAM (extendable to 128K) and supposedly had a
+very high level of compatibility with the original Spectrum,
+unlike most other GDR clones. As a bonus, it sported a joystick
+port. http://www.sax.de/~zander/zx/spectral.html
+http://www.robotron-net.de/eigenbau.html#Spectral A project was
+done to rebuild the Spectral some years ago:
+http://www.sax.de/~zander/zx/spec_nb.html
+
+Also in 1987/88, the HCX was developed by the Technical
+University and the Schwermaschinenbau-Kombinat "Ernst Thalmann"
+in Magdeburg (SKET, Heavy Machinery Combinate). It had only
+limited compatibility (ULA simulated by U885 and U887 standard
+ICs, modified ROM), but sported two joystick ports. The HCX was
+supposed to be mass-produced, but never made it into serial
+production. 30 boards were produced by VEB GALVANO in
+Wernigerode in 1989, and assembled into full machines by a local
+computer hobbyist club in Magdeburg. No working machines are
+known to have survived.
+http://www.sax.de/~zander/zx/hcx.html
+http://www.robotron-net.de/eigenbau.html#HCX
+
+Near the very end of the GDR, the AdW - ZKI (Academy of Science
+of the GDR, Central Institute for Cybernetics and Information
+Processing) in Berlin, released the KuBбЧ, which was sold in kit
+form by the ZWG (Center for Scientific Machine Construction) in
+Liebenwalde. Like the GDC, it contained only a 1K or 2K
+bootloader EPROM to load the OS from tape, but otherwise it is
+said to have been very compatible with the original Spectrum.
+Also, there were designs for extending the ROM to 16K and thus
+integrating the ROM into the machine. It had a built-in floppy
+disk controller (U8272, a clone of NEC pd765/Intel 8272), and
+thus could run CP/M. Also, it could be connected to a Robotron
+K7222 system monitor as well as the usual RF. Only 4 machines
+are known to have survived to the present day.
+http://www.sax.de/~zander/zx/kubбЧ.html
+
+ Another ZX clone was developed at the
+Halbleiterwerk-Frankfurt/Oder (Semiconductor Plant
+Frankfurt/Oder). Little is known about this machine, but two
+surviving boards have been restored to working order.
+http://www.sax.de/~zander/zx/hfo.html
+
+ Some even more obscure hobbyist clones exist. The only one that
+is at least documented to some extent is the "ZX-Jena"
+(http://www.sax.de/~zander/zx/zxj.html). Another self-made
+design was the BCS 03
+(http://www.robotron-net.de/eigenbau.html#BCS). Only a few
+photos still exist of the latter, though rumour has it that the
+design was published in a magazine somewhere.
+
+ Further info:
+http://www.robotrontechnik.de/html/computer/bausaetze.htm
+
+                             * * *
+
+> Wow! I haven't heard about these clones before! Interesting 
+> thing is loading "ROM" data from tape, I knew this in 
+> ATM Turbo only, as an option 
+> (it was mentioned in documentation, I don't know actual 
+> computers made this way). 
+
+Seems it was rather common in GDR, other (non-Spectrum
+compatibles) did this as well. Probably for reasons of the usual
+economic mismanagement, they had enough RAM but a shortage of
+larger ROM chips. Or perhaps a lack of suitable EPROM burners.
+But I can only speculate about this.
+
+utz

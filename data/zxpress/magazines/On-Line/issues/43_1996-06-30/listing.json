@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 15,
+    "article_url": "https://zxpress.ru/article.php?id=15",
+    "print_url": "https://zxpress.ru/print.php?id=15",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2123,
+    "article_url": "https://zxpress.ru/article.php?id=2123",
+    "print_url": "https://zxpress.ru/print.php?id=2123",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft & ее анализ за последние десять недель.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft_ее_анализ_за_послед"
+  },
+  {
+    "article_id": 2125,
+    "article_url": "https://zxpress.ru/article.php?id=2125",
+    "print_url": "https://zxpress.ru/print.php?id=2125",
+    "title_link": "ZXNet - О прошедшем совете системных операторов ZXNet.\r\n Краткое разъяснение новой системы.",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "ZXNet_-_О_прошедшем_совете_системных_операторов_ZXNet_Кратко"
+  },
+  {
+    "article_id": 2122,
+    "article_url": "https://zxpress.ru/article.php?id=2122",
+    "print_url": "https://zxpress.ru/print.php?id=2122",
+    "title_link": "Мозаика - О новой электронной газете \"Maximum\".",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Мозаика_-_О_новои_электроннои_газете_Maximum"
+  },
+  {
+    "article_id": 2124,
+    "article_url": "https://zxpress.ru/article.php?id=2124",
+    "print_url": "https://zxpress.ru/print.php?id=2124",
+    "title_link": "Новье !? - О программах : Ocean Conquest, Assault Course, Drift,\r\n Sigma Seven.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Новье_-_О_программах_Ocean_Conquest_Assault_Course_Drift_Sig"
+  },
+  {
+    "article_id": 2121,
+    "article_url": "https://zxpress.ru/article.php?id=2121",
+    "print_url": "https://zxpress.ru/print.php?id=2121",
+    "title_link": "Реклама - Реклама и обьявления...",
+    "order": 6,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_Реклама_и_обьявления"
+  }
+]

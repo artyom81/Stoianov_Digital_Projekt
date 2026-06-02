@@ -1,0 +1,108 @@
+Buzz 17 - BLOB the COP - Текст из внутренностей игры фирмы Players для хаккеров.
+(C) Andy Severn/Players/England
+(W) D-Man/EI
+(c) literary translation by Paracels/EI
+
+--[аннотация]---------------------------------------------------
+   Прошло много  времени с  тех  пор, как  D-Man  обнаружил этот
+текст, копаясь во внутренностях игры фирмы Players под названием
+BLOB THE COP. Предназначался он для любопытных хакеров, которые,
+по справедливому мнению  автора игры  Andy Severn'а, должны были
+обязательно влезть в ее код. Для нас же этот текст  оказался ин-
+тереснейшей находкой. Долгое время D-Man уговаривал  всех  пере-
+вести этот манускрипт на русский язык, чтобы сделать его достоя-
+нием общественности  на страницах  Buzz. И  только  сейчас  дело
+сдвинулось с мертвой точки.
+   Сразу прошу прощения за столь вольный  литературный  перевод,
+но, согласитесь, читать его намного интересней, чем сухой и  до-
+словный, тем более, что ни один факт или событие при переводе не
+искажены! Пришлось попотеть при переводе сленга, но все закончи-
+благополучно. Надеюсь, читать этот текст Вам будет так же  инте-
+ресно, как и мне.
+   Несколько пояснений:
+   JABBA - друг Andy Severn'a, который рисовал графику для игры;
+   Чешир и Хэмпшир - англ. вариант  Cheshire & Hampshire, если я
+                     правильно помню, это - районы Англии;
+   Sinclair User - журнал  спектрумовской  тематики, электронный
+                   он или печатный - сказать трудно.
+----------------------------------------------------------------
+
+   Если Вам на глаза попалось это спрятанное  сообщение, которое
+не показывается в игре, это значит лишь одно - Вы ломаете  кодо-
+вую часть. Бог Вас знает, зачем, однако... если Вы Ian или Stin-
+gray - ПРИВЕТ! (Так и знал, что сунете сюда свой  нос и  найдете
+небольшую историю, связанную с этой маленькой игрой...)
+   ...работу  над  ней  я  начал целую вечность тому назад, дабы
+просто узнать, что из всего этого может получиться. Как раз в то
+время я только что достал свою  любимую PDS систему (Programmers
+Development System). Спустя пару дней, на  свет появился  монстр
+под рабочим названием PLURPS! До поры до времени я  засунул свое
+детище подальше в самый маленький и темный  угол своего жесткого
+диска и не видел его еще некоторое время. У игры не было ни наз-
+вания, ни смысла, но, пользуясь подвернувшимся случаем, мы реши-
+ли отдать ее в какой-нибудь журнал, однако из-за  избытка подоб-
+ного барахла игра оказалась никому не нужной.
+   Охватившее меня мрачное  настроение исчезло  неожиданно... со
+звонком из журнала Sinclair User (далее SU - прим. пер.) и  сло-
+вами о том, что они заинтересовались  моей игрой. В  свете всего
+этого мне просто ПРИШЛОСЬ ее доделать, и после долгих раздумыва-
+ний я назвал свою  игру BLOBOCOP, подразумевая  пародию на  игру
+фирмы OCEAN - ROBOCOP. Вообще-то я ни разу не видел эту игру, но
+был наслышан о том, что мой BLOBOCOP имеет с ней некоторые сход-
+ства. Таким образом мы послали окончательный вариант игры  в SU,
+но  она им не  подошла. Последующий затем ремейк постигла  та же
+страшная участь. Тогда, вернувшись 23-го декабря  из  Сауфэмтона
+(по  всей  видимости, Southamton - город в Англии - прим. пер.),
+чтобы забрать новенький синтезатор JABB'ы D50 (тоже мне, трудное
+дело!), я совершил вызывающую предрождественскую выходку, состо-
+явшую из пьяных выкриков: "вы в глубоком дерьме...", "OCEAN про-
+дается Sinclair User..." и т.д., и т.п. Вскоре после этих  едких
+инсинуаций меня попросили прервать свой  рождественский "отпуск"
+и совершить 28-го числа  отвратительнейшую поездку  из  Чешира в
+в Хэмпшир, для того, чтобы "просто поубавить свои амбиции".
+   Так неожиданно закончилась моя затяжная  попойка!! А ведь мог
+хорошо отдохнуть от ежечасных нападок тысяч двоюродных кузенов и
+кузин, которым в тюрьме самое место!! (;-)))) - прим. пер.) Меч-
+тать не вредно...
+   Надеюсь, все вы отлично встретили Рождество и Новый  Год. Че-
+рез пару часов я возвращаюсь в Чешир, чтобы  заново  насладиться
+прерванным весельем!!! Увидимся...
+
+                                               Andy Severn (&e7)
+
+-[original]-----------------------------------------------------
+
+This is a hidden message that isn't displayed in the game If you
+are  reading this then you are obviously hacking the code apart.
+God knows why though...Oh if you are either Ian or Stingray then
+HI! (Thought Id find you two noseing about in here! theres a bit
+of  a  story  attached to this little gamette... Ages ago when I
+got  my  lovely  PDS  (Programmers Development System) I started
+writing  this  just to see what it could do. In a couple of days
+this  monstrosity  had  been  born,  under  the working title of
+PLURPS!  I  stuffed  it  away in a dark little corner of my hard
+disk  for  a  while and little morewas ever seen of it. It didnt
+have a name or a plot. But at the show we decided to offer it to
+the  mags,  they  all said they had loads of stuff so didnt want
+it.  Then  suddenly out of the blue SU phoned and said they were
+interested  so  I  then  HAD  to  finish  it.  After  many  long
+lunchtimes thought, I came up with the name BLOBOCOP , intending
+the  name to be a parody of OCEANS ROBOCOP. I had never actually
+seen  the  game  and  have  been  told  that  this bears quite a
+resembelance  to ROBOCOP. Well, we send the completed master off
+to  SU  who  saw  fit  to loose it. The replacement met the same
+horrible  fate.  THEN  on  the 23rd of December, having just got
+back  from  Southamton  to  collect JABBAs new D50 synth (What a
+poser  huh)  I  made  a spectacular entrance to the pre xmas doo
+drinkies  to  the  shouts  of 'youre in deep trub...' 'OCEAN are
+going  to SUE...' etc etc... After a severe tongue lashing I was
+asked  to  interrupt my xmas break and make the grueling journey
+from  Cheshire  to  Hampshire on the 28Th 'just to fix the bits'
+Well,  bang  go  my  heavy boozing sessions!! Ah well it makes a
+nice  rest  from  being  jumped on day and night by thousands of
+delinquent  second  generation  cousens!! Ah well, ya can always
+dream...  Hope  you have all had a smashing Xmas and a GREAT new
+year.  I'm  back  off  to Cheshire in a few hours to re-join the
+merriment!!! See ya all....
+
+                                               Andy Severn (&e7)

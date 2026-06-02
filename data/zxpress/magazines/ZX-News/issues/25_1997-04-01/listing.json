@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 2868,
+    "article_url": "https://zxpress.ru/article.php?id=2868",
+    "print_url": "https://zxpress.ru/print.php?id=2868",
+    "title_link": "Гейт - Описание Гейта SPbZXNet -> Fido, установленного на Centronic\r\n Station: гейтование SPbZXNet -> Fido , как это работает и\r\n чего это надо.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "Геит_-_Описание_Геита_SPbZXNet_-_Fido_установленного_на_Cent"
+  },
+  {
+    "article_id": 2869,
+    "article_url": "https://zxpress.ru/article.php?id=2869",
+    "print_url": "https://zxpress.ru/print.php?id=2869",
+    "title_link": "Лит.страничка - Дневник. Дон Громкий. (глава 4,5)",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "Литстраничка_-_Дневник_Дон_Громкии_глава_45"
+  },
+  {
+    "article_id": 2867,
+    "article_url": "https://zxpress.ru/article.php?id=2867",
+    "print_url": "https://zxpress.ru/print.php?id=2867",
+    "title_link": "Новости BBS - Презентация Tornado Station.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Новости_BBS_-_Презентация_Tornado_Station"
+  },
+  {
+    "article_id": 2871,
+    "article_url": "https://zxpress.ru/article.php?id=2871",
+    "print_url": "https://zxpress.ru/print.php?id=2871",
+    "title_link": "Обмен опытом - Печать на принтере в IS-DOS'e.",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "Обмен_опытом_-_Печать_на_принтере_в_IS-DOSe"
+  },
+  {
+    "article_id": 2865,
+    "article_url": "https://zxpress.ru/article.php?id=2865",
+    "print_url": "https://zxpress.ru/print.php?id=2865",
+    "title_link": "От редакции - Omega Group чуть не развалилась...",
+    "order": 5,
+    "issue_label": "25",
+    "short_slug": "От_редакции_-_Omega_Group_чуть_не_развалилась"
+  },
+  {
+    "article_id": 2870,
+    "article_url": "https://zxpress.ru/article.php?id=2870",
+    "print_url": "https://zxpress.ru/print.php?id=2870",
+    "title_link": "Письма - Письмо X-Trade о наболевшем.",
+    "order": 6,
+    "issue_label": "25",
+    "short_slug": "Письма_-_Письмо_X-Trade_о_наболевшем"
+  },
+  {
+    "article_id": 2874,
+    "article_url": "https://zxpress.ru/article.php?id=2874",
+    "print_url": "https://zxpress.ru/print.php?id=2874",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "25",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2866,
+    "article_url": "https://zxpress.ru/article.php?id=2866",
+    "print_url": "https://zxpress.ru/print.php?id=2866",
+    "title_link": "Список BBS - Список BBS. Открылась новая Timax BBS.",
+    "order": 8,
+    "issue_label": "25",
+    "short_slug": "Список_BBS_-_Список_BBS_Открылась_новая_Timax_BBS"
+  },
+  {
+    "article_id": 2873,
+    "article_url": "https://zxpress.ru/article.php?id=2873",
+    "print_url": "https://zxpress.ru/print.php?id=2873",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 9,
+    "issue_label": "25",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2872,
+    "article_url": "https://zxpress.ru/article.php?id=2872",
+    "print_url": "https://zxpress.ru/print.php?id=2872",
+    "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 5).",
+    "order": 10,
+    "issue_label": "25",
+    "short_slug": "Юмор_-_Штирлиц_-_русскии_SysOp_глава_5"
+  }
+]

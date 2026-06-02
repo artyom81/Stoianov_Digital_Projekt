@@ -1,0 +1,41 @@
+Inferno 04 - Others - Зарегистрированные пользователи ZXVGS и CPM22QED.
+Зарегистрированные пользователи ZXVGS
+Nr Имя       Версия          Связь
+и релиз
+1  Yarek     SAM 0.29 zxvgs@yarek.com
+TMX 0.30 http://www.yarek.com
+UPB 0.29
+2  K.B.      TMX 0.16
+3  Curious   PL3 0.22 curious@hyperreal.pl
+TMX 0.2? http://hyperreal.pl/
+curious/Hardware
+http://hyperreal.pl/
+curious/Hardware/
+rules/zxland
+4  T.K.      TMX 0.29
+5  James     SAM 0.19 james.gasson@clear.
+Gasson               net.nz
+6  J.A.      TMX 0.17
+7  Yerzmyey/ TMX 0.27 hprg@kki.net.pl
+H-PRG
+8  Adam      TMX 0.27 mcadam@msk.clans.pl
+Mankiewicz          http://www.
+kupazlomu.prv.pl
+9  D.D.      TMX 0.29
+10 Mikele    TMX 0.29 michel@mirage.com.pl
+11 nex_t     UPB 0.29 clonnetta@poczta.
+wp.pl
+12 PaweL     TMX 0.29 pawsat@wp.pl
+13 R.M.      TMX 0.30
+Зарегистрированные пользователи CPM22QED
+CPM22QED теперь является частью ZXVGS. Все
+зарегистрированные  пользователи ZXVGS яв-
+ляются также зарегистрированными пользова-
+телями CPM22QED.
+Nr Имя       Версия          Связь
+и релиз
+1  T.P.     CPM22SAM ?.??
+2  S.B.     CPM22SVI 0.15
+------------------------------------------
+(c) 2002-10-04 12:14:55 Jarek Adamski
+{zxvgs@yarek.com},{http://zxvgs.yarek.com}

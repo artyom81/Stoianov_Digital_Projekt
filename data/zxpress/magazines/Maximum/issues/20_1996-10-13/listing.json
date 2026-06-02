@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 163,
+    "article_url": "https://zxpress.ru/article.php?id=163",
+    "print_url": "https://zxpress.ru/print.php?id=163",
+    "title_link": "Предисловие - О сроках печати рекламы в газете.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Предисловие_-_О_сроках_печати_рекламы_в_газете"
+  },
+  {
+    "article_id": 164,
+    "article_url": "https://zxpress.ru/article.php?id=164",
+    "print_url": "https://zxpress.ru/print.php?id=164",
+    "title_link": "Сплошные приколы - Часы командирские.\r\n Сборник высказываний советских офицеров (продолжение).\r\n Анекдот про чукчу и геолога.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Сплошные_приколы_-_Часы_командирские_Сборник_высказывании_со"
+  },
+  {
+    "article_id": 12228,
+    "article_url": "https://zxpress.ru/article.php?id=12228",
+    "print_url": "https://zxpress.ru/print.php?id=12228",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12229,
+    "article_url": "https://zxpress.ru/article.php?id=12229",
+    "print_url": "https://zxpress.ru/print.php?id=12229",
+    "title_link": "Версии - 2 версии игры: COBRA FORCE.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Версии_-_2_версии_игры_COBRA_FORCE"
+  },
+  {
+    "article_id": 12230,
+    "article_url": "https://zxpress.ru/article.php?id=12230",
+    "print_url": "https://zxpress.ru/print.php?id=12230",
+    "title_link": "Видео - Фильм \"Нико-9: Молниеносный\".",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Видео_-_Фильм_Нико-9_Молниеносныи"
+  },
+  {
+    "article_id": 12231,
+    "article_url": "https://zxpress.ru/article.php?id=12231",
+    "print_url": "https://zxpress.ru/print.php?id=12231",
+    "title_link": "Разбиралка - Проходлика к игре DIZZY NEW.",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Разбиралка_-_Проходлика_к_игре_DIZZY_NEW"
+  },
+  {
+    "article_id": 12232,
+    "article_url": "https://zxpress.ru/article.php?id=12232",
+    "print_url": "https://zxpress.ru/print.php?id=12232",
+    "title_link": "Розыск - Разыскиваются: MAD NURSE & TORNADO ECR.",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "Розыск_-_Разыскиваются_MAD_NURSE_TORNADO_ECR"
+  },
+  {
+    "article_id": 12233,
+    "article_url": "https://zxpress.ru/article.php?id=12233",
+    "print_url": "https://zxpress.ru/print.php?id=12233",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

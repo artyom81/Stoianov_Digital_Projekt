@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 14443,
+    "article_url": "https://zxpress.ru/article.php?id=14443",
+    "print_url": "https://zxpress.ru/print.php?id=14443",
+    "title_link": ".theCHARTteam - Вы находитесь на страницах ZX-Chart, посвященного, выявлению лучших из лучших вовсех областях творчества на ZX-Spectrum",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "theCHARTteam_-_Вы_находитесь_на_страницах_ZX-Chart_посвященн"
+  },
+  {
+    "article_id": 14444,
+    "article_url": "https://zxpress.ru/article.php?id=14444",
+    "print_url": "https://zxpress.ru/print.php?id=14444",
+    "title_link": ".credits - Проект ZX-Chart выпускается theCHARTteam.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "credits_-_Проект_ZX-Chart_выпускается_theCHARTteam"
+  },
+  {
+    "article_id": 14445,
+    "article_url": "https://zxpress.ru/article.php?id=14445",
+    "print_url": "https://zxpress.ru/print.php?id=14445",
+    "title_link": ".help - Благодаря тому, что это уже не первый выпуск\r\nZX-Chart, Вы имеете возможность проследить перемещения номинантов в топ-двадцатках.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "help_-_Благодаря_тому_что_это_уже_не_первыи_выпускZX-Chart_В"
+  },
+  {
+    "article_id": 14446,
+    "article_url": "https://zxpress.ru/article.php?id=14446",
+    "print_url": "https://zxpress.ru/print.php?id=14446",
+    "title_link": ".information - Бета-релиз второго выпуска ZX-Chart.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "information_-_Бета-релиз_второго_выпуска_ZX-Chart"
+  },
+  {
+    "article_id": 14447,
+    "article_url": "https://zxpress.ru/article.php?id=14447",
+    "print_url": "https://zxpress.ru/print.php?id=14447",
+    "title_link": ".правила голосования - запрещено голосовать за свои работы и за\r\nсвою группу, а также за членов своей группы и их\r\nработы.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "правила_голосования_-_запрещено_голосовать_за_свои_работы_и"
+  },
+  {
+    "article_id": 14448,
+    "article_url": "https://zxpress.ru/article.php?id=14448",
+    "print_url": "https://zxpress.ru/print.php?id=14448",
+    "title_link": ".самые популярные - Самая первая top10 составлена на основе всех\r\ntop20 и представляет собой самых популярных номинантов, то есть тех, кому народ отдал больше\r\nвсего голосов.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "самые_популярные_-_Самая_первая_top10_составлена_на_основе_в"
+  },
+  {
+    "article_id": 14449,
+    "article_url": "https://zxpress.ru/article.php?id=14449",
+    "print_url": "https://zxpress.ru/print.php?id=14449",
+    "title_link": ".voters - участники голосования.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "voters_-_участники_голосования"
+  },
+  {
+    "article_id": 14450,
+    "article_url": "https://zxpress.ru/article.php?id=14450",
+    "print_url": "https://zxpress.ru/print.php?id=14450",
+    "title_link": ".best - лучшие: спектрумист, игра, группа, демо, интро, кодер, писатель, музыкант, художник, журнал.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "best_-_лучшие_спектрумист_игра_группа_демо_интро_кодер_писат"
+  }
+]

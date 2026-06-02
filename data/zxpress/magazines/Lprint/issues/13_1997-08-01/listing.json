@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12342,
+    "article_url": "https://zxpress.ru/article.php?id=12342",
+    "print_url": "https://zxpress.ru/print.php?id=12342",
+    "title_link": "От редакции - Использование материалов из\r\nгазеты без согласия редакции CТРОГО\r\nЗАПРЕЩЕНО.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "От_редакции_-_Использование_материалов_изгазеты_без_согласия"
+  },
+  {
+    "article_id": 12343,
+    "article_url": "https://zxpress.ru/article.php?id=12343",
+    "print_url": "https://zxpress.ru/print.php?id=12343",
+    "title_link": "Новости - Новая версия CDOS v1.31.\r\n Полная версия аркадной стрелялки RETURN to HOME 4.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Новости_-_Новая_версия_CDOS_v131_Полная_версия_аркаднои_стре"
+  },
+  {
+    "article_id": 12344,
+    "article_url": "https://zxpress.ru/article.php?id=12344",
+    "print_url": "https://zxpress.ru/print.php?id=12344",
+    "title_link": "Отдохнем - Лирика \"Баллада об индейце\".",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Отдохнем_-_Лирика_Баллада_об_индеице"
+  },
+  {
+    "article_id": 12345,
+    "article_url": "https://zxpress.ru/article.php?id=12345",
+    "print_url": "https://zxpress.ru/print.php?id=12345",
+    "title_link": "Таланты - Кошмар на битом диске.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Таланты_-_Кошмар_на_битом_диске"
+  },
+  {
+    "article_id": 12346,
+    "article_url": "https://zxpress.ru/article.php?id=12346",
+    "print_url": "https://zxpress.ru/print.php?id=12346",
+    "title_link": "Железо - О подключении теневого ОЗУ.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Железо_-_О_подключении_теневого_ОЗУ"
+  },
+  {
+    "article_id": 12347,
+    "article_url": "https://zxpress.ru/article.php?id=12347",
+    "print_url": "https://zxpress.ru/print.php?id=12347",
+    "title_link": "Описание - карты и прохождение игры BLOODWYCH.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Описание_-_карты_и_прохождение_игры_BLOODWYCH"
+  },
+  {
+    "article_id": 12348,
+    "article_url": "https://zxpress.ru/article.php?id=12348",
+    "print_url": "https://zxpress.ru/print.php?id=12348",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

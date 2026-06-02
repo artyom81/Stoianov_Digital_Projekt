@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 16111,
+    "article_url": "https://zxpress.ru/article.php?id=16111",
+    "print_url": "https://zxpress.ru/print.php?id=16111",
+    "title_link": "От авторов - Итaк нaчнем...",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "От_авторов_-_Итaк_нaчнем"
+  },
+  {
+    "article_id": 16112,
+    "article_url": "https://zxpress.ru/article.php?id=16112",
+    "print_url": "https://zxpress.ru/print.php?id=16112",
+    "title_link": "Новости - Хaюшки, пришлa порa рaсскaзaть про нaши новости, что у нaс было и стaло.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Новости_-_Хaюшки_пришлa_порa_рaсскaзaть_про_нaши_новости_что"
+  },
+  {
+    "article_id": 16113,
+    "article_url": "https://zxpress.ru/article.php?id=16113",
+    "print_url": "https://zxpress.ru/print.php?id=16113",
+    "title_link": "Глюк - Глюк?! Где?! Это не глюк, a bеta-версия...",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Глюк_-_Глюк_Где_Это_не_глюк_a_bеta-версия"
+  },
+  {
+    "article_id": 16114,
+    "article_url": "https://zxpress.ru/article.php?id=16114",
+    "print_url": "https://zxpress.ru/print.php?id=16114",
+    "title_link": "Что в голову_пришло - Bот и добрaлись мы и до 4-ой сттьи в номере. Здесь речь пойдет о том, что в голову пришло.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Что_в_голову_пришло_-_Bот_и_добрaлись_мы_и_до_4-ои_сттьи_в_н"
+  },
+  {
+    "article_id": 16115,
+    "article_url": "https://zxpress.ru/article.php?id=16115",
+    "print_url": "https://zxpress.ru/print.php?id=16115",
+    "title_link": "Послесловие - Что ж, вот и конец OPEХ#0...",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Послесловие_-_Что_ж_вот_и_конец_OPEХ0"
+  },
+  {
+    "article_id": 7456,
+    "article_url": "https://zxpress.ru/article.php?id=7456",
+    "print_url": "https://zxpress.ru/print.php?id=7456",
+    "title_link": "Пиво - BEER FAQ v1.0 July 1999.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Пиво_-_BEER_FAQ_v10_July_1999"
+  },
+  {
+    "article_id": 8899,
+    "article_url": "https://zxpress.ru/article.php?id=8899",
+    "print_url": "https://zxpress.ru/print.php?id=8899",
+    "title_link": "HARDWARE - Еще несколько слов о дисководах 5'25 и 3'5.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "HARDWARE_-_Еще_несколько_слов_о_дисководах_525_и_35"
+  },
+  {
+    "article_id": 1628,
+    "article_url": "https://zxpress.ru/article.php?id=1628",
+    "print_url": "https://zxpress.ru/print.php?id=1628",
+    "title_link": "SPECCY A.F. - Бессмертный Speccy.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "SPECCY_AF_-_Бессмертныи_Speccy"
+  },
+  {
+    "article_id": 10978,
+    "article_url": "https://zxpress.ru/article.php?id=10978",
+    "print_url": "https://zxpress.ru/print.php?id=10978",
+    "title_link": "Фанта - ЗАВТРА НЕ НАСТУПИТ (Артур КЛАРК).",
+    "order": 9,
+    "issue_label": "00",
+    "short_slug": "Фанта_-_ЗАВТРА_НЕ_НАСТУПИТ_Артур_КЛАРК"
+  },
+  {
+    "article_id": 18188,
+    "article_url": "https://zxpress.ru/article.php?id=18188",
+    "print_url": "https://zxpress.ru/print.php?id=18188",
+    "title_link": "Комьюнити - Spectrum в глубинке: в городе, население которого не превышает 15 тысяч человек, появление компьютера было сравнимо с изготовлением атомной бомбы в гараже.",
+    "order": 10,
+    "issue_label": "00",
+    "short_slug": "Комьюнити_-_Spectrum_в_глубинке_в_городе_население_которого"
+  }
+]

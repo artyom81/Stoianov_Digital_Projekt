@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 132,
+    "article_url": "https://zxpress.ru/article.php?id=132",
+    "print_url": "https://zxpress.ru/print.php?id=132",
+    "title_link": "Предисловие - Неудачи у редакторов газеты.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Предисловие_-_Неудачи_у_редакторов_газеты"
+  },
+  {
+    "article_id": 133,
+    "article_url": "https://zxpress.ru/article.php?id=133",
+    "print_url": "https://zxpress.ru/print.php?id=133",
+    "title_link": "Разбиралка - Описание-проходилка аркадно-адвентюрной игры \"BIFF\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Разбиралка_-_Описание-проходилка_аркадно-адвентюрнои_игры_BI"
+  },
+  {
+    "article_id": 11108,
+    "article_url": "https://zxpress.ru/article.php?id=11108",
+    "print_url": "https://zxpress.ru/print.php?id=11108",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 11109,
+    "article_url": "https://zxpress.ru/article.php?id=11109",
+    "print_url": "https://zxpress.ru/print.php?id=11109",
+    "title_link": "Печатается с продолж. - Кащей бессмертный (глава 6-9).",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Печатается_с_продолж_-_Кащеи_бессмертныи_глава_6-9"
+  },
+  {
+    "article_id": 11110,
+    "article_url": "https://zxpress.ru/article.php?id=11110",
+    "print_url": "https://zxpress.ru/print.php?id=11110",
+    "title_link": "Споем?! - Тексты известных песен: Агата Кристи: альбом \"Opium\".",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Споем_-_Тексты_известных_песен_Агата_Кристи_альбом_Opium"
+  },
+  {
+    "article_id": 11111,
+    "article_url": "https://zxpress.ru/article.php?id=11111",
+    "print_url": "https://zxpress.ru/print.php?id=11111",
+    "title_link": "Версии - 8 версий игры: HERO QUEST.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Версии_-_8_версии_игры_HERO_QUEST"
+  },
+  {
+    "article_id": 11112,
+    "article_url": "https://zxpress.ru/article.php?id=11112",
+    "print_url": "https://zxpress.ru/print.php?id=11112",
+    "title_link": "Чемпионат - Чемпиопнат Европы по футболу - турнирные таблицы.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Чемпионат_-_Чемпиопнат_Европы_по_футболу_-_турнирные_таблицы"
+  },
+  {
+    "article_id": 11113,
+    "article_url": "https://zxpress.ru/article.php?id=11113",
+    "print_url": "https://zxpress.ru/print.php?id=11113",
+    "title_link": "Розыск - Редакция разыскивает игры...",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Розыск_-_Редакция_разыскивает_игры"
+  },
+  {
+    "article_id": 11114,
+    "article_url": "https://zxpress.ru/article.php?id=11114",
+    "print_url": "https://zxpress.ru/print.php?id=11114",
+    "title_link": "Сплошные приколы - 5 приколов. Учись стрелять! Если игра мешает делу...",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Сплошные_приколы_-_5_приколов_Учись_стрелять_Если_игра_мешае"
+  },
+  {
+    "article_id": 11115,
+    "article_url": "https://zxpress.ru/article.php?id=11115",
+    "print_url": "https://zxpress.ru/print.php?id=11115",
+    "title_link": "Новости от DITRONIK - Раздел не пущен в номер.",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "Новости_от_DITRONIK_-_Раздел_не_пущен_в_номер"
+  },
+  {
+    "article_id": 11116,
+    "article_url": "https://zxpress.ru/article.php?id=11116",
+    "print_url": "https://zxpress.ru/print.php?id=11116",
+    "title_link": "Тусовка - И от рейва мне не спрятаться, не скрыться. Каждый вид имеет свой прикид.",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "Тусовка_-_И_от_реива_мне_не_спрятаться_не_скрыться_Каждыи_ви"
+  },
+  {
+    "article_id": 11117,
+    "article_url": "https://zxpress.ru/article.php?id=11117",
+    "print_url": "https://zxpress.ru/print.php?id=11117",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 12,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

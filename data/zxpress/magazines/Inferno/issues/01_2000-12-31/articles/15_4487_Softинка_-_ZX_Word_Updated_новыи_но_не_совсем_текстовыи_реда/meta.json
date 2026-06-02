@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2000-12-31",
+  "order": 15,
+  "article_id": 4487,
+  "title_link": "Softинка - ZX Word Updated: новый, но не совсем, текстовый редактор.",
+  "title_h1": "Inferno 01 - Softинка - ZX Word Updated: новый, но не совсем, текстовый редактор.",
+  "print_url": "https://zxpress.ru/print.php?id=4487",
+  "article_url": "https://zxpress.ru/article.php?id=4487",
+  "fetched_at": "2026-05-31T22:13:13Z"
+}

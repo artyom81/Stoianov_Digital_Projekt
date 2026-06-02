@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-03-09",
+  "order": 1,
+  "article_id": 2508,
+  "title_link": "CC'99 - Что? Кто? Где?",
+  "title_h1": "#Z80 05 - CC'99 - Что? Кто? Где?",
+  "print_url": "https://zxpress.ru/print.php?id=2508",
+  "article_url": "https://zxpress.ru/article.php?id=2508",
+  "fetched_at": "2026-05-31T21:28:29Z"
+}

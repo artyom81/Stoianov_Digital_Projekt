@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 2845,
+    "article_url": "https://zxpress.ru/article.php?id=2845",
+    "print_url": "https://zxpress.ru/print.php?id=2845",
+    "title_link": "BBS новости - Презентация новых BBS : Paradise Station & Techno Station.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "BBS_новости_-_Презентация_новых_BBS_Paradise_Station_Techno"
+  },
+  {
+    "article_id": 2847,
+    "article_url": "https://zxpress.ru/article.php?id=2847",
+    "print_url": "https://zxpress.ru/print.php?id=2847",
+    "title_link": "Глюки - О глюке в STS v5.1",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Глюки_-_О_глюке_в_STS_v51"
+  },
+  {
+    "article_id": 2848,
+    "article_url": "https://zxpress.ru/article.php?id=2848",
+    "print_url": "https://zxpress.ru/print.php?id=2848",
+    "title_link": "Железо - Дисковод 3.5. От покупки до ремонта: выбор и установка,\r\n подключение,подменитель дисководов,выбор дискет,достоинства и недостатки 3.5.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Железо_-_Дисковод_35_От_покупки_до_ремонта_выбор_и_установка"
+  },
+  {
+    "article_id": 2849,
+    "article_url": "https://zxpress.ru/article.php?id=2849",
+    "print_url": "https://zxpress.ru/print.php?id=2849",
+    "title_link": "Информация - Как написать письмо в SPbZXNet из других сетей.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Информация_-_Как_написать_письмо_в_SPbZXNet_из_других_сетеи"
+  },
+  {
+    "article_id": 2843,
+    "article_url": "https://zxpress.ru/article.php?id=2843",
+    "print_url": "https://zxpress.ru/print.php?id=2843",
+    "title_link": "От редакции - Новые рубрики ?..",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "От_редакции_-_Новые_рубрики"
+  },
+  {
+    "article_id": 2850,
+    "article_url": "https://zxpress.ru/article.php?id=2850",
+    "print_url": "https://zxpress.ru/print.php?id=2850",
+    "title_link": "Письма - Ответы редакции на письма читателей по поводу работы программы MMD и ее дальнейшем развитии.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Письма_-_Ответы_редакции_на_письма_читателеи_по_поводу_работ"
+  },
+  {
+    "article_id": 2853,
+    "article_url": "https://zxpress.ru/article.php?id=2853",
+    "print_url": "https://zxpress.ru/print.php?id=2853",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2846,
+    "article_url": "https://zxpress.ru/article.php?id=2846",
+    "print_url": "https://zxpress.ru/print.php?id=2846",
+    "title_link": "Сетевые новости - Новая внутренняя эхо-конференция - SPB.CODE",
+    "order": 8,
+    "issue_label": "23",
+    "short_slug": "Сетевые_новости_-_Новая_внутренняя_эхо-конференция_-_SPBCODE"
+  },
+  {
+    "article_id": 2844,
+    "article_url": "https://zxpress.ru/article.php?id=2844",
+    "print_url": "https://zxpress.ru/print.php?id=2844",
+    "title_link": "Список BBS - График работы BBS'oк. Открылись новые станции.",
+    "order": 9,
+    "issue_label": "23",
+    "short_slug": "Список_BBS_-_График_работы_BBSoк_Открылись_новые_станции"
+  },
+  {
+    "article_id": 2852,
+    "article_url": "https://zxpress.ru/article.php?id=2852",
+    "print_url": "https://zxpress.ru/print.php?id=2852",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 10,
+    "issue_label": "23",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2851,
+    "article_url": "https://zxpress.ru/article.php?id=2851",
+    "print_url": "https://zxpress.ru/print.php?id=2851",
+    "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 3).",
+    "order": 11,
+    "issue_label": "23",
+    "short_slug": "Юмор_-_Штирлиц_-_русскии_SysOp_глава_3"
+  }
+]

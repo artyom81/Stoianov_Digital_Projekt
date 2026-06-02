@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1228,
+    "article_url": "https://zxpress.ru/article.php?id=1228",
+    "print_url": "https://zxpress.ru/print.php?id=1228",
+    "title_link": "Rants & Raves - О новой сокращенной кличке Paracels'a.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Rants_Raves_-_О_новои_сокращеннои_кличке_Paracelsa"
+  },
+  {
+    "article_id": 1226,
+    "article_url": "https://zxpress.ru/article.php?id=1226",
+    "print_url": "https://zxpress.ru/print.php?id=1226",
+    "title_link": "TOP 13 - Лучшая тринашка игр.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "TOP_13_-_Лучшая_тринашка_игр"
+  },
+  {
+    "article_id": 1229,
+    "article_url": "https://zxpress.ru/article.php?id=1229",
+    "print_url": "https://zxpress.ru/print.php?id=1229",
+    "title_link": "Въедем - Описание-проходилка игры : Dizzy 1.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Въедем_-_Описание-проходилка_игры_Dizzy_1"
+  },
+  {
+    "article_id": 1230,
+    "article_url": "https://zxpress.ru/article.php?id=1230",
+    "print_url": "https://zxpress.ru/print.php?id=1230",
+    "title_link": "Железо - Блокировка порта #1FFD на Scorpion ZS-256.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Железо_-_Блокировка_порта_1FFD_на_Scorpion_ZS-256"
+  },
+  {
+    "article_id": 1225,
+    "article_url": "https://zxpress.ru/article.php?id=1225",
+    "print_url": "https://zxpress.ru/print.php?id=1225",
+    "title_link": "Наши новости - Повторный бой в игре Tank War.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Наши_новости_-_Повторныи_бои_в_игре_Tank_War"
+  },
+  {
+    "article_id": 1227,
+    "article_url": "https://zxpress.ru/article.php?id=1227",
+    "print_url": "https://zxpress.ru/print.php?id=1227",
+    "title_link": "Обзорчик - Обзор игровых программ: Quazatron, Nebulus, Bubbler, Commando Tracker.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Обзорчик_-_Обзор_игровых_программ_Quazatron_Nebulus_Bubbler"
+  },
+  {
+    "article_id": 1231,
+    "article_url": "https://zxpress.ru/article.php?id=1231",
+    "print_url": "https://zxpress.ru/print.php?id=1231",
+    "title_link": "Объявления - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  }
+]

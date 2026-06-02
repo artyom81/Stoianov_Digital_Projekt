@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6038,
+    "article_url": "https://zxpress.ru/article.php?id=6038",
+    "print_url": "https://zxpress.ru/print.php?id=6038",
+    "title_link": "Оглавление - содержание выпуска.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Оглавление_-_содержание_выпуска"
+  },
+  {
+    "article_id": 6039,
+    "article_url": "https://zxpress.ru/article.php?id=6039",
+    "print_url": "https://zxpress.ru/print.php?id=6039",
+    "title_link": "Игры - коментарии и коды к играм: Черный ворон, Зеркало, BOOVIE 2.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Игры_-_коментарии_и_коды_к_играм_Черныи_ворон_Зеркало_BOOVIE"
+  },
+  {
+    "article_id": 6040,
+    "article_url": "https://zxpress.ru/article.php?id=6040",
+    "print_url": "https://zxpress.ru/print.php?id=6040",
+    "title_link": "Журнал - о создании нового Уфимского журнала.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Журнал_-_о_создании_нового_Уфимского_журнала"
+  },
+  {
+    "article_id": 6041,
+    "article_url": "https://zxpress.ru/article.php?id=6041",
+    "print_url": "https://zxpress.ru/print.php?id=6041",
+    "title_link": "FAQ - ответы на часто задаваемые вопросы.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "FAQ_-_ответы_на_часто_задаваемые_вопросы"
+  },
+  {
+    "article_id": 6042,
+    "article_url": "https://zxpress.ru/article.php?id=6042",
+    "print_url": "https://zxpress.ru/print.php?id=6042",
+    "title_link": "Анекдоты - подборка анекдотов.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Анекдоты_-_подборка_анекдотов"
+  },
+  {
+    "article_id": 6043,
+    "article_url": "https://zxpress.ru/article.php?id=6043",
+    "print_url": "https://zxpress.ru/print.php?id=6043",
+    "title_link": "Реклама - каталог програмного обеспечения от группы MSD.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_каталог_програмного_обеспечения_от_группы_MSD"
+  },
+  {
+    "article_id": 6044,
+    "article_url": "https://zxpress.ru/article.php?id=6044",
+    "print_url": "https://zxpress.ru/print.php?id=6044",
+    "title_link": "Новинки - новые поступления журналов и игр для ZX Spectrum: Deja Vu 7, ZX Format 8, Черный Ворон, ,Сталкер, Зеркало, Monster Land.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Новинки_-_новые_поступления_журналов_и_игр_для_ZX_Spectrum_D"
+  }
+]

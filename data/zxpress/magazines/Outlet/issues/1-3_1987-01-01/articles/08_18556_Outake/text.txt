@@ -1,0 +1,3 @@
+1-3 - Outake
+(OUT-TAKES ARE ODD ROUTINES WHICH HAVEN'T YET BEEN PUT ћANY GOOD USE(OR MAY JUST SIMPLY BE USELESS!)
+You've probably all seen the various stripy BORDER effects and I use them here and there to good effect but this one's delicately balanced at LINE 20 with an INVERSE 0 command and dozens of colons and some spaces. If you examine that line you'll see a BORDER 7 & a BORDER 1 command. The BASIC interpreter takes a specific time to carry out each of the commands and this is somehow in phase with the chip that deals with the video signal.. I don't know what I'm talking about so just muck about and add/subtract colons/spaces-if you can find any use for the damn thing let us know.. (BC) PS.Press SHIFT 's interesting!

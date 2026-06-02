@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-04-09",
+  "order": 4,
+  "article_id": 3501,
+  "title_link": "Анонс - Что вас ждет в следующем номере.",
+  "title_h1": "Buzz 03 - Анонс - Что вас ждет в следующем номере.",
+  "print_url": "https://zxpress.ru/print.php?id=3501",
+  "article_url": "https://zxpress.ru/article.php?id=3501",
+  "fetched_at": "2026-05-31T21:47:18Z"
+}

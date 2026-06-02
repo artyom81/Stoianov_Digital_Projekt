@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "0A",
+  "issue_date_iso": "2000-09-30",
+  "order": 45,
+  "article_id": 11249,
+  "title_link": "Пробы пера - рассказ \"разбуженная магия\".",
+  "title_h1": "Deja Vu 0A - Пробы пера - рассказ \"разбуженная магия\".",
+  "print_url": "https://zxpress.ru/print.php?id=11249",
+  "article_url": "https://zxpress.ru/article.php?id=11249",
+  "fetched_at": "2026-05-31T21:56:22Z"
+}

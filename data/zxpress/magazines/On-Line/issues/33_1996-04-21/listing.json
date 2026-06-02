@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 82,
+    "article_url": "https://zxpress.ru/article.php?id=82",
+    "print_url": "https://zxpress.ru/print.php?id=82",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2074,
+    "article_url": "https://zxpress.ru/article.php?id=2074",
+    "print_url": "https://zxpress.ru/print.php?id=2074",
+    "title_link": "HOT GAMES - Лучшая десятка игр от Magic Soft.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_игр_от_Magic_Soft"
+  },
+  {
+    "article_id": 2072,
+    "article_url": "https://zxpress.ru/article.php?id=2072",
+    "print_url": "https://zxpress.ru/print.php?id=2072",
+    "title_link": "Застрял ? - Описание игры \"Crime Santa Clause\".",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Застрял_-_Описание_игры_Crime_Santa_Clause"
+  },
+  {
+    "article_id": 2071,
+    "article_url": "https://zxpress.ru/article.php?id=2071",
+    "print_url": "https://zxpress.ru/print.php?id=2071",
+    "title_link": "Мозаика - О новой рекламной газете \"ZX-WORD\".\r\n Несколько советов по игре \"Prince of Persia\" и суперкоды.\r\n Ставить ли видеопроцессор Dendy на Speccy или нет ?",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Мозаика_-_О_новои_рекламнои_газете_ZX-WORD_Несколько_советов"
+  },
+  {
+    "article_id": 2073,
+    "article_url": "https://zxpress.ru/article.php?id=2073",
+    "print_url": "https://zxpress.ru/print.php?id=2073",
+    "title_link": "Опрос - Результаты опроса, проведенного Kipsoft'ом.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Опрос_-_Результаты_опроса_проведенного_Kipsoftом"
+  },
+  {
+    "article_id": 2070,
+    "article_url": "https://zxpress.ru/article.php?id=2070",
+    "print_url": "https://zxpress.ru/print.php?id=2070",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "33",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

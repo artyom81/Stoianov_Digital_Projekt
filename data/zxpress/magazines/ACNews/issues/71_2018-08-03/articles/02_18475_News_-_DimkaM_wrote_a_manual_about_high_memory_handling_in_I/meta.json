@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "71",
+  "issue_date_iso": "2018-08-03",
+  "order": 2,
+  "article_id": 18475,
+  "title_link": "News - DimkaM wrote a manual about high memory handling in IAR Z80, Unreal Speccy Portable now includes support for extra screen \r\nmodes of ATM2, Utz/irrlicht project organizes a graphics compo.",
+  "title_h1": "ACNews 71 - News - DimkaM wrote a manual about high memory handling in IAR Z80, Unreal Speccy Portable now includes support for extra screen  modes of ATM2, Utz/irrlicht project organizes a graphics compo.",
+  "print_url": "https://zxpress.ru/print.php?id=18475",
+  "article_url": "https://zxpress.ru/article.php?id=18475",
+  "fetched_at": "2026-05-31T21:32:10Z"
+}

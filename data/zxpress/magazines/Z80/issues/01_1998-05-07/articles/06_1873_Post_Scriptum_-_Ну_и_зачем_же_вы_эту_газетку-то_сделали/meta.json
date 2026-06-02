@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-05-07",
+  "order": 6,
+  "article_id": 1873,
+  "title_link": "Post Scriptum - \"Ну и зачем же вы эту газетку-то сделали?\"",
+  "title_h1": "#Z80 01 - Post Scriptum - \"Ну и зачем же вы эту газетку-то сделали?\"",
+  "print_url": "https://zxpress.ru/print.php?id=1873",
+  "article_url": "https://zxpress.ru/article.php?id=1873",
+  "fetched_at": "2026-05-31T21:28:17Z"
+}

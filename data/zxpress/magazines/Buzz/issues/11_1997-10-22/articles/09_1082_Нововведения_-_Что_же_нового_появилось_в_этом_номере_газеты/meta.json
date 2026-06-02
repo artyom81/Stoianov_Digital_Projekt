@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1997-10-22",
+  "order": 9,
+  "article_id": 1082,
+  "title_link": "Нововведения - Что же нового появилось в этом номере газеты.",
+  "title_h1": "Buzz 11 - Нововведения   - Что же нового появилось в этом номере газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=1082",
+  "article_url": "https://zxpress.ru/article.php?id=1082",
+  "fetched_at": "2026-05-31T21:47:50Z"
+}

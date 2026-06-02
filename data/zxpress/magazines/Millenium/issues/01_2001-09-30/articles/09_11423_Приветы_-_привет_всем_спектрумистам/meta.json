@@ -1,0 +1,15 @@
+{
+  "magazine_id": 121,
+  "magazine_name": "Millenium",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2001-09-30",
+  "order": 9,
+  "article_id": 11423,
+  "title_link": "Приветы - привет всем спектрумистам!",
+  "title_h1": "Millenium 01 - Приветы - привет всем спектрумистам!",
+  "print_url": "https://zxpress.ru/print.php?id=11423",
+  "article_url": "https://zxpress.ru/article.php?id=11423",
+  "fetched_at": "2026-05-31T22:26:13Z"
+}

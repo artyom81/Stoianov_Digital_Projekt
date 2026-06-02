@@ -1,0 +1,15 @@
+{
+  "magazine_id": 76,
+  "magazine_name": "Faultless",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1997-02-02",
+  "order": 5,
+  "article_id": 11312,
+  "title_link": "CPU для вас - процедура быстрого вывода точки. Недокоментированные команды процессора Z80.",
+  "title_h1": "Faultless 05 - CPU для вас - процедура быстрого вывода точки. Недокоментированные команды процессора Z80.",
+  "print_url": "https://zxpress.ru/print.php?id=11312",
+  "article_url": "https://zxpress.ru/article.php?id=11312",
+  "fetched_at": "2026-05-31T22:05:30Z"
+}

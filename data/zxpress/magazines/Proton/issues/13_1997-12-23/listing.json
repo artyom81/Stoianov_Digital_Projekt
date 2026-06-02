@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 16603,
+    "article_url": "https://zxpress.ru/article.php?id=16603",
+    "print_url": "https://zxpress.ru/print.php?id=16603",
+    "title_link": "Сетевые новости - Список BBS.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "Сетевые_новости_-_Список_BBS"
+  },
+  {
+    "article_id": 16604,
+    "article_url": "https://zxpress.ru/article.php?id=16604",
+    "print_url": "https://zxpress.ru/print.php?id=16604",
+    "title_link": "Опрос - Вашему вниманию предлагается опрос населения на тему конфигурации компьютера.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Опрос_-_Вашему_вниманию_предлагается_опрос_населения_на_тему"
+  },
+  {
+    "article_id": 16605,
+    "article_url": "https://zxpress.ru/article.php?id=16605",
+    "print_url": "https://zxpress.ru/print.php?id=16605",
+    "title_link": "Юмор - Приколы: Лом металлический.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Юмор_-_Приколы_Лом_металлическии"
+  },
+  {
+    "article_id": 16606,
+    "article_url": "https://zxpress.ru/article.php?id=16606",
+    "print_url": "https://zxpress.ru/print.php?id=16606",
+    "title_link": "Учебник - Учебное пособие по компьютерной грамотности.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Учебник_-_Учебное_пособие_по_компьютернои_грамотности"
+  },
+  {
+    "article_id": 16607,
+    "article_url": "https://zxpress.ru/article.php?id=16607",
+    "print_url": "https://zxpress.ru/print.php?id=16607",
+    "title_link": "Стихи - #0A Программистов. Анекдоты.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Стихи_-_0A_Программистов_Анекдоты"
+  },
+  {
+    "article_id": 16608,
+    "article_url": "https://zxpress.ru/article.php?id=16608",
+    "print_url": "https://zxpress.ru/print.php?id=16608",
+    "title_link": "Астрология - Этот небольшой текст поможет вам более-менее разобраться, что кому можно подарить.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Астрология_-_Этот_небольшои_текст_поможет_вам_более-менее_ра"
+  },
+  {
+    "article_id": 16609,
+    "article_url": "https://zxpress.ru/article.php?id=16609",
+    "print_url": "https://zxpress.ru/print.php?id=16609",
+    "title_link": "Принтер - Инструкция предназначена только для принтера MS-6312m \"РАДИЙ\".",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Принтер_-_Инструкция_предназначена_только_для_принтера_MS-63"
+  },
+  {
+    "article_id": 16610,
+    "article_url": "https://zxpress.ru/article.php?id=16610",
+    "print_url": "https://zxpress.ru/print.php?id=16610",
+    "title_link": "Железо - Подключение принтера с интерфейсом Centronics к порту LPT.",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Железо_-_Подключение_принтера_с_интерфеисом_Centronics_к_пор"
+  },
+  {
+    "article_id": 16611,
+    "article_url": "https://zxpress.ru/article.php?id=16611",
+    "print_url": "https://zxpress.ru/print.php?id=16611",
+    "title_link": "Кодинг - Определение наличия Kempston Joystick и Kempston Mouse.",
+    "order": 9,
+    "issue_label": "13",
+    "short_slug": "Кодинг_-_Определение_наличия_Kempston_Joystick_и_Kempston_Mo"
+  },
+  {
+    "article_id": 16612,
+    "article_url": "https://zxpress.ru/article.php?id=16612",
+    "print_url": "https://zxpress.ru/print.php?id=16612",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 10,
+    "issue_label": "13",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16613,
+    "article_url": "https://zxpress.ru/article.php?id=16613",
+    "print_url": "https://zxpress.ru/print.php?id=16613",
+    "title_link": "От авторов - Редакция.",
+    "order": 11,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

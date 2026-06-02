@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4143,
+    "article_url": "https://zxpress.ru/article.php?id=4143",
+    "print_url": "https://zxpress.ru/print.php?id=4143",
+    "title_link": "От автора - наступило лето...",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "От_автора_-_наступило_лето"
+  },
+  {
+    "article_id": 4144,
+    "article_url": "https://zxpress.ru/article.php?id=4144",
+    "print_url": "https://zxpress.ru/print.php?id=4144",
+    "title_link": "Обзор новинок - Life Game, Margo Puzzle, Эрудит",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Обзор_новинок_-_Life_Game_Margo_Puzzle_Эрудит"
+  },
+  {
+    "article_id": 4145,
+    "article_url": "https://zxpress.ru/article.php?id=4145",
+    "print_url": "https://zxpress.ru/print.php?id=4145",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4146,
+    "article_url": "https://zxpress.ru/article.php?id=4146",
+    "print_url": "https://zxpress.ru/print.php?id=4146",
+    "title_link": "Игра для ума - вопросы на сообразительность.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Игра_для_ума_-_вопросы_на_сообразительность"
+  },
+  {
+    "article_id": 4147,
+    "article_url": "https://zxpress.ru/article.php?id=4147",
+    "print_url": "https://zxpress.ru/print.php?id=4147",
+    "title_link": "Музыкальный хит-парад недели - юмористический хит-парад.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Музыкальныи_хит-парад_недели_-_юмористическии_хит-парад"
+  },
+  {
+    "article_id": 4148,
+    "article_url": "https://zxpress.ru/article.php?id=4148",
+    "print_url": "https://zxpress.ru/print.php?id=4148",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4149,
+    "article_url": "https://zxpress.ru/article.php?id=4149",
+    "print_url": "https://zxpress.ru/print.php?id=4149",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

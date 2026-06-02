@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 364,
+    "article_url": "https://zxpress.ru/article.php?id=364",
+    "print_url": "https://zxpress.ru/print.php?id=364",
+    "title_link": "Fido - ZX Spectrum и FidoNet в Запорожье",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Fido_-_ZX_Spectrum_и_FidoNet_в_Запорожье"
+  },
+  {
+    "article_id": 368,
+    "article_url": "https://zxpress.ru/article.php?id=368",
+    "print_url": "https://zxpress.ru/print.php?id=368",
+    "title_link": "Poke's",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Pokes"
+  },
+  {
+    "article_id": 362,
+    "article_url": "https://zxpress.ru/article.php?id=362",
+    "print_url": "https://zxpress.ru/print.php?id=362",
+    "title_link": "Адаптация программ к TR-DOS - Часть 3",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Адаптация_программ_к_TR-DOS_-_Часть_3"
+  },
+  {
+    "article_id": 365,
+    "article_url": "https://zxpress.ru/article.php?id=365",
+    "print_url": "https://zxpress.ru/print.php?id=365",
+    "title_link": "Железо - Турбирование 1818ВГ93",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Железо_-_Турбирование_1818ВГ93"
+  },
+  {
+    "article_id": 366,
+    "article_url": "https://zxpress.ru/article.php?id=366",
+    "print_url": "https://zxpress.ru/print.php?id=366",
+    "title_link": "О разном - Слух о Mortal Kombat 1024kb. Состязание по Virus II. О вскрытии Зеркала.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "О_разном_-_Слух_о_Mortal_Kombat_1024kb_Состязание_по_Virus_I"
+  },
+  {
+    "article_id": 361,
+    "article_url": "https://zxpress.ru/article.php?id=361",
+    "print_url": "https://zxpress.ru/print.php?id=361",
+    "title_link": "От редакции - О будущем газеты",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "От_редакции_-_О_будущем_газеты"
+  },
+  {
+    "article_id": 367,
+    "article_url": "https://zxpress.ru/article.php?id=367",
+    "print_url": "https://zxpress.ru/print.php?id=367",
+    "title_link": "Юмор",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Юмор"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 13659,
+    "article_url": "https://zxpress.ru/article.php?id=13659",
+    "print_url": "https://zxpress.ru/print.php?id=13659",
+    "title_link": "От редакции - мы создали свой электронный журнал!",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_мы_создали_свои_электронныи_журнал"
+  },
+  {
+    "article_id": 13660,
+    "article_url": "https://zxpress.ru/article.php?id=13660",
+    "print_url": "https://zxpress.ru/print.php?id=13660",
+    "title_link": "Программирование - процедура эквалайзера AY8910 на бордюре.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Программирование_-_процедура_эквалаизера_AY8910_на_бордюре"
+  },
+  {
+    "article_id": 13661,
+    "article_url": "https://zxpress.ru/article.php?id=13661",
+    "print_url": "https://zxpress.ru/print.php?id=13661",
+    "title_link": "Музыкальная шкатулка - несколько приемчиков при написании музыки на AY 8910.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Музыкальная_шкатулка_-_несколько_приемчиков_при_написании_му"
+  },
+  {
+    "article_id": 13662,
+    "article_url": "https://zxpress.ru/article.php?id=13662",
+    "print_url": "https://zxpress.ru/print.php?id=13662",
+    "title_link": "Реклама и обьявления - нарисуйте заставку к \r\nжурналу.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Реклама_и_обьявления_-_нарисуите_заставку_к_журналу"
+  },
+  {
+    "article_id": 13663,
+    "article_url": "https://zxpress.ru/article.php?id=13663",
+    "print_url": "https://zxpress.ru/print.php?id=13663",
+    "title_link": "Авторская разработка - Digital Sound Recorder программа для оцифровки звука.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Авторская_разработка_-_Digital_Sound_Recorder_программа_для"
+  },
+  {
+    "article_id": 13664,
+    "article_url": "https://zxpress.ru/article.php?id=13664",
+    "print_url": "https://zxpress.ru/print.php?id=13664",
+    "title_link": "Почтовый ящик - Hам очень важно Ваше мнение о нашем журнале, просим присылать в этот раздел свои пожелания и отзывы.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Почтовыи_ящик_-_Hам_очень_важно_Ваше_мнение_о_нашем_журнале"
+  },
+  {
+    "article_id": 13665,
+    "article_url": "https://zxpress.ru/article.php?id=13665",
+    "print_url": "https://zxpress.ru/print.php?id=13665",
+    "title_link": "Поскриптум - подошел к своему логическому завершению первый выпуск\r\nэлектронного журнала X-FILES.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Поскриптум_-_подошел_к_своему_логическому_завершению_первыи"
+  },
+  {
+    "article_id": 10667,
+    "article_url": "https://zxpress.ru/article.php?id=10667",
+    "print_url": "https://zxpress.ru/print.php?id=10667",
+    "title_link": "Раскрутка - Новелла к игре \"Trap Door\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Раскрутка_-_Новелла_к_игре_Trap_Door"
+  },
+  {
+    "article_id": 15854,
+    "article_url": "https://zxpress.ru/article.php?id=15854",
+    "print_url": "https://zxpress.ru/print.php?id=15854",
+    "title_link": "Мысли - Разные мысли...",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Мысли_-_Разные_мысли"
+  },
+  {
+    "article_id": 16825,
+    "article_url": "https://zxpress.ru/article.php?id=16825",
+    "print_url": "https://zxpress.ru/print.php?id=16825",
+    "title_link": "Вдруг пригодится - Про RESET.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Вдруг_пригодится_-_Про_RESET"
+  },
+  {
+    "article_id": 5690,
+    "article_url": "https://zxpress.ru/article.php?id=5690",
+    "print_url": "https://zxpress.ru/print.php?id=5690",
+    "title_link": "Иной - скеси-ссака (4) или кристов любит роню.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Инои_-_скеси-ссака_4_или_кристов_любит_роню"
+  },
+  {
+    "article_id": 11264,
+    "article_url": "https://zxpress.ru/article.php?id=11264",
+    "print_url": "https://zxpress.ru/print.php?id=11264",
+    "title_link": "Art Studio - проект нового графического редактора от группы Avalon.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Art_Studio_-_проект_нового_графического_редактора_от_группы"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 6563,
+    "article_url": "https://zxpress.ru/article.php?id=6563",
+    "print_url": "https://zxpress.ru/print.php?id=6563",
+    "title_link": "От автора - номер посвящен PARADOX 2oo2.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "От_автора_-_номер_посвящен_PARADOX_2oo2"
+  },
+  {
+    "article_id": 6564,
+    "article_url": "https://zxpress.ru/article.php?id=6564",
+    "print_url": "https://zxpress.ru/print.php?id=6564",
+    "title_link": "Сплетни SCEN'ы - Новости.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Сплетни_SCENы_-_Новости"
+  },
+  {
+    "article_id": 6565,
+    "article_url": "https://zxpress.ru/article.php?id=6565",
+    "print_url": "https://zxpress.ru/print.php?id=6565",
+    "title_link": "PARADOX 2oo2 version-1 - Как это было!",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "PARADOX_2oo2_version-1_-_Как_это_было"
+  },
+  {
+    "article_id": 6566,
+    "article_url": "https://zxpress.ru/article.php?id=6566",
+    "print_url": "https://zxpress.ru/print.php?id=6566",
+    "title_link": "PARADOX 2oo2 version-2 - Репорт из газеты \"ТЕЛЕКОМ-Ростов\", критика и все такое.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "PARADOX_2oo2_version-2_-_Репорт_из_газеты_ТЕЛЕКОМ-Ростов_кри"
+  },
+  {
+    "article_id": 6567,
+    "article_url": "https://zxpress.ru/article.php?id=6567",
+    "print_url": "https://zxpress.ru/print.php?id=6567",
+    "title_link": "PARADOX 2oo2 results - Результаты прошедшего фестиваля.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "PARADOX_2oo2_results_-_Результаты_прошедшего_фестиваля"
+  },
+  {
+    "article_id": 6568,
+    "article_url": "https://zxpress.ru/article.php?id=6568",
+    "print_url": "https://zxpress.ru/print.php?id=6568",
+    "title_link": "PARADOX 2oo2 ZX рецензия - Разбор полетов ZX мастеров.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "PARADOX_2oo2_ZX_рецензия_-_Разбор_полетов_ZX_мастеров"
+  },
+  {
+    "article_id": 6569,
+    "article_url": "https://zxpress.ru/article.php?id=6569",
+    "print_url": "https://zxpress.ru/print.php?id=6569",
+    "title_link": "911 - Помощь в прохождении Криминального Деда.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "911_-_Помощь_в_прохождении_Криминального_Деда"
+  },
+  {
+    "article_id": 6570,
+    "article_url": "https://zxpress.ru/article.php?id=6570",
+    "print_url": "https://zxpress.ru/print.php?id=6570",
+    "title_link": "Ремонт - Продолжение публикации из цикла ремонт Pentagon'а.",
+    "order": 8,
+    "issue_label": "18",
+    "short_slug": "Ремонт_-_Продолжение_публикации_из_цикла_ремонт_Pentagonа"
+  },
+  {
+    "article_id": 6571,
+    "article_url": "https://zxpress.ru/article.php?id=6571",
+    "print_url": "https://zxpress.ru/print.php?id=6571",
+    "title_link": "8) - Юмор",
+    "order": 9,
+    "issue_label": "18",
+    "short_slug": "8_-_Юмор"
+  },
+  {
+    "article_id": 6572,
+    "article_url": "https://zxpress.ru/article.php?id=6572",
+    "print_url": "https://zxpress.ru/print.php?id=6572",
+    "title_link": "Credits - Кто трудился над номером, контакты...",
+    "order": 10,
+    "issue_label": "18",
+    "short_slug": "Credits_-_Кто_трудился_над_номером_контакты"
+  }
+]

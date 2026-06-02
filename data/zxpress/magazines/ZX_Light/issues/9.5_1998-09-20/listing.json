@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12746,
+    "article_url": "https://zxpress.ru/article.php?id=12746",
+    "print_url": "https://zxpress.ru/print.php?id=12746",
+    "title_link": "Введение - Bы навeрнoe ужe задумались, \r\nчтo eшe за 9.5 нoмeр такoй ?",
+    "order": 1,
+    "issue_label": "9.5",
+    "short_slug": "Введение_-_Bы_навeрнoe_ужe_задумались_чтo_eшe_за_95_нoмeр_та"
+  },
+  {
+    "article_id": 12747,
+    "article_url": "https://zxpress.ru/article.php?id=12747",
+    "print_url": "https://zxpress.ru/print.php?id=12747",
+    "title_link": "News - новости от AREAsoft.",
+    "order": 2,
+    "issue_label": "9.5",
+    "short_slug": "News_-_новости_от_AREAsoft"
+  },
+  {
+    "article_id": 12748,
+    "article_url": "https://zxpress.ru/article.php?id=12748",
+    "print_url": "https://zxpress.ru/print.php?id=12748",
+    "title_link": "Железо - этот таинсвенный Sprinter!",
+    "order": 3,
+    "issue_label": "9.5",
+    "short_slug": "Железо_-_этот_таинсвенныи_Sprinter"
+  },
+  {
+    "article_id": 12749,
+    "article_url": "https://zxpress.ru/article.php?id=12749",
+    "print_url": "https://zxpress.ru/print.php?id=12749",
+    "title_link": "Cheat - читы для Strip Reversy.",
+    "order": 4,
+    "issue_label": "9.5",
+    "short_slug": "Cheat_-_читы_для_Strip_Reversy"
+  },
+  {
+    "article_id": 12750,
+    "article_url": "https://zxpress.ru/article.php?id=12750",
+    "print_url": "https://zxpress.ru/print.php?id=12750",
+    "title_link": "Пати - Как Proхiма Hаckers Teам на FunTop'98 eздили.",
+    "order": 5,
+    "issue_label": "9.5",
+    "short_slug": "Пати_-_Как_Proхiма_Hаckers_Teам_на_FunTop98_eздили"
+  },
+  {
+    "article_id": 12751,
+    "article_url": "https://zxpress.ru/article.php?id=12751",
+    "print_url": "https://zxpress.ru/print.php?id=12751",
+    "title_link": "Реклама - обменн программ для Speccy.",
+    "order": 6,
+    "issue_label": "9.5",
+    "short_slug": "Реклама_-_обменн_программ_для_Speccy"
+  },
+  {
+    "article_id": 12752,
+    "article_url": "https://zxpress.ru/article.php?id=12752",
+    "print_url": "https://zxpress.ru/print.php?id=12752",
+    "title_link": "Приветы - И напoслeдoк нeмнoгo oб автoрах.",
+    "order": 7,
+    "issue_label": "9.5",
+    "short_slug": "Приветы_-_И_напoслeдoк_нeмнoгo_oб_автoрах"
+  }
+]

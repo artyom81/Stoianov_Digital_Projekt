@@ -1,0 +1,113 @@
+04 - Part 10 - Spectrum history (part 4).
+==========================================
+***************************************
+*  PART 10 - SPECTRUM HISTORY Part 4  *
+***************************************
+
+than  it is in a typing pool! I type for a
+living,  and I'd be quite happy to use the
+Z88   keyboard   -  but  this  is  a  very
+subjective  judgement,  and I'd advise you
+to  have  a  go  before  ordering  a  Z88,
+especially    if    you're    already   an
+experienced  typist. Journalists that I've
+spoken  to  come  out  about 50:50 for and
+against the Z88 keyboard.
+
+Z88 SYSTEM
+It  seems  that  - as usual for a Sinclair
+machine  -  the Z88 has been launched long
+before  it  is  ready.  The  prototype was
+running a neat Word Processor package, but
+the   spreadsheet,   database   and  diary
+software  were  nowhere  to  be seen. This
+software   will   have  to  be  uncommonly
+reliable  -  there's not much point having
+batteries  that  can  preserve  data for a
+year  if  the  software  goes  haywire and
+scrambles things, or locks the machine up,
+every   few  days.The  Z88  will  run  BBC
+BASIC - a dialect much-lauded by those who
+know more about fashion than they do about
+computer  science. BBC BASIC is faster and
+more  expressive  than ZX BASIC - but it's
+less  friendly. A version of BBC BASIC for
+the  Z80  processor has been available for
+several  years, so it should not take long
+to  get  the core ofit running on the Z88.
+It  will  be  interesting  to see how much
+support  we  get  for the paged memory and
+LCD  graphics.  Will  we be stuck with the
+64K memory limit of other versions on this
+machine which promises over 3 Megabytes of
+'instantly-addressable memory'? The claims
+about  the  memory  capacity  of  the  Z88
+should  be  taken  with  a  pinch of salt.
+There  are  slots  for  three  ROM  or RAM
+cartridges  at  the  front of the machine,
+and  32K  and 128K cartridges are promised
+to be available with the first machines in
+April,  with  a  1 megabyte version coming
+'soon'.  That  will  be  built  around the
+'wafer  scale integration' ideas that have
+been  kicking  around Sinclair's 'Metalab'
+for several years - butthere's no sign yet
+of  the  Ь6  million  needed  to get those
+ideas  into  production.The  only standard
+interface  is an RS-232 port, which allows
+access  to  modems,  serial  printers, and
+other  computers  -  at  least  in theory.
+RS-232  interfacing  is a black art at the
+best   of   times,   and  Sinclair  serial
+interfaces    have    a   reputation   for
+idiosycracy.
+
+PROVISIONAL VERDICT
+I  enjoyed  reading  the Z88 brochure, and
+-as  usual - I wanted to order one as soon
+asI'd  finished.  The design seems full of
+good  ideas, but it's clearly not finished
+yet.  CAMBRIDGE COMPUTER are talking about
+production  levels  of  10,000  machines a
+month,but  this  is  a  pretty meaningless
+figure,  as it's the usual 'minimum order'
+quantity     for     mass-production    of
+computers.I'll  be pleased, but surprised,
+if  Sinclair can sell Z88's in respectable
+numbers.  EPSOM,  NEC  and  TANDY have all
+attacked  the  A4 portable computer market
+and  found  slim pickings. The appeal of a
+portable  computer  has  been  clear since
+XEROX   came  up  with  the  idea  of  the
+Dynabook,   long   before   the   personal
+computer  industry  existed.  The Z88 is a
+step in that direction, and will doubtless
+appeal  to  some  people,  but the product
+hardly    lives    up   to   the   slogan,
+'full-facility,  no-compromise  computing'
+at  the  moment.  It's especially sad that
+Spectrum compatibility has been ruled out,
+because  that could have given the Z88 the
+mass-market   appeal   that  it  presently
+lacks.  But  Sinclair  is  still  a man to
+watch, and - rest assured -CRASH will keep
+watching.
+
+STOP PRESS...
+Amstrad  have  announced  a  Spectrum Plus
+Three.  This  will  have one built-in disk
+drive in place of the Plus Two's cassette,
+and   an   operating   system  written  by
+Locomotive    Software,the   firm's   tame
+programming  house. At the time of writing
+(early  March)  there's been no sight of a
+finished   product  although  that  hasn't
+prevented  less  reputable  magazines than
+CRASH  from getting their crayons out. The
+word is that boss Alan Sugar has given the
+development team until the end of March to
+sort  out  the design. We'll bring you all
+the  facts,  and  intelligent  analysis as
+soon as the new machine materialises.
+
+==========================================

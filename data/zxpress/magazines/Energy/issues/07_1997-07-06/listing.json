@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3901,
+    "article_url": "https://zxpress.ru/article.php?id=3901",
+    "print_url": "https://zxpress.ru/print.php?id=3901",
+    "title_link": "FANTASY - Роман Г.Гаррисона \"Чума из космоса\" (продолжение).",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "FANTASY_-_Роман_ГГаррисона_Чума_из_космоса_продолжение"
+  },
+  {
+    "article_id": 3902,
+    "article_url": "https://zxpress.ru/article.php?id=3902",
+    "print_url": "https://zxpress.ru/print.php?id=3902",
+    "title_link": "FIDO Net - Что вы сказали?",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "FIDO_Net_-_Что_вы_сказали"
+  },
+  {
+    "article_id": 3900,
+    "article_url": "https://zxpress.ru/article.php?id=3900",
+    "print_url": "https://zxpress.ru/print.php?id=3900",
+    "title_link": "HORROR - Повесть С.Кинга \"Дети кукурузы\" (продолжение).",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "HORROR_-_Повесть_СКинга_Дети_кукурузы_продолжение"
+  },
+  {
+    "article_id": 3905,
+    "article_url": "https://zxpress.ru/article.php?id=3905",
+    "print_url": "https://zxpress.ru/print.php?id=3905",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3904,
+    "article_url": "https://zxpress.ru/article.php?id=3904",
+    "print_url": "https://zxpress.ru/print.php?id=3904",
+    "title_link": "Анекдот - 20 анекдотов.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Анекдот_-_20_анекдотов"
+  },
+  {
+    "article_id": 3899,
+    "article_url": "https://zxpress.ru/article.php?id=3899",
+    "print_url": "https://zxpress.ru/print.php?id=3899",
+    "title_link": "Байки из склепа - PLANET ENLIGHT'97.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Баики_из_склепа_-_PLANET_ENLIGHT97"
+  },
+  {
+    "article_id": 3907,
+    "article_url": "https://zxpress.ru/article.php?id=3907",
+    "print_url": "https://zxpress.ru/print.php?id=3907",
+    "title_link": "Грязное белье - Выход газеты bbsTOP #5.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Грязное_белье_-_Выход_газеты_bbsTOP_5"
+  },
+  {
+    "article_id": 3906,
+    "article_url": "https://zxpress.ru/article.php?id=3906",
+    "print_url": "https://zxpress.ru/print.php?id=3906",
+    "title_link": "Новости - Список работающих серверов в Минске.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Список_работающих_серверов_в_Минске"
+  },
+  {
+    "article_id": 3908,
+    "article_url": "https://zxpress.ru/article.php?id=3908",
+    "print_url": "https://zxpress.ru/print.php?id=3908",
+    "title_link": "От редакции - Редакцию газеты покинули Spectre & Were Wolwes.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "От_редакции_-_Редакцию_газеты_покинули_Spectre_Were_Wolwes"
+  },
+  {
+    "article_id": 3903,
+    "article_url": "https://zxpress.ru/article.php?id=3903",
+    "print_url": "https://zxpress.ru/print.php?id=3903",
+    "title_link": "Рассказа - День молодого литератора.",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Рассказа_-_День_молодого_литератора"
+  }
+]

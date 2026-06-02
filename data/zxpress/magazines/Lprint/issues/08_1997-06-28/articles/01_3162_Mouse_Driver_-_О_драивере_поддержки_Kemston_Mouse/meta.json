@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1997-06-28",
+  "order": 1,
+  "article_id": 3162,
+  "title_link": "Mouse Driver - О драйвере поддержки Kemston Mouse.",
+  "title_h1": "Lprint 08 - Mouse Driver - О драйвере поддержки Kemston Mouse.",
+  "print_url": "https://zxpress.ru/print.php?id=3162",
+  "article_url": "https://zxpress.ru/article.php?id=3162",
+  "fetched_at": "2026-05-31T22:20:48Z"
+}

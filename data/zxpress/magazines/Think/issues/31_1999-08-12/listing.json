@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4306,
+    "article_url": "https://zxpress.ru/article.php?id=4306",
+    "print_url": "https://zxpress.ru/print.php?id=4306",
+    "title_link": "От автора - Пятница 13...",
+    "order": 1,
+    "issue_label": "31",
+    "short_slug": "От_автора_-_Пятница_13"
+  },
+  {
+    "article_id": 4307,
+    "article_url": "https://zxpress.ru/article.php?id=4307",
+    "print_url": "https://zxpress.ru/print.php?id=4307",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "31",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4308,
+    "article_url": "https://zxpress.ru/article.php?id=4308",
+    "print_url": "https://zxpress.ru/print.php?id=4308",
+    "title_link": "Обзор Lines - Обзор различных вариантов игры Lines.",
+    "order": 3,
+    "issue_label": "31",
+    "short_slug": "Обзор_Lines_-_Обзор_различных_вариантов_игры_Lines"
+  },
+  {
+    "article_id": 4309,
+    "article_url": "https://zxpress.ru/article.php?id=4309",
+    "print_url": "https://zxpress.ru/print.php?id=4309",
+    "title_link": "Детектив - \"Рецепт на убийство\".",
+    "order": 4,
+    "issue_label": "31",
+    "short_slug": "Детектив_-_Рецепт_на_убииство"
+  },
+  {
+    "article_id": 4310,
+    "article_url": "https://zxpress.ru/article.php?id=4310",
+    "print_url": "https://zxpress.ru/print.php?id=4310",
+    "title_link": "Изюминка - Программа телепередач.",
+    "order": 5,
+    "issue_label": "31",
+    "short_slug": "Изюминка_-_Программа_телепередач"
+  },
+  {
+    "article_id": 4311,
+    "article_url": "https://zxpress.ru/article.php?id=4311",
+    "print_url": "https://zxpress.ru/print.php?id=4311",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "31",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4312,
+    "article_url": "https://zxpress.ru/article.php?id=4312",
+    "print_url": "https://zxpress.ru/print.php?id=4312",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "31",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

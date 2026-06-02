@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3010,
+    "article_url": "https://zxpress.ru/article.php?id=3010",
+    "print_url": "https://zxpress.ru/print.php?id=3010",
+    "title_link": "Интервью - Открытие Спектрума: Вячеслав Медноногов/Copper Feet, Павел Федин, Александр Майоров/MAS, Андрей Савичев.",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "Интервью_-_Открытие_Спектрума_Вячеслав_МедноноговCopper_Feet"
+  },
+  {
+    "article_id": 3008,
+    "article_url": "https://zxpress.ru/article.php?id=3008",
+    "print_url": "https://zxpress.ru/print.php?id=3008",
+    "title_link": "Мнение - Классификация игр для Спектрума.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "Мнение_-_Классификация_игр_для_Спектрума"
+  },
+  {
+    "article_id": 3006,
+    "article_url": "https://zxpress.ru/article.php?id=3006",
+    "print_url": "https://zxpress.ru/print.php?id=3006",
+    "title_link": "Новости - О новинках ПО: Twilight: Land of Shadow, Kolobok Zoom 2,\r\n 12 Тайных книг, Text Maker v0.17b.",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Новости_-_О_новинках_ПО_Twilight_Land_of_Shadow_Kolobok_Zoom"
+  },
+  {
+    "article_id": 3004,
+    "article_url": "https://zxpress.ru/article.php?id=3004",
+    "print_url": "https://zxpress.ru/print.php?id=3004",
+    "title_link": "От редакции - Анализ событий за 16 год жизни Спектрума.",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "От_редакции_-_Анализ_событии_за_16_год_жизни_Спектрума"
+  },
+  {
+    "article_id": 3007,
+    "article_url": "https://zxpress.ru/article.php?id=3007",
+    "print_url": "https://zxpress.ru/print.php?id=3007",
+    "title_link": "Презентация - Презентация новых разработок под General Sound: Rex 1&2,\r\n Клопы.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Презентация_-_Презентация_новых_разработок_под_General_Sound"
+  },
+  {
+    "article_id": 3011,
+    "article_url": "https://zxpress.ru/article.php?id=3011",
+    "print_url": "https://zxpress.ru/print.php?id=3011",
+    "title_link": "Реклама - Объявления и реклама.",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "Реклама_-_Объявления_и_реклама"
+  },
+  {
+    "article_id": 3009,
+    "article_url": "https://zxpress.ru/article.php?id=3009",
+    "print_url": "https://zxpress.ru/print.php?id=3009",
+    "title_link": "Сенсация - У буржуев был Спек с CD.",
+    "order": 7,
+    "issue_label": "45",
+    "short_slug": "Сенсация_-_У_буржуев_был_Спек_с_CD"
+  },
+  {
+    "article_id": 3005,
+    "article_url": "https://zxpress.ru/article.php?id=3005",
+    "print_url": "https://zxpress.ru/print.php?id=3005",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 8,
+    "issue_label": "45",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  }
+]

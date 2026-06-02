@@ -1,0 +1,15 @@
+{
+  "magazine_id": 79,
+  "magazine_name": "Flash Info",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-05-31",
+  "order": 3,
+  "article_id": 10756,
+  "title_link": "Новости - новости из других городов.",
+  "title_h1": "Flash Info 02 - Новости - новости из других городов.",
+  "print_url": "https://zxpress.ru/print.php?id=10756",
+  "article_url": "https://zxpress.ru/article.php?id=10756",
+  "fetched_at": "2026-05-31T22:06:17Z"
+}

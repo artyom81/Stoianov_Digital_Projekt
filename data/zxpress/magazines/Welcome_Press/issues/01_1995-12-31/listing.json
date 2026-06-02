@@ -1,0 +1,182 @@
+[
+  {
+    "article_id": 269,
+    "article_url": "https://zxpress.ru/article.php?id=269",
+    "print_url": "https://zxpress.ru/print.php?id=269",
+    "title_link": "Turbo Assembler 3.0 - полное описание.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Turbo_Assembler_30_-_полное_описание"
+  },
+  {
+    "article_id": 271,
+    "article_url": "https://zxpress.ru/article.php?id=271",
+    "print_url": "https://zxpress.ru/print.php?id=271",
+    "title_link": "Вопросы и ответы.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Вопросы_и_ответы"
+  },
+  {
+    "article_id": 259,
+    "article_url": "https://zxpress.ru/article.php?id=259",
+    "print_url": "https://zxpress.ru/print.php?id=259",
+    "title_link": "Конкурс - конкурс на лучший \"boot\" года.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Конкурс_-_конкурс_на_лучшии_boot_года"
+  },
+  {
+    "article_id": 264,
+    "article_url": "https://zxpress.ru/article.php?id=264",
+    "print_url": "https://zxpress.ru/print.php?id=264",
+    "title_link": "Новости - новости от фирмы WELCOME.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новости_от_фирмы_WELCOME"
+  },
+  {
+    "article_id": 265,
+    "article_url": "https://zxpress.ru/article.php?id=265",
+    "print_url": "https://zxpress.ru/print.php?id=265",
+    "title_link": "Новости - обзор компьютерной прессы.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Новости_-_обзор_компьютернои_прессы"
+  },
+  {
+    "article_id": 253,
+    "article_url": "https://zxpress.ru/article.php?id=253",
+    "print_url": "https://zxpress.ru/print.php?id=253",
+    "title_link": "Объявления - обьявление к господам программистам.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Объявления_-_обьявление_к_господам_программистам"
+  },
+  {
+    "article_id": 263,
+    "article_url": "https://zxpress.ru/article.php?id=263",
+    "print_url": "https://zxpress.ru/print.php?id=263",
+    "title_link": "От редакции.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "От_редакции"
+  },
+  {
+    "article_id": 266,
+    "article_url": "https://zxpress.ru/article.php?id=266",
+    "print_url": "https://zxpress.ru/print.php?id=266",
+    "title_link": "Путеводитель - вступление.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_вступление"
+  },
+  {
+    "article_id": 252,
+    "article_url": "https://zxpress.ru/article.php?id=252",
+    "print_url": "https://zxpress.ru/print.php?id=252",
+    "title_link": "Путеводитель - игра Academy (Академия).",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_игра_Academy_Академия"
+  },
+  {
+    "article_id": 260,
+    "article_url": "https://zxpress.ru/article.php?id=260",
+    "print_url": "https://zxpress.ru/print.php?id=260",
+    "title_link": "Путеводитель - игра Last Battle (Последняя битва)",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_игра_Last_Battle_Последняя_битва"
+  },
+  {
+    "article_id": 262,
+    "article_url": "https://zxpress.ru/article.php?id=262",
+    "print_url": "https://zxpress.ru/print.php?id=262",
+    "title_link": "Путеводитель - игра Lords of Midnights (Повелители Полуночи)",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_игра_Lords_of_Midnights_Повелители_Полуночи"
+  },
+  {
+    "article_id": 268,
+    "article_url": "https://zxpress.ru/article.php?id=268",
+    "print_url": "https://zxpress.ru/print.php?id=268",
+    "title_link": "Путеводитель - игра Stiflip & Company (Стиффлип и компания).",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_игра_Stiflip_Company_Стиффлип_и_компания"
+  },
+  {
+    "article_id": 272,
+    "article_url": "https://zxpress.ru/article.php?id=272",
+    "print_url": "https://zxpress.ru/print.php?id=272",
+    "title_link": "Путеводитель - игра Where Time Stood Still (Там, где время замерло).",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_игра_Where_Time_Stood_Still_Там_где_время_зам"
+  },
+  {
+    "article_id": 261,
+    "article_url": "https://zxpress.ru/article.php?id=261",
+    "print_url": "https://zxpress.ru/print.php?id=261",
+    "title_link": "Спекутрум изнутри - логические элементы.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Спекутрум_изнутри_-_логические_элементы"
+  },
+  {
+    "article_id": 257,
+    "article_url": "https://zxpress.ru/article.php?id=257",
+    "print_url": "https://zxpress.ru/print.php?id=257",
+    "title_link": "Справочник программиста - в поисках вечной жизни.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Справочник_программиста_-_в_поисках_вечнои_жизни"
+  },
+  {
+    "article_id": 270,
+    "article_url": "https://zxpress.ru/article.php?id=270",
+    "print_url": "https://zxpress.ru/print.php?id=270",
+    "title_link": "Справочник программиста - точки входа в TR-DOS.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Справочник_программиста_-_точки_входа_в_TR-DOS"
+  },
+  {
+    "article_id": 267,
+    "article_url": "https://zxpress.ru/article.php?id=267",
+    "print_url": "https://zxpress.ru/print.php?id=267",
+    "title_link": "Справочник - вступление.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Справочник_-_вступление"
+  },
+  {
+    "article_id": 255,
+    "article_url": "https://zxpress.ru/article.php?id=255",
+    "print_url": "https://zxpress.ru/print.php?id=255",
+    "title_link": "Старший брат - CD-ROM",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Старшии_брат_-_CD-ROM"
+  },
+  {
+    "article_id": 256,
+    "article_url": "https://zxpress.ru/article.php?id=256",
+    "print_url": "https://zxpress.ru/print.php?id=256",
+    "title_link": "Фотоскоп - фотографии читателей.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Фотоскоп_-_фотографии_читателеи"
+  },
+  {
+    "article_id": 258,
+    "article_url": "https://zxpress.ru/article.php?id=258",
+    "print_url": "https://zxpress.ru/print.php?id=258",
+    "title_link": "Юмор - судьба резидента, или паутина над страной.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_судьба_резидента_или_паутина_над_странои"
+  }
+]

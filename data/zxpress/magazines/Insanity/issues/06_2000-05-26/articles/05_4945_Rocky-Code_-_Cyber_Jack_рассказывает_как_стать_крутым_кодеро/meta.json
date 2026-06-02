@@ -1,0 +1,15 @@
+{
+  "magazine_id": 102,
+  "magazine_name": "Insanity",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "2000-05-26",
+  "order": 5,
+  "article_id": 4945,
+  "title_link": "Rocky-Code - Cyber Jack рассказывает как стать крутым кодером.",
+  "title_h1": "Insanity 06 - Rocky-Code - Cyber Jack рассказывает как стать крутым кодером.",
+  "print_url": "https://zxpress.ru/print.php?id=4945",
+  "article_url": "https://zxpress.ru/article.php?id=4945",
+  "fetched_at": "2026-05-31T22:14:30Z"
+}

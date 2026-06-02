@@ -1,0 +1,406 @@
+Warez 02 - Spectrum pressa - Inferno #01, Adventurer 11, Scenergy #02, Virtual Worlds #01...
+____   ▄▄▄    ___
+         __▄:::   :::░░░▒▒▒▓▓▓████▓▓▓▒▒▒░░░::: :::▄__
+    _▄▄▒▒░░░::  :::░░░▒▒▒▓▓▓████▓▓▓▒▒▒░░░:::    ::░░░▒▒▄▄
+ _▄ ▓▓▒▒░░:                  ▀▀▀                   :░░▒▒▓▓ ▄
+ █▓▒▐▓▒▒▌         . .. spectrum pressa .. .          ▐▒▒▓▌▒▓█
+▐▓▒░:▓▓▒░▄_           ____   ▄▄▄   ___             _▄░▒▓▓:░▒▓▌
+█▓▒░:▐▓▒▒░░::_  :::░░░▒▒▒▓▓▓███▓▓▓▒▒▒░░░:::      _::░░▒▓▌:░▒▓█
+▐▓▓▒░:█▓▓▒░░:::   :::░░░▒▒▒▓▓▓███▓▓▓▒▒▒░░░:::  :::░░▒▓▓█:░▒▓▓▌
+▓▓▒░░░: ▀▀▀                  ▀▀▀                   ▀▀▀ :░░░▒▓▓
+ ▀▀                                                        ▀▀
+    Итак, сегодня у нас в номере: Inferno #01, Adventurer 11,
+Scenergy #02, Virtual Worlds #01...
+
+             ___▄_       _ __▄▄▄▄▄▄▄__ _       _____
+          ▐ ▐▓▓▒▒░░:: ::░░▒▒▓▓▓███▓▓▓▒▒░░:: ::░░▒▒▓▓▌ ▌
+         :▓▌█▓▓▒░░::         ▀▀▀▀▀▀▀         ::░░▒▓▓█▐▓:
+         ▐▓░▐▓▒▒░░:        Inferno #01        :░░▒▒▓▌░▓▌
+        :▓▒░:▓▓▒▒░░:_       _ _▄▄▄_ _       _:░░▒▒▓▓:░▒▓:
+        ▐▒▒░:▐▓▓▒▒░░░:: :::░░▒▒▓█▓▒▒░░::: ::░░░▒▒▓▓▌:░▒▒▌
+         ▀    ▀▀▀             ▀▀▀▀▀             ▀▀▀    ▀
+                   (c) Stars of Keladan'2000
+
+Inferno:
+ .Авторы журнала
+ .Вступление
+ .Управление
+
+Otherz: 
+ .Profi & CP/M /часть 1/
+ .Анкетирование
+ .Russian Rulez: процессор ~Эльбрус~
+
+Интервью:
+ .Jerri/Alien Factory
+
+For Coderz:
+ .Описание портов компьютера Profi
+ .Описание форматов звуковых файлов /.raw, .wav, .voc/
+ .Про ПЗУ: рестарты ПЗУ 48 /программы и таблицы/
+
+Железо:
+ .Усилитель сигнала телефонной линии
+ .Простой аналогоцифровой преобразователь
+
+Gameland:
+ .Project-X
+
+Softuhka:
+ .ZX-Word Updated
+ .File Extractor
+ .В голову надуло: TestProg
+
+Humor:
+ ."Крокодил. Нарочно не придумаешь"
+
+Мыльница: /пока пустая/
+ .Пена
+      
+Приложение:
+ .File Extractor v1.1b
+ .ZX-Word v2.6m updated by ZS
+ .TestProg
+ .Patch for Project-X game
+
+    Инферно... Журнал уже устарел как мне кажется, но я все таки
+решил  не  выкидывать  его из этого номера Warez'a. Единственное
+что  я  нашел  в  нем  для  себя интересного, так это интервью с
+Jerri/Alien Factory и приложение! Особенно прога File Extractor!
+Она  конвертит  практически  все  эмуляторные файлики /разве что
+кроме  .z80/.  Очень  полезная прога! Также там есть TestProg ->
+тестер дискогрыза.
+
+    А  вот  что  мне  совсем  не  понравилось в журнале, так это
+статья про процессор ~Эльбрус~! Мужики, да вы что! Про него ведь
+в газете  BuZZ  /не помню в каком номере... 16? 17? 18?/  давным
+давно все написано! Повторяетесь...
+
+             ___▄_       _ __▄▄▄▄▄▄▄__ _       _____
+          ▐ ▐▓▓▒▒░░:: ::░░▒▒▓▓▓███▓▓▓▒▒░░:: ::░░▒▒▓▓▌ ▌
+         :▓▌█▓▓▒░░::         ▀▀▀▀▀▀▀         ::░░▒▓▓█▐▓:
+         ▐▓░▐▓▒▒░░:       Adventurer 11       :░░▒▒▓▌░▓▌
+        :▓▒░:▓▓▒▒░░:_       _ _▄▄▄_ _       _:░░▒▒▓▓:░▒▓:
+        ▐▒▒░:▐▓▓▒▒░░░:: :::░░▒▒▓█▓▒▒░░::: ::░░░▒▒▓▓▌:░▒▒▌
+         ▀    ▀▀▀             ▀▀▀▀▀             ▀▀▀    ▀
+                   (c) Cyber Punks Unity'2000
+
+Презентация:
+ .Крутые яйца
+ .Brujeria v1.0
+ .FLN Utilites
+ .Perspective Commander v1.0
+
+Интерфейс:
+ .Письма читателей
+ .Зачем тебе Пэцэ?
+ .Какие бывают дизайнеры
+
+Галерея:
+ .Beavis/Volgasoft
+ .Mash/RD/CPU
+ .Maxidrom
+ .Moran
+
+Обзор:
+ .Игры
+ .Демо версии
+
+Раскрутка:
+ .Dragons of Flame
+ .Adventurer
+ .Emlyn Hughes International
+
+Обмен опытом:
+ .Game making 2
+ .Опять про ASCII
+
+Железо:
+ .Альтеры
+ .Kempstone Mouse
+
+Оттяг:
+ .Возрадуемся оттягу
+ .Винни-Пух и все, все, все...
+ .Гоны от Ironman'a
+
+Реклама
+
+Приложение:
+ .Cool Eggs
+ .Dragons of Flame
+ .Brujeria v1.0
+ .Macroeditor
+ .Picture Viewer v1.18
+ .Perspective Commander v1.0
+ .Emlyn Hughes International
+
+    Старый,   добрый   Adventurer!!!  Ну  что  я  могу  сказать?
+Возрадуемся!  :) Steelz когда узнал, что ADV11 пришел, так через
+пару   минут  уже  тусовался  у  меня  /хотя  живет  он  в  паре
+остановок/.  Хотя чего можно было ожидать от Стелза... Он ведь с
+малых лет фанат Адвенчера /или Адвеньчера? :)/.
+
+    Насчет  приложения.  Там  есть  очень  неплохая  игрушка  by
+Horrorsoft/CPU,  называется  она  Cool Eggs!!! Я думаю каждый из
+нас  :)  имел такое чудо как ~Электронику~. Идея игры с нее! Это
+где  волк  "яйца"  корзиной ловит :) До этого, на Спекки я видел
+только  две  подобные игры: Rabbit Jazzy /by Paradox'98/ и Mysak
+/by  кто-то из Польши'8?/. Игра Mysak самая первая из этого вида
+/?/,  она  написана  наполовину  на basic'e, наполовину в кодах.
+Советую посмотреть! Кстати, поимел я ее только благодаря Crank'у
+из Techno Lab, thx!
+
+    Что-то меня занесло куда-то в сторону от журнала... На чем я
+там  остановился?  :)  Единственное  что  мне  в  ADV11 не очень
+понравилось,  так  это  intro.  Imho, в ADV10 intro было одно из
+лучших, которые я вообще видел в журналах!
+
+             ___▄_       _ __▄▄▄▄▄▄▄▄__ _       _____
+          ▐ ▐▓▓▒▒░░:: ::░░▒▒▓▓▓████▓▓▓▒▒░░:: ::░░▒▒▓▓▌ ▌
+         :▓▌█▓▓▒░░::         ▀▀▀▀▀▀▀▀         ::░░▒▓▓█▐▓:
+         ▐▓░▐▓▒▒░░:        Scenergy #02        :░░▒▒▓▌░▓▌
+        :▓▒░:▓▓▒▒░░:_       _ _▄▄▄▄_ _       _:░░▒▒▓▓:░▒▓:
+        ▐▒▒░:▐▓▓▒▒░░░:: :::░░▒▒▓██▓▒▒░░::: ::░░░▒▒▓▓▌:░▒▒▌
+         ▀    ▀▀▀             ▀▀▀▀▀▀             ▀▀▀    ▀
+                      (c) Scenergy Team'2000
+
+Editorial:
+ .Arty Noonzen/Digital Reality
+ .Random/Concern Chaos
+ .Raver/Phantasy
+
+Scenergy:
+ .What's new in Scenergy #02?
+ .Thanks for Scenergy contributors
+ .About video in Scenergy
+ .Contact us
+
+News:
+ .About dentro compo
+ .About Doom
+ .Partyzans news
+ .News
+
+A.S.S.:
+ .Music scene review
+ .О журналах
+ .ZX banner network
+ .Scene future
+ .Save our scene
+ .So you wanna be an organizer?
+ .Scene journalism explained
+ .Sceners fury
+ .My summer
+ .Remo review, a little judge
+
+Illegal Corner:
+ .About First Association
+ .Fatality warez list
+ .Scenergy releaze chart /rus/
+ .Scenergy releaze chart /eng/
+
+Demo party:
+ .Party'99
+ .Cafe'99:
+  .Report
+  .Results
+  .Report from organizers
+ .Cafe'00 rules
+ .Chaos Construction'999 report:
+  .Flying/Digital Reality
+  .Hurtman
+  .TNI
+  .Merlin/Concern Chaos
+  .Random/Concern Chaos
+  .Serzhsoft
+  .Razzlers
+ .Chaos Construction'999.999:
+  .List of entries
+  .Info /rus/
+  .Info /eng/
+  .Results
+ .Doxycon'99:
+  .Results
+  .Report
+ .Di:Halt'99:
+  .Must die
+  .Fakes
+ .Forever'2e3:
+  .Results
+  .Report
+ .Millennium /Minsk/:
+  .Results
+  .Report
+ .Paradox'99:
+  .Results
+  .Report
+ .Paradox'00:
+  .Results
+ .Phat9:
+  .Invintation
+  .Results
+  .Press results
+  .Votes
+ .PhatO info
+ .SSG'99 report
+ .Zlincon'99 report
+
+Coding:
+ .Baze/ЗSC:
+  .Fast exponential multiply
+  .Fast 16 bit square root
+ .Cryss/Razzlers: daindy sources
+ .Eternity Industry:
+  .Texture mapping + phong shadding
+  .Texture mapping
+ .Flying/Digital Reality:
+  .Комментарий к Scenergy 1
+  .Bug в Scenergy?
+  .О библиотеках
+  .Memory management library
+  .Упаковка анимации в Jam
+  .ZXA library
+
+V.I.P.:
+ .Diver/Чth Dimension: interview with Diver (в 3х частях)
+ .The man behind elite
+ .Most noble tale of the scene
+ .Awaken
+ .Интервью с:
+  .Fatality
+  .Unbeliever/Extreme
+  .Random/Concern Chaos
+
+Charts:
+ .Current rules
+ .All time favorites
+ .Statistics
+ .Voiting rules
+
+Groups:
+ .Amaltiya inc.
+ .Antares
+ .Ascendancy
+ .Crushers
+ .E-Mage
+ .Eternity Industry
+ .Excess team
+ .Extreme
+ .Fatality
+ .Jupiter 77
+ .Proxima Centauri
+ .Rush I.S.P.A.
+ .Razzlers
+ .Smash Hackers Band
+
+Warez pack:
+ .Inertia player v2.1
+ .1140 demo
+ .No work crapmo
+
+Lits:
+ .История образования Partyzans
+ .Белый Орел - товарищ известен
+ .Pussy - history of the making
+ .Fatality warez
+ .Scenegized beyond the belief
+ .Speed
+
+Mailbox
+
+Приложение:
+ .Phat9 stuff
+ .Inertia player v2.1
+ .1140 demo
+ .No work crapmo
+ .Daingy 512bytes intro /CC99/_исходник
+ .Исходники в .ZIP'ах
+
+    ...Достойное  название  для достойного магазина! :) Scenergy
+на  этот  раз  порадовал  обилием  ~сценового~  материала. Очень
+интересно  было  почитать  интервью  с  Diver'om! А также статьи
+Raver'a не оставят никого равнодушными...
+
+    С виду оболочка в SNG2 осталась прежней... Но как написано в
+самом журнале, это вам только кажется! :) Графическое оформление
+изюмительное /сразу видно, Diver постарался :)/. Интересно, SNGЗ
+выйдет так-же, через год?..
+
+    Кстати,  я  забыл  упомянуть что SNG2  располагается на трех
+дисках /2 диска сам журнал, а на третьем - приложение/.
+
+             ___▄_       _ __▄▄▄▄▄▄__ _       _____
+          ▐ ▐▓▓▒▒░░:: ::░░▒▒▓▓▓██▓▓▓▒▒░░:: ::░░▒▒▓▓▌ ▌
+         :▓▌█▓▓▒░░::         ▀▀▀▀▀▀         ::░░▒▓▓█▐▓:
+         ▐▓░▐▓▒▒░░:    Virtual Worlds #01    :░░▒▒▓▌░▓▌
+        :▓▒░:▓▓▒▒░░:_       _ _▄▄_ _       _:░░▒▒▓▓:░▒▓:
+        ▐▒▒░:▐▓▓▒▒░░░:: :::░░▒▒▓▓▒▒░░::: ::░░░▒▒▓▓▌:░▒▒▌
+         ▀    ▀▀▀             ▀▀▀▀             ▀▀▀    ▀
+              (c) Master Home Computers Group'2000
+
+
+Assembler:
+ .Z80 flags
+ .Оверлей для Jemmini Commander
+ .Секреты TRDOS
+ .Круги на воде
+ .Поиск пути
+
+Железо:
+ .Глюки клавиатуры
+ .Прерывания
+
+Техпомощь:
+ .Мысли вслух
+ .Форматы эмуляторных файлов
+ .Dos review:
+  .MSDOS
+  .ISDOS
+  .ПК ~Агат~
+  .Радио 8бРК
+  .SPDOS
+  .БК-0011М
+  .CP/M
+  .ASC Sound Master
+  .RT11
+
+Di:Halt'99:
+ .Анализ
+ .Hidden parts
+ .Официальные результаты
+
+Программы:
+ .Alien /game/
+ .Universal antiprotector v0.01
+ .Белые пятна_demo version
+ .Exhumer v1.1+
+ .Hardcore v3.0_demo version
+ .Converter 2
+ .Глаз вопиющего
+
+Отдохни:
+ .Стих о Sysop'е
+ .Секс в Fido
+ .Механический
+ .Анекдоты
+
+    Опа!  Все  таки  парни  из  Дзержинска  собрались с силами и
+выпустили   первый   номер   своего   журнала   Virtual  Worlds!
+Поздравляем!  Больше  всего  из журнала мне понравилась огромная
+статья  Nuts'a,  посвященная DOS'ам. Натс действительно проделал
+немеряную работу. А вот раздел ~Отдохни~ я считаю лишним...
+
+    Оболочка  журнала вполне вписывается в европейские стандарты
+:)  Неплохо  сделана  выборка  статей!  Хотя  в  первый раз меня
+забесила одна фича, которая находится в левом нижнем углу... Это
+та,  которая  раздвигается,  когда  стрела (стрела?) попадает на
+нее.  Ну  я  и  нажал...  :) И вывалился в DOS!!! Снова загрузил
+журнал.  Почитал.  Вышел  в  меню. И опять нажал! Забыл, что это
+такое :))) Потом правда запомнил! ;)
+
+    Вообщем  общее  впечатление  магазин  создает неплохое, хотя
+материала  можно  было  и  побольше  насобирать  ;)  Также очень
+интересно,   это   единичный   выпуск,   или  за  ним  последуют
+следующие?!?..
+                           .  .  .

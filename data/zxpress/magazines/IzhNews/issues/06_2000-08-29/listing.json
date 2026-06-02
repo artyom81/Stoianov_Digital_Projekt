@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 4888,
+    "article_url": "https://zxpress.ru/article.php?id=4888",
+    "print_url": "https://zxpress.ru/print.php?id=4888",
+    "title_link": "Вступление - о новом номере газеты.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_о_новом_номере_газеты"
+  },
+  {
+    "article_id": 4890,
+    "article_url": "https://zxpress.ru/article.php?id=4890",
+    "print_url": "https://zxpress.ru/print.php?id=4890",
+    "title_link": "Новости - день города, о создании Ижевскго журнала, новый состав редакции.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Новости_-_день_города_о_создании_Ижевскго_журнала_новыи_сост"
+  },
+  {
+    "article_id": 4889,
+    "article_url": "https://zxpress.ru/article.php?id=4889",
+    "print_url": "https://zxpress.ru/print.php?id=4889",
+    "title_link": "Наболело - самоедство авторов газеты об отсутвии реакции читателей.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Наболело_-_самоедство_авторов_газеты_об_отсутвии_реакции_чит"
+  },
+  {
+    "article_id": 4891,
+    "article_url": "https://zxpress.ru/article.php?id=4891",
+    "print_url": "https://zxpress.ru/print.php?id=4891",
+    "title_link": "Warez - игровые и системные новинки: Imperia 2000, 8-й отдел, The Last Courier, Burial GFX Editor, Perspective Comander.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Warez_-_игровые_и_системные_новинки_Imperia_2000_8-и_отдел_T"
+  },
+  {
+    "article_id": 4892,
+    "article_url": "https://zxpress.ru/article.php?id=4892",
+    "print_url": "https://zxpress.ru/print.php?id=4892",
+    "title_link": "Nonsense - об особенностях ассемблера Alasm 4.2 (макрокоманды,команды условной трансляции и т.д.)",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Nonsense_-_об_особенностях_ассемблера_Alasm_42_макрокомандык"
+  },
+  {
+    "article_id": 4893,
+    "article_url": "https://zxpress.ru/article.php?id=4893",
+    "print_url": "https://zxpress.ru/print.php?id=4893",
+    "title_link": "Solution - детальное прохождение игры Dizzy A.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Solution_-_детальное_прохождение_игры_Dizzy_A"
+  },
+  {
+    "article_id": 4894,
+    "article_url": "https://zxpress.ru/article.php?id=4894",
+    "print_url": "https://zxpress.ru/print.php?id=4894",
+    "title_link": "Обманем - Мысли вслух, или как обмануть дополнительные миссии к игре Черный Ворон.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Обманем_-_Мысли_вслух_или_как_обмануть_дополнительные_миссии"
+  },
+  {
+    "article_id": 4895,
+    "article_url": "https://zxpress.ru/article.php?id=4895",
+    "print_url": "https://zxpress.ru/print.php?id=4895",
+    "title_link": "Password - о методе расшифровки паролей к играм.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Password_-_о_методе_расшифровки_паролеи_к_играм"
+  },
+  {
+    "article_id": 4896,
+    "article_url": "https://zxpress.ru/article.php?id=4896",
+    "print_url": "https://zxpress.ru/print.php?id=4896",
+    "title_link": "Adventure - Руководство по Адвентюрным играм! (часть 1)",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Adventure_-_Руководство_по_Адвентюрным_играм_часть_1"
+  },
+  {
+    "article_id": 4897,
+    "article_url": "https://zxpress.ru/article.php?id=4897",
+    "print_url": "https://zxpress.ru/print.php?id=4897",
+    "title_link": "Фичи - Исправленная схема подключения мыши к ZX Spectrum.",
+    "order": 10,
+    "issue_label": "06",
+    "short_slug": "Фичи_-_Исправленная_схема_подключения_мыши_к_ZX_Spectrum"
+  },
+  {
+    "article_id": 4898,
+    "article_url": "https://zxpress.ru/article.php?id=4898",
+    "print_url": "https://zxpress.ru/print.php?id=4898",
+    "title_link": "Предложение - философия: \"Съесть все, что меньше меня, избегая все, что больше меня\".",
+    "order": 11,
+    "issue_label": "06",
+    "short_slug": "Предложение_-_философия_Съесть_все_что_меньше_меня_избегая_в"
+  },
+  {
+    "article_id": 4899,
+    "article_url": "https://zxpress.ru/article.php?id=4899",
+    "print_url": "https://zxpress.ru/print.php?id=4899",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 12,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

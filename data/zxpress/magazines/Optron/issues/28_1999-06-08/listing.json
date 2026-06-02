@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1520,
+    "article_url": "https://zxpress.ru/article.php?id=1520",
+    "print_url": "https://zxpress.ru/print.php?id=1520",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: ZX-News 47, Don News 7, Buzz 17.",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_ZX-News_47_Don_News_7_Buz"
+  },
+  {
+    "article_id": 1524,
+    "article_url": "https://zxpress.ru/article.php?id=1524",
+    "print_url": "https://zxpress.ru/print.php?id=1524",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Команды единичного приращения, прямой и относительный переход, организация цикла.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Команды_единичного_приращ"
+  },
+  {
+    "article_id": 1526,
+    "article_url": "https://zxpress.ru/article.php?id=1526",
+    "print_url": "https://zxpress.ru/print.php?id=1526",
+    "title_link": "Лит. страничка - Гриф \"Y-II\" (Дневник - продолжение).",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "Лит_страничка_-_Гриф_Y-II_Дневник_-_продолжение"
+  },
+  {
+    "article_id": 1519,
+    "article_url": "https://zxpress.ru/article.php?id=1519",
+    "print_url": "https://zxpress.ru/print.php?id=1519",
+    "title_link": "Обратная связь - Пару слов об Оптроне 27. К вопросу о прикладном применении Спектрума.",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "Обратная_связь_-_Пару_слов_об_Оптроне_27_К_вопросу_о_приклад"
+  },
+  {
+    "article_id": 1527,
+    "article_url": "https://zxpress.ru/article.php?id=1527",
+    "print_url": "https://zxpress.ru/print.php?id=1527",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "28",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1525,
+    "article_url": "https://zxpress.ru/article.php?id=1525",
+    "print_url": "https://zxpress.ru/print.php?id=1525",
+    "title_link": "Рубрика X - О Львовском базаре.",
+    "order": 6,
+    "issue_label": "28",
+    "short_slug": "Рубрика_X_-_О_Львовском_базаре"
+  },
+  {
+    "article_id": 1523,
+    "article_url": "https://zxpress.ru/article.php?id=1523",
+    "print_url": "https://zxpress.ru/print.php?id=1523",
+    "title_link": "Четыре килобайта - 200-й юбилей А.С.Пушкина.",
+    "order": 7,
+    "issue_label": "28",
+    "short_slug": "Четыре_килобаита_-_200-и_юбилеи_АСПушкина"
+  }
+]

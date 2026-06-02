@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "34",
+  "issue_date_iso": "1999-11-06",
+  "order": 3,
+  "article_id": 10515,
+  "title_link": "Смайлик - коллекция текстовых смайликов.",
+  "title_h1": "City 34 - Смайлик - коллекция текстовых смайликов.",
+  "print_url": "https://zxpress.ru/print.php?id=10515",
+  "article_url": "https://zxpress.ru/article.php?id=10515",
+  "fetched_at": "2026-05-31T21:51:27Z"
+}

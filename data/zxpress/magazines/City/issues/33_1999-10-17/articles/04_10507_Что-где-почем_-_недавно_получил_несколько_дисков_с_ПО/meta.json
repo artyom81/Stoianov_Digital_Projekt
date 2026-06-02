@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "33",
+  "issue_date_iso": "1999-10-17",
+  "order": 4,
+  "article_id": 10507,
+  "title_link": "Что-где-почем - недавно получил несколько дисков с ПО...",
+  "title_h1": "City 33 - Что-где-почем - недавно получил несколько дисков с ПО...",
+  "print_url": "https://zxpress.ru/print.php?id=10507",
+  "article_url": "https://zxpress.ru/article.php?id=10507",
+  "fetched_at": "2026-05-31T21:51:23Z"
+}

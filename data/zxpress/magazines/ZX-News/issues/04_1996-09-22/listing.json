@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 3097,
+    "article_url": "https://zxpress.ru/article.php?id=3097",
+    "print_url": "https://zxpress.ru/print.php?id=3097",
+    "title_link": "Информация - Что и как можно записывать в эхо-области.\r\n Правила конференции ZX.SPECTRUM : тематика,форма обмена информацией, языки,что запрещается...",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Информация_-_Что_и_как_можно_записывать_в_эхо-области_Правил"
+  },
+  {
+    "article_id": 3095,
+    "article_url": "https://zxpress.ru/article.php?id=3095",
+    "print_url": "https://zxpress.ru/print.php?id=3095",
+    "title_link": "От редакции - О первом спец.выпуске.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "От_редакции_-_О_первом_спецвыпуске"
+  },
+  {
+    "article_id": 3098,
+    "article_url": "https://zxpress.ru/article.php?id=3098",
+    "print_url": "https://zxpress.ru/print.php?id=3098",
+    "title_link": "Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Список_BBS_-_Список_ныне_деиствующих_BBS_в_городе_С-Петербур"
+  },
+  {
+    "article_id": 3096,
+    "article_url": "https://zxpress.ru/article.php?id=3096",
+    "print_url": "https://zxpress.ru/print.php?id=3096",
+    "title_link": "Что такое FIDO - Памятка новому пользователю сети FIDONET :\r\n Общая структура FIDONET; Маршрутизация почты; Работа с BBS;\r\n Регистрация; Уровни доступа; Почта: Сетевая и Эхо почта;\r\n Формат письма; Требования к содержанию письма; Чтение писем",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Что_такое_FIDO_-_Памятка_новому_пользователю_сети_FIDONET_Об"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 10,
+  "magazine_name": "All Paper",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 6,
+  "article_id": 9411,
+  "title_link": "Послесловие - история создания этого номера газеты.",
+  "title_h1": "IzhNews 0B - Послесловие - история создания этого номера газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=9411",
+  "article_url": "https://zxpress.ru/article.php?id=9411",
+  "fetched_at": "2026-05-31T21:36:18Z"
+}

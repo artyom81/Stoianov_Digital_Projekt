@@ -1,0 +1,89 @@
+Subliminal Extacy 03 - Again TRDOS TuRDOS TRDOS!
+Again TRDOS TuRDOS TRDOS!                    
+
+                            By Raver
+
+Ohhh dear.  Just a  spare moment,  so let  me write some chaotic
+words of wisdom, okay? Don't ask me to be stylish and write like
+7h15 or shit like that when everything is divided in subsections
+with  smart headlines,  HELL, this  is just  something to  think
+about you motherfucking assholes :)
+
+Technology  Research Disk  Operating System.  Sounds proud!  One
+could argue if  it is as  proud as it  sounds, but well,  TR-DOS
+users are perhaps proud of it, otherwise they wouldn't be  using
+it, right? We've been discussing this system and bad ass machine
+code loaders for ages, but still, a solution isn't here! Because
+we  need a  disk system  and we  need machine  code loaders  and
+therefore sticking to basic  isn't always possible. Also,  there
+is a thing. It should be  obvious. TR-DOS is an old system,  and
+used for  ages, it  has countless  versions and  remakes, people
+were burning ROMs like  crazy bezerks and people  were exploring
+original code, found  many ways to  use it, coded  a shitload of
+different  loaders,  discovered new  ways  of protecting  TR-DOS
+disks and finally coded ohhh so much software for it,  including
+different operating systems, all sitting and based on TR-DOS. If
+it's not a cult, it is surely something we, TR-DOS people see as
+a part of OUR spectrum. And if you, dear TR-DOS hater, say  that
+we are  nazi because  we make  software under  it and use cloned
+speccies, think of  yourself. It can't  go away so  fast... just
+like spectrum itself, it is in our hearts. We are used to it and
+old habits die hard.  It's too late. If  we kick off TR-DOS,  we
+perhaps  leave  speccy, else  we  use what  we  have got  there.
+
+Because we never used original speccy and the only other  system
+we know (older speccy people) is tape. Should we get back to the
+r0OOtz? ;D
+
+Tape rules.
+
+I've came  up with  a possible  resolution, and  I've been  told
+that it's not a new idea - just check this page:
+
+http://bla.bla.com
+
+Okay. Let's see what can I  offer. Each case is specific, so  it
+could be rather  hard to have  some exact rules  what to do  and
+what not. Documentation is  needed! Aha, that's it.  Either have
+your fucking loading routines in a seperate file or either  have
+them in  your own  file, but  make people's  life easier,  don't
+crunch it, pack, encrypt it or anything like that... like, okay,
+you've got one filed game,  just TR-DOS basic file, crunched  to
+death. What to  do now? KRAKAITIS!  Oops, I mean  it's a job  of
+cracker to get it working  on your ficken disk system.  Oh shit.
+So, bastards! Have your fucking  loader at $5D40 after a  REM in
+basic! Then, after another REM (if possible, if not - in an  nfo
+file or somewhere where it will be spread along with crack  ehm,
+any  release  that  is)  state all  the  entry  points  and used
+registers! they would be THE SAME usually if you're lame  enough
+to use good  ol' $3D13 (hehe,  in fact you  use it, because  you
+want  full  compatibility   with  older/newer  TR-DOS   ROMs  or
+whatever). And if we were  not such bastards, we could  even use
+standard  entry  points  starting with  this  $5D40.  Along with
+registers used and entry points, state how many files (or, well,
+virtual files) do  you have there  linked in that  one file, and
+state how  long each  file is.  ARGH!! but  no filenames, right?
+So... maybe it's  better to write  a complete help  with all the
+addreses etc how to load this  stuff bla bla. THEN WHY THE  FUCK
+NOT MAKE TAP FILE  WITH BASIC LOADER AT  ALL?? Yeah! Make it  if
+it's possible! If  it's not, then  okay. Let's say  there are no
+filenames,   but  after   all  there   are  addreses   on  disk
+(track/sector)... and lucky you, if they are loaded (files)  one
+after another. If not, you  are in deep shit. Since  you'll have
+to crack  it anyway,  HELL! I  said this  ain't easy! Else, some
+smart  nigga   could  write   an  even   smarter  program  which
+automatically  splits  one  file  into  the  desired  number and
+dissects loader (ofcourse using information from the REM line or
+damn NFO file in each case).
+
+You see. Life is not easy, so stop moaning. Buy betadisk and  TR
+-DOS  ROM. That's  the first  step. Second,  you TR-DOS  lamers,
+always make TAP  version of EVERYTHING  you can, including  your
+cracks and newspapers  (haha, they are  in russian anyways,  but
+PRACTICE!)   And   then,   there  is   always   space   for  new
+groundbreaking  groups,  cracking and  converting  software from
+tape to TR-DOS and even more - in the other direction.
+
+I know, it wasnt easy,
+
+Ravah!

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 74,
+    "article_url": "https://zxpress.ru/article.php?id=74",
+    "print_url": "https://zxpress.ru/print.php?id=74",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "66",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2424,
+    "article_url": "https://zxpress.ru/article.php?id=2424",
+    "print_url": "https://zxpress.ru/print.php?id=2424",
+    "title_link": "ZXNet - Порядок переписки с внешними сетями.",
+    "order": 2,
+    "issue_label": "66",
+    "short_slug": "ZXNet_-_Порядок_переписки_с_внешними_сетями"
+  },
+  {
+    "article_id": 2423,
+    "article_url": "https://zxpress.ru/article.php?id=2423",
+    "print_url": "https://zxpress.ru/print.php?id=2423",
+    "title_link": "Мозаика - \"Споры\" об уставе ZXNet.",
+    "order": 3,
+    "issue_label": "66",
+    "short_slug": "Мозаика_-_Споры_об_уставе_ZXNet"
+  },
+  {
+    "article_id": 2422,
+    "article_url": "https://zxpress.ru/article.php?id=2422",
+    "print_url": "https://zxpress.ru/print.php?id=2422",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "66",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

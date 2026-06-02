@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 10841,
+    "article_url": "https://zxpress.ru/article.php?id=10841",
+    "print_url": "https://zxpress.ru/print.php?id=10841",
+    "title_link": "Содержание - содержание газеты.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Содержание_-_содержание_газеты"
+  },
+  {
+    "article_id": 10842,
+    "article_url": "https://zxpress.ru/article.php?id=10842",
+    "print_url": "https://zxpress.ru/print.php?id=10842",
+    "title_link": "Новости - Некоторые статьи опубликованые в газете CRISTAL TIME 1 имеют просто\r\nоскорбительное содержание!",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Некоторые_статьи_опубликованые_в_газете_CRISTAL_TI"
+  },
+  {
+    "article_id": 10843,
+    "article_url": "https://zxpress.ru/article.php?id=10843",
+    "print_url": "https://zxpress.ru/print.php?id=10843",
+    "title_link": "Реклама - Модемной сети SKY NET необходимы люди ,которые могут писать музыку для AY-8912.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Модемнои_сети_SKY_NET_необходимы_люди_которые_могу"
+  },
+  {
+    "article_id": 10844,
+    "article_url": "https://zxpress.ru/article.php?id=10844",
+    "print_url": "https://zxpress.ru/print.php?id=10844",
+    "title_link": "News games - Алгоритм прохождения игры UFO-2 v2.10 Дьяволы бездны от COPPER FEET.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "News_games_-_Алгоритм_прохождения_игры_UFO-2_v210_Дьяволы_бе"
+  },
+  {
+    "article_id": 10845,
+    "article_url": "https://zxpress.ru/article.php?id=10845",
+    "print_url": "https://zxpress.ru/print.php?id=10845",
+    "title_link": "News games - TOP SKY NET на 23.09.96 в Луганске.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "News_games_-_TOP_SKY_NET_на_230996_в_Луганске"
+  },
+  {
+    "article_id": 10846,
+    "article_url": "https://zxpress.ru/article.php?id=10846",
+    "print_url": "https://zxpress.ru/print.php?id=10846",
+    "title_link": "Top Secret - BOB KLUBOV окружил свои разработки\r\nполной тайной, но по достоверным данным\r\nон находится в продолжительном запое...",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Top_Secret_-_BOB_KLUBOV_окружил_свои_разработкиполнои_таинои"
+  },
+  {
+    "article_id": 10847,
+    "article_url": "https://zxpress.ru/article.php?id=10847",
+    "print_url": "https://zxpress.ru/print.php?id=10847",
+    "title_link": "Срочно в номер - Продаются новые версии CI-DOS'A.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Срочно_в_номер_-_Продаются_новые_версии_CI-DOSA"
+  },
+  {
+    "article_id": 10848,
+    "article_url": "https://zxpress.ru/article.php?id=10848",
+    "print_url": "https://zxpress.ru/print.php?id=10848",
+    "title_link": "Действующие BBS - Действующие BBS Луганской сети SKY NET.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Деиствующие_BBS_-_Деиствующие_BBS_Луганскои_сети_SKY_NET"
+  },
+  {
+    "article_id": 10849,
+    "article_url": "https://zxpress.ru/article.php?id=10849",
+    "print_url": "https://zxpress.ru/print.php?id=10849",
+    "title_link": "ZXNet - Пpавила пользования сетью SKY NET.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "ZXNet_-_Пpавила_пользования_сетью_SKY_NET"
+  },
+  {
+    "article_id": 10850,
+    "article_url": "https://zxpress.ru/article.php?id=10850",
+    "print_url": "https://zxpress.ru/print.php?id=10850",
+    "title_link": "Форум - Позвонил нам владелец BBS dRON AND\r\nnICK и предложил много интересных форм\r\nсотрудничества.",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "Форум_-_Позвонил_нам_владелец_BBS_dRON_ANDnICK_и_предложил_м"
+  },
+  {
+    "article_id": 10851,
+    "article_url": "https://zxpress.ru/article.php?id=10851",
+    "print_url": "https://zxpress.ru/print.php?id=10851",
+    "title_link": "Железо - отечественные микросхемы и их зарубежные аналоги.",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "Железо_-_отечественные_микросхемы_и_их_зарубежные_аналоги"
+  }
+]

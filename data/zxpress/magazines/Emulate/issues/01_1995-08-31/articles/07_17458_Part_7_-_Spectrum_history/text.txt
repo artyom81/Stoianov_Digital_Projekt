@@ -1,0 +1,184 @@
+01 - Part 7 - Spectrum history.
+********************************
+*  PART 7  - SPECTRUM HISTORY  *
+********************************
+
+A STORY OF SURVIVAL
+Where do Spectrums Come from?
+
+Originally  published  in  Crash #78 (July
+1990)
+
+Sir Clive Sinclair is fifty this year, and
+it was ten years ago he launched the first
+computer branded Sinclair ZX. The ZX80 was
+followed  by  the  ZX81  and  then  the ZX
+Spectrum.  Six  ZX incarnations later, the
+Speccy   is  still  the  favourite.  CRASH
+reveals   the   story  of  Britain's  most
+popular computer...
+
+The  SPECTRUM  is the best and most famous
+ZX  computer.  But  it's worth remembering
+the   other   computers   than  Sir  Clive
+Sinclair  had  a  hand in designing before
+the ZX range was even conceived.
+
+By  the  late 70s Sinclair was running out
+of   road.   He'd   hit   trouble  selling
+calculators  and  digital watches, and had
+been   trying   to   make   and   sell   a
+pocket-sized TV set since the 60s. At last
+he'd  produced  one,  but  it  was costly,
+unreliable and difficult to make.
+
+One plan to raise money for the TV project
+involved   a   computer,   the   NewBrain.
+Britain's Labour Government bought a large
+stake   in   Sinclair's   firm,   Sinclair
+Radionics,  to  try to keep things going -
+but   lost   confidence   after  a  while.
+Radionics  split  up  and Sinclair left to
+run a new firm, Science of Cambridge.
+
+The  NewBrain  was  sold  to Newbury Labs,
+then  to  Grundy; at one time it was going
+to  be  the  official  BBC  Micro,  but it
+reached  the  market  too  late and didn`t
+catch on.
+
+Over at Science Of Cambridge, Sinclair and
+an  engineer  called  Chris  Curry  pooled
+their  experience  and  invented  a horrid
+wrist  calculator,  with  keys  you  could
+press  in  three  different directions for
+various  functions  -  a sign of things to
+come!
+
+CHEAP AND USELESS
+
+Then  they  dreamed  up  a computer system
+which  has  never been beaten on price and
+uselessness  -  the  MK-14.  It  used  and
+obscure  processor called an SC/MP, mainly
+because that made it offered to design the
+computer  for  nothing as long as Sinclair
+used it's chip.
+
+The  MK-14  had  a calculator, display and
+keyboard,  0.25K  of  memory,  and no box.
+Sinclair  sold  10,000,  and  decided that
+computers  were a good way to raise money.
+Science  Of Cambridge changed it's name to
+Sinclair  Research.  And  after  a  while,
+Chris   Curry   left   to   set  up  Acorn
+Computers.
+
+In   1980   the   first  ZX  computer  was
+produced  -  the  ZX-80,  designed  by Jim
+Westwood  and with software by John Grant.
+The  ZX-80  looked  very  much like a real
+computer,  though  it  was  made  of bendy
+plastic,  had  no keys and was less than a
+quarter  of  the  size  it appeared in the
+glossy adverts.
+
+You  could  program  in  BASIC, using a TV
+display,  and  save  programs on cassette.
+But  lots of improvements were needed. The
+ZX-80  contained only 1K of memory, and it
+could only work with whole numbers between
+-32768 and 32767. Worst of all, the screen
+went blank when you pressed a key or ran a
+program!
+
+Still,  the  ZX-80  was a success and even
+spawned  a clone - the CompShop Micro Ace.
+A  16K  RAM  pack  -  prone to fall off at
+inconvenient  moments  -  was produced, an
+various ingenious tricks were used to stop
+the machine overheating.
+
+ZX-81 SUCCESS
+
+Within   a   year,   the  ZX-80  had  been
+re-designed,  with  a custom chip in it to
+make  copying  more  difficult, and with a
+much   improved   display   that   allowed
+programs  to  run while the screen display
+was visible - albeit at about a quarter of
+the ZX-80's speed. And ZX BASIC was souped
+up  to  handle  text  and  floating  point
+mathematics,  though  square  roots didn't
+work properly at first.
+
+The   result   was   the   ZX-81:   a  big
+improvement,  launched  in March 1981 at a
+price  that undercut the ZX-80 by ó0! The
+cloned  Micro  Ace  disappeared, but Acorn
+Computers,  founded  by  Sinclair's former
+colleague   Chris   Curry,   got  the  BBC
+contract  - the ZX-81 had only a black and
+white display.
+
+The  ZX-80 had been assembled for Sinclair
+by  part-time  home workers, but the ZX-81
+was  obviously  going to sell too many for
+this arrangement to work. So, Sinclair did
+a  deal  with  Timex,  which  owned  a big
+factory   in   Scotland.   In  return  for
+building  the  ZX-81, Timex was allowed to
+sell  it  in the USA, paying Sinclair a 5%
+royalty.
+
+The  ZX-81  sold  well  -  as  did  the US
+version,  the  TMS-1000, when it popped up
+in  1982. But Sinclair was still after the
+BBC contract, and in the summer of 1982 he
+announced  the  ZX  Spectrum  -  a  colour
+computer  aimed  at  would be programmers,
+with  16K or 48K memory. The extra 32K was
+fitted   on  an  extra  board  inside  the
+computer so it couldn't fall off.
+
+THE STORY SO FAR..
+
+1980
+
+ZX-80
+ñ00;  4K ROM, 1K RAM; whole numbers only;
+very  limited black and white graphics but
+basic   32x24  screen  established.  Total
+sales about 50,000
+
+MICRO ACE (Clone)
+ø0; 2K RAM; ZX-80 Kit copy
+
+1981
+
+ZX-81
+÷0;  $150; 8K ROM, 1K RAM, floating point
+maths; slow but continuous black and white
+display.  500,000  units sold in the first
+year
+
+1982
+
+TIMEX TMS-1000
+US$100;  licensed  ZX-81  -  a big hit for
+Timex in the USA
+
+ZX SPECTRUM
+ñ25(16K),  ñ75(48K);  16K  ROM,  16K/48K
+RAM;  colour  graphics  and  much improved
+display    circuitry.   60,000   issue   1
+Spectrums  sold;  grey  keys,  add on 32K,
+'dead cockroach' badge.
+
+ZX81 price cut to õ0
+TMS-100 price cut to US$40
+
+CONCLUDED NEXT MONTH...
+
+==========================================
+==========================================

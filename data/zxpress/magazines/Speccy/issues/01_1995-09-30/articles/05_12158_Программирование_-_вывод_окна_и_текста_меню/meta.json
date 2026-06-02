@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-09-30",
+  "order": 5,
+  "article_id": 12158,
+  "title_link": "Программирование - вывод окна и текста меню.",
+  "title_h1": "Speccy 01 - Программирование - вывод окна и текста меню.",
+  "print_url": "https://zxpress.ru/print.php?id=12158",
+  "article_url": "https://zxpress.ru/article.php?id=12158",
+  "fetched_at": "2026-05-31T23:03:55Z"
+}

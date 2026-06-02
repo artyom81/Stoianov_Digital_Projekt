@@ -1,0 +1,111 @@
+Subliminal Extacy 02 - Basics Of Machine Code - Part 2
+Basics Of Machine Code - Part 2                
+                 -------------------------------                
+                       By L.A. Of Extacy-3                      
+                       -------------------                      
+Before I start, let me say that if you haven't read Part 1 (In  
+S.E.#1) then you must read that before reading this.  Otherwise 
+none of this article will make any sense at all.                
+                                                                
+Down 2 business then.  Did you try the source I gave you last   
+ish?  I hope you liked it.  You may think that alot of it was   
+crap and pointless, but if you don't understand or know very    
+basic stuff like that then you ain't got a chance at learning to
+code!!                                                          
+                                                                
+This issue I thought we'd look into loops and a few other       
+instructions.                                                   
+                                                                
+First up we will look at a 'LOOP'ing command known as 'DJNZ'.   
+Now DJNZ works on the 'B' register.  Let's make some source and 
+then I'll explain later.                                        
+                                                                
+         LD B,69                                                
+POOCAKE  DJNZ POOCAKE                                           
+         RET                                                    
+                                                                
+Okay, LD B,69 sets our counter up at 69.  DJNZ POOCAKE - this is
+the very clever part.  DJNZ ruffly means Decrement B and jump if
+B is Not Zero.  So as we 'LOAD'ed B with 69 it will keep looping
+until B = 0, but don't forget everytime DJNZ is executed, B is  
+decremented!!  So after 69 times that DJNZ has been executed B  
+will equal 0.  So the DJNZ command will then carry on with next 
+instruction, which in our case is RET.  So to recap, We load B  
+with 69, DJNZ loops to itself 69 times and then RETurns.        
+                                                                
+Understand?  I hope so!!  Let's try something a bit more complex
+now!!                                                           
+                                                                
+         LD A,0                                                 
+         LD HL,16384                                            
+         LD B,255                                               
+POOCAKE  LD (HL),A                                              
+         INC A                                                  
+         HALT                                                   
+         DJNZ POOCAKE                                           
+         RET                                                    
+                                                                
+Get that!!  You should beable to understand the above program   
+above (if you have read all my tutorials so far!).  But just    
+incase you are a bit unsure of what is happening then here goes 
+for an explaination.                                            
+                                                                
+We LoaD A with 0.  Then we LoaD HL with 16384 (start of the     
+display file or Screen$).  Then B (our counter) is LoaDed with  
+255 (as B is an 8 bit register so it's max value is 255).  Then 
+we LoaD the contents of HL with A, which basically means we poke
+HL (16384) with A (at the minute it's 0). A is then INCreased  
+by 1.  Then the Z80 is told to HALT causing the Speccy to pause 
+for 1/5Oth of a second!!  Then it's told to DJNZ back to        
+POOCAKE.  So remember that DJNZ DECrements B and JumPs if B is  
+NOT ZERO!!   So if B isn't zero then it will go back to         
+LD (HL),A Now this goes through this cycle 255 times because of 
+us setting B to 255. After that there is a RET. Now because we  
+are doing it 255 times you may think '255. Corr that'll take    
+it's time!' but try it out, it will hardly take any time at all 
+hence I've put a HALT in it. If it still goes too fast for you  
+then add in more HALTs after the one I've put in!!              
+                                                                
+Another way to loop is JP which means JumP.  This does'nt depend
+on B (like DJNZ does) or any other register.  It will JumP to an
+address which you define.  It's a bit like RANDOMIZE USR from   
+basic but different.  Because when you RANDOMIZE USR a RETurn   
+address is left on the STACK (I'll explain that at a later      
+date!!) so that the Speccy knows just where to return to when it
+finally reaches a RET.  But when you use JP no return address is
+left on the STACK.  So If you do a RAN. USR from basic to a bit 
+of code that JumPed to a bit of code which ended with a RET then
+when that RET is reached, the Speccy will return to BASIC.  It  
+won't JumP back to where it JumPed from (like a CALL does (Oh   
+shit I haven't explained CALLs) Shit).                          
+                                                                
+It had to happen.  I knew I'd start rambling on and end up going
+on about instructions you may never had heard of.               
+                                                                
+CALL is a very simple command.  It's basically the M/C version  
+of the RAN. USR command. (Or GO SUB in basic.ED) But when you   
+CALL an address if it reaches a RET the Speccy will RETurn to   
+the next instruction after the CALL. So say we had a bit of Code
+that went sommit like the following:-                           
+                                                                
+         CALL POOCAKE                                           
+POOCAKE  LD HL,16384                                            
+         LD A,69                                                
+         RET                                                    
+                                                                
+What do you expect will happen here?  Well CALL POOCAKE will    
+go to POOCAKE and execute the chain of instructions until it    
+reaches a RET.  When the RET is reached and executed the Speccy 
+will RETurn to the next instuction after the CALL.  Which is the
+LD HL,16384 command.  The Speccy then continues to execute the  
+commands until it reaches a RET.  Then it will RETurn back to   
+basic in our case.  If the CALL was changed into a JP then the  
+Speccy would JP to POOCAKE, execute all the commands until it   
+reaches a RET. Then instead of RETurning to the next instruction
+after the JP it will RETurn to BASIC if you RAN. USR from Basic 
+which how all code is run.  You load up your code and then      
+RANDOMIZE USR an address which sets the ball rolling.           
+                                                                
+I hope all this has made sense.  If you getting confused by this
+tutorial then read it through again, a section at a time until  
+it does make sense!!

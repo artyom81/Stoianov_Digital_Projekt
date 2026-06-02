@@ -1,0 +1,323 @@
+Born Dead 10 - Партийная зона - FOREVER 2E3, первое крупное событие в мире demoparty для Speccy в этом году: результаты и рассуждения от UnBEL!EVER&#039;a.
+════════════════════════════════════════════════════════════════
+ПАРТИЙНАЯ ЗОНА 
+════════════════════════════════════════════════════════════════
+(c) UnBEL!EVER^x7m
+Итак,  FOREVER  2E3, первое крупное событие в мире demoparty
+для   Speccy   в   этом  году.  Это  зарубежное  party,  которое
+проводилось  впервые,  действительно  поразило  мир  8-bit scene
+своим  размахом  и  результатами. Вот уж где действительно; "Для
+первого  раза  неплохо!".  Я  предлагаю  вашему  вниманию полный
+вариант  результатов  FOREVER  2E3,  а также два отчёта о party.
+Первый  отчёт  эксклюзивно  предоставили  для  нашей газеты сами
+организаторы, а второй написал Gasman^RA.
+
+    Для  начала  расскажу, о своём вкладе в это party. Как можно
+было прочитать в предыдущем номере, я стал координатором Forever
+2e3  на  территории  ex-USSR.  Теоретически  в  мои  обязанности
+входила  агитация  и  сбор  работ  посредством обычной почты для
+последующей  их  отправки организаторам через Internet. Стоит ли
+говорить,  что на момент deadline'а (вечер 15-ого марта) я так и
+не  получил ни одной работы, присланной по snail-mail. Однако то
+не давало поводов для отдыха! Работы более чем активно приходили
+по  e-mail  и  я  до  21:00  находился  в  тот день в институте,
+сортируя,  конвертируя  в  .tap и приводя всё к единому порядку,
+перед   тем   как   отправить   собранный   по   крупицам  stuff
+организаторам.
+
+    Агитационная  работа  тоже  принесла  результаты!  Правда, к
+сожалению,  почти  все результаты впоследствии обернулись боком.
+Так,  например, мне удалось убедить товарищей из группы Syndrome
+приурочить  релиз  их  нового  demo  (Boberring  2000)  именно к
+Forever  2e3.  Однако,  когда  дело  дошло  до  party, их работа
+оказалась  единственной  настоящей  demo  на всём compo (читайте
+подробнее  в  report'ах), но при этом тормозила на compo-машине.
+Не  повезло  и Ивану Рощину, которого я убедил написать 1K intro
+для party. Его работу организаторы из-за "запарки" просто забыли
+показать...
+
+    Самый же большой облом ждал нас с Sam Coupe intro compo. Всё
+вроде  шло  по  плану,  на  party  place  была живая машина, Mac
+Buster^x7m  написал  intro  и  нашёл  ещё  несколько  зарубежных
+участников,  но... Что-то как всегда не сложилось, и Sam Coupe в
+этм году не вошёл в стройные ряды C64, ATARI и Speccy на Forever
+2e3.
+
+    Но  не  будем  вспоминать  о  плохом! Как party, Forever 2e3
+определённо  удалось.  Особенно  если говорить о качестве работ.
+Давно  уже  не  было  такого интересного и достойного GFX compo.
+Много качественных track'ов было и в AY-music. А две BASIC демки
+вообще  заставили  задуматься о скрытых возможностях этого языка
+:)  И  конечно 1к intros!!! Gasman, Serzh и Baze в очередной раз
+показали силу настоящего машинного кода.
+
+    Если  говорить  о конкретно Самарских достижениях на Forever
+2e3,  то...  Композиция  Mm<M'а была лишь пятой, но если учесть,
+что  первые  места  на западных party традиционно уходят местным
+музыкантам,  то  это  большой  успех.  Однако мало кому известно
+другое.   На  Forever  2е3  в  C64  gfx  compo  победила  работа
+Virtual'а,  который  как известно хоть и состоит в группе Scene,
+но приживает в Самаре. Для C64 Павeл рисовал впервые (причём под
+эмулятором)  и  тем  более удивила нас всех столь высокая оценка
+его  работы.  Хотя,  слово рисовал здесь не совсем применимо....
+Arte Frontier 64 является доработанной версией картинки, которую
+Virtual  выставлял  на  CC'000,  а  она,  в  свою  очередь, была
+конверсией оригинальной работы by Lazur. Кстати, на compo были и
+более  достойные  работы, но победил всё же Virtual, чем изрядно
+поднял престиж не только нашего города, но и России на C64 scene
+вообще :)
+
+    Ладно,  хватит моих личных мнений и рассуждений. Смотрите на
+результаты,  читайте  report'ы  и  осознавайте суть Forever 2e3.
+Кстати,  мастерский  перевод  официального  отчёта o party - это
+дело моих рук, а отчёт Gasman'а блестяще перевёл Mac Buster^x7m.
+A  для  начала я приведу короткое сообщение с официального сайта
+команды ZeroTeam - главных организаторов Forever 2е3 - по поводу
+проведения  party  в  следующем году. Это будет понятно даже без
+перевода! :)
+Just some bullshits:
+====================
+Hey  ppl!  Next Forever will happen in 2001 sometime around
+April.  Forever  2e3  Second Edition (official name) will happen
+again  in  Trencin/Slovakia.  We are working on tech background,
+hope you will come again!
+                                              ellvis
+----------------------------------------------------------------
+
+                 -=Forever 2E3 final results=-
+         Forever 2e3 17.3 - 19.3. 2000 Trencin Slovakia
+-[ZX SPECTRUM compo results]-
+1024 bytes intro compo
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Artifice                     Serzh                      108
+ 2. Madrielle                    Gasman/Raww Arse            96
+ 3. Mathricks                    Baze/3SC                    77
+
+ 4. 1024B                        Mr. Bob/Crazytronic          3
+ 4. Shitro                       Dron/K3L                     3
+
+ 5. Lammer on #z80               Hellboj
+ 5. Alcohologic                  Anubis/ZT
+ 5. Intro                        Mike/ZT
+ 5. Sinergy                      Ivan Roshin          not shown
+Graphics compo
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Don't pass                   GAS 13                      9?
+ 2. Robin                        Agyagos/ex-Speccy Boyz      56
+ 3. Alone                        Diver/4D                    51
+
+ 4. Flux                         Jorg/Selected Realms        38
+ 5. To the sky                   G.D./4th Dimension/IMD      16
+ 6. Matrix                       Paracels/Eternity Industry   9
+ 7. Bloody Razor                 Virtual/Scene                7
+ 8. Cat                          G.D./4th Dimension           6
+ 9. Disk Protection              MadMan/CRG                   5
+10. Eddy X                       Demiurge Ash                 4
+11. Chertilo                     Kristof/Constellation        3
+11. Defender of Spectrum         Tiger's Claw                 3
+12. A not complete fish          Yerzmyey/Hooy-Program/RA     2
+12. Arab                         Habib/Hooy-Program           2
+13. Dragon                       Hannah/Crazytronic           1
+13. Tom&Jerry                    Fanat&Serzh                  1
+
+14. A man with two, big limbs    Vavrzon/Hooy-Program
+14. Gumak                        Shimi/exESA
+14. Amanauz                      Majer
+14. Friad                        Relict/Phantasy
+14. Goblin                       Skalina/Constellation
+14. Join Us                      MadMan/CRG
+14. Iron Maiden                  Marwin/K3L Corp.
+Music compo
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Titanas!                     Darkman & Justinas/CTL      24
+ 2. Dispazio                     Baze/3SC                    23
+ 3. New Generation               LaesQ/Raww Arse             19
+
+ 4. Cobra Cares                  Cobra/ex-Speccy Boyz        18
+ 5. Ciudad de Suenos             Gasman/Raww Arse            16
+ 6. madfl                        Mm<M/Sage Group             15
+ 7. U'r-Anus                     LaesQ/Raww Arse             14
+ 7. NN World                     Factor6/K3L Corp.           14
+ 7. agx2c64                      TDM/K3L Corp.               14
+ 8. 3Ever 2000                   TDM/K3L Corp.               13
+ 9. Do not vote for this!        X-agon/Naughty Crew/PHT     12
+ 9. Primitive of Time            Black Groove/Future Group   12
+10. Transform                    Factor6/K3L Corp.            9
+10. Grumble Rave                 DX-69&Ravager/CRG            9
+11. 2000                         Phantom Lord/Accept          8
+12. 3 Pieces in 1                X-Agon/Naughty Crew/PHT      7
+13. Tek                          Yerzmyey/Hooy Program/RA     6
+13. Realms                       Miguel/CPU                   6
+14. Vitamin 'C'                  Siril/4th Dimension          4
+15. Shit                         Yerzmyey/Hooy Program/RA     3
+15. Sequel                       Justinas/Constellation       3
+15. Narco House                  DX-69/CRG                    3
+15. Pondlife at ze Sunny Beache  DJ Z Mr.Z)/HWC               3
+16. Move Your Ass                Ravager/CRG                  2
+16. We love Hardwave             Mitchell/HWC&SerzhSoft       2
+17. My first                     Ivan Roshin
+17. DreamCoding                  SerzhSoft
+Real-time compo
+-[N]--[Title]-------------------[Author]---------------[Points]-
+512 bytes intro
+1. ZeroDivide                   Mike/ZeroTeam               55
+ 2. JMP and RUM                  Allitaice                   42
+ 3. Haluzky                      Astex/3SC                   32
+Music
+1. Curly2                       Factor6/K3L Corp.           67
+ 2. tdmreal1                     TDM/K3L Corp.               41
+-[Commodore 64 compo results]-
+Musics
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Kempelen                     DB                          63
+ 2. Sunflex                      Factor6                     47
+ 3. Sweet Ricky                  Sad                         42
+ 4. Forever Rulez                Manex                       36
+ 5. Windbreak                    Manex                       27
+    For Veronika                 Sad                         27
+ 6. Daylight                     Fusion/Phantasy             26
+ 7. Changes                      Johny                        8
+Gfx
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Arte Frontier 64             Virtual/Scene               58
+ 2. Alien Breed                  Leon/???                    45
+ 3. Meet poison                  Poison/Singular             41
+ 4. Abstra                       Sebaloz/Lepsi               2
+-[Commodore 64 compo results]-
+Musics
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Kempelen                     DB                          63
+ 2. Sunflex                      Factor6                     47
+ 3. Sweet Ricky                  Sad                         42
+ 4. Forever Rulez                Manex                       36
+ 5. Windbreak                    Manex                       27
+    For Veronika                 Sad                         27
+ 6. Daylight                     Fusion/Phantasy             26
+ 7. Changes                      Johny                        8
+Gfx
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. Arte Frontier 64             Virtual/Scene               58
+ 2. Alien Breed                  Leon/???                    45
+ 3. Meet poison                  Poison/Singular             41
+ 4. Abstra                       Sebaloz/Lepsi               27
+ 5. Milka                        Ceti/Anubis                 26
+ 6. End of S.                    Izzy/???                    25
+ 6. Tokyo B.                     TGM/???                     25
+ 7. Azrael                       Exile/Anubis                14
+ 8. Mutant                       Lobo/Anubis                 11
+ 9. Manga                        Lobo/Anubis                  9
+ 9. Koalas                       Womana/Studio Style          9
+10. Starship Caradac             Havran/Studio Style          8
+11. Snail                        Sam/Cult                     6
+1024 bytes intro
+-[N]--[Title]-------------------[Author]---------------[Points]-
+1. 8bit scene circles           Allitaice/Citadel          100
+ 2. Forever 8 intro              Wotnau/Dmagic               76
+ 3. Linus coming                 Allitaice/Citadel           74
+ 4. Skizo                        Resource                    38
+Demos
+-[N]--[Title]-------------------[Author]---------------[Points]-
+(sorry, there are no demo competition coz there is only 1 demo)
+Coming s.            Ideal
+-[Atari compo results]-
+intro:
+------
+1st place:      80 Rectangles   Raster          115 p.
+2nd place:      Shit            AIDS            100 p.
+3rd place:      Blob            Koala/BBSL       65 p.
+gfx:
+----
+1st place:      Castle          Piorun/BBSL     122 p.
+2nd place:      Exhibition      XSTORM/MFT       85 p.
+3nd place:      Nature          XSTORM/MFT       83 p.
+msx:
+----
+1st place:      Desease         XSTORM/MFT      128 p.
+2nd place:      Small Stir      Raster          108 p.
+3rd place:
+visitors
+                            --------
+(in alphabetic order)
+ALLITAICE/SUCCESS&TRC/CITADEL...................[c64].......[cz]
+ASMODYSA....................................................[sk]
+ASTEX/3SC.......................................[zx]........[sk]
+Baze/3SC........................................[zx]........[sk]
+BOBER/M.E.C. ...................................[atari].....[pl]
+CSABA/NEW WAVE..................................[amiga].....[hu]
+da Blondie/RESOURCE.............................[c64].......[hu]
+DALIBOR HERMAN..................................[c64].......[cz]
+DRON/K3L........................................[zx]........[cz]
+Dz1Dz1oR/8^tHeRs................................[atari].....[pl]
+EDHELLON/RESOURCE...............................[c64].......[hu]
+Factor6/K3L.....................................[zx]........[cz]
+FICIPUSIUS......................................[atari].....[cz]
+FLOP............................................[atari].....[cz]
+Florian Studler.................................[zx]........[au]
+Gasman/Raww Arse................................[zx]........[uk]
+GREATRIX/CULT...................................[c64].......[sk]
+Hellboj.........................................[zx]........[cz]
+J. WALL.....................................................[cz]
+JTR/DMagic......................................[c64].......[de]
+WOMANA..........................................[c64].......[sk]
+J0SHI n4mUr4/8^tHeRs............................[atari].....[pl]
+KOALA/BBSL......................................[atari].....[pl]
+KOSTO...........................................[atari].....[sk]
+Kropacek Miro...................................[atari].....[sk]
+LACHESIS....................................................[sk]
+LOVEC/3SC.......................................[zx]........[sk]
+LS.D............................................[atari].....[sk]
+LUIS/cmm/ROLE...................................[c64].......[sk]
+M3/Phase 7......................................[zx]........[sk]
+Manex/Anubis....................................[c64].......[cz]
+Matsoft/Naughty Crew............................[zx]........[cz]
+Mauron......................................................[it]
+MANIK/CMM.......................................[c64].......[sk]
+MiKE/ZeroTeam...................................[zx]........[sk]
+Jurgi/TRISSTESSE................................[atari].....[pl]
+Octie...........................................[c64].......[cz]
+Peter Turanyi/Softhouse.........................[zx]........[sk]
+PIORUN/BBSL.....................................[atari].....[pl]
+Poison/Singular Crew............................[c64].......[hu]
+R. PETRUZELA....................................[atari].....[cz]
+RASTER..........................................[atari].....[cz]
+Red Redby/Anubis................................[c64].......[cz]
+SAD/Anubis......................................[c64].......[cz]
+SAM/CULT........................................[c64].......[sk]
+SEBALOZ/Lepsi Development.......................[c64].......[pl]
+Serena_fugi.................................................[it]
+STALMO/M.F.T....................................[atari].....[sk]
+spAz............................................[zx]........[sk]
+Sven/Cube.......................................[atari].....[de]
+SS/ZeroTeam.....................................[zx]........[sk]
+Thomas Hogen....................................[zx]........[au]
+T|CK............................................[zx]........[sk]
+Tiger's Claw....................................[zx]........[au]
+TDM/K3L.........................................[zx]........[cz]
+T[hu] nderBlade/DMagic..........................[c64........[de]
+Top Secret/WOW/Cult.............................[c64........[sk]
+VASCO/TRISSTESSE................................[atari].....[pl]
+Vir/New Wave....................................[amiga].....[hu]
+VISAC...........................................[c64].......[cz]
+Wotnau/DMagic...................................[c64].......[cz]
+X-agon/NC/Pht...................................[zx]........[cz]
+XSTORM/MFT......................................[atari].....[sk]
+ZILOG...........................................[zx]........[cz]
+organisers
+                           ----------
+ellvis/ZeroTeam..................................[zx].......[sk]
+CVM/ZeroTeam.....................................[zx].......[sk]
+POL/Phantasy.....................................[zx].......[sk]
+Havran/Studio Style..............................[c64]......[sk]
+CREAMD/DMagic....................................[c64]......[sk]
+Wotnau/DMagic....................................[c64]......[cz]
+XI/Satantronic...................................[atari]....[sk]
+Jookie/Satantronic...............................[atari]....[sk]
+Total in platform order:       Total in countris order:
+    ------------------------       ------------------------
+zx......23                     sk......29     au......3
+    c64.....22                     cz......21     de......3
+    atari...19                     pl......8      it......2
+                                   hu......5      uk......1
+total - 72 ppl
+----------------------------------------------------------------
+(c) ELLVIS & CVM/ZeroTeam

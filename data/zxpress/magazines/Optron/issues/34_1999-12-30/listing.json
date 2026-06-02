@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1603,
+    "article_url": "https://zxpress.ru/article.php?id=1603",
+    "print_url": "https://zxpress.ru/print.php?id=1603",
+    "title_link": "ZX-Обзор - Обзор прессы: Optron 22-33, ZX-Pilot 35, Flash Info 19, Nicron 115, Сетевой сокол 1, Born Dead 0E. Обозный рейтинг",
+    "order": 1,
+    "issue_label": "34",
+    "short_slug": "ZX-Обзор_-_Обзор_прессы_Optron_22-33_ZX-Pilot_35_Flash_Info"
+  },
+  {
+    "article_id": 1604,
+    "article_url": "https://zxpress.ru/article.php?id=1604",
+    "print_url": "https://zxpress.ru/print.php?id=1604",
+    "title_link": "Кодинг - Песенка о Билле Гейтсе и Windows'95.",
+    "order": 2,
+    "issue_label": "34",
+    "short_slug": "Кодинг_-_Песенка_о_Билле_Геитсе_и_Windows95"
+  },
+  {
+    "article_id": 1606,
+    "article_url": "https://zxpress.ru/article.php?id=1606",
+    "print_url": "https://zxpress.ru/print.php?id=1606",
+    "title_link": "Литстраничка - Литературные миниатюры от читателей Optron.",
+    "order": 3,
+    "issue_label": "34",
+    "short_slug": "Литстраничка_-_Литературные_миниатюры_от_читателеи_Optron"
+  },
+  {
+    "article_id": 1601,
+    "article_url": "https://zxpress.ru/article.php?id=1601",
+    "print_url": "https://zxpress.ru/print.php?id=1601",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 4,
+    "issue_label": "34",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 1602,
+    "article_url": "https://zxpress.ru/article.php?id=1602",
+    "print_url": "https://zxpress.ru/print.php?id=1602",
+    "title_link": "Рубрика X - Грядёт Апокалипсис или же это всё проделки \"врагов Спектрума\"?",
+    "order": 5,
+    "issue_label": "34",
+    "short_slug": "Рубрика_X_-_Грядет_Апокалипсис_или_же_это_все_проделки_враго"
+  },
+  {
+    "article_id": 1607,
+    "article_url": "https://zxpress.ru/article.php?id=1607",
+    "print_url": "https://zxpress.ru/print.php?id=1607",
+    "title_link": "Стихи - Коррозия снега",
+    "order": 6,
+    "issue_label": "34",
+    "short_slug": "Стихи_-_Коррозия_снега"
+  },
+  {
+    "article_id": 1605,
+    "article_url": "https://zxpress.ru/article.php?id=1605",
+    "print_url": "https://zxpress.ru/print.php?id=1605",
+    "title_link": "Хобби - Что такое Лимерики? (\"ирландские частушки\")",
+    "order": 7,
+    "issue_label": "34",
+    "short_slug": "Хобби_-_Что_такое_Лимерики_ирландские_частушки"
+  }
+]

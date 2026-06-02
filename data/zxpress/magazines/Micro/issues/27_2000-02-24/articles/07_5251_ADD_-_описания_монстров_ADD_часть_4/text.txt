@@ -1,0 +1,801 @@
+Micro 27 - AD&D - описания монстров AD&D (часть 4).
+┌───────────┐
+              │Монстрятник│
+              │ (часть 4) │▒
+              └───────────┘▒░
+                ▒▒▒▒▒▒▒▒▒▒▒▒░
+                 ░░░░░░░░░░░░
+
+  Продолжение.  Начало  в  номерах 24, 25,
+26.
+  Приведенный  ниже  текст является частью
+большого  описания  монстров  AD&D. Данный
+текст  предназначен прежде всего любителям
+и  профессионалам  AD&D.  Т.к.  текст ну-у
+очень  большой  (приблизительно около двух
+Мб),  то естественно, что закидывать в га-
+зету нам приходится его частями. На резон-
+ный  вопрос:  "Почему бы этот текст не вы-
+пустить отдельными дисками?" могу ответить
+лишь  одно:  из-за боязни, что диски могут
+"затеряться в пути", чего не скажешь о га-
+зете,  которую  легко можно передать через
+друзей,  Фидо или Интернет. Также возможны
+нарекания,  что текст на английском языке.
+Однако  по моему мнению прошли те времена,
+когда  для  компьютерщика можно было знать
+один  язык.  Так что либо учите английски,
+либо  ищите  друзей которые знают английс-
+кий.  Также  перевод очень затруднен из-за
+его художественности, кто пробовал перево-
+дить  хоть какой-то текст с помощью ПЦшных
+переводчиков  тот  меня поймет. Вот и все.
+Желаю приятного прочтения и спокойных снов
+по ночам. Со всеми вопросами обращаться по
+адрессу  69123  г.Запорожье, ул. Хортицкое
+шоссе  18/29.  Телефон  43-98-60, 49-62-02
+(Александр).
+
+
+                 Basilisk
+
+                  Lesser
+CLIMATE/TERRAIN:  Any land
+FREQUENCY:        Uncommon
+ORGANIZATION:     Solitary
+ACTIVITY CYCLE:   Day
+DIET:             Carnivore
+INTELLIGENCE:     Animal (1)
+TREASURE:         F
+ALIGNMENT:        Nil
+NO. APPEARING:    1-4
+ARMOR CLASS:      4
+MOVEMENT:         6
+HIT DICE:         6+1
+THAC0:            15
+NO. OF ATTACKS:   1
+DAMAGE/ATTACK:    1-10
+SPECIAL ATTACKS:  Gaze turns to stone
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             M (7' long)
+MORALE:           Steady (12)
+XP VALUE:         1,400
+
+
+                 Greater
+CLIMATE/TERRAIN:  Any land
+FREQUENCY:        Very rare
+ORGANIZATION:     Solitary
+ACTIVITY CYCLE:   Day
+DIET:             Carnivore
+INTELLIGENCE:     Low (5-7)
+TREASURE:         H
+ALIGNMENT:        Neutral
+NO. APPEARING:    1-7
+ARMOR CLASS:      2
+MOVEMENT:         6
+HIT DICE:         10
+THAC0:            11
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-6/1-6/2-16
+SPECIAL ATTACKS:  See below
+SPECIAL DEFENSES: Surprised only on a 1
+MAGIC RESISTANCE: Nil
+SIZE:             L (12' long)
+MORALE            Champion (16)
+XP VALUE:         7,000
+
+                Dracolisk
+CLIMATE/TERRAIN:  Any land
+FREQUENCY:        Very rare
+ORGANIZATION:     Solitary
+ACTIVITY CYCLE:   Day
+DIET:             Carnivore
+INTELLIGENCE:     Low to Average (5-10)
+TREASURE:         C, I
+ALIGNMENT:        Chaotic evil
+NO. APPEARING:    1-2
+ARMOR CLASS:      3
+MOVEMENT:         9, Fl 15 (E)
+HIT DICE:         7+3
+THAC0:            13
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-6/1-6/3-12
+SPECIAL ATTACKS:  See below
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             H (15-20' long)
+MORALE:           Champion (15)
+XP VALUE:         3,000
+
+
+These reptilian monsters all posses a gaze
+that enables them to turn any fleshy crea-
+ture to stone; their gaze extends into the
+Astral and Ethereal planes.
+
+Basilisk
+Although  it  has eight legs, its sluggish
+metabolism allows only a slow movement ra-
+te.  A  basilisk  is usually dull brown in
+color,  with  a  yellowish underbelly. Its
+eyes glow pale green.
+
+Combat:  While it has strong, toothy jaws,
+the  basilisk's  major weapon is its gaze.
+However,  if its gaze is reflected, and it
+sees its own eyes, it will become petrifi-
+ed  itself, but this requires light at le-
+ast equal to bright torchlight and a good,
+smooth  reflector. In the Astral plane its
+gaze kills; in the Ethereal plane it turns
+victims  into  ethereal  stone. These will
+only be seen by those in the Ethereal pla-
+ne or who can see ethereal objects.
+
+Greater Basilisk
+The greater basilisk is a larger cousin of
+the  more common reptilian horror, the or-
+dinary  basilisk. These monsters are typi-
+cally used to guard treasure.
+
+Combat: The monster attacks by raising its
+upper body, striking with sharp claws, and
+biting with its toothy maw. The claws car-
+ry Type K poison (saving throws vs. poison
+are  made with a+4 bonus). Its foul breath
+is  also poisonous, and all creatures, co-
+ming  within  5 feet of its mouth, even if
+just  for  a  moment, must roll successful
+saving  throws vs. poison (with a+2 bonus)
+or die (check each round of exposure).
+  Even if a polished reflector is used un-
+der  good  lighting conditions, the chance
+for a greater basilisk to see its own gaze
+and  become  petrified is only 10%, unless
+the  reflector  is  within  10 feet of the
+creature. (While its gaze weapon is effec-
+tive to 50 feet, the creature's oddly-sha-
+ped eyes are nearsighted and it cannot see
+its own gaze unless it is within 10 feet.)
+
+Dracolisk
+The  sages  say  that the dracolisk is the
+offspring  of  a  rogue black dragon and a
+basilisk of the largest size.
+  The  result is a deep brown, dragon-like
+monster that moves with relative quickness
+on  six  legs.  It  can  fly, but only for
+short periods - a turn or two at most.
+
+Combat:  This  horror  can attack with its
+taloned  forelegs  and deliver vicious bi-
+tes.  In addition, it can spit a stream of
+acid  5  feet wide and up to 30 feet away.
+The  acid  causes  4d6  points  of damage,
+half-damage  if  a successful saving throw
+vs. breath weapon is rolled. The dracolisk
+can spit up to three times per day.
+  The  eyes of a dracolisk can petrify any
+opponent  within  20 feet if the monster's
+gaze  is met. Because its hooded eyes have
+nictating  membranes,  the monster is only
+10% likely to be affected by its own gaze.
+Opponents  in  melee  with a dracolisk and
+seeking  to avoid its gaze fight with a -4
+penalty to their to attack rolls.
+
+
+                   Bear
+
+                  Black
+CLIMATE/TERRAIN:  Temperate land
+FREQUENCY:        Common
+ORGANIZATION:     Family
+ACTIVITY CYCLE:   Day
+DIET:             Omnivore
+INTELLIGENCE:     Semi- (2-4)
+TREASURE:         Nil
+ALIGNMENT:        Neutral
+NO. APPEARING:    1-3
+ARMOR CLASS:      7
+MOVEMENT:         12
+HIT DICE:         3+3
+THAC0:            17
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-3/1-3/1-6
+SPECIAL ATTACKS:  Hug
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             M (6'+ tall)
+MORALE:           Average (8-10)
+XP VALUE:         175
+
+                  Brown
+CLIMATE/TERRAIN:  Temperate land
+FREQUENCY:        Uncommon
+ORGANIZATION:     Family
+ACTIVITY CYCLE:   Day
+DIET:             Omnivore
+INTELLIGENCE:     Semi- (2-4)
+TREASURE:         Nil
+ALIGNMENT:        Neutral
+NO. APPEARING:    1-6
+ARMOR CLASS:      6
+MOVEMENT:         12
+HIT DICE:         5+5
+THAC0:            15
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-6/1-6/1-8
+SPECIAL ATTACKS:  Hug
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             L (9'+ tall)
+MORALE:           Average (8-10)
+XP VALUE:         420
+
+                   Cave
+CLIMATE/TERRAIN:  Any land
+FREQUENCY:        Uncommon
+ORGANIZATION:     Family
+ACTIVITY CYCLE:   Day
+DIET:             Omnivore
+INTELLIGENCE:     Semi- (2-4)
+TREASURE:         Nil
+ALIGNMENT:        Neutral
+NO. APPEARING:    1-2
+ARMOR CLASS:      6
+MOVEMENT:         12
+HIT DICE:         6+6
+THAC0:            13
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-8/1-8/1-12
+SPECIAL ATTACKS:  Hug
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             H (12'+ tall)
+MORALE:           Average (8-10)
+XP VALUE:         650
+
+                  Polar
+CLIMATE/TERRAIN:  Any cold
+FREQUENCY:        Rare
+ORGANIZATION:     Family
+ACTIVITY CYCLE:   Day
+DIET:             Omnivore
+INTELLIGENCE:     Semi- (2-4)
+TREASURE:         Nil
+ALIGNMENT:        Neutral
+NO. APPEARING:    1-6
+ARMOR CLASS:      6
+MOVEMENT:         12, Sw 9
+HIT DICE:         8+8
+THAC0:            11
+NO. OF ATTACKS:   3
+DAMAGE/ATTACK:    1-10/1-10/2-12
+SPECIAL ATTACKS:  Hug
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             H (14'+ tall)
+MORALE:           Average (8-10)
+XP VALUE:         1,400
+
+
+A  rather  common omnivorous mammal, bears
+tend  to avoid humans unless provoked. Ex-
+ceptions to this rule can be a most unfor-
+tunate occurrence.
+  Bears  are, in general, large and power-
+ful animals which are found throughout the
+world's  temperate  and  cooler  climates.
+With  dense  fur  protecting them from the
+elements  and  powerful  claws  protecting
+them  from  other  animals,  bears are the
+true  rulers  of the animal kingdom in the
+areas where they live.
+  The so-called black bear actually ranges
+in  color from black to light brown. It is
+smaller  than  the brown bear and the most
+widespread species by far.
+
+Combat:  Although  black bears are usually
+not  aggressive,  they  are  able fighters
+when pressed. If a black bear scores a paw
+hit  with an 18 or better it also hugs for
+2-8 (2d4) points of additional damage.
+
+Habitat/Society:  All bears have excellent
+senses of hearing and smell but rather po-
+or  eyesight. The size shown is an average
+for  the  variety  and  larger individuals
+will,  of  course, be correspondingly more
+powerful.
+  One  common  misconception  people  hold
+about  bears is that they hibernate during
+the  winter.  In  fact, they sleep most of
+the  time,  but  their metabolism does not
+slow down, and they often wake up and lea-
+ve their lairs during warm spells.
+  Bears live in small family groups. Fema-
+le  bears  are  very  protective  of their
+young,  and  more  than one individual has
+been   badly   injured  when  taunting  or
+playing with seemingly harmless bear cubs.
+
+Ecology:  All of these ursoids are omnivo-
+rous,  although  the  gigantic  cave  bear
+tends towards a diet of meat.
+  Bears  are  fairly  intelligent  animals
+that can be trained to perform in a varie-
+ty  of  ways,  particularly if captured as
+cubs.  Bears  can thus be found dancing in
+circuses or accompanying "mountain men" in
+the wilderness.
+
+Brown Bear
+The  brown  bear,  of  which  the infamous
+grizzly is the most well known variety, is
+a  bear  of  very  aggressive disposition.
+Brown bears are more carnivorous than the-
+ir  smaller  cousins, the black bears. The
+grizzly  in  particular  will  often bring
+down large game such as deer and elk.
+  Brown bears are aggressive hunters. If a
+brown bear scores a paw hit with a roll of
+18  or  better  it  will also hug for 2-12
+(2d6)  points  of additional damage. Brown
+bears will continue to fight for 1-4 melee
+rounds  after reaching 0 to -8 hit points.
+At -9 or fewer hit points, they are killed
+immediately.
+
+Cave Bear
+Cave  bears  are quite aggressive, willing
+to  attack well-armed parties without pro-
+vocation.  If a cave bear scores a paw hit
+with an 18 or better it also hugs for 2-16
+(2d8)  points  of  additional damage. Cave
+bears will continue to fight for 1-4 melee
+rounds  after reaching 0 to -8 hit points.
+At -9 or fewer hit points, they are killed
+immediately.
+
+Polar Bear
+These powerful swimmers feed mostly on ma-
+rine  animals.  A  paw hit of 18 or better
+indicates  a  "hug",  which  inflicts 3-18
+(3d6)  points  of additional damage. These
+aggressive  animals will fight for 2-5 ro-
+unds  after  being brought to 0 to -12 hit
+points, but beyond that they will die ins-
+tantly.
+
+
+              Beetle, Giant
+
+                  Bombardier │Boring
+CLIMATE/TERRAIN:  Any forest │Any land
+FREQUENCY:        Common     │Common
+ORGANIZATION:     Solitary   │Solitary
+ACTIVITY CYCLE:   Day        │Night
+DIET:             Carnivore  │Omnivore
+INTELLIGENCE:     Non-(0)    │Animal (1)
+TREASURE:         Nil        │C, R, S, T
+ALIGNMENT:        Neutral    │Neutral
+NO. APPEARING:    3-12       │3-18
+ARMOR CLASS:      4          │3
+MOVEMENT:         9          │6
+HIT DICE:         2+2        │5
+THAC0:            19         │15
+NO. OF ATTACKS:   1          │1
+DAMAGE/ATTACK:    2-12       │5-20
+SPECIAL ATTACKS:  Acid cloud │Nil
+SPECIAL DEFENSES: Fire cloud │Nil
+MAGIC RESISTANCE: Nil        │Nil
+SIZE:             S (4' long)│L (9' long)
+MORALE:           Elite (13) │Elite (14)
+XP VALUE:         120        │175
+
+                  Fire        │Rhinoceros
+CLIMATE/TERRAIN:  Any land    │Any jungle
+FREQUENCY:        Common      │Uncommon
+ORGANIZATION:     Solitary    │Solitary
+ACTIVITY CYCLE:   Night       │Any
+DIET:             Omnivore    │Herbivore
+INTELLIGENCE:     Non-(0)     │Non-(0)
+TREASURE:         Nil         │Nil
+ALIGNMENT:        Neutral     │Neutral
+NO. APPEARING:    3-12        │1-6
+ARMOR CLASS:      4           │2
+MOVEMENT:         12          │6
+HIT DICE:         1+2         │12
+THAC0:            19          │9
+NO. OF ATTACKS:   1           │2
+DAMAGE/ATTACK:    2-8         │3-18/2-16
+SPECIAL ATTACKS:  Nil         │Nil
+SPECIAL DEFENSES: Nil         │Nil
+MAGIC RESISTANCE: Nil         │Nil
+SIZE:             (2 l/2'long)│L (12'long)
+MORALE:           Steady (12) │Elite (14)
+XP VALUE:         35          │4,000
+
+                  Stag        │Water
+CLIMATE/TERRAIN:  Any forest  │Freshwater
+FREQUENCY:        Common      │Common
+ORGANIZATION:     Solitary    │Solitary
+ACTIVITY CYCLE:   Any         │Any
+DIET:             Herbivore   │Omnivore
+INTELLIGENCE:     Non-(0)     │Non(0)
+TREASURE:         Nil         │Nil
+ALIGNMENT:        Neutral     │Neutral
+NO. APPEARING:    2-12        │1-12
+ARMOR CLASS:      3           │3
+MOVEMENT:         6           │3, Sw 9
+HIT DICE:         7           │4
+THAC0:            13          │17
+NO. OF ATTACKS:   3           │1
+DAMAGE/ATTACK:    4-16/1-10/  │3-18
+                  1-10        │
+SPECIAL ATTACKS:  Nil         │Nil
+SPECIAL DEFENSES: Nil         │Nil
+MAGIC RESISTANCE: Nil         │Nil
+SIZE:             L (10' long)│M (6' long)
+MORALE:           Elite (13)  │Elite (14)
+XP VALUE:         975         │120
+
+
+Giant  beetles  are  similar to their more
+ordinary  counterparts,  but  thousands of
+times  larger - with chewing mandibles and
+hard  wings that provide substantial armor
+protection.
+  Beetles  have  two  pairs  of  wings and
+three  pairs  of  legs.  Fortunately,  the
+wings  of a giant beetle cannot be used to
+fly,  and  in  most cases, its six bristly
+legs do not enable it to move as fast as a
+fleeing  man. The hard, chitinous shell of
+several  varieties  of  these  beetles are
+brightly colored, and sometimes have value
+to art collectors. While their shells pro-
+tect  beetles as well as plate mail armor,
+it  is difficult to craft armor from them,
+and  a  skilled alchemist would need to be
+brought in on the job.
+  All  beetles are basically unintelligent
+and  always hungry. They will feed on vir-
+tually  any form of organic material, inc-
+luding  other sorts of beetles. They taste
+matter with their antennae, or feelers; if
+a  substance tasted is organic, the beetle
+grasps  it with its mandibles, crushes it,
+and eats it. Because of the thorough grin-
+ding  of  the  mandibles, nothing eaten by
+giant  beetles  can be revived by anything
+short  of  a  wish. Beetles do not hear or
+see  well, and rely primarily on taste and
+feel.
+  Except as noted below, giant beetles are
+not  really social animals; those that are
+found  near each other are competitors for
+the same biological niche, not part of any
+family unit.
+
+Bombardier Beetle
+The  bombardier  beetle  is  usually found
+above ground in wooded areas. It primarily
+feeds on offal and carrion, gathering huge
+heaps  of  the  stuff  in which to lay its
+eggs.
+
+Combat:  If  it  is attacked or disturbed,
+there  is  a 50% chance each round that it
+will turn its rear toward its attacker and
+fire off an 8-foot, spherical cloud of re-
+eking,  reddish, acidic vapor from its ab-
+domen. This cloud causes 3d4 points of da-
+mage per round to any creature within ran-
+ge.  Furthermore,  the sound caused by the
+release  of  the vapor has a 20% chance of
+stunning any creature with a sense of hea-
+ring  within  a 15-foot radius, and a like
+chance for deafening any creature that was
+not  stunned.  Stunning  lasts for 2d4 ro-
+unds, plus an additional 2d4 rounds of de-
+afness afterwards. Deafening lasts 2d6 ro-
+unds.  The  giant  bombardier can fire its
+vapor cloud every third round, but no more
+than twice in eight hours.
+
+Ecology: The bombardier action of this be-
+etle is caused by the explosive mixture of
+two substances that are produced internal-
+ly  and  combined  in  a third organ. If a
+bombardier is killed before it has the op-
+portunity  to  fire off both blasts, it is
+possible to cut the creature open and ret-
+rieve  the  chemicals. These chemicals can
+then be combined to produce a small explo-
+sive,  or fire a projectile, with the pro-
+per equipment.
+  The  chemicals are also of value to alc-
+hemists,  who can use them in various pre-
+parations. They are worth 50 gp per dose.
+
+Boring Beetle
+Boring  beetles  feed  on rotting wood and
+similar organic material, so they are usu-
+ally  found individually inside huge trees
+or massed in underground tunnel complexes.
+
+Combat:  The large mandibles of the boring
+beetle  have a powerful bite and will inf-
+lict up to 20 points on damage to the vic-
+tim.
+
+Habitat/Society: Individually, these crea-
+tures  are  not much more intelligent than
+other  giant  beetles,  but  it is rumored
+that  nests of them can develop a communal
+intelligence with a level of consciousness
+and  reasoning that approximates the human
+brain. This does not mean that each beetle
+has  the intelligence of a human, but rat-
+her  that,  collectively,  the entire nest
+has  attained  that level. In these cases,
+the beetles are likely to collect treasure
+and magical items from their victims.
+
+Ecology: In tunnel complexes, boring beet-
+les  grow molds, slimes, and fungi for fo-
+od,  beginning  their  cultures on various
+forms  of  decaying  vegetable  and animal
+matter and wastes.
+  One  frequent  fungi grown is the shrie-
+ker, which serves a dual role. Not only is
+the  shrieker a tasty treat for the boring
+beetle,  but it also functions as an alarm
+when visitors have entered the fungi farm.
+Boring beetles are quick to react to these
+alarms,  dispatching the invaders, someti-
+mes  eating  them, but in any case gaining
+fresh  organic  matter  on  which to raise
+shrieker and other saprophytic plants.
+
+Fire Beetle
+The  smallest  of  the giant beetles, fire
+beetles  are nevertheless capable of deli-
+vering  serious damage with their powerful
+mandibles.  They  are found both above and
+below ground, and are primarily nocturnal.
+
+Combat:  Despite its name, the fire beetle
+has  no  fire  attacks, relying instead on
+its  huge mandibles to inflict up to three
+times  the  damage of a dagger in a single
+attack.
+
+Ecology:  Fire  beetles  have  two special
+glands  above  their eyes and one near the
+back  of their abdomens. These glands pro-
+duce a luminous red glow, and for this re-
+ason  they are highly prized by miners and
+adventurers.  This luminosity persists for
+ld6 days after the glands are removed from
+the  beetle, and the light shed will illu-
+minate a radius of 10 feet.
+  The  light from these glands is "cold" -
+it produces no heat. Many mages and alche-
+mists  are eager to discover the secret of
+this  cold  light, which could be not only
+safe, but economical, with no parts to he-
+at  up  and burn out. In theory, they say,
+such a light source could last forever.
+
+Rhinoceros Beetle
+This  uncommon  monster  inhabits tropical
+and subtropical jungles. They roam the ra-
+in  forests searching for fruits and vege-
+tation,  and  crushing  anything  in their
+path. The horn of a giant rhinoceros beet-
+le extends about 6 feet.
+
+Combat: The mandibles of this giant beetle
+inflict 3d6 points of damage on anyone un-
+fortunate enough to be caught by them; the
+tremendous  horn is capable of causing 2d8
+points of damage by itself.
+
+Ecology:  The shell of this jungle dweller
+is  often  brightly colored or iridescent.
+If  retrieved  in  one piece, these shells
+are  valuable  to  clerics of the Egyptian
+pantheon, who use them as giant scarabs to
+decorate  temples and other areas of wors-
+hip.  It  is a representation of this, the
+largest of all beetles, that serves as the
+holy  symbol  for  clerics  of Apshai, the
+Egyptian  god whose sphere of influence is
+said to include all insects.
+
+Stag Beetle
+These  woodland  beetles  are very fond of
+grains and similar growing crops, and they
+sometimes become great nuisances when they
+raid cultivated lands.
+
+Combat: Like other beetles, they have poor
+sight  and hearing, but they will fight if
+attacked or attack if they encounter orga-
+nic material they consider food. The giant
+stag  beetle's  two  horns are usually not
+less  than 8 feet long; they inflict up to
+10 points of damage each.
+
+Ecology:  The worst damage from a stag be-
+etle raid is that done to crops; they will
+strip  an  entire farm in short order. Li-
+vestock  suffers  too,  stampeding in fear
+and  wreaking  more havoc. The beetles may
+even  devour livestock, if they are hungry
+enough.
+
+Water Beetle
+The  giant  water  beetle is found only in
+fresh water no less than 30 feet deep.
+
+Combat:  Voracious  eaters,  these beetles
+prey  upon  virtually  any form of animal,
+but  will  eat  almost  anything. Slow and
+ponderous  on land, they move very quickly
+in water. Giant water beetles hunt food by
+scent and by feeling vibrations.
+
+Habitat/Society:  Water  beetles sometimes
+inhabit  navigable  rivers  and  lakes, in
+which case they can cause considerable da-
+mage to shipping, often attacking and sin-
+king craft to get at the tasty morsels in-
+side.
+
+Ecology:  Although they are air breathers,
+water  beetles  manage  to stay underwater
+for  extended  periods of time by catching
+and  holding a bubble of air beneath their
+giant  wings.  They  will carry the bubble
+underwater,  where  it  can be placed in a
+cave  or some other cavity capable of hol-
+ding an air supply.
+
+
+                  Behir
+
+CLIMATE/TERRAIN:  Any land
+FREQUENCY:        Rare
+ORGANIZATION:     Solitary
+ACTIVE TIME:      Day
+DIET:             Carnivore
+INTELLIGENCE:     Low (5-7)
+TREASURE:         See below
+ALIGNMENT:        Neutral evil
+NO. APPEARING:    1-2
+ARMOR CLASS:      4
+MOVEMENT:         15
+HIT DICE:         12
+THAC0:            9
+NO. OF ATTACKS:   2 or 7
+DAMAGE/ATTACK:    2-8 (2d4)/2-5 (1d4+1) or
+                  2-8 (2d4)/6 x 1-6
+SPECIAL ATTACKS:  Lightning bolt
+SPECIAL DEFENSES: Immune to electricity,
+                  poison
+MAGIC RESISTANCE: Nil
+SIZE:             G (40' long)
+MORALE:           Champion (15)
+XP VALUE:         7,000
+
+
+The  behir is a snake-like reptilian mons-
+ter whose dozen legs allow it to move with
+considerable speed and climb at fully half
+its  normal movement rate. It can fold its
+limbs  close  to its long, narrow body and
+slither  in  snake-fashion  if it desires.
+The  head looks more crocodilian than sna-
+ke-like,  but has no difficulty in opening
+its mouth wide enough to swallow prey who-
+le, the way a snake does.
+  Behir  have  band-like  scales  of great
+hardness. Their color ranges from ultrama-
+rine   to   deep   blue   with   bands  of
+gray-brown.  The  belly  is pale blue. The
+two large horns curving back over the head
+look  dangerous  enough  but  are actually
+used  for  preening  the creature's scales
+and not for fighting.
+
+Combat:  A  behir  will attack its prey by
+first  biting  and  then  looping its body
+around  the  victim  and squeezing. If the
+latter attack succeeds, the victim is sub-
+ject to six talon attacks next round.
+  A  behir  can  discharge  a 20-foot long
+stroke  of electrical energy once every 10
+rounds.  This lightning bolt will cause 24
+points of damage unless a saving throw vs.
+breath weapon is made. In the latter case,
+the target takes only half damage.
+  On a natural attack roll of 20 the behir
+swallows man-sized prey whole. Any creatu-
+re swallowed will lose 1/6 of its starting
+Hit Points each round until it dies at the
+end of the sixth round. The behir will di-
+gest its meal in 12 turns, and at that ti-
+me  the  victim is totally gone and cannot
+be  raised  from  the dead. Note, however,
+that  a  creature swallowed can try to cut
+its  way  out  of the behir's stomach. The
+inner  armor  class of the behir is 7, but
+each round the creature is in the behir it
+subtracts  1  from  the damage each of its
+attacks  does. This subtraction is cumula-
+tive,  so  on the second melee round there
+is a -2, on the third a -3, and so on.
+
+Habitat/Society:  Behir are solitary crea-
+tures,  meeting  others of their kind only
+to  mate  and  hatch a clutch of 1-4 eggs.
+The  female  guards  these  eggs for eight
+months  while the male hunts for the pair.
+When the young hatch, they are immediately
+turned  out  of the nest to fend for them-
+selves, and the adults separate.
+  Newly  hatched  behir  are  about 2 feet
+long.  Behir  grow at a rate of 8 feet per
+year  until  fully  mature.  Interestingly
+enough,  newly  hatched  behir do not have
+all of their legs, having instead only six
+or  eight.  Additional  pairs of legs grow
+slowly  over  time  until the creature has
+its full complement when it reaches adult-
+hood.
+  Behir  range  over  a territory of about
+400  square  miles, often living high up a
+cliff face in a cave.
+  Behir  are  never  friendly with dragon-
+kind,  and  will never be found coexisting
+in the same geographical area with any ty-
+pe  of  dragon. If a dragon should enter a
+behir's  territory, the behir will do eve-
+rything it can to drive the dragon out. If
+the behir fails in this task, it will move
+off to find a new home. A behir will never
+knowingly enter the territory of a dragon.
+
+Ecology:  Behir  are useful to mages, pri-
+ests,  and alchemists for a number of con-
+coctions. The horns of a behir can be used
+to  brew  the  ink necessary to inscribe a
+lightning  bolt  scroll, and the sharp ta-
+lons  can  likewise be used by a cleric to
+make  the  ink  for  a  neutralize  poison
+scroll.  The  heart of the behir is one of
+the  more common ingredients for ink for a
+protection from poison scroll.
+  As  behir  sometimes swallow prey whole,
+there  is  a 10% chance that there will be
+some small items of value inside the mons-
+ter.  More often than not (60%) these will
+be  gems  (10  x Q). Otherwise, there is a
+30% chance that there will be from 1-8 pi-
+eces  of  jewelry  and a 10% chance that a
+single small magical object of an indegis-
+tible  nature  may  be found. Such objects
+are never found in a behir's lair, because
+the  creature expels this waste and buries
+it elsewhere.
+  The scales are valued for their hardness
+and  color,  and are worth up to 500 gp to
+an  armorer  who can use them to fashion a
+highly ornate set of scale mail armor.

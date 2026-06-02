@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 14009,
+    "article_url": "https://zxpress.ru/article.php?id=14009",
+    "print_url": "https://zxpress.ru/print.php?id=14009",
+    "title_link": "Сергей Щеглов - Замок: Часть 1",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Сергеи_Щеглов_-_Замок_Часть_1"
+  },
+  {
+    "article_id": 14010,
+    "article_url": "https://zxpress.ru/article.php?id=14010",
+    "print_url": "https://zxpress.ru/print.php?id=14010",
+    "title_link": "Сергей Щеглов - Замок: Часть 2",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Сергеи_Щеглов_-_Замок_Часть_2"
+  },
+  {
+    "article_id": 14011,
+    "article_url": "https://zxpress.ru/article.php?id=14011",
+    "print_url": "https://zxpress.ru/print.php?id=14011",
+    "title_link": "Сергей Щеглов - Замок: Часть 3",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Сергеи_Щеглов_-_Замок_Часть_3"
+  },
+  {
+    "article_id": 14012,
+    "article_url": "https://zxpress.ru/article.php?id=14012",
+    "print_url": "https://zxpress.ru/print.php?id=14012",
+    "title_link": "Сергей Щеглов - Замок: Часть 4",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Сергеи_Щеглов_-_Замок_Часть_4"
+  }
+]

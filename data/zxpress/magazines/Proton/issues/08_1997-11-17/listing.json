@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16568,
+    "article_url": "https://zxpress.ru/article.php?id=16568",
+    "print_url": "https://zxpress.ru/print.php?id=16568",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16569,
+    "article_url": "https://zxpress.ru/article.php?id=16569",
+    "print_url": "https://zxpress.ru/print.php?id=16569",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16570,
+    "article_url": "https://zxpress.ru/article.php?id=16570",
+    "print_url": "https://zxpress.ru/print.php?id=16570",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16571,
+    "article_url": "https://zxpress.ru/article.php?id=16571",
+    "print_url": "https://zxpress.ru/print.php?id=16571",
+    "title_link": "Обо всём на свете - Схема выключения модема.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Обо_всем_на_свете_-_Схема_выключения_модема"
+  },
+  {
+    "article_id": 16572,
+    "article_url": "https://zxpress.ru/article.php?id=16572",
+    "print_url": "https://zxpress.ru/print.php?id=16572",
+    "title_link": "Железо - В этом номере Протона я вам поведую о новой, с ног сшибательной микрухе для телефонии.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Железо_-_В_этом_номере_Протона_я_вам_поведую_о_новои_с_ног_с"
+  },
+  {
+    "article_id": 16573,
+    "article_url": "https://zxpress.ru/article.php?id=16573",
+    "print_url": "https://zxpress.ru/print.php?id=16573",
+    "title_link": "Игрушки - MIDNIGHT RESISTANCE.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Игрушки_-_MIDNIGHT_RESISTANCE"
+  },
+  {
+    "article_id": 16574,
+    "article_url": "https://zxpress.ru/article.php?id=16574",
+    "print_url": "https://zxpress.ru/print.php?id=16574",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16575,
+    "article_url": "https://zxpress.ru/article.php?id=16575",
+    "print_url": "https://zxpress.ru/print.php?id=16575",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

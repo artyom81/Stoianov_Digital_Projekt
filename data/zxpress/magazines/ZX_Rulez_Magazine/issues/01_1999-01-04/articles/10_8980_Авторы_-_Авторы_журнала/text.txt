@@ -1,0 +1,85 @@
+- Авторы - Авторы журнала.
+Авторы журнала.
+ZX-Guide 2: май-ноябрь 1999.
+
+   Главным и единственным редактором был и
+остаётся Alone Coder (AlCo):
+
+
+390026 Рязань,Высоковольтная,д.37к.1,кв.12
+   Быстрову Дмитрию Михайловичу.
+      Телефон в Рязани: 75-13-90.
+
+   Корреспонденты:
+CyberDemon/ex-ADG: Максим Митькин
+NIKFE/CODEX: Алексей Емельянов
+BASIL/Invaders: Василий Логинов
+
+   Main GFX:
+AlCo
+   Title screen:
+Юрий Свиридов
+
+   Main music:
+BASIL/Invaders: Василий Логинов
+JOHN/Invaders: Денис Логинов
+   Additional music:
+Mr.EVENT/CODEX: Александр Лесовский
+AlCo
+
+   Ideas and main code:
+AlCo
+   Some procedures:
+NIKFE/CODEX: Алексей Емельянов
+BASIL/Invaders: Василий Логинов
+
+   При создании журнала использовался сле-
+дующий софт:
+   ALASM 4.1 6X7 by ALEM (киньте,пожалуйс-
+та,ALASM 4.2m(с макросами)! Очень прошу!);
+   Art Studio 128 by James Hutchby (спаси-
+бо Юре Свиридову за упакованную версию);
+   STS 5.1 by Stalker;
+   AC Edit v0.15Ў0.32 by AlCo;
+   STPRO by KSA;
+   PT 2.1Ў3.4f by Golden Disk & MMCM/Sage;
+   Best Viewer 2.4Ў2.8 by Иван Рощин;
+   MONSTER COMMANDER 2.1 by KSA;
+   CONSUL COMMANDER 3.3 by Phantom Family;
+   REAL COMMANDER 1.7 by Real Software;
+   CAT CREATER 2.0 by Sane;
+   FUT 2.01, ZXUNZIP by MI&DI Ltd;
+   TRMSHOB+ by RUBY;
+   Hrum 3.5i, LC 2.1 by Дмитрий Пьянков;
+   Maxsoft Screen Packer 1.6 by Speed Co;
+   Чёрный Ворон I, UFO II by Copper Feet;
+   Белый Орёл,PUSSYdemo,KOL0BOK ZOOM2 (без
+патча) by Fatality+Asphyxia;
+   KING'S BOUNTY II by EJB;
+   ЗЕРКАЛО by ArtWork;
+   48 УТЮГОВ by Galaxy;
+   Homer Simpson in Russia by Mr.Gluk &Co;
+   FULLSHITdemo by Experience;
+   ZX Format 1Ў8 by XL Design;
+   Spectrum Expert 1Ў2 by X-TRADE;
+   Oberon 1Ў5, UFO 1.01, SCUT_1.0 by SoK;
+   DejaVu 1Ў4,6,7 by PlayGear;
+   BUZZ 17, FunTopUS by EI;
+   Heresy 1Ў3 by Demiurge Ash;
+   Born Dead 1Ў10,13 by Sage & Extreme.
+
+   Спасибо:
+- Вове Макарову, за то,что он дважды почи-
+нил мой компьютер;
+- Паше Пантелееву за  моральную  поддержку
+меня и BASIL'а;
+- Славе,Илье и Сержу за связь с Fido;
+- Сергею Машину (USER#74) за связь с цент-
+ром спектрумовского движения - г. Самарой,
+да и просто так, по дружбе;
+- Гарри Гаррисону за книгу, без которой бы
+не появился этот журнал, и за другие прек-
+расные произведения;
+- Сергею Светликину за то, что он познако-
+мил меня с ними;
+- Вам, за то, что читаете этот журнал.

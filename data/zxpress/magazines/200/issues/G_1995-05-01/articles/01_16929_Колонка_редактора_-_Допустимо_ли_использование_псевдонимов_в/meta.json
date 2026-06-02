@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "G",
+  "issue_date_iso": "1995-05-01",
+  "order": 1,
+  "article_id": 16929,
+  "title_link": "Колонка редактора - Допустимо ли использование псевдонимов в нашем журнале?",
+  "title_h1": "200 G - Колонка редактора - Допустимо ли использование псевдонимов в нашем журнале?",
+  "print_url": "https://zxpress.ru/print.php?id=16929",
+  "article_url": "https://zxpress.ru/article.php?id=16929",
+  "fetched_at": "2026-05-31T21:29:22Z"
+}

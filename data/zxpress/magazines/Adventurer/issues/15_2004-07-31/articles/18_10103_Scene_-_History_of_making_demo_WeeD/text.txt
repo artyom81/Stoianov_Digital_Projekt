@@ -1,0 +1,214 @@
+Adventurer 15 - Scene - History of making demo "WeeD".
+History  of  making  "WeeD"  
+
+
+Officially,  the  work  on the new
+product  started at 13 June - rather symbolic date (13+6). But,
+not  this day, not the next month no one did nothing. All, that
+was done - the spirit of the product have been defined. Massive
+_sadness_.   Exactly  that,  nothing  else.  To  my  opinion  -
+loneliness  is  the  most  sad  thing,  That's where I started.
+Sometimes,   people   are   saying   that   I'm   cheerful  and
+communicative  man, but the heart of sorrow and solitude is too
+familiar to me - I had a fucked up childhood. Even these days I
+can leave everyone without a reason and stay locked at home for
+a 3-4 days. Don't know the source of this need, but after that,
+when  you  go  out,  common  people  and  things are noticeably
+changed. Kewl...
+
+So far, the spirit was defined. At first, the music, was chosen
+properly.  The  key  word  -  'was', the final version features
+absolutely different score. The product missed a lot because of
+this.  The state of depression, dominated in the first versions
+of scenario, have been lost. By the way, about scenario. I just
+don't  know  why  are  we  writing  it.  Anyway, all the useful
+information it have is the keyframings and music synch. But its
+worth  reading  after all, when the work is done. First version
+of script is attached to this article. Key-jee even proposed to
+supply  the  product with it, as placebogods did at their time.
+Because  of  the  script  the boy appeared. May be he showed up
+before  this, I don't remember. But it was clear from the start
+-  the product will carry a certain idea, touch someone's soul.
+I  don't  even remember, who invented this 'sad boy, beloved by
+no  one'.  Seems  like  he appeared by himself. Strange, but it
+wasn't  girl.  Basically, I like girls more. May be it's good -
+he  was killed without regrets. Also, this is strange - the boy
+have  no  name,  evidently, for his harder personalization. His
+exterior also didn't matter at all. Generally, at the beginning
+it  was  a kind of a cuboid. And if I've followed cj - we would
+have  a thing, consisted of balls, as a main character. The use
+of cuboid or balls would simplify the animating of a character,
+but  having  a  human  being  instead, one can compare yourself
+easier.  Thus,  the  choice of personage model was right and no
+one  was pity about it later on. This also helped us to realize
+some features to improve overall visual outlook of the product.
+I  just  want  to  mention  -  the  part,  some  people  call a
+protracted  intro before the final is supposed to be main. As I
+perceive,  the  final  part is nothing but a powerful packer of
+coloured  animation.  It  could  be released some years before.
+Curiously, no one had any guess about this.
+
+Keyframing.  In  our  opinion,  choosing  the  score within the
+already  done effects is absolutely wrong. Only proceeding from
+the  already  composed tune, its mood and construction, one can
+imagine  the  visuals, palette and actions. That's why key-jee,
+with  his  quite  frequent changes in music made me nervous all
+the  time.  Sometimes,  I've  listened one pattern up to twenty
+times  to  picture  the scene and the next day composer changed
+everything. During some period of time I had an impression that
+the  boy couldn't be killed at the end. I just couldn't imagine
+-  the  boy  with  the  smile  over his face, marching with the
+curling flag in the upshot. On the assumption of music it could
+be  like  that. Fortunately it never happened - key jee changed
+his  mind.  The  main  problem of the product is the protracted
+music. That's why we had to separate some conceptual parts into
+pieces.  Beginning,  for example. City, camera zooming. Nothing
+of  that  done good. This problem should be solved in the final
+release. The rest of keyframing is successful to my mind.
+
+Parts.  All  of it were born in sequence, different to the one,
+used  to be in demo. I'll describe parts in order it came to my
+mind.
+
+Camera  zoom. At first, I suggested to apply an alfa-channel to
+change  frames.  Cj  proposed  to use the same engine as in the
+next  part - 3d with the keyframes. Finally, we ran out of time
+and  used  diver's idea - easy to realize, good looking method.
+This   scene   is   a   right  way  to  show  diminutively  and
+insignificance of boy's life.
+
+Camera,  scrolling  in  an  empty  room. Why its empty? Because
+frame  features  only  a  piece of wall and a cube, imitating a
+bed-side  table.  And  sprite, remains a sprite. But cj has its
+own  opinion. Scene carries out deep emotional message (maybe).
+He  is  alone,  emptiness  fills everything. He is deficient of
+something.  Sitting here and thinking what does he need and how
+it  could  look like. The outerworld is boring and dull. By the
+way,  the  world  doesn't  cares  about how it perceived by the
+creatures,  born there. No one never know the true sense of the
+things,  surrounding  us. All we see is not true. Everyone sees
+its  own,  usual  and  comfortable  way.  By  the  other side -
+outerworld  is  a fruit of ones perceptional paradigm. In other
+words,  if  you  feel  something,  then  you are a universe and
+everything  goes  within  you.  Wars,  disasters, love, plastic
+surgery  of  Michael  Jackson  -  you  have  imagined  that  to
+entertain  yourself  -  you  are  god.  In this case, situation
+corresponds to the boy's mind, its empty.
+
+Loading.  Seems  like  his mind got a purpose. Purpose imprints
+the  boy's  universe.  Door,  opening nowhere, he overcomes it.
+Bathroom  -  the  place  of solitude and revelation. Purpose is
+right  there.  Everyone  wants  his purpose to be important and
+significant.  Fuck  you,  get this! Take a candy. Ok, at last a
+candy. What is inside?
+
+Hallucinations.  This  is  the name of the part. Eight pieces -
+eight  visions. A battle between stereotypes and reality starts
+in the boy's mind. Apparently, reality wins, everything appears
+just  like  it  meant  to  be. He learned to change things. But
+there  is a mess in his head, so everything turns into a chaos.
+All  scenes  developed  during  one  week  as  a  result  of  a
+brainstorm.  'Vulgar'  stuff  rejected immediately, we tried to
+keep   only   the   most  precious  things.  I'm  not  good  at
+hallucinations,  had  to  provoke  it  in reality. As mentioned
+before,  listening  one  pattern  up  to 20 times is enough for
+that. Paranoidal incidents, happened to me this time have to be
+mentioned also. It's fun, but terrifying.
+
+No   one  loves.  In  my  opinion  its  a  culmination.  Silent
+contemplation  of  incomprehensibility.  Situation  comes  to a
+norm,  shrines  to  the  one  place,  where  something is still
+happening.  Probably,  its time to calm down. I stand my ground
+firmly,  walls  are  not  moving,  I  can  pay  no attention to
+somewhat  spinning  near  me. But hey, its interesting! Idea of
+this  scene  was  taken  (borrowed,  copied, stolen, converted,
+_sneaked_) from some Japan film. There was a similar character,
+frequently  loved  by  no  one.  Objects... Objects appeared by
+itself, adhering the principle 'no pyramids'.
+
+Beautiful.  Maybe,  it  symbolises  a total mind divergence, or
+otherwise  boy's  transition to another, better world. But most
+likely, it symbolises nothing. Just a pop insert to guarantee a
+prize place. Was born in tortures. Nothing more to say.
+
+Second load, intro. Can't say anything - don't remember. It was
+invented  by  diver  and  cj,  I was busy at this moment, can't
+remind the line of their discussion.
+
+The  end.  Death  of  a  body.  Yes,  the brain remained in the
+colourful  gutter.  Child's  organism  couldn't  survive such a
+strike.  Put  yourself  in a place of imbecile, being a healthy
+child  for  about  a 4 minutes ago. We planned to kill him from
+the  start.  I  don't  remember how this idea stroke our minds.
+More likely we were drunk or stoned. Maybe cj remember...
+
+That's all.
+
+Youth say 'no drugs!'
+
+gd//triebkraft
+
+
+history of making - part two.
+
+Being a naive chukcha youngster, following the requests of some
+authoritative  comrades  I dared to write my part of history of
+the  making...  Alas, I didn't succeed - the result couldn't be
+compared   or  even  used  in  the  same  zine  with  brilliant
+psychedelic  gd's  part.  That's  why  I've changed my mind and
+deleted  the article... But I had to write something because of
+a given promise and here is my 'much different' work.
+
+A  lot could be said about the history of the making itself, in
+case  of our memories were not so faded. Certainly, this is our
+most  complex  work  -  as  for perception and for the creating
+process  itself.  Due  to  long  duration  of  demo it was very
+difficult   even   to   invent   parts,   not   mentioning  the
+visualisation  and  creating  it. No, nevertheless, our path is
+small  blasting things as melange or detroyt. As I said at CAFe
+from the stage 'we wouldn't do it again'.
+
+Difficulties   rose   when  someone,  somehow  just  became  an
+imaginative  supah-dupah designer, crying and ragging, altering
+already  done  scenes  or excreting such an ideas that my hairs
+started  to  tremble  (and  not  only  at the head). Key-jee, a
+naturally  gifted  monster-musician  recomposed the whole track
+during  one week (respect!), Unable to correct pair of patterns
+for  about  two  months  then.  Prof suddenly became indignant,
+abused   and   cursed   me   out  -  completely  rejecting  his
+participation  in  demo  (although  we pined our hopes on him a
+lot).  Diver, unearthly great artist - started to touch the gfx
+for  one week before the party, hadn't finished, and then, till
+november didn't even tried to create, feeding my disappointment
+in   mankind.   And   of   course   my  mental  braza  -  gd  -
+threedimensionalartistnot.   Driving   me  catatonic  with  his
+'intricate'  scenes  -  this  can't be explained with the human
+language,  no,  not  too  horrible,  there  is  even  something
+beautiful  there...  But it makes me even worse. All this would
+be seen in our forthcoming productions :)))
+
+Everything  went  as always - we did it all together. No, I was
+the  only  coder  and  key-jee composed the music, but everyone
+thought  that  he  has  to  'participate'.  That's why it is so
+complicate to find who is guilty of what...
+
+Sense  of  the  demo?  :)  we  want to know the answer for this
+question  too.  Everyone has its own. Gd is narrating something
+about  solitude  and  fight  with reality, I did the demo about
+drugs  and solipsism. And mixture of all this is called 'weed'.
+Really, there is no special sense - whole demo constructed in a
+harry,  and  much  of it is not as have been really thought of.
+Some  parts  contrived  of  nothing,  even  the name itself was
+chosen  two  days  before  departure... The only one paradox is
+that  doesn't  existing  sense,  I  saw it those soggy autumnal
+nights...
+
+You shouldn't pay a lot of attention to my words - there is not
+much  deep  meaning here. At the end I want to apologise to our
+not numerous 'admirers' (hi everyone!) For the long-long way to
+the  final release (still imperfect), i'll doubtly complete the
+party  version with our frozen-out guys ever again :) I give my
+great respect to all, who supports the zx-scene!!! See you next
+party - ascii04 is on the way :)
+
+fuck animation!!!!!

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6830,
+    "article_url": "https://zxpress.ru/article.php?id=6830",
+    "print_url": "https://zxpress.ru/print.php?id=6830",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "56",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6831,
+    "article_url": "https://zxpress.ru/article.php?id=6831",
+    "print_url": "https://zxpress.ru/print.php?id=6831",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "56",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6832,
+    "article_url": "https://zxpress.ru/article.php?id=6832",
+    "print_url": "https://zxpress.ru/print.php?id=6832",
+    "title_link": "Интервью - интервью с Алексеем Бугаем редактором журнала ZX-Power.",
+    "order": 3,
+    "issue_label": "56",
+    "short_slug": "Интервью_-_интервью_с_Алексеем_Бугаем_редактором_журнала_ZX-"
+  },
+  {
+    "article_id": 6833,
+    "article_url": "https://zxpress.ru/article.php?id=6833",
+    "print_url": "https://zxpress.ru/print.php?id=6833",
+    "title_link": "Юмор - Притчи о компьютерных жителях.",
+    "order": 4,
+    "issue_label": "56",
+    "short_slug": "Юмор_-_Притчи_о_компьютерных_жителях"
+  },
+  {
+    "article_id": 6834,
+    "article_url": "https://zxpress.ru/article.php?id=6834",
+    "print_url": "https://zxpress.ru/print.php?id=6834",
+    "title_link": "События - NICRON'у ровно год!",
+    "order": 5,
+    "issue_label": "56",
+    "short_slug": "События_-_NICRONу_ровно_год"
+  },
+  {
+    "article_id": 6835,
+    "article_url": "https://zxpress.ru/article.php?id=6835",
+    "print_url": "https://zxpress.ru/print.php?id=6835",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "56",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6836,
+    "article_url": "https://zxpress.ru/article.php?id=6836",
+    "print_url": "https://zxpress.ru/print.php?id=6836",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "56",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

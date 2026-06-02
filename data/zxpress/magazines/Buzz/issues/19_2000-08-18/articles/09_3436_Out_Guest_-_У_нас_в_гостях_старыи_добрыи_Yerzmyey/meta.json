@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 9,
+  "article_id": 3436,
+  "title_link": "Out Guest - У нас в гостях старый добрый Yerzmyey.",
+  "title_h1": "Buzz 19 - Out Guest - У нас в гостях старый добрый Yerzmyey.",
+  "print_url": "https://zxpress.ru/print.php?id=3436",
+  "article_url": "https://zxpress.ru/article.php?id=3436",
+  "fetched_at": "2026-05-31T21:48:53Z"
+}

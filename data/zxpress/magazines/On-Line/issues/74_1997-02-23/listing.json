@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 8,
+    "article_url": "https://zxpress.ru/article.php?id=8",
+    "print_url": "https://zxpress.ru/print.php?id=8",
+    "title_link": "B.B.S. Новости - Новая станция Quake 2 BBS.",
+    "order": 1,
+    "issue_label": "74",
+    "short_slug": "BBS_Новости_-_Новая_станция_Quake_2_BBS"
+  },
+  {
+    "article_id": 2458,
+    "article_url": "https://zxpress.ru/article.php?id=2458",
+    "print_url": "https://zxpress.ru/print.php?id=2458",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "74",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2457,
+    "article_url": "https://zxpress.ru/article.php?id=2457",
+    "print_url": "https://zxpress.ru/print.php?id=2457",
+    "title_link": "Мозаика - Споры о журнале \"Оберон\".",
+    "order": 3,
+    "issue_label": "74",
+    "short_slug": "Мозаика_-_Споры_о_журнале_Оберон"
+  },
+  {
+    "article_id": 2456,
+    "article_url": "https://zxpress.ru/article.php?id=2456",
+    "print_url": "https://zxpress.ru/print.php?id=2456",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "74",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

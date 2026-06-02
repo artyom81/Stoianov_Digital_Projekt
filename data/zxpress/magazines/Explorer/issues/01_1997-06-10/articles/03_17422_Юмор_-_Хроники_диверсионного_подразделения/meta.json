@@ -1,0 +1,15 @@
+{
+  "magazine_id": 69,
+  "magazine_name": "Explorer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-10",
+  "order": 3,
+  "article_id": 17422,
+  "title_link": "Юмор - Хроники диверсионного подразделения.",
+  "title_h1": "Explorer 01 - Юмор - Хроники диверсионного подразделения.",
+  "print_url": "https://zxpress.ru/print.php?id=17422",
+  "article_url": "https://zxpress.ru/article.php?id=17422",
+  "fetched_at": "2026-05-31T22:03:29Z"
+}

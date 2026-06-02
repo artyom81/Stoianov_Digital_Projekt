@@ -1,0 +1,15 @@
+{
+  "magazine_id": 30,
+  "magazine_name": "Book",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2003-02-05",
+  "order": 6,
+  "article_id": 16992,
+  "title_link": "Художественная литература - Фредерик Браун: \"Вуду\"",
+  "title_h1": "Book 01 - Художественная литература - Фредерик Браун: \"Вуду\"",
+  "print_url": "https://zxpress.ru/print.php?id=16992",
+  "article_url": "https://zxpress.ru/article.php?id=16992",
+  "fetched_at": "2026-05-31T21:44:48Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3381,
+    "article_url": "https://zxpress.ru/article.php?id=3381",
+    "print_url": "https://zxpress.ru/print.php?id=3381",
+    "title_link": "Ассемблер - Строение экрана.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Ассемблер_-_Строение_экрана"
+  },
+  {
+    "article_id": 3380,
+    "article_url": "https://zxpress.ru/article.php?id=3380",
+    "print_url": "https://zxpress.ru/print.php?id=3380",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3383,
+    "article_url": "https://zxpress.ru/article.php?id=3383",
+    "print_url": "https://zxpress.ru/print.php?id=3383",
+    "title_link": "К размышлению - Кто победит в компьютерной войне.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "К_размышлению_-_Кто_победит_в_компьютернои_воине"
+  },
+  {
+    "article_id": 3382,
+    "article_url": "https://zxpress.ru/article.php?id=3382",
+    "print_url": "https://zxpress.ru/print.php?id=3382",
+    "title_link": "Каракули мозга - Диалоги...",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Каракули_мозга_-_Диалоги"
+  },
+  {
+    "article_id": 3384,
+    "article_url": "https://zxpress.ru/article.php?id=3384",
+    "print_url": "https://zxpress.ru/print.php?id=3384",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3378,
+    "article_url": "https://zxpress.ru/article.php?id=3378",
+    "print_url": "https://zxpress.ru/print.php?id=3378",
+    "title_link": "Слово авторов - Полтора месяца спустя...",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Слово_авторов_-_Полтора_месяца_спустя"
+  },
+  {
+    "article_id": 3379,
+    "article_url": "https://zxpress.ru/article.php?id=3379",
+    "print_url": "https://zxpress.ru/print.php?id=3379",
+    "title_link": "События, Факты - О Chaos Construction'99.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "События_Факты_-_О_Chaos_Construction99"
+  }
+]

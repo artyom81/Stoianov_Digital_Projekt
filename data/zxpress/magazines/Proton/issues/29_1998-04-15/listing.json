@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16717,
+    "article_url": "https://zxpress.ru/article.php?id=16717",
+    "print_url": "https://zxpress.ru/print.php?id=16717",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "29",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16718,
+    "article_url": "https://zxpress.ru/article.php?id=16718",
+    "print_url": "https://zxpress.ru/print.php?id=16718",
+    "title_link": "Приколы - Школа йоги.",
+    "order": 2,
+    "issue_label": "29",
+    "short_slug": "Приколы_-_Школа_иоги"
+  },
+  {
+    "article_id": 16719,
+    "article_url": "https://zxpress.ru/article.php?id=16719",
+    "print_url": "https://zxpress.ru/print.php?id=16719",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "29",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16720,
+    "article_url": "https://zxpress.ru/article.php?id=16720",
+    "print_url": "https://zxpress.ru/print.php?id=16720",
+    "title_link": "HARD & CODE - 1533ТМ2 - аналог SN74ALS74A, КР1533ТМ7 - аналог SN74ALS75, КР1533ТМ8 - аналог SN74ALS175, КР1533ТМ9 - аналог SN74ALS174.",
+    "order": 4,
+    "issue_label": "29",
+    "short_slug": "HARD_CODE_-_1533ТМ2_-_аналог_SN74ALS74A_КР1533ТМ7_-_аналог_S"
+  },
+  {
+    "article_id": 16721,
+    "article_url": "https://zxpress.ru/article.php?id=16721",
+    "print_url": "https://zxpress.ru/print.php?id=16721",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "29",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16722,
+    "article_url": "https://zxpress.ru/article.php?id=16722",
+    "print_url": "https://zxpress.ru/print.php?id=16722",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "29",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

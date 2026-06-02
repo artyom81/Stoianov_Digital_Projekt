@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 101,
+    "article_url": "https://zxpress.ru/article.php?id=101",
+    "print_url": "https://zxpress.ru/print.php?id=101",
+    "title_link": "BBS NEWS - Список действующих серверов.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "BBS_NEWS_-_Список_деиствующих_серверов"
+  },
+  {
+    "article_id": 8765,
+    "article_url": "https://zxpress.ru/article.php?id=8765",
+    "print_url": "https://zxpress.ru/print.php?id=8765",
+    "title_link": "WANTED - Реклама.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "WANTED_-_Реклама"
+  },
+  {
+    "article_id": 8767,
+    "article_url": "https://zxpress.ru/article.php?id=8767",
+    "print_url": "https://zxpress.ru/print.php?id=8767",
+    "title_link": "Зазеркалье - Инопланетяне - кто они?",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Зазеркалье_-_Инопланетяне_-_кто_они"
+  },
+  {
+    "article_id": 8768,
+    "article_url": "https://zxpress.ru/article.php?id=8768",
+    "print_url": "https://zxpress.ru/print.php?id=8768",
+    "title_link": "Компьютерный мир - Пираты XXI века - воры с \"электронной\" отмычкой. Словарь некоторых компьютерных терминов.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Компьютерныи_мир_-_Пираты_XXI_века_-_воры_с_электроннои_отмы"
+  },
+  {
+    "article_id": 8766,
+    "article_url": "https://zxpress.ru/article.php?id=8766",
+    "print_url": "https://zxpress.ru/print.php?id=8766",
+    "title_link": "Эксперимент - \"ОН и ОНА\" - любимая проблема молодежи.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Эксперимент_-_ОН_и_ОНА_-_любимая_проблема_молодежи"
+  },
+  {
+    "article_id": 8769,
+    "article_url": "https://zxpress.ru/article.php?id=8769",
+    "print_url": "https://zxpress.ru/print.php?id=8769",
+    "title_link": "Юмор - Правила поведения в лесном заповеднике \"Райская куща\".",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Юмор_-_Правила_поведения_в_лесном_заповеднике_Раиская_куща"
+  }
+]

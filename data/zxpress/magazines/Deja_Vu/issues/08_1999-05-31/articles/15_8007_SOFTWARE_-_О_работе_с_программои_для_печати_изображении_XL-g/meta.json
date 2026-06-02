@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 15,
+  "article_id": 8007,
+  "title_link": "SOFTWARE - О работе с программой для печати изображений XL-graph.",
+  "title_h1": "Deja Vu 08 - SOFTWARE - О работе с программой для печати изображений XL-graph.",
+  "print_url": "https://zxpress.ru/print.php?id=8007",
+  "article_url": "https://zxpress.ru/article.php?id=8007",
+  "fetched_at": "2026-05-31T21:55:33Z"
+}

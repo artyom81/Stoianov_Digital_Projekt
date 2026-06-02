@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 7586,
+    "article_url": "https://zxpress.ru/article.php?id=7586",
+    "print_url": "https://zxpress.ru/print.php?id=7586",
+    "title_link": "Наши новости - Парочка замечаний редакции газеты X-FILES.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Наши_новости_-_Парочка_замечании_редакции_газеты_X-FILES"
+  },
+  {
+    "article_id": 7587,
+    "article_url": "https://zxpress.ru/article.php?id=7587",
+    "print_url": "https://zxpress.ru/print.php?id=7587",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7588,
+    "article_url": "https://zxpress.ru/article.php?id=7588",
+    "print_url": "https://zxpress.ru/print.php?id=7588",
+    "title_link": "Обзор - О новых играх: PIRATES , MONTANA JONES 2.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Обзор_-_О_новых_играх_PIRATES_MONTANA_JONES_2"
+  },
+  {
+    "article_id": 7589,
+    "article_url": "https://zxpress.ru/article.php?id=7589",
+    "print_url": "https://zxpress.ru/print.php?id=7589",
+    "title_link": "Компьютерный ликбез - Как выбрать качаественный и безвредный для здоровья монитор.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Компьютерныи_ликбез_-_Как_выбрать_качаественныи_и_безвредныи"
+  },
+  {
+    "article_id": 7590,
+    "article_url": "https://zxpress.ru/article.php?id=7590",
+    "print_url": "https://zxpress.ru/print.php?id=7590",
+    "title_link": "Разберемся - Описание игры HACKER.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Разберемся_-_Описание_игры_HACKER"
+  },
+  {
+    "article_id": 7591,
+    "article_url": "https://zxpress.ru/article.php?id=7591",
+    "print_url": "https://zxpress.ru/print.php?id=7591",
+    "title_link": "Разберемся - Подробный отчет о прохождении игр DIZZY-X & DIZZY-Y.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игр_DIZZY-X_DIZZY"
+  },
+  {
+    "article_id": 7592,
+    "article_url": "https://zxpress.ru/article.php?id=7592",
+    "print_url": "https://zxpress.ru/print.php?id=7592",
+    "title_link": "DUCK NEWS - Эмулятор IBM для Спектрума.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "DUCK_NEWS_-_Эмулятор_IBM_для_Спектрума"
+  },
+  {
+    "article_id": 7593,
+    "article_url": "https://zxpress.ru/article.php?id=7593",
+    "print_url": "https://zxpress.ru/print.php?id=7593",
+    "title_link": "DUCK NEWS - Объяснение \"таинственного\" вируса...",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "DUCK_NEWS_-_Объяснение_таинственного_вируса"
+  },
+  {
+    "article_id": 7594,
+    "article_url": "https://zxpress.ru/article.php?id=7594",
+    "print_url": "https://zxpress.ru/print.php?id=7594",
+    "title_link": "HINTS! - Фирменные хинты для фанатов сериала DIZZY part2,3,4,5,6,7",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "HINTS_-_Фирменные_хинты_для_фанатов_сериала_DIZZY_part234567"
+  },
+  {
+    "article_id": 7595,
+    "article_url": "https://zxpress.ru/article.php?id=7595",
+    "print_url": "https://zxpress.ru/print.php?id=7595",
+    "title_link": "Конкурс - Итоги конкурса на лучший вирус.",
+    "order": 10,
+    "issue_label": "06",
+    "short_slug": "Конкурс_-_Итоги_конкурса_на_лучшии_вирус"
+  },
+  {
+    "article_id": 7596,
+    "article_url": "https://zxpress.ru/article.php?id=7596",
+    "print_url": "https://zxpress.ru/print.php?id=7596",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 11,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

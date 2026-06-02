@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-03-09",
+  "order": 6,
+  "article_id": 2509,
+  "title_link": "Правда о CC - Random/CC: Правда о Хаосе.",
+  "title_h1": "#Z80 05 - Правда о CC - Random/CC: Правда о Хаосе.",
+  "print_url": "https://zxpress.ru/print.php?id=2509",
+  "article_url": "https://zxpress.ru/article.php?id=2509",
+  "fetched_at": "2026-05-31T21:28:31Z"
+}

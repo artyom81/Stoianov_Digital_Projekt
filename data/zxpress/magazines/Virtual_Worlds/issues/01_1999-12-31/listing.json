@@ -1,0 +1,317 @@
+[
+  {
+    "article_id": 5063,
+    "article_url": "https://zxpress.ru/article.php?id=5063",
+    "print_url": "https://zxpress.ru/print.php?id=5063",
+    "title_link": "От редакции - история создания журнала.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_история_создания_журнала"
+  },
+  {
+    "article_id": 5064,
+    "article_url": "https://zxpress.ru/article.php?id=5064",
+    "print_url": "https://zxpress.ru/print.php?id=5064",
+    "title_link": "Путеводитель - подробное содержание номера.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Путеводитель_-_подробное_содержание_номера"
+  },
+  {
+    "article_id": 5065,
+    "article_url": "https://zxpress.ru/article.php?id=5065",
+    "print_url": "https://zxpress.ru/print.php?id=5065",
+    "title_link": "Описание оболочки - описание оболочки и методов ее правильной эксплуатации.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Описание_оболочки_-_описание_оболочки_и_методов_ее_правильно"
+  },
+  {
+    "article_id": 5066,
+    "article_url": "https://zxpress.ru/article.php?id=5066",
+    "print_url": "https://zxpress.ru/print.php?id=5066",
+    "title_link": "Авторы - об авторах.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Авторы_-_об_авторах"
+  },
+  {
+    "article_id": 5067,
+    "article_url": "https://zxpress.ru/article.php?id=5067",
+    "print_url": "https://zxpress.ru/print.php?id=5067",
+    "title_link": "Ассемблер - Z80 Flags: недокументированные комманды процессора Z80.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Z80_Flags_недокументированные_комманды_процессор"
+  },
+  {
+    "article_id": 5068,
+    "article_url": "https://zxpress.ru/article.php?id=5068",
+    "print_url": "https://zxpress.ru/print.php?id=5068",
+    "title_link": "Ассемблер - Оверлеи для JC: Описание методов создания утилит работающих под управлением Jemmini_Commander 4.0T.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Оверлеи_для_JC_Описание_методов_создания_утилит"
+  },
+  {
+    "article_id": 5069,
+    "article_url": "https://zxpress.ru/article.php?id=5069",
+    "print_url": "https://zxpress.ru/print.php?id=5069",
+    "title_link": "Ассемблер - Секреты TR-DOS: о методах пределения наличия дисководов.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Секреты_TR-DOS_о_методах_пределения_наличия_диск"
+  },
+  {
+    "article_id": 5070,
+    "article_url": "https://zxpress.ru/article.php?id=5070",
+    "print_url": "https://zxpress.ru/print.php?id=5070",
+    "title_link": "Ассемблер - Круги на воде: Алгоритмы имитации эффекта известного на других платформах, под названием \"круги на воде\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Круги_на_воде_Алгоритмы_имитации_эффекта_известн"
+  },
+  {
+    "article_id": 5071,
+    "article_url": "https://zxpress.ru/article.php?id=5071",
+    "print_url": "https://zxpress.ru/print.php?id=5071",
+    "title_link": "Ассемблер - Поиск пути. Решение задачи \"статического\" поиска наикратчайшего\r\n маршрута между двумя точками.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Поиск_пути_Решение_задачи_статического_поиска_на"
+  },
+  {
+    "article_id": 5090,
+    "article_url": "https://zxpress.ru/article.php?id=5090",
+    "print_url": "https://zxpress.ru/print.php?id=5090",
+    "title_link": "Отдохни - Механический эффект. История о том, что бывает,\r\n если использовать презервативы сомнительного происхождения.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Отдохни_-_Механическии_эффект_История_о_том_что_бывает_если"
+  },
+  {
+    "article_id": 5072,
+    "article_url": "https://zxpress.ru/article.php?id=5072",
+    "print_url": "https://zxpress.ru/print.php?id=5072",
+    "title_link": "Железо - Глюки клавиатуры: почему в играх для двух игроков, при игре вдвоем, компьютер не слушается вашего управления и информация о том, как этого избежать.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Железо_-_Глюки_клавиатуры_почему_в_играх_для_двух_игроков_пр"
+  },
+  {
+    "article_id": 5073,
+    "article_url": "https://zxpress.ru/article.php?id=5073",
+    "print_url": "https://zxpress.ru/print.php?id=5073",
+    "title_link": "Железо - Прерывания: Кое-что непонятное о прерываниях второго рода.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Железо_-_Прерывания_Кое-что_непонятное_о_прерываниях_второго"
+  },
+  {
+    "article_id": 5074,
+    "article_url": "https://zxpress.ru/article.php?id=5074",
+    "print_url": "https://zxpress.ru/print.php?id=5074",
+    "title_link": "Техпомощь - Мысли вслух. Интересно письмо из конференции fido7.zx.spectrum на тему \"К вопросу о стандартизации\".",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_Мысли_вслух_Интересно_письмо_из_конференции_fido"
+  },
+  {
+    "article_id": 5075,
+    "article_url": "https://zxpress.ru/article.php?id=5075",
+    "print_url": "https://zxpress.ru/print.php?id=5075",
+    "title_link": "Техпомощь - File FAQ. Полный разбор форматов файлов, наиболее часто встечающихся в Интернет, и не только; а также способы их конвертации в \"нормальный\"\r\n вид.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_File_FAQ_Полныи_разбор_форматов_фаилов_наиболее"
+  },
+  {
+    "article_id": 5076,
+    "article_url": "https://zxpress.ru/article.php?id=5076",
+    "print_url": "https://zxpress.ru/print.php?id=5076",
+    "title_link": "Техпомощь - Dos Review: материал по формату дисковой операционной системы IS-DOS.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_Dos_Review_материал_по_формату_дисковои_операцио"
+  },
+  {
+    "article_id": 5077,
+    "article_url": "https://zxpress.ru/article.php?id=5077",
+    "print_url": "https://zxpress.ru/print.php?id=5077",
+    "title_link": "Техпомощь - Dos Review 2: материал по формату дисковых операционных систем ПК \"АГАТ\", Радио-86РК, SP-DOS, БК-0011М.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_Dos_Review_2_материал_по_формату_дисковых_операц"
+  },
+  {
+    "article_id": 5078,
+    "article_url": "https://zxpress.ru/article.php?id=5078",
+    "print_url": "https://zxpress.ru/print.php?id=5078",
+    "title_link": "Техпомощь - Dos Review 3: материал по формату дисковых операционных систем CP/M, ASC SOUND MASTER, RT11, СМ ЭВМ РАФОС.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_Dos_Review_3_материал_по_формату_дисковых_операц"
+  },
+  {
+    "article_id": 5079,
+    "article_url": "https://zxpress.ru/article.php?id=5079",
+    "print_url": "https://zxpress.ru/print.php?id=5079",
+    "title_link": "Техпомощь - Dos Review 4: материал по формату дисковой операционной системы от неизвестного автора.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Техпомощь_-_Dos_Review_4_материал_по_формату_дисковои_операц"
+  },
+  {
+    "article_id": 5080,
+    "article_url": "https://zxpress.ru/article.php?id=5080",
+    "print_url": "https://zxpress.ru/print.php?id=5080",
+    "title_link": "DI:HALT:99 - Анализ DH:99. Наконец-то вся правда о прошедшей летом, в г.Дзержинске\r\n пати, от самих организаторов.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "DIHALT99_-_Анализ_DH99_Наконец-то_вся_правда_о_прошедшеи_лет"
+  },
+  {
+    "article_id": 5081,
+    "article_url": "https://zxpress.ru/article.php?id=5081",
+    "print_url": "https://zxpress.ru/print.php?id=5081",
+    "title_link": "DI:HALT:99 - Hidden Parts. Жизнь дзержинских (и не только) спектрумистов в период\r\n проведения DI:HALT:99.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "DIHALT99_-_Hidden_Parts_Жизнь_дзержинских_и_не_только_спектр"
+  },
+  {
+    "article_id": 5082,
+    "article_url": "https://zxpress.ru/article.php?id=5082",
+    "print_url": "https://zxpress.ru/print.php?id=5082",
+    "title_link": "DI:HALT:99 - Результаты. После прошествия DH:99, чуть ли не каждая вторая газета,\r\n считала своим долгом придумать новый вариант результатов. Данная статья направле-\r\n на на то, чтобы окончательно поставить все точки над \"И\".",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "DIHALT99_-_Результаты_После_прошествия_DH99_чуть_ли_не_кажда"
+  },
+  {
+    "article_id": 5083,
+    "article_url": "https://zxpress.ru/article.php?id=5083",
+    "print_url": "https://zxpress.ru/print.php?id=5083",
+    "title_link": "Программы - Alien: описание и прохождение игры по фильму \"Чужой\".",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Программы_-_Alien_описание_и_прохождение_игры_по_фильму_Чужо"
+  },
+  {
+    "article_id": 5084,
+    "article_url": "https://zxpress.ru/article.php?id=5084",
+    "print_url": "https://zxpress.ru/print.php?id=5084",
+    "title_link": "Программы - описание Universal AntiProtector 0.01 (программа для автоматического раскалывания ряда популярных защитных систем).",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Программы_-_описание_Universal_AntiProtector_001_программа_д"
+  },
+  {
+    "article_id": 5085,
+    "article_url": "https://zxpress.ru/article.php?id=5085",
+    "print_url": "https://zxpress.ru/print.php?id=5085",
+    "title_link": "Программы - редактор игровых экранов \"Белые Пятна\".",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Программы_-_редактор_игровых_экранов_Белые_Пятна"
+  },
+  {
+    "article_id": 5086,
+    "article_url": "https://zxpress.ru/article.php?id=5086",
+    "print_url": "https://zxpress.ru/print.php?id=5086",
+    "title_link": "Программы - Exhumator: программа для \"эксгумации дисков\".",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "Программы_-_Exhumator_программа_для_эксгумации_дисков"
+  },
+  {
+    "article_id": 5087,
+    "article_url": "https://zxpress.ru/article.php?id=5087",
+    "print_url": "https://zxpress.ru/print.php?id=5087",
+    "title_link": "Программы - чанковый графический редактор: Hard Core ver 3.01",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Программы_-_чанковыи_графическии_редактор_Hard_Core_ver_301"
+  },
+  {
+    "article_id": 5092,
+    "article_url": "https://zxpress.ru/article.php?id=5092",
+    "print_url": "https://zxpress.ru/print.php?id=5092",
+    "title_link": "Программы - Глаз Вопиющего: програмка позволяющая смотреть картинки, спрайты, слушая при этоммузыку.",
+    "order": 27,
+    "issue_label": "01",
+    "short_slug": "Программы_-_Глаз_Вопиющего_програмка_позволяющая_смотреть_ка"
+  },
+  {
+    "article_id": 5088,
+    "article_url": "https://zxpress.ru/article.php?id=5088",
+    "print_url": "https://zxpress.ru/print.php?id=5088",
+    "title_link": "Отдохни - Стих о Sysop'e. Поэзия однако...",
+    "order": 28,
+    "issue_label": "01",
+    "short_slug": "Отдохни_-_Стих_о_Sysope_Поэзия_однако"
+  },
+  {
+    "article_id": 5089,
+    "article_url": "https://zxpress.ru/article.php?id=5089",
+    "print_url": "https://zxpress.ru/print.php?id=5089",
+    "title_link": "Отдохни - Секс в Фидо. Юмористический расказ о том,\r\n как же на самом деле занимаются любовью заядлые фидошники.",
+    "order": 29,
+    "issue_label": "01",
+    "short_slug": "Отдохни_-_Секс_в_Фидо_Юмористическии_расказ_о_том_как_же_на"
+  },
+  {
+    "article_id": 5091,
+    "article_url": "https://zxpress.ru/article.php?id=5091",
+    "print_url": "https://zxpress.ru/print.php?id=5091",
+    "title_link": "Отдохни - Анекдоты. Подборка анекдотов с компьютерной тематикой.",
+    "order": 30,
+    "issue_label": "01",
+    "short_slug": "Отдохни_-_Анекдоты_Подборка_анекдотов_с_компьютернои_тематик"
+  },
+  {
+    "article_id": 14682,
+    "article_url": "https://zxpress.ru/article.php?id=14682",
+    "print_url": "https://zxpress.ru/print.php?id=14682",
+    "title_link": "Очумелые ручки - Переделай Profi-512 под Pentagon-512.",
+    "order": 31,
+    "issue_label": "01",
+    "short_slug": "Очумелые_ручки_-_Переделаи_Profi-512_под_Pentagon-512"
+  },
+  {
+    "article_id": 5395,
+    "article_url": "https://zxpress.ru/article.php?id=5395",
+    "print_url": "https://zxpress.ru/print.php?id=5395",
+    "title_link": "РуSкие пряники - интьервью с известным сценовым художником Dever/4D.",
+    "order": 32,
+    "issue_label": "01",
+    "short_slug": "РуSкие_пряники_-_интьервью_с_известным_сценовым_художником_D"
+  },
+  {
+    "article_id": 12780,
+    "article_url": "https://zxpress.ru/article.php?id=12780",
+    "print_url": "https://zxpress.ru/print.php?id=12780",
+    "title_link": "Разное - письмо от Тани.",
+    "order": 33,
+    "issue_label": "01",
+    "short_slug": "Разное_-_письмо_от_Тани"
+  },
+  {
+    "article_id": 12320,
+    "article_url": "https://zxpress.ru/article.php?id=12320",
+    "print_url": "https://zxpress.ru/print.php?id=12320",
+    "title_link": "Игромания - описание игры Barbarian III.",
+    "order": 34,
+    "issue_label": "01",
+    "short_slug": "Игромания_-_описание_игры_Barbarian_III"
+  },
+  {
+    "article_id": 694,
+    "article_url": "https://zxpress.ru/article.php?id=694",
+    "print_url": "https://zxpress.ru/print.php?id=694",
+    "title_link": "Gendalf в эфире - скоро выйдет игра \"Зеркало\".",
+    "order": 35,
+    "issue_label": "01",
+    "short_slug": "Gendalf_в_эфире_-_скоро_выидет_игра_Зеркало"
+  }
+]

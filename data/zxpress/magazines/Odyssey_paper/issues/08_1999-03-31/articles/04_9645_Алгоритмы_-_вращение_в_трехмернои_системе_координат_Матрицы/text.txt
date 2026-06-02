@@ -1,0 +1,232 @@
+Odyssey paper 08 - Алгоритмы - вращение в трехмерной системе координат. Матрицы.
+Алгоритмы
+_________
+Подготовлено  по  материалам   зарубежной
+прессы.
+Rotations - Вращения
+____________________
+
+ One thing that could look nice in our  3d
+world, would be rotations. Actually, rota-
+tions are what we use when doing   camera,
+and rotation is also what we need to   add
+if we want any object to move in any  way.
+It would here, be an advantage to have le-
+arned or have the knowledge about    sinus
+and cosinus, but if this is not the  fact,
+then just try to hang on.
+ 
+ Есть одна вещь, которая помогает   выгля-
+деть нашему 3D миру реально есть вращения.
+Фактически, вращения - то, что мы  исполь-
+зуем при движении камеры,и вращение - так-
+же, что мы должны добавить, если мы хотим,
+чтобы любой объект двигался в любом   нап-
+равлении. Это надо   использовать,   чтобы
+иметь преимущество, чтобы   изучить    или
+иметь знание относительно синусов и  коси-
+нусов, но если это - не так,     то только
+пробуют зависать на ( надо знать sin,cos).
+
+ At first, lets look at 2d rotations. What
+we need here is to rotate a xy point  aro-
+und the two axis', or the point 0,0.  This
+is done with the formulars:
+
+ Сначала, давайте рассмотрим 2D  вращения.
+В чем мы нуждаемся, чтобы  вращать   точку
+xy вокруг двух осей, или точки 0,0?
+
+ Это формулы:
+newx = x*cos(theta) - y*sin(theta)
+newy = y*cos(theta) + x*sin(theta)
+Now, we can see thatnewx equals x multip-
+lied with cos(theta) and added y multipli-
+ed with sin(theta). Some might wanna   ask
+why we have the y axis messed into the ro-
+tation of x, but thats actually     pretty
+simple. The result newx  have   absolutely
+nothing to do with the origional x value ,
+it is a product of x and y. Now, what   we
+can see of the above formulars, we multip-
+ly with the current axis and add a multip-
+ly of the second axis. An example is given
+below:
+
+ Теперь, мы можем видеть, что newx  равня-
+ется x*cos(theta)-y*sun(theta).  Некоторые
+могли бы спросить, почему мы ось y смешали
+во вращение с x? Это довольно просто.  Ре-
+зультат newx не имеет абсолютно    ничего,
+чтобы делать с оригинальным значением   x,
+это - произведение x и y. Теперь, что   мы
+можем видеть в вышеупомянутых формулах, мы
+умножаемся с текущей осью  и   добавляемся
+умножающийся из второй оси. Пример дан ни-
+же:
+x = 10
+y = 0
+angle = 45
+newx  = 10*cos(10) - 0*sin(10)
+newy  = 0*cos(10) + 10*sin(10)
+newx  = 9.85
+newx  = 1.74
+Now, would we like to rotate around  ano-
+ther point than 0,0 we have  to   subtract
+the value from the x and y point. This wo-
+uld look like this:
+
+ Теперь, вращаем вокруг другой точки,  от-
+личной от 0,0. Мы должны вычесть  значение
+из точки y и x.
+
+ Это выглядит следующим образом:
+newx = (x-startx)*cos(theta) - (y-starty)
+*sin(theta) + startx
+newy = (y-starty)*cos(theta) + (x-startx)
+*sin(theta) + starty
+For an example, we want the point   (7,0)
+rotated 180 degress around the point (6,0)
+Now, by decreasing our point by (6,0)  we'
+ve moved it into (1,0).
+ If we rotate this by 180 degress it would
+return (-1,0) and this we add  with    our
+start x and y values to a final result  of
+(5,0). A nice and correct result. But  all
+of this have nothing to do with 3d rotati-
+ons, so lets get on with that.
+
+ Для примера, мы хотим чтобы точка (7,0) ,
+повернулась на 180 градусов вокруг   точки
+(6,0). Теперь, уменьшая нашу точку до  (6,
+0) мы переместили ее в (1,0). Если мы вра-
+щаем ее на 180 градусов, это возвратило бы
+(-1,0), и это мы добавляем к нашему началу
+x и значениями y  к  конечному  результату
+(5,0). Хороший и правильный результат.
+Matrices - Матрицы
+__________________
+
+ Matrices are used to simplify code and in
+most cases to make them faster.This we can
+see in our rotation code,where we use them
+to cut the normal 12 muls down to 9  muls.
+Now, lets look at the basics. In   general
+matrices are just an array of number,which
+you give to a set of variables. Lets  look
+at some of the matrices we use in the  co-
+de.
+
+ Матрицы используются, чтобы упростить код
+и в большинстве случаев, чтобы сделать его
+быстрее. Это мы можем видеть в нашем  коде
+вращения, где мы используем их для  усече-
+ния нормали  с 12 умножений до 9 умножений
+Теперь, давайте рассмотрим основы.  Вообще
+матрица - только таблица чисел, в  которой
+Вы имеете множество переменных. Рассмотрим
+некоторые из матриц, которые мы используем
+в коде:
+[ x'] [1 0 0 -camerax] [x]
+[ y'] [0 1 0 -cameray] [y]
+[ z'] [0 0 1 -cameraz] [z]
+[ 1 ] [0 0 0     1   ] [1]
+This matrix is also called a 4x4 matrix ,
+since it has four rows and coloums.   Now,
+4x4 and 3x3 matrices are the most   common
+matrices in 3d programming, but  they  can
+ofcourse be found in any size. Now,   what
+does the above matrix mean, and how do  we
+get the right values and which   variables
+do we change? Lets take a look.
+
+ Эта матрица называется 4x4 матрицей,  так
+как она имеет четыре строки и колонки. Те-
+перь, 4x4 и 3x3 матрицы - наиболее   общие
+матрицы в 3D программировании, но они  мо-
+гут конечно быть любого размера.   Теперь,
+что вышеупомянутая матрица означает, и как
+мы получаем значения справа из переменных,
+которые изменяются? Давайте рассмотрим.
+
+ First we have the variables x', y',z' and
+the number 1. After that we have four  set
+of numbers. Then we have the variables  x,
+y, z and the number 1 again. Now, what  we
+basicly do here is that we multiply    the
+first row of the second part of the matrix
+with each of the variables in the   thirds
+row, add them together and them give  them
+to the variable in the first part of   the
+matrix of that specific row. A better  way
+to show this would be this:
+
+ Сначала мы имеем переменные x ', y ', z '
+и число 1. После этого мы имеем 4 множест-
+ва чисел. Затем мы имеем переменные x,  y,
+z и снова число 1. Теперь, что мы   просто
+делаем? Мы умножаем первую строку   второй
+части матрицы с каждой из переменных в ст-
+роке третьей части, складываем их вместе и
+присваеваем результат к переменной в  пер-
+вой части матрицы этой специфической стро-
+ки.
+x + y + z  +  1
+*   *   *      *
+[x']=[ 1   0   0  -camerax]
+[y']=[ 0   1   0  -cameray]
+[z']=[ 0   0   1  -cameraz]
+[ 1]=[ 0   0   0      1   ]
+In this case every variable would have  z
+value:
+
+ В этом случае каждая переменная имела  бы
+значение:
+x' = 1*x + 0*y + 0*z + -camerax * 1
+y' = 0*x + 1*y + 0*z + -cameray * 1
+z' = 0*x + 0*y + 1*z + -cameraz * 1
+1' = 0*x + 0*y + 0*z + 1 * 1
+Now this might be a little hasty to begin
+with, so lets take a look at some    other
+way to explain matrices. Now, say we  need
+to do the following:
+
+ Теперь нам поможет небольшое отступление,
+чтобы двинуться дальше, поэтому    давайте
+посмотрим другой способ, чтобы   объяснить
+матрицы. Теперь,  в чем мы нуждаемся , так
+это сделать вот что:
+x' = 3x + 8y
+Or another way of saying this is:
+
+ Или по-другому:
+x' = ax + by
+Следовательно мы можем делать матрицу:
+[x]
+x' = [a b][y]
+Now, lets make this a 2x2 matrix  instead
+of 2x1.
+
+ Теперь, поместим матрицу 2x2  вместо 2x1.
+x' = 3x + 8y
+y' = 6x + 2y
+x' = [3 8][x]
+y' = [6 2][y]
+Теперь, мы желаем делать так:
+x' = 3x + 8y + 9
+y' = 6x + 2y + 2
+x' = [3 8 9][x]
+y' = [6 2 2][y]
+1' = [0 0 1][1]
+As you can see, what we do is to take the
+third part and multiply the first row with
+the first coloumn, then add second row  of
+the second part multiplied with the second
+coloumn, and so on. This should be    very
+simple and easy to understand. 
+
+ Поскольку Вы можете видеть, что мы  берем
+третью часть и умножаем первую строку    с
+первой колонкой, затем прибавляем число от
+умножения второй строки второй  части   со
+второй колонкой, и так далее.

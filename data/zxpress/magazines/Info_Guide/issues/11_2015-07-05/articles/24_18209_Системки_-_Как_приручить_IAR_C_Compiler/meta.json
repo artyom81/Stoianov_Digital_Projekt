@@ -1,0 +1,15 @@
+{
+  "magazine_id": 302,
+  "magazine_name": "Info Guide",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "2015-07-05",
+  "order": 24,
+  "article_id": 18209,
+  "title_link": "Системки - Как приручить IAR C Compiler.",
+  "title_h1": "Info Guide 11 - Системки - Как приручить IAR C Compiler.",
+  "print_url": "https://zxpress.ru/print.php?id=18209",
+  "article_url": "https://zxpress.ru/article.php?id=18209",
+  "fetched_at": "2026-05-31T23:43:43Z"
+}

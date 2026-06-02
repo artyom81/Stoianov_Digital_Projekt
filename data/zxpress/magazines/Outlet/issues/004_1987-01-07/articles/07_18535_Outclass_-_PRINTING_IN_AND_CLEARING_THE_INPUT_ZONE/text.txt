@@ -1,0 +1,241 @@
+004 - Outclass - PRINTING IN AND CLEARING THE  "INPUT ZONE"
+OUTCLASS articles will appear
+occasionally in OUTLET to cover
+different aspects of BASIC and
+machine code programming. OUTLET
+readers are encouraged to write
+in to the letters pages of
+OUTLET with any queries arising
+from these articles or any other
+programming problems. We can't
+guarantee to have all the
+answers but then other readers
+may be able to help.
+
+
+
+You are also welcome to send in
+articles yourself for inclusion
+in this OUTCLASS section if you
+feel you have expertise in some
+area of programming. Programming
+principles, hints, tips,
+information specific to the
+Spectrum, structure, creativity,
+in short ANYTHING that might be
+helpful or interesting to
+programming enthusiasts or those
+learning to program.
+
+Those of you well acquainted
+with the Spectrum will find much
+that seems absurdly simple in
+this section - things you take
+for granted but remember there
+are plenty of beginners who will
+find such information helpful.
+
+
+
+So much for the introduction.
+Let's get on with this month's
+subject which I have seen raised
+again and again over the years
+in the letters pages of other
+magazines:-
+
+  PRINTING IN AND CLEARING THE  
+  "INPUT  ZONE" - Brian Cavers  
+  ---------------------------- 
+
+As you probably know, the
+Spectrum screen is divided into
+two main areas or "windows". If
+you set the border to a
+different colour to the main
+screen with say, BORDER 0 or
+BORDER 4, you can see quite
+clearly that when you type
+
+
+
+anything on the keyboard it
+appears on a line below the
+central screen. If you look
+closely you will see it is
+actually two lines below the
+central screen. The first line
+is blank. If you type to the end
+of the line the cursor will drop
+to the start of the next line
+below and the border colour will
+stretch up one line to cover the
+bottom line of the central
+screen.
+
+You now have three lines in the
+input area and this can expand
+up the screen. Normally,
+however, there are just two
+lines in the input area. In
+BASIC, these may be referred to
+as lines 23 and 24. I am sure
+
+you have already discovered that
+PRINT AT 23,0;"ANYTHING" will
+not work! You can only normally
+print at lines 0 to 21.
+
+So how do you print something in
+the input area (other than when
+you are entering something from
+the keyboard)? Why should you
+want to anyway? Well, you will
+find it handy for prompts such
+as "PRESS ANY KEY..." or the
+score in a game. There are many
+uses but mainly it just expands
+the screen. The whole screen is
+24 lines high (numbered 0 to 23)
+so why not use it all?
+
+
+The way to print into the input
+zone is with the hash sign: #. I
+will give a couple of examples
+then a simple explanation. You
+need not bother understanding
+the explanation if you don't
+want. You only need to know how
+to do it!
+
+10 PRINT #0;AT 0,0;"TESTING ONE
+TWO THREE"
+
+20 PAUSE 0
+
+Notice that the # sign is
+followed by the number 0. You
+can also use the number 1. It
+makes no practical difference.
+Following a PRINT statement, the
+
+
+
+# sign simply signifies a stream
+number. A "stream" is like a
+flow of information or data
+leading somewhere. #0 and #1 go
+to the input area. #2 goes to
+the central screen and #3 goes
+to a printer. Actually PRINT and
+LPRINT, both without any # sign,
+MEAN PRINT #2 and PRINT #3
+respectively. The Spectrum
+assumes that if you don't
+mention the stream number for
+PRINT then you mean #2 and
+similarly #3 for LPRINT.
+
+You can try PRINT #2 and you
+will find it prints to the
+central screen. This instruction
+might occasionally be useful if
+you want to print to both the
+screen and to a printer.
+
+
+
+You could have say:-           
+10 FOR N = 2 TO 3 : PRINT # N;
+"text...": NEXT N.
+
+If you do not yet know what a
+FOR...NEXT instruction is: the
+above will first PRINT with N
+valued at 2 and then loop back
+and PRINT again with N valued at
+3.
+
+It's important to remember to
+put colour statements AFTER the
+# sign when printing to the
+input area, e.g:.
+
+10 PRINT #1; PAPER 6; INK 2;
+BRIGHT 1; FLASH 1; AT 1,8; "STOP
+THE TAPE!"      -       NOT:   
+10 PRINT INK 7; #1; AT 1,7;
+"PRESS M FOR THE MAIN MENU..."
+
+
+
+I always put the print position
+in when printing to the input
+area, i.e. I use the AT
+statement otherwise you often
+get the input area scrolling up
+when you don't want it to scroll
+up. The lines in the input area
+are numbered 0 and 1. The AT
+statement, like the colour
+statements, should come AFTER
+the # number.
+
+Finally, remember if you are
+experimenting with the above you
+will need something after the
+instruction to keep the program
+running even if it is just a
+PAUSE 0 (which holds the program
+until a key is pressed)
+otherwise the program will stop
+running and the input area will
+
+
+
+be immediately cleared before
+you can read what you put there!
+
+Talking of clearing the input
+area brings me nicely to the way
+you can do that in your
+programs. The simplest way is
+just:  INPUT;
+
+There are other variations, such
+as INPUT "" but INPUT; is the
+shortest and uses the least
+memory.
+
+This instruction will erase
+anything in the input area.
+Normally you would use this if
+you wished to remove a message
+that was no longer needed or to
+print something new in the input
+area which does not completely
+
+
+
+cover the old message. Also, if
+more text is printed on the main
+screen, the text in the input
+area may be scrolled up on to
+the central screen making a mess
+so you would need to erase the
+input area first with INPUT;
+print to the main screen and
+then re-print any text you need
+in the input area.
+
+Well that's it for now. Tell us
+if you find the presentation of
+this section TOO simplified! All
+suggestions welcome!
+
+In future OUTCLASSes we shall be
+looking at how to save memory
+and when NOT to and making a
+simple start with machine code.
+See you then!

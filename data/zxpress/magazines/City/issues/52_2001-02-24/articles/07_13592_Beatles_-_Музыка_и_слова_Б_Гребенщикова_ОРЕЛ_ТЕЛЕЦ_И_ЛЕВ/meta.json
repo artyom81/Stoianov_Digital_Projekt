@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "52",
+  "issue_date_iso": "2001-02-24",
+  "order": 7,
+  "article_id": 13592,
+  "title_link": "Beatles - Музыка и слова Б. Гребенщикова: ОРЕЛ, ТЕЛЕЦ И ЛЕВ",
+  "title_h1": "City 52 - Beatles - Музыка и слова Б. Гребенщикова: ОРЕЛ, ТЕЛЕЦ И ЛЕВ",
+  "print_url": "https://zxpress.ru/print.php?id=13592",
+  "article_url": "https://zxpress.ru/article.php?id=13592",
+  "fetched_at": "2026-05-31T21:52:29Z"
+}

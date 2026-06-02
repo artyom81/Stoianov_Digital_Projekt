@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 103,
+    "article_url": "https://zxpress.ru/article.php?id=103",
+    "print_url": "https://zxpress.ru/print.php?id=103",
+    "title_link": "BBS NEWS - Графика работы станций.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "BBS_NEWS_-_Графика_работы_станции"
+  },
+  {
+    "article_id": 8776,
+    "article_url": "https://zxpress.ru/article.php?id=8776",
+    "print_url": "https://zxpress.ru/print.php?id=8776",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 8779,
+    "article_url": "https://zxpress.ru/article.php?id=8779",
+    "print_url": "https://zxpress.ru/print.php?id=8779",
+    "title_link": "Зазеркалье - Вампиризм - о вампирах... Психологический тест для вас.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Зазеркалье_-_Вампиризм_-_о_вампирах_Психологическии_тест_для"
+  },
+  {
+    "article_id": 8780,
+    "article_url": "https://zxpress.ru/article.php?id=8780",
+    "print_url": "https://zxpress.ru/print.php?id=8780",
+    "title_link": "Компас - Компас по Москве - определение телефонного номера по трем\r\n первым цифрам.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Компас_-_Компас_по_Москве_-_определение_телефонного_номера_п"
+  },
+  {
+    "article_id": 8778,
+    "article_url": "https://zxpress.ru/article.php?id=8778",
+    "print_url": "https://zxpress.ru/print.php?id=8778",
+    "title_link": "Компот - Рассказ о Лапе Чепугавой.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Компот_-_Рассказ_о_Лапе_Чепугавои"
+  },
+  {
+    "article_id": 8777,
+    "article_url": "https://zxpress.ru/article.php?id=8777",
+    "print_url": "https://zxpress.ru/print.php?id=8777",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

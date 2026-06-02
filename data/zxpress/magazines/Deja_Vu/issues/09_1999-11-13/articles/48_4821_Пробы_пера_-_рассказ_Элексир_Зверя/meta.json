@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1999-11-13",
+  "order": 48,
+  "article_id": 4821,
+  "title_link": "Пробы пера - рассказ \"Элексир Зверя\".",
+  "title_h1": "Deja Vu 09 - Пробы пера - рассказ \"Элексир Зверя\".",
+  "print_url": "https://zxpress.ru/print.php?id=4821",
+  "article_url": "https://zxpress.ru/article.php?id=4821",
+  "fetched_at": "2026-05-31T21:56:01Z"
+}

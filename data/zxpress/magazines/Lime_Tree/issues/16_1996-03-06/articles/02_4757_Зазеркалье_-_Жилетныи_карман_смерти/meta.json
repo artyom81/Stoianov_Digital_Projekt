@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1996-03-06",
+  "order": 2,
+  "article_id": 4757,
+  "title_link": "Зазеркалье - Жилетный карман смерти.",
+  "title_h1": "Lime Tree 16 - Зазеркалье - Жилетный карман смерти.",
+  "print_url": "https://zxpress.ru/print.php?id=4757",
+  "article_url": "https://zxpress.ru/article.php?id=4757",
+  "fetched_at": "2026-05-31T22:19:39Z"
+}

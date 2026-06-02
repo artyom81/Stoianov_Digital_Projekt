@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2002-11-22",
+  "order": 4,
+  "article_id": 8709,
+  "title_link": "Диплом - Диплом Alone Coder-а. Разработка программного обеспечения для специализированного логического анализатора. Часть 1.",
+  "title_h1": "Inferno 03 - Диплом - Диплом Alone Coder-а. Разработка программного обеспечения для специализированного логического анализатора. Часть 1.",
+  "print_url": "https://zxpress.ru/print.php?id=8709",
+  "article_url": "https://zxpress.ru/article.php?id=8709",
+  "fetched_at": "2026-05-31T22:13:32Z"
+}

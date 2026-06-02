@@ -1,0 +1,99 @@
+{
+  "issues": [
+    {
+      "issue_label": "19",
+      "issue_date_iso": "1996-02-02",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "22",
+      "issue_date_iso": "1996-02-23",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "24",
+      "issue_date_iso": "1996-03-08",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "25",
+      "issue_date_iso": "1996-03-15",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "26",
+      "issue_date_iso": "1996-03-22",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "27",
+      "issue_date_iso": "1996-03-29",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "28",
+      "issue_date_iso": "1996-04-12",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "36",
+      "issue_date_iso": "1996-08-15",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "37",
+      "issue_date_iso": "1996-08-23",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "38",
+      "issue_date_iso": "1996-08-30",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "39",
+      "issue_date_iso": "1996-09-06",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "40",
+      "issue_date_iso": "1996-09-13",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "41",
+      "issue_date_iso": "1996-09-20",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "42",
+      "issue_date_iso": "1996-09-27",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "43",
+      "issue_date_iso": "1996-10-05",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "44",
+      "issue_date_iso": "1996-10-11",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "45",
+      "issue_date_iso": "1996-10-25",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "46",
+      "issue_date_iso": "1996-11-01",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "47",
+      "issue_date_iso": "1996-11-09",
+      "articles_count": 1
+    }
+  ]
+}

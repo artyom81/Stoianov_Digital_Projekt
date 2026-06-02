@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 8,
+  "article_id": 3434,
+  "title_link": "Other News - новости от Techno Lab и спектрумистов из Перми.",
+  "title_h1": "Buzz 19 - Other News - новости от Techno Lab и спектрумистов из Перми.",
+  "print_url": "https://zxpress.ru/print.php?id=3434",
+  "article_url": "https://zxpress.ru/article.php?id=3434",
+  "fetched_at": "2026-05-31T21:48:52Z"
+}

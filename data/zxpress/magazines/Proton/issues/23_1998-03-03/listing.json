@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16673,
+    "article_url": "https://zxpress.ru/article.php?id=16673",
+    "print_url": "https://zxpress.ru/print.php?id=16673",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16674,
+    "article_url": "https://zxpress.ru/article.php?id=16674",
+    "print_url": "https://zxpress.ru/print.php?id=16674",
+    "title_link": "Юмор - Теория охоты на диких слонов в пустыне Сахара.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Юмор_-_Теория_охоты_на_диких_слонов_в_пустыне_Сахара"
+  },
+  {
+    "article_id": 16675,
+    "article_url": "https://zxpress.ru/article.php?id=16675",
+    "print_url": "https://zxpress.ru/print.php?id=16675",
+    "title_link": "Юмор - That is true.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Юмор_-_That_is_true"
+  },
+  {
+    "article_id": 16676,
+    "article_url": "https://zxpress.ru/article.php?id=16676",
+    "print_url": "https://zxpress.ru/print.php?id=16676",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16677,
+    "article_url": "https://zxpress.ru/article.php?id=16677",
+    "print_url": "https://zxpress.ru/print.php?id=16677",
+    "title_link": "Юмор - От Дарвина до Антонова.",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Юмор_-_От_Дарвина_до_Антонова"
+  },
+  {
+    "article_id": 16678,
+    "article_url": "https://zxpress.ru/article.php?id=16678",
+    "print_url": "https://zxpress.ru/print.php?id=16678",
+    "title_link": "Video - \"Титаник\".",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Video_-_Титаник"
+  },
+  {
+    "article_id": 16679,
+    "article_url": "https://zxpress.ru/article.php?id=16679",
+    "print_url": "https://zxpress.ru/print.php?id=16679",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16680,
+    "article_url": "https://zxpress.ru/article.php?id=16680",
+    "print_url": "https://zxpress.ru/print.php?id=16680",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "23",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

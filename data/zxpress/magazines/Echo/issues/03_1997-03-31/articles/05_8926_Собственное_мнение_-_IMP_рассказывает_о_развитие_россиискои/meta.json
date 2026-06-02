@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-03-31",
+  "order": 5,
+  "article_id": 8926,
+  "title_link": "Собственное мнение - IMP рассказывает о развитие российской ZX-демосцены.",
+  "title_h1": "Echo 03 - Собственное мнение - IMP рассказывает о развитие российской ZX-демосцены.",
+  "print_url": "https://zxpress.ru/print.php?id=8926",
+  "article_url": "https://zxpress.ru/article.php?id=8926",
+  "fetched_at": "2026-05-31T22:00:25Z"
+}

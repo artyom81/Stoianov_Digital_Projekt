@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 9288,
+    "article_url": "https://zxpress.ru/article.php?id=9288",
+    "print_url": "https://zxpress.ru/print.php?id=9288",
+    "title_link": "Новости - Scream#2 наконец-то вышел, KSA-7G пропал, John Silver написал новый сонг, Dissonator приезжал из армии, Nikphe собрал IBM PC.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Scream2_наконец-то_вышел_KSA-7G_пропал_John_Silver"
+  },
+  {
+    "article_id": 9289,
+    "article_url": "https://zxpress.ru/article.php?id=9289",
+    "print_url": "https://zxpress.ru/print.php?id=9289",
+    "title_link": "Cенсация - AloneCoder декомпилировал Pro Tracker 3.x",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Cенсация_-_AloneCoder_декомпилировал_Pro_Tracker_3x"
+  },
+  {
+    "article_id": 9290,
+    "article_url": "https://zxpress.ru/article.php?id=9290",
+    "print_url": "https://zxpress.ru/print.php?id=9290",
+    "title_link": "ASCII Smile - СЕГОДНЯ ЖЕ ПЕРВОЕ АПРЕЛЯ 8)",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "ASCII_Smile_-_СЕГОДНЯ_ЖЕ_ПЕРВОЕ_АПРЕЛЯ_8"
+  },
+  {
+    "article_id": 9291,
+    "article_url": "https://zxpress.ru/article.php?id=9291",
+    "print_url": "https://zxpress.ru/print.php?id=9291",
+    "title_link": "Сенсация - история о том как Tot/i8 так и не подключил SIMM к пнетагону AloneCoder'a.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Сенсация_-_история_о_том_как_Toti8_так_и_не_подключил_SIMM_к"
+  },
+  {
+    "article_id": 9292,
+    "article_url": "https://zxpress.ru/article.php?id=9292",
+    "print_url": "https://zxpress.ru/print.php?id=9292",
+    "title_link": "Dune news - авторы Dune для Спектрума просит $250 за авторские права.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Dune_news_-_авторы_Dune_для_Спектрума_просит_250_за_авторски"
+  },
+  {
+    "article_id": 9293,
+    "article_url": "https://zxpress.ru/article.php?id=9293",
+    "print_url": "https://zxpress.ru/print.php?id=9293",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

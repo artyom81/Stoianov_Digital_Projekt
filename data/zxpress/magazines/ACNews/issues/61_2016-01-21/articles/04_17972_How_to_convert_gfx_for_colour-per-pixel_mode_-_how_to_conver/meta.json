@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "61",
+  "issue_date_iso": "2016-01-21",
+  "order": 4,
+  "article_id": 17972,
+  "title_link": "How to convert gfx for colour-per-pixel mode - how to convert gfx to \"EGA\" mode of\r\nATM Turbo.",
+  "title_h1": "ACNews 61 -  How to convert gfx for colour-per-pixel mode - how to convert gfx to \"EGA\" mode of ATM Turbo.",
+  "print_url": "https://zxpress.ru/print.php?id=17972",
+  "article_url": "https://zxpress.ru/article.php?id=17972",
+  "fetched_at": "2026-05-31T21:31:41Z"
+}

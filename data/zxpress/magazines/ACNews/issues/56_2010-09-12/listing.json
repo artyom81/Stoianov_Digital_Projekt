@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 14667,
+    "article_url": "https://zxpress.ru/article.php?id=14667",
+    "print_url": "https://zxpress.ru/print.php?id=14667",
+    "title_link": "Новости - nати 22 мая - \"Волшeбный мир\", Вeeр Тraсker, V9990, Нints.",
+    "order": 1,
+    "issue_label": "56",
+    "short_slug": "Новости_-_nати_22_мая_-_Волшeбныи_мир_Вeeр_Тraсker_V9990_Нin"
+  },
+  {
+    "article_id": 14668,
+    "article_url": "https://zxpress.ru/article.php?id=14668",
+    "print_url": "https://zxpress.ru/print.php?id=14668",
+    "title_link": "Программирование - Многозадачность в DNA OS.",
+    "order": 2,
+    "issue_label": "56",
+    "short_slug": "Программирование_-_Многозадачность_в_DNA_OS"
+  },
+  {
+    "article_id": 14669,
+    "article_url": "https://zxpress.ru/article.php?id=14669",
+    "print_url": "https://zxpress.ru/print.php?id=14669",
+    "title_link": "Железо - Про неисчерпаемые возможности NeoGS.",
+    "order": 3,
+    "issue_label": "56",
+    "short_slug": "Железо_-_Про_неисчерпаемые_возможности_NeoGS"
+  },
+  {
+    "article_id": 14670,
+    "article_url": "https://zxpress.ru/article.php?id=14670",
+    "print_url": "https://zxpress.ru/print.php?id=14670",
+    "title_link": "Errata старых публикаций - Ошибки и опечатки.",
+    "order": 4,
+    "issue_label": "56",
+    "short_slug": "Errata_старых_публикации_-_Ошибки_и_опечатки"
+  }
+]

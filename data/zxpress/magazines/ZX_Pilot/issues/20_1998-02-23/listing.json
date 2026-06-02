@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7697,
+    "article_url": "https://zxpress.ru/article.php?id=7697",
+    "print_url": "https://zxpress.ru/print.php?id=7697",
+    "title_link": "Наши новости - Новая оболочка у газеты.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Наши_новости_-_Новая_оболочка_у_газеты"
+  },
+  {
+    "article_id": 7698,
+    "article_url": "https://zxpress.ru/article.php?id=7698",
+    "print_url": "https://zxpress.ru/print.php?id=7698",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7699,
+    "article_url": "https://zxpress.ru/article.php?id=7699",
+    "print_url": "https://zxpress.ru/print.php?id=7699",
+    "title_link": "HINTS - Пароли к игре HEXXAGON и суперудары в MORTAL KOMBAT.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "HINTS_-_Пароли_к_игре_HEXXAGON_и_суперудары_в_MORTAL_KOMBAT"
+  },
+  {
+    "article_id": 7700,
+    "article_url": "https://zxpress.ru/article.php?id=7700",
+    "print_url": "https://zxpress.ru/print.php?id=7700",
+    "title_link": "О разном - Немного об INTERNET-е.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "О_разном_-_Немного_об_INTERNET-е"
+  },
+  {
+    "article_id": 7701,
+    "article_url": "https://zxpress.ru/article.php?id=7701",
+    "print_url": "https://zxpress.ru/print.php?id=7701",
+    "title_link": "Анкета - Маленькая анкета для читателей.",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Анкета_-_Маленькая_анкета_для_читателеи"
+  },
+  {
+    "article_id": 7702,
+    "article_url": "https://zxpress.ru/article.php?id=7702",
+    "print_url": "https://zxpress.ru/print.php?id=7702",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

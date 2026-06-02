@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3034,
+    "article_url": "https://zxpress.ru/article.php?id=3034",
+    "print_url": "https://zxpress.ru/print.php?id=3034",
+    "title_link": "General Sound - Итоги опроса по GS.",
+    "order": 1,
+    "issue_label": "48",
+    "short_slug": "General_Sound_-_Итоги_опроса_по_GS"
+  },
+  {
+    "article_id": 3038,
+    "article_url": "https://zxpress.ru/article.php?id=3038",
+    "print_url": "https://zxpress.ru/print.php?id=3038",
+    "title_link": "Авторское описание - Описание MMD v2.21",
+    "order": 2,
+    "issue_label": "48",
+    "short_slug": "Авторское_описание_-_Описание_MMD_v221"
+  },
+  {
+    "article_id": 3033,
+    "article_url": "https://zxpress.ru/article.php?id=3033",
+    "print_url": "https://zxpress.ru/print.php?id=3033",
+    "title_link": "Горячая линия - Пишите нам на e-mail.",
+    "order": 3,
+    "issue_label": "48",
+    "short_slug": "Горячая_линия_-_Пишите_нам_на_e-mail"
+  },
+  {
+    "article_id": 3036,
+    "article_url": "https://zxpress.ru/article.php?id=3036",
+    "print_url": "https://zxpress.ru/print.php?id=3036",
+    "title_link": "Интервью - Зеркало - успешен ли проект?",
+    "order": 4,
+    "issue_label": "48",
+    "short_slug": "Интервью_-_Зеркало_-_успешен_ли_проект"
+  },
+  {
+    "article_id": 3031,
+    "article_url": "https://zxpress.ru/article.php?id=3031",
+    "print_url": "https://zxpress.ru/print.php?id=3031",
+    "title_link": "Новости - О новинках ПО: Gambit v2.2, Sherwood, C-Warp, Pkunzip v1.0,\r\n Voyager 3.",
+    "order": 5,
+    "issue_label": "48",
+    "short_slug": "Новости_-_О_новинках_ПО_Gambit_v22_Sherwood_C-Warp_Pkunzip_v"
+  },
+  {
+    "article_id": 3029,
+    "article_url": "https://zxpress.ru/article.php?id=3029",
+    "print_url": "https://zxpress.ru/print.php?id=3029",
+    "title_link": "От редакции - Вынужденный \"отпуск\" газеты.",
+    "order": 6,
+    "issue_label": "48",
+    "short_slug": "От_редакции_-_Вынужденныи_отпуск_газеты"
+  },
+  {
+    "article_id": 3035,
+    "article_url": "https://zxpress.ru/article.php?id=3035",
+    "print_url": "https://zxpress.ru/print.php?id=3035",
+    "title_link": "Письмо - О создании гейта Fido TashZxNet.",
+    "order": 7,
+    "issue_label": "48",
+    "short_slug": "Письмо_-_О_создании_геита_Fido_TashZxNet"
+  },
+  {
+    "article_id": 3032,
+    "article_url": "https://zxpress.ru/article.php?id=3032",
+    "print_url": "https://zxpress.ru/print.php?id=3032",
+    "title_link": "Презентация - Презентация игры Awaken.",
+    "order": 8,
+    "issue_label": "48",
+    "short_slug": "Презентация_-_Презентация_игры_Awaken"
+  },
+  {
+    "article_id": 3030,
+    "article_url": "https://zxpress.ru/article.php?id=3030",
+    "print_url": "https://zxpress.ru/print.php?id=3030",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 9,
+    "issue_label": "48",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  },
+  {
+    "article_id": 3037,
+    "article_url": "https://zxpress.ru/article.php?id=3037",
+    "print_url": "https://zxpress.ru/print.php?id=3037",
+    "title_link": "Хит-парад - 5 лучших игр.",
+    "order": 10,
+    "issue_label": "48",
+    "short_slug": "Хит-парад_-_5_лучших_игр"
+  }
+]

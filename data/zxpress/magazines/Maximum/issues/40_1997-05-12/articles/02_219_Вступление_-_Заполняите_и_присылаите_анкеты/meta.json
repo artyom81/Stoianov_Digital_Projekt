@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "40",
+  "issue_date_iso": "1997-05-12",
+  "order": 2,
+  "article_id": 219,
+  "title_link": "Вступление - Заполняйте и присылайте анкеты.",
+  "title_h1": "Maximum 40 - Вступление - Заполняйте и присылайте анкеты.",
+  "print_url": "https://zxpress.ru/print.php?id=219",
+  "article_url": "https://zxpress.ru/article.php?id=219",
+  "fetched_at": "2026-05-31T22:24:34Z"
+}

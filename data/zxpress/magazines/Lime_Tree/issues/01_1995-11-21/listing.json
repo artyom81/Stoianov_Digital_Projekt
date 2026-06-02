@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 96,
+    "article_url": "https://zxpress.ru/article.php?id=96",
+    "print_url": "https://zxpress.ru/print.php?id=96",
+    "title_link": "WANTED - реклама и поиск программ для спектрума.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "WANTED_-_реклама_и_поиск_программ_для_спектрума"
+  },
+  {
+    "article_id": 4747,
+    "article_url": "https://zxpress.ru/article.php?id=4747",
+    "print_url": "https://zxpress.ru/print.php?id=4747",
+    "title_link": "BBS-NEWS - новости московского ZXNet.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "BBS-NEWS_-_новости_московского_ZXNet"
+  },
+  {
+    "article_id": 4748,
+    "article_url": "https://zxpress.ru/article.php?id=4748",
+    "print_url": "https://zxpress.ru/print.php?id=4748",
+    "title_link": "Литературная страничка - И.БАРКОВ \"ЛУКА МУДИЩЕВ\", ПОЭМА.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Литературная_страничка_-_ИБАРКОВ_ЛУКА_МУДИЩЕВ_ПОЭМА"
+  },
+  {
+    "article_id": 8830,
+    "article_url": "https://zxpress.ru/article.php?id=8830",
+    "print_url": "https://zxpress.ru/print.php?id=8830",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 15452,
+    "article_url": "https://zxpress.ru/article.php?id=15452",
+    "print_url": "https://zxpress.ru/print.php?id=15452",
+    "title_link": "Новости - Новость дня.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Новость_дня"
+  },
+  {
+    "article_id": 12255,
+    "article_url": "https://zxpress.ru/article.php?id=12255",
+    "print_url": "https://zxpress.ru/print.php?id=12255",
+    "title_link": "Розыск - Разыскиваются: CYRUS-2 128 & FINAL FIGHT.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Розыск_-_Разыскиваются_CYRUS-2_128_FINAL_FIGHT"
+  },
+  {
+    "article_id": 16230,
+    "article_url": "https://zxpress.ru/article.php?id=16230",
+    "print_url": "https://zxpress.ru/print.php?id=16230",
+    "title_link": "Enlаit - нeсколько слов о 'NОnSense'.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Enlаit_-_нeсколько_слов_о_NОnSense"
+  },
+  {
+    "article_id": 7738,
+    "article_url": "https://zxpress.ru/article.php?id=7738",
+    "print_url": "https://zxpress.ru/print.php?id=7738",
+    "title_link": "FAQ ZX-TRADERS - Список действующих распространителей ПО в России и на Украине.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "FAQ_ZX-TRADERS_-_Список_деиствующих_распространителеи_ПО_в_Р"
+  }
+]

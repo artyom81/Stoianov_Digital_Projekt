@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1262,
+    "article_url": "https://zxpress.ru/article.php?id=1262",
+    "print_url": "https://zxpress.ru/print.php?id=1262",
+    "title_link": "ZX-Обоз - Итог всем предыдущим номерам газеты.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "ZX-Обоз_-_Итог_всем_предыдущим_номерам_газеты"
+  },
+  {
+    "article_id": 1266,
+    "article_url": "https://zxpress.ru/article.php?id=1266",
+    "print_url": "https://zxpress.ru/print.php?id=1266",
+    "title_link": "Железо - Рассказ \"Пофигисты\".",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Железо_-_Рассказ_Пофигисты"
+  },
+  {
+    "article_id": 1267,
+    "article_url": "https://zxpress.ru/article.php?id=1267",
+    "print_url": "https://zxpress.ru/print.php?id=1267",
+    "title_link": "Кодинг - Sultan Tale (юмор).",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Кодинг_-_Sultan_Tale_юмор"
+  },
+  {
+    "article_id": 1263,
+    "article_url": "https://zxpress.ru/article.php?id=1263",
+    "print_url": "https://zxpress.ru/print.php?id=1263",
+    "title_link": "Лит. страничка - Гриф \"Y\" (Дневник Лаборанта Ж. Скальпив - окончание).",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Лит_страничка_-_Гриф_Y_Дневник_Лаборанта_Ж_Скальпив_-_оконча"
+  },
+  {
+    "article_id": 1268,
+    "article_url": "https://zxpress.ru/article.php?id=1268",
+    "print_url": "https://zxpress.ru/print.php?id=1268",
+    "title_link": "Обратная связь - Отрицаловка...",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Обратная_связь_-_Отрицаловка"
+  },
+  {
+    "article_id": 1264,
+    "article_url": "https://zxpress.ru/article.php?id=1264",
+    "print_url": "https://zxpress.ru/print.php?id=1264",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1265,
+    "article_url": "https://zxpress.ru/article.php?id=1265",
+    "print_url": "https://zxpress.ru/print.php?id=1265",
+    "title_link": "Четыре килобайта - Коллекция оригинальных высказываний (ориджинов).",
+    "order": 7,
+    "issue_label": "22",
+    "short_slug": "Четыре_килобаита_-_Коллекция_оригинальных_высказывании_оридж"
+  }
+]

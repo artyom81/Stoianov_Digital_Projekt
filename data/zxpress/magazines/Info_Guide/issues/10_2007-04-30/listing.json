@@ -1,0 +1,299 @@
+[
+  {
+    "article_id": 8649,
+    "article_url": "https://zxpress.ru/article.php?id=8649",
+    "print_url": "https://zxpress.ru/print.php?id=8649",
+    "title_link": "Ликбез - Аккумуляторы. Практика использования.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Ликбез_-_Аккумуляторы_Практика_использования"
+  },
+  {
+    "article_id": 8650,
+    "article_url": "https://zxpress.ru/article.php?id=8650",
+    "print_url": "https://zxpress.ru/print.php?id=8650",
+    "title_link": "Ликбез - Аккумуляторы. Результаты опытов с различными аккумуляторами.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Ликбез_-_Аккумуляторы_Результаты_опытов_с_различными_аккумул"
+  },
+  {
+    "article_id": 8651,
+    "article_url": "https://zxpress.ru/article.php?id=8651",
+    "print_url": "https://zxpress.ru/print.php?id=8651",
+    "title_link": "Возможности Спектрума - Описание формата ani-файлов на ZX.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Возможности_Спектрума_-_Описание_формата_ani-фаилов_на_ZX"
+  },
+  {
+    "article_id": 8652,
+    "article_url": "https://zxpress.ru/article.php?id=8652",
+    "print_url": "https://zxpress.ru/print.php?id=8652",
+    "title_link": "Inferno - Авторы журнала.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Inferno_-_Авторы_журнала"
+  },
+  {
+    "article_id": 8653,
+    "article_url": "https://zxpress.ru/article.php?id=8653",
+    "print_url": "https://zxpress.ru/print.php?id=8653",
+    "title_link": "Возможности Спектрума - Способы воспроизведения многоканальной музыки на бипере.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Возможности_Спектрума_-_Способы_воспроизведения_многоканальн"
+  },
+  {
+    "article_id": 8654,
+    "article_url": "https://zxpress.ru/article.php?id=8654",
+    "print_url": "https://zxpress.ru/print.php?id=8654",
+    "title_link": "Возможности Спектрума - О поддержке формата DVD на ZX.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Возможности_Спектрума_-_О_поддержке_формата_DVD_на_ZX"
+  },
+  {
+    "article_id": 8655,
+    "article_url": "https://zxpress.ru/article.php?id=8655",
+    "print_url": "https://zxpress.ru/print.php?id=8655",
+    "title_link": "Gameland - О конкурсе нелепых (или корявых) игр для ZX Spectrum - Crap Games Competition.",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Gameland_-_О_конкурсе_нелепых_или_корявых_игр_для_ZX_Spectru"
+  },
+  {
+    "article_id": 8657,
+    "article_url": "https://zxpress.ru/article.php?id=8657",
+    "print_url": "https://zxpress.ru/print.php?id=8657",
+    "title_link": "Inferno - Вступление от редактора.",
+    "order": 8,
+    "issue_label": "10",
+    "short_slug": "Inferno_-_Вступление_от_редактора"
+  },
+  {
+    "article_id": 8658,
+    "article_url": "https://zxpress.ru/article.php?id=8658",
+    "print_url": "https://zxpress.ru/print.php?id=8658",
+    "title_link": "Inferno - Ошибки в предыдущих номерах.",
+    "order": 9,
+    "issue_label": "10",
+    "short_slug": "Inferno_-_Ошибки_в_предыдущих_номерах"
+  },
+  {
+    "article_id": 8659,
+    "article_url": "https://zxpress.ru/article.php?id=8659",
+    "print_url": "https://zxpress.ru/print.php?id=8659",
+    "title_link": "For Coderz - Код Грея и оптимизация программ.",
+    "order": 10,
+    "issue_label": "10",
+    "short_slug": "For_Coderz_-_Код_Грея_и_оптимизация_программ"
+  },
+  {
+    "article_id": 8660,
+    "article_url": "https://zxpress.ru/article.php?id=8660",
+    "print_url": "https://zxpress.ru/print.php?id=8660",
+    "title_link": "For Coderz - Построение графического пользовательского интерфейса.",
+    "order": 11,
+    "issue_label": "10",
+    "short_slug": "For_Coderz_-_Построение_графического_пользовательского_интер"
+  },
+  {
+    "article_id": 8661,
+    "article_url": "https://zxpress.ru/article.php?id=8661",
+    "print_url": "https://zxpress.ru/print.php?id=8661",
+    "title_link": "Форматы - Подробно о декодере jpeg.",
+    "order": 12,
+    "issue_label": "10",
+    "short_slug": "Форматы_-_Подробно_о_декодере_jpeg"
+  },
+  {
+    "article_id": 8662,
+    "article_url": "https://zxpress.ru/article.php?id=8662",
+    "print_url": "https://zxpress.ru/print.php?id=8662",
+    "title_link": "Железо - Описание микросхемы К561ПУ4.",
+    "order": 13,
+    "issue_label": "10",
+    "short_slug": "Железо_-_Описание_микросхемы_К561ПУ4"
+  },
+  {
+    "article_id": 8663,
+    "article_url": "https://zxpress.ru/article.php?id=8663",
+    "print_url": "https://zxpress.ru/print.php?id=8663",
+    "title_link": "Inferno - Письма в редакцию.",
+    "order": 14,
+    "issue_label": "10",
+    "short_slug": "Inferno_-_Письма_в_редакцию"
+  },
+  {
+    "article_id": 8664,
+    "article_url": "https://zxpress.ru/article.php?id=8664",
+    "print_url": "https://zxpress.ru/print.php?id=8664",
+    "title_link": "Форматы - Формат пакованного файла MegaLZ.",
+    "order": 15,
+    "issue_label": "10",
+    "short_slug": "Форматы_-_Формат_пакованного_фаила_MegaLZ"
+  },
+  {
+    "article_id": 8665,
+    "article_url": "https://zxpress.ru/article.php?id=8665",
+    "print_url": "https://zxpress.ru/print.php?id=8665",
+    "title_link": "Scorpion ZS - Структура разметки винчестера на компьютере Scorpion.",
+    "order": 16,
+    "issue_label": "10",
+    "short_slug": "Scorpion_ZS_-_Структура_разметки_винчестера_на_компьютере_Sc"
+  },
+  {
+    "article_id": 8666,
+    "article_url": "https://zxpress.ru/article.php?id=8666",
+    "print_url": "https://zxpress.ru/print.php?id=8666",
+    "title_link": "ZX Клоны - Мультиплатформенность на ZX Spectrum. Компьютеры SAM Coupe и MSX.",
+    "order": 17,
+    "issue_label": "10",
+    "short_slug": "ZX_Клоны_-_Мультиплатформенность_на_ZX_Spectrum_Компьютеры_S"
+  },
+  {
+    "article_id": 8667,
+    "article_url": "https://zxpress.ru/article.php?id=8667",
+    "print_url": "https://zxpress.ru/print.php?id=8667",
+    "title_link": "Реклама - Реклама NedoPC.",
+    "order": 18,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_NedoPC"
+  },
+  {
+    "article_id": 8668,
+    "article_url": "https://zxpress.ru/article.php?id=8668",
+    "print_url": "https://zxpress.ru/print.php?id=8668",
+    "title_link": "Inferno - Об оболочке.",
+    "order": 19,
+    "issue_label": "10",
+    "short_slug": "Inferno_-_Об_оболочке"
+  },
+  {
+    "article_id": 8669,
+    "article_url": "https://zxpress.ru/article.php?id=8669",
+    "print_url": "https://zxpress.ru/print.php?id=8669",
+    "title_link": "Активный отдых - Команда \"Спектрум\" на соревновании по ночному ориентированию Окинчица 2004.",
+    "order": 20,
+    "issue_label": "10",
+    "short_slug": "Активныи_отдых_-_Команда_Спектрум_на_соревновании_по_ночному"
+  },
+  {
+    "article_id": 8670,
+    "article_url": "https://zxpress.ru/article.php?id=8670",
+    "print_url": "https://zxpress.ru/print.php?id=8670",
+    "title_link": "Sofтинка - Сравнительная таблица результатов упаковки кодовых файлов различными упаковщиками.",
+    "order": 21,
+    "issue_label": "10",
+    "short_slug": "Sofтинка_-_Сравнительная_таблица_результатов_упаковки_кодовы"
+  },
+  {
+    "article_id": 8671,
+    "article_url": "https://zxpress.ru/article.php?id=8671",
+    "print_url": "https://zxpress.ru/print.php?id=8671",
+    "title_link": "Реклама - Реклама King of Evil.",
+    "order": 22,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_King_of_Evil"
+  },
+  {
+    "article_id": 8672,
+    "article_url": "https://zxpress.ru/article.php?id=8672",
+    "print_url": "https://zxpress.ru/print.php?id=8672",
+    "title_link": "Sofтинка - Программы для печати в приложении к журналу.",
+    "order": 23,
+    "issue_label": "10",
+    "short_slug": "Sofтинка_-_Программы_для_печати_в_приложении_к_журналу"
+  },
+  {
+    "article_id": 8673,
+    "article_url": "https://zxpress.ru/article.php?id=8673",
+    "print_url": "https://zxpress.ru/print.php?id=8673",
+    "title_link": "Sofтинка - Музыкальный редактор Pro Tracker v3.71. История изменений.",
+    "order": 24,
+    "issue_label": "10",
+    "short_slug": "Sofтинка_-_Музыкальныи_редактор_Pro_Tracker_v371_История_изм"
+  },
+  {
+    "article_id": 8674,
+    "article_url": "https://zxpress.ru/article.php?id=8674",
+    "print_url": "https://zxpress.ru/print.php?id=8674",
+    "title_link": "Реклама - Реклама от В. Богдановича.",
+    "order": 25,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_от_В_Богдановича"
+  },
+  {
+    "article_id": 8675,
+    "article_url": "https://zxpress.ru/article.php?id=8675",
+    "print_url": "https://zxpress.ru/print.php?id=8675",
+    "title_link": "Железо - О некоторых RND-генераторах.",
+    "order": 26,
+    "issue_label": "10",
+    "short_slug": "Железо_-_О_некоторых_RND-генераторах"
+  },
+  {
+    "article_id": 8676,
+    "article_url": "https://zxpress.ru/article.php?id=8676",
+    "print_url": "https://zxpress.ru/print.php?id=8676",
+    "title_link": "Возможности Спектрума - Аппаратный скроллинг на ZX Spectrum.",
+    "order": 27,
+    "issue_label": "10",
+    "short_slug": "Возможности_Спектрума_-_Аппаратныи_скроллинг_на_ZX_Spectrum"
+  },
+  {
+    "article_id": 8677,
+    "article_url": "https://zxpress.ru/article.php?id=8677",
+    "print_url": "https://zxpress.ru/print.php?id=8677",
+    "title_link": "Pentagon - Синхроселектор видеосигнала на Pentagon. Проблемы и схема.",
+    "order": 28,
+    "issue_label": "10",
+    "short_slug": "Pentagon_-_Синхроселектор_видеосигнала_на_Pentagon_Проблемы"
+  },
+  {
+    "article_id": 8678,
+    "article_url": "https://zxpress.ru/article.php?id=8678",
+    "print_url": "https://zxpress.ru/print.php?id=8678",
+    "title_link": "DIY - Универсальный TAPE интерфейс. Схема загрузки и записи с ленты.",
+    "order": 29,
+    "issue_label": "10",
+    "short_slug": "DIY_-_Универсальныи_TAPE_интерфеис_Схема_загрузки_и_записи_с"
+  },
+  {
+    "article_id": 8679,
+    "article_url": "https://zxpress.ru/article.php?id=8679",
+    "print_url": "https://zxpress.ru/print.php?id=8679",
+    "title_link": "Звук - Особенности звукового устройства TurboSound FM.",
+    "order": 30,
+    "issue_label": "10",
+    "short_slug": "Звук_-_Особенности_звукового_устроиства_TurboSound_FM"
+  },
+  {
+    "article_id": 8680,
+    "article_url": "https://zxpress.ru/article.php?id=8680",
+    "print_url": "https://zxpress.ru/print.php?id=8680",
+    "title_link": "DIY - Схема анализатора состояния TTL вывода.",
+    "order": 31,
+    "issue_label": "10",
+    "short_slug": "DIY_-_Схема_анализатора_состояния_TTL_вывода"
+  },
+  {
+    "article_id": 8681,
+    "article_url": "https://zxpress.ru/article.php?id=8681",
+    "print_url": "https://zxpress.ru/print.php?id=8681",
+    "title_link": "Будущее Спектрума - Видеоконтроллеры V9990. Расширение графических возможностей ZX Spectrum.",
+    "order": 32,
+    "issue_label": "10",
+    "short_slug": "Будущее_Спектрума_-_Видеоконтроллеры_V9990_Расширение_графич"
+  },
+  {
+    "article_id": 8682,
+    "article_url": "https://zxpress.ru/article.php?id=8682",
+    "print_url": "https://zxpress.ru/print.php?id=8682",
+    "title_link": "Sofтинка - Обновления в просмотрщиках картинок: ANSI viewer, MCX viewer.",
+    "order": 33,
+    "issue_label": "10",
+    "short_slug": "Sofтинка_-_Обновления_в_просмотрщиках_картинок_ANSI_viewer_M"
+  }
+]

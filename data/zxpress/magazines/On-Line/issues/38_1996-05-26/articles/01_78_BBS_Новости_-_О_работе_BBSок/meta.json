@@ -1,0 +1,15 @@
+{
+  "magazine_id": 147,
+  "magazine_name": "On-Line",
+  "city": null,
+  "country": null,
+  "issue_label": "38",
+  "issue_date_iso": "1996-05-26",
+  "order": 1,
+  "article_id": 78,
+  "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+  "title_h1": "On-Line 38 - B.B.S. Новости - О работе B.B.S.'ок.",
+  "print_url": "https://zxpress.ru/print.php?id=78",
+  "article_url": "https://zxpress.ru/article.php?id=78",
+  "fetched_at": "2026-05-31T22:43:08Z"
+}

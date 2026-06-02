@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2000-12-31",
+  "order": 7,
+  "article_id": 4479,
+  "title_link": "For Coderz - Про ПЗУ 48k Спектрума (#0000-#1FFF).",
+  "title_h1": "Inferno 01 - For Coderz - Про ПЗУ 48k Спектрума (#0000-#1FFF).",
+  "print_url": "https://zxpress.ru/print.php?id=4479",
+  "article_url": "https://zxpress.ru/article.php?id=4479",
+  "fetched_at": "2026-05-31T22:13:10Z"
+}

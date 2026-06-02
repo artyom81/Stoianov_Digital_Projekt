@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "52",
+  "issue_date_iso": "2001-02-24",
+  "order": 4,
+  "article_id": 13589,
+  "title_link": "Смайлик - Сумерки.",
+  "title_h1": "City 52 - Смайлик - Сумерки.",
+  "print_url": "https://zxpress.ru/print.php?id=13589",
+  "article_url": "https://zxpress.ru/article.php?id=13589",
+  "fetched_at": "2026-05-31T21:52:27Z"
+}

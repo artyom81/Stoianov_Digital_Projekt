@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 13350,
+    "article_url": "https://zxpress.ru/article.php?id=13350",
+    "print_url": "https://zxpress.ru/print.php?id=13350",
+    "title_link": "Введение - \" ZX - PARK \" появилась в соседнем\r\n Ижевске.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Введение_-_ZX_-_PARK_появилась_в_соседнем_Ижевске"
+  },
+  {
+    "article_id": 13351,
+    "article_url": "https://zxpress.ru/article.php?id=13351",
+    "print_url": "https://zxpress.ru/print.php?id=13351",
+    "title_link": "Новости - Сегодня я расскажу о том, что ждет из\r\n программ, а вернее игр. Эти игрушки на\r\n днях появятся в Чайковском.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Новости_-_Сегодня_я_расскажу_о_том_что_ждет_из_программ_а_ве"
+  },
+  {
+    "article_id": 13352,
+    "article_url": "https://zxpress.ru/article.php?id=13352",
+    "print_url": "https://zxpress.ru/print.php?id=13352",
+    "title_link": "Обзор - В разделе \" Обзор \" как обычно я раскажу о новых программах, поступившим в\r\nЧайковский в последние дни.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Обзор_-_В_разделе_Обзор_как_обычно_я_раскажу_о_новых_програм"
+  },
+  {
+    "article_id": 13353,
+    "article_url": "https://zxpress.ru/article.php?id=13353",
+    "print_url": "https://zxpress.ru/print.php?id=13353",
+    "title_link": "Хит-Парад - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Хит-Парад_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13354,
+    "article_url": "https://zxpress.ru/article.php?id=13354",
+    "print_url": "https://zxpress.ru/print.php?id=13354",
+    "title_link": "Проходилка - продолжение описания\r\nигры \" 48 УТЮГОВ \".",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Проходилка_-_продолжение_описанияигры_48_УТЮГОВ"
+  },
+  {
+    "article_id": 13355,
+    "article_url": "https://zxpress.ru/article.php?id=13355",
+    "print_url": "https://zxpress.ru/print.php?id=13355",
+    "title_link": "Советы - Сегодня в номере совет по игре \"THE\r\n HUNDRED\".",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Советы_-_Сегодня_в_номере_совет_по_игре_THE_HUNDRED"
+  },
+  {
+    "article_id": 13356,
+    "article_url": "https://zxpress.ru/article.php?id=13356",
+    "print_url": "https://zxpress.ru/print.php?id=13356",
+    "title_link": "Юмор - Жизнь после DELETE.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Юмор_-_Жизнь_после_DELETE"
+  },
+  {
+    "article_id": 13357,
+    "article_url": "https://zxpress.ru/article.php?id=13357",
+    "print_url": "https://zxpress.ru/print.php?id=13357",
+    "title_link": "Реклама - Игровые,системные, прикладные, обучающие, музыкальные программы, а так же,журналы и газеты на дискетах.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Игровыесистемные_прикладные_обучающие_музыкальные"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6792,
+    "article_url": "https://zxpress.ru/article.php?id=6792",
+    "print_url": "https://zxpress.ru/print.php?id=6792",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "50",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6793,
+    "article_url": "https://zxpress.ru/article.php?id=6793",
+    "print_url": "https://zxpress.ru/print.php?id=6793",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "50",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6794,
+    "article_url": "https://zxpress.ru/article.php?id=6794",
+    "print_url": "https://zxpress.ru/print.php?id=6794",
+    "title_link": "Юмор - Джинсы Джордаш.",
+    "order": 3,
+    "issue_label": "50",
+    "short_slug": "Юмор_-_Джинсы_Джордаш"
+  },
+  {
+    "article_id": 6795,
+    "article_url": "https://zxpress.ru/article.php?id=6795",
+    "print_url": "https://zxpress.ru/print.php?id=6795",
+    "title_link": "Графика - картинка в ANSI графике.",
+    "order": 4,
+    "issue_label": "50",
+    "short_slug": "Графика_-_картинка_в_ANSI_графике"
+  },
+  {
+    "article_id": 6796,
+    "article_url": "https://zxpress.ru/article.php?id=6796",
+    "print_url": "https://zxpress.ru/print.php?id=6796",
+    "title_link": "Юмор - Ночное FIDO. Сценарий.",
+    "order": 5,
+    "issue_label": "50",
+    "short_slug": "Юмор_-_Ночное_FIDO_Сценарии"
+  },
+  {
+    "article_id": 6797,
+    "article_url": "https://zxpress.ru/article.php?id=6797",
+    "print_url": "https://zxpress.ru/print.php?id=6797",
+    "title_link": "Рассказ - Д00МЕР.",
+    "order": 6,
+    "issue_label": "50",
+    "short_slug": "Рассказ_-_Д00МЕР"
+  },
+  {
+    "article_id": 6798,
+    "article_url": "https://zxpress.ru/article.php?id=6798",
+    "print_url": "https://zxpress.ru/print.php?id=6798",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "50",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6799,
+    "article_url": "https://zxpress.ru/article.php?id=6799",
+    "print_url": "https://zxpress.ru/print.php?id=6799",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "50",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

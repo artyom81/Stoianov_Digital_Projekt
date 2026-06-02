@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 1481,
+    "article_url": "https://zxpress.ru/article.php?id=1481",
+    "print_url": "https://zxpress.ru/print.php?id=1481",
+    "title_link": "Открытые письма Nemo №8.1",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Открытые_письма_Nemo_No81"
+  },
+  {
+    "article_id": 1482,
+    "article_url": "https://zxpress.ru/article.php?id=1482",
+    "print_url": "https://zxpress.ru/print.php?id=1482",
+    "title_link": "Открытые письма Nemo №8.2",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Открытые_письма_Nemo_No82"
+  },
+  {
+    "article_id": 1483,
+    "article_url": "https://zxpress.ru/article.php?id=1483",
+    "print_url": "https://zxpress.ru/print.php?id=1483",
+    "title_link": "Открытые письма Nemo №8.3",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Открытые_письма_Nemo_No83"
+  },
+  {
+    "article_id": 1484,
+    "article_url": "https://zxpress.ru/article.php?id=1484",
+    "print_url": "https://zxpress.ru/print.php?id=1484",
+    "title_link": "Открытые письма Nemo №8.4",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Открытые_письма_Nemo_No84"
+  }
+]

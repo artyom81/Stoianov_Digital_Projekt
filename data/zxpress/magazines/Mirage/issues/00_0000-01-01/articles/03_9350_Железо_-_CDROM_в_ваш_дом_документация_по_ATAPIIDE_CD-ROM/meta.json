@@ -1,0 +1,15 @@
+{
+  "magazine_id": 123,
+  "magazine_name": "Mirage",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "0000-01-01",
+  "order": 3,
+  "article_id": 9350,
+  "title_link": "Железо - CDROM в ваш дом: документация по ATAPI(IDE) CD-ROM",
+  "title_h1": "C-Net Week 23 - Железо - CDROM в ваш дом: документация по ATAPI(IDE) CD-ROM",
+  "print_url": "https://zxpress.ru/print.php?id=9350",
+  "article_url": "https://zxpress.ru/article.php?id=9350",
+  "fetched_at": "2026-05-31T22:26:56Z"
+}

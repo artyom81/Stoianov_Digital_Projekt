@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "37",
+  "issue_date_iso": "1999-12-17",
+  "order": 9,
+  "article_id": 10545,
+  "title_link": "Реклама - Пpиобpету пеpвый диск музыкального pедактоpа SAMPLER, муз. pедактоp INSTRUMENT.",
+  "title_h1": "City 37 - Реклама - Пpиобpету пеpвый диск музыкального pедактоpа SAMPLER, муз. pедактоp INSTRUMENT.",
+  "print_url": "https://zxpress.ru/print.php?id=10545",
+  "article_url": "https://zxpress.ru/article.php?id=10545",
+  "fetched_at": "2026-05-31T21:51:38Z"
+}

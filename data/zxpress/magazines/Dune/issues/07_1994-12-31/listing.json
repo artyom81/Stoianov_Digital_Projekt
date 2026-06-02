@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16260,
+    "article_url": "https://zxpress.ru/article.php?id=16260",
+    "print_url": "https://zxpress.ru/print.php?id=16260",
+    "title_link": "О журнале - New magazine by Surdakar group.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "О_журнале_-_New_magazine_by_Surdakar_group"
+  },
+  {
+    "article_id": 16261,
+    "article_url": "https://zxpress.ru/article.php?id=16261",
+    "print_url": "https://zxpress.ru/print.php?id=16261",
+    "title_link": "Poke`s - Klax, Rebel star 2/2, Iron man, Live and let die, F1 tornado.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Pokes_-_Klax_Rebel_star_22_Iron_man_Live_and_let_die_F1_torn"
+  },
+  {
+    "article_id": 16262,
+    "article_url": "https://zxpress.ru/article.php?id=16262",
+    "print_url": "https://zxpress.ru/print.php?id=16262",
+    "title_link": "Юмор - Анекдот.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Юмор_-_Анекдот"
+  },
+  {
+    "article_id": 16263,
+    "article_url": "https://zxpress.ru/article.php?id=16263",
+    "print_url": "https://zxpress.ru/print.php?id=16263",
+    "title_link": "Игры - TopTen. Описание Slayne king.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Игры_-_TopTen_Описание_Slayne_king"
+  }
+]

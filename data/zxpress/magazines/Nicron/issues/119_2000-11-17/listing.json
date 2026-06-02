@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 6127,
+    "article_url": "https://zxpress.ru/article.php?id=6127",
+    "print_url": "https://zxpress.ru/print.php?id=6127",
+    "title_link": "Вступление - вступительное слово.",
+    "order": 1,
+    "issue_label": "119",
+    "short_slug": "Вступление_-_вступительное_слово"
+  },
+  {
+    "article_id": 6128,
+    "article_url": "https://zxpress.ru/article.php?id=6128",
+    "print_url": "https://zxpress.ru/print.php?id=6128",
+    "title_link": "Люди - Ушел спектрумист - Андрей Cмирнов(Ded Smirnoff) из \"Power Of Sound\" Group.",
+    "order": 2,
+    "issue_label": "119",
+    "short_slug": "Люди_-_Ушел_спектрумист_-_Андреи_CмирновDed_Smirnoff_из_Powe"
+  },
+  {
+    "article_id": 6129,
+    "article_url": "https://zxpress.ru/article.php?id=6129",
+    "print_url": "https://zxpress.ru/print.php?id=6129",
+    "title_link": "Железо - Automat, система внешнего управления и контроля на основе Спектрум-\r\nсовместимых компьютеров, BAT FILE PROCESSOR v1.00, Robot v5.50 for Batproc v1.00.",
+    "order": 3,
+    "issue_label": "119",
+    "short_slug": "Железо_-_Automat_система_внешнего_управления_и_контроля_на_о"
+  },
+  {
+    "article_id": 6130,
+    "article_url": "https://zxpress.ru/article.php?id=6130",
+    "print_url": "https://zxpress.ru/print.php?id=6130",
+    "title_link": "Пресса - обзор газеты \"Абзац №1\" - Wlodek Black.",
+    "order": 4,
+    "issue_label": "119",
+    "short_slug": "Пресса_-_обзор_газеты_Абзац_No1_-_Wlodek_Black"
+  },
+  {
+    "article_id": 6131,
+    "article_url": "https://zxpress.ru/article.php?id=6131",
+    "print_url": "https://zxpress.ru/print.php?id=6131",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "119",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6132,
+    "article_url": "https://zxpress.ru/article.php?id=6132",
+    "print_url": "https://zxpress.ru/print.php?id=6132",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 6,
+    "issue_label": "119",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

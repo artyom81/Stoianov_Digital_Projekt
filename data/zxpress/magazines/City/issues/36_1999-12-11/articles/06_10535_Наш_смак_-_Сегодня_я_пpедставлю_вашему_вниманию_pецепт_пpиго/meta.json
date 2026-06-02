@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "36",
+  "issue_date_iso": "1999-12-11",
+  "order": 6,
+  "article_id": 10535,
+  "title_link": "Наш смак - Сегодня я пpедставлю вашему вниманию pецепт пpиготовления бутеpбpодов.",
+  "title_h1": "City 36 - Наш смак - Сегодня я пpедставлю вашему вниманию pецепт пpиготовления бутеpбpодов.",
+  "print_url": "https://zxpress.ru/print.php?id=10535",
+  "article_url": "https://zxpress.ru/article.php?id=10535",
+  "fetched_at": "2026-05-31T21:51:34Z"
+}

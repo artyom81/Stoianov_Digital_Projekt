@@ -1,0 +1,52 @@
+# ZXPress FCS Endpoint – zentrale Konfiguration (ersetzt alte zxpress.yaml komplett)
+
+endpoint:
+  sru_version: "2.0"
+  base_url: "http://127.0.0.1:8088/sru"
+  max_page_size: 50
+  supported_operations: ["searchRetrieve", "explain"]
+  supported_dataviews: ["hits:kwic-1.0"]
+
+fcs:
+  languages: ["ru", "en", "de"]
+  default_language: "ru"
+
+  contact:
+    name: "ZXPress Team"
+    email: "contact@zxpress.ru"
+    url: "https://zxpress.ru"
+
+  description: "Digitalisierte Zeitschriftenartikel der ZX-Spektrum-Community (1990er)."
+  attribution: "Datenquelle: ZXPress.ru – Nutzung nur mit Quellenangabe."
+
+collections:
+  - id: "ZX-Magazine"
+    label: "ZX Magazine"
+  - id: "On-Line"
+    label: "On-Line"
+
+# Mapping der Filter-Query-Parameter auf Indexfelder
+filters:
+  magazine: "magazine"
+  form: "form"
+  language: ["language", "lang"]         # beide akzeptieren
+  yearFrom: "issue_date_epoch_ms"        # Range-Start (per Code umgesetzt)
+  yearTo:   "issue_date_epoch_ms"        # Range-Ende  (per Code umgesetzt)
+
+# Felder, die im Explain gezeigt werden (und zur Orientierung im Index)
+fields:
+  - { name: "title",                type: "text",    stored: true,  indexed: true  }
+  - { name: "content",              type: "text",    stored: true,  indexed: true  }
+  - { name: "issue_date_iso",       type: "keyword", stored: true,  indexed: true  }
+  - { name: "issue_date_epoch_ms",  type: "long",    stored: false, indexed: true  }
+  - { name: "language",             type: "keyword", stored: true,  indexed: true  }
+  - { name: "magazine",             type: "keyword", stored: true,  indexed: true  }
+  - { name: "form",                 type: "keyword", stored: true,  indexed: true  }
+  - { name: "article_url",          type: "keyword", stored: true,  indexed: false }
+
+kwic:
+  window: 5
+  max_snips: 3
+
+echo:
+  include_extra_request_data: true

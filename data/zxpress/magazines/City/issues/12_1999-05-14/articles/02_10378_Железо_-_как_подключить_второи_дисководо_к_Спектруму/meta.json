@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1999-05-14",
+  "order": 2,
+  "article_id": 10378,
+  "title_link": "Железо - как подключить второй дисководо к Спектруму.",
+  "title_h1": "City 12 - Железо - как подключить второй дисководо к Спектруму.",
+  "print_url": "https://zxpress.ru/print.php?id=10378",
+  "article_url": "https://zxpress.ru/article.php?id=10378",
+  "fetched_at": "2026-05-31T21:50:23Z"
+}

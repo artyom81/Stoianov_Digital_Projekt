@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1998-05-31",
+  "order": 15,
+  "article_id": 7903,
+  "title_link": "CODING - Кодить хочу - процедуры вывода спрайтов без атрибутов, быстрая и универсальная процедура вывода спрайтов, процедура умножения и вычисления квадратного корня.",
+  "title_h1": "Deja Vu 05 - CODING - Кодить хочу - процедуры вывода спрайтов без атрибутов, быстрая и универсальная процедура вывода спрайтов, процедура умножения и вычисления квадратного корня.",
+  "print_url": "https://zxpress.ru/print.php?id=7903",
+  "article_url": "https://zxpress.ru/article.php?id=7903",
+  "fetched_at": "2026-05-31T21:54:47Z"
+}

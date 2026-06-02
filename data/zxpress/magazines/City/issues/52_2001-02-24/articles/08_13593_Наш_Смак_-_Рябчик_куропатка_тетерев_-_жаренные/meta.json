@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "52",
+  "issue_date_iso": "2001-02-24",
+  "order": 8,
+  "article_id": 13593,
+  "title_link": "Наш Смак - Рябчик, куропатка, тетерев - жаренные.",
+  "title_h1": "City 52 - Наш Смак - Рябчик, куропатка, тетерев - жаренные.",
+  "print_url": "https://zxpress.ru/print.php?id=13593",
+  "article_url": "https://zxpress.ru/article.php?id=13593",
+  "fetched_at": "2026-05-31T21:52:29Z"
+}

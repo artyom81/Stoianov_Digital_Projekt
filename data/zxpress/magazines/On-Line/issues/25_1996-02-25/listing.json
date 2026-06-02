@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 67,
+    "article_url": "https://zxpress.ru/article.php?id=67",
+    "print_url": "https://zxpress.ru/print.php?id=67",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2036,
+    "article_url": "https://zxpress.ru/article.php?id=2036",
+    "print_url": "https://zxpress.ru/print.php?id=2036",
+    "title_link": "ONlopros - Результаты подсчета ответов на некоторые вопросы,связанные с ZXNet.",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "ONlopros_-_Результаты_подсчета_ответов_на_некоторые_вопросыс"
+  },
+  {
+    "article_id": 2035,
+    "article_url": "https://zxpress.ru/article.php?id=2035",
+    "print_url": "https://zxpress.ru/print.php?id=2035",
+    "title_link": "Застрял ? - Новелла-проходилка по игре \"48 Утюгов\" часть 1.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Застрял_-_Новелла-проходилка_по_игре_48_Утюгов_часть_1"
+  },
+  {
+    "article_id": 2037,
+    "article_url": "https://zxpress.ru/article.php?id=2037",
+    "print_url": "https://zxpress.ru/print.php?id=2037",
+    "title_link": "Мозаика - Cheat'ы к программам: Rise Out, The Turn or XOR'EM.",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "Мозаика_-_Cheatы_к_программам_Rise_Out_The_Turn_or_XOREM"
+  },
+  {
+    "article_id": 2034,
+    "article_url": "https://zxpress.ru/article.php?id=2034",
+    "print_url": "https://zxpress.ru/print.php?id=2034",
+    "title_link": "Новье !? - О программах : The Turn or XOR'EM All, Scorpions Die\r\n Machine, Amaurote, Смфгли 1, Block Dizzy,\r\n Rise Out from Dungeons, Tank War, Hexxagon.",
+    "order": 5,
+    "issue_label": "25",
+    "short_slug": "Новье_-_О_программах_The_Turn_or_XOREM_All_Scorpions_Die_Mac"
+  },
+  {
+    "article_id": 2038,
+    "article_url": "https://zxpress.ru/article.php?id=2038",
+    "print_url": "https://zxpress.ru/print.php?id=2038",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "25",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 5195,
+    "article_url": "https://zxpress.ru/article.php?id=5195",
+    "print_url": "https://zxpress.ru/print.php?id=5195",
+    "title_link": "AD&D - Основные понятия AD&D.База для дальнейших (и даже предыдущих) текстов.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "ADD_-_Основные_понятия_ADDБаза_для_дальнеиших_и_даже_предыду"
+  },
+  {
+    "article_id": 5196,
+    "article_url": "https://zxpress.ru/article.php?id=5196",
+    "print_url": "https://zxpress.ru/print.php?id=5196",
+    "title_link": "Описание - описание программы 'CONVER-Commander V 4.23 pro' (часть первая).",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Описание_-_описание_программы_CONVER-Commander_V_423_pro_час"
+  },
+  {
+    "article_id": 5197,
+    "article_url": "https://zxpress.ru/article.php?id=5197",
+    "print_url": "https://zxpress.ru/print.php?id=5197",
+    "title_link": "Юмор - юмор из Фидо.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Юмор_-_юмор_из_Фидо"
+  }
+]

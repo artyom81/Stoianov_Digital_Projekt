@@ -1,0 +1,15 @@
+{
+  "magazine_id": 102,
+  "magazine_name": "Insanity",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "2001-11-30",
+  "order": 7,
+  "article_id": 5030,
+  "title_link": "Sprinter - Материал от разработчиков о новой версии компьютера Sprinter 2000.",
+  "title_h1": "Insanity 10 - Sprinter - Материал от разработчиков о новой версии компьютера Sprinter 2000.",
+  "print_url": "https://zxpress.ru/print.php?id=5030",
+  "article_url": "https://zxpress.ru/article.php?id=5030",
+  "fetched_at": "2026-05-31T22:15:00Z"
+}

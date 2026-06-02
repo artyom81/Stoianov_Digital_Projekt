@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 6857,
+    "article_url": "https://zxpress.ru/article.php?id=6857",
+    "print_url": "https://zxpress.ru/print.php?id=6857",
+    "title_link": "Вступление - стихи и содержание номера.",
+    "order": 1,
+    "issue_label": "60",
+    "short_slug": "Вступление_-_стихи_и_содержание_номера"
+  },
+  {
+    "article_id": 6858,
+    "article_url": "https://zxpress.ru/article.php?id=6858",
+    "print_url": "https://zxpress.ru/print.php?id=6858",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "60",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6859,
+    "article_url": "https://zxpress.ru/article.php?id=6859",
+    "print_url": "https://zxpress.ru/print.php?id=6859",
+    "title_link": "Интервью - интервью с Алексеем Ивановым (координатор ZXNet) об уходе из ZXNet.",
+    "order": 3,
+    "issue_label": "60",
+    "short_slug": "Интервью_-_интервью_с_Алексеем_Ивановым_координатор_ZXNet_об"
+  },
+  {
+    "article_id": 6860,
+    "article_url": "https://zxpress.ru/article.php?id=6860",
+    "print_url": "https://zxpress.ru/print.php?id=6860",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 4,
+    "issue_label": "60",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6861,
+    "article_url": "https://zxpress.ru/article.php?id=6861",
+    "print_url": "https://zxpress.ru/print.php?id=6861",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "60",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6862,
+    "article_url": "https://zxpress.ru/article.php?id=6862",
+    "print_url": "https://zxpress.ru/print.php?id=6862",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 6,
+    "issue_label": "60",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

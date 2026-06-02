@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "0000-01-01",
+  "order": 22,
+  "article_id": 15804,
+  "title_link": "Байки - Сидят как-то Котсофт, Макрос и Джокер...",
+  "title_h1": "MSF 25 - Байки - Сидят как-то Котсофт, Макрос и Джокер...",
+  "print_url": "https://zxpress.ru/print.php?id=15804",
+  "article_url": "https://zxpress.ru/article.php?id=15804",
+  "fetched_at": "2026-05-31T22:30:13Z"
+}

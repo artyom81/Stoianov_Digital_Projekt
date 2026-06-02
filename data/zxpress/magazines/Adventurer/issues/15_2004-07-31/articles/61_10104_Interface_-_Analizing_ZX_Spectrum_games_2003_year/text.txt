@@ -1,0 +1,166 @@
+Adventurer 15 - Interface - Analizing ZX Spectrum games 2003 year.
+Analizing  this  year,  and  the rest of last one, I think, the
+logical conclusion could be made, that we have the raising game
+makers' activity. Though, there are not so many games, that are
+worth  of long time playing, anyway, most of it can leave the
+ordinary  crap  game  competitions  entries far behind in it's
+quality.  One  of  the reasons, as I reckon, is the activity of
+Perspective  Group  - the 'Your Game' contest, the beginning of
+game projects distribution, that, I hope, will continue, and of
+course, 'Abzac', that directly reveal the field of interests of
+its creators.
+ We  took  a  little  interview  with  Alex  Xor, that shows his
+attitude to the current situation and the following development
+of game 'industry' on Speccy.
+
+elfh> During  last few years you pay a lot of efforts to resurrection
+of  game  making  from depression since the end of 90-ies. What
+leads you and what is the highest purport of your activity?
+
+axor> The  main  impulse  was  the fact that there were no good games
+made during last years. The demo competitions became boring for
+me.  So,  I  decided to make a game competition, the event that
+had  never  been before on Spectrum. There are few purposes for
+this contest, as for me, the main are the following:
+
+ 1.  To  attract  groups/people  that  can  make  good games for
+Spectrum;
+
+ 2.  To  attract  consumers,  new gamers seldom pay attention to
+Spectrum  and  it  is  very baneful for our platform. I'm sure,
+that  new  games  are  able  to attract the young generation. I
+think  it's not a big secret, that it's almost impossible to do
+it in big cities, but in province, where clubs and hobby groups
+still  exist, this method can help. That's why I hope, that our
+contest  will  yield  its  fruits.  However, we rely on contest
+participants!
+
+elfh> Are  you happy with the last year's results? What can we expect
+this year?
+
+axor> I  was  quite pleased with last year's results. There were many
+games,  with good quality, moreover, this contest was the first
+one for the most of competitors. What can we expect this time I
+don't  even  know.  I  was  informed by many people about their
+participation,  but  still  (27.10.2003)  we  have  a very slow
+movement  in  this  direction,  so  I'm  very worried about the
+contest.  And  I  was  surprized  with  6  games  presented  at
+CAFe'2003  this  year.  I  don't know why people decided not to
+take part in 'Your Game'.
+
+elfh> As for me, the quality of games presented there was higher than
+those from 'Your Game' - what do you think about it?
+
+axor> I  don't  know.  Probably,  the  last  year's "Your Game' games
+pushed  authors  forward  to  creating  better games. Anyway, I
+don't really know.
+
+elfh> The  realization  of 'Imperia 2' in the way that it was done by
+you became something totally new on Spectrum at this time. What
+was  the  reaction  of  users?  Will  you keep on creating such
+products?
+
+axor> Yes,  it  was  a  new  approach. I think, here in Russia we had
+nothing  like  that  before. But not so much people wish to buy
+this  game  with  all  that stuff from the package. Will I make
+something  else  of  that kind? I shall if anybody able to make
+games, music and novels will support me.
+
+elfh> 'Imperia  2'  was made only for machines with at least 256kb of
+memory.  You  think  this  is  the  only  possible direction in
+development of game making?
+
+axor> Of  course  not!  By the way, the game itself let me down. Many
+users were upset because it work only on 256kb, moreover, using
+Scorpion  and  Pentagon  512  standart.  I  won't  do like this
+anymore.  I  think, that there is a long time ago used standart
+for  good Spectrum games - 128kb, that's enough, 'Black Raven',
+I guess, is a good evidence.
+
+elfh> What  is  the  most important aspect in this case: gamer or the
+game   itself?  In  other  words,  will  Imperia  initiate  the
+appearance of large amount of machines with extended memory?
+
+axor> I  think, if someone had the purport of increasing the quantity
+of  such  machines,  then  the games like Imperia 2 should have
+appeared 8-10 years ago.
+
+elfh> Is Imperia protected? I admit, the appearance of new games will
+bring  the  revival  of  crack  scene. What is your attitude to
+this?
+
+axor> I'll keep the secret about protection. What's about crack scene
+-  I suppose, it's already history. There's nobody left. Those,
+who  still  can  make  something  understand the value of a new
+software, and I believe, they won't harm. The time has changed,
+you  have to pay if you want something to appear. Though it was
+actual long time ago. If situation with coders' fees would have
+been  regulated  in  the  past,  now  it could have been not so
+catastrophic. And I'm very displeased with crack scene! I still
+can't  forgive  that asshole, who cracked the past year's 'Your
+Game' release and put it in internet.
+
+elfh> Do  you  play games much? Do you solve games, that take part in
+the contest?
+
+axor> I  seldom  play.  I  have  no  time,  anyway,  I prefer to make
+something  by  myself  than  just  play.  Honestly,  I  haven't
+completed  any game from last year contest, even mine. I played
+it enough while developing.
+
+elfh> It  is  well-known, that today there is an uprising interest to
+retro-gaming  in Europe. Have you any plans for your appearance
+on the international stage?
+
+axor> Not yet. Can somebody give an advice how to do it?
+
+elfh> I  see  the solution of this problem in the following: creation
+of  a  english/russian  languages  site  with  all  appropriate
+information  for developers and potential customers. The games,
+subjected  to  distribution,  must be comprehensible to english
+speaking  customers  and  russians.  The  problem  with formats
+(trd/tap)  arise,  but it can be solved. Our gamers aren't used
+to  pay  for  games, while it is the common thing in Europe. Of
+course,  the  bet  must  be  done on the release appearance and
+design,  as  it  was done with Imperia 2 - no crack can provide
+such  feelings  that  it's  possible to gain having an original
+release. What do you think?
+
+axor> I  agree,  that this our trick with Imperia 2 is something new,
+comparing  with  all  other  game  releases made on Spectrum in
+Russia.  But  we  have  to  settle  down  all  affairs with our
+(russian) gamer before presenting such products to the European
+audience.  Moreover,  this game release let us down, cos it has
+some bugs. I hope, there will be no more such rush releases.
+
+elfh> How  wide  'Abzac' is spread? What is its circulation? What can
+you  say about the tendencies in development - does the readers
+amount increase?
+ 
+axor> We  have  a  large range - Russia, Ukrane, Belarus, Poland. The
+edition  is  still  at  the  point of 100 copies. The circle of
+readers  is  almost  constant, some of them leave, some of them
+are  just starting reading us, and that's good. Now my question
+- why 'Adventurer' crew don't buy 'Abzac'?
+
+elfh> I've  got  some issues and I haven't read them completely cos I
+understood  -  it's not mine. We just have a different point of
+view  and  different  interests,  what  can be seen in the last
+issue  of 'Adventurer'. Though it doesn't decrease the value of
+'Abzac'. Maybe some final words to the readers?
+
+axor> I  hope  it  won't be censored? Anyway, I shall speak to you. I
+wish  you just one thing - to get back where you came from, the
+place  you  occupied  during  last  years. Now, by the readers'
+replies,  I've  made a conclusion that people begin to like you
+less.  And that's bad. Your attempt to unite our scene with the
+rest  has  failed,  at  the same time it caused a split here. I
+suppose, at first, we have to make everything alright here, and
+only  then  to  show it to the rest of scene. I know, that time
+change  us,  but  people  like  us  for  our  past, not for our
+present.  Try  do not to lose the reader and correspondents and
+then everything will be fine! Have a good luck.
+
+elfh> Yes,  I know that last issue has distressed many people, but we
+are not gonna stop our evolution (involution?). I wish you luck
+in those affairs that we have practically left...

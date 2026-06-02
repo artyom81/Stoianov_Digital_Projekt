@@ -1,0 +1,95 @@
+ACNews 60 -  News - 14th of November - Louisa gave birth to our daughter, named Dasha.
+News
+by Alone Coder
+This is the first issue of ACNews in English.
+
+Let's continue the news.
+
+1Чth of November -
+Louisa gave birth to our daughter, named
+Dasha.
+New head of our film studio (RGRTU-Film),
+Vladimir Ivanov, who
+also teaches 3D modelling and 3D printing at business incubator
+of RGRTU, asked
+Ldir to help him there, as 3D school at the
+studio stopped.
+Ldir agreed!
+Even more Speccy people are interested with 3D engines.
+Jerri
+took my engine "Wolf 48K" (used in demos Critical Error and
+The Board II ) and makes a game with it, asking questions time 
+to time.
+Sayman and Screw/OHG are also concerned. I have an idea
+for a new 3D engine. So far I'm writing pieces of assembly code
+and model the maths in Pascal. It seems that 3D possibilities of
+good old 48K are not fully used, and higher models can do even
+more!
+
+Arwald is writing the Чth level of Rusted Souls game (there
+might be 5).
+
+I continue to collect information about ZX Spectrum history -
+using magazines, schemes, books, and e-mail. Read some stuff in
+this issue.
+
+Specially for this issue I also made an automatic detector of ZX
+Spectrum model - it runs the corresponding viewer.
+
+One more little hack - after questions from
+Yerzmyey, John
+Silver, and
+Karbofos, I added digital sound support in
+Pro Tracker 3. Read about this in a separate chapter. 
+
+I read a lot recently. It appeared that I haven't published my
+list of books since Info Guide #10 (i.e. since 2007!). I'll fix
+this now. Since then, I added mini-reviews on books. I found a
+lot of new topics. Of course, I don't list everything I read in
+the Internet :)
+
+I found some of the books that I've read before 1998 (i.e.
+before the list), even some of the magazines I remember. One
+interesting case is children's magazine "Murzilka" #12'1988.
+There were drawn some presents a reader could want for the New
+Year. It was supposed that the parents will see the outlined
+option. I've chosen... a computer. Where could I see a computer
+then? Only in magazines, I think!
+
+[By the way, a picture in "Kolobok" #12'1989, p.12 seems to be 
+pixel art! How it was drawn? What computer was used and why?] 
+
+Of course I haven't got a computer for the New Year. But I
+remember how we went to a store where we saw these BK-0010 and
+Partner 01-01 with prices around 600 roubles, then my father 
+(following our neighbor from above) made a Radio-8бRK. He made
+it the same way as the neighbor - on a half of chess board (this
+became a tradition for our future computers). The board was
+tuned with a giant oscilloscope also from the neighbor's.
+I remember this well.
+
+The computer loaded programs from a reel. Its keyboard was also
+handmade, from DIY details produced by father's factory (Ryazan
+factory of metal-ceramic devices). The factory produced a lot of
+interesting things, including ionistors, joysticks, and even
+solar panels. Keyboards of this type were also used in my
+Spectrums.
+
+Having a computer, I began to read books like "Basic - that's
+simple", B. Walsh about BASIC, Dyakonov, "128 advices for a
+beginner programmer", some odd brochures from "Вышэйшая школа",
+a big "Algorithms and data structures for personal computers"
+etc. This way I became a programmer :)
+
+Radio-8бRK had several upgrades while usage - adding more RAM, 
+changing ROM, adding BASIC ROM. There were a lot of games, but
+all the reels are lost. My sister and I even played one of the
+games ("Road to Oregon") on paper, while we were at country,
+without a computer. Another game ("President") I tried to adapt
+to Spectrum later, in form of "Governor" but stopped - I found a
+complete Spectrum port of it.
+
+I gave away the board and disassembled the keyboard. The keys
+are packed together with other radio amateur stuff in a
+cupboard. I might once return to this and maybe create a museum
+:

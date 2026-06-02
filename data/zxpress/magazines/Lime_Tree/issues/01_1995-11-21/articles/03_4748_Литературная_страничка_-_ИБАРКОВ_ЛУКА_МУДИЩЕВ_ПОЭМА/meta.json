@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-11-21",
+  "order": 3,
+  "article_id": 4748,
+  "title_link": "Литературная страничка - И.БАРКОВ \"ЛУКА МУДИЩЕВ\", ПОЭМА.",
+  "title_h1": "Lime Tree 01 - Литературная страничка - И.БАРКОВ \"ЛУКА МУДИЩЕВ\", ПОЭМА.",
+  "print_url": "https://zxpress.ru/print.php?id=4748",
+  "article_url": "https://zxpress.ru/article.php?id=4748",
+  "fetched_at": "2026-05-31T22:19:02Z"
+}

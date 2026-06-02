@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 17643,
+    "article_url": "https://zxpress.ru/article.php?id=17643",
+    "print_url": "https://zxpress.ru/print.php?id=17643",
+    "title_link": "Введение - Здравствуйте, дорогие читатели нашей газеты мустангов.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Введение_-_Здравствуите_дорогие_читатели_нашеи_газеты_мустан"
+  },
+  {
+    "article_id": 17644,
+    "article_url": "https://zxpress.ru/article.php?id=17644",
+    "print_url": "https://zxpress.ru/print.php?id=17644",
+    "title_link": "Математический анализ - Фанатеем от предмета.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Математическии_анализ_-_Фанатеем_от_предмета"
+  },
+  {
+    "article_id": 17645,
+    "article_url": "https://zxpress.ru/article.php?id=17645",
+    "print_url": "https://zxpress.ru/print.php?id=17645",
+    "title_link": "Выставка - 15 по 22.02.2004 г. проходила выставка современных технологий заводов Удмуртии.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Выставка_-_15_по_22022004_г_проходила_выставка_современных_т"
+  },
+  {
+    "article_id": 17646,
+    "article_url": "https://zxpress.ru/article.php?id=17646",
+    "print_url": "https://zxpress.ru/print.php?id=17646",
+    "title_link": "Котлы ИКЗ - Применение автоматизированных модульных котельных на базе котлов с вращающимся потоком в трубах всё чаще встречается в системах отопления и горячего водоснабжения.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Котлы_ИКЗ_-_Применение_автоматизированных_модульных_котельны"
+  },
+  {
+    "article_id": 17647,
+    "article_url": "https://zxpress.ru/article.php?id=17647",
+    "print_url": "https://zxpress.ru/print.php?id=17647",
+    "title_link": "Термояд - болезнь поколений.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Термояд_-_болезнь_поколении"
+  }
+]

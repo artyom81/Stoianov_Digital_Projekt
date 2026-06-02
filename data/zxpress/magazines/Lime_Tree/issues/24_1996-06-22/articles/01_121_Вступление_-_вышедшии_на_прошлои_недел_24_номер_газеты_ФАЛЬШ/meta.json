@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "24",
+  "issue_date_iso": "1996-06-22",
+  "order": 1,
+  "article_id": 121,
+  "title_link": "Вступление - вышедший на прошлой недел 24 номер газеты ФАЛЬШИВЫЙ!",
+  "title_h1": "Lime Tree 24 - Вступление - вышедший на прошлой недел 24 номер газеты ФАЛЬШИВЫЙ!",
+  "print_url": "https://zxpress.ru/print.php?id=121",
+  "article_url": "https://zxpress.ru/article.php?id=121",
+  "fetched_at": "2026-05-31T22:19:54Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 201,
+  "magazine_name": "SpecInfo",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-10-18",
+  "order": 1,
+  "article_id": 10904,
+  "title_link": "Новости - Первая новость просто ужасна. Ходят слухи о распаде ИНФОРКОМ'а.\r\nБольше не будет книжных номеров ZX-РЕВЮ.",
+  "title_h1": "SpecInfo 03 - Новости - Первая новость просто ужасна. Ходят слухи о распаде ИНФОРКОМ&#039;а. Больше не будет книжных номеров ZX-РЕВЮ.",
+  "print_url": "https://zxpress.ru/print.php?id=10904",
+  "article_url": "https://zxpress.ru/article.php?id=10904",
+  "fetched_at": "2026-05-31T23:04:46Z"
+}

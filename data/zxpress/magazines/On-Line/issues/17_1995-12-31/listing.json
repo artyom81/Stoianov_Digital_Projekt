@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 89,
+    "article_url": "https://zxpress.ru/article.php?id=89",
+    "print_url": "https://zxpress.ru/print.php?id=89",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 1999,
+    "article_url": "https://zxpress.ru/article.php?id=1999",
+    "print_url": "https://zxpress.ru/print.php?id=1999",
+    "title_link": "Мозаика - Способ обращения к диску путем \"непосредственного программирования ВГ93.\r\n О электронной газете \"Dl News\". О картинках формата PCX.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Мозаика_-_Способ_обращения_к_диску_путем_непосредственного_п"
+  },
+  {
+    "article_id": 2000,
+    "article_url": "https://zxpress.ru/article.php?id=2000",
+    "print_url": "https://zxpress.ru/print.php?id=2000",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1998,
+    "article_url": "https://zxpress.ru/article.php?id=1998",
+    "print_url": "https://zxpress.ru/print.php?id=1998",
+    "title_link": "Страничка СисОпа - \"Взлет лихой , посадка ... зайцем.\" (о системе IS-DOS).",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Страничка_СисОпа_-_Взлет_лихои_посадка_заицем_о_системе_IS-D"
+  }
+]

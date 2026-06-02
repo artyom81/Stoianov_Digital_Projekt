@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6075,
+    "article_url": "https://zxpress.ru/article.php?id=6075",
+    "print_url": "https://zxpress.ru/print.php?id=6075",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "128",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6076,
+    "article_url": "https://zxpress.ru/article.php?id=6076",
+    "print_url": "https://zxpress.ru/print.php?id=6076",
+    "title_link": "Событие - отчет с Воронежского фестиваля KidSoft 2004.",
+    "order": 2,
+    "issue_label": "128",
+    "short_slug": "Событие_-_отчет_с_Воронежского_фестиваля_KidSoft_2004"
+  },
+  {
+    "article_id": 6077,
+    "article_url": "https://zxpress.ru/article.php?id=6077",
+    "print_url": "https://zxpress.ru/print.php?id=6077",
+    "title_link": "Событие - Официальные результаты Фестиваля детско-юношеского компьютерного творчества KidSoft'2004.",
+    "order": 3,
+    "issue_label": "128",
+    "short_slug": "Событие_-_Официальные_результаты_Фестиваля_детско-юношеского"
+  },
+  {
+    "article_id": 6078,
+    "article_url": "https://zxpress.ru/article.php?id=6078",
+    "print_url": "https://zxpress.ru/print.php?id=6078",
+    "title_link": "Интервью - Интервью Максагора/NedoPC group газете 'Nicron'.",
+    "order": 4,
+    "issue_label": "128",
+    "short_slug": "Интервью_-_Интервью_МаксагораNedoPC_group_газете_Nicron"
+  },
+  {
+    "article_id": 6079,
+    "article_url": "https://zxpress.ru/article.php?id=6079",
+    "print_url": "https://zxpress.ru/print.php?id=6079",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 5,
+    "issue_label": "128",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

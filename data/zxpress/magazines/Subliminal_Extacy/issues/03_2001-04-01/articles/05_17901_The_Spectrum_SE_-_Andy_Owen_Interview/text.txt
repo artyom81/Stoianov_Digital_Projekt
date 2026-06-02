@@ -1,0 +1,154 @@
+Subliminal Extacy 03 - The Spectrum SE - Andy Owen Interview
+The Spectrum SE
+
+Andrew Owen speaks for Subliminal  Extacy about one of the  most
+ambitious projects to hit the Speccy
+
+
+- What is the Spectrum SE?
+
+I am aiming to build a modern Z80 based computer. I expect it to
+be used for everything modern x86 and PPC computers are used for
+because it will be powerful enough to do it but cheap enough for
+people in  even the  poorest parts  of the  world to  be able to
+afford.
+
+- Why have you chosen to base it on the Spectrum?
+
+I got my first Spectrum in 1984. It was a Spectrum +. The manual
+was crap so I taught myself BASIC by refering to the commands on
+the keyboard (at last a reason for that layout). When I moved on
+to an Atari ST I found it much harder to create my own  programs
+and I missed that about the Spectrum.
+
+When I got Gunter Woigk's Mac Spectacle in about 1995 (the early
+version with no sound support, let alone 128K) I started writing
+my  own  software again.  So,  to answer  your  question, it  is
+impossible for the average user to sit down and write a  program
+in one  go for  modern operating  systems. They  are simply  too
+complicated. I thought, given  the number of articles  posted on
+CSS, there was  a real demand  for a new  Spectrum for precisely
+this reason.
+
+- What are the major features?
+
+Well,  you have  to think  of it  as a  new computer  that just
+happens to be able to  run Spectrum software really, a  bit like
+the Peters Sprinter only better.
+
+The CPU is a Z84C00 at 21.2814 Mhz. This can be stepped down  to
+3.5469 Mhz for the purposes of 100% accurate 128 mode  execution
+(although there isn't actually a 128 mode). It will be  possible
+to  change the  processor speed  from software  or via  a turbo
+button. The software switch will be compatible with the Scorpion
+if possible.
+
+The finished  machine will  be able  to access  between 1бМВ and
+32MB (not  yet determined).  The paging  system still  has to be
+sorted  out because  of trying  to maintain  compatibility with
+expanded Pentagons and Scorpions. Port 7FFD will behave  exactly
+like a 128 (with D6  and D7 reserved for future  expansion). The
+first four bits of  port 1FFD (D0-D3) will  act like the +3  (in
+order to support  PLUSЗDOS software). The  remainder will be  as
+compatible with the expanded Scorpion and Pentagon as possible.
+
+The ULA  will be  replaced with  a microcontroller  in order  to
+display the screens at full speed. Standard Spectrum and  TS2068
+modes  will  be supported  with  the addition  of  palettes. The
+FLASH/BRIGHT bits of the attribute map will be used to specify a
+CLUT of 8 colours for a  maximum of 32 colours on screen  in the
+standard Spectrum mode without palette switching.
+
+There will  be two  YM2203s in  place of  the AY  chip. They are
+register compatible so existing AY stuff will work but they  are
+more powerful and using  two together full digital  sound should
+be possible. I  haven't decided what  to do about  covox support
+since I can't get any decent info on it but if I do I may end up
+emulating it via the two  YM2203s. There will also be  a GM-MIDI
+chip and a  DAC. The output  will be a  16-bit stereo signal  at
+ЧЧKhz.
+
+The keyboard and mouse may be PS/2, PSX or USB depending on what
+works  out cheapest.  There will  be at  least one  serial port
+capable of using  a 56K modem  (for internet connection).  There
+will also  be a  parallel port.  Both these  will be  driven via
+dedicated hardware.  There may  also be  support for Playstation
+game controllers and memory cards (128K capacity).
+
+The first four  ROMs are mapped  in using the  +3 paging system.
+There may be a fifth ROM is paged in externally using the ROM-CS
+line in order to support TR-DOS.
+
+ROM 0  contains the  BIOS. This  performs any  system tests  and
+intialises  the  machine  before passing  control  on  to ROM  1
+(BASIC). The advantage of this is that the RST 0 instruction can
+now be used from ROM 1  to provide up to 65536 system  commands.
+ROM 1 contains a version of BASIC derived from the original  48K
+machine.  However,  BASIC extensions  are  stored in  ROM  0 and
+called on the fly from ROM 1.
+
+ROM 2 contains the primary disk system of the SE; PLUSЗDOS. This
+provides support for the majority of +3 applications and  allows
++3, CP/M, and CPC disks to be read. The ROM also contains IDEDOS
+which allows  the use  of a  hard disk.  ROM 3  is empty  at the
+moment    but    will    probably    end    up    containing   a
+monitor/assembler/disassembler  and  snapshot tool  while  ROM 4
+will eventually contain a version  of TR-DOS patched to use  the
++3's disk interface.
+
+ROM 0 and ROM 1 can  be used independently of the other  ROMs on
+modified 128 and +2 systems.
+
+The  machine  will  also  include  full  international character
+support (including  from BASIC),  42 column  text from  BASIC in
+256x192 mode, 85 column text from BASIC in 512x192 mode, support
+for CP/M  3.0, and  a user  sizeable RAM  disk (accessible  from
+BASIC using 128 or +3 commands).
+
+- To what  extent is it  compatible with existing  Spectrums and
+clones?
+
+Compatiblity is very important for the machine to be a  success.
+It will  be PORT  compatible with  the original  Spectrum but it
+will also support the enhanced video modes of the TS2068  (which
+are also used by  some Pentagons), PLUSЗDOS, IDEDOS,  TR-DOS (as
+used on the Scorpion and Pentagon), the extended memory maps  of
+the Scorpion and Pentagon.  The BASIC will support  the commands
+of the  Spectrum, TK90X,  Spectrum 128  and TS2068  in one mode.
+Programs written for any of these machines can be loaded in  and
+RUN without modification  in the standard  mode. The BASIC  will
+also support the  extensions of BASIC  64, which means  that the
+graphics commands will work in 512x192 mode.
+
+- How much has been completed so far?
+
+Most of the work so far has been spent on debugging the original
+Spectrum  BASIC  and  the   128  editor  ROM.  I've   made  some
+interesting discoveries along the  way, for instance, there's  a
+whole chunk of useless code in  the 128 BASIC ROM (and hence  in
+the Pentagon, Scorpion,  +2, +3 and  +2A). In fact  the original
+BASIC ROM can  be used with  the +3/+2A without  modification to
+improve compatibility. On  the 128 and  +2 three bytes  in ROM 0
+have to  be changed.  It's amazing  really. Anyway,  back to the
+question.  The  BASIC  has  been  completely  debugged.  It   is
+certified 100%  bug free.  It has  also been  tested extensively
+with a wide range of software for compatibility and no  problems
+have been found so far.
+
+The ROM layout of the machine has been determined. The BIOS  and
+BASIC extensions live in ROM 0 (I'll also put the GUI toolbox in
+there if there's enough room). BASIC lives in ROM 1 (even on the
++3 test version). PLUSЗDOS and IDEDOS (an extension to allow the
+use of  hard disks  by Garry  Lancaster) is  in ROM  2. ROM 3 is
+undecided. And I haven't decided how to implement TR-DOS support
+yet. I could do it by emulation or by direct support (although I
+will probably go for emulation for copyright reasons, this  will
+still allow TR-DOS software from the former USSR to run  without
+problems).
+
+---
+For     more     information     about     the     SE,     visit
+http://www.brandnewco.org/se/.
+
+You can also contact Andrew at aowen@brandnewco.org to subscribe
+to the 'SE-mail' newsletter.

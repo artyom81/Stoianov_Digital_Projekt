@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1998-08-31",
+  "order": 12,
+  "article_id": 5119,
+  "title_link": "Текстовые редакторы - Проблемы текстового ПО на Speccy.",
+  "title_h1": "Echo 05 - Текстовые редакторы - Проблемы текстового ПО на Speccy.",
+  "print_url": "https://zxpress.ru/print.php?id=5119",
+  "article_url": "https://zxpress.ru/article.php?id=5119",
+  "fetched_at": "2026-05-31T22:00:49Z"
+}

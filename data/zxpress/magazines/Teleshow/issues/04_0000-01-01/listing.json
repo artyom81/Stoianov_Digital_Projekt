@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 15195,
+    "article_url": "https://zxpress.ru/article.php?id=15195",
+    "print_url": "https://zxpress.ru/print.php?id=15195",
+    "title_link": "От авторов - Мы лучшие из лучших и мы пишем лучших из лучшие программы. Мы выпускаем компьютерный журнал и распростропяем его на дисках и кассетах. Мы - это представители GSH. ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ GUILD of SIBIRIAN HACKERS ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ. GUILD of SIBIRIAN HACKERS",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_Мы_лучшие_из_лучших_и_мы_пишем_лучших_из_лучшие"
+  },
+  {
+    "article_id": 15196,
+    "article_url": "https://zxpress.ru/article.php?id=15196",
+    "print_url": "https://zxpress.ru/print.php?id=15196",
+    "title_link": "Игры - GOLDEN AXE.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Игры_-_GOLDEN_AXE"
+  },
+  {
+    "article_id": 15197,
+    "article_url": "https://zxpress.ru/article.php?id=15197",
+    "print_url": "https://zxpress.ru/print.php?id=15197",
+    "title_link": "Игры - HERO QUEST",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Игры_-_HERO_QUEST"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 217,
+  "magazine_name": "TargeT",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "2001-02-01",
+  "order": 8,
+  "article_id": 9195,
+  "title_link": "Demo - ZX ДемоСцена. Что же это такое ?",
+  "title_h1": "TargeT 08 - Demo - ZX ДемоСцена. Что же это такое ?",
+  "print_url": "https://zxpress.ru/print.php?id=9195",
+  "article_url": "https://zxpress.ru/article.php?id=9195",
+  "fetched_at": "2026-05-31T23:10:58Z"
+}

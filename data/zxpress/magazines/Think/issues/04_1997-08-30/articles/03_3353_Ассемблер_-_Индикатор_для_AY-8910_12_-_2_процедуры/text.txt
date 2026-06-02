@@ -1,0 +1,269 @@
+Think 04 - Ассемблер - Индикатор для AY-8910 (12) - 2 процедуры.
+╔═════════════╗
+            ║
+АССЕМБЛЕР
+║
+            ╚═════════════╝
+
+  Если вы обратили внимание в  третьем но-
+мере газеты на эту рубрику , то знаете,что
+речь в ней идёт различных  полезных проце-
+дурах , которые необходимы  при  написании
+музыкальных демонстраций и INTR'ушек.
+  Сегодня вы сможете увидеть ещё  два  ва-
+рианта индикатора каналов для
+AY-8910(12).
+;
+ИНДИКАТОР ДЛЯ AY-8910(8912)
+;
+Внизу 3 толстых полосы.
+;Процедура "взята" из музыкальной демонст-
+;рации "PRIVET 2"
+ORG  50000
+LD   A,8
+             LD   BC,#FFFD
+OUT  (C),A
+             LD   A,255
+             IN   A,(#FD)
+             LD   HL,22440
+             CALL M1
+             LD   A,9
+             LD   BC,#FFFD
+             OUT  (C),A
+             LD   A,255
+             IN   A,(#FD)
+             LD   HL,22447
+             CALL M1
+             LD   A,10
+             LD   BC,#FFFD
+             OUT  (C),A
+             LD   A,255
+             IN   A,(#FD)
+             LD   HL,22454
+             CALL M1
+RET
+M1
+LD   (RAB1),HL
+             LD   (RAB2),A
+LD   A,32
+             LD   (RAB3),A
+M2
+LD   A,8
+             LD   (RAB4),A
+M3
+LD   A,(RAB2)
+             CP   0
+             CALL NZ,M4
+             CALL Z,M5
+             LD   A,(RAB3)
+             DEC  A
+             CP   0
+             RET  Z
+             LD   (RAB3),A
+             LD   A,(RAB4)
+             DEC  A
+             CP   0
+             JP   Z,M6
+             LD   (RAB4),A
+             LD   HL,(RAB1)
+             LD   BC,256
+             AND  A
+             SBC  HL,BC
+LD   (RAB1),HL
+             JP   M3
+M4
+LD   HL,(RAB1)
+             LD   B,255
+             LD   (HL),B
+             INC  HL
+             LD   (HL),B
+             DEC  A
+             LD   (RAB2),A
+RET
+M5
+LD   HL,(RAB1)
+             LD   B,0
+             LD   (HL),B
+             INC  HL
+             LD   (HL),B
+RET
+M6
+LD   HL,(RAB1)
+             LD   BC,1760
+             AND  A
+             ADC  HL,BC
+             LD   (RAB1),HL
+             JP   M2
+RET
+RAB1
+DEFB 0,0
+RAB2
+DEFB 0
+RAB3
+DEFB 0
+RAB4
+DEFB 0
+;
+ИНДИКАТОР ДЛЯ AY 8910(8912)
+;
+В верхнем левом углу 3 "звездочки".
+;
+Процедура содержит 7 спрайтов по 32 бай-
+;
+та с прайт.
+;Процедура "взята" из музыкальной демонст-
+;рации "*VVV* part 1"
+ORG  50000
+CALL LF623
+             CALL LF662
+             CALL LF691
+RET
+LF623
+LD   BC,#FFFD
+             LD   A,8
+OUT  (C),A
+             IN   A,(C)
+             AND  15
+             RRA
+             PUSH AF
+             LD   B,A
+             JR   Z,LF639
+             XOR  A
+             LD   L,32
+LF636
+ADD  A,L
+             DJNZ LF636
+LF639
+LD   HL,SPRITE
+             LD   C,A
+             ADD  HL,BC
+             LD   A,16
+             LD   DE,16384
+LF641
+PUSH DE
+             LD   BC,2
+             LDIR
+             POP  DE
+             PUSH AF
+             CALL LF652
+POP  AF
+             DEC  A
+             JR   NZ,LF641
+             POP  AF
+RET
+LF652
+INC  D
+             LD   A,D
+             AND  7
+             RET  NZ
+             LD   A,E
+             ADD  A,32
+             LD   E,A
+             CCF
+             SBC  A,A
+             AND  248
+             ADD  A,D
+             LD   D,A
+RET
+LF662
+LD   BC,#FFFD
+             LD   A,9
+             OUT  (C),A
+             IN   A,(C)
+AND  15
+             RRA
+             PUSH AF
+             LD   B,A
+             JR   Z,LF678
+             XOR  A
+             LD   L,32
+LF675
+ADD  A,L
+             DJNZ LF675
+LF678
+LD   HL,SPRITE
+             LD   C,A
+             ADD  HL,BC
+             LD   A,16
+             LD   DE,16386
+LF680
+PUSH DE
+             LD   BC,2
+             LDIR
+             POP  DE
+             PUSH AF
+             CALL LF652
+             POP  AF
+             DEC  A
+JR   NZ,LF680
+             POP  AF
+RET
+LF691
+LD   BC,#FFFD
+             LD   A,10
+             OUT  (C),A
+             IN   A,(C)
+             AND  15
+             RRA
+             PUSH AF
+             LD   B,A
+             JR   Z,LF6A7
+             XOR  A
+             LD   L,32
+LF6A4
+ADD  A,L
+             DJNZ LF6A4
+LF6A7
+LD   HL,SPRITE
+             LD   C,A
+             ADD  HL,BC
+             LD   A,16
+             LD   DE,16388
+LF6AF
+PUSH DE
+LD   BC,2
+             LDIR
+             POP  DE
+             PUSH AF
+             CALL LF652
+             POP  AF
+             DEC  A
+             JR   NZ,LF6AF
+             POP  AF
+RET
+SPRITE
+DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,1,128
+             DEFB 1,192,0,128,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,128,0,128
+             DEFB 3,224,0,128,0,128,0,0
+             DEFB 0,0,0,0,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,0,0,128,0,128,1,192
+             DEFB 7,240,1,192,0,128,0,128
+             DEFB 0,0,0,0,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,0
+             DEFB 0,128,0,128,1,192,3,224
+             DEFB 15,248,3,224,1,192,0,128
+             DEFB 0,128,0,0,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,128
+             DEFB 0,128,0,128,1,192,3,224
+             DEFB 31,252,3,224,1,192,0,128
+             DEFB 0,128,0,128,0,0,0,0
+
+             DEFB 0,0,0,0,0,0,0,128
+             DEFB 0,128,1,192,3,224,7,240
+             DEFB 31,252,7,240,3,224,1,192
+             DEFB 0,128,0,128,0,0,0,0
+>

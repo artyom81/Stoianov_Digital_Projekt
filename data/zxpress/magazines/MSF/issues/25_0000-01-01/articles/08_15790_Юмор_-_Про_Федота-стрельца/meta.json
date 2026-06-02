@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "0000-01-01",
+  "order": 8,
+  "article_id": 15790,
+  "title_link": "Юмор - Про Федота-стрельца.",
+  "title_h1": "MSF 25 - Юмор - Про Федота-стрельца.",
+  "print_url": "https://zxpress.ru/print.php?id=15790",
+  "article_url": "https://zxpress.ru/article.php?id=15790",
+  "fetched_at": "2026-05-31T22:30:08Z"
+}

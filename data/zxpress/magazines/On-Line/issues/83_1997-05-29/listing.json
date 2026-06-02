@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 18,
+    "article_url": "https://zxpress.ru/article.php?id=18",
+    "print_url": "https://zxpress.ru/print.php?id=18",
+    "title_link": "B.B.S. Hoвости - Правила работы с почтовым сервиром Elly Ester BBS.",
+    "order": 1,
+    "issue_label": "83",
+    "short_slug": "BBS_Hoвости_-_Правила_работы_с_почтовым_сервиром_Elly_Ester"
+  },
+  {
+    "article_id": 2495,
+    "article_url": "https://zxpress.ru/article.php?id=2495",
+    "print_url": "https://zxpress.ru/print.php?id=2495",
+    "title_link": "Мозаика - Ляпы, оговорки и просто немного неумелых попыток выразить свою мысль, взятые из электронных изданий.",
+    "order": 2,
+    "issue_label": "83",
+    "short_slug": "Мозаика_-_Ляпы_оговорки_и_просто_немного_неумелых_попыток_вы"
+  },
+  {
+    "article_id": 2494,
+    "article_url": "https://zxpress.ru/article.php?id=2494",
+    "print_url": "https://zxpress.ru/print.php?id=2494",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "83",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2496,
+    "article_url": "https://zxpress.ru/article.php?id=2496",
+    "print_url": "https://zxpress.ru/print.php?id=2496",
+    "title_link": "Система - Персональный компьютер АТМ-Тurbo 2+ : Техническое описание и руководство программиста : Аппаратные ошибки платы. Проблема PC-XT клавиатуры. Подключение винчестера (IDE). Ошибка работы RAM-DISK'a.",
+    "order": 4,
+    "issue_label": "83",
+    "short_slug": "Система_-_Персональныи_компьютер_АТМ-Тurbo_2_Техническое_опи"
+  }
+]

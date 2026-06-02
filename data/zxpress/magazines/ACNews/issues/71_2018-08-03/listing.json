@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 18474,
+    "article_url": "https://zxpress.ru/article.php?id=18474",
+    "print_url": "https://zxpress.ru/print.php?id=18474",
+    "title_link": "Новости - В эмуляторе Unreal Speccy Portable появилась поддержка\r\nрасширенных экранов ATM2, Utz/irrlicht project организует конкурс графики, Ещё Utz написал по поводу своего языка программирования для\r\nмузыки.",
+    "order": 1,
+    "issue_label": "71",
+    "short_slug": "Новости_-_В_эмуляторе_Unreal_Speccy_Portable_появилась_подде"
+  },
+  {
+    "article_id": 18475,
+    "article_url": "https://zxpress.ru/article.php?id=18475",
+    "print_url": "https://zxpress.ru/print.php?id=18475",
+    "title_link": "News - DimkaM wrote a manual about high memory handling in IAR Z80, Unreal Speccy Portable now includes support for extra screen \r\nmodes of ATM2, Utz/irrlicht project organizes a graphics compo.",
+    "order": 2,
+    "issue_label": "71",
+    "short_slug": "News_-_DimkaM_wrote_a_manual_about_high_memory_handling_in_I"
+  },
+  {
+    "article_id": 18476,
+    "article_url": "https://zxpress.ru/article.php?id=18476",
+    "print_url": "https://zxpress.ru/print.php?id=18476",
+    "title_link": "Программирование - работа с банками памяти в IAR'е.",
+    "order": 3,
+    "issue_label": "71",
+    "short_slug": "Программирование_-_работа_с_банками_памяти_в_IARе"
+  },
+  {
+    "article_id": 18477,
+    "article_url": "https://zxpress.ru/article.php?id=18477",
+    "print_url": "https://zxpress.ru/print.php?id=18477",
+    "title_link": "Programming - Banking in IAR and ZX Spectrum 128K",
+    "order": 4,
+    "issue_label": "71",
+    "short_slug": "Programming_-_Banking_in_IAR_and_ZX_Spectrum_128K"
+  },
+  {
+    "article_id": 18478,
+    "article_url": "https://zxpress.ru/article.php?id=18478",
+    "print_url": "https://zxpress.ru/print.php?id=18478",
+    "title_link": "Новости языка Listh - плюсы и минусы\r\nхранения в списках против хранения в куче.",
+    "order": 5,
+    "issue_label": "71",
+    "short_slug": "Новости_языка_Listh_-_плюсы_и_минусыхранения_в_списках_проти"
+  },
+  {
+    "article_id": 18479,
+    "article_url": "https://zxpress.ru/article.php?id=18479",
+    "print_url": "https://zxpress.ru/print.php?id=18479",
+    "title_link": "Listh language news - down pros and\r\ncons of lists vs. heap.",
+    "order": 6,
+    "issue_label": "71",
+    "short_slug": "Listh_language_news_-_down_pros_andcons_of_lists_vs_heap"
+  }
+]

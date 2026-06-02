@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7057,
+    "article_url": "https://zxpress.ru/article.php?id=7057",
+    "print_url": "https://zxpress.ru/print.php?id=7057",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "87",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7058,
+    "article_url": "https://zxpress.ru/article.php?id=7058",
+    "print_url": "https://zxpress.ru/print.php?id=7058",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "87",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7059,
+    "article_url": "https://zxpress.ru/article.php?id=7059",
+    "print_url": "https://zxpress.ru/print.php?id=7059",
+    "title_link": "Опрос - Анкета фирмы \"Scorpion\".",
+    "order": 3,
+    "issue_label": "87",
+    "short_slug": "Опрос_-_Анкета_фирмы_Scorpion"
+  },
+  {
+    "article_id": 7060,
+    "article_url": "https://zxpress.ru/article.php?id=7060",
+    "print_url": "https://zxpress.ru/print.php?id=7060",
+    "title_link": "Рассказы - Толкатель (продолжение).",
+    "order": 4,
+    "issue_label": "87",
+    "short_slug": "Рассказы_-_Толкатель_продолжение"
+  },
+  {
+    "article_id": 7061,
+    "article_url": "https://zxpress.ru/article.php?id=7061",
+    "print_url": "https://zxpress.ru/print.php?id=7061",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "87",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7062,
+    "article_url": "https://zxpress.ru/article.php?id=7062",
+    "print_url": "https://zxpress.ru/print.php?id=7062",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 6,
+    "issue_label": "87",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 81,
+    "article_url": "https://zxpress.ru/article.php?id=81",
+    "print_url": "https://zxpress.ru/print.php?id=81",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2048,
+    "article_url": "https://zxpress.ru/article.php?id=2048",
+    "print_url": "https://zxpress.ru/print.php?id=2048",
+    "title_link": "ZXNet - О введенном пароле в сети ZXNet.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "ZXNet_-_О_введенном_пароле_в_сети_ZXNet"
+  },
+  {
+    "article_id": 2045,
+    "article_url": "https://zxpress.ru/article.php?id=2045",
+    "print_url": "https://zxpress.ru/print.php?id=2045",
+    "title_link": "Железо - Аналого-цифровой преобразователь.",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "Железо_-_Аналого-цифровои_преобразователь"
+  },
+  {
+    "article_id": 2047,
+    "article_url": "https://zxpress.ru/article.php?id=2047",
+    "print_url": "https://zxpress.ru/print.php?id=2047",
+    "title_link": "Застрял ? - Новелла-проходилка по игре \"48 Утюгов\" часть 3.",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "Застрял_-_Новелла-проходилка_по_игре_48_Утюгов_часть_3"
+  },
+  {
+    "article_id": 2046,
+    "article_url": "https://zxpress.ru/article.php?id=2046",
+    "print_url": "https://zxpress.ru/print.php?id=2046",
+    "title_link": "Мозаика - О принудительном включении защиты от записи на дисководе.",
+    "order": 5,
+    "issue_label": "27",
+    "short_slug": "Мозаика_-_О_принудительном_включении_защиты_от_записи_на_дис"
+  },
+  {
+    "article_id": 2044,
+    "article_url": "https://zxpress.ru/article.php?id=2044",
+    "print_url": "https://zxpress.ru/print.php?id=2044",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

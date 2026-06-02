@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16540,
+    "article_url": "https://zxpress.ru/article.php?id=16540",
+    "print_url": "https://zxpress.ru/print.php?id=16540",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16541,
+    "article_url": "https://zxpress.ru/article.php?id=16541",
+    "print_url": "https://zxpress.ru/print.php?id=16541",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16542,
+    "article_url": "https://zxpress.ru/article.php?id=16542",
+    "print_url": "https://zxpress.ru/print.php?id=16542",
+    "title_link": "Размышления - \"Здравствуйте, молодые люди! Садитесь...\" В аудиторию входит Леонид Матвеевич Коршунов, а это значит, что сейчас у нас начнётся очередная лекция по теории электрических цепей (тэц).",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Размышления_-_Здравствуите_молодые_люди_Садитесь_В_аудиторию"
+  },
+  {
+    "article_id": 16543,
+    "article_url": "https://zxpress.ru/article.php?id=16543",
+    "print_url": "https://zxpress.ru/print.php?id=16543",
+    "title_link": "Разное - Погода.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16544,
+    "article_url": "https://zxpress.ru/article.php?id=16544",
+    "print_url": "https://zxpress.ru/print.php?id=16544",
+    "title_link": "Обо всём на свете - Страшилки из потустороннего мира.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Обо_всем_на_свете_-_Страшилки_из_потустороннего_мира"
+  },
+  {
+    "article_id": 16545,
+    "article_url": "https://zxpress.ru/article.php?id=16545",
+    "print_url": "https://zxpress.ru/print.php?id=16545",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16546,
+    "article_url": "https://zxpress.ru/article.php?id=16546",
+    "print_url": "https://zxpress.ru/print.php?id=16546",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3119,
+    "article_url": "https://zxpress.ru/article.php?id=3119",
+    "print_url": "https://zxpress.ru/print.php?id=3119",
+    "title_link": "BBS INFO - График работы BBS на неделю.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "BBS_INFO_-_График_работы_BBS_на_неделю"
+  },
+  {
+    "article_id": 3123,
+    "article_url": "https://zxpress.ru/article.php?id=3123",
+    "print_url": "https://zxpress.ru/print.php?id=3123",
+    "title_link": "Давайте познакомимся - Новые друзья: Рассказ BROM'а о себе.\r\n Интервью с Lom'ой.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Даваите_познакомимся_-_Новые_друзья_Рассказ_BROMа_о_себе_Инт"
+  },
+  {
+    "article_id": 3121,
+    "article_url": "https://zxpress.ru/article.php?id=3121",
+    "print_url": "https://zxpress.ru/print.php?id=3121",
+    "title_link": "Дискуссия - Кому нужны Demo & Megademo?",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Дискуссия_-_Кому_нужны_Demo_Megademo"
+  },
+  {
+    "article_id": 3120,
+    "article_url": "https://zxpress.ru/article.php?id=3120",
+    "print_url": "https://zxpress.ru/print.php?id=3120",
+    "title_link": "Обзор - Обзор новых игр: Nnigel Mansell World Championship, Super\r\n Stars, Mortal Kombat demo, Wrestling,\r\n Silent Shadow, International Kick\r\n Boxing, Sideral War.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Обзор_новых_игр_Nnigel_Mansell_World_Championship_Su"
+  },
+  {
+    "article_id": 3122,
+    "article_url": "https://zxpress.ru/article.php?id=3122",
+    "print_url": "https://zxpress.ru/print.php?id=3122",
+    "title_link": "Происшествия - Файл KILLDISK - на мониторе крест и диск убит...",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Происшествия_-_Фаил_KILLDISK_-_на_мониторе_крест_и_диск_убит"
+  }
+]

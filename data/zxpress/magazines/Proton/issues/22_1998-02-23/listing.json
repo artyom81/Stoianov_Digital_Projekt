@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 16664,
+    "article_url": "https://zxpress.ru/article.php?id=16664",
+    "print_url": "https://zxpress.ru/print.php?id=16664",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16665,
+    "article_url": "https://zxpress.ru/article.php?id=16665",
+    "print_url": "https://zxpress.ru/print.php?id=16665",
+    "title_link": "Смайлик о наболевшем - Кремниевые миниатюры.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Смаилик_о_наболевшем_-_Кремниевые_миниатюры"
+  },
+  {
+    "article_id": 16666,
+    "article_url": "https://zxpress.ru/article.php?id=16666",
+    "print_url": "https://zxpress.ru/print.php?id=16666",
+    "title_link": "CDOS-модем - Доработки CDOS-модема для улучшения связи.",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "CDOS-модем_-_Доработки_CDOS-модема_для_улучшения_связи"
+  },
+  {
+    "article_id": 16667,
+    "article_url": "https://zxpress.ru/article.php?id=16667",
+    "print_url": "https://zxpress.ru/print.php?id=16667",
+    "title_link": "Стихи - Ямб, хорей, и улыбка.",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Стихи_-_Ямб_хореи_и_улыбка"
+  },
+  {
+    "article_id": 16668,
+    "article_url": "https://zxpress.ru/article.php?id=16668",
+    "print_url": "https://zxpress.ru/print.php?id=16668",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16669,
+    "article_url": "https://zxpress.ru/article.php?id=16669",
+    "print_url": "https://zxpress.ru/print.php?id=16669",
+    "title_link": "Юмор - Крах Агента 008 (окончание).",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Юмор_-_Крах_Агента_008_окончание"
+  },
+  {
+    "article_id": 16670,
+    "article_url": "https://zxpress.ru/article.php?id=16670",
+    "print_url": "https://zxpress.ru/print.php?id=16670",
+    "title_link": "Психология - Тест: Способны ли вы решить свои проблемы?",
+    "order": 7,
+    "issue_label": "22",
+    "short_slug": "Психология_-_Тест_Способны_ли_вы_решить_свои_проблемы"
+  },
+  {
+    "article_id": 16671,
+    "article_url": "https://zxpress.ru/article.php?id=16671",
+    "print_url": "https://zxpress.ru/print.php?id=16671",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 8,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16672,
+    "article_url": "https://zxpress.ru/article.php?id=16672",
+    "print_url": "https://zxpress.ru/print.php?id=16672",
+    "title_link": "От авторов - Редакция.",
+    "order": 9,
+    "issue_label": "22",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

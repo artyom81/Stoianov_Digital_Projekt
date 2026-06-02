@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16829,
+    "article_url": "https://zxpress.ru/article.php?id=16829",
+    "print_url": "https://zxpress.ru/print.php?id=16829",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "47",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16830,
+    "article_url": "https://zxpress.ru/article.php?id=16830",
+    "print_url": "https://zxpress.ru/print.php?id=16830",
+    "title_link": "ZX in the world - Спешу сообщить, что моя BBS в скором времени перейдет на нормальный серверный режим.",
+    "order": 2,
+    "issue_label": "47",
+    "short_slug": "ZX_in_the_world_-_Спешу_сообщить_что_моя_BBS_в_скором_времен"
+  },
+  {
+    "article_id": 16831,
+    "article_url": "https://zxpress.ru/article.php?id=16831",
+    "print_url": "https://zxpress.ru/print.php?id=16831",
+    "title_link": "IS-DOS - И вновь небольшая переделочка софта для Скорпионовских часов CMOS.",
+    "order": 3,
+    "issue_label": "47",
+    "short_slug": "IS-DOS_-_И_вновь_небольшая_переделочка_софта_для_Скорпионовс"
+  },
+  {
+    "article_id": 16832,
+    "article_url": "https://zxpress.ru/article.php?id=16832",
+    "print_url": "https://zxpress.ru/print.php?id=16832",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "47",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16833,
+    "article_url": "https://zxpress.ru/article.php?id=16833",
+    "print_url": "https://zxpress.ru/print.php?id=16833",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16834,
+    "article_url": "https://zxpress.ru/article.php?id=16834",
+    "print_url": "https://zxpress.ru/print.php?id=16834",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "47",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

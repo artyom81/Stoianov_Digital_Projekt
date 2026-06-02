@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1999-06-29",
+  "order": 3,
+  "article_id": 10401,
+  "title_link": "Что-где-почем - что же мне пpислал Nemo: Open Letters, Headball, ZX-News 26-29, Text Utility.",
+  "title_h1": "City 16 - Что-где-почем - что же мне пpислал Nemo: Open Letters, Headball, ZX-News 26-29, Text Utility.",
+  "print_url": "https://zxpress.ru/print.php?id=10401",
+  "article_url": "https://zxpress.ru/article.php?id=10401",
+  "fetched_at": "2026-05-31T21:50:36Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2002-11-22",
+  "order": 14,
+  "article_id": 8719,
+  "title_link": "Возможности Спектрума - Pseudo-Color: миф или реальность? Алгоритм перевод чёрно-белого изображения в цветное.",
+  "title_h1": "Inferno 03 - Возможности Спектрума - Pseudo-Color: миф или реальность? Алгоритм перевод чёрно-белого изображения в цветное.",
+  "print_url": "https://zxpress.ru/print.php?id=8719",
+  "article_url": "https://zxpress.ru/article.php?id=8719",
+  "fetched_at": "2026-05-31T22:13:37Z"
+}

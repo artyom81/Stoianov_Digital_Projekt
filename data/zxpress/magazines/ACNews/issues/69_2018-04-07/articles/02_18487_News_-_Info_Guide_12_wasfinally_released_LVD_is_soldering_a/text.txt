@@ -1,0 +1,322 @@
+ACNews 69 - News - Info Guide #12 was finally released, LVD is soldering a new version of ZXNetUSB, Yerzmyey has released an interactive novel.
+News
+by Alone Coder
+Several months disappeared without trace. Info Guide #12 was
+finally released, then so much job fell upon me that I still
+can't get free. I act for two programmers (initially even
+three), although I'm more of an engineer.
+I glad to see more responses on this issue (more than before).
+So maybe I'll grow for another one if I had some free time :)
+In fact, there were
+14 issues, not 12 (because of fractional
+#2.5 and
+#4.5 ). If we count in Inferno (at least #3 and #4,
+where I prepared texts and music), the history is longer than
+that of Adventurer diskzine - but not than Spectrofon with
+24
+official issues. And ACNews has outrun the legendary Body
+electronic newspaper :) Now we have somewhere far ahead the
+classic editions of On-Line (
+85 issues) and Nicron ( 132
+issues), and also Fantastic e-paper that sadly missed anything
+Spectrum-ish :)
+
+Apart from the e-zine, I only released patches for Evo SDK and
+NedoLang - mostly because of a Turbo Sound bug in AYFX player. I 
+tried to start a new demo, wrote one effect, but the demo
+haven't taken shape. Then I wanted to make a scripting engine
+based on Lisp and Forth, but I still don't like all the
+variants.
+
+BTW, it is possible to invent a language effective for both FPGA
+and CPU. The idea was to break the program in blocks with vector
+inputs and vector outputs, and also multiplexers and
+demultiplexers. I dropped the idea before because of a problem
+with asynchronous connections (for example, setup lines for
+distant blocks). This works well for CPU but ruins the integrity
+of data in pipeline in FPGA. There is a solution: free the
+pipeline before sending data by this asynchronous connection.
+For this, we need to return a sygnal "input is ready" somehow.
+All in all, this can be solved, but for this, I need to drop
+everything and gather a group for this project that is unlikely.
+Nowadays, reconfigurable computing systems are world popular,
+and there are international symposia with grave sponsors like
+Intel and Microsoft. Maybe somebody is writing this just now,
+but there are no news. The main thing is to switch for
+asynchronous (self-synchronous) data transfer in FPGA (for
+example, with well-known Null Convention Logic), but it lacks
+good utilities for ddevelopment and debugging.
+
+Demoparties are multiplying:
+Tygrys invites for Speccy.pl Party
+in Warsaw,
+1Чth of April, 2018 (press
+"2" ).
+That's simultaneous with Cosmonaut Day organized by
+LVD.
+Maksagor even called me yesterday, inviting there :)
+John Silver promised to come for the first time for many years,
+but still haven't appeared. In 2017, he started one more new
+song, still unfinished. He composes in my presence. I once
+recorded the process on video using a cellphone, by I'm bad a
+cameraman, so the video is rotated 90 degrees. I put the video
+on my channel at YouTube
+(blkpntr). Long time ago I had a lot of
+videos and a playlist on the channel but Google has deleted
+everything. Today only this video and a long realtime coding
+session remained, where I was writing a multicolor scroll.
+
+LVD is soldering a new version of ZXNetUSB - network card for a
+real Speccy. The first version was released in early
+2013.
+DimkaM made an TCP/IP level emulator based on Unreal Speccy,
+available for people willing to write software for the board.
+Before that, all the software (IRC client, FTP server, and few
+small things) was written by DimkaM. And now he made a
+web-server allowing for uploading files via HTTP:
+https://youtu.be/WoAhldkybrO
+Hippiman, with two children, is writing a new game for Speccy.
+The engine even contains his own script compiler! :)
+
+Yerzmyey has released an interactive novel:
+http://yerzmyey.i-demo.pl/In_Nihilum_Reverteris_ENG.zip
+Jerri/AF also contacted me, he started to write a new game.
+One comrade (let me hide him for now) from Atari 8-bit scene
+tries to adapt Wolf 48K for his platform. His process is as
+follows:
+┌──────────────────────────────────────────────────────────────┐
+First I want to disassemble the code, that I can compile it
+myself in EmuZWin.
+Then describe it, basis on your sources, marks places that will
+have to be changed - eg remove stores to the attribute memory,
+The next step is contextual translation, i.e. the translation of
+entire procedures and not mnemonics-mnemonics.
+If it succeeds and the speed will be satisfactory (that's why
+I've asked you for several versions in different screen sizes),
+I'll back to the sprites version ...
+:-)
+└──────────────────────────────────────────────────────────────┘
+This way we can also convert from Atari 8-bit to Speccy. Who
+will convert Numen demo? :)
+
+Sand/mHm sent me a version of Fast Tracker with tone phase fix
+(see Info Guide #7 ):
+http://
+speccy-live.untergrund.net/2018/03/fast-tracker-1-08-beta1/
+Unfortunately, nobody has found yet, if the tone bit is reset
+with RESET signal.
+
+Dart Alver released several new versions of BGE graphics editor,
+including diamond shaded spray:
+https://yadi.sk/d/OgHSC-1bЗMfYn9
+(this is the constant link to new versions)
+So we finally can DRAW with spray :)
+
+AmoNik started to write an article about running sports, and in
+the middle he produced memories about arcades. Some other people
+also added their memories - I publish all them here.
+
+Utz sent me interesting information about electronics in GDR:
+Utz> 
+I've got a new two-page newspaper article about microprocessor 
+development in GDR. 
+https://www.jungewelt.de/artikel/324486.kein-bluff.html
+Check it out with google translate. Some background information 
+is here, btw:
+https://de.wikipedia.org/wiki/U61000
+Alone> 
+The article tells much new for me. I didn't even know that small
+GDR could beat whole USSR in electronic chips!
+Utz> 
+Weeeeell, you have to take this article with a grain of salt. jW 
+is a very pro-GDR newspaper 
+(https://de.wikipedia.org/wiki/Junge_Welt), they
+will defend the GDR even if the argument is at the expense of 
+the "tall brother" USSR. 
+
+Alone> 
+Can you explain some details of GDR's economy?
+How much money were borrowed from USSR and when they were
+returned, if any?
+Utz> 
+Disclaimer: I know very little about this, so this is all bits 
+and pieces and would need further verification. 
+
+Anyway, first we have to consider that GDR was obliged to war 
+reparation payments to the USSR. This amounts to 99,1 billion 
+(West-)German Marks at market value in 1953 (which is 98% of the 
+reparation obligations of all of Germany - west Germans didn't 
+pay a damn). It was partially paid in goods (mostly demontage of 
+industrial equipment and infrastructure - for example almost 
+half of all train tracks were demontaged and shipped to USSR). 
+Reparation obligations ended in 1953. We can see also see a 
+general shift in USSR tactics after the June 17th uprising. For 
+example the bill for the occupation costs was cut in half (from 
+1.6 to 0.8 billion East German Marks per year, at this time 
+we're probably talking 1 Ruble = 3 Marks). Also, USSR started to 
+lend money to GDR in 1956, about 1 billion rubles in total, to 
+be paid back until 1961. I have no information about the era 
+from beginning 60s to end of 70s, but it is likely that there 
+were no further loans, because in this time the trade balance 
+shifted significantly in favour of the GDR and GDR started 
+lending money to other socialist countries. In 1980s for sure 
+there were no more Soviet loans, and the GDR resorted to 
+borrowing money from West Germany (2 Billion West German Marks). 
+There is some indication that at the very end, after the fall of 
+the wall, USSR actually borrowed from the GDR. 
+
+Alone> 
+What goods were imported and from where?
+Utz> 
+Mostly raw materials, mainly from USSR (oil, gas, metals) and 
+Poland (coal). 
+
+Alone> 
+What was the difference between: 1.pre-1963 planning,
+2."Neues Oekonomisches System", 3."Einheit von Wirtschafts- und
+Sozialpolitik", 4.post-1970 planning?
+Utz> 
+Pre-63 planning is characterized by a very high degree of 
+centralization. The NOS was a set of reforms aimed at reducing 
+centralization by giving more autonomy to manufacturers. It's 
+basically the GDR version of the НЭП). Later it was renamed to 
+"Oekonomisches System des Sozialismus". The reforms were 
+economically successful, but the increased autonomy was seen as 
+a threat to the party. Hence, post-70s the reforms were 
+reversed, and focus was shifted from technological development 
+to improving the social situation, under the maxime of "Einheit 
+von Wirtschafts- und Sozialpolitik". And that's the critical 
+point: Under the leadership of Ulbricht (1950-71) GDR became 
+technologically very advanced, to the point that for example in 
+the field of computers they were ahead of West Germany by 
+large). But when Honecker came to power, these efforts were 
+abandoned completely (because Honecker hated technology, unlike 
+Ulbricht who was a science freak) so over the course of the 70s, 
+no advances were made in the field of computers, causing the GDR 
+to fall totally behind by 1980 (as you can see the article 
+"kindly" omits this fact). Only then they woke up and tried to 
+save the day, but it was too late. 
+
+Alone> 
+What other highly integrated chips were produced? Were there ROM
+chips, FDD controllers, DAC, ADC? Were they exported? Any export
+outside Eastern Bloc?
+Utz> 
+I will have to research more to give a good answer to this. 
+Generally I can say that yes, all these things were produced in 
+GDR (especially stuff cloned from Zilog), and no, there was no 
+export. Not even the internal demand of the apparatus could be 
+satisfied, let alone consumer demand. What did get exported was 
+mostly the analogue stuff: radios, TVs, typewriters, etc. 
+
+Alone> 
+There are rumors that TЗЧVM1 (made in 1991) is in fact a U880.
+(And other rumors that it is a native Russian clone.) Maybe
+Russians bought the schemes, or maybe whole technological line,
+or just unpacked chips? When it was? However there was also a
+VMЗ that doesn't match any other chip.
+Utz> 
+Most people here think that it is a clone of U880 because 
+supposedly it has the same quirks (e.g. carry not set by OUTI). 
+
+Alone> 
+I think all of this should be published. People know little
+about macroeconomics.
+Btw English is so poor:
+https://i.redditmedia.com/Cb_w_Mrht9OYL1T9TSw8S9KNckЧseHayZbkPsV
+k9vFY.png?w=573&s=Ocbfeb5d5d71ccбO142cfЧ525fЧffea9
+;)
+/на картинке Google Translate переводит фразу:
+Die Volkswirtschaftslehre (auch Nationaloekonomie,
+Wirtschaftliche Staatswissenschaften oder Sozialoekonomie, kurz
+VWL), ist ein Teilgebiet der Wirtschaftswissenschaft.
+Результат:
+The economics of economics (including economics, economics,
+economics, economics, economics, economics) is a part of
+economics. /
+Utz> 
+Hahaha that translation is gold indeed! (You've probably figured 
+it out by now, but just to be sure: VWL is economics from the 
+perspective of the state, as opposed to 
+'Betriebswirtschaftslehre' (BWL) which is economics from the 
+perspective of business.) 
+
+Sadly here in Germany we have the additional problem that there 
+was a hostile take-over, and the current system is doing it's 
+best to erase the legacy of the GDR. An exemplary case of this 
+process you can see here: 
+https://en.wikipedia.org/wiki/Palace_of_the_Republic,_Berlin
+which is now demolished and will be replaced with a replica of 
+the Prussian castle that stood there before. In any case it 
+means it's very difficult to get reliable and objective 
+information about the past. 
+
+Alone> 
+I found a big article in Russian about GDR computing factories:
+https://m.geektimes.ru/company/ua-hosting/blog/278508/
+It links to 4 German sites:
+http://www.robotron-computermuseum.efb-1.de/c_a5120.htm
+http://www.mdr.de/damals/archiv/robotron176.html
+http://www.robotrontechnik.de/index.htm?/html/standorte/robotron
+.htm
+http://www.welt.de/wirtschaft/webwelt/article13571719/Das-waren-
+die-besten-Computer-in-der-DDR.html
+I have been using a Robotron 5.25" disk drive - it is of great
+read-write quality and undestroyable. And it has 87 tracks :)
+
+Utz> 
+Yes, Robotron = the best! Along with RFT, another synonym for 
+"indestructability" :D 
+I used to own a Robotron CM1910 
+(http://www.robotron-computermuseum.efb-1.de/c_cm1910.htm), but
+it was partially broken (ehem) and missing some equipment. So 
+some years ago I gave it away to a friend who's been working on 
+restoring the machine ever since :o 
+
+I know most of those German sites, except the article in the Die 
+Welt. Especially the robotrontechnik.de is very very good, one 
+of the most comprehensive sources of information on GDR 
+computing (not only Robotron). 
+
+The efb-1 one is not so good, mostly personal ramblings of a 
+collector which are of questionable origin. Take for example 
+this:
+http://www.robotron-computermuseum.efb-1.de/c_kc85.htm
+"Robotron KC 85" - KC 85/2-4 which this page talks about are not 
+Robotron machines. They were made by VEB Mikroelektronik 
+Muhlhausen, a different company. Only KC 85/1 aka Z9001 aka KC 
+87, which is a totally different machine, was made by Robotron. 
+Then it continues "Die KC Reihe 85/2 bis 85/4 waren neben dem KC 
+87 die Homecomputer der DDR" (The KC series 85/2 through 85/4 
+were, along with the KC 87, the homecomputers of the GDR). Errm 
+no, they weren't. KC85 were almost exclusively used in 
+administration and education. Originally it was the idea to 
+market it as a home computer (hence the 85/2 was originally 
+called HC900 - HeimComputer 900), but it never happened. GDR 
+home computer users were using C64, Atari, Spectrum clones, or 
+home-made machines like everybody else in the Eastern blok. 
+
+The MDR article (MDR = Mitteldeutscher Rundfunk, a regional, 
+state-owned broadcasters that serves Saxony, Thuringia, and 
+Saxony-Anhalt, so roughly the southern half of the former GDR) 
+is somewhat typical of the way the GDR history is commonly 
+presented nowadays. As you can see by comparing with the 
+information on robotrontechnik.de, the article virtually ignores 
+the first 15 years of computing in GDR (compare 
+http://www.robotrontechnik.de/html/menue/technik-computer-uralt.
+htm). In regards to the R300, it also generously omits the fact
+that actually several hundreds of this machine were built, a 
+quantity that not even the power players in West Germany 
+(Nixdorf, Siemens) would match until the 70s. Still, I 
+appreciate the article because hey, at least they tried. 
+
+Some more sites, of varying quality: 
+
+http://www.ddr-rechentechnik.de
+http://www.robotron-net.de
+http://www.z1013.de
+http://www.eser-ddr.de
+https://web.archive.org/web/20050227154002/http://home.t-online.
+de/home/cyrill.cmk/robotron.htm
+https://web.archive.org/web/20040206044328/http://robotron.infor
+matik.hu-berlin.de/

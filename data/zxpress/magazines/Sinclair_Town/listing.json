@@ -1,0 +1,14 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1995-03-31",
+      "articles_count": 20
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1994-12-31",
+      "articles_count": 15
+    }
+  ]
+}

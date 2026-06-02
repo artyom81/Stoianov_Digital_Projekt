@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 9626,
+    "article_url": "https://zxpress.ru/article.php?id=9626",
+    "print_url": "https://zxpress.ru/print.php?id=9626",
+    "title_link": "От авторов - об ужасах фирменных спектрумов.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "От_авторов_-_об_ужасах_фирменных_спектрумов"
+  },
+  {
+    "article_id": 9627,
+    "article_url": "https://zxpress.ru/article.php?id=9627",
+    "print_url": "https://zxpress.ru/print.php?id=9627",
+    "title_link": "Новости - я сделал boot, Fatality сделали игру Kolobok 2.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Новости_-_я_сделал_boot_Fatality_сделали_игру_Kolobok_2"
+  },
+  {
+    "article_id": 9628,
+    "article_url": "https://zxpress.ru/article.php?id=9628",
+    "print_url": "https://zxpress.ru/print.php?id=9628",
+    "title_link": "Разборка - прохождение адвентюрного квеста Twillight (Страна Теней).",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Разборка_-_прохождение_адвентюрного_квеста_Twillight_Страна"
+  },
+  {
+    "article_id": 9629,
+    "article_url": "https://zxpress.ru/article.php?id=9629",
+    "print_url": "https://zxpress.ru/print.php?id=9629",
+    "title_link": "Мнение - Phantom Lord рассказывает что же такое \"настоящая музыка\".",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Мнение_-_Phantom_Lord_рассказывает_что_же_такое_настоящая_му"
+  },
+  {
+    "article_id": 9630,
+    "article_url": "https://zxpress.ru/article.php?id=9630",
+    "print_url": "https://zxpress.ru/print.php?id=9630",
+    "title_link": "Быстренько - самая быстрая процедура расчета адреса экрана по координатам и самая быстрая процедура печати точки.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Быстренько_-_самая_быстрая_процедура_расчета_адреса_экрана_п"
+  },
+  {
+    "article_id": 9631,
+    "article_url": "https://zxpress.ru/article.php?id=9631",
+    "print_url": "https://zxpress.ru/print.php?id=9631",
+    "title_link": "Ценник - Розничные цены на сигареты в городе Армавире.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Ценник_-_Розничные_цены_на_сигареты_в_городе_Армавире"
+  },
+  {
+    "article_id": 9632,
+    "article_url": "https://zxpress.ru/article.php?id=9632",
+    "print_url": "https://zxpress.ru/print.php?id=9632",
+    "title_link": "Музыкальная страничка - песня Крематорий \"Хабибулин\".",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Музыкальная_страничка_-_песня_Крематории_Хабибулин"
+  },
+  {
+    "article_id": 9633,
+    "article_url": "https://zxpress.ru/article.php?id=9633",
+    "print_url": "https://zxpress.ru/print.php?id=9633",
+    "title_link": "Эпилог - создатели газеты.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Эпилог_-_создатели_газеты"
+  }
+]

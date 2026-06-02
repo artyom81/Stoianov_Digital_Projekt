@@ -1,0 +1,15 @@
+{
+  "magazine_id": 222,
+  "magazine_name": "Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-03-30",
+  "order": 1,
+  "article_id": 14629,
+  "title_link": "Презентация газеты - еще одна газета.",
+  "title_h1": "Time 01 - Презентация газеты - еще одна газета.",
+  "print_url": "https://zxpress.ru/print.php?id=14629",
+  "article_url": "https://zxpress.ru/article.php?id=14629",
+  "fetched_at": "2026-05-31T23:14:29Z"
+}

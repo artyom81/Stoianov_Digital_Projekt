@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7678,
+    "article_url": "https://zxpress.ru/article.php?id=7678",
+    "print_url": "https://zxpress.ru/print.php?id=7678",
+    "title_link": "Наши новости - Скоро Новый год!..",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Наши_новости_-_Скоро_Новыи_год"
+  },
+  {
+    "article_id": 7679,
+    "article_url": "https://zxpress.ru/article.php?id=7679",
+    "print_url": "https://zxpress.ru/print.php?id=7679",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7680,
+    "article_url": "https://zxpress.ru/article.php?id=7680",
+    "print_url": "https://zxpress.ru/print.php?id=7680",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7681,
+    "article_url": "https://zxpress.ru/article.php?id=7681",
+    "print_url": "https://zxpress.ru/print.php?id=7681",
+    "title_link": "Сделай сам - Календарь на 1998 год.",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Сделаи_сам_-_Календарь_на_1998_год"
+  },
+  {
+    "article_id": 7682,
+    "article_url": "https://zxpress.ru/article.php?id=7682",
+    "print_url": "https://zxpress.ru/print.php?id=7682",
+    "title_link": "О разном - ENLIGHT-97 - краткий отчет от ROM CORP.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "О_разном_-_ENLIGHT-97_-_краткии_отчет_от_ROM_CORP"
+  },
+  {
+    "article_id": 7683,
+    "article_url": "https://zxpress.ru/article.php?id=7683",
+    "print_url": "https://zxpress.ru/print.php?id=7683",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

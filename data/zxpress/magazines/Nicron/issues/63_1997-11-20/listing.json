@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6879,
+    "article_url": "https://zxpress.ru/article.php?id=6879",
+    "print_url": "https://zxpress.ru/print.php?id=6879",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "63",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6880,
+    "article_url": "https://zxpress.ru/article.php?id=6880",
+    "print_url": "https://zxpress.ru/print.php?id=6880",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "63",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6881,
+    "article_url": "https://zxpress.ru/article.php?id=6881",
+    "print_url": "https://zxpress.ru/print.php?id=6881",
+    "title_link": "Информация - кандидат технических наук Моисей Гельман о повременной оплате телефонных разговоров в Москве.",
+    "order": 3,
+    "issue_label": "63",
+    "short_slug": "Информация_-_кандидат_технических_наук_Моисеи_Гельман_о_повр"
+  },
+  {
+    "article_id": 6882,
+    "article_url": "https://zxpress.ru/article.php?id=6882",
+    "print_url": "https://zxpress.ru/print.php?id=6882",
+    "title_link": "Образование - Дворец творчества и центр непрерывного математического образования проводят конкурс для учащихся 6 - 8 классов.",
+    "order": 4,
+    "issue_label": "63",
+    "short_slug": "Образование_-_Дворец_творчества_и_центр_непрерывного_математ"
+  },
+  {
+    "article_id": 6883,
+    "article_url": "https://zxpress.ru/article.php?id=6883",
+    "print_url": "https://zxpress.ru/print.php?id=6883",
+    "title_link": "Юмор - школьные истории.",
+    "order": 5,
+    "issue_label": "63",
+    "short_slug": "Юмор_-_школьные_истории"
+  },
+  {
+    "article_id": 6884,
+    "article_url": "https://zxpress.ru/article.php?id=6884",
+    "print_url": "https://zxpress.ru/print.php?id=6884",
+    "title_link": "Опросы - анкета для спектрумистов от \"Hавигатоpа Игpового Миpа\".",
+    "order": 6,
+    "issue_label": "63",
+    "short_slug": "Опросы_-_анкета_для_спектрумистов_от_Hавигатоpа_Игpового_Миp"
+  },
+  {
+    "article_id": 6885,
+    "article_url": "https://zxpress.ru/article.php?id=6885",
+    "print_url": "https://zxpress.ru/print.php?id=6885",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "63",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6886,
+    "article_url": "https://zxpress.ru/article.php?id=6886",
+    "print_url": "https://zxpress.ru/print.php?id=6886",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 8,
+    "issue_label": "63",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6887,
+    "article_url": "https://zxpress.ru/article.php?id=6887",
+    "print_url": "https://zxpress.ru/print.php?id=6887",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 9,
+    "issue_label": "63",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

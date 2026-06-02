@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1999-06-14",
+  "order": 8,
+  "article_id": 13622,
+  "title_link": "Смотри в оба - старые\r\nи добрые глюки\r\nTR-DOS.",
+  "title_h1": "City 15 - Смотри в оба - старые и добрые глюки TR-DOS.",
+  "print_url": "https://zxpress.ru/print.php?id=13622",
+  "article_url": "https://zxpress.ru/article.php?id=13622",
+  "fetched_at": "2026-05-31T21:50:35Z"
+}

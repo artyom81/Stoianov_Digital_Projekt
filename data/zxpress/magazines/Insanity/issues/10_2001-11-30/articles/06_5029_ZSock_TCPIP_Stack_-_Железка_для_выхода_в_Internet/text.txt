@@ -1,0 +1,118 @@
+Insanity 10 - ZSock TCP/IP Stack - Железка для выхода в Internet.
+...
+ZSock - The Z88 TCP/IP stack
+...
+Сбылась  мечта!  Творение  Клайва  Синклера  теперь способно
+баражировать  по  просторам  всемирной паутины. Технология
+ZSock
+позволяет пусть даже не
+Spectrum ZX,
+но хотя бы Z88 соединить со
+множеством  иных  пользователей интернета. Документ приводится в
+оригинальном варианте с кратким резюме на русском языке в конце.
+* * *
+...What is Zsock?
+ZSock  is  a work-in-progress TCP/IP stack for the Cambridge
+z88  portable.  The stack itself is written almost entirely in C
+and was developed using z88dk - the z88 Development Kit.
+Zsock  is  supplied  in  the form of an application which is
+also  a  package  (A  package  is  the  z88 equivalent of shared
+libraries or dlls) which permits you to be able to write network
+aware  applications  with the minimum of hassle. Included within
+the  ZSock  archive  is  an  example user application and also a
+daemon allowing file transfer.
+...Zsock has the following features:
+-  Connection to the 'net via the SLIP protocol
+  -  Implementation of IP/ICMP/UDP/TCP network layer
+-  Resolving (forward and backward) of hostnames
+  -  Ping client
+-  "Plugin" Network Driver Devices
+  -  Easily configurable
+  -  Extensive API to allow the writing of network applications
+...The example application/daemon supplies:
+-  A simple telnet program with a VT52 screen 
+  -  A tftp daemon allowing file transfer to and from the z88
+...History
+The  ZSock  project  was  started  back  in June 1998 with a
+version   implementing  ICMP, UDP, TCP  and   a   simple  telnet
+application  in  assembler.  However is soon became clear that a
+hand  written  assembler  TCP stack is no fun, and so a decision
+was  made  to  write  it  in C. But where's the compiler? And so
+started  the  story of z88dk but we'll leave that for now. Zsock
+has  been a long time in development (most of it spent sat on my
+harddrive not doing much!) but since March 2000 it has been in a
+usable  state,  exporting  an  API  for other applications. With
+release  12  (Febuary  2001),  the  tftp daemon returns allowing
+automated  file  transfer  to  and  from  the  z88 from across a
+network.
+z88dk - The z88 Development Kit
+...What is z88dk?
+z88dk   is   a   z80  C  cross  compiler  supplied  with  an
+assembler/linker  and  a  set  of  libraries  implementing the C
+standard  library  for a number of different z80 based machines.
+The  name  z88dk  originates  from the time when the project was
+founded and supported only the Cambridge z88 portable.
+The  compiler  featured  in  z88dk  is much enhanced Small C
+compiler,  the  compiler  accepts many features of ANSI C and is
+only  deficient  in  a  few  areas where implementation on a z80
+processor  might prove inefficient. The compiler performs simple
+optimizations, but the bulk of the optimization is done by a set
+of  peep-hole  rules,  which will typically reduce the size of a
+large project by up to a third.
+The  libraries  supplied  with  z88dk  are designed to be as
+generic  as  possible,  indeed  it  is possible to port to a new
+machine  simply  by  supplying  two  library  routines  and some
+startup  code.  It  is  hoped that one day z88dk will support as
+many  z80  based  machines as there is information available and
+sufficient interest in.
+...z88dk has the following features:
+-  Small  C+  based  compiler with structs, floats and other
+ANSI extensions;
+    -  Module  assembler/linker  which  only  includes  required
+library routines;
+-  Peephole  optimizer with rulesets that reduce the size of
+generated code by ~30% and improve speed;
+    - Easily retargetted C library including studio routines;
+- Retargettable VT100 terminal;
+    - Support for  over  a  dozen  z80  machines  (see below for
+details).
+...Supported Targets
+z88dk produces code that will run on the following machines:
+Cambridge  Computers  z88, Sinclair ZX Spectrum,
+         Sinclair  ZX81,  CP/M  based  machines,  Amstrad
+         NC100,    VZ200/300,   Sharp   MZ   series,   TI
+         calculators  (TI82,  TI83,  TI83+,  TI85, TI86),
+         ABC80  and  the  Jupiter  Ace.  Support is being
+         developed for other z80 based machines including
+         the Xircom Rex 6000. Preliminary support is also
+         available   for   the   Sam   Coupe,   MSX1  and
+         Spectravideo machines.
+...Platforms
+z88dk  is  known  to  run on the following platforms: Amiga,
+BeOS,  HP-UX  9,  Linux,  Solaris, Win32, Win16 and MSDOS. MSDOS
+support may be dropped due to 7inherent limitations it presents.
+OpenBSD  compiles  fail  but z88dk should work if compilation is
+performed by hand.
+...Who's responsible?
+Dom Morris started the project in August 1998 targetting the
+z88,  and  adding  preliminary  Spectrum support, and functional
+Amstrad  NC100  support.  Stefano Bodrato is responsible for the
+other  ports.  Henk  Poley recently joined the z88dk team and is
+refining and improving, with Stefano, the TI calculator support.
+So,  if  you have a problem with library support (except for
+the  z88)  contact  either  Stefano  or  Henk, or a problem with
+anything  else,  or  if  you  want  to retarget to a new machine
+contact Dom .
+* * *
+Итак,   создано   устройство   для   родственной   спектруму
+архитектуры,  которое  поддерживает  протоколы  передачи данных,
+применяемые  в
+internet'e:
+TCP/IP, SLIP и т.д.
+Все это позволяет
+обращаться к хостам, т.е. серверам, и получать с них информацию,
+равно  как и закачивать ее. Уже создан кросс компилятор, который
+предназначен   для   создания   программ   для  поддержки  этого
+инженерного  решения.  Сама эта программа, детальные технические
+характеристики  доступны  в сети интернет через поисковые машины
+по ключу 'zsock'.

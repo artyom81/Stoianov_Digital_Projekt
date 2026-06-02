@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3179,
+    "article_url": "https://zxpress.ru/article.php?id=3179",
+    "print_url": "https://zxpress.ru/print.php?id=3179",
+    "title_link": "GAME Обзор - Описание игры Mortal Kombat.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "GAME_Обзор_-_Описание_игры_Mortal_Kombat"
+  },
+  {
+    "article_id": 3180,
+    "article_url": "https://zxpress.ru/article.php?id=3180",
+    "print_url": "https://zxpress.ru/print.php?id=3180",
+    "title_link": "Давайте посмеемся - Конкурс на правильное решение 13 задачек.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Даваите_посмеемся_-_Конкурс_на_правильное_решение_13_задачек"
+  },
+  {
+    "article_id": 3181,
+    "article_url": "https://zxpress.ru/article.php?id=3181",
+    "print_url": "https://zxpress.ru/print.php?id=3181",
+    "title_link": "Железяка - Радиодатчик с питанием от батарейки для электронных часов.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Железяка_-_Радиодатчик_с_питанием_от_батареики_для_электронн"
+  },
+  {
+    "article_id": 3178,
+    "article_url": "https://zxpress.ru/article.php?id=3178",
+    "print_url": "https://zxpress.ru/print.php?id=3178",
+    "title_link": "От авторов - Презентация новой модемной информационно-развлекательной\r\n газеты. О рубриках газеты.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_Презентация_новои_модемнои_информационно-развле"
+  },
+  {
+    "article_id": 3182,
+    "article_url": "https://zxpress.ru/article.php?id=3182",
+    "print_url": "https://zxpress.ru/print.php?id=3182",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9492,
+    "article_url": "https://zxpress.ru/article.php?id=9492",
+    "print_url": "https://zxpress.ru/print.php?id=9492",
+    "title_link": "Веселуха - Компьютерные анекдоты.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Веселуха_-_Компьютерные_анекдоты"
+  },
+  {
+    "article_id": 2330,
+    "article_url": "https://zxpress.ru/article.php?id=2330",
+    "print_url": "https://zxpress.ru/print.php?id=2330",
+    "title_link": "Интервью - Интервью с Деннисом Ричи (Dennis M.\r\nRitchie) создателем языка программирования \"С\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_Интервью_с_Деннисом_Ричи_Dennis_MRitchie_создател"
+  },
+  {
+    "article_id": 10138,
+    "article_url": "https://zxpress.ru/article.php?id=10138",
+    "print_url": "https://zxpress.ru/print.php?id=10138",
+    "title_link": "Scene - От пати до пати: репортажи с CAFe'03 и FOReVer 5 и их сравнение.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Scene_-_От_пати_до_пати_репортажи_с_CAFe03_и_FOReVer_5_и_их"
+  },
+  {
+    "article_id": 7834,
+    "article_url": "https://zxpress.ru/article.php?id=7834",
+    "print_url": "https://zxpress.ru/print.php?id=7834",
+    "title_link": "Информбюро - О планах редакции журнала.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Информбюро_-_О_планах_редакции_журнала"
+  },
+  {
+    "article_id": 2334,
+    "article_url": "https://zxpress.ru/article.php?id=2334",
+    "print_url": "https://zxpress.ru/print.php?id=2334",
+    "title_link": "Demo party - оффициальные результаты Paradox'99 для ZX Spectrum.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Demo_party_-_оффициальные_результаты_Paradox99_для_ZX_Spectr"
+  }
+]

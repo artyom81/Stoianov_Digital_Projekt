@@ -1,0 +1,1093 @@
+ZX Review 5-6 - Читатель-читателю - Эффективная работа с дисководом .
+(c) KM SoftWare, 1997
+ЭФФЕКТИВНАЯ РАБОТА С ДИСКОВОДОМ
+С некоторых  пор  TR-DOS  уже
+никого не устраивает: медленная,
+полная глюков,  убогая  по  всем
+параметрам  система...   Поэтому
+все (или почти все) новые  прог-
+раммы используют прямое  обраще-
+ние к ВГ93. Я не буду  рассказы-
+вать, как это сделать  (тем  бо-
+лее, такой информации уже  очень
+много), а лучше приведу несколь-
+ко полезных программ.
+
+   Но сначала приведу пример ис-
+пользования TR-DOS с полным  пе-
+рехватом ошибок (почему-то рань-
+ше  РЕВЮ  об этом не написал...)
+Программа  состоит  из двух час-
+тей:  первая - сам драйвер, вто-
+рая - программа  обработки  оши-
+бок.
+ПРИМЕЧАНИЕ:
+все адреса в прог-
+раммах ориентированы  на  TR-DOS
+5.03/5.04t !!!
+140.
+        ORG 25000
+
+;вход:  C-код операции (5/6)
+;       HL,DE,B-параметры
+;выход: (23823),A,BC-код ошибки
+;       прерывания разрешены
+
+DRIVER  DI
+        EXX
+        LD A,#C3
+        LD (#5CC2),A
+        LD HL,ERROR
+        LD (#5CC3),HL;теперь по адресу
+                     ;#5cc2: JP ERROR
+        LD DE,(23798)
+        LD D,0
+        LD HL,23802
+        ADD HL,DE
+        LD (HL),8    ;быстрая скорость
+                     ;перемещения головки
+140.
+        LD HL,23752
+        ADD HL,DE
+        LD (HL),131  ;тип дисковода
+        LD (23836),SP
+        LD (STK+2),SP;сохранили SP
+        EXX
+        CALL 15635   ;в TR-DOS
+STK     DI           ;выход из драйвера
+        LD SP,0
+        LD BC,(23823)
+        LD B,0       ;в BC,A-код ошибки
+        LD A,C
+        EI
+        RET          ;выход
+PDE     DW 0
+PHL     DW 0
+
+;программа перехвата ошибок TR-DOS
+
+ERROR   LD (PDE),DE
+        LD (PHL),HL
+        LD E,A
+        LD A,(23823)
+        AND A
+        JP NZ,NODSK  ;нет диска
+        LD A,E
+        POP DE
+        LD HL,8020
+        AND A
+        SBC HL,DE
+        JR Z,PRBREAK ;проверка BREAK
+        LD HL,#028E
+        AND A
+        SBC HL,DE
+        JR Z,OPRKEY  ;опрашивается клава
+        LD HL,16
+        AND A
+        SBC HL,DE
+        JR Z,PRRST16 ;что-то печатается
+TODOS   LD DE,(PDE)
+        LD HL,(PHL)
+        RET          ;возврат в TR-DOS
+
+PRBREAK CALL 8020    ;программа опроса
+                     ;"BREAK". выход:
+                     ;scf-не нажата
+        JP C,TODOS
+        LD A,12
+ERR     LD (23823),A
+        JP STK
+NODSK   LD A,6
+        JR ERR
+
+BYTE    DB 0         ;в случае DISK ERROR
+                     ;в нем "D",READ ONLY
+                     ;-в нем "R"
+
+FLAG    DB 0         ;если<>0,то уже была
+                     ;ошибка
+
+;программа проверки ошибки
+;при вызове 15635 с C=5/6 может печататься
+;только "DISK ERROR" или "READ ONLY" (мы
+;уже перехватили "NO DISK". Определяем
+;ошибку по печатаемому байту: "D" - DISK
+;ERROR, "R" - READ ONLY.
+
+PRRST16 LD A,(FLAG)
+        AND A
+        JP NZ,TODOS
+        CP "D"
+        JR Z,DISKERR
+        CP "R"
+        JR Z,READONL
+        JP TODOS
+DISKERR LD (BYTE),A
+DERR    LD A,255
+        LD (FLAG),A
+        JP TODOS
+READONL LD (BYTE),A
+        JR DERR
+
+;ПРОГРАММА ОПРОСА КЛАВИАТУРЫ
+;запрос  возникает после печати сообщений
+;DISK ERROR,READ ONLY(RETRY,ABORT,IGNORE)
+;мы уже знаем, какая ошибка (из BYTE),
+;поэтому печатаем сообщение и опрашиваем
+;клавиатуру. Адрес программы печати и
+;опроса берется из переменной (ADRES).
+;Можете изменить ее (на выходе в A должен
+;быть код: R-RETRY,A-ABORT,I-IGNORE.
+
+OPRKEY  LD HL,(ADRES)
+        LD DE,CONT
+        PUSH DE
+        JP (HL)
+CONT    CP "A"     ;ответ "ABORT" ?
+        JR Z,ABORT ;если да,то переход
+        POP DE
+        POP DE     ;восстанавливаем стек
+        LD HL,4199 ;адрес в ПЗУ TR-DOS
+        PUSH HL
+        JP 15663
+ABORT   LD A,7     ;код ошибки
+        JR DERR
+ADRES   DW 0
+2
+   Как видите, программа  огром-
+ной длины:  гораздо больше кодо-
+вых LOADER'ов, медленнее их  ра-
+ботает и  т.д.  Поэтому  гораздо
+удобнее применять свой  драйвер,
+который  мог  бы  записывать/чи-
+тать с диска.
+TURBO LOADER
+А это переделка  loader'а  из
+ZX-РЕВЮ 6/96.  Программа  теперь
+не только ускорена, но  и  может
+перехватывать все ошибки  диска,
+что немаловажно в системных про-
+граммах...
+140.
+;Вход: DE-трек/сектор
+;      HL-адрес в памяти
+;      B -количество секторов
+
+В ячейку (BYTE+1) нужно занести количест-
+во повторов при дисковой ошибке (1-255).
+В ячейку (DRIVE) нужно занести номер
+дисковода для работы (0-3).
+
+        ORG 32768
+
+LOADER  DI
+        LD A,D
+        AND A
+        RRA
+        LD C,#7F  ;нужный трек
+        CALL DOS
+        DW #2A53
+BYTE    LD A,3    ;установки для повтора
+        LD (RETRY+1),A
+        XOR A
+        LD (BYTE1+1),A
+        LD (ERR),A;нет ошибки
+        LD A,#18  ;код "позиционирование"
+M3      CALL DOS
+        DW #2FC3  ;выдали на ВГ
+        CALL DOS
+        DW #3EF5 ;ждем выполнения команды
+        LD A,(DRIVE)
+        OR #3C    ;сторона 0
+        BIT 0,D
+        JR Z,MM1
+M2      LD A,(DRIVE)
+        OR #2C    ;сторона 1
+MM1     CALL DOS
+        DW #1FF3  ;заносим в порт #FF
+M1      CALL 8020 ;опр.BREAK,можно убрать
+        JR NC,M7
+        PUSH HL
+        PUSH BC
+        LD A,(#5CD6)
+        PUSH AF
+        LD C,#5F
+        LD A,E
+        INC A
+        CALL DOS  ;заносим в порт сектора
+        DW #2A53
+        LD BC,M5  ;адрес продолжения
+        PUSH BC
+        LD BC,7   ;адрес байта 1
+        PUSH BC
+        LD BC,#2090 ;адрес проги TR-DOS
+        PUSH BC
+        LD BC,#017F ;адрес порта. B=1
+        JP 15663  ;вход в TR-DOS
+M5      DI        ;продолжение
+        LD HL,#5CD6
+        POP AF
+        CP (HL)   ;была ли ошибка ?
+        JR Z,NORMA;если не было...
+        LD (HL),A ;восстановили адрес
+BYTE1   LD A,0    ;ошибка была, узнаем,
+RETRY   CP 0      ;вышло ли кол-во повто-
+        JR Z,ERROR;ров.Если вышло,переход
+        INC A     ;Не  вышло, увеличиваем
+        LD (BYTE1+1),A ;счетчик
+NORMA   POP BC    ;нормальное продолжение
+        POP HL    ;восстанавливаем HL,BC
+NORMA1  INC H     ;новый адрес в памяти,
+        DEC B     ;все сектора считали ?
+        JR Z,M6   ;если да,то выход
+        INC E     ;новый сектор
+        BIT 4,E   ;если <16,то переход на
+        JR Z,M1   ;чтение сектора
+        LD E,0    ;Новый трек
+        INC D
+        BIT 0,D   ;если side 1,то ее  ус-
+        JR NZ,M2  ;тановка и чтение
+        LD A,#58  ;Код "шаг вперед"
+        JR M3     ;в цикл
+M6      INC E     ;Прога выхода.
+        BIT 4,E   ;Корректируем
+        JR Z,$+5  ; сектор/трек.
+        LD E,0
+        INC D
+M7      EI        ;выход
+        RET
+ERROR   PUSH DE   ;прога обработки ошибок
+        LD (#5CD8),A
+        CALL DOS
+        DW #2740  ;читаем порт #1F
+        LD A,(#5CCD)
+        BIT 7,A   ;не крутится ?
+        JR NZ,NDSK;значит нет диска
+DISKERR LD HL,(ADRES)
+        LD DE,CONT;вызов проги опроса
+        PUSH DE   ;клавиатуры (должна
+        JP (HL)   ;возвращать в A код
+                  ; R-RETRY,A-ABORT
+                  ; I-IGNORE
+CONT    POP DE    ;Восстановили регистры
+        POP BC
+        POP HL
+        AND 223   ;буква заглавная
+        CP "A"
+        JR Z,ERR7 ;если ABORT,то выход
+        CP "I"    ;если IGNORE,то читаем
+        JR Z,LOADER ;еще раз...
+        LD A,D    ;если RETRY,то заново
+        LD C,#7F  ;разгоняем диск
+        SRL A
+        CALL DOS
+        DW #2A53
+        LD A,#18
+        CALL DOS
+        DW #2FC3
+        XOR A     ;обнуляем счетчик
+        LD (BYTE1+1),A
+        JR NORMA1 ;переход в программу
+NDSK    LD A,6    ;ошибка NO DRIVE
+ER      LD (ERR),A
+        EI
+        RET
+ERR7    LD A,7    ;ошибка DISK ERROR
+        JR ER
+ERR     DB 0      ;код ошибки
+2
+   Ну и еще одно. Перед  вызовом
+LOADER'а  желательно   проверить
+наличие диска в  дисководе  (как
+написано  в  первой  программе),
+иначе, во-первых,  есть  вероят-
+ность  зависания  программы  (до
+вставки диска), во-вторых, вмес-
+то кода ошибки 6 (NO  DISK)  бу-
+дет выдаваться  ошибка  7  (DISK
+ERROR), так как возникнет ситуа-
+ция с ошибкой ВГ "сектор не най-
+ден" с включенным 4 битом в #1F.
+Рекомендуемое количество  повто-
+ров = 2-5, так как при не  очень
+хорошем качестве  дисковода  или
+диска  LOADER читает сектор не с
+первого раза...
+TURBO SAVER
+Листинг не привожу, он анало-
+гичен  TURBO LOADER'у  за исклю-
+чением программы с метки  M1  до
+метки M5.  Вот как все будет вы-
+глядеть:
+140.
+M1      CALL 8020
+        JR NC,M7
+        PUSH HL
+        PUSH BC
+        LD A,(#5CD6)
+        PUSH AF
+        LD C,#5F     *
+        LD A,E
+        INC A
+        CALL DOS
+        DW #2A53
+        LD BC,#015F
+        PUSH BC
+        LD BC,#2099
+        PUSH BC
+        LD BC,#3FCA
+        PUSH BC
+        LD A,#A0
+        LD C,#1F
+        CALL DOS
+        DW #2A53
+        LD BC,#017F
+        JP 15663
+2
+   Звездочкой отмечена строка, с
+которой начинаются изменения.  И
+еще нужно  подправить  программу
+ERROR, так как теперь еще  могут
+включаться биты 6 и 5 порта  #1F
+- защита записи и ошибка записи.
+После  первого  позиционирования
+желательно  сделать  паузу  (как
+программа PAUSE в FREE FORMATTE-
+R'е).
+TURBO DOS
+Пример  использования   TURBO
+LOADER/SAVER.  Программа  имити-
+рует работу  нескольких  функций
+TR-DOS'а, но  делает  это  много
+быстрее.  В  программе   имеется
+в виду, что  LOADER/SAVER  после
+работы выдает следующий трек/се-
+ктор в DE и в (23796).
+
+ Вход: в метку DOS.
+   номер функции в C:
+
+0 - восстановление;
+1 - выбор дисковода из A;
+2 - перенос имени файла в буфер
+    из HL;
+3 - перенос имени файла из буфе-
+    ра в HL;
+4 - поиск имени файла (имя в бу-
+    фере);
+5 - чтение файла (имя в буфере),
+    при A=0 адрес загрузки бере-
+    тся из каталога;  A<>0 - ад-
+    рес берется из HL;
+6 - запись файла длиной DE с ад-
+    реса HL;
+7 - чтение имени файла с номером
+    из A;
+8 - запись имени файла с номером
+    из A.
+   (Для функций 3,4,5,6,7,8  имя
+файла должно быть в буфере).
+140.
+;вход в DOS. Функция в C.
+
+DOS     EI
+        LD (STK),SP  ;сохраняем регистры
+        LD (PHL),HL
+        LD (PDE),DE
+        LD (PA),A
+        LD A,C
+        CP 9         ;номер функции
+        RET NC       ;превышен ?
+        LD B,0
+        LD HL,TABLE  ;адрес таблицы
+        ADD A,A      ;умножили на 2
+        LD C,A
+        ADD HL,BC
+        LD E,(HL)
+        INC HL
+        LD D,(HL)
+        PUSH DE      ;адрес перехода на
+        LD HL,(PHL)  ; стек
+        LD DE,(PDE)  ;восстанавливаем
+        LD A,(PA)    ; регистры
+        DI           ;запрет прерываний
+        RET          ;переход
+
+;таблица переходов для DOS
+
+TABLE   DW WOST    ;восстановление
+        DW SELDRV  ;смена дисковода
+        DW RNAME   ;(HL) в буфер имени
+        DW SNAME   ;буфер имени в (HL)
+        DW FOUNDER ;поиск файла
+        DW READFIL ;чтение файла
+        DW SAVEFIL ;запись файла
+        DW RNAME1  ;чтение имени файла
+        DW SNAME1  ;запись имени файла
+
+;программа выхода из DOS'а
+
+EXIT    DI
+        LD SP,(STK);восстановили стек
+        LD BC,(23823) ;код ошибки
+        LD B,0     ;в BC
+        LD A,C     ;и в A
+        EI         ;разрешили прерывания
+        RET        ;выход
+
+;установка ошибки DISK ERROR
+
+ERR7    LD A,7
+ERR     LD (23823),A
+        JP EXIT
+
+;установка ошибки NO DISK
+
+ERR6    LD A,6
+        JR ERR
+
+;перенос имени файла из HL в буфер имени
+
+RNAME   LD DE,NAME
+        LD BC,16
+        LDIR
+        JP EXIT
+
+;противоположно RNAME
+
+SNAME   LD DE,NAME
+        LD BC,16
+        EX DE,HL
+        LDIR
+        JP EXIT
+
+;поиск файла по имени. Если файла нет, то
+;в (23823) будет 1, если есть, то в 23838
+;будет его номер,в 23823 будет 0,в буфере
+;имени будет его полное имя.
+
+FNDFILE LD B,8       ;8 секторов каталога
+        LD DE,0      ;трек 0 сектор 0
+        XOR A        ;номер файла 0
+        LD (23838),A
+F1      PUSH BC      ;цикл по секторам
+        PUSH DE
+        LD HL,BUFER  ;чтение сектора
+140.        CALL LOADER
+        LD B,16      ;16 имен файлов
+        LD HL,BUFER  ;адрес буфера
+F2      LD A,(HL)    ;если конец
+        AND A        ; каталога (байт 0)
+        JR Z,NOFND
+        PUSH BC      ;цикл по именам
+        PUSH HL
+        CALL CPNAME  ;сравнение имени
+        POP HL
+        POP BC
+        JR C,FOUND   ;если файл найден
+        LD DE,16     ;увеличили адрес
+        ADD HL,DE    ; имени
+        LD A,(23838) ;увеличили номер
+        INC A        ; файла
+        LD (23838),A
+        DJNZ F2      ;в цикл имен
+        POP DE
+        POP BC
+        INC E        ;увеличили номер
+        DJNZ F1      ; сектора
+NOFOUND LD A,1       ;файл не найден
+CODERR  LD (23823),A ;установка ошибки
+        RET
+NOFND   POP DE       ;файл не найден
+        POP BC
+        JR NOFOUND
+FOUND   LD DE,NAME   ;файл найден
+        LD BC,16     ;имя в именной буфер
+        LDIR
+        POP DE
+        POP BC
+        XOR A        ;нет ошибки
+        JR CODERR
+
+;программа сравнивает 9 символов HL с DE
+;и если они равны, то SCF, если нет-AND A
+
+CPNAME  LD B,9
+CP1     LD A,(DE)
+        CP (HL)
+        JR NZ,NCP
+        INC HL
+        INC DE
+        DJNZ CP1
+YCP     SCF
+        RET
+NCP     AND A
+        RET
+
+;функция "поиск файла"
+
+FOUNDER CALL FNDFILE
+        JP EXIT
+
+;функция "восстановление"
+
+WOST    XOR A
+        CALL POSIT
+        JP EXIT
+
+;функция "выбор дисковода"
+
+SELDRV  LD (23798),A
+        OR 60
+        CALL TOFF
+        JP WOST
+
+;позиционирование на логический трек из A
+;обрабатывается NO DISK.
+
+POSIT   PUSH AF    ;сохраняем трек
+        CALL NODISK;прога в F.FORMATTER'е
+        JP C,ERR6  ;если нет диска.
+        LD A,%11000000 ;чтение адреса
+        CALL TO1F
+        LD HL,BUFER;читаем адрес любого
+        LD DE,0    ;сектора для проверки
+        LD C,#7F   ;на TR-DOS
+        LD IX,16357
+        CALL DOS
+        LD A,(BUFER+1) ;трек 0 ?
+        AND A
+        JP NZ,ERR7
+        LD A,(BUFER+3) ;сектор >15 ?
+        CP 16
+        JP NC,ERR7
+        LD A,(BUFER+4) ;длина <>256 ?
+        CP 1
+        JP NZ,ERR7
+        POP AF
+        PUSH AF
+        SRL A      ;делим трек/2
+        CALL TO7F  ;в регистр данных
+        XOR A      ;головка на 0 треке,
+        CALL TO3F  ; его в порт дорожки
+        LD A,%00011000;"позиционирование"
+        CALL TO1F
+        LD IX,#3EF5;ждем выполнения
+        CALL DOS
+        POP AF     ;вспомнили трек
+        RRA        ;бит 0 в флаг C
+        LD A,(23798)
+        JR C,SIDE1 ;если сторона 1
+SIDE0   OR #3C     ;сторона 0
+SIDE    LD (23830),A ;выбор стороны
+        CALL TOFF  ;в системный порт
+        RET
+SIDE1   OR #2C     ;сторона 1
+        JR SIDE    ;выбор
+
+;буфер для операций с каталогом
+
+BUFER   DS 256
+
+;буфер имени файла
+
+NAME    DS 8       ;имя 8 символов
+TYPE    DB 0       ;расширение
+START   DW 0       ;адрес старта
+LENGHT  DW 0       ;длина в байтах
+SEC     DB 0       ;длина в секторах
+SECTOR  DB 0       ;первый сектор
+TRACK   DB 0       ;первый трек
+
+;системные переменные
+
+PHL     DW 0
+PDE     DW 0
+PBC     DW 0
+PAF     DW 0
+PA      DB 0
+STK     DW 0
+
+;программы входа в TR-DOS
+
+TOFF    LD C,#FF  ;в системный порт
+        JR TOWG
+TO3F    LD C,#3F  ;в порт дорожки
+        JR TOWG
+TO7F    LD C,#7F  ;в порт данных
+        JR TOWG
+TO1F    LD C,#1F  ;в порт команд
+TOWG    LD IX,#2A53 ;запись в порт из C
+DOS     PUSH IX   ;вызов любой точки DOS
+        DI
+        JP 15663
+
+;программа чтения имени файла номером A
+
+RNAME1  LD C,A    ;конструкция нужна для
+        XOR A     ; использования данной
+        LD (RN),A ; проги программой
+        LD A,C    ; SNAME1
+RNAME2  PUSH AF
+        RRA
+        RRA
+        RRA
+        RRA
+        AND %00001111 ;номер сектора
+        LD E,A
+        LD D,0
+        LD HL,BUFER
+        LD B,1
+        LD (PDE),DE ;запомнили сектор
+                    ; каталога
+        CALL LOADER ;читаем сектор
+        LD A,(23823)
+        AND A
+        JP NZ,EXIT
+        POP AF
+        AND %00001111 ;номер позиции
+        LD HL,BUFER
+        LD DE,16
+        LD B,A
+        AND A
+        JR Z,RN     ;расчет позиции
+RN1     ADD HL,DE
+        DJNZ RN1
+RN      DB 0        ;в случае RNAME тут 0
+                    ;если вызов SNAME, то
+                    ;#C9 (201) = RET
+        LD DE,NAME
+        LD BC,16
+        LDIR        ;перенос имени в
+        JP EXIT     ; буфер и выход
+
+;запись имени файла номером из A
+
+SNAME1  PUSH AF
+        LD A,#C9    ;устанавливаем код
+        LD (RN),A   ; возврата
+        POP AF
+        CALL RNAME2 ;читаем сектор.
+        LD DE,NAME  ;имя из буфера в
+        LD BC,16    ; каталог.
+        EX DE,HL
+        LDIR
+        LD DE,(PDE) ;вспомнили сектор
+        LD HL,BUFER ; в каталоге
+        LD B,1
+        CALL SAVER  ;запись сектора
+        JP EXIT     ; каталога и выход
+
+;программа чтения файла. Имя файла должно
+;быть в буфере имени.
+
+READFIL LD (PHL),HL ;сохранили адрес
+        AND A       ;берем из каталога ?
+        JR NZ,RF1   ;если нет,переход
+        LD HL,(START);берем из каталога
+        LD (PHL),HL
+RF1     XOR A      ;проверяем TR-DOS и
+        CALL POSIT ;NO DISK.
+        CALL FNDFILE ;поиск файла
+        LD A,(23823) ;берем код ошибки
+        AND A
+        JP NZ,EXIT ;файл не найден
+        LD DE,(SECTOR)
+        LD A,(SEC)
+        LD B,A
+        LD HL,(PHL)
+        CALL LOADER ;читаем файл
+        JP EXIT
+
+;программа записи файла. Имя файла в бу-
+;фере имени, адрес в HL, длина в DE.
+
+SAVEFIL LD (PHL),HL
+        LD (PDE),DE
+        XOR A
+        CALL POSIT  ;проверка
+        LD DE,8
+        LD B,1
+        LD HL,BUFER
+        CALL LOADER ;чтение лог.сектора
+        LD A,(BUFER+228)
+        CP 127      ;файлов 128 ?
+        JP Z,EXIT   ;если да, выход
+        LD C,A
+        LD A,(PDE+1);секторов в файле
+        LD E,A
+        LD A,(PDE)
+        AND A
+        JR Z,PRR    ;если длина не
+        INC E       ;кратна 256.
+PRR     LD A,E
+        LD (SCC+1),A;запомнили размер
+        LD A,C
+        LD D,0      ;длина в секторах
+        LD HL,(BUFER+229)
+        AND A       ;есть место на диске?
+        SBC HL,DE
+        JP C,EXIT   ;если нет,выход
+        LD HL,(BUFER+225)
+        LD (PAF),HL;запомнили 1 трек/сек.
+        INC A
+        PUSH AF     ;в A-позиция 1-го
+        RRA         ; пустого места в
+        RRA         ; каталоге
+        RRA
+        RRA
+        AND %00001111
+        LD E,A      ;получили номер
+        LD D,0      ; сектора. Трек 0
+        LD (PBC),DE ;Запомнили
+        LD HL,BUFER
+        CALL LOADER ;чтение из каталога
+        POP AF
+        AND %00001111 ;номер позиции
+        LD HL,BUFER
+        LD DE,16    ;поиск позиции
+        LD B,A
+        AND A
+        JR Z,PR1    ;если позиция =0
+PR      ADD HL,DE
+        DJNZ PR
+PR1     PUSH HL     ;позиция найдена
+SCC     LD A,0
+        LD (SEC),A  ;обьем файла
+        LD HL,(PDE) ;длина файла
+        LD (LENGHT),HL
+        LD HL,(PHL) ;старт файла
+        LD (START),HL
+        LD DE,(PAF) ;адрес файла на диске
+        LD (SECTOR),DE
+        LD B,A
+        CALL SAVER  ;запись файла
+        LD (PDE),DE ;1-ый трек/сектор
+        POP DE
+        LD A,(23823)
+        AND A
+        JP NZ,EXIT  ;если ошибка записи
+        LD HL,NAME
+        LD BC,16
+        LDIR        ;имя в каталог
+        LD DE,(PBC) ;вспомнили адрес
+        LD HL,BUFER ; сектора в каталоге
+        LD B,1
+        CALL SAVER  ;запись каталога
+        LD A,(23823)
+        AND A
+        JP NZ,EXIT  ;если ошибка
+        LD HL,BUFER ;читаем лог.сектор
+        LD DE,8
+        LD B,1
+        CALL LOADER
+        LD HL,(PDE) ;новый первый трек/
+        LD (BUFER+225),HL ;/сектор
+        LD HL,(BUFER+229)
+        LD DE,(SEC)
+        LD D,0
+        AND A
+        SBC HL,DE   ;новое кол-во свобод-
+        LD (BUFER+229),HL ;ных секторов
+        LD HL,BUFER+228
+        INC (HL)    ;новое кол-во файлов
+        LD HL,BUFER
+        LD DE,8
+        LD B,1
+        CALL SAVER  ;запись лог. сектора
+        JP EXIT     ;выход
+2
+         FREE FORMATTER
+Если вы делаете крутую игруш-
+ку, да еще большого  размера,  и
+рассчитываете  получить  хорошую
+прибыль с этого дела, то диск  с
+ней желательно  круто  защитить.
+Для этого  применяются  диски  с
+автозапуском  и   нестандартными
+форматами. Первую тему я  пропу-
+щу, там и так все ясно, так  что
+разговор пойдет о  нестандартных
+дискетах.
+   Для  получения  таких  дискет
+можно применять  программы  типа
+FREE FORMAT, но это неудобно,  а
+если делаете дистрибутивный  ко-
+пировщик, то  вобще  невозможно.
+Приведенная тут  программа  FREE
+FORMATTER мала по размеру, вызы-
+вается из машинного кода и  фор-
+матирует треки с системой секто-
+ров  любой  сложности   (правда,
+везде есть ограничения: не  пре-
+вышайте физический размер  трека
+(около 7000 байт), еще: ВГ93  не
+может  форматировать  сектора  с
+номерами #F5-#F7. Кстати, у этой
+программы еще один плюс: она  не
+формирует  нечто  под  названием
+"индексное поле", так что на IBM
+такой диск не прочесть.
+140.
+        ORG 32768
+
+;вход в программу форматирования
+;a-номер дисковода (0...3)
+;d-трек,с которого начинать формат
+;e-количество форматируемых треков
+;hl-адрес таблицы
+
+FORMAT  DI
+        LD (DRIVE),A
+        PUSH DE
+        PUSH HL
+        OR 60
+        CALL TOFF    ;выбор дисковода
+        CALL NODISK  ;проверка наличия
+        DI           ;диска
+        POP HL
+        POP DE
+        RET C        ;если диска нет
+        XOR A
+        CALL TO3F    ;текущий трек
+        LD A,D
+        LD (TRACK),A
+        LD (TBLADR),HL
+        LD (TABLADR),HL
+        LD A,(TRACK)
+        CALL POSIT   ;Спозиционировали
+        LD A,E
+        LD B,A
+LOOP1   PUSH BC
+        CALL FILLTRK ;Сформировали трек
+        LD A,(SIDE)
+        AND A
+        JR Z,NOPOSIT
+        LD A,(TRACK) ;Спозиционировали и
+        CALL POSIT   ;раскрутили диск
+NOPOSIT CALL PAUSE   ;пауза
+        LD A,#F4
+        CALL TO1F    ;форматирование
+        LD IX,#3FBA
+        LD DE,0
+        LD C,#7F
+        LD HL,49152
+        CALL DOS     ;запись трека
+        POP BC
+        DEC B
+        RET Z        ;конец формата
+        INC B
+        PUSH BC
+        LD HL,(TBLADR) ;восстановили
+        LD (TABLADR),HL;адрес таблицы
+        LD HL,TRACK  ;увеличили номер
+        INC (HL)     ;трека
+        POP BC
+        DJNZ LOOP1   ;цикл
+        RET
+
+;пауза между позиционированием и формати-
+;рованием.Успокаиваются головки дисковода
+
+PAUSE   LD B,255
+PAUS2   LD C,255
+PAUS1   DEC C
+        JR NZ,PAUS1
+        DJNZ PAUS2
+        RET
+
+;позиционирование на трек из a
+
+POSIT   PUSH DE
+        PUSH HL
+        PUSH AF
+        SRL A
+        CALL TO7F
+        LD A,%00011000 ;позиционирование
+        CALL TO1F
+        LD IX,#3EF5  ;ожидание выполнения
+        CALL DOS
+        DI
+        POP AF
+        POP HL
+        POP DE
+        RRA
+        JR C,SIDE1
+SIDE0   LD A,(DRIVE) ;установка стороны 0
+        OR #3C
+        CALL TOFF
+        XOR A
+        LD (SIDE),A
+        RET
+SIDE1   LD A,(DRIVE) ;установка стороны 1
+        OR #2C
+        CALL TOFF
+        LD A,1
+        LD (SIDE),A
+        RET
+140.
+;проверка наличия диска в дисководе
+;выход: SCF - нет диска, AND A - есть
+
+NODISK  LD A,#C3
+        LD (#5CC2),A ;задали адрес
+        LD HL,DERR   ;программы перехвата
+        LD (#5CC3),HL;ошибок
+        LD IX,15789
+        CALL DOS     ;проверка
+        AND A        ;диск есть
+        RET
+DRIVE   DB 0
+STK     DW 0
+DERR    POP DE
+        LD HL,8020
+        AND A
+        SBC HL,DE
+        JR Z,PRBREAK ;опрос BREAK
+ERR     DI           ;ошибка.Нет диска
+        LD SP,(STK)
+        SCF
+        RET
+PRBREAK CALL 8020
+        JR NC,ERR    ;если BREAK нажат
+        RET
+
+;программы входа в TR-DOS
+
+TO7F    LD C,#7F
+        JR TOWG
+TO3F    LD C,#3F
+        JR TOWG
+TO5F    LD C,#5F
+        JR TOWG
+TOFF    LD C,#fF
+        JR TOWG
+TO1F    LD C,#1F
+TOWG    LD IX,#2A53
+DOS     LD (STK),SP
+        PUSH IX
+        JP 15663
+
+;программы заполнения памяти байтом из D
+
+FILL    LD B,1
+FILL1   LD (IX+0),D
+        INC IX
+        DJNZ FILL1
+        RET
+
+;системные переменные
+
+TRACK   DB 0 ;логический номер трека
+SECTOR  DB 0 ;физический номер сектора
+SIDE    DB 0 ;сторона диска
+TABLADR DW 0 ;адрес в таблице
+TBLADR  DW 0 ;адрес самой таблицы
+
+;заполнение одного трека
+;TBLADR,TRACK,SIDE-установлены
+
+FILLTRK LD HL,(TBLADR)
+        LD IX,49152   ;адрес данных
+LOOP    LD A,(HL)
+        AND A
+        JR Z,DOP      ;сформировали трек
+        LD (SECTOR),A
+        PUSH HL
+        CALL FILLSEC  ;заполнили сектор
+        POP HL
+        INC HL        ;увеличили адрес в
+        INC HL        ;таблице
+        LD (TABLADR),HL
+        JR LOOP
+DOP     PUSH IX       ;трек сформирован,
+        POP DE        ;но если секторов
+        LD HL,49152+8000;мало,то нужно
+        AND A         ;заполнить остаток
+        SBC HL,DE     ;памяти пробелом.
+        RET C         ;Трек сформирован
+        LD B,H
+        LD C,L        ;заполняем остаток
+        LD H,D        ;трека байтом #4E
+        LD L,E
+        INC DE
+        LD (HL),#4E
+        LDIR
+        RET
+
+;заполнение одного сектора
+;IX-текущий адрес в дорожке
+;TRACK,SECTOR,SIDE установлены
+;программа аналогична TR-DOS'овской, но
+;та сразу заносит данные в порт ВГ93, а
+;эта формирует эти данные в памяти
+
+FILLSEC LD B,10
+        LD D,78
+        CALL FILL1
+        LD B,12
+        LD D,0
+        CALL FILL1
+        LD B,3
+        LD D,245
+        CALL FILL1
+        LD D,254
+        CALL FILL
+        LD A,(TRACK)
+        SRL A
+        LD D,A
+        CALL FILL       ;трек
+        LD A,(SIDE)
+        LD D,A
+        CALL FILL       ;сторона
+        LD HL,(TABLADR)
+        LD A,(HL)
+        PUSH HL
+        LD D,A
+        CALL FILL       ;сектор
+        POP HL
+        INC HL
+        LD A,(HL)
+        LD D,A
+        PUSH AF
+        CALL FILL       ;размер сектора
+        LD D,247
+        CALL FILL
+        LD B,22
+        LD D,0
+        CALL FILL1
+        LD B,3
+        LD D,245
+        CALL FILL1
+        LD D,251
+        CALL FILL
+        POP AF          ;заполняем буфер
+        AND A           ;в зависимости
+        JR Z,RAZ128     ;от размера
+        CP 2            ;сектора
+        JR Z,RAZ512
+        CP 3
+        JR Z,RAZ1024
+CONT1   LD B,0
+        LD D,0
+        CALL FILL1
+CONT    LD D,247
+        CALL FILL
+        LD B,50
+        LD D,78
+        CALL FILL1
+        RET
+RAZ128  LD B,128
+        LD D,0
+        CALL FILL1
+        JR CONT
+RAZ1024 LD B,0
+        LD D,0
+        CALL FILL1
+        LD B,0
+        LD D,0
+        CALL FILL1
+RAZ512  LD B,0
+        LD D,0
+        CALL FILL1
+        JR CONT1

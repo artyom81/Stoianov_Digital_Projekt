@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-09-30",
+  "order": 6,
+  "article_id": 5541,
+  "title_link": "Презентация - Turbo Debugger: демо-версия нового монитора-отладчика для компьютера ZX-Spectrum.",
+  "title_h1": "Adventurer 10 - Презентация - Turbo Debugger: демо-версия нового монитора-отладчика для компьютера ZX-Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=5541",
+  "article_url": "https://zxpress.ru/article.php?id=5541",
+  "fetched_at": "2026-05-31T21:34:10Z"
+}

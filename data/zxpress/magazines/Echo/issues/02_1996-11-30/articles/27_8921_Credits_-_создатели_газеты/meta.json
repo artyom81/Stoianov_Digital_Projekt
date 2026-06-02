@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-11-30",
+  "order": 27,
+  "article_id": 8921,
+  "title_link": "Credits - создатели газеты.",
+  "title_h1": "Echo 02 - Credits - создатели газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=8921",
+  "article_url": "https://zxpress.ru/article.php?id=8921",
+  "fetched_at": "2026-05-31T22:00:23Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16800,
+    "article_url": "https://zxpress.ru/article.php?id=16800",
+    "print_url": "https://zxpress.ru/print.php?id=16800",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16801,
+    "article_url": "https://zxpress.ru/article.php?id=16801",
+    "print_url": "https://zxpress.ru/print.php?id=16801",
+    "title_link": "Дом 16а - окончание рассказа.",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "Дом_16а_-_окончание_рассказа"
+  },
+  {
+    "article_id": 16802,
+    "article_url": "https://zxpress.ru/article.php?id=16802",
+    "print_url": "https://zxpress.ru/print.php?id=16802",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16803,
+    "article_url": "https://zxpress.ru/article.php?id=16803",
+    "print_url": "https://zxpress.ru/print.php?id=16803",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "42",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16804,
+    "article_url": "https://zxpress.ru/article.php?id=16804",
+    "print_url": "https://zxpress.ru/print.php?id=16804",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "42",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

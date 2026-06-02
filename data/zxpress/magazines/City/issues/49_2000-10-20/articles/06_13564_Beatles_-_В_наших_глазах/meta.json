@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "49",
+  "issue_date_iso": "2000-10-20",
+  "order": 6,
+  "article_id": 13564,
+  "title_link": "Beatles - В наших глазах.",
+  "title_h1": "City 49 - Beatles - В наших глазах.",
+  "print_url": "https://zxpress.ru/print.php?id=13564",
+  "article_url": "https://zxpress.ru/article.php?id=13564",
+  "fetched_at": "2026-05-31T21:52:17Z"
+}

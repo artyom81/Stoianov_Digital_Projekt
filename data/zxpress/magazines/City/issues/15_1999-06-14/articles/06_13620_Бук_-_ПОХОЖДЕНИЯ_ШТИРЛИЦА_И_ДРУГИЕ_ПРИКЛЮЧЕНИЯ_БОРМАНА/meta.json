@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1999-06-14",
+  "order": 6,
+  "article_id": 13620,
+  "title_link": "Бук - ПОХОЖДЕНИЯ ШТИРЛИЦА И ДРУГИЕ ПРИКЛЮЧЕНИЯ\r\n БОРМАНА.",
+  "title_h1": "City 15 - Бук - ПОХОЖДЕНИЯ ШТИРЛИЦА И ДРУГИЕ ПРИКЛЮЧЕНИЯ  БОРМАНА.",
+  "print_url": "https://zxpress.ru/print.php?id=13620",
+  "article_url": "https://zxpress.ru/article.php?id=13620",
+  "fetched_at": "2026-05-31T21:50:34Z"
+}

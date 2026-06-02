@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 17379,
+    "article_url": "https://zxpress.ru/article.php?id=17379",
+    "print_url": "https://zxpress.ru/print.php?id=17379",
+    "title_link": "От редакции - Содержание номера.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "От_редакции_-_Содержание_номера"
+  },
+  {
+    "article_id": 17380,
+    "article_url": "https://zxpress.ru/article.php?id=17380",
+    "print_url": "https://zxpress.ru/print.php?id=17380",
+    "title_link": "Kaktus - Воззвание к читателю.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Kaktus_-_Воззвание_к_читателю"
+  },
+  {
+    "article_id": 17381,
+    "article_url": "https://zxpress.ru/article.php?id=17381",
+    "print_url": "https://zxpress.ru/print.php?id=17381",
+    "title_link": "News - Новости не только нашего городка.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "News_-_Новости_не_только_нашего_городка"
+  },
+  {
+    "article_id": 17382,
+    "article_url": "https://zxpress.ru/article.php?id=17382",
+    "print_url": "https://zxpress.ru/print.php?id=17382",
+    "title_link": "Мысли вслух - Как-то одним прекрасным утром, ехал я в нашем забитом троллейбусе, направляясь к месту прохождения своей учебы в одном из местных ВУЗов...",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Мысли_вслух_-_Как-то_одним_прекрасным_утром_ехал_я_в_нашем_з"
+  },
+  {
+    "article_id": 17383,
+    "article_url": "https://zxpress.ru/article.php?id=17383",
+    "print_url": "https://zxpress.ru/print.php?id=17383",
+    "title_link": "Обзор - new version of FISHER.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Обзор_-_new_version_of_FISHER"
+  },
+  {
+    "article_id": 17384,
+    "article_url": "https://zxpress.ru/article.php?id=17384",
+    "print_url": "https://zxpress.ru/print.php?id=17384",
+    "title_link": "Футбольный клуб - Вот уж отшумели футбольные баталии полуфинала Лиги Чемпионов...",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Футбольныи_клуб_-_Вот_уж_отшумели_футбольные_баталии_полуфин"
+  },
+  {
+    "article_id": 17385,
+    "article_url": "https://zxpress.ru/article.php?id=17385",
+    "print_url": "https://zxpress.ru/print.php?id=17385",
+    "title_link": "Фан-клуб - Поскольку никакие фаны ещё не откликнулись и не написали мне в газету письмо поддержки своего любимого исполнителя, то я опубликую тексты нескольких песен группы, которая мне нравится, а именно: Наутилус Помпилиус.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Фан-клуб_-_Поскольку_никакие_фаны_еще_не_откликнулись_и_не_н"
+  },
+  {
+    "article_id": 17386,
+    "article_url": "https://zxpress.ru/article.php?id=17386",
+    "print_url": "https://zxpress.ru/print.php?id=17386",
+    "title_link": "Проза - Питерский хакер и его \"Citibank\".",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Проза_-_Питерскии_хакер_и_его_Citibank"
+  },
+  {
+    "article_id": 17387,
+    "article_url": "https://zxpress.ru/article.php?id=17387",
+    "print_url": "https://zxpress.ru/print.php?id=17387",
+    "title_link": "Credits - Напоследок...",
+    "order": 9,
+    "issue_label": "13",
+    "short_slug": "Credits_-_Напоследок"
+  }
+]

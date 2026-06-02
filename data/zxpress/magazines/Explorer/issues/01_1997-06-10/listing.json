@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 17420,
+    "article_url": "https://zxpress.ru/article.php?id=17420",
+    "print_url": "https://zxpress.ru/print.php?id=17420",
+    "title_link": "Психология - Осознанное сновидение: Как удержатся во сне.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Психология_-_Осознанное_сновидение_Как_удержатся_во_сне"
+  },
+  {
+    "article_id": 17421,
+    "article_url": "https://zxpress.ru/article.php?id=17421",
+    "print_url": "https://zxpress.ru/print.php?id=17421",
+    "title_link": "Психология - \"Цыганочка\" для Зигмунда Фрейда: Как помочь себе спpавиться со стpессом.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Психология_-_Цыганочка_для_Зигмунда_Фреида_Как_помочь_себе_с"
+  },
+  {
+    "article_id": 17422,
+    "article_url": "https://zxpress.ru/article.php?id=17422",
+    "print_url": "https://zxpress.ru/print.php?id=17422",
+    "title_link": "Юмор - Хроники диверсионного подразделения.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_Хроники_диверсионного_подразделения"
+  },
+  {
+    "article_id": 17423,
+    "article_url": "https://zxpress.ru/article.php?id=17423",
+    "print_url": "https://zxpress.ru/print.php?id=17423",
+    "title_link": "Юмор - Пpо то, как я завел себе девyшкy.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_Пpо_то_как_я_завел_себе_девyшкy"
+  },
+  {
+    "article_id": 17424,
+    "article_url": "https://zxpress.ru/article.php?id=17424",
+    "print_url": "https://zxpress.ru/print.php?id=17424",
+    "title_link": "Юмор - Почему курицы перешли через дорогу?",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_Почему_курицы_перешли_через_дорогу"
+  },
+  {
+    "article_id": 17425,
+    "article_url": "https://zxpress.ru/article.php?id=17425",
+    "print_url": "https://zxpress.ru/print.php?id=17425",
+    "title_link": "Юмор - Как воспитывать родителей.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_Как_воспитывать_родителеи"
+  },
+  {
+    "article_id": 5753,
+    "article_url": "https://zxpress.ru/article.php?id=5753",
+    "print_url": "https://zxpress.ru/print.php?id=5753",
+    "title_link": "PC и Spectrum - о новых версия эмуляторов ZX Spectrum.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "PC_и_Spectrum_-_о_новых_версия_эмуляторов_ZX_Spectrum"
+  },
+  {
+    "article_id": 15940,
+    "article_url": "https://zxpress.ru/article.php?id=15940",
+    "print_url": "https://zxpress.ru/print.php?id=15940",
+    "title_link": "Сеть в нашем городе - ZX-Net u ReаlNet.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Сеть_в_нашем_городе_-_ZX-Net_u_ReаlNet"
+  },
+  {
+    "article_id": 15323,
+    "article_url": "https://zxpress.ru/article.php?id=15323",
+    "print_url": "https://zxpress.ru/print.php?id=15323",
+    "title_link": "Спектрум - обзор прессы.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Спектрум_-_обзор_прессы"
+  },
+  {
+    "article_id": 5067,
+    "article_url": "https://zxpress.ru/article.php?id=5067",
+    "print_url": "https://zxpress.ru/print.php?id=5067",
+    "title_link": "Ассемблер - Z80 Flags: недокументированные комманды процессора Z80.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Z80_Flags_недокументированные_комманды_процессор"
+  },
+  {
+    "article_id": 8154,
+    "article_url": "https://zxpress.ru/article.php?id=8154",
+    "print_url": "https://zxpress.ru/print.php?id=8154",
+    "title_link": "Credits & Rec Lame - Кто трудился над номером, контакты...",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Credits_Rec_Lame_-_Кто_трудился_над_номером_контакты"
+  }
+]

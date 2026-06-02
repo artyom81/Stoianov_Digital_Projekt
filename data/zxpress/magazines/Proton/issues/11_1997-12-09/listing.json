@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16589,
+    "article_url": "https://zxpress.ru/article.php?id=16589",
+    "print_url": "https://zxpress.ru/print.php?id=16589",
+    "title_link": "Список BBS - ZX-Net 095.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Список_BBS_-_ZX-Net_095"
+  },
+  {
+    "article_id": 16590,
+    "article_url": "https://zxpress.ru/article.php?id=16590",
+    "print_url": "https://zxpress.ru/print.php?id=16590",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16591,
+    "article_url": "https://zxpress.ru/article.php?id=16591",
+    "print_url": "https://zxpress.ru/print.php?id=16591",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16592,
+    "article_url": "https://zxpress.ru/article.php?id=16592",
+    "print_url": "https://zxpress.ru/print.php?id=16592",
+    "title_link": "Железо - Как перегнать файлы со Spectrum'а на PC.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Железо_-_Как_перегнать_фаилы_со_Spectrumа_на_PC"
+  },
+  {
+    "article_id": 16593,
+    "article_url": "https://zxpress.ru/article.php?id=16593",
+    "print_url": "https://zxpress.ru/print.php?id=16593",
+    "title_link": "Психология - Все люди подвержены эмоциональным перегрузкам и стрессам, и с этим можно и нужно бороться.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Психология_-_Все_люди_подвержены_эмоциональным_перегрузкам_и"
+  },
+  {
+    "article_id": 16594,
+    "article_url": "https://zxpress.ru/article.php?id=16594",
+    "print_url": "https://zxpress.ru/print.php?id=16594",
+    "title_link": "Игрушки - THE DOUBLE.",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Игрушки_-_THE_DOUBLE"
+  },
+  {
+    "article_id": 16595,
+    "article_url": "https://zxpress.ru/article.php?id=16595",
+    "print_url": "https://zxpress.ru/print.php?id=16595",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16596,
+    "article_url": "https://zxpress.ru/article.php?id=16596",
+    "print_url": "https://zxpress.ru/print.php?id=16596",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "11",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

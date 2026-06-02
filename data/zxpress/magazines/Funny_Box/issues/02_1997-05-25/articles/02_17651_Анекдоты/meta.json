@@ -1,0 +1,15 @@
+{
+  "magazine_id": 87,
+  "magazine_name": "Funny Box",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-05-25",
+  "order": 2,
+  "article_id": 17651,
+  "title_link": "Анекдоты",
+  "title_h1": "Funny Box 02 - Анекдоты",
+  "print_url": "https://zxpress.ru/print.php?id=17651",
+  "article_url": "https://zxpress.ru/article.php?id=17651",
+  "fetched_at": "2026-05-31T22:09:08Z"
+}

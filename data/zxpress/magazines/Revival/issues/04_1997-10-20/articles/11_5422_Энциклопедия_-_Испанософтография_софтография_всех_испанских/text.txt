@@ -1,0 +1,408 @@
+Revival 04 - Энциклопедия - Испанософтография (софтография всех испанских спектрумовских фирм).
+┌──────────────────────────────────────────────────────────┐
+┌─┴──────────────────────────────────────────────────────────┴─┐
+│
+ЭНЦИКЛОПЕДИЯ
+│
+└─┬──────────────────────────────────────────────────────────┬─┘
+  └──────────────────────────────────────────────────────────┘
+
+                  ┌──────────────────────────┐
+                  │
+∙
+Испанософтография :)
+∙
+│
+                  └──────────────────────────┘
+Ни  с того, ни с сего меня посетила мысль создать софтографию
+всех  испанских  спектрумовских  фирм.  Иными словам, собрать из
+разных источников (а в них у меня недостатка нет) информацию обо
+всех  известных  испанских  играх.  Ведь  в  свое время эти игры
+гремели  не  меньше,  чем  английские,  а  по графике зачастую и
+опережали   их.  В доказательство этому можно привести цитату из
+одного западного печатного журнала:
+"It seems that the Spaniards
+are cleaning up in the Spectrum game business" ("Похоже, испанцы
+прибирают к рукам спектрумовский "игорный" бизнес"
+:).
+
+   Итак,   посмотрим,   что   у  меня  получилось.  Источники  я
+использовал  всевозможные, поэтому вряд ли найдется хоть десяток
+испанских игр, которых тут нет.
+╔═════╤══════════════════╤══════════════════╤══════════════════╗
+║
+No.
+│
+Название (исп.)
+│
+Название (англ.)
+│
+Фирма
+║
+╟─────┼──────────────────┼──────────────────┼──────────────────╢
+║ 001 │ 3 luces de       │ 3 Lights of      │                  ║
+║     │ Glaurung         │ Glaurung         │ Erbe             ║
+║     │                  │                  │                  ║
+║ 002 │ Abadia del       │                  │                  ║
+║     │ crimen           │ Crime Abbey      │ Opera            ║
+║     │                  │                  │                  ║
+║ 003 │ Abu Simbel       │ Profanation in   │                  ║
+║     │ Profanation      │ Abu-Simbel       │ Dinamic+Gremlin  ║
+║     │                  │                  │                  ║
+║ 004 │ After the War    │ After the War    │ Dinamic          ║
+║ 005 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 006 │ Amo del Mundo    │ Lords of Crom    │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 007 │ Angel Nieto      │ Angel Nieto      │ Opera            ║
+║     │ Pole 500cc       │ Pole 500cc       │                  ║
+║     │                  │                  │                  ║
+║ 008 │ Ares             │ Ares             │ Mixt Soft        ║
+║     │                  │                  │                  ║
+║ 009 │ Arkos            │ Arkos I          │ Arcadia          ║
+║ 010 │ (parts 1, 2 & 3) │ (parts 1, 2 & 3) │                  ║
+║ 011 │                  │                  │                  ║
+║ 012 │ Army Moves       │ Army Moves       │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 013 │ Aspar Gran Prix  │ Aspar Grand Prix │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 014 │ Astro Marine     │ Star Marine      │                  ║
+║ 015 │ Corps (1 & 2)    │ Corps (1 & 2)    │ Dinamic+Creep    ║
+║     │                  │                  │                  ║
+║ 016 │ A-Team, the      │ A-Team I, the    │ Zafiro           ║
+║ 017 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 018 │ Atrog            │ Atrog            │ Zafiro           ║
+║ 019 │ (parts 1, 2 & 3) │ (parts 1, 2 & 3) │                  ║
+║ 020 │                  │                  │                  ║
+║ 021 │ Autocras         │ Autocrash        │ Diabolic         ║
+║     │                  │                  │                  ║
+║ 022 │ Babaliba         │ Babaliba         │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 023 │ Barbarian        │ Barbarian        │ Palace           ║
+║ 024 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 025 │ Bestial Warrior  │ Bestial Warrior  │ Topo             ║
+║     │                  │                  │                  ║
+║ 026 │ Blackbeard       │ Blackbeard       │ Topo             ║
+║     │                  │                  │                  ║
+║ 027 │ Buggy Ranger     │ Buggy Ranger     │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 028 │ Buitre           │ Buitre           │ Topo             ║
+║     │                  │                  │                  ║
+║ 029 │ Camelot Warriors │ Camelot Warriors │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 030 │ Capitan Sevilla  │ Captain Seville  │                  ║
+║ 031 │ (parts 1 & 2)    │ (parts 1 & 2)    │ HiScore          ║
+║     │                  │                  │                  ║
+║ 032 │ Capitan Trueno   │ Captain Thunder  │                  ║
+║ 033 │ (parts 1 & 2)    │ (parts 1 & 2)    │ Dinamic+Gamesoft ║
+║     │                  │                  │                  ║
+║ 034 │ Carlos Sainz     │ Carlos Sainz     │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 035 │ Carvalho         │ Carvalho I       │ Dinamic          ║
+║ 036 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 037 │ Casanova         │ Casanova         │ Iber             ║
+║     │                  │                  │                  ║
+║ 038 │ Cesta            │ Cesta            │ KM               ║
+║     │                  │                  │                  ║
+║ 039 │ Chicago 30       │ Chicago 30       │ Topo             ║
+║     │                  │                  │                  ║
+║     │ City Connection  │ City Connection  │ Unknown          ║
+║     │                  │                  │                  ║
+║ 040 │ Coliseum         │ Colosseum        │ Topo             ║
+║     │                  │                  │                  ║
+║ 041 │ Comecocos        │ Pacman           │ MicroMania       ║
+║     │                  │                  │                  ║
+║ 042 │ Commando Quatro  │ Command 4        │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 043 │ Commando Tracer  │ Commando Tracer  │ Dinamic + Game   ║
+║     │                  │                  │                  ║
+║ 044 │ Corsarios        │ Pirates          │ Opera            ║
+║ 045 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 046 │ Cosa Nostra      │ Cosa Nostra      │ Opera            ║
+║     │                  │                  │                  ║
+║ 047 │ Cosmic Sheriff   │ Cosmic Sheriff   │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 048 │ Curro Jimenez    │ Curro Jimenez    │ Opera            ║
+║     │                  │                  │                  ║
+║ 049 │ Delfox           │ Delfox           │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 050 │ Diosa de Cozumel │ Godess of        │                  ║
+║ 051 │ (parts 1 & 2)    │ Cozumel (1 & 2)  │ AD-Dinamic       ║
+║     │                  │                  │                  ║
+║ 052 │ Dados            │ Dice             │ Unknown          ║
+║     │                  │                  │                  ║
+║ 053 │ Dammata          │ Dammata          │ Unknown          ║
+║     │                  │                  │                  ║
+║ 054 │ Desperado        │ Gunsmoke         │ Topo             ║
+║     │                  │                  │                  ║
+║ 055 │ Dia Tenebrarum   │ Dia Tenebrarum   │ Unknown          ║
+║     │                  │                  │                  ║
+║ 056 │ Die Heilige      │ Sacred Armour of │ Palace           ║
+║     │ Rustung des      │ Antiriad, The    │                  ║
+║     │ Antiriad         │                  │                  ║
+║     │                  │                  │                  ║
+║ 057 │ Disenador        │ Designer         │ Hollis           ║
+║     │                  │                  │                  ║
+║ 058 │ Don Quijote I    │ Don Quijote I    │ Dinamic          ║
+║ 059 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 060 │ Drazen Petrovic  │                  │                  ║
+║     │ Basketball       │ Petrovic         │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 061 │ Dustin           │ Dustin           │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 062 │ Dynasty Wars     │ Dynasty Wars     │ Erbe             ║
+║     │                  │                  │                  ║
+║ 063 │ E. Butragueno    │ E. Butragueno    │                  ║
+║     │ Futbol           │ Football         │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 064 │ El Gato          │ El Gato          │ Unknown          ║
+║     │                  │                  │                  ║
+║ 065 │ El Juego de      │ Royal Goose      │ Zafiro           ║
+║     │ la Oca           │                  │                  ║
+║     │                  │                  │                  ║
+║ 066 │ El Mundo Perdido │ El Mundo Perdido │ Topo             ║
+║     │                  │                  │                  ║
+║ 067 │ El Quijote       │ El Quijote       │ AD-Dinamic       ║
+║     │                  │                  │                  ║
+║ 068 │ Elecciones       │                  │                  ║
+║     │ Generales        │ General Election │ HobbyPress       ║
+║     │                  │                  │                  ║
+║ 069 │ Emilio Sanchez   │ Sanchez Vicario  │                  ║
+║     │ Vicario          │ Tennis           │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 070 │ Equipo A         │ A-Team           │ Zafiro           ║
+║     │                  │                  │                  ║
+║ 071 │ Explorer 31      │ Explorer 31      │ Unknown          ║
+║     │                  │                  │                  ║
+║     │                  │                  │                  ║
+║ 072 │ Fargo Wells      │ Fargo Wells      │ Topo             ║
+║     │                  │                  │                  ║
+║ 073 │ Fernando Martin  │ Fernando Martin  │                  ║
+║     │ Basket Master    │ Basket Master    │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 074 │ Freddy Hardest   │ Freddy Hardest   │                  ║
+║ 075 │ (parts 1, 2 & 3) │ (parts 1, 2 & 3) │ Dinamic          ║
+║ 076 │                  │                  │                  ║
+║ 077 │ Fred             │ Fred             │ Indescomp        ║
+║     │                  │                  │                  ║
+║ 078 │ Game Over        │ Game Over        │ Dinamic          ║
+║ 079 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 080 │ Gonzzalezz       │ Gonzzalezz       │ Opera            ║
+║ 081 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 082 │ Gremlins 2       │ Gremlins 2       │ Topo             ║
+║     │                  │                  │                  ║
+║ 083 │ Guerra de        │                  │                  ║
+║ 084 │ vajillas         │ Crockery Wars    │ AD-Dinamic       ║
+║     │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 085 │ Hammer Boy       │ Hammer Boy       │ Dinamic          ║
+║ 086 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 087 │ Humphrey         │ Humphrey         │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 088 │ Hundra           │ Hundra           │ Zeus+Dinamic     ║
+║     │                  │                  │                  ║
+║ 089 │ Ice-breaker      │ Ice-breaker      │ Topo             ║
+║     │                  │                  │                  ║
+║ 090 │ International    │ International    │ Palace           ║
+║     │ 3D Tennis        │ 3D Tennis        │                  ║
+║     │ Simulator        │ Simulator        │                  ║
+║     │                  │                  │                  ║
+║ 091 │ Jackson City     │ Jackson City     │ Diabolic         ║
+║     │                  │                  │                  ║
+║ 092 │ Jump             │ Jump             │ Ventamatic       ║
+║     │                  │                  │                  ║
+║ 093 │ Jungle Warrior   │ Jungle Warrior   │ Zigurat+True     ║
+║     │                  │                  │                  ║
+║ 094 │ King Kong        │ King Kong        │ Zigurat          ║
+║ 095 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 096 │ Ladro            │ Goody            │ Opera            ║
+║     │                  │                  │                  ║
+║ 097 │ La Corona Magica │ Magic Crown      │ OMK Soft         ║
+║     │                  │                  │                  ║
+║     │                  │                  │                  ║
+║ 098 │ La Espada        │ Sacred Sword     │ Topo             ║
+║     │ Sagrada          │                  │                  ║
+║     │                  │                  │                  ║
+║ 099 │ La Rescate       │ La Rescate       │ Dinamic          ║
+║ 100 │ Atlantida        │ Atlantida        │                  ║
+║     │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 101 │ Last Mission     │ Last Mission     │ Opera            ║
+║     │                  │                  │                  ║
+║ 102 │ Livingstone,     │ Livingstone, I   │                  ║
+║     │ supongo          │ Presume          │ Opera            ║
+║     │                  │                  │                  ║
+║ 103 │ Livingstone 2    │ Livingstone 2    │ Opera            ║
+║ 104 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 105 │ Lorna            │ Lorna            │ Topo             ║
+║     │                  │                  │                  ║
+║ 106 │ Los Inhumanos    │ Los Inhumanos    │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 107 │ Mach 3           │ Mach 3           │ Diabolic         ║
+║     │                  │                  │                  ║
+║ 108 │ Mad Mix          │ Mad Mix          │ Topo             ║
+║ 109 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 110 │ Map Snatch       │ Map Game         │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 111 │ Megacorp         │ Megacorp         │ Dinamic          ║
+║ 112 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 113 │ MegaNova         │ MegaNova         │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 114 │ Megaphoenix      │ Megaphoenix      │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 115 │ Metropolis       │ Metropolis       │ Topo             ║
+║     │                  │                  │                  ║
+║ 116 │ Michel Futbol    │ Michael Football │ Dinamic          ║
+║     │ Master           │ Master           │                  ║
+║     │                  │                  │                  ║
+║ 117 │ Misterio del     │ Mystery of the   │ Made in Spain/   ║
+║     │ Nilo             │ Nile, the        │ Firebird         ║
+║     │                  │                  │                  ║
+║ 118 │ Mortadelo y      │                  │                  ║
+║ 119 │ Filemon          │ Clever & Smart   │ Micro-partner    ║
+║     │ (parts 1 & 2)    │ (part 1 & 2)     │                  ║
+║     │                  │                  │                  ║
+║ 120 │ Mutan Zone       │ Mutant Zone      │ Opera            ║
+║ 121 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║ 122 │                  │                  │                  ║
+║ 123 │ Mot (demo and    │ Mot (demo and    │ Opera            ║
+║ 124 │ parts 1, 2 & 3)  │ parts 1, 2 & 3)  │                  ║
+║ 125 │                  │                  │                  ║
+║ 126 │ Mus              │ Mus              │ Unknown          ║
+║     │                  │                  │                  ║
+║ 127 │ Mythos           │ Mythos           │ Unknown          ║
+║     │                  │                  │                  ║
+║ 128 │ Narcopolice      │ Narcopolise      │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 129 │ Navy Moves       │ Navy Moves       │ Dinamic          ║
+║ 130 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 131 │ Nonamed          │ Nonamed          │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 132 │ Oberon 69        │ Oberon 69        │ Diabolic         ║
+║     │                  │                  │                  ║
+║ 133 │ Ole, Toro        │ Ole, Toro        │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 134 │ Otan Alert       │ NATO Alert       │ Thomas           ║
+║     │                  │                  │                  ║
+║ 135 │ Parchis          │ Parchesi         │ Unknown          ║
+║     │                  │                  │                  ║
+║ 136 │ Paris-Dakar      │ Paris-Dakar      │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 137 │ Perico Delgado   │ Perico Delgado   │ Topo             ║
+║     │                  │                  │                  ║
+║ 138 │ Phantis          │ Phantis          │ Dinamic          ║
+║ 139 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 140 │ Phantomas        │ Phantomas        │ Dinamic          ║
+║ 141 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 142 │ Poli Diaz Boxeo  │ Poli Diaz Boxing │                  ║
+║     │                  │                  │                  ║
+║ 143 │ Poogaboo         │ Poogaboo         │ Opera            ║
+║     │                  │                  │                  ║
+║ 144 │ Pulga            │ Bugaboo          │ Indescomp        ║
+║     │                  │                  │                  ║
+║ 145 │ Ram              │ Ram              │ Topo             ║
+║     │                  │                  │                  ║
+║ 146 │ Realm of         │ Realm of         │ Unknown          ║
+║     │ Impossibility    │ Impossibility    │                  ║
+║     │                  │                  │                  ║
+║ 147 │ Rescate en el    │ Gulf Rescue      │                  ║
+║ 148 │ Golfo (1 & 2)    │ (parts 1 & 2)    │ True+Opera       ║
+║     │                  │                  │                  ║
+║ 149 │ Rio Blanco       │ Rio Blanko       │ AMG              ║
+║     │                  │                  │                  ║
+║ 150 │ Rock'n'Roller    │ Rock'n'Roller    │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 151 │ Rocky            │ Rocco            │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 152 │ Roller           │ Roller           │ Topo             ║
+║     │                  │                  │                  ║
+║ 153 │ Sabrina          │ Sabrina          │ Genesis          ║
+║     │                  │                  │                  ║
+║ 154 │ Saimazoom        │ Saimazoom        │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 155 │ Satan (1 & 2)    │ Satan (1 & 2)    │ Dinamic          ║
+║ 156 │                  │                  │                  ║
+║ 157 │ Score            │ Score            │ Zigurat          ║
+║     │                  │                  │                  ║
+║ 158 │ Scrizam          │ Scrizam          │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 159 │ Senda Salvaje    │ Wild path        │ Zigurat          ║
+║ 160 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║     │                  │                  │                  ║
+║ 161 │ Silent Shadow    │ Silent Shadow    │ Topo             ║
+║     │                  │                  │                  ║
+║ 162 │ Simulador        │ Professional     │ Dinamic          ║
+║     │ Profesional de   │ Tennis Simulator │                  ║
+║     │ Tenis            │                  │                  ║
+║     │                  │                  │                  ║
+║ 163 │                  │                  │                  ║
+║ 164 │ Sirwood (demo &  │ Sirwood (demo &  │ Opera            ║
+║ 165 │ parts 1, 2 & 3)  │ parts 1, 2 & 3)  │                  ║
+║ 166 │                  │                  │                  ║
+║ 167 │ Sito Pons        │ Sito Pons        │ Zigurat          ║
+║     │                  │ Motorcycling     │                  ║
+║ 168 │                  │                  │                  ║
+║ 169 │ Sol Negro 1 & 2  │ Black Sun 1 & 2  │ Opera            ║
+║     │                  │                  │                  ║
+║ 170 │ Spirits          │ Spirits          │ Topo             ║
+║     │                  │                  │                  ║
+║ 171 │ Star Bowls       │ Star Bowls       │ Diabolic         ║
+║     │                  │                  │                  ║
+║ 172 │ Stardust         │ Stardust         │ Topo             ║
+║     │                  │                  │                  ║
+║ 173 │ Survivor         │ Survivor         │ R.G.R.-R.A.G.K.  ║
+║     │                  │                  │                  ║
+║ 174 │ Thanatos         │ Flying Dragons   │ G B Max          ║
+║     │                  │                  │                  ║
+║ 175 │ Thor             │ Thor             │ Pro In Soft Line ║
+║     │                  │                  │                  ║
+║ 176 │ Titanic          │ Titanic          │ Topo             ║
+║ 177 │ (parts 1 & 2)    │ (parts 1 & 2)    │                  ║
+║ 178 │                  │                  │                  ║
+║ 179 │ Toi Acid (demo,  │ Toi Acid (demo,  │ Iber Soft        ║
+║ 180 │ 1, 2, 3)         │ 1, 2, 3)         │                  ║
+║ 181 │                  │                  │                  ║
+║ 182 │ Tour 91          │ Tour 91          │ Topo             ║
+║     │                  │                  │                  ║
+║ 183 │ Tuareg           │ Tuareg           │ Topo             ║
+║     │                  │                  │                  ║
+║ 184 │ Turbo Girl       │ Turbo Girl       │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 185 │ Tute             │ Tute             │ GarzaSoft        ║
+║     │                  │                  │                  ║
+║ 186 │ Ulises           │ Ulises           │ Opera            ║
+║     │                  │                  │                  ║
+║ 187 │ Underground      │ Underground      │ Skorpid          ║
+║     │                  │                  │                  ║
+║ 188 │ Vampires' Empire │ Vampires' Empire │ Topo & Magic     ║
+║     │                  │                  │ Bytes            ║
+║     │                  │                  │                  ║
+║ 189 │ Viaje a Centre   │ Voyage to the    │ Topo             ║
+║     │ de la Tierra     │ Centre of the    │                  ║
+║     │                  │ Earth            │                  ║
+║     │                  │                  │                  ║
+║ 190 │ Video Olimpic    │ Video Olimpic    │ Dinamic          ║
+║     │                  │                  │                  ║
+║ 191 │ Wargame          │ Wargame          │ Microhobby       ║
+║     │                  │                  │ Magazine         ║
+║     │                  │                  │                  ║
+║ 192 │ West Bank        │ West Bank        │ Dinamic &        ║
+║     │                  │                  │ Gremlin          ║
+║     │                  │                  │                  ║
+║ 193 │ Zona 0           │ Zone 0           │ Topo             ║
+╚═════╧══════════════════╧══════════════════╧══════════════════╝

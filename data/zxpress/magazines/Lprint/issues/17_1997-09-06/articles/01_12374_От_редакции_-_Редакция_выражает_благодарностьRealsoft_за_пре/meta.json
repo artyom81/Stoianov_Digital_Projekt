@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1997-09-06",
+  "order": 1,
+  "article_id": 12374,
+  "title_link": "От редакции - Редакция выражает благодарность\r\nRealsoft за предоставление форматировщика\r\nFormat v1.5.",
+  "title_h1": "Lprint 17 - От редакции - Редакция выражает благодарность Realsoft за предоставление форматировщика Format v1.5.",
+  "print_url": "https://zxpress.ru/print.php?id=12374",
+  "article_url": "https://zxpress.ru/article.php?id=12374",
+  "fetched_at": "2026-05-31T22:21:16Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-03-31",
+  "order": 28,
+  "article_id": 8949,
+  "title_link": "Книга - Тайники ZX-Spectrum: Компьютерная арифметика.",
+  "title_h1": "Echo 03 - Книга - Тайники ZX-Spectrum: Компьютерная арифметика.",
+  "print_url": "https://zxpress.ru/print.php?id=8949",
+  "article_url": "https://zxpress.ru/article.php?id=8949",
+  "fetched_at": "2026-05-31T22:00:35Z"
+}

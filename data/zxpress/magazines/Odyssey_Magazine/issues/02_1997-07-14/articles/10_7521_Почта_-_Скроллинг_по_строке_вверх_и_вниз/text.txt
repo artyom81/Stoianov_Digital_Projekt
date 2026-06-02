@@ -1,0 +1,99 @@
+Odyssey Magazine 02 - Почта - Скроллинг по строке вверх и вниз.
+(C) E2 Soft CodeWalker,1997
+E-Mail: e2soft@extranet.ru
+Music by
+Shov
+Здравствуйте,Уважаемые!
+   Продлагаю вашему вниманию некоторое ко-
+личество процедурок.
+   Надеюсь,что они будут достаточно полез-
+ны  и  применимы  для  повседневных задач.
+Цель  этой  попытки опубликования не очень
+на  первый взгляд нужных процедур заключа-
+ется  в том, чтобы при необходимости реше-
+ния  подобной задачи кодеру не пришлось бы
+изобретать  хоть  и простой, но велосипед.
+Тем  более что для
+SPECCY
+необходимы прос-
+тые  и  быстрые программы и надо экономить
+на мелочах.
+  Все   приведенные  процедуры  используют
+альтернативные  регистры для ускорения ра-
+боты, поэтому при использовании из BASIC'а
+альтернативный HL необходимо сохранить.
+
+        Скроллинг по строке вверх
+  Использует таблицу при своей работе.
+RAS     EQU 7
+;всего скроллиру-
+;ются 7 линий,
+;чтобы не перебра
+;сывать пустоту
+UPSC    LD B,23
+;23 строки
+LD HL,TABST
+STT1    LD E,(HL)
+;1-я строка
+INC HL
+LD D,(HL)
+INC HL
+PUSH HL
+PUSH DE
+LD E,(HL)
+;2-я строка
+INC HL
+LD D,(HL)
+PUSH DE
+EXX
+POP HL
+POP DE
+LD BC,32*RAS
+;в линии 32 байта
+LP      PUSH HL
+PUSH DE
+DEFS 32,#ED,#A0
+EX AF,AF'
+POP DE
+INC D
+POP HL
+INC H
+EX AF,AF'
+JP PE,LP
+EXX
+POP HL
+DJNZ STT1
+RET
+Аналигично, скролл вниз по строкам
+DWSC    LD B,23
+LD HL,TABEN
+STT2    LD D,(HL)
+;1-STRK
+DEC HL
+LD E,(HL)
+DEC HL
+PUSH HL
+PUSH DE
+LD D,(HL)
+;2-STRK
+DEC HL
+LD E,(HL)
+PUSH DE
+EXX
+POP HL
+POP DE
+LD BC,32*RAS
+LPP     PUSH HL
+PUSH DE
+DEFS 32,#ED,#A0
+EX AF,AF'
+POP DE
+INC D
+POP HL
+INC H
+EX AF,AF'
+JP PE,LPP
+EXX
+POP HL
+DJNZ STT2
+RET

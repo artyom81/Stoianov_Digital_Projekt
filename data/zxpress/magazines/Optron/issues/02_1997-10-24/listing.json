@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1318,
+    "article_url": "https://zxpress.ru/article.php?id=1318",
+    "print_url": "https://zxpress.ru/print.php?id=1318",
+    "title_link": "Apple+Microsoft=? - Экспансия IBM на все остальные платформы.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "AppleMicrosoft_-_Экспансия_IBM_на_все_остальные_платформы"
+  },
+  {
+    "article_id": 1317,
+    "article_url": "https://zxpress.ru/article.php?id=1317",
+    "print_url": "https://zxpress.ru/print.php?id=1317",
+    "title_link": "Iron Falcons - О создании группы и ее планах.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Iron_Falcons_-_О_создании_группы_и_ее_планах"
+  },
+  {
+    "article_id": 1320,
+    "article_url": "https://zxpress.ru/article.php?id=1320",
+    "print_url": "https://zxpress.ru/print.php?id=1320",
+    "title_link": "TOP TEN - Десятка игр по результатам продаж.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "TOP_TEN_-_Десятка_игр_по_результатам_продаж"
+  },
+  {
+    "article_id": 1319,
+    "article_url": "https://zxpress.ru/article.php?id=1319",
+    "print_url": "https://zxpress.ru/print.php?id=1319",
+    "title_link": "Лит. страничка - Побасенка про старого деда.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Лит_страничка_-_Побасенка_про_старого_деда"
+  },
+  {
+    "article_id": 1321,
+    "article_url": "https://zxpress.ru/article.php?id=1321",
+    "print_url": "https://zxpress.ru/print.php?id=1321",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1315,
+    "article_url": "https://zxpress.ru/article.php?id=1315",
+    "print_url": "https://zxpress.ru/print.php?id=1315",
+    "title_link": "Четыре килобайта - Прошло 3 недели и...",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Четыре_килобаита_-_Прошло_3_недели_и"
+  },
+  {
+    "article_id": 1316,
+    "article_url": "https://zxpress.ru/article.php?id=1316",
+    "print_url": "https://zxpress.ru/print.php?id=1316",
+    "title_link": "Эврика - Маленький саммит во Львове.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Эврика_-_Маленькии_саммит_во_Львове"
+  }
+]

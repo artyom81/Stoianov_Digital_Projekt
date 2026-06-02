@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-03-19",
+  "order": 2,
+  "article_id": 10331,
+  "title_link": "Железо - подключения к Спектpуму ... CD-ROM.",
+  "title_h1": "City 04 - Железо - подключения к Спектpуму ... CD-ROM.",
+  "print_url": "https://zxpress.ru/print.php?id=10331",
+  "article_url": "https://zxpress.ru/article.php?id=10331",
+  "fetched_at": "2026-05-31T21:50:04Z"
+}

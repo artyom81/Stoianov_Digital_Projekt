@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "1996-05-24",
+  "order": 7,
+  "article_id": 8837,
+  "title_link": "Слово СисОпу - Интервью с координатором компьютерной сети ZXNet - Алексеем\r\n Ивановым ALEX (Research).",
+  "title_h1": "Lime Tree 23 - Слово СисОпу - Интервью с координатором компьютерной сети ZXNet - Алексеем  Ивановым ALEX (Research).",
+  "print_url": "https://zxpress.ru/print.php?id=8837",
+  "article_url": "https://zxpress.ru/article.php?id=8837",
+  "fetched_at": "2026-05-31T22:19:53Z"
+}

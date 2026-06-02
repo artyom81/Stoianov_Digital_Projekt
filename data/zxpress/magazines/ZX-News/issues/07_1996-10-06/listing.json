@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 2707,
+    "article_url": "https://zxpress.ru/article.php?id=2707",
+    "print_url": "https://zxpress.ru/print.php?id=2707",
+    "title_link": "BBS на ZX - О развитии BBS'ок на Speccy.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "BBS_на_ZX_-_О_развитии_BBSок_на_Speccy"
+  },
+  {
+    "article_id": 2704,
+    "article_url": "https://zxpress.ru/article.php?id=2704",
+    "print_url": "https://zxpress.ru/print.php?id=2704",
+    "title_link": "Железо - Проект \"General Vision\" - расширение графических возможностей Speccy.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Железо_-_Проект_General_Vision_-_расширение_графических_возм"
+  },
+  {
+    "article_id": 2710,
+    "article_url": "https://zxpress.ru/article.php?id=2710",
+    "print_url": "https://zxpress.ru/print.php?id=2710",
+    "title_link": "Конкурс - Конкурс на быстрое прохождение игры UFO-2 продлен.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Конкурс_-_Конкурс_на_быстрое_прохождение_игры_UFO-2_продлен"
+  },
+  {
+    "article_id": 2708,
+    "article_url": "https://zxpress.ru/article.php?id=2708",
+    "print_url": "https://zxpress.ru/print.php?id=2708",
+    "title_link": "Неприятности - Повременная оплата за телефонные разговоры внутри города\r\n Санкт-Петербурга.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Неприятности_-_Повременная_оплата_за_телефонные_разговоры_вн"
+  },
+  {
+    "article_id": 2702,
+    "article_url": "https://zxpress.ru/article.php?id=2702",
+    "print_url": "https://zxpress.ru/print.php?id=2702",
+    "title_link": "От авторов - ZX-News - журнал или газета ?.. Редакция ищет музыканта.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_ZX-News_-_журнал_или_газета_Редакция_ищет_музык"
+  },
+  {
+    "article_id": 2703,
+    "article_url": "https://zxpress.ru/article.php?id=2703",
+    "print_url": "https://zxpress.ru/print.php?id=2703",
+    "title_link": "Программистам - О глюках в Shadow Service Monitor'e (Скорпион)",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Программистам_-_О_глюках_в_Shadow_Service_Monitore_Скорпион"
+  },
+  {
+    "article_id": 2705,
+    "article_url": "https://zxpress.ru/article.php?id=2705",
+    "print_url": "https://zxpress.ru/print.php?id=2705",
+    "title_link": "Производители - О новых разработках на рынке аппаратного обеспечения ZX'a:\r\n Новая модель ZX-совместимого компьютера \"Peters\".",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Производители_-_О_новых_разработках_на_рынке_аппаратного_обе"
+  },
+  {
+    "article_id": 2712,
+    "article_url": "https://zxpress.ru/article.php?id=2712",
+    "print_url": "https://zxpress.ru/print.php?id=2712",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2709,
+    "article_url": "https://zxpress.ru/article.php?id=2709",
+    "print_url": "https://zxpress.ru/print.php?id=2709",
+    "title_link": "Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Список_BBS_-_Список_ныне_деиствующих_BBS_в_городе_С-Петербур"
+  },
+  {
+    "article_id": 2706,
+    "article_url": "https://zxpress.ru/article.php?id=2706",
+    "print_url": "https://zxpress.ru/print.php?id=2706",
+    "title_link": "Фидо-разговорчики - История \"псевдонимов\" или кто как и почему называется ...",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Фидо-разговорчики_-_История_псевдонимов_или_кто_как_и_почему"
+  },
+  {
+    "article_id": 2711,
+    "article_url": "https://zxpress.ru/article.php?id=2711",
+    "print_url": "https://zxpress.ru/print.php?id=2711",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  }
+]

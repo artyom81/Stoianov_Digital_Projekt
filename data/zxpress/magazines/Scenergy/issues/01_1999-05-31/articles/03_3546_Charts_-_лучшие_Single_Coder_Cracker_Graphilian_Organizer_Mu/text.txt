@@ -1,0 +1,254 @@
+Scenergy 01 - Charts - лучшие: Single Coder, Cracker, Graphilian, Organizer, Musician,  Group, Site.
+[best single coder]
+ #n coder                                       pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║ 1│Exploder/Extreme                           │563│16.88│61│38║
+║ 2│Flying/Digital Reality                     │437│13.10│57│ 8║
+║ 3│Rst#7/Code Busters                         │415│12.44│12│ 6║
+║ 4│Fux/Progress                               │245│ 7.34│39│ 0║
+║ 5│Copper Feet                                │229│ 6.86│28│14║
+║ 6│Dark/X-Trade                               │115│ 3.44│15│ 2║
+║ 7│Stalker/X-Project Association              │103│ 3.00│17│ 1║
+║ 8│Ld/X-Trade                                 │ 97│ 2.90│13│ 1║
+║ 9│Titus/ex-Mortal Kombat Hackers Group       │ 72│ 2.15│10│ 4║
+║10│Jordan/Exodus                              │ 63│ 1.88│ 3│ 2║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ Exploder   на  вершине...  Заслуженно  конечно,  даже  если  не
+учитывать  тот  факт, что нужны были всего 3 хороших демы, чтобы
+его  вообще  заметили:  Zy-Zy,  Action и Power Up. Flying должен
+подняться,  т.к.  он  активен,  а Exploder уже поменял speecy на
+amiga.  Интересно,  что из X-Trade здесь оба кодера и достаточно
+близко.
+ #n coder                                       pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║11│Rom/Progress                               │ 59│ 1.76│ 9│ 0║
+║12│Astex/3SC Hardcore                         │ 57│ 1.70│ 9│ 0║
+║13│Busy/ex-Nine Bit Company                   │ 56│ 1.67│ 8│ 2║
+║14│Imp/ex-Rush                                │ 52│ 1.55│11│ 0║
+║15│Tankard/ex-Asphyxia                        │ 47│ 1.40│ 8│ 0║
+║16│Kva/E-Mage                                 │ 46│ 1.37│ 8│ 0║
+║17│Baze/3SC Harcore                           │ 45│ 1.34│ 6│ 2║
+║18│Baca/ex-Rush                               │ 42│ 1.25│ 9│ 0║
+║  │Sairoos/Eternity Industry                  │ 42│ 1.25│ 9│ 0║
+║19│Psv/Dream Team                             │ 39│ 1.16│ 4│ 3║
+║20│Dron/K3L Corp                              │ 35│ 1.04│ 5│ 0║
+║21│DC Pak/Claw/Exodus                         │ 33│ 0.98│ 4│ 1║
+║22│Omega/Shumice Software Company             │ 29│ 0.86│ 3│ 2║
+║23│Alex Raider/Flash Inc                      │ 25│ 0.74│ 4│ 1║
+║24│Serzhsoft                                  │ 22│ 0.65│ 4│ 0║
+║25│Vlad/Real Masters Group                    │ 21│ 0.62│ 5│ 0║
+║26│Scratcher/E-Mage                           │ 21│ 0.62│ 3│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n coder                                       pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║27│Mas/ex-Zer0 International Association      │ 17│ 0.50│ 2│ 0║
+║28│Little Beetle/3SC Hardcore                 │ 16│ 0.47│ 2│ 0║
+║29│Elf/Cyber Punks Unity                      │ 14│ 0.41│ 2│ 0║
+║30│Cardinal/Binary Dimension                  │ 13│ 0.38│ 2│ 0║
+║31│Rum/E-Mage                                 │ 12│ 0.35│ 2│ 0║
+║32│Kaz/ex-Ethanol Soft Inc                    │ 11│ 0.32│ 3│ 0║
+║33│Dr Max/Global Corporation                  │  9│ 0.26│ 3│ 0║
+║34│Ksa/ex-Progress                            │  9│ 0.26│ 1│ 0║
+║  │Monster/Extreme                            │  9│ 0.26│ 1│ 0║
+║  │Wolf/Etc Group                             │  9│ 0.26│ 1│ 0║
+║35│Senat/Eternity Industry                    │  8│ 0.23│ 2│ 0║
+║36│Alem/X-Project Association                 │  8│ 0.23│ 1│ 0║
+║  │Alex Cherepahin/Galaxy                     │  8│ 0.23│ 1│ 0║
+║  │Shaitan/Cyber Punks Unity                  │  8│ 0.23│ 1│ 0║
+║  │Max Iwamoto/Code Busters                   │  8│ 0.23│ 1│ 0║
+║37│Fyrex/Mayhem                               │  7│ 0.20│ 2│ 0║
+║38│Dr Sioux/Phantom Family                    │  7│ 0.20│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n coder                                       pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║38│Glip                                       │  7│ 0.20│ 1│ 0║
+║  │Hacker Cris/Virtual Brothers               │  7│ 0.20│ 1│ 0║
+║  │Hacker Stinger                             │  7│ 0.20│ 1│ 0║
+║  │Hussein                                    │  7│ 0.20│ 1│ 0║
+║  │Kolver/Progress                            │  7│ 0.20│ 1│ 0║
+║  │Sparker/XL Design                          │  7│ 0.20│ 1│ 0║
+║39│Cobra/X-Project Association                │  6│ 0.17│ 3│ 0║
+║40│Golden Eagle/Silicon Brains Group          │  6│ 0.17│ 2│ 0║
+║41│Alk/Stars Of Keldan Hackers Group          │  6│ 0.17│ 1│ 0║
+║  │Stupidius                                  │  6│ 0.17│ 1│ 0║
+║  │Vitaly Romonoff/Virtual Brothers           │  6│ 0.17│ 1│ 0║
+║  │Alex Kerman/Global Corporation             │  5│ 0.14│ 1│ 0║
+║42│Jocker/Mafia Private Corporation           │  5│ 0.14│ 1│ 0║
+║42│Max Petrov/Create Soft                     │  5│ 0.14│ 1│ 0║
+║  │Oldman/ex-Step Creative Group              │  5│ 0.14│ 1│ 0║
+║  │Orion/Digital Reality                      │  5│ 0.14│ 1│ 0║
+║43│Freeman/Fatality                           │  4│ 0.11│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n coder                                       pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║44│Lazy/Etc Group                             │  3│ 0.08│ 1│ 0║
+║45│+Gama                                      │  2│ 0.05│ 1│ 0║
+║  │Iron                                       │  2│ 0.05│ 1│ 0║
+║46│Gvp Soft                                   │  1│ 0.02│ 1│ 0║
+║  │Nick/Golden Disk Corporation               │  1│ 0.02│ 1│ 0║
+║  │Rob F/Entire                               │  1│ 0.02│ 1│ 0║
+║  │Tuleby/Excellent Spectrum Aces             │  1│ 0.02│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+
+Entries in chart: 68 coders
+Number of voters: 100 persons
+Total: 3335 points
+
+
+[best single cracker]
+ #n cracker                                     pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║ 1│Max Iwamoto/Code Busters                   │251│18.42│26│19║
+║ 2│Hacker Cris/Virtual Brothers               │243│17.84│26│15║
+║ 3│
+Bill Gilbert
+/ex-Pentagram                  │100│ 7.34│12│ 6║
+║ 4│Rst#7/Code Busters                         │ 61│ 4.47│ 7│ 2║
+║ 5│Raver/Phantasy                             │ 54│ 3.96│ 6│ 2║
+║ 6│Ars/Fatality                               │ 35│ 2.56│ 5│ 0║
+║ 7│Matasoft/ex-MQM Team                       │ 29│ 2.12│ 3│ 2║
+║ 8│Maddy/Phantom Family/Phantasy              │ 27│ 1.98│ 3│ 1║
+║  │Titus/ex-Mortal Kombat Hackers Group       │ 27│ 1.98│ 3│ 1║
+║ 9│Svv                                        │ 26│ 1.90│ 3│ 2║
+║10│Sparker/XL Design                          │ 24│ 1.76│ 3│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+  Нет  сомнений  в  первых  двух  местах, но наверное обладателям
+придется  лишиться  их  в  следующий  раз, т.к. голоса за людей,
+которые  покинули  speccy  будут  игнорироваться.  То  же  можно
+сказать о 3, 4, 7 и 10 местах. Есть ли у нас вообще еще активные
+крэкеры?
+ #n cracker                                     pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║11│Dr Codex/Light Future Group                │ 20│ 1.46│ 2│ 2║
+║  │Hacker Chris/ex-Pentagram                  │ 20│ 1.46│ 2│ 2║
+║  │Tritol                                     │ 20│ 1.46│ 2│ 2║
+║  │Tvi/Black Cat Crack Band                   │ 20│ 1.46│ 2│ 2║
+║12│Matsoft/Naughty Crew                       │ 19│ 1.39│ 2│ 1║
+║  │Tom Hial/Ascendancy Creative Labs          │ 19│ 1.39│ 2│ 1║
+║13│Adept                                      │ 17│ 1.24│ 2│ 0║
+║  │Dr Dash/Dio-Gen                            │ 17│ 1.24│ 2│ 0║
+║14│Orion/Digital Reality                      │ 16│ 1.17│ 2│ 1║
+║15│Jackson Hollis/Shumice Software Company    │ 16│ 1.17│ 2│ 0║
+║  │Morpheus                                   │ 29│ 1.17│ 2│ 0║
+║  │Oldman/ex-Step Creative Group              │ 27│ 1.17│ 2│ 0║
+║16│Schiva/Naughty Crew                        │ 15│ 1.10│ 2│ 0║
+║17│Arty/Digital Reality                       │ 13│ 1.95│ 2│ 0║
+║  │Tankard/ex-Asphyxia                        │ 13│ 1.95│ 2│ 0║
+║18│Depredator/Phantasy                        │ 12│ 0.88│ 2│ 0║
+║  │Kot/North Star Group                       │ 12│ 0.88│ 2│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n cracker                                     pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║19│Ripper/Digital Reality                     │ 10│ 0.73│ 1│ 1║
+║  │Destroyer/Mafia Private Corporation        │ 10│ 0.73│ 1│ 1║
+║  │Fuxoft/ex-The Golden Triangle              │ 10│ 0.73│ 1│ 1║
+║  │Useles Soft                                │ 10│ 0.73│ 1│ 1║
+║  │Zhenya/ex-Zer0 International Association   │ 10│ 0.73│ 1│ 1║
+║20│Alk/Stars Of Keldan Hackers Group          │  9│ 0.66│ 1│ 0║
+║  │Flying/Digital Reality                     │  9│ 0.66│ 1│ 0║
+║  │Frunze/Style Group                         │  9│ 0.66│ 1│ 0║
+║  │Pol/Phantasy                               │  9│ 0.66│ 1│ 0║
+║  │Predator                                   │  9│ 0.66│ 1│ 0║
+║  │Scorpion/ex-Russian Prestige               │  9│ 0.66│ 1│ 0║
+║21│Drv53b6/Phantom Family                     │  8│ 0.58│ 1│ 0║
+║  │Fk0                                        │  8│ 0.58│ 1│ 0║
+║  │Ksa/Progress                               │  8│ 0.58│ 1│ 0║
+║  │Maxsoft/Extreme                            │  8│ 0.58│ 1│ 0║
+║  │Omega/Shumice Software Company             │  8│ 0.58│ 1│ 0║
+║  │Rom/Progress                               │  8│ 0.58│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n cracker                                     pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║22│John Stunner/Virtual Brothers              │  7│ 0.51│ 1│ 0║
+║  │Mast/Fatality                              │  7│ 0.51│ 1│ 0║
+║23│Sfd/Alfa                                   │  6│ 0.44│ 1│ 0║
+║  │X-Agon/Phantasy/Naughty Crew               │  6│ 0.44│ 1│ 0║
+║24│Busy/ex-Nine Bit Company                   │  5│ 0.36│ 1│ 0║
+║25│Flp/ex-Zer0 International Association      │  4│ 0.29│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+
+Entries in chart: 51 crackers
+Number of voters: 80 persons
+Total: 1362 points
+
+
+
+[best single graphician]
+
+ #n graphician                                  pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║ 1│Terror/Digital Reality                     │497│20.82│58│23║
+║ 2│Teeray/Extreme                             │480│20.10│52│32║
+║ 3│Fil/Antares                                │276│11.56│33│12║
+║ 4│Paracels/Eternity Industry                 │123│ 5.15│22│ 3║
+║ 5│Rollex/Digital Reality                     │121│ 5.06│17│ 0║
+║ 6│Demiurge Ash/ex-Eternity Industry          │ 71│ 2.97│ 9│ 0║
+║ 7│Snake/Extreme                              │ 58│ 2.42│11│ 1║
+║ 8│Hazard/Phantasy                            │ 57│ 2.38│ 9│ 1║
+║ 9│Rom/Progress                               │ 48│ 2.01│ 9│ 1║
+║10│Art/ex-Reaction                            │ 40│ 1.67│ 5│ 1║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ Остается конкуренция между обладателями первых двух мест. Но не
+смотря  на  то,  что Teeray больше раз упомянут как номер один в
+мире графики, Terror собрал больше пунктов, и тем самым является
+лучшим!  Жаль,  что  Teeray  уже  бросил speccy, да и компьютеры
+вообще.
+ #n graphician                                  pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║11│Catman/Exodus                              │ 39│ 1.63│ 6│ 1║
+║12│Panda/ETC Group                            │ 35│ 1.46│ 5│ 1║
+║13│Shaman/ex-Rush                             │ 32│ 1.34│ 6│ 1║
+║14│Kamikaze/ex-Rush                           │ 32│ 1.34│ 5│ 0║
+║15│Marwin/K3L Corp                            │ 32│ 1.34│ 4│ 2║
+║16│Viator/Avalon                              │ 29│ 1.21│ 6│ 0║
+║17│Colorbok/Phantom Family                    │ 28│ 1.17│ 5│ 0║
+║18│Godfather                                  │ 28│ 1.17│ 3│ 2║
+║19│Push                                       │ 23│ 0.96│ 3│ 0║
+║20│Dsa                                        │ 20│ 0.83│ 2│ 2║
+║21│Investigator                               │ 19│ 0.79│ 2│ 1║
+║  │Dmitry Usmanov/ex-Step Creative Group      │ 19│ 0.79│ 2│ 1║
+║22│Agyagos/Speccy Boyz                        │ 18│ 0.75│ 2│ 1║
+║23│Omega/Shumice Software Company             │ 18│ 0.75│ 2│ 0║
+║24│Mistic/Mafia Private Corporation           │ 15│ 0.62│ 2│ 0║
+║25│Max Iwamoto/Code Busters                   │ 13│ 0.54│ 3│ 0║
+║26│Mixer/Style Group                          │ 13│ 0.54│ 2│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n graphician                                  pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║26│Spencer/Diamond Group                      │ 13│ 0.54│ 2│ 0║
+║27│Mic/Progress                               │ 11│ 0.46│ 2│ 0║
+║28│Amigo/Unit-5                               │ 10│ 0.41│ 1│ 1║
+║  │Black Cat/Kingdom Dreams                   │ 10│ 0.41│ 1│ 1║
+║  │Copper Feet                                │ 10│ 0.41│ 1│ 1║
+║  │Lion/Excess Team                           │ 10│ 0.41│ 1│ 1║
+║  │Jv Graphics/Golden Disk Corporation        │ 10│ 0.41│ 1│ 1║
+║29│Leshy                                      │  9│ 0.37│ 1│ 0║
+║  │Observer/Virt Group                        │  9│ 0.37│ 1│ 0║
+║  │Sergey Slishlyannikov/Steel Falcons        │  9│ 0.37│ 1│ 0║
+║  │Wd/Power Of Sound                          │  9│ 0.37│ 1│ 0║
+║30│Graf                                       │  8│ 0.33│ 1│ 0║
+║  │Flying Cat                                 │  8│ 0.33│ 1│ 0║
+║  │Faraon/Queen Soft                          │  8│ 0.33│ 1│ 0║
+║  │Sauron/Digital Reality                     │  8│ 0.33│ 1│ 0║
+║  │Biomax                                     │  8│ 0.33│ 1│ 0║
+║31│Dark/X-Trade                               │  7│ 0.29│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+ #n graphician                                  pts   %   #m #1
+╔══╤═══════════════════════════════════════════╤═══╤═════╤══╤══╗
+║32│Mr Z/Hardwave Crew                         │  7│ 0.29│ 1│ 0║
+║  │Nick Bruty                                 │  7│ 0.29│ 1│ 0║
+║  │Visual/Extreme                             │  7│ 0.29│ 1│ 0║
+║33│Gas 13                                     │  6│ 0.25│ 2│ 0║
+║34│Dap/Gladiatorsoft                          │  6│ 0.25│ 1│ 0║
+║  │Werewolves/Fatality                        │  6│ 0.25│ 1│ 0║
+║35│Dwarf/Die Krupps Group                     │  5│ 0.20│ 1│ 0║
+║36│Den/Mafia Private Corporation              │  3│ 0.12│ 1│ 0║
+║  │K-os/ex-Extacy 3                           │  3│ 0.12│ 1│ 0║
+║37│Exploder/Extreme                           │  2│ 0.08│ 1│ 0║
+║  │Sly Pm/Mafia Private Corporation           │  2│ 0.08│ 1│ 0║
+║38│Sector/Constellation Team                  │  1│ 0.04│ 1│ 0║
+╚══╧═══════════════════════════════════════════╧═══╧═════╧══╧══╝
+
+Entries in chart: 56 graphicians
+Number of voters: 96 persons
+Total: 2387 points

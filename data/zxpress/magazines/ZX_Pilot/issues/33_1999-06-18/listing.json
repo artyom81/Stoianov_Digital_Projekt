@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 5835,
+    "article_url": "https://zxpress.ru/article.php?id=5835",
+    "print_url": "https://zxpress.ru/print.php?id=5835",
+    "title_link": "Содержание - содержание газеты.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "Содержание_-_содержание_газеты"
+  },
+  {
+    "article_id": 5836,
+    "article_url": "https://zxpress.ru/article.php?id=5836",
+    "print_url": "https://zxpress.ru/print.php?id=5836",
+    "title_link": "News - о новом спектрумовском пати Di:Halt'99.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "News_-_о_новом_спектрумовском_пати_DiHalt99"
+  },
+  {
+    "article_id": 5837,
+    "article_url": "https://zxpress.ru/article.php?id=5837",
+    "print_url": "https://zxpress.ru/print.php?id=5837",
+    "title_link": "DI-HALT'99 - Чисто Спектрумовское party - DI-HALT'99.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "DI-HALT99_-_Чисто_Спектрумовское_party_-_DI-HALT99"
+  },
+  {
+    "article_id": 5838,
+    "article_url": "https://zxpress.ru/article.php?id=5838",
+    "print_url": "https://zxpress.ru/print.php?id=5838",
+    "title_link": "DI-HALT'99 - Правила проведения конскурсов.",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "DI-HALT99_-_Правила_проведения_конскурсов"
+  },
+  {
+    "article_id": 5841,
+    "article_url": "https://zxpress.ru/article.php?id=5841",
+    "print_url": "https://zxpress.ru/print.php?id=5841",
+    "title_link": "DI-HALT'99 - Система голосования.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "DI-HALT99_-_Система_голосования"
+  },
+  {
+    "article_id": 5839,
+    "article_url": "https://zxpress.ru/article.php?id=5839",
+    "print_url": "https://zxpress.ru/print.php?id=5839",
+    "title_link": "Наш гость - Новый печатный журнал из Санкт-Петербурга - Spectator.",
+    "order": 6,
+    "issue_label": "33",
+    "short_slug": "Наш_гость_-_Новыи_печатныи_журнал_из_Санкт-Петербурга_-_Spec"
+  },
+  {
+    "article_id": 5840,
+    "article_url": "https://zxpress.ru/article.php?id=5840",
+    "print_url": "https://zxpress.ru/print.php?id=5840",
+    "title_link": "Census - каталог никнэймов спектрумистов: Nickname v1.0.",
+    "order": 7,
+    "issue_label": "33",
+    "short_slug": "Census_-_каталог_никнэимов_спектрумистов_Nickname_v10"
+  },
+  {
+    "article_id": 5842,
+    "article_url": "https://zxpress.ru/article.php?id=5842",
+    "print_url": "https://zxpress.ru/print.php?id=5842",
+    "title_link": "Hints - секреты, читы и хитрости в играх: Super Cars, Net Walk.",
+    "order": 8,
+    "issue_label": "33",
+    "short_slug": "Hints_-_секреты_читы_и_хитрости_в_играх_Super_Cars_Net_Walk"
+  },
+  {
+    "article_id": 5843,
+    "article_url": "https://zxpress.ru/article.php?id=5843",
+    "print_url": "https://zxpress.ru/print.php?id=5843",
+    "title_link": "О разном - Помоги Spectrum'у или как найти в своем городе спектрумистов.",
+    "order": 9,
+    "issue_label": "33",
+    "short_slug": "О_разном_-_Помоги_Spectrumу_или_как_наити_в_своем_городе_спе"
+  },
+  {
+    "article_id": 5844,
+    "article_url": "https://zxpress.ru/article.php?id=5844",
+    "print_url": "https://zxpress.ru/print.php?id=5844",
+    "title_link": "Birthday - поздравляем с днем рождения всех\r\nнашим читателей, родившихся в летних месяцах июне, июле и августе!",
+    "order": 10,
+    "issue_label": "33",
+    "short_slug": "Birthday_-_поздравляем_с_днем_рождения_всехнашим_читателеи_р"
+  },
+  {
+    "article_id": 5845,
+    "article_url": "https://zxpress.ru/article.php?id=5845",
+    "print_url": "https://zxpress.ru/print.php?id=5845",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 11,
+    "issue_label": "33",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 5846,
+    "article_url": "https://zxpress.ru/article.php?id=5846",
+    "print_url": "https://zxpress.ru/print.php?id=5846",
+    "title_link": "Credits - авторы газеты.",
+    "order": 12,
+    "issue_label": "33",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3310,
+    "article_url": "https://zxpress.ru/article.php?id=3310",
+    "print_url": "https://zxpress.ru/print.php?id=3310",
+    "title_link": "AY Music Hit - 5 лучших музонов.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "AY_Music_Hit_-_5_лучших_музонов"
+  },
+  {
+    "article_id": 3304,
+    "article_url": "https://zxpress.ru/article.php?id=3304",
+    "print_url": "https://zxpress.ru/print.php?id=3304",
+    "title_link": "BBS List - График работы минской BBS.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "BBS_List_-_График_работы_минскои_BBS"
+  },
+  {
+    "article_id": 3311,
+    "article_url": "https://zxpress.ru/article.php?id=3311",
+    "print_url": "https://zxpress.ru/print.php?id=3311",
+    "title_link": "Have a Fun - Склероз.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Have_a_Fun_-_Склероз"
+  },
+  {
+    "article_id": 3305,
+    "article_url": "https://zxpress.ru/article.php?id=3305",
+    "print_url": "https://zxpress.ru/print.php?id=3305",
+    "title_link": "Paradox'99 - Результаты Paradox'99.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Paradox99_-_Результаты_Paradox99"
+  },
+  {
+    "article_id": 3307,
+    "article_url": "https://zxpress.ru/article.php?id=3307",
+    "print_url": "https://zxpress.ru/print.php?id=3307",
+    "title_link": "Rest In Pain - О глюках, портящих жизнь.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Rest_In_Pain_-_О_глюках_портящих_жизнь"
+  },
+  {
+    "article_id": 3308,
+    "article_url": "https://zxpress.ru/article.php?id=3308",
+    "print_url": "https://zxpress.ru/print.php?id=3308",
+    "title_link": "Solution - Описание к игре: 12 Тайных книг v1.01.",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Solution_-_Описание_к_игре_12_Таиных_книг_v101"
+  },
+  {
+    "article_id": 3306,
+    "article_url": "https://zxpress.ru/article.php?id=3306",
+    "print_url": "https://zxpress.ru/print.php?id=3306",
+    "title_link": "Мнение - Мнение о музыке на Paradox'99.",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Мнение_-_Мнение_о_музыке_на_Paradox99"
+  },
+  {
+    "article_id": 3309,
+    "article_url": "https://zxpress.ru/article.php?id=3309",
+    "print_url": "https://zxpress.ru/print.php?id=3309",
+    "title_link": "Новости - Новая минская газета: UFO.",
+    "order": 8,
+    "issue_label": "15",
+    "short_slug": "Новости_-_Новая_минская_газета_UFO"
+  },
+  {
+    "article_id": 3303,
+    "article_url": "https://zxpress.ru/article.php?id=3303",
+    "print_url": "https://zxpress.ru/print.php?id=3303",
+    "title_link": "От авторов - Недовольство юбилейным номером.",
+    "order": 9,
+    "issue_label": "15",
+    "short_slug": "От_авторов_-_Недовольство_юбилеиным_номером"
+  },
+  {
+    "article_id": 3312,
+    "article_url": "https://zxpress.ru/article.php?id=3312",
+    "print_url": "https://zxpress.ru/print.php?id=3312",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 10,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

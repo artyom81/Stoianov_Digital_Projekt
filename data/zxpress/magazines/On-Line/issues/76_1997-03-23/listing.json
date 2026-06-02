@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 22,
+    "article_url": "https://zxpress.ru/article.php?id=22",
+    "print_url": "https://zxpress.ru/print.php?id=22",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "76",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2465,
+    "article_url": "https://zxpress.ru/article.php?id=2465",
+    "print_url": "https://zxpress.ru/print.php?id=2465",
+    "title_link": "CODING - Процедура управления верхней памятью на разных машинах.",
+    "order": 2,
+    "issue_label": "76",
+    "short_slug": "CODING_-_Процедура_управления_верхнеи_памятью_на_разных_маши"
+  },
+  {
+    "article_id": 2463,
+    "article_url": "https://zxpress.ru/article.php?id=2463",
+    "print_url": "https://zxpress.ru/print.php?id=2463",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "76",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2464,
+    "article_url": "https://zxpress.ru/article.php?id=2464",
+    "print_url": "https://zxpress.ru/print.php?id=2464",
+    "title_link": "Чемпионат VIRUS-2 - О исправленной версии игры \"Virus-2\".\r\n Итоги чемпионата,в котором принимали участие 16 вирусов.",
+    "order": 4,
+    "issue_label": "76",
+    "short_slug": "Чемпионат_VIRUS-2_-_О_исправленнои_версии_игры_Virus-2_Итоги"
+  }
+]

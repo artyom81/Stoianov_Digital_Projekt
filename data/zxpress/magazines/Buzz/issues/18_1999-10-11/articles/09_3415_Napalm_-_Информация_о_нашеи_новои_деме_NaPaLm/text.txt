@@ -1,0 +1,106 @@
+Buzz 18 - Napalm - Информация о нашей новой деме "NaPaLm".
+(C) D-Man^EI
+
+   Здесь мы решили немного написать о нашей деме "Napalm", чтобы
+развеять  необоснованные  слухи,  разносимые "желтой" прессой, и
+провести ликбез в плане fx'ов.
+   Итак, Napalm не несет никакой смысловой нагрузки, так что сю-
+жет здесь можете не искать. Дема сделана в лучших традициях про-
+грессивного демомейкинга на Ammy или PC.
+   В деме есть одна анима - это тунель в самом конце. Нам  нужен
+был очень быстрый и достаточно крутой fx под  быструю  музыку  в
+конце, но "быстрый" и "крутой" понятия не совместимые,  так  что
+мы вынуждены были прибегнуть к аниме. К тому же  мы  никогда  не
+скрывали это и не маскировали аниму под fx'ы. Так что не  верьте
+всякой "желтой" прессе, делающей поспешные выводы, основанные на
+домыслах и слухах. Это единственная анима в деме, а все  осталь-
+ное realtime!
+   Мы не против анимации в деме, но не в  таком  количестве, как
+это сейчас наблюдается на сцене. Как говорится в старых  рулезах
+к патям, анимация может быть как часть демы, но не целиком  сос-
+тоять из анимации. Почему-то в этом году об этой строчке  забыли
+(или забили?). Еще  точно  подметили  Beermanz'ы в  своей  деме:
+"Kak ni kruti anima ne pribavit tebe masterstva!" Но  если же вы
+делаете сюжетную дему, постороенную именно  на аниме, то  имейте
+совесть и не выставляйте ее на патях.
+   Также две картинки в Napalm'е конверченные - это самая первая
+(мужик, раздирающий себя) и в самом конце, где лысый мужик в оч-
+ках смотрит на нас. Эти картинки раскрашены и дорисованы  уже на
+ZX. Вся остальная графика - это hand-drawn чистой воды!!!
+   Скорее всего, дема в том виде, в котором  она есть  сейчас, -
+это окончательный вариант. Наверное, не будет никаких fixpack'ов
+или final relizez. Мы лучше сделаем новую дему, чем ковыряться в
+этой. Новая дема будет, of coz, круче Napalm'а (по  крайней мере
+мы надеемся), будут новые fx'ы и т.п. Ожидать  вы  ее  можете  к
+уже объявленному CC'000.
+   Далее следует список всех fx'ов и screen'ов  в  Napalm'е так,
+как они идут в деме. Знаком <*> помечены fx'ы, впервые  реализо-
+ванные на ZX именно в таком виде, в каком они и должны быть.
+
+list of parts:
+
+   - texture maping /eternity logo on stone/
+   - fake phong shading /phong stone/
+  *- hole tunnel                 
+   - screen "i hate myself" /converted, colored & added/
+  *- phong maping + morphing 3d object + flares
+  *- tunnel to stretch transformation /color chaos/
+   - adding stretches
+  *- phong + texture maping /candy on bumped background/
+   - screen "principles of lust" /original screen/
+  *- 3d particles + texture maping
+  *- lens flare + fake sphere /ray of light/
+  *- gouraud shading + lens flare /stone with ray of light/
+   - screen "as a lightning" /original screen/
+   - voxel landscape
+  *- bump + light rays
+  *- alpha-channel + stretch
+  *- alpha-channel + stretch /scull & woman/
+  *- static phong /scull/
+   - water
+   - adding maps /like flame/
+   - screen "napalm logo" /original screen/
+   - 3d _animated_ tunnel /12.5 fps/
+   - screen "ei stuff" /converted, added & colored/
+
+* - firstly relized on ZX!!!
+
+               ▄▄▄ ▄▄▄   ▄▄▄ ▄▄▄  ▄ ▄▄▄▄▄  ▄▄▄    
+·< nAPALm >···█··▐ █··█·█··▐ █··█···▌·█·▐·█··▐·····:
+              ▓    ▓  ▓ ▓▄▌  ▓  ▐ ▓   ▓   ▀▄▄      :
+              ▒    ▒▄▄▀ ▒ ▌  ▒  ▐ ▒   ▒      ▒     : 
+              ░  ▐ ░  ░ ░  ▐ ░  ░ ░ : ░ : ▌  ░::····
+              ▀▀▀▀:▐::▐ ▀▀▀▀:▀▀▀::▐:::▐:::▀▀▀::::
+          :··:::::::::::::::::::::::::::::::::::
+          |
+     code |SaiR00S^EI
+   ■──────┤Senat^EI
+          |Sat^RMD
+          ┼────---· ·----────┼ 
+                   ■─────────┤Paracels^EI
+                     artwork |
+                             ┼──--·---──--──┼
+                                 soundtrack | 
+                               ■────────────┤ SaiR00S^EI
+                                ┼─-- · ---──┼
+                     ■──────────┤Pyrodex^EI
+                       textures |Crazy^EI
+                  ┼──-- · ---───┼
+           design |
+         ■────────┤ Eternity Industry active stuff
+                  ┼──-·--─┼
+  3d rendering & modeling |
+ ■────────────────────────┤ Pyrodex^EI
+                          | Senat^EI
+                          | SaiR00S^EI
+                          ┼─-·┼
+                 ascii design |
+                ■─────────────┤ D-Man^EI
+
+p.s. Wait for a new revolutionary demo on CC'000 from
+
+        ________________________/│  ___/│_______/│  ___
+       /  _____  __/ ____/___  /  \/  / │__  __/  \/  /
+      /  __/\ / / /  __/\ __/ /      /  │ / /___\    /
+      \_____/ \_\ \_____/\_\  \__/\__\__\ \_\_______/ 
+       ─√─√─√─√─√─√─√─√─√─√ \__/ ─√─√! n d u s ┼ r y-

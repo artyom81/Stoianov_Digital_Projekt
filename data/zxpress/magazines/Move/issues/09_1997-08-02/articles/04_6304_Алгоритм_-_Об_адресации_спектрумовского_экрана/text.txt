@@ -1,0 +1,211 @@
+Move 09 - Алгоритм - Об адресации спектрумовского экрана.
+АЛГОРИТМЫ
+──────────────────────────────────────────
+(c) Ars
+
+    В    этой    рубрике   мы   продолжаем
+публиковать  полезные  процедуры.  На этот
+раз речь пойдет о различных подпрограммах,
+связанных  с  выводом на экран. Если у вас
+возникнут   какие-то  замечания,  сообщите
+нам.  А  также  вы  можете  предложить для
+обсуждения    свой   вариант   алгоритмов,
+обратившись в редакцию MOVE.
+    Часть   процедур,   приводимых   ниже,
+написал  Rui  Ribeiro  -  автор  WSpecem -
+эмулятора Спектрума для Windows.
+
+    Прежде      всего     об     адресации
+спектрумовского    экрана.   Несмотря   на
+некоторую   непоследовательность   в   его
+строении,   адрес  любого  байта  экранной
+области  (#4000..#57FF)  может  быть задан
+схемой:
+
+          010S SLLL RRRB BBBB
+
+где: S - секция или треть (0..2);
+     L - номер линии символа (0..7)
+     R - позиция по вертикали в пределах
+         секции (0..7);
+     B - номер столбца (0..31).
+
+Координаты любой точки (x,y) экрана в этих
+обозначениях имеют такое строение:
+
+y - 11 111 111    x - 11111 111
+     S  R  L            B   bit number
+
+y = 0..191        x = 0..255
+
+А  вот  как  можно  описать адрес экрана в
+виде формулы:
+
+ adr(x,y) = 16384+2048*INT(L/8)+
+ +32*(L-8*INT(L/8))+256*R+C
+
+Теперь - основные процедуры.
+
+1)  Как  из  координат  точки  получить ее
+экранный адрес и номер пикселя в байте.
+
+Input:  BC = yx
+Output: HL = screen address, A = bit
+
+PixAdr1  LD      A,B
+         AND     A
+         RRA
+         SCF
+         RRA
+         AND     A
+         RRA
+         XOR     B
+         AND     #F8
+         XOR     B
+         LD      H,A
+         LD      A,C
+         RLCA
+         RLCA
+         RLCA
+         XOR     B
+         AND     #C7
+         XOR     B
+         RLCA
+         RLCA
+         LD      L,A
+         LD      A,C
+         AND     7
+         RET
+
+2)  Та  же  задача, но вместо координаты x
+задан номер столбца.
+
+Input:  B = pixel line number (0..191)
+        C = column number   (0..31)
+Output: HL = screen address
+
+PixAdr2  LD      A,B
+         AND     A
+         RRA
+         SCF
+         RRA
+         AND     A
+         RRA
+         XOR     B
+         AND     #F8
+         XOR     B
+         LD      H,A
+         LD      A,B
+         RLCA
+         RLCA
+         AND     #E0
+         OR      C
+         LD      L,A
+         RET
+
+Положение  любого  текстового  символа  на
+экране задается следующей схемой:
+
+Y - 000 11 111  X - 000 11111
+        S   R             B
+
+Y = 0..23       X = 0..31
+
+3)   Как   из   позиции  символа  получить
+экранный адрес.
+
+Input:  BC = YX
+Output: HL = screen address
+
+ChrAdr1  LD      A,B
+         AND     #18
+         OR      #40
+         LD      H,A
+         LD      A,B
+         AND     7
+         RRCA
+         RRCA
+         RRCA
+         ADD     A,C
+         LD      L,A
+         RET
+
+Или другой вариант:
+
+ChrAdr2  LD      A,B
+         AND     #18
+         OR      #40
+         LD      H,A
+         LD      A,B
+         RRCA
+         RRCA
+         RRCA
+         AND     #E0
+         OR      C
+         LD      L,A
+         RET
+
+Следующие процедуры касаются вывода текста
+
+4) Спуск на символ вниз.
+
+Input:  HL = screen address
+Output: HL = down char screen address
+
+DownChr  LD      A,L
+         ADD     A,32
+         LD      L,A
+         RET     NC
+         LD      A,H
+         ADD     A,8
+         LD      H,A
+         RET
+
+5) Подъем на символ вверх.
+
+Input:  HL = screen address
+Output: HL = upper char screen address
+
+UpChar   LD      A,L
+         SUB     32
+         LD      L,A
+         RET     NC
+         LD      A,H
+         SUB     8
+         LD      H,A
+         RET
+
+6)   Переход   к   следующему  символу  по
+экранному адресу.
+
+Input:  HL = screen address
+Output: HL = next char screen address
+
+NextChr  RR      H
+         RR      H
+         RR      H
+         INC     HL
+         RL      H
+         RL      H
+         RL      H
+         RET
+
+7)   Переход   к  предыдущему  символу  по
+экранному адресу.
+         
+Input:  HL = screen address
+Output: HL = previous char screen address
+
+PrevChr  RR      H
+         RR      H
+         RR      H
+         DEC     HL
+         RL      H
+         RL      H
+         RL      H
+         RET
+
+Информация получена с Web-странички:
+http://www.atlantic.net/~adansby/plot.html
+
+(Продолжение читайте в следующем номере.)

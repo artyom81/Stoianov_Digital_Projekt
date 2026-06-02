@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 2819,
+    "article_url": "https://zxpress.ru/article.php?id=2819",
+    "print_url": "https://zxpress.ru/print.php?id=2819",
+    "title_link": "SpbZxNet - Ошибки начинающих пользователей сети.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "SpbZxNet_-_Ошибки_начинающих_пользователеи_сети"
+  },
+  {
+    "article_id": 2820,
+    "article_url": "https://zxpress.ru/article.php?id=2820",
+    "print_url": "https://zxpress.ru/print.php?id=2820",
+    "title_link": "О людях... - О истории образовании и планах группы \"ZX-Masters\".",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "О_людях_-_О_истории_образовании_и_планах_группы_ZX-Masters"
+  },
+  {
+    "article_id": 2817,
+    "article_url": "https://zxpress.ru/article.php?id=2817",
+    "print_url": "https://zxpress.ru/print.php?id=2817",
+    "title_link": "От авторов - Последний номер в этом году...",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "От_авторов_-_Последнии_номер_в_этом_году"
+  },
+  {
+    "article_id": 2821,
+    "article_url": "https://zxpress.ru/article.php?id=2821",
+    "print_url": "https://zxpress.ru/print.php?id=2821",
+    "title_link": "Письма - Какие бывают ZX'ы... : Scorpion-256 , KAY-128, KAY-256.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Письма_-_Какие_бывают_ZXы_Scorpion-256_KAY-128_KAY-256"
+  },
+  {
+    "article_id": 2824,
+    "article_url": "https://zxpress.ru/article.php?id=2824",
+    "print_url": "https://zxpress.ru/print.php?id=2824",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2818,
+    "article_url": "https://zxpress.ru/article.php?id=2818",
+    "print_url": "https://zxpress.ru/print.php?id=2818",
+    "title_link": "Сетевые новости - Что творится в SpbZxNet ?..",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Сетевые_новости_-_Что_творится_в_SpbZxNet"
+  },
+  {
+    "article_id": 2822,
+    "article_url": "https://zxpress.ru/article.php?id=2822",
+    "print_url": "https://zxpress.ru/print.php?id=2822",
+    "title_link": "Советы мастера - Как можно добить хорошей связи с BBS (+ схема).",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "Советы_мастера_-_Как_можно_добить_хорошеи_связи_с_BBS_схема"
+  },
+  {
+    "article_id": 2823,
+    "article_url": "https://zxpress.ru/article.php?id=2823",
+    "print_url": "https://zxpress.ru/print.php?id=2823",
+    "title_link": "Юмор - \"Телесценарий: Спасение-911\".",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Телесценарии_Спасение-911"
+  }
+]

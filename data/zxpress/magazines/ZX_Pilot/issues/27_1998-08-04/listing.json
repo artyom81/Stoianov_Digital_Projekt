@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7736,
+    "article_url": "https://zxpress.ru/article.php?id=7736",
+    "print_url": "https://zxpress.ru/print.php?id=7736",
+    "title_link": "Введение - UNCLE SAM присоединился к нам.",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "Введение_-_UNCLE_SAM_присоединился_к_нам"
+  },
+  {
+    "article_id": 7737,
+    "article_url": "https://zxpress.ru/article.php?id=7737",
+    "print_url": "https://zxpress.ru/print.php?id=7737",
+    "title_link": "ARTCOMP-98 - Международный фестиваль компьютерного исккусства в Кургане. Третья редакция правил.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "ARTCOMP-98_-_Международныи_фестиваль_компьютерного_исккусств"
+  },
+  {
+    "article_id": 7738,
+    "article_url": "https://zxpress.ru/article.php?id=7738",
+    "print_url": "https://zxpress.ru/print.php?id=7738",
+    "title_link": "FAQ ZX-TRADERS - Список действующих распространителей ПО в России и на Украине.",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "FAQ_ZX-TRADERS_-_Список_деиствующих_распространителеи_ПО_в_Р"
+  },
+  {
+    "article_id": 7739,
+    "article_url": "https://zxpress.ru/article.php?id=7739",
+    "print_url": "https://zxpress.ru/print.php?id=7739",
+    "title_link": "HARD and SOFT - Гашение яркости при воспроизведении черного цвета.(схема)",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "HARD_and_SOFT_-_Гашение_яркости_при_воспроизведении_черного"
+  },
+  {
+    "article_id": 7740,
+    "article_url": "https://zxpress.ru/article.php?id=7740",
+    "print_url": "https://zxpress.ru/print.php?id=7740",
+    "title_link": "BIRTHDAY - С днем рождения IMO, Igor & SWd2.",
+    "order": 5,
+    "issue_label": "27",
+    "short_slug": "BIRTHDAY_-_С_днем_рождения_IMO_Igor_SWd2"
+  },
+  {
+    "article_id": 7741,
+    "article_url": "https://zxpress.ru/article.php?id=7741",
+    "print_url": "https://zxpress.ru/print.php?id=7741",
+    "title_link": "О разном - UFO-2 и Kempston Mouse.",
+    "order": 6,
+    "issue_label": "27",
+    "short_slug": "О_разном_-_UFO-2_и_Kempston_Mouse"
+  },
+  {
+    "article_id": 7742,
+    "article_url": "https://zxpress.ru/article.php?id=7742",
+    "print_url": "https://zxpress.ru/print.php?id=7742",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

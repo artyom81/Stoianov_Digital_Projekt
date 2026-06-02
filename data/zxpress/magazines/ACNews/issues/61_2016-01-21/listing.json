@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 17969,
+    "article_url": "https://zxpress.ru/article.php?id=17969",
+    "print_url": "https://zxpress.ru/print.php?id=17969",
+    "title_link": "Новости - в прошедшем году, мы увидели адаптацию операционной\r\nсистемы MSX-DOS 2 для ATM3, был возрождён электронный журнал Info Guide.",
+    "order": 1,
+    "issue_label": "61",
+    "short_slug": "Новости_-_в_прошедшем_году_мы_увидели_адаптацию_операционнои"
+  },
+  {
+    "article_id": 17970,
+    "article_url": "https://zxpress.ru/article.php?id=17970",
+    "print_url": "https://zxpress.ru/print.php?id=17970",
+    "title_link": "News - \r\nI wish all the Spectrum people to make even more for the sake of\r\nour beloved platform!",
+    "order": 2,
+    "issue_label": "61",
+    "short_slug": "News_-_I_wish_all_the_Spectrum_people_to_make_even_more_for"
+  },
+  {
+    "article_id": 17971,
+    "article_url": "https://zxpress.ru/article.php?id=17971",
+    "print_url": "https://zxpress.ru/print.php?id=17971",
+    "title_link": "Как конвертировать графику под цвет на точку - как конвертировать графику в \"EGA\"-режим\r\nATM Turbo.",
+    "order": 3,
+    "issue_label": "61",
+    "short_slug": "Как_конвертировать_графику_под_цвет_на_точку_-_как_конвертир"
+  },
+  {
+    "article_id": 17972,
+    "article_url": "https://zxpress.ru/article.php?id=17972",
+    "print_url": "https://zxpress.ru/print.php?id=17972",
+    "title_link": "How to convert gfx for colour-per-pixel mode - how to convert gfx to \"EGA\" mode of\r\nATM Turbo.",
+    "order": 4,
+    "issue_label": "61",
+    "short_slug": "How_to_convert_gfx_for_colour-per-pixel_mode_-_how_to_conver"
+  },
+  {
+    "article_id": 17973,
+    "article_url": "https://zxpress.ru/article.php?id=17973",
+    "print_url": "https://zxpress.ru/print.php?id=17973",
+    "title_link": "Замечания по ходу чтения статьи \"Red Clones\" - Некоторые комментарии по её поводу.",
+    "order": 5,
+    "issue_label": "61",
+    "short_slug": "Замечания_по_ходу_чтения_статьи_Red_Clones_-_Некоторые_комме"
+  },
+  {
+    "article_id": 17974,
+    "article_url": "https://zxpress.ru/article.php?id=17974",
+    "print_url": "https://zxpress.ru/print.php?id=17974",
+    "title_link": "Comments on \"Red Clones\" article - Few comments on it.",
+    "order": 6,
+    "issue_label": "61",
+    "short_slug": "Comments_on_Red_Clones_article_-_Few_comments_on_it"
+  }
+]

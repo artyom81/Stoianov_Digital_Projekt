@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16553,
+    "article_url": "https://zxpress.ru/article.php?id=16553",
+    "print_url": "https://zxpress.ru/print.php?id=16553",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16554,
+    "article_url": "https://zxpress.ru/article.php?id=16554",
+    "print_url": "https://zxpress.ru/print.php?id=16554",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16555,
+    "article_url": "https://zxpress.ru/article.php?id=16555",
+    "print_url": "https://zxpress.ru/print.php?id=16555",
+    "title_link": "Разное - Погода.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16556,
+    "article_url": "https://zxpress.ru/article.php?id=16556",
+    "print_url": "https://zxpress.ru/print.php?id=16556",
+    "title_link": "Железо - Дешифратор для автоматического определителя номера DN-01.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Железо_-_Дешифратор_для_автоматического_определителя_номера"
+  },
+  {
+    "article_id": 16557,
+    "article_url": "https://zxpress.ru/article.php?id=16557",
+    "print_url": "https://zxpress.ru/print.php?id=16557",
+    "title_link": "Обо всём на свете - Потребительская оценка аудио-кассет.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Обо_всем_на_свете_-_Потребительская_оценка_аудио-кассет"
+  },
+  {
+    "article_id": 16558,
+    "article_url": "https://zxpress.ru/article.php?id=16558",
+    "print_url": "https://zxpress.ru/print.php?id=16558",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16559,
+    "article_url": "https://zxpress.ru/article.php?id=16559",
+    "print_url": "https://zxpress.ru/print.php?id=16559",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

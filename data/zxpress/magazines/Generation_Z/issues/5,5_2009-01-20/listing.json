@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6011,
+    "article_url": "https://zxpress.ru/article.php?id=6011",
+    "print_url": "https://zxpress.ru/print.php?id=6011",
+    "title_link": "editorial - входи, друг. очередное волшебство перед тобой.",
+    "order": 1,
+    "issue_label": "5,5",
+    "short_slug": "editorial_-_входи_друг_очередное_волшебство_перед_тобои"
+  },
+  {
+    "article_id": 6012,
+    "article_url": "https://zxpress.ru/article.php?id=6012",
+    "print_url": "https://zxpress.ru/print.php?id=6012",
+    "title_link": "army editorial - \"армия - это мир-зазеркалье, кто в ней\r\nбыл, меня поймет...\"",
+    "order": 2,
+    "issue_label": "5,5",
+    "short_slug": "army_editorial_-_армия_-_это_мир-зазеркалье_кто_в_неибыл_мен"
+  },
+  {
+    "article_id": 6013,
+    "article_url": "https://zxpress.ru/article.php?id=6013",
+    "print_url": "https://zxpress.ru/print.php?id=6013",
+    "title_link": "scene today - итоги 2008 года: zx.pk.ru, zxaaa.untergrund.net, speccy-live.untergrund.net, cyberpunks unity, triebkraft, milytia, simbols, tiboh/debris, triumph.",
+    "order": 3,
+    "issue_label": "5,5",
+    "short_slug": "scene_today_-_итоги_2008_года_zxpkru_zxaaauntergrundnet_spec"
+  },
+  {
+    "article_id": 6014,
+    "article_url": "https://zxpress.ru/article.php?id=6014",
+    "print_url": "https://zxpress.ru/print.php?id=6014",
+    "title_link": "specy demoscene today - обзор zx демо с демопатей 2008 года: forever nine party, di:halt 2008, chaos constructions 2008.",
+    "order": 4,
+    "issue_label": "5,5",
+    "short_slug": "specy_demoscene_today_-_обзор_zx_демо_с_демопатеи_2008_года"
+  },
+  {
+    "article_id": 6015,
+    "article_url": "https://zxpress.ru/article.php?id=6015",
+    "print_url": "https://zxpress.ru/print.php?id=6015",
+    "title_link": "speccy gfx scene today - обзор спектрумовской графики нарисованной за 2008 год.",
+    "order": 5,
+    "issue_label": "5,5",
+    "short_slug": "speccy_gfx_scene_today_-_обзор_спектрумовскои_графики_нарисо"
+  },
+  {
+    "article_id": 6016,
+    "article_url": "https://zxpress.ru/article.php?id=6016",
+    "print_url": "https://zxpress.ru/print.php?id=6016",
+    "title_link": "ascii'2008 graphics review - обзор графики с ascii'2008 от diver/4d.",
+    "order": 6,
+    "issue_label": "5,5",
+    "short_slug": "ascii2008_graphics_review_-_обзор_графики_с_ascii2008_от_div"
+  },
+  {
+    "article_id": 6017,
+    "article_url": "https://zxpress.ru/article.php?id=6017",
+    "print_url": "https://zxpress.ru/print.php?id=6017",
+    "title_link": "mus!c sCene t0day - \"кто еще кроме меня пишет музыку на реальном спектруме, друзья???\"",
+    "order": 7,
+    "issue_label": "5,5",
+    "short_slug": "musc_sCene_t0day_-_кто_еще_кроме_меня_пишет_музыку_на_реальн"
+  },
+  {
+    "article_id": 6018,
+    "article_url": "https://zxpress.ru/article.php?id=6018",
+    "print_url": "https://zxpress.ru/print.php?id=6018",
+    "title_link": "final words to scene - \"excelente!, - сказали бы сейчас мои испанские\r\nдрузья, и я бы с ними согласился.\"",
+    "order": 8,
+    "issue_label": "5,5",
+    "short_slug": "final_words_to_scene_-_excelente_-_сказали_бы_сеичас_мои_исп"
+  }
+]

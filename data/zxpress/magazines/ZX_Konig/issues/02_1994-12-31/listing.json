@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 9564,
+    "article_url": "https://zxpress.ru/article.php?id=9564",
+    "print_url": "https://zxpress.ru/print.php?id=9564",
+    "title_link": "От авторов - о целях и задачах журнала.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "От_авторов_-_о_целях_и_задачах_журнала"
+  },
+  {
+    "article_id": 9565,
+    "article_url": "https://zxpress.ru/article.php?id=9565",
+    "print_url": "https://zxpress.ru/print.php?id=9565",
+    "title_link": "Сенсация - на спектруме появилась новая игра - UFO: враг неизвестен.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Сенсация_-_на_спектруме_появилась_новая_игра_-_UFO_враг_неиз"
+  },
+  {
+    "article_id": 9566,
+    "article_url": "https://zxpress.ru/article.php?id=9566",
+    "print_url": "https://zxpress.ru/print.php?id=9566",
+    "title_link": "Начинающим - Как работать с DCU v2.32 & GAME BOOT v2.01",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Начинающим_-_Как_работать_с_DCU_v232_GAME_BOOT_v201"
+  },
+  {
+    "article_id": 9567,
+    "article_url": "https://zxpress.ru/article.php?id=9567",
+    "print_url": "https://zxpress.ru/print.php?id=9567",
+    "title_link": "Электронщику - Краткая анотация к программе макетирования и разводки печатных плат - LAYOUT NEW.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Электронщику_-_Краткая_анотация_к_программе_макетирования_и"
+  },
+  {
+    "article_id": 9568,
+    "article_url": "https://zxpress.ru/article.php?id=9568",
+    "print_url": "https://zxpress.ru/print.php?id=9568",
+    "title_link": "Наш конкурс - Конкурс продолжается...",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Наш_конкурс_-_Конкурс_продолжается"
+  },
+  {
+    "article_id": 9569,
+    "article_url": "https://zxpress.ru/article.php?id=9569",
+    "print_url": "https://zxpress.ru/print.php?id=9569",
+    "title_link": "На десерт - О игре DEFLEKTOR.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "На_десерт_-_О_игре_DEFLEKTOR"
+  },
+  {
+    "article_id": 9570,
+    "article_url": "https://zxpress.ru/article.php?id=9570",
+    "print_url": "https://zxpress.ru/print.php?id=9570",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

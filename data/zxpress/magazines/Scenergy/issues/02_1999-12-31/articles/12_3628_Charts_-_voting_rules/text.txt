@@ -1,0 +1,81 @@
+Scenergy 02 - Charts - voting rules.
+voters by country
+┌───────────────────────┬──────┐
+│ Russia                │  25  │
+│ Byelorus              │  11  │
+│ Latvia                │   7  │
+│ Czechia               │   3  │
+│ Poland                │   2  │
+│ Slovakia              │   2  │
+│ Australia             │   1  │
+│ Ukraine               │   1  │
+│ United Kingdom        │   1  │
+├───────────────────────┼──────┤
+│ Total # of voters     │  53  │
+└───────────────────────┴──────┘
+
+Russia leading as it's supposed to be. Where are ukrainians?
+Also, let us ask you dear reader, what do you think about
+merging of Russian and Byelorus? I personally think it's just
+bullshit! For me Byelorus will stay as independent country!
+
+voters list
+┌───────────────────┬──────────────────────────────────────┬──┐
+│ Alex Psych        │ Ascendancy Creative Labs             │BY│
+│ Andy Simon        │ Razzlers                             │RU│
+│ Blade             │ Triumph                              │RU│
+│ Boy               │                                      │LV│
+│ Bsa               │ Sinc Masters Creative Group          │RU│
+│ Cryss             │ Razzlers                             │RU│
+│ Cyberjack         │ Bleafop Squadron/Light Future Group  │RU│
+│ Diver             │ Fourth Dimension                     │RU│
+│ Doctor Max        │ Global Corporation                   │RU│
+│ Dr Grifus         │ Ascendancy Creative Labs             │BY│
+│ E2                │ ex-Virtual Vision Group              │RU│
+│ Ellvis            │ Zero Team/Constellation              │SK│
+│ Emiter            │ Killer Toad                          │LV│
+│ Factor 6          │ Excellent Spectrum Aces              │CZ│
+│ Flying            │ Digital Reality                      │RU│
+│ Fox Fluffy        │ AIS                                  │BY│
+│ Gas 13            │                                      │RU│
+└───────────────────┴──────────────────────────────────────┴──┘
+┌───────────────────┬──────────────────────────────────────┬──┐
+│ Gorgussien        │                                      │CZ│
+│ Groove            │ Light Future Group                   │RU│
+│ Habib             │ Hooy-Program                         │PL│
+│ Hal               │ Razzlers                             │RU│
+│ Klootzak          │ Killer Toad                          │LV│
+│ Kva               │ E-Mage                               │BY│
+│ Kvazar            │ Rush                                 │BY│
+│ La Esq            │ Raww Arse                            │UK│
+│ Laser Genius      │ Ascendancy Creative Labs             │BY│
+│ Lva               │                                      │LV│
+│ Lzb               │ Jupiter 77                           │RU│
+│ Mac Buster        │ Extreme                              │RU│
+│ Mag               │ Ascendancy Creative Labs             │BY│
+│ Marchcat          │ Condorsoft/Concern Chaos             │RU│
+│ Mast              │ Fatality                             │BY│
+│ Maxx              │ Techno Lab                           │RU│
+│ Megus             │ X-Project Association                │RU│
+│ Mind Surgeon      │ Jupiter 77/Trance Action             │RU│
+└───────────────────┴──────────────────────────────────────┴──┘
+┌───────────────────┬──────────────────────────────────────┬──┐
+│ Minisoft Avec Nrj │ Ascendancy Creative Labs             │BY│
+│ Mitchell          │ Hardwave Crew                        │RU│
+│ Paracels          │ Eternity Industry                    │RU│
+│ Random            │ Concern Chaos                        │AU│
+│ Raver             │ Phantasy                             │LV│
+│ Relict            │ Phantasy                             │LV│
+│ Realtimer         │                                      │RU│
+│ Rum               │ E-Mage                               │BY│
+│ Serzhsoft         │                                      │RU│
+│ Ss                │ Zero Team                            │SK│
+│ Tdm Software      │ K3L Corp/5 Samyc                     │CZ│
+│ Thrash            │ Smash                                │UA│
+│ Tom Hial          │ Ascendancy Creative Labs             │BY│
+│ Ulterior          │                                      │RU│
+│ Virtual           │ Silence Crionix                      │RU│
+│ Visual            │ Extreme                              │RU│
+│ Warlord           │ Crushers                             │LV│
+│ Yermyey           │ Hooy-Program/Raww Arse/Constellation │PL│
+└───────────────────┴──────────────────────────────────────┴──┘

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1339,
+    "article_url": "https://zxpress.ru/article.php?id=1339",
+    "print_url": "https://zxpress.ru/print.php?id=1339",
+    "title_link": "Вступление - Начало сезона обучения.",
+    "order": 1,
+    "issue_label": "0C",
+    "short_slug": "Вступление_-_Начало_сезона_обучения"
+  },
+  {
+    "article_id": 1344,
+    "article_url": "https://zxpress.ru/article.php?id=1344",
+    "print_url": "https://zxpress.ru/print.php?id=1344",
+    "title_link": "Злоба дня - Party в России. Феномены и синонимы.",
+    "order": 2,
+    "issue_label": "0C",
+    "short_slug": "Злоба_дня_-_Party_в_России_Феномены_и_синонимы"
+  },
+  {
+    "article_id": 1340,
+    "article_url": "https://zxpress.ru/article.php?id=1340",
+    "print_url": "https://zxpress.ru/print.php?id=1340",
+    "title_link": "Новости - Maxwell в Самаре.",
+    "order": 3,
+    "issue_label": "0C",
+    "short_slug": "Новости_-_Maxwell_в_Самаре"
+  },
+  {
+    "article_id": 1343,
+    "article_url": "https://zxpress.ru/article.php?id=1343",
+    "print_url": "https://zxpress.ru/print.php?id=1343",
+    "title_link": "Партийная зона - Официальные результаты Computer Art'99. Впечатления о CAFE'99.",
+    "order": 4,
+    "issue_label": "0C",
+    "short_slug": "Партииная_зона_-_Официальные_результаты_Computer_Art99_Впеча"
+  },
+  {
+    "article_id": 1341,
+    "article_url": "https://zxpress.ru/article.php?id=1341",
+    "print_url": "https://zxpress.ru/print.php?id=1341",
+    "title_link": "Партийная зона - Официальные результаты Paradox'99. Paradox'альное путешествие в Ростов.",
+    "order": 5,
+    "issue_label": "0C",
+    "short_slug": "Партииная_зона_-_Официальные_результаты_Paradox99_Paradoxаль"
+  },
+  {
+    "article_id": 1342,
+    "article_url": "https://zxpress.ru/article.php?id=1342",
+    "print_url": "https://zxpress.ru/print.php?id=1342",
+    "title_link": "Партийная зона - Результаты очного голосования на DI-HALT'99.",
+    "order": 6,
+    "issue_label": "0C",
+    "short_slug": "Партииная_зона_-_Результаты_очного_голосования_на_DI-HALT99"
+  },
+  {
+    "article_id": 1345,
+    "article_url": "https://zxpress.ru/article.php?id=1345",
+    "print_url": "https://zxpress.ru/print.php?id=1345",
+    "title_link": "Приложение - Новая игра Gunman.",
+    "order": 7,
+    "issue_label": "0C",
+    "short_slug": "Приложение_-_Новая_игра_Gunman"
+  }
+]

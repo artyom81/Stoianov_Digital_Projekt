@@ -1,0 +1,146 @@
+[
+  {
+    "article_id": 12114,
+    "article_url": "https://zxpress.ru/article.php?id=12114",
+    "print_url": "https://zxpress.ru/print.php?id=12114",
+    "title_link": "Help - управление журналом.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Help_-_управление_журналом"
+  },
+  {
+    "article_id": 12115,
+    "article_url": "https://zxpress.ru/article.php?id=12115",
+    "print_url": "https://zxpress.ru/print.php?id=12115",
+    "title_link": "Экспертиза - разбор симулятора тениса - Pro Tennis Tour.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Экспертиза_-_разбор_симулятора_тениса_-_Pro_Tennis_Tour"
+  },
+  {
+    "article_id": 12116,
+    "article_url": "https://zxpress.ru/article.php?id=12116",
+    "print_url": "https://zxpress.ru/print.php?id=12116",
+    "title_link": "Проходилка - прохождение игры Crime Santa Claus.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Проходилка_-_прохождение_игры_Crime_Santa_Claus"
+  },
+  {
+    "article_id": 12117,
+    "article_url": "https://zxpress.ru/article.php?id=12117",
+    "print_url": "https://zxpress.ru/print.php?id=12117",
+    "title_link": "Проходилка - прохождение игры Винни Пух.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Проходилка_-_прохождение_игры_Винни_Пух"
+  },
+  {
+    "article_id": 12118,
+    "article_url": "https://zxpress.ru/article.php?id=12118",
+    "print_url": "https://zxpress.ru/print.php?id=12118",
+    "title_link": "Обзор - обзор игрушек: НЛО2, Ментура, Dina Blaster, Super Cars, Darkman, Final Fight, Street Fighter 2, Pang 128, Time Cop, The Turn, Ice Climber, Приключение Винни Пуха, Prince of Persia.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Обзор_-_обзор_игрушек_НЛО2_Ментура_Dina_Blaster_Super_Cars_D"
+  },
+  {
+    "article_id": 12119,
+    "article_url": "https://zxpress.ru/article.php?id=12119",
+    "print_url": "https://zxpress.ru/print.php?id=12119",
+    "title_link": "Обзор - обзор системных программ: Master Assembler v.1.1, STS v4.1, PRo Tracjer v2.1, Mega Screen v2.5",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Обзор_-_обзор_системных_программ_Master_Assembler_v11_STS_v4"
+  },
+  {
+    "article_id": 12120,
+    "article_url": "https://zxpress.ru/article.php?id=12120",
+    "print_url": "https://zxpress.ru/print.php?id=12120",
+    "title_link": "Обзор - обзор электронной прессы: Faultless, ZX-Magazine, Speccy, ZX-Format, Adventurer.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Обзор_-_обзор_электроннои_прессы_Faultless_ZX-Magazine_Specc"
+  },
+  {
+    "article_id": 12121,
+    "article_url": "https://zxpress.ru/article.php?id=12121",
+    "print_url": "https://zxpress.ru/print.php?id=12121",
+    "title_link": "Премьера - системные программы: Sound Tracker Blockmaer v1.0, Sound Tracker Player v1.01, Pt Player v1.0, DAF v7.09, SCG v4.2, Сканер, Bolo 128k.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Премьера_-_системные_программы_Sound_Tracker_Blockmaer_v10_S"
+  },
+  {
+    "article_id": 12122,
+    "article_url": "https://zxpress.ru/article.php?id=12122",
+    "print_url": "https://zxpress.ru/print.php?id=12122",
+    "title_link": "Презентация - новелла по игре \"BOLO\".",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Презентация_-_новелла_по_игре_BOLO"
+  },
+  {
+    "article_id": 12123,
+    "article_url": "https://zxpress.ru/article.php?id=12123",
+    "print_url": "https://zxpress.ru/print.php?id=12123",
+    "title_link": "Почта - письмо от Петрова Дмитрия (г. Волжский).",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Почта_-_письмо_от_Петрова_Дмитрия_г_Волжскии"
+  },
+  {
+    "article_id": 12124,
+    "article_url": "https://zxpress.ru/article.php?id=12124",
+    "print_url": "https://zxpress.ru/print.php?id=12124",
+    "title_link": "Проект - самодельный сканер для Спектрума из Принтета.",
+    "order": 11,
+    "issue_label": "05",
+    "short_slug": "Проект_-_самодельныи_сканер_для_Спектрума_из_Принтета"
+  },
+  {
+    "article_id": 12125,
+    "article_url": "https://zxpress.ru/article.php?id=12125",
+    "print_url": "https://zxpress.ru/print.php?id=12125",
+    "title_link": "Ассемблер - как вычислить скорость комманд процессора Z80.",
+    "order": 12,
+    "issue_label": "05",
+    "short_slug": "Ассемблер_-_как_вычислить_скорость_комманд_процессора_Z80"
+  },
+  {
+    "article_id": 12126,
+    "article_url": "https://zxpress.ru/article.php?id=12126",
+    "print_url": "https://zxpress.ru/print.php?id=12126",
+    "title_link": "Система - генератор и редактор спрайтов: SCG v4.2.",
+    "order": 13,
+    "issue_label": "05",
+    "short_slug": "Система_-_генератор_и_редактор_спраитов_SCG_v42"
+  },
+  {
+    "article_id": 12127,
+    "article_url": "https://zxpress.ru/article.php?id=12127",
+    "print_url": "https://zxpress.ru/print.php?id=12127",
+    "title_link": "Система - Sоund Trасkеr Рlаyеr v1.01 и Sоund Trасkеr Вlосk Mаkеr.",
+    "order": 14,
+    "issue_label": "05",
+    "short_slug": "Система_-_Sоund_Trасkеr_Рlаyеr_v101_и_Sоund_Trасkеr_Вlосk_Mа"
+  },
+  {
+    "article_id": 12128,
+    "article_url": "https://zxpress.ru/article.php?id=12128",
+    "print_url": "https://zxpress.ru/print.php?id=12128",
+    "title_link": "Юмор - страшилки про солдат.",
+    "order": 15,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_страшилки_про_солдат"
+  },
+  {
+    "article_id": 12129,
+    "article_url": "https://zxpress.ru/article.php?id=12129",
+    "print_url": "https://zxpress.ru/print.php?id=12129",
+    "title_link": "Реклама - рeклaму я люблю, только помню\r\nплоxо.",
+    "order": 16,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_рeклaму_я_люблю_только_помнюплоxо"
+  }
+]

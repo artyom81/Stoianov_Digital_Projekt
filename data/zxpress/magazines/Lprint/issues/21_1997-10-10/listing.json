@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12402,
+    "article_url": "https://zxpress.ru/article.php?id=12402",
+    "print_url": "https://zxpress.ru/print.php?id=12402",
+    "title_link": "От редакции - Отевтственность за достоверность\r\nпубликуемых материалов несет автор статьи.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "От_редакции_-_Отевтственность_за_достоверностьпубликуемых_ма"
+  },
+  {
+    "article_id": 12403,
+    "article_url": "https://zxpress.ru/article.php?id=12403",
+    "print_url": "https://zxpress.ru/print.php?id=12403",
+    "title_link": "Новости - Вышел третий номер MARAZM'а.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Новости_-_Вышел_третии_номер_MARAZMа"
+  },
+  {
+    "article_id": 12404,
+    "article_url": "https://zxpress.ru/article.php?id=12404",
+    "print_url": "https://zxpress.ru/print.php?id=12404",
+    "title_link": "Программирование - Как определить сколько килобайт у вашей тачки.\r\n Определение наличия у Компа музыкальной платы.\r\n Определение типа музыкальной платы.\r\n Определение количества тактова за одно прерывание.\r\n Проверка наличия 128Кб.\r\n Определение наличия теневого ОЗУ.\r\n Проверка наличия порта #FF.\r\n Определение наличия модемной платы.\r\n Определение CDOS-модема и порта к которому он подключен.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Программирование_-_Как_определить_сколько_килобаит_у_вашеи_т"
+  },
+  {
+    "article_id": 12405,
+    "article_url": "https://zxpress.ru/article.php?id=12405",
+    "print_url": "https://zxpress.ru/print.php?id=12405",
+    "title_link": "BLOODWYCH - Рассказ по мотиву игры \"BloodWych\" (глава 3-4).",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "BLOODWYCH_-_Рассказ_по_мотиву_игры_BloodWych_глава_3-4"
+  },
+  {
+    "article_id": 12406,
+    "article_url": "https://zxpress.ru/article.php?id=12406",
+    "print_url": "https://zxpress.ru/print.php?id=12406",
+    "title_link": "MAPS for BLOODWYCH - Карты уровней к игре BloodWych.",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "MAPS_for_BLOODWYCH_-_Карты_уровнеи_к_игре_BloodWych"
+  },
+  {
+    "article_id": 12407,
+    "article_url": "https://zxpress.ru/article.php?id=12407",
+    "print_url": "https://zxpress.ru/print.php?id=12407",
+    "title_link": "ENLIGHT RULEZ?! - ENLIGHT 1997 - к чему он прирулит? (день второй и третий).",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "ENLIGHT_RULEZ_-_ENLIGHT_1997_-_к_чему_он_прирулит_день_второ"
+  },
+  {
+    "article_id": 12408,
+    "article_url": "https://zxpress.ru/article.php?id=12408",
+    "print_url": "https://zxpress.ru/print.php?id=12408",
+    "title_link": "Приколы - Петь или не петь.\r\n Как правильно хранить и использовать дискеты.",
+    "order": 7,
+    "issue_label": "21",
+    "short_slug": "Приколы_-_Петь_или_не_петь_Как_правильно_хранить_и_использов"
+  },
+  {
+    "article_id": 12409,
+    "article_url": "https://zxpress.ru/article.php?id=12409",
+    "print_url": "https://zxpress.ru/print.php?id=12409",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 8,
+    "issue_label": "21",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

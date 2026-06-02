@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 11852,
+    "article_url": "https://zxpress.ru/article.php?id=11852",
+    "print_url": "https://zxpress.ru/print.php?id=11852",
+    "title_link": "Новости - WaveSoft закончили игру Тайны Капитана Шелтона, Alfa group продолжает делать журнал Shock, Energy заканчивает демоверсию игру \"На грани\".",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Новости_-_WaveSoft_закончили_игру_Таины_Капитана_Шелтона_Alf"
+  },
+  {
+    "article_id": 11853,
+    "article_url": "https://zxpress.ru/article.php?id=11853",
+    "print_url": "https://zxpress.ru/print.php?id=11853",
+    "title_link": "Рецензии - рецензия на игру \"Тайны Капитана Шелтона\".",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Рецензии_-_рецензия_на_игру_Таины_Капитана_Шелтона"
+  },
+  {
+    "article_id": 11854,
+    "article_url": "https://zxpress.ru/article.php?id=11854",
+    "print_url": "https://zxpress.ru/print.php?id=11854",
+    "title_link": "Игры - На Питерском рынке уже начали продовать\r\nполную версию М0RТАL К0МВАТ, ЧEPНЫЙ В0P0Н.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Игры_-_На_Питерском_рынке_уже_начали_продоватьполную_версию"
+  },
+  {
+    "article_id": 11855,
+    "article_url": "https://zxpress.ru/article.php?id=11855",
+    "print_url": "https://zxpress.ru/print.php?id=11855",
+    "title_link": "Перспективы - какие у Spесtruма перспективы в Латвии. как увеличить спектрумскую сцену в Pиге. Новая разработка фирмы Scorpion - GMX.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Перспективы_-_какие_у_Spесtruма_перспективы_в_Латвии_как_уве"
+  },
+  {
+    "article_id": 11856,
+    "article_url": "https://zxpress.ru/article.php?id=11856",
+    "print_url": "https://zxpress.ru/print.php?id=11856",
+    "title_link": "Интервью - интервью с одним из лучших кодеров в Латвии - Hunter/Crushers.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_интервью_с_одним_из_лучших_кодеров_в_Латвии_-_Hun"
+  },
+  {
+    "article_id": 11857,
+    "article_url": "https://zxpress.ru/article.php?id=11857",
+    "print_url": "https://zxpress.ru/print.php?id=11857",
+    "title_link": "От авторов - Многие спрашивают, почему газета так дорого стоит. Во-первых\r\n50 сантим - это не дорого...",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_Многие_спрашивают_почему_газета_так_дорого_стои"
+  }
+]

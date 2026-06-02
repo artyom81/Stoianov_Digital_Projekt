@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "31",
+  "issue_date_iso": "1999-10-01",
+  "order": 6,
+  "article_id": 10493,
+  "title_link": "Beatles - история Макаревича о неком легендаpном Коли Васина.",
+  "title_h1": "City 31 - Beatles - история Макаревича о неком легендаpном Коли Васина.",
+  "print_url": "https://zxpress.ru/print.php?id=10493",
+  "article_url": "https://zxpress.ru/article.php?id=10493",
+  "fetched_at": "2026-05-31T21:51:18Z"
+}

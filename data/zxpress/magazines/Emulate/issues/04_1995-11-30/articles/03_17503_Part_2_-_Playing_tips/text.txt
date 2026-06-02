@@ -1,0 +1,260 @@
+04 - Part 2 - Playing tips.
+==========================================
+****************************
+*  PART 2  - PLAYING TIPS  *
+****************************
+
+HERBERT'S DUMMY RUN Solution
+
+1)  First  of  all get the box key and get
+the honey pot.
+2) Now go to the room that the game starts
+in  and  jump  up on to the box. This will
+spring  you  up  to where you can exchange
+the honey pot for the teddy.
+3) Get the rope. Now with the rope and the
+teddy  go  to  the  arcade  room  with the
+daleks in It.
+4)  The  teddy  will go and open the right
+handside  door;  you  can  now  go through
+this.  Jump  at  the rope in the next room
+and  itshould  extend  into  a room with a
+rubberduck, collect this.
+5) Load the pop gun (with the cork) and go
+tothe castle.
+6)  Exchange  the  pop  gun  for  the flag
+andwith  the rubber duck go to the seaside
+screen.  You  can  now collect the pebbles
+toload the catapult.
+7)  Now  get  the torch and the bulb, this
+willmend the torch.
+8)  Go  to the dark room with the bulb and
+this will enable you to see. Shoot all the
+ducks and a couple of rolls of caps should
+be    dropped.    Put    these   somewhere
+convenient.
+9)  Get  the A brick and the chocolate 10p
+and go to the screen with the till.
+11)  Climb  on  top  of the brick and walk
+past the till with the chocolate 10p, this
+should now be exchanged for a real 10p.
+12)  Take  the  10p  and the bomb and then
+goto  the  room  with  the 10p slot on the
+door  and jump at it. You will now be in a
+Blitz game, and when this is completed you
+will recelve a cannonball.
+13)  With this and the rolls of caps go to
+the  room with the cannon and walk through
+it.The  cannonball  will be launched and a
+hole in the wall will be made.
+14)  Pass  through  this  hole and get the
+spacehopper.
+15)  Then  go  back  up  to get the tennis
+racket,   put   the   space  hopper  in  a
+convenient place.
+16)  Next  go  into  the Breakout room and
+complete  the game. Once the Breakout game
+is completed you should receive a glove.
+17)  Get  the  space  hopper  and with the
+glove  go to Level 1 where there is a room
+with  a hand guarding a door. You must now
+jump  into  the  room behind the hand (the
+hand  will  no longer harm you because you
+have the glove).
+18)  You  will be in a room with Wally and
+Wilma  at  the top of an escalator. As you
+have  the space hopper you will be able to
+jump  very  high.  This means that you can
+now  jump  up  and switch the escalator on
+and  be  reunited  with Wally and Wilma to
+complete the game.
+
+==========================================
+
+BOOTY HIDDEN GAME
+
+It  has  long  been known that Booty has a
+hidden  game  which  can be accessed using
+the  Currah  Microspeech  add-on  for  the
+Speccy.    Unfortunately    none   of   us
+emulator-users have this little gem (!)
+Fortunately,  help  is at hand from Darren
+Salt who posted the solution in the Speccy
+newsgroup,  which  I  have reproduced here
+for  everyone  to  see.  Just  enter these
+pokes  using  the  Multiface option at the
+title  screen. The hidden game itself is a
+diving game similar to Scuba Dive:
+POKE 52796,32
+POKE 52798,58
+
+==========================================
+
+QUICK CHEATS
+
+CYBERNOID II
+Define  your  keys  as  ORGY  for infinite
+lives.
+
+CONTACT SAM CRUISE
+When  in  jail,  press CAPS SHIFT and P to
+turn invisible.
+
+CHRONOS
+Type in 'jing it baby' into the high score
+table for a mega laser.
+
+VAMPIRE
+Hold  1,2,3,4,5 together to go straight to
+the final boss.
+
+DOWN TO EARTH
+Press   1,2,3,4,5,6   together   to   skip
+straight to the next level.
+
+LAST NINJA 2
+When  fighting a baddy, hold the pause key
+and you should kill him easily.
+
+RENEGADE 128k
+Pressing  0 will enable you to skip to the
+next level.
+
+STIFFLIP AND CO
+Typing  DEFACED  in Part 2 lets you wander
+around the whole level.
+
+STUNTBIKE SIMULATOR
+When  it says 'Attempt 12345' press Delete
+to skip the level.
+
+ROLLING THUNDER
+Type  in  JIMBO on the title screen to get
+infinite lives and energy.
+
+STREET HASTLE
+Press L to skip a level when you have just
+died and are lying on the ground.
+
+COMBAT ZONE
+Pause  the  game  and  hold down 0,P,C and
+ENTER for infinite bombs and fuel.
+
+IKARI WARRIORS
+Type  PETELIVES  on the loading screen for
+infinite lives.
+
+CAPTAIN PLANET
+Hold  down  Q,  A, GRAPH, EDIT, CAPSSHIFT,
+CAPSLOCK and press V for infinite time.
+
+DIZZY DOWN THE RAPIDS
+Type  in  CHEAT  on  the  title screen and
+press ENTER for infinite energy.
+
+TOTAL RECALL
+Type  in THE END IS NIGH on the high score
+table to skip levels.
+
+XENON
+Press  BREAK  to  pause and hold down TINY
+for an invincible ship.
+
+==========================================
+
+SCEPTRE OF BAGHDAD
+
+Especially  for  Boris Donko (See Letters)
+heres a solution for this game:
+
+SWAP FLUTE FOR HANKY, GO LEFT UNTIL FLYING
+CARPET,  FLY  OVER RIVER, ENTER THE TOWER,
+CLIMB UP THE ROPE, RIGHT, JUMP UP TO BIRD,
+SWAP  FLUTE FOR WINGS, JUMP ACROSS NEXT TO
+BALCONY, WALK UNDER BEES NEST, CROSS RIVER
+AGAIN,  GO  LEFT  UNTIL  STATUE OF ARCHER,
+JUMP  UP  STEPS  UNTIL IT FLIES OFF, CROSS
+BACK  OVER THR RIVER, SWAP WINGS FOR KEYS,
+GO  TO  THE ROOM WITH THE BEACHBALLS, JUMP
+UP  STAIRS  AND GO RIGHT, KEEP GOING RIGHT
+TO  GET  RID  OF  THE  NAGGING WOMAN, OPEN
+WARDROBE,  SLIDE DOWN BANISTER AND GET THE
+BOOK,  GO  UPSTAIRS  AND SWAP THE KEYS FOR
+THE  FIRE-RING, GO LEFT, GO THROUGH DOORS,
+SLIDE  DOWN  THE  BANISTER,  GO  TO FLYING
+CARPET  AND  CROSS  WIVER  TO WHERE STATUE
+WAS. GO DOWN HOLE, GO LEFT UNTIL ROOM WITH
+BATS,  EXIT  ROOM AND RETURN TO ROOM WHERE
+YOU LEFT THE PURSE. NOW RETURN TO BAT ROOM
+BY  THE  SAME  ROUTE,  THIS TIME USING THE
+DOOR  OPEN  KEY  ON  THE  OPEN  ROCK. THIS
+SHOULD  FILL  YOUR  PURSE.  RETURN  TO THE
+PURSE  ROOM,  ENTER WARDROBE, DOWN STAIRS,
+GO  RIGHT  UNTIL  THE BLUE BRICKED MARKET,
+ENTER  THE SHOW SHOP AND SWAP THE BOOK FOR
+THE SHOES, ENTER THE WEAPONS SHOP AND SWAP
+THE  PURSE  FOR THE AXE. LEAVE THE AXE AND
+SLIPPERS IN A SAFE PLACE. GO LEFT FROM THE
+SHOPS AND PRESS UP BETWEEN THE PALM TREES.
+GO UP STEPS AND TAKE THE SLING, GO BACK TO
+THE  ROOM WITH THE TRIDENT AND TAKE IT, GO
+DOWN THE HOLE MADE BY THE STATUE, AND SWAP
+THE  TRIDENT FOR THE PEARL IN THE OYSTER -
+THE  SLING  SHOULD  NOW BE LOADED. USE THE
+DOOR KEY BETWEEN THE TORCHES IN THE OYSTER
+ROOM,  GO  TO THE ROOM WITH THE COCONUT ON
+THE  PALM  TREE AND WLAK UNDERNEATH IT. GO
+LEFT  TO  THE  DESERT  AND  TAKE THE BLUNT
+TRUNK  (KEEPING  THE  COCONUT),  LEAVE THE
+DESERT  AND  PUT  THE  COCONUT  IN  A SAFE
+PLACE.  RETRIEVE  THE  AXE  TO SHARPEN THE
+TRUNK,  DROP THIS IN A SAFE PLACE. GET THE
+COCONUT  AND  GO  TO  THE  OYSTER ROOM. GO
+RIGHT TWICE AND TAKE THE FISH HELMET (HANG
+ON TO THAT COCONUT!). GO TO THE DESERT AND
+GO  DOWN THE WELL. SWAP THE MIRROR FOR THE
+COCONUT  AND  GO  RIGHT BACK TO THE OYSTER
+ROOM.   SWAP   THE  FISH  HELMET  FOR  THE
+SHARPENED TRUNK.
+ENTER  THE  DOOR  IN  THE ROOM LEFT OF THE
+STARTING  ROOM,  GO  DOWN  STAIRS, GO LEFT
+UNTIL  YOU GET PAST THE MEDUSA, KEEP GOING
+LEFT  TO  KILL  THE CYCLOPS. RETURN TO THE
+START ROOM, GET THE WHIP FROM THE BALCONY,
+GO  THE ROOM NEAR THE SHOPS WITH THE BULL,
+JUMP  INTO  THE  WAGON'S  WHEEL TO GET THE
+AXLE,   GO  TO  THE  OYSTER  ROOM,  RIGHT,
+REPLACE AXLE IN DRAWBRIDGE, TAKE SLIPPERS,
+ENTER  DRAWBRIDGE,  WALK  OVER COALS UNTIL
+YOU REACH AN ISLAND, SWAP WHIP FOR BOW AND
+DROP IT IN A SAFE PLACE.
+GET  THE  INSECT NET AND USE IT ON THE BEE
+FROM  THE  HIVE,  GET THE SWORD, ENTER THE
+DOORS IN THE SAME ROOM AND GO DOWN STAIRS,
+RIGHT,  JUMP  TO COLLECT THE STRING. LEAVE
+THE STRING IN A SAFE PLACE.
+GET  THE WHISK FROM THE BEACHBALL ROOM, GO
+TO THE DOOR BETWEEN THE TWO PALM TREES AND
+THE  GREEN  PLATFORM, ENTER PALM TREES AND
+GO  DOWN  THE HOLE, GET THE LAMP AND LEAVE
+IT SOMEWHERE SAFE.
+GET  THE BOW AND THE STRING, THEN DROP THE
+STRING. TAKE THE QUIVER FROM THE HOLE MADE
+BY THE STATUE AND GET THE LAMP. GO TO ROOM
+TO  THE  LEFT  OF THE START ROOM AND ENTER
+THE  DOORS.  GO  DOWN  AND  LEFT UNTIL YOU
+REACH  A  SEE-SAW. WALK TO THE SEE-SAW AND
+GET CATAPULTED INTO ANOTHER ROOM.
+TAKE   THE  SCEPTRE  AND  GET  TELEPORTED.
+RETURN  TO  THE  BALCONY AND YOU WILL HAVE
+COMPLETED THE GAME WITH 100%!!!
+
+==========================================
+
+Don't  forget  -  if  you  want loads more
+hints,  tips  and  cheats,  check  out the
+Emulate! Winter Special which is a massive
+A-Z  of  game tips. You can find it in the
+usual distribution sites.
+
+==========================================

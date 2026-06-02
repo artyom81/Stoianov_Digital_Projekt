@@ -1,0 +1,49 @@
+KiiA Info 02 - Программы - в продажу поступает еще один языковой пакет - интерпретатор языка LISP: muLISP-80
+************************************************************
+
+                      M u L i s p
+
+************************************************************
+
+    На этой неделе в продажу  поступает  еще  один  языковой
+пакет : интерпретатор  языка  LISP не менее знаменитой фирмы
+Microsoft ( напоминаю, что LISP - основной язык программиро-
+вания,  используемый в USA для создания систем искуственного
+интеллекта ( наряду  с  PROLOGа , используемого JAPONцами ).
+Пакет поступает без описания,  поскольку  все,   что  нужно,
+можно  прочитать  в  любой  книжке  по  LISPу,  например,  в
+изданной  недавно  "Мир  Лиспа"  Э.Хювенена  и  Й.Сеппянена.
+Отмечу только, что некоторые атомы  в  разных  системах  по-
+разному обзываются : атом  PLUS  данной версии соответствует
+атому "+"  некоторых  систем. Впрочем, первый вариант более
+стандартен. На всякий случай привожу полный список встроен-
+ных атомов :
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+                muLISP-80 2.12 (07/09/81)
+              Copyright (C) 1981 MICROSOFT
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+                Встроенные атомы системы
+
+NIL       T         LAMBDA    NLAMBDA   CAR       CDR
+CADR      CDDR      CADDR     CDDDR     CAAR      CDAR
+CAAAR     CDAAR     CADAR     CDDAR     CAADR     CDADR
+CONS      LIST      REVERSE   OBLIST    RPLACA    RPLACD
+NCONC     NAME      NUMBERP   ATOM      NULL      PLUSP
+MINUSP    ZEROP     EVEN      EQ        EQUAL     MEMBER
+GREATERP  LESSP     ORDERP    NOT       AND       OR
+SET       SETQ      ASSOC     GET       PUT       REMPROP
+FLAGP     FLAG      REMFLAG   PUTD      GETD      MOVD
+PACK      UNPACK    LENGTH    MINUS     PLUS      DIFFERENCE
+TIMES     QUOTIENT  REMAINDER DIVIDE    RDS       RATOM
+READ      READCH    ECHO      WRS       PRINT     PRIN1
+TERPRI    SPACES    RADIX     LPRINTER  QUOTE     LINELENGTH
+EVAL      APPLY     COND      LOOP      PROG1     DRIVER
+RECLAIM   SAVE      LOAD      MEMORY    SYSTEM    POP
+PUSH
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

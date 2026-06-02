@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4437,
+    "article_url": "https://zxpress.ru/article.php?id=4437",
+    "print_url": "https://zxpress.ru/print.php?id=4437",
+    "title_link": "Четыре килобайта - о содержании выпуска.",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "Четыре_килобаита_-_о_содержании_выпуска"
+  },
+  {
+    "article_id": 4438,
+    "article_url": "https://zxpress.ru/article.php?id=4438",
+    "print_url": "https://zxpress.ru/print.php?id=4438",
+    "title_link": "Страницы истории - Толкин: окончание рассказа о культовом писателе.",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "Страницы_истории_-_Толкин_окончание_рассказа_о_культовом_пис"
+  },
+  {
+    "article_id": 4439,
+    "article_url": "https://zxpress.ru/article.php?id=4439",
+    "print_url": "https://zxpress.ru/print.php?id=4439",
+    "title_link": "Мнение - Сапковский - конструктивная критика.",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Мнение_-_Сапковскии_-_конструктивная_критика"
+  },
+  {
+    "article_id": 4440,
+    "article_url": "https://zxpress.ru/article.php?id=4440",
+    "print_url": "https://zxpress.ru/print.php?id=4440",
+    "title_link": "ZX-Net - несколько интересных писем от спектрумистов увлеченных \r\nнаучной фантастикой и фэнтези.",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "ZX-Net_-_несколько_интересных_писем_от_спектрумистов_увлечен"
+  },
+  {
+    "article_id": 4441,
+    "article_url": "https://zxpress.ru/article.php?id=4441",
+    "print_url": "https://zxpress.ru/print.php?id=4441",
+    "title_link": "ZX-Обзор - Фантастический рейтинг литературы.",
+    "order": 5,
+    "issue_label": "39",
+    "short_slug": "ZX-Обзор_-_Фантастическии_реитинг_литературы"
+  },
+  {
+    "article_id": 4442,
+    "article_url": "https://zxpress.ru/article.php?id=4442",
+    "print_url": "https://zxpress.ru/print.php?id=4442",
+    "title_link": "Литстраничка - \"Кубок\".",
+    "order": 6,
+    "issue_label": "39",
+    "short_slug": "Литстраничка_-_Кубок"
+  },
+  {
+    "article_id": 4443,
+    "article_url": "https://zxpress.ru/article.php?id=4443",
+    "print_url": "https://zxpress.ru/print.php?id=4443",
+    "title_link": "Реклама - реклама и обьявления из Львова.",
+    "order": 7,
+    "issue_label": "39",
+    "short_slug": "Реклама_-_реклама_и_обьявления_из_Львова"
+  }
+]

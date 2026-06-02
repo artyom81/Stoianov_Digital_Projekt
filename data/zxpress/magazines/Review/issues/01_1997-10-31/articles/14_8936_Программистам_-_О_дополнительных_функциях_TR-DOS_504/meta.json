@@ -1,0 +1,15 @@
+{
+  "magazine_id": 173,
+  "magazine_name": "Review",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-10-31",
+  "order": 14,
+  "article_id": 8936,
+  "title_link": "Программистам - О дополнительных функциях TR-DOS 5.04.",
+  "title_h1": "Echo 03 - Программистам - О дополнительных функциях TR-DOS 5.04.",
+  "print_url": "https://zxpress.ru/print.php?id=8936",
+  "article_url": "https://zxpress.ru/article.php?id=8936",
+  "fetched_at": "2026-05-31T22:56:18Z"
+}

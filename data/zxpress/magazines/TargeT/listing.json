@@ -1,0 +1,69 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1999-06-12",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1999-06-15",
+      "articles_count": 3
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1999-06-16",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1999-06-26",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "1999-08-27",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "2000-03-18",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "07",
+      "issue_date_iso": "2000-12-02",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "08",
+      "issue_date_iso": "2001-02-01",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "09",
+      "issue_date_iso": "2001-09-01",
+      "articles_count": 13
+    },
+    {
+      "issue_label": "10",
+      "issue_date_iso": "2002-03-01",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "11",
+      "issue_date_iso": "2003-08-03",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "12",
+      "issue_date_iso": "2006-03-30",
+      "articles_count": 42
+    },
+    {
+      "issue_label": "Bonus",
+      "issue_date_iso": "2000-06-11",
+      "articles_count": 4
+    }
+  ]
+}

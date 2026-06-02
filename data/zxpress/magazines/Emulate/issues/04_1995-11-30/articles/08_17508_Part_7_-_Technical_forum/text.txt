@@ -1,0 +1,253 @@
+04 - Part 7 - Technical forum.
+==========================================
+****************************
+* PART 7 - TECHNICAL FORUM *
+****************************
+
+This issue, I have received a letter:
+
+"I  am  now the happy (?) owner of a Timex
+disk  drive  for the Spectrum. I bought it
+at  a  sale  organised by my university. I
+also own two Timex 2048 machines.
+
+"The drive seems to be some predecessor of
+the  famous  FDDЗO00 drive, and I think it
+is  called  FDD 3. I have 3 inch and 5 1/4
+inch  drives  connected to the controller.
+The  3 inch drive came with the controller
+and  the 5 1/4 inch drive came from my old
+XT. I don't have any manuals for the drive
+but  I  have  read  old  issues  of Polish
+computer  magazines  and  there  was  some
+information  about  this drive. It seems I
+need  a  diskette  with  TOS  in  order to
+format another diskette, and it seems that
+the   drive   controller  will  not  start
+without  this  diskette  because  when the
+controller  starts  it  reads TOS into its
+own internal RAM.
+
+"The   problem:   I  don't  have  the  TOS
+diskette.
+
+"What  I  need  is an image of a formatted
+diskette  so I could format more and enjoy
+my  old  Timex.  By  "image"  I  mean  all
+sectors  from  the diskette written to one
+160K file. think I can write a program for
+my PC to format diskettes to 40 tracks, 16
+sectors,  256  bytes per sector, and write
+this image there.
+
+"Does  anyone have a TOS diskette for this
+drive, or an image of it?"
+
+DOMINIK BEHR
+
+==========================================
+
+Tech Ed's reply:
+
+Firstly,  with this equipment being marked
+TIMEX, I would guess it's intended for the
+American   market.  Perhaps  some  of  our
+American readers would be able to help.
+
+Second, you mention a 3-inch drive. Do you
+mean  CF2  type?  These  disks are getting
+rare,  but some people using Amstrad PCWs,
+CPCs  or the Spectrum +3 may know where to
+get  them.  If you mean the PC type, these
+are 3 1/2 inch, and very common.
+
+Thirdly,  you  might,  quite  possibly, be
+able  to make a 5 1/4 inch PC drive format
+a  disk  suitable  for the Timex. It might
+help you, but it might not.
+
+Not knowing this drive, I am throwing this
+query  open.  If anyone knows how to solve
+this,  perhaps  you  could let me know. My
+details  are  at  the end of the technical
+section.
+
+==========================================
+
+TECHNICAL WRITES
+
+This  month,  I have written an article on
+mass   storage   devices  and  ability  to
+emulate.   Once   again,  as  a  PC  user,
+emulation  is  generally from the PC point
+of view.
+
+Mass  storage  is  a  central  part  of  a
+computer  system. Without it, the computer
+would forget everything when switched off.
+The Spectrum was supplied with the ability
+to  use audio tape, usually in the form of
+the  Philips  compact  cassette,  as  mass
+storage. The advantage of this was that it
+was  the  one  form  of  storage which was
+available  to  everybody, with most people
+either owning a cassette recorder or going
+out   to   buy   one  when  the  need  was
+discovered.  The +2 and +2A models had the
+data recorder built in.
+
+Tape  had  the  advantage that most retail
+software  was  supplied  on  cassette. The
+major  disadvantages  were finding a block
+on  cassette,  the fairly slow speed, and,
+in some cases, poor reliability.
+
+Of  the  emulators  available  for the PC,
+several  handle tape. SPECTRUM has limited
+tape  handling, and Z80 is well-specified.
+Others   exist,  but  in  most  cases  are
+limited.
+
+Sinclair  planned to launch the Microdrive
+system  in  1982.  Unfortunately,  it  was
+delayed,  and then needed the ZX Interface
+1 before it could be fitted. The media was
+a  small  cartridge  containing  a loop of
+tape.  The  system  was  much  faster than
+tape,  but  access  time  was still fairly
+slow.  Cartridge reliability was a problem
+occasionally,  and  the  vast  majority of
+cartridges  had  at least two bad sectors.
+Storage  capacity  was  in  the  region of
+90-100K.  Up  to  eight  drives  could  be
+fitted.
+
+Emulators  are  unable  to handle the real
+cartridges,  but  Z80  handles a file type
+called  MDR,  which  emulates a microdrive
+cartridge.  It  is  reasonably possible to
+devise  a  system  linking a real Spectrum
+with   microdrives   to  a  PC,  and  copy
+cartridges that way.
+
+Other mass storage systems began to appear
+over  the  years which followed. Rotronics
+launched  the WafaDrive. Some people found
+these  very  useful,  but  the  media  was
+somewhat non-standard. Printer interfacing
+was  provided  by  the  drive,  which also
+proved  useful  to  many  users. As yet, I
+have  never  seen  a  system emulating the
+WafaDrive.
+
+Storage   systems   using  standard  disks
+proved  to  be  quite  popular.  The  Beta
+system,  which was fairly popular, has the
+advantage  that  only  a simple program is
+needed   to   read  the  disks  on  a  PC.
+Kempston,  best  known  for their joystick
+interface,  also  launched a system. Miles
+Gordon  Technology  designed  the Disciple
+interface,  and marketed the +D, which was
+almost   the   same  thing.  The  Disciple
+interface    was   compatible   with   the
+Interface  1  network  system, among other
+things.
+
+The  MGT interfaces can be emulated easily
+with some emulators. For the PC, Z80 works
+well.
+
+You  may  have  noticed that I have so far
+omitted the Opus Discovery. There were two
+different  models, one which had one drive
+and  a  joystick  port,  upgradable to two
+drives,  and  one which had two drives and
+no  joystick port. A parallel printer port
+was included, which used the same commands
+as  the Interface 1 serial port. The Opus,
+in  common with many of the other systems,
+used  a  BASIC command set similar to that
+used  by  microdrives. Most did suffer due
+to  them  not  being microdrives, and some
+things   were   different.   Some  used  a
+completely  different set of commands, the
+WafaDrive almost setting the standard.
+
+The  Opus  system used 40-track 3 1/2 inch
+disks.  The major disadvantage of these is
+that  it  is difficult, if not impossible,
+to  make  80-track  drives read the disks.
+Some  systems  which  were upgraded rather
+late  in time were fitted with an 80-track
+second  drive.  These  are  the exception,
+rather  than  the  rule, and are not worth
+emulating.
+
+The  only  other  system I knew of for the
+older  machines  was the Clive Drive. This
+was  VideoVault's  3-inch drive, which may
+have used MGT firmware. An attempt to make
+a  standard disk drive for pre-+3 systems,
+it was a failure.
+
+The  +3  included a CF2-type drive. A fair
+amount  of  software was released on disk,
+and this was as close as could be got to a
+standard. The +3 would take an Amstrad FD1
+as a second drive. The +2A was intended as
+a  "lower" machine that could be upgraded.
+The  SI1  and  up  to  two  FD1s  could be
+attached.  I  have  never  known of one of
+these being used.
+
+Many  users wanted a way to transfer their
+software,  in  particular,  games,  to the
+high-speed  devices.  Some solutions using
+convertor   software   existed,  but  some
+programs  could  not be handled. Some very
+old  games  could  easily be hand-blocked.
+Some     included     instructions     for
+transferring   to  microdrive,  and  these
+functions  often  worked  with  the  other
+drives using microdrive commands.
+
+Probably  the most effective solution came
+by   way  of  the  Multiface.  Created  by
+Romantic  Robot, various versions existed,
+and any program could be stopped and saved
+to  certain  media. The disadvantage, just
+as  with snapshotting on PCs, was that the
+randomness  of  certain  programs could be
+affected.  The  Multiface 1 is emulated by
+SpecEm,  and  Z80  emulates  the Multiface
+128. Some disk interfaces, notably the MGT
+ones,   included   an  NMI  button,  which
+allowed    built-in    snapshot   creation
+software to run.
+
+==========================================
+
+TECHNICAL NEWS
+
+Following   the  release  in  issue  2  of
+SpecTest,  version 2.95, a new feature has
+been  added,  and  a  bug  in  one  of the
+machine  code  routines corrected. Version
+3.0  is  included with this issue. It will
+now  test  all  memory  above  16K  on the
+Sinclair 128 and Amstrad's +2. In order to
+make  the  program  remain compatible with
+16K  systems,  and those with microdrives,
+the  BASIC  part has been modified to take
+up less memory.
+
+Technical  editor,  Phil  Reynolds, can be
+emailed:   phil@hedgford.demon.co.uk,   or
+faxed: (+44/0) 1543 428082.
+
+Technical   queries   will   generally  be
+answered   in   the   following  issue  of
+Emulate.
+
+==========================================

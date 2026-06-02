@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3859,
+    "article_url": "https://zxpress.ru/article.php?id=3859",
+    "print_url": "https://zxpress.ru/print.php?id=3859",
+    "title_link": "BBS - CHESS po CDOS-модему.\r\n Инструкция по игре в шахматы (юмор).\r\n Список работающих BBS в Минске.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "BBS_-_CHESS_po_CDOS-модему_Инструкция_по_игре_в_шахматы_юмор"
+  },
+  {
+    "article_id": 3863,
+    "article_url": "https://zxpress.ru/article.php?id=3863",
+    "print_url": "https://zxpress.ru/print.php?id=3863",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3861,
+    "article_url": "https://zxpress.ru/article.php?id=3861",
+    "print_url": "https://zxpress.ru/print.php?id=3861",
+    "title_link": "Анекдот - 9 анекдотов.\r\n Вопросы армянскому радио.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Анекдот_-_9_анекдотов_Вопросы_армянскому_радио"
+  },
+  {
+    "article_id": 3865,
+    "article_url": "https://zxpress.ru/article.php?id=3865",
+    "print_url": "https://zxpress.ru/print.php?id=3865",
+    "title_link": "Байки из склепа-2 - LORD of CHAOS (пародия, глава 1-3)",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Баики_из_склепа-2_-_LORD_of_CHAOS_пародия_глава_1-3"
+  },
+  {
+    "article_id": 3866,
+    "article_url": "https://zxpress.ru/article.php?id=3866",
+    "print_url": "https://zxpress.ru/print.php?id=3866",
+    "title_link": "В постели - 1000 и 1 прикол.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "В_постели_-_1000_и_1_прикол"
+  },
+  {
+    "article_id": 3862,
+    "article_url": "https://zxpress.ru/article.php?id=3862",
+    "print_url": "https://zxpress.ru/print.php?id=3862",
+    "title_link": "Металлургия - Блок питания для Байта.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Металлургия_-_Блок_питания_для_Баита"
+  },
+  {
+    "article_id": 3864,
+    "article_url": "https://zxpress.ru/article.php?id=3864",
+    "print_url": "https://zxpress.ru/print.php?id=3864",
+    "title_link": "Спасение 911 - Девочка и шарик.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Спасение_911_-_Девочка_и_шарик"
+  },
+  {
+    "article_id": 3860,
+    "article_url": "https://zxpress.ru/article.php?id=3860",
+    "print_url": "https://zxpress.ru/print.php?id=3860",
+    "title_link": "Тест - Тест \"Может быть вы - новый белорус?\"",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Тест_-_Тест_Может_быть_вы_-_новыи_белорус"
+  }
+]

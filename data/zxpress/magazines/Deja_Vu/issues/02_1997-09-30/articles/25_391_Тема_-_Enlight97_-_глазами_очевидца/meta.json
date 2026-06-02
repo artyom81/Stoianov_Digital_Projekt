@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-09-30",
+  "order": 25,
+  "article_id": 391,
+  "title_link": "Тема - Enlight'97 - глазами очевидца.",
+  "title_h1": "Deja Vu 02 - Тема - Enlight'97 - глазами очевидца.",
+  "print_url": "https://zxpress.ru/print.php?id=391",
+  "article_url": "https://zxpress.ru/article.php?id=391",
+  "fetched_at": "2026-05-31T21:54:19Z"
+}

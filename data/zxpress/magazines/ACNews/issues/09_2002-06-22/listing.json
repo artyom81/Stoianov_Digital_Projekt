@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9298,
+    "article_url": "https://zxpress.ru/article.php?id=9298",
+    "print_url": "https://zxpress.ru/print.php?id=9298",
+    "title_link": "Новости - Ldir собирает газету! У Dissonator/any появился фидошный адрес.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Новости_-_Ldir_собирает_газету_У_Dissonatorany_появился_фидо"
+  },
+  {
+    "article_id": 9299,
+    "article_url": "https://zxpress.ru/article.php?id=9299",
+    "print_url": "https://zxpress.ru/print.php?id=9299",
+    "title_link": "Пресс-релиз - интервью Quasar'a \"Спектрум окончательно выдохся, выродившись в нечто\r\nаморфное, само существование и имя которого поддерживается лишь\r\nвиртуально\".",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Пресс-релиз_-_интервью_Quasara_Спектрум_окончательно_выдохся"
+  },
+  {
+    "article_id": 9300,
+    "article_url": "https://zxpress.ru/article.php?id=9300",
+    "print_url": "https://zxpress.ru/print.php?id=9300",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

@@ -1,0 +1,6 @@
+  Magazin: Point
+
+✅ Validierung: OK - Point
+   (mit Warnungen)
+  - [Issue #01] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 1 | Artikel gesamt: 11

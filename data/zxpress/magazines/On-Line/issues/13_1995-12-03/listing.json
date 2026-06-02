@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 19,
+    "article_url": "https://zxpress.ru/article.php?id=19",
+    "print_url": "https://zxpress.ru/print.php?id=19",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 1980,
+    "article_url": "https://zxpress.ru/article.php?id=1980",
+    "print_url": "https://zxpress.ru/print.php?id=1980",
+    "title_link": "Долгий патруль - Новелла-вступление к игре \"Sergeant Seymour Robotocop\".",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Долгии_патруль_-_Новелла-вступление_к_игре_Sergeant_Seymour"
+  },
+  {
+    "article_id": 1978,
+    "article_url": "https://zxpress.ru/article.php?id=1978",
+    "print_url": "https://zxpress.ru/print.php?id=1978",
+    "title_link": "Застрял ? - Описание игры \"They Call Me Trooper\".",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Застрял_-_Описание_игры_They_Call_Me_Trooper"
+  },
+  {
+    "article_id": 1981,
+    "article_url": "https://zxpress.ru/article.php?id=1981",
+    "print_url": "https://zxpress.ru/print.php?id=1981",
+    "title_link": "Мозаика - О программах-каллеках... Парочка \"фирменных секретов\".",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Мозаика_-_О_программах-каллеках_Парочка_фирменных_секретов"
+  },
+  {
+    "article_id": 1979,
+    "article_url": "https://zxpress.ru/article.php?id=1979",
+    "print_url": "https://zxpress.ru/print.php?id=1979",
+    "title_link": "Обо всем по немногу - Правила пользования STS-BBS.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Обо_всем_по_немногу_-_Правила_пользования_STS-BBS"
+  },
+  {
+    "article_id": 1982,
+    "article_url": "https://zxpress.ru/article.php?id=1982",
+    "print_url": "https://zxpress.ru/print.php?id=1982",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1977,
+    "article_url": "https://zxpress.ru/article.php?id=1977",
+    "print_url": "https://zxpress.ru/print.php?id=1977",
+    "title_link": "Страница пользователя - Ночные размышленя о BBS.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Страница_пользователя_-_Ночные_размышленя_о_BBS"
+  },
+  {
+    "article_id": 1976,
+    "article_url": "https://zxpress.ru/article.php?id=1976",
+    "print_url": "https://zxpress.ru/print.php?id=1976",
+    "title_link": "Страничка СисОпа - Мысли и наблюдения по поводу электронной почты.",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Страничка_СисОпа_-_Мысли_и_наблюдения_по_поводу_электроннои"
+  }
+]

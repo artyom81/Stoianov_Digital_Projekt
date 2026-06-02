@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1999-12-31",
+  "order": 11,
+  "article_id": 8345,
+  "title_link": "Письмо - О графике и не только.",
+  "title_h1": "KrNews 11 - Письмо - О графике и не только.",
+  "print_url": "https://zxpress.ru/print.php?id=8345",
+  "article_url": "https://zxpress.ru/article.php?id=8345",
+  "fetched_at": "2026-05-31T22:17:52Z"
+}

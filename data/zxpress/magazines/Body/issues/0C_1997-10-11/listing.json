@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3247,
+    "article_url": "https://zxpress.ru/article.php?id=3247",
+    "print_url": "https://zxpress.ru/print.php?id=3247",
+    "title_link": "PUSH HL - Процедура очистки экрана.",
+    "order": 1,
+    "issue_label": "0C",
+    "short_slug": "PUSH_HL_-_Процедура_очистки_экрана"
+  },
+  {
+    "article_id": 3248,
+    "article_url": "https://zxpress.ru/article.php?id=3248",
+    "print_url": "https://zxpress.ru/print.php?id=3248",
+    "title_link": "Базарная жизнь - Новости с рынка. Хит парад.",
+    "order": 2,
+    "issue_label": "0C",
+    "short_slug": "Базарная_жизнь_-_Новости_с_рынка_Хит_парад"
+  },
+  {
+    "article_id": 3243,
+    "article_url": "https://zxpress.ru/article.php?id=3243",
+    "print_url": "https://zxpress.ru/print.php?id=3243",
+    "title_link": "От авторов - У газеты новая читалка...",
+    "order": 3,
+    "issue_label": "0C",
+    "short_slug": "От_авторов_-_У_газеты_новая_читалка"
+  },
+  {
+    "article_id": 3246,
+    "article_url": "https://zxpress.ru/article.php?id=3246",
+    "print_url": "https://zxpress.ru/print.php?id=3246",
+    "title_link": "Улыбнись - Рассказ \"Катенька\".",
+    "order": 4,
+    "issue_label": "0C",
+    "short_slug": "Улыбнись_-_Рассказ_Катенька"
+  },
+  {
+    "article_id": 3244,
+    "article_url": "https://zxpress.ru/article.php?id=3244",
+    "print_url": "https://zxpress.ru/print.php?id=3244",
+    "title_link": "Что нового - О новинках и новостях в Минске.",
+    "order": 5,
+    "issue_label": "0C",
+    "short_slug": "Что_нового_-_О_новинках_и_новостях_в_Минске"
+  }
+]

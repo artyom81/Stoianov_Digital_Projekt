@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 10981,
+    "article_url": "https://zxpress.ru/article.php?id=10981",
+    "print_url": "https://zxpress.ru/print.php?id=10981",
+    "title_link": "Дела сисопские - ZXNet под бой курантов...",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Дела_сисопские_-_ZXNet_под_бои_курантов"
+  },
+  {
+    "article_id": 10982,
+    "article_url": "https://zxpress.ru/article.php?id=10982",
+    "print_url": "https://zxpress.ru/print.php?id=10982",
+    "title_link": "Упаковщики - полное и исчерпывающие описание упоковщика и распаковщика данных ZXZIP и ZXUNZIP.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Упаковщики_-_полное_и_исчерпывающие_описание_упоковщика_и_ра"
+  },
+  {
+    "article_id": 10983,
+    "article_url": "https://zxpress.ru/article.php?id=10983",
+    "print_url": "https://zxpress.ru/print.php?id=10983",
+    "title_link": "Шкатулка знаний - Процедура построения окон на ассемблере для ZX spectrum.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Шкатулка_знании_-_Процедура_построения_окон_на_ассемблере_дл"
+  },
+  {
+    "article_id": 10984,
+    "article_url": "https://zxpress.ru/article.php?id=10984",
+    "print_url": "https://zxpress.ru/print.php?id=10984",
+    "title_link": "Hobetta - Краткое описание Hobetta.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Hobetta_-_Краткое_описание_Hobetta"
+  },
+  {
+    "article_id": 10985,
+    "article_url": "https://zxpress.ru/article.php?id=10985",
+    "print_url": "https://zxpress.ru/print.php?id=10985",
+    "title_link": "Технодром - схема расширения ОЗУ дл 512 в копмьютера с общем полем памяти.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Технодром_-_схема_расширения_ОЗУ_дл_512_в_копмьютера_с_общем"
+  },
+  {
+    "article_id": 10986,
+    "article_url": "https://zxpress.ru/article.php?id=10986",
+    "print_url": "https://zxpress.ru/print.php?id=10986",
+    "title_link": "АнтиСказки - с моралью на пути к рынку.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "АнтиСказки_-_с_моралью_на_пути_к_рынку"
+  },
+  {
+    "article_id": 10987,
+    "article_url": "https://zxpress.ru/article.php?id=10987",
+    "print_url": "https://zxpress.ru/print.php?id=10987",
+    "title_link": "Частотный регламент - Частотный регламент радиостанций в г.Санкт-Петербурге.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Частотныи_регламент_-_Частотныи_регламент_радиостанции_в_гСа"
+  },
+  {
+    "article_id": 10988,
+    "article_url": "https://zxpress.ru/article.php?id=10988",
+    "print_url": "https://zxpress.ru/print.php?id=10988",
+    "title_link": "NETUS - Список станций сети NETUS.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "NETUS_-_Список_станции_сети_NETUS"
+  },
+  {
+    "article_id": 10989,
+    "article_url": "https://zxpress.ru/article.php?id=10989",
+    "print_url": "https://zxpress.ru/print.php?id=10989",
+    "title_link": "Реклама - aвторы, соавторы, сосоавторы и т.д.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_aвторы_соавторы_сосоавторы_и_тд"
+  }
+]

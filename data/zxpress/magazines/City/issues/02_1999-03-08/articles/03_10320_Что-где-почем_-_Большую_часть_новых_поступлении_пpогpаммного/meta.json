@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-03-08",
+  "order": 3,
+  "article_id": 10320,
+  "title_link": "Что-где-почем - Большую часть новых поступлений пpогpаммного\r\nобеспечения составили жуpналы и газеты.",
+  "title_h1": "City 02 - Что-где-почем - Большую часть новых поступлений пpогpаммного обеспечения составили жуpналы и газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=10320",
+  "article_url": "https://zxpress.ru/article.php?id=10320",
+  "fetched_at": "2026-05-31T21:50:00Z"
+}

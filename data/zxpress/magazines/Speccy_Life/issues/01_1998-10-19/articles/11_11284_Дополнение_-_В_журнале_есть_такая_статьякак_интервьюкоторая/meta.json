@@ -1,0 +1,15 @@
+{
+  "magazine_id": 200,
+  "magazine_name": "Speccy Life",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-10-19",
+  "order": 11,
+  "article_id": 11284,
+  "title_link": "Дополнение - В журнале есть такая статья,как интервью,которая оформлена в виде отдельной\r\nоболочки.",
+  "title_h1": "Faultless 08 - Дополнение - В журнале есть такая статья,как интервью,которая оформлена в виде отдельной оболочки.",
+  "print_url": "https://zxpress.ru/print.php?id=11284",
+  "article_url": "https://zxpress.ru/article.php?id=11284",
+  "fetched_at": "2026-05-31T23:04:37Z"
+}

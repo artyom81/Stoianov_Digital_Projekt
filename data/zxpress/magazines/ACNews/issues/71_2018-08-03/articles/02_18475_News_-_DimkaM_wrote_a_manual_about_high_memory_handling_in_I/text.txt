@@ -1,0 +1,515 @@
+ACNews 71 - News - DimkaM wrote a manual about high memory handling in IAR Z80, Unreal Speccy Portable now includes support for extra screen  modes of ATM2, Utz/irrlicht project organizes a graphics compo.
+News
+by Alone Coder
+I have perturbations at my job and fun at my home, and I also
+drowned in redecoration, so I missed all demoparties and
+postponed this issue of ACNews. I even suppose that the next one
+will be also delayed because the deeds are far from the end. In
+turn, this year I was able (finally) make my way to a swimming
+pond with Louisa and even with kids - one after another. On
+foot. With a baby carriage.
+
+I saw Alexey Bugrov (who helped me with computer at Hacker
+Contest of
+1996, where I presented my Font Editor ). Now he has
+his own laboratory developing hardware. He seems very tired. I
+showed him demos, he expressed interest in multicolors and my
+border intro KOT :).
+
+I called T(c)S by phone. He still lives where we gathered in
+2000-2002, and runs his firm that repairs cellphones. Very busy.
+I wanted to lure him to our factory as a microcontroller
+programmer, but in vain. It is hard to find such experts in
+Ryazan.
+
+CyberDaemon periodically sends news from game world (for 
+example, about a new game by STEP of Star Inheritance fame, but
+not for Speccy ...).
+
+Arwald continues to teach 2D animation at RGRTU-film studio, but 
+I couldn't catch him there.
+
+Wanderer, after
+22 years, wrote a new game - CELL 3326:
+https://zxwanderer.github.io/cellЗЗ26/ This is a quest based on
+a new engine like Laser Squad. Being not a gamer, I completed it
+and corrected several messages in English version. I also asked
+Wanderer for that microcontroller job, but I'm bad in head 
+hunting :)
+
+Hippiman released Dizzy and the Mystical Letter with a new 
+DizzyAGE -like engine that he wrote in NedoLang. At the moment, 
+the game exists in Russian, English, and Poruguese. I can't
+believe that new Spectrum games about
+Dizzy were not made for
+this long... Are we so old? Today Hippiman adds latest changes
+in the engine to release it separately. The levels can be made
+directly with DizzyAGE editor. Now everyone can make his own
+Dizzy game :)
+Karbo disappeared again, so his track couldn't appear in the 
+game. As I guess, now he is living in the country, and there
+must be a lot of work in summer.
+
+John Silver writes music scores for his orchestra and goes on 
+detachments. The last time he was not here for a whole month.
+
+In turn, one composer from
+Scotland wrote that he started to
+study Pro Tracker 3, and promised to share the results when
+ready :)
+
+DimkaM wrote a manual about high memory handling in IAR Z80 C 
+compiler (press
+"3" ). There is no such possibility in NedoLang
+yet ( Hippiman, in his Dizzy engine, placed code and data in
+memory by hand). Maybe sometimes we would invent anything
+cooler? :)
+
+Unreal Speccy Portable now includes support for extra screen 
+modes of ATM2 ( Fyrex wanted to read ACNews comfortably and made
+it :)). However, the memory still works only in higher window,
+and ports
+#7ffd and #fff7 are supposedly setting the same
+register.
+
+Utz/irrlicht project organizes a graphics compo for
+64 colours
+per pixel (as in Eye Ache 2 ) at International Symposium on
+Bits and Beverages. The pictures should be drawn in 
+StellarPaint: 
+http://irrlichtproject.de/stellarpaint/
+If you prefer to use your own editor, simply create a
+64x48
+pixel image
+horiz. x vert. ) using the palette supplied here
+(
+.png and .gpl format):
+http://
+irrlichtproject.de/stellarpaint/stellarmode_gimp_tools.zip
+Send your image in
+.png format and the organizers will take care
+of converting it for the compo - or, if you prefer, use the
+Python converter script in the archive (requires Pillow library)
+to convert it into Stellarpaint format. Send your works to
+1bitforum@posteo.net until
+1бth of September, 2018. No more than
+2 works per author, no copyrighted material, and no conversions!
+Utz also wrote about his music programming language (the chat 
+started because of Listh language project, published in the
+previous ACNews ):
+
+Utz> 
+I'm busy with re-designing MDAL
+(https://utz82.github.io/MDAL/).
+The site doesn't explain it so well, but there are actually 3
+things:
+- MDMOD,
+an abstract, generic music markup language;
+- MDCONF,
+an XML-based data translation standard, which
+describes how to derive implementation-specific asm data output
+from generic MDMOD
+input;
+- libmdal,
+which implements MDMOD and MDCONF support, and should
+(in the future) work as a back-end for PC-based chiptune
+trackers.
+Then there's also bintracker
+(
+https://utz82.github.io/bintracker/
+) which is basically the
+test implementation.
+In the past weeks I've carved out a working draft of the
+next-gen MDCONF
+specification (the first version having proved
+too limited, of course). Now I've started to re-implement
+libmdal for the new spec (from scratch, so I can apply some of
+the coding knowledge I've acquired in the past year).
+Alone> 
+I have one idea about a recursive music language (and tracker
+interface) that can allow previously impossible tracking tricks.
+
+Suppose you have an AY song with patterns consisting of tracks
+for every channel. Every track can host many instruments (sound
+effects) that play simultaneously, and the loudest one is heard
+at every given time. A note in a track with intrument number
+N
+can be either:
+-
+restart of sound effect N in the channel (staccato);
+-
+change tone in sound effect N in the channel (legato).
+Staccato is default, legato must be shown with some symbol. Or
+the reverse. Or maybe legato will work if you don't write the
+instrument number, the previous number will be used.
+
+In AY songs, instruments consist of
+"sample" (list of tone
+deltas, volume deltas and tone-envelope-noise masks for every
+frame) and
+"ornament" (list of tone shifts in halftones for
+every frame).
+If we add volumes in
+"ornament", it will look like a track of
+song, with legato notes. That's the first use of recursion.
+Another use - you can write short melodic fragments (riffs) and
+use them as one note.
+(Song calls tracks, tracks call riffs, riffs call ornaments, all
+with the same mechanism. The tone on the upper level indicates
+tone shift for the riff used.)
+A riff contains
+"time" column for every note: how many frames it
+plays. There can be
+time=0 to start two notes simultaneously:
+this way you can, for example, use a percussion riff in the same
+channel as pad riff.
+Sadly the
+"sample" information is played with another mechanism,
+as a sound effect.
+Sound effects are created with
+"staccato" notes and destroyed in
+the end of an effect or with an
+"R" note.
+Utz> 
+The possibility of the recursive approach that you describe
+crossed my mind before as well. The PhaseSqueek
+engine
+https://github.com/utz82/ZX-Spectrum-1-Bit-Routines/tree/master/
+phasesqueek
+partially applies this idea. As in, the
+"fx table"
+data layout
+is almost identical to the
+"pattern"
+data layout. It's not fully
+recursive though, because fx tables implement a
+"position jump",
+which patterns don't implement, but use the same data element to
+pass a pointer to an fx table. If these two could be made to
+work logically the same, then it would be fully recursive. Then
+same principles should be applied to the sequence.
+Here's an example of a PhaseSqueek
+MDMOD
+in the old standard:
+https://github.com/utz82/MDAL/blob/master/examples/
+phasesqueek-demo.mdal
+It's basically a text-based format similar to VT
+or 1tracker's
+format, except it stores only changes, prefixed with a
+COMMAND=
+(except in sequence where command is implicit). There is one
+feature that will be dropped in the new standard, because it is
+too difficult (for me at least) to maintain:
+In MDALv1,
+block types are deduced automatically, eg. from this
+declaration in MDMOD:
+:SEQUENCE
+intro
+...
+:intro
+FX=arp
+...
+:arp
+CMD=...
+mdal
+compiler can infer that
+intro
+is a pattern and
+arp
+is an fx
+table. In the new
+MDMOD
+format user will need to specify exactly
+the type of block, as well as a unique numerical identifier.
+Also, new format uses brackets to delimit blocks.
+:BLOCKTYPE:$01[:name] {
+COMMAND=value, CMD2=othervalue...
+}
+Also sequence will be a lot more verbose in the new standard.
+But I think it's worth the gain in flexibility and type safety.
+It's not my primary design goal to keep MDMOD format simple. It
+should be "human-editable" (as in, "less annoying than typing
+out .db statements"), but it's something you'd normally interact
+with through a tracker or other GUI.
+The good news is that the new MDCONF
+standard will be able to
+fully support the recursive construct you described. There are 4
+basic input data types:
+command, ifield, iblock,
+and
+igroup,
+where command defines a single input parameter (think "note",
+"volume", "name"...).
+ifields
+are derived from
+commands, iblocks
+contain a variable number of
+ifields,
+and finally
+igroups
+contain
+ifields, iblocks,
+and other
+igroups.
+And there are
+corresponding output data types, which may or may not follow the
+recursion of the input structure. In fact, input structure is
+entirely virtual in the new MDAL
+standard, ie. it doesn't need
+to follow the output structure at all. This will allow funky
+stuff like abstracting away the input sequence, so in a tracker
+user could switch between different modes:
+- "matrix sequence" like in
+Beep Tracker
+- "simple sequence" like
+Beepola
+or current
+bintracker,
+and
+- "automatic" aka no sequence, like
+1tracker
+all regardless of the actual sound engine implementation. With
+this approach, back-end optimization should be easier as well.
+One question I still haven't quite worked out is whether to
+abstract away sequences as a separate data type, and instead
+derive them from the usual
+(i/o)block
+types. In theory this
+should work because it's possible to define a sequence structure
+with the same type of rules that apply to patterns or any sort
+of sequential order. The problem is that it wouldn't work if the
+output data needs to contain a list of elements (say, a list of
+samples used in a module, to be used as a lookup table or
+whatever). For this there is an alternative otype called
+olist.
+I feel that if I merge osequence into
+oblock,
+I should also get
+rid of
+olist.
+There's also a dedicated binary output type,
+obitfield.
+Maybe it's possible to derive all otypes from the
+obitfield
+type but I don't have a clear picture on that yet.
+Alone> 
+How do you debug music in text format? When I wrote music for
+"Sewerage" game in assembly, I had to play it every time from 
+the beginning after a change...
+
+Utz> 
+Same with current libmdal
+(except there are block comments so
+you can quickly comment out parts of the sequence etc). The new
+libmdal will hopefully work in realtime, so that any change to
+MDMOD
+input would automatically update the output structure
+(which in turn can dump binary and asm output for the various
+required cases - play pattern/current pos/from start etc). Also,
+new libmdal
+should integrate a script language of sorts, for
+"live" interaction as well as on-the-fly reconfiguration.
+Haven't worked out the details of that yet, but that's why I'm
+looking at
+Scheme
+at the moment.
+Alone> 
+I have thought again a lot and I understood that a recursive
+format doesn't need samples :) Except for a few standard sounds
+in the riff field. (Again, example for AY.)
+That's because an ornament is generally used with one given
+sample.
+The hierarchy is as follows:
+order -> tracks (might be two or
+more in one channel at a time, with independent volumes) ->
+riffs ->
+instruments(ornaments) -> samples -> standard sounds.
+All of them will be referred as riffs.
+
+- note with
+"T" must switch on tone and set tone frequency
+(relative to riff frequency) - in current subchannel
+- note with
+"t" must switch on tone and set tone frequency
+(absolute) - in current subchannel
+- note with
+"N" must switch on noise and set noise frequency -
+in current subchannel
+- note with
+"n" must set global noise offset
+- note with
+"E","C","1" must retrigger envelope with given
+type - in current subchannel
+- note with user defined riff (I like your idea with named
+tracks) creates and runs that riff at once (the riff is
+destroyed when it ends).
+- note with volume switches off envelope and sets volume
+(relative to riff volume) in current subchannel.
+
+By default, the current frame of current subchannel (linked to
+current riff) is empty, only the volume/envelope persists from
+the previous frame (empty on the first frame of the riff).
+So you can overlay
+T+N+E in any combination, using zero speed.
+Subchannels are rendered by replayer to one channel, judging
+from their relative volume (the loudest one is heard in any
+given moment).
+
+Utz> 
+For data format, the most consequential decision would be
+whether to use to use an abstract base format (which compiles to
+actual player data format, like in most PC based trackers), or
+"direct-to-memory" approach like most native trackers. I think
+an abstract base format would be most desirable for this kind of
+thing, as it can solve many of the associated problems. So it
+might be worth exploring this option even if we're thinking
+about a native tracker. On the other hand, a direct-to-memory
+approach could make for a very interesting and experimental
+interface. I mean the concept of trackers is 30 years old and
+there were very few new ideas since then. It could be very
+interesting to challenge those traditional concepts and try to
+approach it from a new and unconventional angle, without
+preconceptions. As far as I understand, defMON
+on
+C64
+went that
+route to some extend, though I don't understand it well enough
+to make an informed comment about it. But it's something worth
+looking at I think.
+For example, one notion that can be challenged is the idea that
+TNE
+must be tied to note. Why not separate them? Of course this
+can be a bit weird in context of AY, because of different
+frequency dividers for tone/buzz/noise. However, all noise and
+buzzer dividers are valid (if non-sensical) note dividers, so
+why not give the user the chance to shoot himself in the foot? I
+believe nq
+would find that very amusing :D Or one could have
+three columns of dividers, one for note, buzz, and noise, each;
+and have the player pick what it needs. With an abstract base
+format, selection could even be done at compile time, so the
+player doesn't have to do the heavy lifting. Same goes for stuff
+like multichan riffs and cycled samples. Abstract base format
+with aggressive optimization at compile time can solve many of
+these problems. The question is of course if it would be viable,
+ie. if compiled data is reasonably small. Common sense would
+dictate that compiled data could be huge even with heavy
+optimizations, but I think it's something that should be
+investigated and tried out before ruling it out :)
+Alone> 
+How to create multichannel riffs/samples? We can't have too many
+standard sounds!
+
+Utz> 
+Regarding standard sounds, ideally there should be none at all.
+They can be implemented as "patches" or "macros" that can be
+stored/loaded from disk as needed.
+Regarding multichannel riffs, with an abstract base format one
+could use "virtual" order lists, which are resolved at compile
+time.
+Alone> 
+How to make cycled samples, avoiding infinite spawning of riffs
+when we forget to shut them up?
+
+Utz> 
+Generally, I'd say cycled samples should be treated the same as
+loops in order. In MDAL v2
+the intended route is to define two
+commands, a
+"label"
+type command, which can be used to tag
+locations within an element (order/pattern/sample/whatever), and
+a
+"reference"
+type command which holds a reference to a label
+(or another element). Orders are implemented as generic blocks
+composed of reference commands now ;)
+Alone> 
+How to display and edit such a tree-like structure?
+
+Utz> 
+As I said, I very much hope that MDAL
+(and by extension,
+bintracker
+) will be able to support such a structure,
+regardless of the details. If it doesn't, I'd actually be
+willing to go through the trouble to make it work. The one thing
+I don't have at this point is AY emulation for bintracker.
+Emulators in bintracker have some very specific requirements,
+namely
+a)
+they must be true free software (as in, no
+GPL
+) and
+b)
+they must be able to do a range of callbacks on certain
+breakpoints, which rules out stuff like Game Music Emu.
+Haven't
+worked out the API details yet, so no need to think about it
+further right now.
+In any case MDAL
+strongly promotes the "don't bother the user
+with implementation details" approach. The user interface could
+very well use traditional terminology, without making the
+recursive structure explicit.
+Ultimately, the answer to this question again very much depends
+on what kind of editor is to be used. If it's a cross-dev tool,
+I'd hide the details, abstract interface as much as possible
+from the implementation, and just do aggressive optimization in
+the backend. If we're talking about a native ZX tool, then it
+might make sense to do exactly the opposite and completely
+expose the implementation, so users know how to optimize for
+size etc, and experiment with the recursive structure.
+A bit more practically speaking, with a PC tracker there's
+actually no problem, as there's enough screen space to display
+the tree structure in full by just nesting elements. For a
+native tracker on the other hand, one could use the trick I use
+in bintracker:
+pressing
+Enter
+on a field that references another
+element will bring up that element. One could additionally
+display a list of existing instances of that element type, but
+it's not strictly necessary, ie. referencing a non-existant
+instance may simply create a new, empty one, and
+unused/duplicate instances can be thrown out by optimizer.
+One could also think about a hybrid application, ie. native
+tracker but making use of powerful peripherals. However, there's
+a practical problem here:
+In the West, most common such devices are based on ESXDOS,
+whereas in the East, most widely used one is TR-DOS,
+I believe.
+ESXDOS
+has some TR-DOS emulation, but it's incomplete. For
+example I can run Beep Tracker,
+but not ALASM.
+In other news, I've published some draft specifications for
+MDAL v2. 
+
+https://github.com/utz82/MDAL/wiki/
+MDCONF-Standard-Version-2-Specification-Draft
+https://github.com/utz82/MDAL/wiki/
+MDMOD-Standard-Version-2-Specification-Draft
+I consider MDMOD
+specification to be relatively mature, while
+MDCONF
+will probably still undergo various changes.
+...
+Latest update on new libmdal:
+Progress has been even slower than expected. Clearly
+underestimated the complexity of the task. But the lib is now
+able to parse MDMOD
+text into an internal representation of
+the module (based on MDCONF
+specifications), and produce valid
+MDMOD
+output from it again. Next step is to get it to generate
+asm output. Don't have a clear picture yet on how to go about,
+but in principle I'd want some kind of internal intermediate
+format, from which asm and binary output can be quickly
+generated. Well, we'll see.
+* * *
+
+Motivated by this, I decided to make my Listh language at least
+runnable (press
+"5" ). Maybe some day it grows usable :)

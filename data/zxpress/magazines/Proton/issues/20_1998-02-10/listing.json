@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 16648,
+    "article_url": "https://zxpress.ru/article.php?id=16648",
+    "print_url": "https://zxpress.ru/print.php?id=16648",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16649,
+    "article_url": "https://zxpress.ru/article.php?id=16649",
+    "print_url": "https://zxpress.ru/print.php?id=16649",
+    "title_link": "Юмор - Диалог или Из-за чего спиваются SysOpы.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Диалог_или_Из-за_чего_спиваются_SysOpы"
+  },
+  {
+    "article_id": 16650,
+    "article_url": "https://zxpress.ru/article.php?id=16650",
+    "print_url": "https://zxpress.ru/print.php?id=16650",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16651,
+    "article_url": "https://zxpress.ru/article.php?id=16651",
+    "print_url": "https://zxpress.ru/print.php?id=16651",
+    "title_link": "Юмор - Весёлые истории.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Веселые_истории"
+  },
+  {
+    "article_id": 16652,
+    "article_url": "https://zxpress.ru/article.php?id=16652",
+    "print_url": "https://zxpress.ru/print.php?id=16652",
+    "title_link": "НЛО - Hеизвестное сокровище острова Оук.",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "НЛО_-_Hеизвестное_сокровище_острова_Оук"
+  },
+  {
+    "article_id": 16653,
+    "article_url": "https://zxpress.ru/article.php?id=16653",
+    "print_url": "https://zxpress.ru/print.php?id=16653",
+    "title_link": "Стихи - Полночный десант.",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Стихи_-_Полночныи_десант"
+  },
+  {
+    "article_id": 16654,
+    "article_url": "https://zxpress.ru/article.php?id=16654",
+    "print_url": "https://zxpress.ru/print.php?id=16654",
+    "title_link": "Психология - Тест: Как вы к себе относитесь?",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "Психология_-_Тест_Как_вы_к_себе_относитесь"
+  },
+  {
+    "article_id": 16655,
+    "article_url": "https://zxpress.ru/article.php?id=16655",
+    "print_url": "https://zxpress.ru/print.php?id=16655",
+    "title_link": "Юмор - Крах Агента 008.",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Крах_Агента_008"
+  },
+  {
+    "article_id": 16656,
+    "article_url": "https://zxpress.ru/article.php?id=16656",
+    "print_url": "https://zxpress.ru/print.php?id=16656",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16657,
+    "article_url": "https://zxpress.ru/article.php?id=16657",
+    "print_url": "https://zxpress.ru/print.php?id=16657",
+    "title_link": "От авторов - Редакция.",
+    "order": 10,
+    "issue_label": "20",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

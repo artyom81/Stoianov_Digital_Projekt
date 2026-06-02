@@ -1,0 +1,113 @@
+Subliminal Extacy 03 - Timex in Portugal
+Timex in Portugal
+                         By Johnny Red
+
+After   Timex   Computer   Corp.   stopped   manufacturing   and
+selling computers,  Timex  of  Portugal,  a  Timex   subsidiary,
+in 1985 decided   to market  the  Timex  computers in   Portugal
+(Portugal wasn't in the   Sinclair market. Due  to  the Sinclair
+agreement, the biggest part  of the  european market  was closed
+to  Timex.) They took  the TS2068  and made  some modifications,
+like a new  version  of the   SLCD chip  for  PAL  TVs, replaced
+the buffers between the  SLCD and  Z80 bus  with resistors   and
+modified the expansion connector to be more Spectrum compatible,
+creating  the  Timex    Computer   2068   (TC2068).     TMX   of
+Portugal  knew   the compatibility problem that the  TS2068  had
+when running  most  of the ZX  Spectrum programs and  decided to
+make a new machine, the Timex Computer 2048 (TC2048).
+
+This  new machine had the SLCD  of the TC2068 and  a ZX Spectrum
+ROM with a  little routine  so  it would start with  the correct
+video  mode.  After  the TC2048,   TMX  of  Portugal started  to
+develop  a floppy  disk interface  and Timex  Operating  System
+(TOS),   to work   with  Timex   computers. They  called it  the
+Timex FDD,  a separate Z80 computer with  it's own Z80 cpu,  16K
+RAM, two serial RS232 ports, a disk controller  and one 3"  disk
+drive.  Some people  call it  the FDDЗ  because it   came in  3
+separate boxes  (power  supply/controller/disk  drive) with  the
+same   design.  The   Timex FDD   is  far   more  advanced  than
+Sinclair Microdrives! TOS have  suport for subdirectories and  a
+160K disk format.  One hidden feature  of TOS is  the ability to
+format  disks with  640K, using  a 80  tracks/double sided  disk
+drive. The Timex FDD controller can control four drives,  giving
+a total of almost 2,SMB of direct data access!!
+
+After the launch  of the FDD  system, Timex upgraded  it to work
+with CP/M  replacing the  16K RAM   by 64K,  and  putting 2 disk
+drives, the controller and the  power supply  in one  box. Timex
+name  it   the  FDDЗO00. Since   the   FDDЗO00   is a   separate
+computer,  TMX of  Portugal  designed  a  terminal  emulator  to
+control  CP/M  with a  Timex computer  and  created  the   Timex
+Terminal  3000,  a  terminal keyboard  for  FDDЗO00 to   replace
+the Timex   computer  and  the terminal  emulator. TMX  Portugal
+also planned a  new  machine for  the  next  generating   of the
+Timex  Computer series, the Timex Computer 3256 (TCЗ256),  a Z80
+computer  with 256K of   RAM, disk drives,  network,   ram disk,
+new   commands  to   operate   the  new  features  called  Timex
+Extended   BASIC,  a    word   processor   in   ROM   and  retro
+compatibility with the Spectrum!
+
+TC2068 have  been sold  in the  British market  and the  British
+computer press  nick-named the  TC2068 as  the "silver  agenver"
+because of  it's spectrum  compatibility. Timex  of Portugal was
+managed to export  the TC2068 and  the FDD to  the United States
+themselves.  TMX  Portugal  was  working  in  several  areas  of
+computer science. It had the  TC project in process and  jointly
+worked for Minolta and IBM in the area of networks for computers
+of greater productivity. The technology was from the  Portuguese
+engineers who were working to enhance networking capabilities in
+use in  the great  companies, which  were very  slow by  today's
+standards. TMX Portugal had very intelligent people working  for
+them at this  time. Because of  that salaries were  high and the
+technology  moved as  fast as  the wind.  TMX found  ways to  do
+things to  make savings.  The people  working for  TMX were very
+intelligent  and knowledge  didn't lack.
+
+The engineers  of  TMX Portugal frequently  went abroad to  take
+computer science courses and  they usually ended up   giving the
+course that they  attended because their knowledge was  superior
+to the course teachers. The TMX engineers  loved their  work  to
+the point  that they  "gave their shirts"  for the  company.  In
+Dundee, Scotland  there was also a Timex factory. This  division
+was  in financial  trouble for  varied reasons,  among them  bad
+manufacturing of plates  for their customers.  It is  said  that
+only   one  in  three    worked  correctly  (noticable  in   the
+manufacture of the Sinclair and Timex Sinclair computers).  This
+led to  the company's  losing of  its customer base. Compared to
+the production in   Portugal, where the   flaws were 1  in 1000,
+the  Scottish  operation  was  in  dire  trouble.  With  massive
+unemployment on  the horizon  Margaret Thatcher  negotiated with
+Portugal,  through Cavaco  Silva, and  arranged the  tranfer of
+everything of TMX of  Portugal to Scotland: know  how, projects,
+customers  and  materials,  but without  any  of  the Portuguese
+people. The TMX employees went to unemployment lines instead  of
+the Scottish employees. My contact, one of the last engineers in
+TMX,  handed over  to the  Scotsmen the  whole know  how of  TMX
+Portugal. Because of what  happened later, when the  Timex plant
+in Scotland finally closed for good, he cannot stand to hear  or
+speak of Cavaco Silva and of the responsible minister who  moved
+the business. It is not known what Portugal received in exchange
+for giving the technology of TMX Portugal to the UK. If this had
+not happened, TMX would possibly be a a big player today in  the
+area  of computer  science (affirmed  my contact).  During this
+process, American Timex, had enormously jealous of TMX  Portugal
+(the most  credible is  the independence  that TMX  Portugal had
+from  the  Timex  group.  TMX  Portugal  produced,  designed and
+repaired all the equipment. Even CP/M was adapted in  Portugal),
+It  is  belived that  Timex  America looked  with  favor on  the
+closing of Timex of Portugal. It seems obvious, as the  practice
+that the governments of the  two countries had arranged, was  in
+its thought line.  With relationship to  Timex of Scotland,  the
+knowledge and the creative capacity of the Portuguese  engineers
+was  no  longer  involved  and  Scotland  Timex  could  not give
+continuing continuity to the  projects and works in  process and
+it didn't  last very  much longer.  And then  Timex Dundee plant
+closed. Many more details could be said concerning this shameful
+business, but already  an idea of  everything that happened  has
+been presented. There were people  that destroyed the life of  a
+great company and of all  its employees and families as  if they
+were  nothing.  See  what happens  with  EC  and the  Portuguese
+agriculture.... If our understanding  is correct, the TC2048  is
+the only computer ever built in Portugal. Just to give an  idea,
+TMX Portugal Computer sold only to Poland 200.000 FDDЗO00  units
+and about 700.000 Timex Computers.

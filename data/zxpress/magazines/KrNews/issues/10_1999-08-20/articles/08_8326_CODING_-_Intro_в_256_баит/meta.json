@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-08-20",
+  "order": 8,
+  "article_id": 8326,
+  "title_link": "CODING - Intro в 256 байт?",
+  "title_h1": "KrNews 10 - CODING - Intro в 256 байт?",
+  "print_url": "https://zxpress.ru/print.php?id=8326",
+  "article_url": "https://zxpress.ru/article.php?id=8326",
+  "fetched_at": "2026-05-31T22:17:45Z"
+}

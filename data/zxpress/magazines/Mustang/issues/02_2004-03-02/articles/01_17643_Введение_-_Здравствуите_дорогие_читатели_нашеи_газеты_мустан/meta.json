@@ -1,0 +1,15 @@
+{
+  "magazine_id": 131,
+  "magazine_name": "Mustang",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2004-03-02",
+  "order": 1,
+  "article_id": 17643,
+  "title_link": "Введение - Здравствуйте, дорогие читатели нашей газеты мустангов.",
+  "title_h1": "Mustang 02 - Введение - Здравствуйте, дорогие читатели нашей газеты мустангов.",
+  "print_url": "https://zxpress.ru/print.php?id=17643",
+  "article_url": "https://zxpress.ru/article.php?id=17643",
+  "fetched_at": "2026-05-31T22:31:18Z"
+}

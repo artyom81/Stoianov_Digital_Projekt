@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-05-07",
+  "order": 15,
+  "article_id": 8245,
+  "title_link": "Авторы - об авторах.",
+  "title_h1": "KrNews 05 - Авторы - об авторах.",
+  "print_url": "https://zxpress.ru/print.php?id=8245",
+  "article_url": "https://zxpress.ru/article.php?id=8245",
+  "fetched_at": "2026-05-31T21:28:21Z"
+}

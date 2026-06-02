@@ -1,0 +1,198 @@
+Scenergy 02 - Demo Party - репортаж Gasman'a с Forever 2e3.
+Forever 2e3: The report
+
+
+
+ The last Spectrum show I went to was in Horwich, which is a ten
+minute  drive  from my house. Travelling across Europe to attend
+the  Forever  2e3  demo  party in Slovakia was going to be a bit
+different.  As  I  trundled off in the National Express coach to
+London,  I  had no idea what to expect, other than that I'd make
+an arse of myself at several major airports across Europe.
+
+ My  first  flight was delayed, and I missed the connection from
+Prague.  As  airports go, Prague is probably quite a good one to
+be  lost  and  bewildered  in.  Lots of helpful English-speaking
+staff  were  on  hand to sort out an alternative flight, and not
+once  did  I have to go into Noisy English Tourist mode. While I
+was  waiting around and imagining what a good time everyone else
+was  having,  I  remembered  that the organisers had arranged to
+meet me at the train station in Trencin, so I tried to send them
+a message on one of the public internet thingies they had at the
+airport.  Imagine  a keyboard that's slightly more irritating to
+use  than  a  ZX81 and you'll get the idea. Fired off the email,
+thinking  that  they  probably  wouldn't get to read it on time.
+They  didn't.  Spent  the  rest  of  the afternoon watching what
+appeared to be the German equivalent of MTV. German pop music is
+very bad.
+
+ Several hours and numerous modes of transport later, I stumbled
+through  the  entrance  to the school in Trencin where the party
+was  being held, tired and freezing, some time after midnight. I
+breathed  a  sigh  of relief as I heard 8-bit computers bleeping
+away,  although  the  bleeps  had  taken  on  a new life through
+being  pumped  through  a whopping great big sound system. I was
+greeted  by  Ellvis  (no,  really),  and before long I was being
+introduced  to all sorts of people who I'd previously only known
+through  the  internet.  In my own inimitable style, I instantly
+forgot who everyone was.
+ It wasn't just Spectrums at the party - the Atari and Commodore
+64  scenes  were also represented, and I started off my visit by
+watching some classic Atari demos. Rather than being loaded from
+just  any  old  disc  drive, there was a PC running a program to
+emulate  a  disc drive. The Atari had been suitably cannibalised
+to  get  the whole setup to work, with wires strewn all over the
+place between the two computers. Mmm, nice! The demos themselves
+were  all  very  impressive,  and I was struck by how smooth the
+action  was, but being an ardent Speccy fan, I'd say it could do
+with  a  splash  more  colour.  Heh heh heh. At this point I was
+badly  in  need  of  some  sleep,  and  going  up six flights of
+stairs  to my room made sure of that. I woke up the next morning
+in  time  to  catch  the  last  five  minutes  of  the  realtime
+competitions. The idea of these was to write an intro or a piece
+of  music,  on  the spot, against a time limit. Sure enough, the
+results  were...  interesting.  In  the end Factor 6 claimed the
+title  on  the  music  side, with TDM in second place. The intro
+competition  attracted  three  entries:  a self-playing Breakout
+game  on the Atari; the totally bizarre Haluzky; and the winner,
+Zero Divide, full of sparkly starfield effects. Meanwhile, I got
+talking  with  Matsoft,  editor  of ZX Magazin. It seems they're
+really  hot  on hardware modifications in Eastern Europe, and in
+between  a  healthy  selection  of reviews and show reports, the
+pages  were  brimming  with circuit diagrams for everything from
+sound  cards  to  hard drive interfaces! Unfortunately, the hard
+drive  is  still  in  need  of  a  proper  operating system, but
+nevertheless,  at  the  recent Zlincon 99 show the visitors were
+treated  to an animation from Star Wars and an entire episode of
+The Simpsons, being played straight from the hard drive.
+
+ I  spent  most of the afternoon searching through X-agon's demo
+collection  for  rare  gems  that hadn't found their way onto my
+website.  For  some  of  them,  it  was  clear  why  they'd been
+previously  kept  hidden  away  in  the  Czech  Republic,  but I
+grabbed  a  copy anyway. It was at this time I had my first real
+experience  of  the  Didaktik  Kompakt, the most common Spectrum
+clone   in  these  parts.  Quite  a  nice  'boxy'  design,  with
+reassuringly  chunky  keys...  I think I could get to like these
+things. Next to me Dron was giving the Art Studio treatment to a
+scene from South Park, expertly copied from someone's T-shirt.
+ The  C64  group  DMAgic were on hand to give a demonstration of
+their  new  box  of  tricks,  the Super CPU, which speeds up the
+processor  to  20MHz. They showed off Stunt Car Racer running so
+fast  as  to be unplayable, and Driller running, er, fast enough
+to  be  playable. The finale was a specially written shoot-em-up
+with  full  screen  animation and a sampled soundtrack, to which
+the  Spectrum  delegation  cheerfully  responded  by  loading up
+Hypnotic  Dreams (a demo with full screen animation and - yes! -
+a sampled soundtrack).
+
+ Tiger's  Claw took this opportunity to give me the latest issue
+of  his  disczine  Scene+  and  the  accompanying paper magazine
+SUC-Session.  And  not  just  any  old  issue  either - this one
+happens  to be a special 'X-rated' edition, so it's just as well
+that  the customs officials at the airport didn't search too far
+into my bag...
+
+ Before long it was time to settle down for the main event - the
+competitions. A far cry from the frantic hacking of the realtime
+competitions,  these  were the things people had been working on
+for  days, weeks, months beforehand. First up was the music, and
+as  I  sat  clutching  my  votesheet,  I  was  blown away by the
+quality  of  all  the entries (or was it that whopping great big
+sound  system  again?).  I  started  off trying to give them all
+marks  out of 10, but I found it so hard to choose the top three
+that  my notes were full of crossings-out and marks like 8.1295.
+I've  no  idea  what I finally picked, but I'm sure they were so
+amazing that they deserved to win. Probably.
+
+ The  graphics  competition  was  easier  to  vote on, not least
+because  there were considerably less entries, but a certain few
+stood  out.  Judging  from the 'ooh's and 'aah's coming from the
+crowd,  I  wasn't the only one with that opinion. Following this
+came  the intro competition, the big event for me. The challenge
+here  was  to  squeeze  as much as possible into 1K of code. I'd
+sent in my entry a few weeks beforehand, and the organisers must
+have  liked  it  because  it appeared they'd dropped a few hints
+about  it.  I'd  spent  so  long  writing it that it didn't seem
+anything special to me any more, but I think the main attraction
+was  the music that I'd dropped in to fill up my quota of bytes.
+The  first  few  entries to be shown were good standard 1K intro
+fare,  and then it came time to show mine. The music started up.
+The  crowd  gasped.  Applause  erupted  around  the  room. I was
+grinning  like  a  Cheshire cat, but fortunately the lights were
+down low, so no-one got to see that.
+
+ The  best entries, it seems, had been cunningly left till last.
+For  his  'Mathricks' intro, Baze had come up with a spinning 3D
+figure,  accurately  lightsourced  against a fractal background,
+and  intro  king  Serzh  had teamed up with Ravager for a visual
+treat  entitled  Artifice.  Serzh  has become well known in demo
+circles  for  making his 4K intros into 5-minute, 25-part epics,
+and  this  entry  certainly didn't break the trend. Despite only
+having  1K  to  play  with  this time, the duo managed to fit in
+three parts, each one a work of art.
+
+ Unfortunately   there   weren't   enough  demos  to  make  up a
+fully-fledged demo competition, but nevertheless we were treated
+to  a  selection  of  new  releases.  The  Atari section had the
+wonderfully  silly  Superboy  demo  to  show  off,  and we had a
+preview of a forthcoming C64 megademo, the name of which totally
+escapes  me  (oops). On the Speccy, 'BASICdemo' and 'FDT' pushed
+Sinclair  Basic  to  the  limit, and the evening was rounded off
+with   'Bobering   2000'  from  Syndrome,  a  typically  Russian
+'greyscale'  affair  doing  not-so-typical  things  in 3D. After
+scribbling  down  our final votes, everyone congregated around a
+pair  of Ataris, to witness the most retro-oriented presentation
+of the party - NetPong, a two player Pong game played across two
+machines connected by another spaghetti of wires. Being a former
+owner  of  a  Binatone  machine (you know, the one where you can
+choose between five games, each one of them being tennis), I can
+say that it was a perfect conversion.
+
+ The show continued well into the night, with classic demos from
+all three scenes being shown on the big screen. It was a sort of
+Desert  Island Demos affair, with the organisers of each section
+picking  the  very  best from each computer. The atmosphere here
+was  amazing, and I'll never look at these demos in the same way
+again  -  watching  them on a telly couldn't even begin to match
+the  experience.  The next morning, for me, consisted of sorting
+through  tickets  and  other bits of paper that I'd need for the
+frantic  journey  back  (involving three planes and a horrendous
+number  of  trains). But everything stopped for the announcement
+of the results...
+
+ I  was  pleased  to see fellow Raww Arse member L.A.Esq pick up
+third   place   in   the  music  category  for  his  track  'New
+Generation'.  'Dispazio' by Baze claimed second place, and in my
+not-so-humble  opinion,  the  moral victory. In the selection of
+sleek  dance  tracks,  one  entry, a joke version of the Titanic
+theme,  had stuck out like a sore thumb, and the Atari crowd all
+picked  that  one  for  a laugh. As a result, it was Darkman and
+Justinas  of  Constellation who clinched the top spot with their
+rendition, entitled 'Titanas'.
+
+ GAS  13  has been a top three contender for graphics at most of
+the  recent parties, and he finally made it to the top spot this
+time  with  'Don't  Pass  By',  a stunning colourful countryside
+scene.  Agyagos  and Diver also impressed the crowds enough with
+their  pictures  their  pictures  'Robin' and 'Alone' to achieve
+second and third places respectively.
+
+ Baze   took  his  second  podium  position  of  the  day,  with
+'Mathricks'  making  third  place  in  the intro competition. My
+intro  'Madrielle'  was knocked into second place by 'Artifice',
+and  Serzh  and  Ravager  had  done such an impressive job on it
+that I couldn't really complain.
+
+ All in all, the organisers had done a fantastic job, and it was
+an  unforgettable  experience  for  me.  The  show  attracted 62
+visitors  -  at  least half of whom came from outside Slovakia -
+and from what I've heard, that's pretty big as these things go.
+
+ The  journey  back  passed  with no problems whatsoever, and by
+3:00  the next morning I was back home to get some rest. But not
+for  long, because I'd promised to get the results and downloads
+on  my website as soon as possible. And that's exactly where you
+should go now...
+
+                                                          Gasman

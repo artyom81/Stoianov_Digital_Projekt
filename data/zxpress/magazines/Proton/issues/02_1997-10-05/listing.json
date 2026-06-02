@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16530,
+    "article_url": "https://zxpress.ru/article.php?id=16530",
+    "print_url": "https://zxpress.ru/print.php?id=16530",
+    "title_link": "Сеть - Список BBS: BBS сети ZX-Net 095, 3D-Net, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Сеть_-_Список_BBS_BBS_сети_ZX-Net_095_3D-Net_Независимые_BBS"
+  },
+  {
+    "article_id": 16531,
+    "article_url": "https://zxpress.ru/article.php?id=16531",
+    "print_url": "https://zxpress.ru/print.php?id=16531",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16532,
+    "article_url": "https://zxpress.ru/article.php?id=16532",
+    "print_url": "https://zxpress.ru/print.php?id=16532",
+    "title_link": "Игрушки - BLACK LAMP.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Игрушки_-_BLACK_LAMP"
+  },
+  {
+    "article_id": 16533,
+    "article_url": "https://zxpress.ru/article.php?id=16533",
+    "print_url": "https://zxpress.ru/print.php?id=16533",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16534,
+    "article_url": "https://zxpress.ru/article.php?id=16534",
+    "print_url": "https://zxpress.ru/print.php?id=16534",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

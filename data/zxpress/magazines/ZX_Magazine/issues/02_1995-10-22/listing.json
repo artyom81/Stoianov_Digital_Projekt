@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 11919,
+    "article_url": "https://zxpress.ru/article.php?id=11919",
+    "print_url": "https://zxpress.ru/print.php?id=11919",
+    "title_link": "Введение - Мы рады представить вашему вниманию превую коммерческую версию\r\nнашего журнала.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Введение_-_Мы_рады_представить_вашему_вниманию_превую_коммер"
+  },
+  {
+    "article_id": 11920,
+    "article_url": "https://zxpress.ru/article.php?id=11920",
+    "print_url": "https://zxpress.ru/print.php?id=11920",
+    "title_link": "Вести - KSA делает Monster Commander, Omen Corporation делает Windows для спектрума, AY-GROUP готовит серию игрушек.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Вести_-_KSA_делает_Monster_Commander_Omen_Corporation_делает"
+  },
+  {
+    "article_id": 11921,
+    "article_url": "https://zxpress.ru/article.php?id=11921",
+    "print_url": "https://zxpress.ru/print.php?id=11921",
+    "title_link": "Help - помощь по игре Dyna Blasters.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Help_-_помощь_по_игре_Dyna_Blasters"
+  },
+  {
+    "article_id": 11922,
+    "article_url": "https://zxpress.ru/article.php?id=11922",
+    "print_url": "https://zxpress.ru/print.php?id=11922",
+    "title_link": "IBM - продолжение известного \r\nна IBM'овских модемных сетях рассказа, под названием \"9600 бод\r\nи все-все-все\".",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "IBM_-_продолжение_известного_на_IBMовских_модемных_сетях_рас"
+  },
+  {
+    "article_id": 11923,
+    "article_url": "https://zxpress.ru/article.php?id=11923",
+    "print_url": "https://zxpress.ru/print.php?id=11923",
+    "title_link": "Новелла - новелла по игре Chess Master.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Новелла_-_новелла_по_игре_Chess_Master"
+  },
+  {
+    "article_id": 11924,
+    "article_url": "https://zxpress.ru/article.php?id=11924",
+    "print_url": "https://zxpress.ru/print.php?id=11924",
+    "title_link": "p.s. - Данный номер выходит в укороченном виде в связи с возникшими у\r\nнас проблемами.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "ps_-_Данныи_номер_выходит_в_укороченном_виде_в_связи_с_возни"
+  },
+  {
+    "article_id": 11925,
+    "article_url": "https://zxpress.ru/article.php?id=11925",
+    "print_url": "https://zxpress.ru/print.php?id=11925",
+    "title_link": "Коробока - приложение к журналу.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Коробока_-_приложение_к_журналу"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 7052,
+    "article_url": "https://zxpress.ru/article.php?id=7052",
+    "print_url": "https://zxpress.ru/print.php?id=7052",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "86",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7053,
+    "article_url": "https://zxpress.ru/article.php?id=7053",
+    "print_url": "https://zxpress.ru/print.php?id=7053",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "86",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7054,
+    "article_url": "https://zxpress.ru/article.php?id=7054",
+    "print_url": "https://zxpress.ru/print.php?id=7054",
+    "title_link": "События - обсуждение новых правил FunTop98.",
+    "order": 3,
+    "issue_label": "86",
+    "short_slug": "События_-_обсуждение_новых_правил_FunTop98"
+  },
+  {
+    "article_id": 7055,
+    "article_url": "https://zxpress.ru/article.php?id=7055",
+    "print_url": "https://zxpress.ru/print.php?id=7055",
+    "title_link": "Рассказы - Толкатель (продолжение).",
+    "order": 4,
+    "issue_label": "86",
+    "short_slug": "Рассказы_-_Толкатель_продолжение"
+  },
+  {
+    "article_id": 7056,
+    "article_url": "https://zxpress.ru/article.php?id=7056",
+    "print_url": "https://zxpress.ru/print.php?id=7056",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "86",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  }
+]

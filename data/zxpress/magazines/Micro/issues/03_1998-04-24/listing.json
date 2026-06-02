@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 345,
+    "article_url": "https://zxpress.ru/article.php?id=345",
+    "print_url": "https://zxpress.ru/print.php?id=345",
+    "title_link": "Коротко о разном - О командерах. О клавиатурах.\r\n Сериалы на TV.\r\n Рассуждения об адвентюрах.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Коротко_о_разном_-_О_командерах_О_клавиатурах_Сериалы_на_TV"
+  },
+  {
+    "article_id": 344,
+    "article_url": "https://zxpress.ru/article.php?id=344",
+    "print_url": "https://zxpress.ru/print.php?id=344",
+    "title_link": "Проходилка - Описание адвентюры \"Red Hawk\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Проходилка_-_Описание_адвентюры_Red_Hawk"
+  },
+  {
+    "article_id": 346,
+    "article_url": "https://zxpress.ru/article.php?id=346",
+    "print_url": "https://zxpress.ru/print.php?id=346",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Юмор_-_Анекдоты"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "article_id": 8897,
+    "article_url": "https://zxpress.ru/article.php?id=8897",
+    "print_url": "https://zxpress.ru/print.php?id=8897",
+    "title_link": "Введение - О новом интерфейсе в газете.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Введение_-_О_новом_интерфеисе_в_газете"
+  },
+  {
+    "article_id": 8898,
+    "article_url": "https://zxpress.ru/article.php?id=8898",
+    "print_url": "https://zxpress.ru/print.php?id=8898",
+    "title_link": "Маленькие хитрости - Изящная очистка экрана.\r\n Быстрое сканирование клавиатуры.\r\n Установка прерываний (IM2).",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Маленькие_хитрости_-_Изящная_очистка_экрана_Быстрое_сканиров"
+  },
+  {
+    "article_id": 18087,
+    "article_url": "https://zxpress.ru/article.php?id=18087",
+    "print_url": "https://zxpress.ru/print.php?id=18087",
+    "title_link": "HARDWARE - анонс Falcon Sound Drive.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "HARDWARE_-_анонс_Falcon_Sound_Drive"
+  },
+  {
+    "article_id": 8899,
+    "article_url": "https://zxpress.ru/article.php?id=8899",
+    "print_url": "https://zxpress.ru/print.php?id=8899",
+    "title_link": "HARDWARE - Еще несколько слов о дисководах 5'25 и 3'5.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "HARDWARE_-_Еще_несколько_слов_о_дисководах_525_и_35"
+  },
+  {
+    "article_id": 18086,
+    "article_url": "https://zxpress.ru/article.php?id=18086",
+    "print_url": "https://zxpress.ru/print.php?id=18086",
+    "title_link": "Hardware- доработка компьютера Балтик.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Hardware-_доработка_компьютера_Балтик"
+  },
+  {
+    "article_id": 8900,
+    "article_url": "https://zxpress.ru/article.php?id=8900",
+    "print_url": "https://zxpress.ru/print.php?id=8900",
+    "title_link": "Презентация - Генератор Спрайтов v4.5 от REAL SOFT.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Презентация_-_Генератор_Спраитов_v45_от_REAL_SOFT"
+  },
+  {
+    "article_id": 8901,
+    "article_url": "https://zxpress.ru/article.php?id=8901",
+    "print_url": "https://zxpress.ru/print.php?id=8901",
+    "title_link": "Проблемы Байта - Почему не работают некоторые программы на Спектрум-совместимом компьютере \"Байт\".",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Проблемы_Баита_-_Почему_не_работают_некоторые_программы_на_С"
+  },
+  {
+    "article_id": 8902,
+    "article_url": "https://zxpress.ru/article.php?id=8902",
+    "print_url": "https://zxpress.ru/print.php?id=8902",
+    "title_link": "Фантастика - Фантастическая повесть Рея Бредбери \"Лед и пламя\"\r\n (часть 1).",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Фантастика_-_Фантастическая_повесть_Рея_Бредбери_Лед_и_пламя"
+  },
+  {
+    "article_id": 8903,
+    "article_url": "https://zxpress.ru/article.php?id=8903",
+    "print_url": "https://zxpress.ru/print.php?id=8903",
+    "title_link": "Сказки дядюшки Gill'а - Рассказы: Автобиография, Инкубаторный период, Происшествие на улице, Реабилитация...",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Сказки_дядюшки_Gillа_-_Рассказы_Автобиография_Инкубаторныи_п"
+  },
+  {
+    "article_id": 8904,
+    "article_url": "https://zxpress.ru/article.php?id=8904",
+    "print_url": "https://zxpress.ru/print.php?id=8904",
+    "title_link": "Дерево смерти - Отчет о работе службы \"Спасение 911\".",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Дерево_смерти_-_Отчет_о_работе_службы_Спасение_911"
+  },
+  {
+    "article_id": 8905,
+    "article_url": "https://zxpress.ru/article.php?id=8905",
+    "print_url": "https://zxpress.ru/print.php?id=8905",
+    "title_link": "Богатые тоже плачут - О проблемах, которые создают СНГ'шные кодеры для пользователей фирменных спектрумов (EXODUS из Польши).",
+    "order": 11,
+    "issue_label": "02",
+    "short_slug": "Богатые_тоже_плачут_-_О_проблемах_которые_создают_СНГшные_ко"
+  },
+  {
+    "article_id": 8906,
+    "article_url": "https://zxpress.ru/article.php?id=8906",
+    "print_url": "https://zxpress.ru/print.php?id=8906",
+    "title_link": "Анкета - Опрос среди спектрумовского населения стран СНГ.",
+    "order": 12,
+    "issue_label": "02",
+    "short_slug": "Анкета_-_Опрос_среди_спектрумовского_населения_стран_СНГ"
+  },
+  {
+    "article_id": 8907,
+    "article_url": "https://zxpress.ru/article.php?id=8907",
+    "print_url": "https://zxpress.ru/print.php?id=8907",
+    "title_link": "Знаете ли вы... - Гасить ВГ-шку нулем в порт #FF нельзя.\r\n Перед записью через #3D13 на конкретную дорожку, если\r\n моторчик включен, а головка на ней торчит.\r\n Как ускорить процедуру чтения и загрузки через #3D13,\r\n если необходимо загрузить/записать несколько небольших блоков подряд.",
+    "order": 13,
+    "issue_label": "02",
+    "short_slug": "Знаете_ли_вы_-_Гасить_ВГ-шку_нулем_в_порт_FF_нельзя_Перед_за"
+  },
+  {
+    "article_id": 8908,
+    "article_url": "https://zxpress.ru/article.php?id=8908",
+    "print_url": "https://zxpress.ru/print.php?id=8908",
+    "title_link": "Музобзор - Интервью с группой \"Too Late! Frozen\".",
+    "order": 14,
+    "issue_label": "02",
+    "short_slug": "Музобзор_-_Интервью_с_группои_Too_Late_Frozen"
+  },
+  {
+    "article_id": 8909,
+    "article_url": "https://zxpress.ru/article.php?id=8909",
+    "print_url": "https://zxpress.ru/print.php?id=8909",
+    "title_link": "Книга о вкусной пище - Холодные закуски, горячие закуски и супы. (кулинарные\r\n рецепты). Реклама: часы командирские.",
+    "order": 15,
+    "issue_label": "02",
+    "short_slug": "Книга_о_вкуснои_пище_-_Холодные_закуски_горячие_закуски_и_су"
+  },
+  {
+    "article_id": 8910,
+    "article_url": "https://zxpress.ru/article.php?id=8910",
+    "print_url": "https://zxpress.ru/print.php?id=8910",
+    "title_link": "Музыка - Форматы компилированных модулей известных музыкальных\r\n редакторов.\r\n Pro Tracker v2.101 by GDC, Стандартный проигрыватель.",
+    "order": 16,
+    "issue_label": "02",
+    "short_slug": "Музыка_-_Форматы_компилированных_модулеи_известных_музыкальн"
+  },
+  {
+    "article_id": 8911,
+    "article_url": "https://zxpress.ru/article.php?id=8911",
+    "print_url": "https://zxpress.ru/print.php?id=8911",
+    "title_link": "Открытое письмо - Открытое письмо OLDMAN'у о создании газет...",
+    "order": 17,
+    "issue_label": "02",
+    "short_slug": "Открытое_письмо_-_Открытое_письмо_OLDMANу_о_создании_газет"
+  },
+  {
+    "article_id": 8912,
+    "article_url": "https://zxpress.ru/article.php?id=8912",
+    "print_url": "https://zxpress.ru/print.php?id=8912",
+    "title_link": "AMIGA vs IBM - Какие возможности у этих компьютеров.",
+    "order": 18,
+    "issue_label": "02",
+    "short_slug": "AMIGA_vs_IBM_-_Какие_возможности_у_этих_компьютеров"
+  },
+  {
+    "article_id": 8913,
+    "article_url": "https://zxpress.ru/article.php?id=8913",
+    "print_url": "https://zxpress.ru/print.php?id=8913",
+    "title_link": "Амига - Немного истории создания Амиги.",
+    "order": 19,
+    "issue_label": "02",
+    "short_slug": "Амига_-_Немного_истории_создания_Амиги"
+  },
+  {
+    "article_id": 8914,
+    "article_url": "https://zxpress.ru/article.php?id=8914",
+    "print_url": "https://zxpress.ru/print.php?id=8914",
+    "title_link": "Амига - Краткое описание различных моделей Амиги.",
+    "order": 20,
+    "issue_label": "02",
+    "short_slug": "Амига_-_Краткое_описание_различных_моделеи_Амиги"
+  },
+  {
+    "article_id": 8915,
+    "article_url": "https://zxpress.ru/article.php?id=8915",
+    "print_url": "https://zxpress.ru/print.php?id=8915",
+    "title_link": "Амига - Описание AMIGA 500/2000 - Амига из нутри: клавиатура,\r\n дисководы, разъемы ввода/вывода. Что еще можно подключить?",
+    "order": 21,
+    "issue_label": "02",
+    "short_slug": "Амига_-_Описание_AMIGA_5002000_-_Амига_из_нутри_клавиатура_д"
+  },
+  {
+    "article_id": 8916,
+    "article_url": "https://zxpress.ru/article.php?id=8916",
+    "print_url": "https://zxpress.ru/print.php?id=8916",
+    "title_link": "Амига - Описание AMIGA 1200.",
+    "order": 22,
+    "issue_label": "02",
+    "short_slug": "Амига_-_Описание_AMIGA_1200"
+  },
+  {
+    "article_id": 8917,
+    "article_url": "https://zxpress.ru/article.php?id=8917",
+    "print_url": "https://zxpress.ru/print.php?id=8917",
+    "title_link": "Besta - мы предлагаем скидываться на свежий софт для Спектрума всей Белорусью и\r\nзакупать его везде где только возможно.",
+    "order": 23,
+    "issue_label": "02",
+    "short_slug": "Besta_-_мы_предлагаем_скидываться_на_свежии_софт_для_Спектру"
+  },
+  {
+    "article_id": 8918,
+    "article_url": "https://zxpress.ru/article.php?id=8918",
+    "print_url": "https://zxpress.ru/print.php?id=8918",
+    "title_link": "Новье - Список нового ПО, которое появилось в Бресте в декабре.",
+    "order": 24,
+    "issue_label": "02",
+    "short_slug": "Новье_-_Список_нового_ПО_которое_появилось_в_Бресте_в_декабр"
+  },
+  {
+    "article_id": 8919,
+    "article_url": "https://zxpress.ru/article.php?id=8919",
+    "print_url": "https://zxpress.ru/print.php?id=8919",
+    "title_link": "PENTIUM - Pentium Processor - Технический обзор.",
+    "order": 25,
+    "issue_label": "02",
+    "short_slug": "PENTIUM_-_Pentium_Processor_-_Техническии_обзор"
+  },
+  {
+    "article_id": 8920,
+    "article_url": "https://zxpress.ru/article.php?id=8920",
+    "print_url": "https://zxpress.ru/print.php?id=8920",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 26,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8921,
+    "article_url": "https://zxpress.ru/article.php?id=8921",
+    "print_url": "https://zxpress.ru/print.php?id=8921",
+    "title_link": "Credits - создатели газеты.",
+    "order": 27,
+    "issue_label": "02",
+    "short_slug": "Credits_-_создатели_газеты"
+  }
+]

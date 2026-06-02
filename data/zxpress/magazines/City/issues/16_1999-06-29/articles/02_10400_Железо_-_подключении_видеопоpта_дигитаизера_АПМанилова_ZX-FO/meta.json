@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1999-06-29",
+  "order": 2,
+  "article_id": 10400,
+  "title_link": "Железо - подключении видеопоpта (дигитайзера) А.П.Манилова ( ZX-FORUM #2).",
+  "title_h1": "City 16 - Железо - подключении видеопоpта (дигитайзера) А.П.Манилова ( ZX-FORUM #2).",
+  "print_url": "https://zxpress.ru/print.php?id=10400",
+  "article_url": "https://zxpress.ru/article.php?id=10400",
+  "fetched_at": "2026-05-31T21:50:36Z"
+}

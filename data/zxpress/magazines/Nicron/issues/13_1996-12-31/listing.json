@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6200,
+    "article_url": "https://zxpress.ru/article.php?id=6200",
+    "print_url": "https://zxpress.ru/print.php?id=6200",
+    "title_link": "Вступление - стихи, новогодние поздравления, и содержание номера.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "Вступление_-_стихи_новогодние_поздравления_и_содержание_номе"
+  },
+  {
+    "article_id": 6201,
+    "article_url": "https://zxpress.ru/article.php?id=6201",
+    "print_url": "https://zxpress.ru/print.php?id=6201",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6202,
+    "article_url": "https://zxpress.ru/article.php?id=6202",
+    "print_url": "https://zxpress.ru/print.php?id=6202",
+    "title_link": "Тусовка - истории и стихи.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Тусовка_-_истории_и_стихи"
+  },
+  {
+    "article_id": 6203,
+    "article_url": "https://zxpress.ru/article.php?id=6203",
+    "print_url": "https://zxpress.ru/print.php?id=6203",
+    "title_link": "Графика - картинкa АNSI графики.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Графика_-_картинкa_АNSI_графики"
+  },
+  {
+    "article_id": 6204,
+    "article_url": "https://zxpress.ru/article.php?id=6204",
+    "print_url": "https://zxpress.ru/print.php?id=6204",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6205,
+    "article_url": "https://zxpress.ru/article.php?id=6205",
+    "print_url": "https://zxpress.ru/print.php?id=6205",
+    "title_link": "Юмор - анекдоты.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6206,
+    "article_url": "https://zxpress.ru/article.php?id=6206",
+    "print_url": "https://zxpress.ru/print.php?id=6206",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6207,
+    "article_url": "https://zxpress.ru/article.php?id=6207",
+    "print_url": "https://zxpress.ru/print.php?id=6207",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "article_id": 382,
+    "article_url": "https://zxpress.ru/article.php?id=382",
+    "print_url": "https://zxpress.ru/print.php?id=382",
+    "title_link": "Coding - Описание программы AntiRST8 (для ZS256).",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Coding_-_Описание_программы_AntiRST8_для_ZS256"
+  },
+  {
+    "article_id": 371,
+    "article_url": "https://zxpress.ru/article.php?id=371",
+    "print_url": "https://zxpress.ru/print.php?id=371",
+    "title_link": "Coding - Режим IM 2 при работе в TR-DOS (вариант Loader'а).",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Coding_-_Режим_IM_2_при_работе_в_TR-DOS_вариант_Loaderа"
+  },
+  {
+    "article_id": 383,
+    "article_url": "https://zxpress.ru/article.php?id=383",
+    "print_url": "https://zxpress.ru/print.php?id=383",
+    "title_link": "Software - Oбзор системных программ : ZX-Turbo Assembler v3.10 demo, Flash Music Module Convertor v 1.1, Pro Tracker v2.4, Str Music Decompiles v1.1, Extremes Tracker v 1.3, Softcopy v1.3.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Software_-_Oбзор_системных_программ_ZX-Turbo_Assembler_v310"
+  },
+  {
+    "article_id": 384,
+    "article_url": "https://zxpress.ru/article.php?id=384",
+    "print_url": "https://zxpress.ru/print.php?id=384",
+    "title_link": "Software - Новинки демосцены: Over The Top, Brain Sugery, Braind Crash, Paraxyzm, Nerve Trackmo, Insane, Trashe, Iris Uldtra demo.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Software_-_Новинки_демосцены_Over_The_Top_Brain_Sugery_Brain"
+  },
+  {
+    "article_id": 385,
+    "article_url": "https://zxpress.ru/article.php?id=385",
+    "print_url": "https://zxpress.ru/print.php?id=385",
+    "title_link": "Software - Обзор новых игровых программ: Mortal Kombat, Magic Stripes, Return to Home 4, Чёрный Ворон, Athena, Rescate Atlantida, Skull & Crossbones, Mario Islands demo.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Software_-_Обзор_новых_игровых_программ_Mortal_Kombat_Magic"
+  },
+  {
+    "article_id": 377,
+    "article_url": "https://zxpress.ru/article.php?id=377",
+    "print_url": "https://zxpress.ru/print.php?id=377",
+    "title_link": "Software - Описание системной программмы: Professional Xoring System v1.0.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Software_-_Описание_системнои_программмы_Professional_Xoring"
+  },
+  {
+    "article_id": 381,
+    "article_url": "https://zxpress.ru/article.php?id=381",
+    "print_url": "https://zxpress.ru/print.php?id=381",
+    "title_link": "Апперативчик - Об оболочке журнала и управлении в ней.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Апперативчик_-_Об_оболочке_журнала_и_управлении_в_неи"
+  },
+  {
+    "article_id": 388,
+    "article_url": "https://zxpress.ru/article.php?id=388",
+    "print_url": "https://zxpress.ru/print.php?id=388",
+    "title_link": "Апперативчик - От авторов",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Апперативчик_-_От_авторов"
+  },
+  {
+    "article_id": 387,
+    "article_url": "https://zxpress.ru/article.php?id=387",
+    "print_url": "https://zxpress.ru/print.php?id=387",
+    "title_link": "Доска почета - \"oVERFILE\" всю страну кинули\". О Кемеровской\r\nСпектрумовской Сцене. Пара слов о писи.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Доска_почета_-_oVERFILE_всю_страну_кинули_О_КемеровскоиСпект"
+  },
+  {
+    "article_id": 375,
+    "article_url": "https://zxpress.ru/article.php?id=375",
+    "print_url": "https://zxpress.ru/print.php?id=375",
+    "title_link": "Доска почета - Попса, Must Die !",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Доска_почета_-_Попса_Must_Die"
+  },
+  {
+    "article_id": 373,
+    "article_url": "https://zxpress.ru/article.php?id=373",
+    "print_url": "https://zxpress.ru/print.php?id=373",
+    "title_link": "За бугром - Богатые тоже плачут?",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "За_бугром_-_Богатые_тоже_плачут"
+  },
+  {
+    "article_id": 369,
+    "article_url": "https://zxpress.ru/article.php?id=369",
+    "print_url": "https://zxpress.ru/print.php?id=369",
+    "title_link": "За бугром - Интервью с Джоном Ритманом.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "За_бугром_-_Интервью_с_Джоном_Ритманом"
+  },
+  {
+    "article_id": 374,
+    "article_url": "https://zxpress.ru/article.php?id=374",
+    "print_url": "https://zxpress.ru/print.php?id=374",
+    "title_link": "Капля припоя - Использование принтера СМ-6337 с компьютером Скорпион ZS 256 Turbo+.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Капля_припоя_-_Использование_принтера_СМ-6337_с_компьютером"
+  },
+  {
+    "article_id": 372,
+    "article_url": "https://zxpress.ru/article.php?id=372",
+    "print_url": "https://zxpress.ru/print.php?id=372",
+    "title_link": "Капля припоя - О доработке компьютера Scorpion ZS256 (Схема доработки AY).",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Капля_припоя_-_О_доработке_компьютера_Scorpion_ZS256_Схема_д"
+  },
+  {
+    "article_id": 370,
+    "article_url": "https://zxpress.ru/article.php?id=370",
+    "print_url": "https://zxpress.ru/print.php?id=370",
+    "title_link": "Проба пера - Рассказ \"Война продолжается\"",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Проба_пера_-_Рассказ_Воина_продолжается"
+  },
+  {
+    "article_id": 386,
+    "article_url": "https://zxpress.ru/article.php?id=386",
+    "print_url": "https://zxpress.ru/print.php?id=386",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 376,
+    "article_url": "https://zxpress.ru/article.php?id=376",
+    "print_url": "https://zxpress.ru/print.php?id=376",
+    "title_link": "Семь и 1/2 - Из неопубликованного: Стих \"Кроха сын к отцу пошел...\"",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Семь_и_12_-_Из_неопубликованного_Стих_Кроха_сын_к_отцу_пошел"
+  },
+  {
+    "article_id": 379,
+    "article_url": "https://zxpress.ru/article.php?id=379",
+    "print_url": "https://zxpress.ru/print.php?id=379",
+    "title_link": "Семь и 1/2 - Повесть о настоящем Werewolfe или Virtual'но амижный синдром.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Семь_и_12_-_Повесть_о_настоящем_Werewolfe_или_Virtualно_амиж"
+  },
+  {
+    "article_id": 378,
+    "article_url": "https://zxpress.ru/article.php?id=378",
+    "print_url": "https://zxpress.ru/print.php?id=378",
+    "title_link": "Семь и 1/2 - Прострелить себе ногу (руководство программистам).",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Семь_и_12_-_Прострелить_себе_ногу_руководство_программистам"
+  },
+  {
+    "article_id": 380,
+    "article_url": "https://zxpress.ru/article.php?id=380",
+    "print_url": "https://zxpress.ru/print.php?id=380",
+    "title_link": "Тема - Музыкальные возможности ZX-Spectrum'а: что было, что есть и что будет.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Тема_-_Музыкальные_возможности_ZX-Spectrumа_что_было_что_ест"
+  }
+]

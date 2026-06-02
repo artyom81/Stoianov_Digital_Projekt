@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 15462,
+    "article_url": "https://zxpress.ru/article.php?id=15462",
+    "print_url": "https://zxpress.ru/print.php?id=15462",
+    "title_link": "Объявления - Я всех приветствую и рад встрече с Вами.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Объявления_-_Я_всех_приветствую_и_рад_встрече_с_Вами"
+  },
+  {
+    "article_id": 15463,
+    "article_url": "https://zxpress.ru/article.php?id=15463",
+    "print_url": "https://zxpress.ru/print.php?id=15463",
+    "title_link": "Сенсация дня - Поступила информация: В Москве AMIGA DEAD.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Сенсация_дня_-_Поступила_информация_В_Москве_AMIGA_DEAD"
+  },
+  {
+    "article_id": 15464,
+    "article_url": "https://zxpress.ru/article.php?id=15464",
+    "print_url": "https://zxpress.ru/print.php?id=15464",
+    "title_link": "Прочие сообщения - Идеи по дальнейшему незначительному наворачиванию CDOS.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Прочие_сообщения_-_Идеи_по_дальнеишему_незначительному_навор"
+  }
+]

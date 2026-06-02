@@ -1,0 +1,327 @@
+TargeT 10 - Мega-credits - Оборудование, программы, благодарности.
+|
+.
+-
+-
+Mega
+-
+credits
+-
+-
+.
+FOX
+,
+S
+avers
+A
+lliance
+.
+-
+-- ------------
+|
+------------
+.
+All
+T
+arget
+'
+S
+credits:
+Main editor
+... .
+. ...
+FOX
+Main designer
+... .
+. ...
+FOX
+Main organizer
+... .
+. ...
+FOX
+Main GFX-MAKER
+... .
+. ...
+FOX
+General produser
+... .
+. ...
+FOX
+General conceptor
+... .
+. ...
+FOX
+After
+TGT
+#
+7
+MAIN code by
+Sinus
+(
+c
+)
+1999
+-
+2002
+AIS
+,
+SVR
+production
+T
+arge
+T
+#
+10
+Production:
+Preintro:
+Idea,conception
+... .
+. ...
+FOX
+РС-scaning
+... .
+. ...
+Romeo
+Coding
+... .
+. ...
+Sinus
+РС->ZX convertor
+... .
+. ...
+Sinus
+GFX conversion
+... .
+. ...
+FOX
+Intro:
+Idea,conception
+. .
+. .
+Sinus
+,
+FOX
+Design
+... .
+. ...
+FOX
+,
+Sinus
+Main GFX
+... .
+. ...
+FOX
+Add GFX
+... .
+. ...
+Sinus
+Coding
+... .
+. ...
+Sinus
+Music
+... .
+. ...
+Seth
+/
+Ellipse
+Техт
+... .
+. ...
+FOX
+Loading picture:
+Idea,Design and Paint...
+...
+FOX
+TARGET
+#
+10:
+Idea,conception
+. .
+. .
+FOX
+,
+Sinus
+Design
+... .
+. ...
+FOX
+ZX GFX
+... .
+. ...
+FOX
+Illustrated
+... .
+. ...
+FOX
+Техт paint
+... .
+. ...
+FOX
+Coding
+... .
+. ...
+Sinus
+Техт painter code
+... .
+. ...
+Sinus
+Music
+... .
+. ...
+Seth
+/
+Ellipse
+Main edit
+... .
+. ...
+FOX
+Hidden part:
+Idea,code,design
+... .
+. ...
+Sinus
+Техт
+... .
+. ...
+FOX
+Hardware:
+Pentagon
+-
+128
+Yamaha
+-
+УМ
+ххЧ9F
+3
+'
+S
++
+S
+'
+2S
+fdd
+Monochrome monic
+(
+FOX
+machine
+)
+Byte
+-
+128
+AY
+-
+8912
+3
+'
+S
++
+S
+'
+2S
+fdd
+Monocrome gluk monic
+С
+_
+Dos modem
+(
+Sinus
+machine
+)
+Cyrix
+-
+266
+spectrum monochrome gluk monic,
+рс
+'
+VGA gluk monic
+(
+Sinus
+machine
+)
+Р
+-
+III
+-
+800
+SVGA monic
+Scaner
+(
+Romeo
+machine
+)
+Software:
+ZX:
+Alasm
+4
+.
+42
+STS
+6
+,
+2
+BGE
+3
+,
+oS
+Hrust
+1
+.
+3
+Horror World
+1
+.
+1
+р
+(
+FOX
+correct
+)
+fpm
+-
+3
+.
+0S
+(
+НРМ
+-
+мах petrov
+)
+boot
+РС:
+Windows
+98
+Addobe Photoshop
+Sinus
+рс
+->
+zx convertor
+Sinus
+техт painter
+Thanks:
+Моей  девушке
+Оле
+-за nohumamue и
+поддержку.
+Kempston'
+у    -    за   то   что
+предоставил    сеанс   связи   с
+Синусом
+по модему.
+Газете
+BodY.
+3a  кaтaлизaцию
+проэкта
+(
+особенно      тов.
+Midnight'
+y
+:)
+Газете
+ZX
+-
+Time
+.  3a кaтaлизaцию
+проекта.  Если  б  не вы-вряд ли
+взялся бы
+:)

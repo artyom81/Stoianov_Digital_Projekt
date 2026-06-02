@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7573,
+    "article_url": "https://zxpress.ru/article.php?id=7573",
+    "print_url": "https://zxpress.ru/print.php?id=7573",
+    "title_link": "Наши новости - Скоро появится нормальная версия игры NETHER EARTH.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Наши_новости_-_Скоро_появится_нормальная_версия_игры_NETHER"
+  },
+  {
+    "article_id": 7574,
+    "article_url": "https://zxpress.ru/article.php?id=7574",
+    "print_url": "https://zxpress.ru/print.php?id=7574",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7575,
+    "article_url": "https://zxpress.ru/article.php?id=7575",
+    "print_url": "https://zxpress.ru/print.php?id=7575",
+    "title_link": "Обзор - О новых программах: CRIME SANTA CLAUS,MAGIC LINES,TRUBIS,\r\n MENTURA , THE MUNCHER EATS CHEWITS , THE LIGHT CORRIDOR.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Обзор_-_О_новых_программах_CRIME_SANTA_CLAUSMAGIC_LINESTRUBI"
+  },
+  {
+    "article_id": 7576,
+    "article_url": "https://zxpress.ru/article.php?id=7576",
+    "print_url": "https://zxpress.ru/print.php?id=7576",
+    "title_link": "Разберемся - Подробный отчет о прохождении игр ВИННИ ПУХ & 48 УТЮГОВ.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игр_ВИННИ_ПУХ_48"
+  },
+  {
+    "article_id": 7577,
+    "article_url": "https://zxpress.ru/article.php?id=7577",
+    "print_url": "https://zxpress.ru/print.php?id=7577",
+    "title_link": "HINTS! - Сборник паролей к играм STEG , BATTLE COMMAND , PRINCE of\r\n PERSIA.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "HINTS_-_Сборник_паролеи_к_играм_STEG_BATTLE_COMMAND_PRINCE_o"
+  },
+  {
+    "article_id": 7578,
+    "article_url": "https://zxpress.ru/article.php?id=7578",
+    "print_url": "https://zxpress.ru/print.php?id=7578",
+    "title_link": "Конкурс - Конкурс на лучший вирус продолжается.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Конкурс_-_Конкурс_на_лучшии_вирус_продолжается"
+  },
+  {
+    "article_id": 7579,
+    "article_url": "https://zxpress.ru/article.php?id=7579",
+    "print_url": "https://zxpress.ru/print.php?id=7579",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

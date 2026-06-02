@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "22",
+  "issue_date_iso": "2003-08-20",
+  "order": 1,
+  "article_id": 9936,
+  "title_link": "News - Ldir написал новую программу создания цветного каталога на дискете.",
+  "title_h1": "ACNews 22 - News - Ldir написал новую программу создания цветного каталога на дискете.",
+  "print_url": "https://zxpress.ru/print.php?id=9936",
+  "article_url": "https://zxpress.ru/article.php?id=9936",
+  "fetched_at": "2026-05-31T21:30:43Z"
+}

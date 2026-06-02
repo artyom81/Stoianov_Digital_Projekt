@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "A",
+  "issue_date_iso": "1994-08-01",
+  "order": 2,
+  "article_id": 16878,
+  "title_link": "Памяти редактора - Виталий Иванович Бугров...",
+  "title_h1": "200 A - Памяти редактора - Виталий Иванович Бугров...",
+  "print_url": "https://zxpress.ru/print.php?id=16878",
+  "article_url": "https://zxpress.ru/article.php?id=16878",
+  "fetched_at": "2026-05-31T21:28:56Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12086,
+    "article_url": "https://zxpress.ru/article.php?id=12086",
+    "print_url": "https://zxpress.ru/print.php?id=12086",
+    "title_link": "Help - управление журналом.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Help_-_управление_журналом"
+  },
+  {
+    "article_id": 12087,
+    "article_url": "https://zxpress.ru/article.php?id=12087",
+    "print_url": "https://zxpress.ru/print.php?id=12087",
+    "title_link": "Дебют - описание игры \"Where Time Stood Still\".",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Дебют_-_описание_игры_Where_Time_Stood_Still"
+  },
+  {
+    "article_id": 12088,
+    "article_url": "https://zxpress.ru/article.php?id=12088",
+    "print_url": "https://zxpress.ru/print.php?id=12088",
+    "title_link": "Архив - описание игры \"ITALY 90\".",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Архив_-_описание_игры_ITALY_90"
+  },
+  {
+    "article_id": 12089,
+    "article_url": "https://zxpress.ru/article.php?id=12089",
+    "print_url": "https://zxpress.ru/print.php?id=12089",
+    "title_link": "Архив - описание игры \"Earth Snaker\".",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Архив_-_описание_игры_Earth_Snaker"
+  },
+  {
+    "article_id": 12090,
+    "article_url": "https://zxpress.ru/article.php?id=12090",
+    "print_url": "https://zxpress.ru/print.php?id=12090",
+    "title_link": "Обзор - обзор игрушек: НЛО: Врaг нeизвeстeн, Battle City, Back To The Future 2, The Jetsons, Hot Rod.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_обзор_игрушек_НЛО_Врaг_нeизвeстeн_Battle_City_Back_T"
+  },
+  {
+    "article_id": 12091,
+    "article_url": "https://zxpress.ru/article.php?id=12091",
+    "print_url": "https://zxpress.ru/print.php?id=12091",
+    "title_link": "Почта - новый xитпaрaд игр.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Почта_-_новыи_xитпaрaд_игр"
+  },
+  {
+    "article_id": 12092,
+    "article_url": "https://zxpress.ru/article.php?id=12092",
+    "print_url": "https://zxpress.ru/print.php?id=12092",
+    "title_link": "Система - описание мощного упаковщика данных \"ASC-LZSSPack Game Compressor v4.5\".",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Система_-_описание_мощного_упаковщика_данных_ASC-LZSSPack_Ga"
+  },
+  {
+    "article_id": 12093,
+    "article_url": "https://zxpress.ru/article.php?id=12093",
+    "print_url": "https://zxpress.ru/print.php?id=12093",
+    "title_link": "Реклама - программное обеспечения для ZX Spectrum.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_программное_обеспечения_для_ZX_Spectrum"
+  }
+]

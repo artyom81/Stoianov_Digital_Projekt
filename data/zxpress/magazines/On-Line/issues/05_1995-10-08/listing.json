@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12,
+    "article_url": "https://zxpress.ru/article.php?id=12",
+    "print_url": "https://zxpress.ru/print.php?id=12",
+    "title_link": "B.B.S. Новости - Правила работы с сервером.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "BBS_Новости_-_Правила_работы_с_сервером"
+  },
+  {
+    "article_id": 1932,
+    "article_url": "https://zxpress.ru/article.php?id=1932",
+    "print_url": "https://zxpress.ru/print.php?id=1932",
+    "title_link": "IBM Новости - О компакт дисках для IBM.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "IBM_Новости_-_О_компакт_дисках_для_IBM"
+  },
+  {
+    "article_id": 1931,
+    "article_url": "https://zxpress.ru/article.php?id=1931",
+    "print_url": "https://zxpress.ru/print.php?id=1931",
+    "title_link": "PROFI CP/M - О экране компьютера \"Profi\".",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "PROFI_CPM_-_О_экране_компьютера_Profi"
+  },
+  {
+    "article_id": 1934,
+    "article_url": "https://zxpress.ru/article.php?id=1934",
+    "print_url": "https://zxpress.ru/print.php?id=1934",
+    "title_link": "WANTED !!! - Редакция газеты разыскивает следующие программы :\r\n Silent Service, Ocean Conquer, War in Meddle Earth, Popeye 2, Target Sid Mit Eenem.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "WANTED_-_Редакция_газеты_разыскивает_следующие_программы_Sil"
+  },
+  {
+    "article_id": 1933,
+    "article_url": "https://zxpress.ru/article.php?id=1933",
+    "print_url": "https://zxpress.ru/print.php?id=1933",
+    "title_link": "Видеообзор - Видеообзор новинок.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Видеообзор_-_Видеообзор_новинок"
+  },
+  {
+    "article_id": 1930,
+    "article_url": "https://zxpress.ru/article.php?id=1930",
+    "print_url": "https://zxpress.ru/print.php?id=1930",
+    "title_link": "Застрял ? - Описание адвентюрной игры \"Adventure #13\".",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Застрял_-_Описание_адвентюрнои_игры_Adventure_13"
+  },
+  {
+    "article_id": 1935,
+    "article_url": "https://zxpress.ru/article.php?id=1935",
+    "print_url": "https://zxpress.ru/print.php?id=1935",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

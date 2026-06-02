@@ -1,0 +1,15 @@
+{
+  "magazine_id": 237,
+  "magazine_name": "Welcome Press",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "1994-12-31",
+  "order": 1,
+  "article_id": 13699,
+  "title_link": "От редакции - Вам предлагается демонстрационный\r\nномер электронного журнала \"Welcome Press\".",
+  "title_h1": "Welcome Press 00 - От редакции - Вам предлагается демонстрационный номер электронного журнала \"Welcome Press\".",
+  "print_url": "https://zxpress.ru/print.php?id=13699",
+  "article_url": "https://zxpress.ru/article.php?id=13699",
+  "fetched_at": "2026-05-31T23:17:20Z"
+}

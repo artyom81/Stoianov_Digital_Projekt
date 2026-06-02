@@ -1,0 +1,105 @@
+Energy 06 - Mortal Kombat - Об игре Mortal Kombat : скрытые бойцы.
+╔════════════════════════════════════════╗
+║▒▒▒▒▒▒▒▒▒▒▒▒ МОРТАЛЬ КОМБАТЪ ▒▒▒▒▒▒▒▒▒▒▒║
+╚════════════════════════════════════════╝
+(C) СЕРГЕЙ ШТУРМ
+Сейчас, когда в каждой  семье имеется
+MORTAL KOMBAT, можно немного поговорить об
+этой  замечательной  игрушке.  Смертельная
+Битва была  сделана двумя кодерами из CODE
+BUSTERS, DEN'ом и SLY'ем. В игре присутст-
+вуют двенадцать бойцов, четыре  из которых
+являются скрытыми и вызываются лишь по на-
+биранию  определенного  кода. У каждого из
+бойцов  имеются свои  коронные удары, т.е.
+супер  удары. Если их умело использовать и
+чередовать с  обычными  ударами, то  можно
+легко и быстро завоевать себе победу.
+     Эта статья  предназначена  для  того,
+чтобы научить вас быстро и без помех побе-
+ждать. Правда  нам  не  удалось  полностью
+найти у каждого бойца все супер удары,но к
+седьмому  номеру газеты эта оплошность бу-
+дет исправлена.
+     Чтобы у бойца получился удар требует-
+ся  последовательное   нажатие  нескольких
+клавиш.
+RAYDEN
+──────
+1. TELEPORT - вниз, блок, вниз
+2. BODY LAUNCH - назад, назад, вперед
+3. ELECTROCUTION - назад, блок, low punch
+4. LIGHTING - вниз, вперед, low punch
+SUB-ZERO
+────────
+1. GROUND FREEZE - вниз, вперед, low punch
+2. ICE CLONE - вниз, назад, high kick
+3. LOW ICE - вниз, вперед, high kick
+4. SLIDE - назад, вниз, low kick
+SCORPION
+────────
+1. SNAKE - назад, назад, low punch
+2. TELEPORT - вниз, назад, high punch
+3. LEG TRIP - вперед, вперед, low kick
+4. SLIDE - назад, вниз, вперед
+LUI-KANG
+────────
+1. HIGH FIREBALL - вперед, вперед, h.punch
+2. LOW FIREBALL - вперед, вперед, l.punch
+3. FLY KICK - вперед, вперед, high kick
+4. BICYCLE KICK - наз., вниз, назад,h.kick
+5. BIR FIREBALL - .....
+KANO
+────
+1. GROUND SLAM - блок, вниз, low punch
+2. SPINING BALL - вниз, назад, high punch
+3. SHAKE MIND - вперед, назад, high punch
+4. ENERGY BLADE - наз., блок,вперед,h.kick
+SONYA BLADE
+───────────
+1. FORCE PUNCH - вперед, назад, high punch
+2. RING TOSS - вниз, вперед, low punch
+3. LEG THROW - назад, вниз, high kick
+4. RISING BICYCLE KICK - вперед, вниз,
+                             вперед,h.kick
+JOHNY CAGE
+──────────
+1. STRING PUNCH - блок, вниз, low punch
+2. SHADOW KICK - назад, вперед, low kick
+3. SHADOW UPPERCUT -наз.,вниз,наз.,h.punch
+4. POWER BALL - назад,вниз, вперед,l.punch
+Скрытые бойцы.
+Для вызова скрытых бойцов в интрушке
+с  надписью  MORTAL KOMBAT  нужно  набрать
+кодовые слова:
+┌─┐
+│1│ WARAN - REPTILE
+│2│ DENER - DEN
+│3│ WIZARD - SHANG-TSUNG
+│4│ ZLAWONIC - SLY
+└─┘
+SLY
+───
+1. TELEPORT - назад, вниз, вниз
+2. TORNADO TWIST - вниз, вперед, вперед
+3. MORTAL KICK - вниз, блок, high punch
+4. BODY FREEZE - блок, вниз, low punch
+5. LIGHTING BALL - блок, назад, high punch
+DEN
+───
+1. LIGHT SHIELD - блок, вниз
+2. DEAD UPPERCUT - high punch, low punch
+3. FIRE BLADE - вперед, бниз, low punch
+4. MAGIC FLY - вниз, вперед, low kick
+SHANG-TSUNG
+───────────
+1. BALL OF FLAME - назад, назад, h.punch
+2. BODY ATTACK - назад, вперед, high punch
+3. GROUND FIRE - вперед, вниз, вниз,l.kick
+4. FIRE BODY ATTACK - .....
+REPTILE
+───────
+1. BALL OF GLASS - назад, назад, low punch
+2. DISAPPEARANCE - наз.,вниз,впер.,l.punch
+3. SLIDE - блок, вниз, low kick
+4. CRYSTAL BODY -блок, назад, low kick

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 222,
+  "magazine_name": "Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-03-30",
+  "order": 7,
+  "article_id": 11981,
+  "title_link": "Как написать в Oberon - Написать статью в \"ОБЕРОН\" очень просто!",
+  "title_h1": "Oberon 03 - Как написать в Oberon - Написать статью в \"ОБЕРОН\" очень просто!",
+  "print_url": "https://zxpress.ru/print.php?id=11981",
+  "article_url": "https://zxpress.ru/article.php?id=11981",
+  "fetched_at": "2026-05-31T23:14:31Z"
+}

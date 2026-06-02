@@ -1,0 +1,25 @@
+Magazines: 290
+Issues   : 1875
+Articles : 18481
+
+=== SUMMARY =================================
+❗ Issues mit fehlendem issue.json/listing.json/articles/: 0
+❗ Artikel mit fehlender meta.json/text.txt:           0
+⚠️  Issues mit Platzhalter-Datum (0000-01-01):         123
+⚠️  Leere/inkomplette Magazine:                        29
+
+Starte Audit-Zusammenfassung ...
+
+Audit-Ergebnisse:
+- problematische Magazine: 73
+- vollständige Audit-CSV: logs/health/audit_summary.csv
+- Problemfälle CSV:       logs/health/audit_problematic_magazines.csv
+- Problemfälle Log:       logs/health/audit_problematic_magazines.log
+- Audit-Konsole:          logs/health/audit_stdout.log
+
+Legende Audit:
+- validator_status: OK / OK+WARN / FEHLER / N/A
+- issues_zero_articles: Issues mit 0 Artikelordnern
+- issues_missing_articles_dir: Issues ohne articles/-Ordner
+- problem_reasons: konkrete Gründe für manuelle Sichtung
+Logs unter: logs/health

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "5.5",
+  "issue_date_iso": "1999-07-31",
+  "order": 4,
+  "article_id": 14365,
+  "title_link": "И еще один... - Небольшой проект реализация русского орфографического словаря для составления кроссвордов.",
+  "title_h1": "MSD 5.5 - И еще один... - Небольшой проект реализация русского орфографического словаря для составления кроссвордов.",
+  "print_url": "https://zxpress.ru/print.php?id=14365",
+  "article_url": "https://zxpress.ru/article.php?id=14365",
+  "fetched_at": "2026-05-31T22:28:32Z"
+}

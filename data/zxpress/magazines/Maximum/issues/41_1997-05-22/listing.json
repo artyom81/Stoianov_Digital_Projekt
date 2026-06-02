@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1324,
+    "article_url": "https://zxpress.ru/article.php?id=1324",
+    "print_url": "https://zxpress.ru/print.php?id=1324",
+    "title_link": "Версии - 2 версии игры: Double Dragon 2.",
+    "order": 1,
+    "issue_label": "41",
+    "short_slug": "Версии_-_2_версии_игры_Double_Dragon_2"
+  },
+  {
+    "article_id": 1322,
+    "article_url": "https://zxpress.ru/article.php?id=1322",
+    "print_url": "https://zxpress.ru/print.php?id=1322",
+    "title_link": "Вступление - Результаты опроса в этом номере.",
+    "order": 2,
+    "issue_label": "41",
+    "short_slug": "Вступление_-_Результаты_опроса_в_этом_номере"
+  },
+  {
+    "article_id": 1326,
+    "article_url": "https://zxpress.ru/article.php?id=1326",
+    "print_url": "https://zxpress.ru/print.php?id=1326",
+    "title_link": "Печатается с продолж. - Как ломаются полуоси (окончание, часть 3).",
+    "order": 3,
+    "issue_label": "41",
+    "short_slug": "Печатается_с_продолж_-_Как_ломаются_полуоси_окончание_часть"
+  },
+  {
+    "article_id": 1323,
+    "article_url": "https://zxpress.ru/article.php?id=1323",
+    "print_url": "https://zxpress.ru/print.php?id=1323",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "41",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1327,
+    "article_url": "https://zxpress.ru/article.php?id=1327",
+    "print_url": "https://zxpress.ru/print.php?id=1327",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 5,
+    "issue_label": "41",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 1325,
+    "article_url": "https://zxpress.ru/article.php?id=1325",
+    "print_url": "https://zxpress.ru/print.php?id=1325",
+    "title_link": "Сплошные приколы - Глас народа.",
+    "order": 6,
+    "issue_label": "41",
+    "short_slug": "Сплошные_приколы_-_Глас_народа"
+  }
+]

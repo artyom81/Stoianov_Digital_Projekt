@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 240,
+    "article_url": "https://zxpress.ru/article.php?id=240",
+    "print_url": "https://zxpress.ru/print.php?id=240",
+    "title_link": "Вступление - Вышел 45 номер газеты...",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "Вступление_-_Вышел_45_номер_газеты"
+  },
+  {
+    "article_id": 9777,
+    "article_url": "https://zxpress.ru/article.php?id=9777",
+    "print_url": "https://zxpress.ru/print.php?id=9777",
+    "title_link": "Интерактивные новости - О сайтах в Internet'е.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "Интерактивные_новости_-_О_саитах_в_Internetе"
+  },
+  {
+    "article_id": 241,
+    "article_url": "https://zxpress.ru/article.php?id=241",
+    "print_url": "https://zxpress.ru/print.php?id=241",
+    "title_link": "Интервью - Интервью с московским музыкантом KUNF.",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Интервью_-_Интервью_с_московским_музыкантом_KUNF"
+  },
+  {
+    "article_id": 242,
+    "article_url": "https://zxpress.ru/article.php?id=242",
+    "print_url": "https://zxpress.ru/print.php?id=242",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9775,
+    "article_url": "https://zxpress.ru/article.php?id=9775",
+    "print_url": "https://zxpress.ru/print.php?id=9775",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 9776,
+    "article_url": "https://zxpress.ru/article.php?id=9776",
+    "print_url": "https://zxpress.ru/print.php?id=9776",
+    "title_link": "Тест - Тест \"Кто вы - Обломов или Штирлиц\".",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "Тест_-_Тест_Кто_вы_-_Обломов_или_Штирлиц"
+  }
+]

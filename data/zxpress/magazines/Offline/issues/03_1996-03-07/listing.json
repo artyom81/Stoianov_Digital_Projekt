@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10222,
+    "article_url": "https://zxpress.ru/article.php?id=10222",
+    "print_url": "https://zxpress.ru/print.php?id=10222",
+    "title_link": "BBS News - новости Московских BBS.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "BBS_News_-_новости_Московских_BBS"
+  },
+  {
+    "article_id": 10223,
+    "article_url": "https://zxpress.ru/article.php?id=10223",
+    "print_url": "https://zxpress.ru/print.php?id=10223",
+    "title_link": "Опрос - лучша игра на спектруме - ZX-STAG.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Опрос_-_лучша_игра_на_спектруме_-_ZX-STAG"
+  },
+  {
+    "article_id": 10224,
+    "article_url": "https://zxpress.ru/article.php?id=10224",
+    "print_url": "https://zxpress.ru/print.php?id=10224",
+    "title_link": "Мертвые не потеют - бредни от Stalex'a.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Мертвые_не_потеют_-_бредни_от_Stalexa"
+  },
+  {
+    "article_id": 10225,
+    "article_url": "https://zxpress.ru/article.php?id=10225",
+    "print_url": "https://zxpress.ru/print.php?id=10225",
+    "title_link": "Мозамбик - реклама.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Мозамбик_-_реклама"
+  }
+]

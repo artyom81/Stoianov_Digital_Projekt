@@ -1,0 +1,452 @@
+[
+  {
+    "article_id": 10012,
+    "article_url": "https://zxpress.ru/article.php?id=10012",
+    "print_url": "https://zxpress.ru/print.php?id=10012",
+    "title_link": "От авторов - help: описание оболочки журнала.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_help_описание_оболочки_журнала"
+  },
+  {
+    "article_id": 10013,
+    "article_url": "https://zxpress.ru/article.php?id=10013",
+    "print_url": "https://zxpress.ru/print.php?id=10013",
+    "title_link": "От авторов - о содержании нового номера журнала.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_о_содержании_нового_номера_журнала"
+  },
+  {
+    "article_id": 10014,
+    "article_url": "https://zxpress.ru/article.php?id=10014",
+    "print_url": "https://zxpress.ru/print.php?id=10014",
+    "title_link": "От авторов - Forever young, или Спектрум в новом тысячелетии. Призыв Jam/XPJ к спасению журнала ZX Power.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_Forever_young_или_Спектрум_в_новом_тысячелетии"
+  },
+  {
+    "article_id": 10015,
+    "article_url": "https://zxpress.ru/article.php?id=10015",
+    "print_url": "https://zxpress.ru/print.php?id=10015",
+    "title_link": "От авторов - авторы журнала.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_авторы_журнала"
+  },
+  {
+    "article_id": 10016,
+    "article_url": "https://zxpress.ru/article.php?id=10016",
+    "print_url": "https://zxpress.ru/print.php?id=10016",
+    "title_link": "Презентация - новая игра от Studio Stall - Открывашка.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_новая_игра_от_Studio_Stall_-_Открывашка"
+  },
+  {
+    "article_id": 10017,
+    "article_url": "https://zxpress.ru/article.php?id=10017",
+    "print_url": "https://zxpress.ru/print.php?id=10017",
+    "title_link": "Презентация - новый редактор шрифтов Hewly Font Editor.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_новыи_редактор_шрифтов_Hewly_Font_Editor"
+  },
+  {
+    "article_id": 10018,
+    "article_url": "https://zxpress.ru/article.php?id=10018",
+    "print_url": "https://zxpress.ru/print.php?id=10018",
+    "title_link": "Презентация - новая версия музыкального редактора Sound Tracker Pro.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_новая_версия_музыкального_редактора_Sound_Trac"
+  },
+  {
+    "article_id": 10019,
+    "article_url": "https://zxpress.ru/article.php?id=10019",
+    "print_url": "https://zxpress.ru/print.php?id=10019",
+    "title_link": "Презентация - программа для оптимизации черно-белых картинок сконверченных с PC.",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_программа_для_оптимизации_черно-белых_картинок"
+  },
+  {
+    "article_id": 10020,
+    "article_url": "https://zxpress.ru/article.php?id=10020",
+    "print_url": "https://zxpress.ru/print.php?id=10020",
+    "title_link": "Презентация - редактор ASCII графики для каталогов в TR-DOS.",
+    "order": 9,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_редактор_ASCII_графики_для_каталогов_в_TR-DOS"
+  },
+  {
+    "article_id": 10021,
+    "article_url": "https://zxpress.ru/article.php?id=10021",
+    "print_url": "https://zxpress.ru/print.php?id=10021",
+    "title_link": "Презентация - \"Bard's Tale Merger Programm\" - программа для работы с отгрузками из игры Bard's Tale.",
+    "order": 10,
+    "issue_label": "13",
+    "short_slug": "Презентация_-_Bards_Tale_Merger_Programm_-_программа_для_раб"
+  },
+  {
+    "article_id": 10022,
+    "article_url": "https://zxpress.ru/article.php?id=10022",
+    "print_url": "https://zxpress.ru/print.php?id=10022",
+    "title_link": "Интерфейс - Новости от: Placebo, Brain-\r\nwave, Phantom Family, Volga Soft, Studio Stall, Gogin, Anarchia, Image Crew, Hackerz' Design Software, Петерс+, Fatal Snipe, Ellipse.",
+    "order": 11,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_Новости_от_Placebo_Brain-wave_Phantom_Family_Vol"
+  },
+  {
+    "article_id": 10023,
+    "article_url": "https://zxpress.ru/article.php?id=10023",
+    "print_url": "https://zxpress.ru/print.php?id=10023",
+    "title_link": "Интерфейс - посмотрим какие тусни намечаются для спекки\r\nфриков втечение года: Forever 3, ASCII^02, 2nd International \r\n Sinclair Sam days, Millenium 1902, Twilight Demoparty 2002, Syndeecate Demoparty 2002, Paradox 2002, CaFe 2002, Chaos Constructions 2002.",
+    "order": 12,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_посмотрим_какие_тусни_намечаются_для_спеккифрико"
+  },
+  {
+    "article_id": 10024,
+    "article_url": "https://zxpress.ru/article.php?id=10024",
+    "print_url": "https://zxpress.ru/print.php?id=10024",
+    "title_link": "Интерфейс - письма читалей: NoViSeT/Brutal Creators, Di/LSg, Moroz1999, Shame/Madness Technology, Cannibal/Techno Lab.",
+    "order": 13,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_письма_читалеи_NoViSeTBrutal_Creators_DiLSg_Moro"
+  },
+  {
+    "article_id": 10025,
+    "article_url": "https://zxpress.ru/article.php?id=10025",
+    "print_url": "https://zxpress.ru/print.php?id=10025",
+    "title_link": "Интерфейс - \"за базар ответишь!\" русский язык настолько\r\n\"велик и могуч\", что грамотно пользоваться им, к сожалению, дано далеко не всем.",
+    "order": 14,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_за_базар_ответишь_русскии_язык_настольковелик_и"
+  },
+  {
+    "article_id": 10026,
+    "article_url": "https://zxpress.ru/article.php?id=10026",
+    "print_url": "https://zxpress.ru/print.php?id=10026",
+    "title_link": "Интерфейс - обзор Windows подобных оболочек и систем на ZX Spectrum.",
+    "order": 15,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_обзор_Windows_подобных_оболочек_и_систем_на_ZX_S"
+  },
+  {
+    "article_id": 10027,
+    "article_url": "https://zxpress.ru/article.php?id=10027",
+    "print_url": "https://zxpress.ru/print.php?id=10027",
+    "title_link": "Интерфейс - Город Дзержинск и его СПЕКТРУМовские обитатели.",
+    "order": 16,
+    "issue_label": "13",
+    "short_slug": "Интерфеис_-_Город_Дзержинск_и_его_СПЕКТРУМовские_обитатели"
+  },
+  {
+    "article_id": 10028,
+    "article_url": "https://zxpress.ru/article.php?id=10028",
+    "print_url": "https://zxpress.ru/print.php?id=10028",
+    "title_link": "Обмен опытом - Как написать 3D игру типа DOOM.",
+    "order": 17,
+    "issue_label": "13",
+    "short_slug": "Обмен_опытом_-_Как_написать_3D_игру_типа_DOOM"
+  },
+  {
+    "article_id": 10029,
+    "article_url": "https://zxpress.ru/article.php?id=10029",
+    "print_url": "https://zxpress.ru/print.php?id=10029",
+    "title_link": "Обмен опытом - Метод Floyd-Steinberg для конвертации картинок из большего\r\nчисла цветов в меньший.",
+    "order": 18,
+    "issue_label": "13",
+    "short_slug": "Обмен_опытом_-_Метод_Floyd-Steinberg_для_конвертации_картино"
+  },
+  {
+    "article_id": 10030,
+    "article_url": "https://zxpress.ru/article.php?id=10030",
+    "print_url": "https://zxpress.ru/print.php?id=10030",
+    "title_link": "Обмен опытом - ненаучный алгоритм получения Случайных Чисел (RND).",
+    "order": 19,
+    "issue_label": "13",
+    "short_slug": "Обмен_опытом_-_ненаучныи_алгоритм_получения_Случаиных_Чисел"
+  },
+  {
+    "article_id": 10031,
+    "article_url": "https://zxpress.ru/article.php?id=10031",
+    "print_url": "https://zxpress.ru/print.php?id=10031",
+    "title_link": "Обмен опытом - прямое программирование General Sound.",
+    "order": 20,
+    "issue_label": "13",
+    "short_slug": "Обмен_опытом_-_прямое_программирование_General_Sound"
+  },
+  {
+    "article_id": 10032,
+    "article_url": "https://zxpress.ru/article.php?id=10032",
+    "print_url": "https://zxpress.ru/print.php?id=10032",
+    "title_link": "Обмен опытом - работа с западными дисковыми системами MDOS и MD02.",
+    "order": 21,
+    "issue_label": "13",
+    "short_slug": "Обмен_опытом_-_работа_с_западными_дисковыми_системами_MDOS_и"
+  },
+  {
+    "article_id": 10033,
+    "article_url": "https://zxpress.ru/article.php?id=10033",
+    "print_url": "https://zxpress.ru/print.php?id=10033",
+    "title_link": "Chaos Construction 2001 - интервью с Raid.",
+    "order": 22,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Raid"
+  },
+  {
+    "article_id": 10034,
+    "article_url": "https://zxpress.ru/article.php?id=10034",
+    "print_url": "https://zxpress.ru/print.php?id=10034",
+    "title_link": "Chaos Construction 2001 - интервью с Stanly/Studio Stall.",
+    "order": 23,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_StanlyStudio_Stall"
+  },
+  {
+    "article_id": 10035,
+    "article_url": "https://zxpress.ru/article.php?id=10035",
+    "print_url": "https://zxpress.ru/print.php?id=10035",
+    "title_link": "Chaos Construction 2001 - интервью с Gogin (Hacker Smir).",
+    "order": 24,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Gogin_Hacker_Smir"
+  },
+  {
+    "article_id": 10036,
+    "article_url": "https://zxpress.ru/article.php?id=10036",
+    "print_url": "https://zxpress.ru/print.php?id=10036",
+    "title_link": "Chaos Construction 2001 - интервью с Constellation Team: Screamer, Kot, Justinas.",
+    "order": 25,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Constellation_Team_Scre"
+  },
+  {
+    "article_id": 10037,
+    "article_url": "https://zxpress.ru/article.php?id=10037",
+    "print_url": "https://zxpress.ru/print.php?id=10037",
+    "title_link": "Chaos Construction 2001 - интервью с EYE-Q: Organism, Time Keeper, Mr. Wizard.",
+    "order": 26,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_EYE-Q_Organism_Time_Kee"
+  },
+  {
+    "article_id": 10038,
+    "article_url": "https://zxpress.ru/article.php?id=10038",
+    "print_url": "https://zxpress.ru/print.php?id=10038",
+    "title_link": "Chaos Construction 2001 - интервью с Justionas/Constellation.",
+    "order": 27,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_JustionasConstellation"
+  },
+  {
+    "article_id": 10039,
+    "article_url": "https://zxpress.ru/article.php?id=10039",
+    "print_url": "https://zxpress.ru/print.php?id=10039",
+    "title_link": "Chaos Construction 2001 - интервью с московским кодером Asman/Proxium.",
+    "order": 28,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_московским_кодером_Asma"
+  },
+  {
+    "article_id": 10040,
+    "article_url": "https://zxpress.ru/article.php?id=10040",
+    "print_url": "https://zxpress.ru/print.php?id=10040",
+    "title_link": "Chaos Construction 2001 - интевью с Vivid, Megus, Tiggr из Brain-Wave.",
+    "order": 29,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интевью_с_Vivid_Megus_Tiggr_из_Bra"
+  },
+  {
+    "article_id": 10041,
+    "article_url": "https://zxpress.ru/article.php?id=10041",
+    "print_url": "https://zxpress.ru/print.php?id=10041",
+    "title_link": "Chaos Construction 2001 - интервью с Stingrey и Steep из Ижевска.",
+    "order": 30,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Stingrey_и_Steep_из_Иже"
+  },
+  {
+    "article_id": 10042,
+    "article_url": "https://zxpress.ru/article.php?id=10042",
+    "print_url": "https://zxpress.ru/print.php?id=10042",
+    "title_link": "Chaos Construction 2001 - интервью с амижником и организатором CC - Big Black.",
+    "order": 31,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_амижником_и_организатор"
+  },
+  {
+    "article_id": 10043,
+    "article_url": "https://zxpress.ru/article.php?id=10043",
+    "print_url": "https://zxpress.ru/print.php?id=10043",
+    "title_link": "Chaos Construction 2001 - интервью с кодером из Ульяновска Faster/TNL.",
+    "order": 32,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_кодером_из_Ульяновска_F"
+  },
+  {
+    "article_id": 10044,
+    "article_url": "https://zxpress.ru/article.php?id=10044",
+    "print_url": "https://zxpress.ru/print.php?id=10044",
+    "title_link": "Chaos Construction 2001 - интервью с Cyberfreak (mooh).",
+    "order": 33,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Cyberfreak_mooh"
+  },
+  {
+    "article_id": 10045,
+    "article_url": "https://zxpress.ru/article.php?id=10045",
+    "print_url": "https://zxpress.ru/print.php?id=10045",
+    "title_link": "Chaos Construction 2001 - интервью с минским спектрумистом Equator/PHD.",
+    "order": 34,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_минским_спектрумистом_E"
+  },
+  {
+    "article_id": 10046,
+    "article_url": "https://zxpress.ru/article.php?id=10046",
+    "print_url": "https://zxpress.ru/print.php?id=10046",
+    "title_link": "Chaos Construction 2001 - мини интервью с Kano.",
+    "order": 35,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_мини_интервью_с_Kano"
+  },
+  {
+    "article_id": 10047,
+    "article_url": "https://zxpress.ru/article.php?id=10047",
+    "print_url": "https://zxpress.ru/print.php?id=10047",
+    "title_link": "Chaos Construction 2001 - эпический спор: Vivid VS Sairoos, Chanks VS Multicolor, Dogma VS Triptomine Dream.",
+    "order": 36,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_эпическии_спор_Vivid_VS_Sairoos_Ch"
+  },
+  {
+    "article_id": 10048,
+    "article_url": "https://zxpress.ru/article.php?id=10048",
+    "print_url": "https://zxpress.ru/print.php?id=10048",
+    "title_link": "Chaos Construction 2001 - интервью с Maddy и Drv53b6 из Phantom Family.",
+    "order": 37,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Maddy_и_Drv53b6_из_Phan"
+  },
+  {
+    "article_id": 10049,
+    "article_url": "https://zxpress.ru/article.php?id=10049",
+    "print_url": "https://zxpress.ru/print.php?id=10049",
+    "title_link": "Chaos Construction 2001 - интервью с Paracels и Sairoos из Placebo.",
+    "order": 38,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Paracels_и_Sairoos_из_P"
+  },
+  {
+    "article_id": 10050,
+    "article_url": "https://zxpress.ru/article.php?id=10050",
+    "print_url": "https://zxpress.ru/print.php?id=10050",
+    "title_link": "Chaos Construction 2001 - интервью с Pheel и EA из Antares.",
+    "order": 39,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_интервью_с_Pheel_и_EA_из_Antares"
+  },
+  {
+    "article_id": 10051,
+    "article_url": "https://zxpress.ru/article.php?id=10051",
+    "print_url": "https://zxpress.ru/print.php?id=10051",
+    "title_link": "Chaos Construction 2001 - продолжение эпического спора между мегакодерами Vivid и Sairoos.",
+    "order": 40,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_продолжение_эпического_спора_между"
+  },
+  {
+    "article_id": 10061,
+    "article_url": "https://zxpress.ru/article.php?id=10061",
+    "print_url": "https://zxpress.ru/print.php?id=10061",
+    "title_link": "Chaos Construction 2001 - подробный репортаж от CPU.",
+    "order": 41,
+    "issue_label": "13",
+    "short_slug": "Chaos_Construction_2001_-_подробныи_репортаж_от_CPU"
+  },
+  {
+    "article_id": 10052,
+    "article_url": "https://zxpress.ru/article.php?id=10052",
+    "print_url": "https://zxpress.ru/print.php?id=10052",
+    "title_link": "Раскрутка - Еще одна разрушенная мечта или описания \"500 игр\" - где правда, а где ложь.",
+    "order": 42,
+    "issue_label": "13",
+    "short_slug": "Раскрутка_-_Еще_одна_разрушенная_мечта_или_описания_500_игр"
+  },
+  {
+    "article_id": 10053,
+    "article_url": "https://zxpress.ru/article.php?id=10053",
+    "print_url": "https://zxpress.ru/print.php?id=10053",
+    "title_link": "Раскрутка - история создателей игры Star Glider 2 - Steven dunn/Software developement and design.",
+    "order": 43,
+    "issue_label": "13",
+    "short_slug": "Раскрутка_-_история_создателеи_игры_Star_Glider_2_-_Steven_d"
+  },
+  {
+    "article_id": 10054,
+    "article_url": "https://zxpress.ru/article.php?id=10054",
+    "print_url": "https://zxpress.ru/print.php?id=10054",
+    "title_link": "Раскрутка - Диззи в подземелье или Омлет опять не получился: новелла по игре Dizzy Unterground.",
+    "order": 44,
+    "issue_label": "13",
+    "short_slug": "Раскрутка_-_Диззи_в_подземелье_или_Омлет_опять_не_получился"
+  },
+  {
+    "article_id": 10055,
+    "article_url": "https://zxpress.ru/article.php?id=10055",
+    "print_url": "https://zxpress.ru/print.php?id=10055",
+    "title_link": "Раскрутка - описание игры \"Talisman\" - RPG с элементами аркады.",
+    "order": 45,
+    "issue_label": "13",
+    "short_slug": "Раскрутка_-_описание_игры_Talisman_-_RPG_с_элементами_аркады"
+  },
+  {
+    "article_id": 10056,
+    "article_url": "https://zxpress.ru/article.php?id=10056",
+    "print_url": "https://zxpress.ru/print.php?id=10056",
+    "title_link": "Железо - доработанная схема IDE-HDD адаптера.",
+    "order": 46,
+    "issue_label": "13",
+    "short_slug": "Железо_-_доработанная_схема_IDE-HDD_адаптера"
+  },
+  {
+    "article_id": 10057,
+    "article_url": "https://zxpress.ru/article.php?id=10057",
+    "print_url": "https://zxpress.ru/print.php?id=10057",
+    "title_link": "Оттяг - чиста оттяг: детская самодельная газета \"Птичке Кар-Кар\".",
+    "order": 47,
+    "issue_label": "13",
+    "short_slug": "Оттяг_-_чиста_оттяг_детская_самодельная_газета_Птичке_Кар-Ка"
+  },
+  {
+    "article_id": 10058,
+    "article_url": "https://zxpress.ru/article.php?id=10058",
+    "print_url": "https://zxpress.ru/print.php?id=10058",
+    "title_link": "Оттяг - intro: Не будем тянуть кота за яйца и начнем с прогона...",
+    "order": 48,
+    "issue_label": "13",
+    "short_slug": "Оттяг_-_intro_Не_будем_тянуть_кота_за_яица_и_начнем_с_прогон"
+  },
+  {
+    "article_id": 10059,
+    "article_url": "https://zxpress.ru/article.php?id=10059",
+    "print_url": "https://zxpress.ru/print.php?id=10059",
+    "title_link": "Оттяг - Army Suxx или Как закосить от армии, если ты полностью здоров.",
+    "order": 49,
+    "issue_label": "13",
+    "short_slug": "Оттяг_-_Army_Suxx_или_Как_закосить_от_армии_если_ты_полность"
+  },
+  {
+    "article_id": 10060,
+    "article_url": "https://zxpress.ru/article.php?id=10060",
+    "print_url": "https://zxpress.ru/print.php?id=10060",
+    "title_link": "Оттяг - глубины сумрачного мировосприятия Максима\r\nМагнетика...",
+    "order": 50,
+    "issue_label": "13",
+    "short_slug": "Оттяг_-_глубины_сумрачного_мировосприятия_МаксимаМагнетика"
+  }
+]

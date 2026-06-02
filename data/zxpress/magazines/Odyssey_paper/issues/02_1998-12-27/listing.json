@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9602,
+    "article_url": "https://zxpress.ru/article.php?id=9602",
+    "print_url": "https://zxpress.ru/print.php?id=9602",
+    "title_link": "От авторов - единственная версия журнала Odyssey #3 была утеряна.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "От_авторов_-_единственная_версия_журнала_Odyssey_3_была_утер"
+  },
+  {
+    "article_id": 9603,
+    "article_url": "https://zxpress.ru/article.php?id=9603",
+    "print_url": "https://zxpress.ru/print.php?id=9603",
+    "title_link": "Consul'97 - глобальный отчет Phantom Lord с Сочинской тусовки.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Consul97_-_глобальныи_отчет_Phantom_Lord_с_Сочинскои_тусовки"
+  },
+  {
+    "article_id": 9604,
+    "article_url": "https://zxpress.ru/article.php?id=9604",
+    "print_url": "https://zxpress.ru/print.php?id=9604",
+    "title_link": "Consul'97 - отчет о Сочинской тусовке от Cardinal/Accept corp.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Consul97_-_отчет_о_Сочинскои_тусовке_от_CardinalAccept_corp"
+  },
+  {
+    "article_id": 9605,
+    "article_url": "https://zxpress.ru/article.php?id=9605",
+    "print_url": "https://zxpress.ru/print.php?id=9605",
+    "title_link": "Эпилог - контакты редакции газеты.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Эпилог_-_контакты_редакции_газеты"
+  }
+]

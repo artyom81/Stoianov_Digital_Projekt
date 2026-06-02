@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 2806,
+    "article_url": "https://zxpress.ru/article.php?id=2806",
+    "print_url": "https://zxpress.ru/print.php?id=2806",
+    "title_link": "Железо - General Vision - расширенные графические возможности.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Железо_-_General_Vision_-_расширенные_графические_возможност"
+  },
+  {
+    "article_id": 2807,
+    "article_url": "https://zxpress.ru/article.php?id=2807",
+    "print_url": "https://zxpress.ru/print.php?id=2807",
+    "title_link": "Конкурс - Долгожданные итоги конкурса по игре НЛО-2.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Конкурс_-_Долгожданные_итоги_конкурса_по_игре_НЛО-2"
+  },
+  {
+    "article_id": 2804,
+    "article_url": "https://zxpress.ru/article.php?id=2804",
+    "print_url": "https://zxpress.ru/print.php?id=2804",
+    "title_link": "О людях... - О истории создания и планах Virt group.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "О_людях_-_О_истории_создания_и_планах_Virt_group"
+  },
+  {
+    "article_id": 2801,
+    "article_url": "https://zxpress.ru/article.php?id=2801",
+    "print_url": "https://zxpress.ru/print.php?id=2801",
+    "title_link": "От авторов - О временном прекращении выхода газеты.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "От_авторов_-_О_временном_прекращении_выхода_газеты"
+  },
+  {
+    "article_id": 2803,
+    "article_url": "https://zxpress.ru/article.php?id=2803",
+    "print_url": "https://zxpress.ru/print.php?id=2803",
+    "title_link": "Ошибочки - Правильная ! Схема подключения Covox'а к Скорпиону.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Ошибочки_-_Правильная_Схема_подключения_Covoxа_к_Скорпиону"
+  },
+  {
+    "article_id": 2805,
+    "article_url": "https://zxpress.ru/article.php?id=2805",
+    "print_url": "https://zxpress.ru/print.php?id=2805",
+    "title_link": "Письма - Размышления о недостатках клавиатуры Спектрума.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Письма_-_Размышления_о_недостатках_клавиатуры_Спектрума"
+  },
+  {
+    "article_id": 2808,
+    "article_url": "https://zxpress.ru/article.php?id=2808",
+    "print_url": "https://zxpress.ru/print.php?id=2808",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2802,
+    "article_url": "https://zxpress.ru/article.php?id=2802",
+    "print_url": "https://zxpress.ru/print.php?id=2802",
+    "title_link": "Сетевые новости - О первом собраньи Операторов сети SPbZXNet.",
+    "order": 8,
+    "issue_label": "18",
+    "short_slug": "Сетевые_новости_-_О_первом_собраньи_Операторов_сети_SPbZXNet"
+  }
+]

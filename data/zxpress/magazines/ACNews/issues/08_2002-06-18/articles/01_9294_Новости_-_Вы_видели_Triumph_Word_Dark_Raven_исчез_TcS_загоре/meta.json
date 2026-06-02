@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "2002-06-18",
+  "order": 1,
+  "article_id": 9294,
+  "title_link": "Новости - Вы видели Triumph Word? Dark Raven исчез, T(c)S загорелся идеей написать просмотрщик HTML, Приезжал Dissonator, Ldir вошёл в состав Invaders.",
+  "title_h1": "ACNews 08 - Новости - Вы видели Triumph Word? Dark Raven исчез, T(c)S загорелся идеей написать просмотрщик HTML, Приезжал Dissonator, Ldir вошёл в состав Invaders.",
+  "print_url": "https://zxpress.ru/print.php?id=9294",
+  "article_url": "https://zxpress.ru/article.php?id=9294",
+  "fetched_at": "2026-05-31T21:30:19Z"
+}

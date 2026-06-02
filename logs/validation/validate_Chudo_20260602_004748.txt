@@ -1,0 +1,6 @@
+  Magazin: Chudo
+
+✅ Validierung: OK - Chudo
+   (mit Warnungen)
+  - [Issue #02] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 1 | Artikel gesamt: 9

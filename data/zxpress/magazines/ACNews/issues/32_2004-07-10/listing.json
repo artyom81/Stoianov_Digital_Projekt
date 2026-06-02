@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 10065,
+    "article_url": "https://zxpress.ru/article.php?id=10065",
+    "print_url": "https://zxpress.ru/print.php?id=10065",
+    "title_link": "News - John сейчас находится в Казани. Firestarter прислал чудовищную гору софта на CD. Alco прошёл новые 10 уровней к Чёрному Ворону.",
+    "order": 1,
+    "issue_label": "32",
+    "short_slug": "News_-_John_сеичас_находится_в_Казани_Firestarter_прислал_чу"
+  },
+  {
+    "article_id": 10066,
+    "article_url": "https://zxpress.ru/article.php?id=10066",
+    "print_url": "https://zxpress.ru/print.php?id=10066",
+    "title_link": "Железо - до дикости простой вариант схемы 384x304 с программным переключением.",
+    "order": 2,
+    "issue_label": "32",
+    "short_slug": "Железо_-_до_дикости_простои_вариант_схемы_384x304_с_программ"
+  },
+  {
+    "article_id": 10067,
+    "article_url": "https://zxpress.ru/article.php?id=10067",
+    "print_url": "https://zxpress.ru/print.php?id=10067",
+    "title_link": "Contacts - А вы знаете,что дискета 5,25\" весит 1.5 - 2 грамма?",
+    "order": 3,
+    "issue_label": "32",
+    "short_slug": "Contacts_-_А_вы_знаетечто_дискета_525_весит_15_-_2_грамма"
+  }
+]

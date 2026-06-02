@@ -1,0 +1,150 @@
+Subliminal Extacy 03 - Is C64 Better Than Speccy?
+Is C64 Better Than Speccy?
+
+                           by Factorб
+
+That's THE question. Just about every Speccy man says:"It isn't!
+What crap! C64 suxx!"  Yes, C64 was made  in the same year  like
+Speccy, in  1982 by  Commodore Business  Machines. Its "father" 
+- like Speccy's Sir Clive is Sam Tramiel (who left CBM then  for
+Atari).  CBM  had to  make  a concurrent  product  to Sinclair's
+Spectrum. It was  a successful turn,  a C64 was  very popular as
+much as Speccy  was.  Quite every  game which exists  on Speccy,
+exists on C64.
+
+Now, in 2000,  it's a PC era. Everybody has  next to their 8-bit
+computer some  Pentium. Shit, but PC helps  a lot with Internet,
+data storage,  gfx converting,  etc. There  is the  scene. Every
+computer has  its  own  subscene. Speccy,   C64, ... Amiga,  PC.
+Basically, C64  has  a  much bigger  scene than   Speccy. It's a
+fact.  It's  the  most  widespread  8-bit  computer  in  Western
+Europe. The  C64 scene  exists also  in the  U.S. and Australia.
+
+What  about Speccy?  Poor scene  in England,  Middle Europe  and
+quite big in Russia. Not outside of Europe. Do you know any  non
+-European demo group? Me neither.
+
+Why? The C64 is better?  Hmm, let's compare some technical data:
+
+          C64                   Speccy                          
+----------------------------------------------------------------
+Processor 6510 @ 0.9MHz ;-)     Z80A @ 3.SMHz (wow!)            
+RAM       64K                   128K (wow!)                     
+Graphics  320x200 1бcolors,     256x192 8colors+bright,attibutes
+          attributes            no gfx hardware :-/             
+          160x200 1бcolors,                                     
+          multicolor                                            
+          gfx hardware for                                      
+          sprites, smooth                                       
+          scroll, etc.                                          
+          (gfx chip @ 17MHz)                                    
+Sound     SID (Зchn, 8oct,      AY (Зchn, 8oct, one type of     
+          instrument synth)     tone)                           
+          (it rulez!) 
+                                          
+          C64                   Speccy                          
+----------------------------------------------------------------
+Speed     slow without using    faster than C64 without using   
+          gfx hw                gfx wh ;-)                      
+Disk      original Commodore    various - much faster than C64  
+          vvverrry sllowww :/                                   
+          IDEбЧ, max.8GB        HDD IDE, better specifications
+
+
+So,  the  Spectrum  wins just  about in  every category.  C64 is
+better in gfx, but when you  don't count a special gfx chip  for
+hardware sprites,  scrolling and  so on,  the faster  machine is
+Speccy.  As  an  example,  look  at  the  game  R-Type  on  both
+computers. What a cool game on Speccy!  All the levels from  the
+original  arcade  machine,  super  playability,  everything   is
+moving. But the movement is ensured by attributes, because of an
+attribute colour collision fault. On C64 it's crap. It's smooth,
+fast, with music, but there is a lack of levels, it's in 160x200
+(classic C64 "gaming" video mode). Some sprites don't move, some
+monsters are so crappy.. You must laugh when you know the Speccy
+version :-) In this way Spectrum won. Another game: Turrican II.
+On Spectrum an attribute gfx, everything looks rather comic.  No
+in-game music, the playability is low. On C64 it's a really good
+game. Very  nice sprites  in 160x200  mode, everything  is fast,
+smooth and  colourful. Ok,  the game  comparison is  about fifty
+-fifty (There  are good  and bad  games and  conversions on both
+computers).
+
+Now, some applications.  Fore example, Art  Studio, which is  on
+both computers. On  Speccy (the original)  it's nearly the  best
+gfx editor. Cool, fast, nice user interface, easy to use. On the
+C64  there are  two versions.  One is  identical to  the Speccy
+version. It's in 320x200 and uses attribute gfx. The second (Art
+Studio II) is  in 160x200,  you  can draw multicolour  pics. The
+main thing you notice is  that both C64 versions are  sllooww as
+hell.  It's caused  by the  main processor's  timing. 0.9MHz  is
+really -not much- :-0 So the Spectrum wins.
+
+Demos. On  Spectrum, often  used is  a monochrome  dithered gfx,
+some  effects are  really in  real time.  For example  Extreme's
+REFRESH. Nice  demo with  lots of  dithered realtime  3D objects
+which are "in"  nowadays. The AY  sounds nicely playing  a weird
+techno  tune.  C64  demos are  also  superb.  Colourful effects,
+vectors, attribute plasmas... But many effects are precalculated
+(because of that "speedy" processor). The SID sounds really cool
+and it's one  of the better  things of the  C64. Take a  look at
+Byterapers' demo Unsound Minds.  Many effects were firstly  done
+on C64 and then used in demos on Speccy, e.g. attribute  plasmas
+were on C64 somewhere in 1992. We can say, the Speccyers  "copy"
+old C64 effects. It isn't 100% true, of course :-) So, let's say
+C64 won in demos.
+
+Storage. A special category I  need here. The Speccy hasn't  got
+it's  own  disk system  as  the C64  has.  There are  +Ds,  Opus
+Discoverys,  MBO2s, D40/80s,  Betadisks, but  none of  them are
+standards (except Betadisk, but it's Russian :-) don't count  on
+it now) A different system - different options. What can you  do
+with one, you can't do the same thing with another disk  system.
+So there is a big mess on the Spectrum's side. The C64 has  from
+the beginning  had its  own disk  system -  The 1541 disk drive.
+It's  5,25"  single  sided   !damn!  slow  system  with   crappy
+filesystem. Loading of  fucking 5OKB takes  about 2 minutes  (!)
+using system DOS. The demos use their own turbo loading routines
+to break this handycap. You can use a turbo routine installed in
+a ROM cartridge, so there's  not a problem. It can  do something
+while loading, play music, use gfx chips. It's quite good.  It's
+the  one and  only system,  everyone owns  it, so  some special
+loading problems or other is unknown here.
+
+There are also harddisks. On Speccy an IDE interface by PVL  and
+Tritolsoft, which is very powerful in connection with an  MBO2+.
+It's still in development, but it rocks! Tritol has connected  a
+CD-ROM and a CDRW drive (!)  to it successfully. On 64 -  I know
+about one interface called IDEбЧ.  As I read about it,  it's not
+so fast,  has limited  FAT, limited  size (8GB)  of drive.  So I
+think Speccy wins again!
+
+Sound. AY vs  SID. The C64's  SID (Sound Interface  Device) is a
+really lovely thing and there  are over 12,000 tunes for  it. AY
+is a really good sound chip, but it doesn't reach the quality of
+SID. There are lot of tunes available for it, but SID wins.
+
+Scene. On Speccy there is  a big lack of demogroups.  Yes, there
+are lots of  them in ex-ussr,  but in Europe?  Let's count: Raww
+Arse, Hooy-Prg, KЗL (they do nothing), ESA (dead at this  time),
+... insert the rest I forgot here. On the C64, there are lots of
+groups,  really   lots.  Scandinavia,   Denmark,  Germany,   The
+Netherlands,  France,  Poland...  They are  active  and  they do
+demos, diskmags, musicdisks  and so on.  In this case,  C64 wins
+and Speccy plays the role of an outsider. Please, don't slap  me
+if I forgot  the diskmags written  in russian language.  I don't
+count them because they are unreadable by most of people outside
+of ex-ussr states. So C64 wins in this case.
+
+So, the result  of our "non-official-quite-lame-comparison"  is:
+C64 is as good as Spectrum  :-) In some cases Speccy is  better,
+in others, C64 is better.
+
+So, let's keep 8-bits alive (...'til they are, because the scene
+is the  main thing  which keeps  them above  the water surface).
+Don't say  "my type  of computer  is better  than yours",  don't
+start the forgotten "cold war" between 8-bit users ;-)
+
+c ya
+
+Factorб

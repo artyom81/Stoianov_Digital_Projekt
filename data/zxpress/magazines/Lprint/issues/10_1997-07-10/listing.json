@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 12425,
+    "article_url": "https://zxpress.ru/article.php?id=12425",
+    "print_url": "https://zxpress.ru/print.php?id=12425",
+    "title_link": "Вступление - Маленький юбилей - 10 выпуск...\r\n Новая оболочка у газеты.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Вступление_-_Маленькии_юбилеи_-_10_выпуск_Новая_оболочка_у_г"
+  },
+  {
+    "article_id": 12426,
+    "article_url": "https://zxpress.ru/article.php?id=12426",
+    "print_url": "https://zxpress.ru/print.php?id=12426",
+    "title_link": "Письма - ZX-SPECTRUM - настоящее и будущее.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Письма_-_ZX-SPECTRUM_-_настоящее_и_будущее"
+  },
+  {
+    "article_id": 12427,
+    "article_url": "https://zxpress.ru/article.php?id=12427",
+    "print_url": "https://zxpress.ru/print.php?id=12427",
+    "title_link": "Взгляд назад - О развитии компьютеров в конце 50-х годов.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Взгляд_назад_-_О_развитии_компьютеров_в_конце_50-х_годов"
+  },
+  {
+    "article_id": 12428,
+    "article_url": "https://zxpress.ru/article.php?id=12428",
+    "print_url": "https://zxpress.ru/print.php?id=12428",
+    "title_link": "Новости - Новье из Браста можно больше не ждать.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Новости_-_Новье_из_Браста_можно_больше_не_ждать"
+  },
+  {
+    "article_id": 12429,
+    "article_url": "https://zxpress.ru/article.php?id=12429",
+    "print_url": "https://zxpress.ru/print.php?id=12429",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

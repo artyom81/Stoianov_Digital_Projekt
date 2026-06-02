@@ -1,0 +1,15 @@
+{
+  "magazine_id": 109,
+  "magazine_name": "Last 128",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "2002-01-01",
+  "order": 7,
+  "article_id": 15274,
+  "title_link": "Тестик - для разнообразия.",
+  "title_h1": "Last 128 05 - Тестик - для разнообразия.",
+  "print_url": "https://zxpress.ru/print.php?id=15274",
+  "article_url": "https://zxpress.ru/article.php?id=15274",
+  "fetched_at": "2026-05-31T22:18:29Z"
+}

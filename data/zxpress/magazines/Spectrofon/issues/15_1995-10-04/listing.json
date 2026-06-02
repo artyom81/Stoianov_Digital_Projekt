@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 4567,
+    "article_url": "https://zxpress.ru/article.php?id=4567",
+    "print_url": "https://zxpress.ru/print.php?id=4567",
+    "title_link": "Экспертиза - разбор уникальной игры \"Captain Blood\", представляющей из \r\nсебя сплав космического квеста и детектива.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "Экспертиза_-_разбор_уникальнои_игры_Captain_Blood_представля"
+  },
+  {
+    "article_id": 4568,
+    "article_url": "https://zxpress.ru/article.php?id=4568",
+    "print_url": "https://zxpress.ru/print.php?id=4568",
+    "title_link": "Дебют - описание интересной и \r\nнесложной графической адвентюры \"Sidewalk\".",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Дебют_-_описание_интереснои_и_несложнои_графическои_адвентюр"
+  },
+  {
+    "article_id": 4569,
+    "article_url": "https://zxpress.ru/article.php?id=4569",
+    "print_url": "https://zxpress.ru/print.php?id=4569",
+    "title_link": "С миру по биту - ответ представителя фирмы КОНДОР (разработчик компьютера Profi) на письма читателей.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "С_миру_по_биту_-_ответ_представителя_фирмы_КОНДОР_разработчи"
+  },
+  {
+    "article_id": 18095,
+    "article_url": "https://zxpress.ru/article.php?id=18095",
+    "print_url": "https://zxpress.ru/print.php?id=18095",
+    "title_link": "С миру по биту - ответ представителя фирмы КОНДОР (разработчик компьютера Profi) на письма читателей, а так же продолжение темы \"Как написать МЕГАДЕМО\".",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "С_миру_по_биту_-_ответ_представителя_фирмы_КОНДОР_разработчи"
+  },
+  {
+    "article_id": 4570,
+    "article_url": "https://zxpress.ru/article.php?id=4570",
+    "print_url": "https://zxpress.ru/print.php?id=4570",
+    "title_link": "Чемпионат - освещается прохождение Открытого Чемпионата Вирусов.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Чемпионат_-_освещается_прохождение_Открытого_Чемпионата_Виру"
+  },
+  {
+    "article_id": 4571,
+    "article_url": "https://zxpress.ru/article.php?id=4571",
+    "print_url": "https://zxpress.ru/print.php?id=4571",
+    "title_link": "Система - продолжение темы \"Недокументированные команды процессора Z-80\".",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Система_-_продолжение_темы_Недокументированные_команды_проце"
+  },
+  {
+    "article_id": 4572,
+    "article_url": "https://zxpress.ru/article.php?id=4572",
+    "print_url": "https://zxpress.ru/print.php?id=4572",
+    "title_link": "Горячий привет - крах оригинального проекта \"ELITE-3\". Рассказ о скандальной \r\nистории, связанной с этой игрой.",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Горячии_привет_-_крах_оригинального_проекта_ELITE-3_Рассказ"
+  },
+  {
+    "article_id": 4573,
+    "article_url": "https://zxpress.ru/article.php?id=4573",
+    "print_url": "https://zxpress.ru/print.php?id=4573",
+    "title_link": "Премьера - программа проверки штрихкода EAN-13, Календарь планет, демоверсия игры Kingdom, Zanny, Montana Jones II и новый ассемблер MASM от KSA.",
+    "order": 8,
+    "issue_label": "15",
+    "short_slug": "Премьера_-_программа_проверки_штрихкода_EAN-13_Календарь_пла"
+  },
+  {
+    "article_id": 4574,
+    "article_url": "https://zxpress.ru/article.php?id=4574",
+    "print_url": "https://zxpress.ru/print.php?id=4574",
+    "title_link": "Реклама - реклама и обьявления журнала.",
+    "order": 9,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_реклама_и_обьявления_журнала"
+  }
+]

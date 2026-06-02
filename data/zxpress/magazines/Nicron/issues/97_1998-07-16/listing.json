@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7123,
+    "article_url": "https://zxpress.ru/article.php?id=7123",
+    "print_url": "https://zxpress.ru/print.php?id=7123",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "97",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7124,
+    "article_url": "https://zxpress.ru/article.php?id=7124",
+    "print_url": "https://zxpress.ru/print.php?id=7124",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "97",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7125,
+    "article_url": "https://zxpress.ru/article.php?id=7125",
+    "print_url": "https://zxpress.ru/print.php?id=7125",
+    "title_link": "Программирование - о выводе спрайтов.",
+    "order": 3,
+    "issue_label": "97",
+    "short_slug": "Программирование_-_о_выводе_спраитов"
+  },
+  {
+    "article_id": 7126,
+    "article_url": "https://zxpress.ru/article.php?id=7126",
+    "print_url": "https://zxpress.ru/print.php?id=7126",
+    "title_link": "Рассказ - \"Доктор Шахов\".",
+    "order": 4,
+    "issue_label": "97",
+    "short_slug": "Рассказ_-_Доктор_Шахов"
+  },
+  {
+    "article_id": 7127,
+    "article_url": "https://zxpress.ru/article.php?id=7127",
+    "print_url": "https://zxpress.ru/print.php?id=7127",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "97",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7128,
+    "article_url": "https://zxpress.ru/article.php?id=7128",
+    "print_url": "https://zxpress.ru/print.php?id=7128",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 6,
+    "issue_label": "97",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

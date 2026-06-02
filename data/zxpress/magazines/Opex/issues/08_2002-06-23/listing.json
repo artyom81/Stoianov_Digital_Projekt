@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16142,
+    "article_url": "https://zxpress.ru/article.php?id=16142",
+    "print_url": "https://zxpress.ru/print.php?id=16142",
+    "title_link": "От авторов - Хаюшки, добрый народ. Вот дожилы мы вместе с вами до очередного, 9-го по счету номера газеты...",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "От_авторов_-_Хаюшки_добрыи_народ_Вот_дожилы_мы_вместе_с_вами"
+  },
+  {
+    "article_id": 16143,
+    "article_url": "https://zxpress.ru/article.php?id=16143",
+    "print_url": "https://zxpress.ru/print.php?id=16143",
+    "title_link": "Обзор глюков - Старый, родимый раздел, который вот уже 8 номеров прижился у нас.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Обзор_глюков_-_Старыи_родимыи_раздел_которыи_вот_уже_8_номер"
+  },
+  {
+    "article_id": 16144,
+    "article_url": "https://zxpress.ru/article.php?id=16144",
+    "print_url": "https://zxpress.ru/print.php?id=16144",
+    "title_link": "Зона Infinity - А вот и предпоследний раздел газеты, в котором я поведую о бесконечках в играх...",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Зона_Infinity_-_А_вот_и_предпоследнии_раздел_газеты_в_которо"
+  },
+  {
+    "article_id": 16145,
+    "article_url": "https://zxpress.ru/article.php?id=16145",
+    "print_url": "https://zxpress.ru/print.php?id=16145",
+    "title_link": "Послесловие - Авторы и софт.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Послесловие_-_Авторы_и_софт"
+  }
+]

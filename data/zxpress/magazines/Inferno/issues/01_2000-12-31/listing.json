@@ -1,0 +1,218 @@
+[
+  {
+    "article_id": 4473,
+    "article_url": "https://zxpress.ru/article.php?id=4473",
+    "print_url": "https://zxpress.ru/print.php?id=4473",
+    "title_link": "Others - обзор компьютера Profi и ОС CP/M.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Others_-_обзор_компьютера_Profi_и_ОС_CPM"
+  },
+  {
+    "article_id": 4474,
+    "article_url": "https://zxpress.ru/article.php?id=4474",
+    "print_url": "https://zxpress.ru/print.php?id=4474",
+    "title_link": "Others - Анкетирование: Обмен полезной информацией.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Others_-_Анкетирование_Обмен_полезнои_информациеи"
+  },
+  {
+    "article_id": 4475,
+    "article_url": "https://zxpress.ru/article.php?id=4475",
+    "print_url": "https://zxpress.ru/print.php?id=4475",
+    "title_link": "Others - Russian Rulez: ЭЛЬБРУС - описание нового процессора разработанного русскими инженерами.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Others_-_Russian_Rulez_ЭЛЬБРУС_-_описание_нового_процессора"
+  },
+  {
+    "article_id": 4476,
+    "article_url": "https://zxpress.ru/article.php?id=4476",
+    "print_url": "https://zxpress.ru/print.php?id=4476",
+    "title_link": "Интервью - Jerri/Alien Factory: как появилась игра Walker.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_JerriAlien_Factory_как_появилась_игра_Walker"
+  },
+  {
+    "article_id": 4477,
+    "article_url": "https://zxpress.ru/article.php?id=4477",
+    "print_url": "https://zxpress.ru/print.php?id=4477",
+    "title_link": "For Coderz - Порты компьютера Profi.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "For_Coderz_-_Порты_компьютера_Profi"
+  },
+  {
+    "article_id": 4478,
+    "article_url": "https://zxpress.ru/article.php?id=4478",
+    "print_url": "https://zxpress.ru/print.php?id=4478",
+    "title_link": "For Coderz - Муза from PC (описание форматов звуковых файлов).",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "For_Coderz_-_Муза_from_PC_описание_форматов_звуковых_фаилов"
+  },
+  {
+    "article_id": 4479,
+    "article_url": "https://zxpress.ru/article.php?id=4479",
+    "print_url": "https://zxpress.ru/print.php?id=4479",
+    "title_link": "For Coderz - Про ПЗУ 48k Спектрума (#0000-#1FFF).",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "For_Coderz_-_Про_ПЗУ_48k_Спектрума_0000-1FFF"
+  },
+  {
+    "article_id": 4480,
+    "article_url": "https://zxpress.ru/article.php?id=4480",
+    "print_url": "https://zxpress.ru/print.php?id=4480",
+    "title_link": "For Coderz - Про ПЗУ 48k Спектрума (#2000-#3FFF).",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "For_Coderz_-_Про_ПЗУ_48k_Спектрума_2000-3FFF"
+  },
+  {
+    "article_id": 4481,
+    "article_url": "https://zxpress.ru/article.php?id=4481",
+    "print_url": "https://zxpress.ru/print.php?id=4481",
+    "title_link": "Шелезяка - Приставка к телефону: усилитель сигнала телефонной линии.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Шелезяка_-_Приставка_к_телефону_усилитель_сигнала_телефоннои"
+  },
+  {
+    "article_id": 4482,
+    "article_url": "https://zxpress.ru/article.php?id=4482",
+    "print_url": "https://zxpress.ru/print.php?id=4482",
+    "title_link": "Шелезяка - АЦП изнгутри: простой аналогоцифровой преобразователь.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Шелезяка_-_АЦП_изнгутри_простои_аналогоцифровои_преобразоват"
+  },
+  {
+    "article_id": 4483,
+    "article_url": "https://zxpress.ru/article.php?id=4483",
+    "print_url": "https://zxpress.ru/print.php?id=4483",
+    "title_link": "Gameland - обзор игры Project-X.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Gameland_-_обзор_игры_Project-X"
+  },
+  {
+    "article_id": 4484,
+    "article_url": "https://zxpress.ru/article.php?id=4484",
+    "print_url": "https://zxpress.ru/print.php?id=4484",
+    "title_link": "Inferno - Авторы.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Inferno_-_Авторы"
+  },
+  {
+    "article_id": 4485,
+    "article_url": "https://zxpress.ru/article.php?id=4485",
+    "print_url": "https://zxpress.ru/print.php?id=4485",
+    "title_link": "Inferno - Вступление.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Inferno_-_Вступление"
+  },
+  {
+    "article_id": 4486,
+    "article_url": "https://zxpress.ru/article.php?id=4486",
+    "print_url": "https://zxpress.ru/print.php?id=4486",
+    "title_link": "Inferno - Управление жуналом.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Inferno_-_Управление_жуналом"
+  },
+  {
+    "article_id": 4487,
+    "article_url": "https://zxpress.ru/article.php?id=4487",
+    "print_url": "https://zxpress.ru/print.php?id=4487",
+    "title_link": "Softинка - ZX Word Updated: новый, но не совсем, текстовый редактор.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Softинка_-_ZX_Word_Updated_новыи_но_не_совсем_текстовыи_реда"
+  },
+  {
+    "article_id": 4488,
+    "article_url": "https://zxpress.ru/article.php?id=4488",
+    "print_url": "https://zxpress.ru/print.php?id=4488",
+    "title_link": "Softинка - Extractor: программа для извлечения спектрумовских файлов из эмуляторских форматов.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Softинка_-_Extractor_программа_для_извлечения_спектрумовских"
+  },
+  {
+    "article_id": 4489,
+    "article_url": "https://zxpress.ru/article.php?id=4489",
+    "print_url": "https://zxpress.ru/print.php?id=4489",
+    "title_link": "Softинка - обзор программ для тестирования\r\nдисководов, а также настройке магнитных\r\nголовок дисководов.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Softинка_-_обзор_программ_для_тестированиядисководов_а_также"
+  },
+  {
+    "article_id": 4490,
+    "article_url": "https://zxpress.ru/article.php?id=4490",
+    "print_url": "https://zxpress.ru/print.php?id=4490",
+    "title_link": "Humor - Unfiltered: маразматические реальные объявления и высказывания людей, как известных так и не очень из журнала \"Крокодил\".",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Humor_-_Unfiltered_маразматические_реальные_объявления_и_выс"
+  },
+  {
+    "article_id": 4491,
+    "article_url": "https://zxpress.ru/article.php?id=4491",
+    "print_url": "https://zxpress.ru/print.php?id=4491",
+    "title_link": "Мыльница - Пена: почтовый раздел.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Мыльница_-_Пена_почтовыи_раздел"
+  },
+  {
+    "article_id": 15289,
+    "article_url": "https://zxpress.ru/article.php?id=15289",
+    "print_url": "https://zxpress.ru/print.php?id=15289",
+    "title_link": "Частухи - хуй болел неделю.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Частухи_-_хуи_болел_неделю"
+  },
+  {
+    "article_id": 14201,
+    "article_url": "https://zxpress.ru/article.php?id=14201",
+    "print_url": "https://zxpress.ru/print.php?id=14201",
+    "title_link": "заключение - авторы и т.д.",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "заключение_-_авторы_и_тд"
+  },
+  {
+    "article_id": 5169,
+    "article_url": "https://zxpress.ru/article.php?id=5169",
+    "print_url": "https://zxpress.ru/print.php?id=5169",
+    "title_link": "Ария - Сборник лучших песен самой крутой рок-группы 'АРИЯ'.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Ария_-_Сборник_лучших_песен_самои_крутои_рок-группы_АРИЯ"
+  },
+  {
+    "article_id": 5334,
+    "article_url": "https://zxpress.ru/article.php?id=5334",
+    "print_url": "https://zxpress.ru/print.php?id=5334",
+    "title_link": "Навiны - ответ на критику газету в Optron'е, анонс Hackerz Top 98.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Навiны_-_ответ_на_критику_газету_в_Optronе_анонс_Hackerz_Top"
+  },
+  {
+    "article_id": 7711,
+    "article_url": "https://zxpress.ru/article.php?id=7711",
+    "print_url": "https://zxpress.ru/print.php?id=7711",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  }
+]

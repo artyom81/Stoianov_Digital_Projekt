@@ -1,0 +1,15 @@
+{
+  "magazine_id": 19,
+  "magazine_name": "Aspect",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1998-01-18",
+  "order": 5,
+  "article_id": 2572,
+  "title_link": "Программирование - Вывод спрайта на экран. Вывод на виртуальный экран.",
+  "title_h1": "Aspect 04 - Программирование - Вывод спрайта на экран. Вывод на виртуальный экран.",
+  "print_url": "https://zxpress.ru/print.php?id=2572",
+  "article_url": "https://zxpress.ru/article.php?id=2572",
+  "fetched_at": "2026-05-31T21:37:59Z"
+}

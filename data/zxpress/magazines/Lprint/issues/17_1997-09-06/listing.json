@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12374,
+    "article_url": "https://zxpress.ru/article.php?id=12374",
+    "print_url": "https://zxpress.ru/print.php?id=12374",
+    "title_link": "От редакции - Редакция выражает благодарность\r\nRealsoft за предоставление форматировщика\r\nFormat v1.5.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "От_редакции_-_Редакция_выражает_благодарностьRealsoft_за_пре"
+  },
+  {
+    "article_id": 12375,
+    "article_url": "https://zxpress.ru/article.php?id=12375",
+    "print_url": "https://zxpress.ru/print.php?id=12375",
+    "title_link": "Новости - Вышел первый номер газеты PARADOX.\r\n Новая версия PSC v1.3 с таблицей прерываний.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Новости_-_Вышел_первыи_номер_газеты_PARADOX_Новая_версия_PSC"
+  },
+  {
+    "article_id": 12376,
+    "article_url": "https://zxpress.ru/article.php?id=12376",
+    "print_url": "https://zxpress.ru/print.php?id=12376",
+    "title_link": "Личность - Приключения Василия Ивановича в тылу врага и на фронте\r\n любви (часть 1).",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Личность_-_Приключения_Василия_Ивановича_в_тылу_врага_и_на_ф"
+  },
+  {
+    "article_id": 12377,
+    "article_url": "https://zxpress.ru/article.php?id=12377",
+    "print_url": "https://zxpress.ru/print.php?id=12377",
+    "title_link": "Личность - Приключения Василия Ивановича в тылу врага и на фронте\r\n любви (часть 2).",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Личность_-_Приключения_Василия_Ивановича_в_тылу_врага_и_на_ф"
+  },
+  {
+    "article_id": 12378,
+    "article_url": "https://zxpress.ru/article.php?id=12378",
+    "print_url": "https://zxpress.ru/print.php?id=12378",
+    "title_link": "Мир изнутри - Графика для SPECCY. Какие перспективы.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Мир_изнутри_-_Графика_для_SPECCY_Какие_перспективы"
+  },
+  {
+    "article_id": 12379,
+    "article_url": "https://zxpress.ru/article.php?id=12379",
+    "print_url": "https://zxpress.ru/print.php?id=12379",
+    "title_link": "Письма - Обзор минских модемных газет.",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Письма_-_Обзор_минских_модемных_газет"
+  },
+  {
+    "article_id": 12380,
+    "article_url": "https://zxpress.ru/article.php?id=12380",
+    "print_url": "https://zxpress.ru/print.php?id=12380",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

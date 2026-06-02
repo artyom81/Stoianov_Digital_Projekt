@@ -1,0 +1,209 @@
+[
+  {
+    "article_id": 7493,
+    "article_url": "https://zxpress.ru/article.php?id=7493",
+    "print_url": "https://zxpress.ru/print.php?id=7493",
+    "title_link": "Вступление - Oб авторах журнала и о журнале.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Oб_авторах_журнала_и_о_журнале"
+  },
+  {
+    "article_id": 7511,
+    "article_url": "https://zxpress.ru/article.php?id=7511",
+    "print_url": "https://zxpress.ru/print.php?id=7511",
+    "title_link": "Вступление - Oб авторах журнала",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Oб_авторах_журнала"
+  },
+  {
+    "article_id": 7477,
+    "article_url": "https://zxpress.ru/article.php?id=7477",
+    "print_url": "https://zxpress.ru/print.php?id=7477",
+    "title_link": "Вступление - Инструкция к оболочке журнала.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Инструкция_к_оболочке_журнала"
+  },
+  {
+    "article_id": 7478,
+    "article_url": "https://zxpress.ru/article.php?id=7478",
+    "print_url": "https://zxpress.ru/print.php?id=7478",
+    "title_link": "Отдохнем - GLODING PROGRAMMING (Программирование снизу вверх наискосок)",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_GLODING_PROGRAMMING_Программирование_снизу_вверх"
+  },
+  {
+    "article_id": 7479,
+    "article_url": "https://zxpress.ru/article.php?id=7479",
+    "print_url": "https://zxpress.ru/print.php?id=7479",
+    "title_link": "Ассемблер - Как вычислить синус на ассемлере.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Как_вычислить_синус_на_ассемлере"
+  },
+  {
+    "article_id": 7480,
+    "article_url": "https://zxpress.ru/article.php?id=7480",
+    "print_url": "https://zxpress.ru/print.php?id=7480",
+    "title_link": "Система - IBM:Об алгаритме сжатия Lempel-Ziw Welch и его реализации для\r\n формата GIF.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Система_-_IBMОб_алгаритме_сжатия_Lempel-Ziw_Welch_и_его_реал"
+  },
+  {
+    "article_id": 7481,
+    "article_url": "https://zxpress.ru/article.php?id=7481",
+    "print_url": "https://zxpress.ru/print.php?id=7481",
+    "title_link": "Разное - о компьютерных проблемах: ПРОФИ и СКОРПИОН, IBM...",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Разное_-_о_компьютерных_проблемах_ПРОФИ_и_СКОРПИОН_IBM"
+  },
+  {
+    "article_id": 7482,
+    "article_url": "https://zxpress.ru/article.php?id=7482",
+    "print_url": "https://zxpress.ru/print.php?id=7482",
+    "title_link": "Отдохнем - \"Приколы со стороны\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_Приколы_со_стороны"
+  },
+  {
+    "article_id": 7483,
+    "article_url": "https://zxpress.ru/article.php?id=7483",
+    "print_url": "https://zxpress.ru/print.php?id=7483",
+    "title_link": "Деморынок - Хит-парад музыкальных демонстраций.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Деморынок_-_Хит-парад_музыкальных_демонстрации"
+  },
+  {
+    "article_id": 7484,
+    "article_url": "https://zxpress.ru/article.php?id=7484",
+    "print_url": "https://zxpress.ru/print.php?id=7484",
+    "title_link": "История - Хакеры - статья \"ОНО\" - об истории появления хакерства.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "История_-_Хакеры_-_статья_ОНО_-_об_истории_появления_хакерст"
+  },
+  {
+    "article_id": 7485,
+    "article_url": "https://zxpress.ru/article.php?id=7485",
+    "print_url": "https://zxpress.ru/print.php?id=7485",
+    "title_link": "История - Классификация хакеров.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "История_-_Классификация_хакеров"
+  },
+  {
+    "article_id": 7486,
+    "article_url": "https://zxpress.ru/article.php?id=7486",
+    "print_url": "https://zxpress.ru/print.php?id=7486",
+    "title_link": "Отдохнем - \"Как ломаются полуоси?\".",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Отдохнем_-_Как_ломаются_полуоси"
+  },
+  {
+    "article_id": 7487,
+    "article_url": "https://zxpress.ru/article.php?id=7487",
+    "print_url": "https://zxpress.ru/print.php?id=7487",
+    "title_link": "Письма - Отзывы читателей о журнале.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Письма_-_Отзывы_читателеи_о_журнале"
+  },
+  {
+    "article_id": 7488,
+    "article_url": "https://zxpress.ru/article.php?id=7488",
+    "print_url": "https://zxpress.ru/print.php?id=7488",
+    "title_link": "Конкурс - Конкурс на лучшую головоломку !",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Конкурс_-_Конкурс_на_лучшую_головоломку"
+  },
+  {
+    "article_id": 7476,
+    "article_url": "https://zxpress.ru/article.php?id=7476",
+    "print_url": "https://zxpress.ru/print.php?id=7476",
+    "title_link": "Ассемблер - Быстрый расчет адреса по двум координатам.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Ассемблер_-_Быстрыи_расчет_адреса_по_двум_координатам"
+  },
+  {
+    "article_id": 7489,
+    "article_url": "https://zxpress.ru/article.php?id=7489",
+    "print_url": "https://zxpress.ru/print.php?id=7489",
+    "title_link": "IS DOS - Проблемы и решения",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "IS_DOS_-_Проблемы_и_решения"
+  },
+  {
+    "article_id": 7490,
+    "article_url": "https://zxpress.ru/article.php?id=7490",
+    "print_url": "https://zxpress.ru/print.php?id=7490",
+    "title_link": "Новости - новости города.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новости_города"
+  },
+  {
+    "article_id": 7491,
+    "article_url": "https://zxpress.ru/article.php?id=7491",
+    "print_url": "https://zxpress.ru/print.php?id=7491",
+    "title_link": "Разборка - Описание игры THE DOOBLE.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Разборка_-_Описание_игры_THE_DOOBLE"
+  },
+  {
+    "article_id": 7492,
+    "article_url": "https://zxpress.ru/article.php?id=7492",
+    "print_url": "https://zxpress.ru/print.php?id=7492",
+    "title_link": "Разборка - Описание игры BLOOD WYCH.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Разборка_-_Описание_игры_BLOOD_WYCH"
+  },
+  {
+    "article_id": 7494,
+    "article_url": "https://zxpress.ru/article.php?id=7494",
+    "print_url": "https://zxpress.ru/print.php?id=7494",
+    "title_link": "Обзор - новые игры: RETURN TO HOME 4, CITADEL, KLADEMINER, BRIDGE PLAYER, CRUSHER, AMERICAN TURBO KING, RAD RAMP RACER, KUNG FU MASTER, CHOY LEE, SIDERAL WAR, ARKARUM, DIRT TRACK RACER, DOUBLE DRAGON 2, NIGHT BREED, THE CYCLES, MOONTORC, KOMMANDO 2.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Обзор_-_новые_игры_RETURN_TO_HOME_4_CITADEL_KLADEMINER_BRIDG"
+  },
+  {
+    "article_id": 7509,
+    "article_url": "https://zxpress.ru/article.php?id=7509",
+    "print_url": "https://zxpress.ru/print.php?id=7509",
+    "title_link": "Система - Описание системных программ : UNIVERSAL SPRATE STUDIO (USS)",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Система_-_Описание_системных_программ_UNIVERSAL_SPRATE_STUDI"
+  },
+  {
+    "article_id": 7510,
+    "article_url": "https://zxpress.ru/article.php?id=7510",
+    "print_url": "https://zxpress.ru/print.php?id=7510",
+    "title_link": "Гости - Старые знакомые:О истории создания краснодарской группа UNIT-5",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Гости_-_Старые_знакомыеО_истории_создания_краснодарскои_груп"
+  },
+  {
+    "article_id": 7512,
+    "article_url": "https://zxpress.ru/article.php?id=7512",
+    "print_url": "https://zxpress.ru/print.php?id=7512",
+    "title_link": "Система - Описание системных программ : ACCEPT PROTECTION SYSTEM V1.0.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Система_-_Описание_системных_программ_ACCEPT_PROTECTION_SYST"
+  }
+]

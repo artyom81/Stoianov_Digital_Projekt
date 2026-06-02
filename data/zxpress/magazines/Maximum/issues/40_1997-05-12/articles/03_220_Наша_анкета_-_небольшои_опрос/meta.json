@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "40",
+  "issue_date_iso": "1997-05-12",
+  "order": 3,
+  "article_id": 220,
+  "title_link": "Наша анкета - небольшой опрос.",
+  "title_h1": "Maximum 40 - Наша анкета - небольшой опрос.",
+  "print_url": "https://zxpress.ru/print.php?id=220",
+  "article_url": "https://zxpress.ru/article.php?id=220",
+  "fetched_at": "2026-05-31T22:24:35Z"
+}

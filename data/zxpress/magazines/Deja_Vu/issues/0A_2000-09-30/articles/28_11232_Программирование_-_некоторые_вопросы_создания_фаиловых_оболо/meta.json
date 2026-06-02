@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "0A",
+  "issue_date_iso": "2000-09-30",
+  "order": 28,
+  "article_id": 11232,
+  "title_link": "Программирование - некоторые вопросы создания файловых оболочек на\r\nSPECCY и обзор SPECTRUM'овских DOS'в.",
+  "title_h1": "Deja Vu 0A - Программирование - некоторые вопросы создания файловых оболочек на SPECCY и обзор SPECTRUM&#039;овских DOS&#039;в.",
+  "print_url": "https://zxpress.ru/print.php?id=11232",
+  "article_url": "https://zxpress.ru/article.php?id=11232",
+  "fetched_at": "2026-05-31T21:56:15Z"
+}

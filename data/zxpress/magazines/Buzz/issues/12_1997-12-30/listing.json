@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 1100,
+    "article_url": "https://zxpress.ru/article.php?id=1100",
+    "print_url": "https://zxpress.ru/print.php?id=1100",
+    "title_link": "Rants & Raves - Лучшая пятерка афоризмов из газеты ZX-Pilot.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Rants_Raves_-_Лучшая_пятерка_афоризмов_из_газеты_ZX-Pilot"
+  },
+  {
+    "article_id": 1108,
+    "article_url": "https://zxpress.ru/article.php?id=1108",
+    "print_url": "https://zxpress.ru/print.php?id=1108",
+    "title_link": "А\\BOX часть 1 - Шаг к мечте : Продукт-данные-факты, Концепция А\\BOX; Cиликоновая мечта; Основные характеристики Laipitinha; Основные характеристики A\\BOX; Операционная система A\\BOX; Развитие в будущем.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "АBOX_часть_1_-_Шаг_к_мечте_Продукт-данные-факты_Концепция_АB"
+  },
+  {
+    "article_id": 1107,
+    "article_url": "https://zxpress.ru/article.php?id=1107",
+    "print_url": "https://zxpress.ru/print.php?id=1107",
+    "title_link": "Авторы",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Авторы"
+  },
+  {
+    "article_id": 1103,
+    "article_url": "https://zxpress.ru/article.php?id=1103",
+    "print_url": "https://zxpress.ru/print.php?id=1103",
+    "title_link": "Анекдоты - 22 анекдота...",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Анекдоты_-_22_анекдота"
+  },
+  {
+    "article_id": 1101,
+    "article_url": "https://zxpress.ru/article.php?id=1101",
+    "print_url": "https://zxpress.ru/print.php?id=1101",
+    "title_link": "Ассемблер - Процедура \"Chunky to planar\" - вывод chunky dat'ы на planar'ный экран.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Ассемблер_-_Процедура_Chunky_to_planar_-_вывод_chunky_datы_н"
+  },
+  {
+    "article_id": 1102,
+    "article_url": "https://zxpress.ru/article.php?id=1102",
+    "print_url": "https://zxpress.ru/print.php?id=1102",
+    "title_link": "Законы Мерфи - Универсальные законы, разработанные на основе закона Мерфи (закона подлости).",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Законы_Мерфи_-_Универсальные_законы_разработанные_на_основе"
+  },
+  {
+    "article_id": 1097,
+    "article_url": "https://zxpress.ru/article.php?id=1097",
+    "print_url": "https://zxpress.ru/print.php?id=1097",
+    "title_link": "Ликбез - Методы некоммерческой дистрибьюции программного обеспечения.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Ликбез_-_Методы_некоммерческои_дистрибьюции_программного_обе"
+  },
+  {
+    "article_id": 1109,
+    "article_url": "https://zxpress.ru/article.php?id=1109",
+    "print_url": "https://zxpress.ru/print.php?id=1109",
+    "title_link": "Наши новости - Турбо копировщик VooDoo Copyer от Paracels'а. Поздравляем всех с Новым годом !",
+    "order": 8,
+    "issue_label": "12",
+    "short_slug": "Наши_новости_-_Турбо_копировщик_VooDoo_Copyer_от_Paracelsа_П"
+  },
+  {
+    "article_id": 1096,
+    "article_url": "https://zxpress.ru/article.php?id=1096",
+    "print_url": "https://zxpress.ru/print.php?id=1096",
+    "title_link": "Обзорчик SYS - Обзор системных программ: Bytamare v2.0, Hrum v3.5, PCD v6.2.",
+    "order": 9,
+    "issue_label": "12",
+    "short_slug": "Обзорчик_SYS_-_Обзор_системных_программ_Bytamare_v20_Hrum_v3"
+  },
+  {
+    "article_id": 1095,
+    "article_url": "https://zxpress.ru/article.php?id=1095",
+    "print_url": "https://zxpress.ru/print.php?id=1095",
+    "title_link": "Обзорчик - Обзор игровых программ: Motos, West Bank, Technodrome, Semour take one, Arcanoid-2, Q10 Tank Buster, Iindiana Jones and the Last Crusade.",
+    "order": 10,
+    "issue_label": "12",
+    "short_slug": "Обзорчик_-_Обзор_игровых_программ_Motos_West_Bank_Technodrom"
+  },
+  {
+    "article_id": 1106,
+    "article_url": "https://zxpress.ru/article.php?id=1106",
+    "print_url": "https://zxpress.ru/print.php?id=1106",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 11,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 12804,
+    "article_url": "https://zxpress.ru/article.php?id=12804",
+    "print_url": "https://zxpress.ru/print.php?id=12804",
+    "title_link": "Вступление - представляю вам свое первое\r\nэлектронное издание на Спектруме.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_представляю_вам_свое_первоеэлектронное_издание"
+  },
+  {
+    "article_id": 12805,
+    "article_url": "https://zxpress.ru/article.php?id=12805",
+    "print_url": "https://zxpress.ru/print.php?id=12805",
+    "title_link": "Nobunagas - проект игры Seens.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Nobunagas_-_проект_игры_Seens"
+  },
+  {
+    "article_id": 12806,
+    "article_url": "https://zxpress.ru/article.php?id=12806",
+    "print_url": "https://zxpress.ru/print.php?id=12806",
+    "title_link": "Судный день - обсуждение наших Спекковских софтин: Real Commander 2.5",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Судныи_день_-_обсуждение_наших_Спекковских_софтин_Real_Comma"
+  },
+  {
+    "article_id": 12807,
+    "article_url": "https://zxpress.ru/article.php?id=12807",
+    "print_url": "https://zxpress.ru/print.php?id=12807",
+    "title_link": "Sega online - об играх с Сеги.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Sega_online_-_об_играх_с_Сеги"
+  },
+  {
+    "article_id": 12808,
+    "article_url": "https://zxpress.ru/article.php?id=12808",
+    "print_url": "https://zxpress.ru/print.php?id=12808",
+    "title_link": "Читы - читы и коды к играм.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Читы_-_читы_и_коды_к_играм"
+  },
+  {
+    "article_id": 12809,
+    "article_url": "https://zxpress.ru/article.php?id=12809",
+    "print_url": "https://zxpress.ru/print.php?id=12809",
+    "title_link": "www.seeens.boom.ru - Сайт на стадии разработки.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "wwwseeensboomru_-_Саит_на_стадии_разработки"
+  },
+  {
+    "article_id": 12810,
+    "article_url": "https://zxpress.ru/article.php?id=12810",
+    "print_url": "https://zxpress.ru/print.php?id=12810",
+    "title_link": "Приключения - Как Seens и EXTREM ходили на рыбалку.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Приключения_-_Как_Seens_и_EXTREM_ходили_на_рыбалку"
+  },
+  {
+    "article_id": 12811,
+    "article_url": "https://zxpress.ru/article.php?id=12811",
+    "print_url": "https://zxpress.ru/print.php?id=12811",
+    "title_link": "Codez amigoz - небольшая интересная программка на бейсике демонстрирует разные фигуры.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Codez_amigoz_-_небольшая_интересная_программка_на_беисике_де"
+  },
+  {
+    "article_id": 12812,
+    "article_url": "https://zxpress.ru/article.php?id=12812",
+    "print_url": "https://zxpress.ru/print.php?id=12812",
+    "title_link": "Edit off - Ну вот, на первый раз я пока все сказал\r\nчто хотел.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Edit_off_-_Ну_вот_на_первыи_раз_я_пока_все_сказалчто_хотел"
+  },
+  {
+    "article_id": 132,
+    "article_url": "https://zxpress.ru/article.php?id=132",
+    "print_url": "https://zxpress.ru/print.php?id=132",
+    "title_link": "Предисловие - Неудачи у редакторов газеты.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Предисловие_-_Неудачи_у_редакторов_газеты"
+  },
+  {
+    "article_id": 4754,
+    "article_url": "https://zxpress.ru/article.php?id=4754",
+    "print_url": "https://zxpress.ru/print.php?id=4754",
+    "title_link": "ABOUT - ANDY NIK о газете ABOUT!\r\n Презентация питерского супержурнала ZX-FORMAT.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "ABOUT_-_ANDY_NIK_о_газете_ABOUT_Презентация_питерского_супер"
+  },
+  {
+    "article_id": 9699,
+    "article_url": "https://zxpress.ru/article.php?id=9699",
+    "print_url": "https://zxpress.ru/print.php?id=9699",
+    "title_link": "Игры - Как написать компьютерную игру.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Игры_-_Как_написать_компьютерную_игру"
+  },
+  {
+    "article_id": 14805,
+    "article_url": "https://zxpress.ru/article.php?id=14805",
+    "print_url": "https://zxpress.ru/print.php?id=14805",
+    "title_link": "Библиотека - новелла по игре Санта Клаус.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Библиотека_-_новелла_по_игре_Санта_Клаус"
+  },
+  {
+    "article_id": 2739,
+    "article_url": "https://zxpress.ru/article.php?id=2739",
+    "print_url": "https://zxpress.ru/print.php?id=2739",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

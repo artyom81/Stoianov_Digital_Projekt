@@ -1,0 +1,74 @@
+Odyssey paper 04 - Быстеренько! - самый быстрый алгоритм/процедура рисования линии.
+Быстеренько!
+____________
+(C) Phantom Lord'97
+Мы тут подумали сувать время от   времени
+наши алгоритмы и сегодня в эфире  передаем
+fastовый алгоритм построения  линии  прямо
+на экране:
+      
+ на входе
+SP -
+Указатель в таблице адресов экрана
+E -
+меньшее из дельт X и Y
+D -
+большее из дельт
+BC -
+смещение по X в знакоместах
+A -
+D
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 7,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 6,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 5,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 4,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 3,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 2,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 1,(HL)
+SUB E
+JR NC,$+5
+ADD A,D
+POP HL
+ADD HL,BC
+SET 0,(HL)
+INC L
+INC C
+Естественно, подобных кусочков будет  че-
+тыре. Кроме того надо расчитывать    точку
+входа и выхода. Но это не должно составить
+большого труда.

@@ -1,0 +1,127 @@
+ACNews 18 - Docs - Декомпрессор Медноногова основанный на LZ сжатие.
+▄▄▄  ▄▄▄▄ ▄▄▄▄ ▄▄▄▄
+■▄░  ▓  ▓ ▓  ▓ ▓  ▀ ▓▄▄▄ ▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░
+  ■▀ ░▄▄▒ ░▄▄░ ░▄▄░ ▄▄▄░  ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀
+
+Декомпрессор Медноногова, использовавшийся, по-видимому, в "Чёр-
+ном Вороне", любопытен тем,что битовый поток в его формате отсу-
+тствует - несмотря на основанное на LZ сжатие. За счёт этого по-
+лучен некоторый выигрыш в скорости и проигрыш в плотности.
+
+В тексте комментарии: жёлтые - авторские, зелёные - мои.
+
+;Декомпрессор для v 3.01
+;HL-откуда DE-куда
+;DLPCB  DEFM "v301"
+
+DELPZ   PUSH DE
+        LD DE,DLPCB
+        LD BC,4
+        LDIR
+        POP DE
+xpD0    LD A,(HL)
+        SRL A
+        JR NC,xpD1
+        CALL xpSUB  ;short copy
+        RRA         ;%AAAlenB1
+        RL B        ; ^^^nopacked
+        AND 7
+xpM2    JR NZ,xpNex ;len<=9
+        LD A,(HL)   ;len>9
+        INC HL
+xpNex   LD C,(HL)   ;disp (с учётом B)
+        INC HL
+        PUSH HL
+        LD H,D
+        LD L,E
+        SBC HL,BC
+        LD B,0
+        LD C,A
+xpM1    INC BC
+        INC BC      ;>=3
+        LDIR
+        POP HL
+        EX AF,AF'
+        JR Z,xpD0
+        JR NZ,xpDRR ;nocompr 1..7
+
+xpD1    RRA
+        JR C,xpZ1
+        RRA
+        JR C,xpZ2
+        JR Z,xpDEND ;%xxxxx000
+        INC HL
+xpDRR   LD B,A      ;nocompr 1..31
+xpDL0   LD A,(HL)
+        INC HL
+        XOR (HL)
+        LD (DE),A
+        INC DE
+        DJNZ xpDL0
+        JR xpD0
+
+xpZ2    SRL A       ;%xxxxx100 ;repeat
+        JR C,xpZ2L
+        LD C,A
+        XOR A
+        EX AF,AF'
+xpZ22   INC HL
+        PUSH HL
+        LD H,D
+        LD L,E
+        DEC HL
+        JR xpM1
+
+xpZ2L   CALL xpSUB  ;%xxxX1100
+        RRA         ;    ^
+        RL B        ;0/1
+        LD C,(HL)
+        JR xpZ22
+
+xpZ1    SRL A       ;%xxxxxx10
+        JR NC,xpTWO
+        LD C,A      ;%xxxxx110 ;long copy
+        INC HL
+        LD A,(HL)
+        AND #1F
+        LD B,A
+        LD A,C
+        CALL xpSUB
+        OR A
+        JR xpM2
+
+xpTWO   INC A       ;два байта %xxxxx010
+        LD C,A      ;=1..32
+        INC HL
+        PUSH HL
+        LD H,D
+        LD L,E
+        SBC HL,BC
+        LD C,2
+        LDIR
+        POP HL
+        JR xpD0
+
+xpDEND  LD HL,DLPCB ;%xxxxx000
+        LD C,4
+        LDIR
+        RET
+
+xpSUB   EX AF,AF'   ;поместить 3 ст.бита текущего байта в A'
+        LD A,(HL)
+        RLCA
+        RLCA
+        RLCA
+        AND 7
+        EX AF,AF'
+        INC HL
+        RET
+
+----------------------------------------------------------------
+А знаете ли вы, что...
+
+По объёму 5,25" и 3,5" дискеты занимают примерно одинаковое про-
+странство - 27,5 кубических сантиметров? Размеры первого носите-
+ля, впрочем, завышены (на  самом деле он не квадратный и на нес-
+колько  миллимметров  меньше). У второго же - несколько занижены
+в одном из измерений (на самом деле 90 x 94 x 3,25 мм).

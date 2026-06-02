@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9278,
+    "article_url": "https://zxpress.ru/article.php?id=9278",
+    "print_url": "https://zxpress.ru/print.php?id=9278",
+    "title_link": "Новости - Turbo-контроллер дисковода не есть хорошо.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Turbo-контроллер_дисковода_не_есть_хорошо"
+  },
+  {
+    "article_id": 9280,
+    "article_url": "https://zxpress.ru/article.php?id=9280",
+    "print_url": "https://zxpress.ru/print.php?id=9280",
+    "title_link": "Сенсация - секретное сообщение в игре DIZZY XII UNDERGROUND by GOGIN.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Сенсация_-_секретное_сообщение_в_игре_DIZZY_XII_UNDERGROUND"
+  },
+  {
+    "article_id": 9281,
+    "article_url": "https://zxpress.ru/article.php?id=9281",
+    "print_url": "https://zxpress.ru/print.php?id=9281",
+    "title_link": "Вопрос - один из простейших методов вставления спрайтов в текст.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Вопрос_-_один_из_простеиших_методов_вставления_спраитов_в_те"
+  },
+  {
+    "article_id": 9282,
+    "article_url": "https://zxpress.ru/article.php?id=9282",
+    "print_url": "https://zxpress.ru/print.php?id=9282",
+    "title_link": "Wanted - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Wanted_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

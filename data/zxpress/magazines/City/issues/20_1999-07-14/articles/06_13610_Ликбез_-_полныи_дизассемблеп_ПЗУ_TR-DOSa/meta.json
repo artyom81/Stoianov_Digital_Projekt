@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "1999-07-14",
+  "order": 6,
+  "article_id": 13610,
+  "title_link": "Ликбез - полный дизассемблеп ПЗУ TR-DOS'a.",
+  "title_h1": "City 20 - Ликбез - полный дизассемблеп ПЗУ TR-DOS&#039;a.",
+  "print_url": "https://zxpress.ru/print.php?id=13610",
+  "article_url": "https://zxpress.ru/article.php?id=13610",
+  "fetched_at": "2026-05-31T21:50:49Z"
+}

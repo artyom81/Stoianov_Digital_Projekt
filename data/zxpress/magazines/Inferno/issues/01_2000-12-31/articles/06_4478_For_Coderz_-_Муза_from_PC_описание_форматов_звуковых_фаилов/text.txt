@@ -1,0 +1,450 @@
+Inferno 01 - For Coderz - Муза from PC (описание форматов звуковых файлов).
+Описание форматов звуковых
+        файлов выборок
+          (сэмплов)
+Search and edit by Penetrator (VFHB)
+Add by Shaitan/Stars of Keladan
+В этом документе описаны форматы файлов
+звуковых  выборок  для
+IBM  PC,
+которые
+можно   использовать  на  нашее  любимом
+Спектруме.
+Сведения для составления это-
+го  документа  получены из различных ис-
+точников,  поэтому  автор не отвечаем за
+ошибки  или  не  точности  допущеные при
+составлении данного документа.
+
+ Давайте  сначала разберемся, шо си такэ
+есть звековая выборка.
+"Выборка"
+- это значение, которое пода-
+ется  на вход DAC или получается из ADC,
+обычно  целое  число  ( 8 или 16 битов).
+Выборка характеризует амплитуду звуково-
+го сигнала. Частота выдачи выборки опре-
+деляется  килогерцах  (KHz),  или  выбо-
+рок/секунду.  Кроме этого, выборка может
+идти  по  одному каналу (моно), или двум
+(стерео),  или ..., большему числу кана-
+лов. Тем самым для проигрывания выборки,
+кроме нее самой, необходимо знать:
+-  число бит на выборку ( 8/16 бит, воз-
+можно до 32 бит );
+- частоту выборки ( 5KHz/44KHz, возможно
+до 48KHz );
+-  число каналов ( 1/2-моно/стерео, воз-
+можно до 4 каналов ).
+Есть три типа формата файлов выборок, с
+расширениями:
+.SAM,  .RAW
+- просто выборка, вы должны
+знать с какой частой ее проиграть.
+.WAV
+- это формат от Microsoft.
+.VOC
+- это от Creative.
+R A W - формат
+А теперь, руководствуясь вышеописанными
+пераметрами, мы имеем возможность проиг-
+ровать данные сэмплы.
+ Если  выборка  стерео,  это значит, что
+сначала  идет байт первого канала, затем
+второго, а если каналов больше, то соот-
+ветсвенно  байты распологаются по нарас-
+тающему номеру канала. Частота здесь ха-
+рактеризует выдачу обоих байт в секунду.
+Для стерео левый канал - первый.
+ Зная  указаные  параметры для какого-то
+.RAW файла, вы, в состоянии его правиль-
+но воспроизвести.
+W A V - формат
+Это  RIFF файл, который был разработан
+фирмой Microsoft. Он используется в Win-
+dows. Поэтому весьма "популярен". Он по-
+хож  на AIFF - формат Apple, который ис-
+пользуется для хранения высококачествен-
+ного  звука  инструментов, он так же ис-
+пользуется  на SGI. Он похож, но не сов-
+местим.
+
+Вначале идет заголовок RIFF файла:
+typedef struct {
+        char id[4];
+// идентификатор файла= "RIFF" =
+//0 x 46464952
+        long len;
+// длина файла без этого заголовка
+} IDRiff;
+Сам  WAV-файл  может состоять из нес-
+кольких  кусков,  а эти куски, могут со-
+держать  по  несколько  выборок, или ка-
+кую-то  другую  информацию.  Но это лишь
+теория,  на  данный  момент нами файлы с
+таким  извратом не встречались, следова-
+тельно - часть одна и выборка одна.
+
+ Заголовок куска WAV:
+typedef struct {
+        char id[4]; 
+// идентификатор= "WAVE" = 0x45564157
+        char fmt[4];
+// идентификатор= "fmt " = 0x20746D66
+        long len;
+// длина этого куска WAV - файла,
+} IDChuckWave;
+За ним не посредственно кусок WAV:
+typedef struct {
+   int type;
+// - тип звуковых данных, бывает - !!!
+//   1 - просто выборка;
+//   0x101 - IBM mu-law;
+//   0x102 - IBM a-law;
+//   0x103 - ADPCM.
+int channels;
+// число каналов 1/2 - !!!
+long SamplesPerSec; 
+// частота выборки
+long AvgBytesPerSec; 
+// частота выдачи байтов
+int align;
+// выравнивание
+int bits;
+//число бит на выборку  - !!!
+} IDWave;
+Помеченные - особо необходимы.
+Далее идентификатор выборки:
+typedef struct {
+        char id[4];
+//идентификатор = "data"=0x61746164
+        long len;
+//длина выборки (кратно 2)
+} IDSampleWave;
+Выборок в куске может быть несколько.
+
+Пример программы для просмотра WAV:
+#include <stdio.h>
+#include <string.h>
+
+typedef struct {
+        char id_riff[4];
+        long len_riff;
+
+        char id_chuck[4];
+        char fmt[4];
+        long len_chuck;
+
+        int  type;
+        int  channels;
+        long freq;
+        long bytes;
+        int  align;
+        int  bits;
+
+        char id_data[4];
+        long len_data;
+} TitleWave;
+
+
+void    main
+        ( int argc, char * argv[] )
+{
+FILE * f;
+TitleWave tw;
+
+if ( argc<2 ) { printf("Укажи имя .wav
+   файла\n"); return ; }
+f=fopen(argv[1],"rb");
+if ( f==0 ) { printf("Не открыть файл
+   - %s\n",argv[1]); return; }
+fread('&amptw,sizeof(TitleWave),1,f);
+fclose(f);
+printf("LEN RIFF\t-%ld\n",
+   tw.len_riff);
+if ( strncmp(tw.id_riff,"RIFF",4)!=0 )
+printf("Не совпал идентификатор
+   RIFF\n");
+printf("LEN Chuck\t - %ld\n",
+   tw.len_chuck );
+if ( strncmp(tw.id_chuck,"WAVE",4)!=0 )
+        printf("Не совпал идентификатор
+   CHUCK\n");
+if ( strncmp(tw.fmt,"fmt ",4)!=0 )
+        printf("Не совпал идентификатор
+   FMT\n");
+printf("Type\t\t - %d\n", tw.type );
+printf("Channels\t -%d\n",tw.channels);
+printf("Sample Per Sec\t-%d\n",
+   tw.freq);
+printf("Bytes Per Sec\t - %d\n",
+   tw.bytes );
+printf("Bits\t\t - %d\n", tw.bits );
+printf("Aligned\t\t - %d\n",tw.align );
+printf("LEN Data\t - %ld\n",
+   tw.len_data );
+if ( strncmp(tw.id_data,"data",4)!=0 )
+        printf("Не совпал идентификатор
+   DATA\n");
+}
+V O C - формат
+Заголовок .voc :
+typedef struct {
+        char txt_id[20];
+// "Creative Voice File\x1A"
+        unsigned int offset_data;
+// смещение начала первого блока данных
+        unsigned int ver;
+//номер версии
+        unsigned int id; 
+// идентификатор, число комплементарное
+//номеру версии плюс 1234h, т.е. 
+//(((~ver)+0x1234)'&amp0xFFFF)==id
+} VocHeader;
+Затем идут блоки данных. Они разбиты на
+подблоки разных типов. Структура подбло-
+ка данных:
+
+Подблок звуковых данных:
+typedef struct {
+        unsigned char type; 
+// тип подблока
+        unsigned long len; 
+//  длина подблока ( читать нужно только
+//первые 3 байта )
+} VocBlock;
+Далее  идут  данные подблока. В зависи-
+мости  от  типа подблока они разные. Вот
+несколько типов подблоков:
+type=0.
+Завершает блок данных.
+──────┘
+
+type=1.
+Подблок звуковых данных:
+──────┘
+При  этом  из  длины подблока нужно вы-
+честь два, чтобы получить длину звуковых
+данных.
+
+Заголовок этого подблока.
+typedef struct {
+        unsigned char rate; 
+// частота дискретизации, как в команде
+//40H
+        unsigned char type_zip;
+//способ упаковки 0 - не упакованы
+} VocBlock1;
+Далее идут звуковые данные.
+type=2.
+Подблок продолжения звуковых
+──────┘
+данных:
+
+Просто звуковые данные.
+type=3.
+Подблок тишины
+──────┘
+
+typedef struct {
+        unsigned int time; 
+// время тишины
+        unsigned char rate; 
+// частота дискретизации, как в команде
+// 40H
+} VocBlock3;
+
+type=4.
+Подблок-маркер
+──────┘
+
+unsigned int marker; // маркер
+
+type=5.
+Подблок текстовых сообщений
+──────┘
+Текстовые данные, заканчивающиеся нулем
+type=6.
+Поблок звукового цикла
+──────┘
+
+unsigned int count_repeat; 
+// число повторов минус единица
+
+type=7.
+Подблок конца звукового цикла
+──────┘
+Нет данных
+type=8.
+Подблок расширенной настройки
+──────┘
+
+typedef struct {
+        unsigned int rate; 
+// частота дискретизации, как в команде
+// 40H
+// Моно: 65536 - (256000000/rate)
+// Стерео: 65536 - (25600000/(2*rate))
+unsigned char pack; 
+// способ упаковки 0=без упаковки
+unsigned char mode; 
+// Режим : 0 - моно, 1 - стерео
+} VocBlock8;
+Пример программы для просмотра VOC:
+#include <stdio.h>
+#include <string.h>
+
+typedef struct {
+        char txt_id[20]; 
+// "Creative Voice File\x1A"
+        unsigned int offset_data; 
+//смещение начала первого блока данных
+        unsigned int ver;
+// номер версии
+        unsigned int id; 
+//  идентификатор, число комплементарное
+//номеру версии плюс 1234h, т.е. 
+//(((~ver)+0x1234)'&amp0xFFFF)=id
+} VocHeader;
+
+typedef struct {
+unsigned char type; 
+// тип подблока
+unsigned  long  len; 
+// длина подблока
+//(читать нужно только первые 3 байта )
+} VocBlock;
+
+typedef struct {
+unsigned char rate;   
+//частота дискретизации, как в команде 
+//40H
+unsigned char type_zip;
+//  способ упаковки 0 - не упакованы
+} VocBlock1;
+
+typedef struct {
+unsigned int time; 
+// время тишины
+unsigned char rate;   
+// частота дискретизации, как в команде 
+//40H
+} VocBlock3;
+
+unsigned int marker; 
+// маркер 
+unsigned int count_repeat;  
+// число  повторов минус единица
+
+typedef struct {
+unsigned int rate; //   частота
+//дискретизации, как в команде 40H
+// Моно: 65536 - (256000000/rate)
+// Стерео: 65536 - (25600000/(2*rate))
+unsigned  char  pack; // способ упаковки
+//0=без упаковки
+unsigned char mode; // Режим : 0 - моно,
+//1 - стерео
+} VocBlock8;
+
+void    main
+        ( int argc, char * argv[] )
+{
+FILE * f;
+VocHeader vh;
+VocBlock vb;
+VocBlock1 vb1;
+VocBlock3 vb3;
+VocBlock8 vb8;
+unsigned int rate;
+
+if  (  argc<2 ) { printf("Укажи имя .voc
+файла\n");        return       ;       }
+f=fopen(argv[1],"rb");  if  (  f==0  ) {
+printf("Не      открыть      файл      -
+%s\n",argv[1]);         return;        }
+fread('&ampvh,sizeof(VocHeader),1,f);  if  (
+strncmp(vh.txt_id,"Creative        Voice
+File\x1a",19)!=0 )
+{ printf("Нето название\n"); goto Fin; }
+printf("Creative    Voice    File\t    -
+v%u.%02u\n",(vh.ver>>8)'&amp0xFF,
+vh.cer'&amp0FF);
+printf("Начало\t\t\t                   -
+%Xh\n",vh.offset_data); printf("
+Идентификатор\t\t
+-                         %Xh\n",vh.id);
+if((((~vh.ver)+0x1234)'&amp0xFFFF)!=vh.id)
+{ printf("Не совпал\n"); goto Fin; }
+
+fseek( f, vh.offset_data, SEEK_SET );
+while ( 1 )
+{
+fread('&ampvb,sizeof(VocBlock)-1,1,f);
+vb.len'&=0xffffffL; // первые три байта
+if ( ferror(f)!=0 )
+{printf("Ошибка чтения\n"); goto Fin; }
+switch ( vb.type )
+{
+case 0: printf("Конец.\n"); goto Fin;
+case 1: printf("Звук :");
+fread('&ampvb1,sizeof(VocBlock1),1,f);
+rate             =             (unsigned
+int)(1000000/(256-vb1.rate));
+printf("  частота  -  %u, упаковка - %u,
+len - %lu\n",
+rate, vb1.type_zip, vb.len-2 );
+fseek( f, vb.len-2, SEEK_CUR );
+break;
+
+case   2:  printf("Продолжение  звука  :
+%lu\n", vb.len );
+fseek( f, vb.len, SEEK_CUR );
+break;
+
+
+case 3:
+fread('&ampvb3,sizeof(VocBlock3),1,f);
+printf("Тишина  :  время - %u, частота -
+%u\n",
+vb3.time, vb3.rate );
+break;
+
+case 4:
+fread('&ampmarker,2,1,f);
+printf("Маркер - %u\n", marker );
+break;
+
+
+case 5:
+printf("Текст длиной - %lu\n",vb.len);
+break;
+
+case 6:
+fread( '&ampcount_repeat,2,1,f );
+printf("Повторения        -       %u\n",
+count_repeat-1);
+break;
+
+case 7:
+printf("Конец повторений\n");
+break;
+
+case 8:
+fread('&ampvb8,sizeof(VocBlock8),1,f);
+rate             =             (unsigned
+int)(256000000L/(65536L-vb8.rate));
+printf("Настройка   :   частота   -  %u,
+упаковка - %u, режим - %s\n",
+rate,                          vb8.pack,
+vb8.mode==0?"моно":"стерео" );
+break;
+default:
+printf("T - %d ??????\n", vb.type );
+fseek( f, vb.len, SEEK_CUR );
+break;
+} }
+
+Fin:
+fclose(f);
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 41,
+    "article_url": "https://zxpress.ru/article.php?id=41",
+    "print_url": "https://zxpress.ru/print.php?id=41",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Ditronik.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Ditronik"
+  },
+  {
+    "article_id": 1988,
+    "article_url": "https://zxpress.ru/article.php?id=1988",
+    "print_url": "https://zxpress.ru/print.php?id=1988",
+    "title_link": "BubbleE Dizzy - Новелла к игре.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "BubbleE_Dizzy_-_Новелла_к_игре"
+  },
+  {
+    "article_id": 1989,
+    "article_url": "https://zxpress.ru/article.php?id=1989",
+    "print_url": "https://zxpress.ru/print.php?id=1989",
+    "title_link": "Scorpion Club - Контроллер IBM-совместимой клавиатуры и мыши для любого\r\n компьютера типа \"ZX-Spectrum\", подключение к Scorpion'у.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Scorpion_Club_-_Контроллер_IBM-совместимои_клавиатуры_и_мыши"
+  },
+  {
+    "article_id": 1991,
+    "article_url": "https://zxpress.ru/article.php?id=1991",
+    "print_url": "https://zxpress.ru/print.php?id=1991",
+    "title_link": "Железо - Из-за чего происходят помехи в модемной связи.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Железо_-_Из-за_чего_происходят_помехи_в_модемнои_связи"
+  },
+  {
+    "article_id": 1990,
+    "article_url": "https://zxpress.ru/article.php?id=1990",
+    "print_url": "https://zxpress.ru/print.php?id=1990",
+    "title_link": "Мозаика - Пара Cheat'ов ... Когда появится MASM128 & Monster Commander v2.1.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Мозаика_-_Пара_Cheatов_Когда_появится_MASM128_Monster_Comman"
+  },
+  {
+    "article_id": 1992,
+    "article_url": "https://zxpress.ru/article.php?id=1992",
+    "print_url": "https://zxpress.ru/print.php?id=1992",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 5,
+  "magazine_name": "47th Byte",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 3,
+  "article_id": 11040,
+  "title_link": "Как переделывать игры - подпрограммы работы с диском.",
+  "title_h1": "47th Byte 01 - Как переделывать игры - подпрограммы работы с диском.",
+  "print_url": "https://zxpress.ru/print.php?id=11040",
+  "article_url": "https://zxpress.ru/article.php?id=11040",
+  "fetched_at": "2026-05-31T21:29:59Z"
+}

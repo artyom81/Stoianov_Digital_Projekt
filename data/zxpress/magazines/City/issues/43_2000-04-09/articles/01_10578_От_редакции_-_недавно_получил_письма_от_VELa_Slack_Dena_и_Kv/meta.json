@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "43",
+  "issue_date_iso": "2000-04-09",
+  "order": 1,
+  "article_id": 10578,
+  "title_link": "От редакции - недавно получил письма от VEL'a, Slack Den'a и Kvazar'a.",
+  "title_h1": "City 43 - От редакции - недавно получил письма от VEL&#039;a, Slack Den&#039;a и Kvazar&#039;a.",
+  "print_url": "https://zxpress.ru/print.php?id=10578",
+  "article_url": "https://zxpress.ru/article.php?id=10578",
+  "fetched_at": "2026-05-31T21:51:55Z"
+}

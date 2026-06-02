@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 50,
+    "article_url": "https://zxpress.ru/article.php?id=50",
+    "print_url": "https://zxpress.ru/print.php?id=50",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "24",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2029,
+    "article_url": "https://zxpress.ru/article.php?id=2029",
+    "print_url": "https://zxpress.ru/print.php?id=2029",
+    "title_link": "ZXNet - О секретных файлах для пользователей сети ZXNet.",
+    "order": 2,
+    "issue_label": "24",
+    "short_slug": "ZXNet_-_О_секретных_фаилах_для_пользователеи_сети_ZXNet"
+  },
+  {
+    "article_id": 2032,
+    "article_url": "https://zxpress.ru/article.php?id=2032",
+    "print_url": "https://zxpress.ru/print.php?id=2032",
+    "title_link": "Железо - Возможность подключения компьютера ZX spectrum к TV через Scart.",
+    "order": 3,
+    "issue_label": "24",
+    "short_slug": "Железо_-_Возможность_подключения_компьютера_ZX_spectrum_к_TV"
+  },
+  {
+    "article_id": 2030,
+    "article_url": "https://zxpress.ru/article.php?id=2030",
+    "print_url": "https://zxpress.ru/print.php?id=2030",
+    "title_link": "Застрял ? - Oписание игры \"Wild West Seymoure\".",
+    "order": 4,
+    "issue_label": "24",
+    "short_slug": "Застрял_-_Oписание_игры_Wild_West_Seymoure"
+  },
+  {
+    "article_id": 2031,
+    "article_url": "https://zxpress.ru/article.php?id=2031",
+    "print_url": "https://zxpress.ru/print.php?id=2031",
+    "title_link": "Мозаика - Опубликование результатов опроса откладывается ..\r\n В игре \"The Last Battle\" встроен вирус !",
+    "order": 5,
+    "issue_label": "24",
+    "short_slug": "Мозаика_-_Опубликование_результатов_опроса_откладывается_В_и"
+  },
+  {
+    "article_id": 2033,
+    "article_url": "https://zxpress.ru/article.php?id=2033",
+    "print_url": "https://zxpress.ru/print.php?id=2033",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "24",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

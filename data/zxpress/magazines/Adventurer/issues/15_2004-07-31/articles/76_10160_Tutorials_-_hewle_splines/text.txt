@@ -1,0 +1,57 @@
+Adventurer 15 - Tutorials - hewle splines.
+hewle splines...                
+alff/cyberpunks unity           
+
+hewle splines...
+
+I want to speak in this article about
+spline usage. It would be  desirable
+to note, that the purpose of this ar-
+ticle not to explain  what is spline
+and how can you build them. You can
+receive this kind  of information
+from rush 02, but it would hard for
+you because it was russian langua-
+ge magazine...
+
+Why should we use splines?
+
+In spite of the fact that it is very
+slow to build spline, even if will
+completely rewrite routine from
+rush02, all the same you will  not
+achieve very high speed. So it
+seems, that this thing is hardly
+applicable in modern demomaking or
+something like that. But it is  useful
+there a lot.
+
+I think, that all of you frequently
+used tables of sine for construction
+of different kinds of effects, all lo-
+oks good, smoothly and cheerfully.
+and if we try to use spline table
+instead of sine, all become even mo-
+re funny... (by the way in rush02
+priest/em has offered such kind of
+routine, it builds 256 bytes long
+table, and there were 8 control po-
+ints, actually you can find it in the
+attachment, with hewle spline
+studio)
+
+It is not necessary to mention that
+there is an opportunity of
+construction of tables for move-
+ment of different kind of objects and
+etc.
+
+But i didn't find any kind of conveni-
+ent software for modelling  splines,
+well and i decided to write my own. I
+urgently advise you to read help.
+There all is simple and clear.
+
+That's all.
+
+alff/cpu

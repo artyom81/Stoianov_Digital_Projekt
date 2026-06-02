@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 83,
+    "article_url": "https://zxpress.ru/article.php?id=83",
+    "print_url": "https://zxpress.ru/print.php?id=83",
+    "title_link": "B.B.S. Новости - Размышления о графиках работы станций.",
+    "order": 1,
+    "issue_label": "77",
+    "short_slug": "BBS_Новости_-_Размышления_о_графиках_работы_станции"
+  },
+  {
+    "article_id": 2467,
+    "article_url": "https://zxpress.ru/article.php?id=2467",
+    "print_url": "https://zxpress.ru/print.php?id=2467",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "77",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2469,
+    "article_url": "https://zxpress.ru/article.php?id=2469",
+    "print_url": "https://zxpress.ru/print.php?id=2469",
+    "title_link": "Moзаика - \"Virus-2\" - если не работает управление в игре...",
+    "order": 3,
+    "issue_label": "77",
+    "short_slug": "Moзаика_-_Virus-2_-_если_не_работает_управление_в_игре"
+  },
+  {
+    "article_id": 2466,
+    "article_url": "https://zxpress.ru/article.php?id=2466",
+    "print_url": "https://zxpress.ru/print.php?id=2466",
+    "title_link": "ZXNet - О новой версии сетевого справочника.",
+    "order": 4,
+    "issue_label": "77",
+    "short_slug": "ZXNet_-_О_новои_версии_сетевого_справочника"
+  },
+  {
+    "article_id": 2468,
+    "article_url": "https://zxpress.ru/article.php?id=2468",
+    "print_url": "https://zxpress.ru/print.php?id=2468",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "77",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2470,
+    "article_url": "https://zxpress.ru/article.php?id=2470",
+    "print_url": "https://zxpress.ru/print.php?id=2470",
+    "title_link": "Чемпионат VIRUS-2 - Итоги чемпионата,в котором принимали участие 32 вирусa.",
+    "order": 6,
+    "issue_label": "77",
+    "short_slug": "Чемпионат_VIRUS-2_-_Итоги_чемпионатав_котором_принимали_учас"
+  }
+]

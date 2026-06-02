@@ -1,0 +1,15 @@
+{
+  "magazine_id": 222,
+  "magazine_name": "Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-03-30",
+  "order": 3,
+  "article_id": 14631,
+  "title_link": "Записки о пиве - почему пиво лучше женщины.",
+  "title_h1": "Time 01 - Записки о пиве - почему пиво лучше женщины.",
+  "print_url": "https://zxpress.ru/print.php?id=14631",
+  "article_url": "https://zxpress.ru/article.php?id=14631",
+  "fetched_at": "2026-05-31T23:14:30Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 5171,
+    "article_url": "https://zxpress.ru/article.php?id=5171",
+    "print_url": "https://zxpress.ru/print.php?id=5171",
+    "title_link": "Машинные языки - Языки программирования.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Машинные_языки_-_Языки_программирования"
+  },
+  {
+    "article_id": 5172,
+    "article_url": "https://zxpress.ru/article.php?id=5172",
+    "print_url": "https://zxpress.ru/print.php?id=5172",
+    "title_link": "Стандарт экрана - о стандартах экрана мониторов.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Стандарт_экрана_-_о_стандартах_экрана_мониторов"
+  },
+  {
+    "article_id": 5173,
+    "article_url": "https://zxpress.ru/article.php?id=5173",
+    "print_url": "https://zxpress.ru/print.php?id=5173",
+    "title_link": "Полезные сведения - знаете ли Вы,что...",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Полезные_сведения_-_знаете_ли_Вычто"
+  },
+  {
+    "article_id": 5174,
+    "article_url": "https://zxpress.ru/article.php?id=5174",
+    "print_url": "https://zxpress.ru/print.php?id=5174",
+    "title_link": "Ваше здоровье - комплек упражнений для снятия зрительного утомления при работе с экраном дисплея.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Ваше_здоровье_-_комплек_упражнении_для_снятия_зрительного_ут"
+  },
+  {
+    "article_id": 5175,
+    "article_url": "https://zxpress.ru/article.php?id=5175",
+    "print_url": "https://zxpress.ru/print.php?id=5175",
+    "title_link": "Юмор - слова-переделки из жизни компьютерщиков.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Юмор_-_слова-переделки_из_жизни_компьютерщиков"
+  },
+  {
+    "article_id": 5176,
+    "article_url": "https://zxpress.ru/article.php?id=5176",
+    "print_url": "https://zxpress.ru/print.php?id=5176",
+    "title_link": "Ария - Сборник лучших песен Самой крутой рок-группы 'АРИЯ' (часть вторая).",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Ария_-_Сборник_лучших_песен_Самои_крутои_рок-группы_АРИЯ_час"
+  },
+  {
+    "article_id": 5177,
+    "article_url": "https://zxpress.ru/article.php?id=5177",
+    "print_url": "https://zxpress.ru/print.php?id=5177",
+    "title_link": "Poke's - подборка poke's.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Pokes_-_подборка_pokes"
+  }
+]

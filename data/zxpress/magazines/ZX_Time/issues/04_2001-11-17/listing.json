@@ -1,0 +1,137 @@
+[
+  {
+    "article_id": 5717,
+    "article_url": "https://zxpress.ru/article.php?id=5717",
+    "print_url": "https://zxpress.ru/print.php?id=5717",
+    "title_link": "От редактора - о четвертом номере газеты, авторы выпуска.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "От_редактора_-_о_четвертом_номере_газеты_авторы_выпуска"
+  },
+  {
+    "article_id": 5718,
+    "article_url": "https://zxpress.ru/article.php?id=5718",
+    "print_url": "https://zxpress.ru/print.php?id=5718",
+    "title_link": "Почта - письма читалей: Nuts, DJ\r\nHooligan, Игорь Бутырлев.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Почта_-_письма_читалеи_Nuts_DJHooligan_Игорь_Бутырлев"
+  },
+  {
+    "article_id": 5719,
+    "article_url": "https://zxpress.ru/article.php?id=5719",
+    "print_url": "https://zxpress.ru/print.php?id=5719",
+    "title_link": "Кодерам - \"Сага о бордюре продолжается!\" (программирование эффектов на бордюре).",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Кодерам_-_Сага_о_бордюре_продолжается_программирование_эффек"
+  },
+  {
+    "article_id": 5720,
+    "article_url": "https://zxpress.ru/article.php?id=5720",
+    "print_url": "https://zxpress.ru/print.php?id=5720",
+    "title_link": "Железяки - схема расширения графики обычного Спектрума до\r\nрежима аппаратного мултиколора 1байт=1цвет.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Железяки_-_схема_расширения_графики_обычного_Спектрума_дореж"
+  },
+  {
+    "article_id": 5721,
+    "article_url": "https://zxpress.ru/article.php?id=5721",
+    "print_url": "https://zxpress.ru/print.php?id=5721",
+    "title_link": "Новости и старости - Adventurer 13, Deja Vu #0B, ZX Chart #3, \"Черная Ворона 7\" на подходе, Проект \"Угадай Мелодию\" продвигается, Power of Sound vs X Team продолжается война между этими группами, новый эмуляторы спектрума и т.д.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Новости_и_старости_-_Adventurer_13_Deja_Vu_0B_ZX_Chart_3_Чер"
+  },
+  {
+    "article_id": 5722,
+    "article_url": "https://zxpress.ru/article.php?id=5722",
+    "print_url": "https://zxpress.ru/print.php?id=5722",
+    "title_link": "Обзор новья - Don News 15, Lamergy 1, ZX Rulem, New Puzzle, Trouble v0.2, ASM to PT, Real Audio Player, Mini Games Collection.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Обзор_новья_-_Don_News_15_Lamergy_1_ZX_Rulem_New_Puzzle_Trou"
+  },
+  {
+    "article_id": 5723,
+    "article_url": "https://zxpress.ru/article.php?id=5723",
+    "print_url": "https://zxpress.ru/print.php?id=5723",
+    "title_link": "Дискуссия - \"LZB о демосцене и о всём...\"",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Дискуссия_-_LZB_о_демосцене_и_о_всем"
+  },
+  {
+    "article_id": 5724,
+    "article_url": "https://zxpress.ru/article.php?id=5724",
+    "print_url": "https://zxpress.ru/print.php?id=5724",
+    "title_link": "Дискуссия - \"реализация многозадачности и ОС на спектруме\".",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Дискуссия_-_реализация_многозадачности_и_ОС_на_спектруме"
+  },
+  {
+    "article_id": 5725,
+    "article_url": "https://zxpress.ru/article.php?id=5725",
+    "print_url": "https://zxpress.ru/print.php?id=5725",
+    "title_link": "Дискуссия - \"Multitask. Реалии и мифы...\"",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Дискуссия_-_Multitask_Реалии_и_мифы"
+  },
+  {
+    "article_id": 5726,
+    "article_url": "https://zxpress.ru/article.php?id=5726",
+    "print_url": "https://zxpress.ru/print.php?id=5726",
+    "title_link": "Мнение - \"О спекки-прессе\": Body, Target, Optron, IzhNews, Scream, Za Rulem, Don News, ZX Pilot, KrNews.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Мнение_-_О_спекки-прессе_Body_Target_Optron_IzhNews_Scream_Z"
+  },
+  {
+    "article_id": 5727,
+    "article_url": "https://zxpress.ru/article.php?id=5727",
+    "print_url": "https://zxpress.ru/print.php?id=5727",
+    "title_link": "PC и Spectrum - обзор интернет ресурсов посвященных Спектруму.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "PC_и_Spectrum_-_обзор_интернет_ресурсов_посвященных_Спектрум"
+  },
+  {
+    "article_id": 5728,
+    "article_url": "https://zxpress.ru/article.php?id=5728",
+    "print_url": "https://zxpress.ru/print.php?id=5728",
+    "title_link": "PC и Spectrum - обзор и рейтинг Эмуляторов ZX Spectrum.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "PC_и_Spectrum_-_обзор_и_реитинг_Эмуляторов_ZX_Spectrum"
+  },
+  {
+    "article_id": 5729,
+    "article_url": "https://zxpress.ru/article.php?id=5729",
+    "print_url": "https://zxpress.ru/print.php?id=5729",
+    "title_link": "О всём про всё - \"В поисках Несси\".",
+    "order": 13,
+    "issue_label": "04",
+    "short_slug": "О_всем_про_все_-_В_поисках_Несси"
+  },
+  {
+    "article_id": 5730,
+    "article_url": "https://zxpress.ru/article.php?id=5730",
+    "print_url": "https://zxpress.ru/print.php?id=5730",
+    "title_link": "И смех, и грех - анекдоты.",
+    "order": 14,
+    "issue_label": "04",
+    "short_slug": "И_смех_и_грех_-_анекдоты"
+  },
+  {
+    "article_id": 5731,
+    "article_url": "https://zxpress.ru/article.php?id=5731",
+    "print_url": "https://zxpress.ru/print.php?id=5731",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 15,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

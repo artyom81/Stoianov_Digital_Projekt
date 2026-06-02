@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "2002-10-31",
+  "order": 2,
+  "article_id": 9319,
+  "title_link": "Olds - критика Alone Coder журнала Kpuk#2.",
+  "title_h1": "ACNews 13 - Olds - критика Alone Coder журнала Kpuk#2.",
+  "print_url": "https://zxpress.ru/print.php?id=9319",
+  "article_url": "https://zxpress.ru/article.php?id=9319",
+  "fetched_at": "2026-05-31T21:30:29Z"
+}

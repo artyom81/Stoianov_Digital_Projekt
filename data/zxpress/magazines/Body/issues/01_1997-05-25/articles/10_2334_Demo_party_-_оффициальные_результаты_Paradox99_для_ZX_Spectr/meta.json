@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-05-25",
+  "order": 10,
+  "article_id": 2334,
+  "title_link": "Demo party - оффициальные результаты Paradox'99 для ZX Spectrum.",
+  "title_h1": "Demo or Die 02 - Demo party - оффициальные результаты Paradox'99 для ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=2334",
+  "article_url": "https://zxpress.ru/article.php?id=2334",
+  "fetched_at": "2026-05-31T21:40:36Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 250,
+  "magazine_name": "ZX City",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-10-06",
+  "order": 1,
+  "article_id": 14461,
+  "title_link": "Новость недели - я наконец-то\r\nдостал демки с FT'98.",
+  "title_h1": "ZX City 03 - Новость недели - я наконец-то достал демки с FT&#039;98.",
+  "print_url": "https://zxpress.ru/print.php?id=14461",
+  "article_url": "https://zxpress.ru/article.php?id=14461",
+  "fetched_at": "2026-05-31T23:19:09Z"
+}

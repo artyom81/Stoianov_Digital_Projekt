@@ -1,0 +1,181 @@
+Subliminal Extacy 01 - PUBLIC DOMAIN & SHAREWARE EXPLAINED
+PUBLIC DOMAIN & SHAREWARE EXPLAINED              
+                                                                
+The end of this section has a free offer to SE readers.         
+                                                                
+Welcome to a Prism PD special on the public domain. The         
+following article was written by N. Bradshaw for PD POWER #7 -  
+June 94, and is updated by M. Sherwood of Prism PD. We tell you 
+the legal aspects of PD and Shareware, and who is around in the 
+PD world. First, lets find out what the fuss is all about...!   
+                                                                
+Public domain software . What is it? Where does it come from?   
+What does it eat? Most of these questions will be answered but  
+lets delve into history. PD software had its birthplace in the  
+American higher education system. Although home computers was   
+spawned by Sir Clive with his electronic shoebox called the     
+Z80, DIY boffins had been building computers across the states  
+for many years. American colleges were soon full of these little
+critters, and the decision was made that all software written   
+within the education establishment would be 'public domain'.    
+                                                                
+Public domain grew in popularity much quicker with the advent of
+CP/M - Control Processor for Micro Computers. The CP/M system   
+allowed software to be used on different computers (up to a     
+point). There is a fair amount of PD software written under     
+this operating system i.e. the CPC. If you are a +3 user with   
+CP/M, you will have greater access to PD software.              
+                                                                
+The whole thing has really snowballed though, and PD covers a   
+whole range of material from BASIC type-ins to business software
+to demos.                                                       
+                                                                
+THE LEGAL ANGLE                                                 
+                                                                
+Public Domain has a very specific legal meaning. It means that  
+the creator of a work (in this case software), who HAD legal    
+ownership of that work, has GIVEN UP ownership and dedicated his
+work to the 'PUBLIC DOMAIN'. This fact should be clearly        
+understood by everyone including other services!                
+                                                                
+Once something is in the public domain, anyone can use it in ANY
+WAY THEY CHOOSE! That includes using the software on disc - even
+if the authors purpose was for it to be used on tape!! The      
+author has no control over its use and CANNOT demand payment    
+from it. There is only 1 stipulation: it must not be sold for a 
+profit. PD software is FREE, but libraries will make a nominal  
+charge to cover copying / admin costs.                          
+                                                                
+You can even convert the software into another programming      
+language.                                                       
+                                                                
+The PD scene has also become linked with cheap home grown soft  
+ware and is usually sold through certain libraries. This form of
+software is termed Licensware, with a small percentage going to 
+the author, however the software is NOT public domain.          
+                                                                
+WHY WRITE FREE SOFTWARE?                                        
+                                                                
+Much of the stuff won't reach commercial standard, but can      
+still be very useful. Most authors won't want the hassles of    
+distributing their own work, hence the need for libraries. Its  
+the perfect way to get your programs into peoples homes and     
+your name known.                                                
+                                                                
+There are quite a number of people who churn out loads of PD    
+programs as a stepping stone to becoming a commercial           
+programmer. Others do it as a hobby, while those already        
+successful will chuck early incarnations into the public domain.
+                                                                
+You can even ALTER the program. But the proper thing to do is to
+send the version to the author. However, you must not remove    
+any original credits. Authors cannot requst payment from the    
+customer as with Shareware. If it's free, IT'S FREE! If a PD    
+file is sent to you, i.e. the customer, which contains a read me
+file requesting payment to the author - ignore it because it is 
+illegal!                                                        
+                                                                
+THE LAW IN BRIEF!                                               
+                                                                
+When you're copying and distributing stuff, you need to be      
+pretty certain you are allowed to. Obviously, programs you've   
+written yourself and magazine type-ins are pretty safe, but     
+there is the potential for problems with other sources. Here's  
+a quick guideline:                                              
+                                                                
+Be sure the software you are distributing is genuine public     
+domain software. Due to confusion over the meaning of the words,
+programs are often described by authors as being "public domain"
+when, in fact they are shareware or free copyrighted software.  
+To be sure software is public domain there should be a statement
+to that effect on screen, or within the listing of BASIC        
+programms. Thirdly, a letter from the author with words to that 
+effect will also do.                                            
+                                                                
+Some PD programs like demos, may be PD, but will contain        
+'cracked ' music from commercial titles. You won't know until   
+someone tells you, so be wary.                                  
+                                                                
+Just because a title has been in another library for a number of
+months, is no measure that it is safe - they havn't been caught 
+yet!                                                            
+                                                                
+Don't lose any sleep though, as you are not likely to get into  
+legal problems. Libraries are usually only requested to remove  
+the offending title. Any duplication industry has something     
+dodgy around, but 95% will be kosher.                           
+                                                                
+ADULT SOFTWARE                                                  
+                                                                
+One of the talking points is the availability of adult material 
+on 16/32 bit computers. Although this raises anger from         
+parents, due to lack of measures for the under 18's, this is    
+nothing compared to the very explicit material (PORN) that is   
+around, and receiving attention from the police and the         
+government. There is talk of legislation to control PD, but     
+this material is virtually non-existent on the Spectrum         
+                                                                
+For general adult software, the requirement by law is as        
+follows. Such software should be clearly classified as with     
+tapes, by indicating a certain age group that the software is   
+for or just stating 'ADULT'. Provided libraries do that, there  
+should be no problem & it is the responsibility of the customer 
+to ensure that adult software is not seen by minors.            
+                                                                
+SHAREWARE                                                       
+                                                                
+SHAREWARE is different to PD. There is confusion over the way it
+works, especially by other so called 'experts'. Shareware is    
+only similar in 2 ways: (a) the copying fee is purely for the   
+libary and (b) Shareware can be freely copied and distributed.  
+Here the similarity ends.                                       
+                                                                
+Most shareware is as good or better than commercial programs.   
+Instructions for the programs are usually stored on disk in     
+.DOC or .TXT files. You must read these to see how to install   
+or run the program. There will be another .DOC file, which      
+contains information on how to register (pay) for your copy     
+with the author. You will usually have a maximum of 30 days to  
+determine if the program is useful before paying for free       
+updates, detailed manuals, etc. Quite often, shareware programs 
+have some functions ommitted, but members of the ASP will       
+provide full versions. Shareware, is common on the PC, while the
+Amiga and Atari is PD orientated.                               
+                                                                
+Here is our service round-up.                                   
+                                                                
+1. PD POWER:                                                    
+This is our 36 page A5 magazine of laser quality as from issue  
+11. The magazine contains news pages, techi page by Extacy-3,   
+BASIC, +3 column, MICRODRIVE column, +D column from issue 12,   
+PD World which we started last July, utility pages, letters     
+page, PC & Amiga help pages, SAM reviews, PD reviews, adverts,  
+business round up page, and a club page hosted by ex YS editor  
+- LINDA BARKER.                                                 
+                                                                
+2. FAST DESPATCH:                                               
+Contrary to opinion, we have always met deadlines on our        
+catalogues. However, since early 1994 we process orders by cash 
+or PO in 1-3 days. Orders by cheques in 4-5 days. All orders are
+sent back with a receipt, and discs are wrapped in silver foil. 
+                                                                
+3. CATALOGUE:                                                   
+We are currently working on a brand new & revamped calogue of 8 
+pages. Catalogues are available FREE, but please send an SAE. We
+cater for tape, +D, +3, Microdrive, DX1, and Disciple Users     
+                                                                
+4. SEAL OF APPROVAL: Prism PD is a member of the PSD -          
+Professional Standards Of Distribution endorsed by Commodore    
+UK. The PSD is well known in Amiga and PC circles. As a member, 
+we adhere to high standards and do NOT distort the truth on     
+other services.                                                 
+                                                                
+5. Prism PD only stocks the best software - NO ADULT TITLES.    
+                                                                
+SPECIAL OFFER to S.E. readers. Send 2 C90's or 2 +3 discs, or 2 
++D DD 3.5 discs for software at no charge. We are sorry, but due
+to our current 3.5 drive, we can't use HD 3.5 discs. We will    
+fill your media with a range of titles. Also, on every order,   
+we will send you a free gift + our catalogue, & information     
+sheets. No SAE required. Write to: Prism PD, 13 Rodney Close,   
+Bilton, Rugby CV22 7HJ.

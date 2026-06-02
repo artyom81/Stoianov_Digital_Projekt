@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "42",
+  "issue_date_iso": "1998-09-27",
+  "order": 1,
+  "article_id": 2988,
+  "title_link": "Новости - Позвоните на 100 Hz BBS.",
+  "title_h1": "ZX-News 42 - Новости - Позвоните на 100 Hz BBS.",
+  "print_url": "https://zxpress.ru/print.php?id=2988",
+  "article_url": "https://zxpress.ru/article.php?id=2988",
+  "fetched_at": "2026-05-31T23:29:56Z"
+}

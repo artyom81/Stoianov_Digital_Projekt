@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 6688,
+    "article_url": "https://zxpress.ru/article.php?id=6688",
+    "print_url": "https://zxpress.ru/print.php?id=6688",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6689,
+    "article_url": "https://zxpress.ru/article.php?id=6689",
+    "print_url": "https://zxpress.ru/print.php?id=6689",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6690,
+    "article_url": "https://zxpress.ru/article.php?id=6690",
+    "print_url": "https://zxpress.ru/print.php?id=6690",
+    "title_link": "Софт - описание программы для работы с модемом: CDOS1.15.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Софт_-_описание_программы_для_работы_с_модемом_CDOS115"
+  },
+  {
+    "article_id": 6691,
+    "article_url": "https://zxpress.ru/article.php?id=6691",
+    "print_url": "https://zxpress.ru/print.php?id=6691",
+    "title_link": "Софт - CUTHIST2 - \"вырезатель\" history из аварийной отгрузки.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Софт_-_CUTHIST2_-_вырезатель_history_из_авариинои_отгрузки"
+  },
+  {
+    "article_id": 6692,
+    "article_url": "https://zxpress.ru/article.php?id=6692",
+    "print_url": "https://zxpress.ru/print.php?id=6692",
+    "title_link": "Железо - работа основного элемента цифровой техники - Триггера.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Железо_-_работа_основного_элемента_цифровои_техники_-_Тригге"
+  },
+  {
+    "article_id": 6693,
+    "article_url": "https://zxpress.ru/article.php?id=6693",
+    "print_url": "https://zxpress.ru/print.php?id=6693",
+    "title_link": "Юмор - Как стать 'НОВЫМ РУССКИМ'.",
+    "order": 6,
+    "issue_label": "38",
+    "short_slug": "Юмор_-_Как_стать_НОВЫМ_РУССКИМ"
+  },
+  {
+    "article_id": 6694,
+    "article_url": "https://zxpress.ru/article.php?id=6694",
+    "print_url": "https://zxpress.ru/print.php?id=6694",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "38",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6695,
+    "article_url": "https://zxpress.ru/article.php?id=6695",
+    "print_url": "https://zxpress.ru/print.php?id=6695",
+    "title_link": "Юмор - анекдоты.",
+    "order": 8,
+    "issue_label": "38",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6696,
+    "article_url": "https://zxpress.ru/article.php?id=6696",
+    "print_url": "https://zxpress.ru/print.php?id=6696",
+    "title_link": "Юмор - рекламные объявления от \"МоМар\"-а.",
+    "order": 9,
+    "issue_label": "38",
+    "short_slug": "Юмор_-_рекламные_объявления_от_МоМар-а"
+  },
+  {
+    "article_id": 6697,
+    "article_url": "https://zxpress.ru/article.php?id=6697",
+    "print_url": "https://zxpress.ru/print.php?id=6697",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 10,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6698,
+    "article_url": "https://zxpress.ru/article.php?id=6698",
+    "print_url": "https://zxpress.ru/print.php?id=6698",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 11,
+    "issue_label": "38",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

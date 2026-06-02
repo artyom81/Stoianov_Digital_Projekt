@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "32",
+  "issue_date_iso": "1999-10-04",
+  "order": 2,
+  "article_id": 10496,
+  "title_link": "Железо - схема светового пера для ZX Spectrum.",
+  "title_h1": "City 32 - Железо - схема светового пера для ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=10496",
+  "article_url": "https://zxpress.ru/article.php?id=10496",
+  "fetched_at": "2026-05-31T21:51:19Z"
+}

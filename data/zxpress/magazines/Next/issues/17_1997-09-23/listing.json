@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 15487,
+    "article_url": "https://zxpress.ru/article.php?id=15487",
+    "print_url": "https://zxpress.ru/print.php?id=15487",
+    "title_link": "Новости - Новость дня.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Новости_-_Новость_дня"
+  },
+  {
+    "article_id": 15488,
+    "article_url": "https://zxpress.ru/article.php?id=15488",
+    "print_url": "https://zxpress.ru/print.php?id=15488",
+    "title_link": "Новость - Хиросима45, Чернобыль86, Windows95, Enlight97.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Новость_-_Хиросима45_Чернобыль86_Windows95_Enlight97"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 7555,
+    "article_url": "https://zxpress.ru/article.php?id=7555",
+    "print_url": "https://zxpress.ru/print.php?id=7555",
+    "title_link": "Наши новости - О компьютерной конференции ENLIGHT96",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Наши_новости_-_О_компьютернои_конференции_ENLIGHT96"
+  },
+  {
+    "article_id": 7556,
+    "article_url": "https://zxpress.ru/article.php?id=7556",
+    "print_url": "https://zxpress.ru/print.php?id=7556",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7557,
+    "article_url": "https://zxpress.ru/article.php?id=7557",
+    "print_url": "https://zxpress.ru/print.php?id=7557",
+    "title_link": "Обзор - О новых программах : TANK WAR , DARKMAN , SUPER CARS.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_О_новых_программах_TANK_WAR_DARKMAN_SUPER_CARS"
+  },
+  {
+    "article_id": 7558,
+    "article_url": "https://zxpress.ru/article.php?id=7558",
+    "print_url": "https://zxpress.ru/print.php?id=7558",
+    "title_link": "Разберемся - Описание миссий игры LASER SQUAD.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Разберемся_-_Описание_миссии_игры_LASER_SQUAD"
+  },
+  {
+    "article_id": 7559,
+    "article_url": "https://zxpress.ru/article.php?id=7559",
+    "print_url": "https://zxpress.ru/print.php?id=7559",
+    "title_link": "Разберемся - Описаие игры NORTH & SOUTH.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Разберемся_-_Описаие_игры_NORTH_SOUTH"
+  },
+  {
+    "article_id": 7560,
+    "article_url": "https://zxpress.ru/article.php?id=7560",
+    "print_url": "https://zxpress.ru/print.php?id=7560",
+    "title_link": "Разберемся - Подробный отчет о прохождении игры CRIME SANTA CLAUS.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игры_CRIME_SANTA"
+  },
+  {
+    "article_id": 7561,
+    "article_url": "https://zxpress.ru/article.php?id=7561",
+    "print_url": "https://zxpress.ru/print.php?id=7561",
+    "title_link": "Сделай сам - Распечатай себе календарь на 1997 год.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Сделаи_сам_-_Распечатаи_себе_календарь_на_1997_год"
+  },
+  {
+    "article_id": 7562,
+    "article_url": "https://zxpress.ru/article.php?id=7562",
+    "print_url": "https://zxpress.ru/print.php?id=7562",
+    "title_link": "Конкурс - Конкурс на лучший вирус продолжается.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Конкурс_-_Конкурс_на_лучшии_вирус_продолжается"
+  },
+  {
+    "article_id": 7563,
+    "article_url": "https://zxpress.ru/article.php?id=7563",
+    "print_url": "https://zxpress.ru/print.php?id=7563",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

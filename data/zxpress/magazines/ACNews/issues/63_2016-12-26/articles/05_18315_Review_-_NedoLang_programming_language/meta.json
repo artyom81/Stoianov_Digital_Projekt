@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "63",
+  "issue_date_iso": "2016-12-26",
+  "order": 5,
+  "article_id": 18315,
+  "title_link": "Review - NedoLang programming language",
+  "title_h1": "ACNews 63 - Review - NedoLang programming language",
+  "print_url": "https://zxpress.ru/print.php?id=18315",
+  "article_url": "https://zxpress.ru/article.php?id=18315",
+  "fetched_at": "2026-05-31T21:31:48Z"
+}

@@ -1,0 +1,89 @@
+Review 01 - Игры - краткое описание игр Continental Circus, Iron Man и 10 FINGERS+.
+Game_name    : HobGoblin .
+Copyright    : Atlantis '1991 .
+Disk version : Mortal Kombat HG .
+Жанр         : Action (вид сбоку) .
+Это , конечно,не Stormlord ,но поиграть
+тоже можно .
+╔─═══─╗
+                │Гонки│
+                ╚─────╝
+Game_name    : Continental Circus
+Copyright    : Taito corp. '1889
+Disk version : FELIX
+Жанр         : Гонки - Формула 1
+Находка  для поклонников Formul'ы - 128
+версия Continental Circus .Прекрасное гра-
+фическое и музыкальное оформление .
+
+1.Игра состоит из 8-ми различных трасс .
+2.Каждая   трасса   насчитывает  несколько
+промежуточных финишев .
+3.Показатели на экране :
+
+QUALITY  -  минимальное  место ,которое вы
+должны занять после прохождения какой-либо
+трассы,чтобы перейти на следующую .
+
+RANK - ваше текущее место на трассе .
+TIME  -  время  ,отведенное на прохождение
+части трассы. (до промежуточного финиша)
+
+4.При  повреждении машины ,а также при из-
+менении климатических условий (дождь) сле-
+дует  заехать  на Pit-stop (признаки :нес-
+колько табличек с большой буквой -P- ,рас-
+ширение дороги ) .
+Game_name    : Iron Man
+Copyright    : GraftGold  '1990
+Disk version : VS prog group
+Жанр         : Гонки без правил .
+И еще одна гоночка, которой мы хотим по-
+радовать  вас на этой неделе .Скачивайте и
+отрывайтесь !
+Game_name    : 10 FINGERS+
+Copyright    : Digital Reality '1996
+Disk version : Art-Soft
+Жанр         : Тренажер .
+За что бы не взялась новгородская группа
+Digital Reality ,она всегда делала это ка-
+чественно  .  Не  стал  исключением и этот
+продукт  -  новый  тренажер  клавиатуры 10
+FINGERS .Так что ,дорогие пользователи,ес-
+ли  у вас вдруг проснулось желание немного
+повысить  скорость  набора вами каких-либо
+текстов, то эта программа вам точно не по-
+мешает .
+╔──═══──╗
+                │Системы│
+                ╚───────╝
+Syst_name : Echo viewer
+Copyright : Denis Parinov (08.16) '1997
+Демо-версия view'ера для прочтения эх.
+Syst_name : Text Writer Demo
+Copyright : Denis Parinov (08.16) '1997
+Демо-версия нового текстового редактора.
+Syst_name : MSP v1.3
+Copyright : Speed Co.  Самара '1997
+Новый упаковщик экранных файлов .
+Syst_name : XAS 7.40 (64 символа)
+Copyright : Max Petrov '& Paul Falcon '1997
+Новая  версия одного из самых лучших ас-
+семблеров на speccy.
+┌──────────┐
+              │MusicDemos│
+              └──────────┘
+Demo_name : Assorty megademo       ***
+Copyright : Dream Makers Software (DMS)'93
+
+Demo_name : Vibration eurodemo (trackmo)
+Copyright : DMS  RUSH ISPA   '1996
+Две демы от Dream Makers : самая первая
+и одна из последних ,представленная на En-
+light'96 .
+Demo_name : MiniDemo
+Copyright : VS prog group '97
+
+Demo_name : Demomake
+Copyright : VS prog group '97
+─══════════════────────────══════════════─

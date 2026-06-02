@@ -1,0 +1,119 @@
+Subliminal Extacy 03 - Just Intonation: Making music come to life
+Just Intonation: Making music come to life
+                         By Gasman / RA
+
+   "...The way I used to type in the notes was directly
+    into the assembler editor as pairs of numbers, without
+    labels, so I used to be able to tweak the numbers up
+    and down to make the chords 'ring' properly."
+   - Music god Tim Follin, speaking on comp.sys.sinclair
+
+With all  the sound  trackers available  on the  Spectrum today,
+musicians can create  their compositions without  worrying about
+the way their notes are translated into sound waves. However, if
+you have some knowledge of the science involved, you can achieve
+a sound quality higher than anything produced by a tracker.
+
+Before the age of computer  music, this science belonged to  the
+exciting world of piano tuning. No, really.
+
+You see, there's  more than one  'correct' way to  tune a piano.
+Most people would  find it hard  to tell the  difference between
+them, but each  method has precise  details which conflict  with
+the others. The only thing they all agree on is the octave. Take
+any note you  like, double the  frequency, and you  get the same
+note  an octave  higher. Double  it again  and you  get another
+octave.
+
+We're now faced with the problem of dividing the octave up  into
+12 notes. (Yes, it is 12, and not 8: C, C#, D, Eb, E, F, F#,  G,
+Ab, A,  Bb, B.)  The obvious  thing to  do is  have them equally
+spaced: just multiply  the frequency by  'wibble' to get  to the
+next note, and once you've multiplied by 'wibble' 12 times,  you
+reach twice the frequency of  the original note - precisely  one
+octave  above. A  quick bit  of calculator  prodding shows  that
+'wibble' is 2^(1/12), which is approximately 1.0594631.
+
+The big advantage here is that  you don't have to start from  C.
+If you start  with B and  then do the  multiplying, you hit  the
+same sequence  of notes.  This is  good news  for piano  tuners,
+because  it means  that you  can get  a Bach  fugue in  D minor
+sounding just as good as a Mozart sonata in G major. This method
+is called 'equal temperament', and it's used in everything  from
+saxophones to synthesisers.
+
+Unfortunately, this  scheme results  in poor  quality sound.  To
+explain why, let me tell you about Pythagoras. After a hard  day
+of proving stuff about triangles, Mr P would chill out with  his
+Fender Stratocaster (hmm, you have to use your imagination a bit
+here).  He  discovered that  the  coolest sounds  came  when the
+frequencies of the notes had  a nice simple ratio between  them.
+For instance, if two notes are an octave apart, they have a  2:1
+ratio, which  is about  as simple  as it  can get.  On the other
+hand, 1.0594631:1 is not a nice  ratio at all, and as a  result,
+equal temperament doesn't sound as nice as it should.
+
+2500 years of music later, it's been decided that a 'nice' ratio
+is one where the numbers are  all multiples of 2, 3 and  5. This
+is known as 'Five-limit Just Intonation', because you're limited
+to the  prime numbers  up to  5. You  can get  other systems  by
+choosing a different limit, but they're a bit pointless and they
+just confuse the issue. Trust me on this, okay...
+
+So, sticking to five-limit just intonation, these are the ratios
+to go for:
+
+C  -  1: 1
+C# - 25:24
+D  -  9: 8
+Eb -  6: 5
+E  -  5: 4
+F  -  4: 3
+F# - 45:32
+G  -  3: 2
+Ab -  8: 5
+A  -  5: 3
+Bb -  9: 5
+B  - 15: 8
+C  -  2: 1
+
+Of course, if you want more than one octave, you can move up  or
+down one  octave by  doubling or  halving the  ratio. A  word of
+warning though - THESE RATIOS ONLY  WORK IF YOUR TUNE IS IN  THE
+KEY OF C! The ratios aren't actually connected to the note names
+themselves; I've just chosen C as a starting point.
+
+To illustrate this, take the sequence of notes C F Bb. We'll say
+that the frequency  of C is  10OOHz; it doesn't  matter what you
+choose.  Working  from  the  ratios  above,  we  get:  C=10OOHz,
+F=13ЗЗHz, Bb=18OOHz.
+Now, let's do the same thing in the key of F: the notes turn out
+to be F Bb Eb. We now know that F should be 13ЗЗHz. However,  we
+can't just read the values from the table now, because F is  the
+starting point,  not C.  And this  time, Bb  really means  'five
+semitones above the starting point',  and the ratio for that  is
+4:3. So, it  should be calculated  as 1333 x  (4/3), which works
+out as 1778Hz. Likewise, Eb  is ten semitones above F,  and this
+turns  out  to  be  24OOHz.  So,  we  get:  F=13ЗЗHz, Bb=1778Hz,
+E=24OOHz.
+
+Hang on a  moment... Bb was  18OOHz a minute  ago, and now  it's
+1778Hz! No,  it's not  a mistake.  Both values  can be  correct,
+depending on the key your tune is written in. Obviously this  is
+impossible on a piano, because the  Bb key can only be tuned  to
+one note - so  the piano tuner has  to compromise and use  equal
+temperament instead.
+
+On the Spectrum, there's no such problem, because we can produce
+any frequency we want (well, near enough). The first step is  to
+transpose your tune to the key of C (either C major or C minor).
+Next, decide which frequency to use for C. Anything will do,  so
+choose one that doesn't make your tune too high or low. Finally,
+use the handy table of ratios to calculate the frequency of each
+note.
+
+It's as easy as that!  Well, that's not the full  story, because
+you now have to write your  own routine to play the music  - but
+that's the easy  part, because you've  already done most  of the
+work. Anyway, if it's good enough for Tim Follin, why would  you
+want to disagree...

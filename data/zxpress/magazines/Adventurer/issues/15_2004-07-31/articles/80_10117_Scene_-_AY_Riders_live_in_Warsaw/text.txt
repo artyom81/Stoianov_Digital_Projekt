@@ -1,0 +1,230 @@
+Adventurer 15 - Scene - AY Riders live in Warsaw.
+2 a.m., Sunday 29th February 2004.
+
+  Everything  was  quiet  after  a night of non-stop chip music.
+250  revellers  were  heading  home,  dazed  from experiencing a
+concert  like  no  other. Equipment was packed up and piled high
+in  car  boots,  and  we  were  on the drive back to the home of
+Wojtek,  the  main  organiser,  to  catch some rest. That's when
+Wojtek  posed  the question: When you first heard the suggestion
+of an AY Riders concert, what was your initial thought?
+
+  Factor6,  TDM  and I were in agreement - we all thought it was
+a stupid idea.
+
+  It  was  back in September, at International Vodka Party, that
+the  idea was raised. Yerzmyey announced to the assembled Riders
+that  a  club  owner in Warsaw wanted to host a live performance
+of  the  band.  We  immediately  started  wondering how on earth
+tracker  music  could work in a live setting. But, as bizarre as
+the  idea  sounded,  how could we possibly refuse? It would give
+some  real exposure to our music and put us on the map for sure.
+Either  we'd take the opportunity, or we'd spend the rest of our
+lives wondering what it might have been.
+
+  In  the  months  that followed, we got a taste of how big this
+venture   was   going  to  be.  The  first  revelation  was  the
+announcement  that  PZU,  Poland's  largest  insurance  company,
+would  be  sponsoring  the  concert.  Then came the unhappy news
+that  Megus wouldn't be able to obtain a passport so soon before
+his  military  service  -  we  even  had  the Russian Embassy in
+Poland  on the case, but unfortunately our efforts were in vain.
+Finally,   as  the  big  date  drew  near,  the  media  coverage
+intensified  to  a  proportion we could barely have imagined. We
+were  showcased  on  two  national  radio stations, and not just
+with  throwaway  mentions - most of a one-hour programme on Jazz
+Radio  was  devoted  to our music, and Talk FM hosted a phone-in
+competition and an interview with Yerzmyey.
+
+  On  Friday  afternoon  I touched down in Warsaw, armed with my
+"trusty"  Spectrum  +2  and  +D disc drive. Yerzmyey was next to
+arrive,  accompanied by Karolina, Hellboj, Atari maniac Pinokio,
+and  a  vast pile of hardware brought over from Krakow including
+a  Timex  128K,  a Sprinter, a PC to serve as the disc drive for
+the  Sprinter,  and  monitors for the lot. Later in the evening,
+delayed  slightly  by  the  train service, we were joined by the
+Czech  duo  of Factor6 and TDM, who brought along a selection of
+original    Sinclairs   equipped   with   Zilog's   CompactFlash
+interface.
+
+  Our  first night was spent, unsurprisingly, with large amounts
+of  vodka at Wojtek's place, reading over the collected magazine
+clippings  on the concert and getting our daily fix of demos and
+music.  Eventually  we  all settled down for some rest, ready to
+get down to business the next day.
+
+  The  Galeria  OFF  club  consists  of a cosy little bar (where
+Pinokio  swiftly  commandeered  a  corner for his Atari kit, and
+set  about  coding an intro for a demo party the following day -
+hardcore  guy),  backed  on to a larger hall which, judging from
+the  posters dotted around the walls, serves as a theatre in its
+other  life.  When  we arrived it was a barren empty place, with
+just  a  couple  of  dilapidated sofas pushed against the walls,
+but  that  was  soon  to  change. While our equipment was loaded
+onto  the  stage,  perched  on  a  few  small  tables,  a  giant
+projector  screen  was  being  constructed,  eventually to cover
+most of the side wall of the club.
+
+  The  first  bit  of  decoration  to appear was Factor6's spare
+rubber-key  48,  displaying the constant fluctuating patterns of
+Busysoft's  Song  In  Lines  demo.  I  honestly  can't  remember
+whether  that  survived into the actual performance - I've got a
+feeling  we  sacrificed  the light show so that we'd have enough
+monitors  for  the  full crew. The inevitable pre-concert crises
+happened  -  the  shortage  of  monitors,  the  disappearance of
+important  audio  connectors  -  all  to be resolved at the last
+minute.  The  reassuring  beep  of the Spectrum self-test echoed
+around the hall, and we all breathed a sigh of relief.
+
+  The  crowds  wandered in soon afterwards, to be greeted by the
+sounds  and  sights  of  Taquart's epic Atari demo 'Numen'. With
+the  dancefloor  filled,  the  lights  went  down,  and  it  was
+showtime.
+
+  Robot  Adolv,  the  support  act, were a stroke of genius. The
+simple   idea   behind   their  performance  -  a  guy  and  his
+girlfriend,  dressed in robot costumes adorned with silver foil,
+heating  ducts and lightbulbs, play Commodore 64 chiptunes, make
+their  way  to  the  front  of  the stage and dance around. They
+really  captured  the imagination of the audience, and deserve a
+huge  amount  of  credit  for  setting  up the atmosphere of the
+night.  Before  the concert, our greatest fear was that the club
+would  be filled with people standing still and staring blankly,
+bewildered  by  the  strange  bleeps and squeaks - but with such
+strong  central characters to take the lead, it didn't take long
+before  the  whole  audience  was  copying  their  moves,  as if
+dancing to chip music was the most natural thing in the world.
+
+  We  didn't  have  a  formal  set list planned in advance - the
+plan  was  to  cycle  through  Yerzmyey,  me, TDM and Factor6 in
+turn.  That way, we'd be able to pick appropriate tracks to suit
+the  mood  as  the  evening  went  on, and keep the set nice and
+varied.
+
+  To  accommodate our absent friends, Factor6 played a selection
+of  X-agon's  tracks  along  with his own, while I took on Megus
+and  C-Jeff's  music - as Protracker isn't available for my disk
+interface,  these  were played with the help of a pretty-looking
+player  routine  I'd  coded a couple of days earlier. Yerzmyey's
+Sprinter  was  on  hand  throughout the performance to supply us
+with   spooky   ambient   sounds  to  fill  in  between  tracks,
+especially composed by Yerz for the occasion.
+
+  We  kicked off the show with Yerzmyey's Koto Mix, and straight
+away  we  got to find out what sort of workload was involved. It
+was  DJing  raised  to  the  tenth  power. We were battling with
+temperamental  ancient  hardware,  and juggling the sound output
+of  five  computers  into  a continuous performance was absolute
+mayhem.  In  all  honesty,  it must be said that the guy manning
+the  mixer  desk  was  not  the  sharpest  tool  in the box that
+night...  Yerz  ended  up  having  to supervise every transition
+between  tracks,  while acting as translator for the rest of us.
+Getting  the  timing  right for the changeovers was a nightmare,
+and  usually  involved  plenty  of  shouting and improvised hand
+signals across the table.
+
+  And  yes,  there  were  some technical problems... the dreaded
+edge-connector  wobble  made an appearance just a few notes into
+my  track  'Primality', after I tapped the keyboard a little too
+hard,  causing  the music to crash into oblivion. On a couple of
+occasions,   stray   beeps  and  keyboard  clicks  escaped  from
+computers  that  really should have been muted out. The mistakes
+weren't  really  a  big  deal,  though;  most  of  the  time the
+audience  were  enjoying  themselves too much to notice or care,
+and  the  rest of the time they accepted it for what it was, the
+inevitable  consequences  of  using  genuine  20-year-old  retro
+hardware  -  after  all,  that's  what  live music is all about,
+right?  -  and  in  general the audience were very appreciative.
+Perhaps  a  bit  too  appreciative  on a couple of occasions, in
+fact...  one  such  time was during my second attempt at playing
+'Primality',   when  a  girl  came  up  and  tried  to  start  a
+conversation  with  Yerzmyey.  All  the  frantic gestures in the
+world  couldn't  keep  her  away  from the stage - she clambered
+over  a  bit  too enthusiastically, and nudged the table causing
+my  +2 to crash again :-/ ... luckily it was near the end of the
+track  anyway, and TDM was poised to launch into his next track,
+Electric City.
+
+  All  the while, the large projector screen played a continuous
+display  of demos, prepared by Yerzmyey - and although we had no
+real  way of synchronising the visuals to the music, this proved
+very  effective.  It  was a very proud moment for me when Losing
+Victoria  came  up, and I saw people in the audience taking time
+out to admire the visuals.
+
+  In  the  90 to 120 or so minutes that we played, we managed to
+cover  an  eclectic  mix  of  styles,  from  the  chilled to the
+hardcore,  all  while keeping the pace up for the more energetic
+visitors.   It's  been  a  tricky  business  to  reassemble  the
+playlist  from  our  combined  memories of the night, but here's
+our best shot:
+
+Yerzmyey: Koto Mix
+Gasman: Summer Mood (Megus)
+TDM: Neverending Story
+Factor6: Blah Blah Gal
+Yerzmyey:
+[Gasman: Primality, aborted]
+TDM: FA Intro
+Factor6: I Am Fine (X-agon)
+Yerzmyey:
+Gasman: Primality
+TDM: Electric City
+Factor6: Bits Main
+Yerzmyey:
+Gasman: Losing Victoria
+TDM: Genetic Error /End
+Factor6: Angeldust
+Yerzmyey: 
+Gasman: Around Past (C-Jeff)
+TDM: Super Grand Prix
+Factor6: DJ Factor6
+Yerzmyey: 30 Minut
+TDM: Exception
+Factor6: Co Ja Vim (X-agon)
+
+  My  only  real regret about the concert was to do with the way
+the  venue  was  set  up  -  there  was a disconnect between the
+audience  and  ourselves, because we were stuck behind a wall of
+computers  and  monitors  (hmm,  I suppose that concept worked a
+bit  better  for  Pink  Floyd  ;-)  )  and the big screen was at
+right-angles  to  us,  so  they weren't facing our direction for
+much  of  the  time.  As  a result, we didn't really get to hear
+much  audience  feedback  for  ourselves,  but the messages that
+were  relayed  on  to us by Wojtek were overwhelmingly positive.
+The   comments  ranged  from  heartfelt  thanks  from  nostalgic
+old-timers,   all   the  way  to  rave  reviews  from  newcomers
+experiencing the music as if it was from another world.
+
+  One  bit  of  feedback  we did receive first-hand came shortly
+after  midnight,  just  as  the organisers were starting to turn
+the  lights up and usher people away. A big burly guy came up to
+the  non-Polish-speaking  members  of the group, and demanded to
+know  why  we'd  stopped playing... for a moment it looked as if
+we  were  going  to  be threatened at knifepoint to start up the
+music  again  :-). TDM meekly pointed him in Wojtek's direction,
+and  on  seeing  the  friendly  animated  chat that followed, it
+quickly   became   clear   that   he  was  just  one  more  very
+enthusiastic fan...
+
+  And  so  to  the  future. The experience was one we're keen to
+repeat,  and  while  we  have  no  more  confirmed  dates at the
+moment,  there's  been  some talk about future gigs elsewhere in
+Poland  -  and daydreams about venues further afield, too. I for
+one  hope  that  the day will come when Megus and C-Jeff will be
+able  to  join us for a performance. For now, the folks of 8 Bit
+Front  have  their sights set on a much bigger concert in Warsaw
+-  thousands  of  visitors  rather  than  hundreds  -  in a very
+dramatic-sounding  location  (I  can't  give too much away yet).
+The  plan  is  to give the band and the computers a more central
+role,  while the demo visuals light up the stage around us. And,
+most  importantly,  we want big screens showing the soundtracker
+display.
+
+  Why  so  important? Well, just try showing a tracker screen to
+someone  from  outside the scene and you'll see. As they gaze at
+the  digits scrolling away, you'll hear them make a comment that
+perfectly   demonstrates   how   micromusic   will  capture  the
+imagination of the world, given the chance.
+
+  "Woah, it's just like the Matrix!"

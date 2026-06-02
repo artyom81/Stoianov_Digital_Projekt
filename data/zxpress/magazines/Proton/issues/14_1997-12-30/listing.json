@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16614,
+    "article_url": "https://zxpress.ru/article.php?id=16614",
+    "print_url": "https://zxpress.ru/print.php?id=16614",
+    "title_link": "Сетевые новости - Список BBS.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Сетевые_новости_-_Список_BBS"
+  },
+  {
+    "article_id": 16615,
+    "article_url": "https://zxpress.ru/article.php?id=16615",
+    "print_url": "https://zxpress.ru/print.php?id=16615",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16616,
+    "article_url": "https://zxpress.ru/article.php?id=16616",
+    "print_url": "https://zxpress.ru/print.php?id=16616",
+    "title_link": "Опрос - Вашему вниманию предлагается опрос населения на тему конфигурации компьютера.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Опрос_-_Вашему_вниманию_предлагается_опрос_населения_на_тему"
+  },
+  {
+    "article_id": 16617,
+    "article_url": "https://zxpress.ru/article.php?id=16617",
+    "print_url": "https://zxpress.ru/print.php?id=16617",
+    "title_link": "Психология - Любой человек, даже очень волевой, не может избежать споров, ссор и осуждающих взглядов.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Психология_-_Любои_человек_даже_очень_волевои_не_может_избеж"
+  },
+  {
+    "article_id": 16618,
+    "article_url": "https://zxpress.ru/article.php?id=16618",
+    "print_url": "https://zxpress.ru/print.php?id=16618",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16619,
+    "article_url": "https://zxpress.ru/article.php?id=16619",
+    "print_url": "https://zxpress.ru/print.php?id=16619",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

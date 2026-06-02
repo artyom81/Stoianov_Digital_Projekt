@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 14007,
+    "article_url": "https://zxpress.ru/article.php?id=14007",
+    "print_url": "https://zxpress.ru/print.php?id=14007",
+    "title_link": "Ведьмак - ЧАСТЬ Первая.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Ведьмак_-_ЧАСТЬ_Первая"
+  },
+  {
+    "article_id": 14006,
+    "article_url": "https://zxpress.ru/article.php?id=14006",
+    "print_url": "https://zxpress.ru/print.php?id=14006",
+    "title_link": "Ведьмак - ЧАСТЬ ВТОРАЯ.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Ведьмак_-_ЧАСТЬ_ВТОРАЯ"
+  }
+]

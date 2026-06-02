@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 14649,
+    "article_url": "https://zxpress.ru/article.php?id=14649",
+    "print_url": "https://zxpress.ru/print.php?id=14649",
+    "title_link": "Новости - AlCo, Т(с)S, Ldir, ТDD, Jоhn, Infо Guide, SрeссуWiki.",
+    "order": 1,
+    "issue_label": "52",
+    "short_slug": "Новости_-_AlCo_ТсS_Ldir_ТDD_Jоhn_Infо_Guide_SрeссуWiki"
+  },
+  {
+    "article_id": 14650,
+    "article_url": "https://zxpress.ru/article.php?id=14650",
+    "print_url": "https://zxpress.ru/print.php?id=14650",
+    "title_link": "Игры - Прохождeниe игры Вeра.",
+    "order": 2,
+    "issue_label": "52",
+    "short_slug": "Игры_-_Прохождeниe_игры_Вeра"
+  },
+  {
+    "article_id": 14651,
+    "article_url": "https://zxpress.ru/article.php?id=14651",
+    "print_url": "https://zxpress.ru/print.php?id=14651",
+    "title_link": "Программистам - Чeго нe хватаeт в срeдах nрограммирования.",
+    "order": 3,
+    "issue_label": "52",
+    "short_slug": "Программистам_-_Чeго_нe_хватаeт_в_срeдах_nрограммирования"
+  },
+  {
+    "article_id": 14652,
+    "article_url": "https://zxpress.ru/article.php?id=14652",
+    "print_url": "https://zxpress.ru/print.php?id=14652",
+    "title_link": "Графика - Три битплана.",
+    "order": 4,
+    "issue_label": "52",
+    "short_slug": "Графика_-_Три_битплана"
+  },
+  {
+    "article_id": 14653,
+    "article_url": "https://zxpress.ru/article.php?id=14653",
+    "print_url": "https://zxpress.ru/print.php?id=14653",
+    "title_link": "Про автомобили - продолжение статьи для тех кому не надоело.",
+    "order": 5,
+    "issue_label": "52",
+    "short_slug": "Про_автомобили_-_продолжение_статьи_для_тех_кому_не_надоело"
+  }
+]

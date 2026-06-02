@@ -1,0 +1,15 @@
+{
+  "magazine_id": 37,
+  "magazine_name": "Cancer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 5,
+  "article_id": 17038,
+  "title_link": "Z80 - Теоретическа статья о возможности усложнить программирование под Z80 посредством изъятия команды LD A,n.",
+  "title_h1": "Cancer 01 - Z80 - Теоретическа статья о возможности усложнить программирование под Z80 посредством изъятия команды LD A,n.",
+  "print_url": "https://zxpress.ru/print.php?id=17038",
+  "article_url": "https://zxpress.ru/article.php?id=17038",
+  "fetched_at": "2026-05-31T21:49:15Z"
+}

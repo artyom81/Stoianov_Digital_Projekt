@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 3082,
+    "article_url": "https://zxpress.ru/article.php?id=3082",
+    "print_url": "https://zxpress.ru/print.php?id=3082",
+    "title_link": "FIDO начинающим - Эхо области. Меню сообщений.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "FIDO_начинающим_-_Эхо_области_Меню_сообщении"
+  },
+  {
+    "article_id": 3078,
+    "article_url": "https://zxpress.ru/article.php?id=3078",
+    "print_url": "https://zxpress.ru/print.php?id=3078",
+    "title_link": "Глюки в News'e - О глюках, которые были в предыдущих номерах газеты.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Глюки_в_Newse_-_О_глюках_которые_были_в_предыдущих_номерах_г"
+  },
+  {
+    "article_id": 3079,
+    "article_url": "https://zxpress.ru/article.php?id=3079",
+    "print_url": "https://zxpress.ru/print.php?id=3079",
+    "title_link": "Информация - Список городов ex-Союза,имеющих коды в FIDO.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Информация_-_Список_городов_ex-Союзаимеющих_коды_в_FIDO"
+  },
+  {
+    "article_id": 3077,
+    "article_url": "https://zxpress.ru/article.php?id=3077",
+    "print_url": "https://zxpress.ru/print.php?id=3077",
+    "title_link": "Новости! - О распространении модемов.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Новости_-_О_распространении_модемов"
+  },
+  {
+    "article_id": 3084,
+    "article_url": "https://zxpress.ru/article.php?id=3084",
+    "print_url": "https://zxpress.ru/print.php?id=3084",
+    "title_link": "Объявления - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3076,
+    "article_url": "https://zxpress.ru/article.php?id=3076",
+    "print_url": "https://zxpress.ru/print.php?id=3076",
+    "title_link": "От редакции - Что новенького у редакции?",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "От_редакции_-_Что_новенького_у_редакции"
+  },
+  {
+    "article_id": 3081,
+    "article_url": "https://zxpress.ru/article.php?id=3081",
+    "print_url": "https://zxpress.ru/print.php?id=3081",
+    "title_link": "Письма читателей - ...BBS на Speccy - это реально.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Письма_читателеи_-_BBS_на_Speccy_-_это_реально"
+  },
+  {
+    "article_id": 3080,
+    "article_url": "https://zxpress.ru/article.php?id=3080",
+    "print_url": "https://zxpress.ru/print.php?id=3080",
+    "title_link": "Смех один - Рассказ \"Вредные задачи\".",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Смех_один_-_Рассказ_Вредные_задачи"
+  },
+  {
+    "article_id": 3083,
+    "article_url": "https://zxpress.ru/article.php?id=3083",
+    "print_url": "https://zxpress.ru/print.php?id=3083",
+    "title_link": "Хит-парад - 10 лучших программ, по итогам продаж фирмы Welcome.",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Хит-парад_-_10_лучших_программ_по_итогам_продаж_фирмы_Welcom"
+  }
+]

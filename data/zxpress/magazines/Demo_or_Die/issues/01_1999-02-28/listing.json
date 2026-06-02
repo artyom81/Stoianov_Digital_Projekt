@@ -1,0 +1,182 @@
+[
+  {
+    "article_id": 2293,
+    "article_url": "https://zxpress.ru/article.php?id=2293",
+    "print_url": "https://zxpress.ru/print.php?id=2293",
+    "title_link": "Demo-строение - Алгоpитмы обpаботки видимости повеpхностей\r\n 3D-фигуp.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Demo-строение_-_Алгоpитмы_обpаботки_видимости_повеpхностеи_3"
+  },
+  {
+    "article_id": 2288,
+    "article_url": "https://zxpress.ru/article.php?id=2288",
+    "print_url": "https://zxpress.ru/print.php?id=2288",
+    "title_link": "Demo-строение - Заливка треугольника, Гуpо shading, Наложение текстуры.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Demo-строение_-_Заливка_треугольника_Гуpо_shading_Наложение"
+  },
+  {
+    "article_id": 2284,
+    "article_url": "https://zxpress.ru/article.php?id=2284",
+    "print_url": "https://zxpress.ru/print.php?id=2284",
+    "title_link": "Demo-строение - Проецирвоание 3D > 2D.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Demo-строение_-_Проецирвоание_3D_2D"
+  },
+  {
+    "article_id": 2290,
+    "article_url": "https://zxpress.ru/article.php?id=2290",
+    "print_url": "https://zxpress.ru/print.php?id=2290",
+    "title_link": "Demo-строение - Фильтpация pастpовых изобpажений. Алгоpитм постpоения бугpывистых\r\nповеpхностей. Эффект пламени. размывание при быстром\r\nдвижении. Увеличение резкости",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Demo-строение_-_Фильтpация_pастpовых_изобpажении_Алгоpитм_по"
+  },
+  {
+    "article_id": 2304,
+    "article_url": "https://zxpress.ru/article.php?id=2304",
+    "print_url": "https://zxpress.ru/print.php?id=2304",
+    "title_link": "Digital Design - Новый музыкальный редактор для цифровой музыки.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Digital_Design_-_Новыи_музыкальныи_редактор_для_цифровои_муз"
+  },
+  {
+    "article_id": 2297,
+    "article_url": "https://zxpress.ru/article.php?id=2297",
+    "print_url": "https://zxpress.ru/print.php?id=2297",
+    "title_link": "Greetz - приветы всем кто еще не бросил самый\r\nкульный комп на свете - Spectrum!!!",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Greetz_-_приветы_всем_кто_еще_не_бросил_самыикульныи_комп_на"
+  },
+  {
+    "article_id": 2300,
+    "article_url": "https://zxpress.ru/article.php?id=2300",
+    "print_url": "https://zxpress.ru/print.php?id=2300",
+    "title_link": "Partys - Сonstructions Chaos 1999 информация о будщем демопати.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Partys_-_Сonstructions_Chaos_1999_информация_о_будщем_демопа"
+  },
+  {
+    "article_id": 2278,
+    "article_url": "https://zxpress.ru/article.php?id=2278",
+    "print_url": "https://zxpress.ru/print.php?id=2278",
+    "title_link": "Slang - Сленоговый словарь демосцены.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Slang_-_Сленоговыи_словарь_демосцены"
+  },
+  {
+    "article_id": 2295,
+    "article_url": "https://zxpress.ru/article.php?id=2295",
+    "print_url": "https://zxpress.ru/print.php?id=2295",
+    "title_link": "Turbo/Slow - Схема ускорялки и тормозилки\r\nкомпа.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "TurboSlow_-_Схема_ускорялки_и_тормозилкикомпа"
+  },
+  {
+    "article_id": 2309,
+    "article_url": "https://zxpress.ru/article.php?id=2309",
+    "print_url": "https://zxpress.ru/print.php?id=2309",
+    "title_link": "Video - Конвертирование анимации на примере\r\n атрибутного видео.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Video_-_Конвертирование_анимации_на_примере_атрибутного_виде"
+  },
+  {
+    "article_id": 2281,
+    "article_url": "https://zxpress.ru/article.php?id=2281",
+    "print_url": "https://zxpress.ru/print.php?id=2281",
+    "title_link": "Интервью - Random/Chaos Constructions.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_RandomChaos_Constructions"
+  },
+  {
+    "article_id": 2306,
+    "article_url": "https://zxpress.ru/article.php?id=2306",
+    "print_url": "https://zxpress.ru/print.php?id=2306",
+    "title_link": "Интервью - Интервью с Литовским музыкантом zHenYa/zERo.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_Интервью_с_Литовским_музыкантом_zHenYazERo"
+  },
+  {
+    "article_id": 2276,
+    "article_url": "https://zxpress.ru/article.php?id=2276",
+    "print_url": "https://zxpress.ru/print.php?id=2276",
+    "title_link": "От pедакции - От авторов.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "От_pедакции_-_От_авторов"
+  },
+  {
+    "article_id": 2317,
+    "article_url": "https://zxpress.ru/article.php?id=2317",
+    "print_url": "https://zxpress.ru/print.php?id=2317",
+    "title_link": "Приложение - Pinkword, Digital Desing.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Приложение_-_Pinkword_Digital_Desing"
+  },
+  {
+    "article_id": 2315,
+    "article_url": "https://zxpress.ru/article.php?id=2315",
+    "print_url": "https://zxpress.ru/print.php?id=2315",
+    "title_link": "Реклама - Реклама и обьявления.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_обьявления"
+  },
+  {
+    "article_id": 7794,
+    "article_url": "https://zxpress.ru/article.php?id=7794",
+    "print_url": "https://zxpress.ru/print.php?id=7794",
+    "title_link": "Калейдоскоп - Презентация игры из Донецка - Зеркало.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Калеидоскоп_-_Презентация_игры_из_Донецка_-_Зеркало"
+  },
+  {
+    "article_id": 9155,
+    "article_url": "https://zxpress.ru/article.php?id=9155",
+    "print_url": "https://zxpress.ru/print.php?id=9155",
+    "title_link": "Вступление - о втором номере газеты.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_о_втором_номере_газеты"
+  },
+  {
+    "article_id": 7967,
+    "article_url": "https://zxpress.ru/article.php?id=7967",
+    "print_url": "https://zxpress.ru/print.php?id=7967",
+    "title_link": "SOFTWARE - планы по созданию ELITE с залитой графикой.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "SOFTWARE_-_планы_по_созданию_ELITE_с_залитои_графикои"
+  },
+  {
+    "article_id": 7918,
+    "article_url": "https://zxpress.ru/article.php?id=7918",
+    "print_url": "https://zxpress.ru/print.php?id=7918",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8345,
+    "article_url": "https://zxpress.ru/article.php?id=8345",
+    "print_url": "https://zxpress.ru/print.php?id=8345",
+    "title_link": "Письмо - О графике и не только.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Письмо_-_О_графике_и_не_только"
+  }
+]

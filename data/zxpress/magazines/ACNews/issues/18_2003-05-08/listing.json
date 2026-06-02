@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9371,
+    "article_url": "https://zxpress.ru/article.php?id=9371",
+    "print_url": "https://zxpress.ru/print.php?id=9371",
+    "title_link": "News - вернулись Shaitan, Valera Selev и Nuts!",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "News_-_вернулись_Shaitan_Valera_Selev_и_Nuts"
+  },
+  {
+    "article_id": 9372,
+    "article_url": "https://zxpress.ru/article.php?id=9372",
+    "print_url": "https://zxpress.ru/print.php?id=9372",
+    "title_link": "Мысли - ДЕВЯТОГО МАЯ - день Победы, а ВАС ЖДУТ В ВОЕНКОМАТАХ ГОРОДА!",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Мысли_-_ДЕВЯТОГО_МАЯ_-_день_Победы_а_ВАС_ЖДУТ_В_ВОЕНКОМАТАХ"
+  },
+  {
+    "article_id": 9373,
+    "article_url": "https://zxpress.ru/article.php?id=9373",
+    "print_url": "https://zxpress.ru/print.php?id=9373",
+    "title_link": "Docs - Декомпрессор Медноногова основанный на LZ сжатие.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Docs_-_Декомпрессор_Медноногова_основанныи_на_LZ_сжатие"
+  },
+  {
+    "article_id": 9374,
+    "article_url": "https://zxpress.ru/article.php?id=9374",
+    "print_url": "https://zxpress.ru/print.php?id=9374",
+    "title_link": "ACEdit - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "ACEdit_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

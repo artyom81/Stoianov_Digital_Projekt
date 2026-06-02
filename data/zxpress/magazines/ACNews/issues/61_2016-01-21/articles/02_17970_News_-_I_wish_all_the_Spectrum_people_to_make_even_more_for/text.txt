@@ -1,0 +1,354 @@
+ACNews 61 - News -  I wish all the Spectrum people to make even more for the sake of our beloved platform!
+News
+by Alone Coder
+Happy New Year!
+
+I wish all the Spectrum people to make even more for the sake of
+our beloved platform!
+
+For example, in the year passed, we witnessed the long-awaited
+return of CODE in some demos, an adaptation of OS MSX-DOS 2 for
+ATMЗ
+(Savelij), new version of OS TASiS for ATM2 (Maksagor),
+continued development of OS PQ-DOS for Profi
+(Vadim), and new
+cross development environments: with Pascal language -
+ZX Like Pascal
+(Andrew771), and with Oberon language - ZXDev
+(Oleg N. Cher). This year a really large game was released for
+Spectrum - SpaceMerc: Liberation
+(Hippiman), whose demo version
+was presented back in 2014 at "Your Game 5" competition, and the
+prologue was released for the former New Year.
+Hardware emulation for disk controller chip 1818VG93 (without
+hooking the CPU) was finished by
+King of Evil. And with common
+effort the Info Guide e-zine was revived.
+
+Living with a little daughter is very joyful! I haven't made a
+new workplace yet, so I write sometimes while staying,
+sometimes horizontally. I bought an apartment in a house under
+construction close to my job - but this will be a long time
+until everything will be finished.
+
+1Зth of December was my birthday.
+Lord Vader came from Moscow,
+and we met at
+John Silver's. John Silver showed us how he
+skyjumped (he is a paratrooper) and how he tries to write music
+with a MIDI keyboard and some software synthesizer.
+Lord Vader
+wrote a gift "Alone 34" together with
+Sand (graphics), nq
+(music), and a secret well-wisher (text). We know who :)
+Lord Vader also presented me a smartphone that
+Louisa is now
+trying to borrow :) And my sister brought me a jigsaw puzzle of
+3000 parts - is that a kind of very sophisticated torture? :)
+
+King of Evil couldn't come because of an urgent business trip to
+Komsomolsk-on-Amur because of his satellite apparatus.
+There are rumors that he bought one more Land Rover Defender -
+that's interesting, why have two? :)
+LVD has just one and that's
+OK for him :)
+
+Arwald finally got a task for the diploma project / magister
+thesis in RTRGU, so his game Rusted Souls is postponed.
+
+KSA-7G appeared. He was a hardware man once, and lately he wrote
+BASIC games for teaching the neighbour children. But now he only
+has a smartphone that broke (a power supply burned the input).
+And he still avoids seeking a job.
+
+DimkaM found a video of his entering the pioneer movement in
+1988! I wasn't a pioneer - first because of my age (I was two
+years younger than my classmates), then it became out of
+fashion. It appeared that their school in 1994 provided
+certificates of an operator of IBM PC. And at the mentioned
+young pioneer initiation, the children were given a book by
+Kir
+Bulychev about Alice, girl from the communist future.
+DimkaM
+kept all of this.
+
+I also continue to sort my old papers (photographed by
+Louisa ).
+Apart from the methods of dating mentioned in
+#59, I could date
+one piece of paper by the names of tennis players written on it!
+Kafelnikov, Chesnokov, Agassi, Courier, Sampras, Stich - these
+names were at semifinal of Davis Cup, 22-24 of September, 1995.
+Those times I still watched TV. Authors of a show of classical
+music jokes "От форте до пьяно" (1995-1997) were also written
+down. Sadly the composer
+Alexey Zalivalov has passed away in
+2012...
+
+My old multicolor experiments were timed for screen start at
+tick 1439x. 14395 is ATM Turbo timing.
+However I had Pentagon 48, not ATM Turbo. Why such a timing?
+I don't remember. Maybe my father fixed the timing (that's
+inverting one signal) to remove sprite flickering in games? That
+was a popular topic then. Or was it a feature of that specific
+board? We can't know this today, the board has gone.
+I made the same fix at Pentagon 128 to remove the parasite
+double INT. Then (in 1998?) I fixed it back, with a capacitor
+that removed the parasite pulse. This resulted in one of two
+variants of a "standard Pentagon" INT, they differ by one tick
+and are supported one in the first screen of PSG-Wins, another
+in the second. Later (in 2000?)
+T(c)S found a defective chip and
+removed the capacitor, so the INT moved to the position of
+another "standard Pentagon" INT, used more commonly because of
+Rage demo (btw written on a patched Scorpion ). 
+
+nitrofurano has made a truetype font (that can help for cartoons
+we draw at
+RGRTU-Film studio) from my old drawings. Now we test
+spacings. How it was:
+
+───────────────────────────────────────────────────────────────┐ 
+what i'm sending on the attachment is just a pixel trace - a svg 
+file (that you can open easily on inkscape, for example).  my 
+idea is to work on that somehow. 
+
+...
+
+>How will you convert svg to ttf?
+>I remember I tried some font editor at the time but I was bored
+>after one letter :)
+>Some of the lines have wrong thickness compared to same elements
+>in other letters (this was not intended).
+>I used "Irina CTT" font in my comics
+>
+http://alonecoder.nedopc.com/lit/kde.html
+>
+http://alonecoder.nedopc.com/lit/house.html
+>but this font will be more usable.
+
+as it is, with some small arrangements for easing the process, 
+it can be imported on fontforge - but that svg i sent is still 
+plenty of redundant nodes and pixelated, was just for you having 
+the idea of the process - the idea was to firstly get that svg 
+advanced enough for an easier import from fontforge, like having 
+the characters ordered in ascii sequence (like the Cyrillic 
+sequence used on unicode), align on a baseline and define the 
+body area (ascent and descent ), etc. 
+
+...
+
+i'm now polygonizing the glyphs (this step is still incomplete, 
+only sending you for showing some idea of it) - then i'll have 
+it sequenced (unicode), and then a kind of template (svg and 
+sfd) that we would work over. 
+
+...
+
+i'm still on the svg file - completed the polygonized version. 
+
+...
+
+and this attachment is an example of how i use to have the svg 
+file ready to be imported from fontforge - i guess i have the 
+baseline and the ascent/descent in the correct places as 
+expected for this experience. 
+
+...
+
+>Some of the letters seem bolder than others, this needs to be
+>fixed.
+
+yes, i saw that (i needed to resize all of that to that x-height 
+related guides i placed there on the last svg). 
+
+sending now an embryonic fontforge file (where i imported the 
+last svg i sent), and the resulting otf/ttf from that - the 
+spacing isn't adjusted yet, and neither in their each character 
+places. 
+
+i guess that the both uppercase and lowercase versions from 
+what you sent would be like: 
+АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя 
+
+btw, the idea of that svg file was, not only for this typeface 
+experience, as a template for others that anyone could create 
+over that (or not necessarily). 
+
+...
+
+>Sadly I haven't drawn the uppercase characters yet.
+>You can test the font against a page of Russian text, like:
+
+С другой стороны начало повседневной работы по формированию
+позиции позволяет выполнять важные задания по разработке новых
+предложений. Разнообразный и богатый опыт реализация намеченных
+плановых заданий влечет за собой процесс внедрения и
+модернизации соответствующий условий активизации.
+Таким образом дальнейшее развитие различных форм деятельности
+требуют определения и уточнения существенных финансовых и
+административных условий. Равным образом укрепление и развитие
+структуры обеспечивает широкому кругу (специалистов) участие в
+формировании новых предложений. Значимость этих проблем
+настолько очевидна, что постоянный количественный рост и сфера
+нашей активности требуют определения и уточнения форм развития.
+Товарищи! рамки и место обучения кадров позволяет выполнять
+важные задания по разработке новых предложений. Не следует,
+однако забывать, что сложившаяся структура организации позволяет
+оценить значение модели развития.
+Значимость этих проблем настолько очевидна, что рамки и место
+обучения кадров позволяет выполнять важные задания по разработке
+систем массового участия. Не следует, однако забывать, что
+постоянный количественный рост и сфера нашей активности требуют
+определения и уточнения существенных финансовых и
+административных условий. Идейные соображения высшего порядка, а
+также сложившаяся структура организации требуют определения и
+уточнения системы обучения кадров, соответствует насущным
+потребностям.
+Таким образом консультация с широким активом играет важную роль
+в формировании модели развития. Значимость этих проблем
+настолько очевидна, что дальнейшее развитие различных форм
+деятельности обеспечивает широкому кругу (специалистов) участие
+в формировании системы обучения кадров, соответствует насущным
+потребностям.
+>I'd like to publish a note about your experience in ACNews!
+
+be welcome! 
+
+thanks for this lorem ipsum in Russian, ill surely use it! ;) 
+
+...
+
+>You are right, this is in fact "lorem ipsum", and it's
+>auto-generated :)
+>I found a pen of the same type and drew the rest of the
+>characters.
+
+just a test i the attachment - still a lot to be done (still 
+"pixelated" and plenty of redundant nodes, not tested, etc.), 
+and i didn't add the previous glyphs yet. 
+
+...
+
+>I tested the font with all capitals.
+>Cyrillic letters: "Я" and "Д" need to be moved slightly to the
+>left, space after "З" must be larger, space after "Т" must be
+>little smaller. "Ш" and "Щ" must be a little higher and moved
+>down a little.
+>Latin letters: "T" must be slightly moved to the right, "L"
+>scaled a little horizontally (to make it narrower).
+>Digits: space after "1" must be larger.
+
+thanks for the feedback - the typeface version i sent i didn't 
+test yet, asap i'll fix that based on your instructions, and 
+send it back to you (i hope still in this or next week). 
+───────────────────────────────────────────────────────────────┘ 
+
+Hippiman wrote a New Year part of SpaceMerc with an improved
+engine (with weapon generation, dynamic maze, and even
+something like an autopilot). Let him say:
+
+───────────────────────────────────────────────────────────────┐ 
+I just made the current build to the state of a tech demo that 
+can be shown to the people. It can have bugs and old gfx from 
+Liberation etc. To make it more interesting, I made a New Year 
+map. 
+
+1. Little introduction to make the following text more clear.
+Damage from a weapon is defined by 4 parameters: Dices, Edges, 
+Fade, and No fade distance. That's clear for those who know DND 
+system. Dices and Edges are parameters of a virtual dice that is 
+thrown to generate a basic value of weapon damage. 
+Fade and No fade distance define the damage fade depending on 
+the distance. That's a counterpart for spread in the real 
+life. 
+
+Now the weapon is generated the following way. Each of the 
+weapons has two additional parameters: "material" and "state". 
+These two are generated randomly, depending on "luck" parameter 
+of the player. 
+
+"Material" defines the modifiers for parameters of "distance 
+fine". "State" defines the modifiers for damage parameters. And 
+here is the question. Is this system OK for gamers? Or we better 
+generate all the four modifiers independently? 
+
+Pluses of these two methods: 
+
+The current method is visible. Each of the parameters has a 
+name, and after some time a player won't look at numeric 
+parameters when picking up a new weapon. Everything will be 
+clear just by looking at the name. 
+
+The method with separate generation is more versatile. For 
+example, we can obtain a weapon with damage 1d10 and fine-less 
+distance +6, with fine as high as 15. Extremes. Sadly this 
+system is not that visual. Every time you must look at all the 
+numerical parameters. 
+
+There is no inventory in the game. To make it, I should either 
+add a lot of hacks or change a lot of code. Either way, it's not 
+that needed. There are no items in the game apart from the main 
+items. 
+
+I made a sort of a hybrid scheme between shooter mechanics 
+with slots and RPG mechanics with many kinds of weapon. There 
+are only 4 types of weapon, each has its own slot. The same as 
+in the previous parts. However in this part the weapon in the 
+slots can change. You can find new guns during the game. They 
+will have random parameters. A player must choose: either he 
+takes the new weapon or he keeps the old one. Anyway, one of the 
+weapons will disappear. You can press W to view the parameters 
+of the weapon (separate screen). 
+
+Generally in games the coolness of an item depends on a level of 
+the monster that left it. I don't have levels for monsters. So a 
+player has a parameter of "luck". The more the "luck", the 
+cooler the weapon that will drop from monsters. 
+
+2. Should we add the possibility to restore the health for
+energy? 
+To be clear: now the game has only one type of ammo named 
+energy. It looks like blue spheres. We can let the player to 
+spend some of the energy (that can be scarce) to add health 
+points. 
+
+3. The same about armour.
+4. If yes, can we remove health packs and armour
+plates/bulletproof vests? 
+
+5. Can we add wearout for weapons? What kind of it?
+Full destruction after a number of shots, of gradual 
+deterioration to initial parameters? 
+
+6. Should we make some kinds of weapons stronger or weaker?
+7. Should we remove the money? According to the plot, we are at
+a wild planet inhabited by peaceful natives. Jungle, then cave, 
+then pirate base. It seems there is no use for money. If we must 
+obtain something we can spend energy as currency. 
+
+8. Maybe the game will be more clear without "distance fine"
+parameter? 
+
+9. Maybe we better use "intellect" parameter for defining the
+number of resources (health, energy, armour) we obtain from 
+objects? 
+
+The tech demo can be downloaded there: 
+https://yadi.sk/d/hRKztbzQmdJyY
+Control: 
+Arrows - move, turn, navigate menus
+Space - fire, select from menu
+Enter - read text, interact with objects
+1,2,3,4 - select weapon
+Q - leveling menu
+W - list of weapons with all the parameters
+Z - save
+X - load
+You can sent your opinions directly to me:
+kein1985@yandex.ru
+or via
+zx.pk.ru,
+privately for
+Hippiman.
+───────────────────────────────────────────────────────────────┘

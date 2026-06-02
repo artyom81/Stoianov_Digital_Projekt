@@ -1,0 +1,15 @@
+{
+  "magazine_id": 240,
+  "magazine_name": "Wizard News",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 10,
+  "article_id": 12715,
+  "title_link": "Новости - CyberTeam присоединяется к AREAsoft.",
+  "title_h1": "ZX Light 09 - Новости - CyberTeam присоединяется к AREAsoft.",
+  "print_url": "https://zxpress.ru/print.php?id=12715",
+  "article_url": "https://zxpress.ru/article.php?id=12715",
+  "fetched_at": "2026-05-31T23:17:50Z"
+}

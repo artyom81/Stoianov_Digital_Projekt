@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 5767,
+    "article_url": "https://zxpress.ru/article.php?id=5767",
+    "print_url": "https://zxpress.ru/print.php?id=5767",
+    "title_link": "От редактора - DWT отчитывает Павла Павлова за отзыв о газете.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "От_редактора_-_DWT_отчитывает_Павла_Павлова_за_отзыв_о_газет"
+  },
+  {
+    "article_id": 5768,
+    "article_url": "https://zxpress.ru/article.php?id=5768",
+    "print_url": "https://zxpress.ru/print.php?id=5768",
+    "title_link": "Обзор почты - письма читателей: Виталий Петренко (SLY), Вадим Чумаченко\r\n, Nuts, Xmus.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Обзор_почты_-_письма_читателеи_Виталии_Петренко_SLY_Вадим_Чу"
+  },
+  {
+    "article_id": 5769,
+    "article_url": "https://zxpress.ru/article.php?id=5769",
+    "print_url": "https://zxpress.ru/print.php?id=5769",
+    "title_link": "Обзор новья - пресса: Adventurer #13, Lamergy #5-#9, Body #33-#36, Heresy #8, Target #10, DonNews#16. Софт: ACEdit 0.60, Pro Tracker 3.53. Игры: Magic Music Toy 1.02, Открывашка, 3D-Roost, Citadel demo.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Обзор_новья_-_пресса_Adventurer_13_Lamergy_5-9_Body_33-36_He"
+  },
+  {
+    "article_id": 5770,
+    "article_url": "https://zxpress.ru/article.php?id=5770",
+    "print_url": "https://zxpress.ru/print.php?id=5770",
+    "title_link": "Новости и старости - продолжается\r\nконкурс , Nuts прекратил работу над коммандером TRouble, Dizzy Game Editor почти готов, Демо версия уже готова и т.д.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Новости_и_старости_-_продолжаетсяконкурс_Nuts_прекратил_рабо"
+  },
+  {
+    "article_id": 5771,
+    "article_url": "https://zxpress.ru/article.php?id=5771",
+    "print_url": "https://zxpress.ru/print.php?id=5771",
+    "title_link": "Мнение - Мысли о системном софте на Спектруме.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Мнение_-_Мысли_о_системном_софте_на_Спектруме"
+  },
+  {
+    "article_id": 5772,
+    "article_url": "https://zxpress.ru/article.php?id=5772",
+    "print_url": "https://zxpress.ru/print.php?id=5772",
+    "title_link": "Мнение - lzb/j77: \"Я и тут молчать не буду!\"",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Мнение_-_lzbj77_Я_и_тут_молчать_не_буду"
+  },
+  {
+    "article_id": 5773,
+    "article_url": "https://zxpress.ru/article.php?id=5773",
+    "print_url": "https://zxpress.ru/print.php?id=5773",
+    "title_link": "Мнение - Абзац: новая печатная газета для Спректрума.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Мнение_-_Абзац_новая_печатная_газета_для_Спректрума"
+  },
+  {
+    "article_id": 5774,
+    "article_url": "https://zxpress.ru/article.php?id=5774",
+    "print_url": "https://zxpress.ru/print.php?id=5774",
+    "title_link": "Кодерам - частные моменты в работе с TR-DOS (TR-DOS на уровне портов).",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Кодерам_-_частные_моменты_в_работе_с_TR-DOS_TR-DOS_на_уровне"
+  },
+  {
+    "article_id": 5775,
+    "article_url": "https://zxpress.ru/article.php?id=5775",
+    "print_url": "https://zxpress.ru/print.php?id=5775",
+    "title_link": "Железяки - схемка: привязка видеосигнала Спектрума к уровню чёрного.",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "Железяки_-_схемка_привязка_видеосигнала_Спектрума_к_уровню_ч"
+  },
+  {
+    "article_id": 5776,
+    "article_url": "https://zxpress.ru/article.php?id=5776",
+    "print_url": "https://zxpress.ru/print.php?id=5776",
+    "title_link": "PC и Spectrum - Unreal vs ZX Mak: сравнение двух популярных эмуляторов ZX Spectrum.",
+    "order": 10,
+    "issue_label": "08",
+    "short_slug": "PC_и_Spectrum_-_Unreal_vs_ZX_Mak_сравнение_двух_популярных_э"
+  },
+  {
+    "article_id": 5777,
+    "article_url": "https://zxpress.ru/article.php?id=5777",
+    "print_url": "https://zxpress.ru/print.php?id=5777",
+    "title_link": "PC и Spectrum - обзор PC программ для копирования и конвертации спектрумовских файлов.",
+    "order": 11,
+    "issue_label": "08",
+    "short_slug": "PC_и_Spectrum_-_обзор_PC_программ_для_копирования_и_конверта"
+  },
+  {
+    "article_id": 5778,
+    "article_url": "https://zxpress.ru/article.php?id=5778",
+    "print_url": "https://zxpress.ru/print.php?id=5778",
+    "title_link": "О всем про все - \"Путь перед рассветом\".",
+    "order": 12,
+    "issue_label": "08",
+    "short_slug": "О_всем_про_все_-_Путь_перед_рассветом"
+  },
+  {
+    "article_id": 5779,
+    "article_url": "https://zxpress.ru/article.php?id=5779",
+    "print_url": "https://zxpress.ru/print.php?id=5779",
+    "title_link": "И смех, и грех - Письмо в Военно-исторический форум.",
+    "order": 13,
+    "issue_label": "08",
+    "short_slug": "И_смех_и_грех_-_Письмо_в_Военно-историческии_форум"
+  },
+  {
+    "article_id": 5780,
+    "article_url": "https://zxpress.ru/article.php?id=5780",
+    "print_url": "https://zxpress.ru/print.php?id=5780",
+    "title_link": "Реклама - рекалама и обьявления.",
+    "order": 14,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_рекалама_и_обьявления"
+  }
+]

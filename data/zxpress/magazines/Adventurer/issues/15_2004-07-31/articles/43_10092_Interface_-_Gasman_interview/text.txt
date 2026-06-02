@@ -1,0 +1,201 @@
+Adventurer 15 - Interface - Gasman interview.
+When and why did you start to make spectrum music?
+
+I'm  sure  every  Speccy  user has played around with BEEPs and
+DATA lines at some stage, and I'm no exception... I learned the
+piano  when I was younger, so I had a bit of musical background
+from   there.   My  first  experience  of  tracking  was  quite
+straightforward  really  -  when  my  first  demo  was  nearing
+completion, I decided it needed some music, because every other
+demo  in  the  world  had  some.  So,  I  loaded up the copy of
+Soundtracker  that  came  on  a  Your  Sinclair  covertape, and
+started  composing  - the end result was a bit lame, but so was
+the demo, so that's okay :-)
+
+I  suppose, the first technical experience you gained exploring
+someone's  tunes  for  samples, ornaments and other tricks. Who
+was  that  spectrum musician who influenced your music and whom
+you can call your teacher?
+
+LA,  definitely. In fact, the only tracks I've ever 'dissected'
+for learning were LA's work and the Soundtracker example track.
+
+What was the first music editor that you used?
+
+Soundtracker  is  the  first,  and  the last - it's what I know
+best,  and  it  still achieves everything I want. When I'm near
+the  end  of  a composition, and I'm running out of samples and
+ornaments,  I  often  think  "OK, this is it - I've reached the
+limit  of  Soundtracker."  And  then  I always manage something
+bigger and better for the next composition...
+
+What  do you think about your past as a spectrum musician, what
+important moments in your progression can you note?
+
+It's  hard  to  point  to any specific moments, because I think
+I've  slowly  progressed over time - but my track 'Lucid' was a
+turning  point,  I reckon. Usually when I write music I have an
+idea for a short phrase or a riff and work from there, but this
+was the first time a whole track leaped into my head, perfectly
+formed...  Listening  to  it  now  I can hear some obvious weak
+points  (the  drums are pretty bad, and it doesn't develop very
+much)  but  many  of my works since then have taken inspiration
+from that track.
+
+How  do  you think, do you have any fans, and what do you think
+they  particularly  like  in  your music? Would you like to say
+some words for them?
+
+Primarily  I make the sort of music that I would want to listen
+to, so if other people are fans of it too, then that's cool :-)
+I  think  my  main  strengths are in melodies and themes rather
+than  sounds and samples - I try to keep my compositions varied
+and  unpredictable,  which probably helps when you're listening
+to 20 tracks end-to-end in a music compo...
+
+What  musical  instruments do you use (if you ever used) during
+composing prosess? Do you have any experience of musicmaking on
+other platforms? What do you think about it?
+
+Occasionally  I  try  things out on a piano when I need to work
+out a complicated chord sequence, but most of the time when I'm
+composing I don't have a convenient piano nearby :-) On the PC,
+I've  had  some success with Buzztracker - I decided I wouldn't
+waste  time  learning other trackers, so I went straight to the
+top. I haven't really completed much on the PC, though - all my
+best  ideas  tend  to go into my Spectrum tracks, because I can
+get  them  up and running quickly, sounding close to how I want
+them.
+
+Do  you like to criticize yourself? What is the weakest spot in
+your techniques (rythm, melody, arrangement or something else)?
+
+My  biggest  weakness  is  probably in the low-level sounds - I
+tend  to stick to a basic set of samples and don't explore much
+beyond those. Also, sometimes I wonder whether my music's a bit
+too hyperactive - I can keep a track varied and interesting for
+two  or  three  minutes,  but  I  find  myself  floundering for
+inspiration  after that. I'm amazed at how Yerzmyey managed the
+9-minute finale of the first AY Riders album with just a single
+Soundtracker module :-)
+
+What  kind  of  music do you listen, what bands/projects affect
+you,  what  moods  and  feelings  you  try  to  put in your own
+compositions? Remixes: what do you think of this?
+
+My  music  takes inspiration from all over the place, but never
+the  same artist twice :-) OK, there are the obvious influences
+from  the  world  of  electronica  (Jarre,  Robert  Miles,  Tim
+Follin...)  but the only one I'd class as a long-time influence
+is  Purple  Motion.  Whenever  I  reach  a  tricky  part  in my
+compositions  and  I'm not sure where to go next, I often think
+"what   would  Purple  Motion  do"...  Looking  through  my  CD
+collection,  I've  got lots of Mike Oldfield, Divine Comedy and
+They  Might Be Giants - all very diverse, but I'm sure it's all
+played a part in defining my style.
+
+I  have mixed feelings about remixes - I used to think it was a
+bit  pointless  to take a perfectly good tune and throw half of
+it   away  to  fit  it  into  three  channels,  and  I'm  often
+disappointed  when  I  discover that one of my favourite Speccy
+tracks  is  actually  ripped  from somewhere else. But now I've
+tried  a  couple  of  cover  versions for myself, I can see the
+attraction  of  making  them  as  'sketches' for practicing new
+techniques,  investigating  chord  sequences  and  that sort of
+thing.  I  think  remixes  in  compos are a bit of a silly idea
+though  -  the ones that win will always be the ones which have
+the  best  or most recognisable tunes to begin with, regardless
+of how good the remixer is.
+
+What  music compos did you participate in, what was the highest
+rate and what do you think about your achievements?
+
+I  try  to enter as many compos as I can (provided I hear about
+them  early  enough, and they aren't one of those parties which
+"mysteriously"   lose   my   submissions   year  after  year...
+mentioning  no  names  ;-) ), and I've reached first place in a
+few,  most  recently CAFe'03. There have been so many occasions
+when  the  real  results  are  completely  different  to what I
+expected (for better, or for worse...) that I can't really take
+compo  results  too seriously - I think they say more about the
+musical  tastes  of  the audience than the quality of the music
+:-) But good compo results still play a big part in encouraging
+me  to  carry on - I say to myself "I must be doing *something*
+right!"
+
+What do you feel when your track is playing on a party? Are you
+concerned  with sound equipment, people that vote or it doesn't
+bother you much?
+
+Mostly  I just try to enjoy my three minutes of 'fame' :-) It's
+not  something  I  get  to experience very often - maybe two or
+three times a year - so it's worth enjoying while it lasts.
+
+Do  you have any interesting ideas about the future of spectrum
+music?  Maybe  there  are some hardware or software innovations
+that you would like to have?
+
+I'm  very  impressed with Poke's work with the SidSound engine,
+and  I  hope  that it will encourage more demo makers to "break
+the  50Hz  barrier"  -  there's  a  lot of unexplored territory
+there.
+
+What is the most interesting aspect in spectrum music composing
+for  you  -  to  perfect  your  skills within the bounds of one
+'style'   or  'genre',  or  to  continue  the  thorny  path  of
+experiments with sound and techniques?
+
+To  be  honest,  I  don't really start my compositions with any
+direction  in  mind.  Usually  when I make a decision like "OK,
+I'll  try  something in a jazz style" or "I'll make sure to put
+all my trademark sounds in this one" it ends up going somewhere
+totally different.
+
+Can  you  tell  us  some  your  original ideas that you want to
+realize  in your music, maybe you want to make a demo or a game
+soundtrack,  maybe  just  to try what you have never tried yet,
+the new field of applying your talent?
+
+I'd   be  interested  in  working  on  a  longer,  album-length
+composition  -  something  where  I  can take a small number of
+themes  and really explore them. Most of the music I write (and
+most  of  the music on the scene, in fact) doesn't really stand
+up  as a work of art by itself, because it's either intended as
+a  soundtrack  to  accompany  some  visuals, or condensed in an
+effort  to impress as many people as possible in three minutes.
+Perhaps  it  wouldn't be a Spectrum project, though - maybe I'd
+be inclined to move on to a 'bigger' platform.
+
+What   do   you  think  about  co-operative  composing,  is  it
+interesting  for  you,  whom would you like to make music with?
+Please name 3 authors among the contemporary spectrum musicians
+that you like most.
+
+I suspect that co-operative composing can't be done effectively
+unless  you  have both people sitting in front of one keyboard,
+which means there are real geographical problems in my case :-)
+(Hmm,  maybe  I  should  grab somebody at the next demo party I
+visit...)
+
+Favourite  three  authors  - that's a tricky one. The AY Riders
+project  has  managed  to  unite  many of my absolute favourite
+musicians,  and I'm proud to be part of it. I couldn't possibly
+pick  out three, though... so, I'll just mention Megus, for his
+ability  to pick up any style and come up with something really
+listenable.
+
+I  like  Siril's  style  a  lot  -  the way it sounds like he's
+grabbing notes out of the air and weaving them into a melody...
+and Sergant too. I'm not a great fan of techno, but Serg really
+has  the right idea about it - putting that little bit extra in
+his tracks, more than just heavy drums and a rumbling bassline.
+
+Can  you  say  some words of advise for those musicians who are
+just starting out?
+
+Keep composing every minute of the day, not just when you're in
+front  of  the  computer  (and  if  people laugh at you because
+you're humming to yourself all the time, remember that THEY are
+the  foolish ones!). Always be prepared when inspiration strikes
+you  - grab a piece of paper and write that melody down, before
+it disappears forever!

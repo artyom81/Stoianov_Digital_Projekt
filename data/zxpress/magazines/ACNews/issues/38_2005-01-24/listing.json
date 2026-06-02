@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 17987,
+    "article_url": "https://zxpress.ru/article.php?id=17987",
+    "print_url": "https://zxpress.ru/print.php?id=17987",
+    "title_link": "Новости - надо ещё декомпилировать все изменения в TR-DOS 6.05E...",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "Новости_-_надо_еще_декомпилировать_все_изменения_в_TR-DOS_60"
+  },
+  {
+    "article_id": 17988,
+    "article_url": "https://zxpress.ru/article.php?id=17988",
+    "print_url": "https://zxpress.ru/print.php?id=17988",
+    "title_link": "Работа - О лени и работе на аудиторию.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Работа_-_О_лени_и_работе_на_аудиторию"
+  },
+  {
+    "article_id": 17989,
+    "article_url": "https://zxpress.ru/article.php?id=17989",
+    "print_url": "https://zxpress.ru/print.php?id=17989",
+    "title_link": "Размышления - О происхождении информации.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Размышления_-_О_происхождении_информации"
+  },
+  {
+    "article_id": 17990,
+    "article_url": "https://zxpress.ru/article.php?id=17990",
+    "print_url": "https://zxpress.ru/print.php?id=17990",
+    "title_link": "Конец - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Конец_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

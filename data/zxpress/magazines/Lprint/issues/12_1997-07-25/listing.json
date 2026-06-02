@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 12333,
+    "article_url": "https://zxpress.ru/article.php?id=12333",
+    "print_url": "https://zxpress.ru/print.php?id=12333",
+    "title_link": "От редакции - Как связаться с редакцией газеты.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "От_редакции_-_Как_связаться_с_редакциеи_газеты"
+  },
+  {
+    "article_id": 12334,
+    "article_url": "https://zxpress.ru/article.php?id=12334",
+    "print_url": "https://zxpress.ru/print.php?id=12334",
+    "title_link": "Новости - Главный редактор уезжает на Черное море...\r\n ON-LINE закрылся.\r\n Игра ПЛУТОНИЯ от группы TWIN PEAKS.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Новости_-_Главныи_редактор_уезжает_на_Черное_море_ON-LINE_за"
+  },
+  {
+    "article_id": 12335,
+    "article_url": "https://zxpress.ru/article.php?id=12335",
+    "print_url": "https://zxpress.ru/print.php?id=12335",
+    "title_link": "Demo - Мнение брестских синклеристов относительно демостроения.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Demo_-_Мнение_брестских_синклеристов_относительно_демостроен"
+  },
+  {
+    "article_id": 12336,
+    "article_url": "https://zxpress.ru/article.php?id=12336",
+    "print_url": "https://zxpress.ru/print.php?id=12336",
+    "title_link": "SPECCY FOREVER - Спекки - выход из кризиса.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "SPECCY_FOREVER_-_Спекки_-_выход_из_кризиса"
+  },
+  {
+    "article_id": 12337,
+    "article_url": "https://zxpress.ru/article.php?id=12337",
+    "print_url": "https://zxpress.ru/print.php?id=12337",
+    "title_link": "SPECCY FOREVER - Дискуссия: Speccy - жизни или смерть.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "SPECCY_FOREVER_-_Дискуссия_Speccy_-_жизни_или_смерть"
+  },
+  {
+    "article_id": 12338,
+    "article_url": "https://zxpress.ru/article.php?id=12338",
+    "print_url": "https://zxpress.ru/print.php?id=12338",
+    "title_link": "Таланты - Сочинение на тему \"Загадочная надпись\".",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Таланты_-_Сочинение_на_тему_Загадочная_надпись"
+  },
+  {
+    "article_id": 12339,
+    "article_url": "https://zxpress.ru/article.php?id=12339",
+    "print_url": "https://zxpress.ru/print.php?id=12339",
+    "title_link": "Программирование - Быстрый и компактный драйвер печати 42 символов в строке.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Программирование_-_Быстрыи_и_компактныи_драивер_печати_42_си"
+  },
+  {
+    "article_id": 12340,
+    "article_url": "https://zxpress.ru/article.php?id=12340",
+    "print_url": "https://zxpress.ru/print.php?id=12340",
+    "title_link": "Металлургия - Как настроить модем на поднятие трубки телефона.",
+    "order": 8,
+    "issue_label": "12",
+    "short_slug": "Металлургия_-_Как_настроить_модем_на_поднятие_трубки_телефон"
+  },
+  {
+    "article_id": 12341,
+    "article_url": "https://zxpress.ru/article.php?id=12341",
+    "print_url": "https://zxpress.ru/print.php?id=12341",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 9,
+    "issue_label": "12",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

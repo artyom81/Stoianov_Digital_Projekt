@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "0A",
+  "issue_date_iso": "2000-09-30",
+  "order": 46,
+  "article_id": 11250,
+  "title_link": "Пробы пера - Рассказик о SPECCY...",
+  "title_h1": "Deja Vu 0A - Пробы пера - Рассказик о SPECCY...",
+  "print_url": "https://zxpress.ru/print.php?id=11250",
+  "article_url": "https://zxpress.ru/article.php?id=11250",
+  "fetched_at": "2026-05-31T21:56:23Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 80,
+  "magazine_name": "Flash Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-07-10",
+  "order": 33,
+  "article_id": 16725,
+  "title_link": "Кодинг - На этот раз я расскажу о выводе на экран 64 символов в строке.",
+  "title_h1": "Proton 30 - Кодинг - На этот раз я расскажу о выводе на экран 64 символов в строке.",
+  "print_url": "https://zxpress.ru/print.php?id=16725",
+  "article_url": "https://zxpress.ru/article.php?id=16725",
+  "fetched_at": "2026-05-31T22:07:14Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2002-11-22",
+  "order": 1,
+  "article_id": 8706,
+  "title_link": "Sofтинка - Новая версия триколорного редактора 8 color editor v 0.04. Улучшения, результаты тестирования и список изменений.",
+  "title_h1": "Inferno 03 - Sofтинка - Новая версия триколорного редактора 8 color editor v 0.04. Улучшения, результаты тестирования и список изменений.",
+  "print_url": "https://zxpress.ru/print.php?id=8706",
+  "article_url": "https://zxpress.ru/article.php?id=8706",
+  "fetched_at": "2026-05-31T22:13:30Z"
+}

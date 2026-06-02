@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "1999-12-17",
+  "order": 1,
+  "article_id": 5228,
+  "title_link": "Поездка в Одессу - в гостях у Одесских спектрумистов.",
+  "title_h1": "Micro 23 - Поездка в Одессу - в гостях у Одесских спектрумистов.",
+  "print_url": "https://zxpress.ru/print.php?id=5228",
+  "article_url": "https://zxpress.ru/article.php?id=5228",
+  "fetched_at": "2026-05-31T22:25:57Z"
+}

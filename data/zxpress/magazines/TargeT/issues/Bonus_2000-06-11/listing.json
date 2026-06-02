@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9200,
+    "article_url": "https://zxpress.ru/article.php?id=9200",
+    "print_url": "https://zxpress.ru/print.php?id=9200",
+    "title_link": "Вступление - TARGET был создан нами с ЦЕЛЬюзаменить уснувший C_NetWeek.",
+    "order": 1,
+    "issue_label": "Bonus",
+    "short_slug": "Вступление_-_TARGET_был_создан_нами_с_ЦЕЛЬюзаменить_уснувшии"
+  },
+  {
+    "article_id": 9201,
+    "article_url": "https://zxpress.ru/article.php?id=9201",
+    "print_url": "https://zxpress.ru/print.php?id=9201",
+    "title_link": "Опять промазал - продолжение сказки из C_Week; Писали FOX,Black,Smont,Sir Denis...",
+    "order": 2,
+    "issue_label": "Bonus",
+    "short_slug": "Опять_промазал_-_продолжение_сказки_из_C_Week_Писали_FOXBlac"
+  },
+  {
+    "article_id": 9202,
+    "article_url": "https://zxpress.ru/article.php?id=9202",
+    "print_url": "https://zxpress.ru/print.php?id=9202",
+    "title_link": "Армейская поэзия - из потрепаного жизнью блокнотика солдата.",
+    "order": 3,
+    "issue_label": "Bonus",
+    "short_slug": "Армеиская_поэзия_-_из_потрепаного_жизнью_блокнотика_солдата"
+  },
+  {
+    "article_id": 9203,
+    "article_url": "https://zxpress.ru/article.php?id=9203",
+    "print_url": "https://zxpress.ru/print.php?id=9203",
+    "title_link": "Послесловие - Ну все,бай !!! :-)",
+    "order": 4,
+    "issue_label": "Bonus",
+    "short_slug": "Послесловие_-_Ну_всебаи_-"
+  }
+]

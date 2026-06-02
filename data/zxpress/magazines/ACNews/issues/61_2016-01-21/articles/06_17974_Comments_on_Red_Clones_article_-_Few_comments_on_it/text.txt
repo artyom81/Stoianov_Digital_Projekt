@@ -1,0 +1,172 @@
+ACNews 61 - Comments on "Red Clones" article - Few comments on it.
+Comments on "Red Clones" article
+by Alone Coder
+IEEE Annals of the History of Computing published an article on 
+Spectrum clones:
+http://www.computer.org/csdl/mags/an/2015/01/
+man2015010012-abs.html
+Few comments on it:
+
+Leningrad is thought to be a descendant of Novosibirsk variant 
+or earlier Lvov variant that was the first USSR's Spectrum clone
+(its authors wrote the story in several numbers of Optron
+e-paper). They are not as known as Leningrad because they
+weren't mass produced. Clones that can be traced to Leningrad
+are Composit, Спектр 48, Урал-48К, Веста ИК-30, Электроника
+КР-005, Kontact, CIЧ-48, Сункар (these are thought to be close 
+copies), then Scorpion and KAY and maybe other St.Peterburg's
+clones. The main point of these boards that they have single
+memory field with M1 CPU cycle aligned to even t-state. There is
+no information about mentioned Delta N online (just a photo),
+but other Deltas weren't Leningrads, they had two memory fields.
+
+Moscow's variants resulted in Pentagon 48K by
+RAЗAO (circa 1989)
+that was contentionless and became a popular base to add
+Beta 128 disk interface (some of the boards were made with this 
+interface onboard). It's an ancestor of Pentagon 128, ATM Turbo,
+Profi, GRM, 777, and maybe Compact. 
+
+Note, ALL THE MENTIONED MODELS WERE RARE (i.e. intended either
+for radioamateurs or for "serious users", not for a regular
+gamer) compared to factory models that were generally 48K with
+some kind of TЗЧVG1 chip inside. Sadly these toys were mostly
+destroyed by their users in the 90's because they couldn't
+compete with Dendy ( NES clone) or "serious" clones.
+
+Korvet's failure was because it lost the call for bids for a 
+school computer (computerization of schools was planned by
+Gosplan back in 1980, the document is in
+Ershov's archive - but
+went long because since 1965
+Kosygin's reform we had more
+"hozraschyot" (free trade between factories) than plan).
+
+───────────────────────────────────────────────────────────────┐ 
+A film named "Игра с Компьютером" / Playing with a Computer
+(USSR, 1986) was shot most possibly because of a decree of
+Central Commitee of CPSU and Council of Ministers of the USSR
+from 28th of March, 1985: 271
+"О мерах по обеспечению
+компьютерной грамотности учащихся средних учебных заведений и
+широкого внедрения электронно-вычислительной техники в учебный
+процесс" /
+"About the measures for reaching the computer
+literacy between the students of middle schools and broad
+implementation of electronic computing equipment in school
+process" according to the results of plenum of Central Committee
+of CPSU in April, 1984. So, this film is about implementation of
+computing in schools.
+
+Maybe everything started with an excerpt from single target
+complex scientific-technical program 0.Ц.047
+"Автоматизация в
+отраслях народного хозяйства на базе микропроцессорной техники
+машин, оборудования и технологических процессов во всех звеньях
+производства" /
+"Automation in breaches of people's economy,
+based on microprocessor devices, for machines, equipment and
+technology in all elements of manufacture" that was approved by
+ГКНТ (State Commitee for Science and Technics), Academy of
+Sciences, and Gosplan of the USSR, with decree 30.12.83
+766/164/333: "Develop and produce a pilot run of typical
+computing class for schools and other educational institutions, 
+with microprocessor devices". 
+
+The deadline for a specification was initially 1984, corrected
+for the 1st quarter of 1985. In fact, the technical requirements
+were ready by 20.06.1985, and the specification was finished at
+07.08.1985.
+
+I haven't seen all the decree from 30.12.83 but there is an
+extract:
+http://ershov-arc.iis.nsk.su/archive/eaimage.asp?lang=1&did=7950
+&fileid=106332
+There was also a General Agreement between member states of
+Council for Mutual Economic Assistance, 10.06.82, about a
+cooperation for development and broad usage of microprocessors
+in people's economy, and it mentioned school computing:
+http://ershov-arc.iis.nsk.su/archive/eaimage.asp?lang=1
+&did=42896&fileid=226730
+And there was a decree from ГКНТ, Gosplan, and Academy of
+Sciences, 475/251/131 from 12.12.80, program 0.80.14, task
+33.09, and resolution of Academy of Sciences from 26.05.81:
+http://ershov-arc.iis.nsk.su/archive/eaimage.asp?lang=1
+&did=42872&fileid=226678
+───────────────────────────────────────────────────────────────┘ 
+
+One source from Academy of Sciences mentioned that
+Gorbachov
+visited a plant producing ZX Spectrum in the U.K. in December
+1984:
+http://www.novsu.ru/file/866256
+A number of Western machines was considered.
+Gorbachov also
+visited
+CDC:
+http://forum.ixbt.com/topic.cgi?id=64:3394-179#4282
+UK-NC (Elektronika MS-0511) won the tender. Around 310000 UK-NC 
+machines were produced and installed in schools - only in
+schools. There also was DVK computer partially compatible to it
+and BK-0010/0011, 200000 units of DVK were produced, some of
+them sold in retail (as well as 162000 BKs ).
+MSX and IBM school classes were also bought by the state 
+(
+Michail Ryazansky mentioned 5500 units of MSX1 and around
+20000 units of MSX2. "In 1989 Kato told me that he sold 80000
+units of MSX2 in USSR. Most likely that was a desired size of 
+purchases, and there wasn't enough money" ), so later our 
+computers had no chance. Although there were even Spectrum-based
+classes ( Hobbit, YuLDUZ, and
+iS-DOS based).
+The bad thing was, we didn't produce floppy disks until 1991.
+They were imported via joint ventures. And the makers of Hobbit
+and Profi were joint ventures.
+
+The economic situation was as follows:
+We had "nalichny raschot" (i.e. money), "beznalichny raschot"
+(i.e. virtual money in Gosbank and Stroybank) and "valyuta"
+(i.e. foreign currency you can't buy but you can have
+"certificates" if, say, you are a writer and your book was
+published abroad, and the foreign publishing house paid you via
+an agency named
+VAAP ).
+These three were not convertable between each other, that helped
+to control money flow. So, you bought food and home electronics
+for "nalichny raschot" in shops, you bought luxuries for
+"valyuta" or "certificates" in "Beryozka" shops, and you never
+lay your hand on factory's virtual money. Gosbank could convert
+"nalichny" to "beznalichny" and back only by a written document
+signed by factory director (that was to convert shops'
+"vyruchka" i.e. revenue to "beznalichny" and convert factories'
+"beznalichny" money to "nalichny" salaries).
+
+Computer parts were produced for "beznalichny raschot" (i.e.
+sold for virtual money between factories) and were rarely sold
+officially. Radio markets sold parts stolen, defective or
+removed from some apparatus.
+
+The system was broken in 1986-1987, with the laws "O
+predpriyatii" (about а company), "O kooperatsii" (about
+cooperation), "O sovmestnom predpriyatii" (about а joint
+venture). Since that, a company could convert "nalichny" to
+"beznalichny", buy "valyuta" at auction, and they ofcourse did
+that a lot to buy foreign goods to sell them for roubles. The
+state quickly lost all the "valyuta" it earned for its export
+(oil and gas were low then) and went in a big debt. Also
+"nalichny"/"beznalichny" flow became uncontrollable that
+resulted in great inflation of 1991-1993. But that also resulted
+in the emerge of free market.
+
+In 1987, TsNTTMs (centers for scientific-technical creativity of
+youth) were established for young inventors and businessmen.
+NTKs (scientific-technical cooperatives) were formed there. For
+example,
+NTK Plus that sold the first Beta 128 disk interfaces
+was from there, and
+MicroArt that made Pentagon 128 and
+ATM Turbo are almost certainly from there too. They had
+"Association of creative youth" (the original meaning of
+ATM ),
+and their shop was located directly at VDNKh of the USSR (see
+Radio 1990-11 p.30)

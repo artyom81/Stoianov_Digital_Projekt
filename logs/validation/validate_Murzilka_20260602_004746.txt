@@ -1,0 +1,9 @@
+  Magazin: Murzilka
+
+✅ Validierung: OK - Murzilka
+   (mit Warnungen)
+  - [Issue #03] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #07] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #08] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #09] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 4 | Artikel gesamt: 63

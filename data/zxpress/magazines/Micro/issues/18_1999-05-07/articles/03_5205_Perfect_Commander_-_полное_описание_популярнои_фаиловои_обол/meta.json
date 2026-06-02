@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1999-05-07",
+  "order": 3,
+  "article_id": 5205,
+  "title_link": "Perfect Commander - полное описание популярной файловой оболочки.",
+  "title_h1": "Micro 18 - Perfect Commander - полное описание популярной файловой оболочки.",
+  "print_url": "https://zxpress.ru/print.php?id=5205",
+  "article_url": "https://zxpress.ru/article.php?id=5205",
+  "fetched_at": "2026-05-31T22:25:47Z"
+}

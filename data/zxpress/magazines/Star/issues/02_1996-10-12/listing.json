@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 14924,
+    "article_url": "https://zxpress.ru/article.php?id=14924",
+    "print_url": "https://zxpress.ru/print.php?id=14924",
+    "title_link": "От редакции - второй номер журнала \"ТНЕ SТАR\".",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "От_редакции_-_второи_номер_журнала_ТНЕ_SТАR"
+  },
+  {
+    "article_id": 14925,
+    "article_url": "https://zxpress.ru/article.php?id=14925",
+    "print_url": "https://zxpress.ru/print.php?id=14925",
+    "title_link": "Юмор - Анекдоты и байки.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Юмор_-_Анекдоты_и_баики"
+  },
+  {
+    "article_id": 14926,
+    "article_url": "https://zxpress.ru/article.php?id=14926",
+    "print_url": "https://zxpress.ru/print.php?id=14926",
+    "title_link": "Программистам - Magic на Scorpion`e, инвертирование символа вертикально, инвертирование символа горизонтально, сдвиг атрибутов влево, сдвиг атрибутов вправо, печать сообщение, ввод символа, звуковой сигнал.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Программистам_-_Magic_на_Scorpione_инвертирование_символа_ве"
+  },
+  {
+    "article_id": 14927,
+    "article_url": "https://zxpress.ru/article.php?id=14927",
+    "print_url": "https://zxpress.ru/print.php?id=14927",
+    "title_link": "Система - Телефонный Справочник, ZХ-UNZIР.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Система_-_Телефонныи_Справочник_ZХ-UNZIР"
+  },
+  {
+    "article_id": 14928,
+    "article_url": "https://zxpress.ru/article.php?id=14928",
+    "print_url": "https://zxpress.ru/print.php?id=14928",
+    "title_link": "Хит парад - Хит-парад журналов.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Хит_парад_-_Хит-парад_журналов"
+  },
+  {
+    "article_id": 14929,
+    "article_url": "https://zxpress.ru/article.php?id=14929",
+    "print_url": "https://zxpress.ru/print.php?id=14929",
+    "title_link": "Новинки - Mortal kombat demo, Paradise lost demo, НЛО-2, Double xinox.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Новинки_-_Mortal_kombat_demo_Paradise_lost_demo_НЛО-2_Double"
+  },
+  {
+    "article_id": 14930,
+    "article_url": "https://zxpress.ru/article.php?id=14930",
+    "print_url": "https://zxpress.ru/print.php?id=14930",
+    "title_link": "Игрушки - Star glider, The muncher eats chewits, Kliatwa noci, CHEAT`S.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Игрушки_-_Star_glider_The_muncher_eats_chewits_Kliatwa_noci"
+  },
+  {
+    "article_id": 14931,
+    "article_url": "https://zxpress.ru/article.php?id=14931",
+    "print_url": "https://zxpress.ru/print.php?id=14931",
+    "title_link": "Реклама",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Реклама"
+  },
+  {
+    "article_id": 14932,
+    "article_url": "https://zxpress.ru/article.php?id=14932",
+    "print_url": "https://zxpress.ru/print.php?id=14932",
+    "title_link": "Разное - \"О компьютерах\", доработка ZS-Scorpion 256 и дисковода.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Разное_-_О_компьютерах_доработка_ZS-Scorpion_256_и_дисковода"
+  }
+]

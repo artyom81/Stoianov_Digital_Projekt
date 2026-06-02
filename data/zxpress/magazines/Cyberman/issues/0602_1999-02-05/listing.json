@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 17100,
+    "article_url": "https://zxpress.ru/article.php?id=17100",
+    "print_url": "https://zxpress.ru/print.php?id=17100",
+    "title_link": "От авторов - Содержание страницы.",
+    "order": 1,
+    "issue_label": "0602",
+    "short_slug": "От_авторов_-_Содержание_страницы"
+  },
+  {
+    "article_id": 17101,
+    "article_url": "https://zxpress.ru/article.php?id=17101",
+    "print_url": "https://zxpress.ru/print.php?id=17101",
+    "title_link": "Фонд поддержки спектрума - Когда слышишь разговоры о сегодняшнем состоянии платформы Спектрума, то часто это довольно крайние мнения.",
+    "order": 2,
+    "issue_label": "0602",
+    "short_slug": "Фонд_поддержки_спектрума_-_Когда_слышишь_разговоры_о_сегодня"
+  },
+  {
+    "article_id": 17102,
+    "article_url": "https://zxpress.ru/article.php?id=17102",
+    "print_url": "https://zxpress.ru/print.php?id=17102",
+    "title_link": "Стальной легион - Второй тур.",
+    "order": 3,
+    "issue_label": "0602",
+    "short_slug": "Стальнои_легион_-_Второи_тур"
+  },
+  {
+    "article_id": 17103,
+    "article_url": "https://zxpress.ru/article.php?id=17103",
+    "print_url": "https://zxpress.ru/print.php?id=17103",
+    "title_link": "Soft - VU-Calc.",
+    "order": 4,
+    "issue_label": "0602",
+    "short_slug": "Soft_-_VU-Calc"
+  },
+  {
+    "article_id": 16091,
+    "article_url": "https://zxpress.ru/article.php?id=16091",
+    "print_url": "https://zxpress.ru/print.php?id=16091",
+    "title_link": "Новости сцены - Планов огромное количество. Конечно, они не грандиозны, но все же...",
+    "order": 5,
+    "issue_label": "0602",
+    "short_slug": "Новости_сцены_-_Планов_огромное_количество_Конечно_они_не_гр"
+  },
+  {
+    "article_id": 4849,
+    "article_url": "https://zxpress.ru/article.php?id=4849",
+    "print_url": "https://zxpress.ru/print.php?id=4849",
+    "title_link": "Лаборатория - Как подружить ALASM v4.1 и STS v6.2.",
+    "order": 6,
+    "issue_label": "0602",
+    "short_slug": "Лаборатория_-_Как_подружить_ALASM_v41_и_STS_v62"
+  },
+  {
+    "article_id": 2611,
+    "article_url": "https://zxpress.ru/article.php?id=2611",
+    "print_url": "https://zxpress.ru/print.php?id=2611",
+    "title_link": "Вот блин - Конец связи? (о повременной оплате телефонных разговоров).",
+    "order": 7,
+    "issue_label": "0602",
+    "short_slug": "Вот_блин_-_Конец_связи_о_повременнои_оплате_телефонных_разго"
+  },
+  {
+    "article_id": 15931,
+    "article_url": "https://zxpress.ru/article.php?id=15931",
+    "print_url": "https://zxpress.ru/print.php?id=15931",
+    "title_link": "Проект - Тема этой половинки одна, проект новой, электронной некомпьютерной газеты 'CITY'.",
+    "order": 8,
+    "issue_label": "0602",
+    "short_slug": "Проект_-_Тема_этои_половинки_одна_проект_новои_электроннои_н"
+  },
+  {
+    "article_id": 6202,
+    "article_url": "https://zxpress.ru/article.php?id=6202",
+    "print_url": "https://zxpress.ru/print.php?id=6202",
+    "title_link": "Тусовка - истории и стихи.",
+    "order": 9,
+    "issue_label": "0602",
+    "short_slug": "Тусовка_-_истории_и_стихи"
+  }
+]

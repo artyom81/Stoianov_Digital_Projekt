@@ -1,0 +1,138 @@
+06 - Part 2 - Playing tips.
+==========================================
+****************************
+*  PART 2  - PLAYING TIPS  *
+****************************
+
+WONDERBOY
+The  complete TAP file of this game is now
+on  NVG, so here are some POKES to get you
+started!
+Type  in the program (You can delete lines
+180-240, but not 250), save it then Run it
+with  the  Wonderboy tape playing from the
+start.  And  there  you have it - infinite
+axes!
+
+10 REM WONDERBOY
+20 CLEAR 27000
+30 LET T=0
+40 FOR I=23296 TO 23337: READ A: POKE I,A:
+   LET T=T+A: NEXT I
+50 IF T<>5602 THEN PRINT "ERROR IN DATA":
+   STOP
+60 FOR I=I TO le9: READ A
+70 IF A<999 THEN POKE I,A: NEXT I
+90 PRINT "PLAY WONDERBOY TAPE FROM THE
+   START"
+100 RANDOMIZE USR 23296
+110 DATA 33,86,5,17,0,96,1,142
+120 DATA 0,237,176,33,116,96,34
+130 DATA 128,96,62,117,50,80,96,50
+140 DATA 113,96,50,126,96,62,135,50
+150 DATA 121,96,49,0,0,221,33,33
+160 DATA 122,17,223,131,175,55,205,0
+170 DATA 96,48,242,33,0,254,17,0
+175 DATA 0,1,224,131,237,184,175
+180 DATA 50,58,134: REM INFINITE LIVES
+190 DATA 50,32,149: REM INFINITE VITALITY
+200 DATA 50,34,134: REM INFINITE AXE
+210 DATA 62,24,50,233,137: REM LOAD ANY
+    PART
+220 REM NEXT TWO LINES FOR INVINCIBILITY
+230 DATA 62,195,50,58,133,50,112,159
+240 DATA 50,34,161,50,142,163
+250 DATA 49,180,95,195,0,128,999: REM END
+    MARKER
+
+==========================================
+
+BACK TO SKOOL
+
+When  Einstein  tries to tell on you, make
+sure  you are sitting next to him and then
+keep  your  finger  on  the S key till its
+time  for  your  next lesson. He will keep
+falling  off  his  chair  and  won't get a
+chance  to utter a word. In the Blue room,
+turn  around and face the door, then press
+C.  The  screen  scrolls,  and if you keep
+pressing C you can watch the girls school.
+One  problem  with  doing this it that you
+can't  see  yourself and you have to guess
+your way down to the playground door. Only
+when  you  get  to the Girls school do you
+reappear.
+
+==========================================
+
+CONTACT SAM CRUISE
+
+A  game  that  often causes many cries for
+help! Here is the solution:
+
+From the start, go to the top of the Hotel
+Royale.  Find  the  body  and  answer  the
+telephone. Get the key from No.31 and ring
+up 7337 twice. After that ring 7162. Go to
+No.15  and  pick  up the ringing telephone
+twice.  Pick  up  another  key.  Ring 7162
+until  you  are  told  about  the  fat man
+having  two  keys.  Go  to  the top of the
+building  which  is  to the left of No.19.
+Jump  onto  the  side of the wall and then
+carefully climb down the fire escape. When
+you  get to the bottom, wait until the fat
+man  gets  underneath  (he's the compulent
+geezer  dressed in white) and jump on him.
+Having knocked him over, walk on a bit and
+you'll  find another key. Now head towards
+the  green  room  which is the furthest to
+the right in the Hotel Royale. To get past
+the  gangster  go  into room 27, cross the
+roof,  go  across  the police station roof
+and  onto  the  roof of No.31 and continue
+until you get to the Hotel. Once you're in
+the  green  room  change  your disguise to
+that  of  a nun. Now answer the telephone.
+Next  go  left  to  the  building with the
+catwalk  (it's next to No.74). Go onto the
+roof   and  jump  onto  the  edge  of  the
+building.  When  the  guard  is at the far
+side,  jump  onto  him and knock him over.
+Run  past  him  into  No.74 where you will
+pick  up  another key. You should now have
+all  four  keys. The next task is to get a
+grappling  hook  from No.74. To do is, get
+picked up by the gangster inside No.74 and
+you'll  be  able  to pick up the grappling
+hook  before  he gets back, as long as the
+police   don't  recognize  you.  With  the
+grappling  hook  in  your possession go to
+the  top right hand corner of the building
+next  to  the  fire escape. Face right and
+press  C  and  you'll  throw the grappling
+hook.  If  you  were  wondering how to get
+past  the  gangster in front of the police
+station  heres how. Make him follow you as
+far  left  as  possible,  go to the top of
+No.31  and  jump  off  the  roof.  If your
+calculations  are correct you'll knock the
+gangster over as you land and you can then
+run  past  him.  Jump onto the side of the
+wall  and  cross  the  rope.  Once across,
+press  down  and you'll enter a room where
+you'll  find  a safe with 4 locks. Pick up
+the  budgie  and then drop onto the top of
+No.19.  Press the fuse and keep going down
+and  get out as fast as possible. With the
+budgie  in  your  possession, head towards
+your  apartment.  Ring up Lana (7162), and
+when   she  is  half  way  up  the  stairs
+telephone the police (999). As long as you
+are  wearing a blue disguise she'll be put
+in  jail  -  otherwise you'll be shot. The
+case  is  now solved - but beware, the mob
+are after you.
+
+==========================================

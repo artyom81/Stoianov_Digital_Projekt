@@ -1,0 +1,65 @@
+Terminal 03 - Сетевые новости - о действующих на текущий момент BBS.
+╔══════════════════════════════════════════════════════════════╗
+║ ─═─═─═─═─═─═─═ С Е Т Е В Ы Е    Н О В О С Т И ─═─═─═─═─═─═─═ ║
+╚══════════════════════════════════════════════════════════════╝
+
+- WWM -
+
+  Здесь , по-традиции , будет помещаться информация о действу-
+ющих на текущий момент BBS, список эх и другая полезная информа-
+ция . Просьба сисопам своевременно сообщать об изменениях в ра-
+боте ваших станций .
+
+■ SM-BBS ■
+
+ °Sysop      : Aleksander Senilov
+ °Ko-sysop   : Aleksey Senilov
+ °Phone      : 631-446
+ °Address    : 8332/1
+ °Work time  : 23:30 - 08:00
+ °Voice time : 22:00 - 23:30
+ °Drivers    : A: для файлов, B:для писем
+ °Tema       : общая, демки
+
+
+■ LSW STATION ■
+
+ °Sysop      : Leonid Potekhin
+ °Phone      : 652-826
+ °Address    : 8332/2
+ °Work time  : 22:30 - 07:30
+ °Voice time : 19:00 - 22:30
+ °Drivers    : A,B
+ °Tema       : общая   
+
+■ WWM-BBS ■                                         √ ТЕРМИНАЛ √
+
+ °Sysop      : Timophey Rokhin
+ °Phone      : 255-320
+ °Address    : 8332/4
+ °Work time  : 22:30 - 06:00
+ °Voice time : 18:00 - 22:00
+ °Drivers    : A
+ °Тема       : общая , NEW_CDOS , FANTAZY , HUMOUR
+ °Secret fls : SMOKE   ; BEER    ; VODKA
+
+■■ ЭХА ■■
+
+ √ NEW_CDOS 
+   support : WWM-BBS 
+   тема    : обсуждение алтернативы старому CDOS-у
+   files   : CDS_data.W ; add>CDxx.W
+
+ √ FANTAZY  
+   support : 
+   тема    : фантастика 
+   files   : add>FNxx.W
+
+ √ HUMOUR
+   support :
+   тема    : юмор , анекдоты , приколы
+   files   : add>HMxx.W ; add>:)xx.W
+
+  Примечание : data - текущее число , месяц
+               add - адрес в сети ZX-NET
+               xx - номер

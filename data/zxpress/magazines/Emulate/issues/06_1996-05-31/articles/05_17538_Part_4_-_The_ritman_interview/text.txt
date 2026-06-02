@@ -1,0 +1,311 @@
+06 - Part 4 - The ritman interview.
+==========================================
+************************************
+*  PART 4  - THE RITMAN INTERVIEW  *
+************************************
+
+Here   it  is!  The  first  ever  Emulate!
+exclusive  interview. Our roving reporter,
+Blood, has tracked down a Speccy God - Jon
+"Head   Over   Heels"  Ritman!  I'll  hand
+straight over to him! ED.
+
+"One   of  the  things  missing  from  the
+current  computer  scene  is  the  'famous
+programmer'.  Back in the good old days of
+the  Speccy,  everyone  knew  the  name of
+their  favourite  programmer  and often it
+was  who  wrote  the  game rather than who
+published  it  that affected the sales the
+most."
+
+"One   such  programming  genius  was  Jon
+Ritman,   the  man  behind  (amongst  many
+others) classics such as Match Day, Batman
+and  Head  Over  Heals.  These days Jon is
+still around (although not programming for
+the  Spectrum any more!) and is still very
+much involved in the industry."
+
+"Putting on my best 'cheeky young scamp of
+a  journalist'  hat,  I scampered over and
+asked  him  outright  if he'd answer a few
+questions.    And    guess   what   -   he
+agreed......!  Here  we  go with Emulate's
+first Exclusive Interview!"
+
+
+Me: How did you get started in computers?
+
+Jon:  I  used  to  mend TV's for a living,
+working  for  Radio  Rentals  -  they were
+going  to rent computers so I decided they
+would  need engineers and bought a ZX81 so
+I could learn - the rest is history.
+
+Me:  When did you first see a Spectrum and
+what were your first impressions?
+
+Jon: Can't remember - pretty cool!
+
+Me:  Can  you  remember the first game you
+ever wrote? What was it like?
+
+Jon: Of course I can, it was called Namtir
+Raiders   and   was   released   by  Artic
+Computing  on  the ZX81 - it was a movable
+ship at the bottom of the screen.
+
+(Retro-fans  with a ZX81 emulator can grab
+a   copy   of  Namtir  Raiders  from  NVG!
+Download the following snaps pack :
+
+ftp://ftp.nvg.unit.no/pub/sinclair/zx81
+                 /snaps/packs/ZXPRGS10.ARJ
+It's the file called 'NAMTIR.P'.......)
+
+(And  it's  in this month's snapshot pack!
+ED.)
+
+Me: What was your first commercial game?
+
+Jon:  See  above  (In those days you could
+get away with a 2k game).
+
+Me: What was the first game you wrote that
+you were really happy with?
+
+Jon:  I  don't release games I'm not happy
+with  - of course each game should/must be
+better than the last.
+
+Me:  Did  you always program full time, or
+did   you   start  out  like  the  average
+computer  hack working in the back bedroom
+in the evening? ;-)
+
+Jon:  I  stayed  at  Radio  Rentals for my
+first  3  games  before  going  full  time
+(remember that I was making 4 games a year
+at this time).
+
+Me: Did Knight Lore inspire you to do your
+isometric 3D games, or was it all your own
+idea?
+
+Jon: It was Knight Lore!
+
+Me:  Did  you  use  the same 3D engine for
+Monster  Max on the Gameboy as you did for
+your 3D games on the Spectrum?
+
+Jon: No - it was a complete rewrite.
+
+(In  case you didn't know, Monster Max was
+Jon   and   Bernie's  only  game  for  the
+Nintendo Gameboy. It's a 3D isometric game
+in a very similar style to Head Over Heals
+and  is  well worth a look if you're a fan
+of the genre!)
+
+Me:  Head Over Heals is still probably the
+finest  isometric  3D  game on any machine
+and  features  on  MANY peoples' favourite
+games list. What were your favourite games
+for the Spectrum and why?
+
+Jon:  Match Day II - Cause I could win ;-)
+Knight Lore - Cause it blew me away when I
+first laid eyes on it!
+
+Me: Out of all the games you have written,
+which is your personal favourite?
+
+Jon: Head Over Heals.
+
+(Not surprising, eh?)
+
+Me:  What  was  the  last  Speccy game you
+wrote?  Did you leave anything unfinished?
+(and  if so is there any chance we'll ever
+get to see it!)
+
+Jon:  I  have trouble remembering that far
+back  but  it  was either HoH or Match Day
+II!  I  had  started  a  new  game  called
+Starship  (working title) when I moved on,
+the  source  for this has now gone missing
+so don't expect to see it!
+
+(Shame!)
+
+Me:  What  made  you  leave  the  Spectrum
+scene?  It sounds like it wasn't something
+you expected to happen......
+
+Jon:  The  article about Ultimate appeared
+(I'm  sure  you remember it) and I went to
+see  them  and  then  started working with
+them.
+
+(If  I  remember correctly, the advert Jon
+is talking about was placed by Ultimate in
+the  late  80s  just after they had become
+RARE.  It  advertised  for  programmers to
+help  them  progress  into  the arcade and
+console  business, and appeared in most of
+the popular Spectrum mags.)
+
+Me:  Were  you sad to see the Spectrum go,
+or  were  you  eager  to  move  on to more
+powerful machines?
+
+Jon: The more power the better!
+
+Me:  Is  there anything you miss about the
+old days?
+
+Jon: They were great times but we all move
+on to bigger and better things, so no, not
+really.
+
+Me:  You  have  a  new  company now called
+Cranberry  Source.  Are  there  any  other
+names  we'd  recognise  from Spectrum days
+working  for  you?  Whatever  happened  to
+Bernie   Drummond?   Do   you  still  work
+together?
+
+Jon:  My  business partner, John Cook, was
+Head of development at Mirrorsoft but he's
+not  a  programming type so most would not
+have  come  across  his  name - inside the
+industry  however  he  is  probably better
+known than me. Bernie does work for CS.
+
+(There's another couple for the FAQ then!)
+
+Me:  What  are Cranberry Source working on
+at  the  minute?  Which  machines  are you
+concentrating on?
+
+Jon: Three games each on PC, Playstation &
+Saturn  -  Q.A.D.  - A fly over a stunning
+landscape rescuing hostages game (2player)
+The   Net  -  A  multiplayer  soccer  game
+Redemption - An epic game, this would take
+me too long to describe!
+
+Me:  Do  you  still program, or do you let
+other  people  get their hands dirty these
+days? ;-)
+
+Jon:   I   find   there   are   too   many
+distractions  for me to program, running a
+company  almost  30  strong  means you get
+interrupted every three minutes.
+
+Me:  Do  you  miss programming? Or are you
+glad you're out of it?!
+
+Jon:  Running a company this size is still
+very  much  a learning experience and I've
+always  enjoyed  learning (isn't that what
+is  fun about programming?) - I still look
+at  the odd inner machine code loop to see
+if  I  can  optimise it any better than my
+staff  (and sometimes I can :-) so I'm not
+completely out of programming.
+
+Me:  Any  plans to convert any of your old
+games  to  the  PC or consoles? I remember
+seeing  Head Over Heals converted onto the
+16  bit computers some time ago - what did
+you think of the conversions?
+
+Jon:  HoH 16 bit conversions were all done
+by a guy at Ocean and they were as perfect
+as   any  conversion  I've  ever  seen.  I
+wouldn't convert an old game but of course
+The  Net  is  a soccer game and I wouldn't
+release  it  if it wasn't much better than
+Match  Day - For Hoh fans I suggest a look
+at  Redemption  (it wont be released until
+the end of next year).
+
+(eek! That's a long time!)
+
+Me:  Do  you  ever get the urge to just go
+and  write  a  Spectrum  game  instead  of
+getting  all hot and bothered over this PC
+and Super-Console business? ;-)
+
+Jon: No!
+
+(Shame again... but it was worth a try!)
+
+Me:  Retro-mania  has  arrived with a bang
+and suddenly everyone is playing old games
+and  getting  all teary-eyed over the 'old
+days'.  Do you think that modern games can
+really  compete  with  the  old  classics?
+Aren't  they  just  all  graphics  and  no
+gameplay?
+
+Jon:  Unfortunately  many  games have just
+been  FMV  fests  but  that doesn't mean a
+great   modern   game  can't  have  superb
+graphics - of course it's possible to make
+ace  games  on  a  super  powerful  PC and
+that's just what CS plans to do.
+
+Me:  Is  it  easier to produce a good game
+for the PC / Superconsoles than it was for
+the  Spectrum  because  of  the  increased
+hardware?  Or  does it just make it easier
+for  less  scrupulous people than yourself
+to produce sloppy software?
+
+Jon:  It  isn't  any easier for me because
+the  games are much larger than the speccy
+days,  what  the  PC  does provide is less
+restrictions  than  the  old  machines - I
+suppose  it  does make it easy to knock up
+those  collections  of  FMV sequences that
+some people call games though...
+
+Me:  Are you in on the Retro-mania? Do you
+ever  pull  out  an  old  computer  or  an
+emulator and play some old games? Or don't
+you have the time any more! ;-)
+
+Jon:  I've got the Z80 emulator but I only
+really look at my own products on it.
+
+(Well, I could think of a lot WORSE things
+to use it for!)
+
+And  that  was it! My first ever interview
+and  it  was  with  a complete Speccy God!
+Hopefully  that's  given  you all a little
+insight into Jon and his work - let's hope
+his  future  programming projects go on to
+be timeless classics too, eh?
+
+For  those  of  you interested in having a
+look   at   what   Cranberry   Source  are
+producing,  there's a full page preview of
+QAD in the September 96 issue of PC Format
+and  (so  Jon  tells me) there should be a
+playable    demo    with    the    October
+issue....probably! ;-)
+
+I'd  like to thank Jon for taking time out
+from  his incredibly busy schedule to talk
+to  me  -  I hope it's been as interesting
+for  you  lot  as it has been for me! Next
+month I'll be talking to Matthew Smith (in
+my dreams!). ;-)
+
+Blood.
+==========================================

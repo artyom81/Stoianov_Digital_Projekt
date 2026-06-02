@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 9746,
+    "article_url": "https://zxpress.ru/article.php?id=9746",
+    "print_url": "https://zxpress.ru/print.php?id=9746",
+    "title_link": "От редакции - О новых разделах в газете.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "От_редакции_-_О_новых_разделах_в_газете"
+  },
+  {
+    "article_id": 9747,
+    "article_url": "https://zxpress.ru/article.php?id=9747",
+    "print_url": "https://zxpress.ru/print.php?id=9747",
+    "title_link": "От редакции - Новости от Юза Гаррисона.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "От_редакции_-_Новости_от_Юза_Гаррисона"
+  },
+  {
+    "article_id": 9748,
+    "article_url": "https://zxpress.ru/article.php?id=9748",
+    "print_url": "https://zxpress.ru/print.php?id=9748",
+    "title_link": "Soft group - Перехват системных ошибок в Basic и TR-DOS при программировании на\r\n ассмблере (процедура).",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Soft_group_-_Перехват_системных_ошибок_в_Basic_и_TR-DOS_при"
+  },
+  {
+    "article_id": 9749,
+    "article_url": "https://zxpress.ru/article.php?id=9749",
+    "print_url": "https://zxpress.ru/print.php?id=9749",
+    "title_link": "Club IM2 - Работа с прерываниями 2-го рода. (поезд из LASER B.)",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Club_IM2_-_Работа_с_прерываниями_2-го_рода_поезд_из_LASER_B"
+  },
+  {
+    "article_id": 9750,
+    "article_url": "https://zxpress.ru/article.php?id=9750",
+    "print_url": "https://zxpress.ru/print.php?id=9750",
+    "title_link": "Covox - Что из себя представляет COVOX (схема).",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Covox_-_Что_из_себя_представляет_COVOX_схема"
+  },
+  {
+    "article_id": 9751,
+    "article_url": "https://zxpress.ru/article.php?id=9751",
+    "print_url": "https://zxpress.ru/print.php?id=9751",
+    "title_link": "Enjoy - Анекдоты...",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Enjoy_-_Анекдоты"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 141,
+    "article_url": "https://zxpress.ru/article.php?id=141",
+    "print_url": "https://zxpress.ru/print.php?id=141",
+    "title_link": "Предисловие - С днем рождения CYBORG.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Предисловие_-_С_днем_рождения_CYBORG"
+  },
+  {
+    "article_id": 142,
+    "article_url": "https://zxpress.ru/article.php?id=142",
+    "print_url": "https://zxpress.ru/print.php?id=142",
+    "title_link": "Тусовка - О тусовакх в Москве.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Тусовка_-_О_тусовакх_в_Москве"
+  },
+  {
+    "article_id": 11154,
+    "article_url": "https://zxpress.ru/article.php?id=11154",
+    "print_url": "https://zxpress.ru/print.php?id=11154",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 11155,
+    "article_url": "https://zxpress.ru/article.php?id=11155",
+    "print_url": "https://zxpress.ru/print.php?id=11155",
+    "title_link": "Новости от DITRONIK - BBS CYBORG'а до сентября не работает.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Новости_от_DITRONIK_-_BBS_CYBORGа_до_сентября_не_работает"
+  },
+  {
+    "article_id": 11156,
+    "article_url": "https://zxpress.ru/article.php?id=11156",
+    "print_url": "https://zxpress.ru/print.php?id=11156",
+    "title_link": "Печатается с продолж. - ДООМЕР (окончание).",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Печатается_с_продолж_-_ДООМЕР_окончание"
+  },
+  {
+    "article_id": 11157,
+    "article_url": "https://zxpress.ru/article.php?id=11157",
+    "print_url": "https://zxpress.ru/print.php?id=11157",
+    "title_link": "Версии - 3 версии игры: OPEN IT!",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Версии_-_3_версии_игры_OPEN_IT"
+  },
+  {
+    "article_id": 11158,
+    "article_url": "https://zxpress.ru/article.php?id=11158",
+    "print_url": "https://zxpress.ru/print.php?id=11158",
+    "title_link": "Разбиралка - Секрет с монетами в игре DIZZY-3.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Разбиралка_-_Секрет_с_монетами_в_игре_DIZZY-3"
+  },
+  {
+    "article_id": 11159,
+    "article_url": "https://zxpress.ru/article.php?id=11159",
+    "print_url": "https://zxpress.ru/print.php?id=11159",
+    "title_link": "Сплошные приколы - 7 приколов. Вопросы армянскому радио.\r\n Сборник высказываний советских офицеров (продолжение).",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Сплошные_приколы_-_7_приколов_Вопросы_армянскому_радио_Сборн"
+  },
+  {
+    "article_id": 11160,
+    "article_url": "https://zxpress.ru/article.php?id=11160",
+    "print_url": "https://zxpress.ru/print.php?id=11160",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

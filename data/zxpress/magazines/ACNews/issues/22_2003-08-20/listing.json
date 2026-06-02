@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9936,
+    "article_url": "https://zxpress.ru/article.php?id=9936",
+    "print_url": "https://zxpress.ru/print.php?id=9936",
+    "title_link": "News - Ldir написал новую программу создания цветного каталога на дискете.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "News_-_Ldir_написал_новую_программу_создания_цветного_катало"
+  },
+  {
+    "article_id": 9937,
+    "article_url": "https://zxpress.ru/article.php?id=9937",
+    "print_url": "https://zxpress.ru/print.php?id=9937",
+    "title_link": "Мысли - культурное начало Alone Coder'a борется с животным.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Мысли_-_культурное_начало_Alone_Codera_борется_с_животным"
+  },
+  {
+    "article_id": 9938,
+    "article_url": "https://zxpress.ru/article.php?id=9938",
+    "print_url": "https://zxpress.ru/print.php?id=9938",
+    "title_link": "Docs - текстовый редактор AcEditor превратился в набор \"Сделай Сам\".",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Docs_-_текстовыи_редактор_AcEditor_превратился_в_набор_Сдела"
+  }
+]

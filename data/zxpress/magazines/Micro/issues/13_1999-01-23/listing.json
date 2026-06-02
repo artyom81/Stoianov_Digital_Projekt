@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5178,
+    "article_url": "https://zxpress.ru/article.php?id=5178",
+    "print_url": "https://zxpress.ru/print.php?id=5178",
+    "title_link": "От редакции - о переделках в газете.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "От_редакции_-_о_переделках_в_газете"
+  },
+  {
+    "article_id": 5179,
+    "article_url": "https://zxpress.ru/article.php?id=5179",
+    "print_url": "https://zxpress.ru/print.php?id=5179",
+    "title_link": "Проходилка - прохождение игры Twilight: Land of Shadows.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Проходилка_-_прохождение_игры_Twilight_Land_of_Shadows"
+  },
+  {
+    "article_id": 5180,
+    "article_url": "https://zxpress.ru/article.php?id=5180",
+    "print_url": "https://zxpress.ru/print.php?id=5180",
+    "title_link": "Полезеные сведения - Глаголы и частоупотребляемые слова для англоязычных адвентюр.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Полезеные_сведения_-_Глаголы_и_частоупотребляемые_слова_для"
+  },
+  {
+    "article_id": 5181,
+    "article_url": "https://zxpress.ru/article.php?id=5181",
+    "print_url": "https://zxpress.ru/print.php?id=5181",
+    "title_link": "Ария - Сборник лучших песен Самой крутой рок-группы 'АРИЯ' (часть третья) .",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Ария_-_Сборник_лучших_песен_Самои_крутои_рок-группы_АРИЯ_час"
+  },
+  {
+    "article_id": 5182,
+    "article_url": "https://zxpress.ru/article.php?id=5182",
+    "print_url": "https://zxpress.ru/print.php?id=5182",
+    "title_link": "Архив - о пагубных последвиях переноса игр с других платформ на Спектрум. Что делать с битыми дисками.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Архив_-_о_пагубных_последвиях_переноса_игр_с_других_платформ"
+  }
+]

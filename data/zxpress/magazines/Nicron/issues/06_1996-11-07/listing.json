@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6140,
+    "article_url": "https://zxpress.ru/article.php?id=6140",
+    "print_url": "https://zxpress.ru/print.php?id=6140",
+    "title_link": "Графика - ANSI графика.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Графика_-_ANSI_графика"
+  },
+  {
+    "article_id": 6141,
+    "article_url": "https://zxpress.ru/article.php?id=6141",
+    "print_url": "https://zxpress.ru/print.php?id=6141",
+    "title_link": "Самиздат - пьеса \"Как трезвеют SysOp-ы\", Savin Boris.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Самиздат_-_пьеса_Как_трезвеют_SysOp-ы_Savin_Boris"
+  },
+  {
+    "article_id": 6142,
+    "article_url": "https://zxpress.ru/article.php?id=6142",
+    "print_url": "https://zxpress.ru/print.php?id=6142",
+    "title_link": "Обзор - прохождение игры Blinky's.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Обзор_-_прохождение_игры_Blinkys"
+  },
+  {
+    "article_id": 6143,
+    "article_url": "https://zxpress.ru/article.php?id=6143",
+    "print_url": "https://zxpress.ru/print.php?id=6143",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6144,
+    "article_url": "https://zxpress.ru/article.php?id=6144",
+    "print_url": "https://zxpress.ru/print.php?id=6144",
+    "title_link": "Эпилог - заключение и контакты редакции.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Эпилог_-_заключение_и_контакты_редакции"
+  }
+]

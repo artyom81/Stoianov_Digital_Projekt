@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 18318,
+    "article_url": "https://zxpress.ru/article.php?id=18318",
+    "print_url": "https://zxpress.ru/print.php?id=18318",
+    "title_link": "Содержание - содержание газеты",
+    "order": 1,
+    "issue_label": "64",
+    "short_slug": "Содержание_-_содержание_газеты"
+  },
+  {
+    "article_id": 18319,
+    "article_url": "https://zxpress.ru/article.php?id=18319",
+    "print_url": "https://zxpress.ru/print.php?id=18319",
+    "title_link": "Новости - Hippiman/Conscience выпустил новогоднюю игру Dizzy Rescues Santa, Польский культуролог Пётр Марецки прислал большой опросник для будущей \r\nкниги, Сергей Смирнов (Gogin) возродил свой проект по портированию игры\r\nSuper Mario для Спектрума.",
+    "order": 2,
+    "issue_label": "64",
+    "short_slug": "Новости_-_HippimanConscience_выпустил_новогоднюю_игру_Dizzy"
+  },
+  {
+    "article_id": 18320,
+    "article_url": "https://zxpress.ru/article.php?id=18320",
+    "print_url": "https://zxpress.ru/print.php?id=18320",
+    "title_link": "News - Hippiman/Conscience released a New Year game named Dizzy Rescues\r\nSanta, I fixed several errors in my 3D engine, Polist culturologist Piotr Marecki who went to summer DiHalt\r\nwith Yerzmyey, wrote a big questionnaire for his future book. I\r\ntranslated the questions.",
+    "order": 3,
+    "issue_label": "64",
+    "short_slug": "News_-_HippimanConscience_released_a_New_Year_game_named_Diz"
+  },
+  {
+    "article_id": 18321,
+    "article_url": "https://zxpress.ru/article.php?id=18321",
+    "print_url": "https://zxpress.ru/print.php?id=18321",
+    "title_link": "История - SPbZXNet - продолжение",
+    "order": 4,
+    "issue_label": "64",
+    "short_slug": "История_-_SPbZXNet_-_продолжение"
+  },
+  {
+    "article_id": 18322,
+    "article_url": "https://zxpress.ru/article.php?id=18322",
+    "print_url": "https://zxpress.ru/print.php?id=18322",
+    "title_link": "Анкета - Меня зовут Пётр Марецки, я доцент Ягеллонского университета в\r\nКракове. Мы с двумя демосценерами, Yerzmyey и Hellboj, решили\r\nнаписать книгу про ZX Spectrum.",
+    "order": 5,
+    "issue_label": "64",
+    "short_slug": "Анкета_-_Меня_зовут_Петр_Марецки_я_доцент_Ягеллонского_униве"
+  },
+  {
+    "article_id": 18323,
+    "article_url": "https://zxpress.ru/article.php?id=18323",
+    "print_url": "https://zxpress.ru/print.php?id=18323",
+    "title_link": "History - SPbZXNet - part 2",
+    "order": 6,
+    "issue_label": "64",
+    "short_slug": "History_-_SPbZXNet_-_part_2"
+  },
+  {
+    "article_id": 18324,
+    "article_url": "https://zxpress.ru/article.php?id=18324",
+    "print_url": "https://zxpress.ru/print.php?id=18324",
+    "title_link": "Questionnaire - My name is Piotr Marecki and I am an Assistant Professor at the\r\nJagiellonian University in Krakow. Together with two \r\ndemosceners, Yerzmyey and Hellboj, we decided to write a book\r\nabout the ZX Spectrum.",
+    "order": 7,
+    "issue_label": "64",
+    "short_slug": "Questionnaire_-_My_name_is_Piotr_Marecki_and_I_am_an_Assista"
+  }
+]

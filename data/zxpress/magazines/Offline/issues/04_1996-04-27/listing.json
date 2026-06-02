@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10218,
+    "article_url": "https://zxpress.ru/article.php?id=10218",
+    "print_url": "https://zxpress.ru/print.php?id=10218",
+    "title_link": "BBS News - по Москве пошел отлов модемов...",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "BBS_News_-_по_Москве_пошел_отлов_модемов"
+  },
+  {
+    "article_id": 10219,
+    "article_url": "https://zxpress.ru/article.php?id=10219",
+    "print_url": "https://zxpress.ru/print.php?id=10219",
+    "title_link": "Новьё - новые игры Падишах OF Африка и Бомбермен.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Новье_-_новые_игры_Падишах_OF_Африка_и_Бомбермен"
+  },
+  {
+    "article_id": 10220,
+    "article_url": "https://zxpress.ru/article.php?id=10220",
+    "print_url": "https://zxpress.ru/print.php?id=10220",
+    "title_link": "Дай дему! - FUCK MEGADEMO part ван.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Даи_дему_-_FUCK_MEGADEMO_part_ван"
+  },
+  {
+    "article_id": 10221,
+    "article_url": "https://zxpress.ru/article.php?id=10221",
+    "print_url": "https://zxpress.ru/print.php?id=10221",
+    "title_link": "Наши письма - письмо в редакцию от STS.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Наши_письма_-_письмо_в_редакцию_от_STS"
+  }
+]

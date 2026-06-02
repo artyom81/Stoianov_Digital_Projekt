@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10762,
+    "article_url": "https://zxpress.ru/article.php?id=10762",
+    "print_url": "https://zxpress.ru/print.php?id=10762",
+    "title_link": "Вступление - Вот и вышел уже четвертый\r\nномер нашей газеты.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Вот_и_вышел_уже_четвертыиномер_нашеи_газеты"
+  },
+  {
+    "article_id": 10763,
+    "article_url": "https://zxpress.ru/article.php?id=10763",
+    "print_url": "https://zxpress.ru/print.php?id=10763",
+    "title_link": "Новости - Новости от FLASH на 15.06.97 года.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_150697_года"
+  },
+  {
+    "article_id": 10764,
+    "article_url": "https://zxpress.ru/article.php?id=10764",
+    "print_url": "https://zxpress.ru/print.php?id=10764",
+    "title_link": "Новости - немного новостей из SPECCY WORLD'а.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Новости_-_немного_новостеи_из_SPECCY_WORLDа"
+  },
+  {
+    "article_id": 10765,
+    "article_url": "https://zxpress.ru/article.php?id=10765",
+    "print_url": "https://zxpress.ru/print.php?id=10765",
+    "title_link": "Реклама - Продам ПК ФОРУМ 128К с блоком питания.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Продам_ПК_ФОРУМ_128К_с_блоком_питания"
+  }
+]

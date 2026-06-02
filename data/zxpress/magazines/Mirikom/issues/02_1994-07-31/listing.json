@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 14893,
+    "article_url": "https://zxpress.ru/article.php?id=14893",
+    "print_url": "https://zxpress.ru/print.php?id=14893",
+    "title_link": "Мысли - о журнале.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Мысли_-_о_журнале"
+  },
+  {
+    "article_id": 14894,
+    "article_url": "https://zxpress.ru/article.php?id=14894",
+    "print_url": "https://zxpress.ru/print.php?id=14894",
+    "title_link": "Архив - игра \"WAR IN MIDDLE EARTH\".",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Архив_-_игра_WAR_IN_MIDDLE_EARTH"
+  },
+  {
+    "article_id": 14895,
+    "article_url": "https://zxpress.ru/article.php?id=14895",
+    "print_url": "https://zxpress.ru/print.php?id=14895",
+    "title_link": "От редакции - \"Мириком\".",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "От_редакции_-_Мириком"
+  },
+  {
+    "article_id": 14896,
+    "article_url": "https://zxpress.ru/article.php?id=14896",
+    "print_url": "https://zxpress.ru/print.php?id=14896",
+    "title_link": "Hackers - парочка программ для Вас.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Hackers_-_парочка_программ_для_Вас"
+  },
+  {
+    "article_id": 14897,
+    "article_url": "https://zxpress.ru/article.php?id=14897",
+    "print_url": "https://zxpress.ru/print.php?id=14897",
+    "title_link": "Система - iS-Dos форматер.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Система_-_iS-Dos_форматер"
+  },
+  {
+    "article_id": 14898,
+    "article_url": "https://zxpress.ru/article.php?id=14898",
+    "print_url": "https://zxpress.ru/print.php?id=14898",
+    "title_link": "Информация - описание DCU 2.xx",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Информация_-_описание_DCU_2xx"
+  },
+  {
+    "article_id": 14899,
+    "article_url": "https://zxpress.ru/article.php?id=14899",
+    "print_url": "https://zxpress.ru/print.php?id=14899",
+    "title_link": "Реклама",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Реклама"
+  },
+  {
+    "article_id": 14900,
+    "article_url": "https://zxpress.ru/article.php?id=14900",
+    "print_url": "https://zxpress.ru/print.php?id=14900",
+    "title_link": "Объявления",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Объявления"
+  },
+  {
+    "article_id": 14901,
+    "article_url": "https://zxpress.ru/article.php?id=14901",
+    "print_url": "https://zxpress.ru/print.php?id=14901",
+    "title_link": "Анонс",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Анонс"
+  }
+]

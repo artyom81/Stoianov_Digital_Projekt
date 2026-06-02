@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 8804,
+    "article_url": "https://zxpress.ru/article.php?id=8804",
+    "print_url": "https://zxpress.ru/print.php?id=8804",
+    "title_link": "Лит.Страничка - Новые приключения Винни Пуха (глава 6).",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "ЛитСтраничка_-_Новые_приключения_Винни_Пуха_глава_6"
+  },
+  {
+    "article_id": 8805,
+    "article_url": "https://zxpress.ru/article.php?id=8805",
+    "print_url": "https://zxpress.ru/print.php?id=8805",
+    "title_link": "ABOUT - О BBS с \"анархическими\" правилами.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "ABOUT_-_О_BBS_с_анархическими_правилами"
+  },
+  {
+    "article_id": 8806,
+    "article_url": "https://zxpress.ru/article.php?id=8806",
+    "print_url": "https://zxpress.ru/print.php?id=8806",
+    "title_link": "Трындец - Несколько интересных задач: Три мудреца, Головоломка, Какая\r\n фамилия у машиниста. Скорость движения некоторых животных. Сухим из воды (фокус)...",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Трындец_-_Несколько_интересных_задач_Три_мудреца_Головоломка"
+  },
+  {
+    "article_id": 8807,
+    "article_url": "https://zxpress.ru/article.php?id=8807",
+    "print_url": "https://zxpress.ru/print.php?id=8807",
+    "title_link": "TREE NEWS - Файл SENTINEL.Z был испорчен.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "TREE_NEWS_-_Фаил_SENTINELZ_был_испорчен"
+  },
+  {
+    "article_id": 8808,
+    "article_url": "https://zxpress.ru/article.php?id=8808",
+    "print_url": "https://zxpress.ru/print.php?id=8808",
+    "title_link": "Новости STEVER'а - О совете SySop'ов.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Новости_STEVERа_-_О_совете_SySopов"
+  },
+  {
+    "article_id": 109,
+    "article_url": "https://zxpress.ru/article.php?id=109",
+    "print_url": "https://zxpress.ru/print.php?id=109",
+    "title_link": "Вступление - несколько слов от редакции.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Вступление_-_несколько_слов_от_редакции"
+  }
+]

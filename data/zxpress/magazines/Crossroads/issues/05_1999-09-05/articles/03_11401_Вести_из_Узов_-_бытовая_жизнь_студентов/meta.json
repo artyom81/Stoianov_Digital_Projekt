@@ -1,0 +1,15 @@
+{
+  "magazine_id": 45,
+  "magazine_name": "Crossroads",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-09-05",
+  "order": 3,
+  "article_id": 11401,
+  "title_link": "Вести из Узов - бытовая жизнь студентов.",
+  "title_h1": "Crossroads 05 - Вести из Узов - бытовая жизнь студентов.",
+  "print_url": "https://zxpress.ru/print.php?id=11401",
+  "article_url": "https://zxpress.ru/article.php?id=11401",
+  "fetched_at": "2026-05-31T21:52:58Z"
+}

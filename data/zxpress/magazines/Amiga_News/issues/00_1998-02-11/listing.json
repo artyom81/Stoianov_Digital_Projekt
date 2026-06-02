@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 11901,
+    "article_url": "https://zxpress.ru/article.php?id=11901",
+    "print_url": "https://zxpress.ru/print.php?id=11901",
+    "title_link": "От авторов - а вам интересно узнать Амигу поближе?",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "От_авторов_-_а_вам_интересно_узнать_Амигу_поближе"
+  },
+  {
+    "article_id": 11902,
+    "article_url": "https://zxpress.ru/article.php?id=11902",
+    "print_url": "https://zxpress.ru/print.php?id=11902",
+    "title_link": "Hot News - горячие новости с Амижного фронта.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Hot_News_-_горячие_новости_с_Амижного_фронта"
+  },
+  {
+    "article_id": 11903,
+    "article_url": "https://zxpress.ru/article.php?id=11903",
+    "print_url": "https://zxpress.ru/print.php?id=11903",
+    "title_link": "Аmigа:Вопросы и ответы - Какие на Амиге операционные системы? Каков \"Мультитаскинг\" на Амиге?",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "АmigаВопросы_и_ответы_-_Какие_на_Амиге_операционные_системы"
+  },
+  {
+    "article_id": 11904,
+    "article_url": "https://zxpress.ru/article.php?id=11904",
+    "print_url": "https://zxpress.ru/print.php?id=11904",
+    "title_link": "Реклама - Cамые новые игры, системные программы музыкальные демонстрации, электронные газеты и журналы для спектрума.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_Cамые_новые_игры_системные_программы_музыкальные_д"
+  },
+  {
+    "article_id": 3342,
+    "article_url": "https://zxpress.ru/article.php?id=3342",
+    "print_url": "https://zxpress.ru/print.php?id=3342",
+    "title_link": "Ассемблер - Индикатор для AY-8910 (12) - 3 процедуры.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Ассемблер_-_Индикатор_для_AY-8910_12_-_3_процедуры"
+  },
+  {
+    "article_id": 3887,
+    "article_url": "https://zxpress.ru/article.php?id=3887",
+    "print_url": "https://zxpress.ru/print.php?id=3887",
+    "title_link": "TR-DOS - О работе с портами TR-DOS'а.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "TR-DOS_-_О_работе_с_портами_TR-DOSа"
+  },
+  {
+    "article_id": 2390,
+    "article_url": "https://zxpress.ru/article.php?id=2390",
+    "print_url": "https://zxpress.ru/print.php?id=2390",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 12575,
+    "article_url": "https://zxpress.ru/article.php?id=12575",
+    "print_url": "https://zxpress.ru/print.php?id=12575",
+    "title_link": "Оглавление - содержание газеты.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Оглавление_-_содержание_газеты"
+  },
+  {
+    "article_id": 17696,
+    "article_url": "https://zxpress.ru/article.php?id=17696",
+    "print_url": "https://zxpress.ru/print.php?id=17696",
+    "title_link": "Специальный репортаж - В недалеком прошлом, как говорится, не прошло и недели, приезжали в наш славный город-герой Минск наши братья по спектруму Гарачыя Витебские Парни.",
+    "order": 9,
+    "issue_label": "00",
+    "short_slug": "Специальныи_репортаж_-_В_недалеком_прошлом_как_говорится_не"
+  }
+]

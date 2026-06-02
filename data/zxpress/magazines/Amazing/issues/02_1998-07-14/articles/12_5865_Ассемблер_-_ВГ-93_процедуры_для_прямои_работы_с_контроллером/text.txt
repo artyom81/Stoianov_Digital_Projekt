@@ -1,0 +1,237 @@
+Amazing 02 - Ассемблер - ВГ-93: процедуры для прямой работы с контроллером дисковода.
+(C) 1998 by Dr. Serg
+
+Music by Spider
+
+; процедура записи  сектора
+; вход: BC-trek,sect
+; запись производится с адреса HL
+; (WrMode) хранит тип записи сектора
+;         00  bit 2 ═╗  сброшен    (#FB)
+;              10100х00
+;        #FF  bit 2 ═╝  установлен (#F8)
+; выход:A=0 OK.в HL-следующий аддрес
+;       A=1 error позиционирования
+;       A=2 ошибка записи
+; после дисковых операций регистр сост.
+;             переписывается по (ErrWG)
+; при ошибках типа 2 производится повтор
+; попытки чтения (PowtRDS) раз.при этом
+; увеличив. значение (Bader) на 1
+
+
+WrSect  ld a,(WrMode)
+        ld ix,Wrseccom
+        res 0,(ix+1)
+        and a:jr z,Wrsec1
+        set 0,(ix+1)
+Wrsec1  ld de,PowtRDS
+        ld a,(de):inc de
+        ld (de),a
+        ld (Wrsec6+1),hl
+        ld a,-1
+        call Posic
+        and a
+        jr nz,Wrsec3
+Wrsec2  push bc
+        ld a,c
+        ld c,#5f
+        call Dos1;       регистр сектора
+        ld c,#1f
+Wrseccom ld a,%10100000
+        call Dos1;       регистр команд
+        ld c,#7f
+        ld ix,#3fba
+        call Dos2;       цикл write
+        ld ix,#3c30
+        call Dos2
+        ld (ErrWG),a;    рег состояния
+        push hl
+Wrsec6  ld de,0
+        inc de
+        and a
+        sbc hl,de
+        pop hl
+        pop bc
+        jr z,Wrsec4      ;не писал
+        and %11111111
+        jr nz,Wrsec4
+        xor a
+        jr Wrsec5
+Wrsec4  ld hl,(Baderr)
+        inc hl
+        ld (Baderr),hl
+        ld hl,(Wrsec6+1)
+        ld a,(PowtRDS+1)
+        dec a
+        ld (PowtRDS+1),a
+        ld a,2
+        jp m,Wrsec5
+        jr Wrsec2
+Wrsec3  ld a,1
+Wrsec5  out (#fe),a
+        ret
+
+; процедура считывания сектора
+; вход: BC-trek,sect
+; считывание производится по адресу HL
+; выход:A=0 HL-len load data (128,256..)
+;       A=1 error позиционирования
+;       A=2 error load data
+; после дисковых операций регистр сост.
+;             переписывается по (ErrWG)
+; при ошибках типа 2 производится повтор
+; попытки чтения (PowtRDS) n раз.при этом
+; увеличив. значение (Bader) на 1
+
+
+Rd1Sec  ld de,PowtRDS
+        ld a,(de)
+        inc de
+        ld (de),a
+        ld (Rdsec6+1),hl
+        ld a,-1
+        call Posic
+        and a
+        jr nz,Rdsec3
+Rdsec2  push bc
+        ld a,c
+        ld c,#5f
+        call Dos1;       регистр сектора
+        ld c,#1f
+        ld a,%10000000
+        call Dos1;       регистр команд
+
+        ld c,#7f
+        ld ix,#3fd5
+        call Dos2;       цикл read
+        ld ix,#3c30
+        call Dos2
+        ld (ErrWG),a;    рег состояния
+
+        push hl
+Rdsec6  ld de,0
+        inc de
+        and a
+        sbc hl,de
+        pop hl
+        pop bc
+        jr z,Rdsec4;     не читал
+        and %11011111
+        jr nz,Rdsec4
+        out (#fe),a
+        ret
+
+Rdsec4  ld hl,(Baderr)
+        inc hl
+        ld (Baderr),hl
+        ld hl,(Rdsec6+1)
+        ld a,(PowtRDS+1)
+        dec a
+        ld (PowtRDS+1),a
+        ld a,2
+        jp m,Rdsec5
+        jr Rdsec2
+Rdsec3  ld a,1
+Rdsec5  out (#fe),a
+        ret
+
+WrMode  DB 0
+PowtRDS DB 10,0
+Baderr  DW 0
+
+
+; процедура позиционирования головки
+; Вход :B - номер трека 0-159
+;      :A=0 проверка положения 1══╗
+;                          (0001 1х00)
+;      :A=255 не проверять     0══╝
+; Выход:A=0 O.K.
+;       A<>0 Error,bit 7,a=1 команда не
+;                            принята
+;                  bit 4,a=1 ошибка по-
+;                  зиционирования
+;                  bit 0,a=1 контроллер
+;                  не готов к приему
+; изменяет IX,AF
+; Служебный регистр => (ErrWG)
+; При старте двигателя делается пауза
+; опред.константой => (DrPause)
+
+
+Posic   push bc
+        ld ix,posicC
+        and a
+        set 2,(ix+1)
+        jr z,posic3
+        res 2,(ix+1)
+posic3  ld ix,posicex
+        push ix
+                      ;уст.side
+        ld a,b
+        srl a
+        ld b,a
+        ld ix,#1feb
+        jr nc,posic1
+        ld ix,#1ff6
+posic1  call Dos2
+        ld ix,#3c30
+        call Dos2
+        bit 0,a
+        jr z,posic4
+
+;ВГ не готова.прерывание каманды
+
+        ld a,%11010000
+        ld c,#1f
+        ld ix,#2a53
+        jr posic1
+
+;проверка на вращение двигателя
+;и модификация конст. задержки
+posic4  ld ix,1
+        bit 7,a
+        jr z,posic5
+        ld ix,(DrPause)
+posic5  ld (posicp+2),ix
+        ld a,b
+        ld c,#7f
+        call Dos1;уст.ном.трека
+posicC  ld a,%00011100 ;bit 2-проверка позиц..
+        ld c,#1f
+        call Dos1;поиск дорожки
+        ld ix,#3c30;       in a,(#1f)
+posic2  call Dos2
+        bit 0,a; идет выполнение команды
+        jp nz,posic2
+        bit 7,a
+        ret nz;Аварийный выход
+                      ;Дисковод стоит!!
+        bit 4,a
+        ret nz;ошибка поиска
+        bit 3,a
+        ret nz;ошибка в контрол.
+                      ;коде(при CHECK)
+        ld (ErrWG),a
+        ;пауза,если был старт двигателя
+posicp  ld ix,0
+posic6  dec ix
+        ld a,xl
+        or xh
+        jr nz,posic6
+        pop bc
+        pop bc
+        ret
+posicex ld (ErrWG),a
+        pop bc
+        ret
+
+; процедура перехода в TR.DOS
+; по #2A53: OUT (BC),A:RET
+
+Dos1    ld ix,#2a53 ; out (c),a:ret
+Dos2    push ix
+        jp #3d2f
+
+ErrWG   DB 0
+DrPause DW #A000

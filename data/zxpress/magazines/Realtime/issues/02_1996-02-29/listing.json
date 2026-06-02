@@ -1,0 +1,173 @@
+[
+  {
+    "article_id": 11668,
+    "article_url": "https://zxpress.ru/article.php?id=11668",
+    "print_url": "https://zxpress.ru/print.php?id=11668",
+    "title_link": "От авторов - после долгого перерыва (около 3-х месяцев) вышел второй\r\n номер нашего журнала.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "От_авторов_-_после_долгого_перерыва_около_3-х_месяцев_вышел"
+  },
+  {
+    "article_id": 11669,
+    "article_url": "https://zxpress.ru/article.php?id=11669",
+    "print_url": "https://zxpress.ru/print.php?id=11669",
+    "title_link": "Игры - лучшая десятка игр октября в г.Ульяновске.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Игры_-_лучшая_десятка_игр_октября_в_гУльяновске"
+  },
+  {
+    "article_id": 11670,
+    "article_url": "https://zxpress.ru/article.php?id=11670",
+    "print_url": "https://zxpress.ru/print.php?id=11670",
+    "title_link": "Система - программа для начинающих и опытных программистов - ассемблер МАSМ v1.0.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Система_-_программа_для_начинающих_и_опытных_программистов_-"
+  },
+  {
+    "article_id": 11671,
+    "article_url": "https://zxpress.ru/article.php?id=11671",
+    "print_url": "https://zxpress.ru/print.php?id=11671",
+    "title_link": "Система - описание программы SСRЕЕN ЕDIТОR для создания \"картинок\" составленных из\r\n цветных спрайтов.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Система_-_описание_программы_SСRЕЕN_ЕDIТОR_для_создания_карт"
+  },
+  {
+    "article_id": 11672,
+    "article_url": "https://zxpress.ru/article.php?id=11672",
+    "print_url": "https://zxpress.ru/print.php?id=11672",
+    "title_link": "Система - обзор системных программ: KSA Sound Tracker, Mega Screen, Pro Tracker.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Система_-_обзор_системных_программ_KSA_Sound_Tracker_Mega_Sc"
+  },
+  {
+    "article_id": 11673,
+    "article_url": "https://zxpress.ru/article.php?id=11673",
+    "print_url": "https://zxpress.ru/print.php?id=11673",
+    "title_link": "Программирование - форма представления чисел в процессоре Z-80.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Программирование_-_форма_представления_чисел_в_процессоре_Z-"
+  },
+  {
+    "article_id": 11674,
+    "article_url": "https://zxpress.ru/article.php?id=11674",
+    "print_url": "https://zxpress.ru/print.php?id=11674",
+    "title_link": "Программрование - процедура установки прерываний IM2.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Программрование_-_процедура_установки_прерывании_IM2"
+  },
+  {
+    "article_id": 11675,
+    "article_url": "https://zxpress.ru/article.php?id=11675",
+    "print_url": "https://zxpress.ru/print.php?id=11675",
+    "title_link": "Программирование - процедура бегущей строки.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Программирование_-_процедура_бегущеи_строки"
+  },
+  {
+    "article_id": 11676,
+    "article_url": "https://zxpress.ru/article.php?id=11676",
+    "print_url": "https://zxpress.ru/print.php?id=11676",
+    "title_link": "Программирование - процедура индикаторов каналов на \"AY\" (эквалайзер).",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Программирование_-_процедура_индикаторов_каналов_на_AY_эквал"
+  },
+  {
+    "article_id": 11677,
+    "article_url": "https://zxpress.ru/article.php?id=11677",
+    "print_url": "https://zxpress.ru/print.php?id=11677",
+    "title_link": "Железо - схема ZX-СОVОX / LРТ-СОVОX'а для проигрывания цифровой музыки.",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Железо_-_схема_ZX-СОVОX_LРТ-СОVОXа_для_проигрывания_цифровои"
+  },
+  {
+    "article_id": 11678,
+    "article_url": "https://zxpress.ru/article.php?id=11678",
+    "print_url": "https://zxpress.ru/print.php?id=11678",
+    "title_link": "Железо - о винчестерах: что это такое, зачем\r\n оно нужно и как выглядит изнутри.",
+    "order": 11,
+    "issue_label": "02",
+    "short_slug": "Железо_-_о_винчестерах_что_это_такое_зачем_оно_нужно_и_как_в"
+  },
+  {
+    "article_id": 11679,
+    "article_url": "https://zxpress.ru/article.php?id=11679",
+    "print_url": "https://zxpress.ru/print.php?id=11679",
+    "title_link": "Железо - доработка порта #FD в Scorpion 256.",
+    "order": 12,
+    "issue_label": "02",
+    "short_slug": "Железо_-_доработка_порта_FD_в_Scorpion_256"
+  },
+  {
+    "article_id": 11680,
+    "article_url": "https://zxpress.ru/article.php?id=11680",
+    "print_url": "https://zxpress.ru/print.php?id=11680",
+    "title_link": "Отдых - Воспоминания штандартенфюрера Макс-Отто Фон Штирлица.",
+    "order": 13,
+    "issue_label": "02",
+    "short_slug": "Отдых_-_Воспоминания_штандартенфюрера_Макс-Отто_Фон_Штирлица"
+  },
+  {
+    "article_id": 11681,
+    "article_url": "https://zxpress.ru/article.php?id=11681",
+    "print_url": "https://zxpress.ru/print.php?id=11681",
+    "title_link": "Отдых - психоделические ежики.",
+    "order": 14,
+    "issue_label": "02",
+    "short_slug": "Отдых_-_психоделические_ежики"
+  },
+  {
+    "article_id": 11682,
+    "article_url": "https://zxpress.ru/article.php?id=11682",
+    "print_url": "https://zxpress.ru/print.php?id=11682",
+    "title_link": "Отдых - известные на весь мир законами Мерфи.",
+    "order": 15,
+    "issue_label": "02",
+    "short_slug": "Отдых_-_известные_на_весь_мир_законами_Мерфи"
+  },
+  {
+    "article_id": 11683,
+    "article_url": "https://zxpress.ru/article.php?id=11683",
+    "print_url": "https://zxpress.ru/print.php?id=11683",
+    "title_link": "Тусовка - раздел,в котором каждый желающий сможет передать кому-либо привет,\r\n поздравить друзей с днем рождения и т.д.",
+    "order": 16,
+    "issue_label": "02",
+    "short_slug": "Тусовка_-_разделв_котором_каждыи_желающии_сможет_передать_ко"
+  },
+  {
+    "article_id": 11684,
+    "article_url": "https://zxpress.ru/article.php?id=11684",
+    "print_url": "https://zxpress.ru/print.php?id=11684",
+    "title_link": "Конкурс - неужели в нашем городе никто не умеет рисовать?",
+    "order": 17,
+    "issue_label": "02",
+    "short_slug": "Конкурс_-_неужели_в_нашем_городе_никто_не_умеет_рисовать"
+  },
+  {
+    "article_id": 11685,
+    "article_url": "https://zxpress.ru/article.php?id=11685",
+    "print_url": "https://zxpress.ru/print.php?id=11685",
+    "title_link": "Почтовый ящик - письма читателей: Alex Doom, Жека и Толян.",
+    "order": 18,
+    "issue_label": "02",
+    "short_slug": "Почтовыи_ящик_-_письма_читателеи_Alex_Doom_Жека_и_Толян"
+  },
+  {
+    "article_id": 11686,
+    "article_url": "https://zxpress.ru/article.php?id=11686",
+    "print_url": "https://zxpress.ru/print.php?id=11686",
+    "title_link": "Реклама - авторы журнала.",
+    "order": 19,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_авторы_журнала"
+  }
+]

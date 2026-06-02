@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 18562,
+    "article_url": "https://zxpress.ru/article.php?id=18562",
+    "print_url": "https://zxpress.ru/print.php?id=18562",
+    "title_link": "Мысли - Снова о шифровках и шифрах",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "Мысли_-_Снова_о_шифровках_и_шифрах"
+  },
+  {
+    "article_id": 18561,
+    "article_url": "https://zxpress.ru/article.php?id=18561",
+    "print_url": "https://zxpress.ru/print.php?id=18561",
+    "title_link": "Новости - Surfin' Bird защитил диплом и уезжает в Санкт-Петербург",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "Новости_-_Surfin_Bird_защитил_диплом_и_уезжает_в_Санкт-Петер"
+  },
+  {
+    "article_id": 18563,
+    "article_url": "https://zxpress.ru/article.php?id=18563",
+    "print_url": "https://zxpress.ru/print.php?id=18563",
+    "title_link": "Об информации - Власть это Информация.",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Об_информации_-_Власть_это_Информация"
+  }
+]

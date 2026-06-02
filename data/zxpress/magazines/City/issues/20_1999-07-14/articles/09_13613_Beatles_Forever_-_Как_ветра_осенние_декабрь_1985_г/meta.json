@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "1999-07-14",
+  "order": 9,
+  "article_id": 13613,
+  "title_link": "Beatles Forever - \"Как ветра осенние\" (декабрь 1985 г).",
+  "title_h1": "City 20 - Beatles Forever - \"Как ветра осенние\" (декабрь 1985 г).",
+  "print_url": "https://zxpress.ru/print.php?id=13613",
+  "article_url": "https://zxpress.ru/article.php?id=13613",
+  "fetched_at": "2026-05-31T21:50:50Z"
+}

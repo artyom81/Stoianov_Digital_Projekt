@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "21",
+  "issue_date_iso": "2003-07-24",
+  "order": 3,
+  "article_id": 9934,
+  "title_link": "Report - отчет Alone Coder'a о поездке на ParaDigMus'2003.",
+  "title_h1": "ACNews 21 - Report - отчет Alone Coder&#039;a о поездке на ParaDigMus&#039;2003.",
+  "print_url": "https://zxpress.ru/print.php?id=9934",
+  "article_url": "https://zxpress.ru/article.php?id=9934",
+  "fetched_at": "2026-05-31T21:30:42Z"
+}

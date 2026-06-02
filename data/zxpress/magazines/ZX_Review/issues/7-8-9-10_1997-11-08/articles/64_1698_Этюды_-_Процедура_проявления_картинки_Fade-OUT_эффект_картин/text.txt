@@ -1,0 +1,510 @@
+ZX Review 7-8-9-10 - Этюды - Процедура проявления картинки. Fade-OUT эффект (картинка уходит за края экрана). Графический эффект "Фонтан". Fade-OUT эффект, имитирующий выключение телевизора.  Процедура "зажигания" картинки. Программа плавной прорисовки картинки.
+(c) Командин И.Г., г.Калуга
+И  снова  я  хочу  предложить
+несколько  своих  (и  не  только
+своих) программок в раздел "Этю-
+ды".
+1.
+Для  начала, по  традиции,
+предлагаю одну довольно  простую
+процедурку проявления  картинки.
+Эта программа как бы  вытягивает
+картинку, расположенную  по  ад-
+ресу BUFF, из  центра  экрана  к
+краям.  Процедура   коррумпирует
+картинку в памяти, поэтому  пов-
+торный ее  вызов  сработает  как
+процедура  гашения,  утягивающая
+картинку за края экрана.
+140.
+          ORG     40000
+BUFF      EQU     50000
+          ENT
+
+          LD      DE,BUFF-16384
+          LD      C,128
+LOOP2     LD      HL,#400F
+          LD      B,192
+LOOP1     PUSH    BC
+          PUSH    HL
+          ADD     HL,DE
+          LD      B,16
+L1        RL      (HL)
+          DEC     HL
+          DJNZ    L1
+          POP     HL
+          PUSH    HL
+          LD      B,16
+L2        RL      (HL)
+          DEC     HL
+          DJNZ    L2
+          POP     HL
+          INC     HL
+          PUSH    HL
+          ADD     HL,DE
+          LD      B,16
+L3        RR      (HL)
+          INC     HL
+          DJNZ    L3
+          POP     HL
+          LD      B,16
+L4        RR      (HL)
+          INC     HL
+          DJNZ    L4
+          LD      BC,15
+          ADC     HL,BC
+          POP     BC
+          DJNZ    LOOP1
+          DEC     C
+          JR      NZ,LOOP2
+          LD      HL,BUFF+6144
+          LD      DE,22528
+          LD      BC,768
+          LDIR
+          RET
+2
+   2.
+Следующая  процедура - до-
+вольно интересный  FADE-OUT  эф-
+фект. Картинка как будто бы пос-
+тепенно  разрывается   посредине
+экрана и уходит за его края.
+140.
+;(C) ZX-MANIACS
+;
+          ORG     40000
+          ENT
+
+          LD      HL,#400F
+          LD      B,1
+LOOP1     PUSH    HL
+          PUSH    BC
+          CALL    SLIDE
+          POP     BC
+          POP     HL
+          INC     B
+          LD      A,B
+          CP      192
+          JR      NZ,LOOP1
+          LD      HL,#480F
+          LD      B,128
+LOOP2     PUSH    BC
+          LD      B,128
+          PUSH    HL
+          CALL    SLIDE
+          POP     HL
+          POP     BC
+          DJNZ    LOOP2
+          RET
+SLIDE     PUSH    BC
+          PUSH    HL
+          PUSH    HL
+          LD      B,16
+          XOR     A
+L1        RL      (HL)
+          DEC     HL
+          DJNZ    L1
+          POP     HL
+          INC     HL
+          XOR     A
+          LD      B,16
+L2        RR      (HL)
+          INC     HL
+          DJNZ    L2
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          DJNZ    SLIDE
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+2
+   3.
+Ну а  теперь  пришла  пора
+самого  интересного.  Нижеприве-
+денная программа является основ-
+ной  причиной  написания  данной
+статьи. Это  довольно  красивый,
+на мой взгляд, графический  пик-
+сельный эффект, который я назвал
+FOUNTAIN.  Действие  его  заклю-
+чается в  следующем:  посередине
+нижней кромки экрана  появляется
+250 точек, которые разлетаются в
+разные стороны по  разнообразным
+параболическим траекториям.  Как
+только какая-либо из  точек  ка-
+сается  нижней  границы  экрана,
+она вновь появляется в центре  с
+новой "запрограммируемой" траек-
+торией. Таким образом  создается
+эффект  постоянно    работающего
+фонтана. Наиболее ярко и красиво
+процедура смотрится при  следую-
+щих установках:
+BORDER 0 : PAPER 0 : INK 7 :
+  BRIGHT 1 : POKE 23624,71
+Идея программы  возникла  при
+просмотре ENLIGHT-овской  демон-
+страшки ZY-ZY, за  что  огромное
+спасибо ее авторам. Также я  хо-
+тел бы поблагодарить А.Астафьева
+за статью о получении  случайных
+чисел - одним из его ПСЧ-генера-
+торов я воспользовался  в  своей
+программе.
+140.
+;FONTAIN
+;(C) ZX-MANIACS
+;BY KOMANDIN ILYA
+;SPECIAL FOR INFORCOM
+;
+          ORG     40000
+          ENT
+
+          LD      HL,COORDS
+          LD      B,250
+M1        CALL    RND
+          AND     7
+          ADD     A,120
+          LD      (HL),A
+          INC     HL
+          LD      (HL),0
+          INC     HL
+          CALL    RND
+          AND     15
+          INC     A
+          LD      (HL),A
+          INC     HL
+          CALL    RND
+          AND     7
+          SUB     3
+          LD      (HL),A
+          INC     HL
+          DJNZ    M1
+LOOP      LD      HL,COORDS
+          LD      B,250
+M2        PUSH    BC
+          PUSH    HL
+          LD      C,(HL)
+          INC     HL
+          LD      B,(HL)
+          LD      A,191
+          SUB     B
+          PUSH    HL
+          CALL    8880
+          LD      B,A
+          LD      A,7
+          SUB     B
+          ADD     A,A
+          ADD     A,A
+          ADD     A,A
+          ADD     A,134
+          LD      (RPX),A
+          DEFB    #CB
+RPX       NOP
+          POP     HL
+          INC     HL
+          LD      B,(HL)
+          DEC     HL
+          LD      A,(HL)
+          ADD     A,8
+          LD      (HL),A
+          INC     HL
+          INC     HL
+          LD      B,(HL)
+          DEC     HL
+          DEC     HL
+          DEC     HL
+          LD      A,(HL)
+          ADD     A,B
+          LD      (HL),A
+          LD      C,(HL)
+          INC     HL
+          LD      B,(HL)
+          LD      A,191
+          SUB     B
+          PUSH    HL
+          CALL    8880
+          LD      B,A
+          LD      A,7
+          SUB     B
+          ADD     A,A
+          ADD     A,A
+          ADD     A,A
+          ADD     A,198
+          LD      (SPX),A
+          DEFB    #CB
+SPX       NOP
+          POP     HL
+          LD      A,(HL)
+          OR      A
+          JR      NZ,PASS
+          LD      (HL),0
+          DEC     HL
+          CALL    RND
+          AND     7
+          ADD     A,120
+          LD      (HL),A
+          INC     HL
+          INC     HL
+          CALL    RND
+          AND     15
+          INC     A
+          LD      (HL),A
+          INC     HL
+          CALL    RND
+          AND     7
+          SUB     3
+          LD      (HL),A
+PASS      POP     HL
+          POP     BC
+          INC     HL
+          INC     HL
+          INC     HL
+          INC     HL
+          DJNZ    M2
+          LD      HL,22496
+          LD      DE,22497
+          LD      BC,31
+          LD      (HL),0
+          LDIR
+          LD      A,#7F
+          IN      A,(#FE)
+          RRA
+          JP      C,LOOP
+          RET
+RND       LD      DE,0
+          LD      A,D
+          ADD     A,#77
+          LD      D,A
+          RLC     E
+          ADD     A,E
+          LD      E,A
+          LD      (RND+1),DE
+          RET
+COORDS    DEFS    100
+2
+4.
+Ну вот и все о моих  прог-
+раммах. Далее я  предлагаю  нес-
+колько процедур  моего  друга  и
+второго члена группы  ZX-MANIACS
+Черебаева Андрея.
+
+   Первая программа  -  FADE-OUT
+эффект,  имитирующий  выключение
+телевизора.
+140.
+;(C) CHEREBAEV ANDREY
+;
+          ORG     40000
+          ENT
+
+          LD      HL,#5820
+          LD      DE,#5ADF
+          LD      B,11
+LOOP1     PUSH    BC
+          LD      B,32
+LOOP      PUSH    BC
+          LD      (HL),127
+          LD      BC,#0020
+          SBC     HL,BC
+          LD      (HL),0
+          ADC     HL,BC
+          INC     HL
+          EX      DE,HL
+          LD      (HL),127
+          ADC     HL,BC
+          LD      (HL),0
+          SBC     HL,BC
+          DEC     HL
+          EX      DE,HL
+          POP     BC
+          DJNZ    LOOP
+          POP     BC
+          HALT
+          DJNZ    LOOP1
+          LD      HL,#595F
+          LD      B,32
+LOOP2     INC     L
+          LD      (HL),0
+          DJNZ    LOOP2
+          LD      B,16
+          LD      HL,#5980
+          LD      DE,#599F
+          XOR     A
+LOOP3     LD      (HL),A
+          INC     L
+          LD      (DE),A
+          DEC     E
+          HALT
+          DJNZ    LOOP3
+          LD      B,8
+          LD      A,63
+          LD      HL,#598F
+LOOP4     LD      (HL),A
+          SUB     9
+          HALT
+          HALT
+          HALT
+          HALT
+          HALT
+          DJNZ    LOOP4
+          RET
+2
+Вторая  процедура  "зажигает"
+картинку,  действуя    абсолютно
+противоположно  предыдущей.  Эти
+две программки удобно  использо-
+вать вместе.
+140.
+;(C) CHEREBAEV ANDREY
+;
+          ORG     40000
+
+BUFF      EQU     50000
+          ENT
+
+          LD      HL,22528
+          LD      (HL),0
+          PUSH    HL
+          POP     DE
+          INC     DE
+          LD      BC,767
+          LDIR
+          LD      HL,BUFF
+          LD      DE,16384
+          LD      BC,6144
+          LDIR
+          LD      B,8
+          XOR     A
+          LD      HL,#598F
+LOOP4     LD      (HL),A
+          ADD     A,9
+          HALT
+          HALT
+          HALT
+          HALT
+          HALT
+          DJNZ    LOOP4
+          LD      B,16
+          LD      HL,#598F
+          LD      DE,#5990
+          LD      A,127
+LOOP3     LD      (HL),A
+          DEC     L
+          LD      (DE),A
+          INC     E
+          HALT
+          DJNZ    LOOP3
+          LD      HL,#595F
+          LD      DE,#59A0
+          LD      B,11
+LOOP1     PUSH    BC
+          LD      B,32
+LOOP      PUSH    BC
+          LD      (HL),127
+          LD      BC,#0020
+          ADC     HL,BC
+          CALL    PUT
+          SBC     HL,BC
+          DEC     HL
+          EX      DE,HL
+          LD      (HL),127
+          LD      BC,#0020
+          SBC     HL,BC
+          CALL    PUT
+          ADC     HL,BC
+          INC     HL
+          EX      DE,HL
+          POP     BC
+          DJNZ    LOOP
+          POP     BC
+          HALT
+          DJNZ    LOOP1
+          LD      HL,BUFF+6144
+          LD      DE,#5800
+          LD      BC,768
+          LDIR
+          RET
+
+PUT       PUSH    HL
+          PUSH    DE
+          LD      DE,BUFF-16384
+          ADC     HL,DE
+          LD      A,(HL)
+          POP     DE
+          POP     HL
+          LD      (HL),A
+          RET
+2
+Ну и наконец третья  процеду-
+ра - это "ремейк" широко  извес-
+тной программы плавной прорисов-
+ки картинки сверху вниз  по  ли-
+ниям (см. например, ZX РЕВЮ  1-2
+за 1996г.). В новой версии прог-
+раммы картинка выводится  однов-
+ременно с атрибутами, отчего эф-
+фект заметно выигрывает.
+144.
+10;(C) CHEREBAEV ANDREY
+20; & KOMANDIN ILYA
+30;
+40        ORG     40000
+50        ENT
+60 BUFF   EQU     50000
+70        LD      HL,22528
+80        LD      (ATTR),HL
+90        XOR     A
+100       LD      B,24
+110 LOOP  PUSH    BC
+120       LD      B,8
+130 LOOP1 PUSH    BC
+140       PUSH    AF
+150       LD      C,0
+160       CALL    8880
+170       EX      DE,HL
+180       LD      HL,BUFF-16384
+190       ADC     HL,DE
+200       LD      BC,32
+210       LDIR
+220       POP     AF
+230       INC     A
+240       POP     BC
+250       HALT
+260       DJNZ    LOOP1
+270       LD      DE,(ATTR)
+280       LD      HL,BUFF-16384
+290       ADC     HL,DE
+300       LD      BC,32
+310       LDIR
+320       LD      (ATTR),DE
+330       POP     BC
+340       DJNZ    LOOP
+350       RET
+360 ATTR  DEFW    0
+2
+В  вышеприведенном   варианте
+программы сначала порциями по  8
+линий   выводится    монохромное
+изображение, а затем на него на-
+кладываются  атрибуты.  Если  же
+Вам  необходим  обратный  эффект
+(например, если фон в Вашей кар-
+тинке неизменен, а  все  атрибу-
+ты - INK), то просто переставьте
+строки  270-320  в  новое  место
+между строками 110 и 120.
+*   *   *

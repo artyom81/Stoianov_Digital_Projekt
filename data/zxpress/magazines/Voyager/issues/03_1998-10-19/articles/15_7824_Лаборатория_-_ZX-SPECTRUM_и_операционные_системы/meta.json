@@ -1,0 +1,15 @@
+{
+  "magazine_id": 233,
+  "magazine_name": "Voyager",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-10-19",
+  "order": 15,
+  "article_id": 7824,
+  "title_link": "Лаборатория - ZX-SPECTRUM и операционные системы.",
+  "title_h1": "Voyager 03 - Лаборатория - ZX-SPECTRUM и операционные системы.",
+  "print_url": "https://zxpress.ru/print.php?id=7824",
+  "article_url": "https://zxpress.ru/article.php?id=7824",
+  "fetched_at": "2026-05-31T23:16:36Z"
+}

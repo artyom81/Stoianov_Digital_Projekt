@@ -1,0 +1,550 @@
+Info Guide 06 - For Coderz - Описание модульной структуры программ.
+Описание модульной структуры программ.
+
+
+
+
+   Модули представляют собой файлы,в кото-
+рых  содержится части кода и вся необходи-
+мая информация для их применения.Код моду-
+ля является релоцируемым,поскольку настра-
+ивается на любой адрес. Также имеется воз-
+можность связи модуля с другими модулями,в
+которых могут содержаться необходимые фун-
+кции и константы.
+   Библиотека  ещё  довольно сырая, но уже
+проверена в работе.Написан линковщик,кото-
+рый, впрочем,нуждается еще в основательной
+оптимизации, но свои функции выполняет.
+
+Формат заголовка модуля:
+Смещение Длина  Назначение
++0      8
+Имя модуля
++8      2
+Длина модуля в байтах,
+включая заголовок
++10     1
+Версия модуля
++11     1
+Флаги модуля (бит
+0
+-
+отладочная версия)
++12     2
+Смещение таблицы
+экспортируемых точек
++14     2
+Смещение таблицы
+импортируемых точек
++16     2
+Смещение кода
++18     6
+Свободная область
+
+   Заголовок  занимает
+24
+байта. Следом за
+ним  идёт  таблица  настройки адресов. Она
+имеет формат:
++0     2
+Смещение точки от начала
+кода
+(Point_offset)
++2     2
+Смещение значения от
+начала кода
+(Value_offset)
++ флаги.
+
+   Если  старший байт
+Value_offset
+>= #f0,
+то здесь имеется ссылка  на экспортируемую
+точку.Младший байт
+Value_offset
+определяет
+номер  этой  точки. В  другом случае после
+загрузки  модуля в память происходит наст-
+ройка кода  по всем точкам, т.е. по адресу
+(CodeAddress+(Point_offset & #3fff))
+зано-
+сится  значение
+(CodeAddress+Value_offset)
+в  соответствии  с  двумя  старшими битами
+Point_offset.
+0
+в  соответствующем  бите
+разрешает  загрузку  младшего или старшего
+байта
+(CodeAddress + Value_offset)
+в код.
+Маркер конца таблицы -
+#ffff.
+
+   Таблица экспортируемых точек имеет фор-
+мат:
++0     N
+Символьное имя точки в
+формате ASCIIZ
++N     1
+Флаг точки. Каждый бит
+отвечает за тип точки
++N+1   2
+Смещение точки в коде или
+её значение (для констант)
+
+   Маркер  конца таблицы -
+#ff.
+Символьное
+имя  может содержать в себе дополнительную
+информацию о типах параметров и возвращае-
+мом  значении, а  также о формате передачи
+параметров в функцию:
+
+PointName[@<InputParams>][#<OutputParams>]
+[%CallType],0
+InputParams
+&
+OutputParams
+перечисляют
+регистры,в которых хранятся соответственно
+входные  и  выходные  параметры:
+a=A, b=B,
+c=C, d=D, e=E, h=H, l=L, B=BC, D=DE, H=HL,
+X=IX, Y=IY, mN=
+память  в  стеке
+N
+байт.
+CallType
+- формат  передачи параметров:
+F<Fastcall>
+- передача параметров в регис-
+трах,
+C<C language>
+- параметры  в  стеке,
+стек   очищает   вызывающая  процедура,  а
+P<Pascal language>
+-  параметры  в стеке,
+стек очищает вызываемая процедура.
+   Например:
+Search@HD#a%F
+Здесь  входные  параметры  передаются в
+регистрах
+HL
+&
+DE,
+выходной  параметр - в
+регистре
+А.
+
+   Таблица импортируемых точек представля-
+ет собой  последовательность ASCIIZ строк,
+завершающюся маркером
+#ff.
+
+   Присутствие  всех  трех таблиц в модуле
+обязательно.Они могут быть и пустыми,в та-
+ком случае от таблицы остается только мар-
+кер завершения таблицы.
+
+   Линковщик  предназначен  для склеивания
+двух объектных файлов в один. Для склеива-
+ния  большего количества файлов нужно при-
+менять  линковщик  последовательно для пар
+файлов.
+Последовательность действий линковщика:
+1)
+Загрузка обоих файлов в память, при
+этом они разделяются на ведущий и ведомый.
+Ведущий  модуль  рассматривается  первым в
+некоторых функциях.
+2)
+Составление  единой таблицы экспорти-
+руемых  точек. Если обнаруживаются повторы
+(оба модуля  экспортируют точки с одинако-
+выми  именами), то  выдается  сообщение об
+ошибке и процесс прекращается.При добавле-
+нии  в таблицу имен от ведомого файла про-
+исходит  их коррекия (если они не являются
+константами) на длину кода ведущего файла.
+3)
+Просмотр каждого имени из таблицы им-
+портируемых точек на предмет его наличия в
+таблице  экспортируемых  точек. Если  есть
+совпадения,то происходит коррекция таблицы
+настройки - перенаправление ссылок с внеш-
+них точек на внутренние точки. В противном
+случае происходит добавление имени в новую
+таблицу импортируемых точек.Поиск в табли-
+це экспортируемых  точек происходит с учё-
+том описательных тегов
+(@,#,%).
+4)
+Оптимизация  таблицы   экспортируемых
+точек, т.к. там могут содержаться повторы.
+5)
+Заполнение структур заголовка.
+6)
+Слияние таблиц в одну область памяти.
+7)
+Сохранение   полученного   модуля  на
+диск.
+Пример ассемблерного файла,использующе-
+го библиотеку.
+
+;*****************************************
+;*
+;* MEM.H MEMORY MANAGEMENT FUNCTIONS
+;*
+;* Copyright (C) Vitamin/CAIG/2001    2004
+;*
+;*****************************************
+INCLUDE "MODULE",197
+;файл с библиотекой
+INCLUDE "MACRO",196
+;прочие файлы
+INCLUDE "ERRNO",193
+
+DEFINE _DEBUG_
+;определение отладочной
+;версии модуля
+
+;настройка адресов рабочих областей.
+;адрес_кода,
+;адрес_таблицы_релокации,
+;адрес_таблицы_экспорта,
+;адрес_таблицы_импорта
+__MODULE #8000,#9000,#A000,#B000
+__VERSION 0
+;версия модуля
+__MODULESTART
+;начало модуля
+__EXTERN "InitMemDrv",InitMemDrv
+;импортируемые точки
+__EXTERN "Page",Page
+__EXTERN "MemPortMask",MemPortMask
+__EXTERN "MemMap",MemMap
+__EXTERN "LoMemMap",LoMemMap
+__EXTERN "MemMapSize",MemMapSize
+__EXTERN "CurrentPage",CurrentPage
+__EXTERN "PagesAvailable",PagesAvailable
+__EXTERN "CurrentPID",CurrentPID
+__EXTERN "SetErr",SetErr
+;=========================================
+;-----------------------------------------
+__PUBLIC "MEMINIT#a%F",FUNC
+;объявление точки
+MEMINIT
+CALL_ InitMemDrv
+LD_ (PagesAvailable),A
+INC A
+JR Z,MI_2
+LD E,0
+SRA A
+RR E
+RRA
+RR E
+LD D,A
+LD_ (MemMapSize),DE
+ADD HL,DE
+LD DE,-64
+ADD HL,DE
+LD_ (LoMemMap),HL
+LD A,16
+LD_ (MemPortMask),A
+LD_ HL,MemMap
+LD D,H,E,L
+INC E
+LD_ BC,(MemMapSize)
+DEC BC
+LD (HL),-1
+LDIR
+XOR A
+JP_ SetErr
+MI_2    LD A,ENOMEM
+JP_ SetErr
+
+;-----------------------------------------
+__PUBLIC "GetPage#a%F",FUNC
+GetPage
+;A - Current page
+LD_ A,(CurrentPage)
+RET
+
+;-----------------------------------------
+__PUBLIC "GetPages#a%F",FUNC
+GetPages
+LD_ A,(PagesAvailable)
+RET
+
+;BLOCK MEMORY FUNCS
+;MEMORY MAP CONSISTS OF ELEMENTS, EACH OF
+;THEM MAY BE THE NEXT:
+;     255- FREE
+;     254- TEMPORARY BUSY (USED FOR
+;GETMEM FUNC)
+;     OTHER- BUSY BY PROCESS (PID IS DATA)
+;-----------------------------------------
+__PUBLIC "GetMem@bD#H%F",FUNC
+GetMem
+LD A,B
+;B-QUANTITY
+AND A
+;DE-START BLOCK
+;(USE ONLY IN LOMEM CALLS)
+JR Z,GM_ERR
+;HL->ADRESS   SETS ERR
+CP 64
+JR NC,GM_ERR
+IF ?_DEBUG_
+DI
+ELSE
+CALL_ _MemSpinLock
+ENDIF
+_IsHiMem
+JR NC,GM_HMA
+LD_ HL,MemMap
+ADD HL,DE
+GM_LMC  CALL_ _IsValidLogic
+JR C,GM_ERR
+CALL_ GM_GPAGE
+JR C,GM_LMC,GM_REL
+GM_HMA
+CALL_ _GetCurrentPageMapData
+CALL_ GM_GPAGE
+JR NC,GM_REL
+LD_ HL,(LoMemMap)
+CALL_ GM_GPAGE
+JR NC,GM_REL
+GM_ERR  LD HL,0,A,ENOMEM
+JR GM_REL+1
+GM_REL  XOR A
+IF ?_DEBUG_
+EI
+ELSE
+CALL_ _MemSpinUnlock
+ENDIF
+JP_ SetErr
+GM_GPAGE
+LD C,B
+GM_L4   LD E,64
+GM_L3   BIT 7,(HL)
+JR Z,GM_L1
+DEC B
+JR NZ,GM_L5
+LD_ A,(CurrentPID)
+GM_L2   LD (HL),A
+DEC HL,C
+JR NZ,GM_L2
+INC HL
+JP_ _LogicToPhisic
+
+GM_L1   LD B,C
+GM_L5   INC HL
+DEC E
+JR NZ,GM_L3
+LD HL,0
+RET
+
+;-----------------------------------------
+__PUBLIC "FreeMem@H#a%F",FUNC
+;Out: A=0- OK =-1- ERROR
+;Sets Err
+FreeMem
+;HL- ADDRESS
+LD A,H
+CP 128
+LD A,EFAULT
+JPC_ SetErr
+IF ?_DEBUG_
+DI
+ELSE
+CALL_ _MemSpinLock
+ENDIF
+LD A,H
+CP 192
+JR C,FM_LMA
+SUB 192
+LD L,A
+LD_ A,(CurrentPage)
+CALL_ _AddPageMapData
+LD B,64
+JR FM_L2
+FM_LMA  SUB 128
+LD E,A,D,0
+LD_ HL,(LoMemMap)
+ADD HL,DE
+SUB 64
+NEG
+LD B,A
+FM_L2   LD_ A,(CurrentPID)
+FM_L1   CP (HL)
+JR NZ,FM_RET
+LD (HL),-1
+INC HL
+DJNZ FM_L1
+FM_RET
+IF ?_DEBUG_
+EI
+ELSE
+CALL_ _MemSpinUnlock
+ENDIF
+XOR A
+JP_ SetErr
+
+;-----------------------------------------
+__PUBLIC "ReleaseMem%F",FUNC
+ReleaseMem
+IF ?_DEBUG_
+DI
+ELSE
+CALL_ _MemSpinLock
+ENDIF
+LD_ HL,MemMap
+LD_ DE,(MemMapSize)
+INC D
+LD_ A,(CurrentPID)
+RM_L2   CP (HL)
+JR NZ,RM_L1
+LD (HL),-1
+RM_L1   INC HL
+DEC E
+JR NZ,RM_L2
+DEC D
+JR NZ,RM_L2
+IF ?_DEBUG_
+EI
+RET
+ELSE
+JP_ _MemSpinUnlock
+ENDIF
+
+;-----------------------------------------
+__PUBLIC "MemTotal#B%F",FUNC
+MemTotal
+;BC->BLOCKS
+LD_ A,(PagesAvailable)
+INC A
+LD BC,0
+RRA
+RR C
+RRA
+RR C
+RET
+
+;-----------------------------------------
+__PUBLIC "MemAvail#B%F",FUNC
+MemAvail
+;BC->BLOCKS
+LD A,-1
+JR MemProcUsage
+
+;-----------------------------------------
+__PUBLIC "MemUsage#B%F",FUNC
+MemUsage
+LD_ A,(CurrentPID)
+;-----------------------------------------
+__PUBLIC "MemProcUsage@a#B%F",FUNC
+MemProcUsage
+;A- PID
+;BC->BLOCKS
+LD_ HL,MemMap
+LD B,L,C,L
+LD_ DE,(MemMapSize)
+INC D
+MPU_L2  CP (HL)
+JR NZ,MPU_L1
+INC BC
+MPU_L1  INC HL
+DEC E
+JR NZ,MPU_L2
+DEC D
+JR NZ,MPU_L2
+RET
+
+;=========================================
+_MemSpinLock
+RET
+_MemSpinUnlock
+RET
+_GetCurrentPageMapData
+LD_ A,(CurrentPage)
+_GetPageMapData
+LD_ HL,MemMap
+__PUBLIC "_AddPageMapData",FUNC
+_AddPageMapData
+LD E,0
+RRA
+RR E
+RRA
+RR E
+ADD A,H
+LD H,A,A,E
+ADD A,L
+LD L,A
+RET
+_LogicToPhisic
+LDH_ A,MemMap
+SUB H
+NEG
+LD H,A,A,L
+AND 192
+RLA
+RL H
+RLA
+RL H
+LD A,L
+AND 63
+LD L,A
+LD_ A,(PagesAvailable)
+CP H
+LD A,128
+JR Z,LTP1,C,LTP1
+LD A,H
+CALL_ Page
+LD A,192
+LTP1    ADD A,L
+LD H,A,L,0
+RET
+_IsValidLogic
+;HL-BLOCK POINTER IN TABLE
+PUSH DE,HL
+LD_ DE,MemMap
+AND A
+SBC HL,DE
+JR C,IVLR
+LD_ DE,(MemMapSize)
+SBC HL,DE
+CCF
+IVLR    POP HL,DE
+RET
+
+__MODULEEND
+;окончание модуля
+__COMPILE "mem"
+;создание служебного кода
+;и списывание файла на диск
+__MAKEHEADER "mem",1
+;создание вспомогательного файла
+
+   После компиляции в
+1
+странице создается
+файл с именем
+"mem"
+следующего содержания:
+
+;Header file for modules construction.
+;(C) Vitamin/CAIG/2001 all rights reserved
+MACRO MEMINIT_
+CALL_ MEMINIT
+ENDM
+MACRO GetPage_
+CALL_ GetPage
+ENDM
+MACRO GetPages_
+CALL_ GetPages
+ENDM
+MACRO GetMem_
+LD B,

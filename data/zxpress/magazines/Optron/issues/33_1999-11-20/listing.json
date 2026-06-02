@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1589,
+    "article_url": "https://zxpress.ru/article.php?id=1589",
+    "print_url": "https://zxpress.ru/print.php?id=1589",
+    "title_link": "ZX-Net - Эхо-конференция SPBZXNET.GAMES.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "ZX-Net_-_Эхо-конференция_SPBZXNETGAMES"
+  },
+  {
+    "article_id": 1590,
+    "article_url": "https://zxpress.ru/article.php?id=1590",
+    "print_url": "https://zxpress.ru/print.php?id=1590",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Полесье 13, Plutonium 14, ZX-Humor 3, Nicron 114, Wallpaper 7.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Полесье_13_Plutonium_14_Z"
+  },
+  {
+    "article_id": 1588,
+    "article_url": "https://zxpress.ru/article.php?id=1588",
+    "print_url": "https://zxpress.ru/print.php?id=1588",
+    "title_link": "Железо - К вопросу об адресации портов ZX Spectrum.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Железо_-_К_вопросу_об_адресации_портов_ZX_Spectrum"
+  },
+  {
+    "article_id": 1586,
+    "article_url": "https://zxpress.ru/article.php?id=1586",
+    "print_url": "https://zxpress.ru/print.php?id=1586",
+    "title_link": "Знакомьтесь - Владимир Булчукей (Wlodek Black)",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Знакомьтесь_-_Владимир_Булчукеи_Wlodek_Black"
+  },
+  {
+    "article_id": 1587,
+    "article_url": "https://zxpress.ru/article.php?id=1587",
+    "print_url": "https://zxpress.ru/print.php?id=1587",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: О блочных командах, работа c портами.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_О_блочных_командах_работа"
+  },
+  {
+    "article_id": 1585,
+    "article_url": "https://zxpress.ru/article.php?id=1585",
+    "print_url": "https://zxpress.ru/print.php?id=1585",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "33",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1591,
+    "article_url": "https://zxpress.ru/article.php?id=1591",
+    "print_url": "https://zxpress.ru/print.php?id=1591",
+    "title_link": "Стихи - Приход смерти.",
+    "order": 7,
+    "issue_label": "33",
+    "short_slug": "Стихи_-_Приход_смерти"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 15192,
+    "article_url": "https://zxpress.ru/article.php?id=15192",
+    "print_url": "https://zxpress.ru/print.php?id=15192",
+    "title_link": "От авторов - Мы лучшие из лучших и мы пишем лучших из лучшие программы. Мы выпускаем компьютерный журнал и распростропяем его на дисках и кассетах. Мы - это представители GSH. ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ GUILD of SIBIRIAN HACKERS ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ. GUILD of SIBIRIAN HACKERS",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_Мы_лучшие_из_лучших_и_мы_пишем_лучших_из_лучшие"
+  },
+  {
+    "article_id": 15193,
+    "article_url": "https://zxpress.ru/article.php?id=15193",
+    "print_url": "https://zxpress.ru/print.php?id=15193",
+    "title_link": "Программы - БЕГУШАЯ СТРОКА",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Программы_-_БЕГУШАЯ_СТРОКА"
+  },
+  {
+    "article_id": 15194,
+    "article_url": "https://zxpress.ru/article.php?id=15194",
+    "print_url": "https://zxpress.ru/print.php?id=15194",
+    "title_link": "Программы - Программа очистки экрана.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Программы_-_Программа_очистки_экрана"
+  }
+]

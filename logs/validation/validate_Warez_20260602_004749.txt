@@ -1,0 +1,8 @@
+  Magazin: Warez
+
+✅ Validierung: OK - Warez
+   (mit Warnungen)
+  - [Issue #01] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #02] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #03] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 3 | Artikel gesamt: 17

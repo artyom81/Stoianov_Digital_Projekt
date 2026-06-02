@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-09-30",
+  "order": 5,
+  "article_id": 5540,
+  "title_link": "Презентация - SpectrumGuide v2.0b: программа для оформления помощи к своим программам, для выпуска газет, журналов и прочих вещей...",
+  "title_h1": "Adventurer 10 - Презентация - SpectrumGuide v2.0b: программа для оформления помощи к своим программам, для выпуска газет, журналов и прочих вещей...",
+  "print_url": "https://zxpress.ru/print.php?id=5540",
+  "article_url": "https://zxpress.ru/article.php?id=5540",
+  "fetched_at": "2026-05-31T21:34:10Z"
+}

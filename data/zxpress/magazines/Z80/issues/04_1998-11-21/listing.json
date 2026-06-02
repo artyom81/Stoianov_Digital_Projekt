@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 1889,
+    "article_url": "https://zxpress.ru/article.php?id=1889",
+    "print_url": "https://zxpress.ru/print.php?id=1889",
+    "title_link": "Docycon'98 - Отчет о прошедшей в Чехии demo party.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Docycon98_-_Отчет_о_прошедшеи_в_Чехии_demo_party"
+  },
+  {
+    "article_id": 1890,
+    "article_url": "https://zxpress.ru/article.php?id=1890",
+    "print_url": "https://zxpress.ru/print.php?id=1890",
+    "title_link": "FunTop'98 - Dr.Codex о прошедшем демопати.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "FunTop98_-_DrCodex_о_прошедшем_демопати"
+  },
+  {
+    "article_id": 1891,
+    "article_url": "https://zxpress.ru/article.php?id=1891",
+    "print_url": "https://zxpress.ru/print.php?id=1891",
+    "title_link": "Net Death - Интервью с Dron'ом из K3L.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Net_Death_-_Интервью_с_Dronом_из_K3L"
+  },
+  {
+    "article_id": 1893,
+    "article_url": "https://zxpress.ru/article.php?id=1893",
+    "print_url": "https://zxpress.ru/print.php?id=1893",
+    "title_link": "Problem - О выпуске газеты #z80 на английском языке.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Problem_-_О_выпуске_газеты_z80_на_англииском_языке"
+  },
+  {
+    "article_id": 1888,
+    "article_url": "https://zxpress.ru/article.php?id=1888",
+    "print_url": "https://zxpress.ru/print.php?id=1888",
+    "title_link": "Вступление - О содержании газеты...",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_О_содержании_газеты"
+  },
+  {
+    "article_id": 1895,
+    "article_url": "https://zxpress.ru/article.php?id=1895",
+    "print_url": "https://zxpress.ru/print.php?id=1895",
+    "title_link": "Последняя страница - авторы номера.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Последняя_страница_-_авторы_номера"
+  },
+  {
+    "article_id": 1894,
+    "article_url": "https://zxpress.ru/article.php?id=1894",
+    "print_url": "https://zxpress.ru/print.php?id=1894",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1892,
+    "article_url": "https://zxpress.ru/article.php?id=1892",
+    "print_url": "https://zxpress.ru/print.php?id=1892",
+    "title_link": "Ресурсы - ZX-Spectrum: ресурсы в Интернет - 3...",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Ресурсы_-_ZX-Spectrum_ресурсы_в_Интернет_-_3"
+  }
+]

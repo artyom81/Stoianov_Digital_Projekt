@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 8471,
+    "article_url": "https://zxpress.ru/article.php?id=8471",
+    "print_url": "https://zxpress.ru/print.php?id=8471",
+    "title_link": "От авторов - первый выпуск новой электронной газеты \"SHOKER\".",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_первыи_выпуск_новои_электроннои_газеты_SHOKER"
+  },
+  {
+    "article_id": 8472,
+    "article_url": "https://zxpress.ru/article.php?id=8472",
+    "print_url": "https://zxpress.ru/print.php?id=8472",
+    "title_link": "ZX-Net - путеводитель по Запорожской Pentagon-BBS.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "ZX-Net_-_путеводитель_по_Запорожскои_Pentagon-BBS"
+  },
+  {
+    "article_id": 8473,
+    "article_url": "https://zxpress.ru/article.php?id=8473",
+    "print_url": "https://zxpress.ru/print.php?id=8473",
+    "title_link": "Железо - схема подключения ISA слота к спектруму.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Железо_-_схема_подключения_ISA_слота_к_спектруму"
+  },
+  {
+    "article_id": 8474,
+    "article_url": "https://zxpress.ru/article.php?id=8474",
+    "print_url": "https://zxpress.ru/print.php?id=8474",
+    "title_link": "Софт - о программах для теста памяти.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Софт_-_о_программах_для_теста_памяти"
+  },
+  {
+    "article_id": 8475,
+    "article_url": "https://zxpress.ru/article.php?id=8475",
+    "print_url": "https://zxpress.ru/print.php?id=8475",
+    "title_link": "Сеть - о нелегкой судьбе Запорожской модемной сети.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Сеть_-_о_нелегкои_судьбе_Запорожскои_модемнои_сети"
+  },
+  {
+    "article_id": 8476,
+    "article_url": "https://zxpress.ru/article.php?id=8476",
+    "print_url": "https://zxpress.ru/print.php?id=8476",
+    "title_link": "Разное - \"Не для кого не является секретом то, что Spectrum \"отстал\" от IBM лет на 10-20\"",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Не_для_кого_не_является_секретом_то_что_Spectrum_от"
+  },
+  {
+    "article_id": 8477,
+    "article_url": "https://zxpress.ru/article.php?id=8477",
+    "print_url": "https://zxpress.ru/print.php?id=8477",
+    "title_link": "Читы - читы и пароли к популярным западным играм.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Читы_-_читы_и_пароли_к_популярным_западным_играм"
+  },
+  {
+    "article_id": 8478,
+    "article_url": "https://zxpress.ru/article.php?id=8478",
+    "print_url": "https://zxpress.ru/print.php?id=8478",
+    "title_link": "Самиздат - ЗАКОН ВОЙН.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Самиздат_-_ЗАКОН_ВОИН"
+  },
+  {
+    "article_id": 8479,
+    "article_url": "https://zxpress.ru/article.php?id=8479",
+    "print_url": "https://zxpress.ru/print.php?id=8479",
+    "title_link": "Люди - GREY BEETLE о себе в двух словах.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Люди_-_GREY_BEETLE_о_себе_в_двух_словах"
+  },
+  {
+    "article_id": 2943,
+    "article_url": "https://zxpress.ru/article.php?id=2943",
+    "print_url": "https://zxpress.ru/print.php?id=2943",
+    "title_link": "Процессоры - Хитрые процессоры или программы , которые стабильно , в одном и том же месте \"зависают\".",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Процессоры_-_Хитрые_процессоры_или_программы_которые_стабиль"
+  },
+  {
+    "article_id": 4445,
+    "article_url": "https://zxpress.ru/article.php?id=4445",
+    "print_url": "https://zxpress.ru/print.php?id=4445",
+    "title_link": "Non Possums - Фестивaли: aту их, aту! Критическая статья о CC'000.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Non_Possums_-_Фестивaли_aту_их_aту_Критическая_статья_о_CC00"
+  },
+  {
+    "article_id": 2652,
+    "article_url": "https://zxpress.ru/article.php?id=2652",
+    "print_url": "https://zxpress.ru/print.php?id=2652",
+    "title_link": "Фантастика - Д.Галеев \"Воставшие в Мохляндии или плюшевая революция\".",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Фантастика_-_ДГалеев_Воставшие_в_Мохляндии_или_плюшевая_рево"
+  },
+  {
+    "article_id": 6240,
+    "article_url": "https://zxpress.ru/article.php?id=6240",
+    "print_url": "https://zxpress.ru/print.php?id=6240",
+    "title_link": "Железо - обзор микропроцессора Zilog Z380, продолжение.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Железо_-_обзор_микропроцессора_Zilog_Z380_продолжение"
+  },
+  {
+    "article_id": 11850,
+    "article_url": "https://zxpress.ru/article.php?id=11850",
+    "print_url": "https://zxpress.ru/print.php?id=11850",
+    "title_link": "Погурамим - рoман-дилoгия Cергея Павлoва \"Лунная Pадуга\" (глава 6-10).",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Погурамим_-_рoман-дилoгия_Cергея_Павлoва_Лунная_Pадуга_глава"
+  }
+]

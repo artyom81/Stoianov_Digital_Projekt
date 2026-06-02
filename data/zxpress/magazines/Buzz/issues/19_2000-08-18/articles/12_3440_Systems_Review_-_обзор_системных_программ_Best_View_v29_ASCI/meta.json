@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 12,
+  "article_id": 3440,
+  "title_link": "Systems Review - обзор системных программ: Best View v2.9, ASCII GFX Maker, Disk Exhumer, RUN .Z80, Excess Sample Editor, Silicon Player, Hyperion Player, Magic Eye, unRAR beta.",
+  "title_h1": "Buzz 19 - Systems Review - обзор системных программ: Best View v2.9, ASCII GFX Maker, Disk Exhumer, RUN .Z80, Excess Sample Editor, Silicon Player, Hyperion Player, Magic Eye, unRAR beta.",
+  "print_url": "https://zxpress.ru/print.php?id=3440",
+  "article_url": "https://zxpress.ru/article.php?id=3440",
+  "fetched_at": "2026-05-31T21:48:54Z"
+}

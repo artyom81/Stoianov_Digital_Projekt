@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 4616,
+    "article_url": "https://zxpress.ru/article.php?id=4616",
+    "print_url": "https://zxpress.ru/print.php?id=4616",
+    "title_link": "Вступление - пара слов о новом журнале.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_пара_слов_о_новом_журнале"
+  },
+  {
+    "article_id": 4617,
+    "article_url": "https://zxpress.ru/article.php?id=4617",
+    "print_url": "https://zxpress.ru/print.php?id=4617",
+    "title_link": "Экспертиза - тщательный разбор игры \"Narcopolice\".",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Экспертиза_-_тщательныи_разбор_игры_Narcopolice"
+  },
+  {
+    "article_id": 4618,
+    "article_url": "https://zxpress.ru/article.php?id=4618",
+    "print_url": "https://zxpress.ru/print.php?id=4618",
+    "title_link": "Дебют - \"Как начать игру?\"",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Дебют_-_Как_начать_игру"
+  },
+  {
+    "article_id": 4619,
+    "article_url": "https://zxpress.ru/article.php?id=4619",
+    "print_url": "https://zxpress.ru/print.php?id=4619",
+    "title_link": "Обзор - о будущем разделе.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Обзор_-_о_будущем_разделе"
+  },
+  {
+    "article_id": 4620,
+    "article_url": "https://zxpress.ru/article.php?id=4620",
+    "print_url": "https://zxpress.ru/print.php?id=4620",
+    "title_link": "С миру по биту - о содеражнии раздела.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "С_миру_по_биту_-_о_содеражнии_раздела"
+  },
+  {
+    "article_id": 4621,
+    "article_url": "https://zxpress.ru/article.php?id=4621",
+    "print_url": "https://zxpress.ru/print.php?id=4621",
+    "title_link": "Система - обзор прикладных программ.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Система_-_обзор_прикладных_программ"
+  },
+  {
+    "article_id": 6310,
+    "article_url": "https://zxpress.ru/article.php?id=6310",
+    "print_url": "https://zxpress.ru/print.php?id=6310",
+    "title_link": "Эхо - Обзор писем читателей газеты: Beard, Space5, DarkMax.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Эхо_-_Обзор_писем_читателеи_газеты_Beard_Space5_DarkMax"
+  },
+  {
+    "article_id": 15064,
+    "article_url": "https://zxpress.ru/article.php?id=15064",
+    "print_url": "https://zxpress.ru/print.php?id=15064",
+    "title_link": "Кодерам - Многозадачность. Теория.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Кодерам_-_Многозадачность_Теория"
+  },
+  {
+    "article_id": 12598,
+    "article_url": "https://zxpress.ru/article.php?id=12598",
+    "print_url": "https://zxpress.ru/print.php?id=12598",
+    "title_link": "Непрочитанные классики - информация о\r\nтворчeствe писатeлeй и поэтов, произвeдeния которых стали\r\nобразцами литeратурного искусства.",
+    "order": 9,
+    "issue_label": "00",
+    "short_slug": "Непрочитанные_классики_-_информация_отворчeствe_писатeлeи_и"
+  },
+  {
+    "article_id": 10780,
+    "article_url": "https://zxpress.ru/article.php?id=10780",
+    "print_url": "https://zxpress.ru/print.php?id=10780",
+    "title_link": "Новости - Новости от FLASH на 13.07.97 года.",
+    "order": 10,
+    "issue_label": "00",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_130797_года"
+  },
+  {
+    "article_id": 10477,
+    "article_url": "https://zxpress.ru/article.php?id=10477",
+    "print_url": "https://zxpress.ru/print.php?id=10477",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 22).",
+    "order": 11,
+    "issue_label": "00",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_22"
+  }
+]

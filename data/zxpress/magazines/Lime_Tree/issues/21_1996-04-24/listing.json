@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 118,
+    "article_url": "https://zxpress.ru/article.php?id=118",
+    "print_url": "https://zxpress.ru/print.php?id=118",
+    "title_link": "Вступление - Летом газета издаваться не будет, если, конечно, мы не найдем ГЛАВНОГО РЕДАКТОРА.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "Вступление_-_Летом_газета_издаваться_не_будет_если_конечно_м"
+  },
+  {
+    "article_id": 8826,
+    "article_url": "https://zxpress.ru/article.php?id=8826",
+    "print_url": "https://zxpress.ru/print.php?id=8826",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 8827,
+    "article_url": "https://zxpress.ru/article.php?id=8827",
+    "print_url": "https://zxpress.ru/print.php?id=8827",
+    "title_link": "Блиц-опрос - Доклад на тему \"Как я ездил на радиорынок и чего я там накопал\".",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Блиц-опрос_-_Доклад_на_тему_Как_я_ездил_на_радиорынок_и_чего"
+  },
+  {
+    "article_id": 8828,
+    "article_url": "https://zxpress.ru/article.php?id=8828",
+    "print_url": "https://zxpress.ru/print.php?id=8828",
+    "title_link": "Интервью - Первое интервью газеты с московским программистом NOMY.",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Интервью_-_Первое_интервью_газеты_с_московским_программистом"
+  },
+  {
+    "article_id": 8829,
+    "article_url": "https://zxpress.ru/article.php?id=8829",
+    "print_url": "https://zxpress.ru/print.php?id=8829",
+    "title_link": "Мысли на тему - О \"вероломном\" нападении Германии на СССР 22.06.41: Ко дню\r\n Фюрера.",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Мысли_на_тему_-_О_вероломном_нападении_Германии_на_СССР_2206"
+  }
+]

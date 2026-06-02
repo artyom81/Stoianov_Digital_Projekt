@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 17716,
+    "article_url": "https://zxpress.ru/article.php?id=17716",
+    "print_url": "https://zxpress.ru/print.php?id=17716",
+    "title_link": "Вступление - Немалo вoды утеклo c вpемен выхoда пеpвoгo нoмеpа...",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_Немалo_вoды_утеклo_c_вpемен_выхoда_пеpвoгo_нoме"
+  },
+  {
+    "article_id": 17717,
+    "article_url": "https://zxpress.ru/article.php?id=17717",
+    "print_url": "https://zxpress.ru/print.php?id=17717",
+    "title_link": "Top 13 - Наша дюжина.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Top_13_-_Наша_дюжина"
+  },
+  {
+    "article_id": 17718,
+    "article_url": "https://zxpress.ru/article.php?id=17718",
+    "print_url": "https://zxpress.ru/print.php?id=17718",
+    "title_link": "Игры - Oops! Cheat!",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Игры_-_Oops_Cheat"
+  },
+  {
+    "article_id": 17719,
+    "article_url": "https://zxpress.ru/article.php?id=17719",
+    "print_url": "https://zxpress.ru/print.php?id=17719",
+    "title_link": "Кодинг - Искусственный интеллект (Началo cм. в N1).",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Кодинг_-_Искусственныи_интеллект_Началo_cм_в_N1"
+  },
+  {
+    "article_id": 17720,
+    "article_url": "https://zxpress.ru/article.php?id=17720",
+    "print_url": "https://zxpress.ru/print.php?id=17720",
+    "title_link": "Почта - Вcегo за паpу дней дo выхoда газеты пpишел из гopoда Кoбpина cей oпуc. Пиcьмo пpивoдитcя пoлнocтью в автopcкoм виде.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Почта_-_Вcегo_за_паpу_днеи_дo_выхoда_газеты_пpишел_из_гopoда"
+  },
+  {
+    "article_id": 17721,
+    "article_url": "https://zxpress.ru/article.php?id=17721",
+    "print_url": "https://zxpress.ru/print.php?id=17721",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 17722,
+    "article_url": "https://zxpress.ru/article.php?id=17722",
+    "print_url": "https://zxpress.ru/print.php?id=17722",
+    "title_link": "Напоследок - Авторы и приветы.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Напоследок_-_Авторы_и_приветы"
+  }
+]

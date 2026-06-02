@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 28,
+    "article_url": "https://zxpress.ru/article.php?id=28",
+    "print_url": "https://zxpress.ru/print.php?id=28",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "75",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2461,
+    "article_url": "https://zxpress.ru/article.php?id=2461",
+    "print_url": "https://zxpress.ru/print.php?id=2461",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "75",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2462,
+    "article_url": "https://zxpress.ru/article.php?id=2462",
+    "print_url": "https://zxpress.ru/print.php?id=2462",
+    "title_link": "ZxNet - Приложение к Уставу и локальные правила узлов сети ZXNet.",
+    "order": 3,
+    "issue_label": "75",
+    "short_slug": "ZxNet_-_Приложение_к_Уставу_и_локальные_правила_узлов_сети_Z"
+  },
+  {
+    "article_id": 2459,
+    "article_url": "https://zxpress.ru/article.php?id=2459",
+    "print_url": "https://zxpress.ru/print.php?id=2459",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "75",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2460,
+    "article_url": "https://zxpress.ru/article.php?id=2460",
+    "print_url": "https://zxpress.ru/print.php?id=2460",
+    "title_link": "Чемпионат VIRUS-2 - Обьявляется новый чемпионат вирусов.",
+    "order": 5,
+    "issue_label": "75",
+    "short_slug": "Чемпионат_VIRUS-2_-_Обьявляется_новыи_чемпионат_вирусов"
+  }
+]

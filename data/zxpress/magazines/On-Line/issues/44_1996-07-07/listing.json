@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 17,
+    "article_url": "https://zxpress.ru/article.php?id=17",
+    "print_url": "https://zxpress.ru/print.php?id=17",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "44",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2129,
+    "article_url": "https://zxpress.ru/article.php?id=2129",
+    "print_url": "https://zxpress.ru/print.php?id=2129",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "44",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2127,
+    "article_url": "https://zxpress.ru/article.php?id=2127",
+    "print_url": "https://zxpress.ru/print.php?id=2127",
+    "title_link": "Мозаика - Дополнительная память для компьютеров Profi & Scorpion.",
+    "order": 3,
+    "issue_label": "44",
+    "short_slug": "Мозаика_-_Дополнительная_память_для_компьютеров_Profi_Scorpi"
+  },
+  {
+    "article_id": 2128,
+    "article_url": "https://zxpress.ru/article.php?id=2128",
+    "print_url": "https://zxpress.ru/print.php?id=2128",
+    "title_link": "Презентация - критика ZX-Format, Conver Commander v4.5 pro, MS-Pack 01.96,\r\n XAS-128, Sample Tracker v2.1.",
+    "order": 4,
+    "issue_label": "44",
+    "short_slug": "Презентация_-_критика_ZX-Format_Conver_Commander_v45_pro_MS-"
+  },
+  {
+    "article_id": 2126,
+    "article_url": "https://zxpress.ru/article.php?id=2126",
+    "print_url": "https://zxpress.ru/print.php?id=2126",
+    "title_link": "Реклама - Реклама и обьявления ...",
+    "order": 5,
+    "issue_label": "44",
+    "short_slug": "Реклама_-_Реклама_и_обьявления"
+  }
+]

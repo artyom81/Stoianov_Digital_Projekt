@@ -1,0 +1,15 @@
+{
+  "magazine_id": 58,
+  "magazine_name": "DonNews",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-01-19",
+  "order": 4,
+  "article_id": 5849,
+  "title_link": "Мнение - Анализ ситуации с компьютерами в Ростове.",
+  "title_h1": "DonNews 02 - Мнение - Анализ ситуации с компьютерами в Ростове.",
+  "print_url": "https://zxpress.ru/print.php?id=5849",
+  "article_url": "https://zxpress.ru/article.php?id=5849",
+  "fetched_at": "2026-05-31T21:58:21Z"
+}

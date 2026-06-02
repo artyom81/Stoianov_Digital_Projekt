@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "2002-06-18",
+  "order": 3,
+  "article_id": 9296,
+  "title_link": "Dune News - Marie Slip/Action сообщает о продолжении работ над Dune.",
+  "title_h1": "ACNews 08 - Dune News - Marie Slip/Action сообщает о продолжении работ над Dune.",
+  "print_url": "https://zxpress.ru/print.php?id=9296",
+  "article_url": "https://zxpress.ru/article.php?id=9296",
+  "fetched_at": "2026-05-31T21:30:19Z"
+}

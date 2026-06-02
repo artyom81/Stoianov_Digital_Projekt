@@ -1,0 +1,107 @@
+ZX Review 7-8-9-10 - Этюды - Процедура рисования линии.
+(c) Медведев С., г.Углич
+Хочу   предложить   читателям
+"Ревю" процедуру  рисования  ли-
+нии, алгоритм которой слегка от-
+личается от алгоритма  процедуры
+из "Элементарной графики".
+140.
+;Draw subroutine
+;На входе: BC - координаты нача-
+;            ла линии (B=Y, C=X)
+;          DE - координаты конца
+;            линии (D=Y, E=X)
+
+DRAW      EXX
+          LD      BC,#1C14
+          EXX
+          LD      A,B
+          CP      D
+          JR      NC,NO_EXX
+          LD      B,D
+          LD      D,A
+          LD      A,C
+          LD      C,E
+          LD      E,A
+NO_EXX    LD      A,C
+          SUB     E
+          JR      NC,X_POSIT
+          NEG
+          EXX
+          LD      B,#1D
+          EXX
+X_POSIT   LD      L,A
+; смещение по X
+          LD      A,B
+          SUB     D
+; A - смещение по Y
+          CP      L
+          LD      H,L
+          LD      B,L
+          LD      HX,B
+          LD      LX,A
+          JR      C,DONE
+          EXX
+          LD      C,B
+          LD      B,#14
+          EXX
+          LD      H,A
+          LD      B,A
+          LD      HX,A
+          LD      A,L
+          LD      LX,A
+DONE      INC     H
+          INC     LX
+          EXX
+          LD      A,B
+          LD      (COMM),A
+          LD      A,C
+          LD      (COMM1),A
+          EXX
+NEXT      PUSH    HL
+          PUSH    DE
+          PUSH    BC
+          CALL    PLOT
+;'PLOT' - любая процедура уста-
+; новки точки; координаты в DE:
+; D-Y, E-X. Рекомендую процедуру
+; А.Астафьева.
+          POP     BC
+          POP     DE
+          POP     HL
+COMM      INC     E           ;*
+          LD      A,HX
+          SUB     LX
+          LD      HX,A
+          JR      C,CARRY
+COUNT     DEC     H
+          JR      NZ,NEXT
+          RET
+CARRY     ADD     A,B
+          LD      HX,A
+COMM1     INC     D           ;*
+          JR      COUNT2
+*
+- эти команды  могут  быть
+заменены другими, поэтому  здесь
+можно написать просто NOP.
+
+   Как видно, программа  исполь-
+зует  половинки  регистра  IX, и
+владельцы ассемблеров, "не пере-
+варивающих" мнемоники  LX/HX/LY/
+HY, могут писать:
+140.
+ вместо
+LD  LX,A - DEFB    #DD
+                    LD      L,A
+вместо
+LD  C,HX - DEFB    #DD
+                    LD      C,H
+и т.д.2
+
+   Для  очистки  совести  скажу,
+что программа эта  написана  "по
+мотивам" процедуры из демки "VI-
+BRATIONS".
+*   *   *

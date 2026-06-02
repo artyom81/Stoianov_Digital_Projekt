@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 4350,
+    "article_url": "https://zxpress.ru/article.php?id=4350",
+    "print_url": "https://zxpress.ru/print.php?id=4350",
+    "title_link": "От автора - Накануне 1 сентября...",
+    "order": 1,
+    "issue_label": "37",
+    "short_slug": "От_автора_-_Накануне_1_сентября"
+  },
+  {
+    "article_id": 4351,
+    "article_url": "https://zxpress.ru/article.php?id=4351",
+    "print_url": "https://zxpress.ru/print.php?id=4351",
+    "title_link": "Юмор из сети - Юмор.",
+    "order": 2,
+    "issue_label": "37",
+    "short_slug": "Юмор_из_сети_-_Юмор"
+  },
+  {
+    "article_id": 4352,
+    "article_url": "https://zxpress.ru/article.php?id=4352",
+    "print_url": "https://zxpress.ru/print.php?id=4352",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 3,
+    "issue_label": "37",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4353,
+    "article_url": "https://zxpress.ru/article.php?id=4353",
+    "print_url": "https://zxpress.ru/print.php?id=4353",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "37",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

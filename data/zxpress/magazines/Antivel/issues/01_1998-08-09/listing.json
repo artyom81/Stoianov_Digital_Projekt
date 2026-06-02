@@ -1,0 +1,155 @@
+[
+  {
+    "article_id": 10717,
+    "article_url": "https://zxpress.ru/article.php?id=10717",
+    "print_url": "https://zxpress.ru/print.php?id=10717",
+    "title_link": "Вступление - Создать данное издание нас побудил некий vel'ик из\r\nковровской группы proxima.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Создать_данное_издание_нас_побудил_некии_velик"
+  },
+  {
+    "article_id": 10718,
+    "article_url": "https://zxpress.ru/article.php?id=10718",
+    "print_url": "https://zxpress.ru/print.php?id=10718",
+    "title_link": "Не могу - у нас в городе не все нормально с дружбой между\r\nразными командами хакеров.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Не_могу_-_у_нас_в_городе_не_все_нормально_с_дружбои_междураз"
+  },
+  {
+    "article_id": 10719,
+    "article_url": "https://zxpress.ru/article.php?id=10719",
+    "print_url": "https://zxpress.ru/print.php?id=10719",
+    "title_link": "По полочкам - Vel своей читалке ты так круто на нас наехал, что мы\r\nвсе чуть не обосрались от страха. Какой ты, оказывается, крутой и навороченный, самый известный в Коврове...",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "По_полочкам_-_Vel_своеи_читалке_ты_так_круто_на_нас_наехал_ч"
+  },
+  {
+    "article_id": 10720,
+    "article_url": "https://zxpress.ru/article.php?id=10720",
+    "print_url": "https://zxpress.ru/print.php?id=10720",
+    "title_link": "Не могу - пацаны, вы уже всех заебали своими идиотскими словестными\r\nразборками между собой. Я не буду никого сейчас обвинять и\r\nсразу скажу: парни, заканчивайте страдать всякой хуйней.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Не_могу_-_пацаны_вы_уже_всех_заебали_своими_идиотскими_слове"
+  },
+  {
+    "article_id": 10721,
+    "article_url": "https://zxpress.ru/article.php?id=10721",
+    "print_url": "https://zxpress.ru/print.php?id=10721",
+    "title_link": "Вопрос-ответ - vel, почему, раз ты такой кульный guy, от тебя свалил сначала Ash, потом я?",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Вопрос-ответ_-_vel_почему_раз_ты_такои_кульныи_guy_от_тебя_с"
+  },
+  {
+    "article_id": 10722,
+    "article_url": "https://zxpress.ru/article.php?id=10722",
+    "print_url": "https://zxpress.ru/print.php?id=10722",
+    "title_link": "Как всё это было - кой-какие внутри-городские разборки. В\r\nочередной раз \"Eternity Industry\" облили грязью в газетенке\r\n\"zX-pILOT\".",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Как_все_это_было_-_кои-какие_внутри-городские_разборки_Вочер"
+  },
+  {
+    "article_id": 10723,
+    "article_url": "https://zxpress.ru/article.php?id=10723",
+    "print_url": "https://zxpress.ru/print.php?id=10723",
+    "title_link": "Игротека - сравнение двух программ \"Quick Screen\r\nViewer v1.0 help\" и \"ZX-pilot\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Игротека_-_сравнение_двух_программ_Quick_ScreenViewer_v10_he"
+  },
+  {
+    "article_id": 10724,
+    "article_url": "https://zxpress.ru/article.php?id=10724",
+    "print_url": "https://zxpress.ru/print.php?id=10724",
+    "title_link": "Top shit - TOP SHIT изданий выпускаемых в Коврове.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Top_shit_-_TOP_SHIT_издании_выпускаемых_в_Коврове"
+  },
+  {
+    "article_id": 10725,
+    "article_url": "https://zxpress.ru/article.php?id=10725",
+    "print_url": "https://zxpress.ru/print.php?id=10725",
+    "title_link": "Бейсик - Кароче пацаны, щас я расскажу вам как надо работать в базике.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Беисик_-_Кароче_пацаны_щас_я_расскажу_вам_как_надо_работать"
+  },
+  {
+    "article_id": 10726,
+    "article_url": "https://zxpress.ru/article.php?id=10726",
+    "print_url": "https://zxpress.ru/print.php?id=10726",
+    "title_link": "Реклама - Proxima почти БЕСПЛАТНО запишет новейшие программы.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Proxima_почти_БЕСПЛАТНО_запишет_новеишие_программы"
+  },
+  {
+    "article_id": 10727,
+    "article_url": "https://zxpress.ru/article.php?id=10727",
+    "print_url": "https://zxpress.ru/print.php?id=10727",
+    "title_link": "Заключение - vel, ты хотя бы раз доказал свои слова ? Доказал, что мы лжецы ?",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Заключение_-_vel_ты_хотя_бы_раз_доказал_свои_слова_Доказал_ч"
+  },
+  {
+    "article_id": 10728,
+    "article_url": "https://zxpress.ru/article.php?id=10728",
+    "print_url": "https://zxpress.ru/print.php?id=10728",
+    "title_link": "Credits - Главный редактор был пойман кучкой ламеров. Ламеры отлеживаютя в больнице.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Credits_-_Главныи_редактор_был_поиман_кучкои_ламеров_Ламеры"
+  },
+  {
+    "article_id": 5028,
+    "article_url": "https://zxpress.ru/article.php?id=5028",
+    "print_url": "https://zxpress.ru/print.php?id=5028",
+    "title_link": "Phat'0 & Phat'1 - официальные результаты Латвийского пати.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Phat0_Phat1_-_официальные_результаты_Латвииского_пати"
+  },
+  {
+    "article_id": 15104,
+    "article_url": "https://zxpress.ru/article.php?id=15104",
+    "print_url": "https://zxpress.ru/print.php?id=15104",
+    "title_link": "Новости - Excess sample editor.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Excess_sample_editor"
+  },
+  {
+    "article_id": 4714,
+    "article_url": "https://zxpress.ru/article.php?id=4714",
+    "print_url": "https://zxpress.ru/print.php?id=4714",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 10823,
+    "article_url": "https://zxpress.ru/article.php?id=10823",
+    "print_url": "https://zxpress.ru/print.php?id=10823",
+    "title_link": "Музыка - BEST POP MUSIC.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Музыка_-_BEST_POP_MUSIC"
+  },
+  {
+    "article_id": 8695,
+    "article_url": "https://zxpress.ru/article.php?id=8695",
+    "print_url": "https://zxpress.ru/print.php?id=8695",
+    "title_link": "Партийная зона - Результаты первого Беларусского демопати MILLENNIUM'2000. По прогнозам MILLENNIUM demoparty в Минске должно было\r\nзакончиться полным провалом...",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Партииная_зона_-_Результаты_первого_Беларусского_демопати_MI"
+  }
+]

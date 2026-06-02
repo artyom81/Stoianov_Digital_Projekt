@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "50",
+  "issue_date_iso": "2000-11-19",
+  "order": 8,
+  "article_id": 13573,
+  "title_link": "Beatles - Джоанна Стингрей: У меня был друг, его звали Виктор Цой, и мне его будет не хва\r\nтать...",
+  "title_h1": "City 50 - Beatles - Джоанна Стингрей: У меня был друг, его звали Виктор Цой, и мне его будет не хва тать...",
+  "print_url": "https://zxpress.ru/print.php?id=13573",
+  "article_url": "https://zxpress.ru/article.php?id=13573",
+  "fetched_at": "2026-05-31T21:52:21Z"
+}

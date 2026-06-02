@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4163,
+    "article_url": "https://zxpress.ru/article.php?id=4163",
+    "print_url": "https://zxpress.ru/print.php?id=4163",
+    "title_link": "От автора - вышел ТРИНАДЦАТЫЙ номер...",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "От_автора_-_вышел_ТРИНАДЦАТЫИ_номер"
+  },
+  {
+    "article_id": 4164,
+    "article_url": "https://zxpress.ru/article.php?id=4164",
+    "print_url": "https://zxpress.ru/print.php?id=4164",
+    "title_link": "Проходилка - Смагли 2.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Проходилка_-_Смагли_2"
+  },
+  {
+    "article_id": 4165,
+    "article_url": "https://zxpress.ru/article.php?id=4165",
+    "print_url": "https://zxpress.ru/print.php?id=4165",
+    "title_link": "Обзор новинок - MOVE'EM ALL",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Обзор_новинок_-_MOVEEM_ALL"
+  },
+  {
+    "article_id": 4166,
+    "article_url": "https://zxpress.ru/article.php?id=4166",
+    "print_url": "https://zxpress.ru/print.php?id=4166",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4167,
+    "article_url": "https://zxpress.ru/article.php?id=4167",
+    "print_url": "https://zxpress.ru/print.php?id=4167",
+    "title_link": "Избранные мысли... - избранные мысли и максимы Франсуа де Ларошфуко.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Избранные_мысли_-_избранные_мысли_и_максимы_Франсуа_де_Ларош"
+  },
+  {
+    "article_id": 4168,
+    "article_url": "https://zxpress.ru/article.php?id=4168",
+    "print_url": "https://zxpress.ru/print.php?id=4168",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4169,
+    "article_url": "https://zxpress.ru/article.php?id=4169",
+    "print_url": "https://zxpress.ru/print.php?id=4169",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

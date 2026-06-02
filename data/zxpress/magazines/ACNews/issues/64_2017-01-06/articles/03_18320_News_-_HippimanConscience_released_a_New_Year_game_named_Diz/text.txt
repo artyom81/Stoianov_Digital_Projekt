@@ -1,0 +1,216 @@
+ACNews 64 - News - Hippiman/Conscience released a New Year game named Dizzy Rescues Santa, I fixed several errors in my 3D engine, Polist culturologist Piotr Marecki who went to summer DiHalt with Yerzmyey, wrote a big questionnaire for his future book. I translated the questions.
+News
+                         by Alone Coder
+
+A few days passed, and a lot of hot material arrived, so I must
+make a new issue just after :) Anyway I have New Year holidays
+till 8th of January.
+
+Hippiman/Conscience released a New Year game named Dizzy Rescues
+Santa using DizzyAGE platform for Windows with a smooth scroll 
+patch by Titus. I completed the game by 1th of January, and
+while I played, I broke one Christmas tree ball and flew to
+Great Ustyug (home of Ded Moroz) :) The next day Louisa won the
+game, she also found a giant present from Ded Moroz. If anybody
+has troubles with presents, there are just 25 of them (not
+counting that giant one). English translation will appear soon.
+
+Deathsoft released a couple of new versions of Unreal Speccy 
+emulator and tries to reverse engineer the schematics of disk
+controller chip 1818VG93 using micro-photographs. A half of the
+chip appeared a programmable logic array.
+
+Winter DiHalt Lite is not joined party again, however there is
+preliminary evedence that there will be around 30 people - twice
+the old number. Louisa and I don't go there this time.
+
+I fixed several errors in my 3D engine and suddenly found that
+its working zone with current math is limited to just 10x10 unit
+cubes. This is enough only for inner rooms of Total Eclipse. 
+That't how I struggled for 8-bit calculus. Let me think more :)
+
+Polist culturologist Piotr Marecki who went to summer DiHalt
+with Yerzmyey, wrote a big questionnaire for his future book. I
+translated the questions. Piotr said that you can answer in
+Russian as well. Send him your answers preferably before the end
+of January (the deadline is 1Sth of February)!
+
+Nikolay Amosov (AmoNik), formerly the editor of AvroNews
+electronic paper, sent the news from Saint Petersburg (and a big
+addition to SPbZXNet material from the previons issue of
+ACNews - see the next article). 
+
+                              News
+                          by AmoNik
+
+Sergey Smirnov (Gogin) revived his project to port Super Mario
+to ZX Spectrum. There was a demoversion of its first level at
+Your Game compo. Now Gogin rewrites the engine from scratch. 
+
+Alone> As he said, "using the experience of last 15 years". 
+And the engine is now in colour! (By the way, I tried to write 
+my own port of Super Mario three times and always abandoned 
+it.) 
+
+Here you can see how much time it takes to output the graphics:
+    https://monosnap.com/file/jбHxgvxd1YpJOCBgUaxzCdMdMOXЗaY
+The video looks twitchy but as Gogin said, that because of
+screen grabber, and the engine is smooth in reality. Even at
+3,54 MHz, without turbo mode. 
+
+Now his Scorpion is broken, and I try to give him
+recommendations according to symptoms. Although he also has a
+ZX Evolution. 
+
+Last year I wrote a new HDD driver for iS-DOS operating system.
+The old driver by Valery Kozhevnikov (Jason Frost) that I used
+for a long time, had several flaws and mistakes that I found
+when I made my own driver based on it.
+
+The cause for me was a big stock of CompactFlash cards I
+collected after I bought Amiga 600 in 2008. I purchased many
+pieces every time, trying to find the one that would work with
+Amiga via PCMCIA. It appeared that not all cards work this way,
+and the ones that work might be very slow. In the end I found
+the only card to work fast (Sony), and I tried to find use for
+the rest.
+
+I bought a CF-IDE adapter in a computer store. This adapter was
+attached instead of IDE cable. I connected it to my Scorpion and
+started experiments with the cards.
+
+Alone> I also had an adapter like this, but it was made by 
+CHRV/NedoPC. Sellers at the local computer store said that such
+a device doesn't exist at all. I used it for a long time with 
+Pentagon 1024 and ATM Turbo 2+ until I gave Pentagon 1024 with 
+the adapter, a card, a CD-ROM, and a disk with Time Gal game to 
+T(c)S. It's a pity but I have no place for it at home now...
+
+It appeared that Scorpion is very choosy. Sometimes it can't
+create a partition table on a card, sometimes it loses
+information about mounted virtual disks. If it works without
+bugs, it's very slow. Finally I found a few cards from a dozen
+that worked fast and without bugs with Scorpion.
+
+There I first encountered a bug: some programs didn't work.
+Namely the HDD_0.1 plug-in for Real Commander and the iS-DOS
+HDD driver. Both buzzed while disk access. I couldn't find the
+author of the plug-in although we live in one city. The author
+didn't release the sources but it was clear from the manual that
+the bug in the plug-in and the driver had the same cause. The
+plug-in was just a GUI wrapper over the driver by Jason Frost.
+I studied the code in a debugger and made sure that the driver
+code is the same. So, if I fix the iS-DOS driver, I fix the
+plug-in.
+
+I tried to decompile the plug-in several times, but every time I
+got a non-working source file. The compiled program appeared
+shorter than the original, or didn't work at all. Instead, I had
+the sources of the iS-DOS driver and I modified it for testing.
+However this didn't help me to understand why it buzzes.
+
+I knew the HDD protocol mostly after Vega's (Vlad Sotnikov)
+articles in ZX-NEWS electronic paper. I also had some excerpts
+from an old version of ATA standard. According to these
+documents, the driver worked OK. It didn't with CompactFlash
+though. It was apparent that in the later versions of the
+standard something got "broken", and the modern devices work
+some other way. To be sure, I ordered a few old cards sized
+32 to 512 MB, but they also failed with the old driver. So I
+knew that changing a couple bytes is not enough, I must write a
+new driver to comply with newer standards.
+
+There was a moment I sold my GMX and downgraded my Scorpion
+board to the initial state. But the board didn't work. After few
+days, I switched to a back-up board, and also made an add-on
+circuit to open DOS ports for fast drivers. Thinking twice, I
+decided that I better patch the SMUC controller to open its
+ports.
+
+Now that I had access to the ports, and I occupied myself with
+assembler, using hard copies of driver sources. I had few of
+them: Jason Frost's driver, two versions of driver by Oleg
+Grigoryev (Ruiner), and a couple of my hacks. Once I made my
+versions of Grigoryev's drivers, with LBA support and something
+else. It was easier for me to write my own that to understand
+how other's code works. I used only sector read and write
+procedures from the old drivers, and a structure for partitions
+with a procedure to find sector address using the partition
+information. The rest was mine from scratch.
+
+I started with small fragments of block reading procedures that
+read a given number of 256 byte blocks. I wrote them in ALASM 
+and tested them. Then I made an iS-DOS driver from them. It
+couldn't write but it reads very-very fast. When I debugged it,
+I returned to ALASM and started the hardest part - saving
+procedures.
+
+iS-DOS works with 256 byte logical blocks, and a physical sector 
+is 512 bytes, so I should write three distints saving
+procedures. One writes blocks that lie in the first half-sector.
+The second one writes blocks that lie in the second half-sector.
+And the last one writes a full sector.
+
+The logic was apparent, and I made the procedures in no time but
+lost a few days debugging. I created one more partition on a
+disk special for tests, and I hard-coded its coordinates into
+the driver. Then I copied files there and looked what happens.
+To be sure, I excluded possible reading failures of my new
+driver, making all the reads via old slow driver. So all the
+encountered bugs were because of my new code. And they were
+there. There were not many but I spent much time on them.
+I even wrote specific test programs and specific test files with
+certain content to see what part of it fails and appears at a
+wrong sector. Then I added debugging watches and looked at then
+in a debugger. When I couldn't find a bug in my procedures, I
+suspected that there are bugs in external code that I copied
+from other's sources. I was right. I fixed them, and the driver
+got worked.
+
+I added the second IDE channel and an install/partition
+configuration program. Then I made an official release. But in
+2016 I changed a card for a bigger one (copied the contents
+sector by sector) not testing the driver with it. That was my
+mistake. Some time after that I found there files with checksum
+error. Short inspection showed that some of the files were
+already buggy at my old HDD (they were screwed up by Jason
+Frost's driver). However, some of the files were destroyed with
+my new driver. I opened the debugger again.
+
+Test files helped me again. I found the error in a half hour.
+This was not a driver bug but a standard change, again. Old
+HDDs increased sector/head/track after reading a sector. So an
+old driver didn't count these numbers every time. This gained
+speed. My first CF card didn't change the numbers so I added
+code to increase then manually using the disk geometry. However,
+the other card returned random values.
+
+So I should rewrite the driver again. For every sector that is
+read or written not in a group, I count the coordinates and
+write them in the registers of the device. So the new driver
+will work with all the devices, includnig the old card and the
+old HDD.
+
+Bugs like that forced me to find a way to backup the iS-DOS
+partitions on disk. I don't know a PC utility that can access
+MFS partition and pick iS-DOS partitions from there. I'm not
+very positive about using a disk editor with manual operations.
+So I decided to backup disks via cable. First I thought about a
+modem, but my ISA slot at SMUC didn't work. Something burned up
+when I attached an internal modem - I connected power wrong way.
+It might be unrecoverable if Altera died. I even didn't
+investigate. I had Arduino Mega 2560 at my table, so why not use
+it for this? At the same time I'll remember how to code in C.
+I "remembered" the last time when I planned a bus-less
+PS/2 keyboard controller for Scorpion. I stopped after few tests
+- the device is too slow to "press" keys returning values on the
+bus.
+
+Today trd disks are already copied OK. I tested the speed with
+simple text message, and it appeared that Scorpion can do
+40.5 KB/s. With disk access (read sector, send it to the cable)
+it will be slower, and a full trd is transmitted in 39 seconds.
+This is for per-sector read and TR-DOS emulation via #3D13. In
+iS-DOS, it will be a lot faster because of fast HDD driver.
+Namely 39.5 KB/s for Scorpion in turbo mode. However this board
+has non-usual turbo schematics that is faster than the original.

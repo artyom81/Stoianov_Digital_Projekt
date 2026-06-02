@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 14845,
+    "article_url": "https://zxpress.ru/article.php?id=14845",
+    "print_url": "https://zxpress.ru/print.php?id=14845",
+    "title_link": "От редакции",
+    "order": 1,
+    "issue_label": "2",
+    "short_slug": "От_редакции"
+  },
+  {
+    "article_id": 14846,
+    "article_url": "https://zxpress.ru/article.php?id=14846",
+    "print_url": "https://zxpress.ru/print.php?id=14846",
+    "title_link": "Хакеры. Новое поколение (часть 2)",
+    "order": 2,
+    "issue_label": "2",
+    "short_slug": "Хакеры_Новое_поколение_часть_2"
+  }
+]

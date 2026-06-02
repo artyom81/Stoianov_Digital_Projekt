@@ -1,0 +1,210 @@
+ACNews 63 - Review - PQ-DOS operating system
+PQ-DOS operating system
+                  by Vadim from Star Software
+
+1) PQ-DOS - what is it? 
+2) Why it was made? 
+3) What are the new features? 
+4) How to use it? And what for? 
+5) Compatibility? What software works and what doesn't? 
+
+                    1) PQ-DOS - what is it?
+
+In short, PQ-DOS is an operating system for Profi that is almost
+compatible with old systems for this computer (versions of
+MicroDOS), and with canonical CP/M, and with MSXDOS-1/MSXDOS-2 *
+- so you can run software for them. This OS combines features of
+CP/M and more powerful MS-DOS. From programmer's point of view, 
+OS is an intermediate layer of code and data around a program,
+to allow it access files and devices such as display, keyboard,
+serial interface, real-time clock etc.
+
+OS can boot either from floppy disk or from HDD. It consists of
+the following main parts:
+
+1) BIOS - resides in ROM; **
+2) boot procedures in MBR/boot sector;
+3) main system loader and interpreter
+config.sys;
+4) BDOS module;
+5) Concurrent BIOS module;
+6) device drivers;
+7) command processor (shell).
+
+* some of MSXDOS-2 functions are not implemented, and there are 
+no mapping procedures, so MSXDOS-2 software with them won't 
+work. 
+
+** In fact, BIOS is a separate system residing in the computer 
+ROM where tests were before. BIOS call can be used for any 
+system or a program. Moreover, if a used doesn't want to change 
+his ROM, PQ-DOS can cope without ROM BIOS - it will load its 
+emulator while booting. This way OS can't boot from HDD but it 
+can "see" HDD if booted from floppy. 
+
+                      2) Why it was made?
+
+I'll tell why I started a new OS for Profi. When I first saw a
+Profi advertisement (around 1993), I was mostly interested in
+its extra mode with loaded OS. And when I tried it at home, on
+self-made Profi v.3, I was shocked:
+
+1) Files have names and extensions, and they can be fragmented; 
+2) File size can exceed 64 KB; 
+3) We can route program's output into a file; 
+4) File commander CopyK can read and write MS-DOS disks; 
+5) OS loaded from disk, not built in ROM like TR-DOS, so we can 
+update it; 
+6) Loaded program doesn't spoil all the RAM and returns to OS 
+when finishes; 
+7) There are text processors, programming languages etc, etc... 
+
+Slight modifications to classic Spectrum schematics allowed
+almost the same as PC in the early 90's! This was fantastic
+breakout. Pros of this approach were visible, as were cons.
+
+The main flaw of "Profi CP/M" was speed. It was very very slow,
+and many people blamed the computer and OS for that and left the
+platform. They were wrong. The computer and the OS were not
+guilty. The slowdowns were provided by people who adapted this
+MicroDOS to Profi. They made a large and thankful job running a
+real OS on a ZX. Sadly they stopped at once - most of work was
+done in a year, then the system remained mostly unchanged. The
+people that ported MicroDOS to Profi even hadn't the sources of
+BDOS, and they haven't tried to re-create them to fix bugs in
+BDOS and speed up disk access. ***
+
+In addition, Condor in 1995 made a version of the OS with an HDD
+driver, named CBIOSS. Because of this absence of sources, the
+author of this version (Pismenny D.G.) joined floppy disk driver
+with HDD driver, and made disk error handler as a resident
+running at any read/write error without a chance to cancel. OS
+could work with no more than two logical partitions on HDD. If
+you had more, you should mount and unmount logical disks that
+was uneasy. And no subdirectories. And HDD partitioning system
+was incompatible with PC. So the system became worse while being
+nicer from user's view (for example, boot menu with
+configurations, with merry sound). From my point of view, it was
+disappointing.
+
+Around 1997 I obtained documentation files and pieces of
+MSXDOS-1 sources (not working disassembly). Having studied all
+this, I decided that that's possible to make an MSXDOS-1 like
+system compatible with Profi MicroDOS software. And it was
+obvious that the OS must support FAT file system on HDD with
+subdirectories. ****
+
+*** slowdowns in Profi MicroDOS are a big topic so I won't 
+discuss it there further. 
+
+**** stages of writing the system are also skipped, ask for 
+them. 
+
+                 3) What are the new features?
+
+If we compare PQ-DOS with MicroDOS + CBIOS, we have a lot of new
+things:
+
+3.1) BDOS module is now in 2 banks. In the original MicroDOS, it
+occupied the memory from D400 to F800 for code, data, and
+buffers. PQ-DOS has main code in the first bank (around 12?),
+and some of code is moved to the second bank. Handle assigning
+tables and environment variables are also in the second bank.
+The main RAM contains the resident part or BDOS (under 4 KB), so
+free space for user programs is 58 KB.
+
+3.2) Driver subsystem in PQ-DOS is made alike one in MS-DOS.
+Drivers are loaded in RAM banks forming a linked list. So a
+driver has no install procedure as it was in CBIOS. To make a
+driver relocable, do nothing. (This is science fiction :-) )
+
+3.3) BDOS system has two sets of functions. FCB oriented
+functions are for running CP/M software and old Profi software
+for MicroDOS. Handle oriented functions work with ASCIIZ
+strings. This module was totally rewritten in 2014.
+
+3.4) File system format for PQ-DOS is FAT12/16. Floppy disks
+supported have 40 or 80 tracks, one or two sides. IDE HDD can be
+either CHS or LBA. Subdirectories limited with 64 symbols for
+file path. CP/M file system is not supported, but I plan to make
+a driver that will encode/decode CP/M file system for PQ-DOS
+kernel, so it will see a FAT12 disk without subdirectories.
+
+3.5) Command processor cmd.com was rewritten from scratch, and
+it has more commands than in early Q-DOS where it was based on
+MSXDOS-1.
+
+3.6) Drivers are divided in two levels: logical level (high
+level drivers) and physical level (low level drivers). Low level
+drivers with POST procedure and a boot loader are the BIOS. High
+level drivers are loadable device drivers. Some of loadable
+drivers are loaded always, if OS can't work without them.
+However, a user can change any of them to his driver via
+config.sys file.
+
+3.7) The system has a loader that parses config.sys, loads
+standard drivers and implements boot menu.
+
+3.8) There is a susbystem that handles extended memory. It was
+here for a long time, even in MicroDOS modification, but now
+it's updated. Programs can request RAM pages and return them.
+They can also reserve parts of RAM starting from BDOS top.
+
+3.9) PQ-DOS introduces 'processes' to run programs and control
+occupied memory. A program can run another program as a
+subroutine or initiate a child process. Also appeared residents.
+
+3.10) Concurrent BIOS (CBIOS) is only used for backwards
+compatibility. In the future it can be changed to more universal
+implementation that would allow porting PQ-DOS to other ZX
+Spectrum clones. The main ideas were documented in 2011, but
+they are still incomplete because of the lack of time and my
+lazyness)
+
+3.11) A lot of new utilities appeared. Namely the formatter,
+unique for ZX Spectrum clones, that can format floppies in FAT
+with bad blocks and finetuning. HDD can be formatted as a whole
+(writing a constant in all sectors), with fast format (cleaning
+the title), and with fast format submode that clears sectors
+faster. Again, bad sectors are marked so in the file system.
+
+3.12) Disk drivers read/write physical sectors, as many sectors
+as the caller wants. DOS read/write functions include an
+optimized algorithm to find maximum possible block to speed up
+disk access. MicroDOS systems always asked their disk driver for
+128 bytes at once.
+
+3.13) PQ-DOS has a built-in disk error handler that is called by
+BDOS in case of error. User program can set its own error
+handler.
+
+3.14) Command processor can also be changed via config.sys.
+
+3.15) OS loads very fast: 5-7 sec from floppy without file
+shell, 1 sec from HDD (2 sec with file shell).
+
+3.16) 'Environment variables' appeared: these are string
+variables keeping text (or numbers in text format). There are
+several system variables: for example, 'comspec' variable
+contains path to cmd.com, 'path' variable contains the list of
+default paths where to find executable if it weren't found in
+the current directory.
+
+                4) How to use it? And what for?
+
+The system is thoroughly documented, and the docs are constantly
+updated. Writing software is easy. File handling became a lot
+easier than in older systems and in MicroDOS. You can write
+music players for various formats, snapshot loaders for .z80,
+.sna etc, to run old Spectrum software. Mounting .trd images for
+a new TR-DOS ROM for Profi. There must be created utilities for
+reading and writing disks to and from .trd images.
+
+All of this is with FAT16, with directories. You can delete,
+create, rename files and directories without a PC. Or you can
+make an image of a floppy disk on a flash memory card, then read
+it at PC. SD card driver will be created very soon)
+
+    5) Compatibility? What software works and what doesn't?
+
+No data so far.

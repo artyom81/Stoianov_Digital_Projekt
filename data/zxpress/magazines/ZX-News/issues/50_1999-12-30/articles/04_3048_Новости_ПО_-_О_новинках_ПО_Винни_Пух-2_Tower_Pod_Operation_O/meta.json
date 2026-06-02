@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "50",
+  "issue_date_iso": "1999-12-30",
+  "order": 4,
+  "article_id": 3048,
+  "title_link": "Новости ПО - О новинках ПО: Винни Пух-2, Tower Pod, Operation OiX,\r\n Stickman Animation Studio, Screen Traslate Universal v1.0,\r\n Code Disabler v1.0, Art Studio v2.3, Zx-Word v2.6,\r\n Picture viewer v1.18, Chunk Graphics Editor v1.2.",
+  "title_h1": "ZX-News 50 - Новости ПО - О новинках ПО: Винни Пух-2, Tower Pod, Operation OiX,  Stickman Animation Studio, Screen Traslate Universal v1.0,  Code Disabler v1.0, Art Studio v2.3, Zx-Word v2.6,  Picture viewer v1.18, Chunk Graphics Editor v1.2.",
+  "print_url": "https://zxpress.ru/print.php?id=3048",
+  "article_url": "https://zxpress.ru/article.php?id=3048",
+  "fetched_at": "2026-05-31T23:30:24Z"
+}

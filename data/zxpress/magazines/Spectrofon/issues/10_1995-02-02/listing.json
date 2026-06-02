@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4522,
+    "article_url": "https://zxpress.ru/article.php?id=4522",
+    "print_url": "https://zxpress.ru/print.php?id=4522",
+    "title_link": "Экспертиза - разбор игры HIJACK.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Экспертиза_-_разбор_игры_HIJACK"
+  },
+  {
+    "article_id": 4523,
+    "article_url": "https://zxpress.ru/article.php?id=4523",
+    "print_url": "https://zxpress.ru/print.php?id=4523",
+    "title_link": "Дебют - авторский обзор игры \"MARSPORT\".",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Дебют_-_авторскии_обзор_игры_MARSPORT"
+  },
+  {
+    "article_id": 4524,
+    "article_url": "https://zxpress.ru/article.php?id=4524",
+    "print_url": "https://zxpress.ru/print.php?id=4524",
+    "title_link": "Презентация - Фантастической детективной игры \"ЗВЕЗДНОЕ НАСЛЕДИЕ\".",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Презентация_-_Фантастическои_детективнои_игры_ЗВЕЗДНОЕ_НАСЛЕ"
+  },
+  {
+    "article_id": 4525,
+    "article_url": "https://zxpress.ru/article.php?id=4525",
+    "print_url": "https://zxpress.ru/print.php?id=4525",
+    "title_link": "Обзор - обучающие программа для детей: \"ЗВУК\", позволяющая оцифровывать \r\nаналоговые сигналы.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Обзор_-_обучающие_программа_для_детеи_ЗВУК_позволяющая_оцифр"
+  },
+  {
+    "article_id": 4526,
+    "article_url": "https://zxpress.ru/article.php?id=4526",
+    "print_url": "https://zxpress.ru/print.php?id=4526",
+    "title_link": "С миру по биту - Письма читателей, дискуссия по проблемам программного \r\nобеспечения для \"ZX-Spectrum\". Заявки на публикацию авторских программ.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "С_миру_по_биту_-_Письма_читателеи_дискуссия_по_проблемам_про"
+  },
+  {
+    "article_id": 4527,
+    "article_url": "https://zxpress.ru/article.php?id=4527",
+    "print_url": "https://zxpress.ru/print.php?id=4527",
+    "title_link": "Система - \"Турбирование ВГ93\".",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Система_-_Турбирование_ВГ93"
+  },
+  {
+    "article_id": 4528,
+    "article_url": "https://zxpress.ru/article.php?id=4528",
+    "print_url": "https://zxpress.ru/print.php?id=4528",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

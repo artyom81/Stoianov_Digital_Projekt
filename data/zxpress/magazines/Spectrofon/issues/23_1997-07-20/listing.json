@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 4737,
+    "article_url": "https://zxpress.ru/article.php?id=4737",
+    "print_url": "https://zxpress.ru/print.php?id=4737",
+    "title_link": "С миру по биту - \"От спутника до Митника\" - типология хаккера.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "С_миру_по_биту_-_От_спутника_до_Митника_-_типология_хаккера"
+  },
+  {
+    "article_id": 4738,
+    "article_url": "https://zxpress.ru/article.php?id=4738",
+    "print_url": "https://zxpress.ru/print.php?id=4738",
+    "title_link": "С миру по биту - статья о \"плохих\"\r\nхакеpах.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "С_миру_по_биту_-_статья_о_плохиххакеpах"
+  },
+  {
+    "article_id": 4739,
+    "article_url": "https://zxpress.ru/article.php?id=4739",
+    "print_url": "https://zxpress.ru/print.php?id=4739",
+    "title_link": "Энциклопедия - история Codemasters: создателей знаменитой серии игр про Dizzy + софтография фирмы.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Энциклопедия_-_история_Codemasters_создателеи_знаменитои_сер"
+  },
+  {
+    "article_id": 4740,
+    "article_url": "https://zxpress.ru/article.php?id=4740",
+    "print_url": "https://zxpress.ru/print.php?id=4740",
+    "title_link": "Фантазия - \"Виpтуальный Синдpом\" (тpагикомический фаpс).",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Фантазия_-_Виpтуальныи_Синдpом_тpагикомическии_фаpс"
+  },
+  {
+    "article_id": 4741,
+    "article_url": "https://zxpress.ru/article.php?id=4741",
+    "print_url": "https://zxpress.ru/print.php?id=4741",
+    "title_link": "Премьера - музыкальный редактор нового поколения Fast Tracker, ассемблер ZASM 3.10, редактор шрифтов BYTEX Font Editor, адвентюрная игра \"Плутония\".",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Премьера_-_музыкальныи_редактор_нового_поколения_Fast_Tracke"
+  },
+  {
+    "article_id": 4742,
+    "article_url": "https://zxpress.ru/article.php?id=4742",
+    "print_url": "https://zxpress.ru/print.php?id=4742",
+    "title_link": "Зеркало - интервью с организатором Новгородской группы Digital Reality - Arty.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Зеркало_-_интервью_с_организатором_Новгородскои_группы_Digit"
+  },
+  {
+    "article_id": 4743,
+    "article_url": "https://zxpress.ru/article.php?id=4743",
+    "print_url": "https://zxpress.ru/print.php?id=4743",
+    "title_link": "Глобус - \"Пятилетие Hewson Consultants\" история фирмы.",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Глобус_-_Пятилетие_Hewson_Consultants_история_фирмы"
+  },
+  {
+    "article_id": 4744,
+    "article_url": "https://zxpress.ru/article.php?id=4744",
+    "print_url": "https://zxpress.ru/print.php?id=4744",
+    "title_link": "Тайник - Pokes и cheat’s для множества игр, в т.ч. к НЛО-2, Kwik Snax, ELITE.",
+    "order": 8,
+    "issue_label": "23",
+    "short_slug": "Таиник_-_Pokes_и_cheats_для_множества_игр_в_тч_к_НЛО-2_Kwik"
+  },
+  {
+    "article_id": 4745,
+    "article_url": "https://zxpress.ru/article.php?id=4745",
+    "print_url": "https://zxpress.ru/print.php?id=4745",
+    "title_link": "Мнение - результаты опроса общественного мнения пpоведенного в апpеле в эхоконфеpенции \"ZX.SPECTRUM\".",
+    "order": 9,
+    "issue_label": "23",
+    "short_slug": "Мнение_-_результаты_опроса_общественного_мнения_пpоведенного"
+  },
+  {
+    "article_id": 4746,
+    "article_url": "https://zxpress.ru/article.php?id=4746",
+    "print_url": "https://zxpress.ru/print.php?id=4746",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

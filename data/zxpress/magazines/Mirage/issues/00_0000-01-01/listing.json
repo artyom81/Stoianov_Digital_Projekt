@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 10674,
+    "article_url": "https://zxpress.ru/article.php?id=10674",
+    "print_url": "https://zxpress.ru/print.php?id=10674",
+    "title_link": "Вступление - Как будет выглядеть \"MIRAGE n-1\"?",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_Как_будет_выглядеть_MIRAGE_n-1"
+  },
+  {
+    "article_id": 12937,
+    "article_url": "https://zxpress.ru/article.php?id=12937",
+    "print_url": "https://zxpress.ru/print.php?id=12937",
+    "title_link": "Железяки - сaмoстoятельное изгoтoвление печaтных плaт.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Железяки_-_сaмoстoятельное_изгoтoвление_печaтных_плaт"
+  },
+  {
+    "article_id": 9350,
+    "article_url": "https://zxpress.ru/article.php?id=9350",
+    "print_url": "https://zxpress.ru/print.php?id=9350",
+    "title_link": "Железо - CDROM в ваш дом: документация по ATAPI(IDE) CD-ROM",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Железо_-_CDROM_в_ваш_дом_документация_по_ATAPIIDE_CD-ROM"
+  },
+  {
+    "article_id": 815,
+    "article_url": "https://zxpress.ru/article.php?id=815",
+    "print_url": "https://zxpress.ru/print.php?id=815",
+    "title_link": "Реклама - Реклама и объявления в Ульяновске...",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_Реклама_и_объявления_в_Ульяновске"
+  },
+  {
+    "article_id": 130,
+    "article_url": "https://zxpress.ru/article.php?id=130",
+    "print_url": "https://zxpress.ru/print.php?id=130",
+    "title_link": "Предисловие - Разношерстная газета.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Предисловие_-_Разношерстная_газета"
+  },
+  {
+    "article_id": 2988,
+    "article_url": "https://zxpress.ru/article.php?id=2988",
+    "print_url": "https://zxpress.ru/print.php?id=2988",
+    "title_link": "Новости - Позвоните на 100 Hz BBS.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Новости_-_Позвоните_на_100_Hz_BBS"
+  }
+]

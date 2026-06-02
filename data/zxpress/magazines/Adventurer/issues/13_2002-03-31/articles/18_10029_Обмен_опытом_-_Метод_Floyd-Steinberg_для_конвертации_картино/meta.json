@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "2002-03-31",
+  "order": 18,
+  "article_id": 10029,
+  "title_link": "Обмен опытом - Метод Floyd-Steinberg для конвертации картинок из большего\r\nчисла цветов в меньший.",
+  "title_h1": "Adventurer 13 - Обмен опытом - Метод Floyd-Steinberg для конвертации картинок из большего числа цветов в меньший.",
+  "print_url": "https://zxpress.ru/print.php?id=10029",
+  "article_url": "https://zxpress.ru/article.php?id=10029",
+  "fetched_at": "2026-05-31T21:35:03Z"
+}

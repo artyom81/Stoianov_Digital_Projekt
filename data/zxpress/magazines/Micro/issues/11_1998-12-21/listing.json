@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 5167,
+    "article_url": "https://zxpress.ru/article.php?id=5167",
+    "print_url": "https://zxpress.ru/print.php?id=5167",
+    "title_link": "AD&D - Предисловие ко 2-й версии описания AD&D.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "ADD_-_Предисловие_ко_2-и_версии_описания_ADD"
+  },
+  {
+    "article_id": 5168,
+    "article_url": "https://zxpress.ru/article.php?id=5168",
+    "print_url": "https://zxpress.ru/print.php?id=5168",
+    "title_link": "Сами не знаем - Александр Вишневский \"Мой дневник\".",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Сами_не_знаем_-_Александр_Вишневскии_Мои_дневник"
+  },
+  {
+    "article_id": 5169,
+    "article_url": "https://zxpress.ru/article.php?id=5169",
+    "print_url": "https://zxpress.ru/print.php?id=5169",
+    "title_link": "Ария - Сборник лучших песен самой крутой рок-группы 'АРИЯ'.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Ария_-_Сборник_лучших_песен_самои_крутои_рок-группы_АРИЯ"
+  },
+  {
+    "article_id": 5170,
+    "article_url": "https://zxpress.ru/article.php?id=5170",
+    "print_url": "https://zxpress.ru/print.php?id=5170",
+    "title_link": "Poke's - подборка Poke's.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Pokes_-_подборка_Pokes"
+  }
+]

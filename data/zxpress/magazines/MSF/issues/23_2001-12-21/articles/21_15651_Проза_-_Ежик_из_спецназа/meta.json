@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "2001-12-21",
+  "order": 21,
+  "article_id": 15651,
+  "title_link": "Проза - Ежик из спецназа",
+  "title_h1": "MSF 23 - Проза - Ежик из спецназа",
+  "print_url": "https://zxpress.ru/print.php?id=15651",
+  "article_url": "https://zxpress.ru/article.php?id=15651",
+  "fetched_at": "2026-05-31T22:29:40Z"
+}

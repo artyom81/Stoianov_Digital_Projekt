@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 10852,
+    "article_url": "https://zxpress.ru/article.php?id=10852",
+    "print_url": "https://zxpress.ru/print.php?id=10852",
+    "title_link": "Содержание - содержание номера.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Содержание_-_содержание_номера"
+  },
+  {
+    "article_id": 10853,
+    "article_url": "https://zxpress.ru/article.php?id=10853",
+    "print_url": "https://zxpress.ru/print.php?id=10853",
+    "title_link": "Новости - Сегодня в Ст-Петербурге вышел журнал\r\nZX-FORMAT 4.5 полностью посвященный\r\nсьезду ENLIGHT 96.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Сегодня_в_Ст-Петербурге_вышел_журналZX-FORMAT_45_п"
+  },
+  {
+    "article_id": 10854,
+    "article_url": "https://zxpress.ru/article.php?id=10854",
+    "print_url": "https://zxpress.ru/print.php?id=10854",
+    "title_link": "Реклама - ГАЗЕТЕ SKY NET ТРЕБУЮТСЯ РЕДАКТОРЫ РАЗДЕЛОВ!",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_ГАЗЕТЕ_SKY_NET_ТРЕБУЮТСЯ_РЕДАКТОРЫ_РАЗДЕЛОВ"
+  },
+  {
+    "article_id": 10855,
+    "article_url": "https://zxpress.ru/article.php?id=10855",
+    "print_url": "https://zxpress.ru/print.php?id=10855",
+    "title_link": "News games - Публикуем в этом выпуске пароли для\r\nперехода на все уровни в игре PRINCE OF\r\nPERSIA.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "News_games_-_Публикуем_в_этом_выпуске_пароли_дляперехода_на"
+  },
+  {
+    "article_id": 10856,
+    "article_url": "https://zxpress.ru/article.php?id=10856",
+    "print_url": "https://zxpress.ru/print.php?id=10856",
+    "title_link": "Top Secret - SAILOR AND JAMESSOFT выпустили описание к игре UFO-2 v 2.10.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Top_Secret_-_SAILOR_AND_JAMESSOFT_выпустили_описание_к_игре"
+  },
+  {
+    "article_id": 10857,
+    "article_url": "https://zxpress.ru/article.php?id=10857",
+    "print_url": "https://zxpress.ru/print.php?id=10857",
+    "title_link": "Срочно в номер - Продаются любые новые и старые игры и системы для ZX-SPECTRUM!",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Срочно_в_номер_-_Продаются_любые_новые_и_старые_игры_и_систе"
+  },
+  {
+    "article_id": 10858,
+    "article_url": "https://zxpress.ru/article.php?id=10858",
+    "print_url": "https://zxpress.ru/print.php?id=10858",
+    "title_link": "ZXNet - Действующие BBS сети SKY NET.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "ZXNet_-_Деиствующие_BBS_сети_SKY_NET"
+  },
+  {
+    "article_id": 10859,
+    "article_url": "https://zxpress.ru/article.php?id=10859",
+    "print_url": "https://zxpress.ru/print.php?id=10859",
+    "title_link": "Компьютерное обозрение - о проблемах, которые касаются\r\nкомпьютеров. О ценах на процессоры для I.B.M. совместимых\r\nкомпьютеров.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Компьютерное_обозрение_-_о_проблемах_которые_касаютсякомпьют"
+  },
+  {
+    "article_id": 10860,
+    "article_url": "https://zxpress.ru/article.php?id=10860",
+    "print_url": "https://zxpress.ru/print.php?id=10860",
+    "title_link": "Форум - За истекшую неделю от абонентов не было получено ни одного, даже устного сообщения !",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Форум_-_За_истекшую_неделю_от_абонентов_не_было_получено_ни"
+  },
+  {
+    "article_id": 10861,
+    "article_url": "https://zxpress.ru/article.php?id=10861",
+    "print_url": "https://zxpress.ru/print.php?id=10861",
+    "title_link": "Отдохнем - Сифилис: Рассказ историка. Рассказ ученого. Рассказ врача. Рассказ больного. Рассказ больной.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Отдохнем_-_Сифилис_Рассказ_историка_Рассказ_ученого_Рассказ"
+  }
+]

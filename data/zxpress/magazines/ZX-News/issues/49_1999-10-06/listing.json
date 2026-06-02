@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3042,
+    "article_url": "https://zxpress.ru/article.php?id=3042",
+    "print_url": "https://zxpress.ru/print.php?id=3042",
+    "title_link": "GAMES-эха - По материалам эхи SPBZXNET.GAMES - об игре ELITE.",
+    "order": 1,
+    "issue_label": "49",
+    "short_slug": "GAMES-эха_-_По_материалам_эхи_SPBZXNETGAMES_-_об_игре_ELITE"
+  },
+  {
+    "article_id": 3043,
+    "article_url": "https://zxpress.ru/article.php?id=3043",
+    "print_url": "https://zxpress.ru/print.php?id=3043",
+    "title_link": "Лит.страничка - Свет истины.",
+    "order": 2,
+    "issue_label": "49",
+    "short_slug": "Литстраничка_-_Свет_истины"
+  },
+  {
+    "article_id": 3041,
+    "article_url": "https://zxpress.ru/article.php?id=3041",
+    "print_url": "https://zxpress.ru/print.php?id=3041",
+    "title_link": "Новости ПО - О новинках ПО: Xixit, Винни Пух-2, Real Commander v1.8,\r\n Adventurer #9, Miracle #3, ZX-Format #9.",
+    "order": 3,
+    "issue_label": "49",
+    "short_slug": "Новости_ПО_-_О_новинках_ПО_Xixit_Винни_Пух-2_Real_Commander"
+  },
+  {
+    "article_id": 3039,
+    "article_url": "https://zxpress.ru/article.php?id=3039",
+    "print_url": "https://zxpress.ru/print.php?id=3039",
+    "title_link": "От редакции - Юмористический номер газеты...",
+    "order": 4,
+    "issue_label": "49",
+    "short_slug": "От_редакции_-_Юмористическии_номер_газеты"
+  },
+  {
+    "article_id": 3040,
+    "article_url": "https://zxpress.ru/article.php?id=3040",
+    "print_url": "https://zxpress.ru/print.php?id=3040",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 5,
+    "issue_label": "49",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  },
+  {
+    "article_id": 3045,
+    "article_url": "https://zxpress.ru/article.php?id=3045",
+    "print_url": "https://zxpress.ru/print.php?id=3045",
+    "title_link": "Хит-парад - Интересная десяточка лучших игр.",
+    "order": 6,
+    "issue_label": "49",
+    "short_slug": "Хит-парад_-_Интересная_десяточка_лучших_игр"
+  },
+  {
+    "article_id": 3044,
+    "article_url": "https://zxpress.ru/article.php?id=3044",
+    "print_url": "https://zxpress.ru/print.php?id=3044",
+    "title_link": "Юмор - Жизнь сетевая.",
+    "order": 7,
+    "issue_label": "49",
+    "short_slug": "Юмор_-_Жизнь_сетевая"
+  }
+]

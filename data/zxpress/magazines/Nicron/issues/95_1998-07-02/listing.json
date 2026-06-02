@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7111,
+    "article_url": "https://zxpress.ru/article.php?id=7111",
+    "print_url": "https://zxpress.ru/print.php?id=7111",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "95",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7112,
+    "article_url": "https://zxpress.ru/article.php?id=7112",
+    "print_url": "https://zxpress.ru/print.php?id=7112",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "95",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7113,
+    "article_url": "https://zxpress.ru/article.php?id=7113",
+    "print_url": "https://zxpress.ru/print.php?id=7113",
+    "title_link": "Юмор - Сленг современной молодежи.",
+    "order": 3,
+    "issue_label": "95",
+    "short_slug": "Юмор_-_Сленг_современнои_молодежи"
+  },
+  {
+    "article_id": 7114,
+    "article_url": "https://zxpress.ru/article.php?id=7114",
+    "print_url": "https://zxpress.ru/print.php?id=7114",
+    "title_link": "Юмор - Корпусок. Краткое пособие детям по сборке домашнего компьютера из неликвидов.",
+    "order": 4,
+    "issue_label": "95",
+    "short_slug": "Юмор_-_Корпусок_Краткое_пособие_детям_по_сборке_домашнего_ко"
+  },
+  {
+    "article_id": 7115,
+    "article_url": "https://zxpress.ru/article.php?id=7115",
+    "print_url": "https://zxpress.ru/print.php?id=7115",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 5,
+    "issue_label": "95",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7116,
+    "article_url": "https://zxpress.ru/article.php?id=7116",
+    "print_url": "https://zxpress.ru/print.php?id=7116",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 6,
+    "issue_label": "95",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

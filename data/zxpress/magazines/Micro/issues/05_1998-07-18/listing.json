@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 356,
+    "article_url": "https://zxpress.ru/article.php?id=356",
+    "print_url": "https://zxpress.ru/print.php?id=356",
+    "title_link": "AD&D - Обыгрывание характера героя",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "ADD_-_Обыгрывание_характера_героя"
+  },
+  {
+    "article_id": 357,
+    "article_url": "https://zxpress.ru/article.php?id=357",
+    "print_url": "https://zxpress.ru/print.php?id=357",
+    "title_link": "Poke из Интернета",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Poke_из_Интернета"
+  },
+  {
+    "article_id": 354,
+    "article_url": "https://zxpress.ru/article.php?id=354",
+    "print_url": "https://zxpress.ru/print.php?id=354",
+    "title_link": "Новости - Spectrum новости из Питера",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Spectrum_новости_из_Питера"
+  },
+  {
+    "article_id": 355,
+    "article_url": "https://zxpress.ru/article.php?id=355",
+    "print_url": "https://zxpress.ru/print.php?id=355",
+    "title_link": "Прохождение - Экзаменационное Расследование",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Прохождение_-_Экзаменационное_Расследование"
+  }
+]

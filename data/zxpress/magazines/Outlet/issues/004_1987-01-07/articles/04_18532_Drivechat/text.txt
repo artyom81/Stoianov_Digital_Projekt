@@ -1,0 +1,247 @@
+004 - Drivechat
+First a hint for adventurous
+Microdrivers.
+
+ If you find your drive rather
+noisy , prone to chew carts or
+erratic on loading ,you may like
+to try this. First take off the
+metal cover plate (the bit with
+the coloured stripes on) ,its
+only glued down with sticky
+tape. You should see 2 screws,
+remove them & GENTLY open the 2
+halves , starting at the front. 
+Be careful as the little red LED
+can come loose! There will be
+enough lead though to allow easy
+access.
+
+ The first thing to look at is
+the rubber roller , as it can
+become either deformed (BAD!) or
+just plain dirty! To clean it &
+the head for that matter , use a
+tape head fluid on some lint
+free material (soft chamois
+leather?). Also reset the motor
+position , as this often moves
+for some reason.
+
+ To do this SLIGHTLY loosen the
+2 small screws that hold the
+motor in , Now GENTLY push the
+motor backwards & to the right.
+This can be done by using your 
+little finger , inserted just
+below the plate the motor
+attaches to. (If your finger is
+too big use a pen top!)
+
+ While holding it there re-
+tighten the 2 screws , be gentle
+though as the chassis is only
+plastic! At this point the extra
+brave may like to try it out!
+This is OK but you must gently
+hold the cart down as you insert
+& run it or the cart may do an
+impression of a Harrier Jump
+Jet!
+
+ Assuming all is well you can
+re- assemble the drive. Make
+sure the rear 'tongue' is
+located correctly & the LED is
+still in its hole before  
+lowering the front of the top
+cover. Now just replace the
+screws & the plate! While you
+are about it its a good idea to
+clean the edge connectors on
+both IF1 & the drive as well to
+prevent file not found errors.
+
+ On the same sort of subject
+.... Beware the slow drives! Yes
+some drives do go slow ,either
+they were made that way or they
+have been tweaked! They usually
+FORMAT a cart to quite high no's
+of K but if you try to use a
+cart FORMATted on another normal
+drive the gaps you were
+describing tend to get over-
+written & any data that is on
+the cart can be unretrievable! 
+ If you get a looped cart then I
+ find the best way of winding the
+ tape back is to use the stick
+part of a cotton bud held
+against the white roller pretty
+good! 
+
+It goes without saying , I hope
+that ANY tampering with the
+inards of hardware MUST be done
+with it switched off!
+
+ 128K hint -Does your 128 have a
+ disturbed picture whilst running
+ drives? Yes?
+
+ This is usually due to the
+regulator having a poor
+connection. If you remove the
+top of the computer you will see
+the regulator screwed on the  
+the heatsink at the right hand
+side. It has a connector holding
+the wires on , check which
+colour goes to which pin (some
+are different!) Cut the silly
+plug off & re solder the wires ,
+cut just long enough to reach ,
+to the Regulators pins. Instant
+steady pictures. Of course the
+mod means you have to unsolder
+the wires to remove the PCB....
+
+             - Brian Gaff 
+Thanks Brian, for those hints.
+
+I'd just like to add to what
+Brian was saying about cleaning
+the edge connectors.
+
+This is an old, old tip which
+many of us have heard again and
+again but it's so important that
+we might as well state it here
+in DRIVECHAT just for the
+record...
+
+It is strongly recommended that
+you regularly clean the edge
+connector at the back of the
+Spectrum and the Interface 1
+connector as well as the side
+connectors to the microdrive(s).
+The oxide which otherwise builds
+up is a common cause of the  
+system refusing to accept
+Interface 1 commands or failing
+to recognize the presence of the
+microdrive. It's best to use a
+soft, clean, rubber eraser to dot
+he job as it has been said that
+spirit may degrade the
+connectors.
+
+The clips in the Interface 1
+connector are tricky - I use an
+elastic band! What do others
+use?
+
+How often should you clean the
+connectors? I reckon about every
+six months to a year. Mind you,
+I use my Spectrum about 35 hours
+a day so I suppose I ought to do
+it more often. Still, I
+generally find that after 6 to  
+12 months I get the tell-tale
+signs - I enter CAT 1 or
+something and my Spectrum goes
+"Huh? CAT 1? What's a CAT 1?".
+
+Perhaps I shouldn't say this but
+if you only use your Spectrum
+for a few hours a week and have
+never had any problem signs then
+I'd be tempted to leave well
+alone...
+
+Now a quick tip for those people
+who have the Sinclair Copier
+that came with the expansion
+pack. If you want a fast way of
+verifying the copy made just try
+to copy it back. The copier will
+re-load it and attempt to
+re-save it back where it came
+from. If all is well it will 
+display the "file exists "
+message which means it success-
+fully loaded it back into
+memory. The system does not
+crash so you can do this with
+multiple copies.
+
+A final tip - again with the
+Sinclair Copier.
+
+You know how the BASIC is
+automatically erased after
+loading leaving just the info
+message? Well that means, of
+course, that you must then type
+in the commands direct, type in
+your own BASIC or LOAD some
+further BASIC you've prepared.
+I'd been meaning for ages to
+hack into the code to remove the
+instruction that wipes out the  
+BASIC so I could write my own
+BASIC routines and load the code
+into MY BASIC. It would save
+keep typing in all that "*MOVE
+"M";1;"BORING" TO "M";2 stuff
+repeatedly.
+
+Of course, you can't normally doth
+at because the code just
+erases your BASIC when you make
+the RANDOMISE USER call! Just a
+few days ago I realized the
+answer! I didn't need to hack
+the code at all! All you do is
+point the Interface 1 system
+variable VECTOR at the right
+address and Bob's your uncle!
+
+To do this, write your BASIC
+program (You can have mine if
+you want but I don't know how 
+many OUTLET readers have the
+Sinclair Copier and my BASIC
+wouldn't be any use to those who
+don't!).
+
+At the START LINE in your
+program you need: CLEAR 25999:
+LOAD *"M";1;"ORIGINAL NAME OF
+THE SINCLAIR CODE WHICH ESCAPES
+ME FOR THE MOMENT - SORRY!":
+POKE 23735,173: POKE 23736,101.
+
+THAT'S IT! - NO RANDOMISE USER
+CALL NEEDED! You just load the
+code and point VECTOR at the
+right address within it and
+Interface 1 then recognizes the
+special MOVE commands! Great!
+Wish I'd thought of it two years
+ago! Since that time I've typed
+in *MOVE...etc., 398,202 times! 
+Anybody know who now has the
+copyright to the code? I know
+Andy Pennell wrote it for
+Sinclair. Since it was given
+away free with the expansion
+pack it ought to be made public
+domain software. As it is it
+seems nobody can get it now -
+Shame!
+
+              - Brian Cavers.

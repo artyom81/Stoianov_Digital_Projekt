@@ -1,0 +1,78 @@
+Scenergy 02 - Groups - анкеты действующих групп: Ascendancy Creative Labs.
+■ Hазвание группы: [Ascendancy Creative Labs..................]
+
+■ Сокращение названия: [ACL.....]
+
+■ Род деятельности группы:   Demo         [.]   Crack [X]
+                             Game making  [.]   Art   [X]
+                             Издательство [X]
+                             другое [System............]
+
+■ Какие платформы используете, их количество:
+
+Spectrum [X] [5..]   PC    [X] [3..]   Amiga    [.] [...]
+MSX1,2   [.] [...]   C64   [.] [...]   БK10/11  [.] [...]
+Apple    [.] [...]   Atari [.] [...]   Consoles [.] [...]
+Other [Emulator:ZX-Spectrum.......................] [3..]
+Other [Emulator:AMIGA 1200........................] [1..]
+Other [Emulator:YAMAHA MSX1,2.....................] [1..]
+Other [Emulator:Apple Macintosh...................] [1..]
+Other [Emulator:SONY PlayStation..................] [1..]
+
+■ В каком городе/стране находится основной состав группы
+  [Belarus Grodno.............................................]
+
+■ Состав группы (только активные мемберы):
+┌───────────────────┬─────────────────┬────┬──────────────────┐
+│      Handle       │   Род занятий   │Воз-│   Способ связи   │
+│                   │                 │раст│   Phone/E-Mail   │
+├───────────────────┼─────────────────┼────┼──────────────────┤
+│MiniSoft avec NRJ  │Org,Gfx,Coder    │ 23 │ (01522)521-50    │
+│                   │                 │    │minisoft@softhome.│
+│                   │                 │    │net               │
+│                   │                 │    │2:451/19.16       │
+│                   │                 │    │                  │
+│Tom Hial           │Coder,Hacker     │ 27 │ (0152)742-111    │
+│                   │                 │    │ascendancy@mail.ru│
+│                   │                 │    │                  │
+│Dr.Grifus          │Muzaker,Sysop    │ 19 │ (01522)253-37    │
+│                   │                 │    │grufus@mail.ru    │
+│                   │                 │    │2:451/19.2        │
+│                   │                 │    │                  │
+│MAG                │Coder            │ 19 │ (0152)311-857    │
+│                   │                 │    │ascendancy@mail.ru│
+│                   │                 │    │                  │
+│Laser Genius       │Muzaker,Coder    │ 19 │ascendancy@mail.ru│
+│                   │                 │    │                  │
+│Alex Psych         │Idea Generator   │ 19 │ (01522)545-63    │
+│                   │Game Tester      │    │ascendancy@mail.ru│
+│                   │                 │    │                  │
+│Sir Denis /In army │Coder            │ 19 │ (01522)260-70    │
+│now :(             │                 │    │ascendacy@mail.ru │
+└───────────────────┴─────────────────┴────┴──────────────────┘
+
+
+■ Список наиболее громких/удачных продуктов, выпущенных
+  командой:
+  [C-Net Week #01 - #19 (Our newspaper).......................]
+  [FAST MASTER 2.4 (Fast Track Copyer)........................]
+  [View & Print 4.8 (First DOORS presentation,prg for PRINTER)]
+  [HAPPY'99 (NY TRACKMO BY ACL+FTL+E-mage)....................]
+  [HAMON IV:Return to home from deathmanland (playable demo)..]
+  [SLOG (Coming soon Digital album)...........................]
+  [Some many release of restored games........................]
+
+■ Список готовящихся продуктов, их краткие рецензии и процент
+  готовности:
+  [DOORS 2000 (Совместный проект с E-mage, новая ОС для.......]
+  [ZX-Spectrum,готовность 66%)................................]
+  [Cnet Week #20 (Full report from CC999, 30%)................]
+  [HAMON IV:Return to home from deathmanland (our game,50%....]
+  [project now is freezing :(  )..............................]
+
+■ Координаты для контакта:
+  [230023 Belarus Grodno Repin Str.9-137 Oleg Golenkoff.......]
+  [tel./fax +7(01522)521-50 after 23:00 Msk...................]
+  [FIDONET: 2:451/19.16 GRODNO C-NET:(ZXNET) 2:500/152........]
+  [Ascendancy HQ: Http://www.ascendancy.homepad.com...........]
+  [Ascendancy FTP: Ftp://ftp.telecom.grodno.by/zxspectrum.....]

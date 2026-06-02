@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9294,
+    "article_url": "https://zxpress.ru/article.php?id=9294",
+    "print_url": "https://zxpress.ru/print.php?id=9294",
+    "title_link": "Новости - Вы видели Triumph Word? Dark Raven исчез, T(c)S загорелся идеей написать просмотрщик HTML, Приезжал Dissonator, Ldir вошёл в состав Invaders.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Новости_-_Вы_видели_Triumph_Word_Dark_Raven_исчез_TcS_загоре"
+  },
+  {
+    "article_id": 9295,
+    "article_url": "https://zxpress.ru/article.php?id=9295",
+    "print_url": "https://zxpress.ru/print.php?id=9295",
+    "title_link": "Софт - поддержка расширеной клавиатуры в ACEdit для компьютеров моделей \"СПАРК\" и \"Аллофон\".",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Софт_-_поддержка_расширенои_клавиатуры_в_ACEdit_для_компьюте"
+  },
+  {
+    "article_id": 9296,
+    "article_url": "https://zxpress.ru/article.php?id=9296",
+    "print_url": "https://zxpress.ru/print.php?id=9296",
+    "title_link": "Dune News - Marie Slip/Action сообщает о продолжении работ над Dune.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Dune_News_-_Marie_SlipAction_сообщает_о_продолжении_работ_на"
+  },
+  {
+    "article_id": 9297,
+    "article_url": "https://zxpress.ru/article.php?id=9297",
+    "print_url": "https://zxpress.ru/print.php?id=9297",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

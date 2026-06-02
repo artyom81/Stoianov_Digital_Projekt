@@ -1,0 +1,493 @@
+Info Guide 13 - Mail - errata: игры из СССР
+Errata
+Alone Coder
+Благодаря
+vBv,   m00h'у
+и
+Newart'у
+удалось существенно дополнить список сове─
+тского спектрумовского софта. Полностью он
+лежит в  приложении (кто  сделает сайт или
+архив  со  всем этим софтом?), а вот что в
+него добавилось:
+- программный пакет  fongen и основанная
+на нём программа speak russian, написанная
+4 августа 1985 года  неким Кведером (югос─
+лавская  фамилия и имя)./Speaker: KVED (c)
+4-AUG-85, на русском языке/ Фамилия Кведер
+очень  редкая, находится  только  вот этот
+физик: http://www.issp.ac.ru/main/
+index.php/ru/rasmember/kveder.html
+m00h
+смог связаться с автором:
+┌────────────────────────────────────────┐
+Здраствуйте Виталий Владимирович!
+На кассетах для zx spectrum обнаружил у
+себя 2 программы для синтеза голоса с
+фонемами - Fongen1, и Speak Russian, в них
+указана дата август 1985 года и есть
+подпись KVED и Kveder moscow 1985. Это не
+вы написали для спектрума в те времена ?
+──────────────────────────────────────────
+С приятным удивлением получил Ваше письмо!
+Действительно, в 1982г. я купил себе zx
+spectrum и с удовольствием развлекался с
+ним.
+В частности,- Fongen1, и Speak это мои
+программы...
+Спасибо за Ваше письмо. Приятно вспомнить
+молодость!
+Всего доброго,
+Виталий Кведер
+└────────────────────────────────────────┘
+- Polygraphics от М.А.Рыбакова: http://
+spectrum4ever.org/download.php?t=fulltape
+&id=3265
+  - H2O '89
+  - Game 40 - Nikolay Trius'89
+  - Xonix - Surna A.'87
+  - Плантатор - Vadim Stramous'89
+  - Эмират - Губичев И.'88
+  - Guess Number - Vladimir Fufaev'90
+  - Memory - Vladimir Fufaev'90
+  - Sex Show 1990,The - D. Rovenko,
+O. Borovik'90
+  - МИФ - творение KSA (MEGASYSTEM 1989),
+МИФ стал русским и вроде бы рабочим [AAA]
+  - ещё программы от Copper Feet:Азбука-1,
+Азбука-2, Арифметика,Рисование,Видеоспорт,
+Технический англо-русский словарь
+  - Поле Чудес - Vladimir Fufaev'91
+  - Blackjack (Очко) - ITP Universal'91
+  - Пика - Фама - Denis Korshunov'90
+  - Барьер 1, 2, 3, 4 - C.C.B.'88,
+Inforcom'90 (тот же C.C.B. - Поле Чудес)
+  - Columns 1990 - Ярославль, Sunny Tram
+Ltd
+  - Columns - Piter'91
+  - Fox Hunting (Охота на лис) - Andrey
+Mikhailov'91
+  - Gallows (Виселица) - Alexander
+Eskevich'91
+  - Kubes (Кубики) - DenSSoft Inc'91
+  - On Susan - Poptsov D., Shalyakin A.'91
+  - QWERTY-training - 'Soft'91
+  - Sir Knight - DZh'91
+  - Sokoban - SU Gold'91
+  - Tetris - ShiSoft'91
+  - Track - Russian Bear'91
+  - Xonix - ShiSoft'91
+  - Авария на Луне - Агиенко И.Г'91
+  - Охота на Лис - AG'91
+  - Очко ! - POB'91
+  - Поле Чудес - Izvekov A.N.'91
+  - Удав - Кириллов В'91
+  - Boulder Dash 5 - Kraskovsky Vass'91
+  - Boulder Dash 6 - Kraskovsky Vass'91
+  - Lode Runner (Черти) - (dsk)Sterh'91
+  - Memoryte (Memory test for ZX-SPECTRUM)
+(c)1990 Macary Software (newart/UNSORTED/
+SYSTEM/LOGROS.TRD)
+  - ATM comm - командер (не позже 1991:нет
+поддержки  АТМ-Турбо, но есть эмблема АТМ)
+(newart/UNSORTED/SYSTEM/LOGROS.TRD)
+  - HIRO (Хиромант) - adapted for BETA
+unit KROTOV V Leningrad 1991 520 51 34
+(newart/UNSORTED/SYSTEM/LOGROS.TRD)
+  - ww.com (под CP/M) - малое научно-
+производственное предприятие "АКДИ"
+представляет программу WW (Брест, ул.
+Московская 202 тел 2-74-24) - на заставке
+нарисован церикопик и играет "всё хорошо,
+прекрасная маркиза" https://
+www.youtube.com/watch?v=PjeHsDs3d0g
+  - Elite SU - дисковая версия без
+сохранения и с суперлазером - Владимир
+Яновский (ZXDISK.TRD у Newart'а)
+  - IKARY WARRIORS CRACKED BY MICHAEL
+ABRAMZON 1991 (6SYS.TRD у Newart'а)
+  - 1991 DISK CRAKED UTILITY Writed by
+S.Volkov & E.Rytikov (DISK.TRD/DCU_WORK у
+Newart'а)
+  - ZX-Spectrum+ DISK DOCTOR 2.1 (c)GMR
+Ltd МОСКВА 1991 ГАРБУЗОВ АЛЕКСЕЙ
+(DISK.TRD/DOCT 2.1 у Newart'а)
+  - DISK.D.B - S-SOFT Moskow 1991
+(DISK.TRD у Newart'а)
+  - IBM COPY (DISK.TRD у Newart'а)
+  - IBM conv (DISK.TRD у Newart'а)
+  - SCREEN MACHINE DISK VERSION BY
+PENCRAFT 1991 (DISK.TRD у Newart'а)
+  - TASWORD adapted by PITER 1990
+(2327767.TRD у Newart'а)
+  - Gemini Wings disked by Cleopatra
+(XYIZNAETGAMEFAX.TRD у Newart'а)
+  - Alfavit (Y. Kovalevsky /Leningrad/
+1991) - UDG с описанием
+  - Yury Nikolskiy - Москва тел.386-54-45:
+Character Editor 2 - 1987 Jury Nikolskiy
+Editor - 1987 Jury Nikolskiy
+RS 232C Interface - 1987 Jury Nikolskiy
+STR Edit - 1987 Jury Nikolskiy
+Tape to Tape Copier - 1986 Jury Nikolskiy
+  - Test RAM - 1989 M.S.Chubarov - тест с
+хитрой ксоркой
+  - М. А. Рыбаков - Москва, "Медиум" -
+перевод игры "Диктатор" 1987
+(ср. книгу 'Анатомия персонального компью─
+тера'; Рыбаков,М. А.; Изд-во: М.: СП Инте─
+рмеханика, 1990 г.)
+  - Генератор речей (c) Псиан Софтвэр Лтд.
+МОСКВА, 1988 https://zxaaa.net/
+view_demo.php?id=12230
+  - Screen Virus (c) 1989. Wlodek Black.
+Moscow, school nr.91 https://zxaaa.net/
+view_demo.php?id=7204
+  - PC Companion (реклама компьютера
+"Компаньон") EO Arsenal Ижевск 1990
+https://zxaaa.net/view_demo.php?id=11217
+  - обучающие программы НТТМ Эврика -
+Саранск 1990
+  - K. D.'90 boot - Коршунов Денис,
+Екатеринбург 1990
+  - TPC boot - TPC' soft, Новосибирск 1990
+  - VDG boot 48k - V.D.G. 1990 422-32-47
+  - ZX Top Service boot - 1990 Eugene
+Stepanoff Saint Petersburg 295-88-00
+  - SEANDEMO (ZX Top Service demo) - 1991
+Eugene Stepanoff Saint Petersburg
+295-88-00 (CPU1DISK1.TRD)
+  - CDE Music Bank - Andrew Strikes Code,
+Днепропетровск 1990 https://zxaaa.net/
+view_demo.php?id=6125
+  - на её основе AMS1 by Megamonster /
+Юрий Снегирёв,1991? https://zxaaa.net/
+view_demo.php?id=6695
+  - Демонстрационная программа DEMO -
+Компьютерный  центр Дельта, Москва? 1990?
+https://zxaaa.net/view_demo.php?id=5603
+  - Реклама Орель БК-08 - Trotsenko A /
+Tarasuk W, Днепропетровск 1990 https://
+zxaaa.net/view_demo.php?id=2532
+  - TATSU demo by CATGEN - Екатеринбург
+1990 https://zxaaa.net/view_demo.php?
+id=1585 с картинкой и музыкой, стильно
+  - ТЕСТ-128-1 (c) 1991 RATCOPY АНДРЕЙ
+ХАХОНОВ ПЕТЕРБУРГ
+  - TRACE SP (ELISEEV V.A. 1990) (CPU1
+PPP.TRD) - замедляет программу
+пользователя
+  - *RATCOPY* TEST SYSTEM (1990?) (CPU1
+PPP.TRD)
+  - LIST BASIC UTILITE *RATCOPY* Program
+System'90 (CPU1PPP.TRD)
+  - ДИСКОВАЯ УТИЛИТА DU Версия 105p
+*RATCOPY* Program System'90 (DISK.TRD у
+Newart'а)
+  - TrakCOPY (DISK to DISK COPIER (c)
+1990) (CPU2DDD.TRD)
+  - BEYOND BASIC (обучалка ассемблеру на
+Бейсике) (около 1990?) (CPU2DDD.TRD)
+  - MICRON (MONITOR MI(c)RON) (около
+1989?) (CPU2SOFTWORK.TRD)
+  - DISBAS-R (смотрит структуру бейсик-
+файла) (около 1991?) (CPU2SOFTWORK.TRD)
+  - DISK DOCTOR for BETA 128 by Mike
+Golubew (c) 1990 (CPU2SS_DGAME.TRD и
+MidiSoft/system37)
+  - TWO (дисковый доктор с дизассемблером)
+((с)TWO co. ltd. около 1991) (CPU2
+SS_DGAME.TRD)
+  - Pirat 05 (Редактор заголовков программ
+записанных на магнитофон Y. Kovalevsky
+/Leningrad/ 1991) (CPU2SS_DGAME.TRD)
+  - Пират-2.0 (разделение блоков машинного
+кода на две части и запись второй из них
+на магнитофон) (Ю. Ковалевский /Ленинград/
+1991год) (нарисован флаг России)
+(CPU2SS_DGAME.TRD)
+  - MAGIC SCREEN* (вынимает картинку из
+MAGIC-файла,около 1991) (Program writen
+by * A.S.Ko"LN *) (CPU2SS_DGAME.TRD)
+  - S-S Copy ((c) A. Dereshchuk Software
+1989) (CPU2SS_DGAME.TRD) /над этой
+фамилией издевался Родионов в PCOPIER/
+  - DISK ERASER ((c) A.Dereshchuk Software
+1988) (MidiSoft/system29)
+  - S.LOTO (генератор заполнения для
+Спортлото) (около 1990)(CPU2SS_DGAME.TRD)
+  - SH RUS (включение или запись русского
+шрифта на магнитофон) (около 1990) (CPU2
+SS_DGAME.TRD) - он же RUSFONTS (cpu3
+-----001.TRD)
+  - TEST D-D (Program for control the
+floppy disk) (Vitebsk 14/07/1990 MSW)
+(CPU2SS_DGAME.TRD)
+  - M.MAKER  (Disked by PAPIR & 1991 The
+town of Gatchina) (CPU2SS_DGAME.TRD)
+  - СпрайтДизайнер (SPD MB+) (между 1988 и
+1992, Ю. Родионов или Дмитрий Петрас?)
+(CPU2SS_DGAME.TRD - на Мегабейсике?)
+  - DEM.KTX (Ревенко Александр (Компания
+РЮЗ) (274500 г.Речица ул.Спортивная 3
+кв.15) 1990) - описание картотеки KARTEX
+(1990) (CPU2SS_DGAME.TRD)
+  - SPECH128 (AY CONVERSION BY BR0MBA
+1989, DISKED BY GURIN 1991) (CPU2
+SS_DGAME.TRD)
+  - STATIST (корреляционный анализ на
+Бейсике, около 1991) (CPU2SS_DGAME.TRD)
+  - COP128.2 (потрековый копировщик, около
+1991) (CPU2SS_DGAME.TRD)
+  - возможно, не СССР, а Польша? M.STUDIO
+(MUSIC STUDIO ONLY FOR SPECTRUM 128
+Program (c) 1987 JAROSLAW SOBCZAK ADAPTED
+TO 128 BY: HACKER CHRIS 1988*06*24 DISKED
+BY FCS'88) (CPU2SS_DGAME.TRD)
+  - SYSTEM TRACK DUMP (PENCRAFT SOFTWARE
+(c)1991 БЕНЯ ЛЮКС) - сохраняет системную
+дорожку на другую дискету (CPU2
+SS_DGAME.TRD)
+  - DOCTOR R (около 1990?) (CPU2
+SYSTEM-1.TRD)
+  - DCtrk (трековый копировщик, около
+1990?) (CPU2SYSTEM-1.TRD)
+  - YuricCom (бут поверх системного CAT)
+((c) DynaSoft 1990 Version W.1) (CPU2
+SYSTEM-1.TRD, MidiSoft BOOTS.TRD/YURIC)
+  - EPSON driver (AVP, около 1990) (CPU2
+SYSTEM-1.TRD)
+  - DR55 (EPSON driver R-soft90) (CPU2
+SYSTEM-1.TRD)
+  - PrTXT (печать текстового файла, около
+1990) (CPU2SYSTEM-1.TRD)
+  - RDOS-128 (реализует в бейсике команды
+TR-DOS типа CAT !, автор не подписан) и
+TREXT (то же,но типа CAT *) (CPU2
+SYSTEM-1.TRD) - рядом программа RDinstr
+(описание программы "RAMDOS"): RICHARDSON
+SOFTWARE 1985. LONDON. Текст перевел
+КРАМАРЕНКО В.А.,КИЕВ.1986 (но там описан
+другой формат команд)
+  - DICT-80S (англо-русский словарь, около
+1991) (CPU2SYSTEM-1.TRD)
+  - ID-COM  (((c))ID-COMANDER V1.2)
+(командер на бейсике, около 1990-1991)
+(CPU2SYSTEM-1.TRD)
+  - COMM (MR SUPERBOOT) (бут на бейсике,
+около 1990-1991) (CPU2SYSTEM-1.TRD)
+  - bootGAME ("No more than 20 !")
+(M.RUSALOV 1991) (CPU2SYSTEM-1.TRD и
+system25/boot 10,11 у MidiSoft)
+  - ART STUDIO (adapted for BETA unit
+KROTOV V LENINGRAD 1991 (t. 520 51 34))
+(cpu3-----001.TRD)
+  - Artist 2 (DISC VERSION BY N. RODIONOV
+LENINGRAD 1989) (cpu3-----001.TRD)
+  - UDG (Diskversion (c) 1990 By
+W.Janowski - ср. D.D.V3 VLADIMIR IANOVSKY
+(c) 1990 S.PETERBURG) (cpu3-----001.TRD)
+  - D.D.V3 (DISK-DISK COPY) (VLADIMIR
+IANOVSKY (c) 1990 S.PETERBURG) (cpu3
+PPPPPP.TRD, там же версия САНКТ-ПЕТЕРБУРГ
+1.06.1990 (NB не Ленинград!) т.260-55-25)
+  - FONT (Sergei Smirnov 1989) https://
+spectrumcomputing.co.uk/index.php?
+cat=96&id=27922
+  - Art Brush (SIM & Company 1990 - Сергей
+Смирнов) https://spectrumcomputing.co.uk/
+index.php?cat=96&id=27460
+  - Тригонометрия (набор программ) (FANNY
+1990?)(cpu3LOGRO000.TRD)
+  - FLOW (описание цветка - FANNY 1990?)
+(cpu3LOGRO000.TRD)
+  - WAVES (FANNY 1990) (cpu3LOGRO000.TRD)
+  - Ключевые слова Бейсика (FANNY 1990)
+(cpu3LOGRO000.TRD)
+  - Таблица умножения (FANNY 1990) (cpu3
+LOGRO000. TRD). Ещё куча обучалок от FANNY
+на "защищённом" диске - MidiSoft/system48
+  - Движение тел под углом к горизонту (МП
+ПИТЕР 1991?) (cpu3LOGRO000.TRD)
+  - Астрономия (Ахундов МП "ПИТЕР" 1991)
+(cpu3LOGRO000.TRD)
+  - PHTOOL (PROFESSIONAL HACKER'S TOOL -
+Юрий Цибровский 1990, Юрий Рожков, V.L.V.
+1992, MiPh&T Hacker Club - от них же ADM,
+Magic File Compressor, ADS) (ver.3.3 с
+хелпом 24.10.1992 - cpu3LOGROS.TRD)
+  - Test KP (тест компьютера СПЕКТР48)
+(около 1991) (cpu3LOGROS.TRD)
+  - TrCopA/A (потрековый копировщик)
+(Written by Michael (c) 1991) (cpu3
+PPPPPP.TRD)
+  - VCOPY3 (CK COPY /K внутри C/) (в стиле
+TREK A>B by KORDIAL 1990)(cpu3PPPPPP.TRD)
+  - DISKCOP2 ((c)PV' 1991) (cpu3
+PPPPPP.TRD)
+  - V.V.Commander (SERVISE+, CORNORT -
+около 1990-1991) (внутри надписи: Master
+of Power, Corrected by Lebedev)
+(cpu3SYSTEM-2.TRD, system25 у MidiSoft)
+  - Rboot (N.Rodionov Leningrad, 11. 1990)
+(cpu3SYSTEM-2.TRD,GAMES-1.TRD у Newart'а)
+  - BLAST (что-то для компиляции Бейсика)
+(DISKED by DUPANOV 1991) (cpu3
+SYSTEM-2.TRD)
+  - LAYOUT91 (Translated and disked by
+А.ЗАРУБИН 1991) (cpu3SYSTEM-2.TRD)
+  - GRB (Monocolor sprite grabber) (около
+1991) (cpu3ZXDIS013.TRD)
+  - ALGTXTM (на диске MidiSoft) (нет даты,
+бредогенератор типа "генератора речей", но
+с техническими терминами)
+  - PASSWORD (на диске MidiSoft) (нет
+даты) - запароливание диска
+  - ?DPW2-GRAPFIC ASSEMBLER - ROBERT
+GRAVAS (C)1987 A.D (графический редактор -
+system12/PICASSO у MidiSoft)
+  - LOM by Лешка Сунцов - "Программочка,
+несомненно,должна порушить защиточку,
+которую уважаемый Антон Васильев ставит в
+загрузчики от ??.05.1991 года" (system20 у
+MidiSoft)
+  - MPPS EPROM i2716-27256 (c)PVA-soft,
+Leningrad'90 (system24 у MidiSoft)
+  - Hex Calculator - (c)1990 Fr-Soft
+(system24 у MidiSoft)
+  - FILE CHANGER - Fr-SOFT (system24 у
+MidiSoft)
+  - MOVE - (c)1990 Fr-Soft (system24 у
+MidiSoft)
+  - DT (c)1990 Alexander Troosh -
+Аккерман? (system24 у MidiSoft) -
+копировщик с диска на ленту
+  - Lister89 (system24 у MidiSoft)
+  - Odessa-90 disk catalog driver Written
+by "Andriuha" Kazakov 10.07.90 (system25/
+boot у MidiSoft)
+  - *TR-DOS WINDOWS* (c)Copyright 1990
+ELAN Software (system25/boot2 у MidiSoft)
+  - boot by Kraskovsky Vass from Leningrad
+22.11.1990 (system25/boot6 у MidiSoft)
+  - BOOT SYSTEM (c)1991 Fr-SOFT corp.
+(system25/boot7 у MidiSoft)
+  - boot by Pink Flamingo Software
+(system25/boot03 у MidiSoft)
+  - PAINTFILL (system25 у MidiSoft) -
+операция заливки фигур для бейсик-программ
+  - TL DISC (system25 у MidiSoft) -
+копировщик с ленты на диск (лежит рядом с
+программой Балясова 1989 года)
+  - Tape-Tape Copy (c) Y.Kovalevsky
+/Leningrad/1990 (system25/T-T Copy у
+MidiSoft) - копирование с магнитофона на
+магнитофон в реальном времени с
+фильтрацией НЧ помех
+  - Copy screen to printer version 1.3
+14 dec 1991 (c)1991 Shevchenko Vadim,
+Trush Alexander - Аккерман (system25/
+SCR->PRN у MidiSoft)
+  - FRIQ-M - Izmerenie F - zk87 (1987)
+(system26 у MidiSoft)
+  - ZX DISK DOCTOR V1.0 - Koban A.V. (c)
+1991 (system26/ADV1.0my у MidiSoft)
+  - Secretary - 26.03.91 ROSMARKETING ONPC
+(system26 у MidiSoft)
+  - DICTIONR (system26 у MidiSoft) -
+англо-русский словарь
+  - L.WORD 2 (TLW2) - Rusificated by
+~Inforcom~, Moscow, 1990 - Disked by LSA
+Service, Odessa, 1991(system26 у MidiSoft)
+  - OM-2RLe,OM-exp (system26 у MidiSoft) -
+что-то для форматирования текста
+  - Финансист (system26 у MidiSoft)
+  - ROM>RAM>ROM (c) Yvtooshenko,1991
+(system27 у MidiSoft)
+  - EPROM programmer by RA3AO (system27 у
+MidiSoft) - уже умеет 27512. На том же
+диске другие программаторы ПЗУ от других
+авторов (некоторые анонимные)
+  - Аппаратные средства - PSION + G.
+(1986) (system28/ROST2 и далее у MidiSoft)
+- русский перевод фирменного описания
+  - Команды Словарь - PSION + G. (1987)
+(system28/DICTOR у MidiSoft) - русский
+перевод фирменного описания
+  - те же описания от PSION - перевод на
+русский язык Богданов В.Ю. Тимашевск 1988
+(system30/LES0 и далее у MidiSoft)
+  - ?DICT-80s (system28 у MidiSoft) -
+англо-русский словарь
+  - ?BIORITMr (system28 у MidiSoft)
+  - ?SEX (system29 у MidiSoft запорота -
+анекдот и картинка на бейсике)
+  - ?CHANGE.M (system29 у MidiSoft)
+  - VRESTORE (c) CK software (system29 у
+MidiSoft)
+  - Art Studio 128 - Beta 128 adaptation
+by D.Koveos and IndSoft'91 (system29 у
+MidiSoft)
+  - UNIBASE+ (system29 у MidiSoft)
+  - OPEN (system29 у MidiSoft)
+  - SAVE9997 и SAVEscr. (system29 у
+MidiSoft)
+  - CAT 0>80 - С.Павлов Краснодар
+(system29 у MidiSoft)
+  - Russian Letters (system30 у MidiSoft)
+  - ?CRAC S (system31 у MidiSoft) -
+cracker с портретом, среди софта 1991 года
+  - ?Диагностическая утилита ТТ Версия
+102р (system36/TT у MidiSoft)
+  - ?Тест комплексной проверки БК
+"СПЕКТР48" (system36/Test KP у MidiSoft)
+  - ?Test OZU (system36 у MidiSoft)
+  - ?Test Z80 (system36 у MidiSoft)
+  - ?PIRACY!(c) VJ.SOFT 1984 (system36 у
+MidiSoft) - копировщик, подозрение
+вызывает надпись Lenght
+  - DOCTOR-2 Disk Doctor v2.2 - written by
+Nicolas  Rodionov Leningrad 1990 (system36
+у MidiSoft) - дисковый доктор (обычная
+версия 4.3 тоже там же)
+  - ?Z80-list (system37 у MidiSoft) -
+монитор с дизасмом текущей команды
+  - Домашний компьютер в вопросах и
+ответах (system40 у MidiSoft) -
+инструкция. Возможно,автор этой и
+последующих обучающих программ - Станислав
+Карпиесиук (похоже по оформлению)
+  - 14 уроков Бэйсика (system40 у
+MidiSoft)
+  - Учись программировать (system41,42 у
+MidiSoft)
+  - Домашнее хозяйство Расходы (system41 у
+MidiSoft)
+  - Картотека (system41 у MidiSoft)
+  - Записная книжка (system41 у MidiSoft)
+  - Справочник по элементарной математике
+(system43 у MidiSoft)
+  - Английский язык (system44 у MidiSoft)
+  - ZX-KEY+ - версия  на русском языке -
+Г.Г. 1987 GORDWARE (system45 у MidiSoft) -
+инструкция
+  - Алгебра - Станислав Карпиесиук, 1988
+(system45 у MidiSoft)
+  - Алгебра 7 класс - Хозрасчетное
+объединение Комплекс, 420133 Казань,
+ул.Гаврилова, д.50 телефон 56-76-74 (1991)
+(system46 у MidiSoft)
+  - Геометрия 7 класс - Хозрасчетное
+объединение Комплекс, 420133 Казань,
+ул.Гаврилова, д.50 телефон 56-76-74 (1991)
+(system47 у MidiSoft)
+  - комплекс от Импульс 04 из Иличевска -
+12 кассет с уроками 1989 года (Newart)
+  - Manager - серьёзный проект, писал
+взрослый, на бейсике, но шрифт не UDG с
+неплохим рисунком
+  - Король (disked by Andrey Plakuschev) -
+скорее всего, СССР, т.к. на бейсике шрифт
+корявый и в нестандартной кодировке
+  - Президент - скорее всего, СССР,
+бейсик, UDG, писал взрослый

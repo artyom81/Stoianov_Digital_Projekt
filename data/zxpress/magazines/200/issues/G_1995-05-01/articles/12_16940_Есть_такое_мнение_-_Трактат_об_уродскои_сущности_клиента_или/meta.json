@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "G",
+  "issue_date_iso": "1995-05-01",
+  "order": 12,
+  "article_id": 16940,
+  "title_link": "Есть такое мнение - Трактат об уродской сущности клиента, или размышления торгующего фэна.",
+  "title_h1": "200 G - Есть такое мнение - Трактат об уродской сущности клиента, или размышления торгующего фэна.",
+  "print_url": "https://zxpress.ru/print.php?id=16940",
+  "article_url": "https://zxpress.ru/article.php?id=16940",
+  "fetched_at": "2026-05-31T21:29:27Z"
+}

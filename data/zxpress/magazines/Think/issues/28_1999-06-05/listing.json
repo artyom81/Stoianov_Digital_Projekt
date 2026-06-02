@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4269,
+    "article_url": "https://zxpress.ru/article.php?id=4269",
+    "print_url": "https://zxpress.ru/print.php?id=4269",
+    "title_link": "От автора - Вот и лето, а на носу экзамены...",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "От_автора_-_Вот_и_лето_а_на_носу_экзамены"
+  },
+  {
+    "article_id": 4270,
+    "article_url": "https://zxpress.ru/article.php?id=4270",
+    "print_url": "https://zxpress.ru/print.php?id=4270",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4271,
+    "article_url": "https://zxpress.ru/article.php?id=4271",
+    "print_url": "https://zxpress.ru/print.php?id=4271",
+    "title_link": "Обзор новинок - Белый орел, Choppers, Rings of magic.",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "Обзор_новинок_-_Белыи_орел_Choppers_Rings_of_magic"
+  },
+  {
+    "article_id": 4272,
+    "article_url": "https://zxpress.ru/article.php?id=4272",
+    "print_url": "https://zxpress.ru/print.php?id=4272",
+    "title_link": "Знай наших - Фотографии людей из Волгодонска.",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "Знаи_наших_-_Фотографии_людеи_из_Волгодонска"
+  },
+  {
+    "article_id": 4273,
+    "article_url": "https://zxpress.ru/article.php?id=4273",
+    "print_url": "https://zxpress.ru/print.php?id=4273",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 5,
+    "issue_label": "28",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4274,
+    "article_url": "https://zxpress.ru/article.php?id=4274",
+    "print_url": "https://zxpress.ru/print.php?id=4274",
+    "title_link": "Рассказ - Кир Булычев \"Можно попросить Нину?\"",
+    "order": 6,
+    "issue_label": "28",
+    "short_slug": "Рассказ_-_Кир_Булычев_Можно_попросить_Нину"
+  },
+  {
+    "article_id": 4275,
+    "article_url": "https://zxpress.ru/article.php?id=4275",
+    "print_url": "https://zxpress.ru/print.php?id=4275",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "28",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4276,
+    "article_url": "https://zxpress.ru/article.php?id=4276",
+    "print_url": "https://zxpress.ru/print.php?id=4276",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "28",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

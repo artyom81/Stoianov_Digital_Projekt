@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-02-28",
+  "order": 10,
+  "article_id": 7952,
+  "title_link": "Аперативчик - Новогодний выпуск DEJA VU...",
+  "title_h1": "Deja Vu 07 - Аперативчик - Новогодний выпуск DEJA VU...",
+  "print_url": "https://zxpress.ru/print.php?id=7952",
+  "article_url": "https://zxpress.ru/article.php?id=7952",
+  "fetched_at": "2026-05-31T21:47:13Z"
+}

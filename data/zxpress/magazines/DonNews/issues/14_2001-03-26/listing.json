@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 8028,
+    "article_url": "https://zxpress.ru/article.php?id=8028",
+    "print_url": "https://zxpress.ru/print.php?id=8028",
+    "title_link": "Вступление - О содержании газеты.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Вступление_-_О_содержании_газеты"
+  },
+  {
+    "article_id": 8029,
+    "article_url": "https://zxpress.ru/article.php?id=8029",
+    "print_url": "https://zxpress.ru/print.php?id=8029",
+    "title_link": "ParadoX 2k+1 - Правила фестиваля.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "ParadoX_2k1_-_Правила_фестиваля"
+  },
+  {
+    "article_id": 8030,
+    "article_url": "https://zxpress.ru/article.php?id=8030",
+    "print_url": "https://zxpress.ru/print.php?id=8030",
+    "title_link": "СоФТичЕк - BURIAL GRAPHIX EDITOR v.2.41, HAMON IV, IMPERIA, SUPER BOMBER MAN 2, HOMER SIMPSON-2, SEA QUEST(demo).",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "СоФТичЕк_-_BURIAL_GRAPHIX_EDITOR_v241_HAMON_IV_IMPERIA_SUPER"
+  },
+  {
+    "article_id": 8031,
+    "article_url": "https://zxpress.ru/article.php?id=8031",
+    "print_url": "https://zxpress.ru/print.php?id=8031",
+    "title_link": "Ремонт - Продолжение цикла \"Ремонт Пентагона\".",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Ремонт_-_Продолжение_цикла_Ремонт_Пентагона"
+  },
+  {
+    "article_id": 8032,
+    "article_url": "https://zxpress.ru/article.php?id=8032",
+    "print_url": "https://zxpress.ru/print.php?id=8032",
+    "title_link": "ZX & PC scene - Размышления о ZX и PC сценерах.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "ZX_PC_scene_-_Размышления_о_ZX_и_PC_сценерах"
+  },
+  {
+    "article_id": 8033,
+    "article_url": "https://zxpress.ru/article.php?id=8033",
+    "print_url": "https://zxpress.ru/print.php?id=8033",
+    "title_link": ":) - Юмор.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "-_Юмор"
+  },
+  {
+    "article_id": 8034,
+    "article_url": "https://zxpress.ru/article.php?id=8034",
+    "print_url": "https://zxpress.ru/print.php?id=8034",
+    "title_link": "Credits & Rec Lame - Кто трудился над номером, контакты...",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Credits_Rec_Lame_-_Кто_трудился_над_номером_контакты"
+  }
+]

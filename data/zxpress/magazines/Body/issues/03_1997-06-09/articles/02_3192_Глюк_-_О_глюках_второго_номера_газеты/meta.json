@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-06-09",
+  "order": 2,
+  "article_id": 3192,
+  "title_link": "Глюк! - О глюках второго номера газеты.",
+  "title_h1": "Body 03 - Глюк! - О глюках второго номера газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=3192",
+  "article_url": "https://zxpress.ru/article.php?id=3192",
+  "fetched_at": "2026-05-31T21:40:39Z"
+}

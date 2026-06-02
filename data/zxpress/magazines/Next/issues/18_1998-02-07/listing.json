@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 15489,
+    "article_url": "https://zxpress.ru/article.php?id=15489",
+    "print_url": "https://zxpress.ru/print.php?id=15489",
+    "title_link": "Новости - внеочередной выпуск Next'a.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Новости_-_внеочереднои_выпуск_Nexta"
+  },
+  {
+    "article_id": 15490,
+    "article_url": "https://zxpress.ru/article.php?id=15490",
+    "print_url": "https://zxpress.ru/print.php?id=15490",
+    "title_link": "Квотинг - Немного статистики. digital reality. ONLINE. Билл Гейтс.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Квотинг_-_Немного_статистики_digital_reality_ONLINE_Билл_Геи"
+  },
+  {
+    "article_id": 15491,
+    "article_url": "https://zxpress.ru/article.php?id=15491",
+    "print_url": "https://zxpress.ru/print.php?id=15491",
+    "title_link": "Игры - BloodWich",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Игры_-_BloodWich"
+  },
+  {
+    "article_id": 15492,
+    "article_url": "https://zxpress.ru/article.php?id=15492",
+    "print_url": "https://zxpress.ru/print.php?id=15492",
+    "title_link": "Немного статистики - Итак, подведем некоторые итоги.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Немного_статистики_-_Итак_подведем_некоторые_итоги"
+  },
+  {
+    "article_id": 15493,
+    "article_url": "https://zxpress.ru/article.php?id=15493",
+    "print_url": "https://zxpress.ru/print.php?id=15493",
+    "title_link": "Победители - Победители в 3-х номинациях.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Победители_-_Победители_в_3-х_номинациях"
+  },
+  {
+    "article_id": 15494,
+    "article_url": "https://zxpress.ru/article.php?id=15494",
+    "print_url": "https://zxpress.ru/print.php?id=15494",
+    "title_link": "Статистика по поинтам - Сводная таблица.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Статистика_по_поинтам_-_Сводная_таблица"
+  },
+  {
+    "article_id": 15495,
+    "article_url": "https://zxpress.ru/article.php?id=15495",
+    "print_url": "https://zxpress.ru/print.php?id=15495",
+    "title_link": "Обо всём - ONLINE.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "Обо_всем_-_ONLINE"
+  },
+  {
+    "article_id": 15496,
+    "article_url": "https://zxpress.ru/article.php?id=15496",
+    "print_url": "https://zxpress.ru/print.php?id=15496",
+    "title_link": "Обо всём - dIGITAL REALITY уходят со Спектрума.",
+    "order": 8,
+    "issue_label": "18",
+    "short_slug": "Обо_всем_-_dIGITAL_REALITY_уходят_со_Спектрума"
+  },
+  {
+    "article_id": 15497,
+    "article_url": "https://zxpress.ru/article.php?id=15497",
+    "print_url": "https://zxpress.ru/print.php?id=15497",
+    "title_link": "Обо всём - Урок для Билла Гейтса.",
+    "order": 9,
+    "issue_label": "18",
+    "short_slug": "Обо_всем_-_Урок_для_Билла_Геитса"
+  }
+]

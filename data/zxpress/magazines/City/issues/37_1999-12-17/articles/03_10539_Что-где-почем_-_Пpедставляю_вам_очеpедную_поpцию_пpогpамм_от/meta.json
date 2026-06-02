@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "37",
+  "issue_date_iso": "1999-12-17",
+  "order": 3,
+  "article_id": 10539,
+  "title_link": "Что-где-почем - Пpедставляю вам очеpедную поpцию пpогpамм от VEL'a/PXM.",
+  "title_h1": "City 37 - Что-где-почем - Пpедставляю вам очеpедную поpцию пpогpамм от VEL&#039;a/PXM.",
+  "print_url": "https://zxpress.ru/print.php?id=10539",
+  "article_url": "https://zxpress.ru/article.php?id=10539",
+  "fetched_at": "2026-05-31T21:51:36Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 136,
+  "magazine_name": "Netus News",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-02-04",
+  "order": 1,
+  "article_id": 11001,
+  "title_link": "Дела сисопские - Три месяца наша газета бесплатно\r\nпоставляется во все уголки города и пригорода, где есть модемы.",
+  "title_h1": "Netus News 10 - Дела сисопские - Три месяца наша газета бесплатно поставляется во все уголки города и пригорода, где есть модемы.",
+  "print_url": "https://zxpress.ru/print.php?id=11001",
+  "article_url": "https://zxpress.ru/article.php?id=11001",
+  "fetched_at": "2026-05-31T22:31:57Z"
+}

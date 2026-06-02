@@ -1,0 +1,15 @@
+{
+  "magazine_id": 244,
+  "magazine_name": "X-Files",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-01-31",
+  "order": 10,
+  "article_id": 16825,
+  "title_link": "Вдруг пригодится - Про RESET.",
+  "title_h1": "Proton 46 - Вдруг пригодится - Про RESET.",
+  "print_url": "https://zxpress.ru/print.php?id=16825",
+  "article_url": "https://zxpress.ru/article.php?id=16825",
+  "fetched_at": "2026-05-31T23:18:07Z"
+}

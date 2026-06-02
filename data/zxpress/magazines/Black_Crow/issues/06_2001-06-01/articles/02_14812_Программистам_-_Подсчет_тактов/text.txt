@@ -1,0 +1,224 @@
+Black Crow 06 - Программистам - Подсчёт тактов.
+ОПРЕДЕЛЕНИЕ  ТАКТОВОЙ
+СКОРОСТИ КОМПЬЮТЕРА
+(С) 2001 Макс
+-----------------------------------------
+Привет, кодеры! Как я смеялся, когда в
+некоторых тестах мой тормозной
+"Sintez-2"
+показывал скорость максимально приближён-
+ную к скорости Пентагона! Это ж надо - не
+менее 69ххх тактов за инт! Да, блин, ну и
+чудики писали тесты...                   
+   Короче, не буду здесь особо распрягать
+эту гнилую тему, а сразу перейду к делу. 
+   Итак, нижеприведённый алгоритм был из-
+влечён из Jemmeni Commander`а, но так мне
+и не пригодился. Может вам кому-нибудь он
+станет полезен?  На моём компе он показы-
+вает
+62112
+тактов  за инт и я склонен ему
+верить.  Пентагоны тестируются в пределах
+71ххх, так что делайте выводы...         
+   Извиняюсь, что не расписал комментари-
+ями что и как делается - сами разберётесь
+с этим;  нет также проверки на раздельные
+поля памяти - перепишите сами, если будет
+необходимо. Собственно, цель статьи - по-
+дарить  алгоритм, а всё остальное - своим
+умом, пожалуйста.
+;-)
+ORG     #8000
+DI                               
+        LD      HL,#FE00                 
+        LD      DE,#FE01                 
+        LD      ВС,#0100                 
+        LD      (HL),#FD                 
+        LDIR                             
+        LD      A,#FE                    
+        LD      I,A                      
+        LD      A,#С9                    
+        LD      (#FDFD),A                
+        IM      2                        
+        LD      A,#С3                    
+        LD      ВС,LL9095                
+        LD      DE,#0001                 
+        EI
+HALT                             
+        EI                               
+        HALT                             
+        LD      (#FDFD),A                
+        LD      (#FDFE),ВС               
+        LD      HL,#0000                 
+        EI                               
+LL908F  ADD     HL,DE                    
+        LD      A,A                      
+        XOR     (HL)                     
+        JP      LL908F                   
+LL9095  РОР     DE                       
+        IM      1                        
+        LD      A,#3F                    
+        LD      I,A                      
+        EI                               
+        LD      DE,LL8FбF                
+        PUSH    DE                       
+        INC     HL                       
+        INC     HL                       
+        CALL    LL81Е1                   
+        РОР     HL
+LD      В,#05                    
+        LD      IX,LL9109                
+LL9OAD  LD      A,(HL)                   
+        AND     #0F                      
+        LD      (IX+#02),A               
+        INC     IX                       
+        INC     HL                       
+        DJNZ    LL9OAD                   
+        LD      HL,LL9102                
+        LD      В,#07                    
+LL90BD  LD      (HL),#00                 
+        INC     HL                       
+        DJNZ    LL90BD                   
+        LD      В,#20                    
+LL90С4  PUSH    ВС                       
+        CALL    LL9110                   
+        РОР     ВС                       
+        DJNZ    LL90С4                   
+        LD      HL,LL9102                
+        LD      В,#07                    
+LL90D0  LD      A,(HL)                   
+        OR      A
+JR      NZ,LL90D9                
+        LD      (HL),#20                 
+        INC     HL                       
+        DJNZ    LL90D0                   
+LL90D9  LD      A,(HL)                   
+        ADD     A,#30                    
+        LD      (HL),A                   
+        INC     HL                       
+        DJNZ    LL90D9                   
+        LD      HL,LL9102                
+        LD      DE,LL8FбD                
+        LD      ВС,#0007                 
+        LDIR                             
+        RET                              
+                                         
+LL9110  LD      DE,LL9108                
+        LD      HL,LL910F                
+        LD      В,#07                    
+LL9118  OR      A                        
+LL9119  LD      A,(DE)                   
+        ADC     A,(HL)                   
+        СР      #0A
+JR      С,LL9128                 
+        SUB     #0A                      
+        LD      (DE),A                   
+        SCF                              
+        DEC     DE                       
+        DEC     HL                       
+        DJNZ    LL9119                   
+        RET                              
+LL9128  LD      (DE),A                   
+        DEC     DE                       
+        DEC     HL                       
+        DJNZ    LL9118                   
+        RET                              
+LL81AA  ЕХ      (SP),HL                  
+        XOR     A                        
+LL81АС  SBC     HL,DE                    
+        JR      С,LL81В3                 
+        INC     A                        
+        JR      LL81АС                   
+LL81В3  ADD     HL,DE                    
+        ADD     A,#30                    
+        СР      #3A
+JR      С,LL81ВС                 
+        ADD     A,#07                    
+LL81ВС  LD      (IX+#00),A               
+        INC     IX                       
+        ЕХ      (SP),HL                  
+        JR      LL81EF                   
+LL81С4  LD      HL,LL8237                
+        PUSH    HL                       
+        LD      DE,#0001                 
+LL81СВ  LD      В,A                      
+        LD      HL,#0000                 
+LL81CF  ADD     HL,DE                    
+        JR      С,LL81D5                 
+        DJNZ    LL81CF                   
+        ЕХ      DE,HL                    
+LL81D5  РОР     HL                       
+        LD      (LL8231),HL              
+        RET     С                        
+        LD      (HL),Е                   
+        INC     HL                       
+        LD      (HL),D                   
+        INC     HL
+PUSH    HL                       
+        JR      LL81СВ                   
+LL81Е1  LD      A,#0A                    
+LL81Е2  EQU     $-#01                    
+        PUSH    DE                       
+        PUSH    HL                       
+        LD      IX,LL8247                
+        CALL    LL81С4                   
+        LD      HL,(LL8231)              
+LL81EF  DEC     HL                       
+        LD      D,(HL)                   
+        DEC     HL                       
+        LD      Е,(HL)                   
+        LD      A,D                      
+        OR      Е                        
+        JR      NZ,LL81AA                
+        РОР     HL                       
+        РОР     DE                       
+        LD      HL,LL81Е2                
+        LD      A,(HL)                   
+        LD      HL,LL8247                
+        СР      #0A
+LD      A,#30                    
+        JR      NZ,LL8215                
+        PUSH    HL                       
+LL8207  СР      (HL)                     
+        JR      NZ,LL820F                
+        LD      (HL),#20                 
+        INC     HL                       
+        DJNZ    LL8207                   
+LL820F  РОР     HL                       
+        LD      ВС,#0005                 
+        JR      LL822Е                   
+LL8215  СР      (HL)                     
+        JR      NZ,LL8224                
+        INC     HL                       
+        СР      (HL)                     
+        JR      NZ,LL8224                
+        LD      (HL),#23                 
+        DEC     HL                       
+        LD      A,#20                    
+        LD      (HL),A                   
+        JR      LL8229                   
+LL8224  LD      A,#23
+LD      HL,LL8247                
+LL8229  LD      (DE),A                   
+        INC     DE                       
+        LD      ВС,#0004                 
+LL822Е  LDIR                             
+        RET                              
+                                         
+LL8231  DEFW    LL8237-2                 
+        DEFB    0,0,1,0,0                
+LL8237  EQU     $-#01                    
+        DEFS    18                       
+LL8247  EQU     $-#03                    
+        DEFS    2                        
+LL8FбD  DEFS    10,32
+;результат теста
+;в циферном виде
+LL8FбF  EQU     LL8FбD+2                 
+LL9102  DEFS    6                        
+LL9108  DEFS    6                        
+LL9109  EQU     $-#05                    
+        DEFS    2                        
+LL910F  EQU     $-#01
+-----------------------------------------

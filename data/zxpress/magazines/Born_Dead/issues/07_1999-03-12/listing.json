@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 756,
+    "article_url": "https://zxpress.ru/article.php?id=756",
+    "print_url": "https://zxpress.ru/print.php?id=756",
+    "title_link": "Вступление - Высокая оценка газеты читателями.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Вступление_-_Высокая_оценка_газеты_читателями"
+  },
+  {
+    "article_id": 760,
+    "article_url": "https://zxpress.ru/article.php?id=760",
+    "print_url": "https://zxpress.ru/print.php?id=760",
+    "title_link": "Маразм - Самара - Москва - Владимир - Ковров (часть 2).",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Маразм_-_Самара_-_Москва_-_Владимир_-_Ковров_часть_2"
+  },
+  {
+    "article_id": 764,
+    "article_url": "https://zxpress.ru/article.php?id=764",
+    "print_url": "https://zxpress.ru/print.php?id=764",
+    "title_link": "Мир Амиги - Амига глазами RRA (часть 3): Основные команды.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Мир_Амиги_-_Амига_глазами_RRA_часть_3_Основные_команды"
+  },
+  {
+    "article_id": 762,
+    "article_url": "https://zxpress.ru/article.php?id=762",
+    "print_url": "https://zxpress.ru/print.php?id=762",
+    "title_link": "Мысли читателей - Очередной план спасения Спектрума.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Мысли_читателеи_-_Очереднои_план_спасения_Спектрума"
+  },
+  {
+    "article_id": 757,
+    "article_url": "https://zxpress.ru/article.php?id=757",
+    "print_url": "https://zxpress.ru/print.php?id=757",
+    "title_link": "Новости - Демка от ACCEPT: 63 BIT 2: Русское поле экспериментов.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Демка_от_ACCEPT_63_BIT_2_Русское_поле_эксперименто"
+  },
+  {
+    "article_id": 767,
+    "article_url": "https://zxpress.ru/article.php?id=767",
+    "print_url": "https://zxpress.ru/print.php?id=767",
+    "title_link": "Послесловие - о релизах.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Послесловие_-_о_релизах"
+  },
+  {
+    "article_id": 766,
+    "article_url": "https://zxpress.ru/article.php?id=766",
+    "print_url": "https://zxpress.ru/print.php?id=766",
+    "title_link": "Приложение - Sage group Boot.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Приложение_-_Sage_group_Boot"
+  },
+  {
+    "article_id": 765,
+    "article_url": "https://zxpress.ru/article.php?id=765",
+    "print_url": "https://zxpress.ru/print.php?id=765",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

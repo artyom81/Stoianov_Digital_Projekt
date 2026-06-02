@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1996-07-31",
+  "order": 5,
+  "article_id": 568,
+  "title_link": "Интерфейс - Обзор программ и журналов : ZX Format, Spectrofon, On Line , Speccy, Eldorado, ZX-Magazine, Faultles, Dune, Adventurer.",
+  "title_h1": "Adventurer 04 - Интерфейс - Обзор программ и журналов : ZX Format, Spectrofon, On Line , Speccy, Eldorado, ZX-Magazine, Faultles, Dune, Adventurer.",
+  "print_url": "https://zxpress.ru/print.php?id=568",
+  "article_url": "https://zxpress.ru/article.php?id=568",
+  "fetched_at": "2026-05-31T21:32:36Z"
+}

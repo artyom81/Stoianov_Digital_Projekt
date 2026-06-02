@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 2,
+    "article_url": "https://zxpress.ru/article.php?id=2",
+    "print_url": "https://zxpress.ru/print.php?id=2",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2017,
+    "article_url": "https://zxpress.ru/article.php?id=2017",
+    "print_url": "https://zxpress.ru/print.php?id=2017",
+    "title_link": "Moзаика - О секретах в играх \"48 Утюгов\" и \"Поле чудес\".",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Moзаика_-_О_секретах_в_играх_48_Утюгов_и_Поле_чудес"
+  },
+  {
+    "article_id": 2015,
+    "article_url": "https://zxpress.ru/article.php?id=2015",
+    "print_url": "https://zxpress.ru/print.php?id=2015",
+    "title_link": "Застрял ? - Описание игры \"Castle Master\".",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Застрял_-_Описание_игры_Castle_Master"
+  },
+  {
+    "article_id": 2016,
+    "article_url": "https://zxpress.ru/article.php?id=2016",
+    "print_url": "https://zxpress.ru/print.php?id=2016",
+    "title_link": "Пресс-конференция - Вопрос-ответ (редакция отвечает на вопросы читателей).",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Пресс-конференция_-_Вопрос-ответ_редакция_отвечает_на_вопрос"
+  },
+  {
+    "article_id": 2018,
+    "article_url": "https://zxpress.ru/article.php?id=2018",
+    "print_url": "https://zxpress.ru/print.php?id=2018",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2014,
+    "article_url": "https://zxpress.ru/article.php?id=2014",
+    "print_url": "https://zxpress.ru/print.php?id=2014",
+    "title_link": "Страничка СисОпа - Alex отвечает на вопросы по сети.",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "Страничка_СисОпа_-_Alex_отвечает_на_вопросы_по_сети"
+  }
+]

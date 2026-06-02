@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 13416,
+    "article_url": "https://zxpress.ru/article.php?id=13416",
+    "print_url": "https://zxpress.ru/print.php?id=13416",
+    "title_link": "Введение - Вот и лето на исходе.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Введение_-_Вот_и_лето_на_исходе"
+  },
+  {
+    "article_id": 13417,
+    "article_url": "https://zxpress.ru/article.php?id=13417",
+    "print_url": "https://zxpress.ru/print.php?id=13417",
+    "title_link": "Обзор - В этом разделе, как обычно, я познаком\r\n лю с новинками программного обеспечения\r\n которые поступили в Чайковский в период\r\n между выходами ZX - PARK.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Обзор_-_В_этом_разделе_как_обычно_я_познаком_лю_с_новинками"
+  },
+  {
+    "article_id": 13418,
+    "article_url": "https://zxpress.ru/article.php?id=13418",
+    "print_url": "https://zxpress.ru/print.php?id=13418",
+    "title_link": "Игры - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Игры_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13419,
+    "article_url": "https://zxpress.ru/article.php?id=13419",
+    "print_url": "https://zxpress.ru/print.php?id=13419",
+    "title_link": "Проходилка - обещаный разбор игры PIJAMARAMA (MICRO-GEN'87).",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Проходилка_-_обещаныи_разбор_игры_PIJAMARAMA_MICRO-GEN87"
+  },
+  {
+    "article_id": 13420,
+    "article_url": "https://zxpress.ru/article.php?id=13420",
+    "print_url": "https://zxpress.ru/print.php?id=13420",
+    "title_link": "Юмор - РЕВОЛЮЦИЯ В МОХЛАНДИИ.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Юмор_-_РЕВОЛЮЦИЯ_В_МОХЛАНДИИ"
+  },
+  {
+    "article_id": 13421,
+    "article_url": "https://zxpress.ru/article.php?id=13421",
+    "print_url": "https://zxpress.ru/print.php?id=13421",
+    "title_link": "Конкурс - Для читателей газеты ZX - PARK об'является конкурс на лучшее описание игровой\r\n программы.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Конкурс_-_Для_читателеи_газеты_ZX_-_PARK_обявляется_конкурс"
+  },
+  {
+    "article_id": 13422,
+    "article_url": "https://zxpress.ru/article.php?id=13422",
+    "print_url": "https://zxpress.ru/print.php?id=13422",
+    "title_link": "Реклама - Приглашаем пользователей ZX - SPECTRUM\r\n к участию в выпуске газеты.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Приглашаем_пользователеи_ZX_-_SPECTRUM_к_участию_в"
+  }
+]

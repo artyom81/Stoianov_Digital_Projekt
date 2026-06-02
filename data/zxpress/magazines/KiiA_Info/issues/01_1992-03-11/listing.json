@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 18578,
+    "article_url": "https://zxpress.ru/article.php?id=18578",
+    "print_url": "https://zxpress.ru/print.php?id=18578",
+    "title_link": "Новости - в продажу поступает копировщик CopyK, сделанный по заказу фирмы КРАМИС для PROFI.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Новости_-_в_продажу_поступает_копировщик_CopyK_сделанныи_по"
+  },
+  {
+    "article_id": 18579,
+    "article_url": "https://zxpress.ru/article.php?id=18579",
+    "print_url": "https://zxpress.ru/print.php?id=18579",
+    "title_link": "CopyK - описание копировщика.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "CopyK_-_описание_копировщика"
+  },
+  {
+    "article_id": 3905,
+    "article_url": "https://zxpress.ru/article.php?id=3905",
+    "print_url": "https://zxpress.ru/print.php?id=3905",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 5514,
+    "article_url": "https://zxpress.ru/article.php?id=5514",
+    "print_url": "https://zxpress.ru/print.php?id=5514",
+    "title_link": "Интерфейс - Мнение: о знакомстве с PC.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Интерфеис_-_Мнение_о_знакомстве_с_PC"
+  },
+  {
+    "article_id": 16374,
+    "article_url": "https://zxpress.ru/article.php?id=16374",
+    "print_url": "https://zxpress.ru/print.php?id=16374",
+    "title_link": "Пeрвыe рyлeзы нoвoй пaти Дзeржинcкa - 21-22 aвгycтa 1999 гoдa в гoрoдe Дзeржинcкe бyдeт прoвoдитьcя party, цeликom и пoлнocтью пocвящeннoe лyчшemy в mирe кomпьютeрy, a иmeннo ZХ-Spectrum.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Пeрвыe_рyлeзы_нoвoи_пaти_Дзeржинcкa_-_21-22_aвгycтa_1999_гoд"
+  },
+  {
+    "article_id": 12939,
+    "article_url": "https://zxpress.ru/article.php?id=12939",
+    "print_url": "https://zxpress.ru/print.php?id=12939",
+    "title_link": "Железяки - схемка дешифрации портов CM0S часов и КЭШ.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Железяки_-_схемка_дешифрации_портов_CM0S_часов_и_КЭШ"
+  },
+  {
+    "article_id": 7845,
+    "article_url": "https://zxpress.ru/article.php?id=7845",
+    "print_url": "https://zxpress.ru/print.php?id=7845",
+    "title_link": "Калейдоскоп - Презентация файлового менеджера NeOS Commander v.0.1alpha",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Калеидоскоп_-_Презентация_фаилового_менеджера_NeOS_Commander"
+  }
+]

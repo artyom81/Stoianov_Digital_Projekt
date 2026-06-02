@@ -1,0 +1,1064 @@
+01 - Part 6 - The Dizzy story.
+*******************************
+*  PART 6  - THE DIZZY STORY  *
+*******************************
+
+This  article is a homage to all the video
+games  with  a certain Egg called Dizzy in
+them.  I  know of 16 for the Spectrum, but
+if  you  know  of  *any more* or have 128K
+versions  of  games  that  I only have 48K
+versions  of  (and of course Z80 snapshots
+to   my   e-mail  address  would  be  even
+better!) then please drop me a line.
+
+I  also  know  that  Dizzy has appeared on
+many  other platforms. The C64 and Amstrad
+CPC  had  virtually  the  same ones as the
+Speccy  (to  my  knowledge  - feel free to
+prove  me  wrong), but I know of different
+Dizzy  games  available on systems such as
+the Atari ST, Commodore Amiga, the PC, and
+even the Nintendo NES.
+
+If  you  would  like  to  help  make  this
+article  complete,  then send me a list of
+all   the   Dizzy  games  on  these  other
+formats,    and   of   course   any   more
+information on the Speccy ones.
+
+David.
+PS.   In   October   (95!)   I'm   off  to
+University, so I'll no longer be emailable
+at the above address. I'll post my new one
+to  comp.sys.sinclair when I find out what
+it is.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The  Codemasters  Story  (taken  from  the
+Dizzy2 tape-inlay)
+==================
+
+"David  and  Richard Darling first started
+writing  computer  games when they were in
+their  early  teens  and  still at school.
+They  duplicated  the cassettes themselves
+and  sold them by mail order, taking small
+advertisements in magazines.
+>From  these  beginnings David and Richard
+became  contract  programmers.  They wrote
+and sourced games for major best sellers.
+On  October  of  1986  the Darlings set up
+CodeMasters,  their  own company. From the
+beginning  they  were  determined  to sell
+only the best possible games at the lowest
+possible  price. One title, BMX SIMULATOR,
+went  on  to become one of the worlds best
+selling   games.  In  less  than  a  year,
+CodeMasters  has  a string of Top Ten hits
+to  it's  name.  The  company was the best
+selling  software  house in Britain. David
+and  Richard  are now 21 and 20 years old,
+and  are  determined to continue what they
+do  best;  producing  top selling computer
+games."
+
+
+
+The Games....
+=============
+It should be noted that *all* of the games
+listed  here can be found as Z80 snapshots
+for  the Z80 emulator, BUT DON'T ASK ME TO
+SEND THEM TO YOU!!!! They will soon be (as
+I  write  this)  available from one of the
+main   FTP   sites  which  carry  Spectrum
+Snapshots.  For more information on these,
+have a look on comp.sys.sinclair.
+
+Commercially Available Dizzy Games For The
+Spectrum
+========
+
+All  of these (to my knowledge) except for
+Crystal Kingdom Dizzy and the compilations
+were  released  as  "budget  games".  This
+meant  they  retailed at either 1.99GBP or
+2.99GBP.
+
+The Adventure / Platform / Puzzle Games
+---------------------------------------
+
+If  someone  says Dizzy games then this is
+what  they  mean.  Basically  Dizzy  has a
+certain  mission  to  complete,  and  this
+entails picking up objects littered around
+the world and using each one for a certain
+task to achieve the overall goal. A simple
+example  from Dizzy (the original) is that
+in  order  to enter the Graveyard you need
+to  find  the Graveyard Key and take it to
+the  door.  Drop  the key next to the door
+and  you  gain access to more of the world
+map.
+
+DIZZY   Z80     47,104        [Dizzy  48K]
+DIZZY2  Z80     55,660
+             [Treasure Island Dizzy  128K]
+DIZZYЗ  Z80     61,996
+             [Fantasy World Dizzy    128K]
+DIZZYЧ  Z80     57,607
+             [MagicLand Dizzy        128K]
+DIZZYS  Z80     90,091
+             [SpellBound Dizzy       128K]
+DIZZYб  Z80     46,966
+     [Dizzy Prince Of The Yolk Folk  128K]
+DIZZY7  Z80     47,389
+             [Crystal Kingdom Dizzy  128K]
+
+
+Dizzy (48K only)
+****************
+
+The  cassette cover has a picture of Dizzy
+falling  down  a  waterfall in some caves,
+and  of  him  locked  up  in a prison. Two
+humans  are  also  on  the cover, although
+they don't appear in the game!
+
+This  is  the  original, and the one which
+started the ball rolling. The plot went :
+
+"Dizzy  was  exploring the haunted forest,
+looking  for  some  berries, flowers and a
+piece  of  wood  with which to make a club
+when he uncovered a mystifying stone slab.
+Brushing  the  dirt  aside  he was able to
+read   (after   a   great   deal  of  head
+scratching) the faint inscription
+
+'The Avalwiffovee Potion'
+
+Dizzy  remembered  his Eggfather had spoke
+of  such  a potion. 'It is the only way to
+rid  our land of athletes foot, and it can
+also  be  used  to destroy the Evil Wizard
+Zaks.'  Dizzy  trembled  with  fear  as he
+recalled these words. Zaks brought fear to
+the  village,  he  cast spells that turned
+people  old,  made men blind and caused it
+to  rain  every  Sunday  afternoon  during
+Cricket.  Dizzy  was  determined  to put a
+stop  to all this, he would be the hero of
+the yolkfolk. He read on...
+
+'Fill   a   potion   bottle   with  cooked
+Leprechauns   wig,  cloud  silver  lining,
+Vampire  dux feather and some troll brew -
+cook  the  potion  and throw it at Zaks to
+dissolve his reign.'
+
+He covered it up and quickly made ready to
+liberate the land of KATMANDU."
+
+To those who still don't know about Dizzy,
+let  me give you a brief idea of the game.
+You control the egg, who has boxing gloves
+for hands and boots for his feet (both red
+in pictures but the entire sprite is white
+in the game (apart from when he moves over
+a  non-black  background,  when he assumes
+that colour...)), and you control the game
+using  4  basic  keys : left, right, jump,
+and  pick  up  / drop object. You can only
+hold  one object at a time, and this makes
+the   game   so   exciting  (or  annoying,
+depending  on your view-point), as you may
+need one object at one end of the map that
+you last used (and left) at the other end.
+Objects  which  could  kill  you  included
+birds,   vampire  bats,  spiders,  apples,
+stalactites, water, ghosts, and of course,
+Zaks.  Each could be killed with a certain
+object,  which  respectively are Acme Bird
+Seed, Clove of Garlic, Insecticide, Miners
+Hard  Hat,  Miners  Hard Hat, Plastic Rain
+Coat,  Ghost  Busters  Back  Pack, and the
+Avalwiffovee Potion.
+Places included the Crystal Mountains, the
+Haunted  Forest,  the Deserted Mine Shaft,
+the  Mushroom  Kingdom, the Graveyard, and
+Zaks' Castle.
+The  worst  was  the Haunted Forest, where
+you  had  to  jump  over a gap that if you
+didn't time exactly right then the "floor"
+would  disappear,  meaning  you  would  be
+stuck  on  one  side of the gap and unless
+you  were  just about to complete the game
+then that was it - you'd have to start all
+over  again. Annoying, but it did give the
+game  an  edge  that  the  sequels did not
+have.
+Also  good  in this game that was not true
+of  the  sequels  was  that you could only
+carry  one  item  at a time, and also some
+items could be used more than once.
+Also  mentioned  through-out  the game are
+extracts from a poem, some of which are on
+the  lines of "there's a green-eyed yellow
+idol  to  the  North  of Katmandu", "and a
+broken  hearted  lady  tends  the grave of
+made  Carew",  "and the yellow God forever
+gazes  down".  These were hints of what to
+do it the game, but I think they come from
+a  real poem (from which the game is based
+loosely  around),  and I WOULD LIKE A COPY
+OF  IT IF ANYONE HAS IT OR KNOWS THE POET,
+ETC!
+
+
+Dizzy 2:Treasure Island Dizzy (48K & 128K)
+******************************************
+
+Cover  shows  Dizzy  (complete with pirate
+bandanna)  being  forced to walk the plank
+into shark-infested waters by a pirate.
+
+The  128K  version  was  a pig to load : I
+found  on  the +2, +2A and the +3 that the
+only  way  to  load  it  was  go into 128K
+Basic,  type  "spectrum"  to  put  it into
+pseudo-48K mode, then type J"" to load it.
+Interestingly,  the Z80 emulator will load
+the  128K  version  straight from the Tape
+Loader  or  from  128K  Basic, but not the
+"spectrum" way!
+
+The  first  of  many sequels. This was the
+first  game  that  allowed  you to talk to
+people  to gain advice / objects, and also
+the  first  in which you had to collect 30
+items - in this case gold coins.
+
+The plot goes :
+
+"Dizzy   was   looking   forward   to  the
+round-the-world cruise he'd booked up for.
+When  he told the other Yolkfolk about the
+good  deal  he  found,  they wondered just
+what lay ahead of him...
+Dizzy enjoyed the cruise at first although
+there  were  far  too  many pirates on the
+ship,  the  Grog  was watered down, and he
+didn't even know what a mainbrace was, let
+alone how to splice it!
+The  captain,  Long  John  Silver,  was  a
+lovely  old  bloke  with  a kindly manner,
+good  at  insulting and degrading the fare
+paying  punters. He was well balanced - he
+had  parrot  on one shoulder and a chip on
+the  other - and he had a wooden leg which
+he  acquired  when he fell out of his pram
+when he was a kid.
+Anyhow,  their  quaint  little  man o' war
+found   itself   in   still   waters   one
+sun-soaked afternoon, and Dizzy thought he
+would  organise  a  game of cricket on the
+aft  deck.  In a fit of blinding stupidity
+he  used  LJ's  spare  leg  collection  as
+makeshift  stumps, and when they were lost
+overboard he was made to walk the plank!
+That  was  how  he  came  to  find himself
+gently  poaching on the silent, sun-kissed
+beach of a seemingly deserted island... He
+had  to  somehow  find  a  way back to the
+Yolkfolk  and lodge his compensation claim
+with the travel agent..."
+In this game you could hold up to 3 items,
+and  every  time you pressed enter the top
+item  on  this  list would be dropped, any
+other  items  carried  would  move  up the
+list,  and any item picked up would appear
+at the bottom of the list.
+Where  as  the first Dizzy had the Haunted
+Forest  as  the  major pitfall, Dizzy2 had
+the  fact  that  you  only  had  one life.
+That's  right folks, screw up anywhere and
+it's game over.
+The  novel  feature  of this game was that
+once  you  got  the  snorkel  you could go
+underwater  (for  an  unlimited  amount of
+time). However when you picked up anything
+underwater  the  snorkel moved up the item
+list  and  if  you dropped it, Dizzy would
+drown  and  it  would  be  game over. This
+often  meant picking up a couple of items,
+heading  back  for  land to re-arrange the
+list, then returning once more. Picking up
+coins *also* moved the list, so again care
+had to be taken.
+The  128K version had distorted speech and
+in-game  music,  and  this game was a good
+sequel  even  if it was slightly different
+than the first one. This game was also the
+first game to have "red herring" objects.
+
+
+Dizzy 3 : Fantasy World Dizzy (48K & 128K)
+******************************************
+
+The  cover  shows  Dizzy with telescope in
+hand  and,  er,  safari hat (I suppose) on
+his  head.  Two dragons, a rhino, a castle
+and another creature are also visible.
+
+The plot :
+"DIZZY   &   DAISY  strolled  through  the
+enchanted  forest  without  a  care in the
+world...  BUT  SUDDENLY  the  Evil  King's
+trolls  seized poor Daisy! She was send to
+Wizard  Weird's Tallest Tower, while Dizzy
+was  dragged  away  and  thrown  into  the
+deepest,  darkest,  dankest  of  the Kings
+Dungeons  in  the bowels of Fantasy World.
+DIZZY  was  frightened! Who knew what fate
+awaited  him...  and  he still hadn't done
+this   week's   homework!   But   then  he
+remembered that he had a fresh green apple
+that he had planned to give his teacher to
+escape  detention,  and he cheered up. And
+there  was  some  bread  and  water on the
+table! A cunning plan began to brew in his
+mind...
+But  DIZZY  can't  do  everything  on  his
+own... you must help him!"
+This  was  the  first  time we got to meet
+some of the Yolkfolk other than Dizzy. The
+ones  featured  here  were  Denzil, Dylan,
+Dozy,  Grand  Dizzy, and of course Dizzy &
+Daisy.
+
+The  Inventory once again changed. Still 3
+items  but this time you could chose which
+to drop.
+
+Again  you  had  to  collect 30 coins, and
+things  to  note  from  this game were the
+Illusion  Room  where  only certain blocks
+were solid and could be jumped on, and the
+picture  in  the  main  hall  which if you
+stood  in front of and pressed enter would
+be  enlarged  to reveal the loading screen
+of  the  previous game (Dizzy2). Also this
+was  the  first  game in which you took to
+the clouds.
+
+Dizzy 4 : Magicland Dizzy (48K and 128K)
+****************************************
+
+The cover shows Dizzy in safari hat again,
+with  a  lamp  in  one  hand and using the
+other to remove the Excalibur sword from a
+rock. An old man sitting in a tree playing
+a  pipe can be seen along with a troll (?)
+running towards Dizzy.
+
+The plot :
+
+"The  Evil  Wizard ZAKS' is back! Like all
+Evil  Wizards he made certain arrangements
+against  his  premature  demise...  He had
+exacted a terrible revenge by transporting
+the YOLKFOLK to a strange Fairy-Tale World
+and   casting   evil  spells  on  them  to
+imprison  them  there  forever. Dizzy must
+free  the  SIX  Yolkfolk  by  breaking the
+spells  and then destroy ZAKS once and for
+all before he can return home."
+
+The  game  also  lists the six Yolkfolk in
+question :
+
+"DYLAN:  Dylan  had  been  tangled up in a
+bush, rooted to the spot!
+
+DENZIL:  Denzil  has  been frozen inside a
+block  of  ice  - ZAKS latest ornament for
+his ICE PALACE!
+
+DOZY:  Dozy is lying on an Alter in Sleepy
+Hollow  -  in  a  deep  magical sleep from
+which he may never awake...
+
+DORA:  Dora  is  in  the  Haunted  Swamp -
+turned into a Frog!
+
+DAISY:  Daisy  has been Super-Enlarged and
+imprisoned in ZAKS' Oubliette which she is
+now too big to escape from!
+
+GRAND-DIZZY:  Grand-Dizzy  is trapped in a
+strange  world  on the other side of ZAKS'
+Magic Mirror."
+
+
+The  most  noticeable  change in DizzyЧ is
+that  of an energy bar for Dizzy. Now when
+he  walks into a bird he is not killed but
+his  energy  bar  decreases. Energy can be
+increased  again  by  collecting a diamond
+(of which there are 30...).
+
+Again  the  tree-houses make an appearance
+(last  seen  in  Dizzy2), and probably the
+most  memorable  thing is the mirror world
+where the entire screen is swapped round -
+and the controls too!
+
+
+Dizzy 5 : Spellbound Dizzy (48K and 128K)
+******************************************
+
+Unfortunately,   I  left  the  Dizzy  (and
+Spectrum) scene before this one came out -
+which  is  a  shame as has been called the
+Best Dizzy Ever by some people.
+
+The  cover  depicts  Dizzy opening a spell
+book and magic stars coming out of it. The
+leprechaun is sitting in front of him, and
+Daisy is also shown on the front.
+
+The  BIGGEST and BEST Dizzy game yet! Over
+100  AMAZING  screens  of  cartoon FUN! Go
+SCUBA    DIVING!    Take   a   WILD   RIDE
+underground!  Save  the  YOLK  FOLK!
+Troubles  afoot  for  Dizzy in his BIGGEST
+and   BEST  adventure  yet!  Meet  Dizzy's
+magical  chum  THEO,  the  wizard  with  a
+plethora of POWERFUL POTIONS! Dozy, Dylan,
+Dora,  Daisy  and  Grand  Dizzy - the YOLK
+FOLK - are all here too and they're in HOT
+WATER  this  time!  help  Dizzy SAVE THEIR
+SHELLS before they end up HARD BOILED!
+
+Dizzy's  been  visiting his local friendly
+Wizard  Theo.  Now  Theo, who may be a dab
+hand  in  the waving of wands area, is not
+much  cop at the filing-things away-neatly
+department  and  he's  left  his  book  of
+really  powerful Spells lying round in his
+laboratory.  Whats  more,  the  books been
+left  open  at  the  page headed A Really,
+Really  Powerful  Spell (That shouldn't be
+read  out  loud).  Whether  Dizzy actually
+read  the  heading  is  not  known  but  -
+yikes  - he said the spell and it's caused
+a catastrophe: Dizzy spirited all his Yolk
+Folk   chums  and  Wizard  Theo  into  the
+underworld!   Cripes!   There's  only  one
+course  of action open to the brave little
+hero:  read  the  spell  again  and spirit
+himself  into  the  underworld to save his
+rotund group of pals!
+
+DOING  THE  BIZ  WITH  DIZ
+* Dizzy has to collect five rotating stars
+and  a  special  object to release each of
+the Yolk Folk from the underworld.
+*  Check  out all the objects and discover
+if  they  can help Dizzy - some may enable
+Dizzy to swim underwater while others help
+him  have  a speedy journey through a mine
+shaft (and some are really tasty!)
+*  Don't  miss out on the mushrooms - they
+can send Dizzy flying high!
+*  Don't  leave  any  of  the yolk folk or
+Wizard Theo behind!
+*   More  that  100  -  100!  -  different
+locations await!
+* Try dropping the rocks on the clouds.
+
+However  I'll give you a brief description
+of the game. Again the energy bar is here,
+although  it's  not only bad guys that can
+drain it. Should Dizzy fall too far, he'll
+sit down with stars circling his head, and
+then shake his head to try and "get rid of
+the  cob-webs".  Of  course  he also loses
+energy   for   the  fall.  Energy  can  be
+replenished   by  collecting  food.  Press
+enter when in front of some and Dizzy will
+actually  stuff  it  in his mouth and chew
+it!  Dizzy  is  collecting  magic stars in
+this game.
+
+
+Dizzy 6 : Dizzy Prince of the Yolk Folk
+(48K and 128k)
+***************************************
+
+Again  I  have  no first-hand knowledge of
+the   game,   which  I  believe  was  only
+available in a compilation pack.
+
+The  cover  shows Dizzy on one knee, being
+knighted.  Behind  him  sits  King  Arthur
+surrounded  by guards and two lions either
+side of the throne.
+
+The Plot:
+
+Battle  Rockwart the Troll, meet Pogie the
+Fluffle,   avoid  Shamus  the  Leprechaun,
+summon  King  Arthur from his crusades and
+wake Daisy from her hundred year snooze!
+
+Grand Dizzy was feeling very down one day,
+so Dizzy and Daisy decided to cheer him up
+by  baking  him his favourite food, cherry
+pie!   So  off  went  Daisy  to  get  some
+cherries  from  her cupboard but there was
+none to be seen!
+
+"Pogie's pinched the cherries!" she cried,
+as   she   saw  Pogie's  pawprint  in  the
+cupboard,  "That darned Fluffle. Come here
+you!"  and  Pogie promptly darted off into
+the  enchanted  forest  to  escape Daisy's
+rage.
+
+Dizzy  and  Daisy  decided  to go into the
+forest to catch Pogie and gather some more
+cherries   at   the   same   time.  Whilst
+searching  for  Pogie  they  got  lost and
+found  a  castle,  where they thought they
+would  find  help, but it seemed deserted.
+They  looked  in the castle for Pogie, but
+Daisy  caught herself on a mystic spinning
+wheel.  She started feeling really sleepy,
+so she found a bed and went to sleep.
+
+"Wake  up  Daisy,  wake up" shouted Dizzy.
+But  before he could wake her up, Rockwart
+the  Troll  caught  him  and locked him up
+under ground!
+
+HINTS AND TIPS
+
+* Remember to collect the cherries!
+*  Keep  away  from Rockwart the Troll: he
+eats eggs for breakfast.
+* Beware of the evil Dizzy doppelganger.
+
+The  second  Dizzy  compilation was called
+Dizzy's  Excellent Adventures and included
+Kwik  Snax, Spellbound Dizzy, Dizzy Prince
+of  the  Yolk  Folk, Panic Dizzy and Dizzy
+down the Rapids.
+POTYF was made available on budget about 6
+months   after   the   release   of   this
+compilation.
+
+Again  the  energy  bar  as  seen  in  the
+previous  two  games,  although  this game
+bears  more  resemblance to Dizzy 3 than 4
+or  5,  complete  with an almost identical
+first  puzzle. Cherries are what are being
+collected this time.
+
+Because  of  this  more dated look without
+the  Dizzy  5 polish, most people consider
+this  to  be the starting point of Dizzy's
+decline.
+
+
+Dizzy 7 : Crystal Kingdom Dizzy
+(48K (?) and 128K)
+*******************************
+
+Yet  again,  I  never  owned  this  so I'm
+reporting  my  experience  of the snapshot
+and  from  what  I've  heard  from various
+sources.
+
+Basically  Codemasters shocked everyone by
+releasing   this  as  a  full  price  game
+(9.99GBP),  and  by changing the structure
+of it.
+
+>From  what  I've heard, the game is split
+into  levels,  with you having to complete
+all  the  tasks  in  one  to move onto the
+next.
+
+Again  this  is  pre-DizzyS style, however
+they  changed  the  animation  for Dizzy's
+jump  and  (in my opinion) have ruined it.
+Also  the  energy  bar  from  which  we've
+become  familiar with has been replaced by
+(up to) five hearts. Make contact with one
+of  the  unkillable  roaming  worms  or  a
+spider,  torch, etc, and you lose a heart.
+A few hearts are scattered around the land
+which  will  replenish  them. Cherries are
+also there to be collected.
+
+The  twist  in  this  one  is that you can
+actually  go *in* the houses, etc. This is
+vital  to do since most contain a Yolkfolk
+character who will ask you to do something
+for them.
+
+Again,  what  with  this being a different
+style  from  what  people were used to and
+also being full price, many people thought
+ill of this one.
+
+
+The Spin-Offs
+-------------
+
+These   were   nothing   like   the  above
+adventure  games.  The only like that they
+had  with  Dizzy  was that they had him in
+the game in some sort of fashion.
+
+
+BUBDIZZY Z80  44,697 [Bubble Dizzy   128K]
+DIZRAPID Z80  43,286
+             [Dizzy Down The Rapids! 128K]
+FASTFOOD Z80  47,890 [Fast Food      128K]
+KWIKSNAX Z80  81,267 [Kwik Snax      128K]
+PANIC_D  Z80  46,647 [Panic Dizzy    128K]
+
+
+Bubble Dizzy (48K and 128K)
+***************************
+
+Never owned this. The aim of it appears to
+be  to  get  to  the  top of the screen by
+jumping  on successive bubbles which burst
+after  a  short time. Smaller bubbles rise
+quicker  but burst sooner, where as larger
+bubbles last longer but rise more slowly.
+
+
+Dizzy Down The Rapids! (48K and 128K)
+*************************************
+
+The  tape  cover  shows Dizzy sitting on a
+barrel,  about  to  go  over  a  waterfall
+Behind him is a crocodile, two trolls, two
+hippos and a dragon.
+
+Dizzy  and Daisy were out in the enchanted
+forest picking blue berries for a pie they
+were making for a dinner party.
+"These  berries aren't very big!" muttered
+Dizzy, plucking the miniscule fruit from a
+bush.
+"I  can  see  some bigger ones over there"
+said Daisy Dizzy trotted over to the bush.
+"These  are  still  too  small",  he  said
+forlornly   "We're   never  going  to  get
+enough!"
+"How   about  these?"  pointed  out  Daisy
+wandering   yet  further  into  the  wood.
+Before  they  knew  it,  the  two eggs had
+wandered  far into the forest. By the time
+they   reached  the  banks  of  the  Great
+Torrent   River,   the   two   had  become
+hopelessly lost.
+Suddenly  Daisy  heard  a twig snap, Dizzy
+span  around  to be confronted by Rockwart
+the  Troll and a gang of ferocious looking
+henchtrolls.  "I have you now little egg!"
+breathed  Rockwart  in  his  most sinister
+voice.  Quick  as  a  flash  Dizzy grabbed
+Daisy's  hand and the pair ran desperately
+toward the river.
+"Hee  Hee Hee!" laughed Rockwart manically
+as  the  trolls  moved in ever closer. But
+Dizzy  had  a plan..."Jump in there Daisy"
+he  cried  as  he  somersaulted towards an
+abandoned apple barrel.
+"We've  escaped"  he  shouted  back to the
+trolls  in  glee.  Daisy  screamed because
+Daisy  could only see what was in front of
+them.......
+
+Again, never had this. Dizzy is going down
+the  rapids  in  a  barrel  (much like the
+Toobin'  arcade  / computer game), and you
+have to steer him down. Enemy sprites move
+across the water in your path, fly at you,
+or  throw  missiles  at  you,  and you can
+shoot  back  using  a  limited  supply  of
+apples as your ammunition.
+This  game  can  either be played alone or
+simultaneously  with  another  player  who
+guides an identical Dizzy down at the same
+time.
+
+
+Fast Food (48K and 128K)
+************************
+
+Now this one I owned so I can give you the
+plot:
+
+"Dizzy's  back!  In  Fast Food, Dizzy must
+run  around  mazes  scoffing loadsa food -
+chickens,  burgers,  pizzas,  milkshakes -
+but there's a complication... look out for
+these monsters...
+
+BONZO  He's  slow and stupid, but he could
+catch you if you don't keep an eye on him.
+Bonzo is GREEN
+
+WIZZA  He's fast, but not too clever - run
+if he follows you, and he'll probably take
+the  wrong  turn  at one of the junctions.
+Wizza is YELLOW
+
+PIPPA  She's  cute and deadly - she's dead
+clever, but if you're quick you can outrun
+her. Pippa is PINK
+
+FIDO He's dead sneaky - he'll try and head
+you  off at junctions, so you should watch
+him carefully! Fido is BLUE
+
+As well as KETCHUP, MUSTARD, RELISH, MAGIC
+BOOTS and more!".
+
+The  cover  shows  Dizzy being chased by a
+cook  who  is  trying to catch him to cook
+him, along with other items of food all of
+which have faces, arms and legs.
+
+This  game  is  basically  like  Pac  Man,
+except  that  there are fewer items to eat
+and  they  move. Also power ups (and power
+downs) are available.
+
+
+Kwik Snax (48K and 128K)
+************************
+
+The  cover shows Dizzy with safari hat on,
+and a rope and lamp in each hand. ZAKS can
+be  seen  in  the  background, a dragon is
+chasing  Dizzy,  and  items  of  food  are
+hovering in the air.
+
+The plot:
+
+"Dizzy and the Yolk Folk have outraged the
+Evil  Wizard Zaks and he's cast a sinister
+spell  which  has sent them to the land of
+personality.   Dizzy  can  choose  who  to
+rescue,  but to be a true hero, he'll have
+to save all his friends.
+DENZIL thought he was cool and ended up in
+the Land of Ice. Left to chill!
+DYLAN spent most of his time with his head
+in  the  clouds, and that's where he found
+himself stranded high and dry!
+GRAND  DIZZY  was  old and a touch senile,
+his  fate  was to be cast into Cuckoo Land
+trapped by clocks and giant teddy bears.
+DAISY was Zaks' greatest prize and he kept
+her  close  to  him  in his Castle Dungeon
+protected by his best henchmen."
+
+There    are   four   worlds,   each   one
+progressively  harder,  with  5  levels in
+each world.
+You  must  move  around  stationary blocks
+while  pushing  moveable  ones to kill the
+henchmen (which come back elsewhere on the
+screen  Pac  Man style) and to gain access
+to  the  pieces  of  fruit  which you must
+collect to complete the level.
+After    each    level    there    is    a
+time-restricted  bonus  level, where again
+you  must  collect the fruit. There are no
+henchmen  but  you are on ice, which means
+that  Dizzy  will  keep  going in the same
+direction  until he hits a block where you
+can   push   him   in   one  of  the  four
+directions.  Run  out of time or get stuck
+in  a loop where you can't hit a block and
+the bonus ends.
+
+What  has  to  be  seen  and  heard  to be
+believed are the graphics and music on the
+title  and  intro.  screens. The intro. is
+impressive,  with  funky speech announcing
+the  game  and  then the Dizzy Mob playing
+music on their instruments. Each one moves
+in  sync  with the music and it just looks
+and sounds great... but only in 128K mode!
+
+
+Panic Dizzy (48K and 128K)
+**************************
+
+The cover shows Dizzy running around a toy
+factory  with  bits  falling  on his head.
+Pogie  is behind him, but does not feature
+in  the  game (Dizzy hardly features in it
+himself!)
+
+DIZZY  in  his  FANTASTIC TOY FACTORY! Fit
+MAGIC  SHAPES  into GRAND DIZZYS INVENTION
+to  make  NEW  and  EXCITING  TOYS!  Panic
+Stations,  Conveyor  Belts,  Vacuum Tubes,
+and more! AMAZINGLY ADDICTIVE! Keep a cool
+head....DON'T PANIC DIZZY!
+
+One  Day,  GRAND  DIZZY  was  putting  the
+finishing   touches   to   his  brand  new
+toy-making invention.
+
+"Just  got  to  tighten  this last nut and
+we're   ready...ooooOOOH...eekk!"  shouted
+GRAND  DIZZY as the spanner slipped and he
+fell to the floor.
+
+"UURGH!"  moaned  GRAND DIZZY, "I've got a
+CRACKING  EGGACHE,  now  I'll never finish
+testing   my   new   TOY  MAKING  MACHINE.
+Whatever shall I do?!"
+
+"Don't  worry"  replied Dizzy, "We'll help
+you!"
+
+So  DIZZY,  DAISY, DENZIL, DYLAN, DOZY and
+DORA helped GRAND DIZZY to the machine and
+manned their STATIONS.
+
+Whilst  DIZZY  grabbed  the  CONVEYOR BELT
+CONTROLLER,  the  others went upstairs and
+threw the MAGIC SHAPES down the chutes.
+
+"Click,   Crunch...Cough,  Splutter",  the
+machine kicked into ACTION!
+
+"ooooOOOH,  SLOW  down...!  Hang on..! Too
+fast...!"  cried  Dizzy,  but  the  others
+couldn't   HEAR   HIM.   The   TOY  MAKING
+INVENTION just kept getting FASTER...
+
+THE GAME
+Like  all of Grand Dizzy's inventions, the
+magic  toy  making  machine  doesn't quite
+work  as  well  as  it should. All of it's
+cogs  and  wheel  constantly need fuelling
+with  the special magic shapes. The Chutes
+from  which  the shapes emerge continually
+descend,  when  they reach the shape guard
+at  the  bottom  of  the  screen  the  toy
+machine  will  seize  up.  The only way to
+keep  the  chutes from reaching the bottom
+is to fit lots of shapes through the guard
+and into the machine.
+
+THE AIM OF THE GAME
+Line up the SHAPE GUARD with as many MAGIC
+SHAPES  as possible. Press FIRE to release
+all   MATCHING  SHAPES.  with  4  OR  MORE
+matching shapes at once, a TOY is created.
+If  the WRONG SHAPE reaches the bottom the
+CHUTES   will  descend.  The  chutes  will
+slowly  descend  and  the  only way to get
+them  back  up  is  to  drop several shaps
+together.  The  more  shapes  you  get the
+higher they'll go. If the CHUTES reach the
+bottom  the  machine  will  STOP! Keep the
+machine  going as long as possible to make
+lots  of  toys. Good luck and the best tip
+of all....DON'T PANIC DIZZY!
+
+This  is  the  most  dubious  of  all  the
+spin-offs. Four pipes disperse blocks from
+the  top  of the screen and the pipes move
+downwards   as   well.   The   blocks  are
+different  shapes  and  you must align the
+holes at the bottom of the screen to allow
+the blocks to fall through. The only thing
+that  Dizzy  does  is stand at the top and
+when  you  move  the  holes  Dizzy pulls a
+level to show this. Basically there was no
+need  for  Dizzy to be in this game, and I
+believe  Codemasters just put him there to
+try and sell it off as a Dizzy game.
+
+
+
+The Compilations
+----------------
+
+I  know  of  one  for  sure, called "Dizzy
+Collection",  which  contained Dizzy, Fast
+Food, Fantasy World Dizzy, Treasure Island
+Dizzy  and  Magicland  Dizzy. On the front
+was  an  enlarged picture of the Magicland
+Dizzy tape cover, plus smaller pictures of
+the  original  tape  covers  of  all the 5
+games  in the pack at the bottom. The pack
+was priced at 9.99GBP.
+
+The second compilation was called "Dizzy's
+Excellent  Adventures"  and featured Panic
+Dizzy, Dizzy down the rapids, Dizzy Prince
+of the Yolk Folk, Kwik Snax and Spellbound
+Dizzy.  Prince was re-released on budget a
+short  while  after.  On  the front was an
+enlarged  picture  of  the  Dizzy down the
+rapids   tape   cover,  plus,  as  before,
+smaller covers of all five.
+
+
+The Cover-tape Freebies
+=======================
+
+These  were  given away "free" on Spectrum
+computer   mags.   Some   are   cut-  down
+versions,   some   are  identical,  whilst
+others  (ie  Dizzy 3.5) are complete games
+in their own right.
+
+
+DIZZY_YS Z80    47,095
+      [Identical to the original      48K]
+D1-CRASH Z80    47,050  [A Crash
+     Special Edition of the original  48K]
+D2-CRASH Z80    45,161
+[A Crash Special Edition of Dizzy 2   48K]
+DIZZYЗ-5 Z80    30,391
+      [Dizzy 3.5 (Crash Xmas Special) 48K]
+
+
+Dizzy (YS cover tape) (48K only)
+********************************
+
+Don't  get  excited,  this is identical to
+the  original  except...  it  has  an 0898
+number at the bottom of the screen!
+
+
+Dizzy : Crash Special Edition (48K only)
+****************************************
+
+This   is   a  cut  down  version  of  the
+original.  Items  have been moved and some
+don't  actually  do anything but display a
+screenfull   of  text  advertising  either
+Crash  or  a Codemasters game. Other items
+are  missing meaning you are restricted to
+a  smaller  area  of the game map. All the
+potion  ingredients  can  be collected and
+the  game  ends when you have put them all
+in the potion bottle.
+
+Treasure Island Dizzy : Crash Special
+Edition (48K and 128K ???)
+*************************************
+
+Again,  like the above game, this is a cut
+down   version.   What  does  look  horrid
+however  is  the  big  'Crash'  Logos that
+limit you to a small area of the map.
+Also, whereas in the 'proper' copy of this
+game  where  if  you picked up a coin your
+item  list  scrolled,  in this it doesn't.
+This however takes the fun/skill/annoyance
+out  of being careful how many coins/items
+you collect underwater.
+
+
+Dizzy 3.5 : Crash Xmas Special
+(48K and 128K ???)
+******************************
+
+This  was  presumably  given  away  on the
+December  Issue  of  Crash, and is a small
+game.
+The  energy bar that's seen on Dizzys 4 to
+6  is here again, there are only 5 screens
+(well  I  can only get to 5 screens!), and
+there are no coins, etc to collect.
+I have a 48K snapshot but there *may* be a
+128K one...
+
+
+Other Special Editions
+(and other Dizzy games)
+***********************
+
+There  may have been other special edition
+Dizzy  games  available,  or  there may be
+128K  snapshots  of  the  ones I currently
+have.  IF  YOU  KNOW  OR HAVE ANY OF THESE
+THEM  PLEASE  TELL  ME ABOUT THEM OR EMAIL
+THEM  TO  ME!  (NB : see note at beginning
+about my email address!). Also if you know
+of  any  Spectrum  Dizzy  games  I haven't
+got  /  covered,  or indeed have a list of
+games  available  on  other  systems  then
+please let me know also!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Thanks  to  David  Crick  for writing this
+update  to  the story originally posted to
+the  newsgroup.  For  completeness, I have
+added  a few more pieces to the article (I
+hope David doesn't mind!) These were - the
+instructions for Spellbound, POTYF, Rapids
+and Panic.
+
+MAGAZINE RUN-DOWN
+
+To  rate  each classic Spectrum Character,
+we  will  look  at  the average of all the
+scores their games received in the popular
+Spectrum Magazines.:
+
+Name                  Date      YS      CR
+==========================================
+DIZZY                 OCT 87    7       78
+TREASURE ISLAND DIZZY MAR 89    8       87
+FANTASY WORLD DIZZY   JAN 90    88      94
+MAGICLAND DIZZY       DEC 90    90      93
+SPELLBOUND DIZZY      JAN 92    90      --
+PRINCE YOLK FOLK      JAN 93    71      --
+CRYSTAL KINGDOM DIZZY DEC 92    70      --
+
+FAST FOOD             APR 89    63      68
+KWIK SNAX             DEC 90    92      92
+PANIC DIZZY           MAR 91    49      80
+BUBBLE DIZZY          FEB 92    80      --
+DIZZY DOWN RAPIDS     JUL 92    65      --
+
+AVERAGE SCORES OCT 87-JAN 93    76      85
+
+TOTAL SCORE     81%
+
+
+Recently,  David  also made his collection
+of  Dizzy  snapshots  available  to all by
+having  them  uploaded  to  NVG  UNIT  ftp
+site - see NEWS for more details.
+
+In  the  PLAYING  TIPS section of the mag,
+you  will  also find our complete guide to
+the Dizzy games!
+
+==========================================
+==========================================

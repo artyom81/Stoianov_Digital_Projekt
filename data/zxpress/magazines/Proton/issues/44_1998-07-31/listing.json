@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16810,
+    "article_url": "https://zxpress.ru/article.php?id=16810",
+    "print_url": "https://zxpress.ru/print.php?id=16810",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "44",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16811,
+    "article_url": "https://zxpress.ru/article.php?id=16811",
+    "print_url": "https://zxpress.ru/print.php?id=16811",
+    "title_link": "Юмор - Приколы.",
+    "order": 2,
+    "issue_label": "44",
+    "short_slug": "Юмор_-_Приколы"
+  },
+  {
+    "article_id": 16812,
+    "article_url": "https://zxpress.ru/article.php?id=16812",
+    "print_url": "https://zxpress.ru/print.php?id=16812",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "44",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16813,
+    "article_url": "https://zxpress.ru/article.php?id=16813",
+    "print_url": "https://zxpress.ru/print.php?id=16813",
+    "title_link": "Юмор - Девять cектоpов Ада.",
+    "order": 4,
+    "issue_label": "44",
+    "short_slug": "Юмор_-_Девять_cектоpов_Ада"
+  },
+  {
+    "article_id": 16814,
+    "article_url": "https://zxpress.ru/article.php?id=16814",
+    "print_url": "https://zxpress.ru/print.php?id=16814",
+    "title_link": "Кодинг - Часы для ISDOS'а под SMUC...",
+    "order": 5,
+    "issue_label": "44",
+    "short_slug": "Кодинг_-_Часы_для_ISDOSа_под_SMUC"
+  },
+  {
+    "article_id": 16815,
+    "article_url": "https://zxpress.ru/article.php?id=16815",
+    "print_url": "https://zxpress.ru/print.php?id=16815",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "44",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16816,
+    "article_url": "https://zxpress.ru/article.php?id=16816",
+    "print_url": "https://zxpress.ru/print.php?id=16816",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "44",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

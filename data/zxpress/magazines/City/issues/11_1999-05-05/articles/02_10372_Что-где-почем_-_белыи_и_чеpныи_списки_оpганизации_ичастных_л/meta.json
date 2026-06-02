@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1999-05-05",
+  "order": 2,
+  "article_id": 10372,
+  "title_link": "Что-где-почем - \"белый\" и \"чеpный\" списки оpганизаций и\r\nчастных лиц распространителей ПО для ZX Spectrum'a.",
+  "title_h1": "City 11 - Что-где-почем - \"белый\" и \"чеpный\" списки оpганизаций и частных лиц распространителей ПО для ZX Spectrum&#039;a.",
+  "print_url": "https://zxpress.ru/print.php?id=10372",
+  "article_url": "https://zxpress.ru/article.php?id=10372",
+  "fetched_at": "2026-05-31T21:50:21Z"
+}

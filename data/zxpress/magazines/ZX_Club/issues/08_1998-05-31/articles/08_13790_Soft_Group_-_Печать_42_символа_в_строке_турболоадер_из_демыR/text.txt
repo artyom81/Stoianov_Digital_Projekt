@@ -1,0 +1,980 @@
+ZX Club 08 - Soft Group - Печать 42 символа в строке, турболоадер из демы "RAGE", процедура рисования окна.
+(c) 1998 Eraser/Fast Gr./Elders Gr.
+Мысли вслух или введение
+Открывая данный раздел я предполагал  в
+первую очередь  оказать помощь в  освоении
+маш. кода начинающим и более опытным коде-
+рам. Некоторые кодеры,а скорее всего,ламе-
+ры,косящие под кодеров,будут протестовать:
+"Ну зачем! Это везде  написано! ". Как  ни
+странно, но большинство думает, что приток
+начинающих  кодеров  закончился, и   будут
+неправы. Приток идет, но только с  меньшей
+силой,  и   многие,  кто   даже   еще   не
+разобрался со Спекком, уходят с него на ПЦ
+именно  из-за  того, что  сталкиваются   с
+вышеупомянутыми  ламерами, которые  их  не
+понимают и не стараются оказать  посильную
+помощь, а иногда даже и отталкивают.
+   Но вернемся к разделу... Он был сначала
+задуман   для   начинающих,   но    будет,
+наверное, полезен и более или менее иску-
+шенным программистам.
+   Хочу    сразу    оговориться     насчет
+ассемблеров. Они, конечно, все  разные, т.
+е. каждый из них имеет свои достоинства  и
+свои недостатки:
+
+*
+GENS 4;
+*
+ZEUS;
+*
+ALASM;
+*
+ZXASM;
+*
+XAS;
+*
+STORM;
+*
+MASM и другие, которые я не "юзал".
+Шестой и восьмой номера  "клубов"  были
+собраны в ALASM  3. 8c, который  некоторые
+люди поливают его  грязью, хотя  какая  им
+разница на чем кто пишет (может зависть?).
+Разумеется   и   листинг   приводится    в
+мнемонике ALASM`а.
+   На сей ноте закончу  свои  высказывания
+по поводу данного раздела  и  приступлю  к
+обзору процедур:
+
+       Печать 42 символа в строке.
+
+   Для  качественного   оформления   своих
+программ,   для     хорошего     скроллера
+необходима быстрая  печать  42  символа  в
+строке.  Привожу    несколько    вариантов
+печати:
+
+;
+;
+Матюшев Александр
+;
+г.Сланцы, 1996
+;
+from
+;
+ZX-Ревю 4-5`1996
+;
+;
+Вход: с адреса TEXT начинается текст
+;
+Выход: печать текста
+;
+Комментарий: поддержка управляющх кодов:
+;
+печать в знакоместе X,Y: 22,X,Y
+;
+цветная печать:
+;
+16, INK+PAPER*8+BRIGHT*64+FLASH*128,
+;
+встрерив этот код (16) процедура
+;
+положит следующее за ним число в
+;
+переменную ATTR_T (23695)
+;
+и установит временные
+;
+аттринуты печати
+ORG 25000; начало программы
+        LD HL,TEXT
+WRITE   LD A,(XTXT)
+        CP 42
+        JR C,WR2
+        LD A,(YTXT)
+        INC A
+        CP 24
+        JR C,WR1
+        XOR A
+WR1     LD (YTXT),A
+        XOR A
+        LD (XTXT),A
+WR2     LD A,(HL)
+        INC HL
+        AND A
+        RET Z
+        CP 32
+        JR C,WRIT2
+WRIT1   CALL PRSYM
+        JR WRITE
+WRIT2   CP 16
+        JR NZ,WRITЗ
+        LD A,(HL)
+        LD (23695),A
+        INC HL
+        JR WR2
+WRITЗ   CP 22
+        JR NZ,WRITЧ
+        LD A,(HL)
+        LD (YTXT),A
+        INC HL
+        LD A,(HL)
+        LD (XTXT),A
+        INC HL
+        JR WRITE
+WRITЧ   LD A,"?"
+        JR WRIT1
+PRSYM   EXX
+        PUSH HL
+        LD L,A
+        LD H,0
+        ADD HL,HL
+        ADD HL,HL
+        ADD HL,HL
+        LD DE, FONT-256; шрифт
+        ADD HL,DE
+        PUSH HL
+        CHECK LD DE,(XTXT)
+        LD A,E
+        ADD A,A
+        LD E,A
+        ADD A,A
+        ADD A,E
+        LD E,255
+        LD L,8
+CHPL1   INC E
+        SUB L
+        JR NC,CHPL1
+        ADD A,L
+        LD H,A
+        LD A,L
+        SUB H
+        LD (SL1-1),A
+        LD (SL2-1),A
+ADDRZ   LD A,D
+        AND #18
+        ADD A,#40
+        LD H,A
+        LD A,D
+        AND 7
+        RRCA
+        RRCA
+        RRCA
+        ADD A,E
+        LD L,A
+        PUSH HL
+AADDR   LD A,H
+        RRCA
+        RRCA
+        RRCA
+        AND #03
+        OR #58
+        LD H,A
+ATTR    LD A,(23695)
+        LD (HL),A
+        POP HL
+        POP DE
+        LD C,8;           *
+SCRL    LD A,(DE)
+        LD B,0
+SL1     SRL (HL)
+        DJNZ SL1
+        AND A
+        LD B,0
+SL2     RL A
+        RL (HL)
+        DJNZ SL2
+        INC HL
+        LD (HL),A
+        DEC HL
+        INC H
+        INC DE
+        DEC C
+        JR NZ,SCRL
+FINIS   LD HL,XTXT
+        INC (HL)
+        POP HL
+        EXX
+        RET
+XTXT    DEFB 0
+YTXT    DEFB 0
+TEXT    DEFM "Speccy - Rulez"
+        DEFB 0; конец текста
+
+FONT INCBIN "font"; здесь загрузить
+                  ;           шрифт
+
+   Длина  чистого  кода  175  байт;  старт
+процедуры 25000, но  можно  изменить  и на
+другой.
+
+
+   Если  использовать   символьный   набор
+шириной  6  пикселов, прижатый  к   левому
+верхнему   углу   знакоместа,  то    нужно
+изменить строку, отмеченную звездочкий  на
+LD C,6.
+   Данная процедура печати работает  очень
+медленно, но занимает и меньше  байтов. Ее
+выгоднее   всего   применять    там,   где
+приходится печатать  небольшие  сообщения,
+но не более.
+
+   Привожу вторую версию печати 42 символа
+в строке, которая была применена в  ZXC#6:
+
+;
+;
+Специально для читатлелей Cluba
+;
+;
+Вход: в DE адрес текста. Упр. код <13>
+;
+соответствует концу  текста, т. е. выход
+;
+из процедуры
+;
+Выход: печать текста
+;
+Комментарий: поддержка упр. кодов, как в
+;
+предыдущей процедуре
+;
+ORG 25000
+       LD DE,TXT
+       CALL PRINT
+       RET
+       TXT DEFB 22,1,9,16,1
+       DEFB "ELDERS GROUP`1998",13
+PRINT  LD A,(DE)
+       INC DE
+       CP 13
+       RET Z
+       CP 16
+       JR Z,COLOR
+       CP 22
+       JR Z,AT
+       CALL rst
+       JR PRINT
+COLOR  LD A,(DE)
+       LD (PERЗ),A
+NEXT   INC DE
+       JR PRINT
+AT     LD A,(DE)
+       LD (PERЧ),A
+       INC DE
+       LD A,(DE)
+       LD (PER2),A
+       JR NEXT
+CV     LD A,L
+       LD B,A
+       SRL A
+       SRL A
+       LD C,A
+       ADC A,C
+       ADD A,C
+       LD L,A
+       LD A,H
+       AND 7
+       RRCA
+       RRCA
+       RRCA
+       ADD A,L
+       LD L,A
+       LD A,H
+       AND 24
+       OR 64
+       LD H,A
+       PUSH HL
+       LD A,B
+       AND 3
+       ADD A,A
+       LD L, A
+       LD H,0
+       LD BC,PER1
+       ADD HL,BC
+       LD C,(HL)
+       INC HL
+       LD B,(HL)
+       POP HL
+       RET
+CVV    PUSH HL
+       PUSH DE
+       PUSH BC
+       EX DE,HL
+       LD L,A
+       LD H,0
+       ADD HL,HL
+       ADD HL,HL
+       ADD HL,HL
+       LD BC,FONT-256; шрифт
+       ADD HL,BC
+       EX DE,HL
+       CALL CV
+       EXX
+       LD B,8
+CVP    EXX
+       LD A,(DE)
+       BIT 7,B
+       JR NZ,MUK
+       RRCA
+       RRCA
+       BIT 0,C
+       JR NZ,MUK
+       RRCA
+       RRCA
+       BIT 3,B
+       JR NZ,MUK
+       RRCA
+       RRCA
+MUK    EXX
+       LD C,A
+       EXX
+       BIT 0,C
+       JR NZ,MUK2
+       LD A,B
+       CPL
+       AND (HL)
+       LD (HL),A
+       EXX
+       LD A,C
+       EXX
+       AND B
+       OR (HL)
+       LD (HL),A
+       BIT 7,B
+       JR NZ,MUKЗ
+MUK2   INC L
+       LD A,C
+       CPL
+       AND (HL)
+       LD (HL),A
+       EXX
+       LD A,C
+       EXX
+       AND C
+       OR (HL)
+       LD (HL),A
+       DEC L
+MUKЗ   INC H
+       INC DE
+       EXX
+       DJNZ CVP
+       EXX
+       LD A,H
+       SUB 8
+       AND 24
+       RRCA
+       RRCA
+       RRCA
+       OR 88
+       LD H,A
+       LD A,(PERЗ)
+       BIT 0,C
+       JR NZ,MUKЧ
+       LD (HL),A
+       BIT 7,B
+       JR NZ,MUKS
+MUKЧ   INC L
+       LD (HL),A
+MUKS   POP BC
+       POP DE
+       POP HL
+       RET
+ZXCLUB EXX
+       LD A,(DE)
+       INC DE
+       LD H,0
+       LD L,A
+       ADD HL,HL
+       ADD HL,HL
+       ADD HL,HL
+       ADD HL,BC
+       PUSH HL
+       EXX
+       DJNZ ZXCLUB
+       EXX
+       POP HL
+       EXX
+       POP BC
+       POP DE
+       POP HL
+       EXX
+       PUSH DE
+       LD B,8
+LOOP   EXX
+       LD A,(DE)
+       INC DE
+       EXX
+       RLCA
+       RLCA
+       LD D,A
+       AND 3
+       EXX
+       OR (HL)
+       INC HL
+       LD (IX+0),A
+       INC LX
+       LD A,(BC)
+       INC BC
+       EXX
+       RRCA
+       RRCA
+       RRCA
+       RRCA
+       LD C,A
+       AND 15
+       LD E,A
+       LD A,D
+       AND 240
+       OR E
+       LD (IX+0),A
+       LD A,LX
+       LD D,A
+       AND 31
+       CP 31
+       JR Z,BOL
+       INC LX
+       LD A,C
+       AND 192
+       LD C,A
+       LD A,(HL)
+       INC HL
+       RRCA
+       RRCA
+       OR C
+       LD (IX+0),A
+       LD D,LX
+       DEC LX
+BOL    DEC LX
+       INC HX
+       DJNZ LOOP
+       LD A,HX
+       SUB 8
+       LD HX,A
+       INC D
+       LD LX,D
+       POP DE
+       POP BC
+       RET
+rst    PUSH AF
+       PUSH HL
+       LD HL,(PER2)
+       CALL CVV
+       INC L
+       LD A,L
+       CP 42
+       JR C,HORIZ
+       LD L,0
+       INC H
+       LD A,H
+       CP 24
+       JR C,HORIZ
+       LD H,0
+HORIZ  LD (PER2),HL
+       POP HL
+       POP AF
+       RET
+
+PER1   DEFB #00,#FC
+       DEFB #F0,#03
+       DEFB #C0,#0F,#3F
+       DEFB #00,#00
+PER2   DEFB #11,#16
+PERЗ   DEFB #00,#00
+PERЧ   EQU  $-  3
+       DEFS 6
+FONT   INCBIN "font"; здесь загрузить
+                    ;           шрифт
+
+   Теперь      разрешите       представить
+турбодрайвер, который был выдран  из  демы
+"RAGE". Его  приемущество   -   достаточно
+быстрая  скорость  загрузки, учитывая  то,
+что сама процедура  "весит"  90  с  лишним
+баит. Данный драйвер применяется во многих
+демах (RAGE, SЧB, OPERA...)
+
+;
+;
+HL - адрес загрузки
+;
+DE - дорожка/сектор
+;
+B  - количество секторов для загрузки
+;
+;
+На выходе:
+;
+загрузка данных в память без обработки
+;
+ошибок и выход, конечно
+;
+ORG  24576
+
+; Пример использования процедуры
+
+       LD A,(23830); переносим текущий
+       AND 3; дисковод из TR-DOS в
+       LD (DISK),A; турбо-загрузчик
+                  ; хотя не мешало бы
+                  ; воспользоваться
+                  ; первой функцией
+                  ; TR-DOS`а
+       LD HL,16384; адрес загрузки
+       LD DE,0000; с какого трека и сектора
+       LD B,27; сколько секторов
+       CALL LOADT; вызов самой процедуры
+       RET
+
+; Сам турбо-загрузчик
+
+LOADT  PUSH BC
+       LD C,D
+       SRL C
+       LD A,44
+       JR C,PEREH
+       LD A,60
+PEREH  OR 0
+DISK   EQU $- 1
+       LD IX,8179; OUT (255),A
+       CALL DOS
+       LD A,C
+       LD C,127
+       LD IX,10835; OUT (C),A
+       CALL DOS
+       LD A,24
+       LD IX,12227; OUT (31),A
+       CALL DOS
+       POP BC
+       PUSH DE
+       PUSH BC
+       LD IX,12059
+       CALL DOS
+       POP BC
+       POP DE
+       INC E
+       INC H
+       BIT 4,E
+       JR NZ,SLED
+       DJNZ LOADT
+       RET
+SLED   INC D
+       LD E,0
+       DJNZ LOADT
+       RET
+DOS    PUSH IX; вызов процедур из TR-DOS
+       JP 15663
+
+P.S. В следующем номере журнала вы сможете
+найти красивые оконные процедурки;)
+
+(c) Predator/Fast Group
+
+   Полностью  согласен с  Eraserom. Я  да-
+леко не ассемблерный  монстр и сам по себе
+знаю,  что  очень  много  хороших  идей  у
+начинающих   разбиваются  о  всем  извест-
+ный   машинно-кодовый   барьер.  И  до  90
+процентов  -  это  незнание, как  оформить
+программу даже на примитивном  уровне, как
+организовать  хоть  какой-нибудь  интефейс
+с  пользователем. Поэтому   данный  раздел
+просто  необходим. Известные  издания (ZX-
+Format, допустим), начали публиковать ста-
+тьи на тему  "Асемблер для  начинающих", а
+мы  чем  хуже?  Неужели  в  славном  граде
+Барнауле не найдутся  кодеры? Они (хорошие
+и  не  очень) есть, но  их  мало, а  новых
+притоков действительно не видно.
+
+   Ну так вот, от себя я хочу добавить мои
+любимые окошки  из крутой книжки "Как  на-
+писать   игру   на  Ассемблере. Выпуск  2"
+(вдруг у кого ее нет)  и процедуру  печати
+текстовых  сообщений,аналогичную процедуре
+8252  из  ПЗУ,  но  работающую  раз  в  10
+быстрее. Так как печать символа переделана
+мною на  вариант с  использованием  стека,
+то  процедура   работает   раз   в   12-15
+быстрее,  что  особенно  заметно  при  пе-
+чати больших объемов текстов. Если Вы,ува-
+жаемые начинающие, видели мои   программки
+(ZX<>BMP  converter, Disk  Copy), то могли
+наблюдать эти  процедуры в  действии. Воз-
+можно, программы   покажутся   однообразно
+оформленными, но вся прелесть этих малень-
+ких процедурок в том,что они ЕСТЬ, стопро-
+центно рабочие  и  не  требуют  каких-либо
+переделок под конкретную  программу. Оста-
+остается  только сделать  include "window.
+a" и рисовать столько окошек, сколько нуж-
+но.Кстати, option  selector я  взял из ZX-
+Club #5.
+
+   Итак, процедура  window  строит   цвет-
+ное окошко нужных размеров в заданных  ко-
+ординатах, причем  окно окаймляется  и от-
+брасывает тень.
+
+window  inc (ix)
+        inc (ix+1)
+        ld a,(ix+4)
+        push af
+        ld (ix+4),1
+        call setw
+        dec (ix)
+        dec (ix+1)
+        pop af
+        ld (ix+4),a
+        call clsw
+        call setw
+        call box
+        ret
+
+setw    ld de,#5800
+        ld b,(ix+3)
+        ld c,(ix+2)
+        ld a,(ix+1)
+        ld l,a
+        ld h,0
+        add hl,hl
+        add hl,hl
+        add hl,hl
+        add hl,hl
+        add hl,hl
+        add hl,de
+        ld a,l
+        add a,(ix)
+        ld l,a
+        ld a,(ix+4)
+setw1   push bc
+        push hl
+setw2   ld (hl),a
+        inc hl
+        dec c
+        jr nz,setw2
+        pop hl
+        pop bc
+        ld de,32
+        add hl,de
+        djnz setw1
+        ret
+
+;---------------------------------------
+
+clsw    ld b,(ix+3)
+        ld c,(ix+2)
+        ld a,(ix+1)
+clsw1   push af
+        push bc
+        push de
+        call 3742
+        pop de
+        ld a,l
+        add a,(ix)
+        ld l,a
+        ld b,8
+clsw2   push hl
+        push bc
+        ld b,c
+clswЗ   ld (hl),0
+        inc hl
+        djnz clswЗ
+        pop bc
+        pop hl
+        inc h
+        djnz clsw2
+        pop bc
+        pop af
+        inc a
+        djnz clsw1
+        ret
+
+;---------------------------------------
+
+box     ld a,(ix+1)
+        push af
+        call 3742
+        ld a,l
+        add a,(ix)
+        ld l,a
+        ld b,(ix+2)
+box1    ld (hl),255
+        inc hl
+        djnz box1
+        ld b,(ix+3)
+        pop af
+box2    push af
+        push bc
+        call 3742
+        ld a,l
+        add a,(ix)
+        ld l,a
+        ld b,8
+boxЗ    push hl
+        ld a,(hl)
+        or 128
+        ld (hl),a
+        ld a,(ix+2)
+        add a,l
+        dec a
+        ld l,a
+        ld a,(hl)
+        or 1
+        ld (hl),a
+        pop hl
+        inc h
+        djnz boxЗ
+        pop bc
+        pop af
+        inc a
+        djnz box2
+        dec h
+        ld b,(ix+2)
+boxЧ    ld (hl),255
+        inc hl
+        djnz boxЧ
+        ret
+Пример использования окошек:
+ld ix,winO
+call window
+ret
+w
+inO   db 10,0,5,6,1*8+0
+Первый  параметр  задает  X, второй  Y,
+дальше - ширина и высота окна,а последний
+параметр - атрибуты окна, которые вычисля-
+ются   по  формуле: ink + 8 * paper + 64 *
+bright + 128 * flash.
+
+   А теперь процедура  печати сообщения. В
+регистре HL нужно задать адрес сообщения.В
+конце   сообщения   необходимо   поставить
+0. Процедура   полностью  понимает  управ-
+ляющие коду.Наиболее употребимые:22, X,Y -
+куда   выводить   текст; 16,  INK  -  цвет
+текста; 17, PAPER - цвет  бумаги; 18, флаг
+(0 или 1) - FLASH;  19,флаг - BRIGHT;  20,
+флаг - INVERSE; 21,флаг - OVER.  Процедура
+не требует переопределения к анала вывода,
+т.е. LD A,2:CALL 5633 больше не требуется.
+
+
+write   ld a,(hl)
+        inc hl
+        and a
+        ret z
+        cp " "
+        jr c,write2
+write1  call prsym
+        jr write
+write2  push hl
+        push bc
+        ld hl,table
+        ld c,a
+writeЗ  ld a,(hl)
+        inc hl
+        and a
+        jr z,writeS
+        cp c
+        jr z,writeЧ
+        inc hl
+        inc hl
+        jr writeЗ
+writeЧ  pop bc
+        ld a,(hl)
+        inc hl
+        ld h,(hl)
+        ld l,a
+        ex (sp),hl
+        ret
+writeS  pop bc
+        pop hl
+        ld a,"?"
+        jr write1
+pr_13   push hl
+        ld hl,(23684)
+        ld a,l
+        and %11100000
+        add a,#20
+        ld l,a
+        jr nz,pr13_1
+        ld a,h
+        add a,8
+        ld h,a
+        cp #58
+        jr c,pr13_1
+        ld h,#40
+pr13_1  ld (23684),hl
+        pop hl
+        jr write
+pr_16   ld a,(hl)
+        and %111
+        push bc
+        ld b,%11111000
+pr16_1  ld c,a
+        ld a,(iy+85)
+        and b
+        or c
+        ld (iy+85),a
+pr16_2  pop bc
+        inc hl
+        jr write
+pr_17   ld a,(hl)
+        and %111
+        rlca
+        rlca
+        rlca
+        push bc
+        ld b,%11000111
+        jr pr16_1
+pr_18   ld a,(hl)
+        and 1
+        push bc
+        ld b,%10111111
+pr18_1  rrca
+        jr pr16_1
+pr_19   ld a,(hl)
+        and 1
+        push bc
+        ld b,%10111111
+        rrca
+        jr pr18_1
+pr_20   ld a,(hl)
+        and 1
+        push bc
+        ld b,%11110111
+        rlca
+        rlca
+pr20_1  rlca
+        ld c,a
+        ld a,(iy+87)
+        and b
+        or c
+        ld (iy+87),a
+        jr pr16_2
+pr_21 ld a,(hl)
+        and 1
+        push bc
+        ld b,%11111101
+        jr pr20_1
+pr_22   ld a,(hl)
+        cp 24
+        jr nc,outscr
+        inc hl
+        push de
+        push hl
+        call 3742
+        pop de
+        ld a,(de)
+        cp 32
+        jr nc,outscr
+        inc de
+        add a,l
+        ld l,a
+        ld (23684),hl
+        pop hl
+        ex de,hl
+        jp write
+putscr  rst 8
+        db 4
+prsym   push bc
+        push de
+        push hl
+        ld l,a
+        ld h,0
+        add hl,hl
+        add hl,hl
+        add hl,hl
+        ld de,(23606)
+        add hl,de
+        ld de,(23684)
+        ex de,hl
+        push hl
+        ld b,8
+prs1    ld a,(de)
+        bit 3,(iy+87)
+        jr z,prs2
+        cpl
+prs2    bit 1,(iy+87)
+        jr z,prsЗ
+        xor (hl)
+prsЗ
+;--------------------------------------
+        ld (st2),de
+        ld (st1),sp
+        ld sp,#0000
+st2     equ $-2
+        pop de
+        ld (hl),e
+        inc h
+        ld (hl),d
+        inc h
+        pop de
+        ld (hl),e
+        inc h
+        ld (hl),d
+        inc h
+        pop de
+        ld (hl),e
+        inc h
+        ld (hl),d
+        inc h
+        pop de
+        ld (hl),e
+        inc h
+        ld (hl),d
+        inc h
+        ld sp,(st1)
+;--------------------------------------
+        pop hl
+        push hl
+        ld a,h  
+        and #18
+        rrca
+        rrca
+        rrca
+        add a,#58
+        ld h,a
+        ld a,(23695)
+        ld (hl),a
+        pop hl
+        inc l
+        jr nz,prsЧ
+        ld a,h
+        add a,8
+        ld h,a
+        cp #58
+        jr c,prsЧ
+        ld h,#40
+prsЧ    ld (23684),hl
+        pop hl
+        pop de
+        pop bc
+        ret
+table
+        db 13
+        dw pr_13
+        db 16
+        dw pr_16
+        db 17
+        dw pr_17
+        db 18
+        dw pr_18
+        db 19
+        dw pr_19
+        db 20
+        dw pr_20
+        db 21
+        dw pr_21
+        db 22
+        dw pr_22
+        db 0
+st1     dw 0
+
+─
+──────────────────────────────────DI:HALT

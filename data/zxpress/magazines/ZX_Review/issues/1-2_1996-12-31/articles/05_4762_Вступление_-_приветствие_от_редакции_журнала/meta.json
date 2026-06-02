@@ -1,0 +1,15 @@
+{
+  "magazine_id": 277,
+  "magazine_name": "ZX Review",
+  "city": null,
+  "country": null,
+  "issue_label": "1-2",
+  "issue_date_iso": "1996-12-31",
+  "order": 5,
+  "article_id": 4762,
+  "title_link": "Вступление - приветствие от редакции журнала.",
+  "title_h1": "ZX Review 1-2 - Вступление - приветствие от редакции журнала.",
+  "print_url": "https://zxpress.ru/print.php?id=4762",
+  "article_url": "https://zxpress.ru/article.php?id=4762",
+  "fetched_at": "2026-05-31T23:36:30Z"
+}

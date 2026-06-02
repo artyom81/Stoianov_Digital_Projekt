@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1996-02-02",
+  "order": 6,
+  "article_id": 8803,
+  "title_link": "TREE NEWS - Глючная BBS недели...",
+  "title_h1": "Lime Tree 12 - TREE NEWS - Глючная BBS недели...",
+  "print_url": "https://zxpress.ru/print.php?id=8803",
+  "article_url": "https://zxpress.ru/article.php?id=8803",
+  "fetched_at": "2026-05-31T22:19:31Z"
+}

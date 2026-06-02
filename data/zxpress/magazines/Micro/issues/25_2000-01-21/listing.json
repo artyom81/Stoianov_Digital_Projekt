@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 5238,
+    "article_url": "https://zxpress.ru/article.php?id=5238",
+    "print_url": "https://zxpress.ru/print.php?id=5238",
+    "title_link": "Сети - модемная связь и компьютерные сети.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "Сети_-_модемная_связь_и_компьютерные_сети"
+  },
+  {
+    "article_id": 5239,
+    "article_url": "https://zxpress.ru/article.php?id=5239",
+    "print_url": "https://zxpress.ru/print.php?id=5239",
+    "title_link": "AD&D - описания монстров AD&D (часть вторая).",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "ADD_-_описания_монстров_ADD_часть_вторая"
+  },
+  {
+    "article_id": 5240,
+    "article_url": "https://zxpress.ru/article.php?id=5240",
+    "print_url": "https://zxpress.ru/print.php?id=5240",
+    "title_link": "Проходилка - прохождение игры Die Feuerfaust 2.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Проходилка_-_прохождение_игры_Die_Feuerfaust_2"
+  }
+]

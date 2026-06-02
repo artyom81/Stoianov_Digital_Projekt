@@ -1,0 +1,15 @@
+{
+  "magazine_id": 75,
+  "magazine_name": "Fantom",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2000-01-05",
+  "order": 1,
+  "article_id": 17630,
+  "title_link": "От редакции - Здраствуйте, читатели! Вот уже и вышел третий номер электронной газеты \"FANTOM\".",
+  "title_h1": "Fantom 03 - От редакции - Здраствуйте, читатели! Вот уже и вышел третий номер электронной газеты \"FANTOM\".",
+  "print_url": "https://zxpress.ru/print.php?id=17630",
+  "article_url": "https://zxpress.ru/article.php?id=17630",
+  "fetched_at": "2026-05-31T22:05:01Z"
+}

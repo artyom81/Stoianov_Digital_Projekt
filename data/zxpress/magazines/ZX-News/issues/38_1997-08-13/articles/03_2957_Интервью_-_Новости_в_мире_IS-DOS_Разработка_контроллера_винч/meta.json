@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "38",
+  "issue_date_iso": "1997-08-13",
+  "order": 3,
+  "article_id": 2957,
+  "title_link": "Интервью - Новости в мире IS-DOS: Разработка контроллера винчестера IDE.\r\n PC-MODEM - подключение к ZX внутреннего HAYES-модема от IBM",
+  "title_h1": "ZX-News 38 - Интервью - Новости в мире IS-DOS: Разработка контроллера винчестера IDE.  PC-MODEM - подключение к ZX внутреннего HAYES-модема от IBM",
+  "print_url": "https://zxpress.ru/print.php?id=2957",
+  "article_url": "https://zxpress.ru/article.php?id=2957",
+  "fetched_at": "2026-05-31T23:29:44Z"
+}

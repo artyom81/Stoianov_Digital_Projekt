@@ -1,0 +1,15 @@
+{
+  "magazine_id": 30,
+  "magazine_name": "Book",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2003-02-05",
+  "order": 4,
+  "article_id": 16990,
+  "title_link": "Художественная литература - Фредерик Браун: \"Ещё не конец\"",
+  "title_h1": "Book 01 - Художественная литература - Фредерик Браун: \"Ещё не конец\"",
+  "print_url": "https://zxpress.ru/print.php?id=16990",
+  "article_url": "https://zxpress.ru/article.php?id=16990",
+  "fetched_at": "2026-05-31T21:44:47Z"
+}

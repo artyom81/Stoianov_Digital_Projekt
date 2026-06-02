@@ -1,0 +1,15 @@
+{
+  "magazine_id": 79,
+  "magazine_name": "Flash Info",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2001-07-20",
+  "order": 8,
+  "article_id": 13842,
+  "title_link": "Авторы - Это я писал весь этот текст, поэтому \r\n можете считать главным и единственным \r\n редактором этого номера.",
+  "title_h1": "Flash Info 20 - Авторы - Это я писал весь этот текст, поэтому  можете считать главным и единственным  редактором этого номера.",
+  "print_url": "https://zxpress.ru/print.php?id=13842",
+  "article_url": "https://zxpress.ru/article.php?id=13842",
+  "fetched_at": "2026-05-31T22:06:58Z"
+}

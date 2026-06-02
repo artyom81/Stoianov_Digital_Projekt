@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 14461,
+    "article_url": "https://zxpress.ru/article.php?id=14461",
+    "print_url": "https://zxpress.ru/print.php?id=14461",
+    "title_link": "Новость недели - я наконец-то\r\nдостал демки с FT'98.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Новость_недели_-_я_наконец-тодостал_демки_с_FT98"
+  },
+  {
+    "article_id": 14462,
+    "article_url": "https://zxpress.ru/article.php?id=14462",
+    "print_url": "https://zxpress.ru/print.php?id=14462",
+    "title_link": "Лучшее - журналы и игры.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Лучшее_-_журналы_и_игры"
+  },
+  {
+    "article_id": 14463,
+    "article_url": "https://zxpress.ru/article.php?id=14463",
+    "print_url": "https://zxpress.ru/print.php?id=14463",
+    "title_link": "Обзорчик - новые демки.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Обзорчик_-_новые_демки"
+  },
+  {
+    "article_id": 14464,
+    "article_url": "https://zxpress.ru/article.php?id=14464",
+    "print_url": "https://zxpress.ru/print.php?id=14464",
+    "title_link": "Анекдоты - юмор.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Анекдоты_-_юмор"
+  },
+  {
+    "article_id": 14465,
+    "article_url": "https://zxpress.ru/article.php?id=14465",
+    "print_url": "https://zxpress.ru/print.php?id=14465",
+    "title_link": "Доработки - Схема доработки AY на SCORPION ZS.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Доработки_-_Схема_доработки_AY_на_SCORPION_ZS"
+  },
+  {
+    "article_id": 14466,
+    "article_url": "https://zxpress.ru/article.php?id=14466",
+    "print_url": "https://zxpress.ru/print.php?id=14466",
+    "title_link": "Реклама - Продаю магнитофон Весна309-4.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Продаю_магнитофон_Весна309-4"
+  }
+]

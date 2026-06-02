@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16764,
+    "article_url": "https://zxpress.ru/article.php?id=16764",
+    "print_url": "https://zxpress.ru/print.php?id=16764",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16765,
+    "article_url": "https://zxpress.ru/article.php?id=16765",
+    "print_url": "https://zxpress.ru/print.php?id=16765",
+    "title_link": "Полезные советы - Не знаю как вы, но лично я сие обнаружил сравнительно недавно...",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "Полезные_советы_-_Не_знаю_как_вы_но_лично_я_сие_обнаружил_ср"
+  },
+  {
+    "article_id": 16766,
+    "article_url": "https://zxpress.ru/article.php?id=16766",
+    "print_url": "https://zxpress.ru/print.php?id=16766",
+    "title_link": "Дом 16а - продолжение рассказа.",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Дом_16а_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 16767,
+    "article_url": "https://zxpress.ru/article.php?id=16767",
+    "print_url": "https://zxpress.ru/print.php?id=16767",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16768,
+    "article_url": "https://zxpress.ru/article.php?id=16768",
+    "print_url": "https://zxpress.ru/print.php?id=16768",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16769,
+    "article_url": "https://zxpress.ru/article.php?id=16769",
+    "print_url": "https://zxpress.ru/print.php?id=16769",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "36",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "0000-01-01",
+  "order": 21,
+  "article_id": 15803,
+  "title_link": "Почта - Привет, Wolfgang. ещё не забыл меня?",
+  "title_h1": "MSF 25 - Почта - Привет, Wolfgang. ещё не забыл меня?",
+  "print_url": "https://zxpress.ru/print.php?id=15803",
+  "article_url": "https://zxpress.ru/article.php?id=15803",
+  "fetched_at": "2026-05-31T22:30:13Z"
+}

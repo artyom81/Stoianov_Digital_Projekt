@@ -1,0 +1,446 @@
+ACNews 65 - ATM-Turbo and others ZX Spectrum clones , history of Profi computer
+ATM-Turbo and others
+by Alone Coder
+corrected by Lord Vader
+During the Soviet microcomputer revolution, the mass character
+of production definitely was not provided by radio amateurs.
+Most computers were made by factories
+(sometimes converted
+defense plants, so a manual for one computer named "IMPULS" was
+an official document 3.098.018 D15 with stamps and a list of
+registered changes), and also by various firms.
+One of such firms was an operating department
+"ATM-COMPUTER" of
+"ATM" (that stood for
+"Associaciya Tvorcheskoy Molodezhi" -
+"Association of Creative Youth" ), later said to be named
+AOZT
+"ATM" ("ATM" for
+"Association for Technics and
+Microelectronics"). They were based at VDNKh and Dom Kultury i
+Tekhniki "Sozidatel" (center for culture and technics 
+"Creator"). In 1990
+(Radio 11-1990 p.30) they sold books,
+circuit diagrams, flashed ROMs - and produced a ZX Spectrum 128
+compatible computer with a disk drive and a printer port. They
+mentioned specially that it had 128K of RAM, maybe because
+Hobbit was advertized as 128K (RAM+ROM). This computer is easily 
+identified as "Pentagon 128" also known as "Pentagon 2+" and
+"ATM-128"
+(МНОГОФУНКЦИОНАЛЬНЫЙ КОМПЬЮТЕР ATM-TURBO. - АТМ-ПРЕСС,
+1992 p.4).
+"ATM" mentioned it later in their ads as their
+development
+(Radio 9-1991 p.75). One known layout even has
+"ATM
+1991" label on it:
+http://sblive.narod.ru/ZX-Spectrum/Pentagon128k/Pentagon128k.htm
+Of course, a private enterprise could not match the production
+numbers of factory-made Speccies, especially when Speccy ULA
+clone TЗЧVG1 appeared. The number of Speccies by the end of the
+era might exceed one million, as they were more widespread than
+the official one million of BKOO10's, DVK's, and UKNC's
+combined - but these Speccies were mostly tape-driven 48K
+intended for gaming. The guys from
+"ATM" didn't target that
+market. They wanted to sell Spectrum as an alternative to IBM
+PC, for a minority user - a "serious" customer. 
+
+The main rival of
+"ATM" in Moscow was not IBM, but a subsidiary
+of Russian-Spanish-Lebanese joint venture
+"Kramis", named
+"Profi"
+(Radio 8-1992 p.63, 8-1994). Later ads and resources
+used another name:
+TOO "Condor" or "Condor (Kramis)", with
+another location and phone - the location was "Library for youth
+#214". Compare it with
+ATM's location. Or compare with a phone
+in C-64 demo "Meaning of Death"
+(1993) - located in "Moscow City
+Palace of Child (Youth) Creativity". 
+
+The research of these names is like a detective story.
+"Profi"
+might be an unregistered part of
+JV "Kramis" ( "Kramis" produced
+wallpaper and woodwork, not computers), and
+"Condor" might be
+its name after registration. The only likely
+"Condor" whose
+traces can be found online is
+TOO "Condor" headed by Tadeusz
+Radjusz, known Polish publisher who started with computer
+business
+(see his interview in Wyborcza
+http://wyborcza.pl/1,75248,140079.html ). This
+"Condor" is now
+defunct - the address and phone are now occupied by political
+organization named
+"Black Hundred" (its leader Alexander
+Stillmark was a brother of
+Radjusz's wife). If this Radjusz was
+the businessman behind Profi, we must mention his work in
+Soviet-Polish "Computer" magazine (1990-1991) and the fact that
+Radjusz was the first FidoNet user in Moscow (also around 1990):
+! ----- цитата из FIDONET.HISTORY FAQ -----
+!
+Там была семья: муж-поляк Тадеуш Радюш [так он печатался в
+!
+журнале в русской транскрипции -- Stanislav Efimov,
+!
+2:5020/525.1024] и жена-русская Лена Радюш. Собственно узлом
+!
+и BBS занималась Елена.
+!
+Стояло это все хозяйство у них дома в районе
+!
+м."Краснопресненская".
+!
+А еще был - а может еще и сейчас есть - советско-польский
+!
+журнал "Компьютер", издававшийся здесь притом, что макеты
+!
+делали в Польше.
+!
+Елена сотрудничала с этим журналом. Русские статьи - примерно
+!
+половина объема журнала - передавались отсюда туда mailer'ом
+!
+прямыми звонками, а назад качались уже свеpстанные варианты.
+!
+Ну, а BBS была вроде как для порядка - компьютерный журнал
+!
+всеж-таки. Стояло все это хозяйство на 386/25, модем 2400/MNP,
+!
+BT 2.20/2.30 и RA 0.04. Сам Тадеуш, хотя и фигурировал в
+!
+nodelist'е и в заставках, к узлу не подходил, а занимался
+!
+коммерцией.
+! ----- конец цитаты -----
+Radjusz wrote an article about Betadisk in this magazine.
+There also were rumours that
+Radjusz brought Beta 128 Disk
+Interface in USSR, however the first clone was produced in 
+early 1988 by other people -
+Sergey Pacyuk and Vyacheslav
+Bogomyatov from
+NTK "Plus", Moscow (after the schematics from
+some unknown Czech magazine). That same Beta 128 that became the
+standard for "serious" clones in USSR being virtually unknown
+outside, unlike the original Betadisk.
+
+This
+"Kramis"/"Profi"/"Condor" released its Profi computer in
+late spring of 1991
+(date from Turbo2+ book by MicroART; no
+earlier ads known), and that was possibly the first mass
+produced Spectrum clone with AY-8910/12 sound chip, and also
+with 256 to 512K RAM, high resolution graphics and turbo mode.
+Byte-01 computer produced in Brest had high resolution and a 
+disk drive by 1991 with CP/M to appear by 1992
+(copyright 1990,
+but still missing in Radio 7-92 p.26). And
+Sergey Zonov in
+St.Petersburg developed ZS Scorpion with 256K RAM and
+(later,
+under the influence of Hobbit - see interviews in ZX-Format #2
+and #6) a shadow monitor... And everybody in this market
+provided a printer connection.
+
+The reader must know that there is a widespread misdating of
+Scorpion launch, based on
+Zonov's interview in ZX-Format #2. In
+fact,
+Zonov hadn't made the circuit layout by summer of 1991. If
+we combine all the sources, he showed the prototype on Leningrad
+board with extra wiring in October 1991
+(just as MOA and
+Rodionov's book "ZX Spectrum for users and programmers" came out
+- 16.10.91). Incidentally, "MEGA SOUND 128" demo by
+Vasilyev
+Anton was written just then (10.10.91 - seemingly the first
+Russian Speccy music demo),
+Vasilyev Anton is known to work for
+Zonov (his patch of Song in Lines special for
+Zonov, 1993).
+Scorpion ROM copyright is 1992-1994, Shadow monitor copyright is 
+1993-1994, Scorpion manual was printed in 1993, CP/M was adapted
+for Scorpion in 1992-1994, and the first Scorpion ads were
+mid-1993
+("new development" ad in "System programs for ZX
+Spectrum" issued 15.8.93 by Piter, surprisingly mentioning CP/M
+support). Moreover, iS-DOS programmer
+Alexey Leontyev (also from
+St.Petersburg) even thought that Scorpion came out later than
+ZX-Next 512
+(Open Letters, 28.7.99: he quotes date for
+nextS12.hlp - help for ZX-Next iS-DOS driver - as 11.10.93):
+"Очень  обрадовался  за  Вас, узнав, что у
+Вашего  ZXNEXT  целых  512  kB ОЗУ. Также
+можно  порадоваться  и  за  многих других
+владельцев   данного   компьютера.   Файл
+nextS12.hlp  датирован  аж 11.10.93, т.е.
+москвичи  получили полумегабайтную машину
+чуть  ли  не раньше, чем в Питере сделали
+256-килобайтную."
+"ATM" couldn't make less. And the needed machine was developed
+for
+"ATM" by its creative team "MicroART", based on their
+version of Pentagon
+(see above, they quoted the fact once more
+in their Turbo2+ book). Note that the original Pentagon (48K)
+was not their work, it was invented in 1989 by a radio amateur
+Vladimir Drozdov
+RAЗAO
+(information from Konstantin Sviridov).
+"ATM" continued to sell Pentagons, too, as
+"Profi" sold
+"Nadezhda" 128K machine
+(Radio 8-1994).
+"ATM" also worked jointly with a firm named
+"INTER-LINK" that
+produced various connectors and TV adapters
+(Radio 8-1992 p.63).
+ATM-Turbo (initially "АТМ-СР" that could possibly stand for 
+"sovmestnaya razrabotka" - "joint development") was launched in
+1991
+(Radio 9-1991, p.75).
+Later
+"MicroART" parted with "ATM" and started to produce
+computers on its own. They were named (ATM)Turbo 2 and Turbo 2+,
+with little difference to
+ATM's ATM-Turbo 2. There is a
+copyright problem: for example, ATM 4.20 scheme has
+(c) MICROART
+on it, while 4.50 and 6.2A (from some album) haven't one. Of
+course, the schematics of ATM-Turbo 2 were undisputably
+developed by
+"MicroART".
+"MicroART" also made modems and ROM programmers, printed books,
+and sold PCs. Now they produce electrical equipment.
+
+                             * * *
+
+What
+"MicroART" did actually to the machine?
+The first was memory.
+
+128K of RAM in Pentagon 128 are changed for 512K almost
+mechanically. Hovewer, program adaptation was a big issue.
+Programs could access any, even crazy, port numbers, they could
+address port
+#FD, even with non-standard bits in it. And any
+non-working program could make the "serious" customer angry.
+Each of the clone vendors used their own port, so did ATM-Turbo
+(#FDFD).
+And they guessed wrong (there's no ideal port number) - so in
+1992, in ATM-Turbo 2, they hid the port, addressing it as
+Betadisk ports (in 2+ they also made 1 Megabyte RAM). This made 
+good compatibility at last. This decision also allowed adding
+three more ports to switch RAM in other 16K addressing windows.
+Sadly this required rewriting all the specially written software.
+
+In 1991-1992, the idea of rapidly growing business was in the
+air. Every vendor thought that programmers would support his
+standard and there will be a lot of software to sell their clone
+with. And all the vendors reserved Spectrum 128K compatibility
+despite the low number of 128K software then. Vendors were even
+ready to sponsor software development, as it was in case of
+Zonov.
+"Condor" and "MicroART" had their own programmers in the
+team. But they needed an operating system.
+
+While the commercial blockbuster iS-DOS hadn't made its launch,
+there was only one option, CP/M.
+This operating system was a standard for Z80, it had a lot of
+software and was already used in Spectrum world at Timex
+Sinclair 2048/2068, ZX Spectrum +3, also in Polish and Romanian 
+clones, in Czech devices by
+LEC and Sinsoft, at Aerco FD-68
+Floppy Disc Drive, and probably elsewhere. 
+
+While
+MOA (Andrew Larchenko) was adapting CP/M for Scorpion, and
+Caro (Kamil' Karimov) for Kvorum -- Profi and ATM-Turbo (as well
+as Byte ) were already provided with CP/M. In case of ATM-Turbo
+it was even in ROM (optionally) and with TR-DOS formatted disks
+(also optionally).
+
+There is a possibility that CP/M for ATM-Turbo was not ready by
+1991 because it wasn't mentioned in the ads. The same with
+Profi. 
+
+Interestingly,
+MicroART's archives contained documentation for
+СМ1800 (SM1800, Soviet 8080-compatible workstation from 1979) -- 
+did the authors adapt CP/M from there?
+
+CP/M had a big help from extra graphics. 
+
+Unlike Timex, Profi, and Byte, extra graphics in ATM-Turbo was
+designed to match that of IBM PC:
+320x200 and 640x200 (that was
+better for standard 80 characters in CP/M ). Also even the first
+version of ATM-Turbo had the high resolution graphics coloured.
+It also had 16 colours per pixel mode. Profi was blamed for its
+absence in parody Best 0 Super Demo (it was an answer for Profi
+advertizement once made by
+THD software company) in 1993, but it
+was too late.
+"Condor" added colours and was not ready to
+continue the development, later switching to Amiga
+(see X-Ray
+#01).
+"MicroART" took a risk and added a textmode in Turbo 2. It
+proved to be simple, and the computer was still one board (Profi
+had two). ATM-Turbo was designed for "Mikrosha" (Soviet
+8080 clone based home microcomputer) case. ( Scorpion - for
+"Korvet" case. Byte and Profi had their own cases.) 
+
+How the colour-per-pixel mode was done on a Russian Speccy
+clone? Quite simple.
+1. Make a hardware mulicolor (just address multiplexing).
+2. Make it work with frequency twice as high (the authors used
+both RAM lines at once, to avoid stopping the CPU) and use one 
+more address bit. So we have hires mode. 
+3. Initially we read in attribute register and pixel register.
+Instead of this, make it read only in attribute register and 
+commute meander instead of pixel data. So we get the following 
+bit placement: %RLRRRLLL (LLLL=left pixel, RRRR=right pixel). 
+Later the 1бcol addon for Pentagon was made the same way. 
+4. Finally detach the higher addresses from screen geometry
+counters in separate counter, and change the border logic to 
+make 320x200. Authors put the needed logic in simple 
+programmable logic array (like Scorpion authors; Profi and 
+ZX-Next used ROM for this). This was needed anyway -- first, to 
+keep the chips number low having corrected TV raster (Pentagon's 
+exotic raster was born to save chips, and it was a sensitive 
+issue that time, discussed in ZX-Review), and second, to 
+copy-protect the board. (Only later all the ATM-Turbo 
+documentation was released in public domain.) One funny thing 
+about this PLA logic was a possibility of hardware vertical 
+scroll (see Catdemo and Info Guide #10), accessible no easier 
+than Atari ST's one :) 
+[http://www.pouet.net/topic.php?which=6844&page=1]
+Graphics output was connected to a palette circuit and a SECAM
+coder. That SECAM coder could be from
+INTER-LINK, and it was
+removed later.
+The palette is organized as an external device. Colour number to
+use both for display and for colour change is determined with
+RGBI signal from the computer, and the data for colour is taken
+from CPU databus when CPU accesses one of "disk controller"
+ports. Late
+DDp's scheme to attach to Pentagons et al
+(http://realddp.narod.ru/zx/palЧЧ4/index.htm) had 4096 colours
+and used data also from higher part of address bus (they match
+databus if you access the port via
+OUT (255),A -- all the known
+programs do it this way so it's compatible). But originally
+there were 64 colours as in EGA. Just to convert PC software,
+especially games.
+
+As in Profi, the first ATM-Turbo games were copies of IBM PC
+games.
+However
+"MicroART" didn't stop at Color Lines and Mine. They
+also ported Prince of Persia and Gobliiins. The ports were so
+close that even the passwords matched the originals!
+Commercial ATM-Turbo games were also written by
+"MacroSystems
+Laboratory" and maybe somebody else.
+All the commercial development ended around 1996. However in XXI
+century, when new incarnations of ATM-Turbo appeared (initially
+from
+NedoPC ), the number of games reached 40, and the total
+number of software titles is around 300
+(http://alonecoder.nedopc.com/atmsoft.txt). Even if we don't
+count software that requires only DAC.
+
+Games needed graphics -- and sound.
+
+Sound chip named AY-8910/12 was the only foreign part in
+ATM-Turbo schematics that couldn't be substituted with parts 
+made in USSR. (Expensive 27512 ROM chip could be changed to
+smaller 57ЗRF2 to load the operating system from disk or even
+tape.) However you could do without AY-8910/12. There was an
+8-bit DAC in printer port (ZX Lprint's port
+#FB, as in Pentagon
+128 ), and you could hear IBM PC's digital music with it. The 
+replayer was sold as "Scream Tracker Player" or simply "COVOX".
+Profi also had one, and Profi authors even supported stereo 
+sound at the cost of non-standard printer ports.
+
+Initially ATM-Turbo included a modem based on this DAC. One
+known program to use it was
+"АОН-Секретарь" ("Phone number
+detector and secretary"). But later the authors removed the
+modem to sell it as an external device, keeping only DAC and ADC
+on the board.
+
+A lot of digital music must be saved somewhere, so the user
+needed an HDD.
+
+ATM-Turbo 2 contained seemingly the world's first IDE controller 
+for ZX Spectrum, maybe even the first HDD controller for it
+(
+Tyrsin's
+MFM controller shown at
+IskraSoft
+headquarters was
+also developed in 1992 - see ZX-Format #5: "IDE HDD"). This time
+ATM-Turbo authors surpassed Profi authors. 
+
+The first ad of ATM-Turbo 2 was published in Radio 10-1992 p.63
+-- note 1992, not 1993 as it was believed before! Sadly IDE
+controller was not mentioned in the ad so we don't know when it
+got worked, possibly in 1993 when its schematics were published
+(incomplete ATM 6.00 scheme has N11,N12 instead of IDE's
+D32,D34) -- but still the first IDE controller for ZX Spectrum.
+This controller was a full-scale IDE interface. CD-ROM could be
+connected to it but CD-ROMs were beyond the reach. When CD-ROMs
+became widespread, ATM-Turbo even played CD video -- not bad for
+USSR technology!
+HDD support was included in CP/M (i.e. in ROM), so the computer 
+once again approached IBM PC possibilities.
+
+These PCs became cheaper and cheaper and spoiled the business.
+(Later MicroART, like other competitors, was also forced to sold
+them -- see Radio 2-94 p.47. Profi authors sold Amigas.) At the
+same time the popular 58-keyboard with Russian letters except
+"Й" (who made it?) slowly disappeared, and IBM's consumer goods
+were used instead. This needed a keyboard controller.
+
+Authors installed in ATM-Турбо 2+ a microcontroller named
+181бVEЗ1 ( i8031 compatible). Its firmware provided serial 
+interface and XT keyboard support (later AT keyboard). A mouse
+could be connected to serial interface, but software for this
+setup is not yet found. Instead,
+Kamil' Karimov connected a
+modem in 2005 and managed to ping the Internet.
+
+The first versions of ATM-Turbo had a "turbo" switch that could
+be installed in "Mikrosha" case or old PC case. But "Mikrosha"
+cases turned to be rare, and newer PC cases had no "turbo"
+button. Maybe this was the reason why the switch was changed to
+a port (thanks to the fact that the ports became hidden). With
+these hidden ports a "compatibility switch" (that was in Profi )
+was also unneeded, and there was no place for it, too.
+
+A side connector (as in Profi ) was also impossible to install
+in а PC case. ATM-Turbo had no system bus, there were just a
+couple of ports to attach a PROM programmer. So when General
+Sound appeared in 1996, it had to be attached by soldering wires 
+to the board. ATM-Turbo 2+ unit owned by
+Maksagor is one
+example.
+Maksagor also said that Zorel (who is known for
+new ATM-Turbo board) also develops another version of the
+board, with old chips but with an expansion slot like Scorpion's
+(ZX-BUS). There are already implementations of ATM-Turbo 2+ on 
+modern FPGA hardware: ZX Evo and Pentagon 2.6ббLE. FPGA
+emulators allow to make ATM-Turbo 2+ from its ancestor Pentagon 
+just with changing about 200 lines of code.

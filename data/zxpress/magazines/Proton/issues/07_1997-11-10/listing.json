@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16560,
+    "article_url": "https://zxpress.ru/article.php?id=16560",
+    "print_url": "https://zxpress.ru/print.php?id=16560",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16561,
+    "article_url": "https://zxpress.ru/article.php?id=16561",
+    "print_url": "https://zxpress.ru/print.php?id=16561",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16562,
+    "article_url": "https://zxpress.ru/article.php?id=16562",
+    "print_url": "https://zxpress.ru/print.php?id=16562",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16563,
+    "article_url": "https://zxpress.ru/article.php?id=16563",
+    "print_url": "https://zxpress.ru/print.php?id=16563",
+    "title_link": "Обо всём на свете - Подсветка выключателя. Дежурное освещение.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Обо_всем_на_свете_-_Подсветка_выключателя_Дежурное_освещение"
+  },
+  {
+    "article_id": 16564,
+    "article_url": "https://zxpress.ru/article.php?id=16564",
+    "print_url": "https://zxpress.ru/print.php?id=16564",
+    "title_link": "Железо - В этом номере я продолжу разбор работы БИС DN-01.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Железо_-_В_этом_номере_я_продолжу_разбор_работы_БИС_DN-01"
+  },
+  {
+    "article_id": 16565,
+    "article_url": "https://zxpress.ru/article.php?id=16565",
+    "print_url": "https://zxpress.ru/print.php?id=16565",
+    "title_link": "Игрушки - RICK DANGEROUS 2.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Игрушки_-_RICK_DANGEROUS_2"
+  },
+  {
+    "article_id": 16566,
+    "article_url": "https://zxpress.ru/article.php?id=16566",
+    "print_url": "https://zxpress.ru/print.php?id=16566",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16567,
+    "article_url": "https://zxpress.ru/article.php?id=16567",
+    "print_url": "https://zxpress.ru/print.php?id=16567",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

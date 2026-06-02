@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-10-31",
+  "order": 9,
+  "article_id": 8894,
+  "title_link": "Прогноз - Астрологический прогноз на SPECCY.",
+  "title_h1": "Echo 01 - Прогноз - Астрологический прогноз на SPECCY.",
+  "print_url": "https://zxpress.ru/print.php?id=8894",
+  "article_url": "https://zxpress.ru/article.php?id=8894",
+  "fetched_at": "2026-05-31T22:00:08Z"
+}

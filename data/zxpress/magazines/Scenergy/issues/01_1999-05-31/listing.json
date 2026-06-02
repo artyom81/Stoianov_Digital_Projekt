@@ -1,0 +1,362 @@
+[
+  {
+    "article_id": 3545,
+    "article_url": "https://zxpress.ru/article.php?id=3545",
+    "print_url": "https://zxpress.ru/print.php?id=3545",
+    "title_link": "Chars - чарты со 116 анкет собраных коллективом\r\nScenergy.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Chars_-_чарты_со_116_анкет_собраных_коллективомScenergy"
+  },
+  {
+    "article_id": 3547,
+    "article_url": "https://zxpress.ru/article.php?id=3547",
+    "print_url": "https://zxpress.ru/print.php?id=3547",
+    "title_link": "Charts - лучшие: Organizer, Musician, Coder, Cracking group, Scener, Group, Demo, Mazazine, Party.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Charts_-_лучшие_Organizer_Musician_Coder_Cracking_group_Scen"
+  },
+  {
+    "article_id": 3546,
+    "article_url": "https://zxpress.ru/article.php?id=3546",
+    "print_url": "https://zxpress.ru/print.php?id=3546",
+    "title_link": "Charts - лучшие: Single Coder, Cracker, Graphilian, Organizer, Musician,\r\n Group, Site.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Charts_-_лучшие_Single_Coder_Cracker_Graphilian_Organizer_Mu"
+  },
+  {
+    "article_id": 3548,
+    "article_url": "https://zxpress.ru/article.php?id=3548",
+    "print_url": "https://zxpress.ru/print.php?id=3548",
+    "title_link": "Charts - Статистика - цифры и размышления.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Charts_-_Статистика_-_цифры_и_размышления"
+  },
+  {
+    "article_id": 3540,
+    "article_url": "https://zxpress.ru/article.php?id=3540",
+    "print_url": "https://zxpress.ru/print.php?id=3540",
+    "title_link": "Coding - Драйвер RAM DISK'а для ZX-Spectrum'128.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Coding_-_Драивер_RAM_DISKа_для_ZX-Spectrum128"
+  },
+  {
+    "article_id": 3541,
+    "article_url": "https://zxpress.ru/article.php?id=3541",
+    "print_url": "https://zxpress.ru/print.php?id=3541",
+    "title_link": "Coding - О пользе макросов или TASM 4.12 - RULEZ!",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Coding_-_О_пользе_макросов_или_TASM_412_-_RULEZ"
+  },
+  {
+    "article_id": 3538,
+    "article_url": "https://zxpress.ru/article.php?id=3538",
+    "print_url": "https://zxpress.ru/print.php?id=3538",
+    "title_link": "Coding - реализация Phong Bump Mapping на Speccy.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Coding_-_реализация_Phong_Bump_Mapping_на_Speccy"
+  },
+  {
+    "article_id": 3539,
+    "article_url": "https://zxpress.ru/article.php?id=3539",
+    "print_url": "https://zxpress.ru/print.php?id=3539",
+    "title_link": "Coding - Синхронизация с музыкой в демах.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Coding_-_Синхронизация_с_музыкои_в_демах"
+  },
+  {
+    "article_id": 3533,
+    "article_url": "https://zxpress.ru/article.php?id=3533",
+    "print_url": "https://zxpress.ru/print.php?id=3533",
+    "title_link": "Cracking Scene - крэк конкурс.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Cracking_Scene_-_крэк_конкурс"
+  },
+  {
+    "article_id": 3532,
+    "article_url": "https://zxpress.ru/article.php?id=3532",
+    "print_url": "https://zxpress.ru/print.php?id=3532",
+    "title_link": "Cracking Scene - Нелегальная сцена на Speccy.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Cracking_Scene_-_Нелегальная_сцена_на_Speccy"
+  },
+  {
+    "article_id": 3535,
+    "article_url": "https://zxpress.ru/article.php?id=3535",
+    "print_url": "https://zxpress.ru/print.php?id=3535",
+    "title_link": "Demo Parrt - место проведения CC'999.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Demo_Parrt_-_место_проведения_CC999"
+  },
+  {
+    "article_id": 3536,
+    "article_url": "https://zxpress.ru/article.php?id=3536",
+    "print_url": "https://zxpress.ru/print.php?id=3536",
+    "title_link": "Demo Party - мрачный мысли Random'a: \"Что мне надо сделать для того, чтобы вы повери в Конструкции Хаоса'999?\"",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Demo_Party_-_мрачныи_мысли_Randoma_Что_мне_надо_сделать_для"
+  },
+  {
+    "article_id": 3534,
+    "article_url": "https://zxpress.ru/article.php?id=3534",
+    "print_url": "https://zxpress.ru/print.php?id=3534",
+    "title_link": "Demo Party - новое демопати: Конструкции Хаоса'999 - прошлое и будущее.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Demo_Party_-_новое_демопати_Конструкции_Хаоса999_-_прошлое_и"
+  },
+  {
+    "article_id": 3537,
+    "article_url": "https://zxpress.ru/article.php?id=3537",
+    "print_url": "https://zxpress.ru/print.php?id=3537",
+    "title_link": "Demo Party - Про Fun Top и всех-всех-всех... (запоздалый репортаж Serzh'a в 5-ти частях)",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Demo_Party_-_Про_Fun_Top_и_всех-всех-всех_запоздалыи_репорта"
+  },
+  {
+    "article_id": 3524,
+    "article_url": "https://zxpress.ru/article.php?id=3524",
+    "print_url": "https://zxpress.ru/print.php?id=3524",
+    "title_link": "Demoscene - Chaosite - технические данные по Хаосайту.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_Chaosite_-_технические_данные_по_Хаосаиту"
+  },
+  {
+    "article_id": 3527,
+    "article_url": "https://zxpress.ru/article.php?id=3527",
+    "print_url": "https://zxpress.ru/print.php?id=3527",
+    "title_link": "Demoscene - история возникновения, состав и софтография Omega Hackers Group.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_история_возникновения_состав_и_софтография_Omega"
+  },
+  {
+    "article_id": 3526,
+    "article_url": "https://zxpress.ru/article.php?id=3526",
+    "print_url": "https://zxpress.ru/print.php?id=3526",
+    "title_link": "Demoscene - новая Новгородоская группа \"RaZZLeRS\".",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_новая_Новгородоская_группа_RaZZLeRS"
+  },
+  {
+    "article_id": 3525,
+    "article_url": "https://zxpress.ru/article.php?id=3525",
+    "print_url": "https://zxpress.ru/print.php?id=3525",
+    "title_link": "Demoscene - Открытое письмо для сцены и Kano лично.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_Открытое_письмо_для_сцены_и_Kano_лично"
+  },
+  {
+    "article_id": 3528,
+    "article_url": "https://zxpress.ru/article.php?id=3528",
+    "print_url": "https://zxpress.ru/print.php?id=3528",
+    "title_link": "Demoscene - состав и контакты литовской группы zERo.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_состав_и_контакты_литовскои_группы_zERo"
+  },
+  {
+    "article_id": 3520,
+    "article_url": "https://zxpress.ru/article.php?id=3520",
+    "print_url": "https://zxpress.ru/print.php?id=3520",
+    "title_link": "Editorial - Информационный раздел - INDEX...",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Editorial_-_Информационныи_раздел_-_INDEX"
+  },
+  {
+    "article_id": 3549,
+    "article_url": "https://zxpress.ru/article.php?id=3549",
+    "print_url": "https://zxpress.ru/print.php?id=3549",
+    "title_link": "Groups - статистика об активных группах: Digital Reality",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Groups_-_статистика_об_активных_группах_Digital_Reality"
+  },
+  {
+    "article_id": 3523,
+    "article_url": "https://zxpress.ru/article.php?id=3523",
+    "print_url": "https://zxpress.ru/print.php?id=3523",
+    "title_link": "News - Codebuster украли трек у Zhenya? Сайт Fatality переехал. Extreme уходит со спектрума. Ждать ли 4-й номер Subliminal Extacy? Литовская группа Zer0 больше не сущесвует. Phantasy вернулась на сцену! Проблемы с Complex compo. Споры об ассоциациях.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "News_-_Codebuster_украли_трек_у_Zhenya_Саит_Fatality_перееха"
+  },
+  {
+    "article_id": 3530,
+    "article_url": "https://zxpress.ru/article.php?id=3530",
+    "print_url": "https://zxpress.ru/print.php?id=3530",
+    "title_link": "Sceneexplorer - Conments - по материалам анкет: \"Что думате о Sprinter и GMX\", \"где берете программы\", \"в каких сетях есть адреса\".",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Sceneexplorer_-_Conments_-_по_материалам_анкет_Что_думате_о"
+  },
+  {
+    "article_id": 3529,
+    "article_url": "https://zxpress.ru/article.php?id=3529",
+    "print_url": "https://zxpress.ru/print.php?id=3529",
+    "title_link": "Sceneexplorer - Результаты анкетирования.",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Sceneexplorer_-_Результаты_анкетирования"
+  },
+  {
+    "article_id": 3531,
+    "article_url": "https://zxpress.ru/article.php?id=3531",
+    "print_url": "https://zxpress.ru/print.php?id=3531",
+    "title_link": "Sceneexplorer - Список участников анкетирования.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "Sceneexplorer_-_Список_участников_анкетирования"
+  },
+  {
+    "article_id": 3521,
+    "article_url": "https://zxpress.ru/article.php?id=3521",
+    "print_url": "https://zxpress.ru/print.php?id=3521",
+    "title_link": "Scenergy - Как с нами связаться.",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Scenergy_-_Как_с_нами_связаться"
+  },
+  {
+    "article_id": 3522,
+    "article_url": "https://zxpress.ru/article.php?id=3522",
+    "print_url": "https://zxpress.ru/print.php?id=3522",
+    "title_link": "Scenergy - Работа со Scenrgy Setup.",
+    "order": 27,
+    "issue_label": "01",
+    "short_slug": "Scenergy_-_Работа_со_Scenrgy_Setup"
+  },
+  {
+    "article_id": 3542,
+    "article_url": "https://zxpress.ru/article.php?id=3542",
+    "print_url": "https://zxpress.ru/print.php?id=3542",
+    "title_link": "V.I.P. - Интервью c Дэвидом Брабеном, автором великой игры Elite.",
+    "order": 28,
+    "issue_label": "01",
+    "short_slug": "VIP_-_Интервью_c_Дэвидом_Брабеном_автором_великои_игры_Elite"
+  },
+  {
+    "article_id": 3543,
+    "article_url": "https://zxpress.ru/article.php?id=3543",
+    "print_url": "https://zxpress.ru/print.php?id=3543",
+    "title_link": "V.I.P. - Интервью с галандской демо группой The Lords.",
+    "order": 29,
+    "issue_label": "01",
+    "short_slug": "VIP_-_Интервью_с_галандскои_демо_группои_The_Lords"
+  },
+  {
+    "article_id": 3544,
+    "article_url": "https://zxpress.ru/article.php?id=3544",
+    "print_url": "https://zxpress.ru/print.php?id=3544",
+    "title_link": "V.I.P. - Интервью с Московской Спектрумовской командой - Cosmic (Progress).",
+    "order": 30,
+    "issue_label": "01",
+    "short_slug": "VIP_-_Интервью_с_Московскои_Спектрумовскои_командои_-_Cosmic"
+  },
+  {
+    "article_id": 3552,
+    "article_url": "https://zxpress.ru/article.php?id=3552",
+    "print_url": "https://zxpress.ru/print.php?id=3552",
+    "title_link": "Warez Pack - Описания приложения журнала: Energy Trackmo, Forever: Final Release, Yes.",
+    "order": 31,
+    "issue_label": "01",
+    "short_slug": "Warez_Pack_-_Описания_приложения_журнала_Energy_Trackmo_Fore"
+  },
+  {
+    "article_id": 3551,
+    "article_url": "https://zxpress.ru/article.php?id=3551",
+    "print_url": "https://zxpress.ru/print.php?id=3551",
+    "title_link": "Warez Pack - Описания приложения журнала: First Association",
+    "order": 32,
+    "issue_label": "01",
+    "short_slug": "Warez_Pack_-_Описания_приложения_журнала_First_Association"
+  },
+  {
+    "article_id": 3553,
+    "article_url": "https://zxpress.ru/article.php?id=3553",
+    "print_url": "https://zxpress.ru/print.php?id=3553",
+    "title_link": "Warez Pack - Описания приложения журнала: Pussy: Love from Titanic, CrossWord.",
+    "order": 33,
+    "issue_label": "01",
+    "short_slug": "Warez_Pack_-_Описания_приложения_журнала_Pussy_Love_from_Tit"
+  },
+  {
+    "article_id": 3550,
+    "article_url": "https://zxpress.ru/article.php?id=3550",
+    "print_url": "https://zxpress.ru/print.php?id=3550",
+    "title_link": "Warez Pack - Описания приложения журнала: SpriteLand v1.27",
+    "order": 34,
+    "issue_label": "01",
+    "short_slug": "Warez_Pack_-_Описания_приложения_журнала_SpriteLand_v127"
+  },
+  {
+    "article_id": 3554,
+    "article_url": "https://zxpress.ru/article.php?id=3554",
+    "print_url": "https://zxpress.ru/print.php?id=3554",
+    "title_link": "Warez Pack - Описания приложения журнала: Worms",
+    "order": 35,
+    "issue_label": "01",
+    "short_slug": "Warez_Pack_-_Описания_приложения_журнала_Worms"
+  },
+  {
+    "article_id": 8971,
+    "article_url": "https://zxpress.ru/article.php?id=8971",
+    "print_url": "https://zxpress.ru/print.php?id=8971",
+    "title_link": "Послесловие - ни одна сволочь даже не\r\nвспомнила, что нашей газете исполнился год...",
+    "order": 36,
+    "issue_label": "01",
+    "short_slug": "Послесловие_-_ни_одна_сволочь_даже_невспомнила_что_нашеи_газ"
+  },
+  {
+    "article_id": 8682,
+    "article_url": "https://zxpress.ru/article.php?id=8682",
+    "print_url": "https://zxpress.ru/print.php?id=8682",
+    "title_link": "Sofтинка - Обновления в просмотрщиках картинок: ANSI viewer, MCX viewer.",
+    "order": 37,
+    "issue_label": "01",
+    "short_slug": "Sofтинка_-_Обновления_в_просмотрщиках_картинок_ANSI_viewer_M"
+  },
+  {
+    "article_id": 1193,
+    "article_url": "https://zxpress.ru/article.php?id=1193",
+    "print_url": "https://zxpress.ru/print.php?id=1193",
+    "title_link": "ASH & Funtop - Впечатления о Fun Top от ASH'а.",
+    "order": 38,
+    "issue_label": "01",
+    "short_slug": "ASH_Funtop_-_Впечатления_о_Fun_Top_от_ASHа"
+  },
+  {
+    "article_id": 8504,
+    "article_url": "https://zxpress.ru/article.php?id=8504",
+    "print_url": "https://zxpress.ru/print.php?id=8504",
+    "title_link": "Inferno - Об оболочке.",
+    "order": 39,
+    "issue_label": "01",
+    "short_slug": "Inferno_-_Об_оболочке"
+  },
+  {
+    "article_id": 399,
+    "article_url": "https://zxpress.ru/article.php?id=399",
+    "print_url": "https://zxpress.ru/print.php?id=399",
+    "title_link": "Software - Новинки демосцены: Binary Love, Shit 4 Brains, Nomenon.",
+    "order": 40,
+    "issue_label": "01",
+    "short_slug": "Software_-_Новинки_демосцены_Binary_Love_Shit_4_Brains_Nomen"
+  }
+]

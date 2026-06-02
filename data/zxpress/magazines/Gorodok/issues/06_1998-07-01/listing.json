@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 14567,
+    "article_url": "https://zxpress.ru/article.php?id=14567",
+    "print_url": "https://zxpress.ru/print.php?id=14567",
+    "title_link": "Вступление - Тарас уходит в армию!",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_Тарас_уходит_в_армию"
+  },
+  {
+    "article_id": 14568,
+    "article_url": "https://zxpress.ru/article.php?id=14568",
+    "print_url": "https://zxpress.ru/print.php?id=14568",
+    "title_link": "Предисловие - материал был собран в течении первых двух\r\nмесяцев моей службы в Украинской Армии.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Предисловие_-_материал_был_собран_в_течении_первых_двухмесяц"
+  },
+  {
+    "article_id": 14569,
+    "article_url": "https://zxpress.ru/article.php?id=14569",
+    "print_url": "https://zxpress.ru/print.php?id=14569",
+    "title_link": "Украинская армия - словарик солдата.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Украинская_армия_-_словарик_солдата"
+  },
+  {
+    "article_id": 14570,
+    "article_url": "https://zxpress.ru/article.php?id=14570",
+    "print_url": "https://zxpress.ru/print.php?id=14570",
+    "title_link": "Проза - приключение металлиста.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Проза_-_приключение_металлиста"
+  },
+  {
+    "article_id": 14571,
+    "article_url": "https://zxpress.ru/article.php?id=14571",
+    "print_url": "https://zxpress.ru/print.php?id=14571",
+    "title_link": "Реклама - Продаётся компьютер \"ОРИЗОН\" - 128kb,\r\n с дисководом и дискеттами.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Продается_компьютер_ОРИЗОН_-_128kb_с_дисководом_и"
+  }
+]

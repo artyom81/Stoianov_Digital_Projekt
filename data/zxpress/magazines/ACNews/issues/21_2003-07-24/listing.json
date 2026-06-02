@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9932,
+    "article_url": "https://zxpress.ru/article.php?id=9932",
+    "print_url": "https://zxpress.ru/print.php?id=9932",
+    "title_link": "News - Alone Coder сломал руку и ногу.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "News_-_Alone_Coder_сломал_руку_и_ногу"
+  },
+  {
+    "article_id": 9933,
+    "article_url": "https://zxpress.ru/article.php?id=9933",
+    "print_url": "https://zxpress.ru/print.php?id=9933",
+    "title_link": "Мысли - количество дисков 5'25 постепенно снижается, купить их негде.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Мысли_-_количество_дисков_525_постепенно_снижается_купить_их"
+  },
+  {
+    "article_id": 9934,
+    "article_url": "https://zxpress.ru/article.php?id=9934",
+    "print_url": "https://zxpress.ru/print.php?id=9934",
+    "title_link": "Report - отчет Alone Coder'a о поездке на ParaDigMus'2003.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Report_-_отчет_Alone_Codera_о_поездке_на_ParaDigMus2003"
+  },
+  {
+    "article_id": 9935,
+    "article_url": "https://zxpress.ru/article.php?id=9935",
+    "print_url": "https://zxpress.ru/print.php?id=9935",
+    "title_link": "Docs - Vitamin/CAIG реализовал на Speccy первый вариант АРИФМЕТИЧЕСКОГО КОДИРОВАНИЯ.",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Docs_-_VitaminCAIG_реализовал_на_Speccy_первыи_вариант_АРИФМ"
+  }
+]

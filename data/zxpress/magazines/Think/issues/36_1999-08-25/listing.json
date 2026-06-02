@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4343,
+    "article_url": "https://zxpress.ru/article.php?id=4343",
+    "print_url": "https://zxpress.ru/print.php?id=4343",
+    "title_link": "От автора - Маловато ответов на анкету...",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "От_автора_-_Маловато_ответов_на_анкету"
+  },
+  {
+    "article_id": 4344,
+    "article_url": "https://zxpress.ru/article.php?id=4344",
+    "print_url": "https://zxpress.ru/print.php?id=4344",
+    "title_link": "Архивчик - TAPPER.",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "Архивчик_-_TAPPER"
+  },
+  {
+    "article_id": 4345,
+    "article_url": "https://zxpress.ru/article.php?id=4345",
+    "print_url": "https://zxpress.ru/print.php?id=4345",
+    "title_link": "Обзор новинок - Alcemist.",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Обзор_новинок_-_Alcemist"
+  },
+  {
+    "article_id": 4346,
+    "article_url": "https://zxpress.ru/article.php?id=4346",
+    "print_url": "https://zxpress.ru/print.php?id=4346",
+    "title_link": "Поэма - Юмор.",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Поэма_-_Юмор"
+  },
+  {
+    "article_id": 4347,
+    "article_url": "https://zxpress.ru/article.php?id=4347",
+    "print_url": "https://zxpress.ru/print.php?id=4347",
+    "title_link": "HЛО: Вопросы и ответы - Статья о неопознаных летающих обьектах.",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "HЛО_Вопросы_и_ответы_-_Статья_о_неопознаных_летающих_обьекта"
+  },
+  {
+    "article_id": 4348,
+    "article_url": "https://zxpress.ru/article.php?id=4348",
+    "print_url": "https://zxpress.ru/print.php?id=4348",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "36",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4349,
+    "article_url": "https://zxpress.ru/article.php?id=4349",
+    "print_url": "https://zxpress.ru/print.php?id=4349",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "36",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 725,
+    "article_url": "https://zxpress.ru/article.php?id=725",
+    "print_url": "https://zxpress.ru/print.php?id=725",
+    "title_link": "Coding - Ultra fast procedure chank'и to planar screen.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Coding_-_Ultra_fast_procedure_chankи_to_planar_screen"
+  },
+  {
+    "article_id": 728,
+    "article_url": "https://zxpress.ru/article.php?id=728",
+    "print_url": "https://zxpress.ru/print.php?id=728",
+    "title_link": "Coding - Глюки в эмуляторах. Особенности эмуляции процессора Z80.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Coding_-_Глюки_в_эмуляторах_Особенности_эмуляции_процессора"
+  },
+  {
+    "article_id": 721,
+    "article_url": "https://zxpress.ru/article.php?id=721",
+    "print_url": "https://zxpress.ru/print.php?id=721",
+    "title_link": "Games - Описание игры Homer Simpson в России.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Games_-_Описание_игры_Homer_Simpson_в_России"
+  },
+  {
+    "article_id": 723,
+    "article_url": "https://zxpress.ru/article.php?id=723",
+    "print_url": "https://zxpress.ru/print.php?id=723",
+    "title_link": "Games - Руководство по прохождению \"Зеркало\" - для тех, кто застрял, еще не начав играть.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Games_-_Руководство_по_прохождению_Зеркало_-_для_тех_кто_зас"
+  },
+  {
+    "article_id": 724,
+    "article_url": "https://zxpress.ru/article.php?id=724",
+    "print_url": "https://zxpress.ru/print.php?id=724",
+    "title_link": "Hihts - Приколы с кнопками в демках: Shit 4 brains, Blame, Voyager 2.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Hihts_-_Приколы_с_кнопками_в_демках_Shit_4_brains_Blame_Voya"
+  },
+  {
+    "article_id": 719,
+    "article_url": "https://zxpress.ru/article.php?id=719",
+    "print_url": "https://zxpress.ru/print.php?id=719",
+    "title_link": "Вступление - О планах редакции газеты.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_О_планах_редакции_газеты"
+  },
+  {
+    "article_id": 730,
+    "article_url": "https://zxpress.ru/article.php?id=730",
+    "print_url": "https://zxpress.ru/print.php?id=730",
+    "title_link": "Мир Амиги - Амига глазами RRA (часть 1).",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Мир_Амиги_-_Амига_глазами_RRA_часть_1"
+  },
+  {
+    "article_id": 720,
+    "article_url": "https://zxpress.ru/article.php?id=720",
+    "print_url": "https://zxpress.ru/print.php?id=720",
+    "title_link": "Новости - Открытие нового сайта - Virtual TR-DOS.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Открытие_нового_саита_-_Virtual_TR-DOS"
+  },
+  {
+    "article_id": 731,
+    "article_url": "https://zxpress.ru/article.php?id=731",
+    "print_url": "https://zxpress.ru/print.php?id=731",
+    "title_link": "Приложение - Professional Tracker v3.4 remix.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Приложение_-_Professional_Tracker_v34_remix"
+  },
+  {
+    "article_id": 732,
+    "article_url": "https://zxpress.ru/article.php?id=732",
+    "print_url": "https://zxpress.ru/print.php?id=732",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,104 @@
+ZX Review 3-4 - Этюды - А.Савинов: Процедура вывода на экран символов двойной высоты. Процедура "растворения" символов.
+(c) Савинов Алексей,
+г.Кировск, Мурманская обл.
+Данная процедура обеспечивает
+вывод на экран символов  двойной
+ширины.
+145.
+     ORG  60000
+     ENT
+     LD   A,(23296)
+DBS  LD   L,A
+     LD   H,0
+     ADD  HL,HL
+     ADD  HL,HL
+     ADD  HL,HL
+     LD   DE,(23606)
+     ADD  HL,DE
+     EX   DE,HL
+     LD   HL,(23684)
+     LD   B,8
+     PUSH HL
+DBS1 PUSH BC
+     PUSH DE
+     LD   A,(DE)
+     LD   DE,0
+     LD   B,8
+DBS2 RLCA
+     PUSH AF
+     RL   E
+     RL   D
+     POP  AF
+     RL   E
+     RL   D
+     DJNZ DBS2
+     LD   (HL),D
+     INC  HL
+     LD   (HL),E
+     DEC  HL
+     POP  DE
+     INC  H
+     INC  DE
+     POP  BC
+     DJNZ DBS1
+     POP  HL
+     INC  HL
+     INC  HL
+     LD   (23684),HL
+     RET
+2
+   Ее дамп:
+EA60: 3A 00 5B 6F 26 00 29 29:C6
+EA68: 29 ED 5B 36 5C 19 EB 2A:83
+EA70: 84 5C 06 08 E5 C5 D5 1A:E1
+EA78: 11 00 00 06 08 07 F5 CB:48
+EA80: 13 CB 12 F1 CB 13 CB 12:06
+EA88: 10 F3 72 23 73 2B D1 24:9D
+EA90: 13 C1 10 E1 E1 23 23 22:88
+EA98: 84 5C C9 00 00 00 00 00:2B
+Протестировать данную  проце-
+дуру можно с  помощью  следующей
+программы на BASICе:
+10 LOAD "DBLSYM" CODE 60000
+20 PRINT AT 5,0
+30 LET A$="SAVINOV ALEXEJ"
+40 FOR N=1 TO LEN A$
+50 POKE 23296,CODE A$(N)
+60 RANDOMIZE USR 60000
+70 NEXT N
+Следующая процедура обеспечи-
+вает "растворение" символов. Она
+взята  из  программы  "LODE RUN-
+NER".
+145.
+      ORG  40000
+LOOP1 LD   B,8
+      LD   DE,0
+LOOP2 LD   HL,#4000
+      PUSH DE
+LOOP3 LD   A,(DE)
+      AND  (HL)
+      LD   (HL),A
+      INC  HL
+      INC  DE
+      LD   A,H
+      CP   #58
+      JR   NZ,LOOP3
+      PUSH BC
+      LD   BC,1    ; PAUSE
+      CALL 7997
+      POP  BC
+      POP  DE
+      LD   HL,100
+      ADD  HL,DE
+      EX   DE,HL
+      DJNZ LOOP2
+      CALL 3435
+      RET
+2
+  Ее дамп:
+9C40: 06 08 11 00 00 21 00 40:5C
+9C48: D5 1A A6 77 23 13 7C FE:A0
+9C50: 58 20 F6 C5 01 01 00 CD:EE
+9C58: 3D 1F C1 D1 21 64 00 19:80
+9C60: EB 10 E2 CD 6B 0D C9 00:E7

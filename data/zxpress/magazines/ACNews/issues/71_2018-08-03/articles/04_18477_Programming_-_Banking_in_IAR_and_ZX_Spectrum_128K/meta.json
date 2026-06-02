@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "71",
+  "issue_date_iso": "2018-08-03",
+  "order": 4,
+  "article_id": 18477,
+  "title_link": "Programming - Banking in IAR and ZX Spectrum 128K",
+  "title_h1": "ACNews 71 - Programming - Banking in IAR and ZX Spectrum 128K",
+  "print_url": "https://zxpress.ru/print.php?id=18477",
+  "article_url": "https://zxpress.ru/article.php?id=18477",
+  "fetched_at": "2026-05-31T21:32:11Z"
+}

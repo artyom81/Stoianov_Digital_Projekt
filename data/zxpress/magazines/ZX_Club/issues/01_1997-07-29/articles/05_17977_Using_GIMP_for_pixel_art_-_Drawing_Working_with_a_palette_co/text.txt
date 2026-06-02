@@ -1,0 +1,254 @@
+ACNews 62 - Using GIMP for pixel art - Drawing, Working with a palette, converting images to the pallet, Saving palettes saved BMP.
+Using GIMP for pixel art
+by Hippiman
+After an article in ACNews #61 about conversion of RGB gfx into
+the palette of ATM Turbo и ZX Evolution (briefly "ATM palette")
+using Photoshop, some of the readers might ask about the same,
+but with GIMP. The conversion process itself in GIMP doesn't
+differ much from Photoshop, so a duplicate article about it
+would not be interesting. So I decided to extend the topic and
+write an overview about using GIMP for pixel art.
+
+                             Drawing
+
+The tools like pencil and fill are apparent and like those in
+Photoshop, so I can skip them. I must mention
+Select by color
+tool [something like "Magic wand" in Photoshop, if you uncheck
+"adjacent pixels" - Ed.]. As you can guess from the name, it 
+allows to select the areas of given colour with certain
+threshold. This tool is versatile, it can be used for finding
+the areas with some colour while conversion, or for write
+protection of some areas.
+
+Here are few reminders that can speed up your working process in
+GIMP: 
+
+  - Brush size is changed with hotkeys "[" and "]".
+  - Foreground and background colours can be swapped with "X"
+key.
+  - You can pick up a colour without using the dropper tool,
+just hold "Control" and click on image (if any of drawing tools
+is active).
+  - Hold "Shift" to draw a line from the last drawn pixel.
+  - Quick zoom on numpad.
+  - Hold "Control" and scroll the mouse wheel to zoom.
+  - You don't need scrollbars to navigate a big image that
+doesn't fit on screen. Just hold middle mouse button and move
+the image.
+
+This is the base. Also try to learn the hotkeys for the most
+used tools. The work will go faster.
+
+One more important thing for pixel art is grid. You can show it
+on screen with
+View->Show Grid. The default step is 10x10
+pixels. You can change it to more common 8x8 or 16x16 in menu
+Image->Configure Grid. There is more interesting in that dialog:
+for example, grid colour - very useful function for editing dark
+images.
+
+                          Palette work
+
+Let's proceed to the main thing. The palette can be found in the
+top-right corner of screen, in
+Colourmap block. You better
+detach it from there by dragging, to make it a separate window.
+Or a separate panel. Or in case of layer work you must switch
+pages constantly. (Any floating window can be attached to any
+panel if you drag it by tab header.)
+
+Double click any colour to open the colour edit dialog. After
+changing the palette colour the image will change automatically.
+All the pixels with the same colour index will change colour.
+
+If you select a foreground colour not from the palette,
+drawing pixels will have the closest possible palette colour.
+
+If you paste an RGB image from clipboard to a project with
+palette, then RGB image will be corrected automatically into the
+current palette without dithering.
+
+                How to convert images to palette
+
+If you have a ready RGB image, the conversion is simple. Just
+open the dialog
+Indexed Colour Conversion, menu
+Image->Mode->Indexed.
+This dialog includes:
+  -
+"Generate optimum palette" - allow the program decide what
+colours to include in the palette. You define the
+"Maximum
+number of colours".
+-
+"Use web-optimized palette" - as you can guess from the name
+[looks the same as in Photoshop: palette with entries 
+#00/#33/#66/#99/#cc/#ff - Ed.]. 
+  -
+"Use black and white (1-bit) palette" - converts the image
+to monochrome 2-colour b/w palette.
+  -
+"Use custom palette" - converts to given palette that you
+can prepare in advance.
+  -
+"Remove unused colours from colourmap" - to remove the
+colours used in no pixels, or not.
+
+The most usable for our needs are the 1st and the Чth:
+"Generate optimum palette" and
+"Use custom palette". I recommend
+to always have a ready palette file with ATM palette [it
+corresponds to "Uniform" 64 colour palette in Photoshop - Ed.]. 
+
+More options follow that define the dithering:
+  -
+Colour dithering - select the method of dithering.
+-
+None - no dithering. Each pixel is changed to the closest
+possible palette colour.
+  -
+Floyd-Steinberg (normal) и Floyd-Steinberg (reduce colour
+bleeding) - usual error diffusion.
+-
+Positioned - fixed dithering. It is simpler than
+Floyd-Steinberg but looks better in pixel art.
+  -
+Enable Dithering on transparency - apply dithering to alpha
+channel.
+
+For small images, fixed dithering is better, or no dithering at
+all. Unfortunately I haven't found additional diffusion controls
+for GIMP. The only additional variant you can use is a shareware
+plug-in for Photoshop named "XiColorDither" with 30-day trial
+period ( Photoshop plug-ins can be used in GIMP with PSPI
+add-on). Anyway, automatic dithering looks dirty on small
+images. Sprites can't be converted without hand correction even
+with XiColorDither. More or less nice result appears from
+resolution 320x200 or more.
+
+Now let's see how to convert to ATM palette using this dialog.
+1. Do "Generate optimum palette". Guess "Maximum number of
+colours" by hand, depending on image, trying to acquire decent
+picture with minimum colours. That's usually 60 to 70 colours.
+2. Try to convert picture back to RGB, then again in ATM
+palette prepared in advance, with
+"Use custom palette".
+GIMP will correct all the colours according to given palette,
+picking the closest colour.
+3. If the picture has changed a lot with ATM palette, undo
+the change and try to adjust the problematic colours by hand.
+4. If there are <= 16 colours, proceed to hand correction of
+final picture.
+5. If there are more than 16, find similar colours to "join"
+them. I usually do it the following way. I look at the palette,
+find similar colours, and change one of them for some unused
+colour (such as magenta). (It would be better if GIMP had
+automatic highlight for pixels with given colour clicked in
+palette. But there is none.) If the area of this colour is too
+small, I just change the colour to similar one. So the palette
+has identical colours.
+6. When there are no colours that can be joined, try to remove
+some colour by mixing two others. For example, if there is an
+orange area, it can be changed to chequered pattern of red and
+yellow. How to do this:
+  - Create one more layer. Draw a small filling pattern in it.
+For example, 4 pixels: 2 red and 2 yellow. Copy this example in
+clipboard and hide the layer.
+  - Using
+"Select by color" select all the areas with needed
+colour.
+  - Select
+"Bucket fill tool".
+- In
+"Fill type" select "Pattern fill". Press on highlighted
+textured square and select the top left corner in the pulldown
+list. This is our filling pattern.
+  - Don't forget to check
+"Fill whole selection", or else only
+the clicked area will be filled.
+  - Fill the needed colour. Then look at the result and correct
+it by hand.
+7. After all manipulations the palette will reduce
+significantly. To update it, convert image to RGB:
+Image->Mode->RGB, then back into palette:
+Image->Mode->Indexed,
+with optimal palette.
+8. If there are still more than 16 colours, return to 4.
+As a variant for more good-looking result, you can reduce the
+colour number beforehand, with
+Colours->Posterise. In the dialog
+you can define the level of posterisation. Use the result like
+the original picture. Experiments show that 256-colour image
+with sprites, converted to 16 colour ATM palette with
+posterisation of level 3, looks better than the same without
+posterisation.
+
+                       Saving the palette
+
+When you draw graphics for a game screen, you need it all in one
+palette. The simplest way to do this is to save the palette of
+first image in file, then draw the rest of gfx in this palette.
+
+The algorithm:
+1. Colors->Map->Set Colormap
+2. Press Default, it opens the window Script-fu: palette
+selection.
+3. Scroll the list to the top and find the current image
+colour map there.
+4. Click this colour map with right mouse button. Select
+Duplicate palette.
+5. Rename the copy of current colour map in meaningful way.
+6. That's all - now the palette can be accessed from any
+image, in all dialogs.
+
+The palettes are usually saved in
+C:Users%username%.gimp-2.8palettes.
+This path can be changed in menu
+Edit->Preferences->Folders->Palettes.
+Palette file is a simple text file that can be edited by
+notepad. Example of the contents:
+
+GIMP Palette
+Name: Colormap of Image #1
+Columns: 8
+#
+255   0   0#0
+210   3  16#1
+6   8   4#2
+177 183 191#3
+... 
+208  97 145#255
+If needed, all the palette can be edited by hand.
+
+                          Saving as BMP
+
+After all the manipulations with the project you might want to
+get a ready
+BMP to use elsewhere. For some unknown reason, in
+newer versions of GIMP
+"Save"/"Save as" only saves in GIMP's
+native format -
+XCF. To save in other formats, use
+"Export"/"Export as".
+The following is very important!!! In dialog
+"Export Image as
+BMP", open
+"Compatibility options" and check "Do not write
+color space information". Or else the saved
+BMP might be
+incompatible with some programs. For example, EvoSDK can't
+find a palette in this kind of
+BMP and treats it as black and
+white.
+
+                             * * *
+
+GIMP is a good free program. It has enough function for most of 
+tasks except the professional photo processing. I tried to
+describe the most needed things. Of course, the possibilities
+are a lot wider than just drawing colour pixels, but this is
+good for start.
+
+In the pack of this issue you can find the mentioned ATM
+palette with 64 colours

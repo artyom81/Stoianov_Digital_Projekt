@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 4375,
+    "article_url": "https://zxpress.ru/article.php?id=4375",
+    "print_url": "https://zxpress.ru/print.php?id=4375",
+    "title_link": "От автора - С новым 2000 годом...",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "От_автора_-_С_новым_2000_годом"
+  },
+  {
+    "article_id": 4376,
+    "article_url": "https://zxpress.ru/article.php?id=4376",
+    "print_url": "https://zxpress.ru/print.php?id=4376",
+    "title_link": "Новости - Появилось много электронной прессы.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Новости_-_Появилось_много_электроннои_прессы"
+  },
+  {
+    "article_id": 4377,
+    "article_url": "https://zxpress.ru/article.php?id=4377",
+    "print_url": "https://zxpress.ru/print.php?id=4377",
+    "title_link": "Обзор новинок - Ученик мага, Operation Oil.",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "Обзор_новинок_-_Ученик_мага_Operation_Oil"
+  },
+  {
+    "article_id": 4378,
+    "article_url": "https://zxpress.ru/article.php?id=4378",
+    "print_url": "https://zxpress.ru/print.php?id=4378",
+    "title_link": "F.A.Q. - Hayes-модемы.",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "FAQ_-_Hayes-модемы"
+  },
+  {
+    "article_id": 4379,
+    "article_url": "https://zxpress.ru/article.php?id=4379",
+    "print_url": "https://zxpress.ru/print.php?id=4379",
+    "title_link": "Железо - Kempston-mouse.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Железо_-_Kempston-mouse"
+  },
+  {
+    "article_id": 4380,
+    "article_url": "https://zxpress.ru/article.php?id=4380",
+    "print_url": "https://zxpress.ru/print.php?id=4380",
+    "title_link": "Анекдоты - Юмор.",
+    "order": 6,
+    "issue_label": "43",
+    "short_slug": "Анекдоты_-_Юмор"
+  },
+  {
+    "article_id": 4381,
+    "article_url": "https://zxpress.ru/article.php?id=4381",
+    "print_url": "https://zxpress.ru/print.php?id=4381",
+    "title_link": "Поздравления - Поздравления с Новым Годом!",
+    "order": 7,
+    "issue_label": "43",
+    "short_slug": "Поздравления_-_Поздравления_с_Новым_Годом"
+  },
+  {
+    "article_id": 4382,
+    "article_url": "https://zxpress.ru/article.php?id=4382",
+    "print_url": "https://zxpress.ru/print.php?id=4382",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 8,
+    "issue_label": "43",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4383,
+    "article_url": "https://zxpress.ru/article.php?id=4383",
+    "print_url": "https://zxpress.ru/print.php?id=4383",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

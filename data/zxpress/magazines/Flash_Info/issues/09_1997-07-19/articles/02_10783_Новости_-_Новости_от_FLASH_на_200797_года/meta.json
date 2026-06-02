@@ -1,0 +1,15 @@
+{
+  "magazine_id": 79,
+  "magazine_name": "Flash Info",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1997-07-19",
+  "order": 2,
+  "article_id": 10783,
+  "title_link": "Новости - Новости от FLASH на 20.07.97 года.",
+  "title_h1": "Flash Info 09 - Новости - Новости от FLASH на 20.07.97 года.",
+  "print_url": "https://zxpress.ru/print.php?id=10783",
+  "article_url": "https://zxpress.ru/article.php?id=10783",
+  "fetched_at": "2026-05-31T22:06:28Z"
+}

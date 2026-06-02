@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 5756,
+    "article_url": "https://zxpress.ru/article.php?id=5756",
+    "print_url": "https://zxpress.ru/print.php?id=5756",
+    "title_link": "От редакции - история рождения газеты.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_редакции_-_история_рождения_газеты"
+  },
+  {
+    "article_id": 5757,
+    "article_url": "https://zxpress.ru/article.php?id=5757",
+    "print_url": "https://zxpress.ru/print.php?id=5757",
+    "title_link": "Обзор почты - письма читателей: Иван Курносов, Blast Off, Nuts, Alex Pekhimenko.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Обзор_почты_-_письма_читателеи_Иван_Курносов_Blast_Off_Nuts"
+  },
+  {
+    "article_id": 5758,
+    "article_url": "https://zxpress.ru/article.php?id=5758",
+    "print_url": "https://zxpress.ru/print.php?id=5758",
+    "title_link": "Обзор новья - пресса: Heresy #7, Lamergy #2,#3,#4, Body #32, Promised Land #01, AC Edit 0.60fix. Игры: Kill Pokemon, Moor Hunter, Net Walker.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Обзор_новья_-_пресса_Heresy_7_Lamergy_234_Body_32_Promised_L"
+  },
+  {
+    "article_id": 5759,
+    "article_url": "https://zxpress.ru/article.php?id=5759",
+    "print_url": "https://zxpress.ru/print.php?id=5759",
+    "title_link": "Новости и старости - Горячие новости!!! Ну может не такие горячие, но разогретые.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Новости_и_старости_-_Горячие_новости_Ну_может_не_такие_горяч"
+  },
+  {
+    "article_id": 5760,
+    "article_url": "https://zxpress.ru/article.php?id=5760",
+    "print_url": "https://zxpress.ru/print.php?id=5760",
+    "title_link": "Mнение \"О Крике\" - Крик 2 или голубая мечта демосценера (обзор сценового журнала).",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Mнение_О_Крике_-_Крик_2_или_голубая_мечта_демосценера_обзор"
+  },
+  {
+    "article_id": 5761,
+    "article_url": "https://zxpress.ru/article.php?id=5761",
+    "print_url": "https://zxpress.ru/print.php?id=5761",
+    "title_link": "Спектруму - 20: грустная история инженера по имени Клайв Синклер.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Спектруму_-_20_грустная_история_инженера_по_имени_Клаив_Синк"
+  },
+  {
+    "article_id": 5762,
+    "article_url": "https://zxpress.ru/article.php?id=5762",
+    "print_url": "https://zxpress.ru/print.php?id=5762",
+    "title_link": "Проекты - обзор готовящихся проектов: игра \"Угадай Мелодию\", новый клон Спектрума, журнал Deja Vu #A, новая ОС для Спектрума - Doors 2002 Aqua.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Проекты_-_обзор_готовящихся_проектов_игра_Угадаи_Мелодию_нов"
+  },
+  {
+    "article_id": 5763,
+    "article_url": "https://zxpress.ru/article.php?id=5763",
+    "print_url": "https://zxpress.ru/print.php?id=5763",
+    "title_link": "PC и Spectrum - обзор эмулятора Спектрума ZX MAK v0.240.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "PC_и_Spectrum_-_обзор_эмулятора_Спектрума_ZX_MAK_v0240"
+  },
+  {
+    "article_id": 5764,
+    "article_url": "https://zxpress.ru/article.php?id=5764",
+    "print_url": "https://zxpress.ru/print.php?id=5764",
+    "title_link": "O всем про все - литературные опусы Protein'а и Виктории Трыновой.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "O_всем_про_все_-_литературные_опусы_Proteinа_и_Виктории_Трын"
+  },
+  {
+    "article_id": 5765,
+    "article_url": "https://zxpress.ru/article.php?id=5765",
+    "print_url": "https://zxpress.ru/print.php?id=5765",
+    "title_link": "И смех, и грех - анекдоты и афоризмы.",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "И_смех_и_грех_-_анекдоты_и_афоризмы"
+  },
+  {
+    "article_id": 5766,
+    "article_url": "https://zxpress.ru/article.php?id=5766",
+    "print_url": "https://zxpress.ru/print.php?id=5766",
+    "title_link": "Реклама - Спектрумист, а ТЫ с нами?",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Спектрумист_а_ТЫ_с_нами"
+  }
+]

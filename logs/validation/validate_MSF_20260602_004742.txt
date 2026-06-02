@@ -1,0 +1,10 @@
+  Magazin: MSF
+
+✅ Validierung: OK - MSF
+   (mit Warnungen)
+  - [Issue #25] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #26] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #27] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #28] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #29] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 11 | Artikel gesamt: 292

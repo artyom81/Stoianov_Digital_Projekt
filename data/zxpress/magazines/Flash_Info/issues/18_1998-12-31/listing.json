@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 13853,
+    "article_url": "https://zxpress.ru/article.php?id=13853",
+    "print_url": "https://zxpress.ru/print.php?id=13853",
+    "title_link": "Вступление - поздравялем с 1999-м годом!",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Вступление_-_поздравялем_с_1999-м_годом"
+  },
+  {
+    "article_id": 13854,
+    "article_url": "https://zxpress.ru/article.php?id=13854",
+    "print_url": "https://zxpress.ru/print.php?id=13854",
+    "title_link": "Новости - Ковров, Кемерово.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Новости_-_Ковров_Кемерово"
+  },
+  {
+    "article_id": 13855,
+    "article_url": "https://zxpress.ru/article.php?id=13855",
+    "print_url": "https://zxpress.ru/print.php?id=13855",
+    "title_link": "Обзор игр - Puzzle, Astro Ball, N.E.I.L., DESPERADО-2, WОRD LIFE.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Обзор_игр_-_Puzzle_Astro_Ball_NEIL_DESPERADО-2_WОRD_LIFE"
+  },
+  {
+    "article_id": 13856,
+    "article_url": "https://zxpress.ru/article.php?id=13856",
+    "print_url": "https://zxpress.ru/print.php?id=13856",
+    "title_link": "Юмор - Рецепты вкусноЙ и здоровоЙ пищи!",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Юмор_-_Рецепты_вкусноИ_и_здоровоИ_пищи"
+  },
+  {
+    "article_id": 13857,
+    "article_url": "https://zxpress.ru/article.php?id=13857",
+    "print_url": "https://zxpress.ru/print.php?id=13857",
+    "title_link": "Интервью - подробная история группы Triumph.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Интервью_-_подробная_история_группы_Triumph"
+  },
+  {
+    "article_id": 13858,
+    "article_url": "https://zxpress.ru/article.php?id=13858",
+    "print_url": "https://zxpress.ru/print.php?id=13858",
+    "title_link": "Мнение - мнение Амижного ламера о ПЦ.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Мнение_-_мнение_Амижного_ламера_о_ПЦ"
+  },
+  {
+    "article_id": 13859,
+    "article_url": "https://zxpress.ru/article.php?id=13859",
+    "print_url": "https://zxpress.ru/print.php?id=13859",
+    "title_link": "Реклама - купить спектрум бесплатно.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_купить_спектрум_бесплатно"
+  },
+  {
+    "article_id": 13860,
+    "article_url": "https://zxpress.ru/article.php?id=13860",
+    "print_url": "https://zxpress.ru/print.php?id=13860",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 8,
+    "issue_label": "18",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

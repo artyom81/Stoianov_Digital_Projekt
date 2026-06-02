@@ -1,0 +1,183 @@
+Scenergy 01 - Charts - Статистика - цифры и размышления.
+У  нас  и  своя  статистика  есть.  Вот  вам  некоторые цифры к
+размышлению, а еще добавлю, что всего было - 116 анкет...
+
+ voter's country
+┌─────────────────┬─────┐
+│ Russia          │ 78  │ Такое у нас положение с вотерами. Как
+│ Czechia         │  8  │ вы  видите,  с запада анкет пришло не
+│ Latvia          │  7  │ так  уж  много,  надо  было  активнее
+│ Ukraine         │  6  │ распространять! Для меня, собственно,
+│ Byelorus        │  4  │ интересно  то,  что Латвия на третьем
+│ Lithuania       │  3  │ месте    по   количеству   вотеров, а
+│ Australia       │  2  │ Белоруссь,  где  так много сценеров и
+│ Slovakia        │  2  │ групп, собрала лишь 4 анкеты.
+│ Poland          │  2  │
+│ Estonia         │  2  │
+│ United Kingdom  │  1  │
+│ Kazakhstan      │  1  │
+├─────────────────┼─────┤
+│ Countries       │ 12  │
+└─────────────────┴─────┘
+ voter's specialization
+┌─────────────────┬─────┐
+│ Coders          │ 68  │ Everybody wants to be a coder! Кодеры
+│ Graphicians     │ 41  │ -  лидеры, и тут ничего не поделаешь.
+│ Organizers      │ 33  │ К  сведению:  каждый,  кто голосовал,
+│ Muzakers        │ 29  │ мог    отметить    несколько    своих
+│ Crackers        │ 28  │ специализаций,   а  так  же  написать
+│ Swappers        │ 22  │ что-то  свое,  если  этого  не было в
+│ Users           │ 20  │ списке.
+│ Suppliers       │ 16  │
+│ Sysops          │ 15  │
+│ Traders         │ 12  │
+│ Journalists     │  5  │
+│ Couriers        │  4  │
+│ Webmasters      │  3  │
+│ Hardware geeks  │  3  │
+│ Designers       │  2  │
+│ Lamers          │  1  │
+│ Lookers         │  1  │
+│ Gamblers        │  1  │
+│ Founders        │  1  │
+│ Experimentators │  1  │
+│ Beta testers    │  1  │
+│ Managers        │  1  │
+│ Optimizers      │  1  │
+│ Directors       │  1  │
+│ Beer users      │  1  │
+├─────────────────┼─────┤
+│ Specializations │ 25  │
+└─────────────────┴─────┘
+
+
+
+
+
+
+
+
+
+
+ voters list
+┌──────────────────┬───────────────────────────────────────────┐
+│ Abra             │ Infotek                                   │
+│ Alex (R)         │                                           │
+│ Alex Noman       │ Stars Of Keldan Hackers Group             │
+│ Alih             │ Phantasy                                  │
+│ Alk              │ Stars Of Keldan Hackers Group             │
+│ Ars              │ Fatality                                  │
+│ Bes              │ Phantom Family                            │
+│ Bitmaster        │ Delta Corporation                         │
+│ Black Groove     │ Light Future Group                        │
+│ Blade            │ Triumph                                   │
+│ Bob              │ Coders Academy                            │
+│ Bos              │ Legions Of Steel Warriors                 │
+│ Busy             │ ex-Nine Bits Company                      │
+│ Bytic            │ Triumph                                   │
+│ Combinator       │ Phantasy                                  │
+│ Cooler           │ Triumph                                   │
+│ Cryss            │ Razzlers                                  │
+│ Cyberjack        │ Light Future Group                        │
+│ D-Man            │ Eternity Industry                         │
+│ Depredator       │ Phantasy                                  │
+│ Diver            │ Fourth Dimension                          │
+│ DJ Leo           │ Coders Academy                            │
+│ Dnk              │ Virt Group                                │
+│ Dob              │                                           │
+│ Dok              │ Raww Arse                                 │
+│ Donatas          │                                           │
+│ Dr Dismal        │ Light Future Group                        │
+│ Dr Grifus        │ Ascendancy Creative Labs                  │
+│ Dragon           │ Atlantic                                  │
+│ Dron             │ K3L Corp                                  │
+│ Eagle            │ Computer Rats Group                       │
+│ Eagleghost       │                                           │
+│ Edison           │ Triumph                                   │
+│ Eidis            │ Killer Toad/Another Reality               │
+│ Emiter           │ Killer Toad                               │
+│ Engine           │ Crazy Pixels Group                        │
+│ Envoy            │ Phantasy                                  │
+│ Factor 6         │ Excellent Spectrum Aces                   │
+│ Falta            │ Black Rose                                │
+│ Fidget           │ Ice Group                                 │
+│ Flp              │ ex-Zer0                                   │
+│ Flying           │ Digital Reality                           │
+│ Shaitan          │ Cyber Punks Unity                         │
+│ Habib            │ Hooy-Program                              │
+│ Hal              │ Razzlers                                  │
+│ Hazard           │ Phantasy                                  │
+│ Hunter           │ Crushers                                  │
+│ Ice Di Griz      │ Triumph                                   │
+│ Jk               │ Ice Group                                 │
+│ Jtn              │ Fourth Dimension                          │
+│ Katy             │ STRg                                      │
+│ Kevin            │ Concern Chaos                             │
+│ Kva              │ E-Mage                                    │
+│ Lav              │ Hellraisers Group/Softland                │
+│ Lester           │ Syndrome                                  │
+│ Loki             │ Triumph                                   │
+│ Mac Buster       │ Extreme                                   │
+│ Magelan          │ Inside Law Entertaiment                   │
+│ March Cat        │ Condorsoft/Fourth Dimension/Concern Chaos │
+│ Mast             │ Fatality                                  │
+│ Max Iwamoto      │ Code Busters                              │
+│ Maxsoft          │ Extreme                                   │
+│ Maxx             │ Duplex                                    │
+│ Merlin           │ Concern Chaos                             │
+│ Mitchell         │ Hardwave Crew                             │
+│ Mmcm             │ Sage Group                                │
+│ Mongol           │ Delta Corporation                         │
+│ Mr Wizard        │ Triumph                                   │
+│ Noize            │ Phantasy                                  │
+│ Oldman           │ ex-Step Creative Group                    │
+│ Olisco           │ Razzlers                                  │
+│ Paracels         │ Eternity Industry                         │
+│ Phantazm         │ Syndrome                                  │
+│ Point 777        │ Phantasy                                  │
+│ Power            │ Without Denomination Group                │
+│ Rain             │ Inside Law Entertaiment                   │
+│ Random           │ Concern Chaos                             │
+│ Raver            │ Phantasy                                  │
+│ Rayman           │ Fourth Dimension                          │
+│ Reaper           │ ZX-Maniacs                                │
+│ Relict           │ ex-Another Reality                        │
+│ Rla              │ Computer Rats Group                       │
+│ Rom              │ Progress                                  │
+│ Ruster           │ XL Design                                 │
+│ Sairoos          │ Eternity Industry                         │
+│ Sergius Puzzler  │ Proxima Hackers Team                      │
+│ Serzhsoft        │                                           │
+│ Shadow Rider     │ Digital Arts Group                        │
+│ Shivas           │ ex-Zer0                                   │
+│ Siril            │ Fourth Dimension                          │
+│ Siv Blader       │ Excess Team                               │
+│ Softfelix        │                                           │
+│ Spark            │ Syndrome                                  │
+│ Sparker          │ XL Design                                 │
+│ Spirit           │ ex-Antique                                │
+│ Spy              │ Eternity Industry                         │
+│ Ss               │ Speccy Boyz                               │
+│ Starsoft         │ Phantasy                                  │
+│ Stupidius        │                                           │
+│ Tdm Software     │ K3L Corp                                  │
+│ Unbeliever       │ Extreme                                   │
+│ Valker           │ Style Group                               │
+│ Vdg              │ Razzlers                                  │
+│ Vel              │ Proxima Hackers Team                      │
+│ Vex              │                                           │
+│ Vigil            │ Coders Academy                            │
+│ Virtual          │ Discovery Group                           │
+│ Virtual          │ Silence Crionix Electronic Entertainment  │
+│ Wladstar         │                                           │
+│ Wlodek Black     │                                           │
+│ Wocen            │ Triumph                                   │
+│ X-Agon           │ Phantasy/Naughty Crew                     │
+│ Yerzmyey         │ Hooy-Program                              │
+│ Zhenya           │ ex-Zer0                                   │
+│ Zodiac           │ ZX-Maniacs                                │
+│ Zool00k          │ Phantasy                                  │
+├──────────────────┼───────────────────────────────────────────┤
+│ 116 voters       │ 56 groups                                 │
+
+ Вот и все. В следующий раз, конечно же, всего будет больше!

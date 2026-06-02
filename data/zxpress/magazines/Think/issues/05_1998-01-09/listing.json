@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3365,
+    "article_url": "https://zxpress.ru/article.php?id=3365",
+    "print_url": "https://zxpress.ru/print.php?id=3365",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 3362,
+    "article_url": "https://zxpress.ru/article.php?id=3362",
+    "print_url": "https://zxpress.ru/print.php?id=3362",
+    "title_link": "Говорят дети - 13 фенечек...",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Говорят_дети_-_13_фенечек"
+  },
+  {
+    "article_id": 3361,
+    "article_url": "https://zxpress.ru/article.php?id=3361",
+    "print_url": "https://zxpress.ru/print.php?id=3361",
+    "title_link": "Обзор новинок - О новинках ПО: Shclacht demo, Крестики и Нолики, Way to\r\n Earth demo.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Обзор_новинок_-_О_новинках_ПО_Shclacht_demo_Крестики_и_Нолик"
+  },
+  {
+    "article_id": 3359,
+    "article_url": "https://zxpress.ru/article.php?id=3359",
+    "print_url": "https://zxpress.ru/print.php?id=3359",
+    "title_link": "От автора - С новым годом - годом желтого тигра.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "От_автора_-_С_новым_годом_-_годом_желтого_тигра"
+  },
+  {
+    "article_id": 3363,
+    "article_url": "https://zxpress.ru/article.php?id=3363",
+    "print_url": "https://zxpress.ru/print.php?id=3363",
+    "title_link": "Правила - 3 правила падения в люк.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Правила_-_3_правила_падения_в_люк"
+  },
+  {
+    "article_id": 3360,
+    "article_url": "https://zxpress.ru/article.php?id=3360",
+    "print_url": "https://zxpress.ru/print.php?id=3360",
+    "title_link": "Проходилка - Описание-проходилка игры: Вошебник Страны ОЗ demo version.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Проходилка_-_Описание-проходилка_игры_Вошебник_Страны_ОЗ_dem"
+  },
+  {
+    "article_id": 3364,
+    "article_url": "https://zxpress.ru/article.php?id=3364",
+    "print_url": "https://zxpress.ru/print.php?id=3364",
+    "title_link": "Прямая линия - Новый год - что он нам принесет.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Прямая_линия_-_Новыи_год_-_что_он_нам_принесет"
+  },
+  {
+    "article_id": 3366,
+    "article_url": "https://zxpress.ru/article.php?id=3366",
+    "print_url": "https://zxpress.ru/print.php?id=3366",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

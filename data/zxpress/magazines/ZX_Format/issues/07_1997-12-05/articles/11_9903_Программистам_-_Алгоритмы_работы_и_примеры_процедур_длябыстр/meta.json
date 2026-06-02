@@ -1,0 +1,15 @@
+{
+  "magazine_id": 257,
+  "magazine_name": "ZX Format",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1997-12-05",
+  "order": 11,
+  "article_id": 9903,
+  "title_link": "Программистам - Алгоритмы работы и примеры процедур для\r\nбыстрых вычислений на асемблере: Умножение и деление 3-х байтовых чисел,",
+  "title_h1": "ZX Format 07 - Программистам - Алгоритмы работы и примеры процедур для быстрых вычислений на асемблере: Умножение и деление 3-х байтовых чисел,",
+  "print_url": "https://zxpress.ru/print.php?id=9903",
+  "article_url": "https://zxpress.ru/article.php?id=9903",
+  "fetched_at": "2026-05-31T23:23:47Z"
+}

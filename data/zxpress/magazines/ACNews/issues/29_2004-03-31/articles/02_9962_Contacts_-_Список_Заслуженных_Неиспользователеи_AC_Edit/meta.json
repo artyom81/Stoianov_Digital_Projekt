@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "29",
+  "issue_date_iso": "2004-03-31",
+  "order": 2,
+  "article_id": 9962,
+  "title_link": "Contacts - Список Заслуженных Неиспользователей AC Edit.",
+  "title_h1": "ACNews 29 - Contacts - Список Заслуженных Неиспользователей AC Edit.",
+  "print_url": "https://zxpress.ru/print.php?id=9962",
+  "article_url": "https://zxpress.ru/article.php?id=9962",
+  "fetched_at": "2026-05-31T21:30:53Z"
+}

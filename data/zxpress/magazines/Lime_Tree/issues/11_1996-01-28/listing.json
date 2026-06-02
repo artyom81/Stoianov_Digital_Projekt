@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 107,
+    "article_url": "https://zxpress.ru/article.php?id=107",
+    "print_url": "https://zxpress.ru/print.php?id=107",
+    "title_link": "BBS NEWS - Графика работы станций.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "BBS_NEWS_-_Графика_работы_станции"
+  },
+  {
+    "article_id": 8793,
+    "article_url": "https://zxpress.ru/article.php?id=8793",
+    "print_url": "https://zxpress.ru/print.php?id=8793",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 8794,
+    "article_url": "https://zxpress.ru/article.php?id=8794",
+    "print_url": "https://zxpress.ru/print.php?id=8794",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8795,
+    "article_url": "https://zxpress.ru/article.php?id=8795",
+    "print_url": "https://zxpress.ru/print.php?id=8795",
+    "title_link": "TREE NEWS - О новостях в модемном мире: о быстрой кончине LOGO BBS.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "TREE_NEWS_-_О_новостях_в_модемном_мире_о_быстрои_кончине_LOG"
+  },
+  {
+    "article_id": 8796,
+    "article_url": "https://zxpress.ru/article.php?id=8796",
+    "print_url": "https://zxpress.ru/print.php?id=8796",
+    "title_link": "WINSOFT NEWS - LIME TREE продолжает издаваться.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "WINSOFT_NEWS_-_LIME_TREE_продолжает_издаваться"
+  },
+  {
+    "article_id": 8797,
+    "article_url": "https://zxpress.ru/article.php?id=8797",
+    "print_url": "https://zxpress.ru/print.php?id=8797",
+    "title_link": "Зазеркалье - Эти сексуальные пришельцы.",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Зазеркалье_-_Эти_сексуальные_пришельцы"
+  },
+  {
+    "article_id": 8798,
+    "article_url": "https://zxpress.ru/article.php?id=8798",
+    "print_url": "https://zxpress.ru/print.php?id=8798",
+    "title_link": "Лит.Страничка - Новые приключения Винни Пуха (глава 5).",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "ЛитСтраничка_-_Новые_приключения_Винни_Пуха_глава_5"
+  }
+]

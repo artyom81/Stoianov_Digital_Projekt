@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15472,
+    "article_url": "https://zxpress.ru/article.php?id=15472",
+    "print_url": "https://zxpress.ru/print.php?id=15472",
+    "title_link": "Лапша - Что будет уметь новая оболочка адаптированная под C-DOS модем.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Лапша_-_Что_будет_уметь_новая_оболочка_адаптированная_под_C-"
+  },
+  {
+    "article_id": 15470,
+    "article_url": "https://zxpress.ru/article.php?id=15470",
+    "print_url": "https://zxpress.ru/print.php?id=15470",
+    "title_link": "Новости - Copyright. Цитаты. Новости.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Новости_-_Copyright_Цитаты_Новости"
+  },
+  {
+    "article_id": 15471,
+    "article_url": "https://zxpress.ru/article.php?id=15471",
+    "print_url": "https://zxpress.ru/print.php?id=15471",
+    "title_link": "Юмор - Обломы. Анекдоты.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Юмор_-_Обломы_Анекдоты"
+  },
+  {
+    "article_id": 15473,
+    "article_url": "https://zxpress.ru/article.php?id=15473",
+    "print_url": "https://zxpress.ru/print.php?id=15473",
+    "title_link": "Народ, кто может помочь? - Требуется найти. Анонс.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Народ_кто_может_помочь_-_Требуется_наити_Анонс"
+  }
+]

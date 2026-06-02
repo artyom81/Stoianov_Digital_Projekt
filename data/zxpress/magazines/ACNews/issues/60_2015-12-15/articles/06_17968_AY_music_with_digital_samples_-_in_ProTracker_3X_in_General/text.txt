@@ -1,0 +1,70 @@
+ACNews 60 - AY music with digital samples - in ProTracker 3.X in General Sound.
+AY music with digital samples
+by Alone Coder
+Playing digital samples in CPU free time is easy. Combining AY
+with General Sound was also a known (yet unreleased) idea. But
+until now, there wasn't any editor that allowed digital samples
+combined with on-int AY music.
+
+For this, I used the most straightforward method: I added a
+special command 8snn in Pro Tracker. "s" is sample number, "nn"
+is for note. (General Sound plays only 3 Amiga octaves with note
+values #24 to #4A.) If you use this command in AY's channel A,
+the sample will play in General Sound's channel A. B to B.
+C to C. So you have 9 channels in this editor: 6 AY channels
+(TurboSound) plus 3 digital channels. Of course, if you want to
+use your music in AY only release, you can limit your channels.
+
+So what is the workflow in this experimental version of Pro
+Tracker?
+
+1. Prepare a MOD file with your samples (uncycled).
+2. Put it on TRD as "filename.i".
+3. Run Pro Tracker.
+4. Load your MOD in it (nothing happens apparently but the
+samples will load in General Sound).
+5. Write your song :)
+Note, if you don't load your MOD, General Sound will buzz at
+8snn command. That's because in General Sound "Play FX" command
+doesn't work if you use it with non-existing sample. Maybe I
+must clear the samples at the start of Pro Tracker? Contact me
+with your ideas.
+
+                             * * *
+
+If we play music on AY and GS at the same time, we need to
+synchronize the replay speed between ZX and GS (defined by
+framerate), and match the pitch (defined by AY clock). So we
+need a standard for these values.
+
+If I remember correctly:
+
+48K: 50 Hz, 1750000 (AY is an add-on)
+128K: 50 Hz, 1773400
+Scorpion/KAY: 50 Hz, 1750000
+ATM Turbo: 50 Hz, 1750000
+ZX Evo default: 48.83 Hz, 1750000
+ZX Evo 48K: 50 Hz, 1750000
+ZX Evo 128K: 49.34 Hz, 1750000
+Pentagon (f=14318000): 49.94 Hz, 1789750 (AY is an add-on)
+Pentagon 2.6ббLE: 50 Hz, 1792000
+Unreal Speccy default: 50 Hz, 1774400
+50 Hz is the most popular variant without doubt (a lot of
+programs count time with this). The only trouble is AY clock. GS
+was initially developed for Scorpion and KAY that have AY at
+1750000 Hz. Maybe this will be the best option. ZX Evo can
+emulate it in 48K timing mode. Default AY clock in Unreal Speccy
+is strange anyway, but there is an option for 1750000 Hz in it.
+No 128K is known to have GS attached. So the only machine that
+has problems with playing such songs is Pentagon. Maybe tone
+values must be shifted in realtime to play there? Changing
+frequency tables will affect slides; changing finetune in GS
+samples will affect sample replay time (that's not that
+noticeable though).
+
+If we play samples on the same AY we can only care about correct
+number of t-states per frame, because AY is generally
+synchronous with the CPU. Pentagon is far from ideal 70000
+t-states, 128K is somewhat closer. And turbo mode might be
+switched on... So our replayer must detect the number of
+t-states and change the frequency table for digital samples

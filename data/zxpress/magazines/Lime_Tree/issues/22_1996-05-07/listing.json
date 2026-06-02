@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 119,
+    "article_url": "https://zxpress.ru/article.php?id=119",
+    "print_url": "https://zxpress.ru/print.php?id=119",
+    "title_link": "Вступленние - Внимание !!! Объявляется конкурс на лучшее вступление для нашей газеты.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "Вступленние_-_Внимание_Объявляется_конкурс_на_лучшее_вступле"
+  },
+  {
+    "article_id": 8830,
+    "article_url": "https://zxpress.ru/article.php?id=8830",
+    "print_url": "https://zxpress.ru/print.php?id=8830",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8831,
+    "article_url": "https://zxpress.ru/article.php?id=8831",
+    "print_url": "https://zxpress.ru/print.php?id=8831",
+    "title_link": "Зазеркалье - Из хроники исчезновений (продолжение).",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Зазеркалье_-_Из_хроники_исчезновении_продолжение"
+  },
+  {
+    "article_id": 8832,
+    "article_url": "https://zxpress.ru/article.php?id=8832",
+    "print_url": "https://zxpress.ru/print.php?id=8832",
+    "title_link": "Зазеркалье - Если Вы собрались покупать аудио- или видео-кассету: Сравнительная таблица качества аудио и видеокассет.",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Зазеркалье_-_Если_Вы_собрались_покупать_аудио-_или_видео-кас"
+  },
+  {
+    "article_id": 8833,
+    "article_url": "https://zxpress.ru/article.php?id=8833",
+    "print_url": "https://zxpress.ru/print.php?id=8833",
+    "title_link": "Мысли на тему - Некоторые уточнения от Коловрать SOFT.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Мысли_на_тему_-_Некоторые_уточнения_от_Коловрать_SOFT"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16681,
+    "article_url": "https://zxpress.ru/article.php?id=16681",
+    "print_url": "https://zxpress.ru/print.php?id=16681",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "24",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16682,
+    "article_url": "https://zxpress.ru/article.php?id=16682",
+    "print_url": "https://zxpress.ru/print.php?id=16682",
+    "title_link": "Hard Disk Drive - Новые подпрограммы Теневого Сервис Монитора для работы с контроллером периферии SMUC.",
+    "order": 2,
+    "issue_label": "24",
+    "short_slug": "Hard_Disk_Drive_-_Новые_подпрограммы_Теневого_Сервис_Монитор"
+  },
+  {
+    "article_id": 16683,
+    "article_url": "https://zxpress.ru/article.php?id=16683",
+    "print_url": "https://zxpress.ru/print.php?id=16683",
+    "title_link": "Софт - E-Modem Station v0.41.",
+    "order": 3,
+    "issue_label": "24",
+    "short_slug": "Софт_-_E-Modem_Station_v041"
+  },
+  {
+    "article_id": 16684,
+    "article_url": "https://zxpress.ru/article.php?id=16684",
+    "print_url": "https://zxpress.ru/print.php?id=16684",
+    "title_link": "Психология - Тест: \"Сова\" или \"жаворонок\"?",
+    "order": 4,
+    "issue_label": "24",
+    "short_slug": "Психология_-_Тест_Сова_или_жаворонок"
+  },
+  {
+    "article_id": 16685,
+    "article_url": "https://zxpress.ru/article.php?id=16685",
+    "print_url": "https://zxpress.ru/print.php?id=16685",
+    "title_link": "Юмор - That is true.",
+    "order": 5,
+    "issue_label": "24",
+    "short_slug": "Юмор_-_That_is_true"
+  },
+  {
+    "article_id": 16686,
+    "article_url": "https://zxpress.ru/article.php?id=16686",
+    "print_url": "https://zxpress.ru/print.php?id=16686",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 6,
+    "issue_label": "24",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16687,
+    "article_url": "https://zxpress.ru/article.php?id=16687",
+    "print_url": "https://zxpress.ru/print.php?id=16687",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "24",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16688,
+    "article_url": "https://zxpress.ru/article.php?id=16688",
+    "print_url": "https://zxpress.ru/print.php?id=16688",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "24",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

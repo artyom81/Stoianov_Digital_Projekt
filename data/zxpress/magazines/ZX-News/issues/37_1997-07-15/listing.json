@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 2948,
+    "article_url": "https://zxpress.ru/article.php?id=2948",
+    "print_url": "https://zxpress.ru/print.php?id=2948",
+    "title_link": "Oт редакции - Вернулся главный редактор газеты.",
+    "order": 1,
+    "issue_label": "37",
+    "short_slug": "Oт_редакции_-_Вернулся_главныи_редактор_газеты"
+  },
+  {
+    "article_id": 2952,
+    "article_url": "https://zxpress.ru/article.php?id=2952",
+    "print_url": "https://zxpress.ru/print.php?id=2952",
+    "title_link": "Дискуссия - Сеть погубила Спектрум?",
+    "order": 2,
+    "issue_label": "37",
+    "short_slug": "Дискуссия_-_Сеть_погубила_Спектрум"
+  },
+  {
+    "article_id": 2951,
+    "article_url": "https://zxpress.ru/article.php?id=2951",
+    "print_url": "https://zxpress.ru/print.php?id=2951",
+    "title_link": "Интервью - Письмо от Ростовской группы Omega Hackers Group об истории\r\n создания группы и планах на будущее.",
+    "order": 3,
+    "issue_label": "37",
+    "short_slug": "Интервью_-_Письмо_от_Ростовскои_группы_Omega_Hackers_Group_о"
+  },
+  {
+    "article_id": 2950,
+    "article_url": "https://zxpress.ru/article.php?id=2950",
+    "print_url": "https://zxpress.ru/print.php?id=2950",
+    "title_link": "Письма - Письмо от Zoolook'a из Эстонии о подготовке к приближающемуся Инлайту.\r\n Анкета для групп , собирающихся на Enlight.",
+    "order": 4,
+    "issue_label": "37",
+    "short_slug": "Письма_-_Письмо_от_Zoolooka_из_Эстонии_о_подготовке_к_прибли"
+  },
+  {
+    "article_id": 2949,
+    "article_url": "https://zxpress.ru/article.php?id=2949",
+    "print_url": "https://zxpress.ru/print.php?id=2949",
+    "title_link": "Список BBS - Описание работы NetRobot'a.\r\n Список BBS.",
+    "order": 5,
+    "issue_label": "37",
+    "short_slug": "Список_BBS_-_Описание_работы_NetRobota_Список_BBS"
+  },
+  {
+    "article_id": 2953,
+    "article_url": "https://zxpress.ru/article.php?id=2953",
+    "print_url": "https://zxpress.ru/print.php?id=2953",
+    "title_link": "Юмор - Рассказ \"Хохмачи\".",
+    "order": 6,
+    "issue_label": "37",
+    "short_slug": "Юмор_-_Рассказ_Хохмачи"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 183,
+    "article_url": "https://zxpress.ru/article.php?id=183",
+    "print_url": "https://zxpress.ru/print.php?id=183",
+    "title_link": "Вступление - Глюки в читалке - миф или реальность.",
+    "order": 1,
+    "issue_label": "29",
+    "short_slug": "Вступление_-_Глюки_в_читалке_-_миф_или_реальность"
+  },
+  {
+    "article_id": 184,
+    "article_url": "https://zxpress.ru/article.php?id=184",
+    "print_url": "https://zxpress.ru/print.php?id=184",
+    "title_link": "Наша анкета - Результаты второй анкеты.",
+    "order": 2,
+    "issue_label": "29",
+    "short_slug": "Наша_анкета_-_Результаты_второи_анкеты"
+  },
+  {
+    "article_id": 12287,
+    "article_url": "https://zxpress.ru/article.php?id=12287",
+    "print_url": "https://zxpress.ru/print.php?id=12287",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "29",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12288,
+    "article_url": "https://zxpress.ru/article.php?id=12288",
+    "print_url": "https://zxpress.ru/print.php?id=12288",
+    "title_link": "Печатается с продолж. - Папуас из Гондураса (продолжение).",
+    "order": 4,
+    "issue_label": "29",
+    "short_slug": "Печатается_с_продолж_-_Папуас_из_Гондураса_продолжение"
+  },
+  {
+    "article_id": 12289,
+    "article_url": "https://zxpress.ru/article.php?id=12289",
+    "print_url": "https://zxpress.ru/print.php?id=12289",
+    "title_link": "Версии - 2 версии игры: DOUBLE DRAGON 3.",
+    "order": 5,
+    "issue_label": "29",
+    "short_slug": "Версии_-_2_версии_игры_DOUBLE_DRAGON_3"
+  },
+  {
+    "article_id": 12290,
+    "article_url": "https://zxpress.ru/article.php?id=12290",
+    "print_url": "https://zxpress.ru/print.php?id=12290",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "29",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 12291,
+    "article_url": "https://zxpress.ru/article.php?id=12291",
+    "print_url": "https://zxpress.ru/print.php?id=12291",
+    "title_link": "Полезные советы - Как определить полярность источника постоянного тока\r\n без прибора.",
+    "order": 7,
+    "issue_label": "29",
+    "short_slug": "Полезные_советы_-_Как_определить_полярность_источника_постоя"
+  }
+]

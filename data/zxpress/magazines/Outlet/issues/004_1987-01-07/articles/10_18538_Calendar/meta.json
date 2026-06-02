@@ -1,0 +1,15 @@
+{
+  "magazine_id": 314,
+  "magazine_name": "Outlet",
+  "city": null,
+  "country": null,
+  "issue_label": "004",
+  "issue_date_iso": "1987-01-07",
+  "order": 10,
+  "article_id": 18538,
+  "title_link": "Calendar",
+  "title_h1": "004 - Calendar",
+  "print_url": "https://zxpress.ru/print.php?id=18538",
+  "article_url": "https://zxpress.ru/article.php?id=18538",
+  "fetched_at": "2026-05-31T23:45:31Z"
+}

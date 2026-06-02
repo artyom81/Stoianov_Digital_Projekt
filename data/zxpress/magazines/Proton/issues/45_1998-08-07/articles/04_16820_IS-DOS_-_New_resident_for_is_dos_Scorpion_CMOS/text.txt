@@ -1,0 +1,36 @@
+Proton 45 - IS-DOS - New resident for is_dos Scorpion (CMOS).
+╔══════════════════════════════════════════════════════════════╗
+║
+IS-DOS
+║
+╙──────────────────────────────────────────────────────────────╜
+(C) Klim Gromov
+To   : All
+From : Klim Gromov (500:95/366)
+Subj : [1/1] new resident for is_dos Scorpion (CMOS)
+Date : Fri 07 Aug 1998
+Time : 18:40:00
+────────────────────────────────────────────────────────────────
+После превода uue кода в нормальный вид, прогоните его через
+хобету,  затем  в  is_dos  тащите,  ext  имя "res", жмёте на нём
+интер,  и  инсталируйте  из монитора, получаете замечательную, с
+обновляющемся,  есесино,  временем, строку вида: "[**:**:**]", в
+удобном месте экрана, с моргающими двоеточиями.
+    Сие тока для Скорпов с часами, иначе....
+(ц)1998 Klim inc.
+===Cut===
+section 1 of 1 of file clock_re.$re  < iS-UUE 3.00 by MK >
+begin 644 clock_re.$re
+MOTQ/OTM?4D5#4,-_```!HЗQ=PP``/OA@,,.'M?)_OXH`ACQKQCP```7&`$&
+M#P````8)7S);*BHZ*BHZ*BI=```A<,U?K<H$?X9P#X@W2%TP]UW`]UW!A@/
+M-C(6(,^)(77#%D`>^L^)K]TA9L/==P#==P$A=,,&"G[/A",0^LG__T_#5L.`
+MPX[#G.JP[/#`R<_?(`0!Y.^`O`?C@[7P$._=^"2*P!P*`=2<1&_TV]Q/@
+M:P;QB]X#`@2R-PЧ#=@CKQ%Q#A]8.S'1^!#/2B59C1<.)>?R!?@9$!QO<OPQO
+M9PJZ!<M*ЧАТ1*$"PSE97FB@CTL*)`R"<)(/&`H/^4'S?=]@X!9$V40'/4/)"
+#*"?_
+`
+end
+sum -r/size 21360/407 section (from "begin" to "end")
+sum -r/size 46950/273 entire input file
+===Cut===
+---ZXW * Origin: #F3;#76 merry combination; Klim (500:95/366)

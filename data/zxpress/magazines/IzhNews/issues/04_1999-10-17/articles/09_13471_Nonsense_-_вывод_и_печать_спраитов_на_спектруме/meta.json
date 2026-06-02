@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-10-17",
+  "order": 9,
+  "article_id": 13471,
+  "title_link": "Nonsense - вывод и печать спрайтов на спектруме.",
+  "title_h1": "IzhNews 04 - Nonsense - вывод и печать спрайтов на спектруме.",
+  "print_url": "https://zxpress.ru/print.php?id=13471",
+  "article_url": "https://zxpress.ru/article.php?id=13471",
+  "fetched_at": "2026-05-31T22:15:25Z"
+}

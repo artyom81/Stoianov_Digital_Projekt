@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "22",
+  "issue_date_iso": "1996-10-28",
+  "order": 5,
+  "article_id": 167,
+  "title_link": "Предисловие - Реализован 128 режим в газете.",
+  "title_h1": "Maximum 22 - Предисловие - Реализован 128 режим в газете.",
+  "print_url": "https://zxpress.ru/print.php?id=167",
+  "article_url": "https://zxpress.ru/article.php?id=167",
+  "fetched_at": "2026-05-31T22:23:39Z"
+}

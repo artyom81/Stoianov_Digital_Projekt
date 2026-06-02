@@ -1,0 +1,434 @@
+[
+  {
+    "article_id": 8035,
+    "article_url": "https://zxpress.ru/article.php?id=8035",
+    "print_url": "https://zxpress.ru/print.php?id=8035",
+    "title_link": "Авторы - Авторы журнала и контакты редакции.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Авторы_-_Авторы_журнала_и_контакты_редакции"
+  },
+  {
+    "article_id": 8036,
+    "article_url": "https://zxpress.ru/article.php?id=8036",
+    "print_url": "https://zxpress.ru/print.php?id=8036",
+    "title_link": "Вступление - Приветствия и вступительное слово.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_Приветствия_и_вступительное_слово"
+  },
+  {
+    "article_id": 8037,
+    "article_url": "https://zxpress.ru/article.php?id=8037",
+    "print_url": "https://zxpress.ru/print.php?id=8037",
+    "title_link": "Вступление - Описание возможностей оболочки.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_Описание_возможностеи_оболочки"
+  },
+  {
+    "article_id": 8038,
+    "article_url": "https://zxpress.ru/article.php?id=8038",
+    "print_url": "https://zxpress.ru/print.php?id=8038",
+    "title_link": "Вступление - Содержание номера.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_Содержание_номера"
+  },
+  {
+    "article_id": 8039,
+    "article_url": "https://zxpress.ru/article.php?id=8039",
+    "print_url": "https://zxpress.ru/print.php?id=8039",
+    "title_link": "Вступление - Анонс статей следующего номера.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_Анонс_статеи_следующего_номера"
+  },
+  {
+    "article_id": 8040,
+    "article_url": "https://zxpress.ru/article.php?id=8040",
+    "print_url": "https://zxpress.ru/print.php?id=8040",
+    "title_link": "Ликбез - Восстановление программ методом поиска адреса пуска, с помощью перевзлома.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Ликбез_-_Восстановление_программ_методом_поиска_адреса_пуска"
+  },
+  {
+    "article_id": 8041,
+    "article_url": "https://zxpress.ru/article.php?id=8041",
+    "print_url": "https://zxpress.ru/print.php?id=8041",
+    "title_link": "Ликбез - Автоматическое создание маски для спрайтов.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Ликбез_-_Автоматическое_создание_маски_для_спраитов"
+  },
+  {
+    "article_id": 8042,
+    "article_url": "https://zxpress.ru/article.php?id=8042",
+    "print_url": "https://zxpress.ru/print.php?id=8042",
+    "title_link": "Ликбез - новый алгоритм быстрой 3D графики на SPECCY.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Ликбез_-_новыи_алгоритм_быстрои_3D_графики_на_SPECCY"
+  },
+  {
+    "article_id": 8043,
+    "article_url": "https://zxpress.ru/article.php?id=8043",
+    "print_url": "https://zxpress.ru/print.php?id=8043",
+    "title_link": "Ликбез - CHEATS и POKES в игровых программах: история методов нечестной игры, фирменный CHEAT, использование опубликованных POKES, поиск адресов бессмертия.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Ликбез_-_CHEATS_и_POKES_в_игровых_программах_история_методов"
+  },
+  {
+    "article_id": 8044,
+    "article_url": "https://zxpress.ru/article.php?id=8044",
+    "print_url": "https://zxpress.ru/print.php?id=8044",
+    "title_link": "Разное - Фальшивые редакторы для музыкального сопроцессора.",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Фальшивые_редакторы_для_музыкального_сопроцессора"
+  },
+  {
+    "article_id": 8045,
+    "article_url": "https://zxpress.ru/article.php?id=8045",
+    "print_url": "https://zxpress.ru/print.php?id=8045",
+    "title_link": "Разное - Траблы с AY (неверная частота тактирования).",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Траблы_с_AY_неверная_частота_тактирования"
+  },
+  {
+    "article_id": 8049,
+    "article_url": "https://zxpress.ru/article.php?id=8049",
+    "print_url": "https://zxpress.ru/print.php?id=8049",
+    "title_link": "Разное - Вирус в IS-DOS.",
+    "order": 12,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Вирус_в_IS-DOS"
+  },
+  {
+    "article_id": 8046,
+    "article_url": "https://zxpress.ru/article.php?id=8046",
+    "print_url": "https://zxpress.ru/print.php?id=8046",
+    "title_link": "Разное - Прулевка - странные люди.",
+    "order": 13,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Прулевка_-_странные_люди"
+  },
+  {
+    "article_id": 8047,
+    "article_url": "https://zxpress.ru/article.php?id=8047",
+    "print_url": "https://zxpress.ru/print.php?id=8047",
+    "title_link": "Разное - Редактор отгрузки для ELITE-3.",
+    "order": 14,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Редактор_отгрузки_для_ELITE-3"
+  },
+  {
+    "article_id": 8048,
+    "article_url": "https://zxpress.ru/article.php?id=8048",
+    "print_url": "https://zxpress.ru/print.php?id=8048",
+    "title_link": "Разное - результаты опроса общественного мнения Спектрумистов.",
+    "order": 15,
+    "issue_label": "03",
+    "short_slug": "Разное_-_результаты_опроса_общественного_мнения_Спектрумисто"
+  },
+  {
+    "article_id": 8050,
+    "article_url": "https://zxpress.ru/article.php?id=8050",
+    "print_url": "https://zxpress.ru/print.php?id=8050",
+    "title_link": "Разное - Конкурс специальных корреспондентов для журнала.",
+    "order": 16,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Конкурс_специальных_корреспондентов_для_журнала"
+  },
+  {
+    "article_id": 8051,
+    "article_url": "https://zxpress.ru/article.php?id=8051",
+    "print_url": "https://zxpress.ru/print.php?id=8051",
+    "title_link": "Разное - Проект развития Спектрумовского рынка.",
+    "order": 17,
+    "issue_label": "03",
+    "short_slug": "Разное_-_Проект_развития_Спектрумовского_рынка"
+  },
+  {
+    "article_id": 8052,
+    "article_url": "https://zxpress.ru/article.php?id=8052",
+    "print_url": "https://zxpress.ru/print.php?id=8052",
+    "title_link": "Разное - FUNTOP-98 - итоги фестиваля.",
+    "order": 18,
+    "issue_label": "03",
+    "short_slug": "Разное_-_FUNTOP-98_-_итоги_фестиваля"
+  },
+  {
+    "article_id": 8053,
+    "article_url": "https://zxpress.ru/article.php?id=8053",
+    "print_url": "https://zxpress.ru/print.php?id=8053",
+    "title_link": "Комната смеха - Компьютерный словарь для чайников.",
+    "order": 19,
+    "issue_label": "03",
+    "short_slug": "Комната_смеха_-_Компьютерныи_словарь_для_чаиников"
+  },
+  {
+    "article_id": 8054,
+    "article_url": "https://zxpress.ru/article.php?id=8054",
+    "print_url": "https://zxpress.ru/print.php?id=8054",
+    "title_link": "Комната смеха - Химическая история.",
+    "order": 20,
+    "issue_label": "03",
+    "short_slug": "Комната_смеха_-_Химическая_история"
+  },
+  {
+    "article_id": 8055,
+    "article_url": "https://zxpress.ru/article.php?id=8055",
+    "print_url": "https://zxpress.ru/print.php?id=8055",
+    "title_link": "Комната смеха - Второе насшествие марсиан.",
+    "order": 21,
+    "issue_label": "03",
+    "short_slug": "Комната_смеха_-_Второе_насшествие_марсиан"
+  },
+  {
+    "article_id": 8056,
+    "article_url": "https://zxpress.ru/article.php?id=8056",
+    "print_url": "https://zxpress.ru/print.php?id=8056",
+    "title_link": "Комната смеха - Анекдоты про Интернетчика.",
+    "order": 22,
+    "issue_label": "03",
+    "short_slug": "Комната_смеха_-_Анекдоты_про_Интернетчика"
+  },
+  {
+    "article_id": 8057,
+    "article_url": "https://zxpress.ru/article.php?id=8057",
+    "print_url": "https://zxpress.ru/print.php?id=8057",
+    "title_link": "Комната смеха - Виндоза - Source Code of Windows.",
+    "order": 23,
+    "issue_label": "03",
+    "short_slug": "Комната_смеха_-_Виндоза_-_Source_Code_of_Windows"
+  },
+  {
+    "article_id": 8058,
+    "article_url": "https://zxpress.ru/article.php?id=8058",
+    "print_url": "https://zxpress.ru/print.php?id=8058",
+    "title_link": "Паутина - Как работает модем.",
+    "order": 24,
+    "issue_label": "03",
+    "short_slug": "Паутина_-_Как_работает_модем"
+  },
+  {
+    "article_id": 8059,
+    "article_url": "https://zxpress.ru/article.php?id=8059",
+    "print_url": "https://zxpress.ru/print.php?id=8059",
+    "title_link": "Паутина - Описание команд HAYES-модема.",
+    "order": 25,
+    "issue_label": "03",
+    "short_slug": "Паутина_-_Описание_команд_HAYES-модема"
+  },
+  {
+    "article_id": 8060,
+    "article_url": "https://zxpress.ru/article.php?id=8060",
+    "print_url": "https://zxpress.ru/print.php?id=8060",
+    "title_link": "Паутина - Что такое MNP в HAYES-модемах.",
+    "order": 26,
+    "issue_label": "03",
+    "short_slug": "Паутина_-_Что_такое_MNP_в_HAYES-модемах"
+  },
+  {
+    "article_id": 8061,
+    "article_url": "https://zxpress.ru/article.php?id=8061",
+    "print_url": "https://zxpress.ru/print.php?id=8061",
+    "title_link": "Паутина - Модемы на Спектруме.",
+    "order": 27,
+    "issue_label": "03",
+    "short_slug": "Паутина_-_Модемы_на_Спектруме"
+  },
+  {
+    "article_id": 8062,
+    "article_url": "https://zxpress.ru/article.php?id=8062",
+    "print_url": "https://zxpress.ru/print.php?id=8062",
+    "title_link": "Интервью - Интервью с Ticklish Jim-ом , Rom/Progress , BRAIN WAVE CORP, RST#7, KGS INC.",
+    "order": 28,
+    "issue_label": "03",
+    "short_slug": "Интервью_-_Интервью_с_Ticklish_Jim-ом_RomProgress_BRAIN_WAVE"
+  },
+  {
+    "article_id": 8063,
+    "article_url": "https://zxpress.ru/article.php?id=8063",
+    "print_url": "https://zxpress.ru/print.php?id=8063",
+    "title_link": "Перспектива - Презентация игры \"Зеркало\".",
+    "order": 29,
+    "issue_label": "03",
+    "short_slug": "Перспектива_-_Презентация_игры_Зеркало"
+  },
+  {
+    "article_id": 8064,
+    "article_url": "https://zxpress.ru/article.php?id=8064",
+    "print_url": "https://zxpress.ru/print.php?id=8064",
+    "title_link": "Перспектива - CSC: DEJA VU - слухи и реальность.",
+    "order": 30,
+    "issue_label": "03",
+    "short_slug": "Перспектива_-_CSC_DEJA_VU_-_слухи_и_реальность"
+  },
+  {
+    "article_id": 8065,
+    "article_url": "https://zxpress.ru/article.php?id=8065",
+    "print_url": "https://zxpress.ru/print.php?id=8065",
+    "title_link": "Новости - Новости со сцены: Phantom Family, Smash, OHG, Avalon, Spark, K3L, TGM, First Association, Discovery Group, BrainWave и т.д.",
+    "order": 31,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Новости_со_сцены_Phantom_Family_Smash_OHG_Avalon_S"
+  },
+  {
+    "article_id": 8066,
+    "article_url": "https://zxpress.ru/article.php?id=8066",
+    "print_url": "https://zxpress.ru/print.php?id=8066",
+    "title_link": "Новости - новости от Челябинских спектрумистов.",
+    "order": 32,
+    "issue_label": "03",
+    "short_slug": "Новости_-_новости_от_Челябинских_спектрумистов"
+  },
+  {
+    "article_id": 8067,
+    "article_url": "https://zxpress.ru/article.php?id=8067",
+    "print_url": "https://zxpress.ru/print.php?id=8067",
+    "title_link": "Новости - Вести из Черкасс.",
+    "order": 33,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Вести_из_Черкасс"
+  },
+  {
+    "article_id": 8068,
+    "article_url": "https://zxpress.ru/article.php?id=8068",
+    "print_url": "https://zxpress.ru/print.php?id=8068",
+    "title_link": "Вокруг света - APPLE представила прозрачный проект ПК.",
+    "order": 34,
+    "issue_label": "03",
+    "short_slug": "Вокруг_света_-_APPLE_представила_прозрачныи_проект_ПК"
+  },
+  {
+    "article_id": 8069,
+    "article_url": "https://zxpress.ru/article.php?id=8069",
+    "print_url": "https://zxpress.ru/print.php?id=8069",
+    "title_link": "Вокруг света - IA-64: неофициальная хроника переворота.",
+    "order": 35,
+    "issue_label": "03",
+    "short_slug": "Вокруг_света_-_IA-64_неофициальная_хроника_переворота"
+  },
+  {
+    "article_id": 8070,
+    "article_url": "https://zxpress.ru/article.php?id=8070",
+    "print_url": "https://zxpress.ru/print.php?id=8070",
+    "title_link": "Вокруг света - Билл Гейтс: О WINDOWS - только хорошее.",
+    "order": 36,
+    "issue_label": "03",
+    "short_slug": "Вокруг_света_-_Билл_Геитс_О_WINDOWS_-_только_хорошее"
+  },
+  {
+    "article_id": 8071,
+    "article_url": "https://zxpress.ru/article.php?id=8071",
+    "print_url": "https://zxpress.ru/print.php?id=8071",
+    "title_link": "Вокруг света - Все что вы хотели знать о \"Силиконе\".",
+    "order": 37,
+    "issue_label": "03",
+    "short_slug": "Вокруг_света_-_Все_что_вы_хотели_знать_о_Силиконе"
+  },
+  {
+    "article_id": 8072,
+    "article_url": "https://zxpress.ru/article.php?id=8072",
+    "print_url": "https://zxpress.ru/print.php?id=8072",
+    "title_link": "Чтиво - Рассказ Е.Нестеренко \"Корона и кольцо\" (часть 2)",
+    "order": 38,
+    "issue_label": "03",
+    "short_slug": "Чтиво_-_Рассказ_ЕНестеренко_Корона_и_кольцо_часть_2"
+  },
+  {
+    "article_id": 8073,
+    "article_url": "https://zxpress.ru/article.php?id=8073",
+    "print_url": "https://zxpress.ru/print.php?id=8073",
+    "title_link": "Чтиво - Кровавая тьма.",
+    "order": 39,
+    "issue_label": "03",
+    "short_slug": "Чтиво_-_Кровавая_тьма"
+  },
+  {
+    "article_id": 8074,
+    "article_url": "https://zxpress.ru/article.php?id=8074",
+    "print_url": "https://zxpress.ru/print.php?id=8074",
+    "title_link": "Чтиво - Терминатор 3.",
+    "order": 40,
+    "issue_label": "03",
+    "short_slug": "Чтиво_-_Терминатор_3"
+  },
+  {
+    "article_id": 8075,
+    "article_url": "https://zxpress.ru/article.php?id=8075",
+    "print_url": "https://zxpress.ru/print.php?id=8075",
+    "title_link": "Металлолом - BRIGHT + FLASH = NEW SPECCY.",
+    "order": 41,
+    "issue_label": "03",
+    "short_slug": "Металлолом_-_BRIGHT_FLASH_NEW_SPECCY"
+  },
+  {
+    "article_id": 8076,
+    "article_url": "https://zxpress.ru/article.php?id=8076",
+    "print_url": "https://zxpress.ru/print.php?id=8076",
+    "title_link": "Металлолом - Схема подключения HAYES-модема.",
+    "order": 42,
+    "issue_label": "03",
+    "short_slug": "Металлолом_-_Схема_подключения_HAYES-модема"
+  },
+  {
+    "article_id": 8077,
+    "article_url": "https://zxpress.ru/article.php?id=8077",
+    "print_url": "https://zxpress.ru/print.php?id=8077",
+    "title_link": "Обозрение - Журналы, которые мы выбираем: ADVENTURER-6, AMAZING-2, AMIGA NEWS-1, CHAOS-1, DEJA VU-4, DEPTH-1,FLASH TIME-1,MIRACLE-1, OBERON-4, ODYSSEY-2, SPECCY-7,SPECTROPHOBY-,SPECTROFON-23, SPECTRUM PROGRESS-2 , ZX-FORMAT-7 , ZX-NEWS-3 , ZX-POWER-3, ZX-РЕВЮ.",
+    "order": 43,
+    "issue_label": "03",
+    "short_slug": "Обозрение_-_Журналы_которые_мы_выбираем_ADVENTURER-6_AMAZING"
+  },
+  {
+    "article_id": 8078,
+    "article_url": "https://zxpress.ru/article.php?id=8078",
+    "print_url": "https://zxpress.ru/print.php?id=8078",
+    "title_link": "Обозрение - Обзор новинок ПО: TWILIGHT, BOOVIE, TOWDIE, ORION, SHERWOOD,WACKY RACES, MYSTICAL, JMENO, RUZE, SUPER CARS,LAST NINJA2,CHACK YEAGER-S,ADVANCED FLIGHT TRAINER,THE RAVERS PARADISE,TRITON MIX, TWIN WORLD, DUCK MANIA.",
+    "order": 44,
+    "issue_label": "03",
+    "short_slug": "Обозрение_-_Обзор_новинок_ПО_TWILIGHT_BOOVIE_TOWDIE_ORION_SH"
+  },
+  {
+    "article_id": 8079,
+    "article_url": "https://zxpress.ru/article.php?id=8079",
+    "print_url": "https://zxpress.ru/print.php?id=8079",
+    "title_link": "Почта - Переписка с читателями журнала.",
+    "order": 45,
+    "issue_label": "03",
+    "short_slug": "Почта_-_Переписка_с_читателями_журнала"
+  },
+  {
+    "article_id": 8080,
+    "article_url": "https://zxpress.ru/article.php?id=8080",
+    "print_url": "https://zxpress.ru/print.php?id=8080",
+    "title_link": "Почта - Письма: какие они бывают...",
+    "order": 46,
+    "issue_label": "03",
+    "short_slug": "Почта_-_Письма_какие_они_бывают"
+  },
+  {
+    "article_id": 8081,
+    "article_url": "https://zxpress.ru/article.php?id=8081",
+    "print_url": "https://zxpress.ru/print.php?id=8081",
+    "title_link": "Рабочий стол - Теневой многотекстовый ассемблер-отладчик ALASM 4.1 (Краткое описание функциональных возможностей).",
+    "order": 47,
+    "issue_label": "03",
+    "short_slug": "Рабочии_стол_-_Теневои_многотекстовыи_ассемблер-отладчик_ALA"
+  },
+  {
+    "article_id": 8082,
+    "article_url": "https://zxpress.ru/article.php?id=8082",
+    "print_url": "https://zxpress.ru/print.php?id=8082",
+    "title_link": "Меломания - Меломания выпуск 1.",
+    "order": 48,
+    "issue_label": "03",
+    "short_slug": "Меломания_-_Меломания_выпуск_1"
+  }
+]

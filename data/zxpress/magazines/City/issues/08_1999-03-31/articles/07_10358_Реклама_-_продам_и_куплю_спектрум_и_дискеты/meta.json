@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-03-31",
+  "order": 7,
+  "article_id": 10358,
+  "title_link": "Реклама - продам и куплю спектрум и дискеты.",
+  "title_h1": "City 08 - Реклама - продам и куплю спектрум и дискеты.",
+  "print_url": "https://zxpress.ru/print.php?id=10358",
+  "article_url": "https://zxpress.ru/article.php?id=10358",
+  "fetched_at": "2026-05-31T21:50:15Z"
+}

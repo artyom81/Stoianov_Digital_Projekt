@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 7597,
+    "article_url": "https://zxpress.ru/article.php?id=7597",
+    "print_url": "https://zxpress.ru/print.php?id=7597",
+    "title_link": "Наши новости - О создании списка юзеров.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Наши_новости_-_О_создании_списка_юзеров"
+  },
+  {
+    "article_id": 7598,
+    "article_url": "https://zxpress.ru/article.php?id=7598",
+    "print_url": "https://zxpress.ru/print.php?id=7598",
+    "title_link": "Обзор - О новых играх: FIVETEENS.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Обзор_-_О_новых_играх_FIVETEENS"
+  },
+  {
+    "article_id": 7599,
+    "article_url": "https://zxpress.ru/article.php?id=7599",
+    "print_url": "https://zxpress.ru/print.php?id=7599",
+    "title_link": "Разберемся - Подробный отчет о прохождении игры WILD WEST SEYMOUR.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игры_WILD_WEST_SE"
+  },
+  {
+    "article_id": 7600,
+    "article_url": "https://zxpress.ru/article.php?id=7600",
+    "print_url": "https://zxpress.ru/print.php?id=7600",
+    "title_link": "DUCK NEWS - WINDOWS97 для SPECCY с памятью от 2 Мб и выше.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "DUCK_NEWS_-_WINDOWS97_для_SPECCY_с_памятью_от_2_Мб_и_выше"
+  },
+  {
+    "article_id": 7601,
+    "article_url": "https://zxpress.ru/article.php?id=7601",
+    "print_url": "https://zxpress.ru/print.php?id=7601",
+    "title_link": "В гостях у сказки - Сказка про Рому и процессор.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "В_гостях_у_сказки_-_Сказка_про_Рому_и_процессор"
+  },
+  {
+    "article_id": 7602,
+    "article_url": "https://zxpress.ru/article.php?id=7602",
+    "print_url": "https://zxpress.ru/print.php?id=7602",
+    "title_link": "HARD and SOFT - Проблема тринадцатых дисководов.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "HARD_and_SOFT_-_Проблема_тринадцатых_дисководов"
+  },
+  {
+    "article_id": 7603,
+    "article_url": "https://zxpress.ru/article.php?id=7603",
+    "print_url": "https://zxpress.ru/print.php?id=7603",
+    "title_link": "HARD and SOFT - Процедура, позволяющая при отсутствии приборов определить длительность сигнала INT.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "HARD_and_SOFT_-_Процедура_позволяющая_при_отсутствии_приборо"
+  },
+  {
+    "article_id": 7604,
+    "article_url": "https://zxpress.ru/article.php?id=7604",
+    "print_url": "https://zxpress.ru/print.php?id=7604",
+    "title_link": "HINTS! - Подсказки к играм : UFO ENEMY UNKNOWN, FIVETEENS,SEXTRIS, Поле Чудес.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "HINTS_-_Подсказки_к_играм_UFO_ENEMY_UNKNOWN_FIVETEENSSEXTRIS"
+  },
+  {
+    "article_id": 7605,
+    "article_url": "https://zxpress.ru/article.php?id=7605",
+    "print_url": "https://zxpress.ru/print.php?id=7605",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

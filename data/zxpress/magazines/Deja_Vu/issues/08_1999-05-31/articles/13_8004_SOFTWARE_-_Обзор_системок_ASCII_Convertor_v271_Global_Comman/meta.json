@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 13,
+  "article_id": 8004,
+  "title_link": "SOFTWARE - Обзор системок: ASCII Convertor v2.71 , Global Commander v1.31, BA v1.0, X-Copy.",
+  "title_h1": "Deja Vu 08 - SOFTWARE - Обзор системок: ASCII Convertor v2.71 , Global Commander v1.31, BA v1.0, X-Copy.",
+  "print_url": "https://zxpress.ru/print.php?id=8004",
+  "article_url": "https://zxpress.ru/article.php?id=8004",
+  "fetched_at": "2026-05-31T21:55:32Z"
+}

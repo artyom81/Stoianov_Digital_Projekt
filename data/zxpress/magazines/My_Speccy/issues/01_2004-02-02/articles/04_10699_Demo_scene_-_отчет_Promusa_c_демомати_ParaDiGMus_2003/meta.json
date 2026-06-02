@@ -1,0 +1,15 @@
+{
+  "magazine_id": 132,
+  "magazine_name": "My Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2004-02-02",
+  "order": 4,
+  "article_id": 10699,
+  "title_link": "Demo scene - отчет Promus'a c демомати ParaDiGMus 2003.",
+  "title_h1": "My Speccy 01 - Demo scene - отчет Promus&#039;a c демомати ParaDiGMus 2003.",
+  "print_url": "https://zxpress.ru/print.php?id=10699",
+  "article_url": "https://zxpress.ru/article.php?id=10699",
+  "fetched_at": "2026-05-31T22:31:23Z"
+}

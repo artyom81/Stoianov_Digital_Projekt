@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3373,
+    "article_url": "https://zxpress.ru/article.php?id=3373",
+    "print_url": "https://zxpress.ru/print.php?id=3373",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3375,
+    "article_url": "https://zxpress.ru/article.php?id=3375",
+    "print_url": "https://zxpress.ru/print.php?id=3375",
+    "title_link": "Железяка - Чудо-сканер.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Железяка_-_Чудо-сканер"
+  },
+  {
+    "article_id": 3374,
+    "article_url": "https://zxpress.ru/article.php?id=3374",
+    "print_url": "https://zxpress.ru/print.php?id=3374",
+    "title_link": "Каракули мозга - Минометы рассвета (точное ночное наблюдение).",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Каракули_мозга_-_Минометы_рассвета_точное_ночное_наблюдение"
+  },
+  {
+    "article_id": 3377,
+    "article_url": "https://zxpress.ru/article.php?id=3377",
+    "print_url": "https://zxpress.ru/print.php?id=3377",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3372,
+    "article_url": "https://zxpress.ru/article.php?id=3372",
+    "print_url": "https://zxpress.ru/print.php?id=3372",
+    "title_link": "Слово авторов - Первоапрельский выпуск.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Слово_авторов_-_Первоапрельскии_выпуск"
+  },
+  {
+    "article_id": 3376,
+    "article_url": "https://zxpress.ru/article.php?id=3376",
+    "print_url": "https://zxpress.ru/print.php?id=3376",
+    "title_link": "Сплошные приколы - Краткая инструкция мужу, как любить компьютер.\r\n С Ивановым шутки плохи.\r\n 7 анекдотов.\r\n Инструкция по технике безопасного секса.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Сплошные_приколы_-_Краткая_инструкция_мужу_как_любить_компью"
+  }
+]

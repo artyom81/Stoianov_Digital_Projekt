@@ -1,0 +1,15 @@
+{
+  "magazine_id": 237,
+  "magazine_name": "Welcome Press",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "1994-12-31",
+  "order": 4,
+  "article_id": 10502,
+  "title_link": "Смак - Сегодня у нас на закуску шашлык.",
+  "title_h1": "City 32 - Смак - Сегодня у нас на закуску шашлык.",
+  "print_url": "https://zxpress.ru/print.php?id=10502",
+  "article_url": "https://zxpress.ru/article.php?id=10502",
+  "fetched_at": "2026-05-31T23:17:21Z"
+}

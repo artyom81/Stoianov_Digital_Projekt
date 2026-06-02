@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2978,
+    "article_url": "https://zxpress.ru/article.php?id=2978",
+    "print_url": "https://zxpress.ru/print.php?id=2978",
+    "title_link": "Enlight'97 - Отчет о прошедшем Demo Party.",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "Enlight97_-_Отчет_о_прошедшем_Demo_Party"
+  },
+  {
+    "article_id": 2975,
+    "article_url": "https://zxpress.ru/article.php?id=2975",
+    "print_url": "https://zxpress.ru/print.php?id=2975",
+    "title_link": "Анкеты - Интервью об Enlight'е.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "Анкеты_-_Интервью_об_Enlightе"
+  },
+  {
+    "article_id": 2974,
+    "article_url": "https://zxpress.ru/article.php?id=2974",
+    "print_url": "https://zxpress.ru/print.php?id=2974",
+    "title_link": "Игра под GS - О новой игре \"Frost Byte\" под General Sound.",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "Игра_под_GS_-_О_новои_игре_Frost_Byte_под_General_Sound"
+  },
+  {
+    "article_id": 2979,
+    "article_url": "https://zxpress.ru/article.php?id=2979",
+    "print_url": "https://zxpress.ru/print.php?id=2979",
+    "title_link": "Опрос - Программирование в жизни компьютерщика (результаты анкетирования).",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Опрос_-_Программирование_в_жизни_компьютерщика_результаты_ан"
+  },
+  {
+    "article_id": 2976,
+    "article_url": "https://zxpress.ru/article.php?id=2976",
+    "print_url": "https://zxpress.ru/print.php?id=2976",
+    "title_link": "От редакции - Газете исполнился год...",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "От_редакции_-_Газете_исполнился_год"
+  },
+  {
+    "article_id": 2977,
+    "article_url": "https://zxpress.ru/article.php?id=2977",
+    "print_url": "https://zxpress.ru/print.php?id=2977",
+    "title_link": "Список BBS - Сетевой гейт. Список BBS.",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Список_BBS_-_Сетевои_геит_Список_BBS"
+  },
+  {
+    "article_id": 2980,
+    "article_url": "https://zxpress.ru/article.php?id=2980",
+    "print_url": "https://zxpress.ru/print.php?id=2980",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 7,
+    "issue_label": "40",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  }
+]

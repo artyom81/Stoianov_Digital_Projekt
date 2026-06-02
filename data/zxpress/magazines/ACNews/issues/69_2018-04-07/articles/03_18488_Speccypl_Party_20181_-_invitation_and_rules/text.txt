@@ -1,0 +1,204 @@
+ACNews 69 - Speccy.pl Party 2018.1 - invitation and rules
+Speccy.pl Party 2018.1
+We are extremely proud to invite everyone to the third edition
+of the Speccy.pl Party - the event for all followers and
+admirers of ZX Spectrum, aiming to integrate ZX Spectrum users.
+Of course, you do not need to own ZX Spectrum to visit Speccy.pl
+Party - just a bit of will, curiosity or idea for your own
+creation working on one of the Spectrum models.
+
+Date:
+14 April 2018 from 1OAM to 11PM
+Venue:
+Klub Rivera Remont, ul. Warynskiego 12a, Warsaw, Poland
+Entrance fee:
+20 PLN, tickets are available on
+https://gpЗ.evenea.pl/
+At the same time you can go to Pixel's Market!
+The most important events and attractions, demoscene
+competition:
+Demoscene competitions will take part after the Pixel's Market.
+Depending on the amount of presented works we are expecting the
+following categories: Demo, Graphics, Music, Game, and Wild.
+
+During the event, there will be the Polish premiere of Memories
+of a Spectrum Addict movie. 
+
+Rafal Wiosna will do presentation about how ZX81 generates
+video.
+
+Faust, author of new versions of Bajtek and Komputer magazine
+will talk about his reconstruction techniques for bringing to
+digital old classic computer magazines.
+
+There will also a stand with a computer designed in Poland -
+Komputer Cobra 1. There will be an opportunity to meet and talk 
+with the author of Cobra 1,
+Andrzej Sirko which will be present
+on the Party!
+
+For the first time, we will bring as many Sam Coupe computers as
+we can into one place. Let's find out how many of them are in
+Poland. There will be an opportunity to take a special photo of
+the MGT family!
+
+All versions of the Turbo Wieszcz will talk together - a program
+for generating poetry, written by
+Monster / GDC written for many
+platforms (including ZX Spectrum) will be running on different
+machines in one place!
+
+Tomasz Pauszka live - Tomasz is a composer, producer and
+conductor, playing on many instruments and performing electronic
+music, enthusiast of lo-fi sound, old computers, gramophones,
+audio cassette, noises, cracks, clash, analogue synthesiser and
+mellotrons. He will play tracks from his latest album LO-FI
+LO-VE
+
+All presentations will be in Polish.
+
+There is no decent party without special shirts! The party and
+t-shirt logo was designed by the renowned demoscene graphic
+artist
+Slayer / Ghostown ^ speccy.pl. You will not be at the
+party but you want to have a T-shirt? It is very simple - choose
+design and size that suits you and buy it! Especially for
+Speccy.pl Party - you can buy them without any commission, only
+at the cost of production.
+
+              Terms and conditions of competition
+
+Each piece of work should be authorial. It is permitted to use
+other authors materials from different resources, but it should
+be explicitly detailed in references.
+
+It is not allowed to have any presented work to be published or
+presented in the past.
+
+Any work should not include any insulting, offending elements or
+promote forbidden by law elements or activities.
+
+Every single item registered for competition will be kept in
+Archive files of Speccy.pl
+
+Archive of sent/delivered work should be named as follow:
+Category_Author_Titleofwork.zip
+All files should be send to:
+tygrys (at) speccy (dot) pl
+Deadline for all competitors is
+1Зth April 2016 (Friday) by
+23:59. It is also possible to bring your work to the party till
+Зpm on 1Чth April 2018. We could not however guarantee that any
+of work sent after deadline will take a part in competition.
+
+TXT file should be attached to the sent/delivered work/works.
+Please include the following:
+Name: 
+Author: 
+Category: 
+Target Machine: 
+
+If there is anything unclear in the Terms and Conditions of
+Competition please get in touch with Organisers.
+
+Organisers reserve the right to update these Terms and
+Conditions.
+Competitions are available on the following compo machines:
+
+- ZX Spectrum 128K +2 (Grey) or Just Speccy 128 with the
+original ULA128
+- ZX Spectrum + interface AY
+- Timex 2048 + interface AY
+We are going to use the following readers: divIDE or divMMC.
+
+              Rules for ZX Spectrum Demo category
+
+Demo should work on any of the computers provided by Organisers.
+
+            Rules for ZX Spectrum Intro ЧKB category
+
+Minimal loader in BASIC opening production, like:
+10 LOAD ""CODE: RANDOMIZE USR address
+Max. total size of binary block:
+4096 bytes.
+Intro should work on any of the computers provided by
+Organisers.
+
+              Rules for ZX Spectrum Music category
+
+We accept the following music categories:
+AY, Beeper, TurboSound / TSFM.
+One piece of work from one musician in one category is allowed.
+
+A track should be in executable file and working on ZX Spectrum.
+
+In case of three works provided for one category, the Organisers
+keep the rights to move them to the general competition.
+
+Cover versions will be moved to the Wild category.
+
+Your work will be presented anonymously.
+
+            Rules for ZX Spectrum Graphics category
+
+There is a limit of maximum two works from one author.
+
+Allowed format:
+.scr (6912 bytes)
+In is mandatory to provide two versions of graphic; one with
+signature, one without signature. We will be presenting version
+without the signature.
+
+It is also mandatory to provide at least four phases describing
+process of creation.
+
+File conversions will be presented in the Wild category. In case
+of minimum three works provided in this category, the Organisers
+will open a separate competition category for them.
+
+              Rules for ZX Spectrum Game category
+
+It is permitted to have conversion from other platforms and
+variations of different titles.
+
+The game is presented by author. If the author is not able to
+present the work, the Organisers will present it on his/her
+behalf, but it is possible that not all features are shown.
+
+Manual should be provided with basic information and game rules.
+
+                    Rules for Wild category
+
+In this category we accept the following:
+
+Work in various formats (coded productions, video animations,
+graphics not qualified to the Graphics category, music tracks
+that are cover versions of existing tracks).
+
+Production can be suitable for any hardware platform. Please get
+in touch with organiser to check an availability of the required
+hardware platform/player.
+
+In case of receiving at least three works in any category it is
+possible to create an additional dedicated Wild category.
+
+                             Awards
+
+We are extremely grateful to our sponsors!
+
+From an anonymous sponsor we received below awards:
+- Z80 8-bit UIDE - IDE controller for ZX Spectrum 128 +2A/B & +3
+- ZX Taper - utool that allows you to feel the real tape
+loading.
+
+tooloudtoowide dedicated the following awards:
+- IF2 Cart - Cart to Interface 2 with the content loaded by its
+author, that includes, among other items, a diagnostic ROM.
+- The Little Book of ZX Spectrum Games written by Chris Wilkins
+- SJS1 Joy Tester (Sinclair Joystick for ZX Spectrum 128 +2
+and+3) that is also and adapter for manipulators compatible with
+the Atari standard.
+
+Gal Anonim dedicated the following awards:
+- Flash Card IF2 - Two units of Flash Card to Interface2, 
+wherein you can load your soft, designed for this device ;-)

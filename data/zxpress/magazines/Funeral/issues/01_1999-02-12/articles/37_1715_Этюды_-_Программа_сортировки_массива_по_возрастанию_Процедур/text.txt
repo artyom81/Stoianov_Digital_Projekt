@@ -1,0 +1,987 @@
+ZX Review 7-8-9-10 - Этюды - Программа сортировки массива по возрастанию. Процедура заполнения экрана заданным атрибутом. Процедура проявления картинки. Эффект летящих навстречу звезд. "Душ", идущий из верхнего левого угла экрана. Процедура "осыпания" картинки по пиксельным линиям. Программа "вытягивания" картинки под углом в 45 градусов.  Три процедуры "Scroll".
+(c) Командин И., г.Калуга
+1.
+Начну с  самого  простого.
+Когда-то  давно  Сергей  Колотов
+предложил сделать программу сор-
+тировки  по возрастанию массива,
+начинающегося в памяти с адреса,
+указанного в HL, и  длиной, ука-
+занной в BC.
+144.
+10        ;(c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 START  EQU     50000
+50 LENGTH EQU     500
+60 AGAIN  LD      HL,START
+70        LD      BC,LENGTH
+80        DEC     BC
+90        LD      D,0
+100 LOOP  LD      E,(HL)
+110       INC     HL
+120       LD      A,(HL)
+130       CP      E
+140       JR      NC,CONT
+150       LD      (HL),E
+160       DEC     HL
+170       LD      (HL),A
+180       LD      D,1
+190       INC     HL
+200 CONT  DEC     BC
+210       LD      A,B
+220       OR      C
+230       JR      NZ,LOOP
+240       LD      A,D
+250       OR      A
+260       JR      NZ,AGAIN
+270       RET
+2
+   2.
+Следущая программа  сдела-
+на опять-таки "по  заказу"  Сер-
+гея Колотова. Это процедура  за-
+полнения экрана заданным атрибу-
+том. Закрашивание идет по закру-
+ченной по часовой стрелки спира-
+ли.  Скорость  работы  программы
+регулируется в широких пределах.
+144.
+10        ;(c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 COLOUR EQU     23
+50 PAUSE  EQU     1000
+60        LD      HL,22528
+70        LD      B,12
+80 LOOP   PUSH    HL
+90        LD      A,B
+100       ADD     A,A
+110       ADD     A,8
+120 L1    LD      (HL),COLOUR
+130       INC     HL
+140       DEC     A
+150       CALL    WAIT
+160       JR      NZ,L1
+170       LD      A,B
+180       ADD     A,A
+190       DEC     HL
+200       LD      DE,32
+210 L2    LD      (HL),COLOUR
+220       ADD     HL,DE
+230       DEC     A
+240       CALL    WAIT
+250       JR      NZ,L2
+260       SBC     HL,DE
+270       LD      A,B
+280       ADD     A,A
+290       ADD     A,8
+300 L3    LD      (HL),COLOUR
+310       DEC     HL
+320       DEC     A
+330       CALL    WAIT
+340       JR      NZ,L3
+350       INC     HL
+360       LD      A,B
+370       ADD     A,A
+380 L4    LD      (HL),COLOUR
+390       SBC     HL,DE
+400       DEC     A
+410       CALL    WAIT
+420       JR      NZ,L4
+430       POP     HL
+440       LD      DE,33
+450       ADD     HL,DE
+460       DJNZ    LOOP
+470       RET
+480 WAIT  PUSH    BC
+490       PUSH    AF
+500       LD      BC,PAUSE
+510 WAIT1 DEC     BC
+520       LD      A,B
+530       OR      C
+540       JR      NZ,WAIT1
+550       POP     AF
+560       POP     BC
+570       RET
+3.
+Вполне возможно, что  про-
+читав  аннотацию  к   предыдущей
+процедуре, Вы подумаете:  "А  не
+плохо было бы сделать  программу
+проявления картинки таким спосо-
+бом." Не забивайте  себе  голову
+этим вопросом! Это так  же  бес-
+плодно, как видеть во сне табли-
+цу Менделеева. Почему? Да  пото-
+му, что все это давно  придумано
+и сделано. Пожалуйста.
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 BUFF   EQU     50000
+50 PAUSE  EQU     1000
+60        LD      HL,22528
+70        LD      DE,22529
+80        LD      (HL),0
+90        LD      BC,767
+100       LDIR
+110       LD      HL,BUFF
+120       LD      DE,16384
+130       LD      BC,6144
+140       LDIR
+150       LD      HL,22528
+160       LD      B,12
+170 LOOP  PUSH    HL
+180       LD      A,B
+190       ADD     A,A
+200       ADD     A,8
+210 L1    CALL    PUT
+220       INC     HL
+230       DEC     A
+240       CALL    WAIT
+250       JR      NZ,L1
+260       LD      A,B
+270       ADD     A,A
+290       LD      DE,32
+300 L2    CALL    PUT
+310       ADD     HL,DE
+320       DEC     A
+330       CALL    WAIT
+340       JR      NZ,L2
+350       SBC     HL,DE
+360       LD      A,B
+370       ADD     A,A
+380       ADD     A,8
+390 L3    CALL    PUT
+400       DEC     HL
+410       DEC     A
+420       CALL    WAIT
+430       JR      NZ,L3
+440       INC     HL
+450       LD      A,B
+460       ADD     A,A
+470 L4    CALL    PUT
+480       SBC     HL,DE
+490       DEC     A
+500       CALL    WAIT
+510       JR      NZ,L4
+520       POP     HL
+530       LD      DE,33
+540       ADD     HL,DE
+550       DJNZ    LOOP
+560       RET
+570 WAIT  PUSH    BC
+580       PUSH    AF
+590       LD      BC,PAUSE
+600 WAIT1 DEC     BC
+610       LD      A,B
+620       OR      C
+630       JR      NZ,WAIT1
+640       POP     AF
+650       POP     BC
+660       RET
+670 PUT   PUSH    AF
+680       PUSH    DE
+690       PUSH    HL
+700       LD      DE,BUFF-16384
+710       ADD     HL,DE
+720       LD      A,(HL)
+730       POP     HL
+740       LD      (HL),A
+750       POP     DE
+760       POP     AF
+770       RET
+2
+   4.
+Теперь я перейду, пожалуй,
+к   пиксельным  эффектам  (после
+создания  "фонтана"  мне   очень
+понравился этот  тип  программ).
+Просмотрев все ZX-РЕВЮ за  94-96
+годы, я, к  величайшему  удивле-
+нию, не обнаружил там программы,
+создающей  эффект  летящих  нав-
+стречу  звезд  (а  это, согласи-
+тесь, эффект чрезвычайно  извес-
+тный).  Думаю, это  надо  испра-
+вить.
+144.
+10 ; (c)  ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 INIT   LD      HL,COORDS
+50        LD      B,70
+60 L1     LD      (HL),128
+70        INC     HL
+80        LD      (HL),96
+90        INC     HL
+100       CALL    RND
+110       LD      (HL),A
+120       INC     HL
+130       CALL    RND
+140       LD      (HL),A
+150       INC     HL
+160       DJNZ    L1
+170 MAIN  LD      HL,COORDS
+180       LD      B,70
+190 L2    PUSH    BC
+200       PUSH    HL
+210       LD      C,(HL)
+220       INC     HL
+230       LD      B,(HL)
+240       LD      A,191
+250       SUB     B
+260       PUSH    HL
+270       CALL    8880
+280       LD      B,A
+290       LD      A,7
+300       SUB     B
+310       ADD     A,A
+320       ADD     A,A
+330       ADD     A,A
+340       ADD     A,134
+350       LD      (RPX),A
+360       DEFB    #CB
+370 RPX   NOP
+380       POP     HL
+390       INC     HL
+400       LD      B,(HL)
+410       DEC     HL
+420       LD      A,(HL)
+430       ADD     A,B
+440       CP      191
+450       JR      NZ,NEW
+460       LD      (HL),A
+470       INC     HL
+480       INC     HL
+490       LD      B,(HL)
+500       DEC     HL
+510       DEC     HL
+520       DEC     HL
+530       LD      A,(HL)
+540       ADD     A,B
+550       CP      4
+560       JR      C,NEW1
+570       CP      252
+580       JR      NC,NEW1
+590       LD      (HL),A
+600       LD      C,(HL)
+610       INC     HL
+620       LD      B,(HL)
+630       LD      A,191
+640       SUB     B
+650       PUSH    HL
+660       CALL    8880
+670       LD      B,A
+680       LD      A,7
+690       SUB     B
+700       ADD     A,A
+710       ADD     A,A
+720       ADD     A,A
+730       ADD     A,198
+740       LD      (SPX),A
+750       DEFB    #CB
+760 SPX   NOP
+770       POP     HL
+780       INC     HL
+790       LD      A,(HL)
+800       OR      A
+810       JR      NZ,PASS
+820       INC     HL
+830       LD      A,(HL)
+840       OR      A
+850       JR      NZ,PASS
+860       DEC     HL
+870       DEC     HL
+880 NEW   DEC     HL
+890 NEW1  LD      (HL),128
+900       INC     HL
+910       LD      (HL),96
+920       INC     HL
+930       CALL    RND
+940       LD      (HL),A
+950       INC     HL
+960       CALL    RND
+970       LD      (HL),A
+980 PASS  POP     HL
+990       POP     BC
+1000      INC     HL
+1010      INC     HL
+1020      INC     HL
+1030      INC     HL
+1040      DJNZ    L2
+1050      RET
+1060 RND  LD      DE,0
+1070      LD      A,D
+1080      ADD     A,#77
+1090      LD      D,A
+1100      RLE     E
+1110      ADD     A,E
+1120      LD      E,A
+1130      LD      (RND+1),DE
+1140      AND     15
+1150      SUB     7
+1160      RET
+1170 COORDS DEFS  280
+2
+   Данная процедура является по-
+шаговой, т.е. каждый  ее  запуск
+производит один сдвиг точек. За-
+пускается программа довольно-та-
+ки стандартно:
+144.
+          CALL    INIT
+LOOP      HALT
+          CALL    MAIN
+          LD      A,#7F
+          IN      A,(#FE)
+          RRA
+          JR      C,LOOP
+          RET
+2
+   Если  Вам  кажется, что  ско-
+рость, с  которой  летят  точки,
+слишком  большая,  то   замените
+строки 1140 и 1150 на следующие:
+1140      AND     7
+1150      SUB     3
+Если  Вам   требуется,  чтобы
+время действия программы  вмеща-
+лось в одно прерывание, то  хочу
+сразу  предупредить, что  макси-
+мальное  количество  точек,  при
+котором это  возможно, равно  85
+(на  моем  компьютере).   Вполне
+возможно, что у  Вас  оно  будет
+немного  отличаться.  Количество
+точек заносится в  регистр  B  в
+строках 50 и 180. Размер  буфера
+координат, задаваемого в  строке
+1170, должен быть в четыре  раза
+больше, чем количество точек.
+5.
+Следующая  процедура - пе-
+реработка предыдущей.  Она  соз-
+дает некий "душ", идущий из вер-
+хнего левого угла экрана.
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 INIT   LD      HL,COORDS
+50        LD      B,60
+60 L1     LD      (HL),0
+70        INC     HL
+80        LD      (HL),0
+90        INC     HL
+100       CALL    RND
+110       LD      (HL),A
+120       INC     HL
+130       CALL    RND
+140       LD      (HL),A
+150       INC     HL
+160       DJNZ    L1
+170 MAIN  LD      HL,COORDS
+180       LD      B,60
+190 L2    PUSH    BC
+200       PUSH    HL
+210       LD      C,(HL)
+220       INC     HL
+230       LD      A,(HL)
+240       PUSH    HL
+250       CALL    8880
+260       LD      B,A
+270       LD      A,7
+280       SUB     B
+290       ADD     A,A
+300       ADD     A,A
+310       ADD     A,A
+320       ADD     A,134
+330       LD      (RPX),A
+340       DEFB    #CB
+350 RPX   NOP
+360       POP     HL
+370       INC     HL
+380       LD      B,(HL)
+390       DEC     HL
+400       LD      A,(HL)
+410       ADD     A,B
+420       CP      191
+430       JR      NC,NEW
+440       LD      HL,A
+450       INC     HL
+460       INC     HL
+470       LD      B,HL
+480       DEC     HL
+490       DEC     HL
+500       DEC     HL
+510       LD      A,(HL)
+520       ADD     A,B
+530       JR      C,NEW1
+540       LD      (HL),A
+550       LD      C,(HL)
+560       INC     HL
+570       LD      A,(HL)
+580       PUSH    HL
+590       CALL    8880
+600       LD      B,A
+610       LD      A,7
+620       SUB     B
+630       ADD     A,A
+640       ADD     A,A
+650       ADD     A,A
+660       ADD     A,198
+670       LD      (SPX),A
+680       DEFB    #CB
+690 SPX   NOP
+700       POP     HL
+710       INC     HL
+720       LD      A,(HL)
+730       OR      A
+740       JR      NZ,PASS
+750       INC     HL
+760       LD      A,(HL)
+770       OR      A
+780       JR      NZ,PASS
+790       DEC     HL
+800       DEC     HL
+810 NEW   DEC     HL
+820 NEW1  LD      (HL),0
+830       INC     HL
+840       LD      (HL),0
+850       INC     HL
+860       CALL    RND
+870       LD      (HL),A
+880       INC     HL
+890       CALL    RND
+900       LD      (HL),A
+910 PASS  POP     HL
+920       POP     BC
+930       INC     HL
+940       INC     HL
+950       INC     HL
+960       INC     HL
+970       DJNZ    L2
+980       RET
+990 RND   LD      DE,0
+1000      LD      A,D
+1010      ADD     A,#77
+1020      LD      D,A
+1030      RLE     E
+1040      ADD     A,E
+1050      LD      E,A
+1060      LD      (RND+1),DE
+1070      AND     7
+1080      INC     A
+1090      RET
+1100 COORDS DEFS  24
+2
+   Вызывается  программа  анало-
+гично предыдущей. Количество то-
+чек  заносится  в  регистр  B  в
+строках 50 и 180. Скорость точек
+можно уменьшить, изменив  строку
+1070 на:
+1070      AND     3
+Максимальное число точек, при
+котором время действия  програм-
+мы вмещается в одно  прерывание,
+равно 90.
+   Если Вы хотите, чтобы душ лил
+из верхнего правого угла экрана,
+то замените строки 60, 520 и 820
+на следующие:
+144.
+60 L1     LD      (HL),255
+520       SUB     B
+820 NEW1  LD      (HL),255
+2
+   Ни эта, ни  предыдущая  прог-
+раммы не  сохраняют  изображение
+на экране, но я считаю, что  это
+и не нужно.  Ведь  в  DEMO  и  в
+INTRO к игрушкам (а где еще  мо-
+гут использоваться подобные про-
+граммы?) изображение  динамичес-
+кое, и порча нескольких точек не
+будет заметна. Сохранение же эк-
+ранного изображения будет  озна-
+чать, во-первых, замедление  ра-
+боты  программы,  и,  во-вторых,
+порчу целых байтов (ведь к  тому
+времени, когда процедура восста-
+новит  сохраненное  изображение,
+картинка уже вполне может  изме-
+ниться).
+6.
+Ну а теперь  я  вернусь  к
+своей излюбленной  теме - прори-
+совка и очистка картинки на  эк-
+ране. Нижепреведенная  процедура
+предназначена для очистки  моно-
+хромного изображения. Она как бы
+осыпает картинку  по  пиксельным
+линиям. Я думаю, ее неплохо  бы-
+ло бы использовать  совместно  с
+написанной мною  ранее  процеду-
+рой "напыления" картинки по пик-
+сельным линиям.
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 PAUSE  EQU     50
+50        LD      B,191
+60 LOOP   PUSH    BC
+70        LD      A,B
+80        DEC     A
+90        PUSH    AF
+100       LD      A,192
+110       SUB     B
+120       LD      B,A
+130       POP     AF
+140 LOOP1 PUSH    BC
+150       PUSH    AF
+160       LD      C,0
+170       CALL    8880
+180       POP     AF
+190       PUSH    AF
+144.200       PUSH    HL
+210       INC     A
+220       LD      C,0
+230       CALL    8880
+240       EX      DE,HL
+250       LD      BC,32
+260       POP     HL
+270       PUSH    HL
+280       LDIR
+290       POP     HL
+300       LD      D,H
+310       LD      E,L
+320       LD      (HL),0
+330       INC     DE
+340       LD      BC,31
+350       LDIR
+360       POP     AF
+370       INC     A
+380       LD      B,PAUSE
+390 WAIT  DJNZ    WAIT
+400       POP     BC
+410       DJNZ    LOOP1
+420       LD      HL,22496
+430       LD      DE,22497
+440       LD      BC,31
+450       LD      (HL),0
+460       LDIR
+470       POP     BC
+480       DJNZ    LOOP
+490       RET
+2
+Скорость  работы    программы
+можно  менять, изменяя  значение
+задержки в строке 40.
+7.
+Следующая программа прори-
+совывает картинку, вытягивая  ее
+из левого края экрана под  углом
+в 45 градусов.  Эффект  довольно
+интересный, но у  процедуры  все
+же есть недостаток - она немного
+медлительная (изображение подра-
+гивает, т.к. шаг  прорисовки  не
+вмещается в одно прерывание).
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 BUFF   EQU     50000
+50        LD      A,1
+60 LOOP   PUSH    AF
+70        CP      193
+80        JR      C,CONT
+90        LD      A,192
+100 CONT  LD      B,A
+110       XOR     A
+120 LOOP1 PUSH    BC
+130       PUSH    AF
+140       LD      C,0
+150       CALL    8880
+160       LD      DE,BUFF-16384
+170       PUSH    HL
+180       ADD     HL,DE
+190       LD      B,32
+200 L1    RR      (HL)
+210       INC     HL
+220       DJNZ    L1
+230       POP     HL
+240       LD      B,32
+250 L2    RR      (HL)
+260       INC     HL
+270       DJNZ    L2
+280       POP     AF
+290       INC     A
+300       POP     BC
+310       DJNZ    LOOP1
+320       POP     AF
+330       INC     A
+340       JR      NZ,LOOP
+350       LD      B,192
+360 LOOP2 PUSH    BC
+370       LD      A,191
+380 LOOP3 PUSH    BC
+390       PUSH    AF
+400       LD      C,0
+410       CALL    8880
+420       PUSH    HL
+430       LD      DE,BUFF-16384
+440       ADD     HL,DE
+450       LD      B,32
+460 L3    RR      (HL)
+470       INC     HL
+480       DJNZ    L3
+490       POP     HL
+500       LD      B,32
+510 L4    RR      (HL)
+520       INC     HL
+530       DJNZ    L4
+540       POP     AF
+550       DEC     A
+560       POP     BC
+570       DJNZ    LOOP3
+580       POP     BC
+590       DJNZ    LOOP2
+600       LD      HL,BUFF+6144
+610       LD      DE,22528
+620       LD      BC,768
+630       LDIR
+640       RET
+2
+Во  время  работы   процедура
+стирает картинку, хранимую в па-
+мяти по адресу BUFF.
+8.
+Еще одна программная тема-
+тика, которая мне всегда  нрави-
+лась -  это, конечно  же, SCROL-
+L'ы. Вот и в этот раз я решил не
+оставлять ее без внимания и  по-
+тому предлагаю  несколько  своих
+новых программ из этой области.
+   Я не буду описывать  действие
+первого  SCROLL'а.  Скажу  лишь,
+что у него есть недостаток, пря-
+мо  противоположный   предыдущей
+программе - он слишком быстр.  В
+качестве  противодействия   могу
+посоветовать вставлять по пробе-
+лу между буквами в каждом  слове
+текста бегущей строки и  по  2-3
+пробела между словами.
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 INIT   LD      HL,TEXT
+50        LD      (TEXTP),HL
+60 SCROLL LD      HL,(TEXTP)
+70        LD      A,(HL)
+80        OR      A
+90        JR      NZ,CONT
+100       LD      HL,TEXT
+110       LD      (TEXTP),HL
+120       LD      A,(HL)
+130 CONT  INC     HL
+140       LD      (TEXTP),HL
+150       LD      H,0
+160       LD      L,A
+170       ADD     HL,HL
+180       ADD     HL,HL
+190       ADD     HL,HL
+200       LD      DE,(23606)
+210       ADD     HL,DE
+220       LD      DE,#50DF
+230       LD      B,8
+240 LOOP  LD      A,(HL)
+250       LD      (DE),A
+260       INC     HL
+270       INC     D
+280       DJNZ    LOOP
+290       LD      HL,#50C1
+300       LD      B,2
+310 LOOP2 PUSH    BC
+320       PUSH    HL
+330       LD      B,8
+340 LOOP1 PUSH    BC
+350       PUSH    HL
+360       LD      D,H
+370       LD      E,L
+380       DEC     DE
+390       LD      BC,31
+400       LDIR
+410       POP     HL
+420       INC     H
+430       POP     BC
+440       DJNZ    LOOP1
+450       POP     HL
+460       LD      DE,32
+470       ADD     HL,DE
+480       POP     BC
+490       DJNZ    LOOP2
+500       LD      A,176
+510       LD      (CH+1),A
+520       LD      A,60
+530       LD      (CH3),A
+540       LD      (CH4),A
+550       XOR     A
+560       LD      (CH2+1),A
+570       LD      (CH5+1),A
+580       CALL    UPDOWN
+590       LD      A,128
+600       LD      (CH2+1),A
+610       LD      (CH5+1),A
+620       CALL    UPDOWN
+630       LD      A,191
+640       LD      (CH+1),A
+650       LD      A,61
+660       LD      (CH3),A
+670       LD      (CH4),A
+680       LD      A,64
+690       LD      (CH2+1),A
+700       LD      (CH5+1),A
+710       CALL    UPDOWN
+720       LD      A,192
+730       LD      (CH2+1),A
+740       LD      (CH5+1),A
+750       CALL    UPDOWN
+760       RET
+770 UPDOWN LD     B,15
+780 CH1   LD      A,0
+790 LOOP5 PUSH    BC
+800       PUSH    AF
+810 CH2   LD      C,0
+820       PUSH    BC
+830       CALL    8880
+840       POP     BC
+850       POP     AF
+860       PUSH    AF
+870       EX      DE,HL
+880 CH3   NOP
+890       CALL    8880
+900       LD      BC,8
+910       LDIR
+920       POP     AF
+930 CH4   NOP
+940       POP     BC
+950       DJNZ    LOOP5
+960 CH5   LD      C,0
+970       CALL    8880
+980       LD      D,H
+990       LD      E,L
+1000      INC     DE
+1010      LD      (HL),0
+1020      LD      BC,7
+1030      LDIR
+1040      RET
+1050 TEXTP DEFW   TEXT
+1060 TEXT DEFM   " (C) ZX -"
+1070      DEFM   "M A N I A C S"
+1080      DEFM   "    K A L U"
+1090      DEFM   " G A ' 1 9 9"
+1100      DEFM   " 7     "
+1110      DEFM   "       "
+1120      DEFB   0
+2
+9.
+Следующий  SCROLL  доволь-
+но необычен. Он  занимает  целую
+треть экрана, хотя и не  исполь-
+зует атрибуты. Вполне  возможно,
+что кому-то  он  не  понравится,
+т.к. покажется слишком "жидким".
+Но у этого SCROLL'а есть еще од-
+на очень хорошая черта - он  за-
+нимает чрезвычайно мало  процес-
+сорного времени.
+144.
+10 ; (c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 INIT   LD      HL,TEXT
+50        LD      (TEXTP),HL
+60        XOR     A
+70        LD      (COL),A
+80        LD      HL,#5000
+90        LD      DE,#5001
+100       LD      (HL),0
+110       LD      BC,2047
+120       LDIR
+130 SCROLL LD     HL,#5401
+140       LD      D,H
+150       LD      E,L
+160       DEC     DE
+170       LD      BC,255
+180       LDIR
+190       LD      A,(COL)
+200       OR      A
+210       JR      NZ,CONT
+220       LD      A,8
+230       LD      (COL),A
+240       LD      HL,(TEXTP)
+250       LD      A,(HL)
+260       OR      A
+270       JR      NZ,PASS
+280       LD      HL,TEXT
+290       LD      (TEXTP),HL
+300       LD      A,(HL)
+310 PASS  INC     HL
+320       LD      (TEXTP),HL
+330       LD      H,0
+340       LD      L,A
+350       ADD     HL,HL
+360       ADD     HL,HL
+370       ADD     HL,HL
+380       LD      DE,(23606)
+390       ADD     HL,DE
+400       LD      DE,BUFF
+410       LD      BC,8
+420       LDIR
+430 CONT  LD      DE,#541F
+440       LD      HL,BUFF
+450       LD      B,8
+460 LOOP  PUSH    BC
+470       RL      (HL)
+480       JR      C,CONT1
+490       LD      A,68
+500       LD      (DE),A
+510       JR      CONT2
+520 CONT1 XOR     A
+530       LD      (DE),A
+540 CONT2 INC     HL
+550       EX      DE,HL
+560       LD      BC,32
+570       ADD     HL,BC
+580       EX      DE,HL
+590       POP     BC
+600       DJNZ    LOOP
+610       LD      A,(COL)
+620       DEC     A
+630       LD      (COL),A
+640       RET
+650 COL   DEFB  0
+660 BUFF  DEFS  8
+670 TEXTP DEFW  TEXT
+680 TEXT  DEFM  "(C) ZX-MANIACS"
+690       DEFM  ",  KALUGA'1997"
+700       DEFM  "              "
+710       DEFB  0
+2
+10.
+Ну  и  наконец  последний
+SCROLL является, на мой  взгляд,
+самым интересным из  всех  выше-
+приведенных. Он не является чем-
+то особенно крутым, но его  ори-
+гинальность  непременно  привле-
+чет Ваше внимание.
+144.
+10 ;(c) ZX-MANIACS
+20        ORG     40000
+30        ENT
+40 INIT   LD      HL,TEXT
+50        LD      (TEXTP),HL
+60        XOR     A
+70        LD      (COL),A
+80 SCROLL LD      A,(COL)
+90        OR      A
+100       JR      NZ,CONT
+110       LD      HL,(TEXTP)
+120       LD      A,(HL)
+130       OR      A
+140       JR      NZ,PASS
+150       LD      HL,TEXT
+160       LD      A,(HL)
+170 PASS  INC     HL
+180       LD      (TEXTP),HL
+190       LD      H,0
+200       LD      L,A
+210       ADD     HL,HL
+220       ADD     HL,HL
+230       ADD     HL,HL
+240       LD      DE,(23606)
+250       ADD     HL,DE
+260       LD      DE,BUFF
+270       LD      BC,8
+280       LDIR
+290       LD      A,8
+300       LD      (COL),A
+310 CONT  LD      B,8
+320       LD      HL,#401F
+330       LD      DE,BUFF
+340 LOOP  PUSH    BC
+350       PUSH    HL
+360       XOR     A
+370       EX      DE,HL
+380       RL      (HL)
+390       EX      DE,HL
+400       LD      B,8
+410 LOOP1 RL      (HL)
+420       DEC     HL
+430       DJNZ    LOOP1
+440       LD      B,2
+450 LOOP5 PUSH    BC
+460       PUSH    AF
+470       PUSH    HL
+480       LD      B,10
+490 LOOP2 RL      (HL)
+500       DEC     HL
+510       DJNZ    LOOP2
+520       LD      B,2
+530 LOOP4 PUSH    BC
+550       PUSH    HL
+560       LD      B,14
+570 LOOP3 RL      (HL)
+580       DEC     HL
+590       DJNZ    LOOP3
+600       POP     HL
+610       POP     AF
+620       POP     BC
+630       DJNZ    LOOP4
+640       POP     HL
+650       POP     AF
+660       POP     BC
+670       DJNZ    LOOP5
+680       POP     HL
+690       INC     H
+700       INC     DE
+710       POP     BC
+720       DJNZ    LOOP
+730       LD      A,(COL)
+740       DEC     A
+750       LD      (COL),A
+760       RET
+770 COL   DEFB  0
+780 BUFF  DEFS  8
+790 TEXTP DEFW  TEXT
+800 TEXT  DEFM  "(C) ZX-MANIACS"
+810       DEFM  ",  KALUGA'1997"
+820       DEFM  "              "
+830       DEFB  0
+2
+Все SCROLL'ы являются пошаго-
+выми и вызываются стандартно:
+144.
+          CALL    INIT
+LOOP      HALT
+          CALL    SCROLL
+          LD      A,#7F
+          IN      A,(#FE)
+          RRA
+          JR      C,LOOP
+          RET
+2
+В  конце  текстов  каждого   из
+SCROLL'ов должен стоять 0 - мар-
+кер конца.
+*   *   *

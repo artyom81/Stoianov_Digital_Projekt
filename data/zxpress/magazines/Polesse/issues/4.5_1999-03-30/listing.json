@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3368,
+    "article_url": "https://zxpress.ru/article.php?id=3368",
+    "print_url": "https://zxpress.ru/print.php?id=3368",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 1,
+    "issue_label": "4.5",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3370,
+    "article_url": "https://zxpress.ru/article.php?id=3370",
+    "print_url": "https://zxpress.ru/print.php?id=3370",
+    "title_link": "Конкурс - Лучший антивоенный плакат \"Руки прочь, от Югославии\".",
+    "order": 2,
+    "issue_label": "4.5",
+    "short_slug": "Конкурс_-_Лучшии_антивоенныи_плакат_Руки_прочь_от_Югославии"
+  },
+  {
+    "article_id": 3369,
+    "article_url": "https://zxpress.ru/article.php?id=3369",
+    "print_url": "https://zxpress.ru/print.php?id=3369",
+    "title_link": "На злобу дня - Балканский кризис: взгляд на проблему.\r\n Воздушные налеты...",
+    "order": 3,
+    "issue_label": "4.5",
+    "short_slug": "На_злобу_дня_-_Балканскии_кризис_взгляд_на_проблему_Воздушны"
+  },
+  {
+    "article_id": 3371,
+    "article_url": "https://zxpress.ru/article.php?id=3371",
+    "print_url": "https://zxpress.ru/print.php?id=3371",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "4.5",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3367,
+    "article_url": "https://zxpress.ru/article.php?id=3367",
+    "print_url": "https://zxpress.ru/print.php?id=3367",
+    "title_link": "Слово авторов - Возможно - это последний номер газеты...",
+    "order": 5,
+    "issue_label": "4.5",
+    "short_slug": "Слово_авторов_-_Возможно_-_это_последнии_номер_газеты"
+  }
+]

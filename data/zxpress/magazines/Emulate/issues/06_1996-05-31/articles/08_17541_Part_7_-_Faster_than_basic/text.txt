@@ -1,0 +1,245 @@
+06 - Part 7 - Faster than basic.
+==========================================
+*********************************
+*  PART 7  - FASTER THAN BASIC  *
+*********************************
+
+By Ian Cull Bsc
+
+Part 1. Introduction.
+---------------------
+
+The Sinclair ZX Spectrum computer is, like
+almost   all  computers,  built  around  a
+Central   Processing   Unit   -   the  Z80
+microprocessor  chip.  This chip is a very
+small  piece  of  silicon  packaged into a
+case  about 3 inches by 1, and can execute
+carry  out  up  to four million operations
+EVERY second! The ZX Spectrum does not run
+the   Z80   at   full   speed,   but   can
+nevertheless   carry   out   hundreds   of
+thousands  of  operations every second. So
+why does your Basic program run so slowly?
+
+The  answer  is that the Z80 chip can only
+understand  very simple instructions, that
+mean nothing to you or I. For example, the
+following instructions add 2 and 7 :-
+     00111110
+     00000010
+     11000110
+     00000111
+and  the  ZX  Spectrum  can  do this about
+250000  times every second! Unfortunately,
+when you write the following Basic program
+:-
+     10 LET A=2+7
+the ZX Spectrum can only manage to perform
+the  sum  about 385 times each second. The
+problem  is  that  the Basic, which we can
+immediately  understand,  means nothing to
+the   Z80.  Special  programs  in  the  ZX
+Spectrum    convert    our    Basic   into
+instructions  that the Z80 can understand,
+and that is how our program is run.
+Of  course,  the  converting  takes a VERY
+long  time for the Z80 to do, since it can
+only  do  very  simple things. This is why
+the  Basic program takes 500 or 1000 times
+longer   to  give  results  than  the  Z80
+program.
+There  are, however, a number of ways that
+we  can  get  our  programs  to  work more
+quickly,  and  this  series  will  look at
+doing things 'faster than (ZX) Basic'.
+
+Tweaks.
+-------
+ZX Basic is a very 'user-friendly' Basic -
+anyone  who  has  used  any  non- Sinclair
+computer   will  confirm  this.  ZX  Basic
+checks each line of program as you type it
+in.  You can also stop a program, alter it
+and   then   continue   running  it  (most
+versions  of  Basic lose all the variables
+whenever     you     change    something).
+Unfortunately, ZX Basic is also VERY slow.
+Most identically written programs will run
+quite a lot slower on the ZX Spectrum than
+on   many  other  computers.  The  reasons
+behind this are complex, but are caused by
+the  way  that  ZX  Basic  was written (by
+bolting extras on to the early ZX80 & ZX81
+versions, mainly).
+If you know the ways of ZX Basic, however,
+you  can change your programs so that they
+run  more quickly. Here are three examples
+:-
+a)  Define  variables  that are used a lot
+first.  When  the program references them,
+ZX Basic will find them first.
+b) Put often-used subroutines and loops at
+the start of your program (and use a GO TO
+around  them)  -  ZX Basic always searches
+for  subroutines from the beginning of the
+program.
+c)   Avoid   'difficult'  instructions  if
+simple   ones   will   do.  For  instance,
+multiplying  by two is much slower for the
+Z80 to do than adding something to itself.
+
+These  and  other  'tweaks' can be used in
+any  program,  and  will have more or less
+effect  depending  on  what the program is
+doing  (a very short program won't be sped
+up much by b), for example).
+
+Alternative Languages.
+----------------------
+Basic,   Beginners   All-purpose  Symbolic
+Instruction Code, was originally developed
+to  teach  Fortran  and was designed to be
+easy  to  learn,  rather than efficient to
+use.  Basic is very good at some tasks (in
+particular,  string  handling)  but is not
+good  at  many  things (try to handle more
+data  than  can  be  held  in  memory, for
+instance).
+There  are  many  other computer languages
+designed  for  many different reasons, and
+you  will find that writing a program in a
+language  other than Basic will often give
+much  faster  results.  Of  course, it may
+take  much  longer  to write - this is why
+Basic  is  still  popular  as a 'quick and
+dirty'  solution  to  many  tasks;  if the
+computer  takes  a  long  time  to run the
+program  that  took much less time for you
+to write, then it must be time for another
+coffee!  In this series we will be looking
+at  other  languages  available for the ZX
+Spectrum,  in  particular  how much faster
+they are than Basic compared with how much
+more difficult they are to write.
+
+Machine Code.
+-------------
+The way to get your programs to run REALLY
+fast  is  to  actually  write  them in the
+language  that  the Z80 understands - this
+language  is  called  Machine Code, and is
+really  difficult  to learn and write. The
+example  I  gave earlier is an extreme way
+of  writing  machine  code  -  the  actual
+Binary      representations     of     the
+instructions.
+Although  those 1s and 0s are all that the
+Z80  understands,  the task is made easier
+for  us if we use an Assembler - this is a
+program  that  carries  out  a one-for-one
+conversion from Assembler programs that we
+write,  into  machine  code.  The  earlier
+program in assembler looks like :-
+     LD A,2
+     ADD A,7
+obviously   this   is  easier  for  us  to
+understand  than  the actual machine code,
+but  it doesn't solve the problem that the
+Z80 can only do very simple things we have
+to break down our program into hundreds of
+very simple instructions.
+
+Compilers.
+----------
+Here,   in   theory,   is  the  answer  to
+everyones  dreams (and what this series is
+truly  about). A Compiler is a little like
+an  Assembler  in  that it takes a program
+and  produces machine code. The difference
+is  that  the  program can be written in a
+language  that  you  already know - Basic,
+for  example! Compilers are very simple or
+very  complicated,  depending  on how many
+tricks  are  programmed  into them. At the
+simplest  level,  each line of the program
+is  converted  into  an exactly equivalent
+set  of  machine  code  instructions - the
+increase  in  speed  is  due purely to the
+translation  from  program to machine code
+being done by the compiler, rather than as
+the  program is run. At the other extreme,
+Compilers  can  spend ages hunting through
+your  program,  deleting unnecessary code,
+re-arranging  bits and generally producing
+machine  code  which  can  run  almost  as
+quickly  as if you had written the program
+yourself in assembler.
+In   order   to  get  some  idea  of  what
+improvements  can be expected when using a
+different  language, or a compiler, we use
+'benchmarks'.  These  are  simple programs
+which  can  be  written  in  any  computer
+language  and  times  when  run - the time
+gives  an  idea of how useful the language
+or  compiler  would be for real tasks. The
+problem  with benchmarks is that they only
+test what they are written to test - which
+is  NOT  a  real  task. Some compilers can
+even  spot common benchmark test programs,
+and   'cheat'   by   rewriting  the  test.
+Nevertheless,  I  am  going  to  use  some
+'really  useful' benchmarks in these tests
+-  the  programs  will calculate the first
+one  hundred  Prime Numbers (numbers which
+are  only divided exactly by themselves or
+one   -  really  useful!)  There  are  two
+programs,  which  do the same thing in two
+completely    different    ways.   PRIMES1
+calculates  each prime by checking all the
+divisions (this is a very slow & difficult
+task  for the Z80). PRIMES2 uses a 'sieve'
+which  is  like  crossing  off  a list all
+multiples  of each number; any numbers not
+crossed  off  must be prime (try it if you
+are not sure).
+This  month,  we finish by presenting both
+listings  in  ZX  Basic.  Try them on your
+computer  (and  on  other computers if you
+can)  and try tweaking them - see how fast
+you   can  get  them  to  run.  Note  that
+deleting  the  PRINT line (160 in PRIMES1,
+130  in  PRIMES2)  is a fairer comparison,
+since   it   then   does   not   time  the
+displaying,  only  the calculating (The ZX
+Spectrum   is   VERY  slow  at  displaying
+things).
+As  a  taster  to  keep  you interested, a
+later   presentation   will   run  PRIMES2
+(without  PRINTing) in about half a second
+-  that  is about one hundred times Faster
+Than Basic ...
+
+10 REM PRIMES1 in Basic. Ian Cull Bsc. 18/
+   4/89.
+20 DIM P(1000)
+30 LET P(1)=2: LET PTOP=1
+40 LET PP=1: LET PPS=P(PP)*P(PP)
+50 LET P=3
+100 IF PPS
+100 THEN GOTO 200
+110 IF P(PTOP)<>0 THEN LET PTOP=PTOP+1: GO
+    TO 100
+120 LET P=PTOP: LET X=P
+130 PRINT PCNT,P: INPUT; :REM Remove this
+    for speed
+140 LET PCNT=PCNT+1
+150 LET P(X)=1: LET X=X+P
+160 IF X<=1000 THEN GOTO 150
+170 GOTO 100
+200 PRINT"Prime 100 is ";P: STOP
+
+Join  us  next  month  for  Part  2 of the
+tutorial.
+
+==========================================

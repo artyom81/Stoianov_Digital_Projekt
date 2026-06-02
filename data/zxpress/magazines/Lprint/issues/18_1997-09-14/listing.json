@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12381,
+    "article_url": "https://zxpress.ru/article.php?id=12381",
+    "print_url": "https://zxpress.ru/print.php?id=12381",
+    "title_link": "От редакции - Минская Еженедельная Модемная Газета.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "От_редакции_-_Минская_Еженедельная_Модемная_Газета"
+  },
+  {
+    "article_id": 12382,
+    "article_url": "https://zxpress.ru/article.php?id=12382",
+    "print_url": "https://zxpress.ru/print.php?id=12382",
+    "title_link": "Новости - Вышла новая газета NEXT.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Новости_-_Вышла_новая_газета_NEXT"
+  },
+  {
+    "article_id": 12383,
+    "article_url": "https://zxpress.ru/article.php?id=12383",
+    "print_url": "https://zxpress.ru/print.php?id=12383",
+    "title_link": "Размышления - Надо ввести на BBS серверах регистрацию.\r\n Немного о газете bbsTOP.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Размышления_-_Надо_ввести_на_BBS_серверах_регистрацию_Немног"
+  },
+  {
+    "article_id": 12384,
+    "article_url": "https://zxpress.ru/article.php?id=12384",
+    "print_url": "https://zxpress.ru/print.php?id=12384",
+    "title_link": "Личность - Первый принцип Гарвея Гаррисона (часть 1).",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Личность_-_Первыи_принцип_Гарвея_Гаррисона_часть_1"
+  },
+  {
+    "article_id": 12385,
+    "article_url": "https://zxpress.ru/article.php?id=12385",
+    "print_url": "https://zxpress.ru/print.php?id=12385",
+    "title_link": "Интервью - Интервью с Минской группой SANLEX GROUP.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Интервью_-_Интервью_с_Минскои_группои_SANLEX_GROUP"
+  },
+  {
+    "article_id": 12386,
+    "article_url": "https://zxpress.ru/article.php?id=12386",
+    "print_url": "https://zxpress.ru/print.php?id=12386",
+    "title_link": "ZX-NET - О создании в Минске полноценной сети на SPECCY.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "ZX-NET_-_О_создании_в_Минске_полноценнои_сети_на_SPECCY"
+  },
+  {
+    "article_id": 12387,
+    "article_url": "https://zxpress.ru/article.php?id=12387",
+    "print_url": "https://zxpress.ru/print.php?id=12387",
+    "title_link": "рафик BBS - График работы BBS на неделю.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "рафик_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

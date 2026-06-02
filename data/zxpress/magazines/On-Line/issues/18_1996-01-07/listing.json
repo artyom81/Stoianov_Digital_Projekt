@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 77,
+    "article_url": "https://zxpress.ru/article.php?id=77",
+    "print_url": "https://zxpress.ru/print.php?id=77",
+    "title_link": "B.B.S. Новости - О новых B.B.S. - LOGO-BBS & Hammer-BBS.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "BBS_Новости_-_О_новых_BBS_-_LOGO-BBS_Hammer-BBS"
+  },
+  {
+    "article_id": 2001,
+    "article_url": "https://zxpress.ru/article.php?id=2001",
+    "print_url": "https://zxpress.ru/print.php?id=2001",
+    "title_link": "Scorpion Club - Что такое BBS и Fido ? Почта Fidonet.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Scorpion_Club_-_Что_такое_BBS_и_Fido_Почта_Fidonet"
+  },
+  {
+    "article_id": 2003,
+    "article_url": "https://zxpress.ru/article.php?id=2003",
+    "print_url": "https://zxpress.ru/print.php?id=2003",
+    "title_link": "WANTED - Разыскивается ...",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "WANTED_-_Разыскивается"
+  },
+  {
+    "article_id": 2004,
+    "article_url": "https://zxpress.ru/article.php?id=2004",
+    "print_url": "https://zxpress.ru/print.php?id=2004",
+    "title_link": "Мозаика - О игрaх \"F-16 Combat Pilot\" & \"Пираты\" и о глюках в них.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Мозаика_-_О_игрaх_F-16_Combat_Pilot_Пираты_и_о_глюках_в_них"
+  },
+  {
+    "article_id": 2002,
+    "article_url": "https://zxpress.ru/article.php?id=2002",
+    "print_url": "https://zxpress.ru/print.php?id=2002",
+    "title_link": "Обо всем по немногу - O глюках в системных программах: Jemeni Commander, ZX-Word.\r\n О работе с STS-BBS'кой.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Обо_всем_по_немногу_-_O_глюках_в_системных_программах_Jemeni"
+  },
+  {
+    "article_id": 2005,
+    "article_url": "https://zxpress.ru/article.php?id=2005",
+    "print_url": "https://zxpress.ru/print.php?id=2005",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

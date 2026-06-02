@@ -1,0 +1,15 @@
+{
+  "magazine_id": 51,
+  "magazine_name": "Demo or Die",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-07-31",
+  "order": 8,
+  "article_id": 2352,
+  "title_link": "Demo-строение - Генератор таблицы квадратов.",
+  "title_h1": "Demo or Die 02 - Demo-строение - Генератор таблицы квадратов.",
+  "print_url": "https://zxpress.ru/print.php?id=2352",
+  "article_url": "https://zxpress.ru/article.php?id=2352",
+  "fetched_at": "2026-05-31T21:56:42Z"
+}

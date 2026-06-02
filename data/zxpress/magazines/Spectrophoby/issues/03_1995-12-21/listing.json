@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 12094,
+    "article_url": "https://zxpress.ru/article.php?id=12094",
+    "print_url": "https://zxpress.ru/print.php?id=12094",
+    "title_link": "Help - Управление оболочкой журнала.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Help_-_Управление_оболочкои_журнала"
+  },
+  {
+    "article_id": 12095,
+    "article_url": "https://zxpress.ru/article.php?id=12095",
+    "print_url": "https://zxpress.ru/print.php?id=12095",
+    "title_link": "Экспертиза - подробный разбор авиасимулятора \"F-19 Stealth Fighter\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Экспертиза_-_подробныи_разбор_авиасимулятора_F-19_Stealth_Fi"
+  },
+  {
+    "article_id": 12096,
+    "article_url": "https://zxpress.ru/article.php?id=12096",
+    "print_url": "https://zxpress.ru/print.php?id=12096",
+    "title_link": "Дебют - компьютерная новелла \"Rock Star Ate My Hamster\".",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Дебют_-_компьютерная_новелла_Rock_Star_Ate_My_Hamster"
+  },
+  {
+    "article_id": 12097,
+    "article_url": "https://zxpress.ru/article.php?id=12097",
+    "print_url": "https://zxpress.ru/print.php?id=12097",
+    "title_link": "Штурм - разборка игры \"Where Time Stood Still\".",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Штурм_-_разборка_игры_Where_Time_Stood_Still"
+  },
+  {
+    "article_id": 12098,
+    "article_url": "https://zxpress.ru/article.php?id=12098",
+    "print_url": "https://zxpress.ru/print.php?id=12098",
+    "title_link": "Обзор - обзор свежих релизов: Lord of Chaos, F-19 Stealth Fighter, Carrier Command, The Simpsons, Gauntlet 3, The Addams Family, Wild West Seymour, Sly Spy, Paris To Dakar, Duck Out, Johangir Khan World Championchip Squash, The Amazing Adventures of Robin Hood.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Обзор_-_обзор_свежих_релизов_Lord_of_Chaos_F-19_Stealth_Figh"
+  },
+  {
+    "article_id": 12099,
+    "article_url": "https://zxpress.ru/article.php?id=12099",
+    "print_url": "https://zxpress.ru/print.php?id=12099",
+    "title_link": "Почта - кто-нибудь прошел UFO до конца?",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Почта_-_кто-нибудь_прошел_UFO_до_конца"
+  },
+  {
+    "article_id": 12100,
+    "article_url": "https://zxpress.ru/article.php?id=12100",
+    "print_url": "https://zxpress.ru/print.php?id=12100",
+    "title_link": "Секреты TR-DOS - Kaк-жe увeличить объeм кaждого\r\nтрeкa?",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Секреты_TR-DOS_-_Kaк-жe_увeличить_объeм_кaждоготрeкa"
+  },
+  {
+    "article_id": 12101,
+    "article_url": "https://zxpress.ru/article.php?id=12101",
+    "print_url": "https://zxpress.ru/print.php?id=12101",
+    "title_link": "Система - дисковые утилиты: Conver Commander v3.03R, Advanced Disk Monitor v7.08, Advanced Disk Service v2.0.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Система_-_дисковые_утилиты_Conver_Commander_v303R_Advanced_D"
+  },
+  {
+    "article_id": 12102,
+    "article_url": "https://zxpress.ru/article.php?id=12102",
+    "print_url": "https://zxpress.ru/print.php?id=12102",
+    "title_link": "Реклама - Рeдaкции журнaлa трeбуются: xудожники, музыкaнты, прогрaммисты, экспeрты по игровым прогрaммaм, и пeрeводчики с aнглийского.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Рeдaкции_журнaлa_трeбуются_xудожники_музыкaнты_про"
+  }
+]

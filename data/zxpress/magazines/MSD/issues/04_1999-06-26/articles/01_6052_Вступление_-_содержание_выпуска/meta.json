@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-06-26",
+  "order": 1,
+  "article_id": 6052,
+  "title_link": "Вступление - содержание выпуска.",
+  "title_h1": "MSD 04 - Вступление - содержание выпуска.",
+  "print_url": "https://zxpress.ru/print.php?id=6052",
+  "article_url": "https://zxpress.ru/article.php?id=6052",
+  "fetched_at": "2026-05-31T22:28:00Z"
+}

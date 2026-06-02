@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 9606,
+    "article_url": "https://zxpress.ru/article.php?id=9606",
+    "print_url": "https://zxpress.ru/print.php?id=9606",
+    "title_link": "От авторов - содержание номера.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_содержание_номера"
+  },
+  {
+    "article_id": 9607,
+    "article_url": "https://zxpress.ru/article.php?id=9607",
+    "print_url": "https://zxpress.ru/print.php?id=9607",
+    "title_link": "Новости - состояние дел в Сочинской группе Accept Corp.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новости_-_состояние_дел_в_Сочинскои_группе_Accept_Corp"
+  },
+  {
+    "article_id": 9608,
+    "article_url": "https://zxpress.ru/article.php?id=9608",
+    "print_url": "https://zxpress.ru/print.php?id=9608",
+    "title_link": "Ментура - частушки.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Ментура_-_частушки"
+  },
+  {
+    "article_id": 9609,
+    "article_url": "https://zxpress.ru/article.php?id=9609",
+    "print_url": "https://zxpress.ru/print.php?id=9609",
+    "title_link": "Новый год - итоги уходящего года для Спектрума.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Новыи_год_-_итоги_уходящего_года_для_Спектрума"
+  },
+  {
+    "article_id": 9610,
+    "article_url": "https://zxpress.ru/article.php?id=9610",
+    "print_url": "https://zxpress.ru/print.php?id=9610",
+    "title_link": "Музыкальная страничка - самые лучшие песни отечественных групп: Человек и Кошка/Ноль \"Песня о любви к Родине\".",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Музыкальная_страничка_-_самые_лучшие_песни_отечественных_гру"
+  },
+  {
+    "article_id": 9611,
+    "article_url": "https://zxpress.ru/article.php?id=9611",
+    "print_url": "https://zxpress.ru/print.php?id=9611",
+    "title_link": "Эпилог - авторы газеты.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Эпилог_-_авторы_газеты"
+  }
+]

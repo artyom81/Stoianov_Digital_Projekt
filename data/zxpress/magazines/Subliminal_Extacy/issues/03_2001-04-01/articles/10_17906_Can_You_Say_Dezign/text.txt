@@ -1,0 +1,74 @@
+Subliminal Extacy 03 - Can You Say Dezign?
+Can You Say Dezign? By LaesQ / Raww Arse
+
+How many times have you been sat infront of your Speccy watching
+the latest demo release (most likely  Russian) and thought 'seen 
+it before', or 'CHANGE  THE  EFFECT!!!!!'.  For myself and a few
+others whom I  have raised this topic with agree with me - demos 
+nowadays  have no real dezign element.
+
+It seems that the Russian  sector of the scene have  adopted the
+Amiga/PC  style of demo. You  know the usual full screen  effect
+followed by another  full screen effect  followed by... You  get
+the picture. But with this they seem to have left out the dezign
+element.
+
+So  what  is  this dezign  element? If  you're making  a trackmo
+(something which  can't really  exist on  Speccy with  it's many
+different  flavours of  disk systems  - See  below for  a brief
+description),  everything (and  I mean  just about  everything!)
+should flow  easily and  seamlessly. And  to add  to the overall
+effect, it should be timed to the music.
+
+I have seen brave attempts to  do this in a few Speccy  demos of
+recent times. But  they only seem  to be able  to lead from  one
+effect into another and then  that's it, back to the  usual show
+effect - blank - show effect - blank - sequence.
+
+I  think the  lowest form  of  effect  transforming must  be the
+common fade  in/out. Even  that isn't  seen in  alot of demos of
+today. And what happened to all those fancy clears, etc. All  it
+takes  is a  simple  AND/OR  rountine! CLS  just doesn't  cut it
+nowadays! USE YOUR IMAGINATION!
+
+Morphing is another good form of effect transforming. I've  seen
+morphing  of  basic shapes  (vector  style) and  even  a dancing
+person. But no one seems to have seen the real potential  behind
+morphing, well, not on Speccy at least.
+
+Another thing is the 'When is this effect gonna end?'  scenario.
+You know  what I  mean, you're watching a demo and  up come some
+swirling dots. They swirl and they swirl and they swirl and  you
+go and make yourself a drink and they're STILL swirling when you
+come back!  Ok, so  you may  have spent  five years coding those
+damn dots,  but making  someone watch  them for  five years just
+isn't fun!  Don't you  coders speak  with other  members of your
+group?  I'm  sure  they'll  tell you  when  an  effect  has been
+displayed for long enough.
+
+And stop coping other peoples effects EXACTLY!! Ok, so you found
+a new and great  way to do it  that takes 5 tacts  less than the
+original one, but  it looks EXACTLY  the same! Also  the average
+demo watcher couldn't care less  if your effect takes up  70,000
+tacts or 70 tacts! It's what it looks like that matters.
+
+Don't think that  'demo' means  endless  effects either.  Take a 
+leaf  out of Agent-X's book  and look  at  Hypersonic  II.  That
+started with a small (funny) story. This seems to be one of very
+few that  I've seen so far that has a story in it.  Some may say
+that 'Condomed' had a story to it. Ok, yes it had a story to it.
+But the action was still  and boring. But  it  was a foot in the
+right direction. And what about the all time classic  'Beruska'?
+I still have yet to see another  demo of this variety and class.
+
+Have  a  sense  of  humour! So  many  demos  nowadays  are soooo
+serious! I'm surprised half of the Speccy scene hasn't committed
+suicide in the past year or two.
+
+Anyway, I hope I've made myself clear and that some other Speccy
+groups will read this and learn.
+
+LaesQ / Raww Arse.
+
+Trackmo  -  Derived  from  the  two  words  'track'  and 'demo' 
+- meaning to show a demo by loading tracks of data from a disk.

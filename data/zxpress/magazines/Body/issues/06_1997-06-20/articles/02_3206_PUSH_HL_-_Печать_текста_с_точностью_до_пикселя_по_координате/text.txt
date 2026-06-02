@@ -1,0 +1,139 @@
+Body 06 - PUSH HL - Печать текста с точностью до пикселя по координате Y.
+┌══════════════════════════════════════════════════════════════┐
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PUSH HL ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+└══════════════════════════════════════════════════════════════┘
+(C) SATSOFT					   PHN.270-72-36
+
+Я  ПРЕДЛАГАЮ  ВАШЕМУ ВНИМАНИЮ ПРОЦЕДУРУ СТИВА ТЕРНЕРА ДЛЯ ПЕЧАТИ
+ТЕКСТОВЫХ СООБЩЕНИЙ В ЛЮБОЙ ТОЧКЕ ЭКРАНА С ТОЧНОСТЬЮ ДО ПИКСЕЛА,
+А  НЕ  ТОЛЬКО  В КООРДИНАТАХ ЗНАКОМЕСТ.ЭТА ПРОГРАМКА БЫЛА СЛЕГКА
+МНОЮ  ОТТЕСТИРОВАНА  В  ALASM'Е,  ТАК ЧТО ОШИБОК В НЕЙ НЕ ДОЛЖНО
+БЫТЬ.   КОММЕНТАРИЕВ,Я  НАДЕЮСЬ,К  ДАННОЙ  ПРОГРАММЕ  ДАВАТЬ  НЕ
+НАДО,Т.К.  ВСЕ ВЫ НАВЕРНОЕ ОБРАЗОВАННЫЕ ЛЮДИ.МОГУ СКАЗАТЬ ТОЛЬКО
+ОДНО - НЕ ЗАБЫВАЙТЕ СТАВИТЬ ДЛИНУ СТРОКИ.
+
+               ;ПЕЧАТЬ ТЕКСТА С ТОЧНОСТЬЮ ДО ПИКСЕЛА
+        ORG 40000
+	LD A,1	            ;НОМЕР СООБЩЕНИЯ В КИЛОГРАММАХ   :)
+	LD D,99	            ;КООРДИНАТА Y В ПИКСЕЛАХ ОТ 0 ДО 184
+	LD E,3              ;КООРДИНАТА Х В ЗНАКОМЕСТАХ 0 ДО 31
+	CALL TEXT
+	LD A,2
+	LD D,120
+	LD E,8
+	CALL TEXT
+	RET
+	                     ;ПОДПРОГРАММА ТЕХТ
+	                     ;А - НОМЕР СООБЩЕНИЯ
+	                     ;DE- КООРДИНАТЫ ПЕЧАТИ
+TEXT	LD HL,TXADD
+LOOK	LD B,0
+	JR GOTRY
+LONG	LD C,(HL)            ;ПОИСК ТЕКСТА
+	INC HL
+	ADD HL,BC
+GOTRY	DEC A
+	JR NZ,LONG
+	CALL PRINT
+	RET
+PRINT	LD (INPUT),HL
+	LD A,D
+	AND #38	             ;ОПРЕДЕЛЯЕМ РЯД
+	ADD A,A
+	ADD A,A
+	ADD A,E	             ;ПРИБАВИЛИ Х
+	LD E,A	             ;МЛАДШИЙ БАЙТ
+	LD A,D
+	RRA
+	RRA
+	RRA
+	AND #18	             ;ОПРЕДЕЛЯЕМ ТРЕТЬ ЭКРАНА
+	LD C,A
+	LD A,D
+	AND #07	             ;СТРОКА В РЯДУ
+	ADD A,C
+	ADD A,#40            ;СТАРШИЙ БАЙТ
+	LD D,A
+	LD HL,(INPUT)
+	LD A,(HL)
+	AND A
+	RET Z	             ;НЕВЕРНОЕ ЗНАЧЕНИЕ
+	LD C,A
+PROLET	LD (OUTPUT),DE
+	INC HL
+	LD (INPUT),HL
+	LD A,(HL)
+	CP #FF
+	JR NZ,CHAR
+	                     ;ПЕРЕХОД К НОВОЙ СТРОКЕ
+	                     ;ПОД ПЕРВОЙ ПОЗИЦИЕЙ
+	                     ;ПЕЧАТИ
+	LD DE,(OUTLIN)
+	LD A,E
+	ADD A,#20
+	LD E,A
+	RET NC
+	LD A,D     	     ;ДРУГАЯ ТРЕТЬ ЭКРАНА
+	ADD A,8
+	CP #58
+	RET NC
+	LD D,A
+	LD (OUTLIN),DE
+	JR REJOIN
+CHAR	LD L,A     	     ;ПОИСК СИМВОЛА
+	LD H,0
+	ADD HL,HL
+	ADD HL,HL
+	ADD HL,HL
+	LD DE,(CHASET)
+	ADD HL,DE
+	LD DE,(OUTPUT)
+	LD A,D
+	CP #58
+	RET NC
+ 	LD B,8
+EIGHT	LD A,(HL)            ;ВЫДАЕТ 8 СТРОК СИМВОЛА
+	LD (DE),A
+	INC HL
+	LD A,D
+	AND 7
+	INC A
+	CP 8
+	JR NZ,NONEW
+	LD A,D
+	AND #F8
+	LD D,A
+	LD A,E
+	ADD A,#20
+	LD E,A
+	JR NC,NEXTSL
+	LD A,D
+	ADD A,8
+	LD D,A
+NONEW	INC D
+NEXTSL	DJNZ EIGHT
+	LD DE,(OUTPUT)
+NEXTLT	INC E
+	JR NZ,REJOIN
+	LD A,D
+	ADD A,8
+	LD D,A
+REJOIN	LD HL,(INPUT)
+	DEC C
+	JR NZ,PROLET
+	RET
+OUTLIN	DEFW 0                 ;НАЧАЛЬНАЯ СТРОКА
+OUTPUT	DEFW 0	               ;АДРЕС ПЕЧАТИ
+INPUT	DEFW 0	               ;АДРЕС ТЕКСТА
+CHASET	EQU 23606              ;УКАЗЫВАЕТ НА АДРЕС ШРИФТА В ПЗУ
+		               ;МИНУС 256 БАЙТ
+	                       ;ТАБЛИЦА ТЕКСТА
+TXADD   DEFB 26		       ;ДЛИНА ДАННОЙ СТРОКИ В СИМВОЛАХ
+	DEFB "HELLO ALL READERS OF BODY!"
+        DEFB 16		       ;ДЛИНА ДАННОЙ СТРОКИ В СИМВОЛАХ
+        DEFB "TO BE CONTINUED!"
+
+>ASSEMBLE
+#0079
+ SYMBOLS:#C04B-#FED1
+TOTAL ERRORS:#0000

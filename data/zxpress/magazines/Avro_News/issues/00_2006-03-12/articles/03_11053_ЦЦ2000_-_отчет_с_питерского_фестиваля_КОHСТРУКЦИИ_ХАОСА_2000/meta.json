@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "2006-03-12",
+  "order": 3,
+  "article_id": 11053,
+  "title_link": "ЦЦ2000 - отчет с питерского фестиваля КОHСТРУКЦИИ ХАОСА 2000.",
+  "title_h1": "Avro News 00 - ЦЦ2000 - отчет с питерского фестиваля КОHСТРУКЦИИ ХАОСА 2000.",
+  "print_url": "https://zxpress.ru/print.php?id=11053",
+  "article_url": "https://zxpress.ru/article.php?id=11053",
+  "fetched_at": "2026-05-31T21:38:27Z"
+}

@@ -1,0 +1,112 @@
+Subliminal Extacy 03 - brief information about CC1
+-----------------------------------------------
+FILE:     brief information about CC1
+VERSION:  3.00
+DATETIME: 04/APR/2001 14:26
+URL:      http://www.chaosite.com/lastbrief.txt
+-----------------------------------------------
+cc1. first and last.
+
+[general]
+The first and last  demoparty under name of  Chaos Constructions
+to  be  held  in  third  millenia  is  going  to  take  place in
+St.Petersburg, Russia in august, 2001. As per usual sceners from
+all  over  the world  will  participate again  in  this historic
+event. True demoscene spirit will be with you for over 24  hours
+of non-stop  partying and  you can  be part  of it  for one more
+time.
+
+[date]
+18-19, August, 2001
+Doors will  be open  at midday  on saturday  and close  sometime
+during the sunday evening. Party will keep going until finished.
+
+[place]
+Yet  unknown, however  it will  be finalized  at least  1 month
+before the party.
+
+[entry]
+Up  to  $3  for  visitors,  girls  or  winners  of  previous  CC
+demoparties walk in for free.
+
+[machines]
+oldschool: zx  (pentagon 128),  pc (386  33), amiga  (500), c64,
+           msx, bk
+normal: zx  (scorpion 256  + gmx,  2mb), amiga  (1200+accel), pc
+        (piii+geforce)
+
+[main compos]
+Maximum 2 entries from one  author in any compo. Maximum  number
+of entries in any compo - 20.
+
+demo: 8mb limit, 15 minutes
+64k intro: 64k limit, 10 minutes
+4k intro: 4k limit, 5 minutes
+oldschool demo: 800k limit, 15 minutes
+mod music: 2mb limit, 4 minutes
+multichannel music: Чmb limit, 4 minutes
+мрЗ music: fixed bitrate of 192kbs, 4 minutes
+oldschool music: 64k limit, 4 minutes
+animation: videotape/mpeg, 10 minutes
+rendered gfx: maximum resolution of 800x600x2Чbit
+hand-drawn gfx: maximum resolution of 800x600x2Чbit
+oldschool gfx: maximum resolution of 320x200x8bit
+wild demo: 10 minutes
+
+[additional compos]
+Whether  compo will  take place  depends on  number of  entries.
+Minimum 3 entries are necessary.
+
+ASCII/ANSI
+256b zx intro
+256b pc intro
+512b zx intro
+512b pc intro
+flash demo
+1 week intro (themed)
+
+attention: theme  for 1  week intro  will be  published into the
+nets one week before the party.
+
+[prizes]
+Winners  of  every  competition  will  receive  various  prizes 
+- diplomas, hardware, symbolics, possibly money.
+
+[entries]
+All entries must be registered and submitted by 11th of  august,
+2001 to the following addresses:
+
+mailto:constructions@chaosite.com
+fido:2:5030/920.20
+ftp://chaosite.com/incoming/cc1
+
+[sponsors]
+If you want to become a  sponsor and be advertised on the  party
+and/or website please email us - constructions@chaosite.com 
+
+Things we need from you  the most: support, prizes for  winners,
+media coverage,  hardware, web  design, financial  support to be
+put towards organizing such event.
+
+The following companies and  individuals have shown interest  in
+sponsoring the event this year:
+Concern Chaos
+
+[organizers]
+This  year the  event is  organized by  sceners that  you  might
+remember from previous parties in Russia:
+
+Enlight 1995, 1996, 1997          CC 1999, 2000
+FunTop 1998                       CAFe 1999, 2000
+
+[contacts]
+If you have any question  about CC1, don't hesitate to  call us,
+mail us, talk to us. Here're some addresses that you can use:
+mailto:constructions@chaosite.com
+fido:2:5030/920.20
+ICQ:1885727
+phone:+61414514951
+snail:  Random/CC1 orgz,  Level 1,  181 Broadway,  Ultimo, NSW,
+        2007, Australia
+
+(c) MM1, concern chaos.

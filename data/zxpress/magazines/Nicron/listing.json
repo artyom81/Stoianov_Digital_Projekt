@@ -1,0 +1,644 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1996-09-30",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1996-10-12",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1996-10-17",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1996-10-02",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "1996-10-31",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "1996-11-07",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "07",
+      "issue_date_iso": "1996-11-14",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "10",
+      "issue_date_iso": "1996-12-05",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "11",
+      "issue_date_iso": "1996-12-12",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "12",
+      "issue_date_iso": "1996-12-20",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "13",
+      "issue_date_iso": "1996-12-31",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "14",
+      "issue_date_iso": "1997-01-03",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "15",
+      "issue_date_iso": "1997-01-10",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "16",
+      "issue_date_iso": "1997-01-17",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "17",
+      "issue_date_iso": "1997-01-23",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "18",
+      "issue_date_iso": "1997-01-31",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "19",
+      "issue_date_iso": "1997-02-06",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "20",
+      "issue_date_iso": "1997-02-14",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "21",
+      "issue_date_iso": "1997-02-21",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "22",
+      "issue_date_iso": "1997-02-27",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "23",
+      "issue_date_iso": "1997-03-06",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "24",
+      "issue_date_iso": "1997-03-13",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "25",
+      "issue_date_iso": "1997-03-20",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "26",
+      "issue_date_iso": "1997-03-27",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "27",
+      "issue_date_iso": "1997-03-31",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "28",
+      "issue_date_iso": "1997-04-03",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "29",
+      "issue_date_iso": "1997-04-11",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "30",
+      "issue_date_iso": "1997-04-17",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "31",
+      "issue_date_iso": "1997-04-24",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "32",
+      "issue_date_iso": "1997-05-01",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "33",
+      "issue_date_iso": "1997-05-07",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "34",
+      "issue_date_iso": "1997-05-15",
+      "articles_count": 13
+    },
+    {
+      "issue_label": "35",
+      "issue_date_iso": "1997-05-22",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "36",
+      "issue_date_iso": "1997-05-29",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "37",
+      "issue_date_iso": "1997-06-05",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "38",
+      "issue_date_iso": "1997-06-13",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "39",
+      "issue_date_iso": "1997-06-19",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "40",
+      "issue_date_iso": "1997-06-26",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "41",
+      "issue_date_iso": "1997-07-03",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "42",
+      "issue_date_iso": "1997-07-10",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "43",
+      "issue_date_iso": "1997-07-17",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "44",
+      "issue_date_iso": "1997-07-24",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "45",
+      "issue_date_iso": "1997-07-31",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "46",
+      "issue_date_iso": "1997-08-07",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "47",
+      "issue_date_iso": "1997-08-14",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "48",
+      "issue_date_iso": "1997-08-20",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "49",
+      "issue_date_iso": "1997-08-26",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "50",
+      "issue_date_iso": "1997-08-28",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "51",
+      "issue_date_iso": "1997-09-06",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "52",
+      "issue_date_iso": "1997-09-04",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "53",
+      "issue_date_iso": "1997-09-11",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "54",
+      "issue_date_iso": "1997-09-18",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "55",
+      "issue_date_iso": "1997-09-25",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "56",
+      "issue_date_iso": "1997-10-02",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "57",
+      "issue_date_iso": "1997-10-09",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "58",
+      "issue_date_iso": "1997-10-17",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "59",
+      "issue_date_iso": "1997-10-23",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "60",
+      "issue_date_iso": "1997-10-30",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "61",
+      "issue_date_iso": "1997-11-06",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "62",
+      "issue_date_iso": "1997-11-13",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "63",
+      "issue_date_iso": "1997-11-20",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "64",
+      "issue_date_iso": "1997-11-27",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "65",
+      "issue_date_iso": "1997-12-04",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "66",
+      "issue_date_iso": "1997-12-11",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "67",
+      "issue_date_iso": "1997-12-18",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "68",
+      "issue_date_iso": "1997-12-25",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "69",
+      "issue_date_iso": "1997-12-30",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "70",
+      "issue_date_iso": "1998-01-08",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "71",
+      "issue_date_iso": "1998-01-15",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "72",
+      "issue_date_iso": "1998-01-26",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "73",
+      "issue_date_iso": "1998-01-29",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "74",
+      "issue_date_iso": "1998-02-05",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "75",
+      "issue_date_iso": "1998-02-12",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "76",
+      "issue_date_iso": "1998-02-19",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "77",
+      "issue_date_iso": "1998-02-26",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "78",
+      "issue_date_iso": "1998-03-05",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "79",
+      "issue_date_iso": "1998-03-12",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "80",
+      "issue_date_iso": "1998-03-19",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "81",
+      "issue_date_iso": "1998-03-26",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "82",
+      "issue_date_iso": "1998-03-31",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "83",
+      "issue_date_iso": "1998-04-02",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "84",
+      "issue_date_iso": "1998-04-09",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "85",
+      "issue_date_iso": "1998-04-16",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "86",
+      "issue_date_iso": "1998-04-23",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "87",
+      "issue_date_iso": "1998-04-30",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "88",
+      "issue_date_iso": "1998-05-07",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "89",
+      "issue_date_iso": "1998-05-14",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "90",
+      "issue_date_iso": "1998-05-21",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "91",
+      "issue_date_iso": "1998-05-28",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "92",
+      "issue_date_iso": "1998-06-04",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "93",
+      "issue_date_iso": "1998-06-11",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "94",
+      "issue_date_iso": "1998-06-18",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "95",
+      "issue_date_iso": "1998-07-02",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "96",
+      "issue_date_iso": "1998-07-09",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "97",
+      "issue_date_iso": "1998-07-16",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "98",
+      "issue_date_iso": "1998-07-23",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "99",
+      "issue_date_iso": "1998-08-15",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "100",
+      "issue_date_iso": "1998-09-11",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "101",
+      "issue_date_iso": "1998-09-17",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "102",
+      "issue_date_iso": "1998-09-24",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "103",
+      "issue_date_iso": "1998-10-11",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "104",
+      "issue_date_iso": "1998-11-20",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "105",
+      "issue_date_iso": "1998-12-13",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "106",
+      "issue_date_iso": "1999-01-13",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "107",
+      "issue_date_iso": "1999-03-14",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "108",
+      "issue_date_iso": "1999-03-31",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "109",
+      "issue_date_iso": "1999-06-30",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "110",
+      "issue_date_iso": "1999-09-15",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "111",
+      "issue_date_iso": "1999-08-28",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "112",
+      "issue_date_iso": "1999-09-15",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "113",
+      "issue_date_iso": "1999-10-03",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "114",
+      "issue_date_iso": "1999-11-06",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "115",
+      "issue_date_iso": "1999-12-04",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "116",
+      "issue_date_iso": "2000-01-29",
+      "articles_count": 13
+    },
+    {
+      "issue_label": "117",
+      "issue_date_iso": "2000-05-21",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "118",
+      "issue_date_iso": "2000-09-03",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "119",
+      "issue_date_iso": "2000-11-17",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "120",
+      "issue_date_iso": "2000-12-31",
+      "articles_count": 11
+    },
+    {
+      "issue_label": "121",
+      "issue_date_iso": "2001-10-21",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "122",
+      "issue_date_iso": "2001-11-18",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "123",
+      "issue_date_iso": "2002-04-11",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "124",
+      "issue_date_iso": "2002-06-23",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "125",
+      "issue_date_iso": "2002-12-19",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "126",
+      "issue_date_iso": "2003-12-20",
+      "articles_count": 3
+    },
+    {
+      "issue_label": "127",
+      "issue_date_iso": "2004-08-31",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "128",
+      "issue_date_iso": "2005-01-06",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "129",
+      "issue_date_iso": "2006-01-18",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "130",
+      "issue_date_iso": "2006-01-19",
+      "articles_count": 7
+    }
+  ]
+}

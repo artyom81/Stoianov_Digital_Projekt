@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "73",
+  "issue_date_iso": "2020-07-14",
+  "order": 2,
+  "article_id": 18525,
+  "title_link": "News - the NedoOS operating system has\r\nbecome my main project. A few more people joined the NedoOS\r\nproject ( DimkaM, Demige, Lord Vader, etc.)",
+  "title_h1": "ACNews 73 - News - the NedoOS operating system has become my main project. A few more people joined the NedoOS project ( DimkaM, Demige, Lord Vader, etc.)",
+  "print_url": "https://zxpress.ru/print.php?id=18525",
+  "article_url": "https://zxpress.ru/article.php?id=18525",
+  "fetched_at": "2026-05-31T21:32:14Z"
+}

@@ -1,0 +1,313 @@
+ACNews 70 - Listh language project - Forth is implemented much simpler than Lisp, but it has big drawbacks.
+Listh language project
+by Alone Coder
+Lisp and Forth allow you to quickly deploy the programming
+environment on a new machine or under a new OS. To do this, the
+language itself is made very simple, but flexible.
+
+Forth is implemented much simpler than Lisp, but it has big
+drawbacks:
+- function parameters are in the same stack as the result of the
+function, and are inaccessible by name - it is not convenient to
+read them;
+- if some function is written with an error in the depth of the
+stack, it will crash the whole program;
+- complex mathematical operations are not readable, it is
+impossible to write parentheses;
+- the system does not provide dynamic lists, as well as general
+dynamic memory;
+- apparently, you can not pass a pointer to a function or a
+closure.
+
+Lisp also implements the editing environment on its own, and in
+principle, it can always be changed by a user. And it can be
+done right while the program is running.
+
+I decided to eliminate Forth's flaws, while not implementing the
+most intricate things in Lisp - contexts, garbage collection,
+and parameter interpretation when calling functions. And also
+avoiding the Lispian typing of list cells - not a true type
+system, it also hinders the effective storage and execution of
+the program. And as we remember, one of the advantages of Lisp
+is that it can edit itself. The language is meant to be executed
+directly from the source text.
+
+My idea was that the basic data structure is the list, and the
+parameters and result of the functions are passed to the
+(pseudo-)stack, that is, when you call a function, you do not
+need to interpret them. But at the same time:
+- functions have the ability to read the terms of the source
+text, that is, to receive parameters written on the right;
+- you can provide for storing the depth of the stack when
+calling, so that functions return the old depth by default (but
+I have not done so yet);
+- the type of a nested list is determined by its first element.
+Terms are also lists, because they have symbolic names that must
+be stored somewhere for the possibility of showing. In order not
+to interpret this type in the first element, we simply write the
+address of the handler of this type: variable, constant,
+function... (For the built-in functions, there will be specific
+handlers.) The second element of the list contains useful data
+(the contents of the variable, the address of the function...),
+and then - the name, character by chaaracter.
+
+Expressions in this language will look something like this:
+(a + (x))
+(a + 0) //operations of type "+" read and evaluate their right
+operand
+((x) + a)
+(f (x) + a)
+(a + f (x))
+(fquote (x y z)) //this function does not calculate its operand
+(a b f2) //this function reads operands from the stack
+
+Below is the code of the interpreter and a couple of built-in
+function handlers (in fact, there should be much more). The base
+function is called count. Pseudo-stack grows upward, towards the
+real stack.
+
+        macro PSEUDOPUSHHL
+        ld a,l
+        ld (bc),a
+        inc c
+        ld a,h
+        ld (bc),a
+        inc bc
+        endm
+
+        macro PSEUDOPUSHDE
+        ld a,e
+        ld (bc),a
+        inc c
+        ld a,d
+        ld (bc),a
+        inc bc
+        endm
+
+        macro PSEUDOPOPHL
+        dec bc
+        ld a,(bc)
+        ld h,a
+        dec c
+        ld a,(bc)
+        ld l,a
+        endm
+
+        macro PSEUDOPOPDE
+        dec bc
+        ld a,(bc)
+        ld d,a
+        dec c
+        ld a,(bc)
+        ld e,a
+        endm
+
+        macro GETNEXT
+;read the data in hl
+;read pnext in de
+        ex de,hl
+        ld e,(hl)
+        inc l
+        ld d,(hl) ;data
+        inc l
+        ld a,(hl)
+        inc l
+        ld h,(hl)
+        ld l,a ;pnext
+        ex de,hl
+        endm
+
+count:
+;list interpreter
+;calls the function on the pointer in de, it goes again to count
+;or to the endcount
+        GETNEXT ;read pfunc in hl, pnext in de
+        ld a,(hl)
+        inc l
+        ld h,(hl)
+        ld l,a ;*pfunc (in the function description list,
+               ;the first element is the address for the call)
+        jp (hl) ;when an asm function is called, the stack does
+                ;not move
+
+PushValue:
+;asmfunction at the beginning of the variable/constant/list
+;return value from the current list is in (de)
+        ex de,hl
+        ld e,(hl)
+        inc l
+        ld d,(hl) ;value
+        PSEUDOPUSHDE
+endcount:
+;Called as the last item in the list
+        ret ;endcount
+
+Lisp:
+;The asm function at the beginning of function descriptor list
+;read value in the current list - lies in (de), this is the
+;address of the list to be executed
+        ex de,hl
+        ld e,(hl)
+        inc l
+        ld d,(hl) ;value
+        jp count ;calculation of the list where the function is
+                 ;described, exit to the endcount
+
+plus:
+;called from the Lisp, so it does not contain ret
+;left operand is in pseeudo-stack
+;reads the function / variable / constant / list by pointer (and
+;moves the pointer), calculates it, puts the result in
+;pseudo-stack, adds 2 numbers to the pseudo-stack
+        GETNEXT ;read plist in hl, pnext in de
+         push de ;current pointer
+        ex de,hl ;pointer = pdata
+;de = pointer to a function / variable / constant / list, i.e.
+;in fact, always to the list
+;if it is a function / variable / constant, just call ((de))
+;(exits to endcount)
+;if it is a list, call count (with de moving and exit to
+;endcount in the end of the list)
+        call count ;execute the first term of the list and
+                   ;continue until endcount
+        PSEUDOPOPDE ;de is now right operand
+        PSEUDOPOPHL ;hl is now left operand
+        add hl,de
+         pop de ;current pointer
+        PSEUDOPUSHHL
+        jp count
+
+_readnext:
+;called from the Lisp, so it does not contain ret
+;reads term address from the pointer, pushes it in pseudo-stack
+;(without evaluation), moves the pointer
+        GETNEXT ;read term in hl, pnext in de
+        PSEUDOPUSHHL
+        jp count
+
+_eval:
+;called from the Lisp, so it does not contain ret
+;reads term address from pseudo-stack, evaluated it, pushes the
+;result in pseudo-stack
+         push de ;current pointer
+        PSEUDOPOPDE ;de is now term address
+;de = pointer to a function / variable / constant / list, i.e.
+;in fact, always to the list
+;if it is a function / variable / constant, just call ((de))
+;(exits to endcount)
+;if it is a list, call count (with de moving and exit to
+;endcount in the end of the list)
+        call count ;execute the first term of the list and
+                   ;continue until endcount
+         pop de ;current pointer
+        jp count
+
+_POPVAR:
+;called from the Lisp, so it does not contain ret
+        GETNEXT ;read pvar in hl, pnext in de
+        inc l
+        inc l
+        ld a,(hl)
+        inc l
+        ld h,(hl)
+        ld l,a    ;pvar.next (in the descriptor list of the
+;variable the first element is call address, second is value)
+         push de
+        PSEUDOPOPDE
+        ld (hl),e
+        inc l
+        ld (hl),d
+         pop de
+        jp count
+
+_DUP:
+;called from the Lisp, so it does not contain ret
+        PSEUDOPOPHL
+        PSEUDOPOPHL
+        PSEUDOPUSHHL
+        jp count
+
+_SWAP:
+;called from the Lisp, so it does not contain ret
+         push de
+        PSEUDOPOPDE
+        PSEUDOPOPHL
+        PSEUDOPUSHDE
+         pop de
+        PSEUDOPUSHHL
+        jp count
+
+        ds (-$)&3 ;ALIGN 4
+readnext:
+        dw _readnext,$+2,0,$+2
+        dw 'r',$+2,'e',$+2,'a',$+2,'d',$+2
+        dw 'n',$+2,'e',$+2,'x',$+2,'t',NIL
+eval:
+        dw _eval,$+2,0,$+2
+        dw 'e',$+2,'v',$+2,'a',$+2,'l',NIL
+POPVAR:
+        dw _POPVAR,$+2,0,$+2
+        dw 'P',$+2,'O',$+2,'P',NIL
+DUP:
+        dw _DUP,$+2,0,$+2
+        dw 'D',$+2,'U',$+2,'P',NIL
+SWAP:
+        dw _SWAP,$+2,0,$+2
+        dw 'S',$+2,'W',$+2,'A',$+2,'P',NIL
+        ...
+freemem:
+        dup ($-endmem)/4
+        dw 0,$+2
+        edup
+
+How we will do cycles and conditions:
+(1 2 ifeq (...) (..else ..))) - how to transfer the calculated
+parameters to the body? through the stack and global variables?
+loop (...) - how to transfer the calculated parameters to its
+body? How to get out? (you can provide a loop-exit hack, but the
+stack will not be able to store the exit address, because exit
+can be parenthesised)
+use only global variables?
+and provide for them commands "push" and "pop" with the
+parameter on the right (instead of "push" you can simply write
+the name of the variable)
+
+whilenz (...) //executes until the last result is NIL (does not
+remove top of stack)
+(With it, you can make an ordinary while loop:)
+cond
+whilenz (... cond)
+
+editor:
+DEFUN "brackets2list_delstring"
+(
+  eat //"("
+  pushnil
+  whilez (
+    gettoken_del
+    isopenbracket ifz (
+      string2list_delstring //eat (...)
+    )
+    ... pushtolist ... //can add ")"
+    isclosebracket ifz //what if there's no closing parenthesis?
+                  //input directly in parentheses without Enter?
+  )
+  ... popfromlist ...
+  ... swaplist ...
+)
+DEFUN "readlist" (readbrackets brackets2list_delstring)
+DEFUN "eval_dellist" (DUP eval SWAP dellist)
+loop (readlist eval_dellist printlist_dellist)
+
+                             * * *
+
+The obvious drawback is that the program in this language takes
+at least twice as much as the Forth's, precisely because of the
+storage in the list. A data structure "list" is rarely needed
+for real Spectrum problems, it was chosen in order to be able to
+edit the program in the process of its work.
+
+If the project is completed, it will be possible to use it for a
+program of infinite size, if all the pointers are made far
+(3 bytes instead of 2). But for such large programs it is
+necessary to be convenient to code...

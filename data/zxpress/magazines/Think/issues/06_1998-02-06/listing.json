@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3834,
+    "article_url": "https://zxpress.ru/article.php?id=3834",
+    "print_url": "https://zxpress.ru/print.php?id=3834",
+    "title_link": "От автора - вот и вышел шестой номер...",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "От_автора_-_вот_и_вышел_шестои_номер"
+  },
+  {
+    "article_id": 3835,
+    "article_url": "https://zxpress.ru/article.php?id=3835",
+    "print_url": "https://zxpress.ru/print.php?id=3835",
+    "title_link": "Проходилка - Волшебник страны Оз",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Проходилка_-_Волшебник_страны_Оз"
+  },
+  {
+    "article_id": 3837,
+    "article_url": "https://zxpress.ru/article.php?id=3837",
+    "print_url": "https://zxpress.ru/print.php?id=3837",
+    "title_link": "Обзор новинок - Калах",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Обзор_новинок_-_Калах"
+  },
+  {
+    "article_id": 3838,
+    "article_url": "https://zxpress.ru/article.php?id=3838",
+    "print_url": "https://zxpress.ru/print.php?id=3838",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 3839,
+    "article_url": "https://zxpress.ru/article.php?id=3839",
+    "print_url": "https://zxpress.ru/print.php?id=3839",
+    "title_link": "Wanted - Розыск программ...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Wanted_-_Розыск_программ"
+  },
+  {
+    "article_id": 3840,
+    "article_url": "https://zxpress.ru/article.php?id=3840",
+    "print_url": "https://zxpress.ru/print.php?id=3840",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

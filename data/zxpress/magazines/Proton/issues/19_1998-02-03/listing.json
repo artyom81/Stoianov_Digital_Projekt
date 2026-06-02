@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16643,
+    "article_url": "https://zxpress.ru/article.php?id=16643",
+    "print_url": "https://zxpress.ru/print.php?id=16643",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16644,
+    "article_url": "https://zxpress.ru/article.php?id=16644",
+    "print_url": "https://zxpress.ru/print.php?id=16644",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16645,
+    "article_url": "https://zxpress.ru/article.php?id=16645",
+    "print_url": "https://zxpress.ru/print.php?id=16645",
+    "title_link": "Приколы - Правила использования дискет. Фидошник. Сказка о RAM и ROM.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Приколы_-_Правила_использования_дискет_Фидошник_Сказка_о_RAM"
+  },
+  {
+    "article_id": 16646,
+    "article_url": "https://zxpress.ru/article.php?id=16646",
+    "print_url": "https://zxpress.ru/print.php?id=16646",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16647,
+    "article_url": "https://zxpress.ru/article.php?id=16647",
+    "print_url": "https://zxpress.ru/print.php?id=16647",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

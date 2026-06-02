@@ -1,0 +1,15 @@
+{
+  "magazine_id": 58,
+  "magazine_name": "DonNews",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "2000-04-21",
+  "order": 8,
+  "article_id": 8161,
+  "title_link": "Программирование - Алгоритм защиты диска от копирования.",
+  "title_h1": "DonNews 11 - Программирование - Алгоритм защиты диска от копирования.",
+  "print_url": "https://zxpress.ru/print.php?id=8161",
+  "article_url": "https://zxpress.ru/article.php?id=8161",
+  "fetched_at": "2026-05-31T21:58:51Z"
+}

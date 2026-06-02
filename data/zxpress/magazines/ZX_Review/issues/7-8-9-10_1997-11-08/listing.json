@@ -1,0 +1,632 @@
+[
+  {
+    "article_id": 1685,
+    "article_url": "https://zxpress.ru/article.php?id=1685",
+    "print_url": "https://zxpress.ru/print.php?id=1685",
+    "title_link": "TR-DOS для начинающих - Окончание.",
+    "order": 1,
+    "issue_label": "7-8-9-10",
+    "short_slug": "TR-DOS_для_начинающих_-_Окончание"
+  },
+  {
+    "article_id": 1756,
+    "article_url": "https://zxpress.ru/article.php?id=1756",
+    "print_url": "https://zxpress.ru/print.php?id=1756",
+    "title_link": "Компьютерная новелла - Prince of Persia.",
+    "order": 2,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Компьютерная_новелла_-_Prince_of_Persia"
+  },
+  {
+    "article_id": 1755,
+    "article_url": "https://zxpress.ru/article.php?id=1755",
+    "print_url": "https://zxpress.ru/print.php?id=1755",
+    "title_link": "Компьютерная новелла - Лазерная бригада (по игре Laser Squad).",
+    "order": 3,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Компьютерная_новелла_-_Лазерная_бригада_по_игре_Laser_Squad"
+  },
+  {
+    "article_id": 1746,
+    "article_url": "https://zxpress.ru/article.php?id=1746",
+    "print_url": "https://zxpress.ru/print.php?id=1746",
+    "title_link": "Перекресток драконов - Игра Rapscallion.",
+    "order": 4,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Игра_Rapscallion"
+  },
+  {
+    "article_id": 1745,
+    "article_url": "https://zxpress.ru/article.php?id=1745",
+    "print_url": "https://zxpress.ru/print.php?id=1745",
+    "title_link": "Перекресток драконов - Игра The Runes of Zendos.",
+    "order": 5,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Игра_The_Runes_of_Zendos"
+  },
+  {
+    "article_id": 1748,
+    "article_url": "https://zxpress.ru/article.php?id=1748",
+    "print_url": "https://zxpress.ru/print.php?id=1748",
+    "title_link": "Перекресток драконов - Игра The Saga.",
+    "order": 6,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Игра_The_Saga"
+  },
+  {
+    "article_id": 1747,
+    "article_url": "https://zxpress.ru/article.php?id=1747",
+    "print_url": "https://zxpress.ru/print.php?id=1747",
+    "title_link": "Перекресток драконов - Игра Witch's Cauldron.",
+    "order": 7,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Игра_Witchs_Cauldron"
+  },
+  {
+    "article_id": 1750,
+    "article_url": "https://zxpress.ru/article.php?id=1750",
+    "print_url": "https://zxpress.ru/print.php?id=1750",
+    "title_link": "Перекресток драконов - Создаём Адвентюру. Обзор редакторов.",
+    "order": 8,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Создаем_Адвентюру_Обзор_редакторов"
+  },
+  {
+    "article_id": 1749,
+    "article_url": "https://zxpress.ru/article.php?id=1749",
+    "print_url": "https://zxpress.ru/print.php?id=1749",
+    "title_link": "Перекресток драконов - Создаём словарь к Адвентюрной игре.",
+    "order": 9,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Перекресток_драконов_-_Создаем_словарь_к_Адвентюрнои_игре"
+  },
+  {
+    "article_id": 1743,
+    "article_url": "https://zxpress.ru/article.php?id=1743",
+    "print_url": "https://zxpress.ru/print.php?id=1743",
+    "title_link": "Программы, которые мы выбираем - Возможные последствия использования недокументированных команд.",
+    "order": 10,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Возможные_последствия_исполь"
+  },
+  {
+    "article_id": 1742,
+    "article_url": "https://zxpress.ru/article.php?id=1742",
+    "print_url": "https://zxpress.ru/print.php?id=1742",
+    "title_link": "Программы, которые мы выбираем - О замеченных шероховатостях в работе некоторых программ и пожелания к следующим версиям.",
+    "order": 11,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_О_замеченных_шероховатостях"
+  },
+  {
+    "article_id": 1741,
+    "article_url": "https://zxpress.ru/article.php?id=1741",
+    "print_url": "https://zxpress.ru/print.php?id=1741",
+    "title_link": "Программы, которые мы выбираем - Предложение ко всем авторам программ, печатающих дамп памяти. Программистам, использующим защиту дисков от копирования.",
+    "order": 12,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Предложение_ко_всем_авторам"
+  },
+  {
+    "article_id": 1744,
+    "article_url": "https://zxpress.ru/article.php?id=1744",
+    "print_url": "https://zxpress.ru/print.php?id=1744",
+    "title_link": "Программы, которые мы выбираем - Несколько предложений по усовершенствованию ассемблера.",
+    "order": 13,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Несколько_предложении_по_усо"
+  },
+  {
+    "article_id": 1739,
+    "article_url": "https://zxpress.ru/article.php?id=1739",
+    "print_url": "https://zxpress.ru/print.php?id=1739",
+    "title_link": "Программы, которые мы выбираем - Предложения по доработке ZX Word v2.5.",
+    "order": 14,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Предложения_по_доработке_ZX"
+  },
+  {
+    "article_id": 1738,
+    "article_url": "https://zxpress.ru/article.php?id=1738",
+    "print_url": "https://zxpress.ru/print.php?id=1738",
+    "title_link": "Программы, которые мы выбираем - Программа \"Эмулятор Спектрума\" v1.2.",
+    "order": 15,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Программа_Эмулятор_Спектрума"
+  },
+  {
+    "article_id": 1740,
+    "article_url": "https://zxpress.ru/article.php?id=1740",
+    "print_url": "https://zxpress.ru/print.php?id=1740",
+    "title_link": "Программы, которые мы выбираем - Что хотелось бы иметь в идеальном ассемблере.",
+    "order": 16,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Программы_которые_мы_выбираем_-_Что_хотелось_бы_иметь_в_идеа"
+  },
+  {
+    "article_id": 1723,
+    "article_url": "https://zxpress.ru/article.php?id=1723",
+    "print_url": "https://zxpress.ru/print.php?id=1723",
+    "title_link": "Ретро - 40 лучших процедур: Копирование данных в памяти.",
+    "order": 17,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Копирование_данных_в_памяти"
+  },
+  {
+    "article_id": 1718,
+    "article_url": "https://zxpress.ru/article.php?id=1718",
+    "print_url": "https://zxpress.ru/print.php?id=1718",
+    "title_link": "Ретро - 40 лучших процедур: Обмен токена.",
+    "order": 18,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Обмен_токена"
+  },
+  {
+    "article_id": 1722,
+    "article_url": "https://zxpress.ru/article.php?id=1722",
+    "print_url": "https://zxpress.ru/print.php?id=1722",
+    "title_link": "Ретро - 40 лучших процедур: Определение адреса БЕЙСИК-строки.",
+    "order": 19,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Определение_адреса_БЕИСИК-строки"
+  },
+  {
+    "article_id": 1721,
+    "article_url": "https://zxpress.ru/article.php?id=1721",
+    "print_url": "https://zxpress.ru/print.php?id=1721",
+    "title_link": "Ретро - 40 лучших процедур: Определение длины БЕЙСИК-программы.",
+    "order": 20,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Определение_длины_БЕИСИК-программ"
+  },
+  {
+    "article_id": 1720,
+    "article_url": "https://zxpress.ru/article.php?id=1720",
+    "print_url": "https://zxpress.ru/print.php?id=1720",
+    "title_link": "Ретро - 40 лучших процедур: Определение размера свободной памяти.",
+    "order": 21,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Определение_размера_свободнои_пам"
+  },
+  {
+    "article_id": 1726,
+    "article_url": "https://zxpress.ru/article.php?id=1726",
+    "print_url": "https://zxpress.ru/print.php?id=1726",
+    "title_link": "Ретро - 40 лучших процедур: Поиск и замещение строки.",
+    "order": 22,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Поиск_и_замещение_строки"
+  },
+  {
+    "article_id": 1727,
+    "article_url": "https://zxpress.ru/article.php?id=1727",
+    "print_url": "https://zxpress.ru/print.php?id=1727",
+    "title_link": "Ретро - 40 лучших процедур: Поиск подстроки.",
+    "order": 23,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Поиск_подстроки"
+  },
+  {
+    "article_id": 1725,
+    "article_url": "https://zxpress.ru/article.php?id=1725",
+    "print_url": "https://zxpress.ru/print.php?id=1725",
+    "title_link": "Ретро - 40 лучших процедур: Поиск строки.",
+    "order": 24,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Поиск_строки"
+  },
+  {
+    "article_id": 1724,
+    "article_url": "https://zxpress.ru/article.php?id=1724",
+    "print_url": "https://zxpress.ru/print.php?id=1724",
+    "title_link": "Ретро - 40 лучших процедур: Составление списка переменных.",
+    "order": 25,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Составление_списка_переменных"
+  },
+  {
+    "article_id": 1716,
+    "article_url": "https://zxpress.ru/article.php?id=1716",
+    "print_url": "https://zxpress.ru/print.php?id=1716",
+    "title_link": "Ретро - 40 лучших процедур: увеличение и копирование экрана.",
+    "order": 26,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_увеличение_и_копирование_экрана"
+  },
+  {
+    "article_id": 1719,
+    "article_url": "https://zxpress.ru/article.php?id=1719",
+    "print_url": "https://zxpress.ru/print.php?id=1719",
+    "title_link": "Ретро - 40 лучших процедур: Удаление REM-строк.",
+    "order": 27,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Удаление_REM-строк"
+  },
+  {
+    "article_id": 1717,
+    "article_url": "https://zxpress.ru/article.php?id=1717",
+    "print_url": "https://zxpress.ru/print.php?id=1717",
+    "title_link": "Ретро - 40 лучших процедур: Удаление блока программы.",
+    "order": 28,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Ретро_-_40_лучших_процедур_Удаление_блока_программы"
+  },
+  {
+    "article_id": 1754,
+    "article_url": "https://zxpress.ru/article.php?id=1754",
+    "print_url": "https://zxpress.ru/print.php?id=1754",
+    "title_link": "Советы экспертов - Игра Fredloader.",
+    "order": 29,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Советы_экспертов_-_Игра_Fredloader"
+  },
+  {
+    "article_id": 1752,
+    "article_url": "https://zxpress.ru/article.php?id=1752",
+    "print_url": "https://zxpress.ru/print.php?id=1752",
+    "title_link": "Советы экспертов - Игра Robin of Sherwood: The Touchstones of Rhianon.",
+    "order": 30,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Советы_экспертов_-_Игра_Robin_of_Sherwood_The_Touchstones_of"
+  },
+  {
+    "article_id": 1753,
+    "article_url": "https://zxpress.ru/article.php?id=1753",
+    "print_url": "https://zxpress.ru/print.php?id=1753",
+    "title_link": "Советы экспертов - Игра Scorpions: Die Machines.",
+    "order": 31,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Советы_экспертов_-_Игра_Scorpions_Die_Machines"
+  },
+  {
+    "article_id": 1751,
+    "article_url": "https://zxpress.ru/article.php?id=1751",
+    "print_url": "https://zxpress.ru/print.php?id=1751",
+    "title_link": "Советы экспертов - Игра Terropods.",
+    "order": 32,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Советы_экспертов_-_Игра_Terropods"
+  },
+  {
+    "article_id": 1684,
+    "article_url": "https://zxpress.ru/article.php?id=1684",
+    "print_url": "https://zxpress.ru/print.php?id=1684",
+    "title_link": "Страничка iS-DOS - Описание рестартов системы IS DOS.",
+    "order": 33,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Страничка_iS-DOS_-_Описание_рестартов_системы_IS_DOS"
+  },
+  {
+    "article_id": 1729,
+    "article_url": "https://zxpress.ru/article.php?id=1729",
+    "print_url": "https://zxpress.ru/print.php?id=1729",
+    "title_link": "Форум - Алгоритм распознавания символов.",
+    "order": 34,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Алгоритм_распознавания_символов"
+  },
+  {
+    "article_id": 1731,
+    "article_url": "https://zxpress.ru/article.php?id=1731",
+    "print_url": "https://zxpress.ru/print.php?id=1731",
+    "title_link": "Форум - Время выполнения недокументированных команд процессора Z80.",
+    "order": 35,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Время_выполнения_недокументированных_команд_процессо"
+  },
+  {
+    "article_id": 1730,
+    "article_url": "https://zxpress.ru/article.php?id=1730",
+    "print_url": "https://zxpress.ru/print.php?id=1730",
+    "title_link": "Форум - Концепция экрана высокого цветового разрешения.",
+    "order": 36,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Концепция_экрана_высокого_цветового_разрешения"
+  },
+  {
+    "article_id": 1735,
+    "article_url": "https://zxpress.ru/article.php?id=1735",
+    "print_url": "https://zxpress.ru/print.php?id=1735",
+    "title_link": "Форум - Несколько Pokes к играм. Программа Hacman96.",
+    "order": 37,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Несколько_Pokes_к_играм_Программа_Hacman96"
+  },
+  {
+    "article_id": 1736,
+    "article_url": "https://zxpress.ru/article.php?id=1736",
+    "print_url": "https://zxpress.ru/print.php?id=1736",
+    "title_link": "Форум - По поводу новых DOS и BIOS для Спектрума.",
+    "order": 38,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_По_поводу_новых_DOS_и_BIOS_для_Спектрума"
+  },
+  {
+    "article_id": 1728,
+    "article_url": "https://zxpress.ru/article.php?id=1728",
+    "print_url": "https://zxpress.ru/print.php?id=1728",
+    "title_link": "Форум - Программа Multicolor на любой модели компьютера. Использование 2-го экрана для Multicolor'а. Демонстрация текста. Электронные журналы.",
+    "order": 39,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Программа_Multicolor_на_любои_модели_компьютера_Испо"
+  },
+  {
+    "article_id": 1734,
+    "article_url": "https://zxpress.ru/article.php?id=1734",
+    "print_url": "https://zxpress.ru/print.php?id=1734",
+    "title_link": "Форум - Проект ZX Config.",
+    "order": 40,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Проект_ZX_Config"
+  },
+  {
+    "article_id": 1732,
+    "article_url": "https://zxpress.ru/article.php?id=1732",
+    "print_url": "https://zxpress.ru/print.php?id=1732",
+    "title_link": "Форум - Усовершенствование Art Studio. Идеи относительно компрессии файлов.",
+    "order": 41,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Усовершенствование_Art_Studio_Идеи_относительно_комп"
+  },
+  {
+    "article_id": 1737,
+    "article_url": "https://zxpress.ru/article.php?id=1737",
+    "print_url": "https://zxpress.ru/print.php?id=1737",
+    "title_link": "Форум - Эмулятор ZX Spectrum на IBM. По поводу шестнадцатеричной системы счисления. Программа ZX-Stars. Странности в Elita",
+    "order": 42,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Эмулятор_ZX_Spectrum_на_IBM_По_поводу_шестнадцатерич"
+  },
+  {
+    "article_id": 1733,
+    "article_url": "https://zxpress.ru/article.php?id=1733",
+    "print_url": "https://zxpress.ru/print.php?id=1733",
+    "title_link": "Форум - Эффекты на бордюре и Multicolor.",
+    "order": 43,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Форум_-_Эффекты_на_бордюре_и_Multicolor"
+  },
+  {
+    "article_id": 1687,
+    "article_url": "https://zxpress.ru/article.php?id=1687",
+    "print_url": "https://zxpress.ru/print.php?id=1687",
+    "title_link": "Читатель-читателю - ZX Spectrum 128 - новые возможности, новые проблемы.",
+    "order": 44,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_ZX_Spectrum_128_-_новые_возможности_новы"
+  },
+  {
+    "article_id": 1686,
+    "article_url": "https://zxpress.ru/article.php?id=1686",
+    "print_url": "https://zxpress.ru/print.php?id=1686",
+    "title_link": "Читатель-читателю - Группа 'Light'. Спектрум и экспертная система.",
+    "order": 45,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_Группа_Light_Спектрум_и_экспертная_систе"
+  },
+  {
+    "article_id": 1691,
+    "article_url": "https://zxpress.ru/article.php?id=1691",
+    "print_url": "https://zxpress.ru/print.php?id=1691",
+    "title_link": "Читатель-читателю - Драйвер принтера для Scorpion'а.",
+    "order": 46,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_Драивер_принтера_для_Scorpionа"
+  },
+  {
+    "article_id": 1692,
+    "article_url": "https://zxpress.ru/article.php?id=1692",
+    "print_url": "https://zxpress.ru/print.php?id=1692",
+    "title_link": "Читатель-читателю - Печать чисел в различных системах счисления.",
+    "order": 47,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_Печать_чисел_в_различных_системах_счисле"
+  },
+  {
+    "article_id": 1689,
+    "article_url": "https://zxpress.ru/article.php?id=1689",
+    "print_url": "https://zxpress.ru/print.php?id=1689",
+    "title_link": "Читатель-читателю - Программирование аркадной игры со скроллингом экрана.",
+    "order": 48,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_Программирование_аркаднои_игры_со_скролл"
+  },
+  {
+    "article_id": 1688,
+    "article_url": "https://zxpress.ru/article.php?id=1688",
+    "print_url": "https://zxpress.ru/print.php?id=1688",
+    "title_link": "Читатель-читателю - Процедура печати меток ассемблера XAS для монитора-отладчика STS 4.3.",
+    "order": 49,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Читатель-читателю_-_Процедура_печати_меток_ассемблера_XAS_дл"
+  },
+  {
+    "article_id": 1703,
+    "article_url": "https://zxpress.ru/article.php?id=1703",
+    "print_url": "https://zxpress.ru/print.php?id=1703",
+    "title_link": "Этюды - Атрибутная бегущая строка. \"Гасилка\" экрана. Упрощенный вариант процедуры \"Занавес\". Процедура гащения картинки. Процедура проявления картинки по точкам.",
+    "order": 50,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Атрибутная_бегущая_строка_Гасилка_экрана_Упрощенныи"
+  },
+  {
+    "article_id": 1693,
+    "article_url": "https://zxpress.ru/article.php?id=1693",
+    "print_url": "https://zxpress.ru/print.php?id=1693",
+    "title_link": "Этюды - Графический эффект \"цветные полосы\".",
+    "order": 51,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Графическии_эффект_цветные_полосы"
+  },
+  {
+    "article_id": 1704,
+    "article_url": "https://zxpress.ru/article.php?id=1704",
+    "print_url": "https://zxpress.ru/print.php?id=1704",
+    "title_link": "Этюды - Драйвер экрана для печати по 64 символа в строке.",
+    "order": 52,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Драивер_экрана_для_печати_по_64_символа_в_строке"
+  },
+  {
+    "article_id": 1695,
+    "article_url": "https://zxpress.ru/article.php?id=1695",
+    "print_url": "https://zxpress.ru/print.php?id=1695",
+    "title_link": "Этюды - Комплект защит загрузчиков.",
+    "order": 53,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Комплект_защит_загрузчиков"
+  },
+  {
+    "article_id": 1705,
+    "article_url": "https://zxpress.ru/article.php?id=1705",
+    "print_url": "https://zxpress.ru/print.php?id=1705",
+    "title_link": "Этюды - Обращение к диску в режиме IM 2. Работа с диском нестандартного формата.",
+    "order": 54,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Обращение_к_диску_в_режиме_IM_2_Работа_с_диском_нест"
+  },
+  {
+    "article_id": 1710,
+    "article_url": "https://zxpress.ru/article.php?id=1710",
+    "print_url": "https://zxpress.ru/print.php?id=1710",
+    "title_link": "Этюды - Печать символа, увеличенного в 8 раз. Программа \"наливания\" экрана. Процедура гашения экрана по точкам. Очистка экрана как в Terminator'е. Поиск последовательности символов в памяти. Система перекодировки символьного набора.",
+    "order": 55,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Печать_символа_увеличенного_в_8_раз_Программа_налива"
+  },
+  {
+    "article_id": 1708,
+    "article_url": "https://zxpress.ru/article.php?id=1708",
+    "print_url": "https://zxpress.ru/print.php?id=1708",
+    "title_link": "Этюды - Программа - каталогизатор дисков.",
+    "order": 56,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_-_каталогизатор_дисков"
+  },
+  {
+    "article_id": 1702,
+    "article_url": "https://zxpress.ru/article.php?id=1702",
+    "print_url": "https://zxpress.ru/print.php?id=1702",
+    "title_link": "Этюды - Программа вывода значений амплитуды каналов муз. сопроцессора на бордюр.",
+    "order": 57,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_вывода_значении_амплитуды_каналов_муз_сопр"
+  },
+  {
+    "article_id": 1700,
+    "article_url": "https://zxpress.ru/article.php?id=1700",
+    "print_url": "https://zxpress.ru/print.php?id=1700",
+    "title_link": "Этюды - Программа вывода картинки.",
+    "order": 58,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_вывода_картинки"
+  },
+  {
+    "article_id": 1696,
+    "article_url": "https://zxpress.ru/article.php?id=1696",
+    "print_url": "https://zxpress.ru/print.php?id=1696",
+    "title_link": "Этюды - Программа зажигания спрайта.",
+    "order": 59,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_зажигания_спраита"
+  },
+  {
+    "article_id": 1701,
+    "article_url": "https://zxpress.ru/article.php?id=1701",
+    "print_url": "https://zxpress.ru/print.php?id=1701",
+    "title_link": "Этюды - Программа очистки заданного окна экрана.",
+    "order": 60,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_очистки_заданного_окна_экрана"
+  },
+  {
+    "article_id": 1715,
+    "article_url": "https://zxpress.ru/article.php?id=1715",
+    "print_url": "https://zxpress.ru/print.php?id=1715",
+    "title_link": "Этюды - Программа сортировки массива по возрастанию. Процедура заполнения экрана заданным атрибутом. Процедура проявления картинки. Эффект летящих навстречу звезд.\r\n\"Душ\", идущий из верхнего левого угла экрана. Процедура \"осыпания\" картинки по пиксельным линиям. Программа \"вытягивания\" картинки под углом в 45 градусов. \r\nТри процедуры \"Scroll\".",
+    "order": 61,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Программа_сортировки_массива_по_возрастанию_Процедур"
+  },
+  {
+    "article_id": 1699,
+    "article_url": "https://zxpress.ru/article.php?id=1699",
+    "print_url": "https://zxpress.ru/print.php?id=1699",
+    "title_link": "Этюды - Процедура печати чисел.",
+    "order": 62,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Процедура_печати_чисел"
+  },
+  {
+    "article_id": 1713,
+    "article_url": "https://zxpress.ru/article.php?id=1713",
+    "print_url": "https://zxpress.ru/print.php?id=1713",
+    "title_link": "Этюды - Процедура прорисовки символа с помощью атрибутов.",
+    "order": 63,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Процедура_прорисовки_символа_с_помощью_атрибутов"
+  },
+  {
+    "article_id": 1698,
+    "article_url": "https://zxpress.ru/article.php?id=1698",
+    "print_url": "https://zxpress.ru/print.php?id=1698",
+    "title_link": "Этюды - Процедура проявления картинки. Fade-OUT эффект (картинка уходит за края экрана). Графический эффект \"Фонтан\". Fade-OUT эффект, имитирующий выключение телевизора.\r\n Процедура \"зажигания\" картинки. Программа плавной прорисовки картинки.",
+    "order": 64,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Процедура_проявления_картинки_Fade-OUT_эффект_картин"
+  },
+  {
+    "article_id": 1712,
+    "article_url": "https://zxpress.ru/article.php?id=1712",
+    "print_url": "https://zxpress.ru/print.php?id=1712",
+    "title_link": "Этюды - Процедура рисования линии.",
+    "order": 65,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Процедура_рисования_линии"
+  },
+  {
+    "article_id": 1697,
+    "article_url": "https://zxpress.ru/article.php?id=1697",
+    "print_url": "https://zxpress.ru/print.php?id=1697",
+    "title_link": "Этюды - Процедура составления оптимальной таблицы символов.",
+    "order": 66,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Процедура_составления_оптимальнои_таблицы_символов"
+  },
+  {
+    "article_id": 1709,
+    "article_url": "https://zxpress.ru/article.php?id=1709",
+    "print_url": "https://zxpress.ru/print.php?id=1709",
+    "title_link": "Этюды - Скроллинг строк текста в заданном окне. Атрибутный скроллер. Диагональный скроллинг.",
+    "order": 67,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Скроллинг_строк_текста_в_заданном_окне_Атрибутныи_ск"
+  },
+  {
+    "article_id": 1694,
+    "article_url": "https://zxpress.ru/article.php?id=1694",
+    "print_url": "https://zxpress.ru/print.php?id=1694",
+    "title_link": "Этюды - Спрайтовый скроллер. Процедуры проявления экрана.",
+    "order": 68,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Спраитовыи_скроллер_Процедуры_проявления_экрана"
+  },
+  {
+    "article_id": 1711,
+    "article_url": "https://zxpress.ru/article.php?id=1711",
+    "print_url": "https://zxpress.ru/print.php?id=1711",
+    "title_link": "Этюды - Укороченная процедура индикации амплитуды каналов муз. сопроцессора. Способ вычитания константы из регистровой пары HL.",
+    "order": 69,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Укороченная_процедура_индикации_амплитуды_каналов_му"
+  },
+  {
+    "article_id": 1714,
+    "article_url": "https://zxpress.ru/article.php?id=1714",
+    "print_url": "https://zxpress.ru/print.php?id=1714",
+    "title_link": "Этюды - Формула для вычисления дня недели.",
+    "order": 70,
+    "issue_label": "7-8-9-10",
+    "short_slug": "Этюды_-_Формула_для_вычисления_дня_недели"
+  }
+]

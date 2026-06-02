@@ -1,0 +1,137 @@
+[
+  {
+    "article_id": 11650,
+    "article_url": "https://zxpress.ru/article.php?id=11650",
+    "print_url": "https://zxpress.ru/print.php?id=11650",
+    "title_link": "Вступление - первый в Симбирске\r\nэлектронный журнал для пользователей\r\nSPEСTRUM-совместимых компьютеров.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_первыи_в_Симбирскеэлектронныи_журнал_для_пользо"
+  },
+  {
+    "article_id": 11651,
+    "article_url": "https://zxpress.ru/article.php?id=11651",
+    "print_url": "https://zxpress.ru/print.php?id=11651",
+    "title_link": "Шедевры - обзор игры North & South.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Шедевры_-_обзор_игры_North_South"
+  },
+  {
+    "article_id": 11652,
+    "article_url": "https://zxpress.ru/article.php?id=11652",
+    "print_url": "https://zxpress.ru/print.php?id=11652",
+    "title_link": "Энциклопедия - архитектура ZX Spectrum, языки программирования.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Энциклопедия_-_архитектура_ZX_Spectrum_языки_программировани"
+  },
+  {
+    "article_id": 11653,
+    "article_url": "https://zxpress.ru/article.php?id=11653",
+    "print_url": "https://zxpress.ru/print.php?id=11653",
+    "title_link": "Программирование - использования стека для ускорения программ.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Программирование_-_использования_стека_для_ускорения_програм"
+  },
+  {
+    "article_id": 11654,
+    "article_url": "https://zxpress.ru/article.php?id=11654",
+    "print_url": "https://zxpress.ru/print.php?id=11654",
+    "title_link": "Система - что из себя представляет ассемблер PASM.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Система_-_что_из_себя_представляет_ассемблер_PASM"
+  },
+  {
+    "article_id": 11655,
+    "article_url": "https://zxpress.ru/article.php?id=11655",
+    "print_url": "https://zxpress.ru/print.php?id=11655",
+    "title_link": "Прямая связь - к моменту выхода\r\nэтого номера журнала наш почтовый\r\nящик был пуст .",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Прямая_связь_-_к_моменту_выходаэтого_номера_журнала_наш_почт"
+  },
+  {
+    "article_id": 11656,
+    "article_url": "https://zxpress.ru/article.php?id=11656",
+    "print_url": "https://zxpress.ru/print.php?id=11656",
+    "title_link": "Конкурс - Pедакция журнала 'REALTIME' объявляет конкурс на лучшую картинку ,\r\nмультфильм или лучшую музыку.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Конкурс_-_Pедакция_журнала_REALTIME_объявляет_конкурс_на_луч"
+  },
+  {
+    "article_id": 11657,
+    "article_url": "https://zxpress.ru/article.php?id=11657",
+    "print_url": "https://zxpress.ru/print.php?id=11657",
+    "title_link": "Железо - ZX-NEXT: двух процессорный Спектрум-компьютер 90-х годов.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Железо_-_ZX-NEXT_двух_процессорныи_Спектрум-компьютер_90-х_г"
+  },
+  {
+    "article_id": 11658,
+    "article_url": "https://zxpress.ru/article.php?id=11658",
+    "print_url": "https://zxpress.ru/print.php?id=11658",
+    "title_link": "Обзор - игровые и системные программы: 48 Утюгов, Last Battle, Поле Чудес, LZ-Pack, Rok Disk Servise, Screen Editor.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Обзор_-_игровые_и_системные_программы_48_Утюгов_Last_Battle"
+  },
+  {
+    "article_id": 11659,
+    "article_url": "https://zxpress.ru/article.php?id=11659",
+    "print_url": "https://zxpress.ru/print.php?id=11659",
+    "title_link": "Реклама - Программы на дискетах и кассетах,\r\nлитература по программированию, описания игр , компьютеры семейства\r\nZX-SPEСTRUM.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Программы_на_дискетах_и_кассетахлитература_по_прог"
+  },
+  {
+    "article_id": 2018,
+    "article_url": "https://zxpress.ru/article.php?id=2018",
+    "print_url": "https://zxpress.ru/print.php?id=2018",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 15098,
+    "article_url": "https://zxpress.ru/article.php?id=15098",
+    "print_url": "https://zxpress.ru/print.php?id=15098",
+    "title_link": "Новости - Журналистика.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Журналистика"
+  },
+  {
+    "article_id": 16124,
+    "article_url": "https://zxpress.ru/article.php?id=16124",
+    "print_url": "https://zxpress.ru/print.php?id=16124",
+    "title_link": "Happybirthday - Всем nривет. Я не знaю,но возможно этот номер целиком и nолностью будет nосвяшен моему день рождению...",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Happybirthday_-_Всем_nривет_Я_не_знaюно_возможно_этот_номер"
+  },
+  {
+    "article_id": 851,
+    "article_url": "https://zxpress.ru/article.php?id=851",
+    "print_url": "https://zxpress.ru/print.php?id=851",
+    "title_link": "Винтостроение - Как самому собрать винт на PC.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Винтостроение_-_Как_самому_собрать_винт_на_PC"
+  },
+  {
+    "article_id": 2907,
+    "article_url": "https://zxpress.ru/article.php?id=2907",
+    "print_url": "https://zxpress.ru/print.php?id=2907",
+    "title_link": "Oт редакции - Больше не будет раздела \"Реклама\".",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Oт_редакции_-_Больше_не_будет_раздела_Реклама"
+  }
+]

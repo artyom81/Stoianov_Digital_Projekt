@@ -1,0 +1,75 @@
+ACNews 73 - Game competition - Welcome to a new gamedev compo for ZX Spectrum - "Your Game 6".
+Your Game 6
+
+Welcome to a new gamedev compo for ZX Spectrum - "Your Game 6".
+
+Previously this competition was held in 2014 and collected 10
+works: http://alonecoder.nedopc.com/zx/tiS_pack.zip
+
+The competition, like last time, accepts games that fully work
+on a bare ZX Evo board with baseconf firmware (i.e. 48K / 128K /
+Pentagon1024 / ATM2 / ATMЗ + SD-card ). The game should not 
+require any more devices, but can support them. Voting will be
+conducted taking into account the system requirements of the
+game.
+
+The prize fund at the moment is 158,000 rubles and can be
+increased with the funds of those who wish (see the contacts
+section below).
+The main sponsor is SASPACK LLC
+By popular vote, the prize is divided as follows (in the future,
+amounts may grow up, and other special prizes may be added):
+50,000 rubles - first place 
+30,000 rubles - second place 
+20,000 rubles - third place 
+Moreover:
+50,000 rubles - prize from the jury (the jury is determined by 
+the main sponsor)
+The rest is for special prizes.
+
+The deadline for accepting works is October 4, 2020. The award
+period is within a month from this date.
+
+The game should not be released until this date, except for the
+demos released before 2020 (but during the development process
+you can upload screenshots and video materials).
+Only full games will participate in the competition, that is,
+not demo versions.
+
+For participants new to the ZX Evo (baseconf) architecture:
+- Russian documentation (ATM2):
+http://atmturbo.nedopc.com/inf/books/nedopc/atm_hard.zip 
+- Russian documentation (ATMЗ + ¤®¯®«­¨â¥«ì­ë¥ ¢®§¬®¦­®áâ¨ ZX
+Evo baseconf):
+http://svn.zxevo.ru/dl.php?repname=pentevo&path=%2Fdocs%2Fzxevo_ 
+base_configuration.pdf 
+- English documentation (ATM2):
+http://alonecoder.nedopc.com/zx/books/ATMHW.rar 
+- English documentation (ATMЗ + extra features of ZX Evo
+baseconf):
+http://svn.zxevo.ru/dl.php?repname=pentevo&path=%2Fdocs%2Fzxevo_ 
+base_configuration_eng.odt 
+- http://alonecoder.nedopc.com/zx/evosdk_libs.rar - a set of
+utilities and a tile-sprite library for development with C
+language (ATM2 / ATMЗ).
+- http://alonecoder.nedopc.com/zx/unreal_project.rar - a set of
+utilities and a tile-sprite library for development with ALASM
+assembler (ATM2).
+- http://alonecoder.nedopc.com/zx/atm_example.rar - SjASMPlus
+cross-assembler with the simplest example of sprite output
+(ATM2).
+- http://nedoos.ru/ - an operating system that simplifies the
+development of large projects with SjASMPlus, C and NedoLang
+(ATM2 / ATMЗ + SD-card / HDD).
+- documentation for ERS system calls that allow you to directly
+download files from FAT-drives (only for ZX Evo):
+http://svn.zxevo.ru/dl.php?repname=pentevo&path=%2Fdocs%2F%D0%9E 
+%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5+%D1%81%D0%B5%D1%80%D0 
+%B2%D0%B8%D1%81-%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B8 
++%27%27EVO+Reset+Service%27%27.pdf 
+
+Contacts:
+- for participants (team search, help with code, testing,
+accepting promises and works): dmitry.alonecoder(at)gmail.com
+- for sponsors (preliminary arrangement and transfer of funds to
+the prize fund): staspi(at)yandex.ru

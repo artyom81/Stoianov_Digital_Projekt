@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7641,
+    "article_url": "https://zxpress.ru/article.php?id=7641",
+    "print_url": "https://zxpress.ru/print.php?id=7641",
+    "title_link": "Наши новости - Завершена работа над игрой NETHER EARTH 128 only.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Наши_новости_-_Завершена_работа_над_игрои_NETHER_EARTH_128_o"
+  },
+  {
+    "article_id": 7642,
+    "article_url": "https://zxpress.ru/article.php?id=7642",
+    "print_url": "https://zxpress.ru/print.php?id=7642",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7643,
+    "article_url": "https://zxpress.ru/article.php?id=7643",
+    "print_url": "https://zxpress.ru/print.php?id=7643",
+    "title_link": "Разберемся - Описание игры CAPTAIN FIZZ.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Разберемся_-_Описание_игры_CAPTAIN_FIZZ"
+  },
+  {
+    "article_id": 7644,
+    "article_url": "https://zxpress.ru/article.php?id=7644",
+    "print_url": "https://zxpress.ru/print.php?id=7644",
+    "title_link": "AMIGA vs PC - Интервью, предоставленное Михаилом Акиновым.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "AMIGA_vs_PC_-_Интервью_предоставленное_Михаилом_Акиновым"
+  },
+  {
+    "article_id": 7645,
+    "article_url": "https://zxpress.ru/article.php?id=7645",
+    "print_url": "https://zxpress.ru/print.php?id=7645",
+    "title_link": "Компьютерные пираты - Какими бывают хаккеры.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Компьютерные_пираты_-_Какими_бывают_хаккеры"
+  },
+  {
+    "article_id": 7646,
+    "article_url": "https://zxpress.ru/article.php?id=7646",
+    "print_url": "https://zxpress.ru/print.php?id=7646",
+    "title_link": "О разном - О компрессии информации на магнитных носителях.",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "О_разном_-_О_компрессии_информации_на_магнитных_носителях"
+  },
+  {
+    "article_id": 7647,
+    "article_url": "https://zxpress.ru/article.php?id=7647",
+    "print_url": "https://zxpress.ru/print.php?id=7647",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

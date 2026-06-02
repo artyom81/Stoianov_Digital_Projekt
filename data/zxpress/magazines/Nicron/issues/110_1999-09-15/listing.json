@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 7212,
+    "article_url": "https://zxpress.ru/article.php?id=7212",
+    "print_url": "https://zxpress.ru/print.php?id=7212",
+    "title_link": "Специальный выпуск - Международный Фестиваль компьютерного искусства Chaos Constructions '999.",
+    "order": 1,
+    "issue_label": "110",
+    "short_slug": "Специальныи_выпуск_-_Международныи_Фестиваль_компьютерного_и"
+  },
+  {
+    "article_id": 7213,
+    "article_url": "https://zxpress.ru/article.php?id=7213",
+    "print_url": "https://zxpress.ru/print.php?id=7213",
+    "title_link": "Chaos Constructions '999 - отчёт.",
+    "order": 2,
+    "issue_label": "110",
+    "short_slug": "Chaos_Constructions_999_-_отчет"
+  },
+  {
+    "article_id": 7214,
+    "article_url": "https://zxpress.ru/article.php?id=7214",
+    "print_url": "https://zxpress.ru/print.php?id=7214",
+    "title_link": "Chaos Constructions '999 - официальные результаты.",
+    "order": 3,
+    "issue_label": "110",
+    "short_slug": "Chaos_Constructions_999_-_официальные_результаты"
+  },
+  {
+    "article_id": 7215,
+    "article_url": "https://zxpress.ru/article.php?id=7215",
+    "print_url": "https://zxpress.ru/print.php?id=7215",
+    "title_link": "Chaos Constructions '999 - отчёт (продолжение).",
+    "order": 4,
+    "issue_label": "110",
+    "short_slug": "Chaos_Constructions_999_-_отчет_продолжение"
+  }
+]

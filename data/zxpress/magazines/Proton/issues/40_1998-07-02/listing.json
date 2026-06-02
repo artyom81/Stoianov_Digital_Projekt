@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16788,
+    "article_url": "https://zxpress.ru/article.php?id=16788",
+    "print_url": "https://zxpress.ru/print.php?id=16788",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16789,
+    "article_url": "https://zxpress.ru/article.php?id=16789",
+    "print_url": "https://zxpress.ru/print.php?id=16789",
+    "title_link": "Дом 16а - продолжение рассказа.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "Дом_16а_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 16790,
+    "article_url": "https://zxpress.ru/article.php?id=16790",
+    "print_url": "https://zxpress.ru/print.php?id=16790",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16791,
+    "article_url": "https://zxpress.ru/article.php?id=16791",
+    "print_url": "https://zxpress.ru/print.php?id=16791",
+    "title_link": "Юмор - Десять байт, котоpые потpясли миp.",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Юмор_-_Десять_баит_котоpые_потpясли_миp"
+  },
+  {
+    "article_id": 16792,
+    "article_url": "https://zxpress.ru/article.php?id=16792",
+    "print_url": "https://zxpress.ru/print.php?id=16792",
+    "title_link": "Юмор - Как спиваются иностранцы.",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "Юмор_-_Как_спиваются_иностранцы"
+  },
+  {
+    "article_id": 16793,
+    "article_url": "https://zxpress.ru/article.php?id=16793",
+    "print_url": "https://zxpress.ru/print.php?id=16793",
+    "title_link": "Юмор - Записи в дневниках учеников.",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Юмор_-_Записи_в_дневниках_учеников"
+  },
+  {
+    "article_id": 16794,
+    "article_url": "https://zxpress.ru/article.php?id=16794",
+    "print_url": "https://zxpress.ru/print.php?id=16794",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "40",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16795,
+    "article_url": "https://zxpress.ru/article.php?id=16795",
+    "print_url": "https://zxpress.ru/print.php?id=16795",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "40",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

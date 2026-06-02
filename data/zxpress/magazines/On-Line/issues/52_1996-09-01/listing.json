@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 25,
+    "article_url": "https://zxpress.ru/article.php?id=25",
+    "print_url": "https://zxpress.ru/print.php?id=25",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "52",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2364,
+    "article_url": "https://zxpress.ru/article.php?id=2364",
+    "print_url": "https://zxpress.ru/print.php?id=2364",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "52",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2363,
+    "article_url": "https://zxpress.ru/article.php?id=2363",
+    "print_url": "https://zxpress.ru/print.php?id=2363",
+    "title_link": "Застрял ? - Описание игры \"Brave Star\".",
+    "order": 3,
+    "issue_label": "52",
+    "short_slug": "Застрял_-_Описание_игры_Brave_Star"
+  },
+  {
+    "article_id": 2361,
+    "article_url": "https://zxpress.ru/article.php?id=2361",
+    "print_url": "https://zxpress.ru/print.php?id=2361",
+    "title_link": "Мозаика - Официальные результаты Enlight'96.",
+    "order": 4,
+    "issue_label": "52",
+    "short_slug": "Мозаика_-_Официальные_результаты_Enlight96"
+  },
+  {
+    "article_id": 2362,
+    "article_url": "https://zxpress.ru/article.php?id=2362",
+    "print_url": "https://zxpress.ru/print.php?id=2362",
+    "title_link": "Мозаика - Первый день закона об авторских правах (одна операция ОМОНа).",
+    "order": 5,
+    "issue_label": "52",
+    "short_slug": "Мозаика_-_Первыи_день_закона_об_авторских_правах_одна_операц"
+  },
+  {
+    "article_id": 2360,
+    "article_url": "https://zxpress.ru/article.php?id=2360",
+    "print_url": "https://zxpress.ru/print.php?id=2360",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "52",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

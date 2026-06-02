@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4328,
+    "article_url": "https://zxpress.ru/article.php?id=4328",
+    "print_url": "https://zxpress.ru/print.php?id=4328",
+    "title_link": "От автора - Скоро наступит сентябрь...",
+    "order": 1,
+    "issue_label": "34",
+    "short_slug": "От_автора_-_Скоро_наступит_сентябрь"
+  },
+  {
+    "article_id": 4329,
+    "article_url": "https://zxpress.ru/article.php?id=4329",
+    "print_url": "https://zxpress.ru/print.php?id=4329",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "34",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4330,
+    "article_url": "https://zxpress.ru/article.php?id=4330",
+    "print_url": "https://zxpress.ru/print.php?id=4330",
+    "title_link": "Обзор Lines - Обзор различных вариантов игры Lines.",
+    "order": 3,
+    "issue_label": "34",
+    "short_slug": "Обзор_Lines_-_Обзор_различных_вариантов_игры_Lines"
+  },
+  {
+    "article_id": 4331,
+    "article_url": "https://zxpress.ru/article.php?id=4331",
+    "print_url": "https://zxpress.ru/print.php?id=4331",
+    "title_link": "Paradox - Official results version 1.0.",
+    "order": 4,
+    "issue_label": "34",
+    "short_slug": "Paradox_-_Official_results_version_10"
+  },
+  {
+    "article_id": 4332,
+    "article_url": "https://zxpress.ru/article.php?id=4332",
+    "print_url": "https://zxpress.ru/print.php?id=4332",
+    "title_link": "Рассказ - Юмористический рассказ.",
+    "order": 5,
+    "issue_label": "34",
+    "short_slug": "Рассказ_-_Юмористическии_рассказ"
+  },
+  {
+    "article_id": 4333,
+    "article_url": "https://zxpress.ru/article.php?id=4333",
+    "print_url": "https://zxpress.ru/print.php?id=4333",
+    "title_link": "Конкурс - Необычный конкурс для читателей.",
+    "order": 6,
+    "issue_label": "34",
+    "short_slug": "Конкурс_-_Необычныи_конкурс_для_читателеи"
+  },
+  {
+    "article_id": 4334,
+    "article_url": "https://zxpress.ru/article.php?id=4334",
+    "print_url": "https://zxpress.ru/print.php?id=4334",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "34",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4335,
+    "article_url": "https://zxpress.ru/article.php?id=4335",
+    "print_url": "https://zxpress.ru/print.php?id=4335",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "34",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

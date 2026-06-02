@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6172,
+    "article_url": "https://zxpress.ru/article.php?id=6172",
+    "print_url": "https://zxpress.ru/print.php?id=6172",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6173,
+    "article_url": "https://zxpress.ru/article.php?id=6173",
+    "print_url": "https://zxpress.ru/print.php?id=6173",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6174,
+    "article_url": "https://zxpress.ru/article.php?id=6174",
+    "print_url": "https://zxpress.ru/print.php?id=6174",
+    "title_link": "Железо - обзор микропроцессора Zilog Z380, продолжение.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Железо_-_обзор_микропроцессора_Zilog_Z380_продолжение"
+  },
+  {
+    "article_id": 6175,
+    "article_url": "https://zxpress.ru/article.php?id=6175",
+    "print_url": "https://zxpress.ru/print.php?id=6175",
+    "title_link": "Программирование - курс изучения ассемблера от Wlodek Black, продолжение.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Программирование_-_курс_изучения_ассемблера_от_Wlodek_Black"
+  },
+  {
+    "article_id": 6176,
+    "article_url": "https://zxpress.ru/article.php?id=6176",
+    "print_url": "https://zxpress.ru/print.php?id=6176",
+    "title_link": "Графика - картинкa АNSI графики.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Графика_-_картинкa_АNSI_графики"
+  },
+  {
+    "article_id": 6177,
+    "article_url": "https://zxpress.ru/article.php?id=6177",
+    "print_url": "https://zxpress.ru/print.php?id=6177",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6178,
+    "article_url": "https://zxpress.ru/article.php?id=6178",
+    "print_url": "https://zxpress.ru/print.php?id=6178",
+    "title_link": "Юмор - приколы и случаи из жизни.",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Юмор_-_приколы_и_случаи_из_жизни"
+  },
+  {
+    "article_id": 6179,
+    "article_url": "https://zxpress.ru/article.php?id=6179",
+    "print_url": "https://zxpress.ru/print.php?id=6179",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 8,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6180,
+    "article_url": "https://zxpress.ru/article.php?id=6180",
+    "print_url": "https://zxpress.ru/print.php?id=6180",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 9,
+    "issue_label": "10",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

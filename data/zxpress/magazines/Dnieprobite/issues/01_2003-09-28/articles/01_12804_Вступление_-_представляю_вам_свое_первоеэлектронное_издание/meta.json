@@ -1,0 +1,15 @@
+{
+  "magazine_id": 56,
+  "magazine_name": "Dnieprobite",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2003-09-28",
+  "order": 1,
+  "article_id": 12804,
+  "title_link": "Вступление - представляю вам свое первое\r\nэлектронное издание на Спектруме.",
+  "title_h1": "Dnieprobite 01 - Вступление - представляю вам свое первое электронное издание на Спектруме.",
+  "print_url": "https://zxpress.ru/print.php?id=12804",
+  "article_url": "https://zxpress.ru/article.php?id=12804",
+  "fetched_at": "2026-05-31T21:57:45Z"
+}

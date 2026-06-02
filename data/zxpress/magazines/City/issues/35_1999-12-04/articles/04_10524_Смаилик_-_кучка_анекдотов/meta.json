@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "35",
+  "issue_date_iso": "1999-12-04",
+  "order": 4,
+  "article_id": 10524,
+  "title_link": "Смайлик - кучка анекдотов.",
+  "title_h1": "City 35 - Смайлик - кучка анекдотов.",
+  "print_url": "https://zxpress.ru/print.php?id=10524",
+  "article_url": "https://zxpress.ru/article.php?id=10524",
+  "fetched_at": "2026-05-31T21:51:30Z"
+}

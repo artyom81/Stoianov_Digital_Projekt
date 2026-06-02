@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5211,
+    "article_url": "https://zxpress.ru/article.php?id=5211",
+    "print_url": "https://zxpress.ru/print.php?id=5211",
+    "title_link": "Doomdarks Revenge - окончание описания игры.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Doomdarks_Revenge_-_окончание_описания_игры"
+  },
+  {
+    "article_id": 5212,
+    "article_url": "https://zxpress.ru/article.php?id=5212",
+    "print_url": "https://zxpress.ru/print.php?id=5212",
+    "title_link": "Вирусы - о вирусах не Спектрумовских, но тем не менее достойных внимания.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Вирусы_-_о_вирусах_не_Спектрумовских_но_тем_не_менее_достоин"
+  },
+  {
+    "article_id": 5213,
+    "article_url": "https://zxpress.ru/article.php?id=5213",
+    "print_url": "https://zxpress.ru/print.php?id=5213",
+    "title_link": "Описание - описание программы для форматирования дисков Format Utility 2.01.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Описание_-_описание_программы_для_форматирования_дисков_Form"
+  },
+  {
+    "article_id": 5214,
+    "article_url": "https://zxpress.ru/article.php?id=5214",
+    "print_url": "https://zxpress.ru/print.php?id=5214",
+    "title_link": "Юмор из Фидо - Друг из Австралии рассказал.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Юмор_из_Фидо_-_Друг_из_Австралии_рассказал"
+  },
+  {
+    "article_id": 5215,
+    "article_url": "https://zxpress.ru/article.php?id=5215",
+    "print_url": "https://zxpress.ru/print.php?id=5215",
+    "title_link": "Credits - авторство предыдущих выпусков газеты.",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Credits_-_авторство_предыдущих_выпусков_газеты"
+  }
+]

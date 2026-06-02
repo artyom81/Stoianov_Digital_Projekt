@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 18480,
+    "article_url": "https://zxpress.ru/article.php?id=18480",
+    "print_url": "https://zxpress.ru/print.php?id=18480",
+    "title_link": "Новости - Karbo вернулся и пишет новую музыку, Freeman в Украине сейчас лепит игры для мобилок, Wolf застолбил тему симуляторов, Мифос клепает для БМВ микропрограммы по оутсорсу, Ars и Mast \r\nпродаёт \"железо\" в Москве, DimkaM сделал версию TASiS под ZX Evo.",
+    "order": 1,
+    "issue_label": "70",
+    "short_slug": "Новости_-_Karbo_вернулся_и_пишет_новую_музыку_Freeman_в_Укра"
+  },
+  {
+    "article_id": 18481,
+    "article_url": "https://zxpress.ru/article.php?id=18481",
+    "print_url": "https://zxpress.ru/print.php?id=18481",
+    "title_link": "News - Karbo came back and wrote new music, Freeman is in Ukraine now, in Odessa (left there before the Maidan, to the sea, for health reasons), sculpts games for \r\nmobile phones, Mythos codes firmware for \r\nBMW on outsourcing and is engaged.",
+    "order": 2,
+    "issue_label": "70",
+    "short_slug": "News_-_Karbo_came_back_and_wrote_new_music_Freeman_is_in_Ukr"
+  },
+  {
+    "article_id": 18482,
+    "article_url": "https://zxpress.ru/article.php?id=18482",
+    "print_url": "https://zxpress.ru/print.php?id=18482",
+    "title_link": "Компьютерные клубы Санкт-Петербурга - история компьютерных клубов Питера",
+    "order": 3,
+    "issue_label": "70",
+    "short_slug": "Компьютерные_клубы_Санкт-Петербурга_-_история_компьютерных_к"
+  },
+  {
+    "article_id": 18483,
+    "article_url": "https://zxpress.ru/article.php?id=18483",
+    "print_url": "https://zxpress.ru/print.php?id=18483",
+    "title_link": "Computer clubs of Saint-Petersburg - history of russian computers clubs",
+    "order": 4,
+    "issue_label": "70",
+    "short_slug": "Computer_clubs_of_Saint-Petersburg_-_history_of_russian_comp"
+  },
+  {
+    "article_id": 18484,
+    "article_url": "https://zxpress.ru/article.php?id=18484",
+    "print_url": "https://zxpress.ru/print.php?id=18484",
+    "title_link": "Проект языка Listh - Forth реализуется значительно проще, чем Lisp, но это тянет\r\nбольшие недостатки.",
+    "order": 5,
+    "issue_label": "70",
+    "short_slug": "Проект_языка_Listh_-_Forth_реализуется_значительно_проще_чем"
+  },
+  {
+    "article_id": 18485,
+    "article_url": "https://zxpress.ru/article.php?id=18485",
+    "print_url": "https://zxpress.ru/print.php?id=18485",
+    "title_link": "Listh language project - Forth is implemented much simpler than Lisp, but it has big\r\ndrawbacks.",
+    "order": 6,
+    "issue_label": "70",
+    "short_slug": "Listh_language_project_-_Forth_is_implemented_much_simpler_t"
+  }
+]

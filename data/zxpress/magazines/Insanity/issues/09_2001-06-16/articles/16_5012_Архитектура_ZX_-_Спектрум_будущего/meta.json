@@ -1,0 +1,15 @@
+{
+  "magazine_id": 102,
+  "magazine_name": "Insanity",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "2001-06-16",
+  "order": 16,
+  "article_id": 5012,
+  "title_link": "Архитектура ZX - Спектрум будущего.",
+  "title_h1": "Insanity 09 - Архитектура ZX - Спектрум будущего.",
+  "print_url": "https://zxpress.ru/print.php?id=5012",
+  "article_url": "https://zxpress.ru/article.php?id=5012",
+  "fetched_at": "2026-05-31T22:14:52Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "37",
+  "issue_date_iso": "2004-12-31",
+  "order": 1,
+  "article_id": 17983,
+  "title_link": "Новости - \"я пришел\r\nв 99 году, листал Borndead, Scenergy, я тогда не задумывался о\r\nтом, что я могу тоже быть на сцене.\"",
+  "title_h1": "ACNews 37 - Новости - \"я пришел в 99 году, листал Borndead, Scenergy, я тогда не задумывался о том, что я могу тоже быть на сцене.\"",
+  "print_url": "https://zxpress.ru/print.php?id=17983",
+  "article_url": "https://zxpress.ru/article.php?id=17983",
+  "fetched_at": "2026-05-31T21:31:03Z"
+}

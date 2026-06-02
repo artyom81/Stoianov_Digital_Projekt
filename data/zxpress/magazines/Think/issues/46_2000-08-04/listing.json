@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 4399,
+    "article_url": "https://zxpress.ru/article.php?id=4399",
+    "print_url": "https://zxpress.ru/print.php?id=4399",
+    "title_link": "От автора - Лето почти пролетело...",
+    "order": 1,
+    "issue_label": "46",
+    "short_slug": "От_автора_-_Лето_почти_пролетело"
+  },
+  {
+    "article_id": 4400,
+    "article_url": "https://zxpress.ru/article.php?id=4400",
+    "print_url": "https://zxpress.ru/print.php?id=4400",
+    "title_link": "Обзор системных новинок - Некоторые замечания попрограммированию под MythOS.",
+    "order": 2,
+    "issue_label": "46",
+    "short_slug": "Обзор_системных_новинок_-_Некоторые_замечания_попрограммиров"
+  },
+  {
+    "article_id": 4401,
+    "article_url": "https://zxpress.ru/article.php?id=4401",
+    "print_url": "https://zxpress.ru/print.php?id=4401",
+    "title_link": "Юмор - Юмор.",
+    "order": 3,
+    "issue_label": "46",
+    "short_slug": "Юмор_-_Юмор"
+  },
+  {
+    "article_id": 4402,
+    "article_url": "https://zxpress.ru/article.php?id=4402",
+    "print_url": "https://zxpress.ru/print.php?id=4402",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 4,
+    "issue_label": "46",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4403,
+    "article_url": "https://zxpress.ru/article.php?id=4403",
+    "print_url": "https://zxpress.ru/print.php?id=4403",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "46",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

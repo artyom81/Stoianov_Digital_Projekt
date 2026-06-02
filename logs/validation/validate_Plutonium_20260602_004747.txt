@@ -1,0 +1,17 @@
+  Magazin: Plutonium
+
+✅ Validierung: OK - Plutonium
+   (mit Warnungen)
+  - [Issue #01] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #04] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #05] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #06] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #07] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #10] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #11] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #12] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #13] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #16] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #17] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #10.5] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 21 | Artikel gesamt: 162

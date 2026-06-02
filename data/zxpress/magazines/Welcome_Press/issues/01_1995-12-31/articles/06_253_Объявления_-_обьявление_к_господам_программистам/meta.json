@@ -1,0 +1,15 @@
+{
+  "magazine_id": 237,
+  "magazine_name": "Welcome Press",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-12-31",
+  "order": 6,
+  "article_id": 253,
+  "title_link": "Объявления - обьявление к господам программистам.",
+  "title_h1": "Welcome Press 01 - Объявления - обьявление к господам программистам.",
+  "print_url": "https://zxpress.ru/print.php?id=253",
+  "article_url": "https://zxpress.ru/article.php?id=253",
+  "fetched_at": "2026-05-31T23:17:24Z"
+}

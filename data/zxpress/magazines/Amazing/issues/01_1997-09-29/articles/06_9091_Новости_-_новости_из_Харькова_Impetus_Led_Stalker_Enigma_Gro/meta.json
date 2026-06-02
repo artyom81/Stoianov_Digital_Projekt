@@ -1,0 +1,15 @@
+{
+  "magazine_id": 12,
+  "magazine_name": "Amazing",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-09-29",
+  "order": 6,
+  "article_id": 9091,
+  "title_link": "Новости - новости из Харькова: Impetus Led, Stalker, Enigma Group, Wanderer, Joker, Dr.Serg, Patsoft, Mr.Beeper.",
+  "title_h1": "Amazing 01 - Новости - новости из Харькова: Impetus Led, Stalker, Enigma Group, Wanderer, Joker, Dr.Serg, Patsoft, Mr.Beeper.",
+  "print_url": "https://zxpress.ru/print.php?id=9091",
+  "article_url": "https://zxpress.ru/article.php?id=9091",
+  "fetched_at": "2026-05-31T21:36:34Z"
+}

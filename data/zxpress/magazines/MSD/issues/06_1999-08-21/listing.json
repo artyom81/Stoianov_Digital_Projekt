@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 14303,
+    "article_url": "https://zxpress.ru/article.php?id=14303",
+    "print_url": "https://zxpress.ru/print.php?id=14303",
+    "title_link": "Оглавление - содержимое газеты.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Оглавление_-_содержимое_газеты"
+  },
+  {
+    "article_id": 14300,
+    "article_url": "https://zxpress.ru/article.php?id=14300",
+    "print_url": "https://zxpress.ru/print.php?id=14300",
+    "title_link": "Железо - чем дисководы 5'25\" плучше 3'5\".",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Железо_-_чем_дисководы_525_плучше_35"
+  },
+  {
+    "article_id": 14301,
+    "article_url": "https://zxpress.ru/article.php?id=14301",
+    "print_url": "https://zxpress.ru/print.php?id=14301",
+    "title_link": "iS-DOS - А знаете ли вы что ... ?\r\n Что нового в iS-DOS ?",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "iS-DOS_-_А_знаете_ли_вы_что_Что_нового_в_iS-DOS"
+  },
+  {
+    "article_id": 14302,
+    "article_url": "https://zxpress.ru/article.php?id=14302",
+    "print_url": "https://zxpress.ru/print.php?id=14302",
+    "title_link": "Реклама - обьявления и реклама.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_обьявления_и_реклама"
+  }
+]

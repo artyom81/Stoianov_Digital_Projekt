@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16805,
+    "article_url": "https://zxpress.ru/article.php?id=16805",
+    "print_url": "https://zxpress.ru/print.php?id=16805",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16806,
+    "article_url": "https://zxpress.ru/article.php?id=16806",
+    "print_url": "https://zxpress.ru/print.php?id=16806",
+    "title_link": "Рассказ - Заяц и лиса.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Рассказ_-_Заяц_и_лиса"
+  },
+  {
+    "article_id": 16807,
+    "article_url": "https://zxpress.ru/article.php?id=16807",
+    "print_url": "https://zxpress.ru/print.php?id=16807",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16808,
+    "article_url": "https://zxpress.ru/article.php?id=16808",
+    "print_url": "https://zxpress.ru/print.php?id=16808",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16809,
+    "article_url": "https://zxpress.ru/article.php?id=16809",
+    "print_url": "https://zxpress.ru/print.php?id=16809",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

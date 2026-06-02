@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 5244,
+    "article_url": "https://zxpress.ru/article.php?id=5244",
+    "print_url": "https://zxpress.ru/print.php?id=5244",
+    "title_link": "Реклама - реклама и обьявления в Запорожье.",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "Реклама_-_реклама_и_обьявления_в_Запорожье"
+  },
+  {
+    "article_id": 5241,
+    "article_url": "https://zxpress.ru/article.php?id=5241",
+    "print_url": "https://zxpress.ru/print.php?id=5241",
+    "title_link": "Сети - Сеть Релком (Relcom); Сеть \"SET Bliz\"; Некомерчески FTN-совметисмые сети.",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "Сети_-_Сеть_Релком_Relcom_Сеть_SET_Bliz_Некомерчески_FTN-сов"
+  },
+  {
+    "article_id": 5242,
+    "article_url": "https://zxpress.ru/article.php?id=5242",
+    "print_url": "https://zxpress.ru/print.php?id=5242",
+    "title_link": "Гипноз на сцене - Учебник: Эстрадный гипноз, Чудеса на сцене (часть первая).",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "Гипноз_на_сцене_-_Учебник_Эстрадныи_гипноз_Чудеса_на_сцене_ч"
+  },
+  {
+    "article_id": 5243,
+    "article_url": "https://zxpress.ru/article.php?id=5243",
+    "print_url": "https://zxpress.ru/print.php?id=5243",
+    "title_link": "AD&D - описания монстров AD&D (часть третья).",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "ADD_-_описания_монстров_ADD_часть_третья"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15483,
+    "article_url": "https://zxpress.ru/article.php?id=15483",
+    "print_url": "https://zxpress.ru/print.php?id=15483",
+    "title_link": "Кап-кап - Итак, все продолжают продолжают проводить эксперимент.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Кап-кап_-_Итак_все_продолжают_продолжают_проводить_экспериме"
+  },
+  {
+    "article_id": 15484,
+    "article_url": "https://zxpress.ru/article.php?id=15484",
+    "print_url": "https://zxpress.ru/print.php?id=15484",
+    "title_link": "Юмор - Анекдот.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Юмор_-_Анекдот"
+  },
+  {
+    "article_id": 15485,
+    "article_url": "https://zxpress.ru/article.php?id=15485",
+    "print_url": "https://zxpress.ru/print.php?id=15485",
+    "title_link": "Отчёт - Проза.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Отчет_-_Проза"
+  },
+  {
+    "article_id": 15486,
+    "article_url": "https://zxpress.ru/article.php?id=15486",
+    "print_url": "https://zxpress.ru/print.php?id=15486",
+    "title_link": "Enlight'97 - Неофициальные итоги Enlight'a.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Enlight97_-_Неофициальные_итоги_Enlighta"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 11,
+    "article_url": "https://zxpress.ru/article.php?id=11",
+    "print_url": "https://zxpress.ru/print.php?id=11",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "62",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2408,
+    "article_url": "https://zxpress.ru/article.php?id=2408",
+    "print_url": "https://zxpress.ru/print.php?id=2408",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "62",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2407,
+    "article_url": "https://zxpress.ru/article.php?id=2407",
+    "print_url": "https://zxpress.ru/print.php?id=2407",
+    "title_link": "Застрял ? - Описание игры \"Flunky\" (продолжение).",
+    "order": 3,
+    "issue_label": "62",
+    "short_slug": "Застрял_-_Описание_игры_Flunky_продолжение"
+  },
+  {
+    "article_id": 2406,
+    "article_url": "https://zxpress.ru/article.php?id=2406",
+    "print_url": "https://zxpress.ru/print.php?id=2406",
+    "title_link": "Мозаика - General Sound и новый видеопроцессор для Speccy.",
+    "order": 4,
+    "issue_label": "62",
+    "short_slug": "Мозаика_-_General_Sound_и_новыи_видеопроцессор_для_Speccy"
+  },
+  {
+    "article_id": 2404,
+    "article_url": "https://zxpress.ru/article.php?id=2404",
+    "print_url": "https://zxpress.ru/print.php?id=2404",
+    "title_link": "Мозаика - Высказывания о ZXNet & BBS.",
+    "order": 5,
+    "issue_label": "62",
+    "short_slug": "Мозаика_-_Высказывания_о_ZXNet_BBS"
+  },
+  {
+    "article_id": 2405,
+    "article_url": "https://zxpress.ru/article.php?id=2405",
+    "print_url": "https://zxpress.ru/print.php?id=2405",
+    "title_link": "Мозаика - Краткое содержание журнала \"Spectrofon 21\".",
+    "order": 6,
+    "issue_label": "62",
+    "short_slug": "Мозаика_-_Краткое_содержание_журнала_Spectrofon_21"
+  },
+  {
+    "article_id": 2403,
+    "article_url": "https://zxpress.ru/article.php?id=2403",
+    "print_url": "https://zxpress.ru/print.php?id=2403",
+    "title_link": "Мозаика - Снова об Amiga.",
+    "order": 7,
+    "issue_label": "62",
+    "short_slug": "Мозаика_-_Снова_об_Amiga"
+  },
+  {
+    "article_id": 2402,
+    "article_url": "https://zxpress.ru/article.php?id=2402",
+    "print_url": "https://zxpress.ru/print.php?id=2402",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "62",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

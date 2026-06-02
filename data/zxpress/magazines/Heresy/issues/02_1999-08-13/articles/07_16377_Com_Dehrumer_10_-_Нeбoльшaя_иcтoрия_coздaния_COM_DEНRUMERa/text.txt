@@ -1,0 +1,168 @@
+Heresy 02 - Com Dehrumer 1.0 - Нeбoльшaя иcтoрия coздaния COM DEНRUMERa...
+#####   #####  ##     #                      
+                  ##      ##    # ###   ##                      
+                  #:      ##    # ## # # #                      
+                  ::    . :#  . # #% .#  #                      
+                 .%#      #%    # :#     #  .                   
+             .    #%    # ::    # #:     #      .               
+          .       :#:%:## ##%:#:# :%     %         .            
+        .          #%:##   #:%:#  #:     :           .          
+       .                                              .         
+       .      . D . E . Н . R . U . M . E . R .       .         
+       .           .                        .         .         
+        .     .          version 1.0            .    .          
+          .                                        .            
+
+(c) Dark Lion                                                   
+
+     Небольшая  история  создания COM DEHRUMERa. На днях Pyrodex
+заканчивал   4К   INTRO   под   стильным  названием  DAZZLE  для
+Constuction  Chaos'999.  Объем  ee  был чуть больше 5 килобайт и
+паковался  DIET'om  и  PKlit'om  херово,  но Pyrodex как большой
+генератор  идей  хотел  уместить  еще  дофига  в  свою  интруху.
+Понятно,  что был нужен новый крутой пакер COM'ов. У Ash'a сразу
+появилась   идея  использовать  HRUST  ver1.2  by  Hrumer  (Best
+packer  on  Speccy), пакует он хорошо , но нужен был распаковщик
+на  PC...  Через  пару  дней  я  эту  проблему  решил  и зашел к
+Pyrodex'y  взять  на  испытания  его недоделанную, тогда, интру.
+Зaпaчив  в эмуле сей файл я обрадовался, что не зря все ето дело
+было   затеяно,   но   на  PC  распаковщик  находился  в  дохлом
+состоянии,потому  как  был совсем не oптиmизeн. Это состояние не
+смутило Ash'a (a он как раз заканчивал работу над своей газетой)
+и  таким  образом  DeHrust  оказался в приложении первого номера
+Нег...  HeReSy. При оптимизации депакера тесты показали, что все
+это  хуйня  (длинна  депакера 305 байт), но не все потеряно есть
+еще  HRUM  verЗ.5i  и  депакер там поменьше на 100 байт, я бысто
+переписал его на PC в результате DeHrumer улез в 170 байт.      
+    HAPPY END !!!                                               
+
+    Правила использования:                                      
+    1. К nakyemomy файлу добавляем в конце 5 любых байт         
+    2. Пакуем в HRUM'e файл                                     
+    3. Копируем файл в MS-DOS                                   
+    4. Используем ComDeHrumer                                   
+
+    Ниже приведены результаты тестов c разными пакерами:        
+   +----------------------------------------------------+       
+   | Название | Нормальная | Длина после | Используемый |       
+   | интры    | длина      | паковки     | пакер        |       
+   +==========+============+=============+==============+       
+   |          |            |    4491     | PKLite       |       
+   |  DAZZLE  |    5337    |    4172     | Diet         |       
+   |          |            |    4094     | Hrum         |
++----------+------------+-------------+--------------+       
+   |          |            |    4026     | PKLite       |       
+   |   AXE    |    5493    |    3771     | Diet         |       
+   |          |            |    3659     | Hrum         |       
+   +----------+------------+-------------+--------------+       
+   |          |            |    4110     | PKLite       |       
+   | BORNFAT  |    5233    |    3836     | Diet         |       
+   |          |            |    3740     | Hrum         |       
+   +----------+------------+-------------+--------------+       
+
+    Исходник депакера (170 байт).                               
+
+; Code by Dark Lion on june 1999                                
+
+                IDEAL                                           
+                P486                                            
+                SEGMENT CODESG PARA 'CODE'
+ASSUME CS:CODESG,DS:CODESG                      
+                ORG 100h                                        
+
+                PROC DEPACK                                     
+
+FOX:            cli                                             
+                mov sp,65500                                    
+                push bp                                         
+                mov bp,30000            ;куда распаковывать     
+                push bp                                         
+                mov dh,3                                        
+                mov si,OFFSET SAVE1+2  ;откуда                  
+                mov bx,01010h                                   
+                mov cx,OFF13h                                   
+L25009:         lodsb                                           
+                mov [bp],al                                     
+                inc bp
+L25014:         call SAVE                                       
+L25020:         jc L25009                                       
+                mov dl,1                                        
+L25024:         mov al,128                                      
+L25026:         call SAVE                                       
+L25031:         rcl al,1                                        
+                jc L25026                                       
+                cmp al,dh                                       
+                jc L25042                                       
+                add al,dl                                       
+                mov dl,al                                       
+                xor al,bl                                       
+                jnz L25024                                      
+L25042:         add al,dl                                       
+                cmp al,dh                                       
+                cmc                                             
+                jnc L25056
+sbb al,dh                                       
+                jz L25090                                       
+                adc al,dh                                       
+L25051:         call SAVE                                       
+L25056:         xchg cx,di                                      
+                mov [byte ptr FOX],al                           
+                mov ch,255                                      
+                dec al                                          
+                mov al,63                                       
+                jz L25069                                       
+                jnc L25082                                      
+                and al,11011111b        ;res 5,a                
+L25069:         xchg cx,di                                      
+L25070:         call SAVE                                       
+                rcl al,1                                        
+                jnc L25070                                      
+                xchg cx,di
+jz L25084                                       
+                mov ch,al                                       
+L25082:         lodsb                                           
+L25084:         mov cl,al                                       
+                add cx,bp                                       
+LDIR:           mov ah,[ecx]                                    
+                inc cx                                          
+                mov [bp],ah                                     
+                inc bp                                          
+                dec [byte ptr FOX]                              
+                jnz LDIR                                        
+                xchg cx,di                                      
+                jmp L25014                                      
+L25090:         lodsb                                           
+                and al,al                                       
+                jnz L25051                                      
+                pop si
+pop bp                                          
+                mov di,256                                      
+                mov eax,0C3A4F357h                              
+                mov cx,ax                                       
+                mov bx,65530                                    
+                mov [bx],eax                                    
+                push bx                                         
+                ret                                             
+
+                ENDP DEPACK                                     
+
+                PROC SAVE                                       
+
+                lahf            ;save Z flag                    
+                ror ah,1                                        
+                add cx,cx                                       
+                rcl ah,1
+sahf                                            
+                pushf                                           
+                dec bh                                          
+                jnz SAVE1                                       
+                xchg cx,ax                                      
+                lodsw                                           
+                xchg cx,ax                                      
+                mov bh,bl                                       
+SAVE1:          popf                                            
+                ret                                             
+
+                ENDP SAVE                                       
+                ENDS CODESG                                     
+                END DEPACK

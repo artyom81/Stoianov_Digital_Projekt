@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-10-17",
+  "order": 7,
+  "article_id": 13469,
+  "title_link": "Новости - нoвocтей\r\ncегoдня не тaк уж и мнoгo.",
+  "title_h1": "IzhNews 04 - Новости - нoвocтей cегoдня не тaк уж и мнoгo.",
+  "print_url": "https://zxpress.ru/print.php?id=13469",
+  "article_url": "https://zxpress.ru/article.php?id=13469",
+  "fetched_at": "2026-05-31T22:15:24Z"
+}

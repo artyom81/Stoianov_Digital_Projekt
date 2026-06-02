@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 863,
+    "article_url": "https://zxpress.ru/article.php?id=863",
+    "print_url": "https://zxpress.ru/print.php?id=863",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Nicron 95-98, C-Net Week 15.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Nicron_95-98_C-Net_Week_1"
+  },
+  {
+    "article_id": 858,
+    "article_url": "https://zxpress.ru/article.php?id=858",
+    "print_url": "https://zxpress.ru/print.php?id=858",
+    "title_link": "Все жизнь игра - Новелла к игре \"Операция Р.Р.\"",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Все_жизнь_игра_-_Новелла_к_игре_Операция_РР"
+  },
+  {
+    "article_id": 859,
+    "article_url": "https://zxpress.ru/article.php?id=859",
+    "print_url": "https://zxpress.ru/print.php?id=859",
+    "title_link": "Лит. страничка - Гриф \"Y\" (Дневник Лаборанта Ж. Скальпив - продолжение).",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Лит_страничка_-_Гриф_Y_Дневник_Лаборанта_Ж_Скальпив_-_продол"
+  },
+  {
+    "article_id": 862,
+    "article_url": "https://zxpress.ru/article.php?id=862",
+    "print_url": "https://zxpress.ru/print.php?id=862",
+    "title_link": "Мнение - Дальше так жить нельзя или апгрейд стучится в наши двери.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Мнение_-_Дальше_так_жить_нельзя_или_апгреид_стучится_в_наши"
+  },
+  {
+    "article_id": 864,
+    "article_url": "https://zxpress.ru/article.php?id=864",
+    "print_url": "https://zxpress.ru/print.php?id=864",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 865,
+    "article_url": "https://zxpress.ru/article.php?id=865",
+    "print_url": "https://zxpress.ru/print.php?id=865",
+    "title_link": "Стихи - Обещание.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Стихи_-_Обещание"
+  },
+  {
+    "article_id": 861,
+    "article_url": "https://zxpress.ru/article.php?id=861",
+    "print_url": "https://zxpress.ru/print.php?id=861",
+    "title_link": "Четыре килобайта - О нововведениях в газете.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Четыре_килобаита_-_О_нововведениях_в_газете"
+  }
+]

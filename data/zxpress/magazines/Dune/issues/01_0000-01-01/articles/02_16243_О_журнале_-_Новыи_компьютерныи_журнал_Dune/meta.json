@@ -1,0 +1,15 @@
+{
+  "magazine_id": 61,
+  "magazine_name": "Dune",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 2,
+  "article_id": 16243,
+  "title_link": "О журнале - Новый компьютерный журнал Dune.",
+  "title_h1": "Dune 01 - О журнале - Новый компьютерный журнал Dune.",
+  "print_url": "https://zxpress.ru/print.php?id=16243",
+  "article_url": "https://zxpress.ru/article.php?id=16243",
+  "fetched_at": "2026-05-31T21:59:52Z"
+}

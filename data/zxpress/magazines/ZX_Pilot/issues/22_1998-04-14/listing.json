@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7709,
+    "article_url": "https://zxpress.ru/article.php?id=7709",
+    "print_url": "https://zxpress.ru/print.php?id=7709",
+    "title_link": "Наши новости - Новая версия оболочки газеты.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "Наши_новости_-_Новая_версия_оболочки_газеты"
+  },
+  {
+    "article_id": 7710,
+    "article_url": "https://zxpress.ru/article.php?id=7710",
+    "print_url": "https://zxpress.ru/print.php?id=7710",
+    "title_link": "Разберемся? - Описание всех миссий игры LASER SQUAD.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Разберемся_-_Описание_всех_миссии_игры_LASER_SQUAD"
+  },
+  {
+    "article_id": 7711,
+    "article_url": "https://zxpress.ru/article.php?id=7711",
+    "print_url": "https://zxpress.ru/print.php?id=7711",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7712,
+    "article_url": "https://zxpress.ru/article.php?id=7712",
+    "print_url": "https://zxpress.ru/print.php?id=7712",
+    "title_link": "О разном - Фирменный знак ZX-SPECTRUM.",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "О_разном_-_Фирменныи_знак_ZX-SPECTRUM"
+  },
+  {
+    "article_id": 7713,
+    "article_url": "https://zxpress.ru/article.php?id=7713",
+    "print_url": "https://zxpress.ru/print.php?id=7713",
+    "title_link": "BIRTHDAY - С днем рождения SECTOR, MEGAVOLT.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "BIRTHDAY_-_С_днем_рождения_SECTOR_MEGAVOLT"
+  },
+  {
+    "article_id": 7714,
+    "article_url": "https://zxpress.ru/article.php?id=7714",
+    "print_url": "https://zxpress.ru/print.php?id=7714",
+    "title_link": "Анонс - Что будет в следующем выпуске?",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Анонс_-_Что_будет_в_следующем_выпуске"
+  },
+  {
+    "article_id": 7715,
+    "article_url": "https://zxpress.ru/article.php?id=7715",
+    "print_url": "https://zxpress.ru/print.php?id=7715",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

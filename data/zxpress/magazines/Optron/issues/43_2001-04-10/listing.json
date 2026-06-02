@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4465,
+    "article_url": "https://zxpress.ru/article.php?id=4465",
+    "print_url": "https://zxpress.ru/print.php?id=4465",
+    "title_link": "4 килобайта - номер посвящен вечной теме ЛЮБВИ.",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "4_килобаита_-_номер_посвящен_вечнои_теме_ЛЮБВИ"
+  },
+  {
+    "article_id": 4466,
+    "article_url": "https://zxpress.ru/article.php?id=4466",
+    "print_url": "https://zxpress.ru/print.php?id=4466",
+    "title_link": "Страницы истории - историия о том, как Спектрум \r\n\"пошёл в народ\"...",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Страницы_истории_-_историия_о_том_как_Спектрум_пошел_в_народ"
+  },
+  {
+    "article_id": 4467,
+    "article_url": "https://zxpress.ru/article.php?id=4467",
+    "print_url": "https://zxpress.ru/print.php?id=4467",
+    "title_link": "Хобби - кое-что о любви....",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "Хобби_-_кое-что_о_любви"
+  },
+  {
+    "article_id": 4468,
+    "article_url": "https://zxpress.ru/article.php?id=4468",
+    "print_url": "https://zxpress.ru/print.php?id=4468",
+    "title_link": "Мнение - Каковы же перспективы у Спектрума?",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Мнение_-_Каковы_же_перспективы_у_Спектрума"
+  },
+  {
+    "article_id": 4469,
+    "article_url": "https://zxpress.ru/article.php?id=4469",
+    "print_url": "https://zxpress.ru/print.php?id=4469",
+    "title_link": "Литстраничка - Тысяча и одна ночь (Из цикла \"Hовые сказки о старом\").",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Литстраничка_-_Тысяча_и_одна_ночь_Из_цикла_Hовые_сказки_о_ст"
+  },
+  {
+    "article_id": 4470,
+    "article_url": "https://zxpress.ru/article.php?id=4470",
+    "print_url": "https://zxpress.ru/print.php?id=4470",
+    "title_link": "Стихи - \"Моя госпожа\".",
+    "order": 6,
+    "issue_label": "43",
+    "short_slug": "Стихи_-_Моя_госпожа"
+  },
+  {
+    "article_id": 4471,
+    "article_url": "https://zxpress.ru/article.php?id=4471",
+    "print_url": "https://zxpress.ru/print.php?id=4471",
+    "title_link": "Реклама - реклама и обьявления во Львове.",
+    "order": 7,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_реклама_и_обьявления_во_Львове"
+  }
+]

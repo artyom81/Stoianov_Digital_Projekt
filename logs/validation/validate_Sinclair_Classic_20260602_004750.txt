@@ -1,0 +1,7 @@
+  Magazin: Sinclair Classic
+   Hinweis: listing.json vorhanden aber ohne Issues – Magazin scheint leer zu sein.
+
+✅ Validierung: OK
+   (mit Warnungen)
+  - Magazin hat keine Issues (leerer Eintrag auf der Webseite)
+   ➜ Issues: 0 | Artikel gesamt: 0

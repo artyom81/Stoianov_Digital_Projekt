@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 13208,
+    "article_url": "https://zxpress.ru/article.php?id=13208",
+    "print_url": "https://zxpress.ru/print.php?id=13208",
+    "title_link": "Warm Up - этот выпуск изначально планировался для Spectrum 30.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Warm_Up_-_этот_выпуск_изначально_планировался_для_Spectrum_3"
+  },
+  {
+    "article_id": 13209,
+    "article_url": "https://zxpress.ru/article.php?id=13209",
+    "print_url": "https://zxpress.ru/print.php?id=13209",
+    "title_link": "Incoming - обзор новых игр для Спектрума: Earthraid, More Tea, Vicar?, Antiquity Jones.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Incoming_-_обзор_новых_игр_для_Спектрума_Earthraid_More_Tea"
+  },
+  {
+    "article_id": 13210,
+    "article_url": "https://zxpress.ru/article.php?id=13210",
+    "print_url": "https://zxpress.ru/print.php?id=13210",
+    "title_link": "Credits - авторы газеты.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

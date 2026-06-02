@@ -1,0 +1,15 @@
+{
+  "magazine_id": 58,
+  "magazine_name": "DonNews",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "2001-01-01",
+  "order": 6,
+  "article_id": 8140,
+  "title_link": "ПРОЕКТ - Информация скорее заинтересует кодеров.",
+  "title_h1": "DonNews 13 - ПРОЕКТ - Информация скорее заинтересует кодеров.",
+  "print_url": "https://zxpress.ru/print.php?id=8140",
+  "article_url": "https://zxpress.ru/article.php?id=8140",
+  "fetched_at": "2026-05-31T21:58:59Z"
+}

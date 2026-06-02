@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 655,
+    "article_url": "https://zxpress.ru/article.php?id=655",
+    "print_url": "https://zxpress.ru/print.php?id=655",
+    "title_link": "Mike Best - часть 2: Монтажная схема, память 256К. Проблемы Kempston Mouse.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Mike_Best_-_часть_2_Монтажная_схема_память_256К_Проблемы_Kem"
+  },
+  {
+    "article_id": 656,
+    "article_url": "https://zxpress.ru/article.php?id=656",
+    "print_url": "https://zxpress.ru/print.php?id=656",
+    "title_link": "Глюк - Глюки CDOS v1.32.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Глюк_-_Глюки_CDOS_v132"
+  },
+  {
+    "article_id": 659,
+    "article_url": "https://zxpress.ru/article.php?id=659",
+    "print_url": "https://zxpress.ru/print.php?id=659",
+    "title_link": "Лит. Страничка - ночная смена (окончание).",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Лит_Страничка_-_ночная_смена_окончание"
+  },
+  {
+    "article_id": 658,
+    "article_url": "https://zxpress.ru/article.php?id=658",
+    "print_url": "https://zxpress.ru/print.php?id=658",
+    "title_link": "Львовские приколы - футбольные приколы - 2.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Львовские_приколы_-_футбольные_приколы_-_2"
+  },
+  {
+    "article_id": 657,
+    "article_url": "https://zxpress.ru/article.php?id=657",
+    "print_url": "https://zxpress.ru/print.php?id=657",
+    "title_link": "Рубрика X - О новинках: Fiendish Freddy's, Power Drift, Biff, Draconus.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Рубрика_X_-_О_новинках_Fiendish_Freddys_Power_Drift_Biff_Dra"
+  },
+  {
+    "article_id": 654,
+    "article_url": "https://zxpress.ru/article.php?id=654",
+    "print_url": "https://zxpress.ru/print.php?id=654",
+    "title_link": "Четыре килобайта - Близится юбилей газеты.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Четыре_килобаита_-_Близится_юбилеи_газеты"
+  }
+]

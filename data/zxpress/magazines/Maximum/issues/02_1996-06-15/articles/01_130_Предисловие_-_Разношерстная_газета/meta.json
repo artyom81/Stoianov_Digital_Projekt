@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-06-15",
+  "order": 1,
+  "article_id": 130,
+  "title_link": "Предисловие - Разношерстная газета.",
+  "title_h1": "Maximum 02 - Предисловие - Разношерстная газета.",
+  "print_url": "https://zxpress.ru/print.php?id=130",
+  "article_url": "https://zxpress.ru/article.php?id=130",
+  "fetched_at": "2026-05-31T22:22:16Z"
+}

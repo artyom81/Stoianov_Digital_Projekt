@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5162,
+    "article_url": "https://zxpress.ru/article.php?id=5162",
+    "print_url": "https://zxpress.ru/print.php?id=5162",
+    "title_link": "BBS - ПОЛНОЕ описание работы с BBS на Спектруме.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "BBS_-_ПОЛНОЕ_описание_работы_с_BBS_на_Спектруме"
+  },
+  {
+    "article_id": 5163,
+    "article_url": "https://zxpress.ru/article.php?id=5163",
+    "print_url": "https://zxpress.ru/print.php?id=5163",
+    "title_link": "Мнение - обзор игры жанра D&D - Last Herp of Light Force.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Мнение_-_обзор_игры_жанра_DD_-_Last_Herp_of_Light_Force"
+  },
+  {
+    "article_id": 5164,
+    "article_url": "https://zxpress.ru/article.php?id=5164",
+    "print_url": "https://zxpress.ru/print.php?id=5164",
+    "title_link": "Tape и Disk - Адаптация программ к системе TR-DOS (часть 4).",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Tape_и_Disk_-_Адаптация_программ_к_системе_TR-DOS_часть_4"
+  },
+  {
+    "article_id": 5165,
+    "article_url": "https://zxpress.ru/article.php?id=5165",
+    "print_url": "https://zxpress.ru/print.php?id=5165",
+    "title_link": "Юмор - подборка анекдотов.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Юмор_-_подборка_анекдотов"
+  },
+  {
+    "article_id": 5166,
+    "article_url": "https://zxpress.ru/article.php?id=5166",
+    "print_url": "https://zxpress.ru/print.php?id=5166",
+    "title_link": "Pokes - подборка Poke's.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Pokes_-_подборка_Pokes"
+  }
+]

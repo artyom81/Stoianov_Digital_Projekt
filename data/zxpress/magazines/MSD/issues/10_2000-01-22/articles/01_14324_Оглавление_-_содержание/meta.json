@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "2000-01-22",
+  "order": 1,
+  "article_id": 14324,
+  "title_link": "Оглавление - содержание.",
+  "title_h1": "MSD 10 - Оглавление - содержание.",
+  "print_url": "https://zxpress.ru/print.php?id=14324",
+  "article_url": "https://zxpress.ru/article.php?id=14324",
+  "fetched_at": "2026-05-31T22:28:15Z"
+}

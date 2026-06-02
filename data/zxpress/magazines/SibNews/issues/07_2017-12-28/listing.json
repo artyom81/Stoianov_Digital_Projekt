@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 18273,
+    "article_url": "https://zxpress.ru/article.php?id=18273",
+    "print_url": "https://zxpress.ru/print.php?id=18273",
+    "title_link": "Вступление - Denis Grachev положил на Спектрум и занялся\r\nкакой-то не понятной хренью под названием\r\n\"воксельный движок\".",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Вступление_-_Denis_Grachev_положил_на_Спектрум_и_занялсякако"
+  },
+  {
+    "article_id": 18276,
+    "article_url": "https://zxpress.ru/article.php?id=18276",
+    "print_url": "https://zxpress.ru/print.php?id=18276",
+    "title_link": "История - История создания Boom Megademo (AAА).",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "История_-_История_создания_Boom_Megademo_AAА"
+  },
+  {
+    "article_id": 18275,
+    "article_url": "https://zxpress.ru/article.php?id=18275",
+    "print_url": "https://zxpress.ru/print.php?id=18275",
+    "title_link": "Обзор - Обзор демосцены - любимая рубрика маэстро\r\nсцены ААА. За прошедший месяц в копилку\r\nzxaaa пришло много интересных работ\r\nкоторые надо обсудить.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Обзор_-_Обзор_демосцены_-_любимая_рубрика_маэстросцены_ААА_З"
+  },
+  {
+    "article_id": 18274,
+    "article_url": "https://zxpress.ru/article.php?id=18274",
+    "print_url": "https://zxpress.ru/print.php?id=18274",
+    "title_link": "Стихи - стихи или про спектрумистов.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Стихи_-_стихи_или_про_спектрумистов"
+  }
+]

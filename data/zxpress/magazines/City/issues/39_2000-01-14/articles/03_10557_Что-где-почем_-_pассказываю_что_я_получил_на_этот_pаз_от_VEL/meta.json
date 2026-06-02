@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "39",
+  "issue_date_iso": "2000-01-14",
+  "order": 3,
+  "article_id": 10557,
+  "title_link": "Что-где-почем - pассказываю, что я получил на этот pаз от VEL'а.",
+  "title_h1": "City 39 - Что-где-почем - pассказываю, что я получил на этот pаз от VEL&#039;а.",
+  "print_url": "https://zxpress.ru/print.php?id=10557",
+  "article_url": "https://zxpress.ru/article.php?id=10557",
+  "fetched_at": "2026-05-31T21:51:43Z"
+}

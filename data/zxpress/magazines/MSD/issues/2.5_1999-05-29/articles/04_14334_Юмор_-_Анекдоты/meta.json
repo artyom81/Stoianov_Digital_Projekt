@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "2.5",
+  "issue_date_iso": "1999-05-29",
+  "order": 4,
+  "article_id": 14334,
+  "title_link": "Юмор - Анекдоты.",
+  "title_h1": "MSD 2.5 - Юмор - Анекдоты.",
+  "print_url": "https://zxpress.ru/print.php?id=14334",
+  "article_url": "https://zxpress.ru/article.php?id=14334",
+  "fetched_at": "2026-05-31T22:28:29Z"
+}

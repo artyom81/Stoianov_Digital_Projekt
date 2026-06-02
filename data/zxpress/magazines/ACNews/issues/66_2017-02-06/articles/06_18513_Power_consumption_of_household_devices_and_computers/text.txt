@@ -1,0 +1,225 @@
+ACNews 66 - Power consumption of household devices and computers
+Power consumption of household devices and computers
+by AmoNik
+(Measurements collected for years)
+ZX Spectrum+ 128K
+- power supply 2.3 W 
+- all combined 13.6 W 
+
+Scorpion ZS 256 Turbo+ in ATX case:
+- standby 1 W 
+- working 22.7 W 
+
+Scorpion GMX - 19.8 W
+Pentagon-102ЧSL - 21 W
+Amiga 500 - 15.7 W
+Amiga 1200 with Blizzard 68030@50 accelerator
+- 3D 25 W 
+- 2D 24 W 
+
+PC with 48бDXЧ-120 - 35 W
+PC with Pentium 233 MMX - 47 W
+PC with AMD C60
+- standby 1.8 W 
+- loading OS 26.5 W 
+- working < 28 W 
+
+PC with Pentium 3S - 1266/ Radeon 9800 Pro (Radeon 9600 Pro)/
+2xHDD
+- standby 4.4 W 
+- desktop 115.8 W (84.9 W) 
+- Quake III 126.9 W (84.9 W) 
+- max 144 W 
+
+PC with Pentium 4 3400 MHz
+- standby 3.4 W 
+- running Windows 129.4 W 
+- stress test 245 W 
+- ATI Tools Benchmark 315 W 
+- in game 262 W 
+
+PC with core i7
+- standby 0.6 W 
+- running Windows 7 80 W 
+- performance test 346 W 
+- playing Battlefield 3 280 W 
+- stress test 288 W 
+
+Ноутбук Toshiba Satellite 3ЗOCDT with CompactFlash:
+- power supply 1.7 W 
+- standby 2.9 W 
+- MS-DOS 20.2 W 
+- copy from FDD 21.5 W 
+- copy from CD 23.3 W 
+- REALSPECTRUM emulator 19.5 W 
+- Z8OStealth emulator 20.9 W 
+
+Playstation 1 (old type)
+- standby 1.2 W 
+- on without disk 5.4 W 
+- in game 6.5-9.1 W 
+
+Playstation 1 (new type)
+- standby 0.8 W 
+- on without disk 5.0 W 
+- in game 7.5-8.8 W 
+
+Playstation 2 type 39xxx
+- standby 1.1 W 
+- menu 31.9 W 
+- in game 45 W 
+
+Playstation 2 type 50008
+- standby 3.2 W 
+- menu 22.6 W 
+- in game 35 W 
+
+XBOX 360
+- standby 1.7 W 
+- menu 87 W 
+- in game 92 W 
+
+Nintendo Wii with DVD emulator
+- standby 1.3 W 
+- menu 13.4 W 
+- game from SD card 12.7 W 
+
+The same Nintendo Wii w/o DVD emulator, with USB HDD:
+- standby 1.4 W 
+- menu 14.8 W 
+- SNES emulator 13.5 W 
+- New Super Mario Brothers game in Wii mode 15.9 W 
+- Need For Speed Underground game in Gamecube mode 15.7 W 
+
+Vinyl player Радиотехника Мелодия 103 Стерео - 17 W
+CD player Technics
+- standby 2.0 W 
+- on 5.3 W 
+- playing CD 6.8 W 
+
+Radio cassette player AIWA
+- idle 6.1 W 
+- radio 13.1 W 
+- Line In 10.3 W 
+
+Radio cassette player Pioneer
+- idle 9.8 W 
+- radio 21 W 
+- tape player 23.8 W 
+- CD player 25.4 W 
+
+Radio cassette player Panasonic
+- standby 1.8 W 
+- on 6.4 W 
+- tape player 7.6 W (loud) 
+- CD player 7.6 W (loud) 
+- radio 6.4 W (loud) 
+
+Audio amplifier Pioneer - 23.1 W (comfortable volume)
+Multimedia loudspeakers Tzunami 2.4 W
+Loudspeakers SVEN multimedia:
+- standby 0 W 
+- on with default parameters 19.7 W 
+- MUTE mode 19.1 W 
+
+Videotape player SAMSUNG
+- standby 6.4 W 
+- on 6.4 W 
+- replay 16.1 W 
+- rewind 19.4 W 
+
+Videotape player SONY SLV-E1бOEE:
+- standby 4.1 W 
+- on 13.4 W 
+- replay 16.9 W 
+- rewind 18.2 W 
+
+DVD Player Pioneer
+- standby 1.4 W 
+- working (searching for disk) 8.4 W 
+- working (DVD-Video replay) 6.8 W 
+
+CRT display Philips CM 8833-II
+- no signal 47.4-49.8 W 
+- bright background 58.5 W 
+- moving picture 48 W 
+
+LCD display Samsung 17"
+- idle 1.4 W 
+- working 26 W max 
+
+TV set SAMSUNG CRT 54 cm
+- standby around 8 W 
+- working 45-65 W depending on the image brightness 
+
+TV set SONY LCD 20"
+- off 0.6 W 
+- idle 14.4 W 
+- working 40.3 W max 
+
+TV set Toshiba LCD 40"
+- idle 0 W 
+- TV 63.6-147.4 W 
+
+Halogen projector - 140 W
+Wi-Fi network access point DLink - 4.1-4.9 W
+Switch Trendnet - 6.8 W
+Router Asus - 7.8 W
+Router (possibly TP-LINK WR-10ЧЗND) - 4.7 W
+Firewall
+- no load 8.5 W 
+- one computer in the network 9.4 W 
+
+Dot-matrix printer Epson FX 890
+- idle 3.9 - 14.5 W 
+- printing 57.3 W 
+
+Dot-matrix printer Star LC 20
+- idle 7.7 W 
+- printing 30.7 W 
+
+Dot-matrix printer NEC P5200
+- idle 18.9 W 
+- printing 56.3 W 
+
+Typewriter Samsung
+- on 2.9 W 
+- printing 31.9 W 
+
+Scart Switcher Philips - 2.8-2.9 W
+Frequency coupling adapter АВУ ВЧ Паскаль-2250
+- idle 2.7 W 
+- handset lifted 3.8 W 
+
+Phone Siemens Gigaset (Radio)
+- handset lifted 1.2 W 
+- hangset charging 2.4 W 
+
+Charger JVC - 1.5 W
+Charger LaCrosse
+- charging 4 accumulators with current of 200 mA - 3.6 W 
+- charging 4 accumulators with current of 700 mA - 10.9 W 
+
+Refrigerator
+- idle 2.1 W 
+- 1st section 72-88 W 
+- 2nd section 62-67 W 
+- lighting 49.8 W 
+
+Electric shaver Philips - 2 W
+Toaster - 770-791 W
+Floor-polisher - 132 W
+Mouse-formed shoe-driers 21,3 - 12 W
+Heating pad - 27 W
+Tabletop fan
+- slow speed 9.4 W 
+- fast speed 14.9 W 
+
+Floor fan
+- slow speed 37.0-37.9 W 
+- mid speed 40.0-40.8 W 
+- fast speed 40.4 W 
+- lighting 0 W 
+
+Vacuum cleaner Samsung - 980-1010 W
+Vacuum cleaner Karcher (without water) - 1225 W

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3204,
+    "article_url": "https://zxpress.ru/article.php?id=3204",
+    "print_url": "https://zxpress.ru/print.php?id=3204",
+    "title_link": "GAME Обзор - Краткий обзор новых игрушек и демок : Dandy, G-Man,\r\n Little Computer People, Operation Wolf, Ugliblaster,\r\n Defenders of the Earth, Zero Info, Insane, Stress,\r\n Blood Jack, F.S.R.D., Geography.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "GAME_Обзор_-_Краткии_обзор_новых_игрушек_и_демок_Dandy_G-Man"
+  },
+  {
+    "article_id": 3206,
+    "article_url": "https://zxpress.ru/article.php?id=3206",
+    "print_url": "https://zxpress.ru/print.php?id=3206",
+    "title_link": "PUSH HL - Печать текста с точностью до пикселя по координате Y.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "PUSH_HL_-_Печать_текста_с_точностью_до_пикселя_по_координате"
+  },
+  {
+    "article_id": 3207,
+    "article_url": "https://zxpress.ru/article.php?id=3207",
+    "print_url": "https://zxpress.ru/print.php?id=3207",
+    "title_link": "Давайте посмеемся - Ответы GIVER'a на задачки первого номера.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Даваите_посмеемся_-_Ответы_GIVERa_на_задачки_первого_номера"
+  },
+  {
+    "article_id": 3205,
+    "article_url": "https://zxpress.ru/article.php?id=3205",
+    "print_url": "https://zxpress.ru/print.php?id=3205",
+    "title_link": "Новости - О свежих новостях из Гомеля.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Новости_-_О_свежих_новостях_из_Гомеля"
+  },
+  {
+    "article_id": 3203,
+    "article_url": "https://zxpress.ru/article.php?id=3203",
+    "print_url": "https://zxpress.ru/print.php?id=3203",
+    "title_link": "От авторов - О новых рубриках газеты.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "От_авторов_-_О_новых_рубриках_газеты"
+  },
+  {
+    "article_id": 3208,
+    "article_url": "https://zxpress.ru/article.php?id=3208",
+    "print_url": "https://zxpress.ru/print.php?id=3208",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

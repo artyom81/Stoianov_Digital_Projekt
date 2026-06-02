@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 48,
+    "article_url": "https://zxpress.ru/article.php?id=48",
+    "print_url": "https://zxpress.ru/print.php?id=48",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2080,
+    "article_url": "https://zxpress.ru/article.php?id=2080",
+    "print_url": "https://zxpress.ru/print.php?id=2080",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2082,
+    "article_url": "https://zxpress.ru/article.php?id=2082",
+    "print_url": "https://zxpress.ru/print.php?id=2082",
+    "title_link": "ZXNet - Телеконференция-интервью с координатором сети ZXNet.",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "ZXNet_-_Телеконференция-интервью_с_координатором_сети_ZXNet"
+  },
+  {
+    "article_id": 2081,
+    "article_url": "https://zxpress.ru/article.php?id=2081",
+    "print_url": "https://zxpress.ru/print.php?id=2081",
+    "title_link": "Застрял ? - Описание игры \"Murray Mouse Super Cop\".",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Застрял_-_Описание_игры_Murray_Mouse_Super_Cop"
+  },
+  {
+    "article_id": 8975,
+    "article_url": "https://zxpress.ru/article.php?id=8975",
+    "print_url": "https://zxpress.ru/print.php?id=8975",
+    "title_link": "Мозаика - Немного информации из сети INTERNET. Элементарные требования станций сети FIDONET.",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "Мозаика_-_Немного_информации_из_сети_INTERNET_Элементарные_т"
+  },
+  {
+    "article_id": 8972,
+    "article_url": "https://zxpress.ru/article.php?id=8972",
+    "print_url": "https://zxpress.ru/print.php?id=8972",
+    "title_link": "Мозаика - Об образовавшемся клубе обладателей компьютера ПРОФИ. CHEAT к игре \"15'S\".",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "Мозаика_-_Об_образовавшемся_клубе_обладателеи_компьютера_ПРО"
+  },
+  {
+    "article_id": 8974,
+    "article_url": "https://zxpress.ru/article.php?id=8974",
+    "print_url": "https://zxpress.ru/print.php?id=8974",
+    "title_link": "Мозаика - подключение DENDY'евского видеопроцессора к ZX Spectrum.",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Мозаика_-_подключение_DENDYевского_видеопроцессора_к_ZX_Spec"
+  },
+  {
+    "article_id": 8973,
+    "article_url": "https://zxpress.ru/article.php?id=8973",
+    "print_url": "https://zxpress.ru/print.php?id=8973",
+    "title_link": "Мозаика - расширение портов ZX Spectrum.",
+    "order": 8,
+    "issue_label": "35",
+    "short_slug": "Мозаика_-_расширение_портов_ZX_Spectrum"
+  },
+  {
+    "article_id": 8976,
+    "article_url": "https://zxpress.ru/article.php?id=8976",
+    "print_url": "https://zxpress.ru/print.php?id=8976",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 9,
+    "issue_label": "35",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 794,
+    "article_url": "https://zxpress.ru/article.php?id=794",
+    "print_url": "https://zxpress.ru/print.php?id=794",
+    "title_link": "Coding - Проигрыватель музыкальных сэмплов: 101 градация громкости.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Coding_-_Проигрыватель_музыкальных_сэмплов_101_градация_гром"
+  },
+  {
+    "article_id": 790,
+    "article_url": "https://zxpress.ru/article.php?id=790",
+    "print_url": "https://zxpress.ru/print.php?id=790",
+    "title_link": "Games - Описание игры Sherwood.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Games_-_Описание_игры_Sherwood"
+  },
+  {
+    "article_id": 787,
+    "article_url": "https://zxpress.ru/article.php?id=787",
+    "print_url": "https://zxpress.ru/print.php?id=787",
+    "title_link": "Вступление - Тяжелые невзгоды наступающего лета.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_Тяжелые_невзгоды_наступающего_лета"
+  },
+  {
+    "article_id": 795,
+    "article_url": "https://zxpress.ru/article.php?id=795",
+    "print_url": "https://zxpress.ru/print.php?id=795",
+    "title_link": "Голос из могилы - Фирменное железо: электронные часы, Interface I, ZX и другие.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Голос_из_могилы_-_Фирменное_железо_электронные_часы_Interfac"
+  },
+  {
+    "article_id": 793,
+    "article_url": "https://zxpress.ru/article.php?id=793",
+    "print_url": "https://zxpress.ru/print.php?id=793",
+    "title_link": "Злоба дня - Commandore и человек: хроника перехода на другую платформу.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Злоба_дня_-_Commandore_и_человек_хроника_перехода_на_другую"
+  },
+  {
+    "article_id": 797,
+    "article_url": "https://zxpress.ru/article.php?id=797",
+    "print_url": "https://zxpress.ru/print.php?id=797",
+    "title_link": "Мир Амиги - Амига глазами RRA (часть последняя).",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Мир_Амиги_-_Амига_глазами_RRA_часть_последняя"
+  },
+  {
+    "article_id": 788,
+    "article_url": "https://zxpress.ru/article.php?id=788",
+    "print_url": "https://zxpress.ru/print.php?id=788",
+    "title_link": "Новости - ProTracker'а 3.4, First Association, подведение результатов Complex Compo, приостановке работ над ЧВ-2.",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Новости_-_ProTrackerа_34_First_Association_подведение_резуль"
+  },
+  {
+    "article_id": 789,
+    "article_url": "https://zxpress.ru/article.php?id=789",
+    "print_url": "https://zxpress.ru/print.php?id=789",
+    "title_link": "Обзор - Обзор новинок: Awaken demo version, Pussy demo version, Wacky Races, Best View v2.8, Hobby #1, Amazing #2.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Обзор_-_Обзор_новинок_Awaken_demo_version_Pussy_demo_version"
+  },
+  {
+    "article_id": 799,
+    "article_url": "https://zxpress.ru/article.php?id=799",
+    "print_url": "https://zxpress.ru/print.php?id=799",
+    "title_link": "Приложение - Spectrum JPG decoder.",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Приложение_-_Spectrum_JPG_decoder"
+  },
+  {
+    "article_id": 798,
+    "article_url": "https://zxpress.ru/article.php?id=798",
+    "print_url": "https://zxpress.ru/print.php?id=798",
+    "title_link": "Реклама - Новая версия CD-ROM'а от MMA, The High Voltage C64 CD",
+    "order": 10,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_Новая_версия_CD-ROMа_от_MMA_The_High_Voltage_C64_C"
+  }
+]

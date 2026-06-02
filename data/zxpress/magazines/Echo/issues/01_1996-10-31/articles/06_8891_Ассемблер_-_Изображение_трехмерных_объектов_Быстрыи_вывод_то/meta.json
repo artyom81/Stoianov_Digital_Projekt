@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-10-31",
+  "order": 6,
+  "article_id": 8891,
+  "title_link": "Ассемблер - Изображение трехмерных объектов.\r\n Быстрый вывод точки AT X,Y.\r\n Процедура умножения.",
+  "title_h1": "Echo 01 - Ассемблер - Изображение трехмерных объектов.  Быстрый вывод точки AT X,Y.  Процедура умножения.",
+  "print_url": "https://zxpress.ru/print.php?id=8891",
+  "article_url": "https://zxpress.ru/article.php?id=8891",
+  "fetched_at": "2026-05-31T22:00:07Z"
+}

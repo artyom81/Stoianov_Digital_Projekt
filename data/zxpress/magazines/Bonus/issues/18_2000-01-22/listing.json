@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 94,
+    "article_url": "https://zxpress.ru/article.php?id=94",
+    "print_url": "https://zxpress.ru/print.php?id=94",
+    "title_link": "Новости с полей СинклерКлуба - я засел за написание микро-гейм-демки\r\nпод условным названием \"The GAME\".",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Новости_с_полеи_СинклерКлуба_-_я_засел_за_написание_микро-ге"
+  },
+  {
+    "article_id": 10613,
+    "article_url": "https://zxpress.ru/article.php?id=10613",
+    "print_url": "https://zxpress.ru/print.php?id=10613",
+    "title_link": "Юмор - Анекдоты, приколы, афоризмы...",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Юмор_-_Анекдоты_приколы_афоризмы"
+  },
+  {
+    "article_id": 10614,
+    "article_url": "https://zxpress.ru/article.php?id=10614",
+    "print_url": "https://zxpress.ru/print.php?id=10614",
+    "title_link": "Во что играем? - обзор игр недели: HATE, Glug-Glug.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Во_что_играем_-_обзор_игр_недели_HATE_Glug-Glug"
+  },
+  {
+    "article_id": 10615,
+    "article_url": "https://zxpress.ru/article.php?id=10615",
+    "print_url": "https://zxpress.ru/print.php?id=10615",
+    "title_link": "Хит-парад - хит парад русской Попсы.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Хит-парад_-_хит_парад_русскои_Попсы"
+  },
+  {
+    "article_id": 10616,
+    "article_url": "https://zxpress.ru/article.php?id=10616",
+    "print_url": "https://zxpress.ru/print.php?id=10616",
+    "title_link": "Творчество нашего клуба - новая версия поэмы Маяковского \"Хорошо\".",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Творчество_нашего_клуба_-_новая_версия_поэмы_Маяковского_Хор"
+  }
+]

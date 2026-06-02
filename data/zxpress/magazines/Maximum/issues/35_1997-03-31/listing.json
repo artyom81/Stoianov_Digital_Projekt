@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 9803,
+    "article_url": "https://zxpress.ru/article.php?id=9803",
+    "print_url": "https://zxpress.ru/print.php?id=9803",
+    "title_link": "HELP - HELP к читалке для супер-тормозов.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "HELP_-_HELP_к_читалке_для_супер-тормозов"
+  },
+  {
+    "article_id": 9805,
+    "article_url": "https://zxpress.ru/article.php?id=9805",
+    "print_url": "https://zxpress.ru/print.php?id=9805",
+    "title_link": "TOP-10 - Десятка лучших глючных игр.",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "TOP-10_-_Десятка_лучших_глючных_игр"
+  },
+  {
+    "article_id": 202,
+    "article_url": "https://zxpress.ru/article.php?id=202",
+    "print_url": "https://zxpress.ru/print.php?id=202",
+    "title_link": "Ассемблер - Самая быстрая процедура выключения музыки.",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "Ассемблер_-_Самая_быстрая_процедура_выключения_музыки"
+  },
+  {
+    "article_id": 203,
+    "article_url": "https://zxpress.ru/article.php?id=203",
+    "print_url": "https://zxpress.ru/print.php?id=203",
+    "title_link": "Версии - 2 версии игры: Зависший TETRIS.",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Версии_-_2_версии_игры_Зависшии_TETRIS"
+  },
+  {
+    "article_id": 201,
+    "article_url": "https://zxpress.ru/article.php?id=201",
+    "print_url": "https://zxpress.ru/print.php?id=201",
+    "title_link": "Вступление - 1 апреля - день приколов и шуток.",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "Вступление_-_1_апреля_-_день_приколов_и_шуток"
+  },
+  {
+    "article_id": 9809,
+    "article_url": "https://zxpress.ru/article.php?id=9809",
+    "print_url": "https://zxpress.ru/print.php?id=9809",
+    "title_link": "Конкурс - Кто первым найдет все приколы в этом номере газете.",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "Конкурс_-_Кто_первым_наидет_все_приколы_в_этом_номере_газете"
+  },
+  {
+    "article_id": 9808,
+    "article_url": "https://zxpress.ru/article.php?id=9808",
+    "print_url": "https://zxpress.ru/print.php?id=9808",
+    "title_link": "Металлолом - Разберем и соберем компьютер с примочкой.",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Металлолом_-_Разберем_и_соберем_компьютер_с_примочкои"
+  },
+  {
+    "article_id": 9810,
+    "article_url": "https://zxpress.ru/article.php?id=9810",
+    "print_url": "https://zxpress.ru/print.php?id=9810",
+    "title_link": "Поздравляем - Газете NICRON - пол года... Смешинки - 3 анекдота про Макса.",
+    "order": 8,
+    "issue_label": "35",
+    "short_slug": "Поздравляем_-_Газете_NICRON_-_пол_года_Смешинки_-_3_анекдота"
+  },
+  {
+    "article_id": 9806,
+    "article_url": "https://zxpress.ru/article.php?id=9806",
+    "print_url": "https://zxpress.ru/print.php?id=9806",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "35",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9802,
+    "article_url": "https://zxpress.ru/article.php?id=9802",
+    "print_url": "https://zxpress.ru/print.php?id=9802",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 10,
+    "issue_label": "35",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 9807,
+    "article_url": "https://zxpress.ru/article.php?id=9807",
+    "print_url": "https://zxpress.ru/print.php?id=9807",
+    "title_link": "Сплошные приколы - Приключения Буратино.",
+    "order": 11,
+    "issue_label": "35",
+    "short_slug": "Сплошные_приколы_-_Приключения_Буратино"
+  },
+  {
+    "article_id": 9804,
+    "article_url": "https://zxpress.ru/article.php?id=9804",
+    "print_url": "https://zxpress.ru/print.php?id=9804",
+    "title_link": "Чемпионат - Чемпионат вирусов в игре Треснутая пробирка.",
+    "order": 12,
+    "issue_label": "35",
+    "short_slug": "Чемпионат_-_Чемпионат_вирусов_в_игре_Треснутая_пробирка"
+  }
+]

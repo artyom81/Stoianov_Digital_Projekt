@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2003-06-24",
+  "order": 1,
+  "article_id": 9378,
+  "title_link": "News - Из армии вернулся Dissonator/i8",
+  "title_h1": "ACNews 20 - News - Из армии вернулся Dissonator/i8",
+  "print_url": "https://zxpress.ru/print.php?id=9378",
+  "article_url": "https://zxpress.ru/article.php?id=9378",
+  "fetched_at": "2026-05-31T21:30:40Z"
+}

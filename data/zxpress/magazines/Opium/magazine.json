@@ -1,0 +1,16 @@
+{
+  "magazine_name": "Opium",
+  "magazine_url": "https://zxpress.ru/issue.php?id=148",
+  "form": "Пресса",
+  "city_country": null,
+  "years_human": null,
+  "years_iso": {
+    "start": "0000-01-01",
+    "end": "0000-01-01"
+  },
+  "issues_count": 0,
+  "magazine_id": 148,
+  "language": "ru",
+  "rights": "Использование материалов сайта разрешено только при указании обратной ссылки",
+  "source": "ZXPRESS (https://zxpress.ru)"
+}

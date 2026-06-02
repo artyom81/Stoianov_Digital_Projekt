@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16658,
+    "article_url": "https://zxpress.ru/article.php?id=16658",
+    "print_url": "https://zxpress.ru/print.php?id=16658",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16659,
+    "article_url": "https://zxpress.ru/article.php?id=16659",
+    "print_url": "https://zxpress.ru/print.php?id=16659",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16660,
+    "article_url": "https://zxpress.ru/article.php?id=16660",
+    "print_url": "https://zxpress.ru/print.php?id=16660",
+    "title_link": "Юмор - Сириус с рук или второй рассказ про Фиргефихтера.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Юмор_-_Сириус_с_рук_или_второи_рассказ_про_Фиргефихтера"
+  },
+  {
+    "article_id": 16661,
+    "article_url": "https://zxpress.ru/article.php?id=16661",
+    "print_url": "https://zxpress.ru/print.php?id=16661",
+    "title_link": "Юмор - Крах Агента 008 (продолжение).",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Юмор_-_Крах_Агента_008_продолжение"
+  },
+  {
+    "article_id": 16662,
+    "article_url": "https://zxpress.ru/article.php?id=16662",
+    "print_url": "https://zxpress.ru/print.php?id=16662",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16663,
+    "article_url": "https://zxpress.ru/article.php?id=16663",
+    "print_url": "https://zxpress.ru/print.php?id=16663",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

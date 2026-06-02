@@ -1,0 +1,99 @@
+KrNews 08 - INTRO - Создание К. Синклером компьютера ZX-2000.
+_
+
+            May be начало...
+_
+
+          Я посмотрел на небо. Что может
+быть  более  неизменным  в любом
+мире в любое время? Лежать, чув-
+ствовать,  как засасывает, тянет
+бесконечное небо...  Как перево-
+рачивается мир, и вот уже  не ты
+валяешся на спине, расслабленный
+и ленивый  прищуренно вглядываю-
+щийся  в  бездну,  а вся планета
+лежит на твоих плечах, и ты дер-
+жишь ее  над  небом. Последний и
+единственный атлант...
+
+                         "Звездная тень"
+                       Сергей Лукьяненко
+
+
+          "Крепитесь люди - скоро лето!"
+
+
+  Ну вот и еще одна  "зима" закончилась,
+а сколько их еще предстоит...
+  Новый номер - новая радость жизни :)
+
+  Что-бы  вам  такого  поведать  на этот
+раз, даже и не знаю.  Хотя парочку инте-
+рестных моментов  я все ж пожалуй и нас-
+кребу:
+
+ - Фирме  "Zilog"  этом году исполняется
+25 лет со дня своего основания!
+
+ - Сэр Клайв Синклер  недавно  объявил о
+своем  намерении  к  2000  году  создать
+ZX-2000 превосходящий по скорости P-II в
+10 раз !!! Во как!
+
+-
+
+    My new computer will be 10 times
+          faster than a P2!
+
+
+  Clive  reveals  the  ZX2000! (typed by
+Craig Rothwell & (C) Frontiers magazine)
+
+
+  I  want  to  design  another  computer
+because  I think I can make a decent job
+of  it. I've started work on a prototype
+already.  It's  a  competitor  to the PC
+because  the  modern desktop computer is
+about  a  bad  design  as  possible.  It
+really is appalling. It wastes memory on
+an  unbelievable scale and it slows down
+an  extremely  fast  CPU with cumbersome
+Routines  and programs. I think theres a
+huge  room  for  improvement.  I want to
+create   a   computer   that  completely
+portable  but also totally functional so
+there is no compromise. I want something
+that is going to cost 10 times less than
+a  current  notebook  PC and have a huge
+battery  life  so You won't have to keep
+recharging  the  thing.  The trick is to
+get  the  power  consumption so low that
+you  just stick in a couple of batteries
+and  replace  them  a  month later. I've
+been  spending  a lot of time looking at
+display  technology,  because that's one
+element  that  I  haven't  got. I need a
+very  good,  low cost display. I think I
+know how to do it, but it is an terrific
+amount  of technology but I'm working on
+that  very  hard at the moment. In order
+to do the sort of computer I want it has
+got  to  be  very  very  low  power.  We
+designed   our   own   CPU  and  its  an
+extereamly  high performance one, we had
+prototypes  of  it  sometime ago and its
+blindingly  fast,  About 10 times faster
+than   a   P2.   It  would  have  to  be
+manufactured using a specially developed
+semi   conductor   process.   I've  been
+talking to a company in this country and
+were  at a fairly advance stage. It's an
+ultra  RISC  chip,  which  has  an 8-bit
+word,    and   it   has   16   principal
+instructions.  I  don't  want to go into
+too  much  technical detail or bamboozle
+you   with   jargon,   but  this  little
+blighter  Will  be  incredibly  fast and
+very efficient.

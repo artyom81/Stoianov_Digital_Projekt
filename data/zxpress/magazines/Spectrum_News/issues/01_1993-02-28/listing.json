@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13499,
+    "article_url": "https://zxpress.ru/article.php?id=13499",
+    "print_url": "https://zxpress.ru/print.php?id=13499",
+    "title_link": "Демоверсия журнала - вступление, продукция фирмы THD, The Best Russian Hackers, описание космических кораблей игры Elite, лучшие игры про ниндзя, реклама.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Демоверсия_журнала_-_вступление_продукция_фирмы_THD_The_Best"
+  },
+  {
+    "article_id": 12837,
+    "article_url": "https://zxpress.ru/article.php?id=12837",
+    "print_url": "https://zxpress.ru/print.php?id=12837",
+    "title_link": "Edit off - до новых встреч на страницах\r\n ДнепроБайта!",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Edit_off_-_до_новых_встреч_на_страницах_ДнепроБаита"
+  },
+  {
+    "article_id": 4035,
+    "article_url": "https://zxpress.ru/article.php?id=4035",
+    "print_url": "https://zxpress.ru/print.php?id=4035",
+    "title_link": "От авторов - о внеочередном номере ZX-Format'a.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_о_внеочередном_номере_ZX-Formata"
+  },
+  {
+    "article_id": 9640,
+    "article_url": "https://zxpress.ru/article.php?id=9640",
+    "print_url": "https://zxpress.ru/print.php?id=9640",
+    "title_link": "Музыкальная страничка - песня \"Черные птицы\" - Наутилус Пампилиус.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Музыкальная_страничка_-_песня_Черные_птицы_-_Наутилус_Пампил"
+  },
+  {
+    "article_id": 396,
+    "article_url": "https://zxpress.ru/article.php?id=396",
+    "print_url": "https://zxpress.ru/print.php?id=396",
+    "title_link": "Software - Описание программ: Amazing screen optimizer.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Software_-_Описание_программ_Amazing_screen_optimizer"
+  },
+  {
+    "article_id": 9631,
+    "article_url": "https://zxpress.ru/article.php?id=9631",
+    "print_url": "https://zxpress.ru/print.php?id=9631",
+    "title_link": "Ценник - Розничные цены на сигареты в городе Армавире.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Ценник_-_Розничные_цены_на_сигареты_в_городе_Армавире"
+  }
+]

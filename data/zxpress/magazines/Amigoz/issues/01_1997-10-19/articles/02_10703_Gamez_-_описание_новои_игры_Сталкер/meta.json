@@ -1,0 +1,15 @@
+{
+  "magazine_id": 15,
+  "magazine_name": "Amigoz",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-10-19",
+  "order": 2,
+  "article_id": 10703,
+  "title_link": "Gamez - описание новой игры Сталкер.",
+  "title_h1": "Amigoz 01 - Gamez - описание новой игры Сталкер.",
+  "print_url": "https://zxpress.ru/print.php?id=10703",
+  "article_url": "https://zxpress.ru/article.php?id=10703",
+  "fetched_at": "2026-05-31T21:37:07Z"
+}

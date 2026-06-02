@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 40,
+    "article_url": "https://zxpress.ru/article.php?id=40",
+    "print_url": "https://zxpress.ru/print.php?id=40",
+    "title_link": "B.B.S. Новости - Открылась новая станция SHADOW BBS.",
+    "order": 1,
+    "issue_label": "73",
+    "short_slug": "BBS_Новости_-_Открылась_новая_станция_SHADOW_BBS"
+  },
+  {
+    "article_id": 2455,
+    "article_url": "https://zxpress.ru/article.php?id=2455",
+    "print_url": "https://zxpress.ru/print.php?id=2455",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "73",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2453,
+    "article_url": "https://zxpress.ru/article.php?id=2453",
+    "print_url": "https://zxpress.ru/print.php?id=2453",
+    "title_link": "Мозаика - Вопросы к фирме \"Perestroika Software\" по демо-версии игры \"DUNE-2\".",
+    "order": 3,
+    "issue_label": "73",
+    "short_slug": "Мозаика_-_Вопросы_к_фирме_Perestroika_Software_по_демо-верси"
+  },
+  {
+    "article_id": 2454,
+    "article_url": "https://zxpress.ru/article.php?id=2454",
+    "print_url": "https://zxpress.ru/print.php?id=2454",
+    "title_link": "Мозаика - Комментари к журналу \"Оберон 2\". \"Страна Мифов\" для 128 ?! О развитии \"ZX-Winword v1.3\".",
+    "order": 4,
+    "issue_label": "73",
+    "short_slug": "Мозаика_-_Комментари_к_журналу_Оберон_2_Страна_Мифов_для_128"
+  },
+  {
+    "article_id": 2452,
+    "article_url": "https://zxpress.ru/article.php?id=2452",
+    "print_url": "https://zxpress.ru/print.php?id=2452",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "73",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

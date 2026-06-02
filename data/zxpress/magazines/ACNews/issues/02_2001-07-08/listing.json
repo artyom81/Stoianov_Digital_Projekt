@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9265,
+    "article_url": "https://zxpress.ru/article.php?id=9265",
+    "print_url": "https://zxpress.ru/print.php?id=9265",
+    "title_link": "Новости - группа Anarchia переживает свои худшие времена.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Новости_-_группа_Anarchia_переживает_свои_худшие_времена"
+  },
+  {
+    "article_id": 9266,
+    "article_url": "https://zxpress.ru/article.php?id=9266",
+    "print_url": "https://zxpress.ru/print.php?id=9266",
+    "title_link": "Эмуляторы - Укрощение эмулятора ZX Spectrum.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Эмуляторы_-_Укрощение_эмулятора_ZX_Spectrum"
+  },
+  {
+    "article_id": 9267,
+    "article_url": "https://zxpress.ru/article.php?id=9267",
+    "print_url": "https://zxpress.ru/print.php?id=9267",
+    "title_link": "Программирование - О командных строках TR-DOS.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Программирование_-_О_командных_строках_TR-DOS"
+  },
+  {
+    "article_id": 9268,
+    "article_url": "https://zxpress.ru/article.php?id=9268",
+    "print_url": "https://zxpress.ru/print.php?id=9268",
+    "title_link": "Приветы - Просьба передать сие послание адресатам, если это возможно...",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Приветы_-_Просьба_передать_сие_послание_адресатам_если_это_в"
+  }
+]

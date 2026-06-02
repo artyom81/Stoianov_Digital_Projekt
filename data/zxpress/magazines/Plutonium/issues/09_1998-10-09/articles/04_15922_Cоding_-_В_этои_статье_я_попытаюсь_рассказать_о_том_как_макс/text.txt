@@ -1,0 +1,515 @@
+Plutonium 09 - Cоding - В этой статье я попытаюсь рассказать, о том как максимально быстро обсчитать трехмерное пространство. Печать точек. Построение линии. Умножение/деление. SIN (x), COS (x). Поворот осей x,y,z.
+╔═══════════════════════════════════════╗ 
+|
+Coding...
+| 
+╚═══════════════════════════════════════╝
+Emloyer/Alliance
+2:5O8O/141.16
+Dmitry Krylov
+subj: то Employer
+Вступление
+----------
+На сегодня создано достаточно программ,  
+а в частности демух, с использованием     
+3D renderinga в реальном времени. В этой  
+статье я попытаюсь рассказать, о том
+как максимально (!?) быстро обсчитать     
+трехмерное пространство. Я буду считать,  
+что вы знаете как представляется в прос-  
+транстве 3D обьекты, линии, грани, точки  
+и т.д. Расскажу лишь о том как быстро     
+выполнить эти расчеты с примерами на ас-  
+семблере.
+Для начала несколько процедур на Asme:
+Печать точек
+------------
+Для построения точки нужна процедура
+преобразования координат в адресс экрана  
+Процедура ИНФОРКОМ'а слишком медленна.    
+Для работы моей процедуры требуется 1кб   
+памяти. Еще замечу что процедура          
+ИНФОРКОМ'а сьедает xxx тактов, а моя      
+76-8O тактов. Здесь представлены 2(две)   
+процедуры (76,8O тактов).                 
+Для процедуры в 8O тактов в регистре В,C
+должны быть заданы X,Y координаты, а      
+для 76 тактов в C,L.                      
+ Инсталлятор у обеих процедур одинаковый  
+поэтому, сначала идет он, а потом, PLOT.  
+                                          
+: Install                                 
+INST                                      
+        LD      HL,#62OO: Адрес таблицы   
+        LD      В,4                       
+LO1I    PUSH    ВС                        
+        XOR     A                         
+        LD      В,8                       
+LO2I    PUSH    ВС                        
+        LD      В,8                       
+LOЗI    LD      (HL),A                    
+        INC     HL                        
+        DJNZ    LOЗI                      
+        ADD     A,#2O                     
+        POP     ВС                        
+        DJNZ    LO2I
+POP     ВС                        
+        DJNZ    LO1I                      
+        LD      A,#4O  : Адресс сегмента  
+        LD      В,3    : для печати       
+LOЧI    PUSH    ВС                        
+        LD      В,8                       
+LOSI    PUSH    ВС,AF                     
+        LD      В,8                       
+LOбI    LD      (HL),A                    
+        INC     HL                        
+        INC     A                         
+        DJNZ    LOбI                      
+        POP     AF,ВС                     
+        DJNZ    LOSI                      
+        ADD     A,8                       
+        POP     ВС                        
+        DJNZ    LOЧI                      
+        LD      D,H                       
+        LD      E,L                       
+        INC     DE
+LD      ВС,63                     
+        XOR     A                         
+        LD      (HL),A                    
+        LDIR                              
+        INC     HL                        
+        LD      В,#2O                     
+LO7I    PUSH    ВС                        
+        LD      В,8                       
+LO8I    LD      (HL),A                    
+        INC     HL                        
+        DJNZ    LO8I                      
+        INC     A                         
+        POP     ВС                        
+        DJNZ    LO7I                      
+        LD      A,#8O                     
+        LD      В,#2O                     
+LO9I    PUSH    ВС,AF                     
+        LD      В,8                       
+LOAI    LD      (HL),A                    
+        SRL     A
+INC     HL                        
+        DJNZ    LOAI                      
+        POP     AF,ВС                     
+        DJNZ    LO9I                      
+        RET                               
+                                          
+: FAST PLOT 8O takts                      
+        LD      ВС,#OOOO                  
+        CALL    PLOT                      
+        RET                               
+PLOT    LD      H,#62:  7                 
+        LD      L,В:    4                 
+        LD      A,(HL): 7                 
+        INC     H:      4                 
+        LD      D,(HL): 7                 
+        INC     H:      4                 
+        LD      L,C:    4                 
+        ADD     A,(HL): 7                 
+        LD      E,A:    4                 
+        INC     H:      4
+LD      A,(DE): 7                 
+        OR      (HL):   7                 
+        LD      (DE),A: 7                 
+        RET                               
+                                          
+: FAST PLOT 76 takts                      
+        LD      C,O:
+OR      (HL):   7                 
+        LD      (DE),A: 7                 
+        RET
+Построение линии
+----------------               
+ bc x1y1                                  
+ de x2y2                                  
+                                          
+                                          
+LINE    LD      A,H                       
+        SUB     D                         
+        JR      NC,LINE1                  
+        EX      DE,HL                     
+        NEG                               
+LINE1   LD      H,A                       
+        LD      A,L                       
+        SUB     E                         
+        JR      NC,LINER                  
+        NEG
+СР      H                         
+        LD      L,A                       
+        JR      C,LINELU                  
+        PUSH    HL                        
+        CALL    GET_ADR                   
+        POP     DE                        
+        LD      В,E                       
+        LD      A,E                       
+        INC     D                         
+        INC     В                         
+        EX      AF,AF                     
+LINELD1 LD      A,(HL)                    
+        OR      C                         
+        LD      (HL),A                    
+        RLC     C                         
+        JP      NC,LINELD2                
+        DEC     L                         
+LINELD2 EX      AF,AF                     
+        SUB     D                         
+        JR      NC,LINELDЧ
+ADD     A,E                       
+        EX      AF,AF                     
+        LD      A,H                       
+        DEC     H                         
+        AND     7                         
+        JP      NZ,LINELDЗ                
+        LD      A,L                       
+        SUB     #2O                       
+        LD      L,A                       
+        JR      C,LINELDЗ                 
+        LD      A,H                       
+        ADD     A,8                       
+        LD      H,A                       
+LINELDЗ DJNZ    LINELD1                   
+        RET                               
+LINELDЧ EX      AF,AF                     
+        DJNZ    LINELD1                   
+        RET                               
+LINELU  PUSH    HL                        
+        CALL    GET_ADR
+POP     DE                        
+        LD      В,D                       
+        LD      A,D                       
+        INC     E                         
+        INC     В                         
+        EX      AF,AF                     
+LINELU1 LD      A,(HL)                    
+        OR      C                         
+        LD      (HL),A                    
+        LD      A,H                       
+        DEC     H                         
+        AND     7                         
+        JP      NZ,LINELU2                
+        LD      A,L                       
+        SUB     #2O                       
+        LD      L,A                       
+        JR      C,LINELU2                 
+        LD      A,H                       
+        ADD     A,8                       
+        LD      H,A
+LINELU2 EX      AF,AF                     
+        SUB     E                         
+        JR      NC,LINELUЗ                
+        ADD     A,D                       
+        RLC     C                         
+        JP      NC,LINELUЗ                
+        DEC     L                         
+LINELUЗ EX      AF,AF                     
+        DJNZ    LINELU1                   
+        RET                               
+LINER   СР      H                         
+        LD      L,A                       
+        JR      C,LINERU                  
+        PUSH    HL                        
+        CALL    GET_ADR                   
+        POP     DE                        
+        LD      В,E                       
+        LD      A,E                       
+        INC     D                         
+        INC     В
+EX      AF,AF                     
+LINERD1 LD      A,(HL)                    
+        OR      C                         
+        LD      (HL),A                    
+        RRC     C                         
+        JP      NC,LINERD2                
+        INC     L                         
+LINERD2 EX      AF,AF                     
+        SUB     D                         
+        JR      NC,LINERDЧ                
+        ADD     A,E                       
+        EX      AF,AF                     
+        LD      A,H                       
+        DEC     H                         
+        AND     7                         
+        JP      NZ,LINERDЗ                
+        LD      A,L                       
+        SUB     #2O                       
+        LD      L,A                       
+        JR      C,LINERDЗ
+LD      A,H                       
+        ADD     A,8                       
+        LD      H,A                       
+LINERDЗ DJNZ    LINERD1                   
+        RET                               
+LINERDЧ EX      AF,AF                     
+        DJNZ    LINERD1                   
+        RET                               
+LINERU  PUSH    HL                        
+        CALL    GET_ADR                   
+        POP     DE                        
+        LD      В,D                       
+        LD      A,D                       
+        INC     E                         
+        INC     В                         
+        EX      AF,AF                     
+LINERU1 LD      A,(HL)                    
+        OR      C                         
+        LD      (HL),A                    
+        LD      A,H
+DEC     H                         
+        AND     7                         
+        JP      NZ,LINERU2                
+        LD      A,L                       
+        SUB     #2O                       
+        LD      L,A                       
+        JR      C,LINERU2                 
+        LD      A,H                       
+        ADD     A,8                       
+        LD      H,A                       
+LINERU2 EX      AF,AF                     
+        SUB     E                         
+        JR      NC,LINERUЗ                
+        ADD     A,D                       
+        RRC     C                         
+        JP      NC,LINERUЗ                
+        INC     L                         
+LINERUЗ EX      AF,AF                     
+        DJNZ    LINERU1                   
+        RET
+GET_ADR LD      A,#BF                     
+        SUB     D                         
+        LD      D,A                       
+        SRL     A                         
+        SCF                               
+        RRA                               
+        SRL     A                         
+        XOR     D                         
+        AND     #F8                       
+        XOR     D                         
+        LD      H,A                       
+        LD      A,E                       
+        RLCA                              
+        RLCA                              
+        RLCA                              
+        XOR     D                         
+        AND     #C7                       
+        XOR     D                         
+        RLCA                              
+        RLCA
+LD      L,A                       
+        LD      A,E                       
+        AND     7                         
+        INC     A                         
+        LD      C,В                       
+        LD      В,A                       
+        LD      A,1                       
+GETADR1 RRCA                              
+        DJNZ    GETADR1                   
+        LD      В,C                       
+        LD      C,A                       
+        RET
+Умножение/деление
+-----------------              
+ Умножать прийдется на каждом шагу т.к.   
+3D графика это, как известно, сплошная    
+матемтика.
+В регистрах A,В множители                 
+Результат получите в регистре A/HL        
+                                          
+MUL_АВ  PUSH    DE,HL                     
+        LD      C,A                       
+        LD      A,127                     
+        СР      C                         
+        JR      NC,N2                     
+        СР      В                         
+        JR      NC,N21                    
+        PUSH    ВС                        
+        LD      A,В                       
+        NEG                               
+        LD      В,A                       
+        LD      A,C                       
+        NEG                               
+        CALL    MUL                       
+        POP     ВС                        
+        ADD     HL,HL                     
+        LD      A,H
+JP      OK                        
+N21     LD      A,C                       
+        NEG                               
+        CALL    MUL                       
+        ADD     HL,HL                     
+        XOR     A                         
+        SUB     L                         
+        LD      L,A                       
+        LD      A,O                       
+        SBC     A,H                       
+        LD      H,A                       
+        JP      OK                        
+N2      СР      В                         
+        JR      NC,N22                    
+        PUSH    ВС                        
+        LD      A,В                       
+        NEG                               
+        LD      В,A                       
+        LD      A,C                       
+        CALL    MUL
+POP     ВС                        
+        ADD     HL,HL                     
+        XOR     A                         
+        SUB     L                         
+        LD      L,A                       
+        LD      A,O                       
+        SBC     A,H                       
+        LD      H,A                       
+        JP      OK                        
+N22     LD      A,C                       
+        CALL    MUL                       
+        ADD     HL,HL                     
+        LD      A,H                       
+OK      POP     HL,DE                     
+        RET                               
+MUL     LD      D,O                       
+        LD      E,В                       
+        LD      HL,O                      
+        RLA                               
+        JP      NC,М1
+ADD     HL,DE                     
+М1      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М2                     
+        ADD     HL,DE                     
+М2      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М3                     
+        ADD     HL,DE                     
+М3      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М4                     
+        ADD     HL,DE                     
+М4      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М5                     
+        ADD     HL,DE                     
+М5      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М6
+ADD     HL,DE                     
+М6      ADD     HL,HL                     
+        RLA                               
+        JP      NC,М7                     
+        ADD     HL,DE                     
+М7      ADD     HL,HL                     
+        RLA                               
+        RET     NC                        
+        ADD     HL,DE                     
+        RET                               
+                                          
+ Эта программка работает давольно быстро  
+т.к. написал ее не кто-нибудь а сам       
+Сергей Ковинов, но все-же можно еще       
+быстрее. А более быстром способе я рас-   
+скажу позже.                              
+Кстати о делении:                         
+Как утверждает автор этой процедуры она   
+способна только умножать, но я заметил    
+одну особенность. Если умножать коорди-
+нату на числа от 128 до 255, то они       
+будут делится на числа от 1 до 127        
+ При помощи этого например можно масшта-  
+бировать 3D обьект.
+SIN (x), COS (x)
+----------------               
+ Т.к. SPECCY не имеет математического     
+сопроцессора эти функции реализовать      
+можно только програмно т.е. на Asm'e      
+А реализовать это можно тремя способами.  
+ 1. разложение функций в ряд Фурье.       
+ 2. использовать встроенный калькулятор.  
+ 3. заранее расчитать таблицу.            
+1ый способ приведет к фатальному тор-     
+можению сравнимому с BASIC'ом.            
+2ой способ быстродействия не прибавит     
+т.к. встроенный калькулятор тоже раскла-  
+дывает эти функции в ряд Фурье.           
+ Кстати BASIC активно использует этот
+самый калькулятор.                        
+Последний метод предпочтительнее т.к.     
+считать SIN и COS вам и не прийдется.     
+На все углы уже готовы значения.          
+Т.к. значения SIN и COS лежат в диапозо-  
+не от O до 1 их прийдется умножить на     
+необходимую вам амплитуду.                
+ Даю прогу для расчета таблицы при помо-  
+щи встроенного калькулятора. Ее доста-    
+точно вызвать 1 раз в начале программы,а  
+потом пользоваться полученной таблицей.   
+ Программа вытащина из 3D_LAME4k (лично   
+я всегда грузил готовую таблицу,но 4к..)  
+                                          
+        LD      HL,#61OO: Адресс где по-  
+DESIN1  PUSH    HL      : строится таб-   
+        LD      A,255   :  лица           
+        CALL    1156O                     
+        LD      A,128                     
+        CALL    1156O
+POP     HL                        
+        PUSH    HL                        
+        LD      A,L                       
+        CALL    1156O                     
+        RST     #28: Вызов калькулятора   
+        DEFB    #A3,4,1,5,#1F,4,#38       
+        CALL    898O:^^^^^^^^^^^^^^       
+        POP     HL  : Коды калькулятора.  
+        LD      (HL),A                    
+        INC     L                         
+        JP      Р,DESIN1                  
+        LD      D,H                       
+        LD      E,L                       
+SNS     DEC     HL                        
+        LD      A,(HL)                    
+        LD      (DE),A                    
+        INC     E                         
+        JR      NZ,SNS                    
+        RET                               
+Внимание!
+построится таблица в 256 углов, а не 36O  
+Для повышения быстродействия и для удоб-  
+ства специально берется 256, не 36O.      
+                                          
+Сам расчет ведется так:                   
+                                          
+LD H,#61:  Допустим здесь таблица         
+LD L,N  :  N-Угол                         
+LD A,(HL): Берем значение синуса          
+                                          
+ Для косинуса таблица не нужна т.к. это   
+сдвинутый синус на 96 градусов. Просто    
+прибавте к углу #6O и все будет OK.
+Поворот осей x,y,z
+------------------               
+                                          
+Напомню формулы Эйлера для тех кто забыл
+вокруг оси x:                             
+x'= x                                     
+y'= y*cos(fi) - z*sin(fi)                 
+z'= y*sin(fi) + z*cos(fi)                 
+                                          
+вокруг оси y:                             
+x'= x*cos(fi) + z*sin(fi)                 
+y'= y                                     
+z'=-x*sin(fi) + z*cos(fi)                 
+                                          
+вокруг оси z:                             
+x'= x*cos(fi) - y*sin(fi)                 
+y'= x*sin(fi) + y*cos(fi)                 
+z'= z                                     
+                                          
+fi - угол                                 
+                                          
+Если вы не собираетесь обсчитывать        
+перспективную проекцию, то расчет z' мо-  
+жете смело отбрасывать.
+Ну теперь вроде все... :)

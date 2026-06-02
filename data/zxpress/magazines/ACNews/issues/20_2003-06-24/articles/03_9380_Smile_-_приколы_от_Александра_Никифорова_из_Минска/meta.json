@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2003-06-24",
+  "order": 3,
+  "article_id": 9380,
+  "title_link": "Smile - приколы от Александра Никифорова из Минска.",
+  "title_h1": "ACNews 20 - Smile - приколы от Александра Никифорова из Минска.",
+  "print_url": "https://zxpress.ru/print.php?id=9380",
+  "article_url": "https://zxpress.ru/article.php?id=9380",
+  "fetched_at": "2026-05-31T21:30:40Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 53,
+    "article_url": "https://zxpress.ru/article.php?id=53",
+    "print_url": "https://zxpress.ru/print.php?id=53",
+    "title_link": "B.B.S.Hовости - Новая станция - WHITE BBS.",
+    "order": 1,
+    "issue_label": "79",
+    "short_slug": "BBSHовости_-_Новая_станция_-_WHITE_BBS"
+  },
+  {
+    "article_id": 2478,
+    "article_url": "https://zxpress.ru/article.php?id=2478",
+    "print_url": "https://zxpress.ru/print.php?id=2478",
+    "title_link": "Железо - Дополнительный графический режим 512x192.",
+    "order": 2,
+    "issue_label": "79",
+    "short_slug": "Железо_-_Дополнительныи_графическии_режим_512x192"
+  },
+  {
+    "article_id": 2477,
+    "article_url": "https://zxpress.ru/article.php?id=2477",
+    "print_url": "https://zxpress.ru/print.php?id=2477",
+    "title_link": "На правах рекламы - Прайс лист на продукцию фирмы \"СКОРПИОН\".",
+    "order": 3,
+    "issue_label": "79",
+    "short_slug": "На_правах_рекламы_-_Праис_лист_на_продукцию_фирмы_СКОРПИОН"
+  },
+  {
+    "article_id": 2476,
+    "article_url": "https://zxpress.ru/article.php?id=2476",
+    "print_url": "https://zxpress.ru/print.php?id=2476",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "79",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2479,
+    "article_url": "https://zxpress.ru/article.php?id=2479",
+    "print_url": "https://zxpress.ru/print.php?id=2479",
+    "title_link": "Чемпионат VIRUS-2 - Итоги чемпионата,в котором принимали участие 14 вирусов.",
+    "order": 5,
+    "issue_label": "79",
+    "short_slug": "Чемпионат_VIRUS-2_-_Итоги_чемпионатав_котором_принимали_учас"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-12-31",
+  "order": 6,
+  "article_id": 501,
+  "title_link": "Объявления - Реклама и объявления.",
+  "title_h1": "Adventurer 01 - Объявления - Реклама и объявления.",
+  "print_url": "https://zxpress.ru/print.php?id=501",
+  "article_url": "https://zxpress.ru/article.php?id=501",
+  "fetched_at": "2026-05-31T21:32:20Z"
+}

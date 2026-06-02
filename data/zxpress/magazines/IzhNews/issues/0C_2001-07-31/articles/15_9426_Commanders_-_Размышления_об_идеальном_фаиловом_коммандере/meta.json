@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "0C",
+  "issue_date_iso": "2001-07-31",
+  "order": 15,
+  "article_id": 9426,
+  "title_link": "Commanders - Размышления об идеальном файловом коммандере.",
+  "title_h1": "IzhNews 0C - Commanders - Размышления об идеальном файловом коммандере.",
+  "print_url": "https://zxpress.ru/print.php?id=9426",
+  "article_url": "https://zxpress.ru/article.php?id=9426",
+  "fetched_at": "2026-05-31T22:16:04Z"
+}

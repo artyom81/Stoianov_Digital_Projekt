@@ -1,0 +1,15 @@
+{
+  "magazine_id": 244,
+  "magazine_name": "X-Files",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-03-31",
+  "order": 2,
+  "article_id": 9761,
+  "title_link": "Программирование - Эффект \"Летающий спрайт\".",
+  "title_h1": "X-Files 02 - Программирование - Эффект \"Летающий спрайт\".",
+  "print_url": "https://zxpress.ru/print.php?id=9761",
+  "article_url": "https://zxpress.ru/article.php?id=9761",
+  "fetched_at": "2026-05-31T23:18:09Z"
+}

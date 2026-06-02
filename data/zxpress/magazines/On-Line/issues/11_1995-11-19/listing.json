@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 10,
+    "article_url": "https://zxpress.ru/article.php?id=10",
+    "print_url": "https://zxpress.ru/print.php?id=10",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Chip-BBS.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Chip-BBS"
+  },
+  {
+    "article_id": 1969,
+    "article_url": "https://zxpress.ru/article.php?id=1969",
+    "print_url": "https://zxpress.ru/print.php?id=1969",
+    "title_link": "Scorpion Club - Схема дороботки AY на Scorpion ZS.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Scorpion_Club_-_Схема_дороботки_AY_на_Scorpion_ZS"
+  },
+  {
+    "article_id": 1965,
+    "article_url": "https://zxpress.ru/article.php?id=1965",
+    "print_url": "https://zxpress.ru/print.php?id=1965",
+    "title_link": "TOP 20 - Лучшая 20 игр на радиорынке Царицыно.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "TOP_20_-_Лучшая_20_игр_на_радиорынке_Царицыно"
+  },
+  {
+    "article_id": 1968,
+    "article_url": "https://zxpress.ru/article.php?id=1968",
+    "print_url": "https://zxpress.ru/print.php?id=1968",
+    "title_link": "WANTED !!! - Разыскивается ...",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "WANTED_-_Разыскивается"
+  },
+  {
+    "article_id": 1967,
+    "article_url": "https://zxpress.ru/article.php?id=1967",
+    "print_url": "https://zxpress.ru/print.php?id=1967",
+    "title_link": "Застрял ? - Описание игры \"TAI-PAN\".",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Застрял_-_Описание_игры_TAI-PAN"
+  },
+  {
+    "article_id": 1970,
+    "article_url": "https://zxpress.ru/article.php?id=1970",
+    "print_url": "https://zxpress.ru/print.php?id=1970",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1966,
+    "article_url": "https://zxpress.ru/article.php?id=1966",
+    "print_url": "https://zxpress.ru/print.php?id=1966",
+    "title_link": "Страничка СисОпа - Об Alex-BBS , принцип которой \"BBS - для пользователя , а\r\n не для СисОпа\".",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "Страничка_СисОпа_-_Об_Alex-BBS_принцип_которои_BBS_-_для_пол"
+  }
+]

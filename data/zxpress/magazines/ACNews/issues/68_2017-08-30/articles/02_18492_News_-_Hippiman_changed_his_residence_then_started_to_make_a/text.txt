@@ -1,0 +1,118 @@
+ACNews 68 - News - Hippiman changed his residence, then started to make a game, John Silver bought studio speakers, first ATM 8.00 board was finally
+News
+by Alone Coder
+Changes in NedoLang system:
+- It now supports
+directories. Instead of some 200 files in one
+directory, each of the projects now has a separate directory,
+and there is a common
+../_sdk/ directory. Slashes like / are
+used in parameters.
+- Several
+bugfixes: in compiler, libs, nedotrd, and nedores
+(thanks to
+Hippiman ).
+-
+Source file is shown in compiler error messages (in assembler
+errors, there are still problems because of lack of memory).
+- New functions in
+io.h:
+fread(PBYTE buf, UINT size, UINT n, PBYTE file);
+loadfile(PCHAR filename, PBYTE addr);
+findlastslash(PCHAR s) (skip path);
+readsectors/writesectors(PBYTE buf, UINT trsec, BYTE count).
+There was also
+comparedesc(PCHAR filename, PBYTE desc) (compare
+TR-DOS descriptor against the filename) but commented because of
+extra size.
+- Native
+batch processor that runs executables with given
+parameters. I corrected the batch files so that they can run on
+both Windows and Speccy. Batch processor resides in OxfaOO and
+gives away parameter strings pointed by CH_ADD=23645. So I don't
+need sophisticated basic loaders for testing any more.
+- Sound FX library
+ayfxplay.h from Ball Quest and Evo SDK was
+integrated.
+-
+128K runtime library added:
+runtime.h. Provides ports Oxfe,
+0x7ffd, various interrupt setters, and interrupt handler (with
+separate stack and top of stack restore with DE, two user
+callbacks - one before the music, another after it).
+- New library
+print.h. It includes setxy, prchar, nprintf (a
+kind of printf supporting %s, %c, %d, %x, %%). It types on
+screen (only the upper third is free for utilities now because
+there are up to 8 open files).
+- New
+native utilities: diff (compare two files and show
+differences on screen), nedodel (delete a file), movedisk
+(remove deleted files from TRD), and non-native (yet) utility
+nedopad (cut or pad a file to a given size). 
+- So the testing of NedoLang is automatic now! Each of the parts
+(compiler, tokenizer, assembler) fits in one TRD and doesn't
+require a RAM-disk.
+
+Then I made two versions of str:
+str.i vs. str.c (for ARM Thumb
+compatibility), and two versions of io:
+iofast.i vs. io.i + io.c
+(to make possible to use a TRD RAM-disk for ARM Thumb target).
+ARM Thumb target was added in compiler, tokenizer, and 
+assembler. Compiler for ARM Thumb already works! Initially I
+tested it through Keil assembler and Phyton debugger ( Phyton
+assembler is incompatible) - Z80 tokenizer compiled for ARM
+Thumb produces right result on RAM-disk. Then I made tokenizer 
+and assembler process the same assembly source and generate the
+same output as Keil assembler. Function addressing bias on Thumb
+was a pain: pointers to functions must be odd, and pointers to
+data must be even! Finally I dropped Keil assembler
+compatibility to make everything easier.
+
+Some of ARM Thumb commands are not used in the compiler, so I
+can't test them. Any help?
+
+Download the release candidate from
+http://alonecoder.nedopc.com/zx/
+Only native IDE is missing yet. By the way, have anyone seen the
+sources of C Warp?
+
+                             * * *
+
+Hippiman changed his residence, then started to make a game
+engine atop of NedoLang. Time came to publish his article about
+linking modules in NedoLang's competitor Evo SDK :) NedoLang has
+EXPORT feature for this.
+Louisa draws a 3D model of our future home. We recently measured
+the flat.
+
+John Silver bought studio speakers. They reproduce every click
+in music :) I was shocked to see how noisy were original Beatles
+recordings and many more...
+
+Savelij13 with the help of
+DimkaM finished a new version of
+TR-DOS for ZX Evo that allows running sophisticated loaders. 
+
+TDD/MSD from Ufa reappeared after many years and produced an
+unofficial fix in ZX Evo powering schematics. His groupee
+SAVC
+wrote a couple of open-source Speccy utilities: view_keys and
+font-convert-ed (see them here - long time no supplement in the 
+newspaper :)), but soon vanished.
+
+As I guess, the first ATM 8.00 board was finally assembled by
+Zorel and will be sent to
+Maksagor. This is the first
+incarnation of ATMЗ on small-scale integration chips.
+
+I forgot to mention something in the previous issue. Hungarian
+hackers ported
+Wolfenstein 2004 to Enterprise 128 - very close
+conversion. Even the music was converted. They made that for
+some Enterprise compo but haven't contacted me in any way >:(
+
+A number of demoparties happened, so it would be interesting to
+read some sceners' thoughts about demoparties from old logs (see
+the next article).

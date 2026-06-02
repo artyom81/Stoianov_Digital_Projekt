@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 9772,
+    "article_url": "https://zxpress.ru/article.php?id=9772",
+    "print_url": "https://zxpress.ru/print.php?id=9772",
+    "title_link": "ZXNet - cписок работающих BBS.",
+    "order": 1,
+    "issue_label": "46",
+    "short_slug": "ZXNet_-_cписок_работающих_BBS"
+  },
+  {
+    "article_id": 243,
+    "article_url": "https://zxpress.ru/article.php?id=243",
+    "print_url": "https://zxpress.ru/print.php?id=243",
+    "title_link": "Вступление - в реанимации все тихо.",
+    "order": 2,
+    "issue_label": "46",
+    "short_slug": "Вступление_-_в_реанимации_все_тихо"
+  },
+  {
+    "article_id": 9773,
+    "article_url": "https://zxpress.ru/article.php?id=9773",
+    "print_url": "https://zxpress.ru/print.php?id=9773",
+    "title_link": "Интерактивные новости - Intel планирует атаку на игровой рынок.",
+    "order": 3,
+    "issue_label": "46",
+    "short_slug": "Интерактивные_новости_-_Intel_планирует_атаку_на_игровои_рын"
+  },
+  {
+    "article_id": 244,
+    "article_url": "https://zxpress.ru/article.php?id=244",
+    "print_url": "https://zxpress.ru/print.php?id=244",
+    "title_link": "Интервью - интервью со Spider.",
+    "order": 4,
+    "issue_label": "46",
+    "short_slug": "Интервью_-_интервью_со_Spider"
+  },
+  {
+    "article_id": 9774,
+    "article_url": "https://zxpress.ru/article.php?id=9774",
+    "print_url": "https://zxpress.ru/print.php?id=9774",
+    "title_link": "Реклама - бесплатная реклама и обтявления.",
+    "order": 5,
+    "issue_label": "46",
+    "short_slug": "Реклама_-_бесплатная_реклама_и_обтявления"
+  },
+  {
+    "article_id": 245,
+    "article_url": "https://zxpress.ru/article.php?id=245",
+    "print_url": "https://zxpress.ru/print.php?id=245",
+    "title_link": "Такое пресниться - не забудь перекреститься!",
+    "order": 6,
+    "issue_label": "46",
+    "short_slug": "Такое_пресниться_-_не_забудь_перекреститься"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "article_id": 8301,
+    "article_url": "https://zxpress.ru/article.php?id=8301",
+    "print_url": "https://zxpress.ru/print.php?id=8301",
+    "title_link": "INTRO - Создание К. Синклером компьютера ZX-2000.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "INTRO_-_Создание_К_Синклером_компьютера_ZX-2000"
+  },
+  {
+    "article_id": 8302,
+    "article_url": "https://zxpress.ru/article.php?id=8302",
+    "print_url": "https://zxpress.ru/print.php?id=8302",
+    "title_link": "INTRO - Прикол в WINDOWS'95.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "INTRO_-_Прикол_в_WINDOWS95"
+  },
+  {
+    "article_id": 8286,
+    "article_url": "https://zxpress.ru/article.php?id=8286",
+    "print_url": "https://zxpress.ru/print.php?id=8286",
+    "title_link": "AMIGA - Платформы... Я приобрел A1200 !!! Первые впечатления.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "AMIGA_-_Платформы_Я_приобрел_A1200_Первые_впечатления"
+  },
+  {
+    "article_id": 8287,
+    "article_url": "https://zxpress.ru/article.php?id=8287",
+    "print_url": "https://zxpress.ru/print.php?id=8287",
+    "title_link": "AY-VS/M - Как различать сопроцессоры AY и YM.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "AY-VSM_-_Как_различать_сопроцессоры_AY_и_YM"
+  },
+  {
+    "article_id": 8288,
+    "article_url": "https://zxpress.ru/article.php?id=8288",
+    "print_url": "https://zxpress.ru/print.php?id=8288",
+    "title_link": "AY-VS/M - Выходная часть подключения AY 3-8910 или YM2149F к АТМ-TURBO2.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "AY-VSM_-_Выходная_часть_подключения_AY_3-8910_или_YM2149F_к"
+  },
+  {
+    "article_id": 8289,
+    "article_url": "https://zxpress.ru/article.php?id=8289",
+    "print_url": "https://zxpress.ru/print.php?id=8289",
+    "title_link": "Мозаика - Телефонный ретранслятор: поток сознания спектрумистов.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Мозаика_-_Телефонныи_ретранслятор_поток_сознания_спектрумист"
+  },
+  {
+    "article_id": 8285,
+    "article_url": "https://zxpress.ru/article.php?id=8285",
+    "print_url": "https://zxpress.ru/print.php?id=8285",
+    "title_link": "FREAKS - как звонить бесплатно по межгороду через модем.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "FREAKS_-_как_звонить_бесплатно_по_межгороду_через_модем"
+  },
+  {
+    "article_id": 8291,
+    "article_url": "https://zxpress.ru/article.php?id=8291",
+    "print_url": "https://zxpress.ru/print.php?id=8291",
+    "title_link": "Playing - О игре 12 ТАЙНЫХ КНИГ-МИССИЯ.",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Playing_-_О_игре_12_ТАИНЫХ_КНИГ-МИССИЯ"
+  },
+  {
+    "article_id": 8292,
+    "article_url": "https://zxpress.ru/article.php?id=8292",
+    "print_url": "https://zxpress.ru/print.php?id=8292",
+    "title_link": "TWILIGHT - Описание игры: TWILIGHT SHADOW of ISLAND.",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "TWILIGHT_-_Описание_игры_TWILIGHT_SHADOW_of_ISLAND"
+  },
+  {
+    "article_id": 8293,
+    "article_url": "https://zxpress.ru/article.php?id=8293",
+    "print_url": "https://zxpress.ru/print.php?id=8293",
+    "title_link": "История - Микропроцессоры (продолжение).",
+    "order": 10,
+    "issue_label": "08",
+    "short_slug": "История_-_Микропроцессоры_продолжение"
+  },
+  {
+    "article_id": 8294,
+    "article_url": "https://zxpress.ru/article.php?id=8294",
+    "print_url": "https://zxpress.ru/print.php?id=8294",
+    "title_link": "Анкета - Нужно ли полиграфическое издание на SPECCY?",
+    "order": 11,
+    "issue_label": "08",
+    "short_slug": "Анкета_-_Нужно_ли_полиграфическое_издание_на_SPECCY"
+  },
+  {
+    "article_id": 8295,
+    "article_url": "https://zxpress.ru/article.php?id=8295",
+    "print_url": "https://zxpress.ru/print.php?id=8295",
+    "title_link": "CHEAT - CHEAT к играм: FISHER, ВИННИ ПУХ, KLADEMINER, KOLOBOK ZOOM-2, THE HUNDRED,ЧЕРНЫЙ ВОРОН2,СКРЫТАЯ ЧАСТЬ ИГРЫ 12 ТАЙНЫХ КНИГ.",
+    "order": 12,
+    "issue_label": "08",
+    "short_slug": "CHEAT_-_CHEAT_к_играм_FISHER_ВИННИ_ПУХ_KLADEMINER_KOLOBOK_ZO"
+  },
+  {
+    "article_id": 8296,
+    "article_url": "https://zxpress.ru/article.php?id=8296",
+    "print_url": "https://zxpress.ru/print.php?id=8296",
+    "title_link": "Auto HDD - Как определить наличие винчестера.",
+    "order": 13,
+    "issue_label": "08",
+    "short_slug": "Auto_HDD_-_Как_определить_наличие_винчестера"
+  },
+  {
+    "article_id": 8297,
+    "article_url": "https://zxpress.ru/article.php?id=8297",
+    "print_url": "https://zxpress.ru/print.php?id=8297",
+    "title_link": "Ferrum! - Искатель скрытой проводки на базе цифрового мультиметра.",
+    "order": 14,
+    "issue_label": "08",
+    "short_slug": "Ferrum_-_Искатель_скрытои_проводки_на_базе_цифрового_мультим"
+  },
+  {
+    "article_id": 8298,
+    "article_url": "https://zxpress.ru/article.php?id=8298",
+    "print_url": "https://zxpress.ru/print.php?id=8298",
+    "title_link": "HANGER - Исповедь палача.",
+    "order": 15,
+    "issue_label": "08",
+    "short_slug": "HANGER_-_Исповедь_палача"
+  },
+  {
+    "article_id": 8303,
+    "article_url": "https://zxpress.ru/article.php?id=8303",
+    "print_url": "https://zxpress.ru/print.php?id=8303",
+    "title_link": "Письма - О положении дел со Speccy в Ставрополе.",
+    "order": 16,
+    "issue_label": "08",
+    "short_slug": "Письма_-_О_положении_дел_со_Speccy_в_Ставрополе"
+  },
+  {
+    "article_id": 8300,
+    "article_url": "https://zxpress.ru/article.php?id=8300",
+    "print_url": "https://zxpress.ru/print.php?id=8300",
+    "title_link": "Авторы - Об авторах.",
+    "order": 17,
+    "issue_label": "08",
+    "short_slug": "Авторы_-_Об_авторах"
+  },
+  {
+    "article_id": 8299,
+    "article_url": "https://zxpress.ru/article.php?id=8299",
+    "print_url": "https://zxpress.ru/print.php?id=8299",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 18,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

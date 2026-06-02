@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 3722,
+    "article_url": "https://zxpress.ru/article.php?id=3722",
+    "print_url": "https://zxpress.ru/print.php?id=3722",
+    "title_link": "В новое тысячелетие - размышления о судьбе платформы.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "В_новое_тысячелетие_-_размышления_о_судьбе_платформы"
+  },
+  {
+    "article_id": 3725,
+    "article_url": "https://zxpress.ru/article.php?id=3725",
+    "print_url": "https://zxpress.ru/print.php?id=3725",
+    "title_link": "Каракули головного мозга - о свиньях.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Каракули_головного_мозга_-_о_свиньях"
+  },
+  {
+    "article_id": 3724,
+    "article_url": "https://zxpress.ru/article.php?id=3724",
+    "print_url": "https://zxpress.ru/print.php?id=3724",
+    "title_link": "Лаборатория - о телефонных карточках.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Лаборатория_-_о_телефонных_карточках"
+  },
+  {
+    "article_id": 3723,
+    "article_url": "https://zxpress.ru/article.php?id=3723",
+    "print_url": "https://zxpress.ru/print.php?id=3723",
+    "title_link": "События, факты, комментарии - о судьбе различных игровых проектах, о газете \"Абзац\", и т.д.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "События_факты_комментарии_-_о_судьбе_различных_игровых_проек"
+  }
+]

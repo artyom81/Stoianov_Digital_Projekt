@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "36",
+  "issue_date_iso": "1999-12-11",
+  "order": 4,
+  "article_id": 10533,
+  "title_link": "Бук - Житие великого митька Иисуса по кликухе Хpистос и о том, как он тащился и как его замочили вpаги.",
+  "title_h1": "City 36 - Бук - Житие великого митька Иисуса по кликухе Хpистос и о том, как он тащился и как его замочили вpаги.",
+  "print_url": "https://zxpress.ru/print.php?id=10533",
+  "article_url": "https://zxpress.ru/article.php?id=10533",
+  "fetched_at": "2026-05-31T21:51:34Z"
+}

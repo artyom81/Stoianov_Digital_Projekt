@@ -1,0 +1,15 @@
+{
+  "magazine_id": 41,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-03-08",
+  "order": 5,
+  "article_id": 10316,
+  "title_link": "Бук - рассказ \"Интим-полигон\".",
+  "title_h1": "City 01 - Бук - рассказ \"Интим-полигон\".",
+  "print_url": "https://zxpress.ru/print.php?id=10316",
+  "article_url": "https://zxpress.ru/article.php?id=10316",
+  "fetched_at": "2026-05-31T21:49:48Z"
+}

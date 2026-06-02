@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "64",
+  "issue_date_iso": "2017-01-06",
+  "order": 5,
+  "article_id": 18322,
+  "title_link": "Анкета - Меня зовут Пётр Марецки, я доцент Ягеллонского университета в\r\nКракове. Мы с двумя демосценерами, Yerzmyey и Hellboj, решили\r\nнаписать книгу про ZX Spectrum.",
+  "title_h1": "ACNews 64 - Анкета - Меня зовут Пётр Марецки, я доцент Ягеллонского университета в Кракове. Мы с двумя демосценерами, Yerzmyey и Hellboj, решили написать книгу про ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=18322",
+  "article_url": "https://zxpress.ru/article.php?id=18322",
+  "fetched_at": "2026-05-31T21:31:50Z"
+}

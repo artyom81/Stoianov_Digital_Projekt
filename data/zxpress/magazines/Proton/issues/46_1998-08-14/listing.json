@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16824,
+    "article_url": "https://zxpress.ru/article.php?id=16824",
+    "print_url": "https://zxpress.ru/print.php?id=16824",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "46",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16825,
+    "article_url": "https://zxpress.ru/article.php?id=16825",
+    "print_url": "https://zxpress.ru/print.php?id=16825",
+    "title_link": "Вдруг пригодится - Про RESET.",
+    "order": 2,
+    "issue_label": "46",
+    "short_slug": "Вдруг_пригодится_-_Про_RESET"
+  },
+  {
+    "article_id": 16826,
+    "article_url": "https://zxpress.ru/article.php?id=16826",
+    "print_url": "https://zxpress.ru/print.php?id=16826",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "46",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16827,
+    "article_url": "https://zxpress.ru/article.php?id=16827",
+    "print_url": "https://zxpress.ru/print.php?id=16827",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "46",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16828,
+    "article_url": "https://zxpress.ru/article.php?id=16828",
+    "print_url": "https://zxpress.ru/print.php?id=16828",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "46",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

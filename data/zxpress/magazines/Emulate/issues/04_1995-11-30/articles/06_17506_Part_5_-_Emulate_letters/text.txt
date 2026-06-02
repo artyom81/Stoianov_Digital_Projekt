@@ -1,0 +1,347 @@
+04 - Part 5 - Emulate letters.
+==========================================
+******************************
+*  PART 5 - EMULATE LETTERS  *
+******************************
+
+It's  the  start  of  a brand new year, so
+let's  have  a look at what's been filling
+the mailbox over the long winter months!
+
+==========================================
+
+Howdy Eddie of Emulate :)
+A  very  warm greeting in this not yet too
+cold winter. What a pro! :) I didn't think
+something great like this mag is possible.
+It's  not  only some lame supporting thing
+for  Speccy,  but  also  a  great thing to
+shift  us  some years back into Sinclair's
+magic  woods. Ok, the time traveling thing
+is  possible  just with an emulator, but a
+mag   adds   more  spirits  to  long  lost
+atmosphere. Too bad I can't find a word to
+express  all  the power the mag has, but I
+believe  dozens  of  (ex) Speccy fans have
+done  that  already. Now lemme get off the
+ass   licking   stuff,  and  proceed  with
+suggestion/question part. :)
+1st  a  suggestion about the design. While
+the contents are at a high level, there is
+a total lack of design. I mean reading mag
+in  plain  text  file  is way out of date.
+Well,  I  know  some  people would say the
+same  about  Speccy, but reading more than
+1OOKb  file  is really pain in the ass. On
+Amiga  scene  (yes,  i  own one) there's a
+special AmigaGuide format similar to HTML,
+where  the  text can get better organised,
+is  easier  to  read  and looks cooler. :)
+Now,  i  am not saying write in AmigaGuide
+format,  coz  i  believe  the most readers
+have  a  PC. While HTML is cool when using
+lynx or mosaic, it's still not of much use
+to  people  without HTML viewer (i've seen
+#3  is  in  HTML  also). I was thinking of
+gathering   some   programmers  who  would
+create   magazine's   own   interface  for
+various   systems.  Something  similar  to
+formats  mentioned  above,  but  with nice
+features  like  when  reading  some  text,
+suddenly  a  fimilar figure starts walking
+on  the screen - why, isn't this Dizzy? Or
+all  of  the  sudden a cloud comes rolling
+above,  then  Magic  Knight appears at the
+bottom,   and   BANG  a  lighting  strikes
+knight's  helmet  -  yes,  you  have  just
+pressed  the  Stormbringer POKE button. :)
+The pictures which are now archived with a
+coming  snaps  will  be used as background
+and  you  could  hear a music playing from
+some  classic game. And many more cookies.
+I  believe here's the only problem getting
+the  programmers  to  work  it  out and of
+course  too many systems to support. Or is
+this  a prob!? I don't think you will have
+many probs finding a programmer to do this
+job  on a PC and there's no problem for me
+to do the same thing for Amiga, and if you
+don't  find  someone to code interface for
+other  machine, then... those systems will
+have  the same old option - read the plain
+text file. Another advantage is that a mag
+will  get to the wider public. I guess you
+have many readers by now, though there are
+many  Speccy  fans  around  the  globe who
+don't  know  about  it simply because they
+don't   follow  Sinclair  newsgroup,  they
+don't  FTP  to right speccy site etc. When
+you get this mag done for various systems,
+they could also get uploaded to paths such
+as   /pub/msdos,  /pub/aminet/  etc.  Thus
+users  of these systems could not only get
+the  new  issue faster, they would also be
+aware  something  is  going  on  with  the
+computer  they  long  ago sold and thought
+world  has  forgot  about  it. I had a few
+more  excuses,  erm...  advantages  on  my
+mind,  but  I  am  too tired to mention it
+now. :)
+Now to the begging part. I am delighted to
+see snap request going on, so i would like
+to get Tobruk. I am also curious if anyone
+remembers  a  great  gfx  adventure, where
+some relative of yours die and you have to
+collect  the  parts  of will, so you could
+get enough money to cover your beer costs,
+but at the end you don't get anything. Ok,
+this  about  beer was a joke, but i'd like
+if  someone could name it, coz i wanna end
+it  again and i don't know for what should
+i  search.  Also  some  requests  for next
+topics  to  be  written: introduce Seymour
+the hero & solution for Sceptre of Bagdad.
+I  haven't  heard  (until  I read Emulate)
+such  thing  as CeeDee crowded with speccy
+stuff  exists, can you tell me how many of
+such  CDs  were  released and where to get
+them (the address of the company).
+That's  it  for now, tell me whatcha think
+of  my  idea  and  thanks  in  advance for
+whatever i asked. Keep up the good work!
+
+Boris Donko _alias_ Bulb
+
+==========================================
+
+Whew!  What a letter to start the new year
+with!  Thanks  for  all the compliments (I
+can never get too many! ;) )
+The  design  and layout of the magazine is
+something  I would dearly love to improve.
+The  biggest  step  taken  so  far in this
+direction  has  been  to  creation  of the
+Emulate  Web  site  which  includes  great
+graphics   and   vastly  improved  layout.
+(Check  out  the Internet section for more
+details)
+The  two  problems  faced  when  trying to
+improve  the  magazine is, as you mention,
+machine   compatibility  and  finding  the
+necessaey  programs.  I have dabbled a bit
+with  AmigaGuide,  but having just flogged
+my  Amiga,  I can no longer do that (maybe
+someone else would like to?)
+You've  got  some great ideas about how to
+improve  the magazine layout....and if you
+(or  anyon  else out there) can produce or
+recommend  and  appropriate  program, I'll
+get to work!!!
+Finally,  I  was  in  a kind mood, so I've
+included  the  Sceptre of Baghdad solution
+with this issue and Seymour is lined up to
+appear  in  the  near future! The CD's you
+mention  are  the Speccy Sensations CD's I
+and  II  (although  most of the games on I
+are  also  featured  on II) You can obtain
+these  gems from: EPIC MARKETING, VICTORIA
+CENTRE, 138 VICTORIA ROAD, SWINDON, WILTS,
+SN1  ЗBU UK - for the meagre sum of Ь17.99
+(Order Code for SSII is CD119)
+
+-ED-
+==========================================
+==========================================
+
+I  enjoyed  reading  through issues 1-3 of
+Emulate.  It's  nice to see an e-zine that
+isn't  concerned  with  following  all the
+latest  frazzle  and  dazzle fads of today
+(i.e. "MultiMedia", 32/бЧbit.)
+I've  never  actually  owned a Speccy, but
+did   own   a  Timex  (in  North  America)
+Sinclair   ZX81,   which   was   my  first
+computer,   so   I  still  get  a  bit  of
+nostalgia   from  reading  your  articles.
+Those  really  were  good times; generally
+happy   memories   of  typing  out  little
+programs  on  my  ZX81  with  its  16K RAM
+expansion, or waiting for what seemed like
+eternity  for  my  favourite  game to load
+from   tape.  (Sometimes  it  didn't  load
+properly at all...)
+Anyway, the real reason I'm typing is that
+I wanted to respond to David Crick's Dizzy
+article from issue 1. He was interested in
+hearing   about   Dizzy  games  for  other
+computer platforms. I have included here a
+review  of the Amiga game pack, "The Dizzy
+Collection",  from  the  Nov.1993 issue of
+the  now  defunct  Amiga  World  magazine.
+Personally  I have not played any of these
+games  before,  but have seen a picture of
+Crystal  Kingdom  Dizzy  in  Amiga  Format
+magazine; it generally looks like Dizzy on
+the Speccy, yet obviously with more colour
+and a bigger screen.
+
+==========================================
+
+Thanks  for the review. You can find it in
+the  next section. I also have a review of
+Fantastic   Dizzy   for   the  Amiga  (not
+released  on the Speccy) lurking in one of
+my  magazines,  and  I'll  reproduce it in
+Emulate in the near future..
+
+-ED-
+
+==========================================
+==========================================
+
+Congratulations    for    your    magazine
+"Emulate!".  It's  been a real pleasure to
+read  about  other  people  who still love
+their spectrums around the globe. I got my
+first  Spectrum  (Plus 48K) as a Christmas
+gift in 1985. Since then I developed a lot
+of  work  with  my  spectrum,  from school
+homework   to   playing   many  games  (my
+favourite is still CRL Formula 1 Manager).
+Then I switched to Amstrad's Spectrum Plus
+2,  which  gave  me  the feeling of a real
+machine.
+Years  after  (1994)  when I bought my PC,
+the  first  thing  I  did  was  to  get  a
+Spectrum   Emulator   and   look   for  my
+favourite games.
+In   two   local  BBSs  (Compuservice  and
+Network  BBS)  there are forums devoted to
+spectrum  users  and  fans,  where  almost
+every  spectrum  game  and emulator may be
+found   (that's  actually  where  I  found
+"Emulate!").
+My   good  old  Spectrum  +2  is  nowadays
+standing below the telescope at the Albert
+Einstein   Observatory  belonging  to  the
+Amateur    Astronomers    Association   of
+Montevideo,  conditioned to work as driver
+for  the robotization of the telescope. In
+your  article regarding the history of the
+spectrum   you   missed   to  mention  the
+Brazilian  clone of the Speccy, the TK95X,
+and   the   argentinian  version,  the  CZ
+Spectrum, Both launched ca. 1985. I'd very
+much  like  to know how can I subscribe to
+your  magazine  in  order  to  receive  it
+monthly.
+
+Congratulations for your work!
+Best Regards
+Santiago de Tezanos
+URUGUAY
+
+==========================================
+
+It is interesting to look at the amount of
+places  where  the  humble Speccy is still
+put  to  a  good  and  important use. Many
+people   have   claimed  to  have  spotted
+Spectrums   handling  important  tasks  in
+several places (although I doubt the story
+about  a  128k  running  a  Nuclear  Power
+Station  -  what  if  someone  wobbled the
+power pack? ;) )
+The article on the History of the Spectrum
+is  taken  from  various  issues  of Crash
+Magazine, so they are to blame for missing
+out  the  Argentinian  clone!  Thanks  for
+pointing it out though.
+Finally, you can subscribe by mailing me a
+small  E-Mail  note  with Subscribe in the
+header.  If any of you have subscribed but
+are not receiving the magazine, just write
+to  me  again  and I'll sort it out. (Some
+names  were  lost  when  my  mail  program
+crashed!!)
+ED.
+
+==========================================
+==========================================
+
+I  think Emulate! is a great idea, I owned
+the  infamous  Spectrum  +2A  when  I  was
+younger  and  the  games  are still better
+than  a lot produced today. If you know of
+any  way  of converting .tap files to .z80
+or   .sna   files   please  let  me  know!
+Otherwise  could  you  try  and keep these
+files to a minimum in your games packs, as
+a  lot  of  people  can't  use  them which
+spoils enjoyment of the magazine somewhat.
+Cheers,  and  thanks  in advanace for your
+help.
+
+Jonathan George
+
+==========================================
+
+I like to include rare or new games in the
+gamespack    which   are   not   generally
+available on the FTP sites or the BBS's. A
+lot of games I have come across on the net
+have   been   incomplete,   requiring  the
+loading  of  additional  levels  which can
+only  be  done by a TAP file. For example,
+the Journey's End game included this month
+has  three parts, which needs to be in TAP
+form.  I  have  seen  the  three  parts as
+seperate  snapshots, but this is pointless
+as you cannot continue with your own game,
+but  instead  play from where someone else
+has left off.
+To  be  honest,  I  can't see much problem
+with TAP files....they can be used on PC's
+(Using  Z80),  Amigas  (Using  ZXAM  and a
+simple   Macro)   and   also  MACS  (Using
+Spectacle  I  think).  As  the majority of
+users  have one of these machines, I shall
+probably  continue using them. (Although I
+will  ensure  that  there  are  always SNA
+files  in  the  pack!)  The  only  way  to
+convert  TAPs to SNA is by loading the tap
+into an Emulator and saving the snapshot.
+
+-ED-
+==========================================
+
+Just  wanted  to thank you for the amazing
+work  you've  done  with the 3-and-a- half
+issues  so  far (I've just discovered your
+mag  at the NVG site). Hope it never turns
+into  a HTML-only thing (text files are so
+much better...). Cheers,
+
+Paul David Doherty
+
+==========================================
+
+The  HTML  version  of the magazine is the
+only way (as yet - see above) of improving
+the layout and appearance of the magazine.
+I am thinking of other ways to improve the
+rather  dull  layout of the mag, but don't
+worry - there will always be a normal text
+mag available!
+
+-ED-
+==========================================
+==========================================
+
+Thanks  for all your letters - I do try to
+reply  to  them  all, either personally or
+through  the  mag.  Send  them  all  to my
+E-Mail  address, shown at the start of the
+magazine.
+
+==========================================

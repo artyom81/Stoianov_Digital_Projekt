@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3222,
+    "article_url": "https://zxpress.ru/article.php?id=3222",
+    "print_url": "https://zxpress.ru/print.php?id=3222",
+    "title_link": "GAME Обзор - О программах, появившихся в городе за последнее время.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "GAME_Обзор_-_О_программах_появившихся_в_городе_за_последнее"
+  },
+  {
+    "article_id": 3225,
+    "article_url": "https://zxpress.ru/article.php?id=3225",
+    "print_url": "https://zxpress.ru/print.php?id=3225",
+    "title_link": "Давайте посмеемся - 30 анекдотов от редакции.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Даваите_посмеемся_-_30_анекдотов_от_редакции"
+  },
+  {
+    "article_id": 3224,
+    "article_url": "https://zxpress.ru/article.php?id=3224",
+    "print_url": "https://zxpress.ru/print.php?id=3224",
+    "title_link": "Железяка - Схема супер замедлителя компьютера.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Железяка_-_Схема_супер_замедлителя_компьютера"
+  },
+  {
+    "article_id": 3223,
+    "article_url": "https://zxpress.ru/article.php?id=3223",
+    "print_url": "https://zxpress.ru/print.php?id=3223",
+    "title_link": "Новости - Новости из Гомеля.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Новости_-_Новости_из_Гомеля"
+  },
+  {
+    "article_id": 3221,
+    "article_url": "https://zxpress.ru/article.php?id=3221",
+    "print_url": "https://zxpress.ru/print.php?id=3221",
+    "title_link": "От авторов - Требуются ведущие рубрик...",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "От_авторов_-_Требуются_ведущие_рубрик"
+  },
+  {
+    "article_id": 3226,
+    "article_url": "https://zxpress.ru/article.php?id=3226",
+    "print_url": "https://zxpress.ru/print.php?id=3226",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

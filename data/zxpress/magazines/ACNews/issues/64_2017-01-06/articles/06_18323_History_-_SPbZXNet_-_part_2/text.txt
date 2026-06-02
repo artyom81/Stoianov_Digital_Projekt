@@ -1,0 +1,154 @@
+ACNews 64 - History - SPbZXNet - part 2
+SPbZXNet - part 2
+                           by AmoNik
+
+I learned about a net for Spectrum computers from ZX Format
+electronic magazine. The information was like rumors, like "we
+planned a net". My group mate convinced me that the net in fact
+exists. This was in 1997. He told me a modem is nothing to do if
+I provide him a phone transformer. I disassembled a spare phone
+and gave him a transformer. But I received no modem from this
+guy. And no transformer.
+
+There was 1998. I frequently walked to Lorgos store, where once
+a week (if I remember correctly) the Spectrum elite gathered and
+discussed the news. I heard something about the net, and that
+there's no use to make anything because anything you do would
+instantly go into the net for free. I remembered this and
+decided to join the net.
+
+Once I saw the needed device at a showcase, XTR modem. And 29th
+of December, 1998, I bought it for 150 roubles. I connected it
+no earlier than 1Oth of January, 1999, and it appeared that the
+thing didn't work. 19th, I returned the modem to Logros.
+
+So my first try to obtain free software failed.
+
+2бth of October, 2000, I bought a Hayes compatible modem from
+another group mate of mine, for 100 roubles. This caused a queue
+of events.
+
+2бth of November, I added a phone socket in my room.
+
+27th of November, I went to Scorpion to solder an ISA slot in my
+SMUC. But Zerov said he was busy and just gave me the socket
+that I must solder by myself. The same day I attached the modem
+and tried to call with it. The modem said it doesn't hear the
+line and refused to dial. I thought that this was because of
+high-frequency phone coupling that I had at my phone, so I
+needed an adapter.
+
+ЗOth of December, I went to Yunona (radio market) and bought an
+adapter for 370 roubles. But the modem still didn't hear the
+line.
+
+02nd of January, 2001, I understood the modem settings, so it
+could dial. I called Eugene Buder of Welcome corp and asked him
+for a modem connect. I used Melon as a terminal program, where
+Com1 was instead of Com2 and vice versa.
+
+The first connect was OK, and we chatted in terminal. The speed
+was 2400.
+
+I asked Buder for a phone number of a Spectrum BBS. In the night
+I called there and asked if the BBS still works. They answered
+me that the BBS if offline for 3 years, and gave me a couple of
+other numbers.
+
+The first number used XTR modem, and the second one wrote me
+that BBS is offline and hanged up.
+
+OЗrd of February, 2001, Buder gave me the number of Alexander
+Mayorov (MAS) ("our head", said Buder, and my future uplink in
+SPbZXNet), to consult why my modem transmits files so slow.
+MAS asked me to dial by modem and send him some files. Then he
+said by voice that my modem lacks error correction and I must
+change it.
+
+OЧth of February, 2001, I went to Yunona. I bought USR
+Sportster 14400 for 410 roubles. The same day I tried it. The 
+modem picks up the phone (relay is heard) but fails to connect
+the line (frequency coupling adapter doesn't light a LED for
+line busy). The modem it broken.
+
+O5th of February, 2001, I went to Peters+ (where Ivan Mak
+worked). They had a modem repair service. I looked into the
+price and decided that I'd better return the modem to the seller
+at Yunona than to pay almost the modem's price for its repair.
+
+1Oth of February, I went to Yunona and gave the modem to the
+seller for check. It promised to return the money in a week. But
+I had money, and I bought the same modem in another shop, even 2
+dollars cheaper.
+
+That modem worked, so I called Alexander Mayorov again to test
+the connect. We sent files to each other, and the files are
+received faster than uploaded. MAS said this was something about
+software settings.
+
+Later I sent disks to Buder with this modem, and that was
+delightful, because I spent three hours by road before, to take
+disks for cracking and return him older disks.
+
+OЗrd of March, 2001, I went to Alexey Leontyev (iS-DOS creator).
+He was sleeping when I came. He copied me a disk with a terminal
+program for iS-DOS. There were two programs - new one and old
+one. This costed me 25 roubles. It appeared that one program was
+in fact a terminal (by Mikhail Kondratyev ), and the another was
+Dickie Mailer. In a ZIP archive there was an example of config 
+file but there was no manual. Not a simple keylist. How to work
+with such a program? There also was an archive of GENERAL.ZX
+echo conference on the disk. I read it and enjoyed it. I decided
+to join SPbZXNet.
+
+1Чth of May, 2001, I became a point of SPbZXNet. This is the
+date of my first letter to Alexander Mayorov. And I received a
+point number by chance. I went to MAS asking for help to connect
+GMX to Scorpion board. The connection described in the manual 
+didn't work, and I told Buder I can't work for Welcome any more.
+He sent me to MAS because MAS was "a hardware guy". So I came to
+MAS, gave him the board with the manual, and asked if I could
+copy archines of Spectrum echo conferences from him. He said "no
+problem" but didn't completely understand me. All I wanted was
+a floppy disk with ZIP files. But he (when he returned me the
+repaired board of my Scorpion) told me to call him by mailer at
+night. He added the address and the password. So I became his
+point instead of getting the archives.
+
+I must add that 22th of August, 2000, when I went to Alexey
+Leontyev for changing an iS-DOS disk I bought at Chaos 
+Constructions, he copied me few archives with messages from 
+Spectrum oriented echo conferences (both Fido and ZXNET).
+So since this I knew how Spectrum people live in the net. These
+archives might remain there.
+
+Alone> In Ryazan the net thing was totally different - we got 
+modems from PC users, and only two people could attach them to 
+Spectrum... 
+
+I'll try to obtain archives from iS-DOS disks. Yesterday I tried
+to read them with plug-ins for FAR MANAGER. But the plug-in
+broke several times then refused to read these disks at all.
+I must move to another PC and open them there. If I don't
+succeed, I'll copy the files from floppies.
+
+Alone> I'd like to download the archives... All I've read was 
+http://zxnet-archive.ru/ - but I can't download from there. 
+And the old modem software would be nice to find, because I 
+failed to download it from fkO that time... Now I don't know if
+he still keeps it - it is said that he was married. 
+
+Well, CODE.ZX there is more complete than in my copy. It's a
+pity that there is only online access. I couldn't find any
+archives at mine. I even attached my old HDD, and there are no
+archives with echoes. I don't understand, how it cound be. I
+remember I read them recently. Maybe I deleted them after that.
+But I couldn't delete them on all the disks!
+
+Alone> What about your old papers? 
+
+I usually keep all the notes with any information. I keep all
+the notebooks and copybooks where I recorded all the games I
+cracked for Welcome. All the scrool copybooks since 7th grade
+survived. Only a book of cartoons that I drew in higher grades
+disappeared.

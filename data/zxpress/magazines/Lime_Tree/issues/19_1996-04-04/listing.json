@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 8820,
+    "article_url": "https://zxpress.ru/article.php?id=8820",
+    "print_url": "https://zxpress.ru/print.php?id=8820",
+    "title_link": "ABOUT - Что DEMOBIT'96 грядущий нам готовит?",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "ABOUT_-_Что_DEMOBIT96_грядущии_нам_готовит"
+  },
+  {
+    "article_id": 8821,
+    "article_url": "https://zxpress.ru/article.php?id=8821",
+    "print_url": "https://zxpress.ru/print.php?id=8821",
+    "title_link": "Зазеркалье - Из хроники исчезновений.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Зазеркалье_-_Из_хроники_исчезновении"
+  },
+  {
+    "article_id": 8822,
+    "article_url": "https://zxpress.ru/article.php?id=8822",
+    "print_url": "https://zxpress.ru/print.php?id=8822",
+    "title_link": "Лит.Страничка - Новые приключения Винни Пуха (глава 9).",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "ЛитСтраничка_-_Новые_приключения_Винни_Пуха_глава_9"
+  },
+  {
+    "article_id": 116,
+    "article_url": "https://zxpress.ru/article.php?id=116",
+    "print_url": "https://zxpress.ru/print.php?id=116",
+    "title_link": "Платный сервер - О преимуществах и недостатках платных BBS.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Платныи_сервер_-_О_преимуществах_и_недостатках_платных_BBS"
+  }
+]

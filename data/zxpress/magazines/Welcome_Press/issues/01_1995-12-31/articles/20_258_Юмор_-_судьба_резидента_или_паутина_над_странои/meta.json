@@ -1,0 +1,15 @@
+{
+  "magazine_id": 237,
+  "magazine_name": "Welcome Press",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-12-31",
+  "order": 20,
+  "article_id": 258,
+  "title_link": "Юмор - судьба резидента, или паутина над страной.",
+  "title_h1": "Welcome Press 01 - Юмор - судьба резидента, или паутина над страной.",
+  "print_url": "https://zxpress.ru/print.php?id=258",
+  "article_url": "https://zxpress.ru/article.php?id=258",
+  "fetched_at": "2026-05-31T23:17:30Z"
+}

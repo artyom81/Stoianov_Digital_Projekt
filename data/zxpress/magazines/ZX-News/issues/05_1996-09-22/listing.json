@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 3088,
+    "article_url": "https://zxpress.ru/article.php?id=3088",
+    "print_url": "https://zxpress.ru/print.php?id=3088",
+    "title_link": "BBS на ZX ?! - BBS на SPECCY - это реально.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "BBS_на_ZX_-_BBS_на_SPECCY_-_это_реально"
+  },
+  {
+    "article_id": 3087,
+    "article_url": "https://zxpress.ru/article.php?id=3087",
+    "print_url": "https://zxpress.ru/print.php?id=3087",
+    "title_link": "FIDO начинающим - Модем. Первые шаги. - Работа с BBS.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "FIDO_начинающим_-_Модем_Первые_шаги_-_Работа_с_BBS"
+  },
+  {
+    "article_id": 3091,
+    "article_url": "https://zxpress.ru/article.php?id=3091",
+    "print_url": "https://zxpress.ru/print.php?id=3091",
+    "title_link": "Глюки в News'e - О глюках, которые были в предыдущих номерах газеты.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Глюки_в_Newse_-_О_глюках_которые_были_в_предыдущих_номерах_г"
+  },
+  {
+    "article_id": 3086,
+    "article_url": "https://zxpress.ru/article.php?id=3086",
+    "print_url": "https://zxpress.ru/print.php?id=3086",
+    "title_link": "Новости - Появился видеофильм про Enlight'96.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Появился_видеофильм_про_Enlight96"
+  },
+  {
+    "article_id": 3093,
+    "article_url": "https://zxpress.ru/article.php?id=3093",
+    "print_url": "https://zxpress.ru/print.php?id=3093",
+    "title_link": "Объявления - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3085,
+    "article_url": "https://zxpress.ru/article.php?id=3085",
+    "print_url": "https://zxpress.ru/print.php?id=3085",
+    "title_link": "От редакции - Об авторах газеты.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "От_редакции_-_Об_авторах_газеты"
+  },
+  {
+    "article_id": 3089,
+    "article_url": "https://zxpress.ru/article.php?id=3089",
+    "print_url": "https://zxpress.ru/print.php?id=3089",
+    "title_link": "Письма - А.Лебедев \"Как делать квотинг или оформлять письма, отпрявленные по сети.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Письма_-_АЛебедев_Как_делать_квотинг_или_оформлять_письма_от"
+  },
+  {
+    "article_id": 3090,
+    "article_url": "https://zxpress.ru/article.php?id=3090",
+    "print_url": "https://zxpress.ru/print.php?id=3090",
+    "title_link": "Письмо из On-Line - Советы и критика от OLDMAN'a.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Письмо_из_On-Line_-_Советы_и_критика_от_OLDMANa"
+  },
+  {
+    "article_id": 3094,
+    "article_url": "https://zxpress.ru/article.php?id=3094",
+    "print_url": "https://zxpress.ru/print.php?id=3094",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж в Автово.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_в_Автово"
+  },
+  {
+    "article_id": 3092,
+    "article_url": "https://zxpress.ru/article.php?id=3092",
+    "print_url": "https://zxpress.ru/print.php?id=3092",
+    "title_link": "Юмор - Шутка редакции.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_Шутка_редакции"
+  }
+]

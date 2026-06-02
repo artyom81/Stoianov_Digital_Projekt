@@ -1,0 +1,176 @@
+Subliminal Extacy 01 - Basics of Machine Code
+Basics of Machine Code                     
+                     ----------------------
+                             By L.A.                            
+                             -------
+Yep!  That's right!  L.A. of Extacy-3 is typing an article about
+Machine Code!!  Hold on!  L.A. isn't a coder!!  That's where you
+are wrong!!  I've always been into coding since E-3 has started.
+It's just Bogie has always been better at Coding than me.  Hence
+he is the groups main coder.                                    
+                                                                
+Before I start with all the Technical waffle I'll say that to   
+follow this article you must:-                                  
+                 Have a good knowledge of Basic,                
+    Have a small understanding of what a Byte and a Bit are,    
+    and have an idea how your speccies memory is mapped out!    
+                                                                
+Got all those things, then we'll begin!                         
+                                                                
+Machine Code is a low-level language.  What's that mean?  It    
+means it is as low as you can get to just entering bytes into   
+memory (Which you'll understand better after reading this shit!)
+Also it is harder to understand than a high-level language like 
+Basic.                                                          
+                                                                
+Like Basic, Machine Code (M/C for short) is made up of commands 
+but in M/C they are called 'Mnemonics' (No that is spelt        
+correctly!) pronounced 'New-Mon-Ics'.  These are split into 2   
+sections, the Op-Code and the Operand.  If you pick up your +2, 
++2a or +3 maunal and look up Chapter 8 Part 27 (Grey +2 manual) 
+or Part 28 (Black +2a or +3 manual), you'll see the following:  
+                                                                
+CODE    CHARACTER    HEX    Z80 ASSEMBLER  -After CBh -After EDh
+                                                                
+This is a good part to mark (maybe fold the corner of the page) 
+because after you get a small amount of knowledge on Z80 M/C,   
+you'll find yourself constantly going back to these pages!!!    
+                                                                
+Right Look up CODE 62.  Forget about the character bit and HEX  
+bit, they're pointless at the moment.  Look at the Z80 ASSEMBLER
+bit cos this the bit we're interested in.  It should say -      
+                                                                
+                             LD A,N                             
+                                                                
+Now as you know, Z80 mnemonics are split into 2 sections, the   
+Op-Code and the Operand.  The Op-Code part of LD A,N is the LD A
+part the Operand is N.  Now N is an eight-bit number which YOU  
+define!!  So let's define it.  I'll use 69.  So the instruction 
+now becomes 'LD A,69'.  That was easy, wasn't it?  Okay, we now 
+should understand what a Z80 nmemonic is and consists of.       
+                                                                
+But what does 'LD A,69' acually do? Well it LOADs the register A
+with the value 69.  Wooow!!  But A is short for Accumulator.    
+Which is the place in your Z80 where all calculations,          
+comparisons, etc. take place.  So to re-cap, LD = LOAD a        
+register or address and A = Accumulator.                        
+                                                                
+Okay, if you think you've got the hang of that then I explain   
+registers.                                                      
+                                                                
+Registers are basically areas where your Z80 stores numbers and 
+addresses.  Here is a list of the main ones.                    
+                                                                
+                             H    L                             
+                             D    E                             
+                             B    C                             
+                             A    F                             
+                               IX                               
+                               IY                               
+                                                                
+Registers can either hold an 8 bit number or a 16 bit number.   
+16 bit numbers are only stored in Register Pairs like above, HL,
+DE, BC, AF, IX, and IY.  8 Bit numbers are stored in the        
+following registers A, B, C, D, E, F, H, and L.                 
+                                                                
+As you may, or may not know is, that an 8 bit numbers max. value
+is 255 and a 16 bit numbers max. value is 65535.  Also you      
+should know that the address of the diplay file is 16384.       
+                                                                
+Now we know that, let's try our first program.                  
+                                                                
+          LD HL,16384  ; LOAD HL with the value 16384           
+          LD A,69      ; LOAD A with the value 69               
+          LD (HL),A    ; LOAD the contents of HL with A         
+          RET          ; RETurn                                 
+                                                                
+Load up your assembler, ORG to an address which won't land slap 
+bang on your assembler, type it in, Assemble it, Go into BASIC  
+and type RANDOMIZE USR 'address' where 'Address' is the address 
+which you ORGed your code to.  If you're using Tornado, then add
+the following lines at the start of your code.                  
+                                                                
+          ORG 40000                                             
+          DUMP 40000                                            
+                                                                
+And then assemble it, return to BASIC and type RANDOMIZE USR    
+40000.                                                          
+                                                                
+This piece of code should quite easy for a beginner to          
+understand.  Let me explain it indepth.  The first line -       
+'LD HL,16384' will load the register pair 'HL' with the value   
+16384.  16384 is the address of the first byte of the display   
+file.  The second line - 'LD A,69' will load the Accumulator    
+with the value of 69.  The third line - 'LD (HL),A' is the magic
+bit which will put the value of A into the address of HL.  In   
+our case it will put the value 69 into the address 16384 (The   
+display file).  The forth line - 'RET' merely returns to the    
+place where the speccy was before that routine was called, which
+was in BASIC.  Understand, we called from basic with the        
+RANDOMIZE USR command, thus when the speccy is told to RETurn if
+everything is OK the speccy will return back to basic.  This    
+small routine is a Machine Code version of the BASIC command,   
+POKE.                                                           
+                                                                
+Now I'll cover a new command - 'INC'.  INC is short for         
+Increment which means add 1.  INC can have all registers after  
+it except IX and IY. Now if we include this to our program we   
+can see it's effect.                                            
+                                                                
+          LD HL,16384                                           
+          LD A,69                                               
+          LD (HL),A                                             
+          INC A                                                 
+          LD (HL),A                                             
+          RET                                                   
+                                                                
+Now this will POKE 16384,69 then increase 'A' by 1 to make 'A'  
+equal 70, then POKE 16384,70.  But this will happen so quickly  
+that you may only just beable to see it happen!!                
+                                                                
+So we'll try something a bit more complex.                      
+                                                                
+          LD HL,16384                                           
+          LD A,0                                                
+POOCAKE   LD (HL),A                                             
+          INC A                                                 
+          HALT                                                  
+          JP POOCAKE                                            
+                                                                
+WARNING..  If you try to assemble and run this, it will NEVER   
+return back to basic.  Now let me explain how it works.         
+LD HL,16384 - LD A,0 - LD (HL),A - you know what all of them do.
+Notice the word POOCAKE to the left of LD (HL),A , this is known
+as a LABEL.  INC A will increment A every time it is executed.  
+HALT pauses your speccy for one 5Oth of a second so INCs effect 
+is more visible.  JP POOCAKE will jump back to POOCAKE and      
+execute the LD (HL),A - INC A - HALT - JP POOCAKE cycle.  Now   
+you can see why it won't return back to basic.  Type it in and  
+assemble it at the same address as last time.  Run it.  HaHa    
+HaHa Ha Ha, Your speccy is constantly POKEing 16384 by an       
+increasing number!!!  You may think that A will just keep       
+getting bigger and bigger and bigger etc.  But because it's an 8
+bit number, it means it will get to 255 and then the next time  
+it's INCed it will become 0 because if you can remember we said 
+an 8 bit had a max value of 255!!  So it can't go above 255 and 
+when INCed turns to 0 and starts again!!!                       
+                                                                
+If you don't under stand the above program, here is the basic   
+conversion.                                                     
+                                                                
+10 LET HL=16384 : REM LD HL,16384                               
+20 LET A=0 : REM LD A,0                                         
+30 POKE HL,A : REM LD (HL),A                                    
+40 LET A=A+1 : IF A=256 THEN LET A=0 : REM INC A                
+50 PAUSE 1 : REM HALT                                           
+60 GOTO 30 : JP POOCAKE                                         
+                                                                
+Okay, that's the best I can convert it to BASIC, NOTE I've put a
+check for 'A' getting greater than 255, because if you try      
+POKEing an address in basic, with a value greater than 255,     
+you'll get an error message back!!                              
+                                                                
+That's all for now.  I hope you have enjoyed this small         
+introduction for M/C.  Get S.E.#2 for my continuation.  And     
+Don't Forget that the word 'With' is a bad word to end an       
+article with.

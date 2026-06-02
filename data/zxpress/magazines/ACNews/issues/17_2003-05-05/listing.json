@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9368,
+    "article_url": "https://zxpress.ru/article.php?id=9368",
+    "print_url": "https://zxpress.ru/print.php?id=9368",
+    "title_link": "News - схема паралельного интерфейса на AY.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "News_-_схема_паралельного_интерфеиса_на_AY"
+  },
+  {
+    "article_id": 9369,
+    "article_url": "https://zxpress.ru/article.php?id=9369",
+    "print_url": "https://zxpress.ru/print.php?id=9369",
+    "title_link": "Мысли - Crank заплатит любому 1000р за переделку STS под Scorpion.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Мысли_-_Crank_заплатит_любому_1000р_за_переделку_STS_под_Sco"
+  },
+  {
+    "article_id": 9370,
+    "article_url": "https://zxpress.ru/article.php?id=9370",
+    "print_url": "https://zxpress.ru/print.php?id=9370",
+    "title_link": "ACEdit - Список Заслуженных Неиспользователей AC Edit.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "ACEdit_-_Список_Заслуженных_Неиспользователеи_AC_Edit"
+  }
+]

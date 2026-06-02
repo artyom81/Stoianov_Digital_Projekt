@@ -1,0 +1,19 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1997-04-27",
+      "articles_count": 17
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1997-08-10",
+      "articles_count": 16
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1999-07-16",
+      "articles_count": 49
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1995-11-25",
+  "order": 5,
+  "article_id": 4752,
+  "title_link": "Литературная страничка - у нас в гостях поэтище - М.МУЛЮКОВ.",
+  "title_h1": "Lime Tree 02 - Литературная страничка - у нас в гостях поэтище - М.МУЛЮКОВ.",
+  "print_url": "https://zxpress.ru/print.php?id=4752",
+  "article_url": "https://zxpress.ru/article.php?id=4752",
+  "fetched_at": "2026-05-31T22:19:06Z"
+}

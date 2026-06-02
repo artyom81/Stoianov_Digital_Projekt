@@ -1,0 +1,7 @@
+1-3 - Outtake
+OUT-TAKES are routines without  a home to go to!  If  you have  any routines that you  haven't  had time to find  a use  for - send them in to OUT-TAKES!Your  routine may be just what some-  one else needs.  (If  you have  found a use for your routine -  send it in anyway! - Brian)
+ NOTHING'S TOO TRIVIAL!
+ (press any key...)
+ 
+ OUT-TAKE NO.1
+This simple routine just moves ablock left and right using the  'z' and 'x' keys but it moves   one pixel at a time even though the routine is all BASIC. You   can see the principle by lookingat lines 100 and 150 where slightly different graphic blocks are printed rapidly over one another at the same spot. There's a short piece of redundant code at line 4050 thatmight make it clearer This technique might be used with an animated sprite like, say, a walking man...

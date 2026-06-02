@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15474,
+    "article_url": "https://zxpress.ru/article.php?id=15474",
+    "print_url": "https://zxpress.ru/print.php?id=15474",
+    "title_link": "Аперетивчик - Ну вот и вышел \"чертовый номер\" NEXT'а.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "Аперетивчик_-_Ну_вот_и_вышел_чертовыи_номер_NEXTа"
+  },
+  {
+    "article_id": 15475,
+    "article_url": "https://zxpress.ru/article.php?id=15475",
+    "print_url": "https://zxpress.ru/print.php?id=15475",
+    "title_link": "Юмор - Анекдотец.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Юмор_-_Анекдотец"
+  },
+  {
+    "article_id": 15476,
+    "article_url": "https://zxpress.ru/article.php?id=15476",
+    "print_url": "https://zxpress.ru/print.php?id=15476",
+    "title_link": "Новье - Обзор журналов, игр.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Новье_-_Обзор_журналов_игр"
+  },
+  {
+    "article_id": 15477,
+    "article_url": "https://zxpress.ru/article.php?id=15477",
+    "print_url": "https://zxpress.ru/print.php?id=15477",
+    "title_link": "Новости - Новость дня. Из неопубликованного.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Новости_-_Новость_дня_Из_неопубликованного"
+  }
+]

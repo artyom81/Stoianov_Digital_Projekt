@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2001-12-31",
+  "order": 3,
+  "article_id": 3475,
+  "title_link": "ASCii 2002 final results - результаты ASCii'2002.",
+  "title_h1": "Buzz 20 - ASCii 2002 final results - результаты ASCii'2002.",
+  "print_url": "https://zxpress.ru/print.php?id=3475",
+  "article_url": "https://zxpress.ru/article.php?id=3475",
+  "fetched_at": "2026-05-31T21:48:58Z"
+}

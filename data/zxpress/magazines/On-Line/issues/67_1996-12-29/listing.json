@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 13,
+    "article_url": "https://zxpress.ru/article.php?id=13",
+    "print_url": "https://zxpress.ru/print.php?id=13",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "67",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2428,
+    "article_url": "https://zxpress.ru/article.php?id=2428",
+    "print_url": "https://zxpress.ru/print.php?id=2428",
+    "title_link": "ZXNet - Порядок переписки с внешними сетями.",
+    "order": 2,
+    "issue_label": "67",
+    "short_slug": "ZXNet_-_Порядок_переписки_с_внешними_сетями"
+  },
+  {
+    "article_id": 2426,
+    "article_url": "https://zxpress.ru/article.php?id=2426",
+    "print_url": "https://zxpress.ru/print.php?id=2426",
+    "title_link": "Мозаика - Wlodek Black о работе своей BBS.",
+    "order": 3,
+    "issue_label": "67",
+    "short_slug": "Мозаика_-_Wlodek_Black_о_работе_своеи_BBS"
+  },
+  {
+    "article_id": 2427,
+    "article_url": "https://zxpress.ru/article.php?id=2427",
+    "print_url": "https://zxpress.ru/print.php?id=2427",
+    "title_link": "Новье !? - O играх: Night Breed, Titanic Blinky, Tuareg,\r\n Megablast, XEN, Dirt Track Racer, Arkarum, Quartet,\r\n Super Turbo Killer, Mapsnatch, Sky Ranger.",
+    "order": 4,
+    "issue_label": "67",
+    "short_slug": "Новье_-_O_играх_Night_Breed_Titanic_Blinky_Tuareg_Megablast"
+  },
+  {
+    "article_id": 2425,
+    "article_url": "https://zxpress.ru/article.php?id=2425",
+    "print_url": "https://zxpress.ru/print.php?id=2425",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "67",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

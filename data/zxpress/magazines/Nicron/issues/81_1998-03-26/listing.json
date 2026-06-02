@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7017,
+    "article_url": "https://zxpress.ru/article.php?id=7017",
+    "print_url": "https://zxpress.ru/print.php?id=7017",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "81",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7018,
+    "article_url": "https://zxpress.ru/article.php?id=7018",
+    "print_url": "https://zxpress.ru/print.php?id=7018",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "81",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7019,
+    "article_url": "https://zxpress.ru/article.php?id=7019",
+    "print_url": "https://zxpress.ru/print.php?id=7019",
+    "title_link": "Анонс - Eternity Industry.",
+    "order": 3,
+    "issue_label": "81",
+    "short_slug": "Анонс_-_Eternity_Industry"
+  },
+  {
+    "article_id": 7020,
+    "article_url": "https://zxpress.ru/article.php?id=7020",
+    "print_url": "https://zxpress.ru/print.php?id=7020",
+    "title_link": "Разное - необъяснимые способности кошек.",
+    "order": 4,
+    "issue_label": "81",
+    "short_slug": "Разное_-_необъяснимые_способности_кошек"
+  },
+  {
+    "article_id": 7021,
+    "article_url": "https://zxpress.ru/article.php?id=7021",
+    "print_url": "https://zxpress.ru/print.php?id=7021",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 5,
+    "issue_label": "81",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 7022,
+    "article_url": "https://zxpress.ru/article.php?id=7022",
+    "print_url": "https://zxpress.ru/print.php?id=7022",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "81",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7023,
+    "article_url": "https://zxpress.ru/article.php?id=7023",
+    "print_url": "https://zxpress.ru/print.php?id=7023",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "81",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

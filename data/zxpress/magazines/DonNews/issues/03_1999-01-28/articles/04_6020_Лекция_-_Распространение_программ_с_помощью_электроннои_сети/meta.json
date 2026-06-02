@@ -1,0 +1,15 @@
+{
+  "magazine_id": 58,
+  "magazine_name": "DonNews",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1999-01-28",
+  "order": 4,
+  "article_id": 6020,
+  "title_link": "Лекция - Распространение программ с помощью электронной сети.",
+  "title_h1": "DonNews 03 - Лекция - Распространение программ с помощью электронной сети.",
+  "print_url": "https://zxpress.ru/print.php?id=6020",
+  "article_url": "https://zxpress.ru/article.php?id=6020",
+  "fetched_at": "2026-05-31T21:58:24Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3727,
+    "article_url": "https://zxpress.ru/article.php?id=3727",
+    "print_url": "https://zxpress.ru/print.php?id=3727",
+    "title_link": "В гостях у друзей - статья из газеты \"Оптрон\".",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "В_гостях_у_друзеи_-_статья_из_газеты_Оптрон"
+  },
+  {
+    "article_id": 3731,
+    "article_url": "https://zxpress.ru/article.php?id=3731",
+    "print_url": "https://zxpress.ru/print.php?id=3731",
+    "title_link": "Вокруг смеха - Путин ответит за Андрея Боголюбского, как работают за компьютером женщины, фнекдоты, рассказы.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Вокруг_смеха_-_Путин_ответит_за_Андрея_Боголюбского_как_рабо"
+  },
+  {
+    "article_id": 3728,
+    "article_url": "https://zxpress.ru/article.php?id=3728",
+    "print_url": "https://zxpress.ru/print.php?id=3728",
+    "title_link": "Интересный разговор - интервью с Alex Raider/Flash INC",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Интересныи_разговор_-_интервью_с_Alex_RaiderFlash_INC"
+  },
+  {
+    "article_id": 3729,
+    "article_url": "https://zxpress.ru/article.php?id=3729",
+    "print_url": "https://zxpress.ru/print.php?id=3729",
+    "title_link": "Каракули головного мозга - о монстрах.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Каракули_головного_мозга_-_о_монстрах"
+  },
+  {
+    "article_id": 3726,
+    "article_url": "https://zxpress.ru/article.php?id=3726",
+    "print_url": "https://zxpress.ru/print.php?id=3726",
+    "title_link": "События, факты, комментарии - затопление станции \"Мир\", новые игрушки....",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "События_факты_комментарии_-_затопление_станции_Мир_новые_игр"
+  },
+  {
+    "article_id": 3730,
+    "article_url": "https://zxpress.ru/article.php?id=3730",
+    "print_url": "https://zxpress.ru/print.php?id=3730",
+    "title_link": "Удивительное рядом - 60 занимательных фактов.",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "Удивительное_рядом_-_60_занимательных_фактов"
+  }
+]

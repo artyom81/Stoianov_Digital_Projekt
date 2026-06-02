@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 8188,
+    "article_url": "https://zxpress.ru/article.php?id=8188",
+    "print_url": "https://zxpress.ru/print.php?id=8188",
+    "title_link": "Вступление - вступление к газете.",
+    "order": 1,
+    "issue_label": "41",
+    "short_slug": "Вступление_-_вступление_к_газете"
+  },
+  {
+    "article_id": 8178,
+    "article_url": "https://zxpress.ru/article.php?id=8178",
+    "print_url": "https://zxpress.ru/print.php?id=8178",
+    "title_link": "Новости - новости от Ковровских спектрумистов.",
+    "order": 2,
+    "issue_label": "41",
+    "short_slug": "Новости_-_новости_от_Ковровских_спектрумистов"
+  },
+  {
+    "article_id": 8179,
+    "article_url": "https://zxpress.ru/article.php?id=8179",
+    "print_url": "https://zxpress.ru/print.php?id=8179",
+    "title_link": "О разном - IS-DOS не так уж и плох?",
+    "order": 3,
+    "issue_label": "41",
+    "short_slug": "О_разном_-_IS-DOS_не_так_уж_и_плох"
+  },
+  {
+    "article_id": 8180,
+    "article_url": "https://zxpress.ru/article.php?id=8180",
+    "print_url": "https://zxpress.ru/print.php?id=8180",
+    "title_link": "Тема - почему Nemo такой сукин сын?",
+    "order": 4,
+    "issue_label": "41",
+    "short_slug": "Тема_-_почему_Nemo_такои_сукин_сын"
+  },
+  {
+    "article_id": 8181,
+    "article_url": "https://zxpress.ru/article.php?id=8181",
+    "print_url": "https://zxpress.ru/print.php?id=8181",
+    "title_link": "Тема - продолжение опуса от Nemo.",
+    "order": 5,
+    "issue_label": "41",
+    "short_slug": "Тема_-_продолжение_опуса_от_Nemo"
+  },
+  {
+    "article_id": 8182,
+    "article_url": "https://zxpress.ru/article.php?id=8182",
+    "print_url": "https://zxpress.ru/print.php?id=8182",
+    "title_link": "Наш гость - мемуары Alone Coder'a.",
+    "order": 6,
+    "issue_label": "41",
+    "short_slug": "Наш_гость_-_мемуары_Alone_Codera"
+  },
+  {
+    "article_id": 8183,
+    "article_url": "https://zxpress.ru/article.php?id=8183",
+    "print_url": "https://zxpress.ru/print.php?id=8183",
+    "title_link": "Железо - Руководство по программированию самой\r\nкрутой звуковой карты - DMA USC.",
+    "order": 7,
+    "issue_label": "41",
+    "short_slug": "Железо_-_Руководство_по_программированию_самоикрутои_звуково"
+  },
+  {
+    "article_id": 8184,
+    "article_url": "https://zxpress.ru/article.php?id=8184",
+    "print_url": "https://zxpress.ru/print.php?id=8184",
+    "title_link": "Новелла - Предсказание.",
+    "order": 8,
+    "issue_label": "41",
+    "short_slug": "Новелла_-_Предсказание"
+  },
+  {
+    "article_id": 8185,
+    "article_url": "https://zxpress.ru/article.php?id=8185",
+    "print_url": "https://zxpress.ru/print.php?id=8185",
+    "title_link": "Comics - История.",
+    "order": 9,
+    "issue_label": "41",
+    "short_slug": "Comics_-_История"
+  },
+  {
+    "article_id": 8186,
+    "article_url": "https://zxpress.ru/article.php?id=8186",
+    "print_url": "https://zxpress.ru/print.php?id=8186",
+    "title_link": "Comics - Прекрасное чувство.",
+    "order": 10,
+    "issue_label": "41",
+    "short_slug": "Comics_-_Прекрасное_чувство"
+  },
+  {
+    "article_id": 8187,
+    "article_url": "https://zxpress.ru/article.php?id=8187",
+    "print_url": "https://zxpress.ru/print.php?id=8187",
+    "title_link": "Birthday - поздравления спектрумистов с днями рождения.",
+    "order": 11,
+    "issue_label": "41",
+    "short_slug": "Birthday_-_поздравления_спектрумистов_с_днями_рождения"
+  },
+  {
+    "article_id": 8189,
+    "article_url": "https://zxpress.ru/article.php?id=8189",
+    "print_url": "https://zxpress.ru/print.php?id=8189",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 12,
+    "issue_label": "41",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 8190,
+    "article_url": "https://zxpress.ru/article.php?id=8190",
+    "print_url": "https://zxpress.ru/print.php?id=8190",
+    "title_link": "Credits - авторы газеты.",
+    "order": 13,
+    "issue_label": "41",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

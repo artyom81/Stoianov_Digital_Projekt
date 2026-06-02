@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 2972,
+    "article_url": "https://zxpress.ru/article.php?id=2972",
+    "print_url": "https://zxpress.ru/print.php?id=2972",
+    "title_link": "Автозагрузка - Автостарт программ с любого диска.",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "Автозагрузка_-_Автостарт_программ_с_любого_диска"
+  },
+  {
+    "article_id": 2962,
+    "article_url": "https://zxpress.ru/article.php?id=2962",
+    "print_url": "https://zxpress.ru/print.php?id=2962",
+    "title_link": "Винчестер - Что такое \"винчестер\" и для чего он нужен.",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "Винчестер_-_Что_такое_винчестер_и_для_чего_он_нужен"
+  },
+  {
+    "article_id": 2973,
+    "article_url": "https://zxpress.ru/article.php?id=2973",
+    "print_url": "https://zxpress.ru/print.php?id=2973",
+    "title_link": "Инструкция - Для матерых \"чайников\" :-)",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Инструкция_-_Для_матерых_чаиников_-"
+  },
+  {
+    "article_id": 2963,
+    "article_url": "https://zxpress.ru/article.php?id=2963",
+    "print_url": "https://zxpress.ru/print.php?id=2963",
+    "title_link": "Контроллер SMUC - Истрория создания.",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "Контроллер_SMUC_-_Истрория_создания"
+  },
+  {
+    "article_id": 2970,
+    "article_url": "https://zxpress.ru/article.php?id=2970",
+    "print_url": "https://zxpress.ru/print.php?id=2970",
+    "title_link": "Особенности - Особенности работы с жестким диском в подразделах TR-DOS.",
+    "order": 5,
+    "issue_label": "39",
+    "short_slug": "Особенности_-_Особенности_работы_с_жестким_диском_в_подразде"
+  },
+  {
+    "article_id": 2961,
+    "article_url": "https://zxpress.ru/article.php?id=2961",
+    "print_url": "https://zxpress.ru/print.php?id=2961",
+    "title_link": "От редакции - Спец. выпуск газеты...",
+    "order": 6,
+    "issue_label": "39",
+    "short_slug": "От_редакции_-_Спец_выпуск_газеты"
+  },
+  {
+    "article_id": 2964,
+    "article_url": "https://zxpress.ru/article.php?id=2964",
+    "print_url": "https://zxpress.ru/print.php?id=2964",
+    "title_link": "Подключение SMUC - Подключение контроллера к плате Scorpion ZS-256 Turbo+.",
+    "order": 7,
+    "issue_label": "39",
+    "short_slug": "Подключение_SMUC_-_Подключение_контроллера_к_плате_Scorpion"
+  },
+  {
+    "article_id": 2966,
+    "article_url": "https://zxpress.ru/article.php?id=2966",
+    "print_url": "https://zxpress.ru/print.php?id=2966",
+    "title_link": "Подключение - Настройка параметров винчестера из Теневого Монитора.",
+    "order": 8,
+    "issue_label": "39",
+    "short_slug": "Подключение_-_Настроика_параметров_винчестера_из_Теневого_Мо"
+  },
+  {
+    "article_id": 2968,
+    "article_url": "https://zxpress.ru/article.php?id=2968",
+    "print_url": "https://zxpress.ru/print.php?id=2968",
+    "title_link": "Подразделы - Разделение диска на логические устройства.",
+    "order": 9,
+    "issue_label": "39",
+    "short_slug": "Подразделы_-_Разделение_диска_на_логические_устроиства"
+  },
+  {
+    "article_id": 2971,
+    "article_url": "https://zxpress.ru/article.php?id=2971",
+    "print_url": "https://zxpress.ru/print.php?id=2971",
+    "title_link": "Работа с IS-DOS - Работа с жестким диском в системе IS-DOS.",
+    "order": 10,
+    "issue_label": "39",
+    "short_slug": "Работа_с_IS-DOS_-_Работа_с_жестким_диском_в_системе_IS-DOS"
+  },
+  {
+    "article_id": 2969,
+    "article_url": "https://zxpress.ru/article.php?id=2969",
+    "print_url": "https://zxpress.ru/print.php?id=2969",
+    "title_link": "Работа с TR-DOS - Коллекции TR-DOS дискет.",
+    "order": 11,
+    "issue_label": "39",
+    "short_slug": "Работа_с_TR-DOS_-_Коллекции_TR-DOS_дискет"
+  },
+  {
+    "article_id": 2965,
+    "article_url": "https://zxpress.ru/article.php?id=2965",
+    "print_url": "https://zxpress.ru/print.php?id=2965",
+    "title_link": "Работа с винтом - Подключаем жесткий диск.",
+    "order": 12,
+    "issue_label": "39",
+    "short_slug": "Работа_с_винтом_-_Подключаем_жесткии_диск"
+  },
+  {
+    "article_id": 2967,
+    "article_url": "https://zxpress.ru/article.php?id=2967",
+    "print_url": "https://zxpress.ru/print.php?id=2967",
+    "title_link": "Тестирование - Два теста : простой и сложный тест жесткого диска.",
+    "order": 13,
+    "issue_label": "39",
+    "short_slug": "Тестирование_-_Два_теста_простои_и_сложныи_тест_жесткого_дис"
+  }
+]

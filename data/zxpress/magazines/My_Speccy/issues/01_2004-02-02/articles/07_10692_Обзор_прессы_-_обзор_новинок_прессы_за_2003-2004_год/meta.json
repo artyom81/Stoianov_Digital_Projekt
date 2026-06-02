@@ -1,0 +1,15 @@
+{
+  "magazine_id": 132,
+  "magazine_name": "My Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2004-02-02",
+  "order": 7,
+  "article_id": 10692,
+  "title_link": "Обзор прессы - обзор новинок прессы за 2003-2004 год.",
+  "title_h1": "My Speccy 01 - Обзор прессы - обзор новинок прессы за 2003-2004 год.",
+  "print_url": "https://zxpress.ru/print.php?id=10692",
+  "article_url": "https://zxpress.ru/article.php?id=10692",
+  "fetched_at": "2026-05-31T22:31:24Z"
+}

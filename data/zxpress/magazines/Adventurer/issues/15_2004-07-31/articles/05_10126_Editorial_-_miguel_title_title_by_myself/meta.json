@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "2004-07-31",
+  "order": 5,
+  "article_id": 10126,
+  "title_link": "Editorial - miguel: ...title ..title by myself",
+  "title_h1": "Adventurer 15 - Editorial - miguel: ...title ..title by myself",
+  "print_url": "https://zxpress.ru/print.php?id=10126",
+  "article_url": "https://zxpress.ru/article.php?id=10126",
+  "fetched_at": "2026-05-31T21:35:42Z"
+}

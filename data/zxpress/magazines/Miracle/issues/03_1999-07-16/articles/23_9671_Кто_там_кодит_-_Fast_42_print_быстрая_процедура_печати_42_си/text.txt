@@ -1,0 +1,249 @@
+Miracle 03 - Кто там кодит? - Fast 42 print: быстрая процедура печати 42 символов  в строке.
+(c) Death Moroz
+----------------
+Быстрая процедура печати
+42 символов в строке
+Хотел бы поделиться некоторыми свои-
+ми  изысканиями  в  области  вывода 42-х
+символов  в  строке,  вся  суть которого
+состоит  в том, что в памяти создается 3
+дополнительных  фонта,  процедуры для их
+создания примерно следующие:
+FONT  EQU ADRES ;АДРЕС БАЗОВОГО ФОНТА
+FONT2 EQU 49152
+FONT3 EQU FONT2+4096
+FONT4 EQU FONT3+4096 ;АДРЕСА БУДУЩИХ ФОНТОВ
+;ИХ РАЗМЕРЫ  БУДУТ В 2
+;РАЗА БОЛЬШЕ ИСХОДНОГО
+;ПРОЦЕДУРА  СОЗДАНИЯ  ФОНТА СО СМЕЩЕНИЕМ 6
+;БИТ ОТ НАЧАЛА ЗНАКОМЕСТА:
+LD DE,FONT2
+LD HL,FONT
+LD BC,2048
+F_CR1 LD A,(HL)
+RLCA
+RLCA
+PUSH AF
+AND 3
+LD (DE),A
+INC DE
+POP AF
+АND 252
+LD (DE),A
+INC DE
+INC HL
+DEC BC
+LD A,B
+OR C
+JR NZ,F_CR1
+;ПРОЦЕДУРА  СОЗДАНИЯ  ФОНТА СО СМЕЩЕНИЕМ 4
+;БИТA ОТ НАЧАЛА ЗНАКОМЕСТА:
+LD DE,FONT3
+LD HL,FONT
+LD BC,2048
+F_CR2 LD A,(HL)
+RRCA
+RRCA
+RRCA
+RRCA
+PUSH AF
+AND 15
+LD (DE),A
+INC DE
+POP AF
+АND 240
+LD (DE),A
+INC DE
+INC HL
+DEC BC
+LD A,B
+OR C
+JR NZ,F_CR2
+;ПРОЦЕДУРА  СОЗДАНИЯ  ФОНТА СО СМЕЩЕНИЕМ 6
+;БИТ ОТ НАЧАЛА ЗНАКОМЕСТА:
+LD DE,FONT4
+LD HL,FONT
+LD BC,2048
+F_CR3 LD A,(HL)
+RRCA
+RRCA
+PUSH AF
+AND 63
+LD (DE),A
+INC DE
+POP AF
+АND 192
+LD (DE),A
+INC DE
+INC HL
+DEC BC
+LD A,B
+OR C
+JR NZ,F_CR3
+Далее  пример вывода строки фонтами,
+созданными таким способом. На входе в HL
+адрес текста, экран должен быть очищен.
+LD (SP_+1),SP
+BEGIN LD A,(HL)
+CP #0D ;ПРИЗНАК КОНЦА СТРОКИ
+JP Z,SP_
+INC HL
+EXX
+EX AF,AF'
+S_ADR LD DE,#4000 ;КУДА ВЫВОДИТЬ
+BITS  LD A,0 ;СМЕЩЕНИЕ ОТ НАЧАЛА ЗНАКОМЕСТА
+OR A
+JR Z,BIT0
+CP 6
+JR Z,BIT6
+CP 4
+JR Z,BIT4
+XOR A
+LD BC,FONT4
+JR S_OUT
+BIT4  LD A,2
+LD BC,FONT3
+JR S_OUT
+BIT6  LD BC,FONT2
+LD A,4
+S_OUT LD(BITS+1),A
+EX AF,AF'
+LD L,A
+LD H,0
+ADD HL,HL
+ADD HL,HL
+ADD HL,HL
+ADD HL,HL
+ADD HL,BC
+LD SP,HL
+EX DE,HL
+;───────────────┐
+POP BC;   │
+LD A,C;   │
+OR (HL);  │
+LD (HL),A;│ ПОВТОРИТЬ
+INC L;    │    4
+LD (HL),B;│   РАЗА
+INC H;    │
+POP BC;   │
+LD (HL),B;│
+DEC L;    │
+LD A,C;   │
+OR (HL);  │
+LD (HL),A;│
+INC H;    │
+;───────────────┘
+LD A,(S_ADR+1)
+INC A
+LD (S_ADR+1),A
+EXX
+JR BEGIN
+BIT0  EX AF,AF'
+LD L,A
+LD H,0
+ADD HL,HL
+ADD HL,HL
+ADD HL,HL
+LD BC,FONT
+ADD HL,BC
+LD SP,HL
+EX DE,HL
+;───────────────┐
+POP BC;   │
+LD (HL),C;│ ПОВТОРИТЬ
+INC H;    │    4
+LD (HL),B;│   РАЗА
+INC H;    │
+;───────────────┘
+LD A,6
+LD (BITS+1),A
+EXX
+JP BEGIN
+SP_   LD SP,0
+RET
+На последок дам примерчик процедурки
+установки  атрибутов  в  42-х символьной
+строке (без единого pop/push'a;)).:
+LD BC,TEXT_ADR
+LD DE,#5800 ;АДРЕС В АТРИБУТАХ
+LD A,68 ;ЦВЕТ ПО УМОЛЧАНИЮ
+LD (COLOR+1),A
+A_S0  LD HL,A_TABL
+A_S1  LD A,(BC)
+INC BC
+CP 32
+JR NC,A_K
+CP 3 ;КОД КОНЦА ТЕКСТА
+RET Z
+CP #0D ;КОД КОНЦА СТРОКИ
+JR Z,A_N
+CP #10 ;КОД СМЕНЫ АТРИБУТА
+JR Z,A_C
+;
+A_K   LD A,E
+EX AF,AF'
+LD A,E
+ADD A,(HL)
+LD E,A
+COLOR LD A,0
+LD (DE),A
+EX AF,AF'
+LD E,A
+INC HL
+JR A_S1
+A_C   LD A,(BC)
+LD (COLOR+1),A
+INC BC
+JR A_S1
+A_N   LD A,E
+EX AF,AF'
+LD A,E
+ADD A,(HL)
+LD E,A
+LD A,(COLOR+1)
+LD (DE),A
+EX AF,AF'
+LD E,A
+LD HL,32
+ADD HL,DE
+EX DE,HL
+LD A,D
+CP #5B
+JR C,A_S0
+RET
+A_TAB DB 0,0,1,2,3,3,4,5,6,6,7,8,9,9,10,11
+DB 12,12,13,14,15,15,16,17,18,18,19
+DB 20,21,21,22,23,24,24,25,26,27,27
+DB 28,29,30,30,31,31
+Пользуясь случаем, хотелось бы выра-
+зить свое мнение по поводу "ассемблеров,
+которые  мы  выбираем":  лично  для меня
+крутизна   ассемблера   определяется  не
+скоростью  компиляции,  не наличием кучи
+всяких  сетапов и оверлеев в виде минера
+& Co, а скоростью и удобством редактора,
+коим,  на мой взгляд, является XAS, ведь
+только в можно набрать:
+(hl)   .40
+и получить:
+ld (hl),#40
+Всеми  хваленый
+alasm
+завалил бы вас
+кучей  вопросов,  а  новоявленный
+storm
+обладает  таким мизерным объемом свобод-
+ной   памяти,  что  весь  его  фреймовый
+скроллинг  сводится  на  нет (хорошо,что
+хоть нет мультиколорного скрин-савера;))
+Для
+XAS'а
+же  достаточно  не портить 1
+банк...
+
+    А   об   макросах,   многооконности,
+пометках  строк  для быстрого перехода и
+прочего я вообще "молчу". Короче, кто им
+пользуется,  меня поймет. Всем несоглас-
+ным  просьба  обращаться в редакцию жур-
+нала...%)

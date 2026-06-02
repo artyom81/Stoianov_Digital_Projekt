@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 114,
+    "article_url": "https://zxpress.ru/article.php?id=114",
+    "print_url": "https://zxpress.ru/print.php?id=114",
+    "title_link": "ABOUT - О новой газете \"ASM PRESS\". О секретах в программах: MEGADRINK MegaDemo,INSULT MegaDemo, TANIUM 128, XECUTOR 128, TOM & JERRY 128.\r\n Рассказ о юзере или как я был в гостях у CYBORG'а.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "ABOUT_-_О_новои_газете_ASM_PRESS_О_секретах_в_программах_MEG"
+  },
+  {
+    "article_id": 8814,
+    "article_url": "https://zxpress.ru/article.php?id=8814",
+    "print_url": "https://zxpress.ru/print.php?id=8814",
+    "title_link": "TREE NEWS - О работе BBS'ок.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "TREE_NEWS_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 8815,
+    "article_url": "https://zxpress.ru/article.php?id=8815",
+    "print_url": "https://zxpress.ru/print.php?id=8815",
+    "title_link": "Мысли на тему - Зачем нужна ZX-Net или сисопы, которые думают только о себе.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Мысли_на_тему_-_Зачем_нужна_ZX-Net_или_сисопы_которые_думают"
+  },
+  {
+    "article_id": 8816,
+    "article_url": "https://zxpress.ru/article.php?id=8816",
+    "print_url": "https://zxpress.ru/print.php?id=8816",
+    "title_link": "Лит.Страничка - Повесть \"Мховое болото\" (часть 1-3).",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "ЛитСтраничка_-_Повесть_Мховое_болото_часть_1-3"
+  }
+]

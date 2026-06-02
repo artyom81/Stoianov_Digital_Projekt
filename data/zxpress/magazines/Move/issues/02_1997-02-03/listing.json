@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6255,
+    "article_url": "https://zxpress.ru/article.php?id=6255",
+    "print_url": "https://zxpress.ru/print.php?id=6255",
+    "title_link": "Предисловие - О новой оболочке газеты.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Предисловие_-_О_новои_оболочке_газеты"
+  },
+  {
+    "article_id": 6256,
+    "article_url": "https://zxpress.ru/article.php?id=6256",
+    "print_url": "https://zxpress.ru/print.php?id=6256",
+    "title_link": "Список BBS - Список, работающих BBS г.Минска.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Список_BBS_-_Список_работающих_BBS_гМинска"
+  },
+  {
+    "article_id": 6257,
+    "article_url": "https://zxpress.ru/article.php?id=6257",
+    "print_url": "https://zxpress.ru/print.php?id=6257",
+    "title_link": "Размышления - Бредовые мысли о дальнейшем развитии оболочки газеты.\r\n Почему газета \"нерегулярная\".",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Размышления_-_Бредовые_мысли_о_дальнеишем_развитии_оболочки"
+  },
+  {
+    "article_id": 6258,
+    "article_url": "https://zxpress.ru/article.php?id=6258",
+    "print_url": "https://zxpress.ru/print.php?id=6258",
+    "title_link": "Обзор - Обзор устройств для SPECCY :\r\n Видеопорт. Контроллер любой IBM клавиатуры.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Обзор_устроиств_для_SPECCY_Видеопорт_Контроллер_любо"
+  },
+  {
+    "article_id": 6259,
+    "article_url": "https://zxpress.ru/article.php?id=6259",
+    "print_url": "https://zxpress.ru/print.php?id=6259",
+    "title_link": "Программистам - Пишем Multicolor...",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Программистам_-_Пишем_Multicolor"
+  },
+  {
+    "article_id": 6260,
+    "article_url": "https://zxpress.ru/article.php?id=6260",
+    "print_url": "https://zxpress.ru/print.php?id=6260",
+    "title_link": "XOR'em ALL - XOR'ки и как с ними бороться : IMP PROTECTION SYSTEM'95 &\r\n GOLDEN EAGLE PROTECTION SYSTEM.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "XORem_ALL_-_XORки_и_как_с_ними_бороться_IMP_PROTECTION_SYSTE"
+  },
+  {
+    "article_id": 6261,
+    "article_url": "https://zxpress.ru/article.php?id=6261",
+    "print_url": "https://zxpress.ru/print.php?id=6261",
+    "title_link": "Интервью - Интервью с Николаем Кежевниковым (NICK SOFT)",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Интервью_-_Интервью_с_Николаем_Кежевниковым_NICK_SOFT"
+  },
+  {
+    "article_id": 6262,
+    "article_url": "https://zxpress.ru/article.php?id=6262",
+    "print_url": "https://zxpress.ru/print.php?id=6262",
+    "title_link": "Тест - Тест \"Умеете ли вы слушать собеседника\".",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Тест_-_Тест_Умеете_ли_вы_слушать_собеседника"
+  },
+  {
+    "article_id": 6263,
+    "article_url": "https://zxpress.ru/article.php?id=6263",
+    "print_url": "https://zxpress.ru/print.php?id=6263",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 113,
+  "magazine_name": "LntNews",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 4,
+  "article_id": 16150,
+  "title_link": "Часть четвёртая - Приветы, мессаги...",
+  "title_h1": "Anecdotes 01 - Часть четвёртая - Приветы, мессаги...",
+  "print_url": "https://zxpress.ru/print.php?id=16150",
+  "article_url": "https://zxpress.ru/article.php?id=16150",
+  "fetched_at": "2026-05-31T22:20:20Z"
+}

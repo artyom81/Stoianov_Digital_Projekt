@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1995-10-31",
+  "order": 9,
+  "article_id": 455,
+  "title_link": "Тусовка - Высказывания поклонников ZX-Spectrum.",
+  "title_h1": "Speccy 02 - Тусовка - Высказывания поклонников ZX-Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=455",
+  "article_url": "https://zxpress.ru/article.php?id=455",
+  "fetched_at": "2026-05-31T23:04:03Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1999-05-18",
+  "order": 4,
+  "article_id": 8307,
+  "title_link": "iSYSTEM - О системных программах: BEST VIEW v2.7 , MACRO MODEM v2.20 , HRUST v1.2, MICRO EDITOR v3.40, ZASM v3.10.",
+  "title_h1": "KrNews 09 - iSYSTEM - О системных программах: BEST VIEW v2.7 , MACRO MODEM v2.20 , HRUST v1.2, MICRO EDITOR v3.40, ZASM v3.10.",
+  "print_url": "https://zxpress.ru/print.php?id=8307",
+  "article_url": "https://zxpress.ru/article.php?id=8307",
+  "fetched_at": "2026-05-31T22:17:37Z"
+}

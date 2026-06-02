@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 11361,
+    "article_url": "https://zxpress.ru/article.php?id=11361",
+    "print_url": "https://zxpress.ru/print.php?id=11361",
+    "title_link": "ZX-Поинтовка - Лето. Жара. Отчего бы не собраться спектрумистам, которые сидят в это время в городе? Оторваться от компьютеров, пообщаться, просто развлечься?",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "ZX-Поинтовка_-_Лето_Жара_Отчего_бы_не_собраться_спектрумиста"
+  },
+  {
+    "article_id": 3527,
+    "article_url": "https://zxpress.ru/article.php?id=3527",
+    "print_url": "https://zxpress.ru/print.php?id=3527",
+    "title_link": "Demoscene - история возникновения, состав и софтография Omega Hackers Group.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Demoscene_-_история_возникновения_состав_и_софтография_Omega"
+  },
+  {
+    "article_id": 12110,
+    "article_url": "https://zxpress.ru/article.php?id=12110",
+    "print_url": "https://zxpress.ru/print.php?id=12110",
+    "title_link": "Почта - обзор: Insult Megademo, Skeletons, Color Balls, Crystall Kingdom Dizzy, The Addams Family.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Почта_-_обзор_Insult_Megademo_Skeletons_Color_Balls_Crystall"
+  },
+  {
+    "article_id": 6065,
+    "article_url": "https://zxpress.ru/article.php?id=6065",
+    "print_url": "https://zxpress.ru/print.php?id=6065",
+    "title_link": "События - Интервью с Андреем Логвиненко (FAyka) взятое на Chaos Constructions 2005.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "События_-_Интервью_с_Андреем_Логвиненко_FAyka_взятое_на_Chao"
+  },
+  {
+    "article_id": 15109,
+    "article_url": "https://zxpress.ru/article.php?id=15109",
+    "print_url": "https://zxpress.ru/print.php?id=15109",
+    "title_link": "Новости - Вот и подошло, подъехало, приплыло времеце, когда нужно выпустить этот второй номер очередного журнала \"Ультиматум\".",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Вот_и_подошло_подъехало_приплыло_времеце_когда_нуж"
+  },
+  {
+    "article_id": 10900,
+    "article_url": "https://zxpress.ru/article.php?id=10900",
+    "print_url": "https://zxpress.ru/print.php?id=10900",
+    "title_link": "Тусовка - отчет со второго сбора Латвийских спектрумистов.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Тусовка_-_отчет_со_второго_сбора_Латвииских_спектрумистов"
+  }
+]

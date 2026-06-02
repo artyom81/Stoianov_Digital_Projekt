@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3276,
+    "article_url": "https://zxpress.ru/article.php?id=3276",
+    "print_url": "https://zxpress.ru/print.php?id=3276",
+    "title_link": "AY Music Hit - 5 лучших AY-мелодий.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "AY_Music_Hit_-_5_лучших_AY-мелодии"
+  },
+  {
+    "article_id": 3273,
+    "article_url": "https://zxpress.ru/article.php?id=3273",
+    "print_url": "https://zxpress.ru/print.php?id=3273",
+    "title_link": "BBS List - График работы минской BBS.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "BBS_List_-_График_работы_минскои_BBS"
+  },
+  {
+    "article_id": 3278,
+    "article_url": "https://zxpress.ru/article.php?id=3278",
+    "print_url": "https://zxpress.ru/print.php?id=3278",
+    "title_link": "Hardware - О новой четырехканальной звуковой карте - DMA Sound.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Hardware_-_О_новои_четырехканальнои_звуковои_карте_-_DMA_Sou"
+  },
+  {
+    "article_id": 3279,
+    "article_url": "https://zxpress.ru/article.php?id=3279",
+    "print_url": "https://zxpress.ru/print.php?id=3279",
+    "title_link": "Have a Fun - История с пивной пробкой.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Have_a_Fun_-_История_с_пивнои_пробкои"
+  },
+  {
+    "article_id": 3275,
+    "article_url": "https://zxpress.ru/article.php?id=3275",
+    "print_url": "https://zxpress.ru/print.php?id=3275",
+    "title_link": "Rest In Pain - О глюках в программах: Pro Tracker, RDS v3.1.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Rest_In_Pain_-_О_глюках_в_программах_Pro_Tracker_RDS_v31"
+  },
+  {
+    "article_id": 3277,
+    "article_url": "https://zxpress.ru/article.php?id=3277",
+    "print_url": "https://zxpress.ru/print.php?id=3277",
+    "title_link": "Новости - Состав группы Smokers.",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Новости_-_Состав_группы_Smokers"
+  },
+  {
+    "article_id": 3272,
+    "article_url": "https://zxpress.ru/article.php?id=3272",
+    "print_url": "https://zxpress.ru/print.php?id=3272",
+    "title_link": "От авторов - Статус газеты изменен.",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "От_авторов_-_Статус_газеты_изменен"
+  },
+  {
+    "article_id": 3274,
+    "article_url": "https://zxpress.ru/article.php?id=3274",
+    "print_url": "https://zxpress.ru/print.php?id=3274",
+    "title_link": "Что нового - О новинках в Минске: Adventurer #9, ZX-Power #3, Scenergy #1.",
+    "order": 8,
+    "issue_label": "11",
+    "short_slug": "Что_нового_-_О_новинках_в_Минске_Adventurer_9_ZX-Power_3_Sce"
+  }
+]

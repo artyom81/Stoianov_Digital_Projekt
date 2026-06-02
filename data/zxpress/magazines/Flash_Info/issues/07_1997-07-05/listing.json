@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 10774,
+    "article_url": "https://zxpress.ru/article.php?id=10774",
+    "print_url": "https://zxpress.ru/print.php?id=10774",
+    "title_link": "Вступление - Главная новость прошедшей недели...?!!\r\nА нету ее.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Вступление_-_Главная_новость_прошедшеи_неделиА_нету_ее"
+  },
+  {
+    "article_id": 10775,
+    "article_url": "https://zxpress.ru/article.php?id=10775",
+    "print_url": "https://zxpress.ru/print.php?id=10775",
+    "title_link": "Новости - Новости от FLASH на 06.07.97 года.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_060797_года"
+  },
+  {
+    "article_id": 10776,
+    "article_url": "https://zxpress.ru/article.php?id=10776",
+    "print_url": "https://zxpress.ru/print.php?id=10776",
+    "title_link": "Новости - новости из других городов: \"- Спектрумом в нашем городе занимаются\r\nвсе меньше и меньше людей.Даже Хропов Вовка (IMP) продал свой Pentagon за 70$\".",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Новости_-_новости_из_других_городов_-_Спектрумом_в_нашем_гор"
+  },
+  {
+    "article_id": 10777,
+    "article_url": "https://zxpress.ru/article.php?id=10777",
+    "print_url": "https://zxpress.ru/print.php?id=10777",
+    "title_link": "Письма - открытое письм к Jurrasic Software.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Письма_-_открытое_письм_к_Jurrasic_Software"
+  },
+  {
+    "article_id": 10778,
+    "article_url": "https://zxpress.ru/article.php?id=10778",
+    "print_url": "https://zxpress.ru/print.php?id=10778",
+    "title_link": "Реклама - AMIGA RULEZ!",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_AMIGA_RULEZ"
+  }
+]

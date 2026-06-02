@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 4900,
+    "article_url": "https://zxpress.ru/article.php?id=4900",
+    "print_url": "https://zxpress.ru/print.php?id=4900",
+    "title_link": "Введение - номер посвящен Ижевской группе \"Power of Sound\".",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Введение_-_номер_посвящен_Ижевскои_группе_Power_of_Sound"
+  },
+  {
+    "article_id": 4901,
+    "article_url": "https://zxpress.ru/article.php?id=4901",
+    "print_url": "https://zxpress.ru/print.php?id=4901",
+    "title_link": "РССС1 - один день из жизни группы \"Power of Sound\".",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "РССС1_-_один_день_из_жизни_группы_Power_of_Sound"
+  },
+  {
+    "article_id": 4902,
+    "article_url": "https://zxpress.ru/article.php?id=4902",
+    "print_url": "https://zxpress.ru/print.php?id=4902",
+    "title_link": "РССС2 - один день из жизни группы \"Power of Sound\".",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "РССС2_-_один_день_из_жизни_группы_Power_of_Sound"
+  },
+  {
+    "article_id": 4904,
+    "article_url": "https://zxpress.ru/article.php?id=4904",
+    "print_url": "https://zxpress.ru/print.php?id=4904",
+    "title_link": "Happy 1 - выписка текста из скроллинга в 'Happy Demo 2' для \r\nZX Sspectrum, написанную под новый год приносящую людям радость.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Happy_1_-_выписка_текста_из_скроллинга_в_Happy_Demo_2_для_ZX"
+  },
+  {
+    "article_id": 4903,
+    "article_url": "https://zxpress.ru/article.php?id=4903",
+    "print_url": "https://zxpress.ru/print.php?id=4903",
+    "title_link": "Happy 2 - законы невезения и юмористическая реклама.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Happy_2_-_законы_невезения_и_юмористическая_реклама"
+  },
+  {
+    "article_id": 4905,
+    "article_url": "https://zxpress.ru/article.php?id=4905",
+    "print_url": "https://zxpress.ru/print.php?id=4905",
+    "title_link": "Интервью - интервью организатора группы Power of Sound, Кудрявцева И.В. (Himik ZxZ).",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Интервью_-_интервью_организатора_группы_Power_of_Sound_Кудря"
+  },
+  {
+    "article_id": 4907,
+    "article_url": "https://zxpress.ru/article.php?id=4907",
+    "print_url": "https://zxpress.ru/print.php?id=4907",
+    "title_link": "Pusher - Pusher v6.01p программа для выдирания и проигрывания музыки.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Pusher_-_Pusher_v601p_программа_для_выдирания_и_проигрывания"
+  },
+  {
+    "article_id": 4906,
+    "article_url": "https://zxpress.ru/article.php?id=4906",
+    "print_url": "https://zxpress.ru/print.php?id=4906",
+    "title_link": "Презент - о приложении газеты.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Презент_-_о_приложении_газеты"
+  },
+  {
+    "article_id": 4908,
+    "article_url": "https://zxpress.ru/article.php?id=4908",
+    "print_url": "https://zxpress.ru/print.php?id=4908",
+    "title_link": "Рекалама - реклама от Ижевского Profi клуба и не только.",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Рекалама_-_реклама_от_Ижевского_Profi_клуба_и_не_только"
+  }
+]

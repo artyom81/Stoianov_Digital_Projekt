@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3995,
+    "article_url": "https://zxpress.ru/article.php?id=3995",
+    "print_url": "https://zxpress.ru/print.php?id=3995",
+    "title_link": "От автора - Позади установочная сессия...",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "От_автора_-_Позади_установочная_сессия"
+  },
+  {
+    "article_id": 3996,
+    "article_url": "https://zxpress.ru/article.php?id=3996",
+    "print_url": "https://zxpress.ru/print.php?id=3996",
+    "title_link": "О терракте - Терракт в Волгодонске...",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "О_терракте_-_Терракт_в_Волгодонске"
+  },
+  {
+    "article_id": 3997,
+    "article_url": "https://zxpress.ru/article.php?id=3997",
+    "print_url": "https://zxpress.ru/print.php?id=3997",
+    "title_link": "Обзор новинок - О новинках: AWAKEN demo version.",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Обзор_новинок_-_О_новинках_AWAKEN_demo_version"
+  },
+  {
+    "article_id": 3998,
+    "article_url": "https://zxpress.ru/article.php?id=3998",
+    "print_url": "https://zxpress.ru/print.php?id=3998",
+    "title_link": "UFO - НЛО: Вопросы и ответы (часть 3).",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "UFO_-_НЛО_Вопросы_и_ответы_часть_3"
+  },
+  {
+    "article_id": 3999,
+    "article_url": "https://zxpress.ru/article.php?id=3999",
+    "print_url": "https://zxpress.ru/print.php?id=3999",
+    "title_link": "Поздравляем - С днем учителя! С днем рождения MICK (from Rostov).",
+    "order": 5,
+    "issue_label": "39",
+    "short_slug": "Поздравляем_-_С_днем_учителя_С_днем_рождения_MICK_from_Rosto"
+  },
+  {
+    "article_id": 4000,
+    "article_url": "https://zxpress.ru/article.php?id=4000",
+    "print_url": "https://zxpress.ru/print.php?id=4000",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "39",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4001,
+    "article_url": "https://zxpress.ru/article.php?id=4001",
+    "print_url": "https://zxpress.ru/print.php?id=4001",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "39",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

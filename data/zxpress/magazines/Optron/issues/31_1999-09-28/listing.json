@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1568,
+    "article_url": "https://zxpress.ru/article.php?id=1568",
+    "print_url": "https://zxpress.ru/print.php?id=1568",
+    "title_link": "ZX-Net - ZX-Net сеть для Спектрумистов.",
+    "order": 1,
+    "issue_label": "31",
+    "short_slug": "ZX-Net_-_ZX-Net_сеть_для_Спектрумистов"
+  },
+  {
+    "article_id": 1569,
+    "article_url": "https://zxpress.ru/article.php?id=1569",
+    "print_url": "https://zxpress.ru/print.php?id=1569",
+    "title_link": "Железо - CMOS для всех.",
+    "order": 2,
+    "issue_label": "31",
+    "short_slug": "Железо_-_CMOS_для_всех"
+  },
+  {
+    "article_id": 1571,
+    "article_url": "https://zxpress.ru/article.php?id=1571",
+    "print_url": "https://zxpress.ru/print.php?id=1571",
+    "title_link": "Лит. страничка - Знакомьтесь: эхоконференция ZXNET.BOOKS.",
+    "order": 3,
+    "issue_label": "31",
+    "short_slug": "Лит_страничка_-_Знакомьтесь_эхоконференция_ZXNETBOOKS"
+  },
+  {
+    "article_id": 1572,
+    "article_url": "https://zxpress.ru/article.php?id=1572",
+    "print_url": "https://zxpress.ru/print.php?id=1572",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 4,
+    "issue_label": "31",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1570,
+    "article_url": "https://zxpress.ru/article.php?id=1570",
+    "print_url": "https://zxpress.ru/print.php?id=1570",
+    "title_link": "Рубрика X - Новелла к \"Черному ворону\" (окончание).",
+    "order": 5,
+    "issue_label": "31",
+    "short_slug": "Рубрика_X_-_Новелла_к_Черному_ворону_окончание"
+  },
+  {
+    "article_id": 1567,
+    "article_url": "https://zxpress.ru/article.php?id=1567",
+    "print_url": "https://zxpress.ru/print.php?id=1567",
+    "title_link": "Четыре килобайта - Оптрону - два года.",
+    "order": 6,
+    "issue_label": "31",
+    "short_slug": "Четыре_килобаита_-_Оптрону_-_два_года"
+  }
+]

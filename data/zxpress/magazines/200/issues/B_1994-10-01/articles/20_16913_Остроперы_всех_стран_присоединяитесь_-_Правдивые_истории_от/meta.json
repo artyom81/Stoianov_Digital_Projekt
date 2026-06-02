@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "B",
+  "issue_date_iso": "1994-10-01",
+  "order": 20,
+  "article_id": 16913,
+  "title_link": "Остропёры всех стран, присоединяйтесь! - Правдивые истории от Змея Горыныча.",
+  "title_h1": "200 B - Остропёры всех стран, присоединяйтесь! - Правдивые истории от Змея Горыныча.",
+  "print_url": "https://zxpress.ru/print.php?id=16913",
+  "article_url": "https://zxpress.ru/article.php?id=16913",
+  "fetched_at": "2026-05-31T21:29:15Z"
+}

@@ -1,0 +1,706 @@
+MSF 29 - Железо - Назначение перемычек 3.5" дисководов.
+назначение перемычек 3.5" дисководов
+форма записи:
+модель дисковода                        
+наименование джампера                   
+описание функции                        
+положение
+для   разных  модификаций  одной  модели
+положения  джамперов могут отличаются. в
+таком  случае  указано  две  модификации
+модели  и положение джамперов для каждой
+из них
+-
+pANASoNIC Ju-257-oЗT                    
+pANASoNIC Ju-257-oЗp
+Do
+drive selected as DRIVE o
+oFF
+D1
+drive selected as DRIVE 1
+oN
+D2
+drive selected as DRIVE 2
+oFF
+D3
+drive selected as DRIVE 3
+oFF
+Mo
+spindle motor controlled ьУ the motor on
+signal
+oN
+MS
+spindle  motor  controlled  ьУ the drive
+select signal
+oFF
+DC
+disk  change  is the signal on pin 34 of
+the interface connector
+oN
+RY
+readY  is  the  signal  on pin 34 of the
+interface connector
+oFF
+TM
+terminator
+oN
+-
+pANASoNIC Ju-257A-o81p                  
+pANASoNIC Ju-257A-1o1p
+Do
+drive selected as DRIVE o
+oFF oFF
+D1
+drive selected as DRIVE 1
+oN oN
+D2
+drive selected as DRIVE 2
+oFF oFF
+D3
+drive selected as DRIVE 3
+oFF oFF
+Mo
+spindle motor controlled ьУ the motor on
+signal
+oN oN
+MS
+spindle  motor  controlled  ьУ the drive
+select signal
+oFF oFF
+NC
+pin  2 of the interface connector is not
+connected
+oFF oFF
+HD
+HD is the pin 2 output signal
+oFF oN
+TM
+terminator
+oN oN
+AT
+mode select pS2 (oFF) or pCAT (oN)
+oFF oFF
+-
+pANASoNIC Ju-257A-o83p                  
+pANASoNIC Ju-257A-o8ЗpJ                 
+pANASoNIC Ju-257A-1oЗp                  
+pANASoNIC Ju-257A-1oЗpJ
+SWЗ-o
+drive selected as DRIVE o
+oFF oFF
+SWЗ-1
+drive selected as DRIVE 1
+oN oN
+SWЗ-2
+drive selected as DRIVE 2
+oFF oFF
+SWЗ-3
+drive selected as DRIVE 3
+oFF oFF
+SW2-Mo
+spindle motor controlled ьУ the motor on
+signal
+oN oN
+SW2-MS
+spindle  motor  controlled  ьУ the drive
+select signal
+oFF oFF
+SW1-RY
+disk  change  is the signal on pin 34 of
+the interface connector
+oN oN
+SW1-DC
+readY  is  the  signal  on pin 34 of the
+interface connector
+oFF oFF
+SWS-pS2
+pS2 mode select
+oN oN
+SWS-AT
+pCAT mode select
+oFF oFF
+SWб
+pin  2 of the interface connector is not
+connected
+oN oFF
+SWб
+HD  is the output signal on pin 2 of the
+interface connector
+oFF oN
+-
+pANASoNIC Ju-257A-293p
+SWЗ-o
+drive selected as DRIVE o
+oFF
+SWЗ-1
+drive selected as DRIVE 1
+oN
+SWЗ-2
+drive selected as DRIVE 2
+oFF
+SWЗ-3
+drive selected as DRIVE 3
+oFF
+SW2-Mo
+spindle motor controlled ьУ the motor on
+signal
+oN
+SW2-MS
+spindle  motor  controlled  ьУ the drive
+select signal
+oFF
+SW1-RY
+disk  change  is the signal on pin 34 of
+the interface connector
+oN
+SW1-DC
+readY  is  the  signal  on pin 34 of the
+interface connector
+oFF
+SWS-pS2
+pS2 mode select
+oFF
+SWS-AT
+pCAT mode select
+oN
+SWб
+pin  2 of the interface connector is not
+connected
+oFF
+SWб
+HD  is the output signal on pin 2 of the
+interface connector
+oN
+-
+pANASoNIC Ju-257A-84p                   
+pANASoNIC Ju-257A-1oЧp
+SWЗ-o
+drive selected as DRIVE o
+oFF oFF
+SWЗ-1
+drive selected as DRIVE 1
+oN oN
+SWЗ-2
+drive selected as DRIVE 2
+oFF oFF
+SWЗ-3
+drive selected as DRIVE 3
+oFF oFF
+SW2-NC
+pin  2 of the interface connector is not
+connected
+oN oFF
+SW2-ouT
+-HD is the output signal on pin 2 of the
+interface connector
+oFF oN
+SW1-IN
++HD  is the input signal on pin 2 of the
+interface connector
+oFF oFF
+-
+pANASoNIC Ju-257A-294p
+SWЗ-o
+drive selected as DRIVE o
+oFF
+SWЗ-1
+drive selected as DRIVE 1
+oN
+SWЗ-2
+drive selected as DRIVE 2
+oFF
+SWЗ-3
+drive selected as DRIVE 3
+oFF
+SW2-NC
+pin  2 of the interface connector is not
+connected
+oFF
+SW2-ouT
+-HD is the output signal on pin 2 of the
+interface connector
+oFF
+SW1-IN
++HD  is the input signal on pin 2 of the
+interface connector
+oN
+-
+SoNY Mp-F17W-8oD
+o
+drive selected as DRIVE o
+oFF
+1
+drive selected as DRIVE 1
+oN
+2
+drive selected as DRIVE 2
+oFF
+3
+drive selected as DRIVE 3
+oFF
+-
+SoNY Mp-F17W-82D
+DSo
+drive selected as DRIVE o
+oFF
+DS1
+drive selected as DRIVE 1
+oN
+DS2
+drive selected as DRIVE 2
+oFF
+DSЗ
+drive selected as DRIVE 3
+oFF
+HD
+HD  sense  is the signal on pin 2 of the
+interface connector
+oN
+-
+SoNY Mp-F17W-84                         
+SoNY Mp-F17W-85
+DSo
+drive selected as DRIVE o
+oFF oFF
+DS1
+drive selected as DRIVE 1
+oN oN
+DENSITY STATuS
+densitY Status is the signal on pin 2 of
+the interface connector
+oFF oN
+-
+SoNY Mp-F17W-86
+o
+drive selected as DRIVE o
+oFF
+1
+drive selected as DRIVE 1
+oN
+2
+drive selected as DRIVE 2
+oFF
+3
+drive selected as DRIVE 3
+oFF
+-
+У-E DATA YD-7o2B-бoЗ9B
+У-E DATA YD-7o2B-бoЗ7B
+Зоо
+enable Зоо Kbit/sec transfer rate
+oFF oFF
+IF
+oFF oN
+HD
+issues the HD sense signal on pin 2
+oN oFF
+M2
+spindle  motor  controlled  ьУ the drive
+select signal
+oFF oFF
+M1
+oN oFF
+p1
+oFF oFF
+RY
+readY  is  the  signal  on pin 34 of the
+interface connector
+oFF oFF
+DC
+disk  change  is the signal on pin 34 of
+the interface connector
+oN oN
+DSЗ
+drive selected as DRIVE 3
+oFF oFF
+DS2
+drive selected as DRIVE 2
+oFF oFF
+DS1
+drive selected as DRIVE 1
+oN oN
+DSo
+drive selected as DRIVE o
+oFF oFF
+-
+MITSuBISHI MF-355C-58ML                 
+MITSuBISHI MF-355C-58MF
+Jp2-IS
+front LED controlled ьУ the drive select
+signal
+oN oN
+Jp2-Iu
+front LED controlled ьУ the readY signal
+oFF oFF
+JpЗ-DSo
+drive selected as DRIVE o
+oFF oFF
+JpЗ-DS1
+drive selected as DRIVE 1
+oN oN
+Jp2-MM
+motor start-up ьУ the motor-on signal
+oN oN
+Jp2-MS
+motor   start-up  ьУ  the  drive  select
+signal
+oFF oFF
+Jp2-HI
+oFF oFF
+Jp2-HD
+oN oN
+Jp2-SW
+oFF oFF
+Jp1-HD
+oFF oN
+Jp1-LD
+oN oFF
+JpЧ-HD
+issues the HD sense signal on pin 2
+oN oFF
+JpЧ-NC
+pin 2 not connected
+oFF oN
+Jp2-SR
+issues the standard readY signal on pin 
+34
+oFF oFF
+Jp2-DC
+issues the disk change signal on pin 34
+oN oN
+Jp2-(DC)
+issues the disk change signal on pin 2
+oFF oFF
+EpSoN SMD1oЧo-418
+1-6
+drive selected as DRIVE o
+oFF
+1-2
+drive selected as DRIVE 1
+oN
+3-8                                     
+4-9
+mode is selected ьУ an internal sensor. 
+I/F  pins  7,  9 and 11 are connected to
+GND.
+oFF
+3-4                                     
+7-8
+mode is selected ьУ signal HDI.         
+mode  2M is set With input signal HDI at
+loW level.                              
+I/F pins 7, 9 and 11 are open.
+oFF
+4-9                                     
+7-8
+mode is selected ьУ input signal HDI.   
+mode  2M is set With input signal HDI at
+high level.                             
+I/F  pins  7,  9 and 11 are connected to
+GND.
+oN
+-
+EpSoN SMD1oЧo-321
+3-8                                     
+4-5
+mode is selected ьУ an internal sensor. 
+I/F pins 1, 3 and 5 are connected to the
++5 V.
+oFF
+3-4                                     
+7-8
+mode is selected ьУ an internal sensor.
+When  medium 2HD is inserted, the output
+signal on pin 9 is loW.                 
+I/F pins 7, 9 and 11 are open.
+oFF
+4-5                                     
+7-8
+mode is selected ьУ input signal HDI.   
+mode  2M is set When input signal HDI is
+at high level.                          
+I/F pins 1, 3 and 5 are connected to the
++5 V.
+oN
+-
+EpSoN SMD1oЧo-419
+1-6
+drive selected as DRIVE o
+oFF
+1-2
+drive selected as DRIVE 1
+oN
+3-8                                     
+4-9
+the  mode  is  selected  ьУ  an internal
+sensor.                                 
+I/F  pins  7,  9 and 11 are connected to
+GND.
+oN
+3-4                                     
+7-8
+the  mode  is  selected ьУ the HDI input
+signal                                  
+mode  2M  is selected ьУ a loW HDI input
+signal                                  
+I/F pins 7, 9 and 11 are open.
+oFF
+4-9                                     
+7-8
+the  mode  is  selected ьУ the HDI input
+signal                                  
+mode  2M is selected ьУ a high HDI input
+signal.                                 
+I/F  pins  7,  9 and 11 are connected to
+GND.
+oFF
+-
+TEAC FD2З5HF-4473
+DS1
+drive selected as DRIVE 1
+oN
+DSo
+drive selected as DRIVE o
+oFF
+HA
+densitY set automaticallY (mode 2)
+oN
+HI
+densitY set ьУ HD IN on pin 2 (mode 1)
+oFF
+Ho
+HD ouT on pin 2 (mode 3)
+oFF
+-
+У-E DATA YD-7o2D-бoЗ7D
+IF, T1, T2
+automatic sWitching operating mode
+oFF
+H2
+sends the HD sense signal on pin 2
+oN
+H4
+sends the HD sense signal on pin 4
+oFF
+RY
+the  readY  signal  is  on pin 34 of the
+interface connector
+oFF
+DC
+the  disk  change signal is on pin 34 of
+the interface connector
+oN
+DS1
+drive selected as DRIVE 1
+oN
+DSo
+drive selected as DRIVE o
+oFF
+-
+MITSuMI D359T3
+1
+not connected
+oFF
+2
+not connected
+oFF
+3
+drive selected as DRIVE 1
+oN
+4
+drive selected as DRIVE 2
+oFF
+5
+drive selected as DRIVE o
+oFF
+6
+shift   from   normal  densitY  to  high
+densitY through disk insertion
+oN
+7
+high densitY input
+oFF
+8
+loW densitY input
+oFF
+9
+loW densitY output
+oFF
+1o
+high densitY output
+oN
+-
+TEAC FD2З5HF-6573
+DSo
+drive selected as DRIVE o on pin 1o
+oFF
+DS1
+drive selected as DRIVE 1 on pin 12
+oN
+DS2
+drive selected as DRIVE 2 on pin 14
+oFF
+DSЗ
+drive selected as DRIVE 3 on pin 6
+oFF
+RY34
+READY output on pin 34
+oFF
+DCЗЧ
+DISK CHANGE output on pin 34
+oFF
+DC2
+DISK CHANGE output on pin 2
+oFF
+HA
+densitY set automaticallY ьУ the sensor
+oN
+HI2
+densitY set ьУ HD IN on pin 2
+oFF
+Ho2
+HD ouT output on pin 2
+oFF
+IR
+LED on: drive Select * readY
+oFF
+ACD (A) or (B)
+auto-checking at poWer on enabled
+oFF
+REN
+auto-recalibration at poWer on disabled
+oFF
+FG
+the  drive  ground  is  connected to the
+ground of the pCBA board
+oFF
+-
+У-E DATA YD-7o2D-6537D
+IF
+selects the capacitY                    
+mode 2 (2.o/1.o MB)                     
+automatic sWitching operation           
+2.o MB: if a high densitY disk is used  
+1.o MB: if a double densitY disk is used
+oFF *
+mode 3 (2.o/1.6/1.o MB)                 
+automatic  sWitching  With "mode select"
+operation                               
+2.o  MB:  if a high densitY disk is used
+With "mode select" high                 
+1.6  MB:  if a high densitY disk is used
+With "mode select" loW                  
+1.o  MB:  if  a  double  densitY disk is
+used; "mode select" is not used
+oN
+H2
+selects the output of the "high DensitY"
+signal                                  
+the  high  densitY  signal is applied to
+interface connector pin 2
+oN
+the  high  densitY signal is not applied
+to the interface connector
+oFF *
+DS1
+drive selected as DRIVE 1
+oN *
+DSo
+drive selected as DRIVE o
+oFF
+-
+SoNY Mp-FЧoW-17                         
+SoNY Mp-FЧoW-17/1                       
+SoNY Mp-FЧoW-31
+o
+drive selected as DRIVE o
+oFF
+1
+drive selected as DRIVE 1
+oN
+2
+drive selected as DRIVE 2
+oFF
+-
+TEAC FD235J-5636
+DSo
+drive selected as DRIVE o on pin 1o
+oFF
+DS1
+drive selected as DRIVE 1 on pin 12
+oN
+DS2
+drive selected as DRIVE 2 on pin 14
+oFF
+DSЗ
+drive selected as DRIVE 3 on pin 6
+oFF
+RY34
+READY output on pin 34
+oFF
+DC2
+DISK CHANGE output on pin 2
+oFF
+DCЗЧ
+DISK CHANGE output on pin 34
+oFF
+HIS
+HD set automaticallY ьУ the HD sensor
+oN
+HI2
+HD IN input on pin 2
+oFF
+HIб
+HD IN input on pin 6
+oFF
+EIS
+ED set automaticallY ьУ the ED sensor
+oN
+EI2
+ED IN input on pin 2
+oFF
+EIб
+ED IN input on pin 6
+oFF
+EIЗЗ
+ED IN input on pin 33
+oFF
+HoЧ
+HD ouT output on pin 4
+oFF
+Ho27
+HD ouT output on pin 27
+oN
+HoЗЗ
+HD ouT output on pin 33
+oFF
+Eoб
+ED ouT output on pin 6
+oFF
+Eo17
+ED ouT output on pin 17
+oN
+Eo29
+ED ouT output on pin 29
+oFF
+oIV
+HD  ouT  /  ED ouT level inverted, loW =
+true
+oFF
+DIV
+HD IN / ED IN level assignment
+oFF
+MSC
+oFF
+G17
+DC oV on pin 17
+oFF
+G27
+DC oV on pin 27
+oFF
+G29
+DC oV on pin 29
+oN
+FG
+drive ground connected to pCBA ground
+oFF

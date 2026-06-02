@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "39",
+  "issue_date_iso": "2005-03-17",
+  "order": 2,
+  "article_id": 17992,
+  "title_link": "Опрос - какие у вас ПЗУ.",
+  "title_h1": "ACNews 39 - Опрос - какие у вас ПЗУ.",
+  "print_url": "https://zxpress.ru/print.php?id=17992",
+  "article_url": "https://zxpress.ru/article.php?id=17992",
+  "fetched_at": "2026-05-31T21:31:06Z"
+}

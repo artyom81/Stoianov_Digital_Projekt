@@ -1,0 +1,315 @@
+Think 18 - Ассемблер - Индикатор - мерцающие полоски.
+╔═══════════╗
+              ║
+АССЕМБЛЕР
+║
+              ╚═══════════╝
+ИНДИКАТОР - МЕРЦАЮЩИЕ ПОЛОСКИ.
+.      .     .      .     .
+ORG     50000
+LD      (LC5F2+1),SP
+        LD      BC,#FFFD
+┌────────────
+LD      D,8
+│  исходный
+OUT     (C),D
+│текст проце-
+IN      A,(C)
+│дуры записан
+AND     #0F
+│после  этого
+LD      E,A
+│номера газе-
+SRL     A
+│ты..........
+LD      (LC555+1),A
+└────────────
+LD      SP,#5AA8
+        LD      L,A
+LD      H,A
+        PUSH    HL
+        PUSH    HL
+        LD      H,0
+        LD      L,E
+        ADD     HL,HL
+        ADD     HL,HL
+        ADD     HL,HL
+        LD      D,0
+        LD      E,L
+        ADD     HL,HL
+        ADD     HL,DE
+        LD      DE,LA06E
+        ADD     HL,DE
+        LD      SP,HL
+        POP     HL
+        LD      (#51A4),HL
+        POP     HL
+        LD      (#51A6),HL
+        POP     HL
+        LD      (#52A4),HL
+        POP     HL
+LD      (#52A6),HL
+        POP     HL
+        LD      (#53A4),HL
+        POP     HL
+        LD      (#53A6),HL
+        POP     HL
+        LD      (#54A4),HL
+        POP     HL
+        LD      (#54A6),HL
+        POP     HL
+        LD      (#55A4),HL
+        POP     HL
+        LD      (#55A6),HL
+        POP     HL
+        LD      (#56A4),HL
+        POP     HL
+        LD      (#56A6),HL
+        LD      D,9
+        OUT     (C),D
+        IN      A,(C)
+        AND     #0F
+        LD      E,A
+SRL     A
+        LD      (LC557+1),A
+        LD      SP,#5AB2
+        LD      L,A
+        LD      H,A
+        PUSH    HL
+        PUSH    HL
+        LD      H,0
+        LD      L,E
+        ADD     HL,HL
+        ADD     HL,HL
+        ADD     HL,HL
+        LD      D,0
+        LD      E,L
+        ADD     HL,HL
+        ADD     HL,DE
+        LD      DE,LA06E
+        ADD     HL,DE
+        LD      SP,HL
+        POP     HL
+        LD      (#51AE),HL
+        POP     HL
+LD      (#51B0),HL
+        POP     HL
+        LD      (#52AE),HL
+        POP     HL
+        LD      (#52B0),HL
+        POP     HL
+        LD      (#53AE),HL
+        POP     HL
+        LD      (#53B0),HL
+        POP     HL
+        LD      (#54AE),HL
+        POP     HL
+        LD      (#54B0),HL
+        POP     HL
+        LD      (#55AE),HL
+        POP     HL
+        LD      (#55B0),HL
+        POP     HL
+        LD      (#56AE),HL
+        POP     HL
+        LD      (#56B0),HL
+        LD      D,#0A
+OUT     (C),D
+        IN      A,(C)
+        AND     #0F
+        LD      E,A
+        SRL     A
+        LD      (LC5A5+1),A
+        LD      SP,#5ABC
+        LD      L,A
+        LD      H,A
+        PUSH    HL
+        PUSH    HL
+        LD      H,0
+        LD      L,E
+        ADD     HL,HL
+        ADD     HL,HL
+        ADD     HL,HL
+        LD      D,0
+        LD      E,L
+        ADD     HL,HL
+        ADD     HL,DE
+        LD      DE,LA06E
+        ADD     HL,DE
+LD      SP,HL
+        POP     HL
+        LD      (#51B8),HL
+        POP     HL
+        LD      (#51BA),HL
+        POP     HL
+        LD      (#52B8),HL
+        POP     HL
+        LD      (#52BA),HL
+        POP     HL
+        LD      (#53B8),HL
+        POP     HL
+        LD      (#53BA),HL
+        POP     HL
+        LD      (#54B8),HL
+        POP     HL
+        LD      (#54BA),HL
+        POP     HL
+        LD      (#55B8),HL
+        POP     HL
+        LD      (#55BA),HL
+        POP     HL
+LD      (#56B8),HL
+        POP     HL
+        LD      (#56BA),HL
+LC555
+LD      A,0
+LC557
+LD      B,5
+        LD      C,B
+        ADD     A,B
+        LD      E,A
+        SRL     A
+        LD      SP,#5AAD
+        LD      L,A
+        LD      H,A
+        PUSH    HL
+        PUSH    HL
+        LD      H,0
+        LD      L,E
+        ADD     HL,HL
+        ADD     HL,HL
+        ADD     HL,HL
+        LD      D,0
+        LD      E,L
+        ADD     HL,HL
+ADD     HL,DE
+        LD      DE,LA06E
+        ADD     HL,DE
+        LD      SP,HL
+        POP     HL
+        LD      (#51A9),HL
+        POP     HL
+        LD      (#51AB),HL
+        POP     HL
+        LD      (#52A9),HL
+        POP     HL
+        LD      (#52AB),HL
+        POP     HL
+        LD      (#53A9),HL
+        POP     HL
+        LD      (#53AB),HL
+        POP     HL
+        LD      (#54A9),HL
+        POP     HL
+        LD      (#54AB),HL
+        POP     HL
+        LD      (#55A9),HL
+POP     HL
+        LD      (#55AB),HL
+        POP     HL
+        LD      (#56A9),HL
+        POP     HL
+        LD      (#56AB),HL
+LC5A5
+LD      A,7
+        ADD     A,C
+        LD      E,A
+        SRL     A
+        LD      SP,#5AB7
+        LD      L,A
+        LD      H,A
+        PUSH    HL
+        PUSH    HL
+        LD      H,0
+        LD      L,E
+        ADD     HL,HL
+        ADD     HL,HL
+        ADD     HL,HL
+        LD      D,0
+        LD      E,L
+ADD     HL,HL
+        ADD     HL,DE
+        LD      DE,LA06E
+        ADD     HL,DE
+        LD      SP,HL
+        POP     HL
+        LD      (#51B3),HL
+        POP     HL
+        LD      (#51B5),HL
+        POP     HL
+        LD      (#52B3),HL
+        POP     HL
+        LD      (#52B5),HL
+        POP     HL
+        LD      (#53B3),HL
+        POP     HL
+        LD      (#53B5),HL
+        POP     HL
+        LD      (#54B3),HL
+        POP     HL
+        LD      (#54B5),HL
+        POP     HL
+LD      (#55B3),HL
+        POP     HL
+        LD      (#55B5),HL
+        POP     HL
+        LD      (#56B3),HL
+        POP     HL
+        LD      (#56B5),HL
+LC5F2
+LD      SP,#6190
+RET
+LA06E
+DEFB 0,0,0,0,0,0,0,0,0,0,0,0,0,0
+       DEFB 0,0,0,0,0,0,0,0,0,0,0,1,#80
+       DEFB 0,0,1,#80,0,0,1,#80,0,0,1,#80
+       DEFB 0,0,1,#80,0,0,1,#80,0,0,3,#C0
+       DEFB 0,0,3,#C0,0,0,3,#C0,0,0,3,#C0
+       DEFB 0,0,3,#C0,0,0,3,#C0,0,0,7,#E0
+       DEFB 0,0,7,#E0,0,0,7,#E0,0,0,7,#E0
+       DEFB 0,0,7,#E0,0,0,7,#E0,0,0,15,#F0
+       DEFB 0,0,15,#F0,0,0,15,#F0,0,0,15
+       DEFB #F0,0,0,15,#F0,0,0,15,#F0,0,0
+       DEFB #1F,#F8,0,0,#1F,#F8,0,0,#1F
+       DEFB #F8,0,0,#1F,#F8,0,0,#1F,#F8,0
+DEFB 0,#1F,#F8,0,0,63,#FC,0,0,63
+       DEFB #FC,0,0,63,#FC,0,0,63,#FC,0,0
+       DEFB 63,#FC,0,0,63,#FC,0,0,"",#FE
+       DEFB 0,0,"",#FE,0,0,"",#FE,0,0
+       DEFB "",#FE,0,0,"",#FE,0,0,""
+       DEFB #FE,0,0,#FF,#FF,0,0,#FF,#FF,0
+       DEFB 0,#FF,#FF,0,0,#FF,#FF,0,0,#FF
+       DEFB #FF,0,0,#FF,#FF,0,1,#FF,#FF
+       DEFB #80,1,#FF,#FF,#80,1,#FF,#FF
+       DEFB #80,1,#FF,#FF,#80,1,#FF,#FF
+       DEFB #80,1,#FF,#FF,#80,3,#FF,#FF
+       DEFB #C0,3,#FF,#FF,#C0,3,#FF,#FF
+       DEFB #C0,3,#FF,#FF,#C0,3,#FF,#FF
+       DEFB #C0,3,#FF,#FF,#C0,7,#FF,#FF
+       DEFB #E0,7,#FF,#FF,#E0,7,#FF,#FF
+       DEFB #E0,7,#FF,#FF,#E0,7,#FF,#FF
+       DEFB #E0,7,#FF,#FF,#E0,15,#FF,#FF
+       DEFB #F0,15,#FF,#FF,#F0,15,#FF,#FF
+       DEFB #F0,15,#FF,#FF,#F0,15,#FF,#FF
+       DEFB #F0,15,#FF,#FF,#F0,#1F,#FF,#FF
+       DEFB #F8,#1F,#FF,#FF,#F8,#1F,#FF
+       DEFB #FF,#F8,#1F,#FF,#FF,#F8,#1F
+DEFB #FF,#FF,#F8,#1F,#FF,#FF,#F8,63
+       DEFB #FF,#FF,#FC,63,#FF,#FF,#FC,63
+       DEFB #FF,#FF,#FC,63,#FF,#FF,#FC,63
+       DEFB #FF,#FF,#FC,63,#FF,#FF,#FC,""
+       DEFB #FF,#FF,#FE,"",#FF,#FF,#FE
+       DEFB "",#FF,#FF,#FE,"",#FF,#FF
+       DEFB #FE,"",#FF,#FF,#FE,"",#FF
+       DEFB #FF,#FE,0,0,0,0,0,0,0,0,0,0,0
+       DEFB 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+       DEFB #80,0,0,1,#80,0,0,1,#80,0,0,1
+       DEFB #80,0,0,1,#80,0,0,1,#80,0,0,3
+       DEFB #C0,0,0,2,"@",0,0,2,"@",0,0,2
+       DEFB "@",0,0,2,"@",0,0,3,#C0,0,0,7
+       DEFB #E0,0,0,4,32,0,0,4,32,0,0,4,32
+       DEFB 0,0,4,32,0,0,7,#E0,0,0,15,#F0
+       DEFB 0,0,8,#10,0,0,8,#10,0,0,8,#10
+       DEFB 0,0,8,#10,0,0,15,#F0,0,0,#1F
+       DEFB #F8,0,0,#10,#08,0,0,0,0,0
+       DEFB 0,0,0,0,0,0

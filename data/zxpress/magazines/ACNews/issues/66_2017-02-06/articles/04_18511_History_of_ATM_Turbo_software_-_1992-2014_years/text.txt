@@ -1,0 +1,457 @@
+ACNews 66 - History of ATM Turbo software - 1992-2014 years
+History of ATM Turbo software
+by Alone Coder
+1991(1992?)-1993 (listed in MicroArt's books):
+A CP/M adaptation in ROM.
+HAYES-compatible modem software. 
+Honey Commander / НСВ (boot) - Norton Commander like shell with 
+resident ability.
+FED.COM - disk editor for СР/М. 
+CONFIG - command file installer for СР/М with physical and 
+logical disks detection.
+MVP - GUI for СР/М programs. Also provides printer drivers. 
+PTE - text editor. 
+TETRIS game with DAC sound effects and smooth figure falling 
+(now lost).
+BOMB TETRIS - analog of Tetris from IBM PC with additional 
+functions and two player mode.
+ADC - oscilloscope utility, also provides recording and replay, 
+DAC-ADC test and something else.
+QE - fast text editor for textmode in (АТМ) TURBO 2 (+). 
+АЦП-ЦАП (ADC-DAC) - measures up to 8 sygnals and records them in 
+RAM with editing and processing ability.
+COVOX - Scream Tracker song player. 
+UNZIP - ZIP file depacker compatible with PC PKZIP up to v1.9. 
+ZIP - ZIP file packer compatible with PC PKZIP up to v1.9. 
+"BESTSELLER: PRINCE game - ported "one in one" from IBM PC, with
+sound in Russian via DAC and music chip."
+One more utility not mentioned in
+MicroArt's books: Interactive
+Assign by
+XVR - Product (1993).
+1994-1996:
+A lot of games were released (some of them not by
+MicroArt but
+ordered elsewhere):
+Король под горой / King under the hill (1994). 
+Gobliiins - one more 100% copy from IBM PC. 
+Miner. 
+Reversy. 
+Magi Squares. 
+Color Fight. 
+Color Logic. 
+Color Lines. 
+Green Peace. 
+The Hunter. 
+Mine. 
+ATM Turbo version of Страна Мифов game is lost.
+Few more CP/M utilities were released, including graphic editors
+GRAF, BRUSH, and NDRAW. 
+Other programs (found in
+MicroArt's archives): DBG_LAN (cross
+debugger via LPT) and Speed (speed test).
+ATM1 memory was supported in UKV emulator.
+Several demos of the era (including megademos Resonance,
+Sensation, and Russian Prestige), Megascreen 2.x graphic editor, 
+Mystery of Ancient Castle game, and a release of Scorpions Die 
+Machine game contain multicolors tuned for ATM Turbo.
+1996-2001:
+Mostly utilities were written and adapted for ATM these years
+(including 8 commanders and ZX-ASM assembler). Sometimes ATM
+Turbo timings were still used - for example, ZX-Guide ##1-3
+supported it although I didn't know what timings they are.
+There are rumors about MagOS adaptation (OS for Scorpion that
+switches tasks with "Magic button"). There was also ATM Turbo
+memory supported in Scenergy e-zine. And a universal memory
+driver was freely distributed in source text.
+These were years of Pentagon and Scorpion fame. While Pentagon
+developed (new schematics were published everywhere, for memory,
+graphics etc), there was a true hype around it, and ATM Turbo
+looked as something old and obsolete. Marketing by
+Kano and his
+friends also played its role, and they also advertized Amiga.
+Many of the readers can remember how they took part in that :)
+Few people knew real possibilities of ATM Turbo then - they were
+not weaker than those of most advanced Pentagons, the same with
+compatibility. But there were emotions. However, ATM Turbo
+documentation started to appear in Fido and e-zines by the end
+of the era.
+2002:
+At the boundary of 2001-2002,
+Maksagor created ATM Turbo support
+website. He took all the disks and schematics from
+MicroArt, who
+willed to release it all to public.
+Gambler released 2 disks of his CP/M demos written around 1998
+and unknown to wide audience.
+Maksagor also wrote a programming manual for ATM Turbo 2(+) -
+later appeared as a book "TURBO2+. Internal architecture and
+external devices / Внутренняя архитектура и внешние устройства". 
+SMT supported ATM1 in his Unreal Speccy emulator, and
+Alex
+Makeev in his ZXMAK emulator.
+Alone Coder added ATM1 support in ZXUnRar.
+Sergey Zhukov wrote the first ATM Turbo 2 emulator in Java.
+2003:
+UKMS[z] released a number of tools for ATM Turbo 2+ in CP/M:
+BMP.COM viewer, sprite cutter CUT.COM, and players WAV16.COM and 
+MOD.COM. 
+NedoPC group was founded (
+Maksagor, CHRV, Shaos and few
+others).
+CHRV created the website
+(http://nedopc.com/).
+2004:
+CHRV started to produce ATM Turbo 7.10 boards (Turbo 2+). He
+also wrote a test ROM "ATM test" and a book (with
+Maksagor )
+about the mounting and tuning the computer (updated compared to
+MicroArt's ).
+SMT supported ATM Turbo 2+ in his Unreal Speccy emulator (there
+was only ATM1 memory before).
+Unknown man named
+Trident from Saint-Petersburg wrote a viewer
+for an e-paper My Speccy Web Paper, supporting hardware
+multicolor of ATM Turbo (hires).
+Maksagor with friends released a CP/M boot disk, a book "CP/M
+for users and programmers / для пользователей и программистов", 
+IDE-INSTALLER toolset, and a brochure "How to install CP/M to 
+HDD / Инструкция по установке ОС CP/M на винчестер".
+Dhau
+translated it in English at once.
+2005:
+Caro wrote a new firmware for keyboard/serial microcontroller in
+ATM Turbo 7.10 and released for it a version of his "Ping"
+Internet utility.
+Vladimir Kladov supported ATM Turbo 1/2 in his EmuZWin emulator.
+Maksagor wrote a toolset for viewing graphics in CP/M (320x200
+screen in SCR format and 6912 screen in ZXS format) - GFX
+UTILITIES, and also adapted NDRAW graphics editor for ATM Turbo 
+2 (formerly worked on ATM1 only).
+Maksagor and
+Yuri Korsunin completely reworked iS-DOS Chic for
+ATM Turbo 2 (memory, textmode, HDD, CD-ROM) that resulted in OS
+TASiS. 
+Commonly with
+UKMS[z] they released a new firmware eXtra BIOS
+(xBIOS), that included a new version of TR-DOS - vTRDOS
+(supporting virtual drives using drivers). It was bundled with a
+book "xBIOS: Описание прошивки eXtra BIOS v1.32", a set of
+utilities for CP/M - xUTILITIES (TRBMOD.COM, TRDCAT.COM,
+TRDEXE.COM, TRDSAVE.COM, VTRDRUN.COM), and Virtual BIOS utility 
+for running different CP/M versions from upper RAM without
+re-flashing the ROM.
+Alone Coder added ATM Turbo 2+ memory driver in ALASM, adapted
+Perfect Commander for ATM Turbo 2+ memory, and with
+Shiru
+released a game Pang 16C (complete with sources).
+He also tried to make a first demo for colour-per-pixel mode -
+biver16C (first for 16C add-on at Pentagon, later patched for 
+ATM Turbo 2).
+Yuri Korsunin wrote "CD-Player" for TASiS (plays audio CDs),
+utilities ldtrd & savtrd for vTRDOS, SCR_BMP converter (to 6912
+screen), BMP.COM viewer (for 16-colour BMP), screensaver "Ball /
+Мячик", and set_cl utility to set inner clock of АТМ Turbo. 
+Sergey Bagan aka
+Prusak wrote "cmosdat" utility for TASiS that
+processes data in CMOS real-time clock (Mr. Gluk schematics).
+Prusak also reworked his iS-DOS AY-PLAYER to work also under
+TASiS, and
+Maksagor did the same with "isunzjp" ZIP depacker.
+2006:
+Alone Coder and
+Shiru made the first CD game for Speccy - "Time
+Gal" (a port of full motion video arcade, supporting ATM Turbo 2 
+and Pentagon + 16C) and a universal CD autorunner.
+Alone Coder
+also made a separate video player (SOULEDGE) and video converter
+(VideConv) - all in sources.
+Maksagor made his own player for
+this format, adding a menu (NedoVIDEO Player), and showed a Wild
+compo work at Chaos Constructions 2006: "User Support"/"Будни
+техподдержки". At CAFe'2003, there already was a CD video by 
+Hedgehog, but it was black and white. The new player was in
+colour, and the viewers initially didn't know that the video was
+shown from a Spectrum!
+Alone Coder and
+Shiru released at Chaos Constructions 2006 a
+game Ball Quest, with sources and level editor - came 2nd after
+a PC game.
+Maksagor also wrote a screensaver for TASiS, named "Electronic
+watch / Часы электронные", and GRFview viewer for GRF pictures 
+(hardware multicolor of ATM Turbo and Profi).
+Yuri Korsunin wrote BMS viewer for TASiS (colour-per-pixel mode)
+and a convertor for it named BMPCONV. He also wrote CD-BOOT - CD
+boot loader.
+A demo version of 3D quest named Big L was shown in narrow
+circles, it could support 128K (in black and white), ATM Turbo 2
+(memory and EGA screen), and Pentagon 1024 (memory and 16C
+screen).
+Surfin' Bird was the author of the project, and Alone
+Coder wrote the code. Later the project was closed, because the
+intentions didn't fit in 128K, and the gfx was drawn for 6912
+hardly using extra colour possibilities. Most of gfx was later
+released in New Wave 48K demo.
+Alone Coder also adapted HDDoctor for ATM Turbo 2 and released a
+demo CATDEMO that used previously unknown hardware scroll
+capability in ATM Turbo 2.
+Dmitry Terentiev aka
+Demon/Pi-Soft wrote a CD-ROM copier CD-COPY
+for TASiS.
+Prusak wrote PROTECT utility for TASiS that write-protected
+devices.
+2007:
+ZET9 added ATM Turbo 2 drivers (memory and IDE) in his
+open-source system DNA OS.
+Budder supported ATM Turbo 2 IDE controller in Wild Disk Copier.
+Transman released a colour-per-pixel version of the game Season
+of the Sakura (in English, for ATM2/16C). 
+Shiru and
+Alone Coder translated the book "TURBO2+. Внутренняя
+архитектура и внешние устройства" in English (as "ATM Turbo 2 
+Programming Manual" ). 
+Sam Style added colour-per-pixel screen support (ATM2/16C) in
+his Little Viewer.
+Maksagor wrote scl2img converter for TASiS, an iS-DOS/TASiS
+utility TESTSYS (detects the OS), and TFPLAYER utility for
+playing TurboSoundFM music (not yet released).
+Sergey Bagan aka
+Prusak fixed his iS-Packer package (ispack and
+unispack) to work in TASiS. 
+Yuri Korsunin released real_cl resident for TASiS that counts
+system time.
+2008:
+Breeze made demos Borntro 2008, vD16F, and ASCiI 2008 inV!tation
+dentrO for colour-per-pixel (16C, later patched for ATM2). 
+Alone Coder and
+Shiru released NedoDemo for Pentagon 1024, with
+sources again (party version had unfinished ATM2 support in
+sources, it was made later) - first place at DiHalt 2008.
+Screw/OHG released Personal Nightmare demo for ATM Turbo 1/2,
+also with sources - second place at Chaos Constructions 2008. To
+show the work, he brought his ATM to the party.
+Aprisobal added ATM memory support in SjASMPlus assembler.
+Prusak released RTC utility for TASiS that works with CMOS
+real-time clock (Mr. Gluk schematics).
+2009:
+At DiHalt 2009,
+King of Evil (KOE) showed two versions of
+Pentagon 2.666.
+CHRV with LVD and DDp started to produce
+ZX Evolution. Both computers initially emulated Pentagon 1024, 
+ATM Turbo was added later.
+Alone Coder with
+Shiru released The Link demo for Pentagon 1024
+(later fixed for ATM Turbo 2+) - 1st at Chaos Constructions
+2009. 
+Transman released two interactive novels for ATM2/16C: "Книга
+мёртвых: потерянные души" and "Three Sisters' Story" (both in 
+Russian).
+LCD added ATM Turbo modes in his converter-editor Retro-X.
+Prusak made kdi2flp and kformat utilities for TASiS. One
+prepares images of CP/M floppies in different formats, and
+another formats floppies to write them.
+2010:
+Alone Coder finally fixed Mr Gluk Reset Service for ATM Turbo 2+
+- it worked before in emulator only because it didn't initialize
+the disk controller.
+Thanks to
+Lord Vader, ZX Evolution obtained ATM Turbo 2+
+support.
+Budder supported ATM Turbo 2+ memory in Universal MEMORY tester
+v0.7. 
+DDp supported ATM Turbo 2+ in another universal memory tester.
+http://dlcorp.nedopc.com/viewtopic.php?f=18&t=601
+He also wrote tests for ATM Turbo 2 video modes.
+Savelij13 wrote and still updates Evo Reset Service ROM.
+Sergey Bagan aka
+Prusak created ATM Turbo and TASiS support page
+at his site
+http://zxbyte.ru.
+He also wrote several utilities for TASiS: romdisk (copies ROM
+disk from ПК ОРИОН ), ima2flp (works with MS-DOS disk images),
+ROMKIT (concatenates ROM file from 16 KB parts), and fixed 
+iS-Edit text editor to work in textmode for TASiS.
+2011:
+ZX Evolution became the compo machine at DiHalt (instead of 
+Pentagon 1024 ).
+Alone Coder and Shiru with TmK released there a
+demo named The Board (for ATM Turbo 2+ screen, memory, and
+sound) - 2nd place.
+Alone Coder also adapted ALASM for textmode and wrote a
+preliminary version of PC sprite converter (bmp to code) for
+future ATM Turbo 2 graphics library.
+zorel started to produce ATM Turbo 7.10 boards.
+Black Cat/Era CG wrote ATM CP/M Explorer to work with ATM Turbo
+CP/M disks at PC.
+Prusak wrote more TASiS utilities: sv_trd (reads floppies
+creating TRD images), uns_trd (the reverse), CUTTER (cuts files
+in parts), iS-DOS floppy image format convertors ( img2fdi and
+fdi2img ), a package of drivers and utilities for LBA 
+addressing at HDD, and utilities for extended partition support.
+Savelij13 wrote EVO ProfROM ("Magic button" service) and RST 8
+Service - BIOS service to access screen, printer, HDD, and SD 
+card via RST 8.
+DimkaM wrote a commander named DMC supporting FAT at HDD and SD
+cards.
+2012:
+Shiru with some help by
+Alone Coder created Evo SDK - graphics
+library with development suite in C. As an example, the
+package includes XNX game by
+Shiru that became a hit at YouTube
+(82367 views before deletion).
+Previously unknown author
+Hippiman immediately released two
+original games for the library: Innsmouth quest, and rogue-like
+Project Robo. 
+DimkaM wrote CP/M laucher for ZX Evo, and adapted Prince of
+Persia and Gobliiins for HDD/SD card. 
+Maksagor adapted 20000-entry "English-Russian dictionary" for
+HDD.
+Savelij13 added FAT commands in EVO-DOS, then made his own
+adaptation of Gobliiins for HDD - without CP/M.
+Maksagor also published ZX-Video CD #1, and
+robat_e released
+converted video ATTR Agression for Profi/ATM1/ATM2 memory.
+Sam Style supported ATM Turbo 2+ in his Xpeccy emulator, and
+Alex Makeev in his ZXMAK2 emulator.
+Lord Vader adapted ALASM and ACEdit for 80 characters in
+textmode.
+Prusak wrote other TASiS utilities: sv_image (creates
+sector-by-sector images of devices), makefdi (reads floppy in
+FDI format), fdi2dsk (does the reverse).
+2013:
+Alone Coder and
+Lord Vader (with music by Yerzmyey ) wrote ATM
+Turbo 2+ demo The Board II for ZX AAA demo party 2013 (2nd
+place), and (with music by
+n1k-o ) - Chaos Zoomer 1K intro for
+DiHalt 2013 (1st place).
+Shaos released there Krazy Shaos 1K
+intro for ATM Turbo 2 (Зrd place).
+Alone Coder also added ATM Turbo 2+ support in ZXUnRar, RarView
+and Dyaview, MCX viewer, 8col editor, JPEG viewer, CacheVox,
+view102, ZXZXEmul, his games Hexagonal Filler and Rubik's Cube 
+simulator, sound players Shim 3 and ADPCM, wrote RetroX to GRF 
+converter, released SjAsm coding sample for gfx handling at ATM 
+Turbo 2, SDK "Unreal Project" with new tile-sprite engine, and
+an example of converting 3D pictures named Anaglyph. And ACNews
+electronic paper was reintroduced in new format for textmode.
+Uwol, Quest for Money game was ported from Sega Megadrive, 
+including TurboFM music (optionally AY).
+DDp write JPEG over COVOX viewer.
+Foxweb created ZX Evolution support website
+http://zx.rediron.ru
+Crash Nicker released HB SerkaFox gift.
+Hard/WCG wrote Fdisk with ATM Turbo 2 textmode support.
+DimkaM wrote a ZXNetUsb test, IRC-client dmirc, and FTP-server
+ftpd (work under АТМЗ textmode with ZXNetUSB board). 
+Maksagor removed ROM protection at ATM1 BIOS v1.OЗRS and
+released it as BIOS v1.041R.
+Savelij13 removed protection from
+MSX-DOS for ATM2 and released it with documentation. 
+King of Evil added ATM Turbo 2+/3 support in Pentagon 2.6ббLE.
+SfS released a toolchain for Linux and sources for ZX Evo
+keyboard driver.
+
+Finally Your Game 5 competition was started with joint efforts.
+2014:
+NedoDemo 2 by
+Alone Coder & Lord Vader (with music by Yerzmyey )
+for DiHalt Lite, using ATM Turbo 2+ and TurboSound - 1st place.
+HNY2014 by
+FutureShock for DiHalt Lite (ATM Turbo 2+) - Зrd
+place.
+SUCK IT! The Tunnel demo by
+Crash Nicker.
+Retro Kombat game demo version by
+TmK.
+Palchanger - palette setup utility by
+Alone Coder. There is also
+an example of re-coloured game "AMC1 color", and a PC screen
+converter Con18pal with palette support.
+2048 small game by
+Alone Coder.
+ASCII Invaders game (ATMЗ version by
+DimkaM ).
+Zooming Secretary game ported from NES (original by
+Shiru and
+PinWizz, converted by
+Alone Coder and nq ).
+A demo version of 3D game Space Mercenary by
+Hippiman (with
+music by
+Splinter ).
+Ninjajar! game by
+The Mojon Twins coloured for ATM2 by Blade -
+1st at Your Game 5.
+Edge Grinder game ported from Amstrad CPC (ATMЗ version by 
+Blade ) - 2nd at Your Game 5.
+There was two more ATM games claimed for Your Game compo, but
+they were far from being complete and were not released.
+JacqueFresco_ScienceAndWarOЗ slideshow by
+nitrofurano - shown at
+Chaos Constructions. 
+Andywarhol slideshow by
+nitrofurano.
+PC converter ConvEGA by
+Alone Coder for batch processing of
+colour-per-pixel images.
+Good Old DiHalt demo by
+DiHalt Visitors - Зrd at DiHalt.
+ZX Evolution gfx compo at International Vodka Party resulted in 
+IVP 2014 slideshow by
+nitrofurano and IVP 2014 slideshow by
+Alone Coder.
+Fractus animation by
+deMarche (ATMЗ) - 2nd at Zapilyator Compo
+in self-written players genre.
+FUZIX OS was adapted for ATMЗ by
+SfS.
+Lord Vader wrote NGS flashing utility ngs_pgmflash.
+Savelij13
+wrote Flash PE flashing utility.
+2015:
+Demo version of Rusted Souls game by
+Conscience was shown at
+DiHalt Lite (first level only, now there are three). 
+Hippiman released Space Mercenary prologue game.
+Demo version of Manyofus game by
+Alone Coder was shown at DiHalt
+Lite (shows possibilities of "Unreal project" SDK). 
+DiHalt Gagarin Tunneltro by
+DiHalt Visitors - 2nd at DiHalt
+Lite. 
+Zexall test was adapted by
+deathsoft.
+Another game Spacemerc: Liberation by
+Hippiman.
+Billiard small game by
+Alone Coder.
+Savelij13 showed MSX-DOS 2 port for ATMЗ at Cosmonaut Day.
+Palchanger12 (an analog of Palchanger for 4096-colour palette - 
+DDp's add-on circuit).
+test+run utility by
+Alone Coder for running software that exists
+in ATM and non-ATM versions.
+Alone 34 gift (ATMЗ) by
+Lord Vader & nq.
+New View 48K demo by
+Conscience (supports ATM Turbo timings
+among others).
+A demo version of SpaceMerc: Overseers by
+Hippiman.
+Maksagor adapted iS-Assembler and tap2hob utility for TASiS.
+Zorel started to produce new ATM-turbo 2+ v7.18.
+2016:
+Alone Coder made ACNews uniloader for ACNews electronic paper.
+Hippiman made Nomad scrollshooter - shown at DiHalt.
+DimkaM made a video player for ATMЗ.
+Maksagor adapted "Matrix" screensaver for TASiS (originally from
+Siberian Group, 2005, adding HDD sleep and exit).
+Savelij13
+remade Song in Lines into such a screensaver.
+FlashZX made a demo version of DinoRun game - full version was
+released in 2017.
+To be continued...

@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 80,
+    "article_url": "https://zxpress.ru/article.php?id=80",
+    "print_url": "https://zxpress.ru/print.php?id=80",
+    "title_link": "B.B.S. Новости - Новая тематическая B.B.S.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "BBS_Новости_-_Новая_тематическая_BBS"
+  },
+  {
+    "article_id": 1918,
+    "article_url": "https://zxpress.ru/article.php?id=1918",
+    "print_url": "https://zxpress.ru/print.php?id=1918",
+    "title_link": "Scorpion Club - О разработках Scorpion Club.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Scorpion_Club_-_О_разработках_Scorpion_Club"
+  },
+  {
+    "article_id": 1920,
+    "article_url": "https://zxpress.ru/article.php?id=1920",
+    "print_url": "https://zxpress.ru/print.php?id=1920",
+    "title_link": "WANTED !!! - Разыскиваются все те же программы.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "WANTED_-_Разыскиваются_все_те_же_программы"
+  },
+  {
+    "article_id": 1922,
+    "article_url": "https://zxpress.ru/article.php?id=1922",
+    "print_url": "https://zxpress.ru/print.php?id=1922",
+    "title_link": "Видеообзор - Видеообзор новинок.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Видеообзор_-_Видеообзор_новинок"
+  },
+  {
+    "article_id": 1919,
+    "article_url": "https://zxpress.ru/article.php?id=1919",
+    "print_url": "https://zxpress.ru/print.php?id=1919",
+    "title_link": "Глюк - Приколы ...",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Глюк_-_Приколы"
+  },
+  {
+    "article_id": 1917,
+    "article_url": "https://zxpress.ru/article.php?id=1917",
+    "print_url": "https://zxpress.ru/print.php?id=1917",
+    "title_link": "Застрял ? - Oписание адвентюрной игры \"Kayleth\".",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Застрял_-_Oписание_адвентюрнои_игры_Kayleth"
+  },
+  {
+    "article_id": 1916,
+    "article_url": "https://zxpress.ru/article.php?id=1916",
+    "print_url": "https://zxpress.ru/print.php?id=1916",
+    "title_link": "Новье !? - О играх Italian Supercar, Ooutrun Europa, Football,\r\n Kenny Soccer Manager, Star Sstrike 2.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Новье_-_О_играх_Italian_Supercar_Ooutrun_Europa_Football_Ken"
+  },
+  {
+    "article_id": 1921,
+    "article_url": "https://zxpress.ru/article.php?id=1921",
+    "print_url": "https://zxpress.ru/print.php?id=1921",
+    "title_link": "О \"COVOX\"'e ... - О \"волшебном\" устройстве формирования звука - LPT-Covox.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "О_COVOXe_-_О_волшебном_устроистве_формирования_звука_-_LPT-C"
+  },
+  {
+    "article_id": 1923,
+    "article_url": "https://zxpress.ru/article.php?id=1923",
+    "print_url": "https://zxpress.ru/print.php?id=1923",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

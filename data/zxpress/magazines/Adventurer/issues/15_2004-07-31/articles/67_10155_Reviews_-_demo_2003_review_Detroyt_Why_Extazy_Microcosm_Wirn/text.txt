@@ -1,0 +1,1169 @@
+Adventurer 15 - Reviews - demo 2003 review: Detroyt, Why?, Extazy, Microcosm, Wirne, Alienate, Sailor, The Source, Evenless, Fuck You Scene, Caprize, Resurrection, demo22, Weed, China Restaurant.
+Demos as is. Nothing more.      
+Flying/DR & Miguel/CPU          
+
+Detroyt by TBK+4D
+(ASCII'2003, 1st place)
+
+miguel> As a matter of fact, I was
+waiting for another demo from
+4D+TBK at that time, the one they
+hadn't finished for CAFe'2002. But
+there appeared some rumours, that
+they prepared something different
+for ASCII. Maybe guys decided to
+avoid chunks this time and we'll
+see something new and interesting,
+I thought. So, I downloaded the
+party stuff and started watching.
+
+From the beginning of the demo I
+was shocked with those circles
+from some old (approx. 1997 year)
+Haujobb demo or anything else, wha-
+tever, taken from pc. I still have
+enough of attention to notice in
+those 'circles' a scrolly with cre-
+dits, and among the authors' nicks
+G.D. Immediately I thought of so-
+mething converted from pc (since
+that pc effect with circles was
+used).
+
+And again I was rejoiced with lo-
+gos made by pROF, but it was a
+well known for a long time fee-
+ling, so they seemed like routine.
+Of course, every pROF's logo is ma-
+de professionally, but it becomes
+boring to see.
+
+I'm not a coder so I'm not deeply
+concerned with coder's techniques
+used here, but I should notice,
+that animation conversion is made
+good enough. I remember the anima-
+tion that we tried to make in a si-
+milar way for Adventurer#12 intro.
+One of the main reasons why we ma-
+de everything jump and shiver was
+that we couldn't convert it from
+pC with high quality. But here we
+can see, that creators managed to
+make it right, except, maybe, that
+pinions.
+
+Let's proceed with music. By those
+circles in the beginning I was
+prompted to wait for something ma-
+de in 97-98's style, sounding like
+tracks from the best demos of that
+time. And I think I was right,
+anyway, noone makes music like
+that nowadays.
+
+Technically, I always tried to
+avoid of using a whole channel for
+drums. Of course, it is a good pos-
+sibility to make drums sound like
+drums and as complicated as you
+want. But I think the main problem
+is that there are only few musici-
+ans possible to do that. Besides,
+if you're making your tune for
+ACB, displacement of noise towards
+the one channel (with my ABC) ma-
+kes the track sound slightly con-
+fined. However, in some cases the-
+re is no possibility to do what
+you want in any other way. So, I
+think, there's is a vital necessi-
+ty to use ABC/BAC/ACB modes in de-
+mos now.
+
+Another thing that bother me is en-
+velope. I like when it sounds good
+and rich. So, usually, I make the
+whole volume of music a little lo-
+wer to allow these vibrations to
+be heard. Here, in this track,
+it's almost lost.
+
+Besides, there's a good trick I of-
+ten use. The usage of fifth notes
+instead of tonics allows to arran-
+ge the envelope's part in very dif-
+ferent ways, increase the whole
+drive. I hope Key Jee knows about
+that. Anyway, the soundtrack for
+this demo, as i think, was made
+long ago, before Key Jee joined
+the army, and if he would make it
+now, using all advises listed
+above, it would sound different.
+
+But there is a moment that I don't
+like - the reaction of scene. I of-
+ten see quatations from this demo
+and it makes me think, that there
+are some people, for whom detroYt
+has become an overwhelming break-
+thru in demomaking, especially af-
+ter the dictatorship of chunks.
+And this fact gives some additio-
+nal pop traits to this demo, what
+is categorically not welcomed by
+me.
+
+flying> Splendid work of, maybe,
+the most prominent for now 'com-
+bined' team TBK+4D, has impressed
+all visitors of ASCII'2003, and, I
+think, the whole crowd of speccy
+freaks.
+
+The demo absorbs from the first
+moments of perception and 'rele-
+ases' only with the final fading
+of sound and stop of motion at the
+screen. By the strenght of impact
+it could be set in one row with
+such a masterpieces as 'Shit 4
+Brainz' by Progress and 'The Loop'
+by 3SC. Beautiful code, stunning
+work of designer (graphics, design
+of 3D scenes and especially work
+with fonts) and excellent so-
+undtrack, that merges with the vi-
+suals by the means of perfect syn-
+chronization - all those parts,
+compiled together, are making up
+this outstanding product.
+
+Examining 'detroYt' from the
+technical point of view, it could
+be understood, that it bases on
+two players of vector animations,
+however, in my opinion, for the
+first time it was used to repre-
+sent 3D scenes of such kind. In ad-
+dendum to this, according to the
+statement of authors, the scene
+with 3D pinions is an example of
+high quality data packing (i hope,
+they'll decide to release the sour-
+ces of this effect alongside with
+the packer, as I did it in my time
+with the packer of ZXA animations,
+written for Jam). Also one or two
+articles in some magazine, about
+the process, technique and ruses
+of creation, preparations and con-
+verting of vector animations, used
+while making detroYt would come in
+handy.
+
+Considering this work not by it-
+self, but in surrounding of
+another demos, appeared on speccy
+by the last few years, i would
+say, that creators of 'detroYt'
+(besides the number of works from
+other platforms, not to mention
+classic Amiga intro by Delirium,
+works by The Black Lotus and Kaspa-
+rov on PC, with it industrial at-
+mosphere) were influenced such
+things as 'The Loop' by 3SC (the
+first scene with punched details
+bears a strong resemblance to the
+similar process in 'The Loop')
+and, maybe, ours 'Jam' (it could
+be just my biased opinion as one
+of the authors of this work, but
+the scene with pinions, by its sty-
+le and and implementation raises
+associations with 'Jam' anima-
+tions). Maybe there is a light
+influence of works by Skrju (but
+it could be a mutual influences
+i.e. both teams are getting so-
+mething from each other). And this
+is truly great if I'm right, becau-
+se they are giving a new look to
+those ideas, finding out somewhat,
+not explored by the others.
+
+Sizing up, it could be only said,
+that this demo is a 'must see' and
+examine for everyone who have an
+interest to the speccy demoscene,
+as an example of magnificent work,
+opening new horizon in demomaking
+on speccy.
+
+Why? by Skrju
+(ASCII'2003, 2nd place)
+
+miguel> Next demo from skrju. And
+this work again reminds me of
+another pC demos, maybe by Kew-
+lers, or maybe Fukwit Daddy/Hau-
+jobb. I don't know why kq and sq
+made what they did, but that accu-
+sations in the lack of ideas that
+appeared after the party I can on-
+ly regard as stupid and ridicu-
+lous. I still believe that there
+are not so much people who un-
+derstand this demo in any way, may-
+be different way that was ex-
+pected.
+
+As I understand, the demo is based
+on lyrics, written by
+i_don't_know_who, maybe kq, be-
+cause he made the gfx presented
+here. And I think he grafically
+described what he wrote by words.
+
+nq aka Nik-O seems to be a real ma-
+niak. I suppose, the purpose of
+every creative person is to reali-
+ze yourself in any occupation that
+you like. But it's hard to imagine
+what you want to do, the result of
+your work, especially, it's almost
+impossible to conceive this track
+made by Oleg. I think this style
+of music, that Nik-O developed du-
+ring some last months (or years)
+is not so popular as those melodi-
+cal tracks, remixes and covers
+that Nik-O made before. The first
+proof that I can offer - the re-
+sults of latest music compos, whe-
+re Nik-O didn't get what he de-
+serves.
+
+I know most of tricks that Nik-O
+can use, some of them we discussed
+in emails, but sometimes I have a
+feeling that he uses too much of
+them in one track. Moreover, when
+my approach to composing has
+changed and now I try to make mu-
+sic as simple as possible.
+
+However, I like the fact that
+Nik-O stopped flooding the scene
+with his music, that makes every
+single track more valuable, I
+think. And it's a pity that he co-
+uldn't visit CAFe this time.
+
+flying> If this work by Skrju is
+examined not by itself, but in the
+one row with the other works of
+this team, then the tendency of de-
+velopment is clearly seen. Because
+'Why?' is something middle between
+released before 'Summermilk' and
+the last one 'FUCK you SCENE'. Al-
+ready deprived of colours, but not
+of text, the music started its mu-
+tation, becoming a 'FUCK you
+SCENE' soundtrack later, now this
+is not a set of sinking in noise
+sounds, but something merely
+alive. 'Transferred' from one work
+to another, fx becomes resemblant
+to the mutant, we'll see in 'FyS',
+but still, this is something rela-
+tively normal. And the size of
+'Why?' is similar with 'Summer-
+milk', not 'FyS'. Rather hard to
+perceive, but at least not so dep-
+ressive as 'FyS'...
+
+For some reason, there is no desi-
+re to examine 'Why?' by itself,
+let it be seen the brick, construc-
+ted by Skrju, in some global work
+of art. But if this tendency will
+continue - I'm already scared by
+the next brick...
+
+Hmmm... Another Brick In The Wall?
+It's interesting, why I have such
+associations in the present mo-
+ment? Maybe because of 'Pink
+Floyd' is playing in my head-
+phones?
+
+Extazy by Milytia
+(ASCII'2003, 3rd place)
+
+miguel> The final release of this
+demo became available just after
+CAFe, though it took the 3rd place
+at ASCII. I've seen an opinion in
+Internet that it's even better
+than those presented at CAFe this
+year. Ridiculous.
+
+As for me, at the first sight it
+may seem too childish. Of course,
+Milytia is a young team, the repre-
+sentatives of so called 'new wave'
+spekka demo scene. And there are a
+lot of traits of this style here
+in this demo - minimalism in gfx,
+code and music. The main thing
+they are laying on is idea. But, I
+think, it's too optimistic.
+
+A few words about gfx presented in
+Extazy - like in other earlier
+works it's still glumsy, lines and
+contours are far from ideal and
+those faces are killing me... The-
+re are some good logos, but it's
+not enough.
+
+Simple melody, playing in this
+demo, makes me think, that life is
+not so bad as it may seem, that we
+must have a lot of joy and pleasu-
+re from flowers, lover's face, fri-
+ends and so on. Really, music is
+made without any pretence, its pur-
+pose is to bring some melancholic
+and calming vibrations, do not
+bother the listener.
+
+But the main drawback is the en-
+ding, which is too abrupt, you
+don't know what to do, I had a fee-
+ling that I have to run for fire-
+men :) I hope that Milytia will ma-
+ke the proper conclusion out of
+this.
+
+flying> Though this work by Mily-
+tia appeared only a few months be-
+fore 'Caprize' (reviewed above) -
+comparing those two demos, one
+can feel a serious progress of a
+team through this period of time.
+'Caprize' has a neatly expressed
+(although, not original in the
+most of it) style, while 'Extazy'
+is quite blurred, its parts practi-
+cally are not connected together.
+Also, technically, this is not a
+revelation - low amount of simple
+effects (all could be seen in the
+middle of 90s) are working not so
+fast. There are undisguised draw-
+backs sometimes, like 'hanging' ef-
+fects (when the screen remains
+uncleared after end of fx), or
+thrash, creeping at the screen in
+'greetz' part. Melody is attrac-
+tive, and felt like it was compo-
+sed especially for the demo, but
+there are problems with synchroni-
+zation. In general demo looks we-
+aker, than 'Caprize' but it is ve-
+ry light and leaves a pleasant
+impression after it. And what rejo-
+ices more, that even the next
+their work is a great step for-
+ward, that means, we can wait con-
+tinuation of this course and more
+quality works from Milytia.
+
+Microcosm by CPU
+(out of the party)
+
+miguel> This is the first work of
+duet inward, recently appeared on
+scene under the label of CPU. I
+think some people understand why
+it happened, especially those
+who've been at CAFe this year.
+Elph's mental condition influenced
+by music, literature and other dif-
+ferent things, now produces inte-
+resting kinds of psychodelic emoti-
+ons thru Spekka.
+
+The second person is a well-known
+member of CPU - Moran. With his
+epilepsy, affecting all what he
+creates, and whole life attitude,
+he had already frightened us brin-
+ging out his plans and ideas. But,
+as I think, he had no proper sup-
+port to realize what he wanted and
+thats why he often tried to force
+himself to make something with
+CPU, though he didn't need it.
+Here, in microcosm he had a chance
+to release. But I still don't beli-
+eve that what he is showing to us
+as his inner state is true. For me
+he is still a person without
+strong purposes and directives and
+that doesn't let him to realize
+himself completely in whatever he
+wants to do. Apparently, h doesn't
+know what he wants. And I think,
+and that's a pity, that again he
+found somebody able to direct him,
+who sees the object of creation ve-
+ry defined, as you understand,
+it's elph.
+
+Music itself is an attempt to make
+dark ambient using Spekka. Of co-
+urse, not so many people can appre-
+ciate it at its true value and the-
+re are some reasons, beginning
+with unability to understand this
+sort of music, following with qua-
+lity of your home stereo... I'll
+just mention that elph is one who
+possesses all necessary require-
+ments for this, otherwise he wo-
+uldn't make such products.
+
+However, I think that most of ppl
+doesn't understand, why there are
+2 versions of microcosm. It is due
+to differences of AY frequency on
+different Spekkas, and it affects
+the envelope, which is the main
+instrument used in the soundtrack.
+Its period varies so the structure
+of track, its rythm changes and so-
+und turns into jumble. So inward
+made the second version with enve-
+lope fix so you could tune the so-
+und in the right way.
+
+Of course, there are some ppl, who
+can't understand the meaning of
+what happens on the screen and so-
+unds in the ears, i'll just say
+that after 5 minutes of action you
+can just turn the volume and low
+frqs up, switch the lights off,
+lay down and close your eyes...
+
+flying> Hmm... After Honest 15 mi-
+nutes in contemplation of this
+demo, i came to conclusion, that
+my brains need something psychot-
+ropic, to catch the escaping per-
+ception of this work :) I'll bet-
+ter return to 'Evenless' - it is
+easier to perceive and spiritually
+closer to me.
+
+Wirne by ZeroTeam
+(out of the party)
+
+miguel> You know, making such re-
+view is not an easy work. I've wat-
+ched every work not at once, try-
+ing every time to percieve deeper
+in every detail, trying to de-
+cipher the meaning of things, the
+reasons and purposes, I've been
+thinking much about what would
+I've done if I tried to make a de-
+mo with those elements that I saw
+and how it would look like, how it
+must be. And now you try to watch
+microcosm, lying about 25-30 minu-
+tes on a bed, listening drones,
+perceiving the innerself and then,
+after it stops, go to wirne. I can
+only compare it with a brick fal-
+ling on the head.
+
+Many different logos, effects of
+the early 90ies, progress is al-
+most absent. Everywhere.
+
+Sometimes I have a feeling that eu-
+ropeans stuck in this 'oldschool'
+stereotype, or you can call it as
+you like, whatever, maybe it is
+just stubborn persistence, I don't
+know, but for as me, I think they
+are unable to compete with russi-
+ans in using Spekka for high level
+programming, design, simply demos
+as a whole, and that's why they
+place this unability under the
+term of 'for fun', showing their
+'sense of humour' and it becomes,
+honestly, quite boring.
+
+flying> As it is said at the begin-
+ning of the demo - the concept was
+founded 5 years ago and only now
+it have seen the light. Better
+later, then never (maybe authors
+of 'Genetic Error' will follow the
+example of ZeroTeam and we will
+see their work?
+
+The demo itslef reminds me the
+works of early 90s, as for composi-
+tion, type and the level of ef-
+fects, so for the whole spirit. I
+remember, that I myself did a lot
+of such an effects in 1995-1996.
+Everything is pretty nice, simple
+and light, very good for nostalgic
+reasons, but not enough for a mo-
+dern demo.
+
+Alienate by HPRG
+(Assembly'2003, 4th place)
+
+miguel> Boring again...
+
+flying> Our European friends from
+HPRG in the second time took part
+in the world's biggest demoparty -
+Assembly with their new Spectrum
+work. It can't be ignored, cos it
+lets the representatives of other
+platforms to remember (or maybe
+to get acquainted in the first
+time) Spectrum and about it's de-
+moscene. So, let's take a closer
+look on the product.
+
+At first, you don't need to read
+credits to recognize Yerzmyey's
+graphics style and this defines
+the style of the demo, cos you
+can't expect a technical revela-
+tion, but a vivid demo, filled
+with light and humour, maybe a
+little specific humour. At first I
+should say, that authors didn't mo-
+ve far from their original style,
+everything, mentioned above, fits
+good to this work. The level of ef-
+fects is about 1995-1996, if we
+compare it with russian demos,
+even mentioning, that I watched
+the final version, there are some
+mismatches (for example, after the
+attribute tunnel, the screen depac-
+king is done without clearing of
+the attributes). However the demo
+leaves good impression with its
+light mood and atmosphere. Be-
+sides, the opportunity to choose
+AY or General Sound would please
+the owners of this device (or emu-
+lator users).
+
+Speaking about the presentation of
+this work at Assembly -this great
+in itself, especially taking into
+account participation in oldschool
+democompo. But it could be de-
+sired, to see the demo, represen-
+ting modern standarts in speccy
+demomaking, competing here.
+
+Sailor by HPRG
+(out of the party)
+
+miguel> ehhhhhhhh....
+
+flying> Does everyone remember
+low quality poland demos in late
+80s? Seems like one of it remained
+in a dust for the last 15 years
+and seen the light only now.
+
+The performance is absolutely low.
+The point is understood, but this
+is not the cause to watch it :)
+
+Weed by TBK+4D
+(CAFe'2003, 1st place)
+
+miguel> I don't know why TBK deci-
+ded to make such and so called
+demo. Just to win, or it was real-
+ly deep in their minds, they real-
+ly ever had any experience in this
+sphere? But this light propaganda
+of hash and narcotics in general
+as a key to the possibility to un-
+derstand more than usual consumer
+has found its audience at this pop-
+sy CAFe party. And that was the
+right action from TBK - they won
+the compo. Other examples of such
+approach, I think, can be found ea-
+sily, but they hadn't such success
+screen with Bob Marley and can-
+nabis, last years' Black and White
+demo.
+
+So, I guess, people that like main-
+ly visual side of a demo are eve-
+rywhere, they don't bother them-
+selves with thinking about the dee-
+per meanings. And they did their
+task, as a bull reacts on a red
+cloth.
+
+What about music? I don't even
+know how to make a soundtrack for
+a demo with such idea, so I won't
+judge Key Jee for his competence
+or uncompetence, you can do it by
+your own if you like. Anyway, mu-
+sic is simple and ordinary, though
+professionally made. But there's
+one moment that I like most -lyri-
+cal part before colours start (3
+channel melody with reverberation
+and a simple envelope part) and
+patterns after it. So, I think,
+that's it.
+
+flying> The second work by TBK+4D
+in 2003 year, presented at the
+party, second masterpiece and for
+the second time - deserved first
+place. And if detroYt was a revela-
+tion in the sphere of new ideas of
+effects realization and new direc-
+tions in explorations, 'WeeD' not
+just continued this movement, but
+added new elements to that, making
+this work really remarkable.
+
+At start it should be said, that
+here we can see at least 2 comple-
+tely new techniques, or more preci-
+sely saying - the development of
+new techniques, first presented in
+'detroYt', but done here at a qua-
+litatively new level. At first, re-
+alization of sufficiently complex
+3D scenes with the help of vector
+animations. And if in detroYt we
+saw fullscreen 3D with industrial
+bias, then here, animation is com-
+bined with 2D objects, thus, the
+whole screen is moving and repre-
+senting a single whole itself.
+That let the authors to accent the
+central object, adding the dyna-
+mics to a whole scene, using vec-
+tors. In the second place, there
+is of course stunning fullscreen,
+coloured animation at the end.
+Black and white version we could
+observe in 'detroYt', but colours
+add a lot to the spectacular ef-
+fect! Except those two main innova-
+tions, there are some minor set of
+new ideas. Pay an attention, for
+example, how the 3D figures are ap-
+pearing and vanishing at the
+middle of the demo.
+
+But 'WeeD' wouldn't be such a
+great occurence, if presented it-
+self only a demonstration of a new
+technologies. Fortunately, authors
+did a great effort and made each
+component at a very high level. Ex-
+cept marvellous code, there is
+high quality graphics and excel-
+lent music, reflecting the atmos-
+phere very well. All this properly
+fitted together and looks as a
+single whole. Different by its na-
+ture parts are gathering and ma-
+king up a picture, and this pictu-
+re is telling a story. Yes,
+exactly, this demo has its plot,
+not primitive or shallow at all,
+but forcing to think.
+
+Besides, i dont know if it was an
+author's idea, or it just appeared
+to be so, but 'WeeD' rouses a
+clear associations with film 'Pink
+Floyd - The Wall', directly to the
+part, where 'Don't Leave Me Now'
+is playing'. I think, those, who
+saw the film will understand me:)
+
+And there is one more thing, i ha-
+ve a strong associations with, whi-
+le watching 'WeeD' - ours
+'Forever'. Though, the authors are
+saying, that this is only a coinci-
+dence (and I'm inclining to belie-
+ve them) - however, there are some
+moments, that 'came' from
+'Forever' as it seems to me. This
+is not derogates 'WeeD', but maybe
+even vice versa.
+
+One more time congaratulations to
+TBK+4D with the victory in main
+party of the year!
+
+demo22 by Eye-Q
+(CAFe'2003, 5th place)
+
+miguel> Do not vote, please...
+It's right. Everything moves too
+slowly on the screen. However, at
+the very start of the soundtrack
+it seems that it's gonna be a hard
+drive trackmo. But only disappo-
+intment apears. Why they released
+this demo? It's not even about the
+code, gfx, nor music. It's defini-
+tely not finished.
+
+I think that this demo is an ef-
+fort made by Organism to support
+the party and to make the speccy
+scene remember about his crew -
+Eye-Q, at least for another year
+while their competetors MHCG chan-
+ged to de Marche and started to
+conquer the 'more progressive' pC
+scene.
+
+flying> By the way, practically
+everything, that could be said
+about this work of Eye-Q, they
+said at the beginning of the demo:
+' There is no cool code... just la-
+me effects from Organism. There is
+no gfx from Rion... just some con-
+verted shit. There is no good
+fix... just nice track from
+Icengreen. There is no demo... and
+we sucks this year... ' This
+description fully reflects the
+demo22 itself. Really - converted
+(not by the best way) graphics,
+3-4 rather primitive effects (the
+authors didn't care much about
+speed optimization), total lack of
+music synchronization, and the so-
+undtrack, energetic enough, poorly
+fitting the slowness of visuals.
+What is this - team crisis or ele-
+mentary lack of time and desire to
+do something? Hope this is tempora-
+ry occurrence, the previous work -
+demo21 was a step forward, maybe,
+the movement should be continued?
+
+Resurrection by OHG
+(CAFe'2003, 2nd place)
+
+miguel> I can't even find the pro-
+per word to describe this demo.
+OHG strikes back? What for? They
+tried to demonstrate treir ability
+to 'make demos' on spekka? I
+guess, they are pleased with re-
+sults of this performance. And
+they call it 'oldschool'. I see
+nothing that can remind about
+oldschool. Such statements can on-
+ly make clowns out of Jocker and
+his mates, already showed their
+'sport spirit'. Maybe organizers
+are quilty in 'commercial' appro-
+ach of making demos. As it was pos-
+ted on Scenergy - I'd like bananas
+instead of prizes!
+
+I hope there will be no more such
+kind of shit.
+
+flying> Rather unexpectable event
+after a few years of silence Omega
+Hackers Group returned to Speccy
+with the new work and even got the
+second place in demo compo of the
+main party of the year, leaving be-
+hind the works of the very active
+at the moment teams. This makes me
+happy and shows - Speccy Forever!
+
+Demo starts with the words
+'Oldschool never die' - this is
+true, good classic effects when do-
+ne at high-grade are always loo-
+king good. And this work gave us
+opportunity to recall several clas-
+sic works of past years (of co-
+urse, here effects look a little
+different, because dumb copying
+would look worse, than an own view
+at the same fx). Honestly saying,
+couple of chunk effects of later
+period are coming off the track,
+but generally, it didn't spoil the
+whole picture. From the other
+side, using converted low quality
+graphics along with such a slogan
+was a mistake.
+
+In summary, this is not bad work,
+but the most important is the fact
+of its appearance itself and
+those, who did it, not the things
+happening on the screen.
+
+Caprize by Milytia
+(CAFe'2003, 3rd place)
+
+miguel> I think, guys just didn't
+know that the track they chose to
+be a soundtrack had taken the se-
+cond place at millennium'1902. And
+I think Milytia didn't cared much
+while making this demo. They certa-
+inly had no time to make the so-
+undtrack by themselves, the music
+from their last work was something
+to hear though. And those funny
+phrases like 'no kopia',
+'Alternfiva? Yes!' and 'cyber
+punks U' in greets. I couldn't de-
+cipher what's written in graffiti
+style, so next time i'll certainly
+ask them about it...
+
+flying> Examination of this demo
+rouse controversary feelings in
+me... By the one side - all time,
+you watch the demo, the deja vu
+syndrom, the feeling, that you ha-
+ve seen this all... But by the
+other side, this mix borns so-
+mething new...
+
+The very beginning - vertical
+lines, moving downwards - stable
+association with Detroyt by
+TBK+4D, released not so long be-
+fore. Really, if those lines would
+form a wireframe 3D scene, it co-
+uld be a marvellous impression!
+But it would be TOO similar with
+Detroyt:)
+
+First fx, and again that feeling
+'Summermilk???'. Authors reject
+those doubts :) But the feeling re-
+mains the same... The scrolling
+texture, combined with sideway
+graphics, crossing it, raises memo-
+ries of Melange and some other
+works.
+
+But, in spite of all this, and ob-
+vious dead level of code (2-3 very
+simple effects - there is not much
+to code) the demo looks great, it
+done in one style, there is drive,
+becouse of very energetic so-
+undtrack and good synchro. It per-
+ceived very smooth and not loads
+the watcher (but 'concerned' demos
+could be very good, if done well
+and speccy has various examples,
+everyone knows of), that fits the
+party very good.
+
+Guys from Milytia could be congra-
+tulated - this is very successful
+work, the only thing that could be
+desired - YOU should be recognized
+in your works, not anyone else
+(look above about Alienate) :)
+
+Fuck You Scene by Skrju
+(CAFe'2003, 4th place)
+
+miguel> I think it's not so good
+to make a demo about scene, at
+least, call it like this, 'cos it
+doesn't deserve it. In my opinion,
+it is the press' task to discuss
+about scene, it's absence, pre-
+sence, whatever.
+
+At the other side, I can feel the
+denying of all stereotypes and
+cliches that established during
+few last years and applied to eve-
+rything, and demos in particular.
+And that's why, and like adv#14,
+fuckyouscene has appeared. It's
+now time for another scene, but
+not for everyone.
+
+For me, the kq's leadership in
+skrju's creative process is get-
+ting obvious. I don't know why,
+anyway, I'm sure that sq has much
+to say, but somehow kq presses on
+and makes dicisions. Also, I sus-
+pect, that nq didn't make a so-
+undtrack especially for this demo,
+I suppose, he has a basic line -
+to make music for skrju and whate-
+ver he composes with such
+approach, any weird thing, fits
+the 'spirit of skrju'. I guess
+that everything that deals with
+music, it's realization and it's
+content, they place upon nq's sho-
+ulders. Anyway, the result is qui-
+te good.
+
+flying> It is extremely hard to
+express an opinion about this work
+of Skrju. Those guys are always on
+the edge in their point of view at
+the world and so in the ways of
+selfexpression. Sometimes falling
+into extreme, they nevertheless
+open new views at the way the demo
+could be. This time those 16kb
+adherents demonstrated the work,
+consisted of sequence of black and
+white screens, stored unpacked on
+the disk... Add to this only one
+'effect', already seen in previous
+their demos and music, composed
+from the minimal set of samples.
+Now, deliberately corrupt the fx
+and music, till they seem a result
+of a broken computer or a bad disk
+thats the way of partly picturing
+what 'fuck YOU scene' is. But this
+is only the outer side.
+
+Look, deeper inside of what you
+see and hear. Sinister, opressing
+industrial visions... Faces of pe-
+ople with only fear, pain and suf-
+fering inside their eyes... Me-
+lody, dying in the flood of
+noise... Code, mutated beyond re-
+cognition, but still trying to sur-
+vive... Graves... That should be
+seen... That should be pondered...
+That is far too serious...
+
+Thanks Skrju.
+
+Update: I think, this demo would
+ideally fit to never conducted com-
+po of 'social' demos at CAFe'2002
+(leaving no chances to the 'Traf-
+fic Of Death' by PoS WT). However,
+scarcely Skrju could take part
+there.
+
+Evenless by CPU
+(CAFe'2003, 6th place)
+
+miguel> In the beginning, I'd like
+to look at this demo from the
+other side. The only 2 effects
+which are nothing in particular,
+weird pictures oddly entitled, co-
+lours are chosen awry, music is
+dull... Besides, there's no such
+word in english. What does it
+mean? Where's the plot and what is
+was made for?
+
+Am I right? No? And now some
+facts. I wont tell any secret,
+there's no reason for it, more-
+over, we apprehend it as a whole,
+not concerning about it's compo-
+nents.
+
+It's a mantra. I tried to use all
+my imagination while composing the
+soundtrack. To satisfy your curiou-
+sity, I'd say I played it on my gu-
+itar in D-minor :) The other parti-
+cular feature - is the track's
+structure. We put 6 pictures in
+the demo cos it is based on 6 pat-
+terns, repeating from start to the
+end. Six, not 4 or 8 as usual. The
+measure plays the main role here.
+
+Also, I had to work on sound, I
+should especially notice drums,
+which I wanted to be here, but so-
+und not so heavy as it could be.
+
+That all, I think.
+
+Finally, I have to notice, that
+this track I made in 2 days, i.e.
+much quicker than usually. This
+circumstance remains a miracle for
+me, logically explainable though.
+
+flying> Everyone, who are slightly
+familiar with the history of the
+demoscene, and remembers the
+8-10 years old works, undoubtedly
+understand, what demo became a
+prototype of this cyberpunks'
+work. This is 'Timeless' by Tran,
+of course, released in 1994 on PC.
+Even the name of the speccy 'ver-
+sion' - 'Evenless' have something
+in common with the name of the ori-
+ginal, that gives one more stimu-
+lus to conduct such an associa-
+tions.
+
+It should be said, that a spectrum
+variant is simply splendid!
+Authors succeeded to reproduce
+this famous multilayerness and mu-
+tability, the sense of psyche-
+delia, for what original 'Time-
+less' is beloved even now. But un-
+like Tran, who released 'Timeless'
+for no particular reason, CPU deci-
+ded to represent their work at
+CAFe, where such a thing, of co-
+urse, was misunderstood. This co-
+uldn't be watched at a party, it
+should be done at home, in si-
+lence, calmly submerging deeper
+and deeper, penetrating and dissol-
+vig in its infinity. Party has
+another atmosphere, that is the re-
+ason of such a low place, this ex-
+cellent work got at CAFe.
+
+Update: hmm... elfh/cpu said, they
+never saw 'Timeless' and in accor-
+dance to that didn't tried to do
+its speccy version... Strange
+things happen - those two absolute-
+ly independent works are very simi-
+lar visually, and carrying the sa-
+me spirit :) I didn't correct the
+text, that would be even more inte-
+resting :)
+
+The Source by CPU
+(CAFe'2003, 7th place)
+
+miguel> Inward again try to invol-
+ve us in the depth of their minds.
+Now they use the most comprehen-
+sible way - thru words, but I
+guess, most of people didn't read
+the text due to the lack of educa-
+tion. Also they could be surprized
+that thesource took part in the de-
+mo compo at all, maybe there appea-
+red some followers of demo prese-
+lect. Fuck'em!
+
+This time again inward made music
+by themselves. I don't think it's
+crap, I'm sure they get what they
+want, but there are some moments
+that I don't like - some samples
+and one mistake. Maybe it's not so
+important for them, especially
+Moran, who's tracks are full of
+such mistakes and faults, but for
+elph... When the track is playing,
+although there are no drums, but
+the whole rythm presents and you
+can feel it, and there is a place
+when the measure breaks. I think
+it happens because they didn't ma-
+ke an effort to hear it and to se-
+lect an appropriate size of the
+pattern.
+
+elfh> look for the final ver-
+sion...
+
+As elph says they have some other
+tracks already written, so I hope
+they'll be more careful.
+
+flying> Another one Inward from cy-
+berpunks. The realisation and spi-
+rit is very close to Microcosm,
+but personally, I liked it more
+even notwithstanding the lack of
+support of substances to penetrate
+nirvana, i was imbued :)
+
+It is scarcely should be examined
+(and so Microcosm) from the techni-
+cal point of view - it is not in-
+tended to this. But this is the
+great source to get totally stoned
+:)
+
+China Restaurant by Triumph
+(out of the party)
+
+flying> It's hard to describe this
+work by Triumph... Because, inspi-
+te of presence of every needed com-
+ponent the emphasis is not done on
+it, but on the text, that authors
+wanted to deliver to the public.
+Poem, written by the person, impri-
+soned by the false accusation (as
+it said at the end of the demo).
+The poem worth reading, that mean,
+the demo should be watched from
+the beginning to an end. But there
+is no sense to appreciate this
+work from the point of view of de-
+momaking, there is another core...
+Therefore look (read) everything
+by yourself and then make your opi-
+nion about it.

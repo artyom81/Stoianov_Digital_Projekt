@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 2575,
+    "article_url": "https://zxpress.ru/article.php?id=2575",
+    "print_url": "https://zxpress.ru/print.php?id=2575",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2574,
+    "article_url": "https://zxpress.ru/article.php?id=2574",
+    "print_url": "https://zxpress.ru/print.php?id=2574",
+    "title_link": "История ПК - Происхождение персональных компьютеров.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "История_ПК_-_Происхождение_персональных_компьютеров"
+  },
+  {
+    "article_id": 2569,
+    "article_url": "https://zxpress.ru/article.php?id=2569",
+    "print_url": "https://zxpress.ru/print.php?id=2569",
+    "title_link": "От авторов - У газеты появилась своя BBS.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_У_газеты_появилась_своя_BBS"
+  },
+  {
+    "article_id": 2573,
+    "article_url": "https://zxpress.ru/article.php?id=2573",
+    "print_url": "https://zxpress.ru/print.php?id=2573",
+    "title_link": "Письмо - Отзывы читателей о газете.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Письмо_-_Отзывы_читателеи_о_газете"
+  },
+  {
+    "article_id": 2572,
+    "article_url": "https://zxpress.ru/article.php?id=2572",
+    "print_url": "https://zxpress.ru/print.php?id=2572",
+    "title_link": "Программирование - Вывод спрайта на экран. Вывод на виртуальный экран.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Программирование_-_Вывод_спраита_на_экран_Вывод_на_виртуальн"
+  },
+  {
+    "article_id": 2576,
+    "article_url": "https://zxpress.ru/article.php?id=2576",
+    "print_url": "https://zxpress.ru/print.php?id=2576",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2571,
+    "article_url": "https://zxpress.ru/article.php?id=2571",
+    "print_url": "https://zxpress.ru/print.php?id=2571",
+    "title_link": "Сделай сам - RC-фильтр для понижения шумов телефонной линии.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Сделаи_сам_-_RC-фильтр_для_понижения_шумов_телефоннои_линии"
+  },
+  {
+    "article_id": 2570,
+    "article_url": "https://zxpress.ru/article.php?id=2570",
+    "print_url": "https://zxpress.ru/print.php?id=2570",
+    "title_link": "Сетевые новости - Устав сети SPbZXNet.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Сетевые_новости_-_Устав_сети_SPbZXNet"
+  }
+]

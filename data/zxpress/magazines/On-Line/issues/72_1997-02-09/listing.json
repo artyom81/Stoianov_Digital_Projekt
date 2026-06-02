@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1,
+    "article_url": "https://zxpress.ru/article.php?id=1",
+    "print_url": "https://zxpress.ru/print.php?id=1",
+    "title_link": "B.B.S. Новости - Появились новички : Demon BBS, Comandor BBS.",
+    "order": 1,
+    "issue_label": "72",
+    "short_slug": "BBS_Новости_-_Появились_новички_Demon_BBS_Comandor_BBS"
+  },
+  {
+    "article_id": 2450,
+    "article_url": "https://zxpress.ru/article.php?id=2450",
+    "print_url": "https://zxpress.ru/print.php?id=2450",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "72",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2451,
+    "article_url": "https://zxpress.ru/article.php?id=2451",
+    "print_url": "https://zxpress.ru/print.php?id=2451",
+    "title_link": "ZXNet - O глобальной переработке телефонного и адресного справочника в ZXNet.",
+    "order": 3,
+    "issue_label": "72",
+    "short_slug": "ZXNet_-_O_глобальнои_переработке_телефонного_и_адресного_спр"
+  },
+  {
+    "article_id": 2447,
+    "article_url": "https://zxpress.ru/article.php?id=2447",
+    "print_url": "https://zxpress.ru/print.php?id=2447",
+    "title_link": "Мозаика - Гудков Иван о выпуске новой игры.",
+    "order": 4,
+    "issue_label": "72",
+    "short_slug": "Мозаика_-_Гудков_Иван_о_выпуске_новои_игры"
+  },
+  {
+    "article_id": 2449,
+    "article_url": "https://zxpress.ru/article.php?id=2449",
+    "print_url": "https://zxpress.ru/print.php?id=2449",
+    "title_link": "Мозаика - О работе с программой C-DOS.",
+    "order": 5,
+    "issue_label": "72",
+    "short_slug": "Мозаика_-_О_работе_с_программои_C-DOS"
+  },
+  {
+    "article_id": 2446,
+    "article_url": "https://zxpress.ru/article.php?id=2446",
+    "print_url": "https://zxpress.ru/print.php?id=2446",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "72",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2448,
+    "article_url": "https://zxpress.ru/article.php?id=2448",
+    "print_url": "https://zxpress.ru/print.php?id=2448",
+    "title_link": "Скоро ... - О выходе игры \"Dune II - The Battle Fof Barrakis\".",
+    "order": 7,
+    "issue_label": "72",
+    "short_slug": "Скоро_-_О_выходе_игры_Dune_II_-_The_Battle_Fof_Barrakis"
+  }
+]

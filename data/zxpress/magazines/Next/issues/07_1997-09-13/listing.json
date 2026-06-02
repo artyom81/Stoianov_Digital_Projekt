@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 15451,
+    "article_url": "https://zxpress.ru/article.php?id=15451",
+    "print_url": "https://zxpress.ru/print.php?id=15451",
+    "title_link": "Zx-Net - Ремонты/поломки. Скандалы.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Zx-Net_-_Ремонтыполомки_Скандалы"
+  },
+  {
+    "article_id": 15452,
+    "article_url": "https://zxpress.ru/article.php?id=15452",
+    "print_url": "https://zxpress.ru/print.php?id=15452",
+    "title_link": "Новости - Новость дня.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Новость_дня"
+  },
+  {
+    "article_id": 15453,
+    "article_url": "https://zxpress.ru/article.php?id=15453",
+    "print_url": "https://zxpress.ru/print.php?id=15453",
+    "title_link": "Пресса - Обещанный обзор газеты Paradox#00.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Пресса_-_Обещанныи_обзор_газеты_Paradox00"
+  },
+  {
+    "article_id": 15454,
+    "article_url": "https://zxpress.ru/article.php?id=15454",
+    "print_url": "https://zxpress.ru/print.php?id=15454",
+    "title_link": "Недоумения - Скачал я тут у Сени PARADOX#00...",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Недоумения_-_Скачал_я_тут_у_Сени_PARADOX00"
+  },
+  {
+    "article_id": 15455,
+    "article_url": "https://zxpress.ru/article.php?id=15455",
+    "print_url": "https://zxpress.ru/print.php?id=15455",
+    "title_link": "О погоде - Паскудный затяжной ливень.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "О_погоде_-_Паскудныи_затяжнои_ливень"
+  },
+  {
+    "article_id": 15456,
+    "article_url": "https://zxpress.ru/article.php?id=15456",
+    "print_url": "https://zxpress.ru/print.php?id=15456",
+    "title_link": "Разное - Обломы. Завтра. Правила.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Разное_-_Обломы_Завтра_Правила"
+  }
+]

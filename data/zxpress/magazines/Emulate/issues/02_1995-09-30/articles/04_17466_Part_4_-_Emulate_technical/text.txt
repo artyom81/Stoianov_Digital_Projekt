@@ -1,0 +1,159 @@
+02 - Part 4 - Emulate technical.
+==========================================
+ *********************************
+ *  PART 4 - EMULATE TECHNICAL   *
+ *********************************
+
+ TECHNICAL EDITOR'S WELCOME MESSAGE
+
+ Hello,  I'm Phil Reynolds, your technical
+editor.
+
+ I  would  like  to  tell you a little bit
+about  what  I  would  like to do, as your
+technical  editor.  First of all, letters.
+Much  of  what  I would like to do for the
+magazine  involves answering your letters.
+I  don't  mind  whether  they  are on "I'm
+having  trouble doing this...", or "How do
+I   do  this...",  or  even  requests  for
+articles on how to do certain tasks. Think
+of me as the Rupert Goodwins of Emulate.
+
+ I  am including for this month's issue an
+article  on  how  to convert tapes to work
+with emulators, from a PC point of view. I
+am  also  including a .TAP file containing
+the   latest   version   of  SPECTEST,  my
+Spectrum tester, which is fairly good, and
+much  faster than the earlier versions (if
+any of you ever used those).
+
+ To  get  in  touch with me, for requests,
+articles,  and similar, you can e-mail me:
+phil@hedgford.demon.co.uk,  or you can fax
+articles.  The number is 01543 428082. (If
+outside UK, dial international prefix then
+44, then the number, omitting first 0)
+
+ Queries  will  only  be  answered  in the
+magazine as a general rule.
+
+ HOW   TO   CONVERT  TAPES  TO  WORK  WITH
+EMULATORS Written from a PC point of view,
+by Phil Reynolds
+
+ Suppose  you  have  a  lot of those truly
+great  Spectrum games. They are all stored
+on  the  standard  Philips  cassettes. You
+want  to  run  them  on  your PC, using an
+emulator. How can you do it?
+
+ A  fairly  simple solution which will not
+cost  much  money is to use Pedro Gimeno's
+emulator  called  SPECTRUM. It is possible
+that   you   have   tried   to   read  the
+instructions,  only  to discover that they
+are in Spanish. Not to worry, the relevant
+parts are included here:
+
+ What  you need is a lead with a connector
+to  suit  the  EAR  socket  on  your  tape
+recorder,  usually a 3.Smm mono jack plug,
+on one end and a 25-pin male D-plug on the
+other.  The  tip of the jack plug wires to
+pin  13,  the  sleeve to pin 25. This lead
+connects  to  the LPT1 port on the PC. You
+will  also  need  a voltmeter, in order to
+test  the  output  voltage  from  the tape
+recorder,  which  must not exceed 5 volts,
+or  you  may  damage  your PC. Having done
+that,  you should be able to load the tape
+in   the  same  way  as  on  the  original
+Spectrum.  Having  loaded  it,  snap it to
+your hard disk.
+
+ Advantages: Cheap, fairly reliable, works
+with most standard loader schemes.
+
+ Disadvantages:   Not  suitable  for  128K
+games,   snapping  may  affect  randomness
+(e.g.  Colossus  Bridge), not suitable for
+many   loader   schemes.  Emulator  itself
+unstable. Difficult to work with.
+
+ The  alternative is to get the registered
+Z80.  In  order to handle tapes with this,
+you  will  need  a tape interface. You can
+construct this yourself, like I did, using
+the  circuit  diagram that comes with Z80,
+or  you  can buy one, like I did later on,
+from Brian Gaff. This has the advantage of
+not  having wires to break, and it is also
+two-way.
+
+ Whichever  interface  you  have,  you can
+connect  it  to any parallel printer port.
+You   need   to   calibrate   it  for  50%
+deflection  in  the DIAGRAM program or 128
+tape tester.
+
+ The  tape  interface  can be treated just
+like  the EAR and MIC ports of a Spectrum.
+The  difference  is  that the speaker does
+not echo the tape sound.
+
+ Z80  has loader routines that will handle
+most  standard  loaders  regardless of the
+speed  of  your  machine. For non-standard
+loaders, you must do all of the following:
+
+ Set   R-register   emulation   and   LDIR
+emulation ON.
+
+ Set  emulation  speed  to  100%:  failing
+that, get a tape recorder that runs at the
+highest relative speed you can obtain.
+
+ After the standard blocks, switch to REAL
+mode until the program is loaded.
+
+ You  can snap a program to the hard disk.
+For games in which randomness is affected,
+or  those which load levels, provided they
+use  a  standard  loader,  you  can  use a
+mirror .TAP file. This behaves rather like
+a tape.
+
+ You  can,  of  course, try connecting the
+tape  recorder to your sound card. This is
+not  usually  as  reliable  as the printer
+port connection. However, you can sample a
+tape  to  a  .VOC file, and use Z80's .VOC
+file support, load a non- standard loading
+program or levels. This even works on slow
+machines.  The  only  problem is that some
+samplers  cause  interference,  which will
+cause  the  loading  to break. This may be
+worth doing with a good quality setup.
+
+ SPECTEST
+
+ SPECTEST is a good test program, designed
+to  work with the Spectrum 16K, 48K, 128K,
++2,  and  variants using the Henk de Groot
+or  IMC  ROMs or the South American clone,
+the  TK95.  It  tests colour (not for 128,
+which  includes  a test card in ROM), ROM,
+top  32K  RAM  on  48K machines, sound and
+joysticks.  It  also  attempts to tell you
+the issue number.
+
+ Loading:  Set  up  .TAP  file,  or insert
+tape.
+
+ LOAD  ""
+will load the program,
+which in turn loads data.
+
+==========================================

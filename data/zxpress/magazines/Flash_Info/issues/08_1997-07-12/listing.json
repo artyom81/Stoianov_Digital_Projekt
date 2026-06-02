@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 10779,
+    "article_url": "https://zxpress.ru/article.php?id=10779",
+    "print_url": "https://zxpress.ru/print.php?id=10779",
+    "title_link": "Вступление - Вот и вышел уже восьмой номер нашей газеты, а новой читалкой пока и\r\nне пахнет...",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_Вот_и_вышел_уже_восьмои_номер_нашеи_газеты_а_но"
+  },
+  {
+    "article_id": 10780,
+    "article_url": "https://zxpress.ru/article.php?id=10780",
+    "print_url": "https://zxpress.ru/print.php?id=10780",
+    "title_link": "Новости - Новости от FLASH на 13.07.97 года.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_130797_года"
+  },
+  {
+    "article_id": 10781,
+    "article_url": "https://zxpress.ru/article.php?id=10781",
+    "print_url": "https://zxpress.ru/print.php?id=10781",
+    "title_link": "Реклама - Ищу дешевый Spectrum-128Kb недороже 150 тысяч рублей.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Ищу_дешевыи_Spectrum-128Kb_недороже_150_тысяч_рубл"
+  }
+]

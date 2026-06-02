@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 6108,
+    "article_url": "https://zxpress.ru/article.php?id=6108",
+    "print_url": "https://zxpress.ru/print.php?id=6108",
+    "title_link": "Вступление - вступительное слово и содержание номера.",
+    "order": 1,
+    "issue_label": "122",
+    "short_slug": "Вступление_-_вступительное_слово_и_содержание_номера"
+  },
+  {
+    "article_id": 6109,
+    "article_url": "https://zxpress.ru/article.php?id=6109",
+    "print_url": "https://zxpress.ru/print.php?id=6109",
+    "title_link": "События - подробный отчет и фотографии с Chaos Construction 2001 (окончание).",
+    "order": 2,
+    "issue_label": "122",
+    "short_slug": "События_-_подробныи_отчет_и_фотографии_с_Chaos_Construction"
+  },
+  {
+    "article_id": 6110,
+    "article_url": "https://zxpress.ru/article.php?id=6110",
+    "print_url": "https://zxpress.ru/print.php?id=6110",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 3,
+    "issue_label": "122",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6111,
+    "article_url": "https://zxpress.ru/article.php?id=6111",
+    "print_url": "https://zxpress.ru/print.php?id=6111",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 4,
+    "issue_label": "122",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

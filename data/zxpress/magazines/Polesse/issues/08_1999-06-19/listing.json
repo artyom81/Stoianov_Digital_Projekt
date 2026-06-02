@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3515,
+    "article_url": "https://zxpress.ru/article.php?id=3515",
+    "print_url": "https://zxpress.ru/print.php?id=3515",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3518,
+    "article_url": "https://zxpress.ru/article.php?id=3518",
+    "print_url": "https://zxpress.ru/print.php?id=3518",
+    "title_link": "Каракули мозга - Смерть - как радость расставания.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Каракули_мозга_-_Смерть_-_как_радость_расставания"
+  },
+  {
+    "article_id": 3517,
+    "article_url": "https://zxpress.ru/article.php?id=3517",
+    "print_url": "https://zxpress.ru/print.php?id=3517",
+    "title_link": "Навезли новья - Обзор новинок ПО: System Test v4.21R, STU v1.0, PC-ZX conv.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_System_Test_v421R_STU_v10_P"
+  },
+  {
+    "article_id": 3519,
+    "article_url": "https://zxpress.ru/article.php?id=3519",
+    "print_url": "https://zxpress.ru/print.php?id=3519",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3514,
+    "article_url": "https://zxpress.ru/article.php?id=3514",
+    "print_url": "https://zxpress.ru/print.php?id=3514",
+    "title_link": "Слово авторов - Поломка компьютера и выход газеты.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Слово_авторов_-_Поломка_компьютера_и_выход_газеты"
+  },
+  {
+    "article_id": 3516,
+    "article_url": "https://zxpress.ru/article.php?id=3516",
+    "print_url": "https://zxpress.ru/print.php?id=3516",
+    "title_link": "Событие - Первое общегородское собрание синклеристов города Гомеля.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Событие_-_Первое_общегородское_собрание_синклеристов_города"
+  }
+]

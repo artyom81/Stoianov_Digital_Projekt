@@ -1,0 +1,1129 @@
+Deja Vu 04 - CODING - Вращение спрайтов.
+SoundTrack:  MR.Z OF LASER SOFT '98 (C)BD
+__________________________________________
+;----------------------------------------;
+;
+TURN SPRITES
+;
+;
+(c) SerzhSoft, Shadrinsk, 31 july 1997
+;
+;----------------------------------------;
+ORG     #8000
+JP      EXAMPLE
+;----------------------------------------;
+;используется в изменяемых командах
+_NULL
+EQU     0
+;----------------------------------------;
+ALFA
+dw      0
+;угол наклона спрайта
+;
+COSALFA
+db      0
+;абсолютное значение
+db      0
+;знак: 0=[+], #ff=[-]
+;
+SINALFA
+db      0
+;абсолютное значение
+db      0
+;знак: 0=[+], #ff=[-]
+;----------------------------------------;
+ATTR_P
+EQU     23693
+;атрибуты экрана
+;----------------------------------------;
+;биты:   0 - over 0/1,   2 - inverse 0/1
+;      4 - ink & paper 9 (прозрачные атр.)
+P_FLAG
+EQU     23697
+;----------------------------------------;
+;демонстрационный пример
+EXAMPLE
+di
+;
+        XOR     A
+        LD      (P_FLAG),A
+;
+        ld      hl,0
+;угол накл. спрайта
+ld      a,128
+;масштаб: 0.5:1
+call    INISYST
+;иниц-я системы
+                         координат
+;
+ld      e,0
+;X спрайта
+ld      d,0
+;Y спрайта
+ld      ix,MYSPR2
+;ADR_SPR
+ld      c,(ix+0)
+;ширина, байты
+ld      b,(ix+1)
+;высота, пиксели
+inc     ix
+inc     ix
+call    CORNSPR
+;вывод спрайта по
+                         лев. верх. углу
+;
+ld      e,200
+;X спрайта
+ld      d,0
+;Y спрайта
+ld      ix,MYSPR1
+;ADR_SPR
+ld      c,(ix+0)
+;ширина, байты
+ld      b,(ix+1)
+;высота, пиксели
+inc     ix
+inc     ix
+        call    CORNSPR
+;вывод спрайта по
+                         лев. верх. углу
+;
+ld      hl,45
+;наклон 45 град.
+ld      a,255
+;масштаб: 1:1
+call    INISYST
+;сист. координат
+;
+ld      e,100
+;X
+ld      d,100
+;Y
+ld      ix,MYSPR2
+;ADR_SPR
+ld      c,(ix+0)
+;XR_IN_BYTES
+ld      b,(ix+1)
+;YR_IN_PIXELS
+inc     ix
+inc     ix
+        call    CENTSPR
+;PUT_CENTRE_TURN_
+                         SPRITE
+;
+LD      A,#04
+;[set 2,a]
+LD      (P_FLAG),A
+;inverse 1
+;
+ld      hl,90
+;наклон 45 град.
+ld      a,255
+;масштаб: 1:1
+call    INISYST
+;сист. координат
+;
+ld      e,210
+;X
+ld      d,100
+;Y
+ld      ix,MYSPR1
+;ADR_SPR
+ld      c,(ix+0)
+;XR_IN_BYTES
+ld      b,(ix+1)
+;YR_IN_PIXELS
+inc     ix
+inc     ix
+        call    CENTSPR
+;PUT_CENTRE_TURN_
+                         SPRITE
+;
+CALL    WAITKEY
+ei
+        ret
+;----------------------------------------;
+;инициализация системы координат для
+; последующих выводов спрайтов
+; HL=0..359 - угол наклона в градусах
+; A=0..255 - масштаб 0:1 ... 1:1
+INISYST
+push    af
+ld      (ALFA),hl
+        call    SIN_HL
+        pop     bc
+        push    bc
+        ld      c,a
+        sbc     a,a
+        ld      d,a
+        call    MULT_BC
+        ld      l,a
+        ld      h,d
+        ld      (SINALFA),hl
+ld      hl,(ALFA)
+call    COS_HL
+        pop     bc
+        ld      c,a
+        sbc     a,a
+        ld      d,a
+        call    MULT_BC
+        ld      l,a
+        ld      h,d
+        ld      (COSALFA),hl
+        ld      ix,DTATAB
+        ld      de,#0000
+        ld      a,d
+LPIS1
+push    af
+ld      a,(COSALFA)
+        pop     bc
+        push    bc
+        ld      c,a
+        call    MULT_BC
+        ld      h,a
+        sub     e
+        ld      e,h
+ld      c,a
+ld      a,(COSALFA+1)
+        rra
+        jr      nc,GOIS1
+        ld      a,c
+        neg
+        ld      c,a
+GOIS1
+ld      (ix+0),c
+inc     ix
+        ld      a,(SINALFA)
+        pop     bc
+        push    bc
+        ld      c,a
+        call    MULT_BC
+        ld      h,a
+        sub     d
+        ld      d,h
+        ld      c,a
+        ld      a,(SINALFA+1)
+        rra
+        jr      nc,GOIS2
+        ld      a,c
+neg
+ld      c,a
+GOIS2
+ld      (ix+0),c
+inc     ix
+        pop     af
+        inc     a
+        jr      nz,LPIS1
+        ret
+;----------------------------------------;
+;вывод повернутого спрайта по центру
+; прерывания - запрещать! (из-за стека)
+; E=x, D=y - координаты центра
+; C=xr - ширина спрайта в знакоместах
+; B=yr - высота спрайта в пикселях
+; IX - адрес данных спрайта
+CENTSPR
+push    bc
+srl     b
+        sla     c
+        sla     c
+        push    bc
+ld      a,(SINALFA)
+ld      c,a
+        call    MULT_BC
+        ld      h,a
+        ld      a,(SINALFA+1)
+        rra
+        ld      a,h
+        jr      c,GOCS1
+        neg
+GOCS1
+add     a,e
+ld      e,a
+;X0-YR/2*SIN(A)
+pop     bc
+push    bc
+        ld      a,(COSALFA)
+        ld      b,a
+        call    MULT_BC
+        ld      h,a
+        ld      a,(COSALFA+1)
+        rra
+        ld      a,h
+        jr      c,GOCS2
+        neg
+GOCS2
+add     a,e
+ld      e,a
+;X0-YR/2*SIN(A)-
+                         -XR/2*COS(A)
+pop     bc
+push    bc
+        ld      a,(COSALFA)
+        ld      c,a
+        call    MULT_BC
+        ld      h,a
+        ld      a,(COSALFA+1)
+        rra
+        ld      a,h
+        jr      c,GOCS3
+        neg
+GOCS3
+add     a,d
+ld      d,a
+;Y0-YR/2*COS(A)
+pop     bc
+ld      a,(SINALFA)
+        ld      b,a
+        call    MULT_BC
+        ld      h,a
+        ld      a,(SINALFA+1)
+rra
+ld      a,h
+        jr      nc,GOCS4
+        neg
+GOCS4
+add     a,d
+ld      d,a
+;Y0-YR/2*COS(A)+
+                         +XR/2*SIN(A)
+pop     bc
+;--------------------------------------;
+;вывод повернутого спрайта по углу
+; прерывания - запрещать! (из-за стека)
+; E=x, D=y - координаты лев. верх. угла
+; C=xr - ширина спрайта в знакоместах
+; B=yr - высота спрайта в пикселях
+; IX - адрес данных спрайта
+CORNSPR
+ld      hl,DTATAB
+LPCRS0
+push    bc
+push    de
+        push    hl
+        ld      (CORNSP1),sp
+ld      sp,DTATAB
+ld      a,c
+LPCRS1
+ld      b,(ix+0)
+LPCRS2
+ex      af,af'
+pop     hl
+        ld      a,e
+SIGN_XX
+add     a,l
+ld      e,a
+        ld      a,d
+SIGN_XY
+sub     h
+cp      #C0
+        jr      nc,NO_PUT
+        ld      d,a
+;
+        LD      C,#07
+        ld      a,d
+        rra
+        scf
+        rra
+        rra
+        and     #5F
+        ld      h,a
+xor     e
+and     C
+        xor     e
+        rrca
+        rrca
+        rrca
+        ld      l,a
+        ld      a,d
+        xor     h
+        and     C
+        xor     h
+        ld      h,a
+        LD      A,E
+        AND     C
+        LD      C,B
+        LD      B,A
+        LD      A,#80
+        JR      Z,IF_TRN
+LP_TRN
+RRCA
+DJNZ    LP_TRN
+IF_TRN
+LD      B,C
+LD      C,A
+LD      A,(P_FLAG)
+rlc     b
+        jr      c,NO_RES
+        xor     #04
+NO_RES
+BIT     2,A
+LD      A,#A9
+;[xor c] - inv. 1
+JR      NZ,IF_TRN1
+LD      A,#00
+;[nop] - inverse 0
+IF_TRN1
+LD      (INV_TRN),A
+LD      A,(HL)
+        OR      C
+INV_TRN
+XOR     C
+LD      (HL),A
+        LD      A,(P_FLAG)
+        BIT     4,A
+        JR      NZ,NO_PUT
+        LD      A,H
+        RRA
+        RRA
+        RRA
+        AND     #03
+        OR      #58
+LD      H,A
+LD      A,(ATTR_P)
+        LD      (HL),A
+;
+NO_PUT
+ex      af,af'
+add     a,#20
+        jp      nc,LPCRS2
+        inc     ix
+        dec     a
+        jp      nz,LPCRS1
+EXCRS1
+ld      sp,0
+CORNSP1
+equ     $-2
+pop     hl
+        pop     de
+        ld      a,d
+SIGN_YY
+add     a,(hl)
+ld      d,a
+        inc     hl
+        ld      a,e
+SIGN_YX
+add     a,(hl)
+ld      e,a
+        inc     hl
+pop     bc
+DEC     B
+        JP      NZ,LPCRS0
+        ret
+;----------------------------------------;
+;быстрое умножение B на C
+;AL=B*C
+MULT_BC
+ld      l,b
+xor     a
+        rr      l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        jr nc,$+3: add a,c: rra: rr l
+        ret
+;----------------------------------------;
+;вычисление синуса HL
+;A=sin(HL)*255, CF=sign (NC=[+], C=[-])
+SIN_HL
+dec     h
+jr      z,GOSIN2
+        inc     h
+        jr      nz,SIN360
+        ld      h,SINTAB/256
+        ld      a,l
+        cp      180
+        jr      nc,GOSIN1
+        ld      a,(hl)
+        and     a
+        ret
+GOSIN1
+sub     180
+ld      l,a
+        ld      a,(hl)
+        scf
+        ret
+GOSIN2
+ld      a,l
+cp      104
+jr      nc,GOSIN3
+ld      l,a
+        ld      a,104
+        sub     l
+        ld      l,a
+        ld      h,SINTAB/256
+        ld      a,(hl)
+        scf
+        ret
+GOSIN3
+inc     h
+SIN360
+ld      bc,360
+and     a
+LPSIN1
+sbc     hl,bc
+jr      nc,LPSIN1
+        add     hl,bc
+        jp      SIN_HL
+;----------------------------------------;
+;вычисление косинуса HL
+;A=cos(HL)*255, CF=sign (NC=[+], C=[-])
+COS_HL
+dec     h
+jr      z,GOCOS3
+inc     h
+        jr      nz,COS360
+        ld      h,SINTAB/256
+        ld      a,l
+        cp      180
+        jr      nc,GOCOS2
+        sub     90
+        jr      c,GOCOS1
+        ld      l,a
+        ld      a,(hl)
+        scf
+        ret
+GOCOS1
+add     a,180
+ld      l,a
+        ld      a,(hl)
+        and     a
+        ret
+GOCOS2
+sub     90
+ld      l,a
+        ld      a,(hl)
+        scf
+ret
+GOCOS3
+ld      a,l
+cp      14
+        jr      nc,GOCOS4
+        add     a,166
+        ld      l,a
+        ld      h,SINTAB/256
+        ld      a,(hl)
+        scf
+        ret
+GOCOS4
+cp      104
+jr      nc,GOCOS5
+        sub     14
+        ld      l,a
+        ld      h,SINTAB/256
+        ld      a,(hl)
+        and     a
+        ret
+GOCOS5
+inc     h
+COS360
+ld      bc,360
+and     a
+LPCOS1
+sbc     hl,bc
+jr      nc,LPCOS1
+add     hl,bc
+        jp      COS_HL
+;----------------------------------------;
+;ждет нажатия на любую клавишу
+WAITKEY
+XOR     A
+IN      A,(#FE)
+        CPL
+        AND     #1F
+        JR      Z,WAITKEY
+        RET
+;----------------------------------------;
+;выравнивание на сегмент (граница 256)
+ds      $/256*256+256-$
+SINTAB  insert  "sincos.d"
+;----------------------------------------;
+MYSPR1  insert  "spr1.spr" ;спрайт 1
+MYSPR2  insert  "spr2.spr" ;спрайт 2
+;----------------------------------------;
+DTATAB
+ds      512       ;DELTA_LINES
+;можно использовать все тот же BUFFER
+;----------------------------------------;
+=====================
+=====================
+;----------------------------------------;
+;
+CIRCLE AND TEXTURED FILL
+;
+;
+(c) SerzhSoft, Shadrinsk, 31 july 1997
+;
+;----------------------------------------;
+ORG     #8000
+JP      EXAMPLE
+;----------------------------------------;
+;используется в изменяемых командах
+_NULL
+EQU     0
+;----------------------------------------;
+;адрес текстуры для вывода
+TXRADR
+DW      TEXTURE
+;----------------------------------------;
+ATTR_P
+EQU     23693
+;атрибуты экрана
+;----------------------------------------;
+;биты:   0 - over 0/1,   2 - inverse 0/1
+;      4 - ink&paper 9 (прозрачные атр.)
+P_FLAG
+EQU     23697
+;----------------------------------------;
+;демонстрационный пример
+EXAMPLE
+XOR     A
+LD      (P_FLAG),A
+;
+        ld      hl,-100
+        ld      de,-100
+        ld      a,255
+        CALL    CIRCLE
+;
+        LD      E,10
+        LD      D,10
+        XOR     A
+        CALL    TXRFILL
+;
+        ld      hl,200
+        ld      de,100
+        ld      a,50
+        CALL    CIRCLE
+;
+        LD      E,200
+        LD      D,100
+        LD      A,1
+        CALL    TXRFILL
+;
+ld      hl,115
+        ld      de,150
+        ld      a,20
+        CALL    CIRCLE
+;
+        LD      E,115
+        LD      D,150
+        LD      A,2
+        CALL    TXRFILL
+;
+        LD      A,#04
+;[set 2,a]
+LD      (P_FLAG),A
+;inverse 1
+;
+LD      E,10
+        LD      D,170
+        LD      A,2
+        CALL    TXRFILL
+;
+        CALL    WAITKEY
+        RET
+;----------------------------------------;
+;ждет нажатия на любую клавишу
+WAITKEY
+XOR     A
+IN      A,(#FE)
+        CPL
+        AND     #1F
+        JR      Z,WAITKEY
+        RET
+;----------------------------------------;
+;
+Algorythm designed by SerzhSoft (c)1996
+;рисование окружности
+; HL=x, DE=y (-32768..+23767)
+; A=радиус (0..255) ;при 0 - точка
+CIRCLE
+ld      (X_CIRC),hl
+ld      (Y_CIRC),de
+        ld      e,a
+        ld      c,#00
+        ld      b,c
+        ld      d,c
+        srl     a
+LPCIR1
+ex      af,af'
+LPCIR2
+call    PUT8PX
+inc     c
+        ex      af,af'
+        sub     c
+        jr      nc,LPCIR1
+        dec     e
+        add     a,e
+        ex      af,af'
+        ld      a,e
+        cp      c
+        jr      nc,LPCIR2
+        ret
+;
+PUT8PX
+call    PUT4PX
+;
+PUT4PX
+ld      a,c
+ld      c,e
+        ld      e,a
+        ld      hl,_NULL
+X_CIRC
+equ     $-2
+push    hl
+        add     hl,bc
+call    PUT2PX
+pop     hl
+        sbc     hl,bc
+;
+PUT2PX
+inc     h
+dec     h
+        ret     nz
+        ld      a,l
+        ld      (X_NEW),a
+        ld      hl,_NULL
+Y_CIRC
+equ     $-2
+push    hl
+        add     hl,de
+        call    PUT1PX
+        pop     hl
+        sbc     hl,de
+;
+PUT1PX
+inc     h
+dec     h
+        ret     nz
+        ld      a,l
+        cp      #C0
+ret     nc
+push    de
+        ld      d,a
+        ld      e,_NULL
+X_NEW
+equ     $-1
+push    bc
+        call    PLOT
+        pop     bc
+        pop     de
+        ret
+;----------------------------------------;
+;текстурная заливка
+; E=x, D=y, A=номер текстуры (0..255)
+TXRFILL
+RRCA
+RRCA
+        RRCA
+        LD      H,A
+        AND     #E0
+        LD      L,A
+        XOR     H
+        ADD     A,TEXTURE/256
+LD      H,A
+LD      (TXRADR),HL
+;
+;заливка, но не по номеру текстуры, а
+;по адресу, установленному в TXRADR
+TXRFIL2
+LD      A,D
+CP      #C0
+        RET     NC
+        LD      A,(P_FLAG)
+        BIT     2,A
+        LD      A,#A9
+;[xor c] - inv. 0
+JR      Z,IF_TXF0
+LD      A,#A1
+;[and c] - inv. 1
+IF_TXF0
+LD      (INV_TXF),A
+LD      HL,BUFFER
+        LD      A,#FF
+        PUSH    AF
+        PUSH    DE
+LP_TXF1
+POP     DE
+INC     D
+        JP      Z,GO_TXF0
+DEC     D
+CALL    POINTHL
+        JR      NZ,LP_TXF1
+        EX      AF,AF'
+LP_TXF2
+LD      A,E
+LD      (HL),A
+        OR      A
+        JR      Z,GO_TXF1
+        DEC     E
+        CALL    POINTHL
+        JR      Z,LP_TXF2
+LP_TXF3
+INC     E
+JR      Z,GO_TXF8
+GO_TXF1
+PUSH    HL
+CALL    POINT
+        JR      NZ,GO_TXF7
+        LD      A,(HL)
+        OR      C
+        CALL    TO_PLOT
+        POP     HL
+        LD      A,D
+        OR      A
+JR      Z,GO_TXF4
+DEC     D
+        CALL    POINTHL
+        JR      Z,GO_TXF2
+        EX      AF,AF'
+        LD      A,B
+        JR      GO_TXF3
+GO_TXF2
+EX      AF,AF'
+INC     A
+        DEC     A
+        JR      NZ,GO_TXF3
+        LD      A,C
+        PUSH    DE
+GO_TXF3
+EX      AF,AF'
+INC     D
+GO_TXF4
+LD      A,D
+CP      #BF
+        JR      NC,LP_TXF3
+        INC     D
+        CALL    POINTHL
+        JR      Z,GO_TXF5
+        EX      AF,AF'
+AND     A
+JR      GO_TXF6
+GO_TXF5
+EX      AF,AF'
+JR      C,GO_TXF6
+        SCF
+        PUSH    DE
+GO_TXF6
+EX      AF,AF'
+DEC     D
+        JR      LP_TXF3
+GO_TXF7
+POP     HL
+GO_TXF8
+LD      A,E
+SUB     (HL)
+        INC     HL
+        LD      (HL),D
+        INC     HL
+        LD      (HL),A
+        INC     HL
+        JR      LP_TXF1
+;
+LP_TXF4
+ADD     HL,DE
+DEC     HL
+        LD      A,(HL)
+DEC     HL
+LD      D,(HL)
+        DEC     HL
+        LD      E,(HL)
+        PUSH    HL
+        PUSH    AF
+        CALL    POINT
+        POP     AF
+        LD      B,A
+        LD      A,E
+        RRA
+        RRA
+        RRA
+        RRA
+        LD      A,D
+        RLA
+        LD      DE,(TXRADR)
+        XOR     E
+        AND     #1F
+        XOR     E
+        LD      E,A
+LP_TXF5
+LD      A,(DE)
+AND     C
+INV_TXF
+XOR     C
+XOR     (HL)
+        LD      (HL),A
+        RRC     C
+        JR      NC,GO_TXF9
+        INC     L
+        LD      A,E
+        XOR     #01
+        LD      E,A
+GO_TXF9
+DJNZ    LP_TXF5
+POP     HL
+GO_TXF0
+LD      DE,BUFFER
+AND     A
+        SBC     HL,DE
+        JR      NZ,LP_TXF4
+        RET
+;----------------------------------------;
+;выч. адреса и проверка состояния точки
+POINT
+LD      B,#07
+LD      A,D
+RRA
+SCF
+        RRA
+        RRA
+        AND     #5F
+        LD      H,A
+        XOR     E
+        AND     B
+        XOR     E
+        RRCA
+        RRCA
+        RRCA
+        LD      L,A
+        LD      A,D
+        XOR     H
+        AND     B
+        XOR     H
+        LD      H,A
+        LD      A,E
+        AND     B
+        LD      B,A
+        LD      A,#80
+JR      Z,GO_PNT
+LP_PNT
+RRCA
+DJNZ    LP_PNT
+GO_PNT
+LD      C,A
+AND     (HL)
+        RET
+;
+POINTHL
+PUSH    HL
+CALL    POINT
+        POP     HL
+        RET
+;----------------------------------------;
+;установка точки
+PLOT
+CALL    POINT
+LD      A,(P_FLAG)
+        PUSH    HL
+        LD      HL,#A9A9
+;over 1, inv. 1
+BIT     0,A
+JR      NZ,IF_PLT1
+        LD      L,#B1
+;[or c] - over 0
+IF_PLT1
+BIT     2,A
+JR      NZ,IF_PLT2
+        LD      H,#00
+;[nop] - inverse 1
+IF_PLT2
+LD      (OVR_PLT),HL
+POP     HL
+        LD      A,(HL)
+OVR_PLT
+OR      C
+INV_PLT
+XOR     C
+;
+TO_PLOT
+;вход для пр-ры заливки и др.
+LD      (HL),A
+LD      A,(P_FLAG)
+        BIT     4,A
+        RET     NZ
+        LD      A,H
+        RRA
+        RRA
+        RRA
+        AND     #03
+        OR      #58
+        LD      H,A
+        LD      A,(ATTR_P)
+LD      (HL),A
+RET
+;----------------------------------------;
+;выравнивание на сегмент (граница 256)
+DS      $/256*256+256-$
+;----------------------------------------;
+;различные текстуры 2*2 знакоместа
+TEXTURE
+DB      %11111111,%11110000
+DB      %11111111,%11111000
+        DB      %11000000,%00110100
+        DB      %11011111,%11111010
+        DB      %11011111,%11110100
+        DB      %11011010,%11111010
+        DB      %11011101,%11110100
+        DB      %11011010,%11111010
+        DB      %11011111,%11110100
+        DB      %11011111,%11111010
+        DB      %11111111,%11110100
+        DB      %11111111,%11111010
+        DB      %01010101,%01010100
+        DB      %00101010,%10101010
+DB      %00010101,%01010100
+DB      %00000000,%00000000
+;
+        DB      %11111111,%11110000
+        DB      %11111111,%11111000
+        DB      %11000000,%00110100
+        DB      %11011111,%11111010
+        DB      %11011111,%11110100
+        DB      %11011000,%11111010
+        DB      %11011010,%11110100
+        DB      %11011000,%11111010
+        DB      %11011111,%11110100
+        DB      %11011111,%11111010
+        DB      %11111111,%11110100
+        DB      %11111111,%11111010
+        DB      %01010101,%01010100
+        DB      %00101010,%10101010
+        DB      %00010101,%01010100
+        DB      %00000000,%00000000
+;
+        DB      %11111111,%11110000
+        DB      %11111111,%11111000
+DB      %11000000,%00110100
+DB      %11011111,%11111010
+        DB      %11011111,%11110100
+        DB      %11011111,%11111010
+        DB      %11011111,%11110100
+        DB      %11011111,%11111010
+        DB      %11011111,%11110100
+        DB      %11011111,%11111010
+        DB      %11111111,%11110100
+        DB      %11111111,%11111010
+        DB      %01010101,%01010100
+        DB      %00101010,%10101010
+        DB      %00010101,%01010100
+        DB      %00000000,%00000000
+;----------------------------------------;
+;буфер для запоминания координат линий
+; при заливке (требует большого объема)
+BUFFER
+EQU     $
+EX      DE,HL
+; Например,
+                               для основ-
+                              ного знака X
+AND     A
+; дополни-
+                               тельным бу-
+                               дет I, а их
+SBC     HL,BC
+; разность
+                               соответст-
+                               венно:
+EX      DE,HL
+;10-1=9,т.е.
+                               IX
+LD      C,A
+;код основ-
+ного знака
+LD      A,(HL)
+;код допол-
+                               нительного
+                               знака
+EX      (SP),HL
+;HL=печатае-
+                               мое число
+SBC     HL,DE
+;если оно <
+                              дополнитель-
+                              ного
+JR      C,GO_PRW3
+; значения,
+                               то не печа-
+                               таем
+RST     #10
+;печать до-
+                               полнитель-
+                               ного знака
+LD      A,C
+;основной
+                               знак
+RST     #10
+;печать
+JR      GO_PRW4
+;результат -
+                               двухбукв.
+                               сочетание
+GO_PRW3
+ADD     HL,DE
+;восстанови-
+ли (+) у
+                               числа
+GO_PRW4
+EX      (SP),HL
+;число -> на
+                               стек
+HL_PRW
+LD      HL,_NULL
+;адрес сле-
+                               дующего
+                               знака в
+                               таблице
+DB      #DD
+;работаем с
+                               половинкой
+                               регистра IX
+DEC     L
+;DEC XL -
+                               уменьшаем
+                               счетчик
+                               знаков
+JR      NZ,LP_PRW1
+;крутим цикл
+                               пока есть
+                               еще знаки
+POP     HL
+;сняли не-
+                               нужный уже
+                               ноль со
+                               стека
+RET
+;выход из
+                               процедуры
+;----------------------------------------;
+RIM_TBL
+;Таблица значимости букв в написа-
+         нии римских чисел
+DW      1000
+DB      "M"
+;M=1000 ;CM=900
+DW      500
+DB      "D"
+;D=500  ;CD=400
+DW      100
+DB      "C"
+;C=100  ;XC=90
+DW      50
+DB      "L"
+;L=50   ;XL=40
+DW      10
+DB      "X"
+;X=10   ;IX=9
+DW      5
+DB      "V"
+;V=5    ;IV=4
+DW      1
+DB      "I"
+;I=1    ;-nop-
+;----------------------------------------;
+;
+end of PDES LIB 2.0
+;              ;
+;----------------------------------------;

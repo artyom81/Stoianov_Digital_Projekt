@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12632,
+    "article_url": "https://zxpress.ru/article.php?id=12632",
+    "print_url": "https://zxpress.ru/print.php?id=12632",
+    "title_link": "Вступление - Здравствуйте уважаемые пользователи компьютерa ZX-SPECTRUM\r\n в городе Гомеле!",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_Здравствуите_уважаемые_пользователи_компьютерa"
+  },
+  {
+    "article_id": 12633,
+    "article_url": "https://zxpress.ru/article.php?id=12633",
+    "print_url": "https://zxpress.ru/print.php?id=12633",
+    "title_link": "Гипотеза - некоторые отрывки из книги \"Автостопом по Галактике\".",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Гипотеза_-_некоторые_отрывки_из_книги_Автостопом_по_Галактик"
+  },
+  {
+    "article_id": 12634,
+    "article_url": "https://zxpress.ru/article.php?id=12634",
+    "print_url": "https://zxpress.ru/print.php?id=12634",
+    "title_link": "Стихотворение - До встречи в следующем номере!",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Стихотворение_-_До_встречи_в_следующем_номере"
+  },
+  {
+    "article_id": 14043,
+    "article_url": "https://zxpress.ru/article.php?id=14043",
+    "print_url": "https://zxpress.ru/print.php?id=14043",
+    "title_link": "new warez - свежий wArЫz: lamergy 5,6,best view 2.12.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "new_warez_-_свежии_wArЫz_lamergy_56best_view_212"
+  },
+  {
+    "article_id": 11831,
+    "article_url": "https://zxpress.ru/article.php?id=11831",
+    "print_url": "https://zxpress.ru/print.php?id=11831",
+    "title_link": "Свиток - обзор новых программ: Space Crusade, Rebel Star 1-3.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Свиток_-_обзор_новых_программ_Space_Crusade_Rebel_Star_1-3"
+  },
+  {
+    "article_id": 15718,
+    "article_url": "https://zxpress.ru/article.php?id=15718",
+    "print_url": "https://zxpress.ru/print.php?id=15718",
+    "title_link": "Marazm - Сегодня мой Маразм необычен. Вернее совсем не обычен.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Marazm_-_Сегодня_мои_Маразм_необычен_Вернее_совсем_не_обычен"
+  },
+  {
+    "article_id": 11744,
+    "article_url": "https://zxpress.ru/article.php?id=11744",
+    "print_url": "https://zxpress.ru/print.php?id=11744",
+    "title_link": "Игры - описание игр: Bogaboo, Towdie, Delta, Score 3020, Konami Tennis, Hyper Sports, Para Academy, Run for gold, Centurions, Atrog, Little computer people.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Игры_-_описание_игр_Bogaboo_Towdie_Delta_Score_3020_Konami_T"
+  },
+  {
+    "article_id": 14877,
+    "article_url": "https://zxpress.ru/article.php?id=14877",
+    "print_url": "https://zxpress.ru/print.php?id=14877",
+    "title_link": "О сисопах-подлецах - Демон + ФИДО = ;(",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "О_сисопах-подлецах_-_Демон_ФИДО"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "44",
+  "issue_date_iso": "2000-05-19",
+  "order": 7,
+  "article_id": 10592,
+  "title_link": "Наш смак - окрошка сборная мясная.",
+  "title_h1": "City 44 - Наш смак - окрошка сборная мясная.",
+  "print_url": "https://zxpress.ru/print.php?id=10592",
+  "article_url": "https://zxpress.ru/article.php?id=10592",
+  "fetched_at": "2026-05-31T21:52:01Z"
+}

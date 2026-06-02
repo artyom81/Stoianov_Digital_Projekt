@@ -1,0 +1,15 @@
+{
+  "magazine_id": 92,
+  "magazine_name": "Gorodok",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-02-01",
+  "order": 1,
+  "article_id": 14546,
+  "title_link": "Введение - Тарас, написал драйвер для своего SCORPION под\r\nIS-DOS.",
+  "title_h1": "Gorodok 03 - Введение - Тарас, написал драйвер для своего SCORPION под IS-DOS.",
+  "print_url": "https://zxpress.ru/print.php?id=14546",
+  "article_url": "https://zxpress.ru/article.php?id=14546",
+  "fetched_at": "2026-05-31T22:10:39Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "0B",
+  "issue_date_iso": "2000-11-25",
+  "order": 9,
+  "article_id": 9410,
+  "title_link": "Презент - о приложении газеты.",
+  "title_h1": "IzhNews 0B - Презент - о приложении газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=9410",
+  "article_url": "https://zxpress.ru/article.php?id=9410",
+  "fetched_at": "2026-05-31T22:15:56Z"
+}

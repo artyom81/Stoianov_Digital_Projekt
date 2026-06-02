@@ -1,0 +1,6 @@
+  Magazin: ZX Humor
+
+✅ Validierung: OK - ZX Humor
+   (mit Warnungen)
+  - [Issue #03] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 1 | Artikel gesamt: 11

@@ -1,0 +1,272 @@
+ZX Review 3-4 - Этюды - Е.Мороз. Бегущая строчка.
+(c) Евгений Мороз,
+Красноярский край, с. Бражное.
+Предлагаю программу типа "бе-
+гущая строчка по таблице в  пре-
+рываниях".  Текст программы  дан
+адаптированным  к   прерываниям,
+т.к. я полагаю, что легче убрать
+"прерывательные"  навороты,  чем
+их поставить. Вот ее листинг:
+147.
+       ORG  50000
+TABLE  EQU  60000
+SIZE   EQU  8
+IMOFF  DI
+       LD   A,63
+       LD   I,A
+       IM   1
+       EI
+       RET
+       ENT
+IMON   DI
+       LD   A,9
+       LD   I,A
+       IM   2
+       LD   A,#C3
+       LD   (65129),A
+       LD   HL,SCROLL
+       LD   (65130),HL
+       EI
+       RET
+SCROLL PUSH AF
+       PUSH HL
+       PUSH DE
+       PUSH BC
+       CALL LINE
+       POP  BC
+       POP  DE
+       POP  HL
+       POP  AF
+       JP   56
+NEXT   LD   HL,(TXTM)
+       INC  HL
+       LD   (TXTM),HL
+       LD   A,(HL)
+       CP   255
+       JR   NZ,NEXT1
+       LD   HL,TXT
+       LD   (TXTM),HL
+       LD   A,(HL)
+NEXT1  AND  127
+       CP   32
+       JR   C,NEXT3
+       LD   L,A
+       LD   H,0
+       ADD  HL,HL
+       ADD  HL,HL
+       ADD  HL,HL
+       LD   DE,(23606)
+       ADD  HL,DE
+       LD   DE,BUF+SIZE
+       LD   B,8
+NEXT2  LD   A,(HL)
+       LD   (DE),A
+       INC  HL
+       INC  D
+       DJNZ NEXT2
+NEXT3  LD   A,7
+       JR   LINE2
+LINE   LD   A,(LINEM)
+       DEC  A
+       JR   Z,NEXT
+LINE2  LD   (LINEM),A
+       CALL SCR
+       RET
+SCR    LD   DE,TABLE
+       LD   HL,BUF+SIZE
+       LD   C,8
+SCR1   PUSH HL
+       AND  A
+       RL   (HL)
+       DEC  HL
+       LD   B,SIZE
+SCR2   PUSH BC
+       RL   (HL)
+       PUSH AF
+       CALL DEG
+       DEC  HL
+       POP  AF
+       POP  BC
+       DJNZ SCR2
+       POP  HL
+       INC  H
+       DEC  C
+       JR   NZ,SCR1
+       RET
+DEG    LD   B,8
+DEG1   PUSH BC
+       LD   A,(HL)
+DEG2   RLA
+       DJNZ DEG2
+       CALL PLOT
+       POP  BC
+       DJNZ DEG1
+       RET
+PLOT   PUSH HL
+       EX   DE,HL
+       LD   C,(HL)
+       JR   NC,PL2
+PL1    LD   B,C
+PL2    INC  HL
+       LD   E,(HL)
+       INC  HL
+       LD   D,(HL)
+       INC  HL
+       EX   DE,HL
+       LD   A,(HL)
+       OR   C
+       XOR  C
+       OR   B
+       LD   (HL),A
+       POP  HL
+       RET
+LINEM  DEFB 1
+TXTM   DEFW TXT-1
+BUF    DEFS 2048
+TXT    DEFM "HELLO ALL HA"
+       DEFM "CKERS ALL OV"
+       DEFM "ER THE WORLD"
+       DEFM " !!! "
+       DEFS SIZE
+       DEFB 255
+2
+Также приводим ее дамп:
+C350: F3 3E 3F ED 47 ED 56 FB:F5
+C358: C9 F3 3E 09 ED 47 ED 5E:9D
+C360: 3E C3 32 69 FE 21 6D C3:0E
+C368: 22 6A FE FB C9 F5 E5 D5:28
+C370: C5 CD AE C3 C1 D1 E1 F1:9A
+C378: C3 38 00 2A FE C3 23 22:66
+C380: FE C3 7E FE FF 20 07 21:C7
+C388: 00 CC 22 FE C3 7E E6 7F:DD
+C390: FE 20 38 16 6F 26 00 29:7D
+C398: 29 29 ED 5B 36 5C 19 11:B1
+C3A0: 08 C4 06 08 7E 12 23 14:04
+C3A8: 10 FA 3E 07 18 06 3A FD:0F
+C3B0: C3 3D 28 C7 32 FD C3 CD:21
+C3B8: BB C3 C9 11 60 EA 21 08:46
+C3C0: C4 0E 08 E5 A7 CB 16 2B:F5
+C3C8: 06 08 C5 CB 16 F5 CD DC:DD
+C3D0: C3 2B F1 C1 10 F4 E1 24:3C
+C3D8: 0D 20 E8 C9 06 08 C5 7E:CA
+C3E0: 17 10 FD CD EA C3 C1 10:12
+C3E8: F5 C9 E5 EB 4E 30 01 41:F9
+C3F0: 23 5E 23 56 23 EB 7E B1:EA
+C3F8: A9 B0 77 E1 C9 01 FF CB:00
+
+C400 - CBFF - область буфера
+
+CC00: 48 45 4C 4C 4F 20 41 4C:ED
+CC08: 4C 20 48 41 43 4B 45 52:EE
+CC10: 53 20 41 4C 4C 20 4F 56:ED
+CC18: 45 52 20 54 48 45 20 57:F3
+CC20: 4F 52 4C 44 20 21 21 21:A0
+CC28: 20 00 00 00 00 00 00 00:14
+CC30: 00 FF 00 00 00 00 00 00:FB
+Без   каких-либо    изменений
+программа  в  прерываниях  зани-
+мает больше, чем  1/50  секунды,
+однако  SOS  тормозит  не  очень
+сильно (для работы с ним в  кон-
+це обработчика поставлен JP 56 -
+его можно без  опаски  убирать).
+Размер таблицы  для  scroll'a  и
+длина его зависит от  переменной
+SIZE и равен SIZE*192.  В  пред-
+ставленном виде  значение  пере-
+менной  установлено равным вось-
+ми, а значит, по  экрану  SPECCY
+побегут восемь вполне приличного
+вида букв.  Если будет необходи-
+мо, его достаточно  просто изме-
+нить в тексте  на ассемблере и в
+тексте  на Бейсике (это редактор
+таблицы - по запросу программы).
+В  редакторе есть  машинокодовая
+вставка - ее текст:
+147.
+       ORG  [PROG+7]    ; так
+;написать нельзя, посчитайте
+;это значение.
+
+       LD   A,(PROG+5)
+       AND  #18
+       RRCA
+       RRCA
+       RRCA
+       OR   #58
+       LD   B,A
+       LD   A,(PROG+6)
+       AND  #07
+       RRCA
+       RRCA
+       RRCA
+       ADD  A,D
+       LD   C,A
+       RET
+2
+Этот текст надо отассемблиро-
+вать в строку REM,  оставив  два
+байта под  переменные.  Величину
+PROG берите  из  редактора,  она
+зависит от наличия  BETA-DISK  и
+INTERFACE-1. Приведенный вариант
+редактора  написан  в расчете на
+магнитофонный вариант компьютера
+( дисководом  я  не  обременен).
+Счастливые же их обладатели смо-
+гут без  проблем добавить нужные
+USR 15619.  Он довольно неуклюж,
+но в целом справляется  со своей
+работой, задавая траекторию дви-
+жения  скролла, используя  "вол-
+нистые"  графики  синуса  (можно
+косинуса).
+   Также без проблем  Вы  можете
+вместо   этого    "волноводства"
+вставить элементарный опрос кла-
+виатуры и создавать  свою  един-
+ственную и неповторимую таблицу.
+Обращаю Ваше внимание  на  метку
+BUF, которая резервирует в памя-
+ти место, достаточное для хране-
+ния 32 букв, формат хранения ко-
+торых соответствует формату син-
+клеровского экрана (этим и  объ-
+ясняется  столь  немалый  размер
+буфера), благодаря чему  при ус-
+тановке BUF  в экране  Вы будете
+иметь еще одну самую обычную бе-
+гущую  строчку, необходимую  для
+сканирования.
+   Метка  TAB определяет началь-
+ный адрес таблицы и должна соот-
+ветствовать вводимой величине по
+запросу Бейсик-редактора.
+0 REM здесь должна находиться машинокодовая процедура.
+ 10 PAPER 0:INK 7: BORDER 0: CLEAR 24999
+ 20 INPUT "TAB ";r  ;REM начальный адрес расположения таблицы.
+ 30 INPUT "SIZE ";d ;REM и ее размер (в буквах)
+ 40 LET q=PEEK 23636*256+PEEK 23635
+100 FOR m=88 TO 57 STEP -32/d
+110 FOR n=255 TO 0 STEP -32/d
+120 LET x=n
+130 LET y=INT (m+n/5*SIN (n/25))
+140 PLOT x,y
+150 GO SUB 300
+160 NEXT n
+170 NEXT m
+180 STOP
+300 REM *CREATING TABLE*
+310 LET c=INT (x/8): LET u=INT (y/8)
+320 POKE q+5,21-u: POKE q+6,c
+330 LET s=USR (q+7)+ABS (7-(y-u*8))*256: PRINT #0;AT 1,0;
+    "SCREEN$ "s
+340 LET b=2^(ABS (x-c*8-7)): PRINT #0;AT 1,23;"BIN ";b;"  "
+350 PRINT #0;AT 0,23;"TAB ";r
+360 POKE r,b
+370 POKE r+2,INT (s/256): POKE r+1,(s-INT (s/256)*256)
+380 LET r=r+3
+390 RETURN
+********************************

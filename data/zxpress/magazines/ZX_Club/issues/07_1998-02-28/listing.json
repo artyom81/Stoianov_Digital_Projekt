@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 9847,
+    "article_url": "https://zxpress.ru/article.php?id=9847",
+    "print_url": "https://zxpress.ru/print.php?id=9847",
+    "title_link": "От редакции - О новой оболочке журнала.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_редакции_-_О_новои_оболочке_журнала"
+  },
+  {
+    "article_id": 9836,
+    "article_url": "https://zxpress.ru/article.php?id=9836",
+    "print_url": "https://zxpress.ru/print.php?id=9836",
+    "title_link": "Новости - Как обстоят дела с организацией барнаульской Spectrum\r\n сети.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Как_обстоят_дела_с_организациеи_барнаульскои_Spect"
+  },
+  {
+    "article_id": 9837,
+    "article_url": "https://zxpress.ru/article.php?id=9837",
+    "print_url": "https://zxpress.ru/print.php?id=9837",
+    "title_link": "Новости - Олимпиада'97 по информатике или размышления по окончании.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Олимпиада97_по_информатике_или_размышления_по_окон"
+  },
+  {
+    "article_id": 9835,
+    "article_url": "https://zxpress.ru/article.php?id=9835",
+    "print_url": "https://zxpress.ru/print.php?id=9835",
+    "title_link": "Games - Описание игры \"NIGEL MANSELL WORLD CHAMPIONSHIP\".",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Games_-_Описание_игры_NIGEL_MANSELL_WORLD_CHAMPIONSHIP"
+  },
+  {
+    "article_id": 9838,
+    "article_url": "https://zxpress.ru/article.php?id=9838",
+    "print_url": "https://zxpress.ru/print.php?id=9838",
+    "title_link": "User group - Обзор музыкальных редакторов: WHAM+AY, ASM, SUPER SONIC, SOUND TRACKER v1.1, STD v2.01, STR v3.00, SOUND\r\n TRACKER PRO, PRO TRACKER и утилит: S.T. COMPILER, S.\r\n T. RECOMPILER, S.T. MUSIC STEALER, S.T.REC++ , FLASH\r\n DECOMPILER.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "User_group_-_Обзор_музыкальных_редакторов_WHAMAY_ASM_SUPER_S"
+  },
+  {
+    "article_id": 9839,
+    "article_url": "https://zxpress.ru/article.php?id=9839",
+    "print_url": "https://zxpress.ru/print.php?id=9839",
+    "title_link": "Coding - техника и алгоритмы демомейкинга: быстрый вывод графики через стек.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Coding_-_техника_и_алгоритмы_демомеикинга_быстрыи_вывод_граф"
+  },
+  {
+    "article_id": 9840,
+    "article_url": "https://zxpress.ru/article.php?id=9840",
+    "print_url": "https://zxpress.ru/print.php?id=9840",
+    "title_link": "Ex Libris - Одиночество - краткий конспект.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Ex_Libris_-_Одиночество_-_краткии_конспект"
+  },
+  {
+    "article_id": 9841,
+    "article_url": "https://zxpress.ru/article.php?id=9841",
+    "print_url": "https://zxpress.ru/print.php?id=9841",
+    "title_link": "Ex Libris - Экзистенциализм - краткий конспект.",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Ex_Libris_-_Экзистенциализм_-_краткии_конспект"
+  },
+  {
+    "article_id": 9842,
+    "article_url": "https://zxpress.ru/article.php?id=9842",
+    "print_url": "https://zxpress.ru/print.php?id=9842",
+    "title_link": "Ex Libris - пресса: Для чего нужны книги?",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Ex_Libris_-_пресса_Для_чего_нужны_книги"
+  },
+  {
+    "article_id": 9843,
+    "article_url": "https://zxpress.ru/article.php?id=9843",
+    "print_url": "https://zxpress.ru/print.php?id=9843",
+    "title_link": "Hard group - Расширение памяти компьютера \"Синтез-2\" до 128 Кб.",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Hard_group_-_Расширение_памяти_компьютера_Синтез-2_до_128_Кб"
+  },
+  {
+    "article_id": 9844,
+    "article_url": "https://zxpress.ru/article.php?id=9844",
+    "print_url": "https://zxpress.ru/print.php?id=9844",
+    "title_link": "Enjoy - Сказка про Салтана.",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Enjoy_-_Сказка_про_Салтана"
+  },
+  {
+    "article_id": 9845,
+    "article_url": "https://zxpress.ru/article.php?id=9845",
+    "print_url": "https://zxpress.ru/print.php?id=9845",
+    "title_link": "Enjoy - Рассказ \"Учитесь стрелять\".",
+    "order": 12,
+    "issue_label": "07",
+    "short_slug": "Enjoy_-_Рассказ_Учитесь_стрелять"
+  },
+  {
+    "article_id": 9846,
+    "article_url": "https://zxpress.ru/article.php?id=9846",
+    "print_url": "https://zxpress.ru/print.php?id=9846",
+    "title_link": "Реклама - бесплатная реклама и обьявления.",
+    "order": 13,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_бесплатная_реклама_и_обьявления"
+  }
+]

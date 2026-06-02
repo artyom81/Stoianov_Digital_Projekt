@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 15735,
+    "article_url": "https://zxpress.ru/article.php?id=15735",
+    "print_url": "https://zxpress.ru/print.php?id=15735",
+    "title_link": "Prologue - Вместо эпиграфа...",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Prologue_-_Вместо_эпиграфа"
+  },
+  {
+    "article_id": 15736,
+    "article_url": "https://zxpress.ru/article.php?id=15736",
+    "print_url": "https://zxpress.ru/print.php?id=15736",
+    "title_link": "Epilogue - the end...",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Epilogue_-_the_end"
+  }
+]

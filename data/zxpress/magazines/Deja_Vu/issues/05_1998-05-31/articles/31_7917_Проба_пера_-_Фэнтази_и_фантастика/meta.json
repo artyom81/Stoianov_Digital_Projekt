@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1998-05-31",
+  "order": 31,
+  "article_id": 7917,
+  "title_link": "Проба пера - Фэнтази и фантастика.",
+  "title_h1": "Deja Vu 05 - Проба пера - Фэнтази и фантастика.",
+  "print_url": "https://zxpress.ru/print.php?id=7917",
+  "article_url": "https://zxpress.ru/article.php?id=7917",
+  "fetched_at": "2026-05-31T21:54:54Z"
+}

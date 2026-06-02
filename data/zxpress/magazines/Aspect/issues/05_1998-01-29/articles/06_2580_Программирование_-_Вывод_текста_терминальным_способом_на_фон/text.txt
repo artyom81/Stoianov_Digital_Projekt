@@ -1,0 +1,583 @@
+Aspect 05 - Программирование - Вывод текста терминальным способом на фоне бегущих квадратиков.
+БЫСТРАЯ И НЕ ОЧЕНЬ БЫСТРАЯ ГРАФИКА
+Ну чтож, как я и обещал  в  прошлый,  раз
+сегодня   мы    будем    извращаться    с
+процедурами быстрой графики. Ну и  первым
+извратом, соответственно,можно предложить
+вывод  текста  терминальным  способом  на
+фоне  бегущих  квадратиков,  ну  и, чтобы
+жизнь медом не казалась, с  наложением  5
+экрана  на  седьмой. А  вот  и  код  ее :
+ORG#8000
+DI;включаем 7-ю банку
+LDA,#17 
+LDBC,#7FFD
+OUT(C),A
+LDHL,VORON;перебрасываем картинку на 
+LDDE,#C000;экран
+LDBC,6912
+LDIR
+LDA,#10;включаем 0-ю банку
+LDBC,#7FFD
+OUT(C),A
+EI
+CALLZAPTAB;заполняем таблицу адресов
+CALLZAPOUT;строим процедуру вывода
+CALLZAPBUF;заполняем теневой экран
+DI
+LDHL,INTERR;переназначаем прерывания
+CALLIMON
+LDIX,TABLE
+LDBC,#000
+LDHL,TRTEXT
+CALLT_TAPE;печать текста терминалом
+HALT
+XORA
+LD(23560),A
+WAITER
+EI;ждем нажатия на клавишу
+HALT
+RST56
+LDA,(23560)
+ANDA
+JRZ,WAITER
+RET
+; ВХОДНЫЕ ДАННЫЕ
+; HL - АДРЕС ТЕКСТА
+; B,C - НАЧАЛЬНЫЙ СТОЛБЕЦ
+; IX - TABLE
+T_TAPE
+LDA,(HL);Берем байт
+INCHL
+ANDA
+JRZ,T_TAPE0;конец текста = конец вывода
+CP#0D
+JRZ,NEXTLINE0;обрабатываем ENTER
+CALLPRINS;печатаем символ
+INCC;следующая позиция
+LDA,C;если мы вышли за экран,то
+BIT5,A;неплохо бы вернуться
+JRZ,T_TAPE1
+JRNEXTLINE;но на строку ниже
+T_TAPE0
+LDA,32;стираем курсор
+CALLPRINS
+RET;конец делу венец
+NEXTLINE0
+LDA,32;обработка ENTER
+CALLPRINS;И удаляем курсор
+NEXTLINE
+LDDE,48;переходим к следующей
+ADDIX,DE;строке
+LDC,B;загружаем начальную колонку
+T_TAPE1
+LDA,"@";выводим курсор
+CALLPRINS
+EI;ждем ...
+HALT;и очень долго ...
+HALT
+HALT
+JRT_TAPE;повторяем заново
+; ВЫВОД СИМВОЛА 8X24
+; ВХОД : IX - TABLE
+;         C - КОЛОНКА
+;         A - КОД СИМВОЛА
+PRINS
+PUSHIX
+PUSHBC
+PUSHHL
+FONT32
+LDDE,15616;Адрес 32-го фонта
+SUB#20;символы 0-#1F не выводим
+LDL,A
+LDH,0
+ADDHL,HL;умножаем код символа на 8
+ADDHL,HL; - число байт в символе
+ADDHL,HL
+ADDHL,DE;вычисляем адрес символа
+EXDE,HL
+LDH,(IX+1);адрес вывода в HL
+LDA,(IX)
+ADDA,C
+LDL,A
+LDB,0
+DUP2;выводим 1ую треть символа
+LDA,(DE)
+INCDE
+LD(HL),A
+INCH
+LD(HL),A
+INCH
+LD(HL),B
+INCH
+EDUP
+LDA,(DE)
+INCDE
+DUP2
+LD(HL),A
+INCH
+EDUP
+PUSHDE
+LDDE,16
+ADDIX,DE
+POPDE 
+LDH,(IX+1);адрес вывода второй трети
+LDA,(IX)
+ADDA,C
+LDL,A
+LD(HL),B;выводим 2ую треть символа
+INCH
+DUP2 
+LDA,(DE)
+INCDE
+DUP2
+LD(HL),A
+INCH
+EDUP
+LD(HL),B
+INCH
+EDUP
+LDA,(DE)
+LD(HL),A
+INCH
+PUSHDE
+LDDE,16
+ADDIX,DE
+POPDE
+LDH,(IX+1);адес вывода последней трети
+LDA,(IX)
+ADDA,C
+LDL,A
+LDA,(DE)
+INCDE
+LD(HL),A;выводим последнюю треть
+INCH
+DUP2
+LDA,(DE)
+INCDE
+LD(HL),B
+INCH
+DUP2
+LD(HL),A
+INCH
+EDUP
+EDUP
+POPHL
+POPBC
+POPIX
+RET;уфф теперя можно и на покой
+; ПРОЦЕДУРА ОБРАБОТКИ ПРЕРЫВАНИЯ
+INTERR
+PUSHHL;предохраняемся
+PUSHBC;тьфу, сохраняемся
+PUSHDE
+PUSHAF
+PUSHIX
+EXX
+PUSHHL
+PUSHBC
+PUSHDE
+EXAF,AF'
+PUSHAF
+INTER0
+LDA,16;щелкаем экранами
+LDBC,#7FFD
+OUT(C),A
+XOR8 
+LD(INTER0+1),A
+LDHL,TABEL
+LDA,1;двигаемся в положительном
+TAGEQU$-1;или
+ANDA     
+JRZ,DECREASE;отрицательном направлении
+LDA,0;номер процедуры в таблице
+SETTLER
+EQU$-1
+LDE,A
+LDA,18
+ZADER
+EQU$-1;время движения в заданном
+DECA;направлении
+LD(ZADER),A
+LDA,E
+JRNZ,INT1
+LDA,18
+COEFF
+EQU$-1;то же но не меняется
+LD(ZADER),A
+LDA,E
+INCA
+LD(SETTLER),A
+CP9;число процедур в таблице 9
+JRNZ,INT1
+DECA
+LD(SETTLER),A
+LDA,0
+LD(TAG),A
+INT1LDD,0;находим процедуру
+ADDHL,DE;в таблице
+ADDHL,DE
+LDA,(HL)
+INCHL
+LDH,(HL)
+LDL,A
+LDDE,INT2
+PUSHDE;адрес возврата в стек
+JP(HL);исполняем процедуру
+DECREASE
+LDA,(ZADER);движение в
+DECA;отицательном на правлении
+LD(ZADER),A;по таблице
+JRNZ,INT3
+LDA,(COEFF)
+LD(ZADER),A
+LDA,(SETTLER)
+DECA
+LD(SETTLER),A
+CP#FF
+JRNZ,INT3
+INCA
+LD(SETTLER),A
+INCA
+LD(TAG),A
+INT3LDA,(SETTLER)
+LDE,A
+LDD,0
+JRINT1
+INT2LDDE, BUFFER; выводим замучанный буфер
+CALLOUTPROC
+POPAF;реабилитируемся
+EXAF,AF'
+POPDE
+POPBC
+POPHL
+EXX
+POPIX
+POPAF
+POPDE
+POPBC
+POPHL
+EI
+RET;конец прерываниям : (
+;СДВИГ БУФЕРА ВЛЕВО
+LEFTLDHL,BUFFER+1
+LDDE,BUFFER
+LDA,(DE)
+EXAF,AF'
+LDA,16
+LEFT1
+EXAF,AF'
+DUP15;Это чтоб быстрее
+LDI
+EDUP
+LD(DE),A
+LDA,(HL)
+INCDE
+INCHL
+EXAF,AF'
+DECA
+JPNZ,LEFT1
+RET
+;СДВИГ БУФЕРА ВВЕРХ
+UPLDHL,BUFFER
+LDDE,BUFF1
+DUP256;Быстро и без мучений
+LDI
+EDUP
+LDHL,BUFF1
+DUP16
+LDI
+EDUP
+RET
+;СДВИГ БУФЕРА ВНИЗ
+DOWNLDHL,BUFEND-1
+LDDE,BUFF2-1
+DUP256;Аналогично предыдущей
+LDD;процедуре
+EDUP
+LDHL,BUFF2-1
+DUP16
+LDD
+EDUP
+RET
+;СДВИГ БУФЕРА ВПРАВО
+RIGHT
+LDHL,BUFEND-2
+LDDE,BUFEND-1
+LDA,(DE)
+EXAF,AF'
+LDA,16
+RIGHT1
+EXAF,AF'
+DUP15
+LDD
+EDUP
+LD(DE),A
+LDA,(HL)
+DECDE
+DECHL
+EXAF,AF'
+DECA
+JPNZ,RIGHT1
+RET
+;ЗАПОЛНЯЕМ БУФЕР КВАДРАТИКАМИ
+ZAPBUF
+DI
+LD(ZAP_SP+1),SP
+LDHL,#4F4F;ЦВЕТ ФОНА СИНИЙ,ЦВЕТ ТОНА
+;БЕЛЫЙ ,ЯРКОСТЬ ВКЛЮЧЕНА
+LDDE,#4747;ТОЖЕ НО ЦВЕТ ФОНА ЧЕРНЫЙ
+LDB,8
+LDSP,BUFEND
+ZAPBUF1
+PUSHHL;БЫСТРО ЗАПОЛНЯЕМСЯ
+PUSHHL
+PUSHHL
+PUSHHL
+PUSHDE
+PUSHDE
+PUSHDE
+PUSHDE
+DJNZZAPBUF1
+LDB,8
+ZAPBUF2
+PUSHDE
+PUSHDE
+PUSHDE
+PUSHDE
+PUSHHL
+PUSHHL
+PUSHHL
+PUSHHL
+DJNZZAPBUF2
+ZAP_SP
+LDSP,0
+EI
+RET
+;ДЕЛАЕМ ПРОЦЕДУРУ ВЫВОДА
+ZAPOUT
+LDHL,OUTPROC1
+LDDE,#5800
+LDC,8
+ZAPOUT2
+LDB,8
+ZAPOUT1
+LD(HL),#E1;POP HL
+INCHL
+LD(HL),#22;LD (ADDR),HL
+INCHL
+LD(HL),E
+INCHL
+LD(HL),D
+INCHL
+LD(HL),#22;LD (ADDR),HL
+INCHL
+LDA,E
+ADDA,#10
+LD(HL),A
+INCHL
+LD(HL),D
+INCHL
+LD(HL),#22;LD (ADDR),HL
+INCHL
+LD(HL),E
+INCHL
+LDA,D
+ADDA,2
+LD(HL),A
+INCHL
+LD(HL),#22;LD (ADDR),HL
+INCHL
+LDA,E
+ADDA,#10
+LD(HL),A
+INCHL
+LDA,D
+ADDA,2
+LD(HL),A
+INCHL
+INCDE
+INCDE
+DJNZZAPOUT1
+PUSHHL
+LDHL,#10
+ADDHL,DE
+EXDE,HL
+POPHL
+DECC
+JRNZ,ZAPOUT2
+LDDE,#5900
+LDC,8
+ZAPOUT4
+LDB,8
+
+ZAPOUT3
+LD(HL),#E1;ТО ЖЕ
+INCHL
+LD(HL),#22
+INCHL
+LD(HL),E
+INCHL
+LD(HL),D
+INCHL
+LD(HL),#22
+INCHL
+LDA,E
+ADDA,#10
+LD(HL),A
+INCHL
+LD(HL),D
+INCHL
+INCDE
+INCDE
+DJNZZAPOUT3
+PUSHHL
+LDHL,#10
+ADDHL,DE
+EXDE,HL
+POPHL
+DECC
+JRNZ,ZAPOUT4
+LD(HL),#EB;EX DE,HL
+INCHL
+LD(HL),#F9;LD SP,HL
+INCHL
+LD(HL),#C9;RET
+RET
+;ТАБЛИЦА ПРОЦЕДУР
+TABEL
+DEFWLEFT,LU,UP,UR,RIGHT,RD,DOWN,DL
+DEFWLEFT
+;ПРОЦЕДУРЫ ДВИЖЕНИЯ ПО ДИАГОНАЛИ
+LUCALLLEFT
+JPUP
+URCALLUP
+JPRIGHT
+RDCALLRIGHT
+JPDOWN
+DLCALLLEFT
+JPDOWN
+; ПРОЦЕДУРА  СМЕНЫ   РЕЖИМА   ПРЕРЫВАНИЯ 
+; ВХОД : HL - АДРЕС  ПРОЦЕДУРЫ  ОБРАБОТКИ
+; ПРЕРЫВАНИЯ
+IMONXORA;Включаем 0-ю банку
+DI
+LDBC,#7FFD
+OR16
+OUT(C),A
+LDA,24;JR 65524
+LD(65535),A
+LDA,195;JP ADDR
+LD(65524),A
+LD(65525),HL
+LDHL,#FE00;256 байт #FF
+LDDE,#FE01;для тех у кого вектор
+;прерывания скачет
+LDBC,256
+LDA,H
+LD(HL),#FF
+LDIR
+DI;собствено ставим прерывание
+LDI,A
+IM2
+EI
+RET
+;ТЕКСТ ,ВЫВОДИМЫЙ НА ЭКРАН
+TRTEXT
+DEFB"     HELLO EVERYBODY !!!!!"
+DEFB#0D,#0D
+DEFB"        TRSOFT PRESENT     ",#0D
+DEFB" SPECIAL FOR ASPECT NEWSPAPER",#0D
+DEFB#0D
+DEFB"       THIS 2SCREEN SHIT     ",#0D
+DEFB#0D
+DEFB"    PRESS ANY  KEY FOR MORE",0
+
+TABLE
+DEFS2000
+BUFF1
+DEFS16
+BUFFER
+DEFS256
+BUFEND
+DEFS16
+BUFF2
+;ПРОЦЕДУРА ВЫВОДА БУДЕТ ЗДЕСЬ
+OUTPROC
+LDHL,0
+ADDHL,SP
+EXDE,HL
+LDSP,HL
+OUTPROC1
+;ЗАПОЛНЯЕМ ТАБЛИЦУ АДРЕСОВ
+ZAPTAB
+LDIX,TABLE
+LDHL,#4000
+CALLZAPADR
+LDHL,#4800
+CALLZAPADR
+LDHL,#5000
+CALLZAPADR
+LD(IX),#FF
+LD(IX+1),#FF
+LD(IX+2),#FF
+RET
+ZAPADR
+LDDE,#20
+LDC,8
+ZAPAD2
+PUSHHL
+LDB,8
+ZAPAD1
+LD(IX),L
+LD(IX+1),H
+INCIX
+INCIX
+INCH
+DJNZZAPAD1
+POPHL
+ADDHL,DE
+DECC
+JRNZ,ZAPAD2
+RET
+
+VORON
+INCBIN"VORON . C";В XAS ЭТО БУДЕТ
+;LCODE ...
+Вот   такие  пироги.   Кстати   цвет  фона
+рекоmендуется подбирать по вкусу  (см.лис-
+тинг). Если не нравятся две  картинки,мож-
+но сделать одну: уберите xor 8 в процедуре
+обработки  прерывания.   К сожалению  я не
+смогу  привести  сейчас  процедуры  вывода
+спрайтов 2X2, 4X4, 8X8,16X12 на весь экран
+(забивание   спрайтами   всего  экрана)  и
+другие извращения связанные с быстрой гра-
+фикой т.к. все мои исходняки накрылись, но
+в следующий раз я обязательно расскажу вам
+о них (и, естественно, приведу листинги),а
+пока одна из самых быстрых процедур очист-
+ки экрана:
+
+;FAST-ПРОЦЕДУРА ОЧИСТКИ ЭКРАНА
+CLSLD(CLS1+1),SP
+LDHL,0
+DI 
+LDSP,#5800
+LDB,252
+CLS2DUP16
+PUSHHL
+EDUP 
+DJNZCLS2
+CLS1LDSP,00
+EI 
+RET
+Тут вроде бы обЪяснять ничего не надо,  за
+сим разрешите откланятся...
+(C) Trusov Ilya
+------------------------------------------
+От  редакции:   Все  исходнячки  этих про-
+цедур вы найдете в приложении к газете,еще
+мы постарались и перевели их  в формат ас-
+семблера XAS.
+------------------------------------------

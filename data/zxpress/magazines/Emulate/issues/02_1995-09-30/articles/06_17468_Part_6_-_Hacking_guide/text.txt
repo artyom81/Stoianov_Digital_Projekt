@@ -1,0 +1,645 @@
+02 - Part 6 - Hacking guide.
+==========================================
+****************************
+*  PART 6 - HACKING GUIDE  *
+****************************
+
+DOOMDARKS REVENGE
+
+ Lords   of   Midnight   and   its  sequel
+Doomdark's  Revenge  have  been  in my top
+game  list  ever since I first played them
+on   my   old  trusty  rubber-  keyed  48k
+Spectrum.  Even  by todays standards, they
+still   rate   among  the  most  addictive
+computer  games  ever,  at  least  for the
+strategically minded.
+
+ Having  played  and  finished  them  both
+several  times,  I couldn't understand how
+Mike  had  been able to stuff so much into
+only 41k. So I plunged into DR's code... I
+still   have   a   lot   of  the  original
+(handwritten)  sheets  where  I deciphered
+most  of  the  Z80 code for this game. And
+more important (and useful, probably), the
+full  format  of  the  DR save game, along
+with  some  tables  which  are  needed  to
+understand it. Some time ago I posted that
+on  comp.sys.sinclair, and a lot of people
+was very interested. At least a map editor
+(by        Jan        Kapala,        email
+KAPALA@ichn.ch.pwr.wroc.pl)  is  based  in
+this  information,  and you can find it in
+ftp.nvg.unit.no.
+
+ Even  now  I  receive  some  requests for
+these  tables, so here they are... this is
+the  original  version I posted then (with
+some  minor  corrections,  mostly spelling
+errors)  and  I  don't think there are any
+mistakes. I hope you find it useful.
+
+==========================================
+
+DOOMDARKS'S REVENGE MAP AND TABLES
+
+SITES AND CHARACTERS
+--------------------
+
+ Example:  G Imgarorn: Fortress/Citadel of
+Imgarorn   the   Giant.  Exceptions  noted
+below.
+
+I=Icelord
+G=Giant
+D=Dwarf
+B=Barbarian
+F=Fey
+S=Special
+
+ All     site     names     are    created
+algorithmically  from  the  map. There's a
+fixed seed at the upper left corner of the
+map,  and  the game traces recursively you
+position  to  this  point, creating unique
+names  (the  name  tables  will  be  shown
+later)  for  each zone (plains, forest and
+so  on). A citadel or fortress stands as a
+zone,  and  it gets its name the same way.
+There  are 128 such sites, and 124 owners.
+The first 5 sites are special; their owner
+is  not  the  character with the site name
+(as  in  all  the  others).  There  are  5
+persons  which  receive special treatment:
+Luxor  the  Moonprince,  Morkin  the Free,
+Tarithel  the  Fey,  Rorthron the Wise and
+Shareth the Heartstealer. Shareth owns the
+City   of  Imiriel.  The  other  four  are
+foreigners.
+
+This is the full character table:
+
+ 0 S Luxor        32 I Berudrarg
+64 D Torormarg    96 B Thorthak
+ 1 S Morkin       33 I Imgudrur
+65 I Ushangrane   97 F Thormand
+ 2 S Tarithel     34 I Talorthane
+66 I Fangrorn     98 B Anvorthun
+ 3 S Rorthron     35 I Morangrim
+67 I Carangresh   99 F Imgormand
+ 4 S Shareth      36 G Obortharg
+68 G Anvildrak   100 F Carorthorn
+ 5 G Imgarorn     37 G Glortheon
+69 I Anvarorn    101 B Imgorad
+ 6 G Ingormad     38 I Ulfangruk
+70 D Hagudril    102 F Tororthane
+ 7 I Malisane     39 I Malarorn
+71 G Ganigrorn   103 F Imorthorn
+ 8 I Anvireon     40 I Ganormarg
+72 D Berangrorn  104 F Berormorn
+ 9 I Talormane    41 G Berorthim
+73 G Fenorn      105 B Firak
+10 I Imildrorn    42 I Firim
+74 G Sildrorn    106 F Morildrane
+11 I Carorthad    43 I Glireon
+75 D Carorthay   107 F Thigrand
+12 I Ushudrarg    44 I Kahangriel
+76 B Glortharg   108 B Kahudrarg
+13 G Glormeon     45 I Kahudruk
+77 B Thortheon   109 F Lorangriel
+14 G Thormuk      46 I Lororthane
+78 D Glormane    110 F Carorthane
+15 I Imgaril      47 I Malirane
+79 D Gloruk      111 F Thorthand
+16 G Obularg      48 I Kahudrun
+80 D Gludreon    112 F Berormane
+17 I Thigrim      49 G Ulformane
+81 D Thudrun     113 F Ingormiel
+18 I Lorelorn     50 D Hagildrorn
+82 D Torelorn    114 B Careneon
+19 I Kagangrorn   51 I Thildresh
+83 D Thatruk     115 B Varangrand
+20 I Malirarg     52 I Glormarg
+84 B Carormand   116 F Imgorthand
+21 G Imatrorn     53 I Carorand
+85 D Lorangrarg  117 F Lorangrim
+22 G Asorthane    54 G Carangrane
+86 D Thelak      118 F Tharand
+23 I Imasharg     55 G Thangrorn
+87 D Imangruk    119 B Torinarg
+24 I Torangrorn   56 I Malormun
+88 D Glidril     120 F Imorthesh
+25 I Sortharg     57 I Varormane
+89 B Thangrad    121 B Anvortheon
+26 I Zarashand    58 G Imgenarg
+90 D Imulorn     122 F Obireon
+27 I Glororn      59 G Thorarg
+91 D Thigrak     123 G Obigrorn
+28 I Malorthand   60 I Thirium
+92 B Lorangrorn  124 I Imgasharg
+29 G Varangrim    61 I Fenarg
+93 B Varatrarg   125 I Thangrarg
+30 I Sigrorn      62 D Imgorarg
+94 D Imelorn     126 B Kahudrak
+31 I Hagudrak     63 H Torelak
+95 D Ulfangrak   127 F Carorthand
+
+ The  sites are in North-South order. This
+may  serve  as  well  as  a  clue  to  the
+distribution of the races.
+
+SAVE GAME FORMAT
+----------------
+
+ All  the  addresses shown from now on are
+decimal. The saved data starts at Spectrum
+address  39933,  and  is  9219 bytes long.
+This includes:
+
+- Character index                  1
+- Day counter                      2
+- 24 tables (128 bytes each)    3072
+- Map (64*96)                   6144
+                                ----
+                                9219
+
+ Address  39933  holds  the  number of the
+character you are using. Addresses 39934-5
+hold   the   number  of  days  'since  the
+Moonprince rode forth into the Icemark'.
+
+ The  map  and several tables are included
+here.  That's  the reason why when you get
+killed,  you  must  load  a  saved game to
+restart  (there was no room for two copies
+of all these data). I will now list all of
+this.  The  tables are 128 bytes long, and
+are  indexed  by site or character number,
+as for the above table.
+
+
+TABLES 0/1 (39936/40064): Site coordinates
+------------------------------------------
+
+ Table  0  contains  the X coordinates (in
+the  map)  for  the 128 sites, and table 1
+the  Y coords. I will not list them as all
+of  you  have the map or can get it easily
+using one of the PD editors.
+
+ Each  site  belongs to the character with
+the same name. Exceptions:
+
+0 Fortress of Varenand ->
+                 Lorangrim the Fey   (117)
+1 City of Carudrium    ->
+                 Carorthay the Dwarf  (75)
+2 Fortress of Thigrorn ->
+                 Lorangriel the Fey  (109)
+3 Fortress of Finorn   ->
+                 Carangrane the Giant (54)
+4 City of Imiriel      ->
+                  Shareth the Heartstealer
+
+
+TABLES 2/3 (40192/40320):
+Object coordinates
+------------------
+
+ As tables 0/1, for objects. Unlike tables
+0/1, these are not fixed, and are randomly
+set  at the start of the game. Each object
+has  an  owner,  who  can  use  it *once*.
+Anyone  who  has  an object but is not its
+owner,  won't  be able to use it, but will
+benefit  from  some minor advantages. They
+can  also  be  used to approach new people
+(by  giving  some object to its true owner
+you  can  make  him  more inclined to join
+your side).
+
+ Objects 5-128 are weapons, their power is
+in  Battle,  and  belong  to the character
+with  the  same  number.  These are Spears
+(for Barbarians), Bows (for the Fey), Axes
+(for  Dwarves),  Hammers  (for Giants) and
+Swords  (for  Icelords).  All of them give
+advantages in battle.
+
+ Objects  0-4  are special. Here are their
+major powers:
+ 0 Crown of Varenand: Used by Luxor brings
+all of his men with him.
+ 1  Crown  of  Carudrium:  Used  by Morkin
+brings Luxor and his men.
+ 2  Spell  of  Thigrorn:  Used by Tarithel
+takes everyone to the city of Imiriel.
+ 3  Runes of Finorn: Used by Rorthron... I
+don't remember!!!
+ 4  Crown  of  Imiriel:  Used  by  Shareth
+brings Luxor and his men.
+
+ Crowns    have   the   minor   power   of
+Persuasion.  They  make easier to approach
+others in peace.
+
+ Spells  have the minor power of Swiftness
+(more moves in a day time).
+
+ Runes  have the minor power of Protection
+in  battle.  You  are  less  likely to get
+killed.
+
+ When an object is carried by a character,
+his  number  goes  on table 3, and table 2
+holds 255.
+
+
+TABLE 4 (40448):
+        Enemies killed in the last battle.
+TABLE 5 (40576):
+              Men lost in the last battle.
+TABLE 6 (40704): Campaign army size.
+TABLE 7 (40832):
+     Home army size (in city or fortress).
+------------------------------------------
+
+ All  of  these  tables  store  the number
+divided  by  5.  Thus, 15 means 75 men and
+255 (the maximum) means 1275 men.
+
+
+TABLE 8 (40960):
+Warrior type (based on table 13)
+------------------------------------------
+
+0-5: Moonguard
+6-7: Fey
+8-9: Barbarian
+
+10, 11, 14: Iceguard
+
+13: Giant
+15: Dwarf
+
+The remaining values are unused.
+
+
+TABLE 9 (41088): Owner of each site
+-----------------------------------
+
+ The    initial   owners   are   explained
+somewhere  above.  This  table  holds  the
+actual owners each time.
+
+
+TABLES 10/11 (41216/41344):
+Character coordinates
+---------------------
+
+ X and Y respectively. Initially, each one
+is in his home site. Exceptions:
+
+Luxor:    Gate of Varenorn.
+Morkin:   City of Imiriel.
+Tarithel: Forest of Fangrim.
+Rorthron: Gate of Varenorn.
+Shareth:  City of Imgaril.
+
+
+TABLE 12 (41472): Miscellaneous I
+---------------------------------
+
+a) The 5 upper bits hold the daytime left:
+
+0:     Night
+1:     An hour
+2-9:   Two hours
+10-12: Three hours
+13-16: Four hours
+17-20: Five hours
+21-24: Six hours
+25-27: Seven hours
+28-30: Eight hours
+31:    Dawn
+
+(these days are short!)
+
+ b) The 3 lower bits hold the direction of
+sight:
+
+0: North               2: East
+4: South               6: West
+1: Northeast           3: Southeast
+5: Southwest           7: Northwest
+
+
+TABLE 13 (41600): Character types
+---------------------------------
+
+ This  table  is  used  mainly to select a
+graphic representation:
+
+ 0: Luxor       (mounted)
+ 1: Luxor       (on foot)
+ 2: Morkin      (mounted)
+ 3: Morkin      (on foot)
+ 4: Rorthron    (mounted)
+ 5: Rorthron    (on foot)
+ 6: Fey         (mounted)
+ 7: Fey         (on foot)
+ 8: Barbarian   (mounted)
+ 9: Barbarian   (on foot)
+10: Icelord     (mounted)
+11: Icelord     (on foot)
+12: Tarithel    (always mounted)
+13: Giant       (always on foot)
+14: Shareth     (always mounted)
+15: Dwarf       (always on foot)
+
+ There  are other codes which are not used
+in  this  table,  but  I  include them for
+completeness.   See   below  for  incident
+codes.
+
+16: Dragon
+17: Wolf
+18: Troll
+19: Skulkrin
+20: Horse
+
+
+TABLE 14 (41728): Miscellaneous II
+----------------------------------
+
+Bits 0-2: Allegiance    0=Luxor
+                        1=Shareth
+                        2=Fey
+                        3=Barbarians
+                        4=Giants
+                        5=Dwarves
+                        (6, 7 unused)
+
+Bit 3:  Killed enemy in his last battle.
+Bit  4:  Fought  battle (bits 3 and 5 are
+        meaningless if 4 is not set).
+Bit 5:  Won victory in his last battle.
+Bit 6:  In a tunnel.
+Bit 7:Used his object (only once allowed).
+
+
+TABLE 15 (41856): How tired
+---------------------------
+
+Utterly:    000-031
+Extremely:  032-062
+Very:       064-095
+Quite:      096-127
+Somewhat:   128-159
+Slightly:   160-191
+Not:        192-223
+Not at all: 224-255
+
+
+TABLE 16 (41984): Last battle
+-----------------------------
+
+ In his last battle, this character fought
+whoever's number is here.
+
+
+TABLE 17 (42112): Foe
+---------------------
+
+ This  character's  foe.  If bit 7 is set,
+none.
+
+
+TABLE 18 (42240): Liege
+-----------------------
+
+ This  character's liege. If bit 7 is set,
+none.
+
+
+TABLE 19 (42368): How reckless
+------------------------------
+
+See table 15. 0 means DEAD.
+
+
+TABLE 20 (42496): Object/Slayer
+-------------------------------
+
+This table has two meanings:
+
+ a)  If alive, then it holds the number of
+the carried object, or 255 for nothing.
+ b)  If  dead, then it holds the number of
+the  character  who  has killed him. If no
+character  (i.e. dragons, trolls...), then
+bit  7  is  set and the lower bits hold an
+incident  code.  See  below  for  incident
+codes.
+
+
+TABLE 21 (42624): Positive attributes
+-------------------------------------
+
+Bit Meaning
+
+7   Loyal
+6   Swift
+5   Brave
+4   Stubborn
+3   Generous
+2   Forceful
+1   Strong
+0   Good
+
+
+TABLE 22 (42752): Negative attributes
+-------------------------------------
+
+Bit Meaning
+
+7   Treacherous
+6   Slow
+5   Cowardly
+4   Fawning
+3   Greedy
+2   Reticent
+1   Weak
+0   Evil
+
+ (   ...note  that  it's  possible  to  be
+simultaneously good and evil!)
+
+
+TABLE 23 (42880): How despondent
+--------------------------------
+
+See table 15.
+
+
+TABLE 24 (43008):
+MAP (this one is not 128 bytes long!)
+-------------------------------------
+
+ The map is 64 squares wide and 96 squares
+tall.  The position at (X,Y) is in address
+43008+64*Y+X. Every byte has the following
+meaning:
+
+Bits 0-3: Surface attributes
+
+   0 Plains       8 Fortress
+   1 Mountains    9 Hall
+   2 Forest      10 Hut
+   3 Hills       11 Tower
+   4 Gate        12 City
+   5 Temple      13 Fountain
+   6 Pit         14 Stones
+   7 Palace      15 Frozen Wastes
+
+Bits 4-7: Flags
+
+ Bit 4: Incident
+ Bit  5: Army (only graphical information:
+you  could  see an army which isn't really
+there, or vice versa, by poking this bit!)
+ Bit 6: Mist.
+ Bit  7:  There's  tunnel  below.  If  the
+surface  type  is  4-7,  there's  a tunnel
+entrance.
+
+So   far   the  saved  information.  Other
+tables:
+
+
+Table  29508:  how does terrain (table 24)
+affect time (table 12a)
+
+Plains:       1
+Mountains:    8
+Forest:       4
+Hills:        3
+
+(All the rest): 2
+
+
+Table   29540:  how  does  character  type
+(table 13) affect time (table 12a)
+
+(mounted/afoot)
+
+Luxor:      3/6
+Morkin:     3/6
+Rorthron:   2/4
+Fey:        3/6
+Barbarians: 5/8
+Icelords:   3/5
+Tarithel:   2/-
+Giants:     -/5
+Shareth:    2/-
+Dwarves:    -/5
+
+
+Table   29317:  how  does  character  type
+(table 13) affect tiredness (table 15)
+
+(mounted/afoot)
+
+Luxor:      1/2
+Morkin:     2/4
+Rorthron:   0/1
+Fey:        2/3
+Barbarians: 2/4
+Icelords:   1/2
+Tarithel:   1/0
+Giants:     -/2
+Shareth:    0/-
+Dwarves:    -/3
+
+
+Table  29009: Four incident types for each
+possible terrain
+
+(only  on  empty  squares; repeated values
+increase probability)
+
+Plains:   0,3,1,4    Fortress:  0,1,6,6
+Mountains:0,0,2,1    Hall:      2,6,6,10
+Forest:   0,3,1,1    Hut:       3,1,6,6
+Hills:    0,2,1,1    Tower:     5,5,5,5
+Gate:     0,7,8,10   City:      0,6,6,12
+Temple:   8,9,10,11  Fountain:  3,12,12,12
+Pit:      2,1,9,12   Stones:    0,8,8,11
+Palace:   0,4,7,10   Fr. Wastes:0,3,3,2
+
+Incident types:
+
+ 0  Dragons
+ 1  Wolves
+ 2  Trolls
+ 3  Skulkrin
+ 4  Horses
+ 5  Guidance
+ 6  Shelter
+ 7  Claws of Night     (time left =  0)
+ 8  Flames of Dawn     (time left = 31)
+ 9  Thorns of Despair  (despondent = 0)
+10  Blood of Courage   (despondent = 255)
+11  Languor of Death   (tired = 0)
+12  Springs of Life    (tired = 255)
+
+
+NAME TABLES (24839)
+-------------------
+
+All  names  (except  the first five, which
+are  hardcoded) contain three parts, which
+are  fetched  more  or less randomly (with
+the  map  as a seed) by the name generator
+from three tables. These are:
+
+Prefixes (25):
+
+Img  Dol Lor Ush Mor Tal Car Ulf As Tor Ob
+F  Gl  S Th Gan Mal Im Var Hag Zar Anv Ber
+Kah Ash
+
+Midwords (16):
+
+ar or ir en orth angr igr ash el in ul atr
+orm udr is ildr
+
+Suffixes (16):
+
+orn  il iel im uk ium ia eon ay ak arg and
+ane esh ad un
+
+The  name  generator  has  a fixed seed at
+position  (0,0)  of the map. This position
+holds  the fortress of Imgarorn the Giant.
+As  you  can  see Img-ar-orn is (0,0,0) in
+the  tables  above.  Any other position is
+recursively    traced   down   to   (0,0),
+generating  a  pseudorandom  seed  for the
+three  tables. The algorithm takes care of
+any contiguous squares of the same terrain
+type having the same name.
+
+Note  that  the  map  has  6144 positions.
+6144=24*16*16,  so  there is more possible
+names  than  squares  in  the  map. So the
+algorithm  also guarantees that there will
+be no different places with the same name,
+
+That's all for now! Enjoy!
+
+Ruben Martinez
+Email: Ruben.Martinez@rediris.es
+
+==========================================

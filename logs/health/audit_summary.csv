@@ -1,0 +1,291 @@
+magazine,magazine_id,issues,articles,issues_missing_articles_dir,issues_zero_articles,has_mag_listing_json,validator_status,validator_log,problem_reasons
+20,2,5,38,0,0,1,OK+WARN,validate_20_20260602_004745.txt,Validator meldet Warnungen
+200,3,5,93,0,0,1,OK,validate_200_20260602_004749.txt,
+3Bit,4,1,39,0,0,1,OK,validate_3Bit_20260602_004742.txt,
+47th_Byte,5,1,8,0,0,1,OK+WARN,validate_47th_Byte_20260602_004741.txt,Validator meldet Warnungen
+ACNews,8,72,317,0,0,1,OK,validate_ACNews_20260602_004751.txt,
+Adventurer,9,15,551,0,0,1,OK,validate_Adventurer_20260602_004745.txt,
+All_Paper,10,1,9,0,0,1,OK+WARN,validate_All_Paper_20260602_004749.txt,Validator meldet Warnungen
+Always,11,3,21,0,0,1,OK,validate_Always_20260602_004744.txt,
+Amazing,12,2,42,0,0,1,OK,validate_Amazing_20260602_004746.txt,
+Amiga_Info,13,2,12,0,0,1,OK,validate_Amiga_Info_20260602_004750.txt,
+Amiga_News,306,2,23,0,0,1,OK,validate_Amiga_News_20260602_004750.txt,
+Amigoz,15,3,20,0,0,1,OK,validate_Amigoz_20260602_004744.txt,
+Anecdotes,325,1,10,0,0,1,OK,validate_Anecdotes_20260602_004746.txt,
+Anigdot,16,19,24,0,0,1,OK,validate_Anigdot_20260602_004742.txt,
+Anti-Top,17,1,15,0,0,1,OK,validate_Anti-Top_20260602_004749.txt,
+Antivel,18,1,17,0,0,1,OK,validate_Antivel_20260602_004740.txt,
+Aspect,19,10,90,0,0,1,OK,validate_Aspect_20260602_004749.txt,
+Avro_News,20,5,23,0,0,1,OK,validate_Avro_News_20260602_004745.txt,
+BBSTOP,24,0,0,0,0,1,OK+WARN,validate_BBSTOP_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Baltic_Press,22,1,10,0,0,1,OK,validate_Baltic_Press_20260602_004745.txt,
+Batva,23,0,0,0,0,1,OK+WARN,validate_Batva_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Best_of,25,3,8,0,0,1,OK+WARN,validate_Best_of_20260602_004749.txt,Validator meldet Warnungen
+Black_Crow,26,7,168,0,0,1,OK,validate_Black_Crow_20260602_004748.txt,
+Black_Metall,27,4,45,0,0,1,OK,validate_Black_Metall_20260602_004747.txt,
+Body,28,69,576,0,0,1,OK,validate_Body_20260602_004745.txt,
+Bonus,29,5,35,0,0,1,OK,validate_Bonus_20260602_004741.txt,
+Book,30,2,31,0,0,1,OK,validate_Book_20260602_004748.txt,
+Born_Dead,31,17,165,0,0,1,OK,validate_Born_Dead_20260602_004743.txt,
+Bred,305,6,58,0,0,1,OK+WARN,validate_Bred_20260602_004744.txt,Validator meldet Warnungen
+Breeze,33,3,24,0,0,1,OK,validate_Breeze_20260602_004749.txt,
+Bugs,34,2,28,0,0,1,OK,validate_Bugs_20260602_004745.txt,
+Buhenvald,35,3,26,0,0,1,OK,validate_Buhenvald_20260602_004746.txt,
+Burn_the_Lighter,307,4,26,0,0,1,OK,validate_Burn_the_Lighter_20260602_004751.txt,
+Buzz,36,20,296,0,0,1,OK,validate_Buzz_20260602_004750.txt,
+CAFe_2003,337,0,0,0,0,1,OK+WARN,validate_CAFe_2003_20260602_004741.txt,Validator meldet Warnungen | Magazin ohne Issues
+Cancer,37,2,21,0,0,1,OK+WARN,validate_Cancer_20260602_004747.txt,Validator meldet Warnungen
+Chaos,38,1,13,0,0,1,OK,validate_Chaos_20260602_004751.txt,
+Cheat,39,3,15,0,0,1,OK,validate_Cheat_20260602_004746.txt,
+Chudo,40,1,9,0,0,1,OK+WARN,validate_Chudo_20260602_004748.txt,Validator meldet Warnungen
+City,42,55,407,0,0,1,OK,validate_City_20260602_004742.txt,
+Clime,43,3,27,0,0,1,OK,validate_Clime_20260602_004741.txt,
+Codemania,309,1,7,0,0,1,OK,validate_Codemania_20260602_004742.txt,
+Cossackos,44,0,0,0,0,1,OK+WARN,validate_Cossackos_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Crazy_News,308,5,22,0,0,1,OK,validate_Crazy_News_20260602_004744.txt,
+Crossroads,45,3,32,0,0,1,OK,validate_Crossroads_20260602_004751.txt,
+Crystal_Dream,46,1,15,0,0,1,OK,validate_Crystal_Dream_20260602_004746.txt,
+CyberSex,49,2,52,0,0,1,OK,validate_CyberSex_20260602_004748.txt,
+Cyberman,48,4,26,0,0,1,OK,validate_Cyberman_20260602_004751.txt,
+Deja_Vu,50,12,352,0,0,1,OK,validate_Deja_Vu_20260602_004741.txt,
+Demo_or_Die,51,2,41,0,0,1,OK,validate_Demo_or_Die_20260602_004740.txt,
+Depress,52,3,8,0,0,1,OK,validate_Depress_20260602_004751.txt,
+Depth,53,3,61,0,0,1,OK,validate_Depth_20260602_004743.txt,
+Dermo,54,1,14,0,0,1,OK+WARN,validate_Dermo_20260602_004746.txt,Validator meldet Warnungen
+Di_Halt,55,1,24,0,0,1,OK,validate_Di_Halt_20260602_004750.txt,
+Dni-Pro,57,2,24,0,0,1,OK,validate_Dni-Pro_20260602_004745.txt,
+Dnieprobite,56,4,39,0,0,1,OK,validate_Dnieprobite_20260602_004747.txt,
+DonNews,58,21,192,0,0,1,OK,validate_DonNews_20260602_004740.txt,
+Dr__Longman_s_News,59,5,19,0,0,1,OK+WARN,validate_Dr__Longman_s_News_20260602_004744.txt,Validator meldet Warnungen
+Du_Hast,60,1,10,0,0,1,OK,validate_Du_Hast_20260602_004743.txt,
+Dune,61,5,27,0,0,1,OK+WARN,validate_Dune_20260602_004743.txt,Validator meldet Warnungen
+EMSlog,65,1,8,0,0,1,OK,validate_EMSlog_20260602_004750.txt,
+Echo,63,7,134,0,0,1,OK,validate_Echo_20260602_004742.txt,
+Eldorado,64,2,23,0,0,1,OK,validate_Eldorado_20260602_004750.txt,
+Electra,330,0,0,0,0,1,OK+WARN,validate_Electra_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Emulate,66,7,92,0,0,1,OK,validate_Emulate_20260602_004743.txt,
+Energy,67,12,117,0,0,1,OK,validate_Energy_20260602_004743.txt,
+Enigma_Tape_Magazine,324,0,0,0,0,1,OK+WARN,validate_Enigma_Tape_Magazine_20260602_004741.txt,Validator meldet Warnungen | Magazin ohne Issues
+Erotic,68,24,77,0,0,1,OK,validate_Erotic_20260602_004743.txt,
+Explorer,69,4,37,0,0,1,OK+WARN,validate_Explorer_20260602_004746.txt,Validator meldet Warnungen
+Fanat,70,2,46,0,0,1,OK,validate_Fanat_20260602_004750.txt,
+Fanat_Newspaper,71,3,29,0,0,1,OK,validate_Fanat_Newspaper_20260602_004748.txt,
+Fantadrom,72,4,44,0,0,1,OK+WARN,validate_Fantadrom_20260602_004744.txt,Validator meldet Warnungen
+Fantastic,73,0,0,0,0,1,OK+WARN,validate_Fantastic_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fantasy,328,0,0,0,0,1,OK+WARN,validate_Fantasy_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fantik,74,7,16,0,0,1,OK+WARN,validate_Fantik_20260602_004749.txt,Validator meldet Warnungen
+Fantom,75,2,21,0,0,1,OK,validate_Fantom_20260602_004743.txt,
+Faultless,76,8,135,0,0,1,OK,validate_Faultless_20260602_004749.txt,
+Fenzin,77,0,0,0,0,1,OK+WARN,validate_Fenzin_20260602_004746.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fisherman_Press,78,1,10,0,0,1,OK,validate_Fisherman_Press_20260602_004746.txt,
+Flash_Info,79,19,109,0,0,1,OK,validate_Flash_Info_20260602_004750.txt,
+Flash_Time,80,1,34,0,0,1,OK,validate_Flash_Time_20260602_004751.txt,
+Foolishness,82,1,9,0,0,1,OK,validate_Foolishness_20260602_004748.txt,
+Forever_Young,83,1,15,0,0,1,OK,validate_Forever_Young_20260602_004742.txt,
+Fuck,84,4,33,0,0,1,OK+WARN,validate_Fuck_20260602_004746.txt,Validator meldet Warnungen
+Full_Pull,85,10,112,0,0,1,OK,validate_Full_Pull_20260602_004743.txt,
+Funeral,86,2,68,0,0,1,OK,validate_Funeral_20260602_004749.txt,
+Funny_Box,87,5,20,0,0,1,OK+WARN,validate_Funny_Box_20260602_004743.txt,Validator meldet Warnungen
+Funny_Night,88,0,0,0,0,1,OK+WARN,validate_Funny_Night_20260602_004743.txt,Validator meldet Warnungen | Magazin ohne Issues
+GMS_News,329,3,8,0,0,1,OK+WARN,validate_GMS_News_20260602_004749.txt,Validator meldet Warnungen
+Generation_Z,89,8,141,0,0,1,OK,validate_Generation_Z_20260602_004740.txt,
+Gluk,90,1,16,0,0,1,OK,validate_Gluk_20260602_004741.txt,
+Gomel_ZX-Net_News,91,1,8,0,0,1,OK,validate_Gomel_ZX-Net_News_20260602_004747.txt,
+Gorodok,92,15,110,0,0,1,OK+WARN,validate_Gorodok_20260602_004750.txt,Validator meldet Warnungen
+Gothiq,93,1,32,0,0,1,OK,validate_Gothiq_20260602_004750.txt,
+Heresy,95,11,155,0,0,1,OK+WARN,validate_Heresy_20260602_004747.txt,Validator meldet Warnungen
+Hobby,96,1,31,0,0,1,OK,validate_Hobby_20260602_004745.txt,
+Hooy_Mag,332,0,0,0,0,1,OK+WARN,validate_Hooy_Mag_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Horror,97,6,11,0,0,1,OK,validate_Horror_20260602_004746.txt,
+Humor_in_Exchange,98,2,9,0,0,1,OK,validate_Humor_in_Exchange_20260602_004743.txt,
+Inferno,100,4,102,0,0,1,OK,validate_Inferno_20260602_004741.txt,
+Info_Guide,302,9,323,0,0,1,OK,validate_Info_Guide_20260602_004743.txt,
+Innovision,101,1,8,0,0,1,OK+WARN,validate_Innovision_20260602_004743.txt,Validator meldet Warnungen
+Insanity,102,10,157,0,0,1,OK,validate_Insanity_20260602_004742.txt,
+IzhNews,103,15,193,0,0,1,OK,validate_IzhNews_20260602_004747.txt,
+KiiA_Info,342,6,16,0,0,1,OK,validate_KiiA_Info_20260602_004741.txt,
+Kosme,106,1,23,0,0,1,OK,validate_Kosme_20260602_004747.txt,
+KrNews,107,17,218,0,0,1,OK,validate_KrNews_20260602_004747.txt,
+Last_128,109,11,84,0,0,1,OK,validate_Last_128_20260602_004743.txt,
+Life,110,6,18,0,0,1,OK,validate_Life_20260602_004746.txt,
+Lime_Tree,111,27,154,0,0,1,OK,validate_Lime_Tree_20260602_004747.txt,
+Listok,112,4,24,0,0,1,OK,validate_Listok_20260602_004751.txt,
+LntNews,113,1,6,0,0,1,OK+WARN,validate_LntNews_20260602_004740.txt,Validator meldet Warnungen
+Lprint,114,23,183,0,0,1,OK,validate_Lprint_20260602_004748.txt,
+MSD,127,14,101,0,0,1,OK,validate_MSD_20260602_004748.txt,
+MSF,128,11,292,0,0,1,OK+WARN,validate_MSF_20260602_004742.txt,Validator meldet Warnungen
+Marazm,116,25,48,0,0,1,OK+WARN,validate_Marazm_20260602_004740.txt,Validator meldet Warnungen
+Mask,323,2,22,0,0,1,OK,validate_Mask_20260602_004747.txt,
+Matrix,333,1,10,0,0,1,OK,validate_Matrix_20260602_004751.txt,
+Max_Pictures_Sexual_News,322,2,17,0,0,1,OK,validate_Max_Pictures_Sexual_News_20260602_004750.txt,
+Maximum,118,48,412,0,0,1,OK,validate_Maximum_20260602_004744.txt,
+Melancholy,119,1,14,0,0,1,OK,validate_Melancholy_20260602_004743.txt,
+Micro,120,27,148,0,0,1,OK,validate_Micro_20260602_004741.txt,
+Millenium,121,1,16,0,0,1,OK,validate_Millenium_20260602_004748.txt,
+Miracle,122,3,82,0,0,1,OK,validate_Miracle_20260602_004744.txt,
+Mirage,123,2,12,0,0,1,OK+WARN,validate_Mirage_20260602_004746.txt,Validator meldet Warnungen
+Mirikom,124,2,22,0,0,1,OK,validate_Mirikom_20260602_004744.txt,
+Modern,125,0,0,0,0,1,OK+WARN,validate_Modern_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Move,126,10,83,0,0,1,OK,validate_Move_20260602_004740.txt,
+Muchomor,129,1,9,0,0,1,OK+WARN,validate_Muchomor_20260602_004749.txt,Validator meldet Warnungen
+Murzilka,130,4,63,0,0,1,OK+WARN,validate_Murzilka_20260602_004746.txt,Validator meldet Warnungen
+Mustang,131,2,15,0,0,1,OK,validate_Mustang_20260602_004749.txt,
+My_Speccy,132,1,15,0,0,1,OK,validate_My_Speccy_20260602_004746.txt,
+Neformal,134,1,15,0,0,1,OK,validate_Neformal_20260602_004750.txt,
+NemoFAQ,135,0,0,0,0,1,OK+WARN,validate_NemoFAQ_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Netus_News,136,6,61,0,0,1,OK,validate_Netus_News_20260602_004742.txt,
+Never_Mind,137,3,34,0,0,1,OK,validate_Never_Mind_20260602_004746.txt,
+Next,138,19,91,0,0,1,OK,validate_Next_20260602_004741.txt,
+Nicron,139,128,1000,0,0,1,OK,validate_Nicron_20260602_004748.txt,
+Nikfe,140,2,9,0,0,1,OK,validate_Nikfe_20260602_004749.txt,
+Nonsense,319,1,9,0,0,1,OK,validate_Nonsense_20260602_004743.txt,
+Noosfera,141,1,13,0,0,1,OK,validate_Noosfera_20260602_004742.txt,
+Numberology,142,1,6,0,0,1,OK,validate_Numberology_20260602_004751.txt,
+Odyssey_Magazine,144,3,79,0,0,1,OK,validate_Odyssey_Magazine_20260602_004745.txt,
+Odyssey_paper,145,8,59,0,0,1,OK,validate_Odyssey_paper_20260602_004747.txt,
+Offline,146,3,17,0,0,1,OK,validate_Offline_20260602_004751.txt,
+On-Line,147,85,499,0,0,1,OK,validate_On-Line_20260602_004748.txt,
+Open_Letters,299,10,215,0,0,1,OK,validate_Open_Letters_20260602_004740.txt,
+Opex,301,9,40,0,0,1,OK,validate_Opex_20260602_004746.txt,
+Opium,148,0,0,0,0,1,OK+WARN,validate_Opium_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Optron,149,43,290,0,0,1,OK,validate_Optron_20260602_004741.txt,
+Orion,150,0,0,0,0,1,OK+WARN,validate_Orion_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Orphan,151,1,13,0,0,1,OK,validate_Orphan_20260602_004749.txt,
+Ostrov,152,1,20,0,0,1,OK,validate_Ostrov_20260602_004747.txt,
+Out_Side,153,0,0,0,0,1,OK+WARN,validate_Out_Side_20260602_004746.txt,Validator meldet Warnungen | Magazin ohne Issues
+Outlet,314,2,35,0,0,1,OK,validate_Outlet_20260602_004747.txt,
+Overlog,154,4,24,0,0,1,OK+WARN,validate_Overlog_20260602_004743.txt,Validator meldet Warnungen
+Pioneer,156,3,36,0,0,1,OK,validate_Pioneer_20260602_004749.txt,
+Platinum,157,2,24,0,0,1,OK,validate_Platinum_20260602_004747.txt,
+Playboy,158,0,0,0,0,1,OK+WARN,validate_Playboy_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Plutonium,159,21,162,0,0,1,OK+WARN,validate_Plutonium_20260602_004747.txt,Validator meldet Warnungen
+Point,160,1,11,0,0,1,OK+WARN,validate_Point_20260602_004744.txt,Validator meldet Warnungen
+Pointovka_Report,334,0,0,0,0,1,OK+WARN,validate_Pointovka_Report_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Polesse,161,21,132,0,0,1,OK,validate_Polesse_20260602_004741.txt,
+Polnoch,162,1,6,0,0,1,OK,validate_Polnoch_20260602_004740.txt,
+Power,163,5,38,0,0,1,OK,validate_Power_20260602_004740.txt,
+Prikoly,317,3,8,0,0,1,OK,validate_Prikoly_20260602_004747.txt,
+Profi_Club,164,1,9,0,0,1,OK,validate_Profi_Club_20260602_004746.txt,
+Promised_Land,165,4,74,0,0,1,OK,validate_Promised_Land_20260602_004747.txt,
+Proton,166,48,327,0,0,1,OK,validate_Proton_20260602_004743.txt,
+Psychoz,167,18,268,0,0,1,OK+WARN,validate_Psychoz_20260602_004750.txt,Validator meldet Warnungen
+Public_Spirit,168,1,18,0,0,1,OK,validate_Public_Spirit_20260602_004747.txt,
+Punk,169,1,8,0,0,1,OK+WARN,validate_Punk_20260602_004749.txt,Validator meldet Warnungen
+RIP,175,15,116,0,0,1,OK,validate_RIP_20260602_004740.txt,
+RST,176,3,28,0,0,1,OK,validate_RST_20260602_004744.txt,
+RUSH,178,2,82,0,0,1,OK,validate_RUSH_20260602_004745.txt,
+Realtime,171,2,34,0,0,1,OK,validate_Realtime_20260602_004747.txt,
+Red_Press,321,1,11,0,0,1,OK,validate_Red_Press_20260602_004740.txt,
+Reflex,172,1,11,0,0,1,OK,validate_Reflex_20260602_004751.txt,
+Review,173,1,14,0,0,1,OK,validate_Review_20260602_004748.txt,
+Revival,174,4,42,0,0,1,OK,validate_Revival_20260602_004750.txt,
+Rumorz,177,1,10,0,0,1,OK+WARN,validate_Rumorz_20260602_004749.txt,Validator meldet Warnungen
+SOSG,196,6,34,0,0,1,OK,validate_SOSG_20260602_004750.txt,
+SPbZXNet-Pointovka,198,1,6,0,0,1,OK,validate_SPbZXNet-Pointovka_20260602_004747.txt,
+SPb_ZX_Week,197,2,18,0,0,1,OK,validate_SPb_ZX_Week_20260602_004751.txt,
+Scene,315,0,0,0,0,1,OK+WARN,validate_Scene_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Scene_News,180,1,6,0,0,1,OK,validate_Scene_News_20260602_004740.txt,
+Scenergy,181,2,141,0,0,1,OK,validate_Scenergy_20260602_004746.txt,
+Scream,182,5,182,0,0,1,OK,validate_Scream_20260602_004744.txt,
+Screamergy,326,4,23,0,0,1,OK,validate_Screamergy_20260602_004740.txt,
+Scroller,183,2,15,0,0,1,OK+WARN,validate_Scroller_20260602_004750.txt,Validator meldet Warnungen
+Setevoy_Sokol,184,0,0,0,0,1,OK+WARN,validate_Setevoy_Sokol_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Shock,185,1,14,0,0,1,OK,validate_Shock_20260602_004749.txt,
+Shocker,186,1,14,0,0,1,OK,validate_Shocker_20260602_004741.txt,
+Shupashkar,187,1,14,0,0,1,OK,validate_Shupashkar_20260602_004750.txt,
+SibNews,339,8,48,0,0,1,OK,validate_SibNews_20260602_004745.txt,
+Sinc_Re-Stared,188,3,24,0,0,1,OK+WARN,validate_Sinc_Re-Stared_20260602_004751.txt,Validator meldet Warnungen
+Sinclair_Classic,313,0,0,0,0,1,OK+WARN,validate_Sinclair_Classic_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Sinclair_Club,189,5,60,0,0,1,OK,validate_Sinclair_Club_20260602_004751.txt,
+Sinclair_News,190,0,0,0,0,1,OK+WARN,validate_Sinclair_News_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Sinclair_Town,191,2,35,0,0,1,OK,validate_Sinclair_Town_20260602_004748.txt,
+Skimer,192,2,27,0,0,1,OK,validate_Skimer_20260602_004740.txt,
+Sky_Net,193,5,48,0,0,1,OK,validate_Sky_Net_20260602_004740.txt,
+Smeh,194,1,13,0,0,1,OK,validate_Smeh_20260602_004741.txt,
+Sorrow_News,195,5,33,0,0,1,OK,validate_Sorrow_News_20260602_004744.txt,
+SpecInfo,201,5,36,0,0,1,OK,validate_SpecInfo_20260602_004747.txt,
+Speccy,199,7,89,0,0,1,OK,validate_Speccy_20260602_004746.txt,
+Speccy_Life,200,1,12,0,0,1,OK,validate_Speccy_Life_20260602_004742.txt,
+Spectrofon,202,24,230,0,0,1,OK,validate_Spectrofon_20260602_004745.txt,
+Spectrofun,300,3,20,0,0,1,OK,validate_Spectrofun_20260602_004749.txt,
+Spectron,203,1,11,0,0,1,OK,validate_Spectron_20260602_004747.txt,
+Spectrophoby,204,6,83,0,0,1,OK,validate_Spectrophoby_20260602_004746.txt,
+Spectrum_Expert,205,2,41,0,0,1,OK,validate_Spectrum_Expert_20260602_004749.txt,
+Spectrum_Land,206,1,19,0,0,1,OK,validate_Spectrum_Land_20260602_004747.txt,
+Spectrum_Magazine,312,0,0,0,0,1,OK+WARN,validate_Spectrum_Magazine_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Spectrum_News,207,1,6,0,0,1,OK,validate_Spectrum_News_20260602_004740.txt,
+Spectrum_Progress,208,3,73,0,0,1,OK,validate_Spectrum_Progress_20260602_004751.txt,
+Spectrumania,209,1,16,0,0,1,OK+WARN,validate_Spectrumania_20260602_004745.txt,Validator meldet Warnungen
+Spite,210,3,25,0,0,1,OK,validate_Spite_20260602_004751.txt,
+Star,211,2,22,0,0,1,OK,validate_Star_20260602_004747.txt,
+Stump,212,4,53,0,0,1,OK,validate_Stump_20260602_004740.txt,
+Subliminal_Extacy,213,4,138,0,0,1,OK,validate_Subliminal_Extacy_20260602_004740.txt,
+Sweet,214,1,16,0,0,1,OK,validate_Sweet_20260602_004742.txt,
+Tales_from_Crypt,216,1,9,0,0,1,OK,validate_Tales_from_Crypt_20260602_004746.txt,
+TargeT,217,13,132,0,0,1,OK,validate_TargeT_20260602_004744.txt,
+Teleconf__ZX-Net,218,1,11,0,0,1,OK,validate_Teleconf__ZX-Net_20260602_004743.txt,
+Teleshow,219,5,24,0,0,1,OK+WARN,validate_Teleshow_20260602_004751.txt,Validator meldet Warnungen
+Terminal,220,2,16,0,0,1,OK,validate_Terminal_20260602_004745.txt,
+Think,221,48,364,0,0,1,OK,validate_Think_20260602_004741.txt,
+Time,222,1,11,0,0,1,OK,validate_Time_20260602_004746.txt,
+Times,223,0,0,0,0,1,OK+WARN,validate_Times_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Totoro,224,2,19,0,0,1,OK,validate_Totoro_20260602_004745.txt,
+Tusovka,226,9,32,0,0,1,OK,validate_Tusovka_20260602_004742.txt,
+Ultimathum,228,2,46,0,0,1,OK,validate_Ultimathum_20260602_004749.txt,
+Unsteady_News,229,1,12,0,0,1,OK,validate_Unsteady_News_20260602_004751.txt,
+Virtual_Worlds,231,1,35,0,0,1,OK,validate_Virtual_Worlds_20260602_004748.txt,
+Voxon_s_Land,232,1,7,0,0,1,OK,validate_Voxon_s_Land_20260602_004745.txt,
+Voyager,233,5,134,0,0,1,OK,validate_Voyager_20260602_004744.txt,
+Warez,235,3,17,0,0,1,OK+WARN,validate_Warez_20260602_004749.txt,Validator meldet Warnungen
+WeekEnd,236,5,35,0,0,1,OK+WARN,validate_WeekEnd_20260602_004742.txt,Validator meldet Warnungen
+Welcome_Press,237,2,27,0,0,1,OK,validate_Welcome_Press_20260602_004746.txt,
+White_Crow,238,1,15,0,0,1,OK+WARN,validate_White_Crow_20260602_004740.txt,Validator meldet Warnungen
+Wizard_Net_Page,239,1,10,0,0,1,OK,validate_Wizard_Net_Page_20260602_004746.txt,
+Wizard_News,240,1,12,0,0,1,OK+WARN,validate_Wizard_News_20260602_004741.txt,Validator meldet Warnungen
+Woot,341,0,0,0,0,1,OK+WARN,validate_Woot_20260602_004747.txt,Validator meldet Warnungen | Magazin ohne Issues
+World_in_the_Web,241,1,14,0,0,1,OK,validate_World_in_the_Web_20260602_004746.txt,
+X-Files,244,2,21,0,0,1,OK,validate_X-Files_20260602_004742.txt,
+X-Magazine,311,0,0,0,0,1,OK+WARN,validate_X-Magazine_20260602_004749.txt,Validator meldet Warnungen | Magazin ohne Issues
+X-Ray,245,4,22,0,0,1,OK,validate_X-Ray_20260602_004744.txt,
+Xa-XaFon,242,0,0,0,0,1,OK+WARN,validate_Xa-XaFon_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Z80,1,6,48,0,0,1,OK,validate_Z80_20260602_004743.txt,
+ZX-Files,310,1,13,0,0,1,OK,validate_ZX-Files_20260602_004744.txt,
+ZX-News,269,54,432,0,0,1,OK,validate_ZX-News_20260602_004749.txt,
+ZX_Chart,249,3,39,0,0,1,OK,validate_ZX_Chart_20260602_004751.txt,
+ZX_City,250,11,63,0,0,1,OK,validate_ZX_City_20260602_004746.txt,
+ZX_Club,251,9,144,0,0,1,OK,validate_ZX_Club_20260602_004744.txt,
+ZX_Digest,252,2,21,0,0,1,OK,validate_ZX_Digest_20260602_004748.txt,
+ZX_Doze,253,1,26,0,0,1,OK,validate_ZX_Doze_20260602_004746.txt,
+ZX_Element,254,2,88,0,0,1,OK,validate_ZX_Element_20260602_004750.txt,
+ZX_Ferrum,255,4,36,0,0,1,OK,validate_ZX_Ferrum_20260602_004750.txt,
+ZX_Football_2000,256,1,15,0,0,1,OK,validate_ZX_Football_2000_20260602_004744.txt,
+ZX_Format,257,9,325,0,0,1,OK,validate_ZX_Format_20260602_004744.txt,
+ZX_Forum,258,1,47,0,0,1,OK,validate_ZX_Forum_20260602_004742.txt,
+ZX_Guide,259,1,25,0,0,1,OK,validate_ZX_Guide_20260602_004748.txt,
+ZX_Hard,260,3,35,0,0,1,OK,validate_ZX_Hard_20260602_004741.txt,
+ZX_Healthless,261,1,26,0,0,1,OK+WARN,validate_ZX_Healthless_20260602_004747.txt,Validator meldet Warnungen
+ZX_Humor,262,1,11,0,0,1,OK+WARN,validate_ZX_Humor_20260602_004743.txt,Validator meldet Warnungen
+ZX_Jump,263,4,29,0,0,1,OK,validate_ZX_Jump_20260602_004743.txt,
+ZX_Konig,264,4,37,0,0,1,OK,validate_ZX_Konig_20260602_004742.txt,
+ZX_Land,303,0,0,0,0,1,OK+WARN,validate_ZX_Land_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+ZX_Light,265,13,112,0,0,1,OK,validate_ZX_Light_20260602_004745.txt,
+ZX_Live,266,3,22,0,0,1,OK+WARN,validate_ZX_Live_20260602_004751.txt,Validator meldet Warnungen
+ZX_Magazine,268,3,34,0,0,1,OK+WARN,validate_ZX_Magazine_20260602_004740.txt,Validator meldet Warnungen
+ZX_News,270,3,55,0,0,1,OK,validate_ZX_News_20260602_004750.txt,
+ZX_Panorama,271,1,6,0,0,1,OK,validate_ZX_Panorama_20260602_004742.txt,
+ZX_Paper,272,1,11,0,0,1,OK+WARN,validate_ZX_Paper_20260602_004748.txt,Validator meldet Warnungen
+ZX_Park,273,18,126,0,0,1,OK,validate_ZX_Park_20260602_004740.txt,
+ZX_Pilot,274,42,389,0,0,1,OK,validate_ZX_Pilot_20260602_004741.txt,
+ZX_Power,275,4,168,0,0,1,OK,validate_ZX_Power_20260602_004748.txt,
+ZX_Press,276,1,29,0,0,1,OK,validate_ZX_Press_20260602_004751.txt,
+ZX_Review,277,5,185,0,0,1,OK,validate_ZX_Review_20260602_004745.txt,
+ZX_Revija,327,0,0,0,0,1,OK+WARN,validate_ZX_Revija_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+ZX_Rulez_Magazine,278,1,13,0,0,1,OK,validate_ZX_Rulez_Magazine_20260602_004740.txt,
+ZX_Software,279,1,7,0,0,1,OK,validate_ZX_Software_20260602_004751.txt,
+ZX_Time,280,15,170,0,0,1,OK,validate_ZX_Time_20260602_004749.txt,
+ZX_User,281,3,20,0,0,1,OK,validate_ZX_User_20260602_004742.txt,
+ZX_World,282,2,16,0,0,1,OK,validate_ZX_World_20260602_004749.txt,
+ZX_Zone,283,4,38,0,0,1,OK,validate_ZX_Zone_20260602_004741.txt,
+Zed,247,1,10,0,0,1,OK,validate_Zed_20260602_004741.txt,
+Zodiac,248,2,31,0,0,1,OK,validate_Zodiac_20260602_004750.txt,
+cafe_photo_album,338,1,6,0,0,1,OK,validate_cafe_photo_album_20260602_004751.txt,

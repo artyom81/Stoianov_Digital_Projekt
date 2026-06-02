@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-09-05",
+  "order": 6,
+  "article_id": 361,
+  "title_link": "От редакции - О будущем газеты",
+  "title_h1": "Micro 08 - От редакции - О будущем газеты",
+  "print_url": "https://zxpress.ru/print.php?id=361",
+  "article_url": "https://zxpress.ru/article.php?id=361",
+  "fetched_at": "2026-05-31T22:25:25Z"
+}

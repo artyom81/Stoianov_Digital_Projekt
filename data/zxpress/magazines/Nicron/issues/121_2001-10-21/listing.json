@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 6112,
+    "article_url": "https://zxpress.ru/article.php?id=6112",
+    "print_url": "https://zxpress.ru/print.php?id=6112",
+    "title_link": "Вступление - вступительное слово и содержание номера.",
+    "order": 1,
+    "issue_label": "121",
+    "short_slug": "Вступление_-_вступительное_слово_и_содержание_номера"
+  },
+  {
+    "article_id": 6113,
+    "article_url": "https://zxpress.ru/article.php?id=6113",
+    "print_url": "https://zxpress.ru/print.php?id=6113",
+    "title_link": "События - подробный отчет, фотографии, и результаты CC01.",
+    "order": 2,
+    "issue_label": "121",
+    "short_slug": "События_-_подробныи_отчет_фотографии_и_результаты_CC01"
+  },
+  {
+    "article_id": 6114,
+    "article_url": "https://zxpress.ru/article.php?id=6114",
+    "print_url": "https://zxpress.ru/print.php?id=6114",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 3,
+    "issue_label": "121",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6115,
+    "article_url": "https://zxpress.ru/article.php?id=6115",
+    "print_url": "https://zxpress.ru/print.php?id=6115",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 4,
+    "issue_label": "121",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

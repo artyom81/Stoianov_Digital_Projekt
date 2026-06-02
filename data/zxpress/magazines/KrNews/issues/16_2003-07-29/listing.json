@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 8407,
+    "article_url": "https://zxpress.ru/article.php?id=8407",
+    "print_url": "https://zxpress.ru/print.php?id=8407",
+    "title_link": "INTRO - Последний, юбилейный выпуск.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "INTRO_-_Последнии_юбилеиныи_выпуск"
+  },
+  {
+    "article_id": 8408,
+    "article_url": "https://zxpress.ru/article.php?id=8408",
+    "print_url": "https://zxpress.ru/print.php?id=8408",
+    "title_link": "Paradox - отчёт с Paradox'2002.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Paradox_-_отчет_с_Paradox2002"
+  },
+  {
+    "article_id": 8409,
+    "article_url": "https://zxpress.ru/article.php?id=8409",
+    "print_url": "https://zxpress.ru/print.php?id=8409",
+    "title_link": "Репортаж - Фотовыставка в Краснодаре.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Репортаж_-_Фотовыставка_в_Краснодаре"
+  },
+  {
+    "article_id": 8410,
+    "article_url": "https://zxpress.ru/article.php?id=8410",
+    "print_url": "https://zxpress.ru/print.php?id=8410",
+    "title_link": "Юмор - Пpоект Genesis (из коpпоpативной пеpеписки).",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Юмор_-_Пpоект_Genesis_из_коpпоpативнои_пеpеписки"
+  },
+  {
+    "article_id": 8411,
+    "article_url": "https://zxpress.ru/article.php?id=8411",
+    "print_url": "https://zxpress.ru/print.php?id=8411",
+    "title_link": "Интервью - Интервью с участниками Paradox'2002: Wild и Demon.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Интервью_-_Интервью_с_участниками_Paradox2002_Wild_и_Demon"
+  },
+  {
+    "article_id": 8412,
+    "article_url": "https://zxpress.ru/article.php?id=8412",
+    "print_url": "https://zxpress.ru/print.php?id=8412",
+    "title_link": "Кодинг - Алгоритмы и структуры данных.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Кодинг_-_Алгоритмы_и_структуры_данных"
+  },
+  {
+    "article_id": 8413,
+    "article_url": "https://zxpress.ru/article.php?id=8413",
+    "print_url": "https://zxpress.ru/print.php?id=8413",
+    "title_link": "Железо - схема FLASH-color по упрощенной схеме.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Железо_-_схема_FLASH-color_по_упрощеннои_схеме"
+  }
+]

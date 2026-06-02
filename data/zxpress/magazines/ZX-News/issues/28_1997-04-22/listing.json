@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2889,
+    "article_url": "https://zxpress.ru/article.php?id=2889",
+    "print_url": "https://zxpress.ru/print.php?id=2889",
+    "title_link": "Oт редакции - Вышли XaXafon - 1 & ReadMe - 1.",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "Oт_редакции_-_Вышли_XaXafon_-_1_ReadMe_-_1"
+  },
+  {
+    "article_id": 2891,
+    "article_url": "https://zxpress.ru/article.php?id=2891",
+    "print_url": "https://zxpress.ru/print.php?id=2891",
+    "title_link": "Интернет - Правила работы в Интернете.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "Интернет_-_Правила_работы_в_Интернете"
+  },
+  {
+    "article_id": 2897,
+    "article_url": "https://zxpress.ru/article.php?id=2897",
+    "print_url": "https://zxpress.ru/print.php?id=2897",
+    "title_link": "Объявления - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2894,
+    "article_url": "https://zxpress.ru/article.php?id=2894",
+    "print_url": "https://zxpress.ru/print.php?id=2894",
+    "title_link": "Презинтация - Презинтация игры \"Mortal Kombat\".",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "Презинтация_-_Презинтация_игры_Mortal_Kombat"
+  },
+  {
+    "article_id": 2892,
+    "article_url": "https://zxpress.ru/article.php?id=2892",
+    "print_url": "https://zxpress.ru/print.php?id=2892",
+    "title_link": "Сетевые новости - Файл-эхи.",
+    "order": 5,
+    "issue_label": "28",
+    "short_slug": "Сетевые_новости_-_Фаил-эхи"
+  },
+  {
+    "article_id": 2890,
+    "article_url": "https://zxpress.ru/article.php?id=2890",
+    "print_url": "https://zxpress.ru/print.php?id=2890",
+    "title_link": "Список BBS - Список BBS.",
+    "order": 6,
+    "issue_label": "28",
+    "short_slug": "Список_BBS_-_Список_BBS"
+  },
+  {
+    "article_id": 2896,
+    "article_url": "https://zxpress.ru/article.php?id=2896",
+    "print_url": "https://zxpress.ru/print.php?id=2896",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 7,
+    "issue_label": "28",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2893,
+    "article_url": "https://zxpress.ru/article.php?id=2893",
+    "print_url": "https://zxpress.ru/print.php?id=2893",
+    "title_link": "Эхо-конференции - Правила новой области SPBZXNET.MUSIC.",
+    "order": 8,
+    "issue_label": "28",
+    "short_slug": "Эхо-конференции_-_Правила_новои_области_SPBZXNETMUSIC"
+  },
+  {
+    "article_id": 2895,
+    "article_url": "https://zxpress.ru/article.php?id=2895",
+    "print_url": "https://zxpress.ru/print.php?id=2895",
+    "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 6).",
+    "order": 9,
+    "issue_label": "28",
+    "short_slug": "Юмор_-_Штирлиц_-_русскии_SysOp_глава_6"
+  }
+]

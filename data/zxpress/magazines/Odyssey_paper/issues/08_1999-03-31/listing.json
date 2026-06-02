@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 9642,
+    "article_url": "https://zxpress.ru/article.php?id=9642",
+    "print_url": "https://zxpress.ru/print.php?id=9642",
+    "title_link": "От авторов - Восьмой номер не заставил себя долго ждать.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "От_авторов_-_Восьмои_номер_не_заставил_себя_долго_ждать"
+  },
+  {
+    "article_id": 9643,
+    "article_url": "https://zxpress.ru/article.php?id=9643",
+    "print_url": "https://zxpress.ru/print.php?id=9643",
+    "title_link": "Новости - M.O.T сделал нашему музыканту Wolfу компьютер.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Новости_-_MOT_сделал_нашему_музыканту_Wolfу_компьютер"
+  },
+  {
+    "article_id": 9644,
+    "article_url": "https://zxpress.ru/article.php?id=9644",
+    "print_url": "https://zxpress.ru/print.php?id=9644",
+    "title_link": "С вершин - Описание формата файлов *.MOD музыкального редактора Amiga ProTracker.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "С_вершин_-_Описание_формата_фаилов_MOD_музыкального_редактор"
+  },
+  {
+    "article_id": 9645,
+    "article_url": "https://zxpress.ru/article.php?id=9645",
+    "print_url": "https://zxpress.ru/print.php?id=9645",
+    "title_link": "Алгоритмы - вращение в трехмерной системе координат. Матрицы.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Алгоритмы_-_вращение_в_трехмернои_системе_координат_Матрицы"
+  },
+  {
+    "article_id": 9646,
+    "article_url": "https://zxpress.ru/article.php?id=9646",
+    "print_url": "https://zxpress.ru/print.php?id=9646",
+    "title_link": "Галерея - несколько фоток с Consul Party'97.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Галерея_-_несколько_фоток_с_Consul_Party97"
+  },
+  {
+    "article_id": 9647,
+    "article_url": "https://zxpress.ru/article.php?id=9647",
+    "print_url": "https://zxpress.ru/print.php?id=9647",
+    "title_link": "Музыкальная страничка - песня \"Все пройдет\" - Гражданская Оборона.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Музыкальная_страничка_-_песня_Все_проидет_-_Гражданская_Обор"
+  },
+  {
+    "article_id": 9648,
+    "article_url": "https://zxpress.ru/article.php?id=9648",
+    "print_url": "https://zxpress.ru/print.php?id=9648",
+    "title_link": "Эпилог - авторы газеты.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Эпилог_-_авторы_газеты"
+  }
+]

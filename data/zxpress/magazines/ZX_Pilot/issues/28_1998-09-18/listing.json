@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7743,
+    "article_url": "https://zxpress.ru/article.php?id=7743",
+    "print_url": "https://zxpress.ru/print.php?id=7743",
+    "title_link": "Введение - Радостные новости.",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "Введение_-_Радостные_новости"
+  },
+  {
+    "article_id": 7744,
+    "article_url": "https://zxpress.ru/article.php?id=7744",
+    "print_url": "https://zxpress.ru/print.php?id=7744",
+    "title_link": "Наш гость - В гостях группа Laser Software.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "Наш_гость_-_В_гостях_группа_Laser_Software"
+  },
+  {
+    "article_id": 7745,
+    "article_url": "https://zxpress.ru/article.php?id=7745",
+    "print_url": "https://zxpress.ru/print.php?id=7745",
+    "title_link": "О разном - FunTop-98 или как это было на самом деле.",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "О_разном_-_FunTop-98_или_как_это_было_на_самом_деле"
+  },
+  {
+    "article_id": 7746,
+    "article_url": "https://zxpress.ru/article.php?id=7746",
+    "print_url": "https://zxpress.ru/print.php?id=7746",
+    "title_link": "BIRTHDAY - С днем рождения DIV, SNAKE & SPY.",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "BIRTHDAY_-_С_днем_рождения_DIV_SNAKE_SPY"
+  },
+  {
+    "article_id": 7747,
+    "article_url": "https://zxpress.ru/article.php?id=7747",
+    "print_url": "https://zxpress.ru/print.php?id=7747",
+    "title_link": "Розыск - Разыскиваются особо нужные игры: BATTLE COMMAND 128, ART STUD 128, VICTORY ROAD, SCRABBLE, BRUCE LEE, SW,STTY",
+    "order": 5,
+    "issue_label": "28",
+    "short_slug": "Розыск_-_Разыскиваются_особо_нужные_игры_BATTLE_COMMAND_128"
+  },
+  {
+    "article_id": 7748,
+    "article_url": "https://zxpress.ru/article.php?id=7748",
+    "print_url": "https://zxpress.ru/print.php?id=7748",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "28",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

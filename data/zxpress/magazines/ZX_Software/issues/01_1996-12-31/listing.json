@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 11875,
+    "article_url": "https://zxpress.ru/article.php?id=11875",
+    "print_url": "https://zxpress.ru/print.php?id=11875",
+    "title_link": "Игры - секреты игры Bard Tales.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Игры_-_секреты_игры_Bard_Tales"
+  },
+  {
+    "article_id": 11876,
+    "article_url": "https://zxpress.ru/article.php?id=11876",
+    "print_url": "https://zxpress.ru/print.php?id=11876",
+    "title_link": "От авторов - история создания газеты.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_история_создания_газеты"
+  },
+  {
+    "article_id": 140,
+    "article_url": "https://zxpress.ru/article.php?id=140",
+    "print_url": "https://zxpress.ru/print.php?id=140",
+    "title_link": "Открытое письмо - Открытое письмо к редакторам газеты FUCK & LIMETREE.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Открытое_письмо_-_Открытое_письмо_к_редакторам_газеты_FUCK_L"
+  },
+  {
+    "article_id": 18366,
+    "article_url": "https://zxpress.ru/article.php?id=18366",
+    "print_url": "https://zxpress.ru/print.php?id=18366",
+    "title_link": "Письмо №262",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Письмо_No262"
+  },
+  {
+    "article_id": 6732,
+    "article_url": "https://zxpress.ru/article.php?id=6732",
+    "print_url": "https://zxpress.ru/print.php?id=6732",
+    "title_link": "Юмор - анекдоты.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 17316,
+    "article_url": "https://zxpress.ru/article.php?id=17316",
+    "print_url": "https://zxpress.ru/print.php?id=17316",
+    "title_link": "Spectrum gamez - Dracula 3_bloody adventure, Worm Piton, Sea Quest, Xor-2OOO, Hamon IV, Home Iceland Dizzy.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Spectrum_gamez_-_Dracula_3_bloody_adventure_Worm_Piton_Sea_Q"
+  },
+  {
+    "article_id": 5124,
+    "article_url": "https://zxpress.ru/article.php?id=5124",
+    "print_url": "https://zxpress.ru/print.php?id=5124",
+    "title_link": "Письма - Спектрумисты на Могилевщине вымерли как мамонты.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Письма_-_Спектрумисты_на_Могилевщине_вымерли_как_мамонты"
+  }
+]

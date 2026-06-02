@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2001-07-08",
+  "order": 2,
+  "article_id": 9266,
+  "title_link": "Эмуляторы - Укрощение эмулятора ZX Spectrum.",
+  "title_h1": "ACNews 02 - Эмуляторы - Укрощение эмулятора ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=9266",
+  "article_url": "https://zxpress.ru/article.php?id=9266",
+  "fetched_at": "2026-05-31T21:30:08Z"
+}

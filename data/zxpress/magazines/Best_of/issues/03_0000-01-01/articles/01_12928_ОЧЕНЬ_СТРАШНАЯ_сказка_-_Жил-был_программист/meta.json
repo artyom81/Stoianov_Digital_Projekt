@@ -1,0 +1,15 @@
+{
+  "magazine_id": 25,
+  "magazine_name": "Best of",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "0000-01-01",
+  "order": 1,
+  "article_id": 12928,
+  "title_link": "ОЧЕНЬ СТРАШНАЯ сказка! - Жил-был программист...",
+  "title_h1": "Best of 03 - ОЧЕНЬ СТРАШНАЯ сказка! - Жил-был программист...",
+  "print_url": "https://zxpress.ru/print.php?id=12928",
+  "article_url": "https://zxpress.ru/article.php?id=12928",
+  "fetched_at": "2026-05-31T21:38:51Z"
+}

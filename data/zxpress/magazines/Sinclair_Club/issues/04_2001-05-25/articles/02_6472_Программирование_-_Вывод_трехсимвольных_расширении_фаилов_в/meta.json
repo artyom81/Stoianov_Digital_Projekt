@@ -1,0 +1,15 @@
+{
+  "magazine_id": 189,
+  "magazine_name": "Sinclair Club",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "2001-05-25",
+  "order": 2,
+  "article_id": 6472,
+  "title_link": "Программирование - Вывод трехсимвольных расширений файлов в операционной системе TR-DOS.",
+  "title_h1": "Sinclair Club 04 - Программирование - Вывод трехсимвольных расширений файлов в операционной системе TR-DOS.",
+  "print_url": "https://zxpress.ru/print.php?id=6472",
+  "article_url": "https://zxpress.ru/article.php?id=6472",
+  "fetched_at": "2026-05-31T23:01:55Z"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 459,
+    "article_url": "https://zxpress.ru/article.php?id=459",
+    "print_url": "https://zxpress.ru/print.php?id=459",
+    "title_link": "Авторская программа - Описание программы для просмотра файлов в формате \".GRF\".",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Авторская_программа_-_Описание_программы_для_просмотра_фаило"
+  },
+  {
+    "article_id": 462,
+    "article_url": "https://zxpress.ru/article.php?id=462",
+    "print_url": "https://zxpress.ru/print.php?id=462",
+    "title_link": "Игроскоп - Подсказки к играм : \"Hobbit\", \"Звёздное наследие\", \"Extreme\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Игроскоп_-_Подсказки_к_играм_Hobbit_Звездное_наследие_Extrem"
+  },
+  {
+    "article_id": 463,
+    "article_url": "https://zxpress.ru/article.php?id=463",
+    "print_url": "https://zxpress.ru/print.php?id=463",
+    "title_link": "Игроскоп - Подсказки к играм : \"Pegasus\". Рейтинг программ на январь 1996 по городу Челябинску.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Игроскоп_-_Подсказки_к_играм_Pegasus_Реитинг_программ_на_янв"
+  },
+  {
+    "article_id": 461,
+    "article_url": "https://zxpress.ru/article.php?id=461",
+    "print_url": "https://zxpress.ru/print.php?id=461",
+    "title_link": "Музобоз - Описание трех конкурсных работ.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Музобоз_-_Описание_трех_конкурсных_работ"
+  },
+  {
+    "article_id": 465,
+    "article_url": "https://zxpress.ru/article.php?id=465",
+    "print_url": "https://zxpress.ru/print.php?id=465",
+    "title_link": "Мультролик - Первая работа на конкурс мультфильмов.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Мультролик_-_Первая_работа_на_конкурс_мультфильмов"
+  },
+  {
+    "article_id": 464,
+    "article_url": "https://zxpress.ru/article.php?id=464",
+    "print_url": "https://zxpress.ru/print.php?id=464",
+    "title_link": "Наш город - О городе Челябинске.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Наш_город_-_О_городе_Челябинске"
+  },
+  {
+    "article_id": 466,
+    "article_url": "https://zxpress.ru/article.php?id=466",
+    "print_url": "https://zxpress.ru/print.php?id=466",
+    "title_link": "Новелла - Фантастическая новелла по игре \"Laser Squad\" (продолжение).",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Новелла_-_Фантастическая_новелла_по_игре_Laser_Squad_продолж"
+  },
+  {
+    "article_id": 458,
+    "article_url": "https://zxpress.ru/article.php?id=458",
+    "print_url": "https://zxpress.ru/print.php?id=458",
+    "title_link": "От редакции - О новшествах в журнале.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "От_редакции_-_О_новшествах_в_журнале"
+  },
+  {
+    "article_id": 460,
+    "article_url": "https://zxpress.ru/article.php?id=460",
+    "print_url": "https://zxpress.ru/print.php?id=460",
+    "title_link": "Программирование - Программа позволяющая производить смену изображения экрана в режиме 48К в виде вертикальных шторок с синхронным изменением цвета бордюра.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Программирование_-_Программа_позволяющая_производить_смену_и"
+  },
+  {
+    "article_id": 468,
+    "article_url": "https://zxpress.ru/article.php?id=468",
+    "print_url": "https://zxpress.ru/print.php?id=468",
+    "title_link": "Реклама - Реклама ...",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама"
+  },
+  {
+    "article_id": 467,
+    "article_url": "https://zxpress.ru/article.php?id=467",
+    "print_url": "https://zxpress.ru/print.php?id=467",
+    "title_link": "Тусовка - Первые ласточки на конкурс : \"Самый смешной анекдот на компьютерную тему.",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "Тусовка_-_Первые_ласточки_на_конкурс_Самыи_смешнои_анекдот_н"
+  }
+]

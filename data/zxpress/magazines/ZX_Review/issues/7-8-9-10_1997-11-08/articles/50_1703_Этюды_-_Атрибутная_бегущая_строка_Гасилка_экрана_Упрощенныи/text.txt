@@ -1,0 +1,197 @@
+ZX Review 7-8-9-10 - Этюды - Атрибутная бегущая строка. "Гасилка" экрана. Упрощенный вариант процедуры "Занавес". Процедура гащения картинки. Процедура проявления картинки по точкам.
+(c) Смирнов Л., г.Ярославль
+Вам пишет ваш постоянный  чи-
+татель Смирнов Леонид.  Я  читаю
+ваш журнал с 1994 года. Моя  са-
+мая любимая рубрика - Этюды. Хо-
+чу предложить для нее  несколько
+программ.
+   Первая - атрибутная   бегущая
+строка. Она имеет  довольно  не-
+большую длину  (всего  около  90
+байтов),  и  работает   довольно
+быстро. Вот ее листинг:
+140.
+LINE    LD   HL,#5A01
+        LD   DE,#5A00
+        LD   BC,255
+        LDIR
+        LD   HL,FLAG
+        RLC  (HL)
+        JR   NC,L1
+        LD   HL,(TEXT)
+        INC  HL
+        LD   (TEXT),HL
+        LD   A,(HL)
+        OR   A
+        JR   NZ,L3
+INIT    LD   A,1
+        LD   (FLAG),A
+        LD   HL,TXT
+        LD   (TEXT),HL
+        LD   A,(HL)
+L3      LD   L,A
+        LD   H,0
+        ADD  HL,HL
+        ADD  HL,HL
+        ADD  HL,HL
+        LD   DE,(#5C36)
+        ADD  HL,DE
+        LD   DE,BUFF
+        LD   BC,8
+        LDIR
+L1      LD   HL,#5A1F
+        LD   DE,BUFF
+        LD   C,32
+        LD   A,8
+L2      LD   (HL),66  ;цвет фона
+        EX   DE,HL
+        RLC  (HL)
+        EX   DE,HL
+        JR   NC,L4
+        LD   (HL),114 ;цвет букв
+L4      INC  DE
+        ADD  HL,BC
+        DEC  A
+        JR   NZ,L2
+        RET
+
+BUFF    DEFS 8
+FLAG    DEFB 1
+TEXT    DEFW TXT
+
+TXT DEFB "Atribute scroller, "
+    DEFB "Written by Smirnov "
+3    DEFB "Leonid 02.11.1996... "
+    DEFB 0         ;конец текста
+2
+   Процедуру необходимо вызывать
+раз в прерывание, перед  исполь-
+зованием ее необходимо инициали-
+зировать, например:
+CALL INIT
+        RES  5,(IY+1)
+A1      HALT
+        CALL LINE
+        BIT  5,(IY+1)
+        JR   Z,A1
+        RET
+Вторая  программа - это   еще
+одна "гасилка" экрана. При  каж-
+дом проходе по  экрану  значения
+PAPER и INK  уменьшаются  на  1,
+BRIGHT и FLASH не изменяются.
+140.
+3;CLS, (C) Smirnov L.N. 1996
+        LD   B,7
+L1      LD   HL,#5800
+L2      LD   A,(HL)
+        AND  7
+        JR   Z,L3
+        DEC  (HL)
+L3      LD   A,(HL)
+        AND  #38
+        JR   Z,L4
+        LD   A,(HL)
+        SUB  8
+        LD   (HL),A
+L4      INC  HL
+        LD   A,H
+        CP   #5B
+        JR   NZ,L2
+        HALT
+        HALT
+        DJNZ L1
+        RET
+2
+   Следующая   программа - упро-
+щенный  вариант  процедуры  М.Л.
+Плетнева "Занавес" (N1, 1995).
+140.
+        LD   HL,#5800
+        LD   B,24
+L2      LD   C,#20
+L1      LD   (HL),100
+;цвет шторы
+        INC  HL
+        DEC  C
+        JR   NZ,L1
+        HALT
+        DJNZ L2
+        LD   HL,SCREEN
+;адрес картинки
+        LD   DE,#4000
+;кидаем картинку под штору
+        LD   BC,6144
+        LDIR
+        LD   HL,SCREEN+6911
+;последний байт атрибутов
+        LD   DE,#5AFF
+        LD   B,24
+L3      PUSH BC
+        LD   BC,#20
+        LDDR
+        POP  BC
+        HALT
+        DJNZ L3
+        RET
+2
+   Следующие две процедуры я вы-
+тащил из игры P.Tennis c помощью
+теневого монитора моего  Scorpi-
+on'а. Первая  предназначена  для
+гашения, а вторая - для проявле-
+ния картинки по точкам.
+140.
+        LD   B,#FA
+        LD   C,#FE
+        LD   HL,#4000
+        LD   DE,#1D
+L1      LD   A,(HL)
+        AND  C
+        LD   (HL),A
+        ADD  HL,DE
+        LD   A,H
+        CP   #58
+        JR   C,L1
+        SUB  #18
+        LD   H,A
+        RLC  C
+        DJNZ L1
+        RET
+
+        LD   HL,SCREEN
+        PUSH HL
+        LD   B,#FA
+        LD   C,1
+        LD   HL,#4000
+        LD   DE,#1D
+        PUSH DE
+        EXX
+        POP  DE
+        POP  HL
+        EXX
+L2      EXX
+        LD   A,(HL)
+        ADD  HL,DE
+        EXX
+        AND  C
+        RLC  C
+        OR   (HL)
+        LD   (HL),A
+        ADD  HL,DE
+        LD   A,H
+        CP   #58
+        JR   C,L2
+        SUB  #18
+        LD   H,A
+        EXX
+        LD   A,H
+        SUB  #18
+        LD   H,A
+        EXX
+        RLC  C
+        DJNZ L2
+        RET
+2
+           *   *   *

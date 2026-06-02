@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "35",
+  "issue_date_iso": "1999-12-04",
+  "order": 1,
+  "article_id": 10521,
+  "title_link": "От редакции - я получил два письма от VEL'а/PXM и по одному от Hardy/FLASH и Nemo.",
+  "title_h1": "City 35 - От редакции - я получил два письма от VEL&#039;а/PXM и по одному от Hardy/FLASH и Nemo.",
+  "print_url": "https://zxpress.ru/print.php?id=10521",
+  "article_url": "https://zxpress.ru/article.php?id=10521",
+  "fetched_at": "2026-05-31T21:51:29Z"
+}

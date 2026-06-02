@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16689,
+    "article_url": "https://zxpress.ru/article.php?id=16689",
+    "print_url": "https://zxpress.ru/print.php?id=16689",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16690,
+    "article_url": "https://zxpress.ru/article.php?id=16690",
+    "print_url": "https://zxpress.ru/print.php?id=16690",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16691,
+    "article_url": "https://zxpress.ru/article.php?id=16691",
+    "print_url": "https://zxpress.ru/print.php?id=16691",
+    "title_link": "Юмор - That is true.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Юмор_-_That_is_true"
+  },
+  {
+    "article_id": 16692,
+    "article_url": "https://zxpress.ru/article.php?id=16692",
+    "print_url": "https://zxpress.ru/print.php?id=16692",
+    "title_link": "SOS...SOS...SOS... - В случае выхода вашего компьютера из строя, вы всегда можете обратится за помощью к мастеру. Но часто бывает, что мастера, которому можно доверить своё сокровище не всегда можно найти.",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "SOSSOSSOS_-_В_случае_выхода_вашего_компьютера_из_строя_вы_вс"
+  },
+  {
+    "article_id": 16693,
+    "article_url": "https://zxpress.ru/article.php?id=16693",
+    "print_url": "https://zxpress.ru/print.php?id=16693",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "25",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16694,
+    "article_url": "https://zxpress.ru/article.php?id=16694",
+    "print_url": "https://zxpress.ru/print.php?id=16694",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "25",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

@@ -1,0 +1,93 @@
+Subliminal Extacy 03 - Cheat&#039;s Guide To TR-DOS Cracking: An Incomprehensible Techy
+Cheat's Guide To TR-DOS Cracking: An Incomprehensible Techy
+                     Article By Gasman / RA
+
+There's  a heated  debate going  on elsewhere  in this  magazine
+about using custom loading routines on TR-DOS demos, and I don't
+propose to continue it here.  Clearly it *would* be nice  if all
+demo coders were to supply their releases in both  speed-loading
+custom  TR-DOS  versions  and  portable  BASIC-loader  versions.
+Whether or not that happens  in the near future, we'll  still be
+left with  a backlog  of old  demos which  only exist  in TR-DOS
+form.
+
+To deal with this, we'd have  to learn about every trick in  the
+TR-DOS system,  and then  disassemble the  loader to  each demo,
+extracting each code block and rewriting the loader in BASIC.
+
+Or we can cheat.
+
+To begin with,  here's a list  of the things  you need -  or the
+things I  use, anyway.  Some demos in TRD  format, R80  emulator
+WinZ80 (the unregistered shareware version will probably do) Z80
+Bintap by Lee 'Blood' Tonks. There may well be a simpler  method
+to  do all  this which   doesn't involve  hopping between  three
+different emulators.  I just  happen to  like the  debugger that
+comes with WinZ80, that's all.
+
+Okay then. What we're essentially  looking for is a copy  of the
+demo stored after all the  code has been loaded, but  before the
+demo itself has started. By the way, this method only works  for
+demos  that load  in one  go -  multiloads will  need a  bit of
+fiddling with the loader, and I'd rather not go into that until,
+er, I've tried it myself.
+
+To work out where the  demo starts, you just guess.  Programmers
+like nice round numbers, so it almost certainly starts at  24576
+(#6000),  25000 (#61A8),  26000 (#6590),  32768 (#8000),  or if
+you're  unlucky,  23296  (#5B00), which  is  probably  the least
+helpful place in  the entire memory.  So, start up  R80, and use
+the  built-in monitor  to  bung  in a  few breakpoints  at those
+addresses. Then load the demo  from the TRD file, and  hopefully
+it will stop at one  of the breakpoints. However, at  this point
+you don't know whether all the code has finished loading, so you
+need  to  check by  making  a snapshot,  and  loading this  into
+another emulator, such  as WinZ80. If  the demo runs  OK, you've
+found the right place. If not,  go back to R80 and try  the next
+breakpoint that comes up.
+
+A little note at this point: R80 doesn't let you save  snapshots
+from within  the monitor.  You can  get around  this as follows:
+Let's say the demo has  stopped at address #6000. Note  down the
+first few assembler instructions at this point, and then go into
+the memory editor section and  edit the code at #6000  to become
+the hex codes  18FE. This happens  to be a  'JR -2' instruction,
+which is our old friend, the infinite loop. Now, you can  return
+to the emulator with the  program safely stopped in its  tracks,
+and  make  the snapshot.  Load  this into  WinZ80,  and use  the
+debugger to put the code back to how it was before (y'know,  the
+bit that you wrote down).
+
+So, now you should have a snapshot that works in WinZ80. Now for
+the boring bit!  Flick through the  memory noting down  the bits
+that contain data. There's bound to be some un-necessary  stuff,
+such as the code from the loader, so try deleting likely looking
+bits (a good way is to type 'asm nop' into the debugger and hold
+down enter until you've overwritten what you want) and seeing if
+it still runs. Yep, that means  lots of trial and error. And  to
+make matters worse, bear in mind that if it's a 128K demo -  and
+what isn't nowadays? - you have to trawl through all the  memory
+pages too. To get  at the extra pages,  you'll need to put  in a
+bit  of  code at  #6000  (or wherever):  LD  BC,#7FFD LD  A,page
+;(this is a page  number, from #10 to  #17) OUT (C),A For  every
+page that contains some data,  make a snapshot - you'll  need it
+in a minute. While you're at  it, make a note of which  page was
+there to begin with.
+
+The next step is to save out the individual blocks of data  that
+you've found. There doesn't seem to be an easy way of doing this
+in WinZ80, so it's  time to move to  yet another emulator -  Z80
+(the DOS version). If you load  a snapshot by typing F10 then  L
+(rather than  F3), you'll  get back  to the  Z80 main menu, from
+which you can press X,  then save the required blocks  of memory
+to disc. Now you've got the raw data blocks, so run them through
+Bintap to turn them into lovely TAP files.
+
+And that's it... sort  of! If you load  all the blocks into  the
+right place, then RANDOMIZE USR 'start' , the demo should  work.
+Of course,  it's a  bit silly  to keep  it as  ten zillion small
+blocks, so  if you  want to  do the  job properly, you'll bundle
+them all together with a decent compressor, and a bit of code to
+move things into the right place. But that's another story...
+
+gasman

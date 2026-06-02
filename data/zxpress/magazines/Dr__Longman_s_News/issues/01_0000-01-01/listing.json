@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9701,
+    "article_url": "https://zxpress.ru/article.php?id=9701",
+    "print_url": "https://zxpress.ru/print.php?id=9701",
+    "title_link": "Оглавление - содержание номера.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Оглавление_-_содержание_номера"
+  },
+  {
+    "article_id": 9702,
+    "article_url": "https://zxpress.ru/article.php?id=9702",
+    "print_url": "https://zxpress.ru/print.php?id=9702",
+    "title_link": "Игры - как написать компьютерную игру (продолжение).",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Игры_-_как_написать_компьютерную_игру_продолжение"
+  },
+  {
+    "article_id": 9703,
+    "article_url": "https://zxpress.ru/article.php?id=9703",
+    "print_url": "https://zxpress.ru/print.php?id=9703",
+    "title_link": "Отдых - Советы первокурснику: варианты конспектирования скучных лекций.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Отдых_-_Советы_первокурснику_варианты_конспектирования_скучн"
+  }
+]

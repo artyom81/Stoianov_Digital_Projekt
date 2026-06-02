@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "22",
+  "issue_date_iso": "2003-08-20",
+  "order": 3,
+  "article_id": 9938,
+  "title_link": "Docs - текстовый редактор AcEditor превратился в набор \"Сделай Сам\".",
+  "title_h1": "ACNews 22 - Docs - текстовый редактор AcEditor превратился в набор \"Сделай Сам\".",
+  "print_url": "https://zxpress.ru/print.php?id=9938",
+  "article_url": "https://zxpress.ru/article.php?id=9938",
+  "fetched_at": "2026-05-31T21:30:44Z"
+}

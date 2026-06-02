@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 5,
+    "article_url": "https://zxpress.ru/article.php?id=5",
+    "print_url": "https://zxpress.ru/print.php?id=5",
+    "title_link": "B.B.S. новости - Открылись новые серверы LOST BIT & R'S BBS.",
+    "order": 1,
+    "issue_label": "85",
+    "short_slug": "BBS_новости_-_Открылись_новые_серверы_LOST_BIT_RS_BBS"
+  },
+  {
+    "article_id": 2506,
+    "article_url": "https://zxpress.ru/article.php?id=2506",
+    "print_url": "https://zxpress.ru/print.php?id=2506",
+    "title_link": "Enlight'97 - Предварительная информация о проведении кокурса Enlight.\r\n Общие правила для всех конкурсов на всех платформах.",
+    "order": 2,
+    "issue_label": "85",
+    "short_slug": "Enlight97_-_Предварительная_информация_о_проведении_кокурса"
+  },
+  {
+    "article_id": 2503,
+    "article_url": "https://zxpress.ru/article.php?id=2503",
+    "print_url": "https://zxpress.ru/print.php?id=2503",
+    "title_link": "Мозаика - Модемная сеть в Минске.",
+    "order": 3,
+    "issue_label": "85",
+    "short_slug": "Мозаика_-_Модемная_сеть_в_Минске"
+  },
+  {
+    "article_id": 2504,
+    "article_url": "https://zxpress.ru/article.php?id=2504",
+    "print_url": "https://zxpress.ru/print.php?id=2504",
+    "title_link": "Мозаика - О глюках в игре Virus-2.",
+    "order": 4,
+    "issue_label": "85",
+    "short_slug": "Мозаика_-_О_глюках_в_игре_Virus-2"
+  },
+  {
+    "article_id": 2502,
+    "article_url": "https://zxpress.ru/article.php?id=2502",
+    "print_url": "https://zxpress.ru/print.php?id=2502",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "85",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2505,
+    "article_url": "https://zxpress.ru/article.php?id=2505",
+    "print_url": "https://zxpress.ru/print.php?id=2505",
+    "title_link": "Чемпионат VIRUS II - Результаты финального сражения вирусов.",
+    "order": 6,
+    "issue_label": "85",
+    "short_slug": "Чемпионат_VIRUS_II_-_Результаты_финального_сражения_вирусов"
+  }
+]

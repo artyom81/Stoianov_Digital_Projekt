@@ -1,0 +1,15 @@
+{
+  "magazine_id": 270,
+  "magazine_name": "ZX News",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-11-30",
+  "order": 10,
+  "article_id": 9213,
+  "title_link": "Screen Editor - пакет программ Screen Editor для создания экранов к играм.",
+  "title_h1": "ZX News 02 - Screen Editor - пакет программ Screen Editor для создания экранов к играм.",
+  "print_url": "https://zxpress.ru/print.php?id=9213",
+  "article_url": "https://zxpress.ru/article.php?id=9213",
+  "fetched_at": "2026-05-31T23:30:51Z"
+}

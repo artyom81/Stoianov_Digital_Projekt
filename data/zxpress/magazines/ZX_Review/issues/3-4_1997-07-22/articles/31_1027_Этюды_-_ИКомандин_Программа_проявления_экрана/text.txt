@@ -1,0 +1,176 @@
+ZX Review 3-4 - Этюды - И.Командин. Программа проявления экрана.
+(c) Командин Илья (ZX-MANIACS),
+г. Калуга.
+Хочу   предложить   программу
+проявления экрана  вертикальными
+столбцами  в  хаотичном  порядке
+(картинка должна  быть  помещена
+по адресу BUFF).
+1410.
+; (C) ZX-MANIACS'1996
+; SPECIAL FOR INFORCOM
+          ORG     40000
+          ENT
+BUFF      EQU     41000
+          LD      HL,TABL
+          LD      DE,TABL+1
+          LD      BC,255
+          LD      (HL),0
+          LDIR
+          XOR     A
+          LD      (COUNT),A
+          LD      HL,BUFF
+          LD      DE,#4000
+          SBC     HL,DE
+          LD      (DIFF),HL
+          LD      HL,8000
+NEXT      PUSH    HL
+          LD      C,(HL)
+          LD      A,R
+          AND     63
+          XOR     C
+          LD      C,A
+          LD      H,0
+          LD      L,A
+          LD      DE,TABL
+          ADD     HL,DE
+          LD      A,(HL)
+          OR      A
+          JR      NZ,CONT2
+          LD      (HL),1
+          LD      A.(COUNT)
+          INC     A
+          LD      (COUNT),A
+          XOR     A
+          CALL    8880
+          ADD     A,A
+          ADD     A,A
+          ADD     A,A
+          ADD     A,70
+          LD      (BITP),A
+          ADD     A,64
+          LD      (RESP),A
+          LD      (SETP),A
+          LD      B,192
+LOOP      LD      DE,(DIFF)
+          ADD     HL,DE
+          DEFB    #CB
+BITP      NOP
+          PUSH    AF
+          SBC     HL,DE
+          POP     AF
+          JR      Z,CONT
+          DEFB    #CB
+SETP      NOP
+          JR      CONT1
+CONT      DEFB    #CB
+RESP      NOP
+CONT1     CALL    DOWN
+          DJNZ    LOOP
+CONT2     POP     HL
+          DEC     HL
+          LD      A,(CONT)
+          CP      #FF
+          JR      NZ,NEXT
+          LD      HL,BUFF
+          LD      DE,#4000
+          LD      BC,6912
+          LDIR
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+DIFF      DEFW    0
+COUNT     DEFB    0
+TABL      DEFS    256
+2
+Заодно предлагаю и  упрощенный
+вариант этой же процедуры.  Зри-
+тельный эффект  от  нее  не  так
+приятен, но зато  длина  намного
+меньше (не нужна таблица).
+1410.
+; (C) ZX-MANIACS'1996
+; SPECIAL FOR INFORCOM
+          ORG     40000
+          ENT
+BUFF      EQU     41000
+          LD      HL,BUFF
+          LD      DE,#4000
+          SBC     HL,DE
+          LD      (DIFF),HL
+          LD      HL,800
+NEXT      PUSH    HL
+          LD      C,(HL)
+          LD      A,R
+          AND     63
+          XOR     C
+          LD      C,A
+          XOR     A
+          CALL    8880
+          ADD     A,A
+          ADD     A,A
+          ADD     A,A
+          ADD     A,70
+          LD      (BITP),A
+          ADD     A,64
+          LD      (RESP),A
+          LD      (SETP),A
+          LD      B,192
+LOOP      LD      DE,(DIFF)
+          ADD     HL,DE
+          DEFB    #CB
+BITP      NOP
+          PUSH    AF
+          SBC     HL,DE
+          POP     AF
+          JR      Z,CONT
+          DEFB    #CB
+SETP      NOP
+          JR      CONT1
+CONT      DEFB    #CB
+RESP      NOP
+CONT1     CALL    DOWN
+          DJNZ    LOOP
+CONT2     POP     HL
+          DEC     HL
+          LD      A,H
+          OR      L
+          JR      NZ,NEXT
+          LD      HL,BUFF
+          LD      DE,#4000
+          LD      BC,6912
+          LDIR
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+DIFF      DEFW    0
+2
+В обеих программах использует-
+ся процедура DOWN Павла Старкова
+из Красноярска и Эдуарда К., Ан-
+дрея Власова  из Ростова-на-Дону
+(ZX-РЕВЮ 95/4, стр. 46). Я наме-
+ренно  не  стал  раскрывать под-
+программу  и вынес ее  отдельным
+модулем, чтобы  показать ее при-
+надлежность другим авторам.

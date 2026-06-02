@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 6301,
+    "article_url": "https://zxpress.ru/article.php?id=6301",
+    "print_url": "https://zxpress.ru/print.php?id=6301",
+    "title_link": "От редакции - О регулярности выхода газеты.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "От_редакции_-_О_регулярности_выхода_газеты"
+  },
+  {
+    "article_id": 6302,
+    "article_url": "https://zxpress.ru/article.php?id=6302",
+    "print_url": "https://zxpress.ru/print.php?id=6302",
+    "title_link": "О сетях - Может договоримся ? Зачем нужна внешняя почта ?",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "О_сетях_-_Может_договоримся_Зачем_нужна_внешняя_почта"
+  },
+  {
+    "article_id": 6303,
+    "article_url": "https://zxpress.ru/article.php?id=6303",
+    "print_url": "https://zxpress.ru/print.php?id=6303",
+    "title_link": "Обзор - Сенсация! DOOM на Спектруме!.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Обзор_-_Сенсация_DOOM_на_Спектруме"
+  },
+  {
+    "article_id": 6304,
+    "article_url": "https://zxpress.ru/article.php?id=6304",
+    "print_url": "https://zxpress.ru/print.php?id=6304",
+    "title_link": "Алгоритм - Об адресации спектрумовского экрана.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Алгоритм_-_Об_адресации_спектрумовского_экрана"
+  },
+  {
+    "article_id": 6305,
+    "article_url": "https://zxpress.ru/article.php?id=6305",
+    "print_url": "https://zxpress.ru/print.php?id=6305",
+    "title_link": "Алгоритм - Один полезный трюк с ^ (алгоритм круга).",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Алгоритм_-_Один_полезныи_трюк_с_алгоритм_круга"
+  },
+  {
+    "article_id": 6306,
+    "article_url": "https://zxpress.ru/article.php?id=6306",
+    "print_url": "https://zxpress.ru/print.php?id=6306",
+    "title_link": "Мозаика - Где они? Что стало с людьми, писавших фирменные игры для Спектрума.",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Мозаика_-_Где_они_Что_стало_с_людьми_писавших_фирменные_игры"
+  },
+  {
+    "article_id": 6307,
+    "article_url": "https://zxpress.ru/article.php?id=6307",
+    "print_url": "https://zxpress.ru/print.php?id=6307",
+    "title_link": "Письмо - Письмо от Максима Голикова (DarkMax).",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Письмо_-_Письмо_от_Максима_Голикова_DarkMax"
+  },
+  {
+    "article_id": 6308,
+    "article_url": "https://zxpress.ru/article.php?id=6308",
+    "print_url": "https://zxpress.ru/print.php?id=6308",
+    "title_link": "Правда о хакерах - Как она есть. Кто такие хаккеры.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Правда_о_хакерах_-_Как_она_есть_Кто_такие_хаккеры"
+  },
+  {
+    "article_id": 6309,
+    "article_url": "https://zxpress.ru/article.php?id=6309",
+    "print_url": "https://zxpress.ru/print.php?id=6309",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9957,
+    "article_url": "https://zxpress.ru/article.php?id=9957",
+    "print_url": "https://zxpress.ru/print.php?id=9957",
+    "title_link": "News - John сломал первый принтер и купил второй.",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "News_-_John_сломал_первыи_принтер_и_купил_второи"
+  },
+  {
+    "article_id": 9958,
+    "article_url": "https://zxpress.ru/article.php?id=9958",
+    "print_url": "https://zxpress.ru/print.php?id=9958",
+    "title_link": "Music - Откуда взять ритм? Alone Coder рассказвает о способах генерации ритма.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "Music_-_Откуда_взять_ритм_Alone_Coder_рассказвает_о_способах"
+  },
+  {
+    "article_id": 9959,
+    "article_url": "https://zxpress.ru/article.php?id=9959",
+    "print_url": "https://zxpress.ru/print.php?id=9959",
+    "title_link": "Непонятка - список программ написанных рязанской группой Invaders 8.",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "Непонятка_-_список_программ_написанных_рязанскои_группои_Inv"
+  },
+  {
+    "article_id": 9960,
+    "article_url": "https://zxpress.ru/article.php?id=9960",
+    "print_url": "https://zxpress.ru/print.php?id=9960",
+    "title_link": "Contacts - Список Заслуженных Неиспользователей AC Edit.",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "Contacts_-_Список_Заслуженных_Неиспользователеи_AC_Edit"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 17638,
+    "article_url": "https://zxpress.ru/article.php?id=17638",
+    "print_url": "https://zxpress.ru/print.php?id=17638",
+    "title_link": "Введение - Здравствуй, дорогой читатель научно-популярной газеты.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Введение_-_Здравствуи_дорогои_читатель_научно-популярнои_газ"
+  },
+  {
+    "article_id": 17639,
+    "article_url": "https://zxpress.ru/article.php?id=17639",
+    "print_url": "https://zxpress.ru/print.php?id=17639",
+    "title_link": "О нашей кульной платформе - Речь пойдет об устройстве и работе NES.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "О_нашеи_кульнои_платформе_-_Речь_поидет_об_устроистве_и_рабо"
+  },
+  {
+    "article_id": 17640,
+    "article_url": "https://zxpress.ru/article.php?id=17640",
+    "print_url": "https://zxpress.ru/print.php?id=17640",
+    "title_link": "Выставка-распродажа - 9 ноября 2003 года в городе Ижевске проходила выставка-распродажа нововведённых производственных технологий.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Выставка-распродажа_-_9_ноября_2003_года_в_городе_Ижевске_пр"
+  },
+  {
+    "article_id": 17641,
+    "article_url": "https://zxpress.ru/article.php?id=17641",
+    "print_url": "https://zxpress.ru/print.php?id=17641",
+    "title_link": "Гелиотехника - Солнечная энергетика является наиболее перспективной в своём развитии.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Гелиотехника_-_Солнечная_энергетика_является_наиболее_перспе"
+  },
+  {
+    "article_id": 17642,
+    "article_url": "https://zxpress.ru/article.php?id=17642",
+    "print_url": "https://zxpress.ru/print.php?id=17642",
+    "title_link": "Теплотехника - Представляемый вашему вниманию котёл является улучшенной моделью вертикальных котлов.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Теплотехника_-_Представляемыи_вашему_вниманию_котел_является"
+  },
+  {
+    "article_id": 8284,
+    "article_url": "https://zxpress.ru/article.php?id=8284",
+    "print_url": "https://zxpress.ru/print.php?id=8284",
+    "title_link": "Модем - О проблеме при подключении модемов к машинам с раздельными полями памяти.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Модем_-_О_проблеме_при_подключении_модемов_к_машинам_с_разде"
+  },
+  {
+    "article_id": 13091,
+    "article_url": "https://zxpress.ru/article.php?id=13091",
+    "print_url": "https://zxpress.ru/print.php?id=13091",
+    "title_link": "От авторов - Hеужели я снова за спектpумом? ;-)",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_Hеужели_я_снова_за_спектpумом_-"
+  },
+  {
+    "article_id": 7205,
+    "article_url": "https://zxpress.ru/article.php?id=7205",
+    "print_url": "https://zxpress.ru/print.php?id=7205",
+    "title_link": "Вступление - содержание номера.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 16435,
+    "article_url": "https://zxpress.ru/article.php?id=16435",
+    "print_url": "https://zxpress.ru/print.php?id=16435",
+    "title_link": "ЗЫPКАЛO - by Jam (6-9).",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "ЗЫPКАЛO_-_by_Jam_6-9"
+  },
+  {
+    "article_id": 4725,
+    "article_url": "https://zxpress.ru/article.php?id=4725",
+    "print_url": "https://zxpress.ru/print.php?id=4725",
+    "title_link": "Мастерская - новый раздел специально для тех, кто любит рисовать. \r\nРаздел о художниках и для художников. Представлено несколько работ.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Мастерская_-_новыи_раздел_специально_для_тех_кто_любит_рисов"
+  }
+]

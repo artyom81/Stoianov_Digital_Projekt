@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-11-10",
+  "order": 15,
+  "article_id": 15512,
+  "title_link": "Новости - Новость всего одна, но зато какая !!!",
+  "title_h1": "MSF 19 - Новости - Новость всего одна, но зато какая !!!",
+  "print_url": "https://zxpress.ru/print.php?id=15512",
+  "article_url": "https://zxpress.ru/article.php?id=15512",
+  "fetched_at": "2026-05-31T22:28:41Z"
+}

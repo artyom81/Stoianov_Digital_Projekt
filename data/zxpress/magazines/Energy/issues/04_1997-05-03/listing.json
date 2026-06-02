@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 3875,
+    "article_url": "https://zxpress.ru/article.php?id=3875",
+    "print_url": "https://zxpress.ru/print.php?id=3875",
+    "title_link": "BBS - Список работающих BBS в Минске.\r\n Какой модем лучше HAYES или C-DOS.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "BBS_-_Список_работающих_BBS_в_Минске_Какои_модем_лучше_HAYES"
+  },
+  {
+    "article_id": 3867,
+    "article_url": "https://zxpress.ru/article.php?id=3867",
+    "print_url": "https://zxpress.ru/print.php?id=3867",
+    "title_link": "FANTASY - Роман Г.Гаррисона \"Чума из космоса\" (глава 1).",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "FANTASY_-_Роман_ГГаррисона_Чума_из_космоса_глава_1"
+  },
+  {
+    "article_id": 3870,
+    "article_url": "https://zxpress.ru/article.php?id=3870",
+    "print_url": "https://zxpress.ru/print.php?id=3870",
+    "title_link": "HORROR - Кукурузные дети.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "HORROR_-_Кукурузные_дети"
+  },
+  {
+    "article_id": 3874,
+    "article_url": "https://zxpress.ru/article.php?id=3874",
+    "print_url": "https://zxpress.ru/print.php?id=3874",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3869,
+    "article_url": "https://zxpress.ru/article.php?id=3869",
+    "print_url": "https://zxpress.ru/print.php?id=3869",
+    "title_link": "Анекдот - 3 анекдота.\r\n Смешилки - страшилки (4).",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Анекдот_-_3_анекдота_Смешилки_-_страшилки_4"
+  },
+  {
+    "article_id": 3868,
+    "article_url": "https://zxpress.ru/article.php?id=3868",
+    "print_url": "https://zxpress.ru/print.php?id=3868",
+    "title_link": "Байки из склепа-2 - LORD of CHAOS (глава 4-8)",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Баики_из_склепа-2_-_LORD_of_CHAOS_глава_4-8"
+  },
+  {
+    "article_id": 3876,
+    "article_url": "https://zxpress.ru/article.php?id=3876",
+    "print_url": "https://zxpress.ru/print.php?id=3876",
+    "title_link": "Записки - Дневник одного мальчика.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Записки_-_Дневник_одного_мальчика"
+  },
+  {
+    "article_id": 3872,
+    "article_url": "https://zxpress.ru/article.php?id=3872",
+    "print_url": "https://zxpress.ru/print.php?id=3872",
+    "title_link": "Металлургия - О схеме Azure Sound Drive v8.6.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Металлургия_-_О_схеме_Azure_Sound_Drive_v86"
+  },
+  {
+    "article_id": 3871,
+    "article_url": "https://zxpress.ru/article.php?id=3871",
+    "print_url": "https://zxpress.ru/print.php?id=3871",
+    "title_link": "Оптимизация - Оптимизация процедур.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Оптимизация_-_Оптимизация_процедур"
+  },
+  {
+    "article_id": 3878,
+    "article_url": "https://zxpress.ru/article.php?id=3878",
+    "print_url": "https://zxpress.ru/print.php?id=3878",
+    "title_link": "Сказание Барда - Мини help к BARDS TALE. Создание персонажей. Выбор амплуа.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Сказание_Барда_-_Мини_help_к_BARDS_TALE_Создание_персонажеи"
+  },
+  {
+    "article_id": 3873,
+    "article_url": "https://zxpress.ru/article.php?id=3873",
+    "print_url": "https://zxpress.ru/print.php?id=3873",
+    "title_link": "Сказочка - Падал прошлогодний снег.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Сказочка_-_Падал_прошлогоднии_снег"
+  },
+  {
+    "article_id": 3877,
+    "article_url": "https://zxpress.ru/article.php?id=3877",
+    "print_url": "https://zxpress.ru/print.php?id=3877",
+    "title_link": "Тест - Комплексное тестирование по школьным предметам.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "Тест_-_Комплексное_тестирование_по_школьным_предметам"
+  }
+]

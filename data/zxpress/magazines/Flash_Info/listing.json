@@ -1,0 +1,99 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1997-05-24",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1997-05-31",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1997-06-07",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1997-08-14",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "1997-06-01",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "1997-06-29",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "07",
+      "issue_date_iso": "1997-07-05",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "08",
+      "issue_date_iso": "1997-07-12",
+      "articles_count": 3
+    },
+    {
+      "issue_label": "09",
+      "issue_date_iso": "1997-07-19",
+      "articles_count": 3
+    },
+    {
+      "issue_label": "10",
+      "issue_date_iso": "1997-07-26",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "11",
+      "issue_date_iso": "1997-08-02",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "12",
+      "issue_date_iso": "1997-09-27",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "14",
+      "issue_date_iso": "1998-01-09",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "15",
+      "issue_date_iso": "1998-05-24",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "16",
+      "issue_date_iso": "1998-06-10",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "17",
+      "issue_date_iso": "1998-08-12",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "18",
+      "issue_date_iso": "1998-12-31",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "19",
+      "issue_date_iso": "1999-11-27",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "20",
+      "issue_date_iso": "2001-07-20",
+      "articles_count": 8
+    }
+  ]
+}

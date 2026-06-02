@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 95,
+    "article_url": "https://zxpress.ru/article.php?id=95",
+    "print_url": "https://zxpress.ru/print.php?id=95",
+    "title_link": "Вступление - С каждым днем, нашего спектрумовского брата все меньше\r\nи меньше становиться.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "Вступление_-_С_каждым_днем_нашего_спектрумовского_брата_все"
+  },
+  {
+    "article_id": 10618,
+    "article_url": "https://zxpress.ru/article.php?id=10618",
+    "print_url": "https://zxpress.ru/print.php?id=10618",
+    "title_link": "Новости с полей СинклерКлуба - Ура! Оле-оле! Хай-гай-ай-яй!!! А у нас опять интернет заработал.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Новости_с_полеи_СинклерКлуба_-_Ура_Оле-оле_Хаи-гаи-аи-яи_А_у"
+  },
+  {
+    "article_id": 10619,
+    "article_url": "https://zxpress.ru/article.php?id=10619",
+    "print_url": "https://zxpress.ru/print.php?id=10619",
+    "title_link": "Юмор - Анекдоты, приколы, афоризмы...",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Юмор_-_Анекдоты_приколы_афоризмы"
+  },
+  {
+    "article_id": 10620,
+    "article_url": "https://zxpress.ru/article.php?id=10620",
+    "print_url": "https://zxpress.ru/print.php?id=10620",
+    "title_link": "Посиделки - \"Какой он у вас национальности?\".",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Посиделки_-_Какои_он_у_вас_национальности"
+  },
+  {
+    "article_id": 10621,
+    "article_url": "https://zxpress.ru/article.php?id=10621",
+    "print_url": "https://zxpress.ru/print.php?id=10621",
+    "title_link": "Internet - \"Почем халява для народа?\" - как халявно скачать, что-то\r\nс Интернета.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Internet_-_Почем_халява_для_народа_-_как_халявно_скачать_что"
+  },
+  {
+    "article_id": 10622,
+    "article_url": "https://zxpress.ru/article.php?id=10622",
+    "print_url": "https://zxpress.ru/print.php?id=10622",
+    "title_link": "Хит - Нефтекамский хи-хи-хит-поп парад!",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "Хит_-_Нефтекамскии_хи-хи-хит-поп_парад"
+  }
+]

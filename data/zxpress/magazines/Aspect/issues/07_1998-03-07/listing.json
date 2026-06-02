@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 2606,
+    "article_url": "https://zxpress.ru/article.php?id=2606",
+    "print_url": "https://zxpress.ru/print.php?id=2606",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2601,
+    "article_url": "https://zxpress.ru/article.php?id=2601",
+    "print_url": "https://zxpress.ru/print.php?id=2601",
+    "title_link": "Доработки Sorpa - Индикатор для сигнализации драйвера дисковода.\r\n Тумблер для переключения дисководов.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Доработки_Sorpa_-_Индикатор_для_сигнализации_драивера_дисков"
+  },
+  {
+    "article_id": 2598,
+    "article_url": "https://zxpress.ru/article.php?id=2598",
+    "print_url": "https://zxpress.ru/print.php?id=2598",
+    "title_link": "Конкурс - Конкурс на лучшую эмблему/логотип для FunTop'98.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Конкурс_-_Конкурс_на_лучшую_эмблемулоготип_для_FunTop98"
+  },
+  {
+    "article_id": 2600,
+    "article_url": "https://zxpress.ru/article.php?id=2600",
+    "print_url": "https://zxpress.ru/print.php?id=2600",
+    "title_link": "Начнем с азов - Электрическая сеть и закон Ома.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Начнем_с_азов_-_Электрическая_сеть_и_закон_Ома"
+  },
+  {
+    "article_id": 2604,
+    "article_url": "https://zxpress.ru/article.php?id=2604",
+    "print_url": "https://zxpress.ru/print.php?id=2604",
+    "title_link": "Новинка - О новинках ПО: игра Margo.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Новинка_-_О_новинках_ПО_игра_Margo"
+  },
+  {
+    "article_id": 2597,
+    "article_url": "https://zxpress.ru/article.php?id=2597",
+    "print_url": "https://zxpress.ru/print.php?id=2597",
+    "title_link": "Новости - Закрытие гейта SPbZXNet Internet. Новая модемная газета SPbZXWeek.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Новости_-_Закрытие_геита_SPbZXNet_Internet_Новая_модемная_га"
+  },
+  {
+    "article_id": 2595,
+    "article_url": "https://zxpress.ru/article.php?id=2595",
+    "print_url": "https://zxpress.ru/print.php?id=2595",
+    "title_link": "От авторов - Целый месяц ни слуху, ни духу...",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Целыи_месяц_ни_слуху_ни_духу"
+  },
+  {
+    "article_id": 2602,
+    "article_url": "https://zxpress.ru/article.php?id=2602",
+    "print_url": "https://zxpress.ru/print.php?id=2602",
+    "title_link": "Праздник - С весной вас, люди!!!",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Праздник_-_С_веснои_вас_люди"
+  },
+  {
+    "article_id": 2596,
+    "article_url": "https://zxpress.ru/article.php?id=2596",
+    "print_url": "https://zxpress.ru/print.php?id=2596",
+    "title_link": "Про Life - Компьютер - мужчина хороший...",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Про_Life_-_Компьютер_-_мужчина_хорошии"
+  },
+  {
+    "article_id": 2603,
+    "article_url": "https://zxpress.ru/article.php?id=2603",
+    "print_url": "https://zxpress.ru/print.php?id=2603",
+    "title_link": "Программирование - Стрелочка.",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Программирование_-_Стрелочка"
+  },
+  {
+    "article_id": 2605,
+    "article_url": "https://zxpress.ru/article.php?id=2605",
+    "print_url": "https://zxpress.ru/print.php?id=2605",
+    "title_link": "Хит-парад - 10-ка лучших игр.",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Хит-парад_-_10-ка_лучших_игр"
+  },
+  {
+    "article_id": 2599,
+    "article_url": "https://zxpress.ru/article.php?id=2599",
+    "print_url": "https://zxpress.ru/print.php?id=2599",
+    "title_link": "Юмор - Распределение вредоносных программ.",
+    "order": 12,
+    "issue_label": "07",
+    "short_slug": "Юмор_-_Распределение_вредоносных_программ"
+  }
+]

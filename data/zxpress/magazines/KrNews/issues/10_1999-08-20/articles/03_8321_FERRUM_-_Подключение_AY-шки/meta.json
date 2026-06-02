@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-08-20",
+  "order": 3,
+  "article_id": 8321,
+  "title_link": "FERRUM - Подключение AY-шки.",
+  "title_h1": "KrNews 10 - FERRUM - Подключение AY-шки.",
+  "print_url": "https://zxpress.ru/print.php?id=8321",
+  "article_url": "https://zxpress.ru/article.php?id=8321",
+  "fetched_at": "2026-05-31T22:17:43Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1997-06-14",
+  "order": 2,
+  "article_id": 3200,
+  "title_link": "Глюк! - О глюках в читалке газеты.\r\n Теория ошибок.",
+  "title_h1": "Body 05 - Глюк! - О глюках в читалке газеты.  Теория ошибок.",
+  "print_url": "https://zxpress.ru/print.php?id=3200",
+  "article_url": "https://zxpress.ru/article.php?id=3200",
+  "fetched_at": "2026-05-31T21:40:43Z"
+}

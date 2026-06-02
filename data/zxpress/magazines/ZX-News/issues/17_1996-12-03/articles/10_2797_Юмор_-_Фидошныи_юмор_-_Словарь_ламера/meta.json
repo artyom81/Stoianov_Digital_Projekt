@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1996-12-03",
+  "order": 10,
+  "article_id": 2797,
+  "title_link": "Юмор - Фидошный юмор - Словарь ламера.",
+  "title_h1": "ZX-News 17 - Юмор - Фидошный юмор - Словарь ламера.",
+  "print_url": "https://zxpress.ru/print.php?id=2797",
+  "article_url": "https://zxpress.ru/article.php?id=2797",
+  "fetched_at": "2026-05-31T23:28:37Z"
+}

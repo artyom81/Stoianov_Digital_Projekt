@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4284,
+    "article_url": "https://zxpress.ru/article.php?id=4284",
+    "print_url": "https://zxpress.ru/print.php?id=4284",
+    "title_link": "От автора - Поступил в университет...",
+    "order": 1,
+    "issue_label": "29.5",
+    "short_slug": "От_автора_-_Поступил_в_университет"
+  },
+  {
+    "article_id": 4285,
+    "article_url": "https://zxpress.ru/article.php?id=4285",
+    "print_url": "https://zxpress.ru/print.php?id=4285",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "29.5",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4286,
+    "article_url": "https://zxpress.ru/article.php?id=4286",
+    "print_url": "https://zxpress.ru/print.php?id=4286",
+    "title_link": "Обзор новинок - Chainik in horror flat.",
+    "order": 3,
+    "issue_label": "29.5",
+    "short_slug": "Обзор_новинок_-_Chainik_in_horror_flat"
+  },
+  {
+    "article_id": 4287,
+    "article_url": "https://zxpress.ru/article.php?id=4287",
+    "print_url": "https://zxpress.ru/print.php?id=4287",
+    "title_link": "Железо - программирование General Sound.",
+    "order": 4,
+    "issue_label": "29.5",
+    "short_slug": "Железо_-_программирование_General_Sound"
+  },
+  {
+    "article_id": 18079,
+    "article_url": "https://zxpress.ru/article.php?id=18079",
+    "print_url": "https://zxpress.ru/print.php?id=18079",
+    "title_link": "Железо - схема и программирование CMOS-часы.",
+    "order": 5,
+    "issue_label": "29.5",
+    "short_slug": "Железо_-_схема_и_программирование_CMOS-часы"
+  },
+  {
+    "article_id": 4288,
+    "article_url": "https://zxpress.ru/article.php?id=4288",
+    "print_url": "https://zxpress.ru/print.php?id=4288",
+    "title_link": "Анкета - Опрос читателей.",
+    "order": 6,
+    "issue_label": "29.5",
+    "short_slug": "Анкета_-_Опрос_читателеи"
+  },
+  {
+    "article_id": 4289,
+    "article_url": "https://zxpress.ru/article.php?id=4289",
+    "print_url": "https://zxpress.ru/print.php?id=4289",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "29.5",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4290,
+    "article_url": "https://zxpress.ru/article.php?id=4290",
+    "print_url": "https://zxpress.ru/print.php?id=4290",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "29.5",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

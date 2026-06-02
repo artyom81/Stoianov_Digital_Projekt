@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1998-09-26",
+  "order": 16,
+  "article_id": 1203,
+  "title_link": "История Speccy - ZX-Spectrum - прошлое и настоящее.",
+  "title_h1": "Buzz 16 - История Speccy - ZX-Spectrum - прошлое и настоящее.",
+  "print_url": "https://zxpress.ru/print.php?id=1203",
+  "article_url": "https://zxpress.ru/article.php?id=1203",
+  "fetched_at": "2026-05-31T21:48:26Z"
+}

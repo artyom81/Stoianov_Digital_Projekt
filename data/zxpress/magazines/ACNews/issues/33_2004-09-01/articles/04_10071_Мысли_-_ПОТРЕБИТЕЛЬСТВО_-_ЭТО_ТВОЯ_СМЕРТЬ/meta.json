@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "33",
+  "issue_date_iso": "2004-09-01",
+  "order": 4,
+  "article_id": 10071,
+  "title_link": "Мысли - ПОТРЕБИТЕЛЬСТВО - ЭТО ТВОЯ СМЕРТЬ.",
+  "title_h1": "ACNews 33 - Мысли - ПОТРЕБИТЕЛЬСТВО - ЭТО ТВОЯ СМЕРТЬ.",
+  "print_url": "https://zxpress.ru/print.php?id=10071",
+  "article_url": "https://zxpress.ru/article.php?id=10071",
+  "fetched_at": "2026-05-31T21:30:59Z"
+}

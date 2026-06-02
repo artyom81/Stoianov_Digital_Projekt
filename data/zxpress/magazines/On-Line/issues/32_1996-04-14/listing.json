@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 49,
+    "article_url": "https://zxpress.ru/article.php?id=49",
+    "print_url": "https://zxpress.ru/print.php?id=49",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "32",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2069,
+    "article_url": "https://zxpress.ru/article.php?id=2069",
+    "print_url": "https://zxpress.ru/print.php?id=2069",
+    "title_link": "HOT GAMES - Лучшая двадцатка игр от FFC. Лучшая десятка игр от Magic Soft. Лучшая десятка по качеству игровых программ.",
+    "order": 2,
+    "issue_label": "32",
+    "short_slug": "HOT_GAMES_-_Лучшая_двадцатка_игр_от_FFC_Лучшая_десятка_игр_о"
+  },
+  {
+    "article_id": 2068,
+    "article_url": "https://zxpress.ru/article.php?id=2068",
+    "print_url": "https://zxpress.ru/print.php?id=2068",
+    "title_link": "Застрял ? - Новелла-проходилка \"Приключения Винни Пуха\" часть 3.",
+    "order": 3,
+    "issue_label": "32",
+    "short_slug": "Застрял_-_Новелла-проходилка_Приключения_Винни_Пуха_часть_3"
+  },
+  {
+    "article_id": 2067,
+    "article_url": "https://zxpress.ru/article.php?id=2067",
+    "print_url": "https://zxpress.ru/print.php?id=2067",
+    "title_link": "Мозаика - Размышления о рубрике \"Видеообзор\". Cheat в игре \"НЛО - враг неизвестен\".\r\n О подключении видеопроцессора Dendy к Speccy.",
+    "order": 4,
+    "issue_label": "32",
+    "short_slug": "Мозаика_-_Размышления_о_рубрике_Видеообзор_Cheat_в_игре_НЛО"
+  },
+  {
+    "article_id": 2066,
+    "article_url": "https://zxpress.ru/article.php?id=2066",
+    "print_url": "https://zxpress.ru/print.php?id=2066",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "32",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

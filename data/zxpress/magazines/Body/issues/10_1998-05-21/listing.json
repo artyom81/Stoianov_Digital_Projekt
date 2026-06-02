@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 3268,
+    "article_url": "https://zxpress.ru/article.php?id=3268",
+    "print_url": "https://zxpress.ru/print.php?id=3268",
+    "title_link": "От авторов - О чем можно прочитать в этом номере газеты.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "От_авторов_-_О_чем_можно_прочитать_в_этом_номере_газеты"
+  },
+  {
+    "article_id": 3271,
+    "article_url": "https://zxpress.ru/article.php?id=3271",
+    "print_url": "https://zxpress.ru/print.php?id=3271",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3270,
+    "article_url": "https://zxpress.ru/article.php?id=3270",
+    "print_url": "https://zxpress.ru/print.php?id=3270",
+    "title_link": "Улыбнись - Сутки хаккера, обыкновенные.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Улыбнись_-_Сутки_хаккера_обыкновенные"
+  },
+  {
+    "article_id": 3269,
+    "article_url": "https://zxpress.ru/article.php?id=3269",
+    "print_url": "https://zxpress.ru/print.php?id=3269",
+    "title_link": "Что нового - О новинках в Минске.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Что_нового_-_О_новинках_в_Минске"
+  }
+]

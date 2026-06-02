@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 9812,
+    "article_url": "https://zxpress.ru/article.php?id=9812",
+    "print_url": "https://zxpress.ru/print.php?id=9812",
+    "title_link": "Версии - 2 версии игры: R-TYPE-1.",
+    "order": 1,
+    "issue_label": "34",
+    "short_slug": "Версии_-_2_версии_игры_R-TYPE-1"
+  },
+  {
+    "article_id": 199,
+    "article_url": "https://zxpress.ru/article.php?id=199",
+    "print_url": "https://zxpress.ru/print.php?id=199",
+    "title_link": "Вступление - Номер вышел очень быстро.",
+    "order": 2,
+    "issue_label": "34",
+    "short_slug": "Вступление_-_Номер_вышел_очень_быстро"
+  },
+  {
+    "article_id": 9813,
+    "article_url": "https://zxpress.ru/article.php?id=9813",
+    "print_url": "https://zxpress.ru/print.php?id=9813",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 3,
+    "issue_label": "34",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9811,
+    "article_url": "https://zxpress.ru/article.php?id=9811",
+    "print_url": "https://zxpress.ru/print.php?id=9811",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 4,
+    "issue_label": "34",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 200,
+    "article_url": "https://zxpress.ru/article.php?id=200",
+    "print_url": "https://zxpress.ru/print.php?id=200",
+    "title_link": "Сплошные приколы - 18 анедотов. Анонс - Что будет в следующем номере.",
+    "order": 5,
+    "issue_label": "34",
+    "short_slug": "Сплошные_приколы_-_18_анедотов_Анонс_-_Что_будет_в_следующем"
+  }
+]

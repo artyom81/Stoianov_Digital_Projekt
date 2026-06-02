@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "2000-09-05",
+  "order": 3,
+  "article_id": 9384,
+  "title_link": "Свежак - новости софта: LIBRARY MANAGER, ZX AMP 1.00, SPRITER 1.04, HRUST SPISOK MAKER 1.2, ASCII GFX MAKER 1.00, HRUST RIP ARCHIVATOR, BURIAL GFX EDITOR 2.00.",
+  "title_h1": "IzhNews 09 - Свежак - новости софта: LIBRARY MANAGER, ZX AMP 1.00, SPRITER 1.04, HRUST SPISOK MAKER 1.2, ASCII GFX MAKER 1.00, HRUST RIP ARCHIVATOR, BURIAL GFX EDITOR 2.00.",
+  "print_url": "https://zxpress.ru/print.php?id=9384",
+  "article_url": "https://zxpress.ru/article.php?id=9384",
+  "fetched_at": "2026-05-31T22:15:46Z"
+}

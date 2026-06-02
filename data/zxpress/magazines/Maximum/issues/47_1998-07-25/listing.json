@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 249,
+    "article_url": "https://zxpress.ru/article.php?id=249",
+    "print_url": "https://zxpress.ru/print.php?id=249",
+    "title_link": "ZXNet - Девушки в Москвоской ZXNet",
+    "order": 1,
+    "issue_label": "47",
+    "short_slug": "ZXNet_-_Девушки_в_Москвоскои_ZXNet"
+  },
+  {
+    "article_id": 246,
+    "article_url": "https://zxpress.ru/article.php?id=246",
+    "print_url": "https://zxpress.ru/print.php?id=246",
+    "title_link": "ВСТУПЛЕНИЕ и ПРОДОЛЖЕНИЕ - интервью с главным редактором газеты PROTON - EVP-SOFT.",
+    "order": 2,
+    "issue_label": "47",
+    "short_slug": "ВСТУПЛЕНИЕ_и_ПРОДОЛЖЕНИЕ_-_интервью_с_главным_редактором_газ"
+  },
+  {
+    "article_id": 9769,
+    "article_url": "https://zxpress.ru/article.php?id=9769",
+    "print_url": "https://zxpress.ru/print.php?id=9769",
+    "title_link": "Письма в газету - Nefedov Sergey, Spider.",
+    "order": 3,
+    "issue_label": "47",
+    "short_slug": "Письма_в_газету_-_Nefedov_Sergey_Spider"
+  },
+  {
+    "article_id": 9771,
+    "article_url": "https://zxpress.ru/article.php?id=9771",
+    "print_url": "https://zxpress.ru/print.php?id=9771",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 4,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 247,
+    "article_url": "https://zxpress.ru/article.php?id=247",
+    "print_url": "https://zxpress.ru/print.php?id=247",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 5,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 9770,
+    "article_url": "https://zxpress.ru/article.php?id=9770",
+    "print_url": "https://zxpress.ru/print.php?id=9770",
+    "title_link": "Сто и четыре - высказывания Николая Фоменко.",
+    "order": 6,
+    "issue_label": "47",
+    "short_slug": "Сто_и_четыре_-_высказывания_Николая_Фоменко"
+  }
+]

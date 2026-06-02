@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 15457,
+    "article_url": "https://zxpress.ru/article.php?id=15457",
+    "print_url": "https://zxpress.ru/print.php?id=15457",
+    "title_link": "Разное - Copyright. Правила.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Разное_-_Copyright_Правила"
+  },
+  {
+    "article_id": 15458,
+    "article_url": "https://zxpress.ru/article.php?id=15458",
+    "print_url": "https://zxpress.ru/print.php?id=15458",
+    "title_link": "Железо - моделирующе-демоделирующее устройства к ПК.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Железо_-_моделирующе-демоделирующее_устроиства_к_ПК"
+  },
+  {
+    "article_id": 15459,
+    "article_url": "https://zxpress.ru/article.php?id=15459",
+    "print_url": "https://zxpress.ru/print.php?id=15459",
+    "title_link": "Юмор - Цитата недели. Анекдот.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Юмор_-_Цитата_недели_Анекдот"
+  },
+  {
+    "article_id": 15460,
+    "article_url": "https://zxpress.ru/article.php?id=15460",
+    "print_url": "https://zxpress.ru/print.php?id=15460",
+    "title_link": "Новости - О пришедшем новье. Пресса.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Новости_-_О_пришедшем_новье_Пресса"
+  },
+  {
+    "article_id": 15461,
+    "article_url": "https://zxpress.ru/article.php?id=15461",
+    "print_url": "https://zxpress.ru/print.php?id=15461",
+    "title_link": "Бесплатное приложение - TV-PACK.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Бесплатное_приложение_-_TV-PACK"
+  }
+]

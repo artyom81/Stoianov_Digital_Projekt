@@ -1,0 +1,191 @@
+[
+  {
+    "article_id": 10668,
+    "article_url": "https://zxpress.ru/article.php?id=10668",
+    "print_url": "https://zxpress.ru/print.php?id=10668",
+    "title_link": "Oбмен опытом - Использование каналов в программах. Использование подпрограмм ПЗУ.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Oбмен_опытом_-_Использование_каналов_в_программах_Использова"
+  },
+  {
+    "article_id": 564,
+    "article_url": "https://zxpress.ru/article.php?id=564",
+    "print_url": "https://zxpress.ru/print.php?id=564",
+    "title_link": "Oбмен опытом - Некоторые особенности XAS'а. Передача параметров в программу в командной строке.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Oбмен_опытом_-_Некоторые_особенности_XASа_Передача_параметро"
+  },
+  {
+    "article_id": 565,
+    "article_url": "https://zxpress.ru/article.php?id=565",
+    "print_url": "https://zxpress.ru/print.php?id=565",
+    "title_link": "Oбмен опытом - Несколько полезных советов и рекомендаций по подключению FDD 3.5 (трехдюймового дисковода).",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Oбмен_опытом_-_Несколько_полезных_советов_и_рекомендации_по"
+  },
+  {
+    "article_id": 559,
+    "article_url": "https://zxpress.ru/article.php?id=559",
+    "print_url": "https://zxpress.ru/print.php?id=559",
+    "title_link": "Интервью - Интервью с Nicodim'ом (Р.Романовым) автором игры Prince of Persia.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Интервью_-_Интервью_с_Nicodimом_РРомановым_автором_игры_Prin"
+  },
+  {
+    "article_id": 555,
+    "article_url": "https://zxpress.ru/article.php?id=555",
+    "print_url": "https://zxpress.ru/print.php?id=555",
+    "title_link": "Интерфейс - Письма Читателей: Игорь Галуза, Гаркушин Алексей, Иноземцев Андрей Леонидович, Потоловский Виктор Николаевич.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Интерфеис_-_Письма_Читателеи_Игорь_Галуза_Гаркушин_Алексеи_И"
+  },
+  {
+    "article_id": 556,
+    "article_url": "https://zxpress.ru/article.php?id=556",
+    "print_url": "https://zxpress.ru/print.php?id=556",
+    "title_link": "Интерфейс - Причины развала Ярославско электронного журнала \"ЭЛЬДОРАДО\". Новая защита - Anti McDonald. Плохо ли пиратство? Несколько причин по которым не стоит покупать IBM PC в качестве домашнего компьютера. Как пройти \"NEW DIZZY\"?",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Интерфеис_-_Причины_развала_Ярославско_электронного_журнала"
+  },
+  {
+    "article_id": 557,
+    "article_url": "https://zxpress.ru/article.php?id=557",
+    "print_url": "https://zxpress.ru/print.php?id=557",
+    "title_link": "Обзор - O новых программах: Narc, The Hundred, Heavy Metal Mover, Quick Draw McGraw, Iice Climber (Альпинист), Super Cars, Lode Runner 3, Down Town, Страна Мифов, Gremlin 2, Sword of Bane, Turbo Skate Fighter, Assault Course, Mercs, Darkman. Десятка лучших игр.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Обзор_-_O_новых_программах_Narc_The_Hundred_Heavy_Metal_Move"
+  },
+  {
+    "article_id": 562,
+    "article_url": "https://zxpress.ru/article.php?id=562",
+    "print_url": "https://zxpress.ru/print.php?id=562",
+    "title_link": "Оттяг - Тест \"Ты ,случаем, не тормоз ?\"",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_Тест_Ты_случаем_не_тормоз"
+  },
+  {
+    "article_id": 553,
+    "article_url": "https://zxpress.ru/article.php?id=553",
+    "print_url": "https://zxpress.ru/print.php?id=553",
+    "title_link": "Презентация - Авторская презентация: Ray Disk Monitor v1.5.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Презентация_-_Авторская_презентация_Ray_Disk_Monitor_v15"
+  },
+  {
+    "article_id": 18099,
+    "article_url": "https://zxpress.ru/article.php?id=18099",
+    "print_url": "https://zxpress.ru/print.php?id=18099",
+    "title_link": "Презентация - Авторская презентация: Войны Роботов.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Презентация_-_Авторская_презентация_Воины_Роботов"
+  },
+  {
+    "article_id": 554,
+    "article_url": "https://zxpress.ru/article.php?id=554",
+    "print_url": "https://zxpress.ru/print.php?id=554",
+    "title_link": "Презентация - Программа для создания адвентюр QUILL.",
+    "order": 11,
+    "issue_label": "05",
+    "short_slug": "Презентация_-_Программа_для_создания_адвентюр_QUILL"
+  },
+  {
+    "article_id": 10667,
+    "article_url": "https://zxpress.ru/article.php?id=10667",
+    "print_url": "https://zxpress.ru/print.php?id=10667",
+    "title_link": "Раскрутка - Новелла к игре \"Trap Door\".",
+    "order": 12,
+    "issue_label": "05",
+    "short_slug": "Раскрутка_-_Новелла_к_игре_Trap_Door"
+  },
+  {
+    "article_id": 560,
+    "article_url": "https://zxpress.ru/article.php?id=560",
+    "print_url": "https://zxpress.ru/print.php?id=560",
+    "title_link": "Раскрутка - Описание игры \"Jungle Warrior\".",
+    "order": 13,
+    "issue_label": "05",
+    "short_slug": "Раскрутка_-_Описание_игры_Jungle_Warrior"
+  },
+  {
+    "article_id": 561,
+    "article_url": "https://zxpress.ru/article.php?id=561",
+    "print_url": "https://zxpress.ru/print.php?id=561",
+    "title_link": "Раскрутка - прохождение игры \"Navy Moves-2\".",
+    "order": 14,
+    "issue_label": "05",
+    "short_slug": "Раскрутка_-_прохождение_игры_Navy_Moves-2"
+  },
+  {
+    "article_id": 566,
+    "article_url": "https://zxpress.ru/article.php?id=566",
+    "print_url": "https://zxpress.ru/print.php?id=566",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 15,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 563,
+    "article_url": "https://zxpress.ru/article.php?id=563",
+    "print_url": "https://zxpress.ru/print.php?id=563",
+    "title_link": "Система - Описание программ : ZX-ASM3.0, Universal XAS Converter v2.1,\r\n Format Utility v2.01, Commander DOS v1.9, Super Catalog v1.12, \r\nText Designer v1.0, The Dizzy Editor v1.0, Digital Studio for Covox, Alfasoft Music Crasher v2.13. Драйвер печати шрифтов , созданных в Mach v2.4.",
+    "order": 16,
+    "issue_label": "05",
+    "short_slug": "Система_-_Описание_программ_ZX-ASM30_Universal_XAS_Converter"
+  },
+  {
+    "article_id": 14291,
+    "article_url": "https://zxpress.ru/article.php?id=14291",
+    "print_url": "https://zxpress.ru/print.php?id=14291",
+    "title_link": "Оттяг - Несколько советов тем, кто хочет отправить программы по почте своим зарубежным друзьям.",
+    "order": 17,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_Несколько_советов_тем_кто_хочет_отправить_программы"
+  },
+  {
+    "article_id": 14292,
+    "article_url": "https://zxpress.ru/article.php?id=14292",
+    "print_url": "https://zxpress.ru/print.php?id=14292",
+    "title_link": "Оттяг - 40 вещей, которые можно сделать с \"битым\" диском.",
+    "order": 18,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_40_вещеи_которые_можно_сделать_с_битым_диском"
+  },
+  {
+    "article_id": 14293,
+    "article_url": "https://zxpress.ru/article.php?id=14293",
+    "print_url": "https://zxpress.ru/print.php?id=14293",
+    "title_link": "Оттяг - тест: Насколько вы нравитесь окружающим.",
+    "order": 19,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_тест_Насколько_вы_нравитесь_окружающим"
+  },
+  {
+    "article_id": 14294,
+    "article_url": "https://zxpress.ru/article.php?id=14294",
+    "print_url": "https://zxpress.ru/print.php?id=14294",
+    "title_link": "Оттяг - 20 вещей,которые вы можете сделать, пока игра загружается с диска.",
+    "order": 20,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_20_вещеикоторые_вы_можете_сделать_пока_игра_загружае"
+  },
+  {
+    "article_id": 14295,
+    "article_url": "https://zxpress.ru/article.php?id=14295",
+    "print_url": "https://zxpress.ru/print.php?id=14295",
+    "title_link": "Оттяг - 20 вещей,которые вы можете сделать, пока игра загружается с ленты.",
+    "order": 21,
+    "issue_label": "05",
+    "short_slug": "Оттяг_-_20_вещеикоторые_вы_можете_сделать_пока_игра_загружае"
+  }
+]

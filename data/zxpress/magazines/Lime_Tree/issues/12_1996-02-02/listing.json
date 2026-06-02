@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 108,
+    "article_url": "https://zxpress.ru/article.php?id=108",
+    "print_url": "https://zxpress.ru/print.php?id=108",
+    "title_link": "BBS NEWS - Графика работы станций.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "BBS_NEWS_-_Графика_работы_станции"
+  },
+  {
+    "article_id": 8799,
+    "article_url": "https://zxpress.ru/article.php?id=8799",
+    "print_url": "https://zxpress.ru/print.php?id=8799",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 8800,
+    "article_url": "https://zxpress.ru/article.php?id=8800",
+    "print_url": "https://zxpress.ru/print.php?id=8800",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8801,
+    "article_url": "https://zxpress.ru/article.php?id=8801",
+    "print_url": "https://zxpress.ru/print.php?id=8801",
+    "title_link": "WINSOFT NEWS - Сенсация! - всеобщий сбор системных операторов.\r\n ZX-NET в виде схемы передачи информации.\r\n Как возникла идея создания этой газеты.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "WINSOFT_NEWS_-_Сенсация_-_всеобщии_сбор_системных_операторов"
+  },
+  {
+    "article_id": 8802,
+    "article_url": "https://zxpress.ru/article.php?id=8802",
+    "print_url": "https://zxpress.ru/print.php?id=8802",
+    "title_link": "IRYSOU-201 - Научно-фантастический рассказ (часть 5-7).",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "IRYSOU-201_-_Научно-фантастическии_рассказ_часть_5-7"
+  },
+  {
+    "article_id": 8803,
+    "article_url": "https://zxpress.ru/article.php?id=8803",
+    "print_url": "https://zxpress.ru/print.php?id=8803",
+    "title_link": "TREE NEWS - Глючная BBS недели...",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "TREE_NEWS_-_Глючная_BBS_недели"
+  }
+]

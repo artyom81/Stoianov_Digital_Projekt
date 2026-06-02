@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 15070,
+    "article_url": "https://zxpress.ru/article.php?id=15070",
+    "print_url": "https://zxpress.ru/print.php?id=15070",
+    "title_link": "От редактора - Вот и дождались третьего номера компьютерной газеты ZX-Тiме.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_редактора_-_Вот_и_дождались_третьего_номера_компьютернои"
+  },
+  {
+    "article_id": 15071,
+    "article_url": "https://zxpress.ru/article.php?id=15071",
+    "print_url": "https://zxpress.ru/print.php?id=15071",
+    "title_link": "Почта - На наш е-маil пришло некоторое количество отзывов, предложений и критическиx замечаний как по-поводу газеты в целом, так и некоторыx статей в частности.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Почта_-_На_наш_е-маil_пришло_некоторое_количество_отзывов_пр"
+  },
+  {
+    "article_id": 15072,
+    "article_url": "https://zxpress.ru/article.php?id=15072",
+    "print_url": "https://zxpress.ru/print.php?id=15072",
+    "title_link": "Кодерам - Сага о бордюре продолжается. Табличные движения.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Кодерам_-_Сага_о_бордюре_продолжается_Табличные_движения"
+  },
+  {
+    "article_id": 15073,
+    "article_url": "https://zxpress.ru/article.php?id=15073",
+    "print_url": "https://zxpress.ru/print.php?id=15073",
+    "title_link": "Кодерам - Многозадачность и ОС. Дискуссия.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Кодерам_-_Многозадачность_и_ОС_Дискуссия"
+  },
+  {
+    "article_id": 15074,
+    "article_url": "https://zxpress.ru/article.php?id=15074",
+    "print_url": "https://zxpress.ru/print.php?id=15074",
+    "title_link": "Железяки - Аккумулятор для кэша.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Железяки_-_Аккумулятор_для_кэша"
+  },
+  {
+    "article_id": 15075,
+    "article_url": "https://zxpress.ru/article.php?id=15075",
+    "print_url": "https://zxpress.ru/print.php?id=15075",
+    "title_link": "Pc и Spectrum - Спектрум в интернете.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Pc_и_Spectrum_-_Спектрум_в_интернете"
+  },
+  {
+    "article_id": 15076,
+    "article_url": "https://zxpress.ru/article.php?id=15076",
+    "print_url": "https://zxpress.ru/print.php?id=15076",
+    "title_link": "Обо всём про всё - Перепечатка из газеты \"Мир увлечений\".",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Обо_всем_про_все_-_Перепечатка_из_газеты_Мир_увлечении"
+  },
+  {
+    "article_id": 15077,
+    "article_url": "https://zxpress.ru/article.php?id=15077",
+    "print_url": "https://zxpress.ru/print.php?id=15077",
+    "title_link": "И смех и грех - Юмор, анекдоты.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "И_смех_и_грех_-_Юмор_анекдоты"
+  },
+  {
+    "article_id": 15078,
+    "article_url": "https://zxpress.ru/article.php?id=15078",
+    "print_url": "https://zxpress.ru/print.php?id=15078",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

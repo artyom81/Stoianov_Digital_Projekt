@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16775,
+    "article_url": "https://zxpress.ru/article.php?id=16775",
+    "print_url": "https://zxpress.ru/print.php?id=16775",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16776,
+    "article_url": "https://zxpress.ru/article.php?id=16776",
+    "print_url": "https://zxpress.ru/print.php?id=16776",
+    "title_link": "Дом 16а - продолжение рассказа.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Дом_16а_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 16777,
+    "article_url": "https://zxpress.ru/article.php?id=16777",
+    "print_url": "https://zxpress.ru/print.php?id=16777",
+    "title_link": "ZX in the world - Целый ряд программ (например ALASM 4.1 (и 3.8), REAL COMMANDER 1.4, виеверы PC-866 и BE_VIEW, новая терминалка EMS и многие другие) не могут нормально работать с TR-DOS 5.03...",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "ZX_in_the_world_-_Целыи_ряд_программ_например_ALASM_41_и_38"
+  },
+  {
+    "article_id": 16778,
+    "article_url": "https://zxpress.ru/article.php?id=16778",
+    "print_url": "https://zxpress.ru/print.php?id=16778",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16779,
+    "article_url": "https://zxpress.ru/article.php?id=16779",
+    "print_url": "https://zxpress.ru/print.php?id=16779",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16780,
+    "article_url": "https://zxpress.ru/article.php?id=16780",
+    "print_url": "https://zxpress.ru/print.php?id=16780",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "38",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

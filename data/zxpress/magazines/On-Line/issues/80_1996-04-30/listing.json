@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 35,
+    "article_url": "https://zxpress.ru/article.php?id=35",
+    "print_url": "https://zxpress.ru/print.php?id=35",
+    "title_link": "B.B.S. Новости - Новая станция - Empire-3.",
+    "order": 1,
+    "issue_label": "80",
+    "short_slug": "BBS_Новости_-_Новая_станция_-_Empire-3"
+  },
+  {
+    "article_id": 2484,
+    "article_url": "https://zxpress.ru/article.php?id=2484",
+    "print_url": "https://zxpress.ru/print.php?id=2484",
+    "title_link": "Железо - Дополнительный графический режим 512x192. (Дополнение).",
+    "order": 2,
+    "issue_label": "80",
+    "short_slug": "Железо_-_Дополнительныи_графическии_режим_512x192_Дополнение"
+  },
+  {
+    "article_id": 2485,
+    "article_url": "https://zxpress.ru/article.php?id=2485",
+    "print_url": "https://zxpress.ru/print.php?id=2485",
+    "title_link": "Застрял ? - Описание игры \"Battle Command 128\".",
+    "order": 3,
+    "issue_label": "80",
+    "short_slug": "Застрял_-_Описание_игры_Battle_Command_128"
+  },
+  {
+    "article_id": 2482,
+    "article_url": "https://zxpress.ru/article.php?id=2482",
+    "print_url": "https://zxpress.ru/print.php?id=2482",
+    "title_link": "Мозаика - ZX-Shadow о BBS'ках. Пароли для игры \"Magic Stripes\".",
+    "order": 4,
+    "issue_label": "80",
+    "short_slug": "Мозаика_-_ZX-Shadow_о_BBSках_Пароли_для_игры_Magic_Stripes"
+  },
+  {
+    "article_id": 2481,
+    "article_url": "https://zxpress.ru/article.php?id=2481",
+    "print_url": "https://zxpress.ru/print.php?id=2481",
+    "title_link": "Мозаика - Появился новый музыкальный редактор - PT v3.0.",
+    "order": 5,
+    "issue_label": "80",
+    "short_slug": "Мозаика_-_Появился_новыи_музыкальныи_редактор_-_PT_v30"
+  },
+  {
+    "article_id": 2480,
+    "article_url": "https://zxpress.ru/article.php?id=2480",
+    "print_url": "https://zxpress.ru/print.php?id=2480",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "80",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2483,
+    "article_url": "https://zxpress.ru/article.php?id=2483",
+    "print_url": "https://zxpress.ru/print.php?id=2483",
+    "title_link": "Система - Персональный компьютер АТМ-ТURBO 2+ : Техническое описание и руководство программиста: Системный порт, Мультиплексор страниц.",
+    "order": 7,
+    "issue_label": "80",
+    "short_slug": "Система_-_Персональныи_компьютер_АТМ-ТURBO_2_Техническое_опи"
+  }
+]

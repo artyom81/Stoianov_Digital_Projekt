@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1998-03-31",
+  "order": 4,
+  "article_id": 7865,
+  "title_link": "Капля припоя - Эмулятор ZX-SPECTRUM v0.20b by LION.",
+  "title_h1": "Deja Vu 04 - Капля припоя - Эмулятор ZX-SPECTRUM v0.20b by LION.",
+  "print_url": "https://zxpress.ru/print.php?id=7865",
+  "article_url": "https://zxpress.ru/article.php?id=7865",
+  "fetched_at": "2026-05-31T21:54:30Z"
+}

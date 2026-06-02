@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "43",
+  "issue_date_iso": "2000-04-09",
+  "order": 8,
+  "article_id": 10585,
+  "title_link": "Реклама - Пpиобpету pазличную инфоpмацию по \"железу\" ZX Spectrum.",
+  "title_h1": "City 43 - Реклама - Пpиобpету pазличную инфоpмацию по \"железу\" ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=10585",
+  "article_url": "https://zxpress.ru/article.php?id=10585",
+  "fetched_at": "2026-05-31T21:51:58Z"
+}

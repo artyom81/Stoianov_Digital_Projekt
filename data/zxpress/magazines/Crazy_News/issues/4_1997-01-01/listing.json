@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 14852,
+    "article_url": "https://zxpress.ru/article.php?id=14852",
+    "print_url": "https://zxpress.ru/print.php?id=14852",
+    "title_link": "О Micro Windows v2.1",
+    "order": 1,
+    "issue_label": "4",
+    "short_slug": "О_Micro_Windows_v21"
+  },
+  {
+    "article_id": 14853,
+    "article_url": "https://zxpress.ru/article.php?id=14853",
+    "print_url": "https://zxpress.ru/print.php?id=14853",
+    "title_link": "Тайны Micro Windows - и нюанcы програmmирования.",
+    "order": 2,
+    "issue_label": "4",
+    "short_slug": "Таины_Micro_Windows_-_и_нюанcы_програmmирования"
+  },
+  {
+    "article_id": 14854,
+    "article_url": "https://zxpress.ru/article.php?id=14854",
+    "print_url": "https://zxpress.ru/print.php?id=14854",
+    "title_link": "Продолжение следует",
+    "order": 3,
+    "issue_label": "4",
+    "short_slug": "Продолжение_следует"
+  }
+]

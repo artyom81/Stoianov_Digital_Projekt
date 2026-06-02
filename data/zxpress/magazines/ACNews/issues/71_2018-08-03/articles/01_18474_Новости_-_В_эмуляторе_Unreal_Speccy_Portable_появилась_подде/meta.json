@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "71",
+  "issue_date_iso": "2018-08-03",
+  "order": 1,
+  "article_id": 18474,
+  "title_link": "Новости - В эмуляторе Unreal Speccy Portable появилась поддержка\r\nрасширенных экранов ATM2, Utz/irrlicht project организует конкурс графики, Ещё Utz написал по поводу своего языка программирования для\r\nмузыки.",
+  "title_h1": "ACNews 71 - Новости - В эмуляторе Unreal Speccy Portable появилась поддержка расширенных экранов ATM2, Utz/irrlicht project организует конкурс графики, Ещё Utz написал по поводу своего языка программирования для музыки.",
+  "print_url": "https://zxpress.ru/print.php?id=18474",
+  "article_url": "https://zxpress.ru/article.php?id=18474",
+  "fetched_at": "2026-05-31T21:32:09Z"
+}

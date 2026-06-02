@@ -1,0 +1,721 @@
+Micro 09 - Pokes - Poke's к играм.
+*************************
+********          Poke's         *********
+        *************************
+
+             Jet Set Willy 1
+        Set number of lives (1-32)
+                34785 num
+              Infinite lives
+                 35899 0
+         Set starting room (1-60)
+                34795 num
+      Set (255 - number of objects)
+                41983 num
+                No nasties
+                 35123 0
+            Fall without dying
+                 36477 1
+              Fix attic bug
+                59900 255
+       Automatically collect items
+                 37874 0
+           Walk through nasties
+                 37982 0
+       Disable star on moonlanding
+                 54814 0
+            Banyan tree easier
+                 36545 0
+             Extra high jump
+                 36358 0
+           "WRITETYPER" mode on
+                 34275 10
+        Unknown but important fix
+                36635 239
+           Fix Banyan tree bug
+                 56876 4
+            Fix pause mode bug
+                35591 195
+                35592 240
+                35593 255
+                65520 197
+                 65521 33
+                 65522 0
+                65523 154
+                 65524 17
+                 65525 0
+                 65526 90
+                 65527 1
+                 65528 0
+                 65529 1
+                65530 237
+                65531 176
+                65532 193
+                65533 195
+                 65534 18
+                65535 139
+       Disable software protection
+                34480 195
+                34481 202
+                34482 135
+                Super-jump
+                 36404 44
+
+             Jet Set Willy 2
+              Infinite lives
+                31254 195
+                 Immunity
+                31224 201
+          Set number of objects
+                34686 num
+         Set starting room (1-30)
+                30027 num
+      Set number of monsters (1-15)
+                31657 num
+
+                Jet-Story
+              Infinite lives
+                 60388 0
+                 64043 24
+
+         Jock and the Time Rings
+         Infinite lives and power
+                 57547 0
+                 57548 0
+                 56101 0
+
+               Joe Blade 1
+             Infinite energy
+                 65035 24
+      Infinite bomb time and energy
+                 37797 0
+                 31865 0
+                No enemies
+                 65032 50
+              Doors unlocked
+                 65029 50
+              Infinite time
+                 65026 50
+                 38506 0
+
+             Joe Blade 2 128
+              Loads of time
+                 59116 20
+                59117 225
+            Complete subgames
+                 58108 20
+                58109 225
+
+              Joe Blade 2 48
+              Loads of time
+                 59116 20
+                59117 225
+            Complete subgames
+                 58108 20
+                58109 225
+
+               Joe Blade 3
+       Infinite energy + firepower
+                37373 201
+             Stop all timers
+                 44815 0
+                 44850 0
+          Infinite keys + disks
+                37288 229
+                 37289 33
+                 37290 80
+                 37291 80
+                 37292 34
+                 37293 11
+                37294 146
+                37295 225
+
+                  Joust
+              Infinite lives
+                 26544 0
+
+               Judge Dredd
+              Infinite lives
+                 24936 24
+
+               Jumping Jack
+              Infinite lives
+                 26034 0
+                 26035 0
+
+                Kai Temple
+              Infinite lives
+                 47783 0
+                 47824 0
+
+                 Kamikaze
+              Infinite lives
+                 28584 0
+            Infinite hostages
+                 43104 0
+
+                  Karnov
+              Infinite lives
+                 32972 0
+                 33315 0
+              Infinite bombs
+                 33318 0
+              Infinite time
+                33321 128
+           No exploding nasties
+                33324 190
+              Infinite flame
+                33327 189
+              Oneshot kills
+                33330 143
+               Keep weapons
+                 32968 0
+              Max firepower
+                 24952 2
+              Have all icons
+                 24938 31
+                 24949 15
+
+                 Kat Trap
+              Infinite lives
+                 31039 45
+           Set number of lives
+                29362 num
+
+                  Kemshu
+              Infinite time
+                 35790 0
+
+                Kickboxing
+            Infinite endurance
+                 55748 0
+
+                Kikstart 2
+              Infinite time
+                47780 201
+
+                 Kinetik
+              Infinite lives
+                 61998 0
+
+                  Kirel
+              Infinite lives
+                 35466 0
+                 60094 61
+                60095 235
+              Infinite time
+                59322 154
+
+               Knight Lore
+              Infinite lives
+                 53567 0
+              Infinite time
+                 50205 0
+                 50206 0
+                 50207 0
+            Don't become wolf
+                50084 201
+       Set num objects left to get
+                49759 num
+
+           Knight Lore (hacked)
+              Infinite lives
+                 53567 0
+
+                Knightmare
+             Infinite energy
+                 38686 16
+                 38693 16
+
+             Knight Tyme 128
+             Infinite energy
+                 27813 0
+              Infinite fuel
+                32007 183
+
+              Knight Tyme 48
+             Infinite energy
+                 27813 0
+              Infinite fuel
+                32007 183
+
+             Knuckle Busters
+              Infinite lives
+                 35991 0
+
+              Kokotoni Wilf
+                 Immunity
+                 28929 8
+                 28934 8
+                 28939 8
+           Set number of lives
+                42214 num
+              Infinite lives
+                 43742 0
+          Some enemies harmless
+                 42177 2
+
+               Kosmic Kanga
+              Infinite lives
+                 36212 0
+           Set number of lives
+                23994 num
+
+                  Kraal
+              Infinite lives
+                 53180 0
+
+                 Krak Out
+              Infinite lives
+                 36565 0
+
+                  K-Ring
+              Infinite lives
+                 33636 0
+
+                 Kung-Fu
+              Infinite lives
+                 51267 0
+                 No music
+                52166 201
+
+              Kung-Fu Master
+              Infinite lives
+                 27982 0
+
+              Kwik Snax 128
+              Infinite lives
+                23839 170
+                 23840 91
+                23881 170
+                 23882 91
+
+               Kwik Snax 48
+              Infinite lives
+                23839 170
+                 23840 91
+                23881 170
+                 23882 91
+
+             Lap of the Gods
+              Infinite lives
+                 53979 0
+                 54421 0
+
+                Laser Warp
+           Set number of lives
+                38543 num
+
+            Last Mission, The
+              Infinite lives
+                 45682 0
+
+               Last Ninja 2
+              Infinite lives
+                 40777 0
+           Set number of lives
+                29966 num
+
+                Lazer Tag
+           Set number of lives
+                42317 num
+                43142 195
+                   ???
+                45373 182
+
+                Lazy Jones
+              Infinite lives
+                 56693 0
+
+              Legend of Kage
+              Infinite lives
+                30609 200
+
+      Legend of the Amazon Women 48
+              Infinite lives
+                57960 183
+
+         Light Corridor 128, The
+              Infinite lives
+                 40750 0
+                 40754 0
+
+          Light Corridor 48, The
+              Infinite lives
+                 40750 0
+                 40754 0
+
+               Light Force
+              Infinite lives
+                 40725 0
+                 Immunity
+                 40725 40
+
+                Lil'Alien
+              Infinite lives
+                 26627 0
+
+        Livingstone I presume 128
+              Infinite lives
+                 24391 0
+
+         Livingstone I Presume 48
+              Infinite lives
+                 24391 0
+
+                Locomotion
+            Infinite stopclock
+                39112 195
+
+        Lone Wolf: Mirror of Death
+              Infinite lives
+                 60214 24
+
+                  Loopz
+              Infinite time
+                 65353 0
+                 65354 0
+
+     Lotus Esprit Turbo Challenge 48
+              Always qualify
+                 52856 0
+
+               Lunar Jetman
+              Infinite lives
+                24329 201
+                 36963 0
+           Destroy all enemies
+                37999 201
+          Set starting level + 1
+                43092 num
+
+              Lunattack, 3D
+              Infinite lives
+                 53129 0
+
+                  Mach 3
+              Infinite lives
+                24632 195
+
+               Mad Mix Game
+              Infinite lives
+                 40296 0
+           Set number of lives
+                39932 num
+
+         Mag Max - Robo Centurion
+              Infinite lives
+                 58472 12
+
+              Manic Miner 1
+              Infinite lives
+                 35136 0
+                No nasties
+                 36160 0
+                 Immunity
+                 36106 0
+              Mystery poke!
+                 35160 0
+             Alter nasties...
+                 36150 0
+               Infinite air
+                34795 195
+                34796 241
+                34797 135
+                36233 195
+                36234 149
+                36235 141
+
+                 Marauder
+           Set number of lives
+                26183 num
+             Infinite smarts
+                 34231 0
+                 Immunity
+                36408 201
+                 64047 36
+              Infinite lives
+                35160 175
+                 35161 50
+                 35162 95
+                35163 250
+
+       Marble Madness Construction
+            Set Infinite time
+                 39579 0
+              Infinite lives
+                 38579 0
+
+                Mario Bros
+              Infinite lives
+                 44079 0
+
+                 Marsport
+                 Immunity
+                 44053 0
+                 45685 0
+
+               Martianoids
+              Infinite lives
+                 46793 0
+             Infinite energy
+                24407 201
+
+                Mask 1 128
+              Infinite lives
+                 50048 0
+                 50053 0
+                 50057 0
+                 50060 0
+
+                Mask 2 128
+              Infinite lives
+                 41560 0
+                 41561 0
+                 44944 0
+                 45325 0
+                 45326 0
+                 43122 0
+
+                Mask 2 48
+              Infinite lives
+                 41560 0
+                 41561 0
+                 44944 0
+                 45325 0
+                 45326 0
+                 43122 0
+
+      Mask 3 48 : Venom Strikes Back
+                 Immunity
+                 42849 0
+                 42831 0
+                 44914 0
+             Infinite weapons
+                 45600 0
+                No nasties
+                49941 201
+                Waterproof
+                45803 201
+
+         Masters of the Universe
+              Infinite time
+                 25451 60
+             Infinite energy
+                 42173 0
+              Infinite lives
+                 51406 0
+           Set number of ghosts
+                43210 num
+                Slow clock
+                 52346 60
+           Any number of chords
+                41420 175
+                 41421 0
+
+        Max Headroom 128 (speech)
+             Infinite energy
+                 33163 0
+                 33164 0
+                 36785 0
+                 36786 0
+                 33165 0
+                 36787 0
+
+             Max Headroom 48
+             Infinite energy
+                 33163 0
+                 33164 0
+                 36785 0
+                 36786 0
+                 33165 0
+                 36787 0
+
+                  Mayhem
+              Infinite time
+                 37897 0
+             Infinite shields
+                 37822 0
+       Force 1st digit on 1st level
+                32965 120
+
+                Maze Mania
+              Infinite lives
+                 42962 0
+
+             Mega-Apocalypse
+              Infinite lives
+                 23578 0
+
+                Mega Nova
+              Infinite lives
+                 32382 0
+
+                  Merlin
+              Infinite lives
+                 36561 1
+                 36599 1
+
+                Metal Army
+              Infinite lives
+                 42196 0
+
+               Meteor Storm
+           Set number of lives
+                29976 num
+
+               Metro-Cross
+              Infinite time
+                43006 195
+                 44490 0
+
+                   Mex
+              Infinite lives
+                51062 201
+
+               Mickey Mouse
+              Infinite lives
+                 36520 0
+              Infinite water
+                40814 201
+                Slow down
+                 40012 0
+              Infinite bolts
+                 40035 0
+               Bird's head
+                 40091 0
+                   Glue
+                 40114 0
+                Repulsive
+                 40137 0
+
+       Micro Mouse Goes De-bugging
+              Infinite lives
+                 28982 0
+                No baddies
+                32500 201
+
+              Micronaut One
+             Infinite energy
+                34651 195
+                 34650 0
+            Clouds mean energy
+                34768 107
+               Turbo speed
+                 52150 81
+                Turbo slow
+                 52163 62
+              Hit wall speed
+                 52591 0
+               Turn anytime
+                 52004 0
+                 52005 0
+
+                  Mikie
+           Set number of lives
+                52405 num
+                   ???
+                40843 182
+
+               Molecule Man
+           Infinite everything
+                 64585 0
+
+             Moley Christmas
+              Infinite lives
+                 38302 0
+                 38352 0
+                 34117 0
+
+          Monty, Auf Wiedersehen
+            Harmless crushers
+                47715 201
+             Harmless aliens
+                42160 201
+              Infinite lives
+                 41139 0
+              Walk on water
+                 37002 0
+
+            Monty is Innocent
+              Infinite lives
+                56440 201
+
+                Monty Mole
+              Infinite lives
+                 38004 0
+               No crushers
+                36301 201
+           Fall from any height
+                35874 255
+              Invinicibility
+                 37607 0
+                 37608 0
+                 37609 0
+
+             Monty on the Run
+              Infinite lives
+                 34716 24
+           Crushers don't kill
+                34445 201
+           Monsters don't kill
+                36765 201
+         Water etc. doesn't kill
+                 39504 0
+           Set number of lives
+                39039 num
+                 Immunity
+                36765 201
+
+                Moon Alert
+              Infinite lives
+                 39754 0
+                 Immunity
+                42654 195
+              Infinite time
+                 42249 24
+
+                Moonbuggy
+              Infinite lives
+                26647 183
+
+               Moon Cresta
+                 Immunity
+                 38036 0
+                 38117 0
+
+            Moonlight Madness
+              Infinite lives
+                57145 183
+
+               Moon Strike
+              Infinite lives
+                 42205 0
+                   ???
+                 42251 60
+                42252 202
+
+         Morris Meets the Bikers
+              Infinite lives
+                 26134 0
+
+                  Motos
+              Infinite lives
+                42241 167
+          Set start level (1-60)
+                33270 num
+             Start same level
+                 33288 0
+           Set number of lives
+                33300 num
+              Infinite power
+                 42462 0
+                 33292 0
+                 41966 9
+              Infinite Jumps
+                 42473 0
+                 41967 9
+                 33295 0
+
+            to be continued...
+_________________________________________

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 14123,
+    "article_url": "https://zxpress.ru/article.php?id=14123",
+    "print_url": "https://zxpress.ru/print.php?id=14123",
+    "title_link": "news - новости сцены.",
+    "order": 1,
+    "issue_label": "37c",
+    "short_slug": "news_-_новости_сцены"
+  },
+  {
+    "article_id": 14124,
+    "article_url": "https://zxpress.ru/article.php?id=14124",
+    "print_url": "https://zxpress.ru/print.php?id=14124",
+    "title_link": "scene on - французские девушки тоже делают это: интервью с Амижным демомейкером.",
+    "order": 2,
+    "issue_label": "37c",
+    "short_slug": "scene_on_-_французские_девушки_тоже_делают_это_интервью_с_Ам"
+  },
+  {
+    "article_id": 14125,
+    "article_url": "https://zxpress.ru/article.php?id=14125",
+    "print_url": "https://zxpress.ru/print.php?id=14125",
+    "title_link": "test - хулиган ли вы?",
+    "order": 3,
+    "issue_label": "37c",
+    "short_slug": "test_-_хулиган_ли_вы"
+  },
+  {
+    "article_id": 14126,
+    "article_url": "https://zxpress.ru/article.php?id=14126",
+    "print_url": "https://zxpress.ru/print.php?id=14126",
+    "title_link": "brain damage - \"папа\".",
+    "order": 4,
+    "issue_label": "37c",
+    "short_slug": "brain_damage_-_папа"
+  },
+  {
+    "article_id": 14127,
+    "article_url": "https://zxpress.ru/article.php?id=14127",
+    "print_url": "https://zxpress.ru/print.php?id=14127",
+    "title_link": "scene more - вся правда о фидо.",
+    "order": 5,
+    "issue_label": "37c",
+    "short_slug": "scene_more_-_вся_правда_о_фидо"
+  },
+  {
+    "article_id": 14128,
+    "article_url": "https://zxpress.ru/article.php?id=14128",
+    "print_url": "https://zxpress.ru/print.php?id=14128",
+    "title_link": "заключение - авторы и т.д.",
+    "order": 6,
+    "issue_label": "37c",
+    "short_slug": "заключение_-_авторы_и_тд"
+  }
+]

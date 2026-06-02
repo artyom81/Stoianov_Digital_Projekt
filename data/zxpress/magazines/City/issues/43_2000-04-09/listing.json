@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 10578,
+    "article_url": "https://zxpress.ru/article.php?id=10578",
+    "print_url": "https://zxpress.ru/print.php?id=10578",
+    "title_link": "От редакции - недавно получил письма от VEL'a, Slack Den'a и Kvazar'a.",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "От_редакции_-_недавно_получил_письма_от_VELa_Slack_Dena_и_Kv"
+  },
+  {
+    "article_id": 10579,
+    "article_url": "https://zxpress.ru/article.php?id=10579",
+    "print_url": "https://zxpress.ru/print.php?id=10579",
+    "title_link": "Железо - схема АЦП из доступных элементов.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Железо_-_схема_АЦП_из_доступных_элементов"
+  },
+  {
+    "article_id": 10580,
+    "article_url": "https://zxpress.ru/article.php?id=10580",
+    "print_url": "https://zxpress.ru/print.php?id=10580",
+    "title_link": "Смайлик - смешной толковый словарь.",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "Смаилик_-_смешнои_толковыи_словарь"
+  },
+  {
+    "article_id": 10581,
+    "article_url": "https://zxpress.ru/article.php?id=10581",
+    "print_url": "https://zxpress.ru/print.php?id=10581",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 33).",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_33"
+  },
+  {
+    "article_id": 10582,
+    "article_url": "https://zxpress.ru/article.php?id=10582",
+    "print_url": "https://zxpress.ru/print.php?id=10582",
+    "title_link": "Бук - ПАПАХИ HА БАШHЯХ.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Бук_-_ПАПАХИ_HА_БАШHЯХ"
+  },
+  {
+    "article_id": 10583,
+    "article_url": "https://zxpress.ru/article.php?id=10583",
+    "print_url": "https://zxpress.ru/print.php?id=10583",
+    "title_link": "Beatles - N O R E P L Y.",
+    "order": 6,
+    "issue_label": "43",
+    "short_slug": "Beatles_-_N_O_R_E_P_L_Y"
+  },
+  {
+    "article_id": 10584,
+    "article_url": "https://zxpress.ru/article.php?id=10584",
+    "print_url": "https://zxpress.ru/print.php?id=10584",
+    "title_link": "Наш смак - яичница глазунья.",
+    "order": 7,
+    "issue_label": "43",
+    "short_slug": "Наш_смак_-_яичница_глазунья"
+  },
+  {
+    "article_id": 10585,
+    "article_url": "https://zxpress.ru/article.php?id=10585",
+    "print_url": "https://zxpress.ru/print.php?id=10585",
+    "title_link": "Реклама - Пpиобpету pазличную инфоpмацию по \"железу\" ZX Spectrum.",
+    "order": 8,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_Пpиобpету_pазличную_инфоpмацию_по_железу_ZX_Spectr"
+  }
+]

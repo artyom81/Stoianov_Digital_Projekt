@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 15329,
+    "article_url": "https://zxpress.ru/article.php?id=15329",
+    "print_url": "https://zxpress.ru/print.php?id=15329",
+    "title_link": "Вступление - стой, стрелять буду!",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_стои_стрелять_буду"
+  },
+  {
+    "article_id": 15330,
+    "article_url": "https://zxpress.ru/article.php?id=15330",
+    "print_url": "https://zxpress.ru/print.php?id=15330",
+    "title_link": "Oпять прoмaзaл - caтира. М.Зaдoрнoв.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Oпять_прoмaзaл_-_caтира_МЗaдoрнoв"
+  },
+  {
+    "article_id": 15331,
+    "article_url": "https://zxpress.ru/article.php?id=15331",
+    "print_url": "https://zxpress.ru/print.php?id=15331",
+    "title_link": "P.S. - послесловие.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "PS_-_послесловие"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5233,
+    "article_url": "https://zxpress.ru/article.php?id=5233",
+    "print_url": "https://zxpress.ru/print.php?id=5233",
+    "title_link": "Happy New Year - первый номер в наступившем году.",
+    "order": 1,
+    "issue_label": "24",
+    "short_slug": "Happy_New_Year_-_первыи_номер_в_наступившем_году"
+  },
+  {
+    "article_id": 5234,
+    "article_url": "https://zxpress.ru/article.php?id=5234",
+    "print_url": "https://zxpress.ru/print.php?id=5234",
+    "title_link": "Интервью - интервью у главного кодера, одного из авторов журнала Playboy: Владимира Крамаренко.",
+    "order": 2,
+    "issue_label": "24",
+    "short_slug": "Интервью_-_интервью_у_главного_кодера_одного_из_авторов_журн"
+  },
+  {
+    "article_id": 5235,
+    "article_url": "https://zxpress.ru/article.php?id=5235",
+    "print_url": "https://zxpress.ru/print.php?id=5235",
+    "title_link": "Грей - Gray Human-Spy (Thief, часть первая).",
+    "order": 3,
+    "issue_label": "24",
+    "short_slug": "Греи_-_Gray_Human-Spy_Thief_часть_первая"
+  },
+  {
+    "article_id": 5236,
+    "article_url": "https://zxpress.ru/article.php?id=5236",
+    "print_url": "https://zxpress.ru/print.php?id=5236",
+    "title_link": "Грей - Gray Human-Spy (Thief, часть вторая).",
+    "order": 4,
+    "issue_label": "24",
+    "short_slug": "Греи_-_Gray_Human-Spy_Thief_часть_вторая"
+  },
+  {
+    "article_id": 5237,
+    "article_url": "https://zxpress.ru/article.php?id=5237",
+    "print_url": "https://zxpress.ru/print.php?id=5237",
+    "title_link": "AD&D - описания монстров AD&D (часть первая).",
+    "order": 5,
+    "issue_label": "24",
+    "short_slug": "ADD_-_описания_монстров_ADD_часть_первая"
+  }
+]

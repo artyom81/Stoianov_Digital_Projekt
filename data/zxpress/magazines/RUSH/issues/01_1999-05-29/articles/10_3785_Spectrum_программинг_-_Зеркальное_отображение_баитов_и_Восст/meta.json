@@ -1,0 +1,15 @@
+{
+  "magazine_id": 178,
+  "magazine_name": "RUSH",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-05-29",
+  "order": 10,
+  "article_id": 3785,
+  "title_link": "Spectrum программинг - Зеркальное отображение байтов\r\n и Восстановление фона из буфера.",
+  "title_h1": "RUSH 01 - Spectrum программинг - Зеркальное отображение байтов  и Восстановление фона из буфера.",
+  "print_url": "https://zxpress.ru/print.php?id=3785",
+  "article_url": "https://zxpress.ru/article.php?id=3785",
+  "fetched_at": "2026-05-31T22:57:53Z"
+}

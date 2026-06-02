@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-10-31",
+  "order": 3,
+  "article_id": 8888,
+  "title_link": "Фантастика - Эрис Лоренс \"Этот проклятый компьютер\".",
+  "title_h1": "Echo 01 - Фантастика - Эрис Лоренс \"Этот проклятый компьютер\".",
+  "print_url": "https://zxpress.ru/print.php?id=8888",
+  "article_url": "https://zxpress.ru/article.php?id=8888",
+  "fetched_at": "2026-05-31T22:00:06Z"
+}

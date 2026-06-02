@@ -1,0 +1,739 @@
+Problematische Magazine zur manuellen Sichtung
+=============================================
+
+Legende:
+- validator_status: OK / OK+WARN / FEHLER / N/A
+- issues_zero_articles: Issues mit 0 Artikelordnern
+- issues_missing_articles_dir: Issues ohne articles/-Ordner
+- problem_reasons: konkrete Gründe für manuelle Sichtung
+
+- 20
+  magazine_id: 2
+  validator_status: OK+WARN
+  issues: 5
+  articles: 38
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_20_20260602_004745.txt
+  problem_reasons: Validator meldet Warnungen
+
+- 47th_Byte
+  magazine_id: 5
+  validator_status: OK+WARN
+  issues: 1
+  articles: 8
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_47th_Byte_20260602_004741.txt
+  problem_reasons: Validator meldet Warnungen
+
+- All_Paper
+  magazine_id: 10
+  validator_status: OK+WARN
+  issues: 1
+  articles: 9
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_All_Paper_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- BBSTOP
+  magazine_id: 24
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_BBSTOP_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Batva
+  magazine_id: 23
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Batva_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Best_of
+  magazine_id: 25
+  validator_status: OK+WARN
+  issues: 3
+  articles: 8
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Best_of_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Bred
+  magazine_id: 305
+  validator_status: OK+WARN
+  issues: 6
+  articles: 58
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Bred_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen
+
+- CAFe_2003
+  magazine_id: 337
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_CAFe_2003_20260602_004741.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Cancer
+  magazine_id: 37
+  validator_status: OK+WARN
+  issues: 2
+  articles: 21
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Cancer_20260602_004747.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Chudo
+  magazine_id: 40
+  validator_status: OK+WARN
+  issues: 1
+  articles: 9
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Chudo_20260602_004748.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Cossackos
+  magazine_id: 44
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Cossackos_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Dermo
+  magazine_id: 54
+  validator_status: OK+WARN
+  issues: 1
+  articles: 14
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Dermo_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Dr__Longman_s_News
+  magazine_id: 59
+  validator_status: OK+WARN
+  issues: 5
+  articles: 19
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Dr__Longman_s_News_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Dune
+  magazine_id: 61
+  validator_status: OK+WARN
+  issues: 5
+  articles: 27
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Dune_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Electra
+  magazine_id: 330
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Electra_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Enigma_Tape_Magazine
+  magazine_id: 324
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Enigma_Tape_Magazine_20260602_004741.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Explorer
+  magazine_id: 69
+  validator_status: OK+WARN
+  issues: 4
+  articles: 37
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Explorer_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Fantadrom
+  magazine_id: 72
+  validator_status: OK+WARN
+  issues: 4
+  articles: 44
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fantadrom_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Fantastic
+  magazine_id: 73
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fantastic_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Fantasy
+  magazine_id: 328
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fantasy_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Fantik
+  magazine_id: 74
+  validator_status: OK+WARN
+  issues: 7
+  articles: 16
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fantik_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Fenzin
+  magazine_id: 77
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fenzin_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Fuck
+  magazine_id: 84
+  validator_status: OK+WARN
+  issues: 4
+  articles: 33
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Fuck_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Funny_Box
+  magazine_id: 87
+  validator_status: OK+WARN
+  issues: 5
+  articles: 20
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Funny_Box_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Funny_Night
+  magazine_id: 88
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Funny_Night_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- GMS_News
+  magazine_id: 329
+  validator_status: OK+WARN
+  issues: 3
+  articles: 8
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_GMS_News_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Gorodok
+  magazine_id: 92
+  validator_status: OK+WARN
+  issues: 15
+  articles: 110
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Gorodok_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Heresy
+  magazine_id: 95
+  validator_status: OK+WARN
+  issues: 11
+  articles: 155
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Heresy_20260602_004747.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Hooy_Mag
+  magazine_id: 332
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Hooy_Mag_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Innovision
+  magazine_id: 101
+  validator_status: OK+WARN
+  issues: 1
+  articles: 8
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Innovision_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen
+
+- LntNews
+  magazine_id: 113
+  validator_status: OK+WARN
+  issues: 1
+  articles: 6
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_LntNews_20260602_004740.txt
+  problem_reasons: Validator meldet Warnungen
+
+- MSF
+  magazine_id: 128
+  validator_status: OK+WARN
+  issues: 11
+  articles: 292
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_MSF_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Marazm
+  magazine_id: 116
+  validator_status: OK+WARN
+  issues: 25
+  articles: 48
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Marazm_20260602_004740.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Mirage
+  magazine_id: 123
+  validator_status: OK+WARN
+  issues: 2
+  articles: 12
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Mirage_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Modern
+  magazine_id: 125
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Modern_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Muchomor
+  magazine_id: 129
+  validator_status: OK+WARN
+  issues: 1
+  articles: 9
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Muchomor_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Murzilka
+  magazine_id: 130
+  validator_status: OK+WARN
+  issues: 4
+  articles: 63
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Murzilka_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen
+
+- NemoFAQ
+  magazine_id: 135
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_NemoFAQ_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Opium
+  magazine_id: 148
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Opium_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Orion
+  magazine_id: 150
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Orion_20260602_004745.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Out_Side
+  magazine_id: 153
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Out_Side_20260602_004746.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Overlog
+  magazine_id: 154
+  validator_status: OK+WARN
+  issues: 4
+  articles: 24
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Overlog_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Playboy
+  magazine_id: 158
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Playboy_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Plutonium
+  magazine_id: 159
+  validator_status: OK+WARN
+  issues: 21
+  articles: 162
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Plutonium_20260602_004747.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Point
+  magazine_id: 160
+  validator_status: OK+WARN
+  issues: 1
+  articles: 11
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Point_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Pointovka_Report
+  magazine_id: 334
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Pointovka_Report_20260602_004745.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Psychoz
+  magazine_id: 167
+  validator_status: OK+WARN
+  issues: 18
+  articles: 268
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Psychoz_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Punk
+  magazine_id: 169
+  validator_status: OK+WARN
+  issues: 1
+  articles: 8
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Punk_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Rumorz
+  magazine_id: 177
+  validator_status: OK+WARN
+  issues: 1
+  articles: 10
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Rumorz_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Scene
+  magazine_id: 315
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Scene_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Scroller
+  magazine_id: 183
+  validator_status: OK+WARN
+  issues: 2
+  articles: 15
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Scroller_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Setevoy_Sokol
+  magazine_id: 184
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Setevoy_Sokol_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Sinc_Re-Stared
+  magazine_id: 188
+  validator_status: OK+WARN
+  issues: 3
+  articles: 24
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Sinc_Re-Stared_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Sinclair_Classic
+  magazine_id: 313
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Sinclair_Classic_20260602_004750.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Sinclair_News
+  magazine_id: 190
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Sinclair_News_20260602_004745.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Spectrum_Magazine
+  magazine_id: 312
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Spectrum_Magazine_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Spectrumania
+  magazine_id: 209
+  validator_status: OK+WARN
+  issues: 1
+  articles: 16
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Spectrumania_20260602_004745.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Teleshow
+  magazine_id: 219
+  validator_status: OK+WARN
+  issues: 5
+  articles: 24
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Teleshow_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Times
+  magazine_id: 223
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Times_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Warez
+  magazine_id: 235
+  validator_status: OK+WARN
+  issues: 3
+  articles: 17
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Warez_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen
+
+- WeekEnd
+  magazine_id: 236
+  validator_status: OK+WARN
+  issues: 5
+  articles: 35
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_WeekEnd_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen
+
+- White_Crow
+  magazine_id: 238
+  validator_status: OK+WARN
+  issues: 1
+  articles: 15
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_White_Crow_20260602_004740.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Wizard_News
+  magazine_id: 240
+  validator_status: OK+WARN
+  issues: 1
+  articles: 12
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Wizard_News_20260602_004741.txt
+  problem_reasons: Validator meldet Warnungen
+
+- Woot
+  magazine_id: 341
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Woot_20260602_004747.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- X-Magazine
+  magazine_id: 311
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_X-Magazine_20260602_004749.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- Xa-XaFon
+  magazine_id: 242
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_Xa-XaFon_20260602_004742.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- ZX_Healthless
+  magazine_id: 261
+  validator_status: OK+WARN
+  issues: 1
+  articles: 26
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Healthless_20260602_004747.txt
+  problem_reasons: Validator meldet Warnungen
+
+- ZX_Humor
+  magazine_id: 262
+  validator_status: OK+WARN
+  issues: 1
+  articles: 11
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Humor_20260602_004743.txt
+  problem_reasons: Validator meldet Warnungen
+
+- ZX_Land
+  magazine_id: 303
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Land_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+
+- ZX_Live
+  magazine_id: 266
+  validator_status: OK+WARN
+  issues: 3
+  articles: 22
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Live_20260602_004751.txt
+  problem_reasons: Validator meldet Warnungen
+
+- ZX_Magazine
+  magazine_id: 268
+  validator_status: OK+WARN
+  issues: 3
+  articles: 34
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Magazine_20260602_004740.txt
+  problem_reasons: Validator meldet Warnungen
+
+- ZX_Paper
+  magazine_id: 272
+  validator_status: OK+WARN
+  issues: 1
+  articles: 11
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Paper_20260602_004748.txt
+  problem_reasons: Validator meldet Warnungen
+
+- ZX_Revija
+  magazine_id: 327
+  validator_status: OK+WARN
+  issues: 0
+  articles: 0
+  issues_zero_articles: 0
+  issues_missing_articles_dir: 0
+  validator_log: validate_ZX_Revija_20260602_004744.txt
+  problem_reasons: Validator meldet Warnungen | Magazin ohne Issues
+

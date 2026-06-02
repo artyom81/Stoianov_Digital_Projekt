@@ -1,0 +1,191 @@
+[
+  {
+    "article_id": 7460,
+    "article_url": "https://zxpress.ru/article.php?id=7460",
+    "print_url": "https://zxpress.ru/print.php?id=7460",
+    "title_link": "Вступление - Об авторах журнала.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_Об_авторах_журнала"
+  },
+  {
+    "article_id": 7465,
+    "article_url": "https://zxpress.ru/article.php?id=7465",
+    "print_url": "https://zxpress.ru/print.php?id=7465",
+    "title_link": "Вступление - вторая часть.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_вторая_часть"
+  },
+  {
+    "article_id": 7466,
+    "article_url": "https://zxpress.ru/article.php?id=7466",
+    "print_url": "https://zxpress.ru/print.php?id=7466",
+    "title_link": "Вступление - навигация.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_навигация"
+  },
+  {
+    "article_id": 7461,
+    "article_url": "https://zxpress.ru/article.php?id=7461",
+    "print_url": "https://zxpress.ru/print.php?id=7461",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 7462,
+    "article_url": "https://zxpress.ru/article.php?id=7462",
+    "print_url": "https://zxpress.ru/print.php?id=7462",
+    "title_link": "UPGRADE - К вопросу об установке 3.5' FDD.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "UPGRADE_-_К_вопросу_об_установке_35_FDD"
+  },
+  {
+    "article_id": 7463,
+    "article_url": "https://zxpress.ru/article.php?id=7463",
+    "print_url": "https://zxpress.ru/print.php?id=7463",
+    "title_link": "Система - IBM:GIF - FORMAT: описание графического формата (GIF).",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Система_-_IBMGIF_-_FORMAT_описание_графического_формата_GIF"
+  },
+  {
+    "article_id": 7464,
+    "article_url": "https://zxpress.ru/article.php?id=7464",
+    "print_url": "https://zxpress.ru/print.php?id=7464",
+    "title_link": "Обзор - Обзор игровых программ ...",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Обзор_-_Обзор_игровых_программ"
+  },
+  {
+    "article_id": 7468,
+    "article_url": "https://zxpress.ru/article.php?id=7468",
+    "print_url": "https://zxpress.ru/print.php?id=7468",
+    "title_link": "Разборка - Описание игры THE GOONIES.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Разборка_-_Описание_игры_THE_GOONIES"
+  },
+  {
+    "article_id": 7469,
+    "article_url": "https://zxpress.ru/article.php?id=7469",
+    "print_url": "https://zxpress.ru/print.php?id=7469",
+    "title_link": "Система - Описание музыкального редактора FLASH TRACKERa v2 (for SOUND DRIVER v1.0).",
+    "order": 9,
+    "issue_label": "00",
+    "short_slug": "Система_-_Описание_музыкального_редактора_FLASH_TRACKERa_v2"
+  },
+  {
+    "article_id": 7470,
+    "article_url": "https://zxpress.ru/article.php?id=7470",
+    "print_url": "https://zxpress.ru/print.php?id=7470",
+    "title_link": "Система - описание редактора спрайтов: MICROSTUDIO",
+    "order": 10,
+    "issue_label": "00",
+    "short_slug": "Система_-_описание_редактора_спраитов_MICROSTUDIO"
+  },
+  {
+    "article_id": 7471,
+    "article_url": "https://zxpress.ru/article.php?id=7471",
+    "print_url": "https://zxpress.ru/print.php?id=7471",
+    "title_link": "Система - Студии (обзор) : MULTICOLOR STUDIO.",
+    "order": 11,
+    "issue_label": "00",
+    "short_slug": "Система_-_Студии_обзор_MULTICOLOR_STUDIO"
+  },
+  {
+    "article_id": 7472,
+    "article_url": "https://zxpress.ru/article.php?id=7472",
+    "print_url": "https://zxpress.ru/print.php?id=7472",
+    "title_link": "Приколы - \"Сказка о рыбаке и рыбке.\"",
+    "order": 12,
+    "issue_label": "00",
+    "short_slug": "Приколы_-_Сказка_о_рыбаке_и_рыбке"
+  },
+  {
+    "article_id": 7473,
+    "article_url": "https://zxpress.ru/article.php?id=7473",
+    "print_url": "https://zxpress.ru/print.php?id=7473",
+    "title_link": "Гости - О перспективах развития SPECCY.",
+    "order": 13,
+    "issue_label": "00",
+    "short_slug": "Гости_-_О_перспективах_развития_SPECCY"
+  },
+  {
+    "article_id": 7474,
+    "article_url": "https://zxpress.ru/article.php?id=7474",
+    "print_url": "https://zxpress.ru/print.php?id=7474",
+    "title_link": "Разборка - Описание игры : MAPSNATCH",
+    "order": 14,
+    "issue_label": "00",
+    "short_slug": "Разборка_-_Описание_игры_MAPSNATCH"
+  },
+  {
+    "article_id": 7475,
+    "article_url": "https://zxpress.ru/article.php?id=7475",
+    "print_url": "https://zxpress.ru/print.php?id=7475",
+    "title_link": "Система - IS-DOS : проблемы и решенeния : RAM-DISK.",
+    "order": 15,
+    "issue_label": "00",
+    "short_slug": "Система_-_IS-DOS_проблемы_и_решенeния_RAM-DISK"
+  },
+  {
+    "article_id": 7467,
+    "article_url": "https://zxpress.ru/article.php?id=7467",
+    "print_url": "https://zxpress.ru/print.php?id=7467",
+    "title_link": "Пожелания - Пара слов вместо эпилога.",
+    "order": 16,
+    "issue_label": "00",
+    "short_slug": "Пожелания_-_Пара_слов_вместо_эпилога"
+  },
+  {
+    "article_id": 12667,
+    "article_url": "https://zxpress.ru/article.php?id=12667",
+    "print_url": "https://zxpress.ru/print.php?id=12667",
+    "title_link": "Вступление - в\r\nданный мoмент Bы видите третий выпуск\r\nнашей газетки.",
+    "order": 17,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_вданныи_мoмент_Bы_видите_третии_выпускнашеи_газ"
+  },
+  {
+    "article_id": 9950,
+    "article_url": "https://zxpress.ru/article.php?id=9950",
+    "print_url": "https://zxpress.ru/print.php?id=9950",
+    "title_link": "Music - Вернёмся к давно обещанной теме \"музыки на заданные сэмплы\".",
+    "order": 18,
+    "issue_label": "00",
+    "short_slug": "Music_-_Вернемся_к_давно_обещаннои_теме_музыки_на_заданные_с"
+  },
+  {
+    "article_id": 4252,
+    "article_url": "https://zxpress.ru/article.php?id=4252",
+    "print_url": "https://zxpress.ru/print.php?id=4252",
+    "title_link": "Анекдоты - Юмор.",
+    "order": 19,
+    "issue_label": "00",
+    "short_slug": "Анекдоты_-_Юмор"
+  },
+  {
+    "article_id": 11419,
+    "article_url": "https://zxpress.ru/article.php?id=11419",
+    "print_url": "https://zxpress.ru/print.php?id=11419",
+    "title_link": "Посмеемся - ярамарка-выставка-презентация PIII от\r\nintel.",
+    "order": 20,
+    "issue_label": "00",
+    "short_slug": "Посмеемся_-_ярамарка-выставка-презентация_PIII_отintel"
+  },
+  {
+    "article_id": 16334,
+    "article_url": "https://zxpress.ru/article.php?id=16334",
+    "print_url": "https://zxpress.ru/print.php?id=16334",
+    "title_link": "SUPА-ГАMZ - PRОFESSIОNАL SKАTE SIMULАTОR.",
+    "order": 21,
+    "issue_label": "00",
+    "short_slug": "SUPА-ГАMZ_-_PRОFESSIОNАL_SKАTE_SIMULАTОR"
+  }
+]

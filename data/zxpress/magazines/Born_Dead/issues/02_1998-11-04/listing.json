@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 705,
+    "article_url": "https://zxpress.ru/article.php?id=705",
+    "print_url": "https://zxpress.ru/print.php?id=705",
+    "title_link": "Refresh - Увидеть и умереть...",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Refresh_-_Увидеть_и_умереть"
+  },
+  {
+    "article_id": 707,
+    "article_url": "https://zxpress.ru/article.php?id=707",
+    "print_url": "https://zxpress.ru/print.php?id=707",
+    "title_link": "Новое в мире звуков - Качественный цифровой звук на AY - мечта или реальность.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Новое_в_мире_звуков_-_Качественныи_цифровои_звук_на_AY_-_меч"
+  },
+  {
+    "article_id": 706,
+    "article_url": "https://zxpress.ru/article.php?id=706",
+    "print_url": "https://zxpress.ru/print.php?id=706",
+    "title_link": "Новости - Работа над CSC Deja VU завершена. Эмулятор Pentagon-128 для платформы АМИГА. Редактор уровней для ЧВ.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Работа_над_CSC_Deja_VU_завершена_Эмулятор_Pentagon"
+  },
+  {
+    "article_id": 703,
+    "article_url": "https://zxpress.ru/article.php?id=703",
+    "print_url": "https://zxpress.ru/print.php?id=703",
+    "title_link": "От редакции - О планах на будщее.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "От_редакции_-_О_планах_на_будщее"
+  }
+]

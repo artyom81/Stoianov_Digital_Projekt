@@ -1,0 +1,325 @@
+ACNews 63 - News - I wrote a 3D engine like Total Eclipse, occupied myself with my own compiler of C-like language, still collect information about the history of ZX Spectrum.
+News
+                        by Alone Coder
+
+This year I visited DiHalt (where I showed a new game by
+Hippiman/Conscience, named NOMAD ) and the autumn NedoPC
+conference. Savelij13 showed there his new version of MSXDOS2
+with FAT16 support as far as I understood. This time I can't
+make releases. I still don't have working place at home, and at
+my job there is fulltime writing of science end technical
+reports with nice tables and pictures. I sit there without a
+vacation, at Saturdays, and I already have 26 compensatory days.
+As for Hippiman, he has a second child now :)
+
+Works with Info Guide e-zine are going slow. Hippiman and I are
+busy. Shaitan (an old editor) contacted me and displayed certain
+interest in e-zine revival. We have materials for a half of
+issue, but the main topic (i.e. about 3D engines) is not covered
+yet.
+
+For this, I wrote a 3D engine like Total Eclipse, and I showed
+it at NedoPC conference. Drawing is sometimes buggy but not
+critical. There is still no object converter, so object data are
+typed in manually. No physical engine, no scripting engine, so
+one can't make game of it now. I studied documentation on
+various scripting languages in game systems, but none catched my
+fancy. I should make my own.
+
+Because of this and not only, I occupied myself with my own
+compiler of C-like language (working title NedoLang ) and an
+assembler for it (working title NedoAsm ). It is planned to
+compile both under this same compiler, so there might be a live
+project of high-level developing environment natively at Speccy
+(maybe better than C-Warp ). The main idea is to make an
+identical developing environment at PC - compile it from the
+same sources, not by my compiler, but by gcc. For this, my
+language is made C compatible - to compile it with a C compiler,
+one must include a few defines. There was another idea - to make
+a cross compiler base on Z80 emulation in a web application.
+However, I still have no information about possible speed in
+PHP, JavaScript, and Java. Anyway, there are means to convert C 
+to JavaScript.
+
+My syntax changes week after week. The current syntax is
+described in the next article. In three months I made a
+refactoring two times. The code is tangled again, so I must make
+another refactoring :) The code is 316 KB now (8000 lines).
+This is my largest C program. To put it more precisely, I
+initially wrote it in Delphi, and when it got worked, I
+converted it to C++, then to C.
+
+One can't write software in my language yet, because there is no
+includes and linking of binaries (now I have instead a stream of
+commands and another file with block sizes). This is because I
+haven't established requirements for system environment at
+Speccy (operating system in fact). Anyway, OS must provide more
+than 2 open files. Base commands already work in my compiler but
+I have to test them for a long time.
+
+I still collect information about the history of ZX Spectrum.
+Dmitry Devyatkin (whom I gave one of my old Pentagons - that one
+ZX-Guide was made with) sent me interesting recollections about 
+the radio market here in Ryazan. Slash/AtD also promised to
+recall something and record on a dictaphone. In the same time it
+appeared that two fitter workers at my plant produced Spectrums
+in
+1991 (they bought boards in Moscow). It seems that all sides
+knew one old radioamateur and a couple of market sellers, but we
+hadn't other contacts between us in the 90's. I also found
+Vyacheslav Miheev (an old acquintance of mine from 90's, also a
+seller and a coder) in the net, but he isn't interested with
+anything any more. There also was Nickolay Medvedev (a hacker
+from nearby house), but he forgot everything in 20 years and
+remembers only a crazy game "Treasure Island". A user from my
+house, Sergey Chemodanov (with whom we tried to make an animated
+film), also forgot everything. Even my father forgot everything,
+too. So we must record the history until it becomes too late.
+
+For example, how it went with ZX-Net in Saint Petersburg:
+
+________________________________________________________________
+#mhm 14 sep 2008
+
+...
+fkO> i have it at my node. however i haven't read netmail for 
+almost a year
+Alone_Coder> wow! who are the nodes and points? 
+fkO> me 500:812/1.507 
+fkO> node is Larkov 
+fkO> there are another points. Wlodek and Eugene Palenock wrote 
+me something a year ago
+fkO> so it's not completely dead, it's more like deep coma 
+Alone_Coder> when it was founded? 
+Alone_Coder> and when it started to use FTN 
+Alone_Coder> and who were all the coordinators 
+fkO> foundation date was in the first ZX-News, and the story 
+too.
+fkO> in short 
+fkO> in SPb there was Eldorado BBS and something like Montezuma 
+BBS
+fkO> they used Maximus at PC but with Vicomm modems. 
+deathsoft> fkO: Montezuma still works 
+deathsoft> it's my upnode 
+fkO> i forgot the name of a guy who found a way to connect 
+Vicomm to PC.
+fkO> this was commercial. 
+fkO> with crooked iS-DOS software 
+fkO> (in 1996) 
+Alone_Coder> who invented Vicomm? 
+Alone_Coder> is CDOS terminal related to CDOS operating system? 
+fkO> Vicomm is almost 80's! 
+Alone_Coder> 80's??? where they were?? 
+fkO> i don't know. Kondratyev told me that Spectrums with Vicomm 
+and iS-DOS software were used at cable TV to send commercials
+between studios
+fkO> iS-DOS program for this was called 'show'. 
+Alone_Coder> what were the terminal programs? [Dickie in iS-DOS] 
+fkO> well, in the end of 1996, MAS and somebody else, either 
+hired or willingly, wrote the first version of MMD (Macro Modem)
+fkO> and they started to call each other with it (it's a 
+terminal program for TR-DOS)
+fkO> then somehow BBSЗ.xx was written very fast and everybody 
+started BBSes at Spectrums.
+fkO> there vere a lot of stations in SPb. everyone opened his 
+own BBS and everybody called each other
+fkO> then XTR appeared, then Fidonet gate, all in 1997. 
+fkO> then everybody were tired of tossing echoconferences by 
+hand, so a gate was made into Fidonet (or other FTN) and back.
+fkO> there appeared a lot of FTN stations (people acquired PCs). 
+in the same time (end of 1997 or even earlier) we obtained an
+active connect to Moscow and other cities
+fkO> there were a lot of cities. 
+fkO> and in 1999-2000-2001 all of it actively collapsed. 
+fkO> the nets in other cities and Vicomm stations (BBS) started 
+to disappear. only FTN ZXNet remained with few best nodes
+Alone_Coder> were there Hayes modems in ZXNet? 
+fkO> Hayes modems in Spectrum were used only in FTN ZXNet. 
+fkO> i had both Vicomm and Hayes 
+fkO> i cracked Melon terminal to make it deliver netmail 
+automatically then run MMD after the call
+fkO> so i had BBS with MMDЧ.00 that sometimes delivered mail 
+from FTN with Hayes.
+fkO> then i bought a PC 
+fkO> there is a proprietary terminal program for iS-DOS sold by 
+IskraSoft, and there is Xenia written by Mihail Kondratyev.
+fkO> the former was for Vicomm, the latter for Hayes. 
+fkO> there were also simple things like Kondratyev's simple 
+terminal. i wrote such things too, both for Vicomm and Hayes.
+Alone_Coder> what encoding was used in Vicomm? Manchester code? 
+fkO> Vicomm uses something like frequency modulation with 
+variable duration of a bit (exactly one period of signal). with
+some tricks like pilot tone etc.
+Alone_Coder> BBSes used only BBSЗ.xx? where to download this 
+software? 
+Alone_Coder> was CDOS used in SPb? 
+fkO> we've seen CDOS in SPb (version by E-mage). It couldn't 
+acclimatize because we had our own, incompatible, file transfer
+protocol in MMD.
+fkO> CDOS looks fine, of course. Other popular variants were 
+MMD2.20, MMDЗ.15, MMDЧ.00.
+fkO> the first is just terminal, simple and debugged, with modem 
+driver. the last is its descendant with its own program language
+(for making your own BBS)
+deathsoft> fkO, is Vicomm something self-made? 
+deathsoft> like that in ATM Turbo where software modem used 
+onboard DAC/ADC 
+fkO> BBS 3.15 is a remake of BBSЗ.08 to work only with XTR modem 
+fkO> BBS is just a BBS program for Vicomm 
+Alone_Coder> who made BBSЗ.08? 
+fkO> all the MMD and BBS were written by MAS. 
+Alone_Coder> he is cool.
+fkO> many people cracked it later. mostly Vega (he made BBSЗ.15, 
+then lost the sources,i gave him mine,and he patched it to 3.20)
+deathsoft> Alone_Coder, why you forgot about modems in ATM1 and 
+ATM2? 
+Alone_Coder> deathsoft: i've never seen these modems 
+Alone_Coder> i don't know them 
+fkO> i also cracked BBSЗ.15 and added a driver to it (i don't 
+remember exactly but it must have worked with Vicomm)
+fkO> my versions were named BBSЗ.15<letter>, with letters 
+a,b,c,d,e,f,gh,i,A,B.
+Alone_Coder> all these programs worked with turbo off only? 
+fkO> later i made modem drivers for various versions of Vicomm. 
+including hacker versions that allowed to crack a BBS and make
+something there (with buffer overflow)
+deathsoft> Alone_Coder, ATM has DAC and ADC onboard 
+deathsoft> and a binding circuit for phone line 
+Alone_Coder> DAC and ADC is not a modem 
+Alone_Coder> binding circuit is a thing 
+deathsoft> look in ATM book 
+Alone_Coder> what was the software for ATM modem? 
+deathsoft> there were some programs 
+fkO> turbo ability depended on driver (except BBS without 
+drivers)
+fkO> later drivers used to turn off turbo (at Scorpions), not at 
+ATM possibly
+fkO> XTR modem didn't depend on turbo,it had its own timer or so 
+deathsoft> you can't turn off turbo in ATM by software 
+deathsoft> there is a switch 
+deathsoft> Scorpion allowed software switching 
+deathsoft> reading port 7FFD 
+deathsoft> and 1FFD 
+Alone_Coder> deathsoft: ATM2 has software switch 
+Alone_Coder> except for chatting and downloading, what else a 
+terminal could do? 
+fkO> Vicomm was initially just a circuit to connect Spectrum 
+tape port to phone line!
+fkO> then MAS invented an "addon" with relays to detect calls 
+and pick up the receiver and dial (via bit 5 of keyboard port)
+fkO> i made my first Vicomm from a Chinese phone, i soldered a 
+microphone and an earphone to tape-in/tape-out
+fkO> and i managed to reach KIR-BBS (Kirill Chubenko's) for the 
+first time.
+fkO> but they didn't let me in without a password. 
+deathsoft> so it's like tape saving with a long cord? 
+deathsoft> one side SAVE "ZZZ" 
+deathsoft> another side LOAD "" 
+deathsoft> is it so? 
+fkO> next day i called Timofey Lapo. 
+fkO> he explained me things, gave me a point number, and told 
+how to hack BBS by writing SAVE "z" CODE 16484, 9999 in Basic
+fkO> (Vicomm thought this was a very long block, its buffer 
+overflowed, and BBS buzzed)
+Alone_Coder> wow, so the modulation is like that in ROM routines
+deathsoft> terrible
+fkO> later i understood why it buzzed and made a driver to hack 
+BBS on the fly. press "crack" button and download anything, any
+file.
+deathsoft> exploit at ZX Spectrum!!! 
+deathsoft> with buffer overflow 
+Alone_Coder> where can we find all this software now? 
+Alone_Coder> why nobody wrote about this before ) 
+Alone_Coder> this is like a detective story ) 
+deathsoft> maybe it became out of current importance 
+fkO> ALL the software is (was) at Dragon BBS (Igor Gruzdev's). 
+fkO> i have most of software, maybe lost something. 
+Alone_Coder> put it out please 
+deathsoft> i already used PC BBS these times 
+fkO> i copied most of my archive to PC when i bought a PC 
+fkO> i shared everything: 
+deathsoft> i had a modem for PC in '95 
+Alone_Coder> i had it in 2001 
+deathsoft> in '98 i already had a 56K modem 
+fkO> http://pc.fkO.pp.ru/pub/zx 
+fkO> not everything but 99%. 
+fkO> well not. a lot is missing. 
+deathsoft> by the way, i booted two Spectrums with save/load 
+deathsoft> one did SAVE, another did LOAD 
+fkO> many ancient software is missing. it seemed out of 
+importance when i bought a PC (BBS and its sources still are on
+5.25" floppies!)
+deathsoft> make a .trd image 
+fkO> MMDЧ.00 is missing too 
+fkO> i bought it from MAS for 20000 big roubles 
+fkO> and promised not to give it to anybody. 
+Alone_Coder> how to download it as a single chunk? 
+fkO> rare time i bought software 
+Alone_Coder> you also bought Wolf2004 from me 
+fkO> yes. i also bought Black Raven and both UFOs from the 
+author.
+fkO> wget -r -np -k -x http://pc.fkO.pp.ru/pub/zx ? 
+Alone_Coder> accessed file is not public. 
+fkO> isdos? this is my iS-DOS HDD containing personal data 
+Alone_Coder> texts 
+deathsoft> i bought a lot of floppies at flea market 
+fkO> there were pirates. 
+deathsoft> they was almost at a price of a floppy disk 
+deathsoft> yes 
+deathsoft> i bought only there 
+deathsoft> tapes too 
+fkO> oops. i'll change permissions. 
+deathsoft> fkO, i see you have a Z80 patch for gcc 
+deathsoft> have you tried it? 
+deathsoft> i've seen it in the internet but never tried it 
+fkO> i didn't. it's for a specific version 
+deathsoft> it's in CVS 
+deathsoft> there are all the versions 
+Alone_Coder> a lot of articles about ZXNet must be written in 
+SpeccyWiki 
+fkO> http://pc.fkO.pp.ru/pub/zx/frunze/Dragon%2OBBS/ 
+fkO> here is ^^^ a great source of information about Speccy 
+Alone_Coder> what is *.zxl? 
+fkO> btw Dark Dragon BBS must be still online 
+fkO> zxl - text file 
+fkO> zxl - list of files at Maximus BBS about ZX Spectrum 
+fkO> there are also A LOT of books and OS/2 software 
+fkO> at Dark Dragon BBS. 
+________________________________________________________________
+
+Louisa has photographed my papers up to year 1990. The earliest
+ones mostly contain drawings. Few writing-books remained. I
+sorted all the photographed stuff by years and copied it to
+interested people at NedoPC conference. It appeared that almost
+nobody keeps documents like this. It's a pity.
+
+In the spring and summer John Silver wrote two new half-songs
+for AY. He didn't compose for 8 years! In autumn, John broke his
+leg when he skyjumped with parachute. Now he sits at home but
+can't write music any more. In turn, he's found a lot of
+tutorial videos about writing commercial music for ads.
+
+Mr. Event (he lives in Vladimir now) also wanted to resume
+composing, but no result yet. Neither Mr. Event nor me could
+find Nikphe that was a coder in our association in 1998-2000.
+
+AmoNik (Nickolay Amosov) wrote that he restores data from his
+iS-DOS HDD. 
+
+DNA OS site went down, so I uploaded all the data from there to 
+my site. The author of DNA OS - ZET-9 (Dmitry Avryata) -
+disappeared without trace. This open-sourced OS has chances for
+revival and development. I used it at my Pentagon and ATM for a
+long time. Hovewer, there appeared serious systems at ATM and
+Profi, MSXDOS2, and PQ-DOS correspondingly (see a separate 
+article). DNA OS site also contained a Pentagon version of UZIX
+system, named "SUZI". However, I'm not sure if one can work
+under such a system - we need more than 64 KB for a task. This
+also applies to SymbOS which had more interesting structure
+though.
+
+Another double of me, AloneCoder, appeared at habrahabr.ru :)
+
+I'm 35 now, and Dasha is 1 year. I was presented a 2 TB HDD,
+pocket chess, and a backpack with sleeping bag. So that's how we
+live :)

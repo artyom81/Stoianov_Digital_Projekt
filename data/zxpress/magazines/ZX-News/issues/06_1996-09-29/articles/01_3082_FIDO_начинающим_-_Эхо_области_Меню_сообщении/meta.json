@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "1996-09-29",
+  "order": 1,
+  "article_id": 3082,
+  "title_link": "FIDO начинающим - Эхо области. Меню сообщений.",
+  "title_h1": "ZX-News 06 - FIDO начинающим - Эхо области. Меню сообщений.",
+  "print_url": "https://zxpress.ru/print.php?id=3082",
+  "article_url": "https://zxpress.ru/article.php?id=3082",
+  "fetched_at": "2026-05-31T23:27:52Z"
+}

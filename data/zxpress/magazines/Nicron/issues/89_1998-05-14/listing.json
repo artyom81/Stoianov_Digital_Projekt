@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7070,
+    "article_url": "https://zxpress.ru/article.php?id=7070",
+    "print_url": "https://zxpress.ru/print.php?id=7070",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "89",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7071,
+    "article_url": "https://zxpress.ru/article.php?id=7071",
+    "print_url": "https://zxpress.ru/print.php?id=7071",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "89",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7072,
+    "article_url": "https://zxpress.ru/article.php?id=7072",
+    "print_url": "https://zxpress.ru/print.php?id=7072",
+    "title_link": "События - официальное обращение отдела регистрации FunTop'98.",
+    "order": 3,
+    "issue_label": "89",
+    "short_slug": "События_-_официальное_обращение_отдела_регистрации_FunTop98"
+  },
+  {
+    "article_id": 7073,
+    "article_url": "https://zxpress.ru/article.php?id=7073",
+    "print_url": "https://zxpress.ru/print.php?id=7073",
+    "title_link": "Рассказ - Толкатель (окончание).",
+    "order": 4,
+    "issue_label": "89",
+    "short_slug": "Рассказ_-_Толкатель_окончание"
+  },
+  {
+    "article_id": 7074,
+    "article_url": "https://zxpress.ru/article.php?id=7074",
+    "print_url": "https://zxpress.ru/print.php?id=7074",
+    "title_link": "Развлечения - лабиринт.",
+    "order": 5,
+    "issue_label": "89",
+    "short_slug": "Развлечения_-_лабиринт"
+  },
+  {
+    "article_id": 7075,
+    "article_url": "https://zxpress.ru/article.php?id=7075",
+    "print_url": "https://zxpress.ru/print.php?id=7075",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "89",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7076,
+    "article_url": "https://zxpress.ru/article.php?id=7076",
+    "print_url": "https://zxpress.ru/print.php?id=7076",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "89",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

@@ -1,0 +1,275 @@
+Scenergy 02 - Demo Party - неофициальные результаты Di:Halt'99 с коментариями Diver'a.
+DI:HALT:99: fake results AND/OR lame organisers?
+
+ (C) Diver/4D
+
+ С работами Di:Halt:99 произошла охеренная путаница. Это заметно
+по   несовпадению   номеров   работ   в   оффициальных   кратких
+результатах,  сборнике  работ  и  в  результатах,  напечатаных в
+Heresy #3. Ждать инфу от организаторов уже затрахало , поэтому я
+попытался  пораскинуть  мозгами  и  восстановить истинные списки
+насколько это было возможно.
+
+ Возможно все нижеизложенное  покажется вам несколько путанным и
+непонятным.  На первый  взгляд так оно  и  есть.  Если вам будет
+трудно сразу во все въехать,  то просто сравните восстановленный
+список в конце статьи  со сборниками работ  -  нумерация работ в
+нем гораздо достовернее чем во всех опубликованных результатах.
+
+
+ Несовпадения  были  замечены  в  music  и graphics, поэтому для
+начала я приведу исходные списки и укажу несовпадения.
+
+ 1. Cut from dhinfo.$w, published in DI:HALT:99 official pack:
+
+ Standard gfx:
+
+ place ##   pts title                 author
+
+  1    13   31  Child of nature       Erena Kline/Proxima/CTL
+  2     6   19  FarSight              Diver/4D
+       28   19  Cherish               Alf/X-Ray
+  3    21   18  Made in sky           Paracels/EI
+
+ 2. Cut from unofficial results, published in Heresy#3:
+
+
+
+
+ AY music:
+
+ place ##   pts title                 author
+
+  1     4   53   T-Rex must be atta.. Ice/PP
+  2     7   29   Aerodrome            Mast/FTL
+  3    12   18   A Tale of my Dream   Trivial/Beermanz
+  3    13   18   100 дней до приказа  Bear/MHCG
+  4     2   15   MentbI               MMCM/Sage
+  5     3    9   Danger               Mr.Credo/Dialog
+  5     5    9   The Event of Yeste.. TimeKeeper/MHCG
+  6    15    8   It's Suxx It's...    Spark/Syndrome
+  7    16    7   From Future          Caliph/Syndrome
+  7    11    7   Tracy Lords          Scull Crasher/THH
+  8    10    5   Paranormal           Black Groove/LFG
+  9    14    4   First 73...          Mr.First/#F0FF
+ 10     6    3   Smack my Beat up     Moonwalker/MHCG
+ 11     8    1   That's Liu_Go_Ma!    Siril/4D
+ 12     9    0   Lost in Space        McMaker/FTL
+ 12     1    0   Nu loops             Ironman
+ Standard gfx:
+
+ place ##   pts title                 author
+
+  1    13   31  Child of Nature       Erena Kline/Proxima
+  2    26   19  Cherish               Alf/X-Ray
+  2     6   19  Farsight              Diver/4D
+  3    21   18  Breeze
+  4    12   13  Kupava                Sergius Puzzler/Proxima
+  5    25    8  Hunter                Kristof/SNG
+  6    16    6  Stinger               Time Keeper/MCHG
+  6    18    6  Girl Face             Organizm/#F0FF
+  6     5    6  Dragon                Black Groove/LFG
+  6    19    6  As a lightning        Paracels/EI
+  7     7    5  Groove Champion       Cyber Jack/LFG
+  7    17    5  Damn_it
+  8     2    4  Burbhmtv              Blade+Ice'Di Griz/Triumph
+  8     3    4  StarWars              Ice'Di Griz/Triumph
+  8     1    4  You are agressive?    Virtual/Scene
+  8    27    4  MortCuko
+  9    11    2  BornDead              Unbeliever/XTM
+  9    15    2  Hear                  Second/#F0FF
+  9    20    2  Made in sky           Zhenya/IMC
+ 10     8    1  Psych                 Dr.Dismal/LFG
+ 11    14    0  Cobra                 Alf/X-Ray
+ 11     4    0  DJ                    Prof/4D
+ 11    10    0  Stonehendge           Cyber Jack/LFG
+ 11     9    0  Space Ship            Dr.Dismal/LFG
+ 11    22    0  Atom                  Dwarf/Beermanz/XTM
+ 11    23    0  Legenda               Dwarf/Beermanz/XTM
+ 11    24    0  Hac vs Muz            Dwarf/Beermanz/XTM
+
+
+ Разберемся для начала  с  музыкой,  потому как  с  графикой там
+вообще черт знает что творится.
+
+
+ Если сортирнуть музу с номера 11,  из результатов Heresy, то мы
+увидим:
+
+  7    11    7   Tracy Lords          Scull Crasher/THH
+  3    12   18   A Tale of my Dream   Trivial/Beermanz
+  3    13   18   100 дней до приказа  Bear/MHCG
+  9    14    4   First 73...          Mr.First/#F0FF
+  6    15    8   It's Suxx It's...    Spark/Syndrome
+  7    16    7   From Future          Caliph/Syndrome
+
+ А если заглянуть в party-pack, то:
+
+  3    11   18   A Tale of my Dream   Trivial/Beermanz
+  3    12   18   100 дней до приказа  Bear/MHCG
+  9    13    4   First 73...          Mr.First/#F0FF
+  6    14    8   It's Suxx It's...    Spark/Syndrome
+  7    15    7   From Future          Caliph/Syndrome
+  7    16    7   Tracy Lords          Scull Crasher/THH
+
+ Очень  интересное  дело  получается  ;-).  Выходит номера работ
+капитально не совпадают и в худшем случае голоса для работ 11-16
+подсчитаны   неправильно,   то   есть  на  третьем  месте  могут
+находиться  совсем  даже  другие  трэки.  Но в fake тут я могу и
+ошибаться,  и  очень,  знаете  ли, хотелось бы. Ошибаюсь я в том
+случае  если  на  party нумерация была не перепутана, а изменена
+была  лишь  в  сборнике  работ (может быть из-за немеряной длины
+последнего  трэка)  и  если  организаторы при добавлении голосов
+дополнительного  голосования  учтут эту перенумерацию, то только
+тогда будет все окей. В чем я сильно сомневаюсь :-(.
+
+ Теперь  перейдем  к  графике.  Тут  у  меня  такое чувство, что
+результатам  - полный звиздец. Потому что путаница замечена аж в
+2ух  местах  и  не  совпадает количество работ в результатах и в
+сборнике  -  это  вообще  веселуха ;-), за кого-то значит вообще
+забыли проголосовать. Ну, перейдем к делу.
+
+ С номера 1 по номер 17 никаких расхождений между результатами и
+сборником нет. Результаты из Heresy с работы #18:
+
+     18 Girl Face             Organizm/#F0FF
+     19 As a lightning        Paracels/EI
+     20 Made in sky           Zhenya/IMC
+     21 Breeze
+     22 Atom                  Dwarf/Beermanz/XTM
+     23 Legenda               Dwarf/Beermanz/XTM
+     24 Hac vs Muz            Dwarf/Beermanz/XTM
+     25 Hunter                Kristof/SNG
+     26 Cherish               Alf/X-Ray
+     27 MortCuko
+
+ Если глянуть в сборник, то увидим следующее, чисто на глазок:
+
+     18 Girl Face             Phantasm/Syndrome
+     19 Dark Force Rising     Organism/#F0FF
+     20 As a lighting         Paracels/EI
+
+ Налицо  перескок  после  title#18  на  author#19  с  дальнейшим
+сдвигом  всей таблицы. Сравним результаты. В Heresy на месте 3 у
+нас  работа  #21  -  Breeze, а в official pack - #21 Made in sky
+(#20  в  H.#3)  by  Paracels  (#19 в H.#3), ну не круто ли? Если
+возразите,   что   в   Heresy#3   просто  не  очень  достоверные
+результаты,  о  чем  Ash и предупреждает? О'кей, я согласен, и я
+его  не виню ни в чем, просто и результаты из official pack тоже
+кривые.  А  ошибка  в  music  compo results явно допущена не при
+переносе  рузультатов в Heresy, а гораздо раньше, как похоже и в
+graphics compo. Поэтому едем дальше.
+
+
+ Под номером 21 в сборнике стоит скрин который явно тянет именно
+на  3ье  место  (  не  в  обиду  Парацельсу ) и она вполне может
+называться "Breeze". Ну не "Made in Sky" же, хотя хрен знает ;-)
+как  только  не  называют  картинки.  Нечто  под  номером  22 из
+сборника либо "Breeze", идущий в рузультатах через 1 после PLS и
+перед  "Atom",  либо  не  знаю  что. Далее в сборнике идет легко
+идентифицируемый блок:
+
+     23 Atom                  Dwarf/Beermanz/XTM
+     24 Legenda               Dwarf/Beermanz/XTM
+     25 Hac vs Muz            Dwarf/Beermanz/XTM
+     26 Hunter                Kristof/SNG
+     27 Cherish               Alf/X-Ray
+     28 MortCuko
+
+ Тут виден сдвиг на 1 относительно Heresy.  И, о прикол! , сдвиг
+на 1, но уже в другую сторону относительно official pack results
+;-), там "Cherish" под номером 28!
+
+ Вообще,  логично  предположить, что номера работ распределенные
+по  местам  верны, а вот соответствием названий и номеров что-то
+напутали.  Но результатам в Heresy тоже я бы особо доверяться не
+стал.  Похоже,  все  таки,  что  "Cherish"  на  втором  месте, а
+Paracels   на   третьем.   В   сборнике  их  номера  #27  и  #20
+соответственно,  а  в  official  pack  -  #28  и  #21,  но тогда
+получается  сдвиг был еще раньше, например перескок произошел не
+с pic#18 на author#19, а на author#20! Мрак...
+
+ Или  путаница  произошла снова при создании сборника. Например,
+картинку  из середины закинули в конец (#29), остальное сдвинули
+вниз,  а  результаты  в  Heresy неверны - как минимум не хватает
+результатов  по  2ум  работам. Опять остается надеяться, что эта
+алхимия  была  не при голосовании/подсчете, и что дополнительные
+голоса  будут  учтены  корректно.  Иначе  все авторы работ будут
+конкретно кинуты...
+ Я  от души желаю всем не запутаться, и к слову, о vote list для
+сс999.999.  Соотвествие номеров и названий там строилось исходя,
+пережде   всего,  из  более  менее  доступного  всем  сборника и
+предположений  двух  предпоследних  абзацев.  А список получился
+следующий:
+
+AY music:
+
+      1 Nu loops               Ironman
+      2 MentbI                 MMCM/Sage
+      3 Danger                 Mr.Credo/Dialog
+      4 T-Rex must be attacked Ice/PP
+      5 The Event of Yesterday TimeKeeper/MHCG
+      6 Smack my Beat up       Moonwalker/MHCG
+      7 Aerodrome              Mast/FTL
+      8 LiuGoMa                Siril/4D
+      9 Lost in Space          McMaker/FTL
+     10 Paranormal             Black Groove/LFG
+     11 A Tale of my Dream     Trivial/Beermanz
+     12 100 дней до приказа    Bear/MHCG
+     13 First 73               Mr.First/#F0FF
+     14 It's Suxx It's for me  Spark/Syndrome
+     15 From Future            Caliph/Syndrome
+     16 Tracy Lords            Scull Crasher/THH
+
+
+Standart gfx:
+
+      1 You are agressive?    Virtual/Scene
+      2 Burbhmtv              Blade+Ice'Di Griz/Triumph
+      3 StarWars              Ice'Di Griz/Triumph
+      4 DJ                    Prof/4D
+      5 Dragon                Black Groove/LFG
+      6 Farsight              Diver/4D
+      7 Groove Champion       Cyber Jack/LFG
+      8 Psych                 Dr.Dismal/LFG
+      9 Space Ship            Dr.Dismal/LFG
+     10 Stonehendge           Cyber Jack/LFG
+     11 BornDead              Unbeliever/XTM
+     12 Kupava                Sergius Puzzler/Proxima
+     13 Child of Nature       Erena Kline/Proxima
+     14 Cobra                 Alf/X-Ray
+     15 Hear                  Second/#F0FF
+     16 Stinger               Time Keeper/MCHG
+     17 Damn_it               ?
+     18 Girl Face             Phantasm/Syndrome
+     19 Dark Force Rising     Organism/#F0FF
+     20 As a lighting         Paracels/EI
+     21 dihalt pic#21 (Ant)   ?
+     22 dihalt pic#22 (Eye)   ?
+     23 Atom                  Dwarf/Beermanz/XTM
+     24 Legenda               Dwarf/Beermanz/XTM
+     25 Hac vs Muz            Dwarf/Beermanz/XTM
+     26 Hunter                Kristof/SNG
+     27 Cherish               Alf/X-Ray
+     28 MortCuko              ?
+     29 dihalt pic#29 (Hand)  ?
+
+ Одна   из   неизвестных  картинок  называется  "Breeze",  автор
+какой-то  из  них  -  некий Zhenya/IMC. Насчет названия "Made in
+Sky",  осмелюсь  утверждать,  что  оно  не  подходит ни одной из
+оставшихся   картинок  и  было  придумано  на  ходу  для  скрина
+Парацельса.  Вот  и  все  дела.  В  любом случае, этот последний
+список  ближе  всего  к сборнику работ и голосовать на cc999.999
+придется  по  нему,  так как реальные органайзеры похоже впали в
+спячку, или никак не выйдут из шока.
+ И на последок о словах Wlodek'а Black'а в Nicron115, о том, что
+в   список   работ   cc999.999   можно  добавить  любую  работу,
+удовлетворяющую условиям конкурса. Imho список приведенный в том
+же номере и ранее опубликованый в эхе zx.spectrum все же полный.
+В  нем  учтены  все  работы,  выставленные  на  7  party  года +
+несколько    работ    признаных    органайзерами   опоздавшими и
+опубликованные   в   internet.   Добавить  что-то  еще  -  очень
+затруднительно. Потому как для начала надо найти работу, которая
+дошла  до  органайзеров,  но  опоздала и была не опубликована. А
+если  и  найдете,  то  какой  смысл за нее голосовать если почти
+никто кроме вас ее не видел?

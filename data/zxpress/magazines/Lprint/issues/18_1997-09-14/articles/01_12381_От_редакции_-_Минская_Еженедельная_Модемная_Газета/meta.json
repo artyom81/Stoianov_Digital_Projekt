@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1997-09-14",
+  "order": 1,
+  "article_id": 12381,
+  "title_link": "От редакции - Минская Еженедельная Модемная Газета.",
+  "title_h1": "Lprint 18 - От редакции - Минская Еженедельная Модемная Газета.",
+  "print_url": "https://zxpress.ru/print.php?id=12381",
+  "article_url": "https://zxpress.ru/article.php?id=12381",
+  "fetched_at": "2026-05-31T22:21:19Z"
+}

@@ -1,0 +1,848 @@
+004 - Outletters
+December, 1987       Page  Reply
+ JOE SOUTHALL..........02   05
+ BRIAN GAFF............06   10
+ NORMAN UNITT..........12   15
+ KELVIN MCWHA..........16   18
+ BERNARD EARP..........22   24
+ DON WEERASINGHE.......26   27
+ G.A. JENNER...........28   29
+ ANDREW CLAPHAM........30   35
+ IAN BEEBY.............37   40 
+FROM: JOE SOUTHALL
+
+
+Dear Ron & Ray,  [Who? - B.C.]
+
+How nice of you to send me
+OUTLET 3 before I had sent a
+cartridge.I had made the mistake
+of thinking that it had to be
+DURING November, not BEFORE
+November. I am also indebted to
+you for renewing OUTLET 1 which
+I feared I had spoiled by my own
+carelessness. I'm pleased to
+hear that this was not so as I
+am beset with hardware troubles
+- so much so that I cannot even
+load OUTLET 3! My faith in the
+microdrive is sagging! Hence my
+need to resort to Tasword to
+contact you. 
+Most of my cartridges are "once-
+used" from various sources, but
+the supply has virtually dried
+up. I don't know your own stock
+position, but I know that I
+shall soon be short unless I
+find some more. I realise that I
+can rely on you for the OUTLET
+cartridges, but I need more -
+assuming that my MD eventually
+works properly!
+
+I have found one stockist with a
+great many left, but he will
+sell a minimum of 100 @ 50p each
+plus VAT plus pp. This means a
+minimum outlay of about `67 - a
+little too hot for the likes of
+me!
+
+It occurred to me that you may 
+be prepared to act as a sort of
+agent for your members - at your
+terms of course! I feel that
+most of us would find such a
+service a great help to obtain
+10 or so at a time.
+
+You probably know this already
+and have enough for your needs.
+If not, the stockist is "Applied
+Technology" of Royston, Herts.
+(Tel. 0763 41754).
+
+To finish I would like to say
+how much I enjoy & also
+appreciate your trouble in
+providing OUTLET and look
+forward to the future.
+
+         Your very satisfied
+             client & friend,
+                 Joe Southall 
+P.S. I have sent you two
+cartridges to square me for your
+December issue. With this ruddy
+keyboard it would have been
+quicker to use pen and ink!
+
+TO: JOE SOUTHALL FROM RON+BRIAN
+We're both always glad to hear
+that people are enjoying OUTLET-
+it's worth all the effort!
+
+We like your idea of supplying
+cartridges to our readers but we
+couldn't offer the used ones at
+a fair price due to overheads,
+handling costs, etc. and they'll
+probably not be available much
+longer.Reluctantly we gave up on
+that.Even for new cartridges,the
+best we can do is `1.85 each.
+Let's try it and see. 
+From: Brian Gaff
+
+Hi, just received Issue 3 [бth
+November - B.C.]. It all loads
+OK. I have decided to send my
+letter this way for a change!
+[By Prestel Mailbox 014703943 -
+B.C.]. You crammed a lot in this
+time! By the way I guess you
+realised that the program by Mr.
+Sedgwick has already been up on
+our SPECTACULAR area! (He He)
+[bulletin board area on Prestel
+- B.C.]
+
+DISCOVERY: I have a Spectrados
+which is a Discovery with no
+drive fitted. I am looking for a
+3.5" drive actuallly! You will
+have to be careful as the BASIC,
+though compatible with Mdrive, 
+has some extensions that can
+cause trouble.
+
+2 DRIVE OUTLET: I agree its a
+good idea, but perhaps it may be
+better to plan these a month
+ahead so that a list could be
+published in the previous iss.
+So we could omit a month, say
+with an adventure we didn't want
+
+MDRIVE CARTS: The WOMPER or ICL
+OPD is still produced using
+Mdrives & indeed I have seen
+the four packs with ICL on 'em
+in office supply shops.
+
+COMMS: Well, I admit I don't
+know all the answers, but if
+there are any specific queries I
+will be glad to help. 
+The chap you had on this month's
+issue [Nov.issue- B.C.], I think
+was using the VTX711. This is
+the worst interface I know of!
+My only advice is, get rid of
+it! If he must use a separate
+modem & I/Face then the SPECTRE
+is the best. As an alternative,
+join PRESTEL, get their free
+VTX5O00 & then buy a Comms Rom
+from Spectre. This has very good
+facilities. I use it for most
+things. Of course if folk want
+to access 300 Baud BBs then a
+"real" modem & a Spectre Comms
+Pack is all there is that is
+reliable.
+
+Note though that the VTX5O00
+even with a Comms Rom may not
+work with a 128K of any sort! 
+128K: You can get some funnies
+if you do EDIT on a 48K program
+while in 128K! Take the line:
+LET poke = PEEK val. Now this is
+fine till you add a bit, or do
+any change. As soon as you do
+the variables poke & val get
+seen as Speccy keywords & it
+won't enter as it is not valid
+syntax!
+
+Oh well that's enough waffle,
+will send cart soon (wot
+happened to my prog?)
+
+             - Brian 
+To Brian Gaff from Brian Cavers
+
+Yes, I saw Gary Sedgwick's great
+program:- "MULTICOLS" up  on
+SPECTACULAR. He agreed to let us
+put it in OUTLET. I'd like to do
+a high-res picture using that
+multi-colour technique - I'm
+sure it's not just a gimmick.
+
+You'll have seen from the
+editorial that OUTLET will be a
+twin cartridge mag. from January
+and we'll give brief details of
+what's in the following issue in
+our GETOUT section.
+
+It's a good place and time for
+me to apologize to other readers
+for the omission of your program
+COMPEXPAND,the screen compressor 
+from Issue 3 (as promised in
+GETOUT in Issue 2). This was due
+to an intermittent bug in the
+program that I only discovered
+in the last few days of testing
+before duplication. [I've been
+in touch with Brian Gaff by
+mailbox and hope he can sort out
+the problem for a future issue].
+
+           - Brian Cavers 
+From: Mr N.H.Unitt
+
+Dear Ron & Brian,
+
+I've had a go with your second
+offering and have managed to
+mess up the cartridge by trying
+to save Zip onto the same one
+instead of my own! It seems that
+I have corrupted "HUH" as it now
+gives me "file not found"
+although most of it is loaded.
+
+Your plug on Micronet was the
+immediate cause of my sending
+for issue one. I had got so fed
+up with buying magazines that
+seemed to be nothing but games
+and oft repeated strange words
+such as "BRILL" and very little
+of serious nature that I decided 
+to splash out on OUTLET. It was
+the best move that I've made for
+some time.
+
+My Spectrum + is used for
+amusement only but not for games
+(except Scrabble). My bank
+account, household expenses,
+Christmas lists and, most
+recently, my daughter's wedding
+present list have been held in
+its bowels.
+
+That last paragraph has given
+away my age, hasn't it?
+
+One of the things that I wrote
+to amuse myself and family was
+the program DAYCALC. It will
+name the day for any date from
+March 1901 to February 2100. But 
+is the year 2000 a leap year? I
+think it is but 1900 was not.
+From that program came the
+simple one JANCALC which
+calculates 1st January for the
+same years and finally came
+CALENDAR. This one produces a
+calendar for any of those years
+and also has printer options for
+the brother HR-5.
+
+Perhaps they will amuse you or
+if you wish other subscribers to
+OUTLET. Finally perhaps you
+could put HUH onto my cartridge
+before you return it.
+
+Yours sincerely,
+
+(Norman Unitt) 
+To: Mr. N.H. Unitt from Brian
+
+I'll pass another note to Ron to
+make sure but I think you should
+have already received the fresh
+copy of HUH? by now. Many thanks
+for the programs which are in
+this issue. I couldn't quite get
+JANCALC in on its own (with
+added QUIT options etc.) so
+rather than not include it at
+all I compressed it a bit and
+merged it in at line 5000 in
+DAYCALC.
+
+I particularly liked the full
+CALENDAR print-out. It's most
+likely I'll be sticking that on
+this year's calendar's picture
+come the new year!
+                    - Brian 
+From: Kelvin McWha
+
+Dear Ron,
+
+Thank you for your letter about
+the problem with my order for
+the October issue of OUTLET. It
+is nice to see in this day and
+age that you have taken the
+trouble to sort out my order
+after the Post Office had almost
+destroyed it.
+
+My contribution was not much
+unfortunately. Just a letter
+saying what a great new
+cartridge-magazine you have
+brought out. Plus a couple of
+requests for information.
+
+My first Request is for 
+information regarding Artist 2.
+I wondered if anyone had been
+able to get Artist 2 and
+Pagemaker to print out via
+Interface 1-RS232 to a Brother
+HRS Printer. I have the latest
+edition of Artist 2, and Softec
+do not seem to be able to help
+me.
+
+Also you mentioned you have
+found a method which increases
+the reliability of microdrives.
+Is there any chance of letting
+us in on the secret.
+
+Thanks once more for your
+trouble.                                 
+
+Yours sincerely,
+
+         Kelvin McWha  
+To: Kelvin McWha from Brian
+
+
+The nucleus of our routine to
+improve microdrive reliablity is
+to detect any dubious sectors on
+a cartridge and isolate them by
+saving a 500 byte file called:
+CHR$ 0+"PATCH" on to them. To do
+this we use some modified
+routines from MDOCTOR. This does
+not seem to be available anymore
+unfortunately and, since it is
+copyright of course, we can't
+include it in OUTLET. However,
+there are other similar
+utilities which presumably have
+the capacity to write directly
+to a sector. Perhaps another
+reader may have information on
+that. 
+Some versions of Artist II have
+a fault in the bit-image coding.
+If you load Pagemaker and break
+in and PEEK 64034 = 7 then POKE
+64034,1 and then run the program
+and load a screen or something
+and try the printer. However, as
+I understand it, the same fault
+is present in the main program
+but you don't mention whether
+you can get dumps O.K. from
+Artist II itself. If not, the
+POKES are: 65180,1 & 65186,1. I
+have not yet tried these last 2
+POKES but I did try the one in
+Pagemaker and it worked O.K.
+
+If the above works alright on
+your system then you will, of
+course, need to re-save the code
+to form a customised copy of the
+ 
+program or you'll have to POKE
+the values in each time loaded.
+SAVE "ARTISTII" LINE 1
+SAVE "SCREEN$" SCREEN$
+SAVE "artCODE" CODE 26000,39536
+SAVE "pagemaker"LINE 15
+SAVE "fonts" CODE 29696,3072
+SAVE "scrcode" CODE 47000,1275
+SAVE "scrdump"CODE 64000,107
+SAVE "writeload" CODE 39700,45.
+I can't guarantee all these
+values of course as your version
+may be slightly different so if
+you have a header reader to
+check the code lengths and start
+lines then I suggest you use it.
+
+Now, it may well be that all the
+above is of no use to you! The
+real problem may be that the HRS
+is not quite Epson-compatible in 
+which case I am doubtful that
+anything can be done short of
+re-writing the code. We do have
+one or two other HRS owners
+amongst our readers who may be
+able to advise. In any event I'd
+be interested to hear how you
+get on.
+
+I'd also be interested to hear
+if anyone knows of a POKE to
+disable the automatic mouse
+detection in ARTIST II. It seems
+that it detects my MULTIFACE 1 -
+thinks it's a mouse and locks up
+the keyboard! That's my theory
+anyway! (No cheesy jokes please)
+
+                 - Brian 
+From: Bernard Earp                
+
+Dear Chezron,
+
+Another attempt at getting this
+set up to put together a letter
+without crashing or locking
+solid.
+
+I have enclosed 002 and 2 carts
+as 002 seems to have locked
+solid in its case, if this is a
+fault in my set up please
+duplicate it (002 NOT the fault)
+on one cart and send it back
+with the next issue. If you
+think the fault's at your end
+(it was a new cart I sent) well,
+then I am one cart in credit. 
+Your news about a possible 2
+cart OUTLET is great news for
+me, if not for my bank balance,
+you could advertise the coming
+main features and let the
+readers decide whether to send
+on one or two carts though I
+realise the mess this would make
+of your bookkeeping.
+
+I believe that it IS possible to
+return to 48k mode from within
+128k mode and still access the
+discdrive. It is starting out in
+48k that shuts you out of the
+drive.
+
+Bernard Earp 
+             TO BERNARD FROM RON
+Dear Bernard,
+
+By the time you see this in
+OUTLET you will have received a
+replacement for 002. As I
+explained, we had a bad batch of
+cartridges and, whilst we
+managed to eliminate a lot of
+these during our Format/Test/
+Duplication/Test routines, a few
+slipped out carrying the October
+issue. We do try to ensure that
+the same cartridges go back to
+the Users that sent them but, as
+you can imagine, it is pretty
+horrendous trying to keep track
+of them all (some days, I feel
+like I'm juggling soot!) so
+apologies for swapping your good
+cartridge for a duff one. 
+Also by this time you will have
+seen from the new order form
+that we will be continuing with
+the single cartridge option as
+well as introducing the new,
+two-cartridge OUTLET.
+
+Thanks for info about the +3
+we're more and more puzzled by
+this...
+
+           -Ron 
+FROM DON WEERASINGHE
+
+Dear Ron & Brian,
+
+Really enjoyed your OUTLET 2 and
+look forward to the November
+issue.
+
+Sorry for the delay, my son and
+I were trying to solve your JIG!
+BLOX but found it too tough.
+
+Managed to pick up another
+microdrive for `15 (including
+postage and packing) so I now
+have 2. Also picked up about 30
+carts at about 50p each - also a
+number of microdrive books.
+Having fun!
+
+If any one is interested there
+ 
+is a chap selling an I/F 1 and 2
+mdrives for `40 (see below)
+
+With best wishes. Hope to meet
+you at the ZX MICROFAIR on 12th
+December.
+           Yours sincerely,
+                    Don      
+--------------------------------
+FOR SALE: I/F 1 + 2 DRIVES - `40
+FROM: MR. ROBIN ABBOTT
+11 TWYNHAM COURT, TWYNHAM ROAD
+SOUTHBOURNE, DORSET (0202 420216
+HOME)   (0202 486344 OFFICE)
+--------------------------------
+
+TO DON WEERASINGHE FROM RON+BRI
+Thanks Don. Sorry about the JIG!
+BLOX - try this month's - just
+as tough but the prettiest one
+yet! Looking forward to seeing
+you at the ZXM! 
+
+Dear R & BC,
+
+You now contemplate a second
+cartridge! This may make the
+cost to many prohibitive. What
+about a cassette that will take
+both cartridge contents with a
+suitably split tape-to-cartridge
+program to allow the use of
+temporary cartridge loading with
+OUTLET remaining on the cassette
+for permanent retention?
+
+This opens up the possibility of
+even longer programs with a
+microdrive facility for fast
+loading and a satisfaction to
+subscribers.
+
+           G.A. JENNER 
+
+TO: MR. G.A. JENNER FROM BRIAN
+
+
+Remember, you will still be able
+to obtain the single cartridge
+of OUTLET at the present price
+and all the topical material
+like letters, the editorial,
+important messages, will all be
+on the first cartridge. The 2nd
+cartridge will be optional.
+
+However, I like your idea of
+SUPPLYING the magazine on
+cassette with a built in
+transfer to microdrive and we'll
+certainly keep thinking on this
+as a future possibility.
+
+                    - Brian 
+FROM: ANDREW CLAPHAM
+
+
+Hello,
+
+   I was mightily surprised to
+see TWO of my letters in Issue 3
+and the detail of your replies.
+Thank you.
+
+   In connection with Outlet and
+the Plus 3, referring back to
+P.C.W. 3-9 July last,in their
+LETTERS,one headed Spectrum disc
+limitations has, as the last
+sentence of P.C.W.'s reply,the
+following-
+
+  "The disc system on the Plus
+   3 can be used in both 48k
+   and 128k mode." 
+   Assuming that this is correct
+and the word 'not' has not been
+omitted,then there is hope for
+Outlet on the Plus 3 yet.
+
+   Also in P.C.W. this time
+23-29 Oct was a small ad from-
+V.I.Jenkinson, Beausite House,
+Meadow Lane, Over, Cambridge.
+СВЧ SNF. advertising MDV
+cartridges at `2.25 for four.
+Yes! four.I chanced my arm and
+ordered 16. They came in QL
+wallets and only needed some
+sellotape sticking over where
+the write protect lug should be.
+I have previously bought these
+for `1 each,being once used. Now
+the point is a slip came with
+them saying, further supplies
+are available at between `2.50 
+and `2.75 per four, but are only
+`2.50 for existing customers
+until 1Sth Dec.-So as a short
+term goodie the lowest price
+yet!
+
+   I have not so far seen any
+mention of the MAX and VISION
+WIMP systems perhaps you could
+provide more info on them in the
+near future.
+
+   Since you have the two
+cartridge issue pretty well
+taped! how about an occasional
+double issue to test the water
+so to speak. Or better still how
+about a Grand Double Issue
+Christmas Special to give us
+some respite from the
+Festivities- or have you already 
+thought of this but it's too
+short notice?
+
+   Congrats on your imaginative
+cover pages for each issue, I
+look forward to the next in
+anticipation. It must be
+becoming a full-time job
+assembling each issue not to
+mention the transferring onto
+each individual cartridge. A
+little note of just what goes
+into the production of each
+issue together with the
+attendant file administration
+for each subscriber would serve
+to show us just what value we
+get for each `1.
+
+   I know this is rather long-it
+shows what you can do with two
+ 
+fingers and the cursor keys, I
+really must learn how to use
+Tasword properly!
+
+           Regards, Andrew.
+
+P.S.I almost forgot. I recently
+bought a copy of BLAST-YOUR
+BASIC and had only one success
+in compiling a program through
+it.However it made Absolutely no
+difference to the running speed
+of the program in question. Then
+I read in the Spectrum section
+of Everyday Electronics 'that
+Blast promises so much and gives
+so little!' Does any Outlet
+subscriber know of a MDV
+compatible compiler that
+actually works?.
+TO: ANDREW CLAPHAM FROM BRIAN
+
+So there may be hope yet for the
++3 version of OUTLET!
+
+Thanks for info about cartridges
+as it may reassure some readers
+who also saw the ad but weren't
+too sure whether to risk it!
+
+I've not heard any more about
+the VISION desktop but I have
+seen recent confirmation that
+the MAX is genuinely waiting
+only for the documentation to be
+printed. We'll advise as soon as
+we know that either is on sale.
+
+Glad you like the OUTLET cover
+pages - I really enjoy doing
+them! Yes - a tremendous amount 
+of effort goes into each issue
+of OUTLET and I'd been thinking
+of doing a short article of just
+how OUTLET is produced so your
+comment prompts me to get on
+with this.
+
+I'd seen BLAST YOUR BASIC
+blasted in many reviews and
+letters pages! However, the
+HISOFT BASIC compiler is getting
+good things said about it. Brian
+Gaff has that compiler. How
+about a short review, Brian?
+
+             - Brian 
+From: Ian Beeby
+
+Dear Sir,
+
+Thanks for sending me a copy of
+OUTLET 002. I was very impressed
+with the quality of production
+of the magazine, and with the
+integrity of the data, it loaded
+first time every time! I have as
+a result placed an order.
+
+Suggestions for possible future
+inclusions? How about a screen
+COPY routine to the RS232 port
+so that I can use Masterfile mf.
+on my Brother HRS printer? Or a
+utility for loading corrupted
+Microdrive files for correction?
+Also I would be very happy if
+anyone could provide me with an 
+algorithm in Basic for adding
+together two or more sets of
+times in mins secs and tenths of
+secs for a scoreboard program I
+am attempting to write!!! I
+would be happy to contribute
+something for the magazine if I
+had the required programming
+skill, but in the circumstances,
+I rely on others to do that.
+
+Yours sincerely,
+
+Ian Beeby
+
+P.S. think how much more you
+could cram on a screen if you
+used 40/50/64 characters per
+line?
+
+P.P.S. I have a microdrive
+ 
+version of Your Spectrum's
+MEGABASIC 0.4 a truly amazing
+BASIC implementation, do any of
+your other readers have this
+program? Have you seen it
+yourselves? Cheers! I.B. 
+To: Ian Beeby from Brian
+
+Thanks - glad you like the mag.
+
+I think MASTERFILE uses the
+Spectrum ROM COPY command to the
+ZX printer - certainly the early
+versions. The only way I can see
+that might work is to alter the
+CALL instruction in the MASTER-
+FILE code to call your own COPY
+software. Anybody feel like
+hacking? I could use this myself
+actually as I spent some time
+hacking into the BASIC string
+variable which holds the data so
+that I could print it out only
+to realize that it is not STORED
+in alphabetical order - it's
+only DISPLAYED ON SCREEN in
+order. 
+Here's a simple algorithm for
+adding two different times (for
+more than two just keep adding!)
+If your accumulated time is, say
+20 mins 45.8 secs. and you wish
+to add 6 mins 30.2 secs then:-
+
+ MINUTES     SECONDS     TENTHS
+LET m1=20   LET s1=45   LET t1=8
+LET m2=6    LET s2=30   LET t2=2
+
+10 LET t1=t1+t2: IF t1>=10 THEN
+LET s1=s1+1: LET t1=t1-10
+
+20 LET s1=s1+s2: IF s1>=60 THEN
+LET m1=m1+1: LET s1=s1-60
+
+30 LET m1=m1+m2
+
+If you don't particularly need
+to store the tenths of seconds 
+separately then forget the t1
+and t2 variables just:-
+
+LET s1=45.8: LET s2=30.2
+
+then omit line 10 completely.
+
+Yes, I think 64 characters a
+line is not comfortable reading
+on the Spectrum but 40 to 50
+would be nice. No reason why we
+haven't implemented it that I
+can think of other than finding
+time to develop the routines.
+
+Reviews I've read of MEGABASIC
+make me envious. I wish we could
+see some of your programs but I
+think MEGABASIC needs to be
+present to use them doesn't it?
+Is your scoreboard program in 
+MEGABASIC or Sinclair BASIC? If
+normal Sinclair BASIC, why not
+send it in when finished? This
+is the purpose of OUTLET. We're
+not simply looking for highly
+professional programs. If you
+don't feel confident in your
+programming then your writing
+ability is clearly good enough
+to do an article. How about a
+review of MEGABASIC? All you do
+is just kid yourself you're
+writing a letter, ramble on a
+bit longer than normal and stick
+to one subject - dead easy - and
+it gets you a free double issue
+of OUTLET. So would your score-
+board program. Anyway, we don't
+push anyone in OUTLET - enjoy
+the magazine - that's what it's
+all about!
+               - Brian.

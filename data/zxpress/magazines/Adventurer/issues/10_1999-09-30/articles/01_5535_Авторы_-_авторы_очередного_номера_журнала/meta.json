@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-09-30",
+  "order": 1,
+  "article_id": 5535,
+  "title_link": "Авторы - авторы очередного номера журнала.",
+  "title_h1": "Adventurer 10 - Авторы - авторы очередного номера журнала.",
+  "print_url": "https://zxpress.ru/print.php?id=5535",
+  "article_url": "https://zxpress.ru/article.php?id=5535",
+  "fetched_at": "2026-05-31T21:34:08Z"
+}

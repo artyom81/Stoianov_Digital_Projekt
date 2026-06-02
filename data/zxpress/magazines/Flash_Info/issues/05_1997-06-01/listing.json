@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10766,
+    "article_url": "https://zxpress.ru/article.php?id=10766",
+    "print_url": "https://zxpress.ru/print.php?id=10766",
+    "title_link": "Вступление - Скорей всего шестой номер выйдет\r\n в новом оформлении.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_Скореи_всего_шестои_номер_выидет_в_новом_оформл"
+  },
+  {
+    "article_id": 10767,
+    "article_url": "https://zxpress.ru/article.php?id=10767",
+    "print_url": "https://zxpress.ru/print.php?id=10767",
+    "title_link": "Новости - Новости от FLASH на 22.06.97 года.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_220697_года"
+  },
+  {
+    "article_id": 10768,
+    "article_url": "https://zxpress.ru/article.php?id=10768",
+    "print_url": "https://zxpress.ru/print.php?id=10768",
+    "title_link": "Новости - немного новостей из SPECCY WORLD'а.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Новости_-_немного_новостеи_из_SPECCY_WORLDа"
+  },
+  {
+    "article_id": 10769,
+    "article_url": "https://zxpress.ru/article.php?id=10769",
+    "print_url": "https://zxpress.ru/print.php?id=10769",
+    "title_link": "Реклама - Самые новые игры, системные программы, музыкальные демонстрации, электронные газеты и журналы!",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Самые_новые_игры_системные_программы_музыкальные_д"
+  }
+]

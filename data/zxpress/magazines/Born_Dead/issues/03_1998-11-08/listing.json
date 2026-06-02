@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 710,
+    "article_url": "https://zxpress.ru/article.php?id=710",
+    "print_url": "https://zxpress.ru/print.php?id=710",
+    "title_link": "Вынос тела - О выходе журнала Oberon #5.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вынос_тела_-_О_выходе_журнала_Oberon_5"
+  },
+  {
+    "article_id": 712,
+    "article_url": "https://zxpress.ru/article.php?id=712",
+    "print_url": "https://zxpress.ru/print.php?id=712",
+    "title_link": "Новости - Вышел Тульский журнал VOYAGER #2. Вести от Rst7: новая версия TASM.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Вышел_Тульскии_журнал_VOYAGER_2_Вести_от_Rst7_нова"
+  },
+  {
+    "article_id": 709,
+    "article_url": "https://zxpress.ru/article.php?id=709",
+    "print_url": "https://zxpress.ru/print.php?id=709",
+    "title_link": "От редакции - Первые отклики о газете.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "От_редакции_-_Первые_отклики_о_газете"
+  },
+  {
+    "article_id": 713,
+    "article_url": "https://zxpress.ru/article.php?id=713",
+    "print_url": "https://zxpress.ru/print.php?id=713",
+    "title_link": "Презентация - новая Черкасская группа: Scene",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Презентация_-_новая_Черкасская_группа_Scene"
+  },
+  {
+    "article_id": 711,
+    "article_url": "https://zxpress.ru/article.php?id=711",
+    "print_url": "https://zxpress.ru/print.php?id=711",
+    "title_link": "Презентация - Презентация журнала Oberon #5.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Презентация_-_Презентация_журнала_Oberon_5"
+  }
+]

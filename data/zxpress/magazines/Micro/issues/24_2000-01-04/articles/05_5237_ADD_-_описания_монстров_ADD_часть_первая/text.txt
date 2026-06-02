@@ -1,0 +1,711 @@
+Micro 24 - AD&D - описания монстров AD&D (часть первая).
+┌────────────────────────────┐
+      │Предисловие к "Монстрятнику"│▒
+      └────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+  Приведенный  ниже  текст является частью
+большого  описания  монстров  AD&D. Данный
+текст  предназначен прежде всего любителям
+и  профессионалам  AD&D.  Т.к.  текст ну-у
+очень  большой  (приблизительно около двух
+Мб),  то естественно, что закидывать в га-
+зету нам приходится его частями. На резон-
+ный  вопрос:  "Почему бы этот текст не вы-
+пустить отдельными дисками?" могу ответить
+лишь  одно:  из-за боязни, что диски могут
+"затеряться в пути", чего не скажешь о га-
+зете,  которую  легко можно передать через
+друзей,  Фидо или Интернет. Также возможны
+нарекания,  что текст на английском языке.
+Однако  по моему мнению прошли те времена,
+когда  для  компьютерщика можно было знать
+один  язык.  Так что либо учите английски,
+либо  ищите  друзей которые знают английс-
+кий.  Также  перевод очень затруднен из-за
+его художественности, кто пробовал перево-
+дить  хоть какой-то текст с помощью ПЦшных
+переводчиков  тот  меня поймет. Вот и все.
+Желаю приятного прочтения и спокойных снов
+по ночам. Со всеми вопросами обращаться по
+адрессу  69123  г.Запорожье, ул. Хортицкое
+шоссе  18/29.  Телефон  43-98-60, 49-62-02
+(Александр).
+
+
+      Advanced Dungeons & Dragons(r)
+               2nd Edition
+
+
+           Monstrous Manual(tm)
+              Game Accessory
+
+The  updated  Monstrous Manual(tm) for the
+AD&D(r) 2nd Edition Game
+
+
+TSR, Inc.    TSR Ltd.
+POB 756      120 Church End
+Lake Geneva  Cherry Hinton
+WI 53147     Cambridge CB1 3LB
+USA          United Kingdom
+
+
+ADVANCED  DUNGEONS  & DRAGONS and AD&D are
+registered trademarks owned by TSR, Inc.
+The TSR logo and MONSTROUS MANUAL are tra-
+demarks owned by TSR, Inc.
+
+Project Coordinator: Tim Beach
+
+Editor: Doug Stewart
+
+Editorial Assistant: Gaye O'Keefe
+
+Cover Illustration: Jeff Easley
+
+Interior  Illustrations:  Tony  DiTerlizzi
+(pencils,  inks,  and  colors  on insects,
+crustaceans,  faerie-folk,  and  miscella-
+neous creepy things), Jeff Butler (pencils
+and inks on ssmans, demihumans, humanoids,
+giants,  genies,  dragonets, and miscella-
+neous  part-human  creatures), Dave Simons
+(pencils,  inks, and colors on normal ani-
+mals,  almost  normal animals, and squishy
+things),  Tom Baxa (pencils, inks, and co-
+lors on gith-kind and miscellaneous), Mark
+Nelson (pencilssand inks on dragons, dino-
+saurs,  and  miscellaneous), Les Dorscheid
+(colors  on  most  of the book), Tim Beach
+and Doug Stewart (invisible stalker)
+
+Art  Coordination:  Peggy  Cooper with Tim
+Beach
+
+Typesetting: Gaye O'Keefe
+
+Keylining: Paul Hanchette
+
+Proofreading:   Karen   Boomgarden,   Anne
+Brown,  Andia  Hayday,  Thomas Reid, David
+Wise
+
+Guidance:  Steve  Winter, Tim Brown, James
+M. Ward
+
+Monster  Selection  Committee: Jeff Grubb,
+David Wise, John Rateliff, Tim Beach
+
+Development: Tim Beach, Doug Stewart, Sla-
+de  Henson, Thomas Reid, Jeff Grubb, Wolf-
+gang Baur, Jon Pickens, John Rateliff
+
+Design Concept for MONSTROUS COMPENDIUM(r)
+Appendices:  David  "Zeb" Cook, Steve Win-
+ter, Jon Pickens
+
+
+We  would  like to offer special thanks to
+the artists and the people who helped with
+development,  as well as Rich Baker, Caro-
+lyn  Chambers, Bill Connors, Peggy Cooper,
+Slade  Henson,  Dawn Kegley, Dan8 Knutson,
+Georgia S. Stewart, and Sue Weinlein. Many
+people have contributed to either the ori-
+ginal  first  edition  monster books or to
+the  MONSTROUS  COMPENDIUM(tm) appendices.
+The list that follows may not be complete,
+but  we  would like to thank the following
+people  for  their  contributions  t?  the
+monsters  described  in this book: the de-
+signers  and editors, Rich Baker, Jay Bat-
+tista,  Wolfgang  Baur,  Tim  Beach, Scott
+Bennie,  Donald  J.  Bingle, Linda Bingle,
+Karen Boomgarden, Grant Boucher, Al Boyce,
+Mike  Breault,  Anne Brown, Tim Brown, Dr.
+Arthur  W.  Collins,  Bill  Connors, David
+Denning, Dale Donovan, Newton Ewell, Nigel
+Findley, Steve Gilbert, Ed Greenwood, Jeff
+Grubb,  Gary Gygax, Luke Gygax, Allen Ham-
+mack,  Kris & Steve Hardinger, Andria Hay-
+day,  Bruce  A. Heard, Slade Henson, Tracy
+Hickman,  Harold  Johnson,  Rob King, Vera
+Jane  Koffler, Heike Kubasch, Steve Kurtz,
+J.  Paul  LaFountain,  Lenard Lakofka, Jim
+Lowder,  Franois  Marcela-Froideval, David
+Martin, Colin McComb, Anne McCready, Blake
+Mobley,  Kim  Mohan, Roger E. Moore, Chris
+Mortika, Bruce Nesmith, C. Terry Phillips,
+Jon  Pickens,  Brian  Pitzer,  Mike Price,
+Louis J. Prosperi, Tom Prusa, Jean Mu, Pa-
+ul  Reiche,  Jim  Sandt,  Lawrence Schick,
+Rick  Swan,  Greg Swedburg, Teeuwynn, John
+Terra, Gary Thomas, Allen Varney, James M.
+Ward, Dori Watry, Skip Williams, and Steve
+Winter;  the artists who helped define the
+monsters,  Tom  Baxa,  Brom,  Jeff Butler,
+Clyde  Caldwell, Doug Chaffee, Tony DiTer-
+lizzi,  Les  Dorscheid, Jeff Easley, Larry
+Elmore,  Fred Fields, Jim Holloway, Daniel
+Horne, Mark Nelson, Keith Parkinson, Harry
+Quinn, Robh Ruppel, Dave Simons, Dave Sut-
+herland,  D.A.  Trampier, Valerie Valusek;
+and  the people who put the books together
+and  make  them look good, Linda Bakk, Dee
+Barnett,  Steve  Beck, Peggy Cooper, Sarah
+Feggestad,  Paul  Hanchette,  Angelika Lo-
+kotz,  Gaye  O'Keefe, Stephanie Tabat, and
+Tracey  Zamagne;  and  anyone who has ever
+asked  a  question,  offered  constructive
+criticism,  written an article, or offered
+an  opinion  about  the  monsters  of  the
+AD&D(r)  game. Special thanks to Christop-
+her  M. Carter and Seth Goodkind for spot-
+ting errors.
+
+
+ADVANCED DUNGEONS & DRAGONS, AD&D, DRAGON,
+DRAGONLANCE,  FIEND  FOLIO,  FORGOTTEN RE-
+ALMS,  GREYHAWK,  RAVENLOFT,  SPELLJAMMER,
+and  WORLD OF GREYHAWK are registered tra-
+demarks  owned by TSR, Inc. AL-QADIM, DARK
+SUN, MONSTROUS COMPENDIUM, DUNGEON MASTER,
+DM,  and the TSR logo are trademarks owned
+by TSR, Inc. All TSR characters, character
+names, and the distinctive likenesses the-
+reof are trademarks owned by TSR, Inc.
+
+Random  House  and its affiliate companies
+have  worldwide distribution rights in the
+book  trade  for English language products
+of TSR, Inc.
+
+Distributed to the book and hobby trade in
+the United Kingdom by TSR, Ltd.
+
+Distributed  to the toy and hobby trade by
+regional distributors.
+
+This material is protected under the copy-
+right  laws of the United States of Ameri-
+ca. Any reproduction or other unauthorized
+use  of  the material or artwork contained
+herein  is  prohibited without the express
+written consent of TSR, Inc.
+
+Copyright (c)1995 TSR, Inc. All Rights Re-
+                 served.
+
+
+How To Use This Book
+
+This  hardcover Monstrous Manual was crea-
+ted  in  response  to the many requests to
+gather monsters into a single, durable vo-
+lume  which  would be convenient to carry.
+With  the  DUNGEON  MASTER(tm) Guide (DMG)
+and the Player's Handbook (PHB), the Mons-
+trous Manual forms the core of the AD&D(r)
+2nd Edition game.
+  Every monster from the MONSTROUS COMPEN-
+DIUM(r)  Volumes One and Two are contained
+within,  as  well  as a few creatures from
+later  volumes.  The monsters in the Mons-
+trous  Manual  have  been revised, edited,
+and  updated.  Statistics  for many of the
+creatures  have been corrected, new infor-
+mation  has been added to many of the ent-
+ries,  and many monsters have been reclas-
+sified.  There  are  some  new  beasts, as
+well. In cases of conflicting information,
+the  Monstrous  Manual supersedes all pre-
+viously published data.
+  Certain  entries  have been greatly con-
+densed  from MONSTROUS COMPENDIUM entries,
+to  make this book as complete as possible
+without  increasing its size or price. For
+instance, there is a full-page description
+of  ravens in the MONSTROUS COMPENDIUM ap-
+pendix  for  the GREYHAWK(r) campaign set-
+ting;  in this book, ravens are given only
+a few lines in the "Bird" entry. This pro-
+vides  enough information to use the crea-
+tures for a short encounter, and it allows
+a page to be devoted to another adversary.
+  To  find  a  monster  in this book, flip
+through  the  pages  or look in the index,
+which contains listings for the common na-
+me(s)  of every monster in the book, refe-
+renced to the correct page.
+  All  of  the monsters described here are
+typical  for  their  type. DMs should note
+that  unusual  variations  are encouraged,
+but  they are most effective when they de-
+part  from the expected. Likewise, entries
+describe typical lairs for creatures, from
+the  dungeon complexes they inhabit to the
+tree  houses they build; changing the look
+of these can make a monster encounter uni-
+que.
+
+Contents
+This introduction describes how to interp-
+ret  the monsters in this book. In additi-
+on,  there  are  three small appendices in
+the back of the book. The first deals with
+making monsters. The second covers monster
+summoning  and  includes tables for random
+determination  of  summoned  creatures; to
+make  random encounter charts for a campa-
+ign,  the DM should refer to Chapter 11 of
+the  DMG.  The third appendix is concerned
+with creating NPC parties.
+
+Other Worlds
+Several  of the monsters in this book have
+been   imported   from   specialized  game
+worlds,  such as the SPELLJAMMER(r) campa-
+ign  setting, the FORGOTTEN REALMS(r) set-
+ting,  or the DARK SUN(r) world. The mons-
+ters  in this book may be used in any set-
+ting;  if  a campaign setting is noted, it
+simply  describes  where  the  monster was
+first encountered, or where it is the most
+common. A particular monster still may not
+be  encountered  in  a  specific  campaign
+world;  this is up to the DM. For monsters
+from  one  of  the specific worlds, the DM
+should  consult  the appropriate MONSTROUS
+COMPENDIUM appendices.
+
+The Monsters
+Each monster is described fully, with ent-
+ries that describe behavior, combat modes,
+and so on. These are explained in the fol-
+lowing text.
+
+CLIMATE/TERRAIN defines where the creature
+is most often found. Climates include arc-
+tic,  sub-arctic, temperate, and tropical.
+Typical  terrain includes plain/scrub, fo-
+rest, rough/hill, mountain, swamp, and de-
+sert. In some cases, a range is given; for
+instance,  "cold" implies arctic, sub-arc-
+tic,  and colder temperate regions. FREQU-
+ENCY  is  the likelihood of encountering a
+creature in an area. Chances can be adjus-
+ted for special areas.
+
+        Very rare = 4% chance
+        Rare      = 11% chance
+        Uncommon  = 20% chance
+        Common    = 65% chance
+
+ORGANIZATION  is the general social struc-
+ture the monster adopts. "Solitary" inclu-
+des small family groups.
+
+ACTIVITY CYCLE is the time of day when the
+monster  is  most  active. Those active at
+night can be active at any time in subter-
+ranean  settings. These are general guide-
+lines and exceptions are fairly common.
+
+DIET shows what the creature usually eats.
+Carnivores   eat   meat,   herbivores  eat
+plants,  and omnivores eat either. Scaven-
+gers  primarily  eat carrion. If a monster
+does  not fit any of these categories, the
+substances  it  does  eat are described in
+the entry or in the text.
+
+INTELLIGENCE  is  the  equivalent of human
+"IQ."  Certain  monsters are instinctively
+cunning;  these  are  noted in the monster
+descriptions.  Ratings  correspond roughly
+to the following Intelligence ability sco-
+res:
+
+  0     Nonintelligent or not ratable
+  1     Animal intelligence
+  2-4   Semi-intelligent
+  5-7   Low intelligence
+  8-10  Average (human) intelligence
+  11-12 Very intelligent
+  13-14 Highly intelligent
+  15-16 Exceptionally intelligent
+  17-18 Genius
+  19-20 Supra-genius
+  21+   Godlike intelligence
+
+TREASURE  refers to the treasure tables in
+the  DUNGEON  MASTER  Guide. If individual
+treasure is indicated, each individual may
+carry it (or not, at the DM's discretion).
+Major  treasures  are usually found in the
+monster's  lair;  these are most often de-
+signed  and  placed by the DM. Intelligent
+monsters  will  use the magical items pre-
+sent and try to carry off their most valu-
+able treasures if hard pressed. If treasu-
+re is assigned randomly, roll for each ty-
+pe possible; if all rolls fail, no treasu-
+re  of  any type is found. Treasure should
+be adjusted downward if a few monsters are
+encountered.  Large treasures are noted by
+a multiplier (x10, for example); this sho-
+uld  not be confused with treasure type X.
+Treasure  types  listed in parentheses are
+treasures found in the creatures' lair. Do
+not  use the tables to place dungeon trea-
+sure,  since  the  numbers encountered un-
+derground will be much smaller.
+
+ALIGNMENT  shows  the  general behavior of
+the average monster of that type. Excepti-
+ons, though uncommon, may be encountered.
+
+NO. APPEARING indicates an average encoun-
+ter  size  for a wilderness encounter. The
+DM  should  alter this to fit the circums-
+tances as the need arises. This should not
+be used for dungeon encounters.
+  Note  that  some  solitary creatures are
+found in small groups; this means they are
+found  in very small family units, or that
+several  may  happen to be found together,
+but do not cooperate with one another.
+
+ARMOR CLASS is the general protection worn
+by humans and humanoids, protection due to
+physical  structure  or magical nature, or
+difficulty in hitting due to speed, refle-
+xes,  etc. Humans and humanoids of roughly
+man-size  that  wear  armor  will  have an
+unarmored rating in parentheses. Listed AC
+does not include any special bonuses noted
+in the description.
+
+MOVEMENT  shows  the relative speed rating
+of the creature. Higher speeds may be pos-
+sible for short periods. Human, demihuman,
+and humanoid movement rate is often deter-
+mined  by  armor type (unarmored rates are
+given  in parentheses). Movements measures
+in  special  units  (man  movement = 12; 1
+unit  approximately  equal  0.5 kilometres
+per hour), as follows:
+
+  Fl = flying
+  Sw = swimming
+  Br = burrowing
+  Cl = climbing
+  Wb = moving across webs
+
+  Flying  creatures also have a Maneuvera-
+bility  Class from A to E. Class A creatu-
+res have virtually total command over the-
+ir  movements  in the air; they can hover,
+face  any  direction in a given round, and
+attack  each  round. Class B creatures are
+very  maneuverable;  they  can hover, turn
+180 degrees in a round, and attack in each
+round. Class C creatures are somewhat agi-
+le  in the air; they cannot move less than
+half  their movement rate without falling,
+they can turn up to 90 degrees in a round,
+and attack aerially once every two rounds.
+Class  D creatures are somewhat slow; they
+cannot  move less than half their movement
+rate  without  falling,  can  turn only 60
+degrees  in  a  round, and can make a pass
+once  every three rounds. Class E includes
+large,  clumsy  fliers;  these cannot move
+less than half their movement rate without
+falling, can turn only 30 degrees in a ro-
+und,  and they can make one pass every six
+rounds.  See Chapter 9 of the DMG for more
+information.
+
+HIT DICE controls the number of hit points
+damage a creature can withstand before be-
+ing  killed.  Unless otherwise stated, Hit
+Dice are 8-sided (1-8 hit points). The Hit
+Dice  are rolled and the numbers shown are
+added  to  determine the monster's hit po-
+ints. Some monsters have a hit point spre-
+ad  instead of Hit Dice, and some have ad-
+ditional  points  added to their Hit Dice.
+Thus,  a  creature  with  4+4 Hit Dice has
+4d8+4  hit  points (8-36 total). Note that
+creatures  with  +3 or more hit points are
+considered  the  next  higher  Hit Die for
+purposes   of   attack  rolls  and  saving
+throws.
+
+THAC0 is the attack roll the monster needs
+to  hit  Armor  Class  0. This is always a
+function  of  Hit Dice, except in the case
+of  very  large,  nonaggressive herbivores
+(such  as  some  dinosaurs),  or creatures
+which  have certain innate combat abiliti-
+es.  A  human  or  demihuman always uses a
+player   character  THAC0,  regardless  of
+whether  they  are  player  characters  or
+"monsters." The THAC0 does not include any
+special bonuses noted in the descriptions.
+
+NUMBER  OF ATTACKS shows the basic attacks
+the  monster  can  make  in a melee round,
+excluding special attacks. This number can
+be  modified  by  hits that sever members,
+spells  such  as  haste  and  slow, and so
+forth.  Multiple  attacks indicate several
+members, raking paws, multiple heads, etc.
+
+DAMAGE/ATTACK shows the amount of damage a
+given attack causes, expressed as a spread
+of hit points (based on a die roll or com-
+bination  of  die  rolls).  If the monster
+uses weapons, the damage done by the typi-
+cal  weapon will be allowed by the parent-
+hetical  note "weapon." Damage bonuses due
+to  Strength  are listed as a bonus follo-
+wing the damage range.
+
+SPECIAL  ATTACKS  detail attack modes such
+as  dragon  breath,  magic use, etc. These
+are explained in the monster description.
+
+SPECIAL  DEFENSES  are precisely that, and
+are detailed in the monster description.
+
+MAGIC  RESISTANCE is the percentage chance
+that any magic cast upon the creature will
+fail to affect it, even if other creatures
+nearby are affected. If the magic penetra-
+tes  the resistance, the creature is still
+entitled  to any normal saving throw allo-
+wed.  Creatures  may  have  resistances to
+certain  spells;  this  is  not considered
+"magic  resistance",  which  is  effective
+against all spells.
+
+SIZE is abbreviated as
+
+ T = tiny (2' tall or less);
+ S = smaller than a typical human
+     (2+' to 4');
+ M = man-sized (4+' to 7');
+ L = larger than man-sized (7+' to 12');
+ H = huge (12+' to 25'); and
+ G = gargantuan (25+').
+
+Most  creatures  are measured in height or
+length;  some  are  measured  in diameter.
+Those  measured in diameter may be given a
+different  size  category  than  indicated
+above.  For  instance, while a 6-foot tall
+humanoid is considered size M, a spherical
+creature  6 feet in diameter has much more
+mass,  so is considered size L. Similarly,
+a  creature 12 feet long with a very slen-
+der  body (like a snake) might be conside-
+red only man-sized. Adjustments like these
+should  not  move a creature more than one
+size category in either direction.
+
+MORALE  is  a general rating of how likely
+the monster is to persevere in the face of
+adversity or armed opposition. This guide-
+line  can  be adjusted for individual cir-
+cumstances.  Morale  ratings correspond to
+the following range:
+
+  2-4   Unreliable
+  5-7   Unsteady
+  8-10  Average
+  11-12 Steady
+  13-14 Elite
+  15-16 Champion
+  17-18 Fanatic
+  19-20 Fearless
+
+XP  VALUE  is the number of experience po-
+ints awarded for defeating, but not neces-
+sarily killing, the monster. This value is
+a guideline that can be modified by the DM
+for the degree of challenge, encounter si-
+tuation, and for overall campaign balance.
+
+Combat is the part of the description that
+discusses  special  combat abilities, arms
+and armor, and tactics.
+
+Habitat/Society outlines the monster's ge-
+neral  behavior, nature, social structure,
+and goals. In some cases, it further desc-
+ribes  their  lairs  (the places they live
+in), breeding habits, and reproduction ra-
+tes.
+
+Ecology describes how the monster fits in-
+to  the  campaign  world, gives any useful
+products or byproducts, and any other mis-
+cellaneous information.
+
+Variations  of  a  monster  are given in a
+special  section  after  the  main monster
+entry.  These  can  be found by consulting
+the  index.  For  instance, the xorn entry
+also  describes  the xaren, a very similar
+creature.
+
+Psionics  are  mental  powers possessed by
+many  creatures  in  the Monstrous Manual.
+The  psionic listings are explained below:
+Level:  How  tough the monster is in terms
+of psionic experience level.
+
+Dis/Sci/Dev: How many disciplines the cre-
+ature  can  access,  followed by the total
+number of sciences and devotions the crea-
+ture knows. Monsters can know sciences and
+devotions  only  from the disciplines they
+can access.
+
+Attack/Defense:  The telepathic attack and
+defense  modes  that the creature can use.
+Note  that  defense modes are not included
+in the total number of powers the creature
+knows. Abbreviations used are as follows:
+
+ PB  Psionic Blast │M- Mind Blank
+ MT  Mind Thrust   │TS Thought Shield
+ EW  Ego Whip      │MB Mental Barrier
+ II  Id Insinuation│IF Intellect Fortress
+ PsC Psychic Crush │TW Tower of Iron Will
+
+Power  Score:  The  creature's usual score
+when  using  a power that is not automati-
+cally successful.
+
+PSPs: The creature's total pool of psionic
+strength  points (the maximum available to
+it).
+  The  rest  of  the listing indicates, by
+discipline, which powers the creature has,
+sometimes  listing the most common powers,
+sometimes listing only the powers that all
+members of the species have. Unless other-
+wise  noted, the creature always knows po-
+wers marked by an asterisk.
+  For  information  regarding  psionic po-
+wers,  see  PHBR5,  The  Complete Psionics
+Handbook.  If  the  DM  chooses not to use
+psionics  in  the campaign, the powers can
+be changed to magical equivalents or simp-
+ly ignored, though the latter severely im-
+pedes certain monsters.
+
+Aarakocra
+
+CLIMATE/TERRAIN:  Tropical and temperate
+                  mountains
+FREQUENCY:        Very rare
+ORGANIZATION:     Tribal
+ACTIVITY CYCLE:   Day
+DIET:             Carnivore
+INTELLIGENCE:     Average (8-10)
+TREASURE:         D
+ALIGNMENT:        Neutral good
+NO. APPEARING:    1-10
+ARMOR CLASS:      7
+MOVEMENT:         6,  Fl 36 (C)
+HIT DICE:         1+2
+THAC0:            19
+NO. OF ATTACKS:   2
+DAMAGE/ATTACK:    1-3/1-3 or 2-8 (weapon)
+SPECIAL ATTACKS:  Dive +4
+SPECIAL DEFENSES: Nil
+MAGIC RESISTANCE: Nil
+SIZE:             M (20' wing span)
+MORALE:           Steady (11)
+XP VALUE:         65
+
+
+The  aarakocra  are  a race of intelligent
+bird-men  that  live  on  the peaks of the
+highest mountains, spending their days so-
+aring  on  the  thermal winds in peace and
+solitude.
+  Aarakocra are about 5 feet tall and have
+a  wing  span  of  20  feet. About halfway
+along the edge of each wing is a hand with
+three human-sized fingers and an opposable
+thumb.  An elongated fourth finger extends
+the  length of the wing and locks in place
+for  flying.  Though the wing-hands cannot
+grasp  during  flight,  they are nearly as
+useful as human hands when an aarakocra is
+on  the  ground  and  its wings are folded
+back.  The  wing  muscles anchor in a bony
+chest  plate  that  provides the aarakocra
+with  extra  protection. The powerful legs
+end  in  four sharp talons that can unlock
+and  fold  back  to reveal another pair of
+functional  hands,  also  with  three  hu-
+man-sized  fingers and an opposable thumb.
+The  hand bones, like the rest of an aara-
+kocra's skeleton, are hollow and fragile.
+  Aarakocra faces resemble crosses between
+parrots  and  eagles. They have gray-black
+beaks,  and  black  eyes  set frontally in
+their  heads  that  provide keen binocular
+vision. Plumage color varies from tribe to
+tribe,  but generally males are red, oran-
+ge, and yellow while females are brown and
+gray.
+  Aarakocra  speak their own language, the
+language  of giant eagles, and, on occasi-
+on, the common tongue (10% chance).
+
+Combat:  In  aerial  combat,  an aarakocra
+fights  with  either  talons  or the heavy
+fletched  javelins that he clutches in his
+lower hands. An aarakocra typically carri-
+es  a  half dozen javelins strapped to his
+chest in individual sheaths. The javelins,
+which  can  be  used for throwing or stab-
+bing,  inflict 2d4 points of damage. Owing
+to  the  aarakocra's  remarkable  skill at
+throwing  javelins  in  the air, it incurs
+none  of  the  attack penalties for aerial
+missile fire. An aarakocra will always sa-
+ve  its last javelin for stabbing purposes
+rather  than throwing it. Its favorite at-
+tack  is  to dive at a victim while clutc-
+hing a javelin in each hand, then pull out
+of the dive just as it reaches its target,
+and  strike  with a blood-curdling shriek.
+This attack gains a +4 bonus to the attack
+roll  and causes double damage, but an aa-
+rakocra  must  dive  at  least 200 feet to
+execute it properly.
+  An  aarakocra  is reluctant to engage in
+grappling or ground combat, since its fra-
+gile bones are easily broken. Though rare-
+ly  used except when cornered, an aarakoc-
+ra's sharp beak can bite for 1-3 points of
+damage.
+
+Habitat/Society:  Aarakocra  live in small
+tribes  of  about 11-30 (1d20+10) members.
+Each tribe has a hunting territory of abo-
+ut  10,000 square miles with colorful ban-
+ners and pennants marking the boundaries.
+  Each tribe lives in a communal nest made
+of woven vines with a soft lining of dried
+grass.  The eldest male serves as the tri-
+be's  leader.

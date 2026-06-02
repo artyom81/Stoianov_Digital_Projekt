@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1996-02-28",
+  "order": 5,
+  "article_id": 4756,
+  "title_link": "Лит.Страничка - Рассказ \"IT'S I\".\r\n Новые приключения Винни Пуха (глава 7,8).",
+  "title_h1": "Lime Tree 15 - Лит.Страничка - Рассказ \"IT'S I\".  Новые приключения Винни Пуха (глава 7,8).",
+  "print_url": "https://zxpress.ru/print.php?id=4756",
+  "article_url": "https://zxpress.ru/article.php?id=4756",
+  "fetched_at": "2026-05-31T22:19:38Z"
+}

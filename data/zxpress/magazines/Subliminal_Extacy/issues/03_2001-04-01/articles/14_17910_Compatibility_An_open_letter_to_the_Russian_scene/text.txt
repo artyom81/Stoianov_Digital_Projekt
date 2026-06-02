@@ -1,0 +1,113 @@
+Subliminal Extacy 03 - Compatibility: An open letter to the Russian scene
+Compatibility: An open letter to the Russian scene
+
+                         By Gasman / RA
+
+I'm writing this letter to  ask you to make some  simple changes
+to the way you write demos, so they can be enjoyed by many  more
+people around Europe, and the rest of the world.
+
+As you may know, I  run the world's largest archive  of Spectrum
+demos at http://www.demo.eu.org/ . I  take a lot of care  to get
+all the demos in  .tap format, with a  loader in BASIC, so  they
+can  be  copied to  any  disc system  and  made to  run  just by
+altering the  BASIC loader.  A few  people have  asked me  why I
+don't use Hobeta or .trd format instead. It's because TR-DOS  is
+not very  common outside  Russia, so  most people  would have to
+convert the  demos to  their own  disc system  - and  that isn't
+always possible, because the  loader is written in  machine code
+specially for TR-DOS, and needs to be 'cracked'. Instead, a .tap
+file can be copied  automatically to any disc  system, including
+TR-DOS - try
+
+ftp://an.balticdata.lv/Speccy/PC_Files/Utils/TAP2TRD.ZIP
+
+Unfortunately, this means that some of the most important  demos
+-  'Refresh',  'Anamnesis',  'Napalm'  -  are  missing  from the
+archive, because nobody has managed to crack the loader. Why  do
+they have these loaders? Why can't they use a simple unprotected
+one instead?
+
+The only reason I can think of is that it stops your discs being
+filled with files like  'DEMO', 'demo1', 'demo2', 'demoЗ'...  To
+this, I reply:  What's more important  - sharing your  work with
+hundreds of sceners around  Europe, or having a  slightly better
+-looking directory on your disc?
+
+Every time I see  a demo with a  custom TR-DOS loader, it  feels
+like an insult, saying "We don't need the scene outside  Russia.
+The Russian scene is the only one that matters." The demo  scene
+is all about exchanging releases  freely - we shouldn't need  to
+crack them for our own systems. So, this is my first request:
+
+Please give  your demos simple  BASIC loaders, NOT  customised  
+TR-DOS only loaders.
+
+My  second  request  is about  a  hardware  problem on  original
+Spectrums that you might not know about. When the I register  is
+set between  40 and  7F, the  computer crashes.  Please think of
+this while you're coding, and arrange your code so that  there's
+space to put it higher in  memory. I really don't think this  is
+hard to do. When I looked at the Whim 16K intro from Paradox  2k
+to try and fix this problem, I discovered that it could be fixed
+just by changing ONE BYTE! It  would be impossible for me to  go
+through all the demos and fix them, so this is what I'm asking: 
+
+Please don't put interrupt  tables in the memory between  4000  
+and 7FFF.
+
+This is one response I've heard:
+
+"Why can't you watch our demos on an emulator instead?"
+
+Emulators suck. They're getting  better and better, but  they're
+nothing like the real computer.  Also, quite a few people  don't
+have PCs to run emulators on - one of the most popular magazines
+from the  UK is  'Crashed', and  it's the  only one  [apart from
+Subliminal Extacy ;-) ] to cover the demo scene in detail.  Dave
+Fountain, the  editor, writes  and designs  it all  using only a
+Spectrum. Obviously, he can only  review the demos if they  work
+on an original Spectrum.
+
+Coders: What would you think if I put this code in my demos...
+
+               LD A, computer_type
+               CP    pentagon
+               JP NZ,demo
+               DI
+               HALT
+
+Stupid, isn't it? But it's just the same as what you're doing. I
+could  just  tell you  to  run it  on  a emulator  instead  of a
+Pentagon, but that  wouldn't change the  facts. You'd be  angry,
+because THERE'S NO REASON FOR IT. There's no reason to make your
+demos only for Pentagon and Scorpion, either.
+
+So, to repeat, this is all I ask:
+
+1. Do all of the loading within BASIC: for example,
+   
+RANDOMIZE USR 15619: REM : LOAD "demo1"CODE
+
+2. Don't  put an  interrupt table  in memory  between 4000-7FFF.
+   Using 8000-BFFF is best.
+
+Without these  changes, we  can't watch  your demos  at all. The
+changes  won't  make  everything  work  perfectly  (for example,
+multicolour might not look exactly right) but these are the most
+important ones.  Fixing multicolour  would be  a lot  harder (or
+impossible, if a Pentagon is  all you have), and that's  why I'm
+not asking you to do that. We  just want to be able to see  your
+work, even if it doesn't look exactly right.
+
+When you make your next demo, please think about us!
+
+I'd be interested to hear  any comments or questions about  this
+issue,  and  I'll  try  to  reply  to  them  all.  E-mail  me at
+gasman@raww.org . Thanks!
+-- 
+Gasman / Raww Arse - gasman@raww.org
+www.demo.eu.org/ - the home of the Spectrum demo scene
+   ///
+  //   "Standing in my yard, where they tore down the garage
+ /      to make room for the torn down garage"

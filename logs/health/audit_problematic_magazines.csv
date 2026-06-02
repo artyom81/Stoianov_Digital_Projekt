@@ -1,0 +1,74 @@
+magazine,magazine_id,issues,articles,issues_missing_articles_dir,issues_zero_articles,has_mag_listing_json,validator_status,validator_log,problem_reasons
+20,2,5,38,0,0,1,OK+WARN,validate_20_20260602_004745.txt,Validator meldet Warnungen
+47th_Byte,5,1,8,0,0,1,OK+WARN,validate_47th_Byte_20260602_004741.txt,Validator meldet Warnungen
+All_Paper,10,1,9,0,0,1,OK+WARN,validate_All_Paper_20260602_004749.txt,Validator meldet Warnungen
+BBSTOP,24,0,0,0,0,1,OK+WARN,validate_BBSTOP_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Batva,23,0,0,0,0,1,OK+WARN,validate_Batva_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Best_of,25,3,8,0,0,1,OK+WARN,validate_Best_of_20260602_004749.txt,Validator meldet Warnungen
+Bred,305,6,58,0,0,1,OK+WARN,validate_Bred_20260602_004744.txt,Validator meldet Warnungen
+CAFe_2003,337,0,0,0,0,1,OK+WARN,validate_CAFe_2003_20260602_004741.txt,Validator meldet Warnungen | Magazin ohne Issues
+Cancer,37,2,21,0,0,1,OK+WARN,validate_Cancer_20260602_004747.txt,Validator meldet Warnungen
+Chudo,40,1,9,0,0,1,OK+WARN,validate_Chudo_20260602_004748.txt,Validator meldet Warnungen
+Cossackos,44,0,0,0,0,1,OK+WARN,validate_Cossackos_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Dermo,54,1,14,0,0,1,OK+WARN,validate_Dermo_20260602_004746.txt,Validator meldet Warnungen
+Dr__Longman_s_News,59,5,19,0,0,1,OK+WARN,validate_Dr__Longman_s_News_20260602_004744.txt,Validator meldet Warnungen
+Dune,61,5,27,0,0,1,OK+WARN,validate_Dune_20260602_004743.txt,Validator meldet Warnungen
+Electra,330,0,0,0,0,1,OK+WARN,validate_Electra_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Enigma_Tape_Magazine,324,0,0,0,0,1,OK+WARN,validate_Enigma_Tape_Magazine_20260602_004741.txt,Validator meldet Warnungen | Magazin ohne Issues
+Explorer,69,4,37,0,0,1,OK+WARN,validate_Explorer_20260602_004746.txt,Validator meldet Warnungen
+Fantadrom,72,4,44,0,0,1,OK+WARN,validate_Fantadrom_20260602_004744.txt,Validator meldet Warnungen
+Fantastic,73,0,0,0,0,1,OK+WARN,validate_Fantastic_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fantasy,328,0,0,0,0,1,OK+WARN,validate_Fantasy_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fantik,74,7,16,0,0,1,OK+WARN,validate_Fantik_20260602_004749.txt,Validator meldet Warnungen
+Fenzin,77,0,0,0,0,1,OK+WARN,validate_Fenzin_20260602_004746.txt,Validator meldet Warnungen | Magazin ohne Issues
+Fuck,84,4,33,0,0,1,OK+WARN,validate_Fuck_20260602_004746.txt,Validator meldet Warnungen
+Funny_Box,87,5,20,0,0,1,OK+WARN,validate_Funny_Box_20260602_004743.txt,Validator meldet Warnungen
+Funny_Night,88,0,0,0,0,1,OK+WARN,validate_Funny_Night_20260602_004743.txt,Validator meldet Warnungen | Magazin ohne Issues
+GMS_News,329,3,8,0,0,1,OK+WARN,validate_GMS_News_20260602_004749.txt,Validator meldet Warnungen
+Gorodok,92,15,110,0,0,1,OK+WARN,validate_Gorodok_20260602_004750.txt,Validator meldet Warnungen
+Heresy,95,11,155,0,0,1,OK+WARN,validate_Heresy_20260602_004747.txt,Validator meldet Warnungen
+Hooy_Mag,332,0,0,0,0,1,OK+WARN,validate_Hooy_Mag_20260602_004751.txt,Validator meldet Warnungen | Magazin ohne Issues
+Innovision,101,1,8,0,0,1,OK+WARN,validate_Innovision_20260602_004743.txt,Validator meldet Warnungen
+LntNews,113,1,6,0,0,1,OK+WARN,validate_LntNews_20260602_004740.txt,Validator meldet Warnungen
+MSF,128,11,292,0,0,1,OK+WARN,validate_MSF_20260602_004742.txt,Validator meldet Warnungen
+Marazm,116,25,48,0,0,1,OK+WARN,validate_Marazm_20260602_004740.txt,Validator meldet Warnungen
+Mirage,123,2,12,0,0,1,OK+WARN,validate_Mirage_20260602_004746.txt,Validator meldet Warnungen
+Modern,125,0,0,0,0,1,OK+WARN,validate_Modern_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Muchomor,129,1,9,0,0,1,OK+WARN,validate_Muchomor_20260602_004749.txt,Validator meldet Warnungen
+Murzilka,130,4,63,0,0,1,OK+WARN,validate_Murzilka_20260602_004746.txt,Validator meldet Warnungen
+NemoFAQ,135,0,0,0,0,1,OK+WARN,validate_NemoFAQ_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Opium,148,0,0,0,0,1,OK+WARN,validate_Opium_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Orion,150,0,0,0,0,1,OK+WARN,validate_Orion_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Out_Side,153,0,0,0,0,1,OK+WARN,validate_Out_Side_20260602_004746.txt,Validator meldet Warnungen | Magazin ohne Issues
+Overlog,154,4,24,0,0,1,OK+WARN,validate_Overlog_20260602_004743.txt,Validator meldet Warnungen
+Playboy,158,0,0,0,0,1,OK+WARN,validate_Playboy_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+Plutonium,159,21,162,0,0,1,OK+WARN,validate_Plutonium_20260602_004747.txt,Validator meldet Warnungen
+Point,160,1,11,0,0,1,OK+WARN,validate_Point_20260602_004744.txt,Validator meldet Warnungen
+Pointovka_Report,334,0,0,0,0,1,OK+WARN,validate_Pointovka_Report_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Psychoz,167,18,268,0,0,1,OK+WARN,validate_Psychoz_20260602_004750.txt,Validator meldet Warnungen
+Punk,169,1,8,0,0,1,OK+WARN,validate_Punk_20260602_004749.txt,Validator meldet Warnungen
+Rumorz,177,1,10,0,0,1,OK+WARN,validate_Rumorz_20260602_004749.txt,Validator meldet Warnungen
+Scene,315,0,0,0,0,1,OK+WARN,validate_Scene_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Scroller,183,2,15,0,0,1,OK+WARN,validate_Scroller_20260602_004750.txt,Validator meldet Warnungen
+Setevoy_Sokol,184,0,0,0,0,1,OK+WARN,validate_Setevoy_Sokol_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Sinc_Re-Stared,188,3,24,0,0,1,OK+WARN,validate_Sinc_Re-Stared_20260602_004751.txt,Validator meldet Warnungen
+Sinclair_Classic,313,0,0,0,0,1,OK+WARN,validate_Sinclair_Classic_20260602_004750.txt,Validator meldet Warnungen | Magazin ohne Issues
+Sinclair_News,190,0,0,0,0,1,OK+WARN,validate_Sinclair_News_20260602_004745.txt,Validator meldet Warnungen | Magazin ohne Issues
+Spectrum_Magazine,312,0,0,0,0,1,OK+WARN,validate_Spectrum_Magazine_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Spectrumania,209,1,16,0,0,1,OK+WARN,validate_Spectrumania_20260602_004745.txt,Validator meldet Warnungen
+Teleshow,219,5,24,0,0,1,OK+WARN,validate_Teleshow_20260602_004751.txt,Validator meldet Warnungen
+Times,223,0,0,0,0,1,OK+WARN,validate_Times_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+Warez,235,3,17,0,0,1,OK+WARN,validate_Warez_20260602_004749.txt,Validator meldet Warnungen
+WeekEnd,236,5,35,0,0,1,OK+WARN,validate_WeekEnd_20260602_004742.txt,Validator meldet Warnungen
+White_Crow,238,1,15,0,0,1,OK+WARN,validate_White_Crow_20260602_004740.txt,Validator meldet Warnungen
+Wizard_News,240,1,12,0,0,1,OK+WARN,validate_Wizard_News_20260602_004741.txt,Validator meldet Warnungen
+Woot,341,0,0,0,0,1,OK+WARN,validate_Woot_20260602_004747.txt,Validator meldet Warnungen | Magazin ohne Issues
+X-Magazine,311,0,0,0,0,1,OK+WARN,validate_X-Magazine_20260602_004749.txt,Validator meldet Warnungen | Magazin ohne Issues
+Xa-XaFon,242,0,0,0,0,1,OK+WARN,validate_Xa-XaFon_20260602_004742.txt,Validator meldet Warnungen | Magazin ohne Issues
+ZX_Healthless,261,1,26,0,0,1,OK+WARN,validate_ZX_Healthless_20260602_004747.txt,Validator meldet Warnungen
+ZX_Humor,262,1,11,0,0,1,OK+WARN,validate_ZX_Humor_20260602_004743.txt,Validator meldet Warnungen
+ZX_Land,303,0,0,0,0,1,OK+WARN,validate_ZX_Land_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues
+ZX_Live,266,3,22,0,0,1,OK+WARN,validate_ZX_Live_20260602_004751.txt,Validator meldet Warnungen
+ZX_Magazine,268,3,34,0,0,1,OK+WARN,validate_ZX_Magazine_20260602_004740.txt,Validator meldet Warnungen
+ZX_Paper,272,1,11,0,0,1,OK+WARN,validate_ZX_Paper_20260602_004748.txt,Validator meldet Warnungen
+ZX_Revija,327,0,0,0,0,1,OK+WARN,validate_ZX_Revija_20260602_004744.txt,Validator meldet Warnungen | Magazin ohne Issues

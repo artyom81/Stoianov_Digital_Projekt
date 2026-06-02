@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1999-05-07",
+  "order": 4,
+  "article_id": 5206,
+  "title_link": "Юмор из Фидо - Дневник юзера Васи.",
+  "title_h1": "Micro 18 - Юмор из Фидо - Дневник юзера Васи.",
+  "print_url": "https://zxpress.ru/print.php?id=5206",
+  "article_url": "https://zxpress.ru/article.php?id=5206",
+  "fetched_at": "2026-05-31T22:25:47Z"
+}

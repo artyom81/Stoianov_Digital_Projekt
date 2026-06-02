@@ -1,0 +1,15 @@
+{
+  "magazine_id": 26,
+  "magazine_name": "Black Crow",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-06-01",
+  "order": 21,
+  "article_id": 1587,
+  "title_link": "Ликбез - Ассемблер взгляд издалека: О блочных командах, работа c портами.",
+  "title_h1": "Optron 33 - Ликбез - Ассемблер взгляд издалека: О блочных командах, работа c портами.",
+  "print_url": "https://zxpress.ru/print.php?id=1587",
+  "article_url": "https://zxpress.ru/article.php?id=1587",
+  "fetched_at": "2026-05-31T21:39:02Z"
+}

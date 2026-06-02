@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 85,
+    "article_url": "https://zxpress.ru/article.php?id=85",
+    "print_url": "https://zxpress.ru/print.php?id=85",
+    "title_link": "B.B.S. Новости - О 2-х новых B.B.S. : ZS-BBS & SRR-BBS.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "BBS_Новости_-_О_2-х_новых_BBS_ZS-BBS_SRR-BBS"
+  },
+  {
+    "article_id": 1956,
+    "article_url": "https://zxpress.ru/article.php?id=1956",
+    "print_url": "https://zxpress.ru/print.php?id=1956",
+    "title_link": "E-MAIL - Что такое B.B.S.? (продолжение)",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "E-MAIL_-_Что_такое_BBS_продолжение"
+  },
+  {
+    "article_id": 1958,
+    "article_url": "https://zxpress.ru/article.php?id=1958",
+    "print_url": "https://zxpress.ru/print.php?id=1958",
+    "title_link": "Железо - Почему в некоторых программах не работает Kempston?",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Железо_-_Почему_в_некоторых_программах_не_работает_Kempston"
+  },
+  {
+    "article_id": 1955,
+    "article_url": "https://zxpress.ru/article.php?id=1955",
+    "print_url": "https://zxpress.ru/print.php?id=1955",
+    "title_link": "Новье !? - О программах: Seymous wild west adventure, Paris to Dakar,\r\n Sergant Seymour Robotcop, Sky Hight Stuntman, Bubble Dizzy,\r\n CJ'Elephant Antics, Grell and Falla, Amazing Adventures of\r\n Robin Hood, Murray mouse super cop.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Новье_-_О_программах_Seymous_wild_west_adventure_Paris_to_Da"
+  },
+  {
+    "article_id": 1959,
+    "article_url": "https://zxpress.ru/article.php?id=1959",
+    "print_url": "https://zxpress.ru/print.php?id=1959",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1957,
+    "article_url": "https://zxpress.ru/article.php?id=1957",
+    "print_url": "https://zxpress.ru/print.php?id=1957",
+    "title_link": "Страна приколов - Одна ночь из жизни Alex-BBS.",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Страна_приколов_-_Одна_ночь_из_жизни_Alex-BBS"
+  }
+]

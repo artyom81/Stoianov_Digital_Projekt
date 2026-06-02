@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1996-07-31",
+  "order": 3,
+  "article_id": 539,
+  "title_link": "Интерфейс - \"Облом века\" - фельетон.",
+  "title_h1": "Adventurer 04 - Интерфейс - \"Облом века\" - фельетон.",
+  "print_url": "https://zxpress.ru/print.php?id=539",
+  "article_url": "https://zxpress.ru/article.php?id=539",
+  "fetched_at": "2026-05-31T21:32:35Z"
+}

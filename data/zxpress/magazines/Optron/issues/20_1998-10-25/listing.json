@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 900,
+    "article_url": "https://zxpress.ru/article.php?id=900",
+    "print_url": "https://zxpress.ru/print.php?id=900",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Deja VU 5.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Deja_VU_5"
+  },
+  {
+    "article_id": 898,
+    "article_url": "https://zxpress.ru/article.php?id=898",
+    "print_url": "https://zxpress.ru/print.php?id=898",
+    "title_link": "Лит. страничка - Гриф \"Y\" (Дневник Лаборанта Ж. Скальпив - продолжение).",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Лит_страничка_-_Гриф_Y_Дневник_Лаборанта_Ж_Скальпив_-_продол"
+  },
+  {
+    "article_id": 901,
+    "article_url": "https://zxpress.ru/article.php?id=901",
+    "print_url": "https://zxpress.ru/print.php?id=901",
+    "title_link": "Мнение - И в железе есть душа.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Мнение_-_И_в_железе_есть_душа"
+  },
+  {
+    "article_id": 903,
+    "article_url": "https://zxpress.ru/article.php?id=903",
+    "print_url": "https://zxpress.ru/print.php?id=903",
+    "title_link": "Обратная связь - Что пишут и говорят о нас.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Обратная_связь_-_Что_пишут_и_говорят_о_нас"
+  },
+  {
+    "article_id": 895,
+    "article_url": "https://zxpress.ru/article.php?id=895",
+    "print_url": "https://zxpress.ru/print.php?id=895",
+    "title_link": "Премьера рубрики - Новая рубрика \"Ликбез\" - Ассемблер: взгляд издалека.",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Премьера_рубрики_-_Новая_рубрика_Ликбез_-_Ассемблер_взгляд_и"
+  },
+  {
+    "article_id": 899,
+    "article_url": "https://zxpress.ru/article.php?id=899",
+    "print_url": "https://zxpress.ru/print.php?id=899",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 902,
+    "article_url": "https://zxpress.ru/article.php?id=902",
+    "print_url": "https://zxpress.ru/print.php?id=902",
+    "title_link": "Четыре килобайта - Газете год...",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "Четыре_килобаита_-_Газете_год"
+  }
+]

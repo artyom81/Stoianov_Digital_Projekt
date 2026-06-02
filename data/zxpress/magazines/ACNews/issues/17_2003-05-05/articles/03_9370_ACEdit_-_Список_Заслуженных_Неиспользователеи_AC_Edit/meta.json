@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "2003-05-05",
+  "order": 3,
+  "article_id": 9370,
+  "title_link": "ACEdit - Список Заслуженных Неиспользователей AC Edit.",
+  "title_h1": "ACNews 17 - ACEdit - Список Заслуженных Неиспользователей AC Edit.",
+  "print_url": "https://zxpress.ru/print.php?id=9370",
+  "article_url": "https://zxpress.ru/article.php?id=9370",
+  "fetched_at": "2026-05-31T21:30:36Z"
+}

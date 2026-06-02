@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 18040,
+    "article_url": "https://zxpress.ru/article.php?id=18040",
+    "print_url": "https://zxpress.ru/print.php?id=18040",
+    "title_link": "Опрос - ИТОГИ ОПРОСА НАШЕЙ ГАЗЕТЫ В СЕТИ ZX-NET",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Опрос_-_ИТОГИ_ОПРОСА_НАШЕИ_ГАЗЕТЫ_В_СЕТИ_ZX-NET"
+  },
+  {
+    "article_id": 18041,
+    "article_url": "https://zxpress.ru/article.php?id=18041",
+    "print_url": "https://zxpress.ru/print.php?id=18041",
+    "title_link": "Клуб - ЗНАКОМСТВО СО SCORPION-БЛЯДЬ КЛУБОМ",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Клуб_-_ЗНАКОМСТВО_СО_SCORPION-БЛЯДЬ_КЛУБОМ"
+  },
+  {
+    "article_id": 18042,
+    "article_url": "https://zxpress.ru/article.php?id=18042",
+    "print_url": "https://zxpress.ru/print.php?id=18042",
+    "title_link": "Oldman - А ВЫ ЗНАЕТЕ, ГДЕ РАБОТАЕТ OLDMAN?..",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Oldman_-_А_ВЫ_ЗНАЕТЕ_ГДЕ_РАБОТАЕТ_OLDMAN"
+  },
+  {
+    "article_id": 18043,
+    "article_url": "https://zxpress.ru/article.php?id=18043",
+    "print_url": "https://zxpress.ru/print.php?id=18043",
+    "title_link": "Интервью - ИТЕРВЬЮ С KITAEC'ОМ",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Интервью_-_ИТЕРВЬЮ_С_KITAECОМ"
+  },
+  {
+    "article_id": 18044,
+    "article_url": "https://zxpress.ru/article.php?id=18044",
+    "print_url": "https://zxpress.ru/print.php?id=18044",
+    "title_link": "Реклама - РЕКЛАМНАЯ ПАУЗА",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_РЕКЛАМНАЯ_ПАУЗА"
+  },
+  {
+    "article_id": 18045,
+    "article_url": "https://zxpress.ru/article.php?id=18045",
+    "print_url": "https://zxpress.ru/print.php?id=18045",
+    "title_link": "Фак - FUCK TO SHISOFT'у",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Фак_-_FUCK_TO_SHISOFTу"
+  },
+  {
+    "article_id": 18046,
+    "article_url": "https://zxpress.ru/article.php?id=18046",
+    "print_url": "https://zxpress.ru/print.php?id=18046",
+    "title_link": "Фак - FUCK TO FARAON'у",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Фак_-_FUCK_TO_FARAONу"
+  }
+]

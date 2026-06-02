@@ -1,0 +1,15 @@
+{
+  "magazine_id": 314,
+  "magazine_name": "Outlet",
+  "city": null,
+  "country": null,
+  "issue_label": "004",
+  "issue_date_iso": "1987-01-07",
+  "order": 1,
+  "article_id": 18529,
+  "title_link": "Editorial",
+  "title_h1": "004 - Editorial",
+  "print_url": "https://zxpress.ru/print.php?id=18529",
+  "article_url": "https://zxpress.ru/article.php?id=18529",
+  "fetched_at": "2026-05-31T23:45:27Z"
+}

@@ -1,0 +1,212 @@
+Black Crow 01 - Программистам - iS-DOS 512k.
+ДРАЙВЕР PENTAGON-512 В СРЕДЕ iS-DOS.
+------------------------------------------
+Операционная  система
+iS-DOS
+довольно
+скучная и почти бесполезная для меня, поэ-
+тому  особых  хвалебных од писать не наме-
+рен.  Единственный  плюс - полноценный ре-
+дактор  текстов,  широкие  возможности для
+печати текстов и экранных файлов. О недос-
+татках и плюсах писать более не буду. Цель
+статьи  - предоставление рядовым пользова-
+телям,  имеющим  расширение  ОЗУ  по стан-
+дартному  порту  #7FFD  до 512К, драйвера,
+при  помощи  которого  можно львиную часть
+программ ОС занести на полученный RAM`диск
+и  при  этом  еще останется уйма места для
+работы.  Даже  с  одним  дисководом теперь
+можно жить...                             
+   Не  буду  строить  из  себя  героя, ут-
+верждая,  что  сам  придумал этот драйвер.
+Взял  за основу уже имеющийся и всего-нав-
+сего  дописал  "новые" страницы в таблицу.
+Вот, собственно, и все. Полученный драйвер
+не   любит,  когда  программы  копирования
+открывают  буфер 80К. Может и есть возмож-
+ность  его  переделать,  но я не занимался
+этим  всерьез, т.к. мне это не нужно. Наб-
+рать, отформатировать и записать текстовой
+файл  на TR-DOS диск я могу и без дополни-
+тельных  наворотов  системы. Если "...мы с
+тобой одной крови...", т.е. ты рассуждаешь
+так,  как  я и у тебя нет такого драйвера,
+тогда  убери  из этого текста все мои ком-
+ментарии,  перегони  программой
+"LNICON2"
+полученный  листинг  в  ассемблер
+"ALASM
+",
+откомпилируй и наслаждайся.
+ORG     #С350
+NOP
+LLC351  NOP
+DEFW    LLC472
+LLC353  EQL     $-1
+DEFW    LLC47A
+LLC355  EQL     $-1
+DEFW    LLC4CC
+DEFW    #04F0
+DEFS    6
+LLC360  ЕХХ
+DI
+OLT     (С),L
+ЕХХ
+LDIR
+ЕХХ
+OLT     (С),Н
+EI
+ЕХХ
+RET
+;рабочий буфер
+LLC36D  DEFS    256
+;номера страниц ОЗУ (физические).
+LLC46D  DEFB    #11,#13,#14,#16,#17
+DEFB   #50,#51,#52,#53,#54,#55,#56,#57
+DEFB   #90,#91,#92,#93,#94,#95,#96,#97
+DEFB   #D0,#D1,#D2,#D3,#D4,#D5,#D6,#D7
+LLC472  ЕХХ
+LD      A,#ЕВ
+LLC475  LD      HL,LLC4CE
+JR      LLC480
+LLC47A  ЕХХ
+LD      A,#00
+LLC47D  LD      HL,LLC4E1
+LLC480  LD      (LLC4AB),A
+LLC483  LD      (LLC4AF),A
+LLC486  LD      (LLC4C3),HL
+ЕХХ
+PLSH    HL
+LD      A,В
+ЕХХ
+РОР     DE
+AND     A
+LD      HL,#С000
+LD      В,A
+SBC     HL,DE
+ЕХХ
+JR      С,LLC4B8
+ЕХХ
+LD      A,Н
+SLB     В
+LD      A,#00
+JR      NC,LLC4A2
+LD      A,В
+SLB     Н
+LD      В,Н
+LLC4A2  PLSH    AF
+LD      A,В
+ЕХХ
+LD      В,A
+LLC4A6  PLSH    HL
+LLC4A7  CALL    LLC4F2
+ЕХ      (SP),HL
+LLC4AB  ЕХ      DE,HL
+LLC4AC  CALL    LLC360
+LLC4AF  ЕХ      DE,HL
+РОР     DE
+LD      В,A
+AND     A
+JR      NZ,LLC4A6
+РОР     AF
+AND     A
+RET     Z
+LLC4B8  LD      В,A
+PLSH    HL
+LLC4BA  CALL    LLC4F2
+ЕХ      (SP),HL
+PLSH    AF
+LLC4BF  PLSH    ВС
+LD      В,#01
+CALL    LLC4CE
+LLC4C3  EQL     $-#02
+РОР     ВС
+DJNZ    LLC4BF
+РОР     AF
+РОР     DE
+JR      NZ,LLC4B8
+LLC4CC  XOR     A
+RET
+LLC4CE  PLSH    HL
+LLC4CF  LD      HL,LLC36D
+PLSH    ВС
+PLSH    HL
+ЕХ      DE,HL
+LLC4D5  CALL    LLC360
+РОР     DE
+РОР     ВС
+ЕХ      (SP),HL
+ЕХ      DE,HL
+LDIR
+ЕХ      DE,HL
+РОР     DE
+RET
+LLC4E1  PLSH    DE
+LLC4E2  LD      DE,LLC36D
+PLSH    ВС
+PLSH    DE
+LDIR
+РОР     DE
+РОР     ВС
+ЕХ      (SP),HL
+ЕХ      DE,HL
+LLC4ED  CALL    LLC360
+РОР     HL
+RET
+LLC4F2  LD      A,В
+PLSH    DE
+PLSH    DE
+ЕХХ
+ЕХ      AF,AF`
+РОР     ВС
+LD      A,С
+AND     #3F
+LD      D,A
+LD      A,#40
+SLB     D
+LD      HL,#С000
+LD      Е,L
+ADD     HL,DE
+PLSH    HL
+LD      L,A
+ЕХ      AF,AF`
+LD      Е,A
+LD      A,L
+SLB     Е
+LD      A,#00
+JR      NC,LLC511
+LD      A,Е
+SLB     L
+LD      Е,L
+LLC511  LD      D,A
+SLA     С
+RL      В
+SLA     С
+RL      В
+LD      С,В
+LD      В,#00
+LLC51D  LD      HL,LLC46D
+ADD     HL,ВС
+LD      L,(HL)
+LD      ВС,#7FFD
+LD      Н,#10
+PLSH    DE
+ЕХХ
+РОР     ВС
+LD      A,В
+РОР     DE
+РОР     HL
+LD      В,#00
+ADD     HL,ВС
+LD      В,С
+LD      С,#00
+AND     A
+RET
+DEFW    #FFFF
+DEFW    LLC351,LLC353,LLC355
+DEFW    LLC475,LLC47D,LLC480
+DEFW    LLC483,LLC486,LLC4A7
+DEFW    LLC4AC,LLC4BA,LLC4CF
+DEFW    LLC4D5,LLC4E2,LLC4ED
+DEFW    LLC51D

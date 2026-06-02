@@ -1,0 +1,15 @@
+{
+  "magazine_id": 256,
+  "magazine_name": "ZX Football 2000",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-12-31",
+  "order": 8,
+  "article_id": 11037,
+  "title_link": "Футбол - анекдоты про футбол.",
+  "title_h1": "ZX Football 2000 01 - Футбол - анекдоты про футбол.",
+  "print_url": "https://zxpress.ru/print.php?id=11037",
+  "article_url": "https://zxpress.ru/article.php?id=11037",
+  "fetched_at": "2026-05-31T23:21:58Z"
+}

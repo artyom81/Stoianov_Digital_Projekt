@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7690,
+    "article_url": "https://zxpress.ru/article.php?id=7690",
+    "print_url": "https://zxpress.ru/print.php?id=7690",
+    "title_link": "Наши новости - Пятница 13 февраля...",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "Наши_новости_-_Пятница_13_февраля"
+  },
+  {
+    "article_id": 7691,
+    "article_url": "https://zxpress.ru/article.php?id=7691",
+    "print_url": "https://zxpress.ru/print.php?id=7691",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7692,
+    "article_url": "https://zxpress.ru/article.php?id=7692",
+    "print_url": "https://zxpress.ru/print.php?id=7692",
+    "title_link": "COMICS - Анекдоты",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "COMICS_-_Анекдоты"
+  },
+  {
+    "article_id": 7693,
+    "article_url": "https://zxpress.ru/article.php?id=7693",
+    "print_url": "https://zxpress.ru/print.php?id=7693",
+    "title_link": "О разном - Компьютерные новости.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "О_разном_-_Компьютерные_новости"
+  },
+  {
+    "article_id": 7694,
+    "article_url": "https://zxpress.ru/article.php?id=7694",
+    "print_url": "https://zxpress.ru/print.php?id=7694",
+    "title_link": "О разном - Компьютерные новости.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "О_разном_-_Компьютерные_новости"
+  },
+  {
+    "article_id": 7695,
+    "article_url": "https://zxpress.ru/article.php?id=7695",
+    "print_url": "https://zxpress.ru/print.php?id=7695",
+    "title_link": "О разном - О компьютерных вирусах.",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "О_разном_-_О_компьютерных_вирусах"
+  },
+  {
+    "article_id": 7696,
+    "article_url": "https://zxpress.ru/article.php?id=7696",
+    "print_url": "https://zxpress.ru/print.php?id=7696",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "19",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

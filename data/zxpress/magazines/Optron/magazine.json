@@ -1,0 +1,16 @@
+{
+  "magazine_name": "Optron",
+  "magazine_url": "https://zxpress.ru/issue.php?id=149",
+  "form": "Пресса",
+  "city_country": null,
+  "years_human": null,
+  "years_iso": {
+    "start": "0000-01-01",
+    "end": "0000-01-01"
+  },
+  "issues_count": 43,
+  "magazine_id": 149,
+  "language": "ru",
+  "rights": "Использование материалов сайта разрешено только при указании обратной ссылки",
+  "source": "ZXPRESS (https://zxpress.ru)"
+}

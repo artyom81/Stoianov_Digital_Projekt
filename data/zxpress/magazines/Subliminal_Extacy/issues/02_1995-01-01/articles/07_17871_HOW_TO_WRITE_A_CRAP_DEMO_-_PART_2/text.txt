@@ -1,0 +1,115 @@
+Subliminal Extacy 02 - HOW TO WRITE A CRAP DEMO - PART 2
+HOW TO WRITE A CRAP DEMO - PART 2               
+              BY THE SLIGHTLY DELICIOUS PANDAGIRL               
+                                                               
+In the first issue I explained very badly how to make a demo    
+that consisted of a screen (held in memory), a tune (which you  
+probably nicked from somewhere else) and a text scroll (which   
+was probably not worth reading). But don't despair because this 
+issue I'll be explaining how to jazz it up a bit so it doesn't  
+look as though I did it! You will obviously need the listing    
+from last issue plus a pocket calculator and a large cock (but  
+don't be too sad, two out of three isn't bad).                  
+                                                                
+What do we do whilst waiting for a taped program to load? Well  
+you can do at least 20 as you should all be aware of but looking
+at a loading screen can be a productive way to spend your time. 
+Most programs give you something to look at whilst it loads in  
+the rest of the shit so why should you get out of it? OK so it's
+another screen for you to design on your art package and scrunch
+down with your screen compressor but what the hell, what else   
+have you got to do that's so fucking important eh?              
+                                                                
+So there you have your loading screen, it has a little title and
+a little credit to you and it looks a bit crap but this is your 
+first demo so I shouldn't worry about it mate. All nice and     
+squeezed, fresh out of the Mikropol compressor, and because you 
+are originality itself, you've called it "LOADSCR" and it weigh
+sin at a very slim 3000 bytes long (say).                       
+                                                                
+I can't remember what line did what in the previous listing...  
+erm, just add this line at about 5 or something:                
+                                                                
+5 LOAD "LOADSCR" CODE 27000: RANDOMIZE USR 27000                
+                                                               
+I've used address 27000 to store the loading screen because I   
+felt like it (and the number 27 is one of my favourite bus      
+routes back in old London town). Of course you don't HAVE to    
+have a loading screen but you'll look a right cunt without one  
+now that I've shown you how bloody easy it is to stick one in.  
+                                                                
+What is a font? It is a collection of little pixels that look   
+like letters... usually. Let's face it kids, the Speccies font  
+is a bit weedy, functional yes but is it sexy? No it isn't.     
+We here at Fountain HQ have loads of fonts because we are font  
+perverts. Your local PD corner shop will be able to tip a truck 
+load onto your head if you can't be bothered to design one      
+yourself. So this font that you will choose with such care and  
+thought will come as a code file some 768 bytes long. It may    
+even be called something most helpful like "SANSERIF" or        
+something.                                                      
+                                                                
+Line 60 from the listing tells the Uniscroll where to look for  
+the start of the font set. It should be set to values of 0 and  
+60 as that points to the Speccies own character bollox.         
+                                                                
+We must now delve into the hardest bit of all, or it just sounds
+fiddly, we must/could splice all our little bits of CODE        
+together so that we didn't have a demo that loaded in thousands 
+of bits! We will start at the Uniscroll code which is located at
+address 33280,7seems like a good place to start, it's rather an 
+attractive number actually. I seem to remember it is 907 bytes  
+long, SO, starting with a naked Speccy, LOAD your Uniscroll     
+code to 33280. Get your calculator out and work out where you   
+can place your next bit of CODE (the compressed main screen):   
+                                                                
+33280 + 907 = 34187                                             
+                                                                
+Because I am a girl, the number 34187 isn't very nice to look at
+so I'm going to round it up to a pretty number like 34190! It is
+a handy hint to keep at least a couple of bytes between each    
+block just in case you cannot count! Now load your saved main   
+screen CODE to address 341900(I can't remember what I said the  
+length of it was so let's keep it simple and say 2500 bytes):   
+                                                                
+34190 + 2500 = 36690                                            
+                                                                
+So you carry on doing this, loading your little bits of code    
+into memory like cars in a traffic jam, adding the lengths as   
+you go. The big problem now is that the POKES and the RAND USR  
+values from the last listing are now all fucked up. Calling the 
+screen is easy, just use the new address as above in our        
+example. It would be pretty fucking creepy if your demo worked  
+out to exactly my numbers wouldn't it! So line 150 would be     
+RANDOMIZE USR 34190 instead of the 40000 we used in issue 1.    
+                                                                
+The music which was originally at address 60000 may now be at   
+45000 or something. You'll have to load your original tune file 
+back into the ST Compiler and resave it to address whatever.    
+The text file might now be at 38000 (remember, it was at 50000  
+before we started getting flash). Line 70 of the listing tells  
+the Uniscroll where to start looking for the text it needs to   
+scroll. Thanks to Andy 'Big Balls' Davis, I've got a lovely     
+little listing here that tells you what numbers to POKE when    
+your text or font file is somewhere or anywhere in memory!      
+                                                                
+10 INPUT "Address:";a                                          
+20 LET h=INT (a/256)                                           
+30 LET l=(a-(h*256))                                           
+35 LET b=h-1                                                   
+40 PRINT "LOW byte :";l                                        
+50 PRINT "HI byte :";h                                         
+60 PRINT "If POKEing a FONT:"'                                 
+70 PRINT "23606,";l                                            
+80 PRINT "23607,";b                                                                                                            Oh yes, so it's all lumped together, you've got a nice chunk of code in memory just moaning to be saved out as one large        pulsating bucket of bytes. All you've got to do now is work out the number of bytes from the start 33280 to the end of all your business. Let's assume the last bit of code you loaded was the  font at say 52846. Right, so add 76. to 52846 which should equal5З614. Now subtract 33280 from 53614 and that is (sound of girl using calculator) 20334. Type in:                                                                                               SAVE "CODE" CODE 33280,20334                                    
+                                                               
+Have a fag, your work here is done. You now have a crap little  
+demo that was slightly less crap than your first draft. Don't   
+forget to alter little things like the INIT and PLAY pokes in   
+lines 170 and 180 if you have moved and resaved your tune about 
+in memory. Any crashes you now get is because you are a cunt who
+cannot count so start all over again... If it crashes again then
+just load up a demo from Theo Devil and start sighing alot.     
+                                                                
+I suggest you now read L.A.'s articles on M/C programming if you
+want to do smarter demos. I will.

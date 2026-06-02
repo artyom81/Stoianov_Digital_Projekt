@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 3954,
+    "article_url": "https://zxpress.ru/article.php?id=3954",
+    "print_url": "https://zxpress.ru/print.php?id=3954",
+    "title_link": "100 котлет - лучшая десятка игр и тройка журналов.",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "100_котлет_-_лучшая_десятка_игр_и_троика_журналов"
+  },
+  {
+    "article_id": 3952,
+    "article_url": "https://zxpress.ru/article.php?id=3952",
+    "print_url": "https://zxpress.ru/print.php?id=3952",
+    "title_link": "ZX-ELEMENT #02 - о создании журнала, критическое письмо Kvazar'a.",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "ZX-ELEMENT_02_-_о_создании_журнала_критическое_письмо_Kvazar"
+  },
+  {
+    "article_id": 3953,
+    "article_url": "https://zxpress.ru/article.php?id=3953",
+    "print_url": "https://zxpress.ru/print.php?id=3953",
+    "title_link": "Анкета! - шуточный опрос.",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "Анкета_-_шуточныи_опрос"
+  },
+  {
+    "article_id": 3947,
+    "article_url": "https://zxpress.ru/article.php?id=3947",
+    "print_url": "https://zxpress.ru/print.php?id=3947",
+    "title_link": "Байки из склепа - кошмары геймера наяву...",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "Баики_из_склепа_-_кошмары_геимера_наяву"
+  },
+  {
+    "article_id": 3955,
+    "article_url": "https://zxpress.ru/article.php?id=3955",
+    "print_url": "https://zxpress.ru/print.php?id=3955",
+    "title_link": "Минская сцена - информация о деятельности групп.",
+    "order": 5,
+    "issue_label": "26",
+    "short_slug": "Минская_сцена_-_информация_о_деятельности_групп"
+  },
+  {
+    "article_id": 3948,
+    "article_url": "https://zxpress.ru/article.php?id=3948",
+    "print_url": "https://zxpress.ru/print.php?id=3948",
+    "title_link": "Обзор новья - журналы: Voyager 0, Adventurer 7, Faultless 7-9, Spectrum Expert 1. Игрушки: Master of Orion, Monsterland.",
+    "order": 6,
+    "issue_label": "26",
+    "short_slug": "Обзор_новья_-_журналы_Voyager_0_Adventurer_7_Faultless_7-9_S"
+  },
+  {
+    "article_id": 3950,
+    "article_url": "https://zxpress.ru/article.php?id=3950",
+    "print_url": "https://zxpress.ru/print.php?id=3950",
+    "title_link": "От авторов - об игре \"Any Tank\"...",
+    "order": 7,
+    "issue_label": "26",
+    "short_slug": "От_авторов_-_об_игре_Any_Tank"
+  },
+  {
+    "article_id": 3951,
+    "article_url": "https://zxpress.ru/article.php?id=3951",
+    "print_url": "https://zxpress.ru/print.php?id=3951",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "26",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3949,
+    "article_url": "https://zxpress.ru/article.php?id=3949",
+    "print_url": "https://zxpress.ru/print.php?id=3949",
+    "title_link": "Свободное мнение - \"Когда развалится Спектрум?\"",
+    "order": 9,
+    "issue_label": "26",
+    "short_slug": "Свободное_мнение_-_Когда_развалится_Спектрум"
+  }
+]

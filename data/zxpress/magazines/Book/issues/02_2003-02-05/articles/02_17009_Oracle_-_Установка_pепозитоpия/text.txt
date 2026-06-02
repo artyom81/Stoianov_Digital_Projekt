@@ -1,0 +1,177 @@
+Book 02 - Oracle - Установка pепозитоpия.
+----------------------------------------------------------------
+(C) gRAVER_ZX, 2007
+----------------------------------------------------------------
+Oracle
+Установка pепозитоpия
+
+Создание табличных пространств
+create tablespace constant_grow_indexes
+datafile 'D:oradatadbconstant_grow_indexes_01.dbf'
+size 4000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace constant_grow_tables
+datafile 'D:oradatadbconstant_grow_tables_01.dbf'
+size 15000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace dependency_indexes
+datafile 'D:oradatadbdependency_indexes_01.dbf'
+size 5600k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace dependency_tables
+datafile 'D:oradatadbdependency_tables_01.dbf'
+size 9000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace diagram_indexes
+datafile 'D:oradatadbdiagram_indexes_01.dbf'
+size 1000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace diagram_tables
+datafile 'D:oradatadbdiagram_tables_01.dbf'
+size 2000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace lob_data
+datafile 'D:oradatadblob_data_01.dbf'
+size 1200k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace rapid_grow_indexes
+datafile 'D:oradatadbrapid_grow_indexes_01.dbf'
+size 250000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace rapid_grow_tables
+datafile 'D:oradatadbrapid_grow_tables_01.dbf'
+size 500000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace system_meta_indexes
+datafile 'D:oradatadbsystem_meta_indexes_01.dbf'
+size 20000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace system_meta_tables
+datafile 'D:oradatadbsystem_meta_tables_01.dbf'
+size 30000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace temporary_indexes
+datafile 'D:oradatadbtemporary_indexes_01.dbf'
+size 5000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace temporary_tables
+datafile 'D:oradatadbtemporary_tables_01.dbf'
+size 9000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace version_indexes
+datafile 'D:oradatadbversion_indexes_01.dbf'
+size 9000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+create tablespace version_tables
+datafile 'D:oradatadbversion_tables_01.dbf'
+size 12000k
+default storage (initial 100k next 100k minextents 1 maxextents
+UNLIMITED pctincrease 0)
+/
+
+alter tablespace system add datafile
+'D:oradatadbsystemOЗ.dbf' size 140m
+/
+Создание владельца pепозитоpия
+create user owner identified owner default tablespace users
+temporary tablespace temp
+/
+
+create ROLE CK_ORACLE_owner
+/
+
+GRANT EXECUTE ON DBMS_LOCK TO owner;
+GRANT EXECUTE ON DBMS_PIPE TO owner;
+GRANT CREATE TABLE TO owner;
+GRANT CREATE VIEW TO owner;
+GRANT CREATE PROCEDURE TO owner;
+GRANT CREATE SYNONYM TO owner;
+GRANT CREATE SEQUENCE TO owner;
+GRANT SELECT ON sys.v_$nls_parameters TO owner WITH GRANT
+OPTION;
+GRANT SELECT ON sys.V_$PARAMETER TO owner;
+GRANT SELECT ON dba_rollback_segs TO owner;
+GRANT SELECT ON dba_segments TO owner;
+GRANT CREATE ANY SYNONYM TO owner;
+GRANT DROP ANY SYNONYM TO owner;
+GRANT CREATE PUBLIC SYNONYM TO owner;
+GRANT DROP PUBLIC SYNONYM TO owner;
+GRANT ck_oracle_owner to owner;
+GRANT CONNECT, RESOURCE TO owner;
+GRANT dba TO owner;
+Создание дополнительного пользователя
+create user userб5 identified by userб5 default tablespace users     
+temporary tablespace temp
+/
+
+GRANT CONNECT, RESOURCE TO userб5;
+GRANT CREATE TABLE TO userб5;
+GRANT CREATE VIEW TO userб5;
+GRANT CREATE PROCEDURE TO userб5;
+GRANT CREATE SYNONYM TO userб5;
+GRANT CREATE SEQUENCE TO userб5;
+GRANT SELECT ON dba_rollback_segs TO userб5;
+GRANT SELECT ON dba_segments TO userб5;
+Далее
+Запускаем  Repository  Administration  Utility  (RAU).  Вводим в
+имени  пользователя  owner,  в  пароле - owner, в строке связи -
+ваше  сервисное  имя.  Его можно узнать в программе Net Manager.
+Нажмите  кнопку Install и следуйте инструкциям. В следующем окне
+выбирите  соответствующие  табличные пространства из тех, что вы
+создали специально для pепозитоpия.
+
+У меня во время установки возникла ошибка следующего рода:
+ORA-01658: не могу создать INITIAL экстент для сегмента в
+разделе SYSTEM_META_INDEXES
+
+Мое решение поблемы:
+alter tablespace system_meta_indexes add datafile
+'D:oradatadbsystem_meta_indexes_02.dbf' size 20m
+/
+
+Далее   нажал   кнопку   retry   last   operation,  и  установка
+продолжилась.
+
+После в RAU выбираем Enable Version.

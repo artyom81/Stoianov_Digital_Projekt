@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2593,
+    "article_url": "https://zxpress.ru/article.php?id=2593",
+    "print_url": "https://zxpress.ru/print.php?id=2593",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2588,
+    "article_url": "https://zxpress.ru/article.php?id=2588",
+    "print_url": "https://zxpress.ru/print.php?id=2588",
+    "title_link": "Новости - О BBS-альянсе.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Новости_-_О_BBS-альянсе"
+  },
+  {
+    "article_id": 2586,
+    "article_url": "https://zxpress.ru/article.php?id=2586",
+    "print_url": "https://zxpress.ru/print.php?id=2586",
+    "title_link": "От авторов - Оживление в RU.ZXNET.GENERAL.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "От_авторов_-_Оживление_в_RUZXNETGENERAL"
+  },
+  {
+    "article_id": 2587,
+    "article_url": "https://zxpress.ru/article.php?id=2587",
+    "print_url": "https://zxpress.ru/print.php?id=2587",
+    "title_link": "Праздник - День рождения московской сети ZXNet.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Праздник_-_День_рождения_московскои_сети_ZXNet"
+  },
+  {
+    "article_id": 2589,
+    "article_url": "https://zxpress.ru/article.php?id=2589",
+    "print_url": "https://zxpress.ru/print.php?id=2589",
+    "title_link": "Программирование - Исправленная процедура MAKE OUT.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Программирование_-_Исправленная_процедура_MAKE_OUT"
+  },
+  {
+    "article_id": 2591,
+    "article_url": "https://zxpress.ru/article.php?id=2591",
+    "print_url": "https://zxpress.ru/print.php?id=2591",
+    "title_link": "Сделай сам - Выходная мощность каналов музыкального процессора.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Сделаи_сам_-_Выходная_мощность_каналов_музыкального_процессо"
+  },
+  {
+    "article_id": 2594,
+    "article_url": "https://zxpress.ru/article.php?id=2594",
+    "print_url": "https://zxpress.ru/print.php?id=2594",
+    "title_link": "Хит-парад - Хит-парад игр за январь-февраль.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Хит-парад_-_Хит-парад_игр_за_январь-февраль"
+  },
+  {
+    "article_id": 2590,
+    "article_url": "https://zxpress.ru/article.php?id=2590",
+    "print_url": "https://zxpress.ru/print.php?id=2590",
+    "title_link": "Чайнику - Что такое Tosser - UZTosser.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Чаинику_-_Что_такое_Tosser_-_UZTosser"
+  },
+  {
+    "article_id": 2592,
+    "article_url": "https://zxpress.ru/article.php?id=2592",
+    "print_url": "https://zxpress.ru/print.php?id=2592",
+    "title_link": "Юмор - Прикладная мерфология.",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Юмор_-_Прикладная_мерфология"
+  }
+]

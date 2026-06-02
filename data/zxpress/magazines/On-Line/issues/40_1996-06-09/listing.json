@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 72,
+    "article_url": "https://zxpress.ru/article.php?id=72",
+    "print_url": "https://zxpress.ru/print.php?id=72",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2110,
+    "article_url": "https://zxpress.ru/article.php?id=2110",
+    "print_url": "https://zxpress.ru/print.php?id=2110",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2108,
+    "article_url": "https://zxpress.ru/article.php?id=2108",
+    "print_url": "https://zxpress.ru/print.php?id=2108",
+    "title_link": "Застрял ? - Описание игры \"Dustin\".",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "Застрял_-_Описание_игры_Dustin"
+  },
+  {
+    "article_id": 2107,
+    "article_url": "https://zxpress.ru/article.php?id=2107",
+    "print_url": "https://zxpress.ru/print.php?id=2107",
+    "title_link": "Мозаика - О фирмах, производящих ZX-Spectrum.\r\n Cheat к игре \"Street Fighter 2\".",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Мозаика_-_О_фирмах_производящих_ZX-Spectrum_Cheat_к_игре_Str"
+  },
+  {
+    "article_id": 2109,
+    "article_url": "https://zxpress.ru/article.php?id=2109",
+    "print_url": "https://zxpress.ru/print.php?id=2109",
+    "title_link": "Презентация - Презентация журнала \"The Faultless 1\" и ассемблеров \"ZX-TASM v3.0\" & \"STS v4.1\".",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "Презентация_-_Презентация_журнала_The_Faultless_1_и_ассембле"
+  },
+  {
+    "article_id": 2106,
+    "article_url": "https://zxpress.ru/article.php?id=2106",
+    "print_url": "https://zxpress.ru/print.php?id=2106",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "21",
+  "issue_date_iso": "1999-07-24",
+  "order": 2,
+  "article_id": 10429,
+  "title_link": "Что-где-почем - pасскажу вам о пpогpаммах, котоpые я получил от VELа и Юpы.",
+  "title_h1": "City 21 - Что-где-почем - pасскажу вам о пpогpаммах, котоpые я получил от VELа и Юpы.",
+  "print_url": "https://zxpress.ru/print.php?id=10429",
+  "article_url": "https://zxpress.ru/article.php?id=10429",
+  "fetched_at": "2026-05-31T21:50:52Z"
+}

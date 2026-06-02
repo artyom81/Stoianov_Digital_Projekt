@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-04-19",
+  "order": 2,
+  "article_id": 341,
+  "title_link": "Быть или не быть - О дигитайзере.",
+  "title_h1": "Micro 02 - Быть или не быть - О дигитайзере.",
+  "print_url": "https://zxpress.ru/print.php?id=341",
+  "article_url": "https://zxpress.ru/article.php?id=341",
+  "fetched_at": "2026-05-31T22:25:10Z"
+}

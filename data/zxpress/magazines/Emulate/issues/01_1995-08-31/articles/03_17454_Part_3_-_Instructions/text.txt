@@ -1,0 +1,573 @@
+01 - Part 3 - Instructions.
+****************************
+*  PART 3  - INSTRUCTIONS  *
+****************************
+
+  Each  month with the extended version of
+Emulate,  a  games  pack  is included with
+several  classic  Spectrum Games which are
+quite  hard  to find. This issue, there is
+something    for    everybody    in   this
+collection:
+
+PLATFORM  - Jet Set Willy 3
+ADVENTURE - Twice Shy
+UTILITY - The JSW Editor /The CHAOS editor
+STRATEGY  - War in Middle Earth
+MAGAZINE  - 16/48 Tape magazine Issue 20
+            (June 1985)
+ARCADE  - Pyjamarama
+PUZZLE  - Split Personalities
+
+PLUS!
+Public Domain Utilities
+POKE-IT - To use the multiface pokes
+                  included with this Issue
+SPCONV - To convert between file formats
+
+==========================================
+
+JET SET WILLY 3
+
+  You  need  instructions? Surely everyone
+must  have  played  Jet  Set Willy at some
+point  in their life? But just in case you
+have just crawled out of a cave ;) heres a
+brief run down of the instructions:
+  Miner  Willy  has just struck it rich in
+the  Manic  Mine  and has bought himself a
+massive  mansion and a yacht. To celebrate
+his  new  found  wealth he has invited all
+his  friends  to a party at his new house.
+But,   after   the  party  has  ended  and
+everyone  has  left,  the  mansion is in a
+total  mess with objects left all over the
+place!! Willy's housekeeper Maria will not
+let  him  into  bed until he has tidied up
+all  the objects in the mansion (strange -
+I  thought that was what housekeepers were
+meant  to  do!)  Anyway,  Willy  sets  off
+around  the  unknown  corners of his house
+where strange creatures lurk, in search of
+all the objects.
+  In  this  third  Jet Set Willy game (Not
+written  by  Matt  Smith  BTW)  Willy  has
+decided to move underground, but the story
+is  just the same. Find all the objects so
+Maria will let him into bed.
+  WARNING!!   This   game   is  incredibly
+difficult. Only for JSW experts!
+
+==========================================
+
+TWICE SHY
+90% - Crash 35 (Dec 1986)
+
+  In   this   adventure,   based  on  Dick
+Francis'  thriller,  you  play the part of
+Jonathan  Derry,  physics  teacher at East
+Middlesex comprehensive. For reasons which
+will  become  clear  as  you progress, you
+become  the custodian of a set of cassette
+tapes.  It  is  up to you to find out what
+they  do.  However,  there  is  some other
+characters whose concern for the health of
+others  particularly Jonathan Derry is far
+from paramount. Perhaps they know whats on
+those tapes.
+
+  In this game you play Jonathan Derry. To
+control  his  actions  type  short English
+sentences, such as GO NORTH or TAKE RIFLE.
+To  save  typing, movement commands can be
+shortened to just one letter, N, S, etc...
+You  can  enter  several commands at once,
+separated   by   THEN  and  AND.  You  can
+communicate   with  characters  by  typing
+their    name,   followed   by   a   valid
+instruction in as set of commas.
+
+SOME HINTS
+  Make  a map of who and what is where and
+how to get from one place to another.
+Save your position regularly
+  Enter  one  command  at a time to start,
+the   use   multiple  entry  to  speed  up
+familiar parts of the game.
+  Interactions  with  characters relies on
+their  attitude  towards  you at the time.
+You  could  improve  relations by offering
+advice or objects, or by simply talking to
+them.
+
+THE RACING GAME (TWICESH2.SNA)
+  The  racing  simulation  can  be  played
+either  independently,  or  as part of the
+adventure and the aim is to make money! If
+you  are betting as part of the adventure,
+your   winnings   (up  to  ܲ50)  will  be
+available  when you return. You are at the
+course  for  a day, when six events are to
+be  run.  In  each event you are shown the
+horses,   together   with  the  odds.  The
+current  conditions  are shown on the race
+card.  You  can  place  money  on whatever
+horses  you  want,  and  press  RETURN  to
+finish  and  start  the race. To study the
+horses  more  carefully  press F while the
+card   is  shown.  A  separate  screen  is
+displayed for you to study the runners. If
+you run out of cash, you will just have to
+sit  back and watch! At the end of the day
+you can either:
+1) Start again with a fresh lot of money
+2) Start again with your current money
+3) Return to the adventure(If you cam from
+there)
+  Players who have come from the adventure
+and  successfully  solved some of Jonathan
+Derrys problems may bring an item which is
+as useful as the Philosophers stone!
+
+==========================================
+
+THE EDITORS
+
+JET SET WILLY EDITOR
+
+  Fancy  becoming  Matthew  Smith  for the
+day?  Heres your chance! Make your own set
+of  levels  for  that classic game Jet Set
+Willy.  You've  already  seen  what can be
+done  (with JSW 3) The commands are pretty
+self  explanatory,  just  follow on screen
+prompts,  and  it  would  help  if you had
+access  to  a  real  tap  recorder, or TAP
+capability  for the saving of the data you
+create.
+
+CHAOS EDITOR
+
+  Secondly  an  editor for another classic
+game   -   This   editor   allows  you  to
+completely  alter  all  the  monsters  and
+spells  in  the  game,  even  down  to the
+actual  graphics and stats!! Simply follow
+the  on screen commands to create your own
+characters.  The  original  CHAOS data has
+already been loaded in, so it is all ready
+to  begin  hacking!  Once you have created
+your  own  set  of characters, choose SAVE
+under the Stats menu, and the program will
+save  your creation as a data file. Again,
+access to tapes, or TAP capability will be
+helpful   here.   Then,  simply  load  the
+original  chaos  header,  but  replace the
+data section with your own data.
+
+  If  you  manage to create CHAOS 2 or JSW
+4,  be  sure  to send them to Emulate! and
+the  best  ones will be included in future
+issues!
+
+==========================================
+
+WAR IN MIDDLE EARTH
+8/10 - Your Sinclair 40 (April 1989)
+
+  A  classic  strategy  game  based on The
+Lord  of  the Rings. You may find it helps
+to  have  read  the books, but it is by no
+means  necessary.  Just  in case you don't
+feel like wading through three volumes and
+2000 pages of story, heres a brief rundown
+of the plot:
+
+  You  are  Frodo  Baggins, an exceptional
+hobbit.  You  uncle  Bilbo Baggins went on
+adventures,  something  no  normal  hobbit
+would  do.  On the most famous of these he
+acquired  a  ring that made him invisible.
+Bilbo  has  left this ring to you and left
+the  Shire  to  live  among the elves. You
+friend  the  Wizard  Gandalf  the Grey has
+identified  this  ring  as  being "The one
+ring". This was forged by Sauron, the Dark
+Lord,  it  is very powerful and very evil.
+It  contains  much of Sauron's power, with
+it  he  would  defeat  all his enemies and
+subjugate  the whole of Middle Earth, were
+it  to  be destroyed he would be defeated.
+Though  it  would  be  possible  to use it
+against  Sauron, it would then corrupt the
+wielder  turning him into a new Dark Lord.
+Because of the magical nature of the ring,
+it  can  only be destroyed by being thrown
+into  the  cracks  of  doom,  where it was
+forged.  This  is the mouth of the volcano
+Mt. Doom in the centre of Saurons kingdom,
+Mordor, far to the South East. You are not
+on  your  own,  accompanying  you are Sam,
+Merry  and  Pippin,  three Hobbit friends,
+Aragorn  the  ranger,  Boromir  of Gondor,
+Legolas  the  elf,  Gimli  a  Dwarf and of
+course,   Gandalf.   As   well  as  facing
+Sauron's forces, you will also be assailed
+by  those of the wizard Saruman. Though he
+was  originally  leader  of the council of
+Wizards   opposing  Sauron,  he  has  been
+corrupted.  He has raised and army of Orcs
+and  Dunlendings and he too is looking for
+the ring, for he believes he can use it to
+control  Middle  Earth.  You  will need to
+mobilise  the nations of the West, the men
+of  Dale,  Gondor  and Rohan, the Elves of
+Lorien  and  Mirkwood  and  the Dwarves of
+Erebor  and  the Iron Hills, or the forces
+of  evil  will win by force of arms before
+you can destroy the Ring. If the forces of
+evil can find the Ring and take it back to
+Barad-Dur or Isengard you will lose.
+
+PLAYING THE GAME
+
+  The  Middle Earth map displays the whole
+of  Middle  Earth on the screen. Along the
+left  hand  side  of the screen there is a
+list of commands. In the middle of the map
+there  is  a  gauntleted hand. This is the
+cursor,   to   select  any  action  simply
+position   the  finger  over  the  desired
+point,   using   the   joystick  or  keys.
+Friendly units are displayed on the map as
+dots. There are 3 commands
+FILE - To save/load
+MEMO - Gives you further info on the state
+of the game.
+TIME - Sets game in motion. Campaig   time
+is  shown  on  the  scroll  underneath the
+command.   Once   time   is  started,  all
+friendly   units  start  to  follow  their
+orders.  Saurons  units will also start to
+move.
+  To  examine  any  area in detail, simply
+position  and  press fire. This stops time
+and   takes   you  to  the  campaign  map.
+Friendly  units  on  the  map are shown as
+shields. A unit can be a single character,
+eg  Frodo,  or  an army. Each shield shows
+all  the units in a certain sector, and is
+thus  called  a  stack. To examine a unit,
+position  over  shield  and press fire. To
+see  further  units, press fire repeatedly
+to cycle through.
+For each unit you are told:
+  TITLE - Either their name or description
+eg A Company of 002 Men
+  WHO  IN  COMMAND  - "Man in command" etc
+means no commander set
+  DESTINATION - Where they are going
+  ENERGY  - This is used up by walking and
+being hit in combat
+  DETERMINATION  - How long they will keep
+going
+  STEADFASTNESS - How fast their energy is
+used up.
+  VIRTUE - How long they can hold the ring
+  BRAVERY  -  The braver you are, the more
+often you will hit in combat
+  STRENGTH  -  How much damage you will do
+to an opponent
+  ALLEGIANCE  - Fellowship , the good guys
+Mordor,   Saurons   troops   or   Orthanc,
+Sarumans.
+  To give units an order, press fire twice
+while their details are displayed. Now you
+can choose to :
+RETURN - Do not give a new order
+  SET  TO  DESTINATION  - Go to a specific
+destination,  you are offered a second man
+giving  you  the  choice  of  applying the
+order  to the individual unit (Individual)
+or all the stack (Everyone)
+  SET  TO  JOIN  -  Orders  unit  to  join
+another units company
+  SET TO FOLLOW - Order one unit to follow
+another
+  When  selecting destinations, the cursor
+becomes  a maltese cross which you can the
+position and press fire.
+  Frodo  starts  as  the  ring  bearer, as
+indicated  by  the ring after his name. To
+had  to another hero, simply press R while
+their  details are displayed. They must be
+in  the  same  stack  as  the  ring bearer
+though.
+  COMBAT  -  When  combat  occurs, time is
+stopped  and  a  pair of crossed swords is
+shown  at  the place of battle. Push up to
+view  your  forces  and  left and right to
+view  the enemy. Press fire to move to the
+battle  screen.  Each  character  in  both
+armies  is  represented by a figure on the
+screen.  Your  forces  will not move until
+ordered,  although  will  fight  back when
+attacked.  The  screen  can  be  scrolled,
+using  the  normal  controls.  To  order a
+character,  press  fire on him, then press
+fire  on  selected  enemy  and the message
+"New  destination  selected"  will appear.
+The  character will then move. To directly
+move  a  character, fire twice on him, and
+then move him around.
+  The Ring Bearer may wear the ring. To do
+this press R and he will disappear and not
+have  to  fight.  He  will  then leave the
+battle  and  appear  on the next square on
+the  map. This greatly decreases the level
+of   virtue  in  the  bearer.  But  beware
+Nazgul! They will seek out the ring bearer
+if he attempts to wear the ring.
+
+
+Good Luck!
+
+==========================================
+
+16/48 MAGAZINE
+
+  A   renewed   interest  in  these  early
+tape-based  magazines,  means  that I have
+included an issue with Emulate! This issue
+is No.20 and comes from June 1985 You will
+have  to  reset  the  TAP  file  after the
+Ludoid  adventure  game, and then continue
+loading   as   normal.  (This  is  because
+Ludoids  was  at  the end of side 1 on the
+original  tape.)  You  will  also  need to
+reset after Bullion Raiders. If anyone has
+problems  using TAP files, let me know and
+I  will  make sure I make a normal version
+available.
+This issue of 16/48 includes:
+  THE  LONG  WAY  HOME CHAPTER 2 - Ludoids
+Part 6 ADVENTURE GAMES REVIEWS - Including
+CHAOS!  GREAT  HERBERTS  DUMMY RUN SLIDING
+PUZZLE  and  loads  more...if  only it was
+still going, eh? :)
+
+  Anyone  who  is  interested in obtaining
+more  issues  of 16/48 and another popular
+Spectrum    Tape    Magazine,    "Spectrum
+Computing", can find several issues at the
+NVG   UNIT  ftp  site,  in  the  directory
+PUB/SINCLAIR/SNAPS/DISCMAGS      Currently
+available  are SC Issue 14 and 16/48 Issue
+17
+  Brian  Gaff,  uploader of these promises
+more  in  the  next  few weeks and we will
+include Spectrum Computing Issue 6 in No.2
+of Emulate!
+
+==========================================
+
+WALLY WEEK PART 1 - PYJAMARAMA
+92% - Crash 10 (Nov 1984)
+
+  One  of  the  classic  arcade  adventure
+characters   on   the   Spectrum  was  the
+unlikeliest  of heroes. Wally Week starred
+in  five  games  altogether,  with  humble
+beginnings  in  the  first,  Automania, he
+went  on  to star in four classic Spectrum
+Arcade  adventures.  Over  the  next  four
+issues,  we  will include these games, and
+the  complete  solution  to  the adventure
+will  appear  in the following issue. This
+is the story:
+
+  Welcome  to the nightmare world of Wally
+Week!
+  Even Wallies have to sleep - the trouble
+is,  being  a  wally,  nightmares are more
+trouble than they seem.
+  For  a  start  everything suddenly seems
+larger than life, so even everyday objects
+somehow  present difficulties. And being a
+Wally,  you  may  find  it  even harder to
+release  yourself  from  your predicament.
+Parts   of   your   nightmare  may  repeat
+themselves,   repeat   themselves,  repeat
+themselves....
+  This  however  is nowhere near as simple
+as  it  sounds,  because  many objects are
+needed  to  achieve  different tasks which
+will   become   apparent   as   the   game
+progresses.
+  Only  two  objects may be carried at one
+time.  To  change an object, pass over the
+one  required  and  it  will  be exchanged
+automatically (to avoid exchange jump over
+the unwanted object)
+  There  are many rooms in the house and a
+wide    variety   of   "distractions"   to
+overcome.  Keys  will  be required to open
+some  doors.  To open others, just jump at
+the handle.
+  Even  though  you  are asleep, energy is
+also  a factor in this game. At the top of
+the  screen  you  will see a glass of milk
+with  "Snooze Energy". A short while after
+the  start of the game, this will start to
+decrease. It will also decrease if you are
+hit  by an object or you hit an object. To
+replenish  this  lost  energy,  there  are
+items  of  food  in  the house, which will
+appear  singly and in different locations.
+Once  it  has  been consumed the next will
+appear  elsewhere,  but always in the same
+location.  When your snooze energy has run
+out 3 times, losing 3 lives, you will have
+to start the game again.
+
+==========================================
+
+SPLIT PERSONALITIES
+90% - Crash 30 (July 1986)
+
+  An   excellent  puzzle  game,  still  as
+playable now as it was when first released
+nearly ten years ago, although some of the
+famous faces may appear a bit out of date!
+Originally titled Splitting Images, the TV
+program  of similar name took offence, and
+so the name was altered.
+
+  The  idea  is  simple - build up a split
+picture  of the character by arranging the
+squares in the right order.
+  The  spinning  cursor is controlled with
+the  direction keys/joystick. At the start
+of  the  game  you'll  find  it in the top
+lefthand  corner  under the arrow. You can
+make  pieces of the picture or bonus items
+appear  by  pressing fire while the cursor
+is  in the box. You'll have noticed by now
+that  the  little screen on the right hand
+side  is lighting up as you pass over each
+piece  of  the  picture.  This  shows  the
+correct  position  for  the piece that the
+cursor  is  spinning  over. If you want to
+move a piece or item then put the spinning
+cursor on that particular piece, hold down
+fire  and  press  down whichever direction
+you  wish  to move it. Notice you can only
+push a piece until it either hits the wall
+or another square, watch out for the black
+cracks  in  the  border or you're in for a
+surprise.  Have you noticed that there are
+several  little  doors opening and closing
+automatically?  If  they  are closed, they
+act  like  the  normal wall of the playing
+area,  however,  if they are open then the
+moving  piece  will  disappear through the
+hole. If it is a piece of the picture then
+this  is  put to the end of the "queue" of
+pieces  waiting  to  be  brought on to the
+playing  area. If it is a bonus item, then
+it  disappears forever. (TIP:Youll find it
+helpful to get rid of pieces which are not
+useful by throwing them through the little
+doors) When you have completed a level the
+computer  waits  until  the fire button is
+pressed  before  continuing  onto the next
+stage. If you're in doubt try it out.
+
+BONUS SCORE
+  Each  level has several items associated
+with  the person you are trying to create.
+If  these  are  pushed  together they will
+give you bonus points. However is you push
+the wrong items together they will both be
+destroyed   with  no  bonus  points  being
+given.
+
+CLUES
+1)  The  bomb:  Explodes  after 5 seconds.
+Destroy it by pushing it through doors.
+2)  Water  Tap:  Push  it  against bomb to
+destroy it and earn 5000 points.
+3)   Diamond:   Push  it  against  another
+diamond and your time limit's increased.
+4) Fuel: Don't throw it against the match,
+its explosive.
+5) Match: Don't throw it against the fuel,
+its explosive.
+6)  Pistol:  Throw it against a bullet and
+your bonus will be doubled.
+7)  Bullet:  Throw it against a pistol and
+your bonus will be doubled.
+8)  Hammer/Ice  Cream/Cup Coffee : Mystery
+Items!
+
+LIVES
+  You  have 3 lives during the game, these
+are  shown  in  the  black  squares in the
+bottom righthand corner. However: After an
+explosion  of an item or if your time runs
+out  (shown by marker at bottom of screen)
+your  lives  will  be decreased by one. If
+you  reach  a  score  of  100,000  you are
+awarded  one extra life. If you complete a
+level within the limit, you will get bonus
+points.  Otherwise,  they  will be awarded
+for throwing items together.
+
+==========================================
+
+PICTURES
+
+  A  few  pictures have been included with
+the  main  package  as  GIF files. Most of
+these  are  loading screens from the above
+games  (for  completeness) There is also a
+seperate     archive    included    called
+SPOILERS.ZIP.  This  contains  a  few  end
+screens  from some games. Only look if you
+want to see how a game ends!!
+
+==========================================
+
+PUBLIC DOMAIN UTILITIES
+
+  I have included two popular PD utilities
+for  Spectrum  Emulator  with  this issue.
+They  are both freely distributable (which
+is  why  I have put them in this magazine)
+and are both very useful.
+
+POKE-IT by Francisco Cotrina
+  This  program  will  insert  a multiface
+poke into a snapshot (use the massive list
+in  the tips section) To use this program,
+the  game  you  are  POKEING (sounds a bit
+funny!)  has  to be in original SNA format
+(ie 49190 bytes long)
+
+SPCONV by Henk De Groot
+  Ever  popular  conversion  program  will
+convert   snapshots   of   Spectrum  games
+between   all   major  formats.  This  new
+version  has  been extended to include the
+new version 3 format used by Z80.
+
+  Neither  us,  nor  the  authors take any
+responsibility  for  the  usage  of  these
+programs. They are freely distributable as
+long  as  you  do  not make any money from
+them  and  included  the authors name with
+each.  Each  file  contains  the  original
+documentation.
+
+==========================================
+==========================================

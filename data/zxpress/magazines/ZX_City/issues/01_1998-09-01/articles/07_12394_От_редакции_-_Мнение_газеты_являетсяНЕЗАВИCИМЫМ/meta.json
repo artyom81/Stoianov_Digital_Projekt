@@ -1,0 +1,15 @@
+{
+  "magazine_id": 250,
+  "magazine_name": "ZX City",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-09-01",
+  "order": 7,
+  "article_id": 12394,
+  "title_link": "От редакции - Мнение газеты является\r\nНЕЗАВИCИМЫМ.",
+  "title_h1": "Lprint 20 - От редакции - Мнение газеты является НЕЗАВИCИМЫМ.",
+  "print_url": "https://zxpress.ru/print.php?id=12394",
+  "article_url": "https://zxpress.ru/article.php?id=12394",
+  "fetched_at": "2026-05-31T23:19:05Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1236,
+    "article_url": "https://zxpress.ru/article.php?id=1236",
+    "print_url": "https://zxpress.ru/print.php?id=1236",
+    "title_link": "Rants & Raves - О результатах исследований в области паковки программ.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Rants_Raves_-_О_результатах_исследовании_в_области_паковки_п"
+  },
+  {
+    "article_id": 1234,
+    "article_url": "https://zxpress.ru/article.php?id=1234",
+    "print_url": "https://zxpress.ru/print.php?id=1234",
+    "title_link": "TOP 13 - Лучшая тринашка системных программ.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "TOP_13_-_Лучшая_тринашка_системных_программ"
+  },
+  {
+    "article_id": 1235,
+    "article_url": "https://zxpress.ru/article.php?id=1235",
+    "print_url": "https://zxpress.ru/print.php?id=1235",
+    "title_link": "Въедем - Описание-проходилка игры : Dizzy 5: Spelbound Dizzy.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Въедем_-_Описание-проходилка_игры_Dizzy_5_Spelbound_Dizzy"
+  },
+  {
+    "article_id": 1237,
+    "article_url": "https://zxpress.ru/article.php?id=1237",
+    "print_url": "https://zxpress.ru/print.php?id=1237",
+    "title_link": "Железо - Подключение компьютера к ламповому телеприемнику серии \"700\" (Доработки ZX-Spectrum и телевизора).",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Железо_-_Подключение_компьютера_к_ламповому_телеприемнику_се"
+  },
+  {
+    "article_id": 1233,
+    "article_url": "https://zxpress.ru/article.php?id=1233",
+    "print_url": "https://zxpress.ru/print.php?id=1233",
+    "title_link": "Новости - Protector от Paracels'a.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Protector_от_Paracelsa"
+  },
+  {
+    "article_id": 1238,
+    "article_url": "https://zxpress.ru/article.php?id=1238",
+    "print_url": "https://zxpress.ru/print.php?id=1238",
+    "title_link": "Объявления - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  }
+]

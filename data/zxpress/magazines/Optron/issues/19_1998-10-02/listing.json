@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 889,
+    "article_url": "https://zxpress.ru/article.php?id=889",
+    "print_url": "https://zxpress.ru/print.php?id=889",
+    "title_link": "FT'98: Demo Compo - Рассмотрение demo-работ с Fun Top'а.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "FT98_Demo_Compo_-_Рассмотрение_demo-работ_с_Fun_Topа"
+  },
+  {
+    "article_id": 890,
+    "article_url": "https://zxpress.ru/article.php?id=890",
+    "print_url": "https://zxpress.ru/print.php?id=890",
+    "title_link": "FT'98: Gfx Compo - Рассмотрение gfx-работ с Fun Top'а.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "FT98_Gfx_Compo_-_Рассмотрение_gfx-работ_с_Fun_Topа"
+  },
+  {
+    "article_id": 891,
+    "article_url": "https://zxpress.ru/article.php?id=891",
+    "print_url": "https://zxpress.ru/print.php?id=891",
+    "title_link": "FT'98: Music Compo - Рассмотрение music-работ с Fun Top'а.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "FT98_Music_Compo_-_Рассмотрение_music-работ_с_Fun_Topа"
+  },
+  {
+    "article_id": 886,
+    "article_url": "https://zxpress.ru/article.php?id=886",
+    "print_url": "https://zxpress.ru/print.php?id=886",
+    "title_link": "FT'98: Мнение - Мнения о Fun Top'е.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "FT98_Мнение_-_Мнения_о_Fun_Topе"
+  },
+  {
+    "article_id": 892,
+    "article_url": "https://zxpress.ru/article.php?id=892",
+    "print_url": "https://zxpress.ru/print.php?id=892",
+    "title_link": "Лит. страничка - Рассказ М.А. Булгакова \"Как это делалось раньше\".",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Лит_страничка_-_Рассказ_МА_Булгакова_Как_это_делалось_раньше"
+  },
+  {
+    "article_id": 893,
+    "article_url": "https://zxpress.ru/article.php?id=893",
+    "print_url": "https://zxpress.ru/print.php?id=893",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 888,
+    "article_url": "https://zxpress.ru/article.php?id=888",
+    "print_url": "https://zxpress.ru/print.php?id=888",
+    "title_link": "Четыре килобайта - Выпуск посвящен Fun Topу'98.",
+    "order": 7,
+    "issue_label": "19",
+    "short_slug": "Четыре_килобаита_-_Выпуск_посвящен_Fun_Topу98"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 244,
+  "magazine_name": "X-Files",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-01-31",
+  "order": 1,
+  "article_id": 13659,
+  "title_link": "От редакции - мы создали свой электронный журнал!",
+  "title_h1": "X-Files 01 - От редакции - мы создали свой электронный журнал!",
+  "print_url": "https://zxpress.ru/print.php?id=13659",
+  "article_url": "https://zxpress.ru/article.php?id=13659",
+  "fetched_at": "2026-05-31T23:18:04Z"
+}

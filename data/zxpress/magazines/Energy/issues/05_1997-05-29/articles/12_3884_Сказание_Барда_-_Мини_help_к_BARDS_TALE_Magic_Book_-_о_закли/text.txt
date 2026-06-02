@@ -1,0 +1,327 @@
+Energy 05 - Сказание Барда - Мини help к BARDS TALE. Magic Book - о заклинаниях.
+╔════════════════════════════════════════╗
+║▒▒▒▒▒▒▒▒▒▒▒▒ СКАЗАНИЕ БАРДА ▒▒▒▒▒▒▒▒▒▒▒▒║
+╚════════════════════════════════════════╝
+Продолжение. Начало в четвертом номере.
+(C) MENTAT/LGN
+Код  -  4-хбуквенное  слово, кое надо
+водить в командной строке, произнося  зак-
+лятие.
+     Pасшифровка - для любознательных.
+     Цена - стоимость заклятия в SpPt.
+     Объект  -  self-на себя, squad-на от-
+ряд, group-на группу
+    врагов,    enemy-на    одного   врага,
+view-обзор, hero-герой,
+    special-вызов  специала, trap-ловушка,
+30 foots- 3 шага.
+     Длительность   -  бой,  short,  half,
+long, constant, moment.
+     После  этого всего будет краткое опи-
+сание действия.
+    lvl  - это уровень заклятий. На каждые
+2 уровня опыта прирастает один уровень за-
+клятий.
+┌──────────────────┐
+            │+++ Magic Book +++│
+            └──────────────────┘
+Conjurer's spell:
+I lvl:
+  - MAFL Mage Flame 2 View Half
+  Впереди отряда  летит магический огонек,
+самое удобное на первых
+  двух уровнях, но не показывает секретные
+двери.
+ - ARFI Arc Fire 3 Enemy Moment
+  Наносит  врагу  повреждения в количестве
+1..4 HP * lvl, где lvl-
+  уровень   магических  способностей.  Как
+следует из формулы, осо-
+  бую  силу заклятие имеет на высших уров-
+нях.
+ - SOSH Sorcerer Shield 3 Self Battle
+  Перед  магом  возникает  волшебный  щит,
+усиливая защиту. Честно
+  говоря,  я практически не использую зак-
+лятие, AC мага -1
+ - TRZP Trap Zap 2 Trap 30 foot's
+  Все  ловушки в радиусе 30-ти футов деак-
+тивируются. II lvl:
+ - FRFO Freeze Foes 3 Group Battle
+  По  идее, заморозка группы врагов на ра-
+унд битвы. Не знаю, мо-
+  жет  быть  я применял его против сильных
+врагов, но пока не сра-
+  батывало   (   а   применял   я   против
+Wight's)...
+ - MACO Kiels Magic Compass 3 View Half
+  Появляется магическая стрелка, указываю-
+щая на север. При сос-
+  тавлении  карт лабиринтов заклятие неза-
+менимо.
+ - BASK Battle Skill 4 Hero Battle
+  Увеличивает  боевое  умение персонажа до
+конца битвы.
+ - WOHL Word Of Healing 4 Hero Moment
+  Герою прибавляется 2..8 HP. III lvl:
+ - MAST Arcyners Mage Star 5 Group Battle
+  На  раунд  ослепляет  группу противника,
+вследствие чего те не
+  атакуют.
+ - LERE Lesser Revelation 5 View Long
+  Улучшенный  и  дополненный  MAFL,  видны
+секретные двери.
+ - LEVI Levitation 4 Squad Short
+  Позволяет  перемещаться вверх-вниз между
+уровнями dungeon'ов,
+  при наличии порталов.
+ - WAST War Strike 5 Group Moment
+  Наносит   повреждения   группе   врагов,
+-4..16 HP каждому. IV lvl:
+ -  INWO  Eliks  Instant  Wolf  6  Special
+Moment
+  Вызвать  волка-специала. Неплохой помощ-
+ник. АС=6, HP=12..16.
+ - FLRE Flesh Restore 6 Hero Moment
+  Вылечить  героя:  +6..24  HP,  poisoned,
+insanity...
+ - POST Poison Strike 6 Enemy Moment
+  Ядовитая стрелка впивается в телo врага,
+сильно отравляя тому
+  жизнь (особо грустно, когда враг сам ис-
+пользует это заклятие). V lvl:
+ - GRRE Greate Revelation 7 View Constant?
+  Улучшение  LERE.  В "Спектрофоне" указан
+срок действия - Long,
+  но  я еще ни разу не видел, чтобы он за-
+канчивался. Хотя, может
+  быть,  3  дня (в размерности игры), т.е.
+около полутора часов
+  реального времени -- это не срок?
+ - WROV Wrath of Valhalla 7 Hero Battle
+  В  персонаж вселяются духи из Валгаллы -
+обители мертвых героев
+  и тот начинает драться... да как!!!
+ - SHSP Shock Sphere 7 Group Moment
+  Вражья  группа  обретает  ранения -8..32
+HP. VI lvl:
+ -  INOG  Elicks  Instant  Ogre  9 Special
+Moment
+  Вызов великана-специала. Крепкий парень.
+АС=4, HP=14..20.
+ - MALE Major Levitation 8 Squad Constant
+  Дает  возможность отряду спокойно летать
+по порталам. VII lvl (описание действия от
+Вовы, P.H.G.):
+ - FLAN Flesh Anew 12 Squad Moment
+  Это FLRE на всех членов отряда.
+ - APAR Apport Archane 15 Squad Moment
+  Телепортация  в  любое  место.Действие в
+пределах одного dungeon,
+  можно  переноситься  с  одного уровня на
+другой. Задается смеще-
+  ние  на север (+) или юг (-) и на восток
+(+) или запад (-) в
+  локациях и вниз (+) или вверх (-) в эта-
+жах.
+Magician's Spell:
+I lvl:
+ - VOPL Vopral Plating 3 Hero Battle
+  Заколдованное  оружие наносит на 2..8 HP
+больше.
+ - AIAR Air Armour 3 Self Battle
+  Воздушный щит уменьшит АС мага на 1.
+ - STLI Sabhars Steelight 2 View Short
+  Металл  вокруг  светится. Света немного,
+зато дешево.
+ - SCSI Scry Sight 2 Sguar Moment
+  Используется для выяснения места в лаби-
+ринте. II lvl:
+ - HOWA Holy Water 4 Enemy (undead) Moment
+  Святой  водичкой  -  и по нежити! Хотя в
+"Спектрофоне" указано:
+  "-6..24 HP", у меня получается -500..600
+HP.
+ - WIST Wither Strike 5 Enemy Moment
+  Монстр,  на  коего  направлено заклятие,
+резко стареет и теряет
+  способности.   Самое  неприятное,  когда
+вражина направляет удар
+  на   вашего  героя  -  вылечишь  его  за
+23000-24000 лишь в тампле.
+ - MAGA Mage Gaunlets 5 Hero Battle
+  К  повреждениям от удара врагу прибавля-
+ются -4..16 HP.
+ - AREN Area Enchant 5 30 foots Short
+  Стены  сообщают о лестнице, если отряд к
+ней лицом. III lvl:
+ -  MYSH  Yabarras  Mystic  Shield 6 Squad
+Half
+  У отряда вычитается 2 из АС у всех.
+ - OGST OgreStrengh 6 Hero Battle
+  Герой  обретает  силу  великана, дерется
+довольно больно.
+ - MIMI Mithril Might 7 Squad Battle
+  В  течении битвы АС у всех улучшается на
+-3.
+ - STFL StarFlare 6 Group Moment
+  Наносит  пореждения в размере -6..24 HP.
+IV lvl:
+ - SPTO Spectre Touch 8 Enemy Moment
+Врага  как  будто  призрак касается... И
+12..48 HP повреждений.
+ - DRBR Dragon Breath 7 Group Moment
+  Маг  изрыгает  на  группу  врагов пламя,
+повреждения -8..32 HP.
+ -  STSI  Sabhars Stoneflight Spell 7 View
+Half
+  Камни светятся и освещают даже секретные
+двери. V lvl:
+ - ANMA Anti-Magic 8 Squad Battle
+  Земля  впитывает враждебную магию, иллю-
+зии обращаются.
+ -  ANSW  Akers  Animated  Sword 8 Special
+Battle
+  Возникает волшебный меч, сражается в бою
+за вас и исчезает...
+  AC=3, HP=20.
+ - STTO Stone Touch 8 Enemy Moment
+  Враг быстро превращется в камень. Монстр
+из живого камня ста-
+  новится мертвым. VI lvl:
+ - PHDO Phase Door 9 View Moment
+  На ход растворяет стену. Станьте лицом к
+выбранной стене, про-
+  изнесите заклятие и быстро вперед!!!
+ -  YMCA  Yabbaras Mystical Coat of Armour
+10 Squad Constant
+  У  отряда  защита  улучшается  на -2 АС,
+действует пока не войдете
+  в  гильдию или не попадете в зону подав-
+ления магии. VII lvl (снова Вова):
+ - REST Restoration 12 Squad Moment
+  Восстаналивает  HP полностью(!!!), изле-
+чивает poisoned, insani-
+  ty, cursed(!).
+ - DEST Death Strike 14 Enemy Moment
+  С  большой  вероятностью  враг  лишается
+всех (!) своих HP.
+Sorcerer's Spell
+I lvl:
+ - MIJA Mangars Mind Jab 3 Enemy Moment
+  Что-то   вроде  ARFI,  но  круче:  -2..8
+HP*lvl.
+ - PHBL Phase Blur 2 Squad Battle
+  Зрение  у врага повреждается, вследствии
+чего АС у героев -1.
+ - LOTR Locate Traps 2 30 foots Short
+  Позволяет видеть ловушки, если отряд по-
+вернут лицом к ним.
+ - HYIM Hypntic Image 3 Group Battle
+  На  раунд битвы группа врагов теряет ге-
+роев из виду. II lvl:
+ - DISB Disbelieve 4 Squad Moment
+  Pазвеивает  иллюзии,  сражающиеся против
+отряда.
+ - TADU Target Dummy 4 Special Battle
+  Ложная  цель,  отвлекающая  удары врага.
+Все бы хорошо, да вот HP
+  у  нее  4..6,  что маловато, но АС=-1, и
+это круто.
+ - MIFI Mangars Mind Fist 4 Enemy Moment
+  Что-то вроде -3..-12 HP*lvl по одной ро-
+же.
+ - FEAR Word of Fear 4 Group Battle
+  От  этого слова у врагов точность и сила
+ударов страдает. III lvl:
+ - WIWO Wind Wolf 5 Special Moment
+  Тот же волк, только призрачный.
+ -  VANI  Kylearans Vanishing Spell 6 Self
+Battle
+  Маг становится полуневидимкой, АС-5.
+ - SESI Second Sight 6 30 foots Half
+  Поышается чувствительность мага к ловуш-
+кам, порталам, лестни-
+  цам и т.п..
+ - CURS Curse 5 Group Battle
+  Снижает  способности  и состояние духа у
+врагов. IV lvl:
+ - CAEY Cat Eyes 7 View Contant
+  Ночное зрение у всех членов отряда, при-
+мерно как GRRE.
+ - WIWA Wind Warrior 6 Special Moment
+Вызов  призрачного  воина-mercenary (см.
+Характеристики ).
+ -  INVI  Kilearans  Invisiblity  Spell  7
+Squad Battle
+  Все члены отряда становятся невидимками,
+АС-4. V lvl:
+ - WIOG Wind Ogre 7 Special Moment
+  Вызов  великана-людоеда-призрака.  АС=4,
+HP=14..20.
+ - DIIL Disupt Illusion 8 Squad Battle
+  Уничтожаются  иллюзии противника (а ваши
+?), доппельгангеры.
+ -  MIBL  Mangars Mind Blade 8 All Enemy's
+Moment
+  Страшная убойная сила, -10..40 HP каждо-
+му врагу (!). VI lvl:
+ - WIDR Wind Dragon 10 Special Moment
+  К  отряду присоединяется дракон-призрак,
+АС=-6,HP=50..100.
+ - MIWP Mind Warp 9 Hero Moment
+  Ввергает героя в полное безумие. Полезно
+применять, если он --
+  одержимый.  После  можно  вылечить.  VII
+lvl:
+ - WIGI Wind Giant 12 Special Moment
+  Призрачный  гигант,  Storm Giant, АС=LO,
+HP=60..120.
+ -   SOSI   Sorcerer  Sight  11  30  foots
+Constant
+  Постоянное волшебное всевидящее зрение.
+Wizard's  spell
+I lvl:
+ - SUDE Summon Dead 6 Special Moment
+  Вызвать немертвь, проще говоря мертвеца,
+Skeleton:АС=6,HP=15..  ..18,  Zombie:AC=5,
+HP=15..20.
+ - REDE Repel Dead 4 Group Moment
+  Группе  нежити  наносятся удары -16..-80
+HP. II lvl:
+ - LESU Lesser Summoning 8 Special Moment
+  Вызов    низшего    элементала.   Lesser
+Demon:АС=-2, HP<=80.
+ - DEBA Demon Bane 8 Enemy Moment
+  Отрава  для  демона,  -32..-128  HP. III
+lvl:
+ - SUPH Summon Phantom 10 Special Moment
+  Вызов  нежити  среднего  калибрa: Ghoul,
+Wraith (см. Хар-ки).
+ - DISP Disposess 10 Hero Moment
+  Pазодержимость героя. IV lvl:
+ - PRSU Prime Summoning 12 Special Moment
+  Демон   среднего  калибра.  Demon:АС=-4,
+HP<=120.
+ - ANDE Animate Dead 11 Hero Moment
+  Это заклятие не даст герою из вашего от-
+ряда спокойно почить от
+  ранений, т.к. его тело обретет жизнь как
+нежить, HP<=100. V lvl:
+ - SPBI Baylors Spell Bind 14 Enemy Moment
+  Позволяет    охмурить    одного   врага,
+вследствие чего тот переходит
+  в ваше подчинение.
+ - DMST Demon Strike 14 Group Moment
+  Аналог DEBA, но действие распространяет-
+ся на группу демонов. VI lvl:
+ - SPSP Spell Sprite 15 Special Moment
+  Вызов           высшей           нежити.
+Lich:АС=LO,HP<=100;Spectre:AC=-6,HP<=100.
+ - BEDE Beyond Death 18 Hero Moment
+  Оживление героя, но с одним Hit Point (1
+HP). VII lvl:
+ -   GRSU  Greater  Summoning  22  Special
+Moment
+  Вызов Высшего демона, АС=LO, HP<=160.
+Продолжение следует...

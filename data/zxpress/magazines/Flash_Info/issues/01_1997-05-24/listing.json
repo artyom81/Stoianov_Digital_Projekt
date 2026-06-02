@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 10751,
+    "article_url": "https://zxpress.ru/article.php?id=10751",
+    "print_url": "https://zxpress.ru/print.php?id=10751",
+    "title_link": "Вступление - Вот и лето скоpо наступит.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Вот_и_лето_скоpо_наступит"
+  },
+  {
+    "article_id": 10752,
+    "article_url": "https://zxpress.ru/article.php?id=10752",
+    "print_url": "https://zxpress.ru/print.php?id=10752",
+    "title_link": "Новости - новости от FLASH на 25.05.97 года.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новости_от_FLASH_на_250597_года"
+  },
+  {
+    "article_id": 10753,
+    "article_url": "https://zxpress.ru/article.php?id=10753",
+    "print_url": "https://zxpress.ru/print.php?id=10753",
+    "title_link": "Реклама - ИНФОРКОМ'овские издания по SPECCY.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_ИНФОРКОМовские_издания_по_SPECCY"
+  },
+  {
+    "article_id": 18195,
+    "article_url": "https://zxpress.ru/article.php?id=18195",
+    "print_url": "https://zxpress.ru/print.php?id=18195",
+    "title_link": "Code - точка зрения: проекция пространства на экран из одной точки.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Code_-_точка_зрения_проекция_пространства_на_экран_из_однои"
+  },
+  {
+    "article_id": 17911,
+    "article_url": "https://zxpress.ru/article.php?id=17911",
+    "print_url": "https://zxpress.ru/print.php?id=17911",
+    "title_link": "Complex 99, And The East/West Divide",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Complex_99_And_The_EastWest_Divide"
+  },
+  {
+    "article_id": 8616,
+    "article_url": "https://zxpress.ru/article.php?id=8616",
+    "print_url": "https://zxpress.ru/print.php?id=8616",
+    "title_link": "Ликбез - Аккумуляторы. Практическое применение различных типов.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Ликбез_-_Аккумуляторы_Практическое_применение_различных_типо"
+  },
+  {
+    "article_id": 7053,
+    "article_url": "https://zxpress.ru/article.php?id=7053",
+    "print_url": "https://zxpress.ru/print.php?id=7053",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 2462,
+    "article_url": "https://zxpress.ru/article.php?id=2462",
+    "print_url": "https://zxpress.ru/print.php?id=2462",
+    "title_link": "ZxNet - Приложение к Уставу и локальные правила узлов сети ZXNet.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "ZxNet_-_Приложение_к_Уставу_и_локальные_правила_узлов_сети_Z"
+  }
+]

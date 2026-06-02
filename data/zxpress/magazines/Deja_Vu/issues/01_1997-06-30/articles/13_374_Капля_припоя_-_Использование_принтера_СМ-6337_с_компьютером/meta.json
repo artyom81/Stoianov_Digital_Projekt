@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-30",
+  "order": 13,
+  "article_id": 374,
+  "title_link": "Капля припоя - Использование принтера СМ-6337 с компьютером Скорпион ZS 256 Turbo+.",
+  "title_h1": "Deja Vu 01 - Капля припоя - Использование принтера СМ-6337 с компьютером Скорпион ZS 256 Turbo+.",
+  "print_url": "https://zxpress.ru/print.php?id=374",
+  "article_url": "https://zxpress.ru/article.php?id=374",
+  "fetched_at": "2026-05-31T21:54:05Z"
+}

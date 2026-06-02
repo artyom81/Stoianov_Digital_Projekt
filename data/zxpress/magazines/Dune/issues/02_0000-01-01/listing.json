@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16246,
+    "article_url": "https://zxpress.ru/article.php?id=16246",
+    "print_url": "https://zxpress.ru/print.php?id=16246",
+    "title_link": "О журнале - О втором номере Dune.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "О_журнале_-_О_втором_номере_Dune"
+  },
+  {
+    "article_id": 16247,
+    "article_url": "https://zxpress.ru/article.php?id=16247",
+    "print_url": "https://zxpress.ru/print.php?id=16247",
+    "title_link": "Игры - Danger mouse in the black forest chateau.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Игры_-_Danger_mouse_in_the_black_forest_chateau"
+  },
+  {
+    "article_id": 16248,
+    "article_url": "https://zxpress.ru/article.php?id=16248",
+    "print_url": "https://zxpress.ru/print.php?id=16248",
+    "title_link": "Игры - The newzeland story.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Игры_-_The_newzeland_story"
+  },
+  {
+    "article_id": 16249,
+    "article_url": "https://zxpress.ru/article.php?id=16249",
+    "print_url": "https://zxpress.ru/print.php?id=16249",
+    "title_link": "Poke`s - Dragon breed, Side arms, Navy moves 2, Big nose, Xecutor.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Pokes_-_Dragon_breed_Side_arms_Navy_moves_2_Big_nose_Xecutor"
+  },
+  {
+    "article_id": 16250,
+    "article_url": "https://zxpress.ru/article.php?id=16250",
+    "print_url": "https://zxpress.ru/print.php?id=16250",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Юмор_-_Анекдоты"
+  }
+]

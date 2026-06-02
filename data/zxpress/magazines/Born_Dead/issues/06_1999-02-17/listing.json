@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 745,
+    "article_url": "https://zxpress.ru/article.php?id=745",
+    "print_url": "https://zxpress.ru/print.php?id=745",
+    "title_link": "Games - Разбор адвентюры: Twilight: Land of Shadows.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Games_-_Разбор_адвентюры_Twilight_Land_of_Shadows"
+  },
+  {
+    "article_id": 752,
+    "article_url": "https://zxpress.ru/article.php?id=752",
+    "print_url": "https://zxpress.ru/print.php?id=752",
+    "title_link": "Unbeliver - Самара - Москва - Владимир - Ковров...",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Unbeliver_-_Самара_-_Москва_-_Владимир_-_Ковров"
+  },
+  {
+    "article_id": 738,
+    "article_url": "https://zxpress.ru/article.php?id=738",
+    "print_url": "https://zxpress.ru/print.php?id=738",
+    "title_link": "Вести с полей - В.Медноногов о Чёрном Вороне 2.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Вести_с_полеи_-_ВМедноногов_о_Черном_Вороне_2"
+  },
+  {
+    "article_id": 734,
+    "article_url": "https://zxpress.ru/article.php?id=734",
+    "print_url": "https://zxpress.ru/print.php?id=734",
+    "title_link": "Вступление - Об ошибках в пятом номере газеты.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_Об_ошибках_в_пятом_номере_газеты"
+  },
+  {
+    "article_id": 748,
+    "article_url": "https://zxpress.ru/article.php?id=748",
+    "print_url": "https://zxpress.ru/print.php?id=748",
+    "title_link": "Злоба дня - На какое party поедем? Artcomp'99, Chaos Constructions'99, Funtop'99.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Злоба_дня_-_На_какое_party_поедем_Artcomp99_Chaos_Constructi"
+  },
+  {
+    "article_id": 750,
+    "article_url": "https://zxpress.ru/article.php?id=750",
+    "print_url": "https://zxpress.ru/print.php?id=750",
+    "title_link": "Мемуары - Magic Soft в цифрах и фактах.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Мемуары_-_Magic_Soft_в_цифрах_и_фактах"
+  },
+  {
+    "article_id": 749,
+    "article_url": "https://zxpress.ru/article.php?id=749",
+    "print_url": "https://zxpress.ru/print.php?id=749",
+    "title_link": "Мир Амиги - Амига глазами RRA: Основные привилегированные команды на Амиге (часть 2).",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Мир_Амиги_-_Амига_глазами_RRA_Основные_привилегированные_ком"
+  },
+  {
+    "article_id": 735,
+    "article_url": "https://zxpress.ru/article.php?id=735",
+    "print_url": "https://zxpress.ru/print.php?id=735",
+    "title_link": "Новости - Видео диск для Спектрума - The Gate. Walker, GfxCon, Worms.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Новости_-_Видео_диск_для_Спектрума_-_The_Gate_Walker_GfxCon"
+  },
+  {
+    "article_id": 737,
+    "article_url": "https://zxpress.ru/article.php?id=737",
+    "print_url": "https://zxpress.ru/print.php?id=737",
+    "title_link": "Обзор - Обзор новинок: Kolobok Zoom II, Белый орел: товарищ неизвестен, Twilight: The Land of Shadows, Quadrax, The Gate, Deja Vu#7, Twin World, CSC-2: Deja Vu, CBSpeccy v0.19b.",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Обзор_-_Обзор_новинок_Kolobok_Zoom_II_Белыи_орел_товарищ_неи"
+  },
+  {
+    "article_id": 753,
+    "article_url": "https://zxpress.ru/article.php?id=753",
+    "print_url": "https://zxpress.ru/print.php?id=753",
+    "title_link": "Приложение - Cильная буржуйская демка Lazarus.",
+    "order": 10,
+    "issue_label": "06",
+    "short_slug": "Приложение_-_Cильная_буржуиская_демка_Lazarus"
+  },
+  {
+    "article_id": 754,
+    "article_url": "https://zxpress.ru/article.php?id=754",
+    "print_url": "https://zxpress.ru/print.php?id=754",
+    "title_link": "Реклама - CD-ROM с огромным архивом программ для ZX-Spectrum'а.",
+    "order": 11,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_CD-ROM_с_огромным_архивом_программ_для_ZX-Spectrum"
+  }
+]

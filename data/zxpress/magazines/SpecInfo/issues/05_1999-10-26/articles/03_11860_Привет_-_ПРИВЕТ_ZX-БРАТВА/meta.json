@@ -1,0 +1,15 @@
+{
+  "magazine_id": 201,
+  "magazine_name": "SpecInfo",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-10-26",
+  "order": 3,
+  "article_id": 11860,
+  "title_link": "Привет - ПРИВЕТ ZX-БРАТВА!",
+  "title_h1": "SpecInfo 05 - Привет - ПРИВЕТ ZX-БРАТВА!",
+  "print_url": "https://zxpress.ru/print.php?id=11860",
+  "article_url": "https://zxpress.ru/article.php?id=11860",
+  "fetched_at": "2026-05-31T23:04:52Z"
+}

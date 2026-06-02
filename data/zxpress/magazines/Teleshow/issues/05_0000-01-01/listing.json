@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15198,
+    "article_url": "https://zxpress.ru/article.php?id=15198",
+    "print_url": "https://zxpress.ru/print.php?id=15198",
+    "title_link": "От авторов - Мы лучшие из лучших и мы пишем лучших из лучшие программы. Мы выпускаем компьютерный журнал и распростропяем его на дисках и кассетах. Мы - это представители GSH. ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ GUILD of SIBIRIAN HACKERS ГИЛЬДИЯ СИБИРСКИХ ХАКЕРОВ. GUILD of SIBIRIAN HACKERS",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "От_авторов_-_Мы_лучшие_из_лучших_и_мы_пишем_лучших_из_лучшие"
+  },
+  {
+    "article_id": 15199,
+    "article_url": "https://zxpress.ru/article.php?id=15199",
+    "print_url": "https://zxpress.ru/print.php?id=15199",
+    "title_link": "Игры - ADVENTURE А",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Игры_-_ADVENTURE_А"
+  },
+  {
+    "article_id": 15200,
+    "article_url": "https://zxpress.ru/article.php?id=15200",
+    "print_url": "https://zxpress.ru/print.php?id=15200",
+    "title_link": "Игры - ADVENTURE B",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Игры_-_ADVENTURE_B"
+  },
+  {
+    "article_id": 15201,
+    "article_url": "https://zxpress.ru/article.php?id=15201",
+    "print_url": "https://zxpress.ru/print.php?id=15201",
+    "title_link": "Игры - OPERATIONS GUNSHIP",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Игры_-_OPERATIONS_GUNSHIP"
+  }
+]

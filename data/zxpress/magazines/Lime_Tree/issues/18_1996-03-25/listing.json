@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 115,
+    "article_url": "https://zxpress.ru/article.php?id=115",
+    "print_url": "https://zxpress.ru/print.php?id=115",
+    "title_link": "Размышления - О создании журнала LIME TREE.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Размышления_-_О_создании_журнала_LIME_TREE"
+  },
+  {
+    "article_id": 8817,
+    "article_url": "https://zxpress.ru/article.php?id=8817",
+    "print_url": "https://zxpress.ru/print.php?id=8817",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8818,
+    "article_url": "https://zxpress.ru/article.php?id=8818",
+    "print_url": "https://zxpress.ru/print.php?id=8818",
+    "title_link": "Новости - О причинах провала проекта, связанного с выпуском журнала\r\n ZX-MAGAZINE.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Новости_-_О_причинах_провала_проекта_связанного_с_выпуском_ж"
+  },
+  {
+    "article_id": 8819,
+    "article_url": "https://zxpress.ru/article.php?id=8819",
+    "print_url": "https://zxpress.ru/print.php?id=8819",
+    "title_link": "IRYSOU-201 - Научно-фантастический рассказ (часть 10-12).",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "IRYSOU-201_-_Научно-фантастическии_рассказ_часть_10-12"
+  }
+]

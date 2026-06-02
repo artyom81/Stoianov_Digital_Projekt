@@ -1,0 +1,359 @@
+Book 02 - Oracle - SQL-задача.
+----------------------------------------------------------------
+(C) gRAVER_ZX, 2007
+----------------------------------------------------------------
+Oracle
+SQL-задача
+
+Текст задачи.
+Для  каждой  страны  определить год, когда
+на    воду   было   спущено   максимальное
+количество  ее  кораблей.  В  случае, если
+окажется   несколько   таких   лет,  взять
+минимальный  из  них.  Вывод: страна, год,
+количество кораблей.
+
+Рассматривается        БД        кораблей,
+участвовавших  во  второй  мировой  войне.
+Имеются следующие отношения:
+Classes (class, type, country, numGans, bore, displacement)
+Ships (name, class, launched)
+По  сути нам пригодятся из таблицы Classes
+только эти поля: class, country.
+
+Вобщем   проверять  свои  решения  на  том
+сайте,  откуда  было  взято  условие  этой
+задачи,  очень  сомнительное удовольствие.
+Лучше   создать   эти   две   таблички   в
+существующей  БД  и  эксперементировать со
+своими  запросами  к  ним  сколько угодно.
+Тем  более,  что  сайт  выдает  ошибку  на
+такой запрос:
+SELECT country, launched, COUNT(name) c
+FROM Classes, Ships
+WHERE Classes.class=Ships.class
+GROUP BY country, launched
+ORDER BY country;
+Oracle  естесственно  с  ним  справляется.
+Так  что  лучше  эксперементировать  в той
+среде,  от  которой  меньше всего ожидаешь
+глюков.
+Создание и заполнение таблиц.
+CREATE TABLE classes(
+  class VARCHAR2(16) NOT NULL,
+  type VARCHAR2(2) NOT NULL,
+  country VARCHAR2(16) NOT NULL,
+  numguns NUMBER(2,0) NULL,
+  bore NUMBER(2,0) NULL,
+  displacement NUMBER(5,0) NULL
+);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Bismarck','bb','Germany',8,15.0,42000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Iowa','bb','USA',9,16.0,46000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Kongo','bc','Japan',8,14.0,32000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values ('North
+Carolina','bb','USA',12,16.0,37000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Renown','bc','Gt.Britain',6,15.0,32000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Revenge','bb','Gt.Britain',8,15.0,29000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Tennessee','bb','USA',12,14.0,32000);
+
+insert into classes
+(class,type,country,numguns,bore,displacement) values
+('Yamato','bb','Japan',9,18.0,65000);
+
+CREATE TABLE ships(
+  name VARCHAR2(16) NOT NULL,
+  class VARCHAR2(16) NOT NULL,
+  launched NUMBER(5,0) NULL
+);
+
+insert into ships (name,class,launched) values
+('California','Tennessee',1921);
+
+insert into ships (name,class,launched) values
+('Haruna','Kongo',1916);
+
+insert into ships (name,class,launched) values ('Hiei','Kongo',
+1914);
+
+insert into ships (name,class,launched) values
+('Iowa','Iowa',1943);
+
+insert into ships (name,class,launched) values
+('Kirishima','Kongo',1915);
+
+insert into ships (name,class,launched) values
+('Kongo','Kongo',1913);
+
+insert into ships (name,class,launched) values
+('Missouri','Iowa',1944);
+
+insert into ships (name,class,launched) values
+('Musashi','Yamato',1942);
+
+insert into ships (name,class,launched) values ('New
+Jersey','Iowa',1943);
+
+insert into ships (name,class,launched) values ('North
+Carolina','North Carolina',1941);
+
+insert into ships (name,class,launched) values
+('Ramillies','Revenge',1917);
+
+insert into ships (name,class,launched) values
+('Renown','Renown',1916);
+
+insert into ships (name,class,launched) values
+('Repulse','Renown',1916);
+
+insert into ships (name,class,launched) values
+('Resolution','Renown',1916);
+
+insert into ships (name,class,launched) values
+('Revenge','Revenge',1916);
+
+insert into ships (name,class,launched) values ('Royal
+Oak','Revenge',1916);
+
+insert into ships (name,class,launched) values ('Royal
+Sovereign','Revenge',1916);
+
+insert into ships (name,class,launched) values ('South
+Dakota','North Carolina',1941);
+
+insert into ships (name,class,launched) values
+('Tennessee','Tennessee',1920);
+
+insert into ships (name,class,launched) values
+('Washington','North Carolina',1941);
+
+insert into ships (name,class,launched) values
+('Wisconsin','Iowa',1944);
+
+insert into ships (name,class,launched) values
+('Yamato','Yamato',1941);
+Путь к решению.
+Ну так первая зарисовка.
+SELECT country, launched, COUNT(*)
+FROM classes, ships
+GROUP BY country, launched
+ORDER BY country;
+мда, выведено очень много строк.
+
+
+***
+
+итак   страна  может  выпускать  несколько
+классов   кораблей,   как   это  видно  из
+запроса:
+SELECT country, class FROM classes ORDER BY country;
+
+
+COUNTRY          CLASS
+---------------- ----------------
+Germany          Bismarck
+Gt.Britain       Revenge
+Gt.Britain       Renown
+Japan            Kongo
+Japan            Yamato
+USA              Tennessee
+USA              Iowa
+USA              North Carolina
+
+8 строк выбрано.
+***
+
+получается, что СТРАНА---<КЛАСС---<КОРАБЛЬ
+при этом названия кораблей не повторяются.
+
+
+***
+SELECT country, launched, name, classes.class
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched
+ORDER BY country, launched;
+количество  спущенных  кораблей  за каждый
+год, для каждой страны.
+
+
+***
+SELECT country, launched, COUNT(*)
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched
+ORDER BY country, launched
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes, ships
+WHERE classes.class=ships.class
+GROUP by country, launched);
+
+
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes, ships
+*
+ошибка в строке 6:
+ORA-00933: неверное завершение SQL-предложения
+ну  ясно  дело,  что HAVING идет до ORDER,
+что подтверждается дальше.
+
+
+***
+SELECT country, launched, COUNT(*)
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched
+HAVING COUNT(*)>=2
+
+
+COUNTRY          LAUNCHED   COUNT(NAME)
+---------------- ---------- -----------
+USA              1943       2
+USA              1941       3
+USA              1944       2
+Gt.Britain       1916       6
+***
+SELECT country, launched, COUNT(*)
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes, ships
+WHERE classes.class=ships.class
+GROUP by country, launched);
+
+
+COUNTRY          LAUNCHED   COUNT(*)
+---------------- ---------- ----------
+Gt.Britain       1916       6
+дело  в том, что подзапрос в HAVING выдает
+значения  по  всем странам, а нужно только
+по конкретной.
+
+
+***
+SELECT *
+FROM (SELECT country, launched, COUNT(*) c
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched)
+WHERE c>=ALL(SELECT COUNT(*) FROM classes, ships
+WHERE classes.class=ships.class
+GROUP by country, launched);
+
+
+строки не выбраны
+что-то такая мысль ни к чему не привела.
+
+
+***!!!***
+SELECT country, launched, COUNT(*)
+FROM classes c1, ships
+WHERE c1.class=ships.class
+GROUP BY country, launched
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes c2, ships
+WHERE c2.class=ships.class AND c1.country=c2.country
+GROUP by country, launched)
+ORDER BY country;
+итак  я  нашел  года  для  каждой  стран с
+максимальным  количеством спусков кораблей
+на воду:
+
+
+COUNTRY          LAUNCHED   COUNT(*)
+---------------- ---------- ----------
+Gt.Britain       1916       6
+Japan            1914       1
+Japan            1915       1
+Japan            1941       1
+Japan            1942       1
+Japan            1913       1
+Japan            1916       1
+USA              1941       3
+
+8 строк выбрано.
+
+
+***
+SELECT *
+FROM (SELECT country, launched, COUNT(*) c
+FROM classes, ships
+WHERE classes.class=ships.class
+GROUP BY country, launched) c1
+WHERE c>=ALL(SELECT COUNT(*) FROM classes c2, ships
+WHERE c2.class=ships.class AND c1.country=c2.country
+GROUP by country, launched);
+
+
+строки не выбраны
+опять  не  получилось.  я уж не помню чего
+хотел-то здесь.
+
+
+***
+SELECT country, launched, COUNT(*)
+FROM classes c1, ships
+WHERE c1.class=ships.class
+GROUP BY country, launched
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes c2, ships
+  WHERE c2.class=ships.class AND c1.country=c2.country
+  GROUP by country, launched)
+AND launched<=ALL(SELECT launched FROM classes c2, ships
+  WHERE c2.class=ships.class AND c1.country=c2.country
+  GROUP by country, launched)
+ORDER BY country;
+
+
+COUNTRY          LAUNCHED   COUNT(*)
+---------------- ---------- ----------
+Gt.Britain       1916       6
+Japan            1913       1
+***
+
+отталкиваясь от ***!!!*** получаю
+SELECT * FROM
+(
+SELECT country, launched, COUNT(*)
+FROM classes c1, ships
+WHERE c1.class=ships.class
+GROUP BY country, launched
+HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes c2, ships
+  WHERE c2.class=ships.class AND c1.country=c2.country
+  GROUP by country, launched)
+ORDER BY country
+) l1
+WHERE launched<=ALL(SELECT launched FROM(
+  SELECT country, launched, COUNT(*)
+  FROM classes c1, ships
+  WHERE c1.class=ships.class
+  GROUP BY country, launched
+  HAVING COUNT(*)>=ALL(SELECT COUNT(*) FROM classes c2, ships
+  WHERE c2.class=ships.class AND c1.country=c2.country
+  GROUP by country, launched)
+  ORDER BY country
+  ) l2
+  WHERE l1.country=l2.country);
+
+
+COUNTRY          LAUNCHED   COUNT(*)
+---------------- ---------- ----------
+Gt.Britain       1916       6
+Japan            1913       1
+USA              1941       3
+что и требовалось найти : )))

@@ -1,0 +1,239 @@
+Never Mind 01 - ZX Spectrum - процедура быстрого мультилоадера с музыкой.
+multiloader
+
+
+.sti^mlt
+
+
+ Классная штука мультилоадер, но, зараза, медленная!!!
+ Сегодня я и поговорю тут о fast'ном мулелоадере...
+
+
+ Ну,  начнем,  вообще  с  того,  что  с  того как же эта хренька
+работает...
+ Ежику  понятно,  что  просто  зарулить  #3д13  не удастся, но в
+обшем-то, кому надо #3д13 пусть сосет без музона (ay-rulez!!!).
+ Так  как  мы  отказались  от  #3д13,  то  придется юзать ВГ без
+кого-чего  либо. Ну это ведь не проблема - мозги у Спектрумистов
+не даром на бекрень!!!
+
+
+ Точкa  входа  в пзу доса - #3d2f. Так как досов очень много, то
+поговорим  об использовании некоторых процедур типа in a,(#1f) и
+т.  д.:  ребята  делайте  это лучше 'через жопу', т. е. как наши
+деды, по той причине, что если в вашем досе, например, по адресу
+#1000  находится,  например,  та  же in a,(#1f) это нисколько не
+означает, что у вашего соседа так же!!!
+
+
+   И так, имеем:
+
+
+ #3d2f,  точка чтения с диска #2090 (ee-то мы и заюзаем, так как
+она стандартна).
+ Если  посмотреть  в  пзу  доса, то заметим, что по этому адресу
+находится  di  :(, но это не беда, кто нам мешает зарулить сразу
+на 2091 ???
+ Ента  процеДУРкА  читает  один сектор на адрес HL, с адреса ДЕ,
+что нам и надо.
+
+
+ Хитрость  заключается  в  том, что не надо ждать пока считается
+данный   сектор   с  диска,  а  просто  занести  его  в  таблицу
+несчитанных  секторов,  и считать их во второй проход по тому же
+алгоритму, и так далее смотря сколько секторов читать ;)
+
+
+   Вот листинг работоющего лоадера:
+
+
+       ORG    #C000
++      INCBIN "muzon
+
+MUSIC  EQU    #C000
+PLAY   EQU    #C006
+
+       ORG     #6000
+       CALL    im2        ;включим имы
+       EXX
+       LD      HL,table   ;адерс таблы несчитанных секторов
+       LD      C,#00      ;количество несчитанных секторов
+       EXX
+       LD      HL,#4000   ;на какой адрес читать
+       LD      DE,#0B02   ;сектор/дорожка
+       LD      C,#1B      ;скоко секторов
+       CALL    LOADER
+       CALL    STP        ;выход из прерываний
+       RET                ;не помню ;)
+ im2   CALL    MUSIC
+       DI
+       LD      HL,#5E00
+       LD      DE,#5E01
+       LD      B,E
+       LD      C,L
+       LD      (HL),H
+       LD      A,H
+       LDIR
+       LD      I,A
+       LD      A,#C3
+       LD      (#5E5E),A
+       IM      #02
+       LD      HL,MULT
+       LD      (#5E5F),HL
+       EI
+       RET
+
+LOADER EI
+       PUSH    BC
+       CALL    posit   ; позиционированние
+       CALL    read_s  ; я может не прав, но так быстрее
+       CALL    read_s  ; читает, чем с одной  (?)
+       OR      A
+       JR      Z,rulez  ;если считался, к следующему сектору
+       PUSH    DE
+       LD      A,H
+       EXX
+       POP     DE
+       LD      (HL),E  ; запишем номер сектора в таблицу
+       INC     HL
+       LD      (HL),D  ; запишем номер дорожки
+       INC     HL
+       LD      (HL),A  ; адрес в памяти тоже, чтоб не считать
+       INC     HL
+       INC     C       ;увеличим число несчитанных секторов
+       EXX
+rulez  INC     H         ; процедура перехода
+       INC     E         ; к следыющему сектору
+       BIT     #04,E     ;  (где-то украл)
+       JR      Z,cool    ;
+       INC     D         ;
+       LD      E,#00     ;
+cool   POP     BC
+       DEC     C         ; уменьшаем число оставшихся sec
+       JR      NZ,LOADER+#01
+       EXX               ;здесь сделано чтение в два захода,
+                         ;один в таблицу, а второй до полного
+                         ;считывания
+       CALL    from      ;берем первый не считанный сектор
+loader EI
+       PUSH    BC
+read   CALL    posit
+       CALL    read_s
+       CALL    read_s
+       OR      A
+       JR      NZ,read  ;читаем до полного его считывания
+       CALL    from     ;берем следующий
+       POP     BC
+       DEC     C        ;уменьшаем число не считанных секторов
+       JR      NZ,loader+#01
+       RET
+from   LD      DE,(table)
+       LD      HL,(from+#02)
+       INC     HL
+       INC     HL
+       INC     HL
+       LD      (from+#02),HL
+       DEC     HL
+       LD      H,(HL)
+       LD      L,#00
+       RET
+
+posit  LD      A,E
+       INC     A
+       LD      C,#5F
+       CALL    dos
+       LD      A,D
+       SRL     A
+       LD      C,#7F
+       CALL    dos
+       LD      A,#3C
+       BIT     #00,D
+       JR      Z,side
+       LD      A,#2C
+side   LD      C,#FF
+       CALL    dos
+       LD      A,#18
+       LD      C,#1F
+dos    LD      IX,#2A53
+dos_   PUSH    IX
+       JP      #3D2F
+
+MULT   PUSH    AF
+       PUSH    DE
+       PUSH    HL
+       PUSH    BC
+       PUSH    IX
+       PUSH    IY
+       EXX
+       PUSH    HL
+       PUSH    DE
+       PUSH    BC
+       EX      AF,AF'
+       PUSH    AF
+       LD      A,#10      ; то, что и
+       LD      BC,#7FFD   ; будет выполняться
+       OUT     (C),A      ; во время
+       CALL    PLAY       ;      прерывания
+bann   LD      A,#13      ;
+       LD      BC,#7FFD   ;
+       OUT     (C),A      ;
+       POP     AF
+       EX      AF,AF'
+       POP     BC
+       POP     DE
+       POP     HL
+       EXX
+       POP     IY
+       POP     IX
+       POP     BC
+       POP     HL
+       POP     DE
+       POP     AF
+       EI
+end    JP      #3D2F
+STP    DI
+       PUSH    AF
+       PUSH    DE
+       PUSH    BC
+       XOR     A
+       LD      D,#0C
+STOP1  LD      BC,#FFFD
+       OUT     (C),D
+       LD      B,#BF
+       OUT     (C),A
+       DEC     D
+       JP      P,STOP1
+       LD      A,#3F
+       LD      I,A
+       IM      #01
+       POP     BC
+       POP     DE
+       POP     AF
+       EI
+       RET
+
+read_s PUSH    BC
+       PUSH    DE
+       PUSH    HL
+       XOR     A
+       LD      (#5CD6),A
+       CALL    dosa
+       LD      A,(#5CD6)
+       POP     HL
+       POP     DE
+       POP     BC
+       RET
+dosa   EXX
+       LD      DE,gandonk
+       LD      A,#01
+       LD      (DE),A
+       PUSH    DE
+       EXX
+       LD      BC,#2091
+       PUSH    BC
+       LD      BC,#017F
+       JP      #3D2F
+
+gandonk
+       DEFB    #01     ;так надо
+table  ;длина этой таблицы зависит от длины блока загрузки

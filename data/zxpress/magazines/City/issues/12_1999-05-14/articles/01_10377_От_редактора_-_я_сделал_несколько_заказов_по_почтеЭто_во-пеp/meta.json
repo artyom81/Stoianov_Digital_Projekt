@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1999-05-14",
+  "order": 1,
+  "article_id": 10377,
+  "title_link": "От редактора - я сделал несколько заказов по почте.\r\nЭто во-пеpвых GENERAL SOUND у NEMO.",
+  "title_h1": "City 12 - От редактора - я сделал несколько заказов по почте. Это во-пеpвых GENERAL SOUND у NEMO.",
+  "print_url": "https://zxpress.ru/print.php?id=10377",
+  "article_url": "https://zxpress.ru/article.php?id=10377",
+  "fetched_at": "2026-05-31T21:50:23Z"
+}

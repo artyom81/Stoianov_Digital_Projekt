@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 17571,
+    "article_url": "https://zxpress.ru/article.php?id=17571",
+    "print_url": "https://zxpress.ru/print.php?id=17571",
+    "title_link": "Вступление - От авторов.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_От_авторов"
+  },
+  {
+    "article_id": 17572,
+    "article_url": "https://zxpress.ru/article.php?id=17572",
+    "print_url": "https://zxpress.ru/print.php?id=17572",
+    "title_link": "Рассказ - Хофбург. Номера Пигмхольц.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Рассказ_-_Хофбург_Номера_Пигмхольц"
+  },
+  {
+    "article_id": 17573,
+    "article_url": "https://zxpress.ru/article.php?id=17573",
+    "print_url": "https://zxpress.ru/print.php?id=17573",
+    "title_link": "Учебник - \"Ветви персика\": Многотомное издание индийских монахов, которые пытаются научить духовной и плотской любви людей (продолжение).",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Учебник_-_Ветви_персика_Многотомное_издание_индииских_монахо"
+  }
+]

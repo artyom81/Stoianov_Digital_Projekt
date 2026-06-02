@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1999-09-30",
+  "order": 1,
+  "article_id": 13000,
+  "title_link": "От авторов - хеp вам всем!!!",
+  "title_h1": "Body 17 - От авторов - хеp вам всем!!!",
+  "print_url": "https://zxpress.ru/print.php?id=13000",
+  "article_url": "https://zxpress.ru/article.php?id=13000",
+  "fetched_at": "2026-05-31T21:41:32Z"
+}

@@ -1,0 +1,443 @@
+[
+  {
+    "article_id": 8083,
+    "article_url": "https://zxpress.ru/article.php?id=8083",
+    "print_url": "https://zxpress.ru/print.php?id=8083",
+    "title_link": "Авторы - Авторы журнала и контакты редакции.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Авторы_-_Авторы_журнала_и_контакты_редакции"
+  },
+  {
+    "article_id": 8084,
+    "article_url": "https://zxpress.ru/article.php?id=8084",
+    "print_url": "https://zxpress.ru/print.php?id=8084",
+    "title_link": "Вступление - Приветствия и вступительное слово.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Приветствия_и_вступительное_слово"
+  },
+  {
+    "article_id": 8085,
+    "article_url": "https://zxpress.ru/article.php?id=8085",
+    "print_url": "https://zxpress.ru/print.php?id=8085",
+    "title_link": "Вступление - Описание возможностей оболочки.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Описание_возможностеи_оболочки"
+  },
+  {
+    "article_id": 8086,
+    "article_url": "https://zxpress.ru/article.php?id=8086",
+    "print_url": "https://zxpress.ru/print.php?id=8086",
+    "title_link": "Вступление - Содержание номера.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Содержание_номера"
+  },
+  {
+    "article_id": 8087,
+    "article_url": "https://zxpress.ru/article.php?id=8087",
+    "print_url": "https://zxpress.ru/print.php?id=8087",
+    "title_link": "Игротека - GLADIATOR. Анализ интересной fightingовой игры.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_GLADIATOR_Анализ_интереснои_fightingовои_игры"
+  },
+  {
+    "article_id": 8088,
+    "article_url": "https://zxpress.ru/article.php?id=8088",
+    "print_url": "https://zxpress.ru/print.php?id=8088",
+    "title_link": "Игротека - BARD-S TALE. Продолжение \"штурма\" классической РПГ.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_BARD-S_TALE_Продолжение_штурма_классическои_РПГ"
+  },
+  {
+    "article_id": 8089,
+    "article_url": "https://zxpress.ru/article.php?id=8089",
+    "print_url": "https://zxpress.ru/print.php?id=8089",
+    "title_link": "Игротека - SUPAPLEX. Презентация харьковской boulder dash-еобразной игры.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_SUPAPLEX_Презентация_харьковскои_boulder_dash-еоб"
+  },
+  {
+    "article_id": 8090,
+    "article_url": "https://zxpress.ru/article.php?id=8090",
+    "print_url": "https://zxpress.ru/print.php?id=8090",
+    "title_link": "Игротека - SNAKE Презентация написанной в Харькове недетерминированной игры.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_SNAKE_Презентация_написаннои_в_Харькове_недетерми"
+  },
+  {
+    "article_id": 8091,
+    "article_url": "https://zxpress.ru/article.php?id=8091",
+    "print_url": "https://zxpress.ru/print.php?id=8091",
+    "title_link": "Игротека - SNAKE-HELP1. Советы по игре Snake.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_SNAKE-HELP1_Советы_по_игре_Snake"
+  },
+  {
+    "article_id": 8092,
+    "article_url": "https://zxpress.ru/article.php?id=8092",
+    "print_url": "https://zxpress.ru/print.php?id=8092",
+    "title_link": "Игротека - SNAKE-HELP2. Принципы игры и история создания.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_SNAKE-HELP2_Принципы_игры_и_история_создания"
+  },
+  {
+    "article_id": 8093,
+    "article_url": "https://zxpress.ru/article.php?id=8093",
+    "print_url": "https://zxpress.ru/print.php?id=8093",
+    "title_link": "Игротека - СОЛДАТИКИ. Рассказ автора о созданной им стратегической игре.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_СОЛДАТИКИ_Рассказ_автора_о_созданнои_им_стратегич"
+  },
+  {
+    "article_id": 8094,
+    "article_url": "https://zxpress.ru/article.php?id=8094",
+    "print_url": "https://zxpress.ru/print.php?id=8094",
+    "title_link": "Игротека - КОРАБЛИКИ. Информация о новом стратегическом проекте.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_КОРАБЛИКИ_Информация_о_новом_стратегическом_проек"
+  },
+  {
+    "article_id": 8095,
+    "article_url": "https://zxpress.ru/article.php?id=8095",
+    "print_url": "https://zxpress.ru/print.php?id=8095",
+    "title_link": "Игротека - BRAIN PRESSURE. Рассказ о новой логической игре.",
+    "order": 13,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_BRAIN_PRESSURE_Рассказ_о_новои_логическои_игре"
+  },
+  {
+    "article_id": 8096,
+    "article_url": "https://zxpress.ru/article.php?id=8096",
+    "print_url": "https://zxpress.ru/print.php?id=8096",
+    "title_link": "Игротека - ПСЕВДОШАШКИ. Еще одна логическая игрушка.",
+    "order": 14,
+    "issue_label": "04",
+    "short_slug": "Игротека_-_ПСЕВДОШАШКИ_Еще_одна_логическая_игрушка"
+  },
+  {
+    "article_id": 8097,
+    "article_url": "https://zxpress.ru/article.php?id=8097",
+    "print_url": "https://zxpress.ru/print.php?id=8097",
+    "title_link": "Интервью - Интервью с создателями нашумевшей игры Зеркало, группой ART WORK.",
+    "order": 15,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_создателями_нашумевшеи_игры_Зеркало_гр"
+  },
+  {
+    "article_id": 8098,
+    "article_url": "https://zxpress.ru/article.php?id=8098",
+    "print_url": "https://zxpress.ru/print.php?id=8098",
+    "title_link": "Интервью - Интервью с DEMIURGE ASH.",
+    "order": 16,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_DEMIURGE_ASH"
+  },
+  {
+    "article_id": 8099,
+    "article_url": "https://zxpress.ru/article.php?id=8099",
+    "print_url": "https://zxpress.ru/print.php?id=8099",
+    "title_link": "Интервью - Интервью с MIDISOFT/EM.",
+    "order": 17,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_MIDISOFTEM"
+  },
+  {
+    "article_id": 8100,
+    "article_url": "https://zxpress.ru/article.php?id=8100",
+    "print_url": "https://zxpress.ru/print.php?id=8100",
+    "title_link": "Интервью - Интервью с ENERGY MINDS.",
+    "order": 18,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_ENERGY_MINDS"
+  },
+  {
+    "article_id": 8101,
+    "article_url": "https://zxpress.ru/article.php?id=8101",
+    "print_url": "https://zxpress.ru/print.php?id=8101",
+    "title_link": "Интервью - X-PROmotion. Рассказ о поездке XPJ в Донецк.",
+    "order": 19,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_X-PROmotion_Рассказ_о_поездке_XPJ_в_Донецк"
+  },
+  {
+    "article_id": 8102,
+    "article_url": "https://zxpress.ru/article.php?id=8102",
+    "print_url": "https://zxpress.ru/print.php?id=8102",
+    "title_link": "Интервью - SSG-99. Рассказ о проходившей в Севастополе Party",
+    "order": 20,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_SSG-99_Рассказ_о_проходившеи_в_Севастополе_Party"
+  },
+  {
+    "article_id": 8103,
+    "article_url": "https://zxpress.ru/article.php?id=8103",
+    "print_url": "https://zxpress.ru/print.php?id=8103",
+    "title_link": "Интервью - Интервью с группой из Феодосии - X-THEME.",
+    "order": 21,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_группои_из_Феодосии_-_X-THEME"
+  },
+  {
+    "article_id": 8104,
+    "article_url": "https://zxpress.ru/article.php?id=8104",
+    "print_url": "https://zxpress.ru/print.php?id=8104",
+    "title_link": "Ликбез - ВОССТАНОВЛЕНИЕ ИГР#3. Заключительная статья.",
+    "order": 22,
+    "issue_label": "04",
+    "short_slug": "Ликбез_-_ВОССТАНОВЛЕНИЕ_ИГР3_Заключительная_статья"
+  },
+  {
+    "article_id": 8105,
+    "article_url": "https://zxpress.ru/article.php?id=8105",
+    "print_url": "https://zxpress.ru/print.php?id=8105",
+    "title_link": "Ликбез - алгоритмы быстрой 3D-графики №2. Дополнения и замечания.",
+    "order": 23,
+    "issue_label": "04",
+    "short_slug": "Ликбез_-_алгоритмы_быстрои_3D-графики_No2_Дополнения_и_замеч"
+  },
+  {
+    "article_id": 8106,
+    "article_url": "https://zxpress.ru/article.php?id=8106",
+    "print_url": "https://zxpress.ru/print.php?id=8106",
+    "title_link": "Ликбез - CHEATS&POKES. Две последние части из цикла.",
+    "order": 24,
+    "issue_label": "04",
+    "short_slug": "Ликбез_-_CHEATSPOKES_Две_последние_части_из_цикла"
+  },
+  {
+    "article_id": 8107,
+    "article_url": "https://zxpress.ru/article.php?id=8107",
+    "print_url": "https://zxpress.ru/print.php?id=8107",
+    "title_link": "Комната смеха - ПРО СИСАДМИНОВ. Подборка анекдотов.",
+    "order": 25,
+    "issue_label": "04",
+    "short_slug": "Комната_смеха_-_ПРО_СИСАДМИНОВ_Подборка_анекдотов"
+  },
+  {
+    "article_id": 8108,
+    "article_url": "https://zxpress.ru/article.php?id=8108",
+    "print_url": "https://zxpress.ru/print.php?id=8108",
+    "title_link": "Комната смеха - КАК СДЕЛАТЬ ЖУРНАЛ. Советы \"экспертов\"",
+    "order": 26,
+    "issue_label": "04",
+    "short_slug": "Комната_смеха_-_КАК_СДЕЛАТЬ_ЖУРНАЛ_Советы_экспертов"
+  },
+  {
+    "article_id": 8109,
+    "article_url": "https://zxpress.ru/article.php?id=8109",
+    "print_url": "https://zxpress.ru/print.php?id=8109",
+    "title_link": "Комната смеха - ГАМЛЕТ#1. Первая часть новой версии бессмертной трагедии.",
+    "order": 27,
+    "issue_label": "04",
+    "short_slug": "Комната_смеха_-_ГАМЛЕТ1_Первая_часть_новои_версии_бессмертно"
+  },
+  {
+    "article_id": 8110,
+    "article_url": "https://zxpress.ru/article.php?id=8110",
+    "print_url": "https://zxpress.ru/print.php?id=8110",
+    "title_link": "Комната смеха - БЕЛЫЙ ПИНГВИН. Антиновелла по одной известной игре.",
+    "order": 28,
+    "issue_label": "04",
+    "short_slug": "Комната_смеха_-_БЕЛЫИ_ПИНГВИН_Антиновелла_по_однои_известнои"
+  },
+  {
+    "article_id": 8111,
+    "article_url": "https://zxpress.ru/article.php?id=8111",
+    "print_url": "https://zxpress.ru/print.php?id=8111",
+    "title_link": "Меломания - МЕЛОМАНИЯ#2. Второй выпуск музыкальной рубрики.",
+    "order": 29,
+    "issue_label": "04",
+    "short_slug": "Меломания_-_МЕЛОМАНИЯ2_Второи_выпуск_музыкальнои_рубрики"
+  },
+  {
+    "article_id": 8112,
+    "article_url": "https://zxpress.ru/article.php?id=8112",
+    "print_url": "https://zxpress.ru/print.php?id=8112",
+    "title_link": "Меломания - ОБЗОР АЛЬБОМОВ. Обзор heavy-metal CD за 98/99 гг.",
+    "order": 30,
+    "issue_label": "04",
+    "short_slug": "Меломания_-_ОБЗОР_АЛЬБОМОВ_Обзор_heavy-metal_CD_за_9899_гг"
+  },
+  {
+    "article_id": 8113,
+    "article_url": "https://zxpress.ru/article.php?id=8113",
+    "print_url": "https://zxpress.ru/print.php?id=8113",
+    "title_link": "Меломания - VOODOO (рус.)Перевод альбома King Diamond-98.",
+    "order": 31,
+    "issue_label": "04",
+    "short_slug": "Меломания_-_VOODOO_русПеревод_альбома_King_Diamond-98"
+  },
+  {
+    "article_id": 8114,
+    "article_url": "https://zxpress.ru/article.php?id=8114",
+    "print_url": "https://zxpress.ru/print.php?id=8114",
+    "title_link": "Меломания - VOODOO (англ.)Оригинальный текст альбома.",
+    "order": 32,
+    "issue_label": "04",
+    "short_slug": "Меломания_-_VOODOO_англОригинальныи_текст_альбома"
+  },
+  {
+    "article_id": 8115,
+    "article_url": "https://zxpress.ru/article.php?id=8115",
+    "print_url": "https://zxpress.ru/print.php?id=8115",
+    "title_link": "Обозрение - НОВЬЕ?.. Рассуждения на тему свежего софта, список новых игр.",
+    "order": 33,
+    "issue_label": "04",
+    "short_slug": "Обозрение_-_НОВЬЕ_Рассуждения_на_тему_свежего_софта_список_н"
+  },
+  {
+    "article_id": 8116,
+    "article_url": "https://zxpress.ru/article.php?id=8116",
+    "print_url": "https://zxpress.ru/print.php?id=8116",
+    "title_link": "Обозрение - ОБЗОР свежих электронных журналов для ZX Spectrum.",
+    "order": 34,
+    "issue_label": "04",
+    "short_slug": "Обозрение_-_ОБЗОР_свежих_электронных_журналов_для_ZX_Spectru"
+  },
+  {
+    "article_id": 8117,
+    "article_url": "https://zxpress.ru/article.php?id=8117",
+    "print_url": "https://zxpress.ru/print.php?id=8117",
+    "title_link": "Обозрение - ИГРЫ. Знакомство с новинками игрового ПО: Козел, Охота на кротов, Белый Орел, Leprikon, 12 Тайных Книг, King, C.H.I.F., Черный Ворон - новые миссии.",
+    "order": 35,
+    "issue_label": "04",
+    "short_slug": "Обозрение_-_ИГРЫ_Знакомство_с_новинками_игрового_ПО_Козел_Ох"
+  },
+  {
+    "article_id": 8118,
+    "article_url": "https://zxpress.ru/article.php?id=8118",
+    "print_url": "https://zxpress.ru/print.php?id=8118",
+    "title_link": "Вокруг света - Intel: скептики опять ошиблись?",
+    "order": 36,
+    "issue_label": "04",
+    "short_slug": "Вокруг_света_-_Intel_скептики_опять_ошиблись"
+  },
+  {
+    "article_id": 8119,
+    "article_url": "https://zxpress.ru/article.php?id=8119",
+    "print_url": "https://zxpress.ru/print.php?id=8119",
+    "title_link": "Вокруг света - Новые машины Silicon Graphics: ПК или рабочие станции?",
+    "order": 37,
+    "issue_label": "04",
+    "short_slug": "Вокруг_света_-_Новые_машины_Silicon_Graphics_ПК_или_рабочие"
+  },
+  {
+    "article_id": 8120,
+    "article_url": "https://zxpress.ru/article.php?id=8120",
+    "print_url": "https://zxpress.ru/print.php?id=8120",
+    "title_link": "Вокруг света - Новинки с MacWorld Expo.",
+    "order": 38,
+    "issue_label": "04",
+    "short_slug": "Вокруг_света_-_Новинки_с_MacWorld_Expo"
+  },
+  {
+    "article_id": 8121,
+    "article_url": "https://zxpress.ru/article.php?id=8121",
+    "print_url": "https://zxpress.ru/print.php?id=8121",
+    "title_link": "Разное - НАШЕ НИЩЕНСТВО. Очерк А.П.Чехова.",
+    "order": 39,
+    "issue_label": "04",
+    "short_slug": "Разное_-_НАШЕ_НИЩЕНСТВО_Очерк_АПЧехова"
+  },
+  {
+    "article_id": 8122,
+    "article_url": "https://zxpress.ru/article.php?id=8122",
+    "print_url": "https://zxpress.ru/print.php?id=8122",
+    "title_link": "Разное - ROLE PLAYING GAMES. История ролевых игр.",
+    "order": 40,
+    "issue_label": "04",
+    "short_slug": "Разное_-_ROLE_PLAYING_GAMES_История_ролевых_игр"
+  },
+  {
+    "article_id": 8123,
+    "article_url": "https://zxpress.ru/article.php?id=8123",
+    "print_url": "https://zxpress.ru/print.php?id=8123",
+    "title_link": "Разное - ЧЕМПИОНАТ ЗМЕЙ. Новый конкурс.",
+    "order": 41,
+    "issue_label": "04",
+    "short_slug": "Разное_-_ЧЕМПИОНАТ_ЗМЕИ_Новыи_конкурс"
+  },
+  {
+    "article_id": 8124,
+    "article_url": "https://zxpress.ru/article.php?id=8124",
+    "print_url": "https://zxpress.ru/print.php?id=8124",
+    "title_link": "Разное - И СНОВА AY. Статья о коррекции звучания муз. сопроцессора.",
+    "order": 42,
+    "issue_label": "04",
+    "short_slug": "Разное_-_И_СНОВА_AY_Статья_о_коррекции_звучания_муз_сопроцес"
+  },
+  {
+    "article_id": 8125,
+    "article_url": "https://zxpress.ru/article.php?id=8125",
+    "print_url": "https://zxpress.ru/print.php?id=8125",
+    "title_link": "Разное - РЕКЛАМА.",
+    "order": 43,
+    "issue_label": "04",
+    "short_slug": "Разное_-_РЕКЛАМА"
+  },
+  {
+    "article_id": 8126,
+    "article_url": "https://zxpress.ru/article.php?id=8126",
+    "print_url": "https://zxpress.ru/print.php?id=8126",
+    "title_link": "Разное - КОНКУРС.",
+    "order": 44,
+    "issue_label": "04",
+    "short_slug": "Разное_-_КОНКУРС"
+  },
+  {
+    "article_id": 8127,
+    "article_url": "https://zxpress.ru/article.php?id=8127",
+    "print_url": "https://zxpress.ru/print.php?id=8127",
+    "title_link": "Рабочий стол - DIGITAL SOUND EDITOR. Презентация цифрового редактора звука.",
+    "order": 45,
+    "issue_label": "04",
+    "short_slug": "Рабочии_стол_-_DIGITAL_SOUND_EDITOR_Презентация_цифрового_ре"
+  },
+  {
+    "article_id": 8128,
+    "article_url": "https://zxpress.ru/article.php?id=8128",
+    "print_url": "https://zxpress.ru/print.php?id=8128",
+    "title_link": "Рабочий стол - NEOS. Рассказ о новой операционной системе для Спектрума.",
+    "order": 46,
+    "issue_label": "04",
+    "short_slug": "Рабочии_стол_-_NEOS_Рассказ_о_новои_операционнои_системе_для"
+  },
+  {
+    "article_id": 8129,
+    "article_url": "https://zxpress.ru/article.php?id=8129",
+    "print_url": "https://zxpress.ru/print.php?id=8129",
+    "title_link": "Рабочий стол - INTERMINAL. Новая терминальная программа.",
+    "order": 47,
+    "issue_label": "04",
+    "short_slug": "Рабочии_стол_-_INTERMINAL_Новая_терминальная_программа"
+  },
+  {
+    "article_id": 8130,
+    "article_url": "https://zxpress.ru/article.php?id=8130",
+    "print_url": "https://zxpress.ru/print.php?id=8130",
+    "title_link": "Теверна - первый выпуск рубрики, посвященной игровым программам: концепция игры \"Таверна\".",
+    "order": 48,
+    "issue_label": "04",
+    "short_slug": "Теверна_-_первыи_выпуск_рубрики_посвященнои_игровым_программ"
+  },
+  {
+    "article_id": 8131,
+    "article_url": "https://zxpress.ru/article.php?id=8131",
+    "print_url": "https://zxpress.ru/print.php?id=8131",
+    "title_link": "Почта - Переписка с читателями журнала.",
+    "order": 49,
+    "issue_label": "04",
+    "short_slug": "Почта_-_Переписка_с_читателями_журнала"
+  }
+]

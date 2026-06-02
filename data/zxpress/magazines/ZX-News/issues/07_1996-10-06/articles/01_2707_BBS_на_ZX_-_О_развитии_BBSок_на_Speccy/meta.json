@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1996-10-06",
+  "order": 1,
+  "article_id": 2707,
+  "title_link": "BBS на ZX - О развитии BBS'ок на Speccy.",
+  "title_h1": "ZX-News 07 - BBS на ZX - О развитии BBS'ок на Speccy.",
+  "print_url": "https://zxpress.ru/print.php?id=2707",
+  "article_url": "https://zxpress.ru/article.php?id=2707",
+  "fetched_at": "2026-05-31T23:27:56Z"
+}

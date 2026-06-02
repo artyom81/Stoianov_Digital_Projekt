@@ -1,0 +1,15 @@
+{
+  "magazine_id": 34,
+  "magazine_name": "Bugs",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-12-31",
+  "order": 4,
+  "article_id": 1835,
+  "title_link": "Ересь - Internet Чушь.",
+  "title_h1": "Bugs 02 - Ересь - Internet Чушь.",
+  "print_url": "https://zxpress.ru/print.php?id=1835",
+  "article_url": "https://zxpress.ru/article.php?id=1835",
+  "fetched_at": "2026-05-31T21:46:51Z"
+}

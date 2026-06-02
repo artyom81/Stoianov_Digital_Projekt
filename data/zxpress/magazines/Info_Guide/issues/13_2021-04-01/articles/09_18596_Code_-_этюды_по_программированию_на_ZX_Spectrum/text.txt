@@ -1,0 +1,465 @@
+Info Guide 13 - Code - этюды по программированию на ZX Spectrum
+Этюды
+Alone Coder
+Если   выполняется  долгая  операция  и
+негде  поставить  честный процентомер (на─
+пример, это сильно замедлило бы работу),то
+можно написать так:
+ld a,r
+add a,a
+call showprogress
+Теперь  процентомер будет вызываться  в
+128 раз реже.
+   Используется  в
+ZXRar
+и в  графическом
+редакторе
+Scratch.
+* * *
+Переворот   строки  байтов  (de=начало,
+bc=длина):
+ld h,b
+ld l,c
+add hl,de
+;hl=конец+1
+srl b
+rr c
+;bc=wid/2
+mirrorbytes0
+dec hl
+ld a,(de)
+ldi
+dec hl
+ld (hl),a
+jp pe,mirrorbytes0
+* * *
+В прошлый раз мы не показали,как подго─
+товиться к циклу
+djnz:dec c:jr nz:
+ld a,c
+dec bc
+inc b
+ld c,b
+;bc=1..256 => c=1,
+;bc=257..512 => c=2...
+ld b,a
+* * *
+В дополнение к "Этюдам" в
+#11
+(там было
+определение
+AY
+)  -  определение  наличия
+TurboSound FM:
+оно важно,потому что плейер
+под
+TFM
+работает с ожиданием регистра ста─
+туса, которого нет на обычном
+AY.
+Алгоритм:
+  - включаем  FM режим и режим чтения ста─
+туса.
+  - пишем  в  0-й регистр число с установ─
+ленным битом 7.
+  - немного ожидаем.
+  - читаем регистр, смотрим 7-й бит.
+   Если  нолик, то  это
+TFM,
+и он готов. А
+если  нет  (то есть прочиталось записанное
+число или пустая шина), то это не
+TFM.
+В
+Evo SDK
+это выглядит так:
+LD BC,#FFFD
+LD A,%11111000
+OUT (C),A
+;FM on,status rg read on
+ld d,b
+dec d
+jr nz,$-1
+;pause
+XOR A
+OUT (C),A
+;select rg 0
+dec d
+jr nz,$-1
+;pause
+LD B,#BF
+OUT (C),B
+;write some data in rg 0
+dec d
+jr nz,$-1
+;pause
+inc a ;a=1
+LD B,#FF
+INF
+;read status (P=ready)
+JP P,tfmpresent
+;a=1
+xor a
+;TFM not present
+tfmpresent
+ld (TURBOFMON),a
+NB:
+при  текущей  реализации  вайтов  в
+ZX Evo
+нельзя работать с
+TFM
+на частоте 14
+МГц. Нужно  временно  включать 3,5 МГц при
+работе с портами
+TFM!
+Иначе звук портится.
+В эмуляторе это обнаружить нельзя!
+* * *
+Наши  постоянные читатели помнят услов─
+ное сложение с константой за фиксированное
+время:
+;CY=flag
+;a=исходное значение
+jc $+4
+jr $+4
+add a,что условно прибавить
+;a=result
+:19 t
+Дополним его условным сложением с реги─
+стром за фиксированное время:
+;CY=flag
+;a=исходное значение
+;b=что условно прибавить
+jr c,$+6
+nop
+jp $+5
+ret nc
+add a,b
+;a=result
+:21 t
+Или так:
+;CY=flag
+;с=исходное значение
+;b=что условно прибавить
+sbc a,a
+and b
+[add a,c]
+;не надо, если исходно 0
+ld c,a
+;a=result
+:12(16) t
+* * *
+Как перейти  на  следующий  столбец EGA
+экрана на
+АТМ-Turbo
+(если экран подключен
+в 4000, 8000):
+ld a,0x9f
+;0xa0,если не используем
+;верхние 8 линий
+cp h
+ld bc,0x4000
+adc hl,bc
+jp pe,nextstq
+;в половине случаев
+;8000->с000 (надо 6000)
+;или a000->e001 (надо 4001)
+inc a
+;если используем верх.8 линий
+xor h
+ld h,a
+nextstq
+Если  экран  подключен в 8000, c000, то
+переход можно делать так:
+bit 6,h
+set 6,h
+jr z,$+2+4+2+2+1
+ld a,h
+xor 0x60
+ld h,a
+and 0x20
+jr nz,$+3
+inc hl
+В некоторых случаях выгоднее для всех 4
+вариантов  расположения  спрайта по X сде─
+лать  свою  ветку  запоминания  адресов  в
+стек, например (в
+Супер Марио
+):
+macro COUNTSCRADDR
+add a,(hl)
+inc h
+ld c,a
+adc a,(hl)
+sub c
+ld l,c
+endm
+macro NEXTCOLUMNS0
+ld h,a
+;.00
+push hl
+set 6,h
+;.10
+push hl
+xor 0x20
+ld h,a
+;.01
+push hl
+set 6,h
+;.11
+endm
+macro NEXTCOLUMNS1
+ld c,a
+xor 0x40
+ld h,a
+;.10
+push hl
+xor 0x60
+ld h,a
+;.01
+push hl
+set 6,h
+;.11
+push hl
+ld h,c
+;.00
+inc hl
+endm
+macro NEXTCOLUMNS2
+ld h,a
+set 5,h
+;.01
+push hl
+set 6,h
+;.11
+push hl
+ld h,a
+;.00
+inc hl
+push hl
+set 6,h
+;.10
+endm
+macro NEXTCOLUMNS3
+ld c,a
+xor 0x60
+ld h,a
+;.11
+push hl
+ld h,c
+;.00
+inc hl
+push hl
+set 6,h
+;.10
+push hl
+ld a,h
+;не старое, т.к. был inc hl
+xor 0x60
+ld h,a
+;.01
+endm
+prcharxy
+;de=gfx
+;la=yx
+;CY=0
+ld h,tytoscr/256
+rra
+jr c,prcharxy_nextcolumns13
+rra
+jr c,prcharxy_nextcolumns2
+prcharxy_nextcolumns0
+COUNTSCRADDR
+NEXTCOLUMNS0
+jp prcharxy_scrok
+prcharxy_nextcolumns2
+COUNTSCRADDR
+NEXTCOLUMNS2
+jp prcharxy_scrok
+prcharxy_nextcolumns13
+srl a
+jr c,prcharxy_nextcolumns3
+prcharxy_nextcolumns1
+COUNTSCRADDR
+NEXTCOLUMNS1
+jp prcharxy_scrok
+prcharxy_nextcolumns3
+COUNTSCRADDR
+NEXTCOLUMNS3
+prcharxy_scrok
+Запоминается 3 адреса,четвёртый остаёт─
+ся в регистрах. Ширина спрайта в этой игре
+равна  8  пикселей, но это  не ограничение
+метода, а  особенность  кода самой игры. В
+Evo SDK
+каждый слой экрана  отрисовывается
+целиком, и там тоже запоминается 4 адреса.
+
+   В залитом 3D движке под
+ATM-Turbo 2
+ис─
+пользуется такой код:
+ld (hl),a
+;0x0000
+set 6,h
+ld (hl),a
+;0x4000
+add hl,bc
+;bc=0xe000
+ld (hl),a
+;0x2000
+set 6,h
+ld (hl),a
+;0x6000
+add hl,de
+;de=0xa001
+Можно для экономии регистровой пары его
+переписать на
+sbc hl,bc ... add hl,bc: inc
+hl
+или на
+res 6,h:set 5,h ... add hl,bc.
+* * *
+Как  возвращать  ошибки из процедур на─
+верх? Я обычно по ошибке выхожу в исходную
+точку программы с восстановлением стека.Но
+пусть мы хотим обработку ошибок с правиль─
+ным освобождением ресурсов.
+   Пусть  ошибка  возвращается  как
+CY=1.
+Простейший способ в стиле
+iS-DOS:
+<делаем что-то>
+call proc1
+ret c
+<делаем что-то>
+call proc2
+ret c
+<делаем что-то>
+jp proc3
+При  этом можно даже вернуть тип ошибки
+в каком-нибудь  регистре  через  все  про─
+цедуры.
+   Во  многих практических случаях всё со─
+держимое <делаем что-то> - просто присваи─
+вания типа
+ld rp,()
+и
+ld (),rp,
+которые не
+меняют флаги. Поэтому можно писать так:
+<присваивания>
+call proc1
+<присваивания>
+call nc,proc2
+ret c
+<присваивания>
+jp proc3
+(Использовалось в
+GIF converter
+by
+DIS/
+XPJ
+.)
+Но тут, если мы хотим вернуть тип ошиб─
+ки, придётся  запретить  использовать этот
+регистр в присваиваниях.
+* * *
+Как можно сделать процедуру захвата ре─
+сурса (например, открытие  файла), которая
+сама освободит его на выходе из блока:
+openresource
+;if success, autopush closeresource
+;out: nz=error
+...open resource (out: nz=error)...
+ret nz
+;error
+ld hl,closeresource
+ex (sp),hl
+jp (hl)
+closeresource
+;out: nz=error
+...close resource (out: nz=error)...
+ret
+Использование:
+work_with_resource
+;out: nz=error
+call openresource1
+ret nz
+;error
+call openresource2
+ret nz
+;error
+...work with resources 1 and 2...
+ret
+Применяется в
+Nedovigator'е.
+* * *
+Опять-таки  в  дополнение  к "Этюдам" в
+#11
+- ещё  один  способ  вызова функции по
+номеру (номера заняты не подряд):
+;a=команда
+ld hl,tcmds
+;адрес списка команд
+ld bc,ncmds
+;число команд в списке
+cpir
+jp nz,ошибка
+add hl,bc
+add hl,bc
+add hl,bc
+ld a,(hl)
+inc hl
+ld h,(hl)
+ld l,a
+jp (hl)
+Список команд:
+tcmds
+db 'a'
+db 's'
+db 'd'
+...
+db 'x'
+ncmds=$-tcmds
+;дальше в обратном порядке лежат адреса
+;обработчиков:
+dw PROC_x
+...
+dw PROC_d
+dw PROC_s
+dw PROC_a
+Используется в
+NedoOS
+- из-за поддержки
+нумерации  команд от
+CP/M
+и
+MSX-DOS.
+Самые
+частые команды лежат в начале списка
+CPIR.
+Когда  номера команд идут подряд,
+CPIR
+уже
+не  нужен, достаточно перехода по таблице.
+Это значительно быстрее!
+   Вот вариант от
+NEO SPECTRUMAN'а:
+ld h,tab
+;7
+ld h,(hl)
+;7
+jp (hl)
+;4
+А вот из
+Супер Марио
+под
+NedoOS:
+;ld l,a
+or 0xc0
+;7
+ld h,a
+;4
+jp (hl)
+;4

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 201,
+  "magazine_name": "SpecInfo",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-10-18",
+  "order": 3,
+  "article_id": 10906,
+  "title_link": "Тусовка - в городе Риге прошел третий сбор спектрумистов.",
+  "title_h1": "SpecInfo 03 - Тусовка - в городе Риге прошел третий сбор спектрумистов.",
+  "print_url": "https://zxpress.ru/print.php?id=10906",
+  "article_url": "https://zxpress.ru/article.php?id=10906",
+  "fetched_at": "2026-05-31T23:04:47Z"
+}

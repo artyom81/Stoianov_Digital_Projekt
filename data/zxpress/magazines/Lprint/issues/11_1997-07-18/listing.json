@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 12365,
+    "article_url": "https://zxpress.ru/article.php?id=12365",
+    "print_url": "https://zxpress.ru/print.php?id=12365",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  },
+  {
+    "article_id": 12328,
+    "article_url": "https://zxpress.ru/article.php?id=12328",
+    "print_url": "https://zxpress.ru/print.php?id=12328",
+    "title_link": "Новости - Загадочная идея в MOVE #8.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Новости_-_Загадочная_идея_в_MOVE_8"
+  },
+  {
+    "article_id": 12329,
+    "article_url": "https://zxpress.ru/article.php?id=12329",
+    "print_url": "https://zxpress.ru/print.php?id=12329",
+    "title_link": "MORTAL KOMBAT - Полнейшее описание игры MORTAL KOMBAT.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "MORTAL_KOMBAT_-_Полнеишее_описание_игры_MORTAL_KOMBAT"
+  },
+  {
+    "article_id": 12330,
+    "article_url": "https://zxpress.ru/article.php?id=12330",
+    "print_url": "https://zxpress.ru/print.php?id=12330",
+    "title_link": "Письма - Будущее ZX-SPECTRUM - мнение VOVAN'а.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Письма_-_Будущее_ZX-SPECTRUM_-_мнение_VOVANа"
+  },
+  {
+    "article_id": 12331,
+    "article_url": "https://zxpress.ru/article.php?id=12331",
+    "print_url": "https://zxpress.ru/print.php?id=12331",
+    "title_link": "Таланты - Записки сумасшедшего СисОпа.",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Таланты_-_Записки_сумасшедшего_СисОпа"
+  },
+  {
+    "article_id": 12332,
+    "article_url": "https://zxpress.ru/article.php?id=12332",
+    "print_url": "https://zxpress.ru/print.php?id=12332",
+    "title_link": "SPECTRUM - Взгляд на будущее SPECCY с математическо-психологической\r\n точки зрения: спектрум вымрет в 2008 году.",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "SPECTRUM_-_Взгляд_на_будущее_SPECCY_с_математическо-психолог"
+  }
+]

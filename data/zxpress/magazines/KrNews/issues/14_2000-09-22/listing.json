@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 8388,
+    "article_url": "https://zxpress.ru/article.php?id=8388",
+    "print_url": "https://zxpress.ru/print.php?id=8388",
+    "title_link": "INTRO - С наступлением лета.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "INTRO_-_С_наступлением_лета"
+  },
+  {
+    "article_id": 8386,
+    "article_url": "https://zxpress.ru/article.php?id=8386",
+    "print_url": "https://zxpress.ru/print.php?id=8386",
+    "title_link": "NEWS - О новинках на игровом рынке: \"Очко\", \"Clickmania\", \"Tower Pod\", \"Dizzy A\", \"Adventurer\".",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "NEWS_-_О_новинках_на_игровом_рынке_Очко_Clickmania_Tower_Pod"
+  },
+  {
+    "article_id": 8387,
+    "article_url": "https://zxpress.ru/article.php?id=8387",
+    "print_url": "https://zxpress.ru/print.php?id=8387",
+    "title_link": "Интервью - PARADOX'2k: VTS, Kasik, Dimon, Serzhsoft, Gluk, Warlock, Disabler, Snake, Semen.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Интервью_-_PARADOX2k_VTS_Kasik_Dimon_Serzhsoft_Gluk_Warlock"
+  },
+  {
+    "article_id": 8389,
+    "article_url": "https://zxpress.ru/article.php?id=8389",
+    "print_url": "https://zxpress.ru/print.php?id=8389",
+    "title_link": "Обсуждения - ZX Spectrum (детство). Мемуара с kuban.ru.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Обсуждения_-_ZX_Spectrum_детство_Мемуара_с_kubanru"
+  },
+  {
+    "article_id": 8390,
+    "article_url": "https://zxpress.ru/article.php?id=8390",
+    "print_url": "https://zxpress.ru/print.php?id=8390",
+    "title_link": "Письмо - Новости от Cannibal из Горячего Ключа.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Письмо_-_Новости_от_Cannibal_из_Горячего_Ключа"
+  },
+  {
+    "article_id": 8392,
+    "article_url": "https://zxpress.ru/article.php?id=8392",
+    "print_url": "https://zxpress.ru/print.php?id=8392",
+    "title_link": "Paradox - Paradox 2000 глазами очевидцев.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Paradox_-_Paradox_2000_глазами_очевидцев"
+  },
+  {
+    "article_id": 8394,
+    "article_url": "https://zxpress.ru/article.php?id=8394",
+    "print_url": "https://zxpress.ru/print.php?id=8394",
+    "title_link": "Железо - блокиратор порта #1FFD.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Железо_-_блокиратор_порта_1FFD"
+  },
+  {
+    "article_id": 8395,
+    "article_url": "https://zxpress.ru/article.php?id=8395",
+    "print_url": "https://zxpress.ru/print.php?id=8395",
+    "title_link": "Игрокам - прохождение игры Dizzy'A.",
+    "order": 8,
+    "issue_label": "14",
+    "short_slug": "Игрокам_-_прохождение_игры_DizzyA"
+  },
+  {
+    "article_id": 8396,
+    "article_url": "https://zxpress.ru/article.php?id=8396",
+    "print_url": "https://zxpress.ru/print.php?id=8396",
+    "title_link": "Взгляд - О пц и не только...",
+    "order": 9,
+    "issue_label": "14",
+    "short_slug": "Взгляд_-_О_пц_и_не_только"
+  },
+  {
+    "article_id": 8397,
+    "article_url": "https://zxpress.ru/article.php?id=8397",
+    "print_url": "https://zxpress.ru/print.php?id=8397",
+    "title_link": "Новелла - 12 ТАЙНЫХ КНИГ (закрытие проекта).",
+    "order": 10,
+    "issue_label": "14",
+    "short_slug": "Новелла_-_12_ТАИНЫХ_КНИГ_закрытие_проекта"
+  },
+  {
+    "article_id": 8398,
+    "article_url": "https://zxpress.ru/article.php?id=8398",
+    "print_url": "https://zxpress.ru/print.php?id=8398",
+    "title_link": "Мозаика - О эмулях, фирме Скорпион и Исправлении \"FAST FORMAT\"-а.",
+    "order": 11,
+    "issue_label": "14",
+    "short_slug": "Мозаика_-_О_эмулях_фирме_Скорпион_и_Исправлении_FAST_FORMAT-"
+  },
+  {
+    "article_id": 8393,
+    "article_url": "https://zxpress.ru/article.php?id=8393",
+    "print_url": "https://zxpress.ru/print.php?id=8393",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 12,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8391,
+    "article_url": "https://zxpress.ru/article.php?id=8391",
+    "print_url": "https://zxpress.ru/print.php?id=8391",
+    "title_link": "Outro - Авторы и контакты редакции.",
+    "order": 13,
+    "issue_label": "14",
+    "short_slug": "Outro_-_Авторы_и_контакты_редакции"
+  }
+]

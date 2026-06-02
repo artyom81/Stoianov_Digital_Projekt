@@ -1,0 +1,97 @@
+ACNews 72 - News - In September, Nikolay Grivin came to my job, and I started to teach him assembler.
+News
+                         by Alone Coder
+
+This issue was mostly formed by Maksagor, Cyberdaemon, and
+Hippiman - let me explain why. 
+
+In September, Nikolay Grivin came to my job, and I started to
+teach him assembler (is appeared that they don't teach it in the
+university). I chose the Z80 assembler, as we know about its
+many utilities, emulators, and debugging tools. During the
+classes, we made a lot of different programs - tetris, snake,
+battle city, raytrace (assembly version of the known Basic 
+example, it even fits in 1K and 300 seconds), and among others I
+revived the projects of a multitasking OS NedoOS and a gfx
+editor Scratch for colour-per pixel mode. This takes most of my
+time, the coding goes well, so I don't want to stop here.
+
+NedoOS provides user programs with CP/M -like environment plus 
+the possibility to order and switch memory banks in three memory
+windows. It supports file systems FAT12/16/32 (via FatFS -
+thanks to DimkaM ) at IDE and SD card (thanks to Savelij13 ),
+and also TR-DOS. It uses memory by ATM2(+) and ATMЗ standards.
+
+NedoOS, Scratch, as well as utilities cmd.com and Nedovigator, 
+complete with the sources, are periodically mailed to interested
+people (contact me), but I don't make the full release yet,
+because the system changes rapidly. I plan to add NedoLang and
+write a text editor, to make it possible to work inside the
+system.
+
+When I made Scratch, I spotted a bug in 8col editor and made
+the fixed version 0.14.
+
+I was able to visit NedoPC party at the бth of October ( Lord
+Vader persuaded me), where I showed Listh language glued to the 
+3D engine from Info Guide #12. Lord Vader easily broke it with
+recursion and defined a postfix plus :)
+I also showed there Scratch for the first time. When I did, new
+versions of Unreal Speccy appeared inoperable at KOE's computer,
+only those compiled in MSVCб work.
+
+Maksagor wrote an ANSI viewer for OS TASiS (press "5" ). 
+
+Fyrex slowly fixes Unreal Speccy Portable for ATM memory. 
+For that, I quickly made a ROM image with ports test.
+
+SAM Style added DDp's palette support in Xpeccy emulator. 
+Waiting for Unreal Speccy :)
+
+Arwald hasn't invited new students for 2D animation this year. 
+He is writing some game with old ones, and he can't find the
+notebook with Rusted Souls script.
+
+Cyberdaemon and Hippiman sent their ideas for playability in new 
+Speccy games (press "3" ).
+
+Hippiman himself updated the scripting system in his DizzyAgeZX 
+engine, so full-value subroutines can be written with this
+script - for example, password entry.
+
+^mOOh^ found new old Soviet software for Speccy. I'm digging 
+through it :)
+
+Together with John Silver we study Russian style in music. We
+wrote two trackes for "Š®­ñª-ƒ®à¡ã­®ª" game currently being made
+by Flash_ZX, then we stuck. John proposes a new idea for music
+editor - displaying notes as horizontal bars with variable width
+and colour, grouped recursively. Maybe he will have time to
+visit me at the first Sasha's birthday ( Dasha is now 3 years -
+time goes so fast!).
+
+Graf Grey/OHG made the first player for NeoGS supporting 8 
+channels - Neo8 Player, it also supports IDE HDD and SD card.
+
+Utz is updating MDAL format (with fully abstract structure now) 
+and maked the music editor Bintracker. By the time, he sent
+me an ancient Soviet article about computer music:
+
+A friend of mine found an interesting thing. A certain Rudolf 
+Zaripov doing algorithmic compositions on URAL-2 in 1959/1960. 
+http://www.mathnet.ru/php/getFT.phtml?jrnid=dan&paperid=23732 
+&what=fullt&option_lang=rus 
+Not exactly what I'm looking for (which is music actually played 
+on mainframes), but still interesting. Seems the guy also 
+continued this work later on BESM-6. There is something I could 
+use your help though. On page 4 of his paper there is what 
+appears to be some sort of flow chart of the program he used. 
+Have you ever seen this syntax before, and/or could you point me 
+to an explanation on how to read this schema? 
+
+Can anybody decipher the algorithm on page 4?
+
+So, I think, there is a lot to write in the next Info Guide :)
+
+Finally, at 2бth of October, a son was born to Lord Vader and
+Ansy, named Timofey.

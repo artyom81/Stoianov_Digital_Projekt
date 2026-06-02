@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-08-06",
+  "order": 3,
+  "article_id": 1880,
+  "title_link": "Опрос - Опрос Спектрумистов на IRC канале #Z80.",
+  "title_h1": "#Z80 02 - Опрос - Опрос Спектрумистов на IRC канале #Z80.",
+  "print_url": "https://zxpress.ru/print.php?id=1880",
+  "article_url": "https://zxpress.ru/article.php?id=1880",
+  "fetched_at": "2026-05-31T21:28:22Z"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 79,
+    "article_url": "https://zxpress.ru/article.php?id=79",
+    "print_url": "https://zxpress.ru/print.php?id=79",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "49",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 58,
+    "article_url": "https://zxpress.ru/article.php?id=58",
+    "print_url": "https://zxpress.ru/print.php?id=58",
+    "title_link": "HOT GAMES - Лучшая десятка от Visual Soft.",
+    "order": 2,
+    "issue_label": "49",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Visual_Soft"
+  },
+  {
+    "article_id": 2150,
+    "article_url": "https://zxpress.ru/article.php?id=2150",
+    "print_url": "https://zxpress.ru/print.php?id=2150",
+    "title_link": "Welcome to... - История возникновения описания к профессиональному текстовому редактору \"ZX-Word perfect vX.XX\".",
+    "order": 3,
+    "issue_label": "49",
+    "short_slug": "Welcome_to_-_История_возникновения_описания_к_профессиональн"
+  },
+  {
+    "article_id": 2149,
+    "article_url": "https://zxpress.ru/article.php?id=2149",
+    "print_url": "https://zxpress.ru/print.php?id=2149",
+    "title_link": "Мозаика - Новая версия игры \"НЛО-2 v2.40\". Новости от MAGIC SOFT.",
+    "order": 4,
+    "issue_label": "49",
+    "short_slug": "Мозаика_-_Новая_версия_игры_НЛО-2_v240_Новости_от_MAGIC_SOFT"
+  }
+]

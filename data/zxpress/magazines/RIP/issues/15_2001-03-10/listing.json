@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2266,
+    "article_url": "https://zxpress.ru/article.php?id=2266",
+    "print_url": "https://zxpress.ru/print.php?id=2266",
+    "title_link": "7 Origins - Семерка лучших origin'ов-мудрых и не очень выражений.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "7_Origins_-_Семерка_лучших_originов-мудрых_и_не_очень_выраже"
+  },
+  {
+    "article_id": 2262,
+    "article_url": "https://zxpress.ru/article.php?id=2262",
+    "print_url": "https://zxpress.ru/print.php?id=2262",
+    "title_link": "Chess - игра в шахматы по модему",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Chess_-_игра_в_шахматы_по_модему"
+  },
+  {
+    "article_id": 2265,
+    "article_url": "https://zxpress.ru/article.php?id=2265",
+    "print_url": "https://zxpress.ru/print.php?id=2265",
+    "title_link": "Marazm - маразмы о e-mail, fido и просто о жизни....",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Marazm_-_маразмы_о_e-mail_fido_и_просто_о_жизни"
+  },
+  {
+    "article_id": 2260,
+    "article_url": "https://zxpress.ru/article.php?id=2260",
+    "print_url": "https://zxpress.ru/print.php?id=2260",
+    "title_link": "News - Alone Coder вместо Werevolves....",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "News_-_Alone_Coder_вместо_Werevolves"
+  },
+  {
+    "article_id": 2261,
+    "article_url": "https://zxpress.ru/article.php?id=2261",
+    "print_url": "https://zxpress.ru/print.php?id=2261",
+    "title_link": "Party - CAFe 2002 отчет Arty Noonzen'a & Siril'a",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Party_-_CAFe_2002_отчет_Arty_Noonzena_Sirila"
+  },
+  {
+    "article_id": 2264,
+    "article_url": "https://zxpress.ru/article.php?id=2264",
+    "print_url": "https://zxpress.ru/print.php?id=2264",
+    "title_link": "Post... - письма читателей...",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Post_-_письма_читателеи"
+  },
+  {
+    "article_id": 2263,
+    "article_url": "https://zxpress.ru/article.php?id=2263",
+    "print_url": "https://zxpress.ru/print.php?id=2263",
+    "title_link": "Worms - разговор Alone Coder'a c Jerri о создании игры",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Worms_-_разговор_Alone_Codera_c_Jerri_о_создании_игры"
+  }
+]

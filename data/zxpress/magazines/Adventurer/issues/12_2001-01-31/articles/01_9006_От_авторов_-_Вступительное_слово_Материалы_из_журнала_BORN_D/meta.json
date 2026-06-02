@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "2001-01-31",
+  "order": 1,
+  "article_id": 9006,
+  "title_link": "От авторов - Вступительное слово. Материалы из журнала BORN DEAD.",
+  "title_h1": "Adventurer 12 - От авторов - Вступительное слово. Материалы из журнала BORN DEAD.",
+  "print_url": "https://zxpress.ru/print.php?id=9006",
+  "article_url": "https://zxpress.ru/article.php?id=9006",
+  "fetched_at": "2026-05-31T21:34:35Z"
+}

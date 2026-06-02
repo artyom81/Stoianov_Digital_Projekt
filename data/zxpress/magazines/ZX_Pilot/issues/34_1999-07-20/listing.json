@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 8460,
+    "article_url": "https://zxpress.ru/article.php?id=8460",
+    "print_url": "https://zxpress.ru/print.php?id=8460",
+    "title_link": "Новости - новости от спектрумистов из Коврова.",
+    "order": 1,
+    "issue_label": "34",
+    "short_slug": "Новости_-_новости_от_спектрумистов_из_Коврова"
+  },
+  {
+    "article_id": 8461,
+    "article_url": "https://zxpress.ru/article.php?id=8461",
+    "print_url": "https://zxpress.ru/print.php?id=8461",
+    "title_link": "Демопати - Фоторепортаж CHAOS CONSTRUCTIONS'99 demo party.",
+    "order": 2,
+    "issue_label": "34",
+    "short_slug": "Демопати_-_Фоторепортаж_CHAOS_CONSTRUCTIONS99_demo_party"
+  },
+  {
+    "article_id": 8462,
+    "article_url": "https://zxpress.ru/article.php?id=8462",
+    "print_url": "https://zxpress.ru/print.php?id=8462",
+    "title_link": "Amiga - Ответы на часто задаваемые вопросы об Амижном soft'е.",
+    "order": 3,
+    "issue_label": "34",
+    "short_slug": "Amiga_-_Ответы_на_часто_задаваемые_вопросы_об_Амижном_softе"
+  },
+  {
+    "article_id": 8463,
+    "article_url": "https://zxpress.ru/article.php?id=8463",
+    "print_url": "https://zxpress.ru/print.php?id=8463",
+    "title_link": "Coding - Super-puper-быстрый алгоритм построения\r\nокружностей и кругов; быстрое деление 16/16; извлечение квадратного корня из регистровой пары; извлечение квадратного корня из трехбайтового числа; процедурка рассчета адреса в аттрибутах по координатам в знакоместах.",
+    "order": 4,
+    "issue_label": "34",
+    "short_slug": "Coding_-_Super-puper-быстрыи_алгоритм_построенияокружностеи"
+  },
+  {
+    "article_id": 8464,
+    "article_url": "https://zxpress.ru/article.php?id=8464",
+    "print_url": "https://zxpress.ru/print.php?id=8464",
+    "title_link": "Census action - новая версия списка Спектрумовских никнеймов, насчитывающая около пяти с половиной сотен пунктов.",
+    "order": 5,
+    "issue_label": "34",
+    "short_slug": "Census_action_-_новая_версия_списка_Спектрумовских_никнеимов"
+  },
+  {
+    "article_id": 8465,
+    "article_url": "https://zxpress.ru/article.php?id=8465",
+    "print_url": "https://zxpress.ru/print.php?id=8465",
+    "title_link": "Hints - несколько читов. Инструкция по работе с теневым монитором на Scorpion 256.",
+    "order": 6,
+    "issue_label": "34",
+    "short_slug": "Hints_-_несколько_читов_Инструкция_по_работе_с_теневым_монит"
+  },
+  {
+    "article_id": 8466,
+    "article_url": "https://zxpress.ru/article.php?id=8466",
+    "print_url": "https://zxpress.ru/print.php?id=8466",
+    "title_link": "О разном - Судьбы ZX-SPECTRUM или записки старого ламера. Как не дать загнуться Спектруму.",
+    "order": 7,
+    "issue_label": "34",
+    "short_slug": "О_разном_-_Судьбы_ZX-SPECTRUM_или_записки_старого_ламера_Как"
+  },
+  {
+    "article_id": 8467,
+    "article_url": "https://zxpress.ru/article.php?id=8467",
+    "print_url": "https://zxpress.ru/print.php?id=8467",
+    "title_link": "Сделай сам - таблички различных UDG символов.",
+    "order": 8,
+    "issue_label": "34",
+    "short_slug": "Сделаи_сам_-_таблички_различных_UDG_символов"
+  },
+  {
+    "article_id": 8468,
+    "article_url": "https://zxpress.ru/article.php?id=8468",
+    "print_url": "https://zxpress.ru/print.php?id=8468",
+    "title_link": "Анкета - подписка на газету ZX-Pilot.",
+    "order": 9,
+    "issue_label": "34",
+    "short_slug": "Анкета_-_подписка_на_газету_ZX-Pilot"
+  },
+  {
+    "article_id": 8469,
+    "article_url": "https://zxpress.ru/article.php?id=8469",
+    "print_url": "https://zxpress.ru/print.php?id=8469",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "34",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 8470,
+    "article_url": "https://zxpress.ru/article.php?id=8470",
+    "print_url": "https://zxpress.ru/print.php?id=8470",
+    "title_link": "Credits - создатели газеты.",
+    "order": 11,
+    "issue_label": "34",
+    "short_slug": "Credits_-_создатели_газеты"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 10521,
+    "article_url": "https://zxpress.ru/article.php?id=10521",
+    "print_url": "https://zxpress.ru/print.php?id=10521",
+    "title_link": "От редакции - я получил два письма от VEL'а/PXM и по одному от Hardy/FLASH и Nemo.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "От_редакции_-_я_получил_два_письма_от_VELаPXM_и_по_одному_от"
+  },
+  {
+    "article_id": 10522,
+    "article_url": "https://zxpress.ru/article.php?id=10522",
+    "print_url": "https://zxpress.ru/print.php?id=10522",
+    "title_link": "Железо - три схемы согласования модема со Spectrum'ом.",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "Железо_-_три_схемы_согласования_модема_со_Spectrumом"
+  },
+  {
+    "article_id": 10523,
+    "article_url": "https://zxpress.ru/article.php?id=10523",
+    "print_url": "https://zxpress.ru/print.php?id=10523",
+    "title_link": "Что-где-почем - Hачну с того, что мне пpислал на этот pаз VEL.",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "Что-где-почем_-_Hачну_с_того_что_мне_пpислал_на_этот_pаз_VEL"
+  },
+  {
+    "article_id": 10524,
+    "article_url": "https://zxpress.ru/article.php?id=10524",
+    "print_url": "https://zxpress.ru/print.php?id=10524",
+    "title_link": "Смайлик - кучка анекдотов.",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Смаилик_-_кучка_анекдотов"
+  },
+  {
+    "article_id": 10525,
+    "article_url": "https://zxpress.ru/article.php?id=10525",
+    "print_url": "https://zxpress.ru/print.php?id=10525",
+    "title_link": "Ликбез - полный дизассемблер ПЗУ (часть 27).",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "Ликбез_-_полныи_дизассемблер_ПЗУ_часть_27"
+  },
+  {
+    "article_id": 10526,
+    "article_url": "https://zxpress.ru/article.php?id=10526",
+    "print_url": "https://zxpress.ru/print.php?id=10526",
+    "title_link": "Beatles - Сегодня у нас самая известная песня гpуппы \"Евpопа\" - \"Последний отсчет\".",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "Beatles_-_Сегодня_у_нас_самая_известная_песня_гpуппы_Евpопа"
+  },
+  {
+    "article_id": 10527,
+    "article_url": "https://zxpress.ru/article.php?id=10527",
+    "print_url": "https://zxpress.ru/print.php?id=10527",
+    "title_link": "Наш смак - несколько pецептов\r\nпpиготовления самогона, веpнее заквасок.",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Наш_смак_-_несколько_pецептовпpиготовления_самогона_веpнее_з"
+  },
+  {
+    "article_id": 10528,
+    "article_url": "https://zxpress.ru/article.php?id=10528",
+    "print_url": "https://zxpress.ru/print.php?id=10528",
+    "title_link": "Реклама - Пpодам, куплю ,обменяю пpогpаммы для ZX Spectrum.",
+    "order": 8,
+    "issue_label": "35",
+    "short_slug": "Реклама_-_Пpодам_куплю_обменяю_пpогpаммы_для_ZX_Spectrum"
+  }
+]

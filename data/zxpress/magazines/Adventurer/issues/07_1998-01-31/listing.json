@@ -1,0 +1,785 @@
+[
+  {
+    "article_id": 7325,
+    "article_url": "https://zxpress.ru/article.php?id=7325",
+    "print_url": "https://zxpress.ru/print.php?id=7325",
+    "title_link": "От авторов - Особенности новой оболочки.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Особенности_новои_оболочки"
+  },
+  {
+    "article_id": 7326,
+    "article_url": "https://zxpress.ru/article.php?id=7326",
+    "print_url": "https://zxpress.ru/print.php?id=7326",
+    "title_link": "От авторов - Вступительное слово.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Вступительное_слово"
+  },
+  {
+    "article_id": 7327,
+    "article_url": "https://zxpress.ru/article.php?id=7327",
+    "print_url": "https://zxpress.ru/print.php?id=7327",
+    "title_link": "От авторов - Киберпанки - кто это ?",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Киберпанки_-_кто_это"
+  },
+  {
+    "article_id": 7328,
+    "article_url": "https://zxpress.ru/article.php?id=7328",
+    "print_url": "https://zxpress.ru/print.php?id=7328",
+    "title_link": "От авторов - Что такое киберпанк?",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Что_такое_киберпанк"
+  },
+  {
+    "article_id": 7329,
+    "article_url": "https://zxpress.ru/article.php?id=7329",
+    "print_url": "https://zxpress.ru/print.php?id=7329",
+    "title_link": "Авторы - список авторов журнала и адрес редакции.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Авторы_-_список_авторов_журнала_и_адрес_редакции"
+  },
+  {
+    "article_id": 7330,
+    "article_url": "https://zxpress.ru/article.php?id=7330",
+    "print_url": "https://zxpress.ru/print.php?id=7330",
+    "title_link": "Презентация - Авторские программы: Inter Mode Player v1.1",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Inter_Mode_Player_v11"
+  },
+  {
+    "article_id": 7331,
+    "article_url": "https://zxpress.ru/article.php?id=7331",
+    "print_url": "https://zxpress.ru/print.php?id=7331",
+    "title_link": "Презентация - Авторские программы: SPRITES GENERATOR v. 4. 7",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_SPRITES_GENERATOR_v_4_7"
+  },
+  {
+    "article_id": 7332,
+    "article_url": "https://zxpress.ru/article.php?id=7332",
+    "print_url": "https://zxpress.ru/print.php?id=7332",
+    "title_link": "Презентация - Авторские программы: Real COMMANDER v 1. 4",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Real_COMMANDER_v_1_4"
+  },
+  {
+    "article_id": 7333,
+    "article_url": "https://zxpress.ru/article.php?id=7333",
+    "print_url": "https://zxpress.ru/print.php?id=7333",
+    "title_link": "Презентация - Авторские программы: ЛАБИРИНТЫ СМЕРТИ",
+    "order": 9,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_ЛАБИРИНТЫ_СМЕРТИ"
+  },
+  {
+    "article_id": 7334,
+    "article_url": "https://zxpress.ru/article.php?id=7334",
+    "print_url": "https://zxpress.ru/print.php?id=7334",
+    "title_link": "Презентация - Авторские программы: Кубик Рубика (DEMO)",
+    "order": 10,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Кубик_Рубика_DEMO"
+  },
+  {
+    "article_id": 7335,
+    "article_url": "https://zxpress.ru/article.php?id=7335",
+    "print_url": "https://zxpress.ru/print.php?id=7335",
+    "title_link": "Презентация - Авторские программы: ОСЕЛ",
+    "order": 11,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_ОСЕЛ"
+  },
+  {
+    "article_id": 7336,
+    "article_url": "https://zxpress.ru/article.php?id=7336",
+    "print_url": "https://zxpress.ru/print.php?id=7336",
+    "title_link": "Презентация - Авторские программы: Крестики-Нолики",
+    "order": 12,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Крестики-Нолики"
+  },
+  {
+    "article_id": 7337,
+    "article_url": "https://zxpress.ru/article.php?id=7337",
+    "print_url": "https://zxpress.ru/print.php?id=7337",
+    "title_link": "Презентация - Авторские программы: SQUARDS",
+    "order": 13,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_SQUARDS"
+  },
+  {
+    "article_id": 7338,
+    "article_url": "https://zxpress.ru/article.php?id=7338",
+    "print_url": "https://zxpress.ru/print.php?id=7338",
+    "title_link": "Презентация - Авторские программы: ISLAND OF DARKNESS",
+    "order": 14,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_ISLAND_OF_DARKNESS"
+  },
+  {
+    "article_id": 7339,
+    "article_url": "https://zxpress.ru/article.php?id=7339",
+    "print_url": "https://zxpress.ru/print.php?id=7339",
+    "title_link": "Презентация - Авторские программы: SpectrumGuide v1. 0",
+    "order": 15,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_SpectrumGuide_v1_0"
+  },
+  {
+    "article_id": 7340,
+    "article_url": "https://zxpress.ru/article.php?id=7340",
+    "print_url": "https://zxpress.ru/print.php?id=7340",
+    "title_link": "Презентация - Авторские программы: TOP COPY",
+    "order": 16,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_TOP_COPY"
+  },
+  {
+    "article_id": 7341,
+    "article_url": "https://zxpress.ru/article.php?id=7341",
+    "print_url": "https://zxpress.ru/print.php?id=7341",
+    "title_link": "Презентация - Авторские программы: Что может FORTH?",
+    "order": 17,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Что_может_FORTH"
+  },
+  {
+    "article_id": 7342,
+    "article_url": "https://zxpress.ru/article.php?id=7342",
+    "print_url": "https://zxpress.ru/print.php?id=7342",
+    "title_link": "Презентация - Авторские программы: ПОСЛЕДНИЙ КУРЬЕР",
+    "order": 18,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_ПОСЛЕДНИИ_КУРЬЕР"
+  },
+  {
+    "article_id": 7343,
+    "article_url": "https://zxpress.ru/article.php?id=7343",
+    "print_url": "https://zxpress.ru/print.php?id=7343",
+    "title_link": "Презентация - Авторские программы: Орагон",
+    "order": 19,
+    "issue_label": "07",
+    "short_slug": "Презентация_-_Авторские_программы_Орагон"
+  },
+  {
+    "article_id": 7344,
+    "article_url": "https://zxpress.ru/article.php?id=7344",
+    "print_url": "https://zxpress.ru/print.php?id=7344",
+    "title_link": "Новелла - КОМПЬЮТЕРНАЯ НОВЕЛЛА.",
+    "order": 20,
+    "issue_label": "07",
+    "short_slug": "Новелла_-_КОМПЬЮТЕРНАЯ_НОВЕЛЛА"
+  },
+  {
+    "article_id": 7345,
+    "article_url": "https://zxpress.ru/article.php?id=7345",
+    "print_url": "https://zxpress.ru/print.php?id=7345",
+    "title_link": "Письма - письма читателей.",
+    "order": 21,
+    "issue_label": "07",
+    "short_slug": "Письма_-_письма_читателеи"
+  },
+  {
+    "article_id": 7346,
+    "article_url": "https://zxpress.ru/article.php?id=7346",
+    "print_url": "https://zxpress.ru/print.php?id=7346",
+    "title_link": "Интерфейс - компьютерные интерфейсы.",
+    "order": 22,
+    "issue_label": "07",
+    "short_slug": "Интерфеис_-_компьютерные_интерфеисы"
+  },
+  {
+    "article_id": 7347,
+    "article_url": "https://zxpress.ru/article.php?id=7347",
+    "print_url": "https://zxpress.ru/print.php?id=7347",
+    "title_link": "Интерфейс - О кнопках, мышах и многом другом.",
+    "order": 23,
+    "issue_label": "07",
+    "short_slug": "Интерфеис_-_О_кнопках_мышах_и_многом_другом"
+  },
+  {
+    "article_id": 7348,
+    "article_url": "https://zxpress.ru/article.php?id=7348",
+    "print_url": "https://zxpress.ru/print.php?id=7348",
+    "title_link": "Интерфейс - Немного о DOMEN OS.",
+    "order": 24,
+    "issue_label": "07",
+    "short_slug": "Интерфеис_-_Немного_о_DOMEN_OS"
+  },
+  {
+    "article_id": 7349,
+    "article_url": "https://zxpress.ru/article.php?id=7349",
+    "print_url": "https://zxpress.ru/print.php?id=7349",
+    "title_link": "Softmaking - территория закона. О проблемах пиратства на Speccy.",
+    "order": 25,
+    "issue_label": "07",
+    "short_slug": "Softmaking_-_территория_закона_О_проблемах_пиратства_на_Spec"
+  },
+  {
+    "article_id": 7350,
+    "article_url": "https://zxpress.ru/article.php?id=7350",
+    "print_url": "https://zxpress.ru/print.php?id=7350",
+    "title_link": "Спектрум - Бред о SPECCY & PC. Размышления о будущем.",
+    "order": 26,
+    "issue_label": "07",
+    "short_slug": "Спектрум_-_Бред_о_SPECCY_PC_Размышления_о_будущем"
+  },
+  {
+    "article_id": 7351,
+    "article_url": "https://zxpress.ru/article.php?id=7351",
+    "print_url": "https://zxpress.ru/print.php?id=7351",
+    "title_link": "Рыбинские новости - проек WAR ROBOTS.",
+    "order": 27,
+    "issue_label": "07",
+    "short_slug": "Рыбинские_новости_-_проек_WAR_ROBOTS"
+  },
+  {
+    "article_id": 7352,
+    "article_url": "https://zxpress.ru/article.php?id=7352",
+    "print_url": "https://zxpress.ru/print.php?id=7352",
+    "title_link": "Система - Обзор системных программ.",
+    "order": 28,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ"
+  },
+  {
+    "article_id": 7353,
+    "article_url": "https://zxpress.ru/article.php?id=7353",
+    "print_url": "https://zxpress.ru/print.php?id=7353",
+    "title_link": "Система - Обзор системных программ: архиваторы ZXZIP & ZXUNZIP v1.2",
+    "order": 29,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_архиваторы_ZXZIP_ZXUNZIP"
+  },
+  {
+    "article_id": 7354,
+    "article_url": "https://zxpress.ru/article.php?id=7354",
+    "print_url": "https://zxpress.ru/print.php?id=7354",
+    "title_link": "Система - Обзор системных программ: копировщик Turbo Copier v 2. 0",
+    "order": 30,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_Turbo_Copier_v"
+  },
+  {
+    "article_id": 7355,
+    "article_url": "https://zxpress.ru/article.php?id=7355",
+    "print_url": "https://zxpress.ru/print.php?id=7355",
+    "title_link": "Система - Обзор системных программ: копировщик REAL COPY",
+    "order": 31,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_REAL_COPY"
+  },
+  {
+    "article_id": 7356,
+    "article_url": "https://zxpress.ru/article.php?id=7356",
+    "print_url": "https://zxpress.ru/print.php?id=7356",
+    "title_link": "Система - Обзор системных программ: копировщик SOFT COPY v 1.3",
+    "order": 32,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_SOFT_COPY_v_13"
+  },
+  {
+    "article_id": 7357,
+    "article_url": "https://zxpress.ru/article.php?id=7357",
+    "print_url": "https://zxpress.ru/print.php?id=7357",
+    "title_link": "Система - Обзор системных программ: копировщик McDonald v 2. 7",
+    "order": 33,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_McDonald_v_2_7"
+  },
+  {
+    "article_id": 7358,
+    "article_url": "https://zxpress.ru/article.php?id=7358",
+    "print_url": "https://zxpress.ru/print.php?id=7358",
+    "title_link": "Система - Обзор системных программ: ZX Tools DeLuxe v 2.0",
+    "order": 34,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ZX_Tools_DeLuxe_v_20"
+  },
+  {
+    "article_id": 7359,
+    "article_url": "https://zxpress.ru/article.php?id=7359",
+    "print_url": "https://zxpress.ru/print.php?id=7359",
+    "title_link": "Система - Обзор системных программ: ассемблер XAS v 7.432",
+    "order": 35,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ассемблер_XAS_v_7432"
+  },
+  {
+    "article_id": 7360,
+    "article_url": "https://zxpress.ru/article.php?id=7360",
+    "print_url": "https://zxpress.ru/print.php?id=7360",
+    "title_link": "Система - Обзор системных программ: ассемблер TASM v 4.12",
+    "order": 36,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ассемблер_TASM_v_412"
+  },
+  {
+    "article_id": 7361,
+    "article_url": "https://zxpress.ru/article.php?id=7361",
+    "print_url": "https://zxpress.ru/print.php?id=7361",
+    "title_link": "Система - Обзор системных программ: редактор звука SOUND FX v 1. 0",
+    "order": 37,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_редактор_звука_SOUND_FX_v"
+  },
+  {
+    "article_id": 7362,
+    "article_url": "https://zxpress.ru/article.php?id=7362",
+    "print_url": "https://zxpress.ru/print.php?id=7362",
+    "title_link": "Система - Обзор системных программ: SUPER CATALOG v 1. 22",
+    "order": 38,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_SUPER_CATALOG_v_1_22"
+  },
+  {
+    "article_id": 7363,
+    "article_url": "https://zxpress.ru/article.php?id=7363",
+    "print_url": "https://zxpress.ru/print.php?id=7363",
+    "title_link": "Система - Обзор системных программ: Text-Designer v 2.0",
+    "order": 39,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_Text-Designer_v_20"
+  },
+  {
+    "article_id": 7364,
+    "article_url": "https://zxpress.ru/article.php?id=7364",
+    "print_url": "https://zxpress.ru/print.php?id=7364",
+    "title_link": "Система - Обзор системных программ: Smart boot",
+    "order": 40,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_Smart_boot"
+  },
+  {
+    "article_id": 7365,
+    "article_url": "https://zxpress.ru/article.php?id=7365",
+    "print_url": "https://zxpress.ru/print.php?id=7365",
+    "title_link": "Система - Обзор системных программ: Total Commander v 1.4",
+    "order": 41,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_Total_Commander_v_14"
+  },
+  {
+    "article_id": 7366,
+    "article_url": "https://zxpress.ru/article.php?id=7366",
+    "print_url": "https://zxpress.ru/print.php?id=7366",
+    "title_link": "Система - Обзор системных программ: ART Studio v 2. 1",
+    "order": 42,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ART_Studio_v_2_1"
+  },
+  {
+    "article_id": 7367,
+    "article_url": "https://zxpress.ru/article.php?id=7367",
+    "print_url": "https://zxpress.ru/print.php?id=7367",
+    "title_link": "Система - Обзор системных программ: Advancer Text Editor v 1.24",
+    "order": 43,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_Advancer_Text_Editor_v_12"
+  },
+  {
+    "article_id": 7368,
+    "article_url": "https://zxpress.ru/article.php?id=7368",
+    "print_url": "https://zxpress.ru/print.php?id=7368",
+    "title_link": "Система - Обзор системных программ: звуковой редактор Digital Wave v 0. 2",
+    "order": 44,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_звуковои_редактор_Digital"
+  },
+  {
+    "article_id": 7369,
+    "article_url": "https://zxpress.ru/article.php?id=7369",
+    "print_url": "https://zxpress.ru/print.php?id=7369",
+    "title_link": "Система - Обзор системных программ: ассемблер XAS v 9.06+",
+    "order": 45,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ассемблер_XAS_v_906"
+  },
+  {
+    "article_id": 7370,
+    "article_url": "https://zxpress.ru/article.php?id=7370",
+    "print_url": "https://zxpress.ru/print.php?id=7370",
+    "title_link": "Система - Обзор системных программ: копировщик Faster DiskCopyer v 2.0",
+    "order": 46,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_Faster_DiskCop"
+  },
+  {
+    "article_id": 7371,
+    "article_url": "https://zxpress.ru/article.php?id=7371",
+    "print_url": "https://zxpress.ru/print.php?id=7371",
+    "title_link": "Система - Обзор системных программ: копировщик RCOPY v 4.1",
+    "order": 47,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_RCOPY_v_41"
+  },
+  {
+    "article_id": 7372,
+    "article_url": "https://zxpress.ru/article.php?id=7372",
+    "print_url": "https://zxpress.ru/print.php?id=7372",
+    "title_link": "Система - Обзор системных программ: копировщик Master Fast Track Copyer v 2. 2",
+    "order": 48,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_копировщик_Master_Fast_Tr"
+  },
+  {
+    "article_id": 7373,
+    "article_url": "https://zxpress.ru/article.php?id=7373",
+    "print_url": "https://zxpress.ru/print.php?id=7373",
+    "title_link": "Система - Обзор системных программ: Sample Compiler v 0.3",
+    "order": 49,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_Sample_Compiler_v_03"
+  },
+  {
+    "article_id": 7374,
+    "article_url": "https://zxpress.ru/article.php?id=7374",
+    "print_url": "https://zxpress.ru/print.php?id=7374",
+    "title_link": "Система - Обзор системных программ: TEST RAMDOCTOR v 2. 0",
+    "order": 50,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_TEST_RAMDOCTOR_v_2_0"
+  },
+  {
+    "article_id": 7375,
+    "article_url": "https://zxpress.ru/article.php?id=7375",
+    "print_url": "https://zxpress.ru/print.php?id=7375",
+    "title_link": "Система - Обзор системных программ: ассемблер ZXASM v 3.10 demo",
+    "order": 51,
+    "issue_label": "07",
+    "short_slug": "Система_-_Обзор_системных_программ_ассемблер_ZXASM_v_310_dem"
+  },
+  {
+    "article_id": 7376,
+    "article_url": "https://zxpress.ru/article.php?id=7376",
+    "print_url": "https://zxpress.ru/print.php?id=7376",
+    "title_link": "Система - ТЕСТОВАЯ ПАЛАТА: операционная система для спектрума PINK FLOYD v3 (2.31)",
+    "order": 52,
+    "issue_label": "07",
+    "short_slug": "Система_-_ТЕСТОВАЯ_ПАЛАТА_операционная_система_для_спектрума"
+  },
+  {
+    "article_id": 7377,
+    "article_url": "https://zxpress.ru/article.php?id=7377",
+    "print_url": "https://zxpress.ru/print.php?id=7377",
+    "title_link": "Система - ТЕСТОВАЯ ПАЛАТА: CONSUL COMMANDER v2.7",
+    "order": 53,
+    "issue_label": "07",
+    "short_slug": "Система_-_ТЕСТОВАЯ_ПАЛАТА_CONSUL_COMMANDER_v27"
+  },
+  {
+    "article_id": 7378,
+    "article_url": "https://zxpress.ru/article.php?id=7378",
+    "print_url": "https://zxpress.ru/print.php?id=7378",
+    "title_link": "Гости - Презентация группы JURASSIC SOFT из г.Ульяновска.",
+    "order": 54,
+    "issue_label": "07",
+    "short_slug": "Гости_-_Презентация_группы_JURASSIC_SOFT_из_гУльяновска"
+  },
+  {
+    "article_id": 7379,
+    "article_url": "https://zxpress.ru/article.php?id=7379",
+    "print_url": "https://zxpress.ru/print.php?id=7379",
+    "title_link": "Гости - О происхождении группы ACCEPT CORP из г. Армавира.",
+    "order": 55,
+    "issue_label": "07",
+    "short_slug": "Гости_-_О_происхождении_группы_ACCEPT_CORP_из_г_Армавира"
+  },
+  {
+    "article_id": 7380,
+    "article_url": "https://zxpress.ru/article.php?id=7380",
+    "print_url": "https://zxpress.ru/print.php?id=7380",
+    "title_link": "Раскрутка - Описание и рекомендации по прохождению игры MAGICIAN LAND.",
+    "order": 56,
+    "issue_label": "07",
+    "short_slug": "Раскрутка_-_Описание_и_рекомендации_по_прохождению_игры_MAGI"
+  },
+  {
+    "article_id": 7381,
+    "article_url": "https://zxpress.ru/article.php?id=7381",
+    "print_url": "https://zxpress.ru/print.php?id=7381",
+    "title_link": "Раскрутка - Советы для лентяев по выживанию в игре MURK 3320.",
+    "order": 57,
+    "issue_label": "07",
+    "short_slug": "Раскрутка_-_Советы_для_лентяев_по_выживанию_в_игре_MURK_3320"
+  },
+  {
+    "article_id": 7382,
+    "article_url": "https://zxpress.ru/article.php?id=7382",
+    "print_url": "https://zxpress.ru/print.php?id=7382",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: ПОСЛЕДНЯЯ АВАНТЮРА.",
+    "order": 58,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_ПОСЛЕДНЯЯ_АВАНТ"
+  },
+  {
+    "article_id": 7383,
+    "article_url": "https://zxpress.ru/article.php?id=7383",
+    "print_url": "https://zxpress.ru/print.php?id=7383",
+    "title_link": "Раскрутка - Описание и рекомендации по прохождению игры СРЕДНЕВЕКОВАЯ ИСТОРИЯ.",
+    "order": 59,
+    "issue_label": "07",
+    "short_slug": "Раскрутка_-_Описание_и_рекомендации_по_прохождению_игры_СРЕД"
+  },
+  {
+    "article_id": 7384,
+    "article_url": "https://zxpress.ru/article.php?id=7384",
+    "print_url": "https://zxpress.ru/print.php?id=7384",
+    "title_link": "О вирусах - Virus 6.05b & Virus 7.06b.",
+    "order": 60,
+    "issue_label": "07",
+    "short_slug": "О_вирусах_-_Virus_605b_Virus_706b"
+  },
+  {
+    "article_id": 7385,
+    "article_url": "https://zxpress.ru/article.php?id=7385",
+    "print_url": "https://zxpress.ru/print.php?id=7385",
+    "title_link": "Обмен опытом - Обработка ошибок TR DOS.",
+    "order": 61,
+    "issue_label": "07",
+    "short_slug": "Обмен_опытом_-_Обработка_ошибок_TR_DOS"
+  },
+  {
+    "article_id": 7386,
+    "article_url": "https://zxpress.ru/article.php?id=7386",
+    "print_url": "https://zxpress.ru/print.php?id=7386",
+    "title_link": "Обмен опытом - DIGITAL MUSEC + SCORPION - схемы подключения AY.",
+    "order": 62,
+    "issue_label": "07",
+    "short_slug": "Обмен_опытом_-_DIGITAL_MUSEC_SCORPION_-_схемы_подключения_AY"
+  },
+  {
+    "article_id": 7387,
+    "article_url": "https://zxpress.ru/article.php?id=7387",
+    "print_url": "https://zxpress.ru/print.php?id=7387",
+    "title_link": "Обмен опытом - QUILL редактор адвентюр - достоинства и недостатки.",
+    "order": 63,
+    "issue_label": "07",
+    "short_slug": "Обмен_опытом_-_QUILL_редактор_адвентюр_-_достоинства_и_недос"
+  },
+  {
+    "article_id": 7388,
+    "article_url": "https://zxpress.ru/article.php?id=7388",
+    "print_url": "https://zxpress.ru/print.php?id=7388",
+    "title_link": "Обмен опытом - Быстрые процедуры линии.",
+    "order": 64,
+    "issue_label": "07",
+    "short_slug": "Обмен_опытом_-_Быстрые_процедуры_линии"
+  },
+  {
+    "article_id": 7389,
+    "article_url": "https://zxpress.ru/article.php?id=7389",
+    "print_url": "https://zxpress.ru/print.php?id=7389",
+    "title_link": "Оттяг - вступление.",
+    "order": 65,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_вступление"
+  },
+  {
+    "article_id": 7390,
+    "article_url": "https://zxpress.ru/article.php?id=7390",
+    "print_url": "https://zxpress.ru/print.php?id=7390",
+    "title_link": "Оттяг - Что такое законченный урод.",
+    "order": 66,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Что_такое_законченныи_урод"
+  },
+  {
+    "article_id": 7391,
+    "article_url": "https://zxpress.ru/article.php?id=7391",
+    "print_url": "https://zxpress.ru/print.php?id=7391",
+    "title_link": "Оттяг - Инструкция по знакомству с девушкой для чайников...",
+    "order": 67,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Инструкция_по_знакомству_с_девушкои_для_чаиников"
+  },
+  {
+    "article_id": 7392,
+    "article_url": "https://zxpress.ru/article.php?id=7392",
+    "print_url": "https://zxpress.ru/print.php?id=7392",
+    "title_link": "Оттяг - 20 вещей, которые девушка может запихнуть себе куда подальше.",
+    "order": 68,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_20_вещеи_которые_девушка_может_запихнуть_себе_куда_п"
+  },
+  {
+    "article_id": 7393,
+    "article_url": "https://zxpress.ru/article.php?id=7393",
+    "print_url": "https://zxpress.ru/print.php?id=7393",
+    "title_link": "Оттяг - Тест \"Хорошо ли ты знаешь спектрумовскую сцену\"?",
+    "order": 69,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Тест_Хорошо_ли_ты_знаешь_спектрумовскую_сцену"
+  },
+  {
+    "article_id": 7394,
+    "article_url": "https://zxpress.ru/article.php?id=7394",
+    "print_url": "https://zxpress.ru/print.php?id=7394",
+    "title_link": "Оттяг - Тест \"На сколько ты любишь пиво\".",
+    "order": 70,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Тест_На_сколько_ты_любишь_пиво"
+  },
+  {
+    "article_id": 7395,
+    "article_url": "https://zxpress.ru/article.php?id=7395",
+    "print_url": "https://zxpress.ru/print.php?id=7395",
+    "title_link": "Оттяг - Пивное ревю.",
+    "order": 71,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Пивное_ревю"
+  },
+  {
+    "article_id": 7396,
+    "article_url": "https://zxpress.ru/article.php?id=7396",
+    "print_url": "https://zxpress.ru/print.php?id=7396",
+    "title_link": "Оттяг - Винни - Пух и все - все - все.",
+    "order": 72,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Винни_-_Пух_и_все_-_все_-_все"
+  },
+  {
+    "article_id": 7397,
+    "article_url": "https://zxpress.ru/article.php?id=7397",
+    "print_url": "https://zxpress.ru/print.php?id=7397",
+    "title_link": "Оттяг - Восточная баллада о доблестном менте.",
+    "order": 73,
+    "issue_label": "07",
+    "short_slug": "Оттяг_-_Восточная_баллада_о_доблестном_менте"
+  },
+  {
+    "article_id": 7398,
+    "article_url": "https://zxpress.ru/article.php?id=7398",
+    "print_url": "https://zxpress.ru/print.php?id=7398",
+    "title_link": "Новелла - Новелла \"МАРАФОН ЗОМБИ\" (по мотивам игры \"ZOMBI\").",
+    "order": 74,
+    "issue_label": "07",
+    "short_slug": "Новелла_-_Новелла_МАРАФОН_ЗОМБИ_по_мотивам_игры_ZOMBI"
+  },
+  {
+    "article_id": 7399,
+    "article_url": "https://zxpress.ru/article.php?id=7399",
+    "print_url": "https://zxpress.ru/print.php?id=7399",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: TECHNODROM",
+    "order": 75,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_TECHNODROM"
+  },
+  {
+    "article_id": 7400,
+    "article_url": "https://zxpress.ru/article.php?id=7400",
+    "print_url": "https://zxpress.ru/print.php?id=7400",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: PRO GOLF SINULATOR",
+    "order": 76,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_PRO_GOLF_SINULA"
+  },
+  {
+    "article_id": 7401,
+    "article_url": "https://zxpress.ru/article.php?id=7401",
+    "print_url": "https://zxpress.ru/print.php?id=7401",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: ПОСЛЕДНЯЯ АВАНТЮРА",
+    "order": 77,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_ПОСЛЕДНЯЯ_АВАНТ"
+  },
+  {
+    "article_id": 7402,
+    "article_url": "https://zxpress.ru/article.php?id=7402",
+    "print_url": "https://zxpress.ru/print.php?id=7402",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: ELOPEMENT",
+    "order": 78,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_ELOPEMENT"
+  },
+  {
+    "article_id": 7403,
+    "article_url": "https://zxpress.ru/article.php?id=7403",
+    "print_url": "https://zxpress.ru/print.php?id=7403",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: CATCH 23",
+    "order": 79,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_CATCH_23"
+  },
+  {
+    "article_id": 7404,
+    "article_url": "https://zxpress.ru/article.php?id=7404",
+    "print_url": "https://zxpress.ru/print.php?id=7404",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: ARENA",
+    "order": 80,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_ARENA"
+  },
+  {
+    "article_id": 7405,
+    "article_url": "https://zxpress.ru/article.php?id=7405",
+    "print_url": "https://zxpress.ru/print.php?id=7405",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: VINDICATORS",
+    "order": 81,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_VINDICATORS"
+  },
+  {
+    "article_id": 7406,
+    "article_url": "https://zxpress.ru/article.php?id=7406",
+    "print_url": "https://zxpress.ru/print.php?id=7406",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: SWORD OF THE SAMURAI",
+    "order": 82,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_SWORD_OF_THE_SA"
+  },
+  {
+    "article_id": 7407,
+    "article_url": "https://zxpress.ru/article.php?id=7407",
+    "print_url": "https://zxpress.ru/print.php?id=7407",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: Q10 TANK BUSTER",
+    "order": 83,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_Q10_TANK_BUSTER"
+  },
+  {
+    "article_id": 7408,
+    "article_url": "https://zxpress.ru/article.php?id=7408",
+    "print_url": "https://zxpress.ru/print.php?id=7408",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: NINJA SPIRIT",
+    "order": 84,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_NINJA_SPIRIT"
+  },
+  {
+    "article_id": 7409,
+    "article_url": "https://zxpress.ru/article.php?id=7409",
+    "print_url": "https://zxpress.ru/print.php?id=7409",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: СТАЛКЕР",
+    "order": 85,
+    "issue_label": "07",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_СТАЛКЕР"
+  },
+  {
+    "article_id": 7410,
+    "article_url": "https://zxpress.ru/article.php?id=7410",
+    "print_url": "https://zxpress.ru/print.php?id=7410",
+    "title_link": "Конкурс - Итоги конкурса художников.",
+    "order": 86,
+    "issue_label": "07",
+    "short_slug": "Конкурс_-_Итоги_конкурса_художников"
+  },
+  {
+    "article_id": 7411,
+    "article_url": "https://zxpress.ru/article.php?id=7411",
+    "print_url": "https://zxpress.ru/print.php?id=7411",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 87,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

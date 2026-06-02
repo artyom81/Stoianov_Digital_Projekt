@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1999-07-27",
+  "order": 7,
+  "article_id": 3272,
+  "title_link": "От авторов - Статус газеты изменен.",
+  "title_h1": "Body 11 - От авторов - Статус газеты изменен.",
+  "print_url": "https://zxpress.ru/print.php?id=3272",
+  "article_url": "https://zxpress.ru/article.php?id=3272",
+  "fetched_at": "2026-05-31T21:41:14Z"
+}

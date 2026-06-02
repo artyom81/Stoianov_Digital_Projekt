@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 9173,
+    "article_url": "https://zxpress.ru/article.php?id=9173",
+    "print_url": "https://zxpress.ru/print.php?id=9173",
+    "title_link": "Вступление - Вот так вывалился на белый свет 6-ой номер нашего чтива.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Вступление_-_Вот_так_вывалился_на_белыи_свет_6-ои_номер_наше"
+  },
+  {
+    "article_id": 9174,
+    "article_url": "https://zxpress.ru/article.php?id=9174",
+    "print_url": "https://zxpress.ru/print.php?id=9174",
+    "title_link": "Вести с полигона - новости из Гродно от Fox, Smont, Black.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Вести_с_полигона_-_новости_из_Гродно_от_Fox_Smont_Black"
+  },
+  {
+    "article_id": 9175,
+    "article_url": "https://zxpress.ru/article.php?id=9175",
+    "print_url": "https://zxpress.ru/print.php?id=9175",
+    "title_link": "Горизонты - плагин для работы с винчестером на Scorpion 256.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Горизонты_-_плагин_для_работы_с_винчестером_на_Scorpion_256"
+  },
+  {
+    "article_id": 9176,
+    "article_url": "https://zxpress.ru/article.php?id=9176",
+    "print_url": "https://zxpress.ru/print.php?id=9176",
+    "title_link": "Слушаем вас ? - Valeron рассуждает на тему \"чего не хватает спектруму?\"",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Слушаем_вас_-_Valeron_рассуждает_на_тему_чего_не_хватает_спе"
+  },
+  {
+    "article_id": 9177,
+    "article_url": "https://zxpress.ru/article.php?id=9177",
+    "print_url": "https://zxpress.ru/print.php?id=9177",
+    "title_link": "Опять промазал :) - За пару дней до аРМИИ...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Опять_промазал_-_За_пару_днеи_до_аРМИИ"
+  },
+  {
+    "article_id": 9178,
+    "article_url": "https://zxpress.ru/article.php?id=9178",
+    "print_url": "https://zxpress.ru/print.php?id=9178",
+    "title_link": "P.S. - Послесловие.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "PS_-_Послесловие"
+  }
+]

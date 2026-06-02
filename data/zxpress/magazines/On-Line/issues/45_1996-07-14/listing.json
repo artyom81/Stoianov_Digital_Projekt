@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 46,
+    "article_url": "https://zxpress.ru/article.php?id=46",
+    "print_url": "https://zxpress.ru/print.php?id=46",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2134,
+    "article_url": "https://zxpress.ru/article.php?id=2134",
+    "print_url": "https://zxpress.ru/print.php?id=2134",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2132,
+    "article_url": "https://zxpress.ru/article.php?id=2132",
+    "print_url": "https://zxpress.ru/print.php?id=2132",
+    "title_link": "Вопросы читателей - Вопрос - ответ.",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Вопросы_читателеи_-_Вопрос_-_ответ"
+  },
+  {
+    "article_id": 2133,
+    "article_url": "https://zxpress.ru/article.php?id=2133",
+    "print_url": "https://zxpress.ru/print.php?id=2133",
+    "title_link": "Застрял ? - Описание игры \"The Last Ninja 2\".",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "Застрял_-_Описание_игры_The_Last_Ninja_2"
+  },
+  {
+    "article_id": 2131,
+    "article_url": "https://zxpress.ru/article.php?id=2131",
+    "print_url": "https://zxpress.ru/print.php?id=2131",
+    "title_link": "Мозаика - Собрание глюков из игры UFO-2. Хронология \"родных\" версий UFO-2.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Мозаика_-_Собрание_глюков_из_игры_UFO-2_Хронология_родных_ве"
+  },
+  {
+    "article_id": 2130,
+    "article_url": "https://zxpress.ru/article.php?id=2130",
+    "print_url": "https://zxpress.ru/print.php?id=2130",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

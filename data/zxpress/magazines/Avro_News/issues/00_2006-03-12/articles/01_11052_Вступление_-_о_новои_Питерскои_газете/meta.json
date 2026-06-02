@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "2006-03-12",
+  "order": 1,
+  "article_id": 11052,
+  "title_link": "Вступление - о новой Питерской газете.",
+  "title_h1": "Avro News 00 - Вступление - о новой Питерской газете.",
+  "print_url": "https://zxpress.ru/print.php?id=11052",
+  "article_url": "https://zxpress.ru/article.php?id=11052",
+  "fetched_at": "2026-05-31T21:38:26Z"
+}

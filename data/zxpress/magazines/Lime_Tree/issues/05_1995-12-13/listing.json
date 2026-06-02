@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 100,
+    "article_url": "https://zxpress.ru/article.php?id=100",
+    "print_url": "https://zxpress.ru/print.php?id=100",
+    "title_link": "BBS NEWS - Список действующих серверов.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "BBS_NEWS_-_Список_деиствующих_серверов"
+  },
+  {
+    "article_id": 8761,
+    "article_url": "https://zxpress.ru/article.php?id=8761",
+    "print_url": "https://zxpress.ru/print.php?id=8761",
+    "title_link": "WANTED - Реклама.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "WANTED_-_Реклама"
+  },
+  {
+    "article_id": 8762,
+    "article_url": "https://zxpress.ru/article.php?id=8762",
+    "print_url": "https://zxpress.ru/print.php?id=8762",
+    "title_link": "Эксперимент - EVILMAN рассказыывает о своем методе знакомства с девушками.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Эксперимент_-_EVILMAN_рассказыывает_о_своем_методе_знакомств"
+  },
+  {
+    "article_id": 8763,
+    "article_url": "https://zxpress.ru/article.php?id=8763",
+    "print_url": "https://zxpress.ru/print.php?id=8763",
+    "title_link": "Зазеркалье - Когда наступит конец света?.. Предсказания и пророчества.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Зазеркалье_-_Когда_наступит_конец_света_Предсказания_и_проро"
+  },
+  {
+    "article_id": 8764,
+    "article_url": "https://zxpress.ru/article.php?id=8764",
+    "print_url": "https://zxpress.ru/print.php?id=8764",
+    "title_link": "Лит.Страничка - Стихи М.Мулюкова: Череп, Жена и слезы, Зачем?, Эпиграфы на\r\n девушек из колледжа, Лавры.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "ЛитСтраничка_-_Стихи_ММулюкова_Череп_Жена_и_слезы_Зачем_Эпиг"
+  }
+]

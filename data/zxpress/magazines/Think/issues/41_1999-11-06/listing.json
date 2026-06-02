@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4361,
+    "article_url": "https://zxpress.ru/article.php?id=4361",
+    "print_url": "https://zxpress.ru/print.php?id=4361",
+    "title_link": "От автора - В школе каникулы...",
+    "order": 1,
+    "issue_label": "41",
+    "short_slug": "От_автора_-_В_школе_каникулы"
+  },
+  {
+    "article_id": 4362,
+    "article_url": "https://zxpress.ru/article.php?id=4362",
+    "print_url": "https://zxpress.ru/print.php?id=4362",
+    "title_link": "Новости - В городе появились модемы, заканчивается работа на CD-диском.",
+    "order": 2,
+    "issue_label": "41",
+    "short_slug": "Новости_-_В_городе_появились_модемы_заканчивается_работа_на"
+  },
+  {
+    "article_id": 4363,
+    "article_url": "https://zxpress.ru/article.php?id=4363",
+    "print_url": "https://zxpress.ru/print.php?id=4363",
+    "title_link": "NEOS - Описание новой Операционной системы для Спектрума.",
+    "order": 3,
+    "issue_label": "41",
+    "short_slug": "NEOS_-_Описание_новои_Операционнои_системы_для_Спектрума"
+  },
+  {
+    "article_id": 4364,
+    "article_url": "https://zxpress.ru/article.php?id=4364",
+    "print_url": "https://zxpress.ru/print.php?id=4364",
+    "title_link": "Обзор новинок - Japan Crossword (demo).",
+    "order": 4,
+    "issue_label": "41",
+    "short_slug": "Обзор_новинок_-_Japan_Crossword_demo"
+  },
+  {
+    "article_id": 4365,
+    "article_url": "https://zxpress.ru/article.php?id=4365",
+    "print_url": "https://zxpress.ru/print.php?id=4365",
+    "title_link": "Поздравляю - 7 ноября!!!",
+    "order": 5,
+    "issue_label": "41",
+    "short_slug": "Поздравляю_-_7_ноября"
+  },
+  {
+    "article_id": 4366,
+    "article_url": "https://zxpress.ru/article.php?id=4366",
+    "print_url": "https://zxpress.ru/print.php?id=4366",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "41",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4367,
+    "article_url": "https://zxpress.ru/article.php?id=4367",
+    "print_url": "https://zxpress.ru/print.php?id=4367",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "41",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

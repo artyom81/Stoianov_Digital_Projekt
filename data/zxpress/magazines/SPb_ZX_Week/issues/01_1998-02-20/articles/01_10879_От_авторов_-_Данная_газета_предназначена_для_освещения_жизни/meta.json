@@ -1,0 +1,15 @@
+{
+  "magazine_id": 197,
+  "magazine_name": "SPb ZX Week",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-02-20",
+  "order": 1,
+  "article_id": 10879,
+  "title_link": "От авторов - Данная газета предназначена для освещения жизни\r\nZXNET вообще и SPBZXNET.",
+  "title_h1": "SPb ZX Week 01 - От авторов - Данная газета предназначена для освещения жизни ZXNET вообще и SPBZXNET.",
+  "print_url": "https://zxpress.ru/print.php?id=10879",
+  "article_url": "https://zxpress.ru/article.php?id=10879",
+  "fetched_at": "2026-05-31T23:03:40Z"
+}

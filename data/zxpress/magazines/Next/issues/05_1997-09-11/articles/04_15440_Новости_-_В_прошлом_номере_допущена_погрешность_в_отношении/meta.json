@@ -1,0 +1,15 @@
+{
+  "magazine_id": 138,
+  "magazine_name": "Next",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1997-09-11",
+  "order": 4,
+  "article_id": 15440,
+  "title_link": "Новости - В прошлом номере допущена погрешность в отношении газеты Paradox.",
+  "title_h1": "Next 05 - Новости - В прошлом номере допущена погрешность в отношении газеты Paradox.",
+  "print_url": "https://zxpress.ru/print.php?id=15440",
+  "article_url": "https://zxpress.ru/article.php?id=15440",
+  "fetched_at": "2026-05-31T22:32:37Z"
+}

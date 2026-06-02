@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6984,
+    "article_url": "https://zxpress.ru/article.php?id=6984",
+    "print_url": "https://zxpress.ru/print.php?id=6984",
+    "title_link": "Вступление - случай в столовой и содержание номера.",
+    "order": 1,
+    "issue_label": "77",
+    "short_slug": "Вступление_-_случаи_в_столовои_и_содержание_номера"
+  },
+  {
+    "article_id": 6985,
+    "article_url": "https://zxpress.ru/article.php?id=6985",
+    "print_url": "https://zxpress.ru/print.php?id=6985",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "77",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6986,
+    "article_url": "https://zxpress.ru/article.php?id=6986",
+    "print_url": "https://zxpress.ru/print.php?id=6986",
+    "title_link": "Разное - кошки в древности.",
+    "order": 3,
+    "issue_label": "77",
+    "short_slug": "Разное_-_кошки_в_древности"
+  },
+  {
+    "article_id": 6987,
+    "article_url": "https://zxpress.ru/article.php?id=6987",
+    "print_url": "https://zxpress.ru/print.php?id=6987",
+    "title_link": "Разное - о возможности кошек предсказывать погоду.",
+    "order": 4,
+    "issue_label": "77",
+    "short_slug": "Разное_-_о_возможности_кошек_предсказывать_погоду"
+  },
+  {
+    "article_id": 6988,
+    "article_url": "https://zxpress.ru/article.php?id=6988",
+    "print_url": "https://zxpress.ru/print.php?id=6988",
+    "title_link": "Информация - новости о движении против повременной оплаты телефона.",
+    "order": 5,
+    "issue_label": "77",
+    "short_slug": "Информация_-_новости_о_движении_против_повременнои_оплаты_те"
+  },
+  {
+    "article_id": 6989,
+    "article_url": "https://zxpress.ru/article.php?id=6989",
+    "print_url": "https://zxpress.ru/print.php?id=6989",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 6,
+    "issue_label": "77",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6990,
+    "article_url": "https://zxpress.ru/article.php?id=6990",
+    "print_url": "https://zxpress.ru/print.php?id=6990",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "77",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6991,
+    "article_url": "https://zxpress.ru/article.php?id=6991",
+    "print_url": "https://zxpress.ru/print.php?id=6991",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "77",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

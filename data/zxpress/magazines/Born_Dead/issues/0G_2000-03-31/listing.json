@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 1377,
+    "article_url": "https://zxpress.ru/article.php?id=1377",
+    "print_url": "https://zxpress.ru/print.php?id=1377",
+    "title_link": "666 байт От Редакции - Об оболочке.",
+    "order": 1,
+    "issue_label": "0G",
+    "short_slug": "666_баит_От_Редакции_-_Об_оболочке"
+  },
+  {
+    "article_id": 1382,
+    "article_url": "https://zxpress.ru/article.php?id=1382",
+    "print_url": "https://zxpress.ru/print.php?id=1382",
+    "title_link": "Coding своими руками - Алгоритм сжатия звука ADPCM.",
+    "order": 2,
+    "issue_label": "0G",
+    "short_slug": "Coding_своими_руками_-_Алгоритм_сжатия_звука_ADPCM"
+  },
+  {
+    "article_id": 1383,
+    "article_url": "https://zxpress.ru/article.php?id=1383",
+    "print_url": "https://zxpress.ru/print.php?id=1383",
+    "title_link": "Coding своими руками - Супер-быстрый MCC player.",
+    "order": 3,
+    "issue_label": "0G",
+    "short_slug": "Coding_своими_руками_-_Супер-быстрыи_MCC_player"
+  },
+  {
+    "article_id": 1381,
+    "article_url": "https://zxpress.ru/article.php?id=1381",
+    "print_url": "https://zxpress.ru/print.php?id=1381",
+    "title_link": "Hints - Трюк с отгрузками в Чёрном Вороне.",
+    "order": 4,
+    "issue_label": "0G",
+    "short_slug": "Hints_-_Трюк_с_отгрузками_в_Черном_Вороне"
+  },
+  {
+    "article_id": 1378,
+    "article_url": "https://zxpress.ru/article.php?id=1378",
+    "print_url": "https://zxpress.ru/print.php?id=1378",
+    "title_link": "Новости - Дата релиза Walker, новое издание из Самары.",
+    "order": 5,
+    "issue_label": "0G",
+    "short_slug": "Новости_-_Дата_релиза_Walker_новое_издание_из_Самары"
+  },
+  {
+    "article_id": 1379,
+    "article_url": "https://zxpress.ru/article.php?id=1379",
+    "print_url": "https://zxpress.ru/print.php?id=1379",
+    "title_link": "Обзор софта - JPEG viewer v0.2, Minimal Tracker.",
+    "order": 6,
+    "issue_label": "0G",
+    "short_slug": "Обзор_софта_-_JPEG_viewer_v02_Minimal_Tracker"
+  },
+  {
+    "article_id": 1380,
+    "article_url": "https://zxpress.ru/article.php?id=1380",
+    "print_url": "https://zxpress.ru/print.php?id=1380",
+    "title_link": "Партийная зона - Обзор демок с CC'000 Invitation Intro Compo.",
+    "order": 7,
+    "issue_label": "0G",
+    "short_slug": "Партииная_зона_-_Обзор_демок_с_CC000_Invitation_Intro_Compo"
+  },
+  {
+    "article_id": 1384,
+    "article_url": "https://zxpress.ru/article.php?id=1384",
+    "print_url": "https://zxpress.ru/print.php?id=1384",
+    "title_link": "Под звуком \"ПИ\" - Почему известные люди уходят со\r\nсцены?",
+    "order": 8,
+    "issue_label": "0G",
+    "short_slug": "Под_звуком_ПИ_-_Почему_известные_люди_уходят_сосцены"
+  },
+  {
+    "article_id": 1385,
+    "article_url": "https://zxpress.ru/article.php?id=1385",
+    "print_url": "https://zxpress.ru/print.php?id=1385",
+    "title_link": "Посмеёмся - Лебединая песня нефтяника: Рецензия на кинофильм \"Армагеддон\".",
+    "order": 9,
+    "issue_label": "0G",
+    "short_slug": "Посмеемся_-_Лебединая_песня_нефтяника_Рецензия_на_кинофильм"
+  },
+  {
+    "article_id": 1386,
+    "article_url": "https://zxpress.ru/article.php?id=1386",
+    "print_url": "https://zxpress.ru/print.php?id=1386",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 10,
+    "issue_label": "0G",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

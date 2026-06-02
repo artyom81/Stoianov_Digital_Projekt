@@ -1,0 +1,15 @@
+{
+  "magazine_id": 171,
+  "magazine_name": "Realtime",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-02-29",
+  "order": 6,
+  "article_id": 11673,
+  "title_link": "Программирование - форма представления чисел в процессоре Z-80.",
+  "title_h1": "Realtime 02 - Программирование - форма представления чисел в процессоре Z-80.",
+  "print_url": "https://zxpress.ru/print.php?id=11673",
+  "article_url": "https://zxpress.ru/article.php?id=11673",
+  "fetched_at": "2026-05-31T22:55:59Z"
+}

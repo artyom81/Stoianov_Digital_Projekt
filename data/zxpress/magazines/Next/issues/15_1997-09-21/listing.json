@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 15481,
+    "article_url": "https://zxpress.ru/article.php?id=15481",
+    "print_url": "https://zxpress.ru/print.php?id=15481",
+    "title_link": "Новости - Amiga. Анекдот недели. Новость дня.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "Новости_-_Amiga_Анекдот_недели_Новость_дня"
+  },
+  {
+    "article_id": 15482,
+    "article_url": "https://zxpress.ru/article.php?id=15482",
+    "print_url": "https://zxpress.ru/print.php?id=15482",
+    "title_link": "График BBS - По причине неопределенности выхода Lprint'а график BBS сегодня публикуется в NEXT'е.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "График_BBS_-_По_причине_неопределенности_выхода_Lprintа_граф"
+  }
+]

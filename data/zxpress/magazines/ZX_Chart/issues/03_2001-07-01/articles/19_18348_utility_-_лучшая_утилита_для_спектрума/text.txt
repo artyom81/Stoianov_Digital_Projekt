@@ -1,0 +1,35 @@
+ZX Chart 03 - utility - лучшая утилита для спектрума
+.utility
+
+01 +3 144 20 BGE
+02 +1 125 12 Alasm
+03 -2 119 16 BV
+04 -2  77 12 STS
+05 +4  69 12 Pro Tracker
+06 +1  52  7 Hrust
+07 +1  39  3 Storm
+08 -3  35  5 Art Studio
+09 +2  28  7 Real Com.
+10  !  26  5 Perfect Com.
+11 -1  23  3 Quick Com.
+12  !  18  3 Horror World
+13 +3  15  4 Hrip
+14  !  13  2 Tasm
+15  !  10  2 Hrum
+       10  2 Sprite Tools
+   -2  10  2 ZX-Word
+16 +1   6  2 ZX-Amp
+17  !   5  2 ADM
+18  !   4  2 ESE
+
+  Burial Graphics Editor увеличил отрыв от Art Studio,
+попав на 1-ое место. Хотя, в прошлый раз разница
+была всего в одно место, в этот раз BGE стал лучшим
+graph-редактором. Программинг в крови у speccyma-
+n-а: Alasm сделал шаг на 2-ое место, вызвав перес-
+тановку Best View и STS. Обновленный Perfect Comman-
+der  "новоиспеченной"  группой Jeez, потеснил Quick
+Com., заняв его место. ProTraker на 4-ом, новая вер-
+сия пришлась по вкусу многим, это и видно по его
+стремительному взлету.
+                                            Kooll

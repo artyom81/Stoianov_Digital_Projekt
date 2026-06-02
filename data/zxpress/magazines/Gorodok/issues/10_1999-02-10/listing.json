@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 17356,
+    "article_url": "https://zxpress.ru/article.php?id=17356",
+    "print_url": "https://zxpress.ru/print.php?id=17356",
+    "title_link": "От редакции - Содержание номера.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "От_редакции_-_Содержание_номера"
+  },
+  {
+    "article_id": 17357,
+    "article_url": "https://zxpress.ru/article.php?id=17357",
+    "print_url": "https://zxpress.ru/print.php?id=17357",
+    "title_link": "Проза - Народный компьютер.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Проза_-_Народныи_компьютер"
+  },
+  {
+    "article_id": 17358,
+    "article_url": "https://zxpress.ru/article.php?id=17358",
+    "print_url": "https://zxpress.ru/print.php?id=17358",
+    "title_link": "Новости - Kaktus news.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Новости_-_Kaktus_news"
+  },
+  {
+    "article_id": 17359,
+    "article_url": "https://zxpress.ru/article.php?id=17359",
+    "print_url": "https://zxpress.ru/print.php?id=17359",
+    "title_link": "Проза - Моя любовь.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Проза_-_Моя_любовь"
+  },
+  {
+    "article_id": 17360,
+    "article_url": "https://zxpress.ru/article.php?id=17360",
+    "print_url": "https://zxpress.ru/print.php?id=17360",
+    "title_link": "Тест - Ответьте на нижеследующие прикольные вопросы (всего их 19), свои ответы записывайте на бумажке. Отнеситесь к этому всему серъёзно.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Тест_-_Ответьте_на_нижеследующие_прикольные_вопросы_всего_их"
+  },
+  {
+    "article_id": 17361,
+    "article_url": "https://zxpress.ru/article.php?id=17361",
+    "print_url": "https://zxpress.ru/print.php?id=17361",
+    "title_link": "Обзор игр - MONSTRLAND, A LAST HERO OF THE LIGHT FORCE.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Обзор_игр_-_MONSTRLAND_A_LAST_HERO_OF_THE_LIGHT_FORCE"
+  },
+  {
+    "article_id": 17362,
+    "article_url": "https://zxpress.ru/article.php?id=17362",
+    "print_url": "https://zxpress.ru/print.php?id=17362",
+    "title_link": "Credits - Напоследок...",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Credits_-_Напоследок"
+  }
+]

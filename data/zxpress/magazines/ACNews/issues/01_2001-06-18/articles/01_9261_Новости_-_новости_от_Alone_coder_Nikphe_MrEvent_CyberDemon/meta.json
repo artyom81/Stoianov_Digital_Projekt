@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2001-06-18",
+  "order": 1,
+  "article_id": 9261,
+  "title_link": "Новости - новости от Alone coder, Nikphe, Mr.Event, CyberDemon.",
+  "title_h1": "ACNews 01 - Новости - новости от Alone coder, Nikphe, Mr.Event, CyberDemon.",
+  "print_url": "https://zxpress.ru/print.php?id=9261",
+  "article_url": "https://zxpress.ru/article.php?id=9261",
+  "fetched_at": "2026-05-31T21:30:04Z"
+}

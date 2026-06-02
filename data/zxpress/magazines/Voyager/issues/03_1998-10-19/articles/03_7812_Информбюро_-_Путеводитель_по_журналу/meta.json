@@ -1,0 +1,15 @@
+{
+  "magazine_id": 233,
+  "magazine_name": "Voyager",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-10-19",
+  "order": 3,
+  "article_id": 7812,
+  "title_link": "Информбюро - Путеводитель по журналу.",
+  "title_h1": "Voyager 03 - Информбюро - Путеводитель по журналу.",
+  "print_url": "https://zxpress.ru/print.php?id=7812",
+  "article_url": "https://zxpress.ru/article.php?id=7812",
+  "fetched_at": "2026-05-31T23:16:31Z"
+}

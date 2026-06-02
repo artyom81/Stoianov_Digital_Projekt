@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "1999-07-14",
+  "order": 4,
+  "article_id": 10423,
+  "title_link": "Смайлик - неприличные анекдоты.",
+  "title_h1": "City 19 - Смайлик - неприличные анекдоты.",
+  "print_url": "https://zxpress.ru/print.php?id=10423",
+  "article_url": "https://zxpress.ru/article.php?id=10423",
+  "fetched_at": "2026-05-31T21:50:45Z"
+}

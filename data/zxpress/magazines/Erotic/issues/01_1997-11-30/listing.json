@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 17554,
+    "article_url": "https://zxpress.ru/article.php?id=17554",
+    "print_url": "https://zxpress.ru/print.php?id=17554",
+    "title_link": "Вступление - От авторов.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_От_авторов"
+  },
+  {
+    "article_id": 17555,
+    "article_url": "https://zxpress.ru/article.php?id=17555",
+    "print_url": "https://zxpress.ru/print.php?id=17555",
+    "title_link": "Рассказ - Элеонора.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Рассказ_-_Элеонора"
+  },
+  {
+    "article_id": 17556,
+    "article_url": "https://zxpress.ru/article.php?id=17556",
+    "print_url": "https://zxpress.ru/print.php?id=17556",
+    "title_link": "Юмор - Правила пользования мужским туалетом.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_Правила_пользования_мужским_туалетом"
+  },
+  {
+    "article_id": 17557,
+    "article_url": "https://zxpress.ru/article.php?id=17557",
+    "print_url": "https://zxpress.ru/print.php?id=17557",
+    "title_link": "Учебник - \"Ветви персика\": Многотомное издание индийских монахов, которые пытаются научить духовной и плотской любви людей.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Учебник_-_Ветви_персика_Многотомное_издание_индииских_монахо"
+  }
+]

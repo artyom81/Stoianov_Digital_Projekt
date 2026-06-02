@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3063,
+    "article_url": "https://zxpress.ru/article.php?id=3063",
+    "print_url": "https://zxpress.ru/print.php?id=3063",
+    "title_link": "Chaos Constructions 2000 - беглый отчет о скандальном компьютерном фестивале прошлого века, с эпилогом в конце, где дается вердикт очевидца событий.",
+    "order": 1,
+    "issue_label": "52",
+    "short_slug": "Chaos_Constructions_2000_-_беглыи_отчет_о_скандальном_компью"
+  },
+  {
+    "article_id": 3062,
+    "article_url": "https://zxpress.ru/article.php?id=3062",
+    "print_url": "https://zxpress.ru/print.php?id=3062",
+    "title_link": "ZX-Party - глубокая дискуссия по поводу смехотворной позиции демомейкеров против создателей виртуальных миров — гейммейкеров.",
+    "order": 2,
+    "issue_label": "52",
+    "short_slug": "ZX-Party_-_глубокая_дискуссия_по_поводу_смехотворнои_позиции"
+  },
+  {
+    "article_id": 3061,
+    "article_url": "https://zxpress.ru/article.php?id=3061",
+    "print_url": "https://zxpress.ru/print.php?id=3061",
+    "title_link": "Горячая линия - Внимание! Изменились наши адреса!",
+    "order": 3,
+    "issue_label": "52",
+    "short_slug": "Горячая_линия_-_Внимание_Изменились_наши_адреса"
+  },
+  {
+    "article_id": 3060,
+    "article_url": "https://zxpress.ru/article.php?id=3060",
+    "print_url": "https://zxpress.ru/print.php?id=3060",
+    "title_link": "От редакции - Welcome to ZX-News!",
+    "order": 4,
+    "issue_label": "52",
+    "short_slug": "От_редакции_-_Welcome_to_ZX-News"
+  },
+  {
+    "article_id": 3064,
+    "article_url": "https://zxpress.ru/article.php?id=3064",
+    "print_url": "https://zxpress.ru/print.php?id=3064",
+    "title_link": "Суперинтервью - \"Как я стал сисопом\" о себе рассказывают самые странные обитатели SPbZXNet.",
+    "order": 5,
+    "issue_label": "52",
+    "short_slug": "Суперинтервью_-_Как_я_стал_сисопом_о_себе_рассказывают_самые"
+  }
+]

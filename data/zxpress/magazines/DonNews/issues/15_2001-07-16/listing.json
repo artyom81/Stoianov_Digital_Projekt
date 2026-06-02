@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 7314,
+    "article_url": "https://zxpress.ru/article.php?id=7314",
+    "print_url": "https://zxpress.ru/print.php?id=7314",
+    "title_link": "INTRO - Что будет и чего не будет в номере.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "INTRO_-_Что_будет_и_чего_не_будет_в_номере"
+  },
+  {
+    "article_id": 7315,
+    "article_url": "https://zxpress.ru/article.php?id=7315",
+    "print_url": "https://zxpress.ru/print.php?id=7315",
+    "title_link": "Новостя - Новости местные.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Новостя_-_Новости_местные"
+  },
+  {
+    "article_id": 7316,
+    "article_url": "https://zxpress.ru/article.php?id=7316",
+    "print_url": "https://zxpress.ru/print.php?id=7316",
+    "title_link": "Party'Я - отчет о ASCii 2001.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "PartyЯ_-_отчет_о_ASCii_2001"
+  },
+  {
+    "article_id": 7317,
+    "article_url": "https://zxpress.ru/article.php?id=7317",
+    "print_url": "https://zxpress.ru/print.php?id=7317",
+    "title_link": "Party'Я - Millennium 1901 results.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "PartyЯ_-_Millennium_1901_results"
+  },
+  {
+    "article_id": 7318,
+    "article_url": "https://zxpress.ru/article.php?id=7318",
+    "print_url": "https://zxpress.ru/print.php?id=7318",
+    "title_link": "Ремонт - Плохое считывание с магнитофона (продолжение).",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Ремонт_-_Плохое_считывание_с_магнитофона_продолжение"
+  },
+  {
+    "article_id": 7319,
+    "article_url": "https://zxpress.ru/article.php?id=7319",
+    "print_url": "https://zxpress.ru/print.php?id=7319",
+    "title_link": "911 - Прохождение игры Homer Simpson In Russia 2.",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "911_-_Прохождение_игры_Homer_Simpson_In_Russia_2"
+  },
+  {
+    "article_id": 7320,
+    "article_url": "https://zxpress.ru/article.php?id=7320",
+    "print_url": "https://zxpress.ru/print.php?id=7320",
+    "title_link": "Проект - Проект игры \"Подземелья Черного\r\nЗамка\".",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Проект_-_Проект_игры_Подземелья_ЧерногоЗамка"
+  },
+  {
+    "article_id": 7321,
+    "article_url": "https://zxpress.ru/article.php?id=7321",
+    "print_url": "https://zxpress.ru/print.php?id=7321",
+    "title_link": ":) - Юмор",
+    "order": 8,
+    "issue_label": "15",
+    "short_slug": "-_Юмор"
+  },
+  {
+    "article_id": 7322,
+    "article_url": "https://zxpress.ru/article.php?id=7322",
+    "print_url": "https://zxpress.ru/print.php?id=7322",
+    "title_link": "Анкета - Результаты анкетирования читателей.",
+    "order": 9,
+    "issue_label": "15",
+    "short_slug": "Анкета_-_Результаты_анкетирования_читателеи"
+  },
+  {
+    "article_id": 7323,
+    "article_url": "https://zxpress.ru/article.php?id=7323",
+    "print_url": "https://zxpress.ru/print.php?id=7323",
+    "title_link": "Credits & Rec Lame - Кто трудился над номером, контакты...",
+    "order": 10,
+    "issue_label": "15",
+    "short_slug": "Credits_Rec_Lame_-_Кто_трудился_над_номером_контакты"
+  }
+]

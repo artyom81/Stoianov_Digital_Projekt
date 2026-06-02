@@ -1,0 +1,197 @@
+Subliminal Extacy 03 - How Demos Are REALLY Made
+How Demos Are REALLY Made
+
+                        By Enraba Burros
+
+Hi there people!  Firstly, let me explain who  I am. You may not
+have seen  me  about  on the scene  before  because  I am  but a  
+'Scene Watcher'.  I watch the  Scene rather  than contribute  to
+it  because  I have  a  lack  of  talent  and  not  muchtime  to 
+develope one (well I do have a  talent, but it involves donkeys, 
+and  this article isn't  about  that).  I  was born  in Portugal  
+but  myparents moved us  to  England when  my father decided  to 
+start anew life on farm. My father loves animals.  I do too. But
+that'sbesides the point. 
+
+I have been a 'Scene Watcher' for many years now. Almost as long
+as the Scene has been alive. I have a huge demo collection on +D
+(the  best!!) disks  and further  more backed  up on  tape  just
+incase. So I know alot about the scene and it's dark secrets.
+
+Now  let  me explain  what  this article  is  about. I  recently
+visited #Z80 on Ircnet as it's talked about in some of Busysofts
+more recent demos and in First Association. I went on and  found
+a bunch of Slovaks chatting in Slovakian (funnily enough), which
+kinda bored  me, but  I found  an interesting  chap on there who
+went by the nick of 'Johny-X'. We chatted about some of the  old
+time great demos, and how things  seem to be going down the  pan
+nowadays.
+
+Then we started discussing how some fx in the classic demo  'The
+Lyra II' where done. Now the funny thing is Johny-X was  telling
+me that coded the vector scrolly using a very advanced technique
+which allowed them to plot  many lines very quickly. He  said it
+took them several months to perfect it. Now I have evidence that
+this isn't true. Let me explain to you the dark truth!
+
+After seeing 'The Lyra II' quite a few years back now, I fell in
+love with it. I just had to write to the talented people  behind
+it! I decided it would be a good idea to write to the main coder
+Kaz. At the time he  was a god to me.  So I quickly wrote him  a
+letter  and said  basically I  wanna keep  in contact  with him
+because I loved speccy and his demos ;)
+
+A month or so later I received a letter from Poland. It was from
+Kaz! Imagine how  excited I was.  I tore it  open and everything
+else  in the  world paled  into insignificance.  His letter  was
+brief but still very interesting. He  told me of how he was  and
+the rest of ESI and their plans for the future. It was great the
+legendary Kaz had written to me!
+
+After this we  kept in regular  contact exchanging thoughts  and
+ideas. I even started writing  to other members of ESI.  Namely,
+Matt and Ziutek. They where both very friendly and always  wrote
+back quite quickly.
+
+All went well for several  months until I though about  coding a
+demo myself.  I wrote  to Kaz  saying basically,  I wanna  code.
+Imagine my surpise when Kaz wrote back saying It's very easy  to
+code, just follow these instructions. Here are his instructions.
+
+1. First you'll need the following tools...
+
+   1 x Speccy
+   1 x TV or Monitor
+   Power Sockets and connecting leads for the above items
+   1 x Z80 Assembler for the Speccy (Gens is good for this)
+   5 x Candles
+   Some matches
+   1 x Young Virgin (preferably female)
+   Lots of hallucinogenic drugs.
+
+2. Take the 5 candles and place them in circle shape with  equal
+   distance between them. This should form a pentagon shape.
+
+3. Light the candles.
+
+4. Place yourself in the center of the pentagram with the Speccy
+   setup.
+
+5. Make sure the Virgin is  naked and facing you. She should  be
+   outside the pentagram.
+
+6. Turn the Speccy on and load up the Assembler.
+
+7. Take some (or all) of the hallucinogenic drugs.
+
+8. Stare at the virgin until all the candles have burnt out.
+
+9. Wake  up the  next day  with no  clothes on,  no candles,  no
+   virgin present and a  fucking amazing effect coded  up on the
+   Speccy.
+
+10. Wonder what the fuck happened.
+
+Now, I must say here that I do not condone the above practice or
+the use of hallucinogenic drugs.
+However  after  a  few  weeks  of  wondering  if  this technique
+actually worked or not, I finally gave in to curiosity.
+
+I had a Speccy and a TV already. Also I had Gens because Kaz had
+sent me a copy (what a nice chap he is ;). I had 5 peach scented
+candles which I borrowed from my Mum. I had some matches which I
+often to torch small insects with. I didn't have a human  female
+virgin, but there was a 2  year old donkey out in the  barn that
+my Dad would often boast of it's unique virginal properties, and
+how one  day he  would take  it's virginity.  I didn't quite get
+what he  was going  on about,  but he  would often  refer to the
+donkey as his 'little virgin angel'. So I kinda guessed this was
+the virgin I would use. Mum would often pick mushrooms from  her
+'Special field' which was behind the little virgin angels  barn.
+Dad said that  she would often  disappear for days  due to their
+hallucinogenic properties.
+
+So I had it made.  I had all the ingredients  for coding up  the 
+lastest  and  greatest  code ever seen  on  Speccy.   So  I  set
+about  setting  everything up,  following Kaz's instructions  to 
+the letter.  The donkey  and  the  peach scented  candles gave a 
+strangly  intresting  odour to  my  bedroom,  so it made me even 
+more confident.
+
+The candles where  lit, Gens was  running and the  virgin Donkey
+was naked. Well, as naked as a Donkey can get. So it was time to
+take those mushrooms that my Mum was so fond of.
+
+I waited for about 10 minutes staring at the Donkey. The  peachy
+-donkey smell started to get me thinking very strange  thoughts.
+Some of which I wouldn't even dream of. After some more  minutes
+passed (I can't say how long as time disappeared - it no  longer
+existed), I found myself  staring at the Donkey  with passionate
+eyes. What was happening to me? Next, blue grass started growing
+around me. It started chanting 'EAT ME. EAT ME.' So I pulled it.
+It was very strange tasting. Almost peachy. But this didn't stop
+me.
+
+After  some  time munching  on  peach flavoured  blue  grass, my
+attention turned to the Speccy. God, I'd forgotten all about it!
+I was sposed  to be coding,  not eating grass!  I started typing
+stuff into Gens. It made no  sense to me, but I didn't  care. It
+felt  right.  I  was  typing like  there  was  no  tomorrow. The
+frequency of my typing was so great that I couldn't even see  my
+hands moving  as it  was such  a blur.  The blur  put me  into a
+trance like state, in which I can't remember much of.
+
+The  next thing  I can  remember is  waking up  with some  peach
+candle stuck between my teeth. The Speccy was still in Gens with
+lots of text on the screen. The donkey was still there too.  The
+candles had gone.  I was half  naked! What had  happened? Had it
+only  half worked?  I saved  off the  code onto  tape and  then
+returned into Gens to assemble the code.
+
+It took several hours for the  code to compile, so while it  was
+compiling I took the  donkey back to the  shed. As I pushed  the
+Donkey back to the shed, I noticed it was missing some hair from
+around it's  backside. I  thought nothing  of it  and return the
+Donkey back to it's shed.
+
+When I returned  back to my  room, my father  was there. He  was
+enraged that  I has  taken his  'little virgin  angel' from it's
+shed. He asked questioned me about what I had been doing and how
+he'd  kill  me  if  it  ever  happened  again.  I  wasn't really
+listening to him. All I was  bothered about was if the code  had
+compiled ok or not.
+
+After several minutes of a bollocking from my father, I returned
+to  the Speccy.  The code  had finally  finished assembling!  NO
+ERRORS! This was amazing! I saved the code to tape and reset  my
+Speccy. I did a low clear, I think it was something like  24499,
+and then loaded the code up. It took several minutes to load  it
+back in. I typed  in Randomize Usr 24500.  I was STUNNED! I  had
+coded  a  Glenz  Vector  cube  with  textured  sides!  This  was
+amazing!! It ran in about 20 frames but it had worked! I put the
+slowness down to it being my  first time with a donkey. Oops,  I
+mean I  had used  a Donkey,  not a  human female,  and it was my
+first attempt at coding.
+
+I  decided it  was time  to write  a huge  thank you  to Kaz.  I
+detailed  my  experience  very clearly  so  he  could understand
+exactly what  I done.  I also  told him  of how  a human  female
+virgin  was unavailable  at the  time and  so I  used a   donkey
+instead. I posted it as quickly as I could.
+
+Days past.  Months passed.  I sent  Kaz several more letters. No
+reply.  I finally  decided to write to  Mat to find out what had 
+gone wrong.  I got reply from   Mat calling  me  sick and how  I 
+should never contact them ever again. This left me  confused and
+quite upset. I didn't understand what I had done to upset them. 
+So I decided never to code again and I never released my code as
+I assumed  it was  bad and it may set thewhole world against me.
+
+So, the moral of this story? It's simple.
+
+Never  listen  to Polish  people.  You'll only  end  up shagging
+Donkeys and taking drugs!
+
+Signed
+
+Enraba Burros

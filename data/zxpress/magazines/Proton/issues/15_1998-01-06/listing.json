@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16620,
+    "article_url": "https://zxpress.ru/article.php?id=16620",
+    "print_url": "https://zxpress.ru/print.php?id=16620",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16621,
+    "article_url": "https://zxpress.ru/article.php?id=16621",
+    "print_url": "https://zxpress.ru/print.php?id=16621",
+    "title_link": "Опрос - Вашему вниманию предлагается опрос населения на тему конфигурации компьютера.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Опрос_-_Вашему_вниманию_предлагается_опрос_населения_на_тему"
+  },
+  {
+    "article_id": 16622,
+    "article_url": "https://zxpress.ru/article.php?id=16622",
+    "print_url": "https://zxpress.ru/print.php?id=16622",
+    "title_link": "Интервью - Сегодня мы публекуем беседу или интервью, кому как угодно, с небезызвестным вам человеком, сисопом MUSIC BBS, музыкантом группы Antares.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Интервью_-_Сегодня_мы_публекуем_беседу_или_интервью_кому_как"
+  },
+  {
+    "article_id": 16623,
+    "article_url": "https://zxpress.ru/article.php?id=16623",
+    "print_url": "https://zxpress.ru/print.php?id=16623",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16624,
+    "article_url": "https://zxpress.ru/article.php?id=16624",
+    "print_url": "https://zxpress.ru/print.php?id=16624",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

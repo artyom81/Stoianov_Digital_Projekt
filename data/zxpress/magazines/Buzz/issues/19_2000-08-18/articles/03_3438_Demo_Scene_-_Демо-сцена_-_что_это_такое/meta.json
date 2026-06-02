@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 3,
+  "article_id": 3438,
+  "title_link": "Demo Scene - Демо-сцена - что это такое?",
+  "title_h1": "Buzz 19 - Demo Scene - Демо-сцена - что это такое?",
+  "print_url": "https://zxpress.ru/print.php?id=3438",
+  "article_url": "https://zxpress.ru/article.php?id=3438",
+  "fetched_at": "2026-05-31T21:48:50Z"
+}

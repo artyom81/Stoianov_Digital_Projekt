@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1996-11-30",
+  "order": 16,
+  "article_id": 563,
+  "title_link": "Система - Описание программ : ZX-ASM3.0, Universal XAS Converter v2.1,\r\n Format Utility v2.01, Commander DOS v1.9, Super Catalog v1.12, \r\nText Designer v1.0, The Dizzy Editor v1.0, Digital Studio for Covox, Alfasoft Music Crasher v2.13. Драйвер печати шрифтов , созданных в Mach v2.4.",
+  "title_h1": "Adventurer 05 - Система - Описание программ : ZX-ASM3.0, Universal XAS Converter v2.1,  Format Utility v2.01, Commander DOS v1.9, Super Catalog v1.12,  Text Designer v1.0, The Dizzy Editor v1.0, Digital Studio for Covox, Alfasoft Music Crasher v2.13. Драйвер печати шрифтов , созданных в Mach v2.4.",
+  "print_url": "https://zxpress.ru/print.php?id=563",
+  "article_url": "https://zxpress.ru/article.php?id=563",
+  "fetched_at": "2026-05-31T21:32:47Z"
+}

@@ -1,0 +1,633 @@
+ACNews 67 - How it was in Leningrad - Year 1996
+Year 1996
+In the end of the year my schoolmate Denis offered a
+Spectrum-128 for just 100000 roubles. That was cheap, so I
+agreed to buy it after my birthday in June, because I expected
+money presents. So it happened, I received a lot of money, and
+went to Denis to see what a Spectrum it was. It was a local
+model Bi-eM in metal case, with extended keyboard and external
+power unit. Included were user manual, schematics on paper laid
+between the PCB and the case to insulate, and a TV cable. Rather
+long cable, three metres or so. Denis switched on the cmputer,
+loaded some game, so the computer proved to be working, and I
+gave my money, obtaining my second Speccy.
+
+This model was made on Composit board with space-wired memory
+chips, but without a sound chip. There were no circuits for a
+sound chip, but there was a free place in the corner of the
+board. So I planned to install the sound chip myself.
+
+The computer had a first class tape reader. I could load
+programs from chewed tape. My tape recorded didn't chew tape,
+but my friends I gave games to had greedy tape players. So I
+don't like to give cassettes away any more. The computer also
+produced a lot more clean and colourful image than my 48K. So I
+used the 128K as a main computer, and lated disassembled the 48K
+for chips to repair the 128K and make add-ons. So my first
+Speccy hasn't survived.
+
+I tried to run all the games on the new computer to find any
+graphics improvement. That appeared only in Spellbound Dizzy.
+New animation appeared, and new underwater sprites.
+
+Once I managed to burn the power unit, making a short circuit on
+input. For some reason, I disassembled the power unit and
+assembled it while it was on. Something locked, a winding of a
+toroidal transformer burned up, so the computer stayed inactive
+for a time. I couldn't change the transformer, and I had no
+other power unit. When I bought a Scorpion with disk drive, I
+presented that 128K to my friend and classmate Dima. Using it
+for years, he never installed a sound chip, just sockets for
+chips. After some 10 years, he computer returned to me together
+with Speccy books. Dima decided to end with Spectrums. I didn't
+use it any more, and in 2015 presented it to Oleg Sazonov. I
+hope it never returns back.
+Year 1997. Scorpion purchase
+I was uneasy after Scorpion ads in books, ZX Review article with
+Zonov's interview, and and article about multi-tasking MAGOS for
+Scorpion. I needed the Scorpion, so in June of 1997, saving
+money from scholarship and my birthday, I went to Scorpion
+company store at 12th Red Army street.
+
+"Moustache man" met us (I don't know his name, that's not Ilya
+Fomin). I ordered the most advanced model of the time - Scorpion
+ZS 256 Turbo+. There were not ready ones, so I had to wait for a
+couple of days. At the given day I invited an adult
+acquaintance, and we went to the store to take the ordered
+computer. We came 40 minutes earlier, and "Moustache man" met us
+again. He was angry and shouted at us for coming before
+everything was assembled and tested. Then he stopped because he
+understood that we could leave without a purchase. He gave us
+catalogues and told we could select two arbitrary disks as a
+present. Time passed quick while I read catalogues, and my
+Scorpion appeared before me soon.
+
+The board had 512KB ProfROM and IBM PC keyboard controller.
+Everything was neatly arranged in a standard AT case with a
+proprietary Scorpion label. The disk drive was 5,25" from TEAC,
+one of early models with electromagnetic head lowering. The
+computer was worth 188 "conventional units" (equal to USD) that
+meant 1 million 128 thousands roubles. I bought the keyboard and
+mouse separately at Yunona.
+As a present, I chose Enlight 96 disks. I also bought Digital
+Studio (the main disk with a set of tunes). And at home I had
+UFO 2 and ZX FORMAT #1 magazine presented by Dima to my
+birthday.
+
+The keyboard was buggy from the beginning. It often stalled, and
+the 35000 roubles mouse didn't work at all. I returned to
+Scorpion and demanded explanation. Of course, they shifted the
+blame to cheap Chinese parts. They added though that all
+keyboards are expeced to stall, that's a feature of the
+controller. They also changed my mouse to a cheaper one (for
+28000), having tested it on my computer. Now I could read the
+magazine with pleasure and also play UFO 2.
+
+Almost at once I opened the computer and disconnected the
+internal speaker from the internal sound amplifier. There was no
+volume control, and the amplified shouted very loud through an
+indecent high frequency beeper. I moved the sound out through a
+separate backplane socket, and heard it through a stereo vinyl
+player Melodiya 103 Stereo. The sound was rich but with some
+background buzzing. Sergey Zerov, who tuned the board and
+assembled the computer, told me that it was because the sound
+circuits pass near several counters dividing high frequency. He
+advised to cut these wires and take the sound directly from
+sound chip. I didn't do that, of course.
+
+>What about stalling keys - why it was? How to work with such a 
+controller? 
+
+Keys were said to stall only at cheap keyboard models. It showed
+so you could press a key once, and Scorpion received infinite
+number of keypresses. I don't know what were the conditions for
+that. Scorpion people popularized a method to fix that
+installing a resistor and a capacitor at keyboard output. I
+already had that add-on when I bought Scorpion, and it didn't
+help. Although when I removed it, the keys stalled every time.
+So it fixed a part of the problem somehow.
+
+The second part of the problem was a weak Intel microcontroller,
+from the early 80's, that couldn't "press" keys fast enough for
+Spectrum polling. So the controller stopped Z80 with WAIT
+signal. And if you had keyboard polling in a loop, i.e. without
+pauses between reads, WAIT signal was generated so often that
+Scorpion stalled or started to work very slow.
+If you read ports directly after HALT, the computer didn't
+stall, just was slower as it was apparent in demos.
+So after some time I was forced to buy a regular Spectrum
+keyboard.
+Year 1997. Video monitor
+I was tired of my old TV set with distorted beam convergence, so
+in September of 1997 I went to Yunona to buy a video monitor.
+I didn't shop around all the kiosks, and I bought the monitor at
+the first one. I asked for a monitor like "32 ВТЦ 202" for
+Spectrum, and the salesman said he had a better one, and palmed
+me off a CGA Philips on rotating stand for 280000 roubles. The
+monitor had nice appearance, it was clean and neat. It had a
+colour switch - you could select between colour mode, or
+monochrome green, or amber. He attached the monitor to some
+Spectrum through a box with many switches. He could commute
+signals from one socket to another with these switches. After
+some switching, the salesman received a stable picture on the
+monitor. He viewed a standard colour test, and I noticed some
+outline doubling at some texts. I asked why. The salesman said I
+just need to tune the monitor inside, and he gave me a paper
+with phone number of a craftsman who would come and do that for
+nothing. He also gave me his phone to call if I have troubles
+with the craftsman. O.K.
+
+I brought the monitor home and began to investigate how to
+attach it. I soldered an adapter from DIN7 to DB9, but nothing
+worked. It couldn't be helped, so I called the craftsman. He
+responded and came to me the same day. I showed him Scorpion
+schematics, he looked in it then attached an oscilloscope and
+started to watch the TV signals. He said I had signals mixed up,
+"Green" instead of "Video" and vice versa. He showed how it
+looked at oscilloscope. Then he touched something in Scorpion
+and said that I must have separate frame and line sync and
+invert them. He couldn't do that at once because he hadn't
+needed chips with him. He offered to take the computer and
+monitor with him to make an add-on in a few days. I agreed and
+also asked for monitor tuning to avoid the outlines. Before
+quitting, the craftsman asked for payment at least for time and
+delivery. I gave him 30000 roubles, and he went home.
+
+In a couple of days I phoned him, and he said he attached the
+thing so I could come and take it back. I invited two friends,
+and we came to the given address. That was close, about 5
+kilimetres. He let us into his flat. My Scorpion stood on a
+table with open case together with the monitor. Everything was
+on, and the test picture was shown. The picture was bright and
+saturated, but the green colour was still outlined. The craftman
+told that was because of faulty monitor, and he wouldn't open it
+without schematics. Hmm, I thought, if he wouldn't do, I
+wouldn't pay. Together with friends, we packed stuff and went to
+the exit, smiling and waving hands. We opened the door and
+quickly moved down the stairs. Today I think I was right not
+paying him for the second time, because the craftsman did
+nothing for the first time, and also because the monitor seller
+told that should be done for nothing.
+
+At home I saw what was done in Scorpion to attach the monitor.
+There was a chip glued with legs up, with soldered wires. The
+screen certainly missed bright gradations but had nice geometry.
+The beam convergence was ideal. If only the green beam had no
+doubled outlines, I'd keep that.
+
+The next day I called the salesman and explained that the
+craftsman connected it wrong and couldn't fix the issue. The
+salesman knew that I cheated the craftsman, but the craftsman
+hadn't told that I had paid him for the first time and he
+couldn't repair the monitor. So I asked for a substitute. The
+salesman said I can come to Yunona at the weekend, and he would
+find something for me. I did so. The salesman accepted the
+defective monitor without protest, and gave me what I wanted: a
+"32 ВТЦ 201 м" in a beige case. He tested the monitor, and it
+had no defects. I brought the monitor home and connected it to
+Scorpion, removing the chip added by the craftsman. The monitor
+had poor beam convergence and picture not bright. Hovewer, if I
+didn't sit at the monitor under a sunlight, this didn't matter.
+Later I found regulators in the monitor to add brightness. The
+monitor frequently whistled, expeccially in the first minutes
+on. Light kicking on the case calmed it so I could work further.
+Year 1998. Buying a printer
+In August of 1998 a "default" happened, that caused rouble to
+suddenly decrease in value. I was thinking how to spend my
+scholarship money fast. I thought about a dot-matrix printer.
+That time I worked in text editor The Last Word 2 for long, and
+that would be very nice to have a hard copy of written texts.
+The printer could also be used for printing reports and term
+papers. O.K. I went to Yunona again.
+
+There were tons of dot-matrix printers - for any taste and
+pocket size. I looked closely at Panasonic printers because they
+were sold at Scorpion, and we have the same at school. But the
+prices went up, so they were too expensive. Although I found a
+printer for pre-crisis price. It even was written so on a paper
+lying above. The printer was put out of the kiosk on a chair. It
+was named Elektronika MC-6313, for 300 roubles (one 1998 rouble
+was worth 1000 roubles of 1997 because of a money reform - Ed.),
+all I had at the moment. I requested demonstration of work, and
+the seller inserted a piece of paper and swithed the printer on,
+holding some buttons. The printer started to print all its
+alphabet. When the paper was out, I looked at it (Cyrillic
+letters present, all pins work), and said, "I take it". Together
+with printer, there was a power cable, a computer cable, and a
+user manual book.
+
+I brought the printer home, attached it to Scorpion and tried to
+print from iS-DOS. Surprisingly everything worked at once.
+Although the next day a disaster happened. I switched the
+printer on after Scorpion (what is the difference?). Something
+plopped, and Scorpion produced stinking smoke. Immediately I
+switched everything off and opened the case. There was a piece
+of some power supply component. The power supply worked no more.
+I pulled it out and went to Scorpion for repair. Sergey Zerov
+refused to repair it. He said that they bought these outside and
+stopped to collaborate with that guy, because the power supply
+appeared unreliable and he had a full box of them broken. He
+advised to buy a standard PC power supply and connect it. So
+that's how lifetime guarantee worked at Scorpion.
+
+I had spent all my money for the printer, waiting for new money
+in September. I didn't know if there would be scholarship money
+in September and how much it would be after the crisis. I tried
+to supply the computer from the power supply of my 48K. It
+produced only 5 V and got very warm. I didn't want to take a
+risk running it more than 10 minutes in that mode. At least, the
+computer was intact, not taken away with the power supply. So I
+stayed without a computer for some time.
+
+After some time I borrowed from a friend a 12 V power supply for
+some time. However, when I attached it to the computer, I mixed
+up 12 V and 5 V wires, so the board ceased to work at all. I
+asked money from mother and went to Scorpion again, with the
+board. Zerov came and asked what happened. I told what I made.
+He took the board and said me sit down for five minutes. Then he
+came from his small room with my board. He said he changed one
+chip (he pointed to 561TM2 in master clock frequency divider).
+He said that chip protected my board from burning down because
+it short-circuited the power unit. He took 35 roubles for
+repair. Why? Such a chip costed 50 kopecks at Yunona. The
+Scorpion ad promised lifetime free repair, you must pay only for
+parts. Trickery again. I was upset.
+
+I returned home, attached the board, switched the computer on,
+and the keyboard appeared to fail. What the duck. The next day I
+took the keyboard and its controller with me to the university,
+planning to visit Scorpion after that. During a lecture, I put
+the controller into circulation, and some jokers had time to
+turn the ROM chip over. I was unaware until I came at Scorpion
+in the evening and asked for testing the controller and the
+keyboard. This time "Moustache man" came. He took the controller
+and brought it to the small room. After one minute he ran from
+there with foul language in my address. He poked me with the
+controller and shouted spitting, "What an idiot rotated the
+chip?" I looked at it and saw it was actually reversed. Then the
+Moustache man calmed and said he would flash another chip and
+test it. After some time he returned and reported that the
+controller works, and the keyboard is broken. He took 10
+roubles, and I went home.
+
+I still had no power supply, and a keyboard. I received a
+scholarship and went to Scorpion for a power supply. They sold
+me a third hand 150 W unit with rusty corners for 260 roubles.
+They drew a paper signing what wire had what voltage, and I
+returned home. It seemed easy - just install the unit in the
+case and relax. Nothing of the sort. When Scorpion is assembled,
+a piece of drilled aluminium is installed in place of power
+unit. External sockets are placed in its holes. And the power
+unit is mounted on plastic supports in the bottom of the case.
+So, to install the new power unit, I had to remove that
+aluminium and move it elsewhere.
+
+I moved the aluminium together with sockets in a place where PC
+expansion boards are installed. For that, I drilled out the
+rivets and removed the unit holding the socket planes. I
+connected the power unit, checking the polarity and voltage, and
+switched it on. It worked. Still without keyboard. I have no
+money for a new keyboard. For any keyboard. I didn't want to
+wait one more month for a new scholarship, and I ask my friend
+Dima to buy me a keyboard on credit. Near his house there was a
+commission shop "Polynom" where he bought a keyboard for 130
+roubles and gave it to me. I checked it, and it didn't work.
+Dima took the keyboard with him and brought another. That one
+worked bad - some of the keys don't react. That time I went to
+the shop myself. But there were no more spare keyboards, so I
+had to return the keyboard and save money for a new one.
+
+A month later I bought a keyboard and paid off all the debts.
+Year 1999
+I was tired of stalling keyboard controller, so I decided to do
+something with it. In the instruction manual, there were notes
+about add-ons removing the stalls and locks at cheap Chinese or
+Taiwanese keyboards. To overcome that flaw you should install an
+additional resistor at KBCLK signal and a capacitor at the same
+place. But my controller was debugged this way from the
+beginning. However, the instruction contained other nominals of
+the resistor and the capacitor, so I wanted to play with them. I
+unsoldered the installed unpackaged parts, but I did that so bad
+that their contacts came off. I started to solder my resistors
+and capacitors within given range, but it didn't become better.
+It became worse. Pressed keys started to lock every time. I
+couldn't return the original add-on because I couldn't measure
+the original parameters, and none of my parts could match the
+original ones. So I was forced to buy a regular Spectrum
+keyboard. In February, I went to Yunona.
+
+Walking by the market, I found a new extended keyboard in a
+black case. There were no sockets installed, that meant that the
+keyboard was never used. I paid 80 roubles for it.
+
+After four days my computer broke again. This time just after
+powering. There was image but the computer became very slow. I
+saw how the boot menu was drawn. I took the board and went to
+Scorpion. This time "Moustache man" met me. He was very friendly
+that time, and that troubled me. He'd better shout and spit. I
+explained all the symptoms, and he went into the small room.
+After some time he returned with Zerov. Zerov said he couldn't
+repair my board today because there was furniture movement. He
+pointed to the same chip (561TM2) and said I can change it
+myself or come another time. I said I would change it, and he
+advised to add a socket for that chip. "Moustache man" escorted
+me to the door, and at the same time apologized several times
+that it happened. Then he winked a cunning wink and said that I
+would see everything myself later.
+
+I returned home and connected the board outside the case,
+placing it on a newspaper. Surprisingly it worked well. Later I
+changed the chip myself, adding a socket. But Scorpion after
+that furniture movement was never engaged in Spectrums and
+switched to selling PCs and their parts.
+
+Near the end of February I fetched a needed keyboard socket at a
+flea market. It required a Soviet brown two-row 16-pin socket
+with a spring clap. I hardly found that, so I bought two sets at
+once. In the keyboard case, I made a hole to install a DB25
+socket and two buttons: Reset and Magic. I connected the inner
+keyboard printed cables, using plugs from UK-NC keyboard. I
+soldered DB25 wires to their backs. The keyboard worked
+immediately, and I still use it. I disconnected the PC keyboard
+controller and used it just once to play Black Raven with mouse
+for the second time.
+
+In the end of February I was asked to print several pages with
+questionnaire for students, and do it fast. I typed the
+questionnaire and sent the file to the printer, one sheet after
+another. Suddenly I saw that one pin stopped to print. I
+disassembled the printer and saw one wire to break off. While I
+moved the head, two more wires broke off. The first wire broke
+inside the head. With anger, I unsoldered all the wires from the
+head. The next day I came to Yunona to find a spare printer
+head. I asked where I bought the printer, but they hadn't spare
+parts. I went to "Polynom" where I saw another printer like mine
+when I returned the keyboard. But the printer was already sold.
+I went to Logros and left an ad on the wall about buying a
+printer head. Nobody responded to my ad, so in July I came to
+Yunona again, to the same kiosk. There were no heads, but they
+said they could appear in a week.
+
+In the very end of July I met Eugene Yuryevich Buder from
+Welcome corp. I came to him for disks, and returned with a
+printer head. Buder gave it to me for nothing, and if it worked,
+I could pay him for it. One pin didn't work in that one, too,
+and its wire is broken near the coil, so I returned the head to
+Buder. He said he would see what can be done, and advised to
+call him.
+
+In September, Buder told me a phone number of a man to whom he
+gave such printer for nothing, and told me to ask the head from
+him for nothing - Buder already had arranged that. I called that
+man, and we set a date. The man appeared a drunkard and didn't
+want to give me the head for hothing. I bought it for 50
+roubles, and it was disassembled, without one if coils. I
+installed one coil from my head. Then all pins got worked.
+
+> A blockbuster! :) 
+I had only a few murders: once a CPU and memory burned in a 48K 
+from 12 V (all of them were in sockets, and dad changed them), a 
+couple of broken disk drives for which I had replacement, and 
+display burnouts, for which I had a spare monochrome TV. The 
+most frustrating time was in 2003, when my PC was broken, and 
+the display showed only red colour. Nevertheless I wrote ZXRar 
+then :) 
+
+When I started to work with text editors, I set red background
+in TLW2 myself. As for the chip sockets, recently I had to
+change them to collet connectors. Scorpion bugged terribly, it
+could work for two hours, or could lock every five minutes. But
+the most frustrating thing was that sometimes it did not even
+start and you had to remove the monitor from it, then remove the
+cover from the case, poke the ROM and press the processor. When
+it stopped helping, I bought new cribs and changed. Since then,
+no bugs. I broke disk drives only for Commodore 64.
+Year 2000
+In the beginning of year 2000 the printer broke again, when I
+tried to change crooked pins in the head. I had spare pins and
+thought I could change them. When I disassembled the head, I
+broke off two wires from different coils. I tried to grow the
+broken wires and broke two more. Then I decided to abandon that
+rubbish and buy another (imported) printer. In the beginning of
+April I went to Yunona and found a colour matrix printer for 651
+roubles. Seems inexpensive. I asked the demonstration. They told
+me the printer isn't there, and gave me the address of service
+centre with a lot of different printers. Going back I noted a
+brand new TEAC 5,25" disk drive in a stock cardboard package. It
+costed just 50 roubles, so I bought it. I looked at it at home
+and saw that it was never used. The lubricant was not even
+smeared over the worm screw and lied in one place as a red
+blimp. And at the end of the heads there are no traces of the
+magnetic layer, which must certainly remain after working. I
+connected the drive to Scorpion and saw that the drive was
+completely intact.
+
+Free access to old games from Welcome destroyed all my spare
+disks. I had no more place for recording games. New disks were
+hard to find or just impossible. If big disks were sold in
+shops, they were HD, without the inner circle. When I bought
+one, I made sure they didn't work on Spectrum. Both my drives
+format only a half of them, then a disk check shows errors. I
+could buy empty disks from Buder, but he gave them unwillingly,
+because he couldn't find any more. I decided to buy SMUC - hard
+disk controller for Scorpion, and in the middle of May I went to
+Scorpion store.
+
+There were no controllers. The last one was sold in the morning,
+before me. I should wait a week while they were to make another.
+I was surprised with the price - it was 400 roubles, not 600 as
+I thought. That was because Scorpion's "conventional unit" was
+not 30 roubles (as USD), just 20, and the controller was worth
+20 "conventional units".
+
+I still had no controller but I bought a hard disk cable for 40
+roubles. After a week, I went to Scorpion once again. That time
+I was lucky, and after 50 minutes (I came too early, and the
+store was closed) I returned from there with the controller. As
+it appeared, that was version 1.2 - rare but not last. I came
+home, connected the controller to Scorpion, and began to examine
+it. I noted that TURBO lamp on Scorpion case spontaneously went
+out. And it was true - the speed became NORMAL in fact. I didn't
+like that.
+
+In early June, I obtained a 210 MB HDD via a friend, for
+temporary use, to test the controller. I connected the HDD and
+tried to work with it. I created partitions, copied disks, and
+everything worked buggy. I wrote down a list of 20 failures, and
+after three days presented it to Scorpion staff together with
+the controller. Sergey Zerov took the whole set and came into
+his small room for testnig. After a time he returned and agreed
+with all the points. SMUC was possibly bad, and they had no
+replacement. They gave me the only one they used to write
+floppies from HDD, i.e. proven good one. I returned home and
+tested it here.
+
+First time everything worked, then bugs appeared again. I went
+to Scorpion. That time I took the Scorpion board. They took the
+boards for testing, so I had to wait for 2 hours. They couldn't
+find a cause but changed my ProfROM from version 4.00 to 4.01,
+just in case. Problems disappeared. So I started to search for a
+cheap HDD. They are too expensive at Scorpion headquarters. They
+offered a 150 MB disk for 17 USD (30 roubles each). I went to a
+commission shop near Unreal computer club, and bought there a
+425 MB HDD for 18 USD that seemed a good price. I read "Computer
+price" magazine for a few days and called several firms
+searching a suitable HDD. My new Conner Peripherals CFS-425A got
+worked at once, and I started to fill it with games and
+utilities. So Scorpions are hucksters.
+
+In July, I decided to make a SounDrive 1.51+ for my Scorpion. I
+went to Miktronika store and bought all the needed chips for 150
+roubles. And the next day I went to Yunona and bought a bunch of
+resistors of two denominations. The seller, when he found out
+how much resistors I needed, showered them with handfuls,
+counting conditionally "10, 20, 30", etc. It turned out that
+there were a lot more, and after the assembly of the device I
+still had about the same number of resistors. In three days I
+finished assembling SounDrive, placing the scheme compactly in
+an empty place in the corner of the board. At first the sound
+was very hoarse and distorted, so I spend a few more hours
+examining the assembly. Then I checked it again and everything
+sounded as it should. Somewhere there was a small closure, which
+stopped as I moved the wires.
+
+In November, I decided to upgrade the RAM of my Scorpion to 1
+MB, and I went to Yunona to buy a SIMM module. I bought it for
+15 roubles, and soldered it the next day. But I saw only a black
+screen after switching it on. When I checked my work against the
+schematics, I found no difference, so I disassembled everything.
+After two days I went to Scorpion to add the missing ISA slot in
+SMUC controller, and also to make know why memory expansion
+didn't work. Regarding the slot installation, I was told to come
+again in a week, as the repair was going and the workshop did
+not work. About the memory they said that they didn't deal with
+PCB hacking, and they couldn't help me in any way. I came a
+month later, when I really needed the slot - I bought the first
+2400 modem for ISA bus. But that day Zerov was not there and I
+left with nothing. Two days later I went back to Scorpion. Zerov
+passed me several times and didn't notice me. Eventually I
+grabbed him by the sleeve of a sweater and showed him the SMUC.
+I reminded him that he promised to add the slot. He said that he
+had no time and took out of his closet a new, unsoldered slot,
+to solder it myself. They could do it right away, not driving me
+around the city several times. That evening I soldered and
+plugged in the modem. But it ceased to dial a number.
+
+In the middle of December 2000, I went past a commission shop
+and noticed through the glass, as a salesman inserted 5,25"
+floppied in a box and hid them under the counter. Going back I
+saw through the window that the floppies were still there. I
+went home for money and returned there. I asked if they had
+floppy disks. The salesman didn't believe I said FLOPPY disks.
+After some time he responded yes. He dug somewhere in a corner
+and took out from behind the desk a box of blue BASF floppies.
+The floppies were new, but three of them had flown envelopes and
+the seller put them aside. For the remaining seller asked 5
+roubles each. But I saw a big mountain of floppies under the
+counter. Why was the seller hiding them? I asked if there were
+cheaper floppies. The seller responded, "What is cheaper?" I
+said that I bought floppies for three roubles in another place
+before. The seller agreed to sell them for three roubles, and I
+took the whole pack together with the box and stickers.
+
+For the New Year we are given out 1350 more roubles above the
+scholarship, and I went to Yunona to spend money. I wanted to
+buy another monitor, frequency adapter for phone, and GMX card.
+Of all the above, I bought only an adapter. Guys at Scorpion
+kiosk said me that there was no GMX units and would never be.
+You needed to go to the office and order the assembly.
+
+In early January 2001, the first session of modem communication
+with Buder took place via a terminal program. This allowed me in
+the future to avoid going across the city for game floppies to
+crack, receiving them through a modem. I spent more than three
+hours going by trams with one or two transfers.
+
+In the second half of January, I read an article about HDD
+programming on Spectrum. I began to experiment and sent various
+command to the disk. And suddenly the disk stopped responding to
+them. The indicator of disk access (device busy) was constantly
+lit, and nothing else happened. A week later I went with the
+disk to a friend who had a PC. I connected it to the PC, but I
+couldn't check whether it worked. Windows does not allow you to
+access the drive until it is assigned a letter. I created one
+partition of minimum size with the help of FDISK. But I did not
+have time to do anything else, since I already had to go home.
+At least the disk didn't freeze. At home, I deleted the created
+partition and created Spectrum partition again. All my disk
+images were restored almost unchanged. Only their names were
+lost.
+
+In February, I bought another, faster modem. That modem
+supported error correction and worked more stable at my phone
+line with frequency coupling.
+
+In spring, I went to Scorpion to order GMX. Although it appeared
+I didn't need to, because they had one ready unit. I returned
+home excited and looked forward to watching Pentagon demos at my
+Scorpion. The next day I disassembled Scorpion and pulled the
+board out of the case. I connected GMX according to the
+instructions. I needed to make several cuts on the board and
+solder a flat cable, which outputs video signals from GMX to the
+main board. But after this upgrade the computer didn't work. I
+carefully compared it with the instructions several times, and I
+couldn't find any differences. Again I went to Scorpion. Sergey
+Zotov was very busy, but he took my board for testing. He was
+very surprised by my wire noodles, which I made adding
+SounDrive. But I convinced Zerov that I had disabled the add-on
+so it couldn't affect the function in any way. A week passed,
+another one passed. I periodically called Scorpion store and
+asked about my board. Every time Zerov found excuses why he had
+not done anything yet. Time went by, I was sitting without a
+computer and couldn't fix games for Buder. He was concerned
+about this. I explained the reason, and he sent me to Alexander
+Mayorov (MAS), the developer of the program MacroModem and
+generally a very smart guy. I talked with MAS and he agreed to
+help.
+
+More than a month later, I went to Scorpion again. Zerov said
+himself that he never switched the board on. I took the board
+and went to MAS. I brought him the motherboard, the GMX and its
+manual. After few days I called him, and he said he already made
+everything so I could come and take it. I came, he powered the
+board and showed everything working. I don't remember how much I
+paid him but together with the repair, I received a point of
+SPbZXNet at his node. Back home, I began to check the "birds"
+left by MAS on schematics and GMX connecting instructions, and I
+found one unique difference with what I did. MAS removed a diode
+from Altera chip on the main board, eliminating the conflict of
+frequencies between the main board and GMX. This was not in the
+connection instructions. And now I had the most heaped up
+Scorpion, and I was reading e-mail. It immediately became not
+boring.
+
+Some time later, when I connected to the Fido, I bought a
+remarkable Philips CM8833-II RGB monitor, in exchange for a
+bottle of beer (11 roubles). I found the monitor in an ad from
+echo conference SPB.EXCHANGE. The seller worked in a firm
+engaged in the repair of copying equipment and said that they
+were freeing the warehouse and needed to get rid of several
+monitors. I regret that I didn't take the rest of the monitors.
+
+Later I bought General Sound cards. First time I bought the
+first revision that was not for a slot, but used some adapter
+and a flat cable. Then I bought a slot version, and presented
+the first one to Konstantin Zaytsev (Budder) to make him write a
+MOD loader from CD into the General Sound. Later I bought and
+installed TurboSoundFM.
+
+In this configuration, my Scorpion existed until the end of
+November 2013, when I put my GMX on sale, disconnecting it from
+the main board. Then there were unsuccessful attempts to restore
+the main board, downgrading it back. But the board didn;t work.
+I bought another card and it became my mainboard.
+Then I sold all the sound cards and don't regret it.
+
+In 2015, I changed the HDD to a CompactFlash card, and in spring
+of 2016 I moved the board into a new horizontal case with ATX
+power unit. To turn power on, I was forced to install a tiny
+Atmel microcontroller on Scorpion board and write a program for
+it. So I can switch power on and off, and do RESET, MAGIC and
+turbo switching - all with one button, holding it for different
+time. For the last function, I was missing one pin to output the
+CPU speed LED, so I removed it.

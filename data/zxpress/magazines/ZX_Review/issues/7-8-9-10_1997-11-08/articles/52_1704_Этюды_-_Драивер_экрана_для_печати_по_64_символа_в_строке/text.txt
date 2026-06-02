@@ -1,0 +1,219 @@
+ZX Review 7-8-9-10 - Этюды - Драйвер экрана для печати по 64 символа в строке.
+(c) Байтуллин Тимур, г.Рязань
+Предлагаю   вашим   читателям
+драйвер экрана для печати по  64
+символа в строке. Вкратце о нем.
+Чтобы вывести символ или  управ-
+ляющий  код, вызываете  подпрог-
+рамму PR64 с кодом символа в ре-
+гистре A. Управляющие коды:
+13 - ENTER
+3 - HOME (AT 0,0)
+22, строка, столбец - установка
+    позиции печати (строка =
+    0..23, столбец = 0..63)
+4 - INVERSE 1
+5 - INVERSE 0
+8 - сохранить позицию курсора
+9 - восстановить позицию курсора
+Коды 8  и  9  используют вну-
+тренний стек драйвера (на 32 со-
+хранения).
+Символы для драйвера  хранят-
+ся в памяти в обычном формате, в
+левой половине знакоместа. Драй-
+вер использует регистры  AF, BC,
+DE и HL.  Переменные, помеченные
+звездочкой, должны располагаться
+в памяти так, как они  заданы  в
+программе, т.к. используется  их
+косвенная адресация. Адрес шриф-
+та задается обычным  способом  в
+ячейке 23606.
+
+   Дорогая редакция!  Напечатай-
+те, пожалуйста, мой адрес.  Буду
+рад переписываться  насчет  сис-
+темных программ, MULTICOLOR'а, а
+также о теории и  практике  ком-
+прессии данных (особенно интере-
+суюсь методом LZSS/PACK).
+
+   Мой адрес:  390029  г.Рязань,
+ул.Весенняя, д.9/1, кв.29.
+140.
+3;64x24 DRIVER
+3;(C) 1996 TIM BYTE
+
+PR64    LD   HL,STATE
+        LD   C,(HL)
+        BIT  0,C
+        JR   NZ,DOAT
+        CP   32
+        JP   NC,PRSYM
+        CP   22
+        JR   NZ,PR0
+        LD   (HL),3
+        RET
+DOAT    BIT  1,C
+        JR   Z,DO2
+        CP   24
+        JR   NC,FAIL
+        LD   (DCOR),A
+        LD   (HL),1
+        RET
+DO2     CP   64
+        JR   NC,FAIL
+        LD   (STLB),A
+        LD   A,(DCOR)
+        LD   (STRK),A
+        LD   (HL),0
+        JP   GETADR
+FAIL    LD   (HL),0
+        RET
+PR0     CP   13
+        LD   HL,STLB
+        JR   Z,CR
+        CP   3
+        JR   Z,HOME
+        CP   4
+        JR   Z,ION
+        CP   5
+        JP   Z,IOFF
+        CP   8
+        JP   Z,SAVCO
+        CP   9
+        JP   Z,RESCO
+        RET
+CR      LD   (HL),0
+        DEC  HL
+        INC  (HL)
+        LD   A,(HL)
+        CP   24
+        JR   NZ,GETADR
+        LD   (HL),0
+;или LD (HL),23
+        CALL SCROLL
+;SCROLL - процедура скроллинга
+;экрана вверх
+GETADR  LD   DE,(STRK)
+        LD   A,E
+        SRL  D
+        AND  #18
+        OR   #40
+        LD   H,A
+        LD   A,E
+        AND  7
+        OR   A
+        DEFW #1F1F,#1F1F
+        ADD  A,D
+        LD   L,A
+        LD   (SCADR),HL
+        RET
+HOME    LD   HL,0
+        LD   (STRK),HL
+        LD   H,#40
+        LD   (SCADR),HL
+        RET
+IOFF    XOR  A
+        LD   (INV1+1),A
+        LD   (INV2+1),A
+        RET
+ION     LD   A,#F0
+        LD   (INV1+1),A
+        CPL
+        LD   (INV2+1),A
+        RET
+PRSYM   LD   H,0
+        LD   L,A
+        LD   BC,(23606)
+        DEFB 41,41,41,9
+        EX   DE,HL
+        LD   HL,(SCADR)
+        LD   A,(STLB)
+        AND  1
+        JR   NZ,PR1
+        LD   B,8
+L1      LD   A,(HL)
+        AND  #0F
+        LD   C,A
+        LD   A,(DE)
+        OR   C
+INV1    XOR  0
+        LD   (HL),A
+        INC  H
+        INC  DE
+        DJNZ L1
+        LD   HL,STLB
+        INC  (HL)
+        RET
+PR1     LD   B,8
+L2      LD   A,(HL)
+        AND  #F0
+        LD   C,A
+        LD   A,(DE)
+        RLCA
+        RLCA
+        RLCA
+        RLCA
+        OR   C
+INV2    XOR  0
+        LD   (HL),A
+        INC  H
+        INC  DE
+        DJNZ L2
+        LD   HL,SCADR
+        INC  (HL)
+        DEC  HL
+        INC  (HL)
+        LD   A,(HL)
+        CP   64
+        RET  NZ
+        JP   CR
+
+SAVCO   LD   (ASP),SP
+        DI
+        LD   SP,(PBU)
+        LD   HL,(STRK)
+        PUSH HL
+        LD   (PBU),SP
+        LD   SP,(ASP)
+        EI
+        RET
+
+RESCO   LD   (ASP),SP
+        DI
+        LD   SP,(PBU)
+        POP  HL
+        LD   (PBU),SP
+        LD   SP,(ASP)
+        EI
+        LD   (STRK),HL
+        JP   GETADR
+
+STRK    NOP             ;*
+STLB    NOP             ;*
+SCADR   DEFW #4000      ;*
+        DEFS 64
+BUF     EQU  $
+PBU     DEFW BUF
+ASP     DEFW 0
+STATE   NOP
+DCOR    NOP
+2
+   Прим. ред.:
+Довольно интересная  проце-
+дура. Только  хотим  заметить  один  факт.
+Обратите  внимание,  что  в  подпрограммах
+SAVCO и RESCO на время перестановки  стека
+запрещаются прерывания. В оригинале  прог-
+раммы этого не делалось, что могло привес-
+ти  к  ошибке, если  в  момент, когда стек
+переставлен, произойдет  прерывание.  Ведь
+стек рассчитан всего лишь на  32  слова, и
+если он будет заполнен хотя бы наполовину,
+то выгруженные туда  программой  обработки
+прерывания регистры затрут саму программу.
+Для этого мы и вставили команды запрещения
+прерывания.
+*   *   *

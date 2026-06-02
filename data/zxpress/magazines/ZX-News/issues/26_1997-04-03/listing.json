@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 2880,
+    "article_url": "https://zxpress.ru/article.php?id=2880",
+    "print_url": "https://zxpress.ru/print.php?id=2880",
+    "title_link": "General Sound - О процессе адаптации фирменных игрушек под General Sound -\r\n первые результаты (Xecutor, Target Renegade).\r\nРуководство по программированию, краткое описание, технические характеристики, система команд.",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "General_Sound_-_О_процессе_адаптации_фирменных_игрушек_под_G"
+  },
+  {
+    "article_id": 2878,
+    "article_url": "https://zxpress.ru/article.php?id=2878",
+    "print_url": "https://zxpress.ru/print.php?id=2878",
+    "title_link": "Глюки - STS 5.1 новые глюки.",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "Глюки_-_STS_51_новые_глюки"
+  },
+  {
+    "article_id": 2877,
+    "article_url": "https://zxpress.ru/article.php?id=2877",
+    "print_url": "https://zxpress.ru/print.php?id=2877",
+    "title_link": "Железо - Описание XTR-модема.",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "Железо_-_Описание_XTR-модема"
+  },
+  {
+    "article_id": 2881,
+    "article_url": "https://zxpress.ru/article.php?id=2881",
+    "print_url": "https://zxpress.ru/print.php?id=2881",
+    "title_link": "Лит.страничка - Из серии \"Необъятная вселенная\".",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "Литстраничка_-_Из_серии_Необъятная_вселенная"
+  },
+  {
+    "article_id": 2876,
+    "article_url": "https://zxpress.ru/article.php?id=2876",
+    "print_url": "https://zxpress.ru/print.php?id=2876",
+    "title_link": "Новости - XTR-modem новая разработка от X-Trade.",
+    "order": 5,
+    "issue_label": "26",
+    "short_slug": "Новости_-_XTR-modem_новая_разработка_от_X-Trade"
+  },
+  {
+    "article_id": 2879,
+    "article_url": "https://zxpress.ru/article.php?id=2879",
+    "print_url": "https://zxpress.ru/print.php?id=2879",
+    "title_link": "Обмен опытом - IBM-PC Keyboard на ZX Spectrum...",
+    "order": 6,
+    "issue_label": "26",
+    "short_slug": "Обмен_опытом_-_IBM-PC_Keyboard_на_ZX_Spectrum"
+  },
+  {
+    "article_id": 2875,
+    "article_url": "https://zxpress.ru/article.php?id=2875",
+    "print_url": "https://zxpress.ru/print.php?id=2875",
+    "title_link": "От редакции - В Питер пришла весна.",
+    "order": 7,
+    "issue_label": "26",
+    "short_slug": "От_редакции_-_В_Питер_пришла_весна"
+  },
+  {
+    "article_id": 2882,
+    "article_url": "https://zxpress.ru/article.php?id=2882",
+    "print_url": "https://zxpress.ru/print.php?id=2882",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "26",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

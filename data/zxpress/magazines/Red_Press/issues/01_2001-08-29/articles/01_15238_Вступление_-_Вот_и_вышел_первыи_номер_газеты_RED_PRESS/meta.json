@@ -1,0 +1,15 @@
+{
+  "magazine_id": 321,
+  "magazine_name": "Red Press",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2001-08-29",
+  "order": 1,
+  "article_id": 15238,
+  "title_link": "Вступление - Вот и вышел первый номер газеты \"RED PRESS\".",
+  "title_h1": "Red Press 01 - Вступление - Вот и вышел первый номер газеты \"RED PRESS\".",
+  "print_url": "https://zxpress.ru/print.php?id=15238",
+  "article_url": "https://zxpress.ru/article.php?id=15238",
+  "fetched_at": "2026-05-31T23:45:57Z"
+}

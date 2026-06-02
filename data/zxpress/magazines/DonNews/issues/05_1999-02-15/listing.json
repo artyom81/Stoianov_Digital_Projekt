@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 6394,
+    "article_url": "https://zxpress.ru/article.php?id=6394",
+    "print_url": "https://zxpress.ru/print.php?id=6394",
+    "title_link": "Предисловие - Презентация нового журнала MAD BROZER #1.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Предисловие_-_Презентация_нового_журнала_MAD_BROZER_1"
+  },
+  {
+    "article_id": 6395,
+    "article_url": "https://zxpress.ru/article.php?id=6395",
+    "print_url": "https://zxpress.ru/print.php?id=6395",
+    "title_link": "История - Один день из жизни SEMEN'a.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "История_-_Один_день_из_жизни_SEMENa"
+  },
+  {
+    "article_id": 6396,
+    "article_url": "https://zxpress.ru/article.php?id=6396",
+    "print_url": "https://zxpress.ru/print.php?id=6396",
+    "title_link": "Мнение - O ZSC модеме.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Мнение_-_O_ZSC_модеме"
+  },
+  {
+    "article_id": 6397,
+    "article_url": "https://zxpress.ru/article.php?id=6397",
+    "print_url": "https://zxpress.ru/print.php?id=6397",
+    "title_link": "Гости - Delta Hackers Group о своих проектах.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Гости_-_Delta_Hackers_Group_о_своих_проектах"
+  },
+  {
+    "article_id": 6398,
+    "article_url": "https://zxpress.ru/article.php?id=6398",
+    "print_url": "https://zxpress.ru/print.php?id=6398",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 6399,
+    "article_url": "https://zxpress.ru/article.php?id=6399",
+    "print_url": "https://zxpress.ru/print.php?id=6399",
+    "title_link": "Послесловие - Как делался этот номер.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Послесловие_-_Как_делался_этот_номер"
+  }
+]

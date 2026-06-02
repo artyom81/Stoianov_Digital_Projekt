@@ -1,0 +1,15 @@
+{
+  "magazine_id": 305,
+  "magazine_name": "Bred",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2002-09-30",
+  "order": 1,
+  "article_id": 11453,
+  "title_link": "Вступление - Вот перед вами уже второй номер газеты.\r\nНадеюсь, что он будет интереснее, чем\r\nпервый.",
+  "title_h1": "Bred 02 - Вступление - Вот перед вами уже второй номер газеты. Надеюсь, что он будет интереснее, чем первый.",
+  "print_url": "https://zxpress.ru/print.php?id=11453",
+  "article_url": "https://zxpress.ru/article.php?id=11453",
+  "fetched_at": "2026-05-31T23:44:36Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "2006-10-27",
+  "order": 1,
+  "article_id": 11067,
+  "title_link": "HDD - драйвер работы с HDD.",
+  "title_h1": "Avro News 04 - HDD - драйвер работы с HDD.",
+  "print_url": "https://zxpress.ru/print.php?id=11067",
+  "article_url": "https://zxpress.ru/article.php?id=11067",
+  "fetched_at": "2026-05-31T21:38:35Z"
+}

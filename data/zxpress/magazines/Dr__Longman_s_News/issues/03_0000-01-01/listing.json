@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 9710,
+    "article_url": "https://zxpress.ru/article.php?id=9710",
+    "print_url": "https://zxpress.ru/print.php?id=9710",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 9711,
+    "article_url": "https://zxpress.ru/article.php?id=9711",
+    "print_url": "https://zxpress.ru/print.php?id=9711",
+    "title_link": "Fido - устав международной сети Fido Net.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Fido_-_устав_международнои_сети_Fido_Net"
+  }
+]

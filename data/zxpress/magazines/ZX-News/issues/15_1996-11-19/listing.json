@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2772,
+    "article_url": "https://zxpress.ru/article.php?id=2772",
+    "print_url": "https://zxpress.ru/print.php?id=2772",
+    "title_link": "BBS на ZX - Новая сеть - SPbZXNet. Как работает терминалка Macro Modem 3.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "BBS_на_ZX_-_Новая_сеть_-_SPbZXNet_Как_работает_терминалка_Ma"
+  },
+  {
+    "article_id": 2774,
+    "article_url": "https://zxpress.ru/article.php?id=2774",
+    "print_url": "https://zxpress.ru/print.php?id=2774",
+    "title_link": "BBS Новости - О новых BBS: MAS BBS & Tornado Station.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "BBS_Новости_-_О_новых_BBS_MAS_BBS_Tornado_Station"
+  },
+  {
+    "article_id": 2777,
+    "article_url": "https://zxpress.ru/article.php?id=2777",
+    "print_url": "https://zxpress.ru/print.php?id=2777",
+    "title_link": "Железо - Подключение Hays-совместимого модема к Скорпиону.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Железо_-_Подключение_Hays-совместимого_модема_к_Скорпиону"
+  },
+  {
+    "article_id": 2771,
+    "article_url": "https://zxpress.ru/article.php?id=2771",
+    "print_url": "https://zxpress.ru/print.php?id=2771",
+    "title_link": "От авторов - Где можно нойти новые номера газеты ?..",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "От_авторов_-_Где_можно_ноити_новые_номера_газеты"
+  },
+  {
+    "article_id": 2773,
+    "article_url": "https://zxpress.ru/article.php?id=2773",
+    "print_url": "https://zxpress.ru/print.php?id=2773",
+    "title_link": "Прибамбас v1.2 - Схема для того , чтобы VICOMM мог реагировать на звонок и\r\n снимать трубку.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Прибамбас_v12_-_Схема_для_того_чтобы_VICOMM_мог_реагировать"
+  },
+  {
+    "article_id": 2776,
+    "article_url": "https://zxpress.ru/article.php?id=2776",
+    "print_url": "https://zxpress.ru/print.php?id=2776",
+    "title_link": "Программы - Презентация проигрывателя мелодий X-Player v7.0 и теста\r\n конфигурации компьютера Test Machine v5.03",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Программы_-_Презентация_проигрывателя_мелодии_X-Player_v70_и"
+  },
+  {
+    "article_id": 2779,
+    "article_url": "https://zxpress.ru/article.php?id=2779",
+    "print_url": "https://zxpress.ru/print.php?id=2779",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2775,
+    "article_url": "https://zxpress.ru/article.php?id=2775",
+    "print_url": "https://zxpress.ru/print.php?id=2775",
+    "title_link": "Терминалка - Что такое модем. - Макросы. Text и Hobeta.",
+    "order": 8,
+    "issue_label": "15",
+    "short_slug": "Терминалка_-_Что_такое_модем_-_Макросы_Text_и_Hobeta"
+  },
+  {
+    "article_id": 2778,
+    "article_url": "https://zxpress.ru/article.php?id=2778",
+    "print_url": "https://zxpress.ru/print.php?id=2778",
+    "title_link": "Юмор - Фидошный юмор - прикол 3.",
+    "order": 9,
+    "issue_label": "15",
+    "short_slug": "Юмор_-_Фидошныи_юмор_-_прикол_3"
+  }
+]

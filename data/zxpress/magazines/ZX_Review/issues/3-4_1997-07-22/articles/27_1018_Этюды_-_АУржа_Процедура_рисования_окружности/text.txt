@@ -1,0 +1,91 @@
+ZX Review 3-4 - Этюды - А.Уржа. Процедура рисования окружности.
+┌──────────────────────────────┐
+│                              │
+│            ЭТЮДЫ             │
+│                              │
+└──────────────────────────────┘
+(c) Уржа Андрей,
+г.Чебоксары, 1996.
+Процедура рисования окружности.
+Предлагаю вам процедуру рисо-
+вания окружности  (намного  быс-
+трее, чем стандартный CIRCLE).
+   В регистровую пару  HL  зано-
+сятся координаты центра, а в ре-
+гистр D - радиус окружности.
+140.
+       ORG   50000
+       LD    HL,87*256+127
+; 87 - Y, 127 - X
+       LD    D,50
+; R
+       LD    C,0
+       LD    B,D
+LOOP   CALL  PLOT
+       LD    A,B
+       NEG
+       LD    B,A
+       CALL  PLOT
+       LD    A,C
+       NEG
+       LD    C,A
+       CALL  PLOT
+       LD    A,B
+       NEG
+       LD    B,A
+       CALL  PLOT
+       LD    A,C
+       LD    C,B
+       LD    B,A
+       CALL  PLOT
+       LD    A,C
+       NEG
+       LD    C,A
+       CALL  PLOT
+       LD    A,B
+       NEG
+       LD    B,A
+       CALL  PLOT
+       LD    A,C
+       NEG
+       LD    C,A
+       CALL  PLOT
+       LD    A,C
+       LD    C,B
+       LD    B,A
+       INC   C
+       LD    A,D
+       SUB   C
+       LD    D,A
+       JR    NC,LOOP
+       DEC   B
+       LD    A,D
+       ADD   A,B
+       LD    D,A
+       LD    A,B
+       CP    C
+       JR    NC,LOOP
+       RET
+PLOT   PUSH  DE
+       PUSH  BC
+       PUSH  HL
+       LD    A,H
+       ADD   A,B
+       LD    B,A
+       LD    A,L
+       ADD   A,C
+       LD    C,A
+       CALL  #22E5
+       POP   HL
+       POP   BC
+       POP   DE
+       RET
+2
+Длина процедуры 93 байта.
+   Идея взята из ZX-FORUM 3.  Не
+сомневаюсь, что процедуру  можно
+намного упростить (особенно пер-
+вую часть). Также есть ограниче-
+ние  -  нельзя  задавать  радиус
+равным нулю.
+********************************

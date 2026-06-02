@@ -1,0 +1,414 @@
+ACNews 54 - Программирование - Быстрое преобразование координат.
+SIGNOFS EQU     #C000                                           
+SINOFS  EQU     #C100                                           
+COSOFS  EQU     #C200                                           
+PROCROT EQU     #C300                                           
+MULTAB  EQU     #C400                                           
+                                                                
+ALPHA   DEFW    SIGNOFS+#40                                     
+BETA    DEFW    SIGNOFS+#00                                     
+GAMMA   DEFW    SIGNOFS+#00                                     
+                                                                
+ROTATE                                                          
+        LD      A,SINBANK                                       
+        CALL    BANK                                            
+                                                                
+        LD      HL,(ALPHA)                                      
+        LD      A,(HL)                                          
+        LD      (_ALPCAL),A                                     
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_ASIN),A                                       
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_ACOS),A
+LD      HL,(BETA)                                       
+        LD      A,(HL)                                          
+        LD      (_BETCAL),A                                     
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_BSIN),A                                       
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_BCOS),A                                       
+                                                                
+        LD      HL,(GAMMA)                                      
+        LD      A,(HL)                                          
+        LD      (_GAMCAL),A                                     
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_GSIN),A                                       
+        INC     H                                               
+        LD      A,(HL)                                          
+        LD      (_GCOS),A                                       
+                                                                
+NVERT   EQU     $+1                                             
+        LD      B,0
+LD      L,0                                             
+        LD      LX,0                                            
+...R1                                                           
+        LD      H,VTXЗDH                                        
+        LD      HX,VTXЗDIH                                      
+        EXX                                                     
+        LD      C,(IX+0)                                        
+        INC     HX                                              
+        LD      B,(IX+0)                                        
+        INC     HX                                              
+                                                                
+_ASIN   EQU     $+1                                             
+        LD      H,0                                             
+_ACOS   EQU     $+1                                             
+        LD      D,0                                             
+_ALPCAL EQU     $+1                                             
+        CALL    PROCROT         ;INP CB, OUTP AB                
+        EX      AF,AF`                                          
+        LD      C,B                                             
+        LD      B,(IX+0)                                        
+                                ;A`=X,C=Y,B=Z                   
+_BSIN   EQU     $+1                                             
+        LD      H,0
+_BCOS   EQU     $+1                                             
+        LD      D,0                                             
+_BETCAL EQU     $+1                                             
+        CALL    PROCROT                                         
+        EX      AF,AF`          ;PUT Y                          
+        LD      C,B                                             
+        LD      B,A                                             
+                                ;A`=Y,C=Z,B=X                   
+_GSIN   EQU     $+1                                             
+        LD      H,0                                             
+_GCOS   EQU     $+1                                             
+        LD      D,0                                             
+_GAMCAL EQU     $+1                                             
+        CALL    PROCROT                                         
+                                ;A=Z,B=X,A`=Y                   
+        SRA     A                                               
+        LD      (_CZ),A                                         
+        LD      A,B                                             
+        EXX                                                     
+        SRA     A                                               
+        LD      (HL),A                                          
+        INC     H                                               
+        EX      AF,AF`
+SRA     A                                               
+        LD      (HL),A                                          
+        INC     H                                               
+_CZ     EQU     $+1                                             
+        LD      (HL),0                                          
+        INC     L                                               
+        INC     LX                                              
+        DJNZ    ...R1                                           
+        LD      A,WRKBANK                                       
+        JP      BANK                                            
+QROT_E                                                          
+;################################                               
+                                                                
+; X`=X*COS(F)#Y*SIN(F)                                          
+; Y`=X*SIN(F)+Y*COS(F)                                          
+                                                                
+;C=X    DE=COS                                                  
+;B=Y    HL=SIN                                                  
+;OUTP A=X,B=Y                                                   
+PROC_INST                                                       
+                                                                
+;COS SIN                                                        
+; +   +
+CH_I    EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      E,B                                             
+        LD      A,(DE)                                          
+        ADD     A,(HL)                                          
+        LD      L,B                                             
+        LD      E,C                                             
+        LD      B,A                                             
+        LD      A,(DE)                                          
+        SUB     (HL)                                            
+        RET                                                     
+; #   +                                                         
+CH_II   EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      E,B                                             
+        EX      DE,HL                                           
+        LD      A,(DE)                                          
+        SUB     (HL)                                            
+        LD      L,C                                             
+        LD      E,B                                             
+        LD      B,A                                             
+        LD      A,(DE)                                          
+        ADD     A,(HL)
+NEG                                                     
+        RET                                                     
+; #   #                                                         
+CH_III  EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      E,B                                             
+        LD      A,(DE)                                          
+        ADD     A,(HL)                                          
+        NEG                                                     
+        LD      L,B                                             
+        LD      E,C                                             
+        LD      B,A                                             
+        EX      DE,HL                                           
+        LD      A,(DE)                                          
+        SUB     (HL)                                            
+        RET                                                     
+; +   #                                                         
+CH_IV   EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      E,B                                             
+        LD      A,(DE)                                          
+        SUB     (HL)                                            
+        LD      L,B
+LD      E,C                                             
+        LD      B,A                                             
+        LD      A,(DE)                                          
+        ADD     A,(HL)                                          
+        RET                                                     
+;COS SIN                                                        
+; 1   0                                                         
+U0      EQU     $#PROC_INST                                     
+        LD      A,C                                             
+        RET                                                     
+; 1  #P                                                         
+UMЗб0   EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      A,B                                             
+        SUB     (HL)                                            
+        LD      L,B                                             
+        LD      B,A                                             
+        LD      A,C                                             
+        ADD     A,(HL)                                          
+        RET                                                     
+; 1  +P                                                         
+UBO     EQU     $#PROC_INST                                     
+        LD      L,C
+LD      A,B                                             
+        ADD     A,(HL)                                          
+        LD      L,B                                             
+        LD      B,A                                             
+        LD      A,C                                             
+        SUB     (HL)                                            
+        RET                                                     
+                                                                
+;COS SIN                                                        
+; 0   1                                                         
+U90     EQU     $#PROC_INST                                     
+        XOR     A                                               
+        SUB     B                                               
+        LD      B,C                                             
+        RET                                                     
+;#P   1                                                         
+UB90    EQU     $#PROC_INST                                     
+        LD      E,B                                             
+        EX      DE,HL                                           
+        LD      A,C                                             
+        SUB     (HL)                                            
+        LD      B,A                                             
+        XOR     A
+SUB     L                                               
+        LD      L,C                                             
+        SUB     (HL)                                            
+        RET                                                     
+;+P   1                                                         
+UM90    EQU     $#PROC_INST                                     
+        LD      E,B                                             
+        LD      A,(DE)                                          
+        ADD     A,C                                             
+        LD      L,A                                             
+        LD      E,C                                             
+        LD      A,(DE)                                          
+        SUB     B                                               
+        LD      B,L                                             
+        RET                                                     
+                                                                
+;COS SIN                                                        
+;#1   0                                                         
+U180    EQU     $#PROC_INST                                     
+        XOR     A                                               
+        SUB     B                                               
+        LD      B,A                                             
+        XOR     A
+SUB     C                                               
+        RET                                                     
+;#1  #P                                                         
+UB180   EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        XOR     A                                               
+        SUB     B                                               
+        SUB     (HL)                                            
+        LD      L,B                                             
+        LD      B,A                                             
+        LD      A,(HL)                                          
+        SUB     C                                               
+        RET                                                     
+;#1  +P                                                         
+UM180   EQU     $#PROC_INST                                     
+        LD      L,C                                             
+        LD      A,(HL)                                          
+        SUB     B                                               
+        LD      L,B                                             
+        LD      B,A                                             
+        XOR     A                                               
+        SUB     C                                               
+        SUB     (HL)
+RET                                                     
+                                                                
+;COS SIN                                                        
+; 0  #1                                                         
+U270    EQU     $#PROC_INST                                     
+        XOR     A                                               
+        SUB     C                                               
+        LD      C,A                                             
+        LD      A,B                                             
+        LD      B,C                                             
+        RET                                                     
+;#P  #1                                                         
+UM270   EQU     $#PROC_INST                                     
+        LD      E,B                                             
+        EX      DE,HL                                           
+        XOR     A                                               
+        SUB     C                                               
+        SUB     (HL)                                            
+        LD      B,A                                             
+        LD      A,L                                             
+        LD      L,C                                             
+        SUB     (HL)                                            
+        RET
+;COS SIN                                                        
+;+P  #1                                                         
+UB270   EQU     $#PROC_INST                                     
+        LD      E,B                                             
+        EX      DE,HL                                           
+        LD      A,(HL)                                          
+        SUB     C                                               
+        LD      B,A                                             
+        LD      A,L                                             
+        LD      L,C                                             
+        ADD     A,(HL)                                          
+        RET                                                     
+                                                                
+PROC_LEN EQU    $#PROC_INST                                     
+                                                                
+;##########################                                     
+                                                                
+GEN_ROTATE                                                      
+        LD      A,SINBANK                                       
+        CALL    BANK                                            
+                                                                
+        XOR     A
+LD      (PREV),A                                        
+                                                                
+        LD      IX,MULTAB##0100                                 
+        LD      HL,SINЧ                                         
+        LD      DE,SINOFS                                       
+INST_MUL                                                        
+        LD      A,(HL)                                          
+        INC     HL                                              
+PREV    EQU     $+1                                             
+        CP      0                                               
+        JR      Z,_SKIP                                         
+                                                                
+        LD      (PREV),A                                        
+        INC     HX                                              
+        EXX                                                     
+                                                                
+        ADD     A,A                                             
+                                                                
+        LD      E,A                                             
+        XOR     A                                               
+        LD      D,A                                             
+        LD      L,A                                             
+        LD      H,A
+LD      B,128                                           
+...1                                                            
+        LD      (IX),A                                          
+        INC     LX                                              
+        ADD     HL,DE                                           
+        LD      A,H                                             
+        DJNZ    ...1                                            
+                                                                
+        NEG                                                     
+        LD      (IX),A                                          
+        INC     LX                                              
+                                                                
+        XOR     A                                               
+        SUB     L                                               
+        LD      L,A     ;L=0#L                                  
+        SBC     A,H     ;0#L#H#C                                
+        SUB     L       ;#(0#L)                                 
+        LD      H,A             ;24                             
+                                                                
+        LD      B,127                                           
+...2                                                            
+        ADD     HL,DE
+LD      A,H                                             
+        LD      (IX),A                                          
+        INC     LX                                              
+        DJNZ    ...2                                            
+        EXX                                                     
+_SKIP                                                           
+        LD      A,HX                                            
+        INC     E                                               
+        LD      (DE),A                                          
+                                                                
+        LD      A,(HL)                                          
+        RLA                                                     
+;       CP      #80                                             
+        JR      NC,INST_MUL                                     
+                                                                
+                                                                
+        LD      HL,SINOFS+#44                                   
+        LD      B,#3C                                           
+        LD      A,(DE)                                          
+        LD      (HL),A                                          
+        DEC     E                                               
+        INC     L                                               
+        DJNZ    $#4
+EX      DE,HL                                           
+        LD      C,#80                                           
+        LDIR                                                    
+                                                                
+        LD      L,#40                                           
+        LD      A,(HL)                                          
+        LD      (DE),A                                          
+        INC     L                                               
+        INC     E                                               
+        JR      NZ,$#4                                          
+                                                                
+        LD      DE,SIGNOFS                                      
+        LD      HL,SIGNOFS_INST                                 
+I_OFS                                                           
+        LD      B,(HL)                                          
+        INC     HL                                              
+        LD      A,(HL)                                          
+        INC     HL                                              
+        LD      (DE),A                                          
+        INC     E                                               
+        DJNZ    $#2                                             
+        JR      NZ,I_OFS
+LD      HL,PROC_INST                                    
+        LD      DE,PROCROT                                      
+        LD      BC,PROC_LEN                                     
+        CALL    NLDIR                                           
+        LD      A,WRKBANK                                       
+        JP      BANK                                            
+                                                                
+SINЧ                                                            
+        DEFB        #03,#06,#09,#0D,#10,#13,#16                 
+;       DEFB    #00,#03,#06,#09,#0D,#10,#13,#16                 
+        DEFB    #19,#1C,#1F,#22,#25,#28,#2B,#2E                 
+        DEFB    #31,#34,#37,#3A,#3C,#3F,#42,#44                 
+        DEFB    #47,#4A,#4C,#4F,#51,#54,#56,#58                 
+        DEFB    #5B,#5D,#5F,#61,#63,#65,#67,#69                 
+        DEFB    #6A,#6C,#6E,#6F,#71,#72,#74,#75                 
+        DEFB    #76,#77,#79,#7A,#7A,#7B,#7C,#7D                 
+        DEFB    #7E,#7E,#7F,#7F,#7F,#80; #80,#80                
+                                                                
+;       DEFB    #80,#80,#80,#80,#7F,#7F,#7F,#7E                 
+                                                                
+SIGNOFS_INST                                                    
+                                                                
+        DEFB    1,U0,3,UBO,57,CH_I,3,UM90
+DEFB    1,U90,3,UB90,57,CH_II,3,UM180                   
+        DEFB    1,U180,3,UB180,57,CH_III,3,UM270                
+        DEFB    1,U270,3,UB270,57,CH_IV,3,UMЗб0

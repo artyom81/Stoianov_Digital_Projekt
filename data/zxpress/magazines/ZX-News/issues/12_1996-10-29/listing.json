@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 2750,
+    "article_url": "https://zxpress.ru/article.php?id=2750",
+    "print_url": "https://zxpress.ru/print.php?id=2750",
+    "title_link": "BBS на ZX - Проект устава , создающейся в Санкт-Петербурге компьютерной\r\n сети для ZX-совместимых машин SPbZXNet.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "BBS_на_ZX_-_Проект_устава_создающеися_в_Санкт-Петербурге_ком"
+  },
+  {
+    "article_id": 2751,
+    "article_url": "https://zxpress.ru/article.php?id=2751",
+    "print_url": "https://zxpress.ru/print.php?id=2751",
+    "title_link": "VICOMM-модем - История создания Vicomm'a.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "VICOMM-модем_-_История_создания_Vicomma"
+  },
+  {
+    "article_id": 2749,
+    "article_url": "https://zxpress.ru/article.php?id=2749",
+    "print_url": "https://zxpress.ru/print.php?id=2749",
+    "title_link": "От авторов - Второй \"специальный\" номер...",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "От_авторов_-_Второи_специальныи_номер"
+  },
+  {
+    "article_id": 2752,
+    "article_url": "https://zxpress.ru/article.php?id=2752",
+    "print_url": "https://zxpress.ru/print.php?id=2752",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1998-04-19",
+  "order": 4,
+  "article_id": 340,
+  "title_link": "От редакции - Конкурс на лучший драйвер Kempston-Mouse.",
+  "title_h1": "Micro 02 - От редакции - Конкурс на лучший драйвер Kempston-Mouse.",
+  "print_url": "https://zxpress.ru/print.php?id=340",
+  "article_url": "https://zxpress.ru/article.php?id=340",
+  "fetched_at": "2026-05-31T22:25:11Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1998-09-26",
+  "order": 2,
+  "article_id": 1219,
+  "title_link": "ASCII графика - ASCII - вопросы и ответы.",
+  "title_h1": "Buzz 16 - ASCII графика - ASCII - вопросы и ответы.",
+  "print_url": "https://zxpress.ru/print.php?id=1219",
+  "article_url": "https://zxpress.ru/article.php?id=1219",
+  "fetched_at": "2026-05-31T21:48:21Z"
+}

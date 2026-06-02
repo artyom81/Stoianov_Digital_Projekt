@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-08-31",
+  "order": 12,
+  "article_id": 5472,
+  "title_link": "Система - Обзор системных программ: ZX-IBM Editor v1.5M , PPF v1.05,\r\n Multistudio v2.0p, Mods Player v2.0, Bitmap Viewer v2.0,\r\n Corrector v2.0, Storm v1.1, 866 v1.2, HRUM v3.5, TDU v1.0,\r\n HRUST v1.0, RLE-Compressor v1.21, Оверлеи Consul Commander.",
+  "title_h1": "Adventurer 08 - Система - Обзор системных программ: ZX-IBM Editor v1.5M , PPF v1.05,  Multistudio v2.0p, Mods Player v2.0, Bitmap Viewer v2.0,  Corrector v2.0, Storm v1.1, 866 v1.2, HRUM v3.5, TDU v1.0,  HRUST v1.0, RLE-Compressor v1.21, Оверлеи Consul Commander.",
+  "print_url": "https://zxpress.ru/print.php?id=5472",
+  "article_url": "https://zxpress.ru/article.php?id=5472",
+  "fetched_at": "2026-05-31T21:33:41Z"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 14674,
+    "article_url": "https://zxpress.ru/article.php?id=14674",
+    "print_url": "https://zxpress.ru/print.php?id=14674",
+    "title_link": "Новости - DiНalt, Дeнь Kосмонавта, Твоя Игра 5.",
+    "order": 1,
+    "issue_label": "58",
+    "short_slug": "Новости_-_DiНalt_Дeнь_Kосмонавта_Твоя_Игра_5"
+  },
+  {
+    "article_id": 14675,
+    "article_url": "https://zxpress.ru/article.php?id=14675",
+    "print_url": "https://zxpress.ru/print.php?id=14675",
+    "title_link": "Сцена - Мультиматограф Х.",
+    "order": 2,
+    "issue_label": "58",
+    "short_slug": "Сцена_-_Мультиматограф_Х"
+  },
+  {
+    "article_id": 14676,
+    "article_url": "https://zxpress.ru/article.php?id=14676",
+    "print_url": "https://zxpress.ru/print.php?id=14676",
+    "title_link": "Железо - АТМ TURBO 2+ как стандарт.",
+    "order": 3,
+    "issue_label": "58",
+    "short_slug": "Железо_-_АТМ_TURBO_2_как_стандарт"
+  },
+  {
+    "article_id": 14677,
+    "article_url": "https://zxpress.ru/article.php?id=14677",
+    "print_url": "https://zxpress.ru/print.php?id=14677",
+    "title_link": "Графика - Различие школ анимации.",
+    "order": 4,
+    "issue_label": "58",
+    "short_slug": "Графика_-_Различие_школ_анимации"
+  }
+]

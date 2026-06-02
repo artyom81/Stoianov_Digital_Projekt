@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 23,
+    "article_url": "https://zxpress.ru/article.php?id=23",
+    "print_url": "https://zxpress.ru/print.php?id=23",
+    "title_link": "B.B.S. Hовости - О изменениях в работе некоторых BBS.",
+    "order": 1,
+    "issue_label": "81",
+    "short_slug": "BBS_Hовости_-_О_изменениях_в_работе_некоторых_BBS"
+  },
+  {
+    "article_id": 2489,
+    "article_url": "https://zxpress.ru/article.php?id=2489",
+    "print_url": "https://zxpress.ru/print.php?id=2489",
+    "title_link": "ZXNet - Правила конференции ZX.SPECTRUM.",
+    "order": 2,
+    "issue_label": "81",
+    "short_slug": "ZXNet_-_Правила_конференции_ZXSPECTRUM"
+  },
+  {
+    "article_id": 2488,
+    "article_url": "https://zxpress.ru/article.php?id=2488",
+    "print_url": "https://zxpress.ru/print.php?id=2488",
+    "title_link": "Застрял ? - Описание игры \"Battle Command 128\": детальное знакомство с управлением и вооружением.",
+    "order": 3,
+    "issue_label": "81",
+    "short_slug": "Застрял_-_Описание_игры_Battle_Command_128_детальное_знакомс"
+  },
+  {
+    "article_id": 2486,
+    "article_url": "https://zxpress.ru/article.php?id=2486",
+    "print_url": "https://zxpress.ru/print.php?id=2486",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "81",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2487,
+    "article_url": "https://zxpress.ru/article.php?id=2487",
+    "print_url": "https://zxpress.ru/print.php?id=2487",
+    "title_link": "Скоро - Скоро появится новый журнал \"ZX-Power 2\" (г.Харьков)",
+    "order": 5,
+    "issue_label": "81",
+    "short_slug": "Скоро_-_Скоро_появится_новыи_журнал_ZX-Power_2_гХарьков"
+  },
+  {
+    "article_id": 7,
+    "article_url": "https://zxpress.ru/article.php?id=7",
+    "print_url": "https://zxpress.ru/print.php?id=7",
+    "title_link": "Чемпионат VIRUS-2 - Разбор нескольких вирусов ( чем отличаются вирусы и чем\r\n они сильны).\r\n Итоги чемпионата,в котором принимали участие 16 вирусов.",
+    "order": 6,
+    "issue_label": "81",
+    "short_slug": "Чемпионат_VIRUS-2_-_Разбор_нескольких_вирусов_чем_отличаются"
+  }
+]

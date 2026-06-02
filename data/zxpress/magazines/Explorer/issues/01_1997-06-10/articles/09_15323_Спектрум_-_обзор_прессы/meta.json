@@ -1,0 +1,15 @@
+{
+  "magazine_id": 69,
+  "magazine_name": "Explorer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-10",
+  "order": 9,
+  "article_id": 15323,
+  "title_link": "Спектрум - обзор прессы.",
+  "title_h1": "Last 128 M!R 01 - Спектрум - обзор прессы.",
+  "print_url": "https://zxpress.ru/print.php?id=15323",
+  "article_url": "https://zxpress.ru/article.php?id=15323",
+  "fetched_at": "2026-05-31T22:03:32Z"
+}

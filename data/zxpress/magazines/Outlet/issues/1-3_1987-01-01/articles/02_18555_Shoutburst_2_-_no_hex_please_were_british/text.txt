@@ -1,0 +1,150 @@
+1-3 - Shoutburst 2 - no hex please, we&#039;re british.
+NO HEX PLEASE, WE'RE BRITISH.
+        by Ron Cavers
+
+In 1714 a British patent was
+obtained for a new machine.
+
+It was over 150 years later
+before a commercially successful
+model was produced (by the
+Yanks, of course) and the
+typewriter slowly eased its way
+into our lives. 
+Most people are aware that the
+QWERTY keyboard system was
+incorporated to prevent the
+mechanical type bars from
+jamming when typing at any speed
+greater than mine and, as we
+then had to wait another 100
+years for the electronic
+typewriter, it is forgiveable
+that the QWERTY system should
+stick in spite of some heroic
+attempts to dislodge it.
+
+What has this to do with Hex?
+Well, when computers arrived,
+the obvious solution to storing
+information in electronic form
+was to use (put simplistically)
+bank, after bank of switches
+which could exist in two states
+- either on, or off. 
+Thus a bank of eight switches
+could be set to, say,
+
+OFF/ON/OFF/OFF/OFF/OFF/OFF/ON
+
+and this could be recognised as
+the eight-bit binary number
+01000001 which in turn could be
+converted to its decimal
+equivalent of 65.
+
+Great. But the early computers
+didn't start off with the ready-
+made languages, like Basic, Lisp
+and Pascal, the programmers had
+to get in there and convert
+their real-world numbers and
+letters directly into binary -
+which was a bit of a headache to
+say the least. So hexadecimal
+came into general use as a sort 
+of halfway house where decimal
+numbers could be converted to
+base 16 counting (Hex) which in
+turn could be converted to
+binary - and back again - the
+whole process being easier than
+a straight conversion. I think
+the inevitable happened -
+programmers began to "see" the
+Hex equivalents of the real
+world far more easily than they
+ever did with binary and decimal
+just became a nuisance. Thus the
+myth was born that machine code
+programming should be done in
+Hex.
+
+Now, in electronics, things
+moved far more rapidly than they
+ever did in mechanics - in both
+senses! High-level programming 
+languages were developed and
+Assemblers used to write machine
+code. The need for Hex has long
+passed - we still need binary
+and any machine code programmer
+has to be aware that this is how
+the real world is represented in
+the machine and occasionally the
+conversion still has to be made
+depending on the program being
+written - but bear in mind that
+an 8-bit binary to decimal
+conversion table can be held on
+a single sheet of A4 paper or a
+specially written program used
+(see elsewhere in this issue) so
+there is no need to use Hex as
+an intermediary.
+
+I am a very open-minded
+individual (too easily swayed, 
+sometimes!) but I challenge
+anyone who may be reading this
+to convince me that Hex is in
+any way useful. The only time I
+ever use Hex is in trying to
+interpret the results of a
+package that allows me to
+assemble machine code in decimal
+but refuses to do anything else
+except in Hex. Refuses to let me
+peek a decimal address, trace
+from a decimal address, break in
+at a decimal address, or
+anything that will allow me to
+run and test my code under
+controlled conditions using
+decimal.
+
+Until you have done this, you
+have no idea how absolutely
+frustrating and infuriating this 
+is - you finally leap to your
+feet clenching fistfuls of hair
+screaming - "FETCH ME THE
+PROGRAMMER WHO WROTE THIS, I'LL
+MAKE HIM EAT IT WITH LIQUID
+PARAFFIN!"
+
+Make no mistake, programming in
+machine code is harder than in
+Basic but don't let anyone kid
+you that you need to work in Hex
+- it just isn't true!
+
+So, back to the typewriter
+analogy. If the golf-ball or
+daisy wheel typewriter had come
+along in time could we have
+easily made the change and got
+rid of QWERTY? Speculative and
+pointless. However, I do not
+think this is true of Hex. It is 
+my opinion that we have just
+passed a crucial crossroad in
+the life of Hex and now is our
+last chance to get rid of it
+FOREVER!
+
+So strike up the band!
+Take up the banner!
+March on ... er, Whitehall.
+
+NO HEX PLEASE, WE'RE BRITISH!.

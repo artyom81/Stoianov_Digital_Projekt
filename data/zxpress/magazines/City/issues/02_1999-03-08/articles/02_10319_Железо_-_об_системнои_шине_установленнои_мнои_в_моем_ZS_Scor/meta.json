@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-03-08",
+  "order": 2,
+  "article_id": 10319,
+  "title_link": "Железо - об системной шине, установленной мной в моем ZS Scorpion 256.",
+  "title_h1": "City 02 - Железо - об системной шине, установленной мной в моем ZS Scorpion 256.",
+  "print_url": "https://zxpress.ru/print.php?id=10319",
+  "article_url": "https://zxpress.ru/article.php?id=10319",
+  "fetched_at": "2026-05-31T21:50:00Z"
+}

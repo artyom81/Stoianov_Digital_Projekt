@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "14",
+  "issue_date_iso": "2002-12-31",
+  "order": 1,
+  "article_id": 9323,
+  "title_link": "News - Ldir и Чапай выпустили-таки газету, Dissonator приезжал на побывку, вести от Nuts.",
+  "title_h1": "ACNews 14 - News - Ldir и Чапай выпустили-таки газету, Dissonator приезжал на побывку, вести от Nuts.",
+  "print_url": "https://zxpress.ru/print.php?id=9323",
+  "article_url": "https://zxpress.ru/article.php?id=9323",
+  "fetched_at": "2026-05-31T21:30:30Z"
+}

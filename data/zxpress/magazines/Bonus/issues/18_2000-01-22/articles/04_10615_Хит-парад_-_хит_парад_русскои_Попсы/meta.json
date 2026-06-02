@@ -1,0 +1,15 @@
+{
+  "magazine_id": 29,
+  "magazine_name": "Bonus",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "2000-01-22",
+  "order": 4,
+  "article_id": 10615,
+  "title_link": "Хит-парад - хит парад русской Попсы.",
+  "title_h1": "Bonus 18 - Хит-парад - хит парад русской Попсы.",
+  "print_url": "https://zxpress.ru/print.php?id=10615",
+  "article_url": "https://zxpress.ru/article.php?id=10615",
+  "fetched_at": "2026-05-31T21:44:40Z"
+}

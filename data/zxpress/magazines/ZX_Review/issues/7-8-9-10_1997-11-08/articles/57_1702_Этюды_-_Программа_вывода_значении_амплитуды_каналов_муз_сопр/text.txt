@@ -1,0 +1,98 @@
+ZX Review 7-8-9-10 - Этюды - Программа вывода значений амплитуды каналов муз. сопроцессора на бордюр.
+(c) Пожидаев Евгений, г.Черно-
+горск
+Уважаемая  редакция,  я  хочу
+предложить вашему вниманию прог-
+рамму,  которая,  в  отличие  от
+других подобных  программ, выво-
+дит значения  амплитуды  каналов
+музыкального   сопроцессора   на
+бордюр в верхней  части  экрана.
+Перед запуском процедуры необхо-
+димо загрузить  с  адреса  50000
+откомпилированную музыку.
+140.
+        DI
+        CALL 50000
+;инициализация мелодии
+        LD   HL,BORD
+;генерация процедуры BORD
+        LD   DE,800
+        ADD  HL,DE
+        LD   (HL),#C9
+        LD   (NSP),SP
+        LD   SP,HL
+        EXX
+        LD   HL,#003E
+        LD   DE,#FED3
+        LD   C,16
+LOOP1   LD   B,12
+        EXX
+        PUSH DE
+        EXX
+LOOP2   PUSH DE
+        PUSH HL
+        DJNZ LOOP2
+        DEC  C
+        JR   NZ,LOOP1
+        LD   SP,(NSP)
+N1      EI
+        HALT
+        DI
+        LD   BC,#FFFD
+        LD   HL,BORD+1
+        LD   DE,50
+        LD   A,8
+        OUT  (C),A
+        IN   A,(C)
+        CALL IND
+        LD   BC,#FFFD
+        LD   HL,BORD+9
+        LD   A,9
+        OUT  (C),A
+        IN   A,(C)
+        CALL IND
+        LD   BC,#FFFD
+        LD   HL,BORD+17
+        LD   A,10
+        OUT  (C),A
+        IN   A,(C)
+        CALL IND
+        JR   WR_IND
+IND     LD   B,16
+LOOP3   LD   C,0
+        CP   B
+        CCF
+        RL   C
+        LD   (HL),C
+        ADD  HL,DE
+        DJNZ LOOP3
+        RET
+WR_IND  LD   BC,352
+;замедляющий цикл
+LOOP4   DEC  BC
+        LD   A,B
+        OR   C
+        JR   MZ,LOOP4
+        CALL BORD
+        CALL 50006
+        LD   A,127
+        IN   A,(#FE)
+        BIT  0,A
+        JR   NZ,N1
+        CALL 50017
+        EI
+        RET
+
+NSP     DEFW 0
+BORD    EQU  $
+2
+   Прим. ред.:
+К сожалению, мы  не  смогли
+проверить  данную  процедуру, поскольку  у
+нас нет Пентагона, а все задержки в проце-
+дуре подобраны именно  под  него.  Поэтому
+заранее приносим свои извинения за возмож-
+ные ошибки.
+
+           *   *   *

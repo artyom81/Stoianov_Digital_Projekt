@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-09-30",
+  "order": 35,
+  "article_id": 5569,
+  "title_link": "Новости - Спектрумовские новости из Рыбинска.",
+  "title_h1": "Adventurer 10 - Новости - Спектрумовские новости из Рыбинска.",
+  "print_url": "https://zxpress.ru/print.php?id=5569",
+  "article_url": "https://zxpress.ru/article.php?id=5569",
+  "fetched_at": "2026-05-31T21:34:22Z"
+}

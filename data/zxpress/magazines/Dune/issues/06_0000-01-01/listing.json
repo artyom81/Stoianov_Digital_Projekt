@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16255,
+    "article_url": "https://zxpress.ru/article.php?id=16255",
+    "print_url": "https://zxpress.ru/print.php?id=16255",
+    "title_link": "О журнале - Dune 6.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "О_журнале_-_Dune_6"
+  },
+  {
+    "article_id": 16256,
+    "article_url": "https://zxpress.ru/article.php?id=16256",
+    "print_url": "https://zxpress.ru/print.php?id=16256",
+    "title_link": "Poke`s - Elite 3, Rebel star 2, Driller, Fox fight back, Arcadia.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Pokes_-_Elite_3_Rebel_star_2_Driller_Fox_fight_back_Arcadia"
+  },
+  {
+    "article_id": 16257,
+    "article_url": "https://zxpress.ru/article.php?id=16257",
+    "print_url": "https://zxpress.ru/print.php?id=16257",
+    "title_link": "Юмор - Анекдот.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Юмор_-_Анекдот"
+  },
+  {
+    "article_id": 16258,
+    "article_url": "https://zxpress.ru/article.php?id=16258",
+    "print_url": "https://zxpress.ru/print.php?id=16258",
+    "title_link": "Игры - Обзор Dizzy X, Space crusade.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Игры_-_Обзор_Dizzy_X_Space_crusade"
+  },
+  {
+    "article_id": 16259,
+    "article_url": "https://zxpress.ru/article.php?id=16259",
+    "print_url": "https://zxpress.ru/print.php?id=16259",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1999-04-22",
+  "order": 3,
+  "article_id": 5197,
+  "title_link": "Юмор - юмор из Фидо.",
+  "title_h1": "Micro 16 - Юмор - юмор из Фидо.",
+  "print_url": "https://zxpress.ru/print.php?id=5197",
+  "article_url": "https://zxpress.ru/article.php?id=5197",
+  "fetched_at": "2026-05-31T22:25:43Z"
+}

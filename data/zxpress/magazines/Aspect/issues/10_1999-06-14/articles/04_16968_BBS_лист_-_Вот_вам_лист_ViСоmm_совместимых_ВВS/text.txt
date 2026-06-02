@@ -1,0 +1,276 @@
+Aspect 10 - BBS лист - Вот вам лист ViСоmm совместимых ВВS.
+Вот вам лист ViComm совместимых BBS !  
+Правда он немножко старый, но я думаю, что
+Вы по голове не получите :))))))
+Список ViComm совместимых BBS       
+  Санкт-Петербурга [код города: +7-812]
+данная информация считается достоверной  
+в течение недели (смотри на дату письма), 
+    не пользуйтесь устаревшим списком,    
+          замените его на новый.          
+-----------------------------------------
+/00.00 MAS-BBS                            
+       -------
+Phone: 583-5448                           
+wkDay: 23:00-07:00                        
+wkEnd: 23:00-07:00                        
+SysOp: Aleksandr Majorov                  
+Voice: 583-5448 (19-22 Александр)         
+Enter: BBS4.00                            
+Disk : [А][В][С][Е]                       
+Soft : MMD 4.00                           
+Subj : mail/echos/all                     
+                                          
+-----------------------------------------
+/00.07 100Hz BBS
+---------
+Phone: 107-5307                           
+wkDay: 00:00-08:00                        
+wkEnd: 00:00-08:00                        
+SysOp: Oleg Sazonov                       
+Voice: 107-5307 (21:00-23:00 Олег)        
+Enter: USER                               
+Disk : [А][В]                             
+Soft : MMD 4.00                           
+Subj : Новье из фидо                      
+P.S.   Общий юзер лист с ASTRAL2,PANTHER  
+                                          
+-----------------------------------------
+/00.15 FAX_BBS                            
+       -------
+Phone: 230-4765                           
+wkDay: 21:00-17:00                        
+wkEnd: 21:00-17:00                        
+SysOp: Alex Petrov                        
+Voice: 230-4765 (17:00-21:00 Алексей)     
+Enter: USER
+Disk : [А][В][С][D][Е]                    
+Soft : MMD 4.00                           
+Subj : All                                
+                                          
+                                          
+-----------------------------------------
+/08.19 DISCOVERY server                   
+       ----------------
+Phone: 152-7184                           
+wkDay: 01:00-05:00                        
+wkEnd: 01:00-05:00                        
+SysOp: Ilya Trusov                        
+Voice: 152-7184 (22-23  Илья)             
+Enter: пот allowed                        
+Disk : [А][В]                             
+Soft : MMD 3.16                           
+Subj : All                                
+                                          
+-----------------------------------------
+/08.23 WELCOME BBS
+-----------
+Phone: 304-6071                           
+wkDay: 00:00-06:00                        
+wkEnd: 00:00-06:00                        
+SysOp: Maxim Zaznobin                     
+Voice: попе                               
+Enter: USER                               
+Disk : [А][В]                             
+Soft : MMD 4.00                           
+Subj : ALL                                
+                                          
+-----------------------------------------
+/08.28 FABULA STATION                     
+       --------------
+Phone: 164-8857                           
+wkDay: 00:00-08:00                        
+wkEnd: 00:00-08:00                        
+SysOp: Alexandr Vladimirov                
+Voice: 164-8857 (18-19 Александр)         
+Enter: USER                               
+Disk : [А][В][С][D][HDD]
+Soft : MMD 3.хх                           
+Subj : all                                
+                                          
+-----------------------------------------
+/08.39 THUNDER BBS                        
+       -----------
+Phone: 344-7998                           
+wkDay: 19-22                              
+wkEnd: -                                  
+SysOp: Aleksej Gavrilenko                 
+Voice: -                                  
+Enter: USER                               
+Disk : [А][В]                             
+Soft : MMD 3.хх                           
+Subj : Различные программы.               
+P.S.   Vector 12                          
+                                          
+-----------------------------------------
+/08.57 VAMPI_STATION                      
+       -------------
+Phone: 141-3159                           
+wkDay: 00:00-06:00                        
+wkEnd: 00:00-08:00                        
+SysOp: Alexey Honin                       
+Voice: 141-3159 (22-23 Алексей)           
+Enter: -                                  
+Disk : [А][В][Е]                          
+Soft : MMD 4.90                           
+Subj : MUSIC,DEMO,GAME,UTILLITES          
+                                          
+-----------------------------------------
+/10.02 POST BBS                           
+       --------
+Phone: 259-5059                           
+wkDay: 00-24                              
+wkEnd: 00-24                              
+SysOp: Aleksandr Arefjev                  
+Voice: -                                  
+Enter: BBS4.00                            
+Disk : [А][В][С]                          
+Soft : BBS4.00
+Subj : all                                
+                                          
+-----------------------------------------
+/11.00 PANTHER STATION                    
+       ---------------
+Phone: 511-0405                           
+wkDay: 01:00-07:00                        
+wkEnd: 01:00-07:00                        
+SysOp: Denis Bolotnikov                   
+Voice: 511-0405 (22:00-23:00 Денис)       
+Enter: GUEST                              
+Disk : [А][В][С][D][HDD]                  
+Soft : MMD 4.**                           
+Subj : All                                
+                                          
+-----------------------------------------
+/11.01 MEGOWOLT-BBS                       
+       ------------
+Phone: 591-1938                           
+wkDay: 00:00-07:00
+wkEnd: 00:00-07:00                        
+SysOp: Dmitriy Kutuev                     
+Voice: 591-1938 (21:00-22:30 Dmitriy)     
+Enter: APLIN                              
+Disk : [А][В][С][D][HDD]                  
+Soft : MMD 4.**                           
+Subj : Демки, игрушки, системки ,ALL...   
+                                          
+-----------------------------------------
+/11.12 ASTRAL II-BBS                      
+       -------------
+Phone: 349-8509                           
+wkDay: 01:00-07:30                        
+wkEnd: 01:00-10:30                        
+SysOp: Denis Kurlaev                      
+Voice: 349-8509 (19:00-20:30 Денис)       
+Enter: USER                               
+Disk : [А][В]                             
+Soft : MMD 3.**                           
+Subj : All, music
+-----------------------------------------
+/11.20 CHAOS station                      
+       -------------
+Phone: 150-8030                           
+wkDay: 01:00-08:00                        
+wkEnd: 01:00-08:00                        
+SysOp: Igor Mandrika                      
+Voice: -                                  
+Enter: USER                               
+Disk : [А][В][С][D][Е][HDD]               
+Soft : MMD 4.00                           
+Subj : All, GS-music ...                  
+P.S.   BBS-Альянс                         
+                                          
+-----------------------------------------
+/12.00 JAM STORE                          
+       ---------
+Phone: 588-7222                           
+wkDay: 00:00-01:00
+wkEnd: 00:00-01:00                        
+SysOp: Yuri Gutnik                        
+Voice: -                                  
+Enter: USER                               
+Disk : [А][В]                             
+Soft : MMD 3.хх                           
+Subj : Тексты на различные темы.          
+P.S.   cd-сат** jam-**** - му catalogs    
+                                          
+-----------------------------------------
+/12.01 KGB STATION                        
+       -----------
+Phone: 151-7017                           
+wkDay: 00:00-08:00                        
+wkEnd: 00:00-09:00                        
+SysOp: Sergey Aniskin                     
+Voice: попе                               
+Enter: USER                               
+Disk : [А][В][С][D][HDD]                  
+Soft : MMD 4.00 41                        
+Subj : GS, SMUC, CMOS, HDD, фантастика.
+P.S.   VECTOR 1                           
+                                          
+-----------------------------------------
+/12.03 RULEZ STATION (VECTOR 4)           
+       ------------------------
+Phone: 224-0705                           
+wkDay: 00:00-06:30                        
+wkEnd: 00:00-10:00                        
+SysOp: Aleksandr Ragozin                  
+Voice: 224-0705 (22:00-23:00 Александр)   
+Enter: USER                               
+Disk : [А][В][С][HDD]                     
+Soft : MMD 4.хх                           
+Subj : games, systems                     
+                                          
+-----------------------------------------
+/18.00 KIR BBS                            
+       -------
+Phone: 446-6043                           
+wkDay: 02:00-09:00
+wkEnd: 02:00-09:00                        
+SysOp: Kirill Chubenko                    
+Voice: -                                  
+Enter: USER                               
+Disk : [А][В][С][D][HDD]                  
+Soft : MMD 4.хх                           
+Subj : all.                               
+                                          
+-----------------------------------------
+/18.07 RAF-BBS                            
+       -------
+Phone: 311-0863                           
+wkDay: 23:00-08:00                        
+wkEnd: 23:00-10:00                        
+SysOp: Rafael Agaev                       
+Voice: 311-0863, 314-7680 (Pафаэль)       
+Enter: BBS4.00                            
+Disk : [А][В][С][Е]                       
+Soft : BBS 4.00                           
+Subj : all
+-----------------------------------------
+/25.00 Jazz-BBS                           
+       --------
+Phone: 136-8857                           
+wkDay: 01:00-08:00                        
+wkEnd: 01:00-11:00                        
+SysOp: Alex Zhelondz`                     
+Voice: 136-8857 (22:00-23:30 Алексей)     
+Enter: USER                               
+Disk : [А][В][С][D][HDD]                  
+Soft : MMD 3.хх                           
+Subj : All                                
+                                          
+                                          
+-----------------------------------------
+/28.06 PALLY STATION                      
+       -------------
+Phone: 176-7419                           
+wkDay: 00:00-07:00                        
+wkEnd: 01:00-07:00
+SysOp: Evgeny Muchkin                     
+Voice: -                                  
+Enter: USER                               
+Disk : [А][В][С][D]                       
+Soft : MMD 3.хх                           
+Subj : Demos, Music GS, АУ, systems.      
+                                          
+-----------------------------------------

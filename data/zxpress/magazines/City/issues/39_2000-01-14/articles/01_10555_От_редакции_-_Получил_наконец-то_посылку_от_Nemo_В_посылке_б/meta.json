@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "39",
+  "issue_date_iso": "2000-01-14",
+  "order": 1,
+  "article_id": 10555,
+  "title_link": "От редакции - Получил наконец-то посылку от Nemo. В посылке был XTR-модем.",
+  "title_h1": "City 39 - От редакции - Получил наконец-то посылку от Nemo. В посылке был XTR-модем.",
+  "print_url": "https://zxpress.ru/print.php?id=10555",
+  "article_url": "https://zxpress.ru/article.php?id=10555",
+  "fetched_at": "2026-05-31T21:51:42Z"
+}

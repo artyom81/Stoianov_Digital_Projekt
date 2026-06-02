@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "44",
+  "issue_date_iso": "1998-12-06",
+  "order": 3,
+  "article_id": 3000,
+  "title_link": "Обратный отсчет - Colour of Magic: Поиск приключений.",
+  "title_h1": "ZX-News 44 - Обратный отсчет - Colour of Magic: Поиск приключений.",
+  "print_url": "https://zxpress.ru/print.php?id=3000",
+  "article_url": "https://zxpress.ru/article.php?id=3000",
+  "fetched_at": "2026-05-31T23:30:02Z"
+}

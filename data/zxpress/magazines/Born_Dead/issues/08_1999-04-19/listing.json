@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 776,
+    "article_url": "https://zxpress.ru/article.php?id=776",
+    "print_url": "https://zxpress.ru/print.php?id=776",
+    "title_link": "Coding - Компрессия картинок (screen to text).",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Coding_-_Компрессия_картинок_screen_to_text"
+  },
+  {
+    "article_id": 778,
+    "article_url": "https://zxpress.ru/article.php?id=778",
+    "print_url": "https://zxpress.ru/print.php?id=778",
+    "title_link": "Game - 12 Тайных книг. Миссия: Советы бывалых ведунов.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Game_-_12_Таиных_книг_Миссия_Советы_бывалых_ведунов"
+  },
+  {
+    "article_id": 779,
+    "article_url": "https://zxpress.ru/article.php?id=779",
+    "print_url": "https://zxpress.ru/print.php?id=779",
+    "title_link": "Games - Heavy on the Magic: Вскрытие показало.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Games_-_Heavy_on_the_Magic_Вскрытие_показало"
+  },
+  {
+    "article_id": 781,
+    "article_url": "https://zxpress.ru/article.php?id=781",
+    "print_url": "https://zxpress.ru/print.php?id=781",
+    "title_link": "Games - Игры, которые ждет весь мир.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Games_-_Игры_которые_ждет_весь_мир"
+  },
+  {
+    "article_id": 770,
+    "article_url": "https://zxpress.ru/article.php?id=770",
+    "print_url": "https://zxpress.ru/print.php?id=770",
+    "title_link": "Вступление - Натовский самолет \"Стелс\".",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_Натовскии_самолет_Стелс"
+  },
+  {
+    "article_id": 772,
+    "article_url": "https://zxpress.ru/article.php?id=772",
+    "print_url": "https://zxpress.ru/print.php?id=772",
+    "title_link": "Другие новости - О Complex Compo, Чёрный Ворон 2, возрождение газеты RIP.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Другие_новости_-_О_Complex_Compo_Черныи_Ворон_2_возрождение"
+  },
+  {
+    "article_id": 774,
+    "article_url": "https://zxpress.ru/article.php?id=774",
+    "print_url": "https://zxpress.ru/print.php?id=774",
+    "title_link": "Злоба дня - FreeDom! Цена сцены.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Злоба_дня_-_FreeDom_Цена_сцены"
+  },
+  {
+    "article_id": 782,
+    "article_url": "https://zxpress.ru/article.php?id=782",
+    "print_url": "https://zxpress.ru/print.php?id=782",
+    "title_link": "Мир Амиги - Амига глазами RRA (часть 4).",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Мир_Амиги_-_Амига_глазами_RRA_часть_4"
+  },
+  {
+    "article_id": 771,
+    "article_url": "https://zxpress.ru/article.php?id=771",
+    "print_url": "https://zxpress.ru/print.php?id=771",
+    "title_link": "Новости - Новинки: PT v3.4 r(Final), First Associacion, MMA CD-ROM.",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "Новости_-_Новинки_PT_v34_rFinal_First_Associacion_MMA_CD-ROM"
+  },
+  {
+    "article_id": 773,
+    "article_url": "https://zxpress.ru/article.php?id=773",
+    "print_url": "https://zxpress.ru/print.php?id=773",
+    "title_link": "Обзор софта - Обзор журнала Demo Or Die #1.",
+    "order": 10,
+    "issue_label": "08",
+    "short_slug": "Обзор_софта_-_Обзор_журнала_Demo_Or_Die_1"
+  },
+  {
+    "article_id": 784,
+    "article_url": "https://zxpress.ru/article.php?id=784",
+    "print_url": "https://zxpress.ru/print.php?id=784",
+    "title_link": "Приложение - Doxycon'99 - Invitation intro.",
+    "order": 11,
+    "issue_label": "08",
+    "short_slug": "Приложение_-_Doxycon99_-_Invitation_intro"
+  },
+  {
+    "article_id": 783,
+    "article_url": "https://zxpress.ru/article.php?id=783",
+    "print_url": "https://zxpress.ru/print.php?id=783",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 12,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

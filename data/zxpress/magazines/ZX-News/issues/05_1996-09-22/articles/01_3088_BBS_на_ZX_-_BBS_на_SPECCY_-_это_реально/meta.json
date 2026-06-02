@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1996-09-22",
+  "order": 1,
+  "article_id": 3088,
+  "title_link": "BBS на ZX ?! - BBS на SPECCY - это реально.",
+  "title_h1": "ZX-News 05 - BBS на ZX ?! - BBS на SPECCY - это реально.",
+  "print_url": "https://zxpress.ru/print.php?id=3088",
+  "article_url": "https://zxpress.ru/article.php?id=3088",
+  "fetched_at": "2026-05-31T23:27:48Z"
+}

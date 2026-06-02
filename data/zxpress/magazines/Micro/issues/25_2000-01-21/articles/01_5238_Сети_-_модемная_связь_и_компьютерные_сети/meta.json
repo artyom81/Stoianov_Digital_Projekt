@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "2000-01-21",
+  "order": 1,
+  "article_id": 5238,
+  "title_link": "Сети - модемная связь и компьютерные сети.",
+  "title_h1": "Micro 25 - Сети - модемная связь и компьютерные сети.",
+  "print_url": "https://zxpress.ru/print.php?id=5238",
+  "article_url": "https://zxpress.ru/article.php?id=5238",
+  "fetched_at": "2026-05-31T22:26:01Z"
+}

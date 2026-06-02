@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 18486,
+    "article_url": "https://zxpress.ru/article.php?id=18486",
+    "print_url": "https://zxpress.ru/print.php?id=18486",
+    "title_link": "Новости - Наконец доделан Info\r\nGuide #12, LVD паяет новую версию ZXNetUSB, Sand прислал версию Fast Tracker с фазировкой тональника.",
+    "order": 1,
+    "issue_label": "69",
+    "short_slug": "Новости_-_Наконец_доделан_InfoGuide_12_LVD_паяет_новую_верси"
+  },
+  {
+    "article_id": 18487,
+    "article_url": "https://zxpress.ru/article.php?id=18487",
+    "print_url": "https://zxpress.ru/print.php?id=18487",
+    "title_link": "News - Info Guide #12 was\r\nfinally released, LVD is soldering a new version of ZXNetUSB, Yerzmyey has released an interactive novel.",
+    "order": 2,
+    "issue_label": "69",
+    "short_slug": "News_-_Info_Guide_12_wasfinally_released_LVD_is_soldering_a"
+  },
+  {
+    "article_id": 18488,
+    "article_url": "https://zxpress.ru/article.php?id=18488",
+    "print_url": "https://zxpress.ru/print.php?id=18488",
+    "title_link": "Speccy.pl Party 2018.1 - invitation and rules",
+    "order": 3,
+    "issue_label": "69",
+    "short_slug": "Speccypl_Party_20181_-_invitation_and_rules"
+  },
+  {
+    "article_id": 18489,
+    "article_url": "https://zxpress.ru/article.php?id=18489",
+    "print_url": "https://zxpress.ru/print.php?id=18489",
+    "title_link": "Воспоминания про игровые автоматы - игровые автоматы 90-х Ленинград и Санкт-Петербурга",
+    "order": 4,
+    "issue_label": "69",
+    "short_slug": "Воспоминания_про_игровые_автоматы_-_игровые_автоматы_90-х_Ле"
+  },
+  {
+    "article_id": 18490,
+    "article_url": "https://zxpress.ru/article.php?id=18490",
+    "print_url": "https://zxpress.ru/print.php?id=18490",
+    "title_link": "Memories about arcade machines - from russia Leningrad and Saint-Petersburg",
+    "order": 5,
+    "issue_label": "69",
+    "short_slug": "Memories_about_arcade_machines_-_from_russia_Leningrad_and_S"
+  }
+]

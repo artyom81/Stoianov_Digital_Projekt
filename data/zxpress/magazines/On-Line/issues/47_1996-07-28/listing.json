@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 38,
+    "article_url": "https://zxpress.ru/article.php?id=38",
+    "print_url": "https://zxpress.ru/print.php?id=38",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "47",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2142,
+    "article_url": "https://zxpress.ru/article.php?id=2142",
+    "print_url": "https://zxpress.ru/print.php?id=2142",
+    "title_link": "Застрял ? - Описание игр \"Rebel Star 1.1 & 1.2\" & \"Rebel Star 2\".",
+    "order": 2,
+    "issue_label": "47",
+    "short_slug": "Застрял_-_Описание_игр_Rebel_Star_11_12_Rebel_Star_2"
+  },
+  {
+    "article_id": 2141,
+    "article_url": "https://zxpress.ru/article.php?id=2141",
+    "print_url": "https://zxpress.ru/print.php?id=2141",
+    "title_link": "Мозаика - Cheat'ы к играм : Rolling Thunder, P-47, Sex Tetris,\r\n Astro Marine Corp 1&2, Renegade 3, Поле Чудес, НЛО-2,\r\n Scooby & Scrappy Doo, Shinobi, Bedlam, Darkman, UFO-1 ...",
+    "order": 3,
+    "issue_label": "47",
+    "short_slug": "Мозаика_-_Cheatы_к_играм_Rolling_Thunder_P-47_Sex_Tetris_Ast"
+  },
+  {
+    "article_id": 2140,
+    "article_url": "https://zxpress.ru/article.php?id=2140",
+    "print_url": "https://zxpress.ru/print.php?id=2140",
+    "title_link": "Реклама - Реклама и обьявления ...",
+    "order": 4,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_Реклама_и_обьявления"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 359,
+    "article_url": "https://zxpress.ru/article.php?id=359",
+    "print_url": "https://zxpress.ru/print.php?id=359",
+    "title_link": "Адаптация программ к TR-DOS",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Адаптация_программ_к_TR-DOS"
+  },
+  {
+    "article_id": 360,
+    "article_url": "https://zxpress.ru/article.php?id=360",
+    "print_url": "https://zxpress.ru/print.php?id=360",
+    "title_link": "Анекдоты",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Анекдоты"
+  },
+  {
+    "article_id": 358,
+    "article_url": "https://zxpress.ru/article.php?id=358",
+    "print_url": "https://zxpress.ru/print.php?id=358",
+    "title_link": "О разном - О игре Magic Blocks. О текстовых редакторах. Мнение: игры с обращением к дисководу ~A~",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "О_разном_-_О_игре_Magic_Blocks_О_текстовых_редакторах_Мнение"
+  }
+]

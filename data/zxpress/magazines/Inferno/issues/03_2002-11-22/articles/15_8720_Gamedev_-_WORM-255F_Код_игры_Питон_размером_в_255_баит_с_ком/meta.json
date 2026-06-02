@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2002-11-22",
+  "order": 15,
+  "article_id": 8720,
+  "title_link": "Gamedev - WORM-255F. Код игры Питон размером в 255 байт с комментариями.",
+  "title_h1": "Inferno 03 - Gamedev - WORM-255F. Код игры Питон размером в 255 байт с комментариями.",
+  "print_url": "https://zxpress.ru/print.php?id=8720",
+  "article_url": "https://zxpress.ru/article.php?id=8720",
+  "fetched_at": "2026-05-31T22:13:37Z"
+}

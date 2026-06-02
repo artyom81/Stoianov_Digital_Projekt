@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-03-16",
+  "order": 4,
+  "article_id": 509,
+  "title_link": "Интерфейс - Хаккеры ... Кто они? Зачем они нужны?",
+  "title_h1": "Adventurer 02 - Интерфейс - Хаккеры ... Кто они? Зачем они нужны?",
+  "print_url": "https://zxpress.ru/print.php?id=509",
+  "article_url": "https://zxpress.ru/article.php?id=509",
+  "fetched_at": "2026-05-31T21:32:25Z"
+}

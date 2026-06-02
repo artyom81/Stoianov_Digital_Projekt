@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3704,
+    "article_url": "https://zxpress.ru/article.php?id=3704",
+    "print_url": "https://zxpress.ru/print.php?id=3704",
+    "title_link": "Каракули мозга - Бета чай.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "Каракули_мозга_-_Бета_чаи"
+  },
+  {
+    "article_id": 3702,
+    "article_url": "https://zxpress.ru/article.php?id=3702",
+    "print_url": "https://zxpress.ru/print.php?id=3702",
+    "title_link": "Навезли новья - Обзор новинок ПО: SED v1.1, Text Print v1.6, Operation Oil,\r\n Japanese Contrast.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_SED_v11_Text_Print_v16_Oper"
+  },
+  {
+    "article_id": 3703,
+    "article_url": "https://zxpress.ru/article.php?id=3703",
+    "print_url": "https://zxpress.ru/print.php?id=3703",
+    "title_link": "Нам пишут - Письмо из С-Петербурга.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Нам_пишут_-_Письмо_из_С-Петербурга"
+  },
+  {
+    "article_id": 3700,
+    "article_url": "https://zxpress.ru/article.php?id=3700",
+    "print_url": "https://zxpress.ru/print.php?id=3700",
+    "title_link": "От редакции - С новым годом!",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "От_редакции_-_С_новым_годом"
+  },
+  {
+    "article_id": 3705,
+    "article_url": "https://zxpress.ru/article.php?id=3705",
+    "print_url": "https://zxpress.ru/print.php?id=3705",
+    "title_link": "Смех сквозь слезы - Компьютерный идиотизм.",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Смех_сквозь_слезы_-_Компьютерныи_идиотизм"
+  },
+  {
+    "article_id": 3701,
+    "article_url": "https://zxpress.ru/article.php?id=3701",
+    "print_url": "https://zxpress.ru/print.php?id=3701",
+    "title_link": "События, факты - О продлении сроков виртуального пати CC999.999.\r\n Правила Milenium Demo Party v1.0.",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "События_факты_-_О_продлении_сроков_виртуального_пати_CC99999"
+  },
+  {
+    "article_id": 3706,
+    "article_url": "https://zxpress.ru/article.php?id=3706",
+    "print_url": "https://zxpress.ru/print.php?id=3706",
+    "title_link": "Улыбнитесь с нами - анекдоты",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Улыбнитесь_с_нами_-_анекдоты"
+  }
+]

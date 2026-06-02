@@ -1,0 +1,15 @@
+{
+  "magazine_id": 166,
+  "magazine_name": "Proton",
+  "city": null,
+  "country": null,
+  "issue_label": "30",
+  "issue_date_iso": "1998-04-23",
+  "order": 2,
+  "article_id": 16724,
+  "title_link": "CDOS-модем - В одном из предыдущих номеров нашей газеты мы опубликовали статью о настройке модема, так чтобы работала EMS.",
+  "title_h1": "Proton 30 - CDOS-модем - В одном из предыдущих номеров нашей газеты мы опубликовали статью о настройке модема, так чтобы работала EMS.",
+  "print_url": "https://zxpress.ru/print.php?id=16724",
+  "article_url": "https://zxpress.ru/article.php?id=16724",
+  "fetched_at": "2026-05-31T22:52:54Z"
+}

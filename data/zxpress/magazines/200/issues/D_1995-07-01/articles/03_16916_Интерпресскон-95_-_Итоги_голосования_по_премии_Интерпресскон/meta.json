@@ -1,0 +1,15 @@
+{
+  "magazine_id": 3,
+  "magazine_name": "200",
+  "city": null,
+  "country": null,
+  "issue_label": "D",
+  "issue_date_iso": "1995-07-01",
+  "order": 3,
+  "article_id": 16916,
+  "title_link": "Интерпресскон-95 - Итоги голосования по премии \"Интерпресскон-95\".",
+  "title_h1": "200 D - Интерпресскон-95 - Итоги голосования по премии \"Интерпресскон-95\".",
+  "print_url": "https://zxpress.ru/print.php?id=16916",
+  "article_url": "https://zxpress.ru/article.php?id=16916",
+  "fetched_at": "2026-05-31T21:29:16Z"
+}

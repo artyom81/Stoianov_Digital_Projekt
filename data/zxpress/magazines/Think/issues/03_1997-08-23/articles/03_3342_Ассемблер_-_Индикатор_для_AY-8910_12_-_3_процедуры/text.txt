@@ -1,0 +1,444 @@
+Think 03 - Ассемблер - Индикатор для AY-8910 (12) - 3 процедуры.
+╔══════════════════════════╗
+       ║
+АССЕМБЛЕР ДЛЯ НАЧИНАЮЩИХ
+║
+       ╚══════════════════════════╝
+
+
+  В этой рубрике всегда можно  будет найти
+различные процедуры , которые  могут  при-
+годиться при написании музыкальных демонс-
+траций и INTR'ушек к программам.
+  В этом номере вы сможете увидить листин-
+ги 3 программ
+(Индикаторы каналов AY)
+.
+
+;
+ИНДИКАТОР для AY-8910(8912).
+;
+в верхнем левом углу три полосы вниз.
+;Процедура "взята" из музыкальной демонст-
+; рации "DOUBLE DEMO part 2" .
+ORG  50000
+LD   HL,16413
+             LD   B,3
+L6FCE
+PUSH BC
+             PUSH HL
+             LD   B,8
+L6FD2
+LD   (HL),0
+             INC  H
+             DJNZ L6FD2
+             POP  HL
+             POP  BC
+             INC  HL
+             DJNZ L6FCE
+             LD   A,8
+             LD   BC,#FFFD
+             OUT  (C),A
+             IN   A,(C)
+             AND  7
+             OR   A
+             JR   Z,L6FF3
+             LD   HL,16413
+             LD   B,A
+L6FEE
+LD   (HL),254
+             INC  H
+             DJNZ L6FEE
+L6FF3
+LD   A,9
+             LD   BC,#FFFD
+             OUT  (C),A
+             IN   A,(C)
+             AND  7
+             OR   A
+             JR   Z,L700A
+             LD   HL,16414
+             LD   B,A
+L7005
+LD   (HL),254
+             INC  H
+             DJNZ L7005
+L700A
+LD   A,10
+             LD   BC,#FFFD
+             OUT  (C),A
+             IN   A,(C)
+             AND  7
+             OR   A
+             RET  Z
+             LD   HL,16415
+             LD   B,A
+L701B
+LD   (HL),254
+INC  H
+             DJNZ L701B
+RET
+;
+ИНДИКАТОР ДЛЯ AY-8910(8912).
+;
+слева 3 канала - 3 прямоугольника
+;
+с полоской внутри.
+;Процедура "взята" из музыкальной демонст-
+; рации "NONSENSE MEGADEMO".
+ORG  50000
+LD   A,8
+             CALL LA1C0
+             LD   DE,16608
+             CALL LA1CA
+             CALL LA1F9
+             LD   A,9
+             CALL LA1C0
+             LD   DE,16611
+             CALL LA1CA
+CALL LA1F9
+             LD   A,10
+             CALL LA1C0
+             LD   DE,16614
+             CALL LA1CA
+             JP   LA1F9
+LA1C0
+LD   BC,#FFFD
+             OUT  (C),A
+             IN   A,(C)
+             AND  #0F
+             RET
+LA1CA
+SRL  A
+             LD   HL,LA235
+             AND  A
+             RET  Z
+             LD   HL,LA27D
+             CP   1
+             RET  Z
+             LD   HL,LA2C5
+             CP   2
+             RET  Z
+             LD   HL,LA30D
+CP   3
+             RET  Z
+             LD   HL,LA355
+             CP   4
+             RET  Z
+             LD   HL,LA39D
+             CP   5
+             RET  Z
+             LD   HL,LA3E5
+             CP   6
+             RET  Z
+             LD   HL,LA42D
+             RET
+LA1F9
+LD   A,8
+             PUSH DE
+LA1FC
+PUSH DE
+             LDI
+             LDI
+             LDI
+             POP  DE
+             INC  D
+             DEC  A
+JR   NZ,LA1FC
+             POP  DE
+             PUSH HL
+             LD   HL,1824
+             ADD  HL,DE
+             EX   DE,HL
+             POP  HL
+             LD   A,8
+             PUSH DE
+LA213
+PUSH DE
+             LDI
+             LDI
+             LDI
+             POP  DE
+             INC  D
+             DEC  A
+             JR   NZ,LA213
+             POP  DE
+             LD   A,E
+             ADD  A,32
+             LD   E,A
+             LD   A,8
+PUSH DE
+LA227
+PUSH DE
+             LDI
+             LDI
+             LDI
+             POP  DE
+             INC  D
+             DEC  A
+             JR   NZ,LA227
+             POP  DE
+RET
+LA235
+DEFB 0,0,0,127,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 64,128,0,64,128,0
+             DEFB 127,128,0,0,0,0
+LA27D
+DEFB 0,0,0,63,192,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,38,64,0
+             DEFB 38,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 32,64,0,32,64,0
+             DEFB 63,192,0,0,0,0
+LA2C5
+DEFB 0,0,0,31,224,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+DEFB 19,32,0,19,32,0
+             DEFB 19,32,0,19,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 16,32,0,16,32,0
+             DEFB 31,224,0,0,0,0
+LA30D
+DEFB 0,0,0,15,240,0
+             DEFB 8,16,0,8,16,0
+             DEFB 8,16,0,8,16,0
+             DEFB 8,16,0,8,16,0
+             DEFB 8,16,0,9,144,0
+             DEFB 9,144,0,9,144,0
+             DEFB 9,144,0,9,144,0
+             DEFB 9,144,0,8,16,0
+             DEFB 8,16,0,8,16,0
+             DEFB 8,16,0,8,16,0
+             DEFB 8,16,0,8,16,0
+             DEFB 15,240,0,0,0,0
+LA355
+DEFB 0,0,0,7,248,0
+DEFB 4,8,0,4,8,0
+             DEFB 4,8,0,4,8,0
+             DEFB 4,8,0,4,8,0
+             DEFB 4,200,0,4,200,0
+             DEFB 4,200,0,4,200,0
+             DEFB 4,200,0,4,200,0
+             DEFB 4,200,0,4,200,0
+             DEFB 4,8,0,4,8,0
+             DEFB 4,8,0,4,8,0
+             DEFB 4,8,0,4,8,0
+             DEFB 7,248,0,0,0,0
+LA39D
+DEFB 0,0,0,3,252,0
+             DEFB 2,4,0,2,4,0
+             DEFB 2,4,0,2,4,0
+             DEFB 2,4,0,2,100,0
+             DEFB 2,100,0,2,100,0
+             DEFB 2,100,0,2,100,0
+             DEFB 2,100,0,2,100,0
+             DEFB 2,100,0,2,100,0
+             DEFB 2,100,0,2,4,0
+             DEFB 2,4,0,2,4,0
+DEFB 2,4,0,2,4,0
+             DEFB 3,252,0,0,0,0
+LA3E5
+DEFB 0,0,0,1,254,0
+             DEFB 1,2,0,1,2,0
+             DEFB 1,2,0,1,2,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,50,0,1,50,0
+             DEFB 1,2,0,1,2,0
+             DEFB 1,2,0,1,2,0
+             DEFB 1,254,0,0,0,0
+LA42D
+DEFB 0,0,0,0,255,0
+             DEFB 0,129,0,0,129,0
+             DEFB 0,129,0,0,153,0
+             DEFB 0,153,0,0,153,0
+             DEFB 0,153,0,0,153,0
+             DEFB 0,153,0,0,153,0
+DEFB 0,153,0,0,153,0
+             DEFB 0,153,0,0,153,0
+             DEFB 0,153,0,0,153,0
+             DEFB 0,153,0,0,129,0
+             DEFB 0,129,0,0,129,0
+             DEFB 0,255,0,0,0,0
+;
+ИНДИКАТОР ДЛЯ AY-8910(8912)
+;
+в верхнем левом углу наискосок 3  полосы.
+;Процедура "взята" из музыкальной демонст-
+; рации "NONSENSE MEGADEMO".
+ORG  50000
+LD   A,8
+             CALL LA87D
+             LD   DE,16384
+             CALL LA887
+             CALL LA8B6
+             LD   A,9
+             CALL LA87D
+LD   DE,16417
+             CALL LA887
+             CALL LA8D5
+             LD   A,10
+             CALL LA87D
+             LD   DE,16450
+             CALL LA887
+             JP   LA8D5
+LA87D
+LD   BC,#FFFD
+             OUT  (C),A
+             IN   A,(C)
+             AND  #0F
+             RET
+LA887
+SRL  A
+             LD   HL,LA903
+             AND  A
+             RET  Z
+             LD   HL,LA923
+             CP   1
+             RET  Z
+             LD   HL,LA943
+             CP   2
+RET  Z
+             LD   HL,LA963
+             CP   3
+             RET  Z
+             LD   HL,LA983
+             CP   4
+             RET  Z
+             LD   HL,LA9A3
+             CP   5
+             RET  Z
+             LD   HL,LA9C3
+             CP   6
+             RET  Z
+             LD   HL,LA9E3
+             RET
+LA8B6
+LD   A,8
+             PUSH DE
+LA8B9
+PUSH DE
+             LDI
+             LDI
+             POP  DE
+             INC  D
+DEC  A
+             JR   NZ,LA8B9
+             POP  DE
+             LD   A,E
+             ADD  A,32
+             LD   E,A
+             LD   A,8
+LA8CA
+PUSH DE
+             LDI
+             LDI
+             POP  DE
+             INC  D
+             DEC  A
+             JR   NZ,LA8CA
+             RET
+LA8D5
+PUSH DE
+             LD   B,2
+LA8D8
+PUSH DE
+             LD   A,(DE)
+             OR   (HL)
+             LD   (DE),A
+             INC  HL
+INC  DE
+             LD   A,(HL)
+             LD   (DE),A
+             INC  HL
+             POP  DE
+             INC  D
+             DJNZ LA8D8
+             LD   A,6
+LA8E7
+PUSH DE
+             LDI
+             LDI
+             POP  DE
+             INC  D
+             DEC  A
+             JR   NZ,LA8E7
+             POP  DE
+             LD   A,E
+             ADD  A,32
+             LD   E,A
+             LD   A,8
+LA8F8
+PUSH DE
+             LDI
+LDI
+             POP  DE
+             INC  D
+             DEC  A
+             JR   NZ,LA8F8
+RET
+LA903
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0
+LA923
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,64,0,224
+             DEFB 0,112,0,32,0
+LA943
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,16,0,56,0
+             DEFB "|",0,248,0,112,0,32,0
+LA963
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,0,0,0,0,4,0
+             DEFB 14,0,31,0,62,0
+             DEFB "|",0,248,0,112,0,32,0
+LA983
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 0,0,0,1,0,3,128,7,192
+             DEFB 15,128,31,0,62,0
+             DEFB "|",0,248,0,112,0,32,0
+LA9A3
+DEFB 0,0,0,0,0,0,0,0,0
+             DEFB 64,0,224,1,240,3,224,7
+             DEFB 192,15,128,31,0,62,0
+             DEFB "|",0,248,0,112,0,32,0
+LA9C3
+DEFB 0,0,0,0,0,16,0,56,0
+             DEFB "|",0,248,1,240,3,224,7
+             DEFB 192,15,128,31,0,62,0
+             DEFB "|",0,248,0,112,0,32,0
+LA9E3
+DEFB 0,4,0,14,0,31,0,62,0
+DEFB "|",0,248,1,240,3,224,7
+             DEFB 192,15,128,31,0,62,0
+             DEFB "|",0,248,0,112,0,32,0
+Для начала,думаю хватит. Пробуйте !
+И у вас всё получится !

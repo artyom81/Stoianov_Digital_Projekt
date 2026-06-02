@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "2006-10-27",
+  "order": 3,
+  "article_id": 11066,
+  "title_link": "Новости - Сегодня умер жёсткий диск на ПЦ, Пробовал организовать Фидо средствами ZX, Посмотрел схему Скорпа и определил вероятные причины неисправности...",
+  "title_h1": "Avro News 04 - Новости - Сегодня умер жёсткий диск на ПЦ, Пробовал организовать Фидо средствами ZX, Посмотрел схему Скорпа и определил вероятные причины неисправности...",
+  "print_url": "https://zxpress.ru/print.php?id=11066",
+  "article_url": "https://zxpress.ru/article.php?id=11066",
+  "fetched_at": "2026-05-31T21:38:36Z"
+}

@@ -1,0 +1,230 @@
+Buzz 15 - Авторы
+▓▒▒   ▓█▓▒▒▓██▓▓  
+*************   *****   ▓▒▒▓***█▓▒************* ***************
+*****     ***** *****  ▓▒▒▓█***▓▒▒▓████▄******          ******
+*************   *****    █▓▒***     *▀▓▒▒**         *******
+*****     ***** *****    ▓▒▒*** ******▒▒▓       ******
+*************     *******▒▒▓*   *****▄▒▓█****** ***************
+                         ▒▓█   ▓▓██▓▒▒▓▀ 
+
+                    Пятница 10 Июля 1998 год.
+
+   Газета  "BUZZ"  издается  в городе  Коврове группой "Eternity
+Industry" с 1 марта 1997 года.
+   Все статьи, графика и музыка являются интеллектуальной собст-
+венностью авторов. Полное или частичное использование материалов
+разрешается только с согласия авторов.
+
+                  Над 15-м номером работали:
+                 ----------------------------
+
+         Дмитрий Калинин (D-Man/EI) - Main editor,
+                                      viewer optimization &
+                                      improvement,
+                                      main ASCII gfx.
+
+      Александр Гаврилов (Syrus/EI) - Технический дизайн,
+                                      main viewer coding,
+                                      music in hidden part.
+
+    Александр Калинин (Paracels/EI) - viewer optimization &
+                                      improvement, screens:
+                                      "What Evil Lurks",
+                                      "Midnight BUZZ",
+                                      "BUZZ in plazma",
+                                      design,txt global cor-
+                                      rection ,  full  WG'93
+                                      control, artwork in
+                                      hidden part, 48K viewer
+                                      coding.
+
+                        Stryker/MMG - main music.
+
+  Алексей Широков (Demiurge Ash/EI) - screen "SADO", some ASCII
+                                      gfx.
+
+    Project released and organized by D-Man/Eternity Industry.
+
+                        Авторы статей:
+                       ----------------
+
+                       - D-Man/EI
+                       - Paracels/EI
+                       - Demiurge Ash/EI
+                       - Spy/EI
+                       - M.M.A./XTM
+                       - Player
+                       - Melted Snow
+
+                       Наши координаты:
+                      ------------------
+
+              601901 Владимирская обл., г.Ковров
+                 ул.Чернышевского д.7, кв.17
+                   Калинин Дмитрий Юрьевич
+                       (aka D-Man/EI)
+
+   Пожалуйста,указывайте цель вашего письма - лично редакции или
+для печати. Если Вы пишите кому-то лично, указывайте это.
+
+   Редакция вступает  в переписку с читателями,  пишите нам.  По
+возможности ответим на все письма.
+
+   Мнение редакции может не совпадать с мнением авторов.
+
+   Объявления печатаются БЕСПЛАТНО.Ответственность за содержание
+объявлений несут их авторы.
+
+   Газета распространяется всеми возможными способами.
+   Мы не против коммерческого распространения газеты.
+
+        ГАЗЕТА ПОДГОТОВЛЕНА НА ПЛАТФОРМЕ "SPECTRUM-128"
+
+Software used: ALASM v3.8c (C) Alem
+               XAS v7.432 (C) Max Petrov
+               STS v5.1 (C) Stalker
+               ZX-WORD v2.5+ (C) В.Елисеев и С.Кокунов
+               Art Studio v2.01c (C) James Hutchby (rmx by PGS)
+               SPRITE LAND v1.19 (C) Flying/Digital Reality
+               SRITE MASTER v5.09 (C) Dictator/XL-Design
+               PRO TRACKER v3.31 (C) Golden Disk Corp.
+               PRO TRACKER v2.4 (C) GDC (rmx by PhF)
+               HRUST v1.0 (C) Дмитрий Пьянков
+               DATA SQUEEZER v4.12 (C) Apus/RUSH
+               LAZER COMPACT v4.0 (C) Дмитрий Пьянков
+               PERFECT COMMANDER v1.53 (C) James Advent
+               JEMMINI COMMANDER v4.0T (C) Jemminisoft
+               CONSUL COMMANDER v3.00 (C) Phantom Family
+               TRiCK protection (C) Eternity Industry
+               and some our own small utilities
+
+   Редакция газеты BUZZ благодарит  всех авторов вышеперечислен-
+ных программ !!!
+
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+░░░      ░       ░░      ░░░     ░     ░░░   ░       ░   ░   ░░░
+░░ ███▓▒▒ ████▓▒▒  ███▓▒▒ ░ ██▓▒▒ ████▓ ░ ▓▒▒ ████▓▒▒ ███ ▓▒▒ ░░
+░ ████▓▒▒ ████▓▒▒ ████▓▒▒  ███▓▒▒ ████▓▒  ▓▒▒ ████▓▒▒ ███ ▓▒▒ ░░
+░ ███    ░  ██▓   ███     ███     ███ █▓▒ █▓▒   ██▓   ███ █▓▒ ░░
+░ ███ ░░░░░ ██▓ ░ ███ ░░░ ███ ░░░ ███ █▓▒ █▓▒ ░ ██▓ ░ ███ █▓▒ ░░
+░ ███ ░░░░░ ███ ░ ███ ░░░ ███ ░░░ ███ ██▓ ██▓ ░ ███ ░ ███ ██▓ ░░
+░ ███   ░░░ ███ ░ ███   ░ ███ ░░░ ███ ███ ███ ░ ███ ░ ███ ███ ░░
+░ █████ ░░░ ███ ░ █████ ░ ███ ░░░ ███ ███ ███ ░ ███ ░ ███ ███ ░░
+░ █████ ░░░ ███ ░ █████ ░ ███ ░░░ ███ ███ ███ ░ ███ ░ ███ ███ ░░
+░ ███   ░░░ ███ ░ ███   ░ ███ ░░░ ███ ███ ███ ░ ███ ░ ███ ███ ░░
+░ ▓██ ░░░░░ ▓██ ░ ▓██ ░░░ ▓██ ░░░ ▓██ ▓██ ▓██ ░ ▓██ ░  ██████ ░░
+░ ▒▓█ ░░░░░ ▒▓█ ░ ▒▓█ ░░░ ▒▓█ ░░░ ▒▓█ ▒▓█ ▒▓█ ░ ▒▓█ ░░  █████ ░░
+░ ▒▓█     ░ ▒▓█ ░ ▒▓█     ▒▓█ ░░░ ▒▓█ ▒▓█ ▒▓█ ░ ▒▓█ ░     ███ ░░
+░ ▒▒▓████ ░ ▒▒▓ ░ ▒▒▓████ ▒▒▓ ░░░ ▒▒▓ ▒▒▓ ▒▒▓ ░ ▒▒▓ ░ ▒▒▓███ ░░░
+░░ ▒▓████ ░ ▒▒▓ ░░ ▒▓████ ▒▒▓ ░░░ ▒▒▓ ▒▒▓ ▒▒▓ ░ ▒▒▓ ░ ▒▒▓██ ░░░░
+░░░      ░░░   ░░░░░     ░   ░░░░░       ░   ░░░   ░░░      ░░░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+── ▄ ▀▄ ▄ ──────────── ▄ ──── ▄ ─ ▄▄ ──── █ ── ▄  ▄▄▄ ▄ ── ▄█ ──
+    ▀▀  ██▄   █ ▄████  ███  ███ ▄█▀▀█▄ ▄▄██▄▄ ▄█▄█▀   ▀█ ▄██   
+    ██  █▀▀█ ██ █ ▀███ ██   █▀   ▀█▄▄   ▀██▀   ██      ▀██▀   
+    ▀█▄ █▄ █▄█▌ █  ▄██ ▐█   █▄ █▄  ██▀   ██    ██D-Man ▄█▀      
+───── █  █  ██  ██▄██ ─ ▀█▄▄██ ─▀██▀───── █ ── █ ─ ▄▄▄█▀────────
+
+     .■■■■■■■■ And now Helloes To all our Friendz:   
+   ■▀         ..........■■■■■■■■■■■■■■■▀▀▀▀▀▀▀▀▀▀▀▀
+  ■▀   
+Ковров:
+  ▀■       - Melted Snow, Tcherdakow,  Delta Corp, Sergius Puzz-
+    ▀■       ler/PXM.
+  .■▀   
+Владимир:
+  ▀■       - Megacode/Extreme (Sat, Tox, Exploder, Scar).
+   ■▀ 
+Воронеж:
+  ▀■.      - Virtual Vision Group (Rom Corp., RCL ... ).
+  .■▀
+Чебоксары:
+  .■▀      - Phantom FAMILY (Andrew FER, Maddy Vins ... ).
+  ▀■.
+Рыбинск:
+  .■▀      - Cyber Punks Unity (Elf ... ).
+   ▀.
+Новосибирск:
+  ▀■.      - Flash inc. (Fikus ... ).
+   .■▀
+Чайковский:
+  ▀■.      - C.I.C. (J, Dr.Y, Sntr).
+     ▀■.
+Краснодар:
+   .■▀     - Gas 13, Maxx.
+   ▀■.
+Оболенск:
+  .■▀      - Laser Software (Mr.Z, Steel Dragon, Mitchell).
+  ▀■.
+Казань:
+ .■▀       - Excess Team (Siv Blader, Dimka, Lion ... ).
+ ▀■.
+Армавир:
+  .■▀      - Accept Corp. (M.O.T., Phantom Lord ... ).
+   ▀■.
+Каменск-Уральский:
+  .■▀      - Destruction Team (Strake ... ).
+ ▀■.
+Гомель:
+  .■▀      - RUSH ISPA (Kvazar ... ).
+  ▀■.
+Чернигов:
+   .■▀     - Avalon/RUSH ISPA (Znahar, Viator, Afina ...).
+  ▀■.
+Старый Оскол:
+    .■▀    - Global Corp. (Doctor Max,  Alex  Kerman,  Kum, Andy
+   ▀■.                     First).
+Йошкар-Ола:
+    .■▀    - Red Drunkards Group (Glen, Alexey).
+   ▀■.
+Кемерово:
+    .■▀    - PlayGear/Binary Dimension (Daniil, Ze Pagan, Cardi-
+ .■▀                                    nal, VHS).
+Щадринск:
+  ▀■.      - SerzhSoft.
+   .■▀
+Великие Луки:
+  ▀■.      - Player, Paradox, Stryker, Amigo, Megamix Group.
+   .■▀
+Ульяновск:
+    ▀■.    - Jurassic Software/Technology Interactive Systems
+    .■▀      (Maxwell, Mr. John, Groove, Faster, Sheyh-Alex ..).
+  .▀
+Калининград:
+  ▀■.      - Shock Brigade (MonsterSoft, Woodman ...).
+  .■▀
+Москва:
+  ▀■.      - Antares (Miron, Konex, Fil, EA-Soft, Savage).
+   .■▀
+Кириши:
+ .■▀       - Good Guys Hackers Group (Han'n'Craker).
+  ▀■.      - Warlock, Wolf, Vlad, Mad flame, D.J. Moroz.
+ .■▀
+Новороссийск:
+▀■.        - Midnight Group (BLAZ ...).
+ .■▀
+Самара:
+ ▀■.       - Speed Co./Extreme (M.M.A. aka Unbeliever...).
+  .■▀
+Саров:
+  ▀■       - Beermans/Extreme (Dwarf, Ashnar ...).
+   ▀■.
+Курган:
+  .■▀      - Computer Rats Group (Eagle ...).
+  ▀■
+    ▀■.
+    .■▀
+And maybe You ...                     
+   ▀■.
+      ·
+        ───────┐ ──────┐ ─────┐ ──────┐ ──────┐ ──┐  ──┐ 
+               │       │      │       │       │   │    │
+           │       │   │   │      │       │       │    │
+           └───┐   └─  │   └─┐    │       │       └──  │
+               │       │     │    │       │            │
+         ────  │   │       └──┐   └───┐   └───┐      │
+               │   │          │       │       │      │
+                      ∙ R ∙ U ∙ L ∙ E ∙ Z ∙
+
+          (C) 1998 Eternity Industry. Kovrov Cool City.
+ 

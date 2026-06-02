@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 15895,
+    "article_url": "https://zxpress.ru/article.php?id=15895",
+    "print_url": "https://zxpress.ru/print.php?id=15895",
+    "title_link": "Intro - Вступление от авторов.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Intro_-_Вступление_от_авторов"
+  },
+  {
+    "article_id": 15896,
+    "article_url": "https://zxpress.ru/article.php?id=15896",
+    "print_url": "https://zxpress.ru/print.php?id=15896",
+    "title_link": "Новости - Модемы, Военная Зона, Doxycon, ARTCOMP.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Модемы_Военная_Зона_Doxycon_ARTCOMP"
+  },
+  {
+    "article_id": 15897,
+    "article_url": "https://zxpress.ru/article.php?id=15897",
+    "print_url": "https://zxpress.ru/print.php?id=15897",
+    "title_link": "Почта - Совсем недавно появился первый номер нашей газеты в ФиДо... и реакция последовала почти сразу.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Почта_-_Совсем_недавно_появился_первыи_номер_нашеи_газеты_в"
+  },
+  {
+    "article_id": 15898,
+    "article_url": "https://zxpress.ru/article.php?id=15898",
+    "print_url": "https://zxpress.ru/print.php?id=15898",
+    "title_link": "Металлолом - Многие задавались вопросом как подключить hayes-модем к спеку - отвечаем...",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Металлолом_-_Многие_задавались_вопросом_как_подключить_hayes"
+  },
+  {
+    "article_id": 15899,
+    "article_url": "https://zxpress.ru/article.php?id=15899",
+    "print_url": "https://zxpress.ru/print.php?id=15899",
+    "title_link": "Ликбез - Ответ писишника на анкету для писишников.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Ликбез_-_Ответ_писишника_на_анкету_для_писишников"
+  },
+  {
+    "article_id": 15900,
+    "article_url": "https://zxpress.ru/article.php?id=15900",
+    "print_url": "https://zxpress.ru/print.php?id=15900",
+    "title_link": "Юмор - Штирлиц. Как размножаются ёжики.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_Штирлиц_Как_размножаются_ежики"
+  }
+]

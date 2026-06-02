@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 5216,
+    "article_url": "https://zxpress.ru/article.php?id=5216",
+    "print_url": "https://zxpress.ru/print.php?id=5216",
+    "title_link": "AD&D - Значение способностей.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "ADD_-_Значение_способностеи"
+  },
+  {
+    "article_id": 5217,
+    "article_url": "https://zxpress.ru/article.php?id=5217",
+    "print_url": "https://zxpress.ru/print.php?id=5217",
+    "title_link": "Проходилка - прохождение игры Magician land.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Проходилка_-_прохождение_игры_Magician_land"
+  },
+  {
+    "article_id": 5218,
+    "article_url": "https://zxpress.ru/article.php?id=5218",
+    "print_url": "https://zxpress.ru/print.php?id=5218",
+    "title_link": "Учебник - Программирование в машинных кодах и на языке АССЕМБЛЕРА (часть первая).",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Учебник_-_Программирование_в_машинных_кодах_и_на_языке_АССЕМ"
+  }
+]

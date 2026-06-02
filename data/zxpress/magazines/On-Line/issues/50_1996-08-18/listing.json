@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 37,
+    "article_url": "https://zxpress.ru/article.php?id=37",
+    "print_url": "https://zxpress.ru/print.php?id=37",
+    "title_link": "B.B.S. Новости - Очередная супертусовка ZXNet.",
+    "order": 1,
+    "issue_label": "50",
+    "short_slug": "BBS_Новости_-_Очередная_супертусовка_ZXNet"
+  },
+  {
+    "article_id": 2153,
+    "article_url": "https://zxpress.ru/article.php?id=2153",
+    "print_url": "https://zxpress.ru/print.php?id=2153",
+    "title_link": "HOT GAMES - Лучшая десятка от Visual/MS.",
+    "order": 2,
+    "issue_label": "50",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_VisualMS"
+  },
+  {
+    "article_id": 2151,
+    "article_url": "https://zxpress.ru/article.php?id=2151",
+    "print_url": "https://zxpress.ru/print.php?id=2151",
+    "title_link": "Мозаика - Письмо из Латвии от Raver'a. Cheat'ы к играм : Tarzan goes ape!, Quick draw wc graw.",
+    "order": 3,
+    "issue_label": "50",
+    "short_slug": "Мозаика_-_Письмо_из_Латвии_от_Ravera_Cheatы_к_играм_Tarzan_g"
+  },
+  {
+    "article_id": 2154,
+    "article_url": "https://zxpress.ru/article.php?id=2154",
+    "print_url": "https://zxpress.ru/print.php?id=2154",
+    "title_link": "Новье !? - О программах: Tarzan Goes ape!, Quick draw mc graw,\r\n Boulder Dash Collection, Blockus, Move'em all, Twin World, The Muncher eat chewits, Клятва Ночи, Sieddab Attack, Four Soccer Simulator, Archon 2.",
+    "order": 4,
+    "issue_label": "50",
+    "short_slug": "Новье_-_О_программах_Tarzan_Goes_ape_Quick_draw_mc_graw_Boul"
+  },
+  {
+    "article_id": 2152,
+    "article_url": "https://zxpress.ru/article.php?id=2152",
+    "print_url": "https://zxpress.ru/print.php?id=2152",
+    "title_link": "Презентация - Презентация демонстрации новой игры \"Mortal Kombat\".",
+    "order": 5,
+    "issue_label": "50",
+    "short_slug": "Презентация_-_Презентация_демонстрации_новои_игры_Mortal_Kom"
+  }
+]

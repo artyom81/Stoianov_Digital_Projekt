@@ -1,0 +1,281 @@
+[
+  {
+    "article_id": 18619,
+    "article_url": "https://zxpress.ru/article.php?id=18619",
+    "print_url": "https://zxpress.ru/print.php?id=18619",
+    "title_link": "Help - Об оболочке журнала",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "Help_-_Об_оболочке_журнала"
+  },
+  {
+    "article_id": 18589,
+    "article_url": "https://zxpress.ru/article.php?id=18589",
+    "print_url": "https://zxpress.ru/print.php?id=18589",
+    "title_link": "Editor - От редактора",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Editor_-_От_редактора"
+  },
+  {
+    "article_id": 18590,
+    "article_url": "https://zxpress.ru/article.php?id=18590",
+    "print_url": "https://zxpress.ru/print.php?id=18590",
+    "title_link": "Scene - ZX Spectrum в 1997 году: создание Спектрумовского клуба (в Питере)",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_1997_году_создание_Спектрумовского_клу"
+  },
+  {
+    "article_id": 18591,
+    "article_url": "https://zxpress.ru/article.php?id=18591",
+    "print_url": "https://zxpress.ru/print.php?id=18591",
+    "title_link": "Scene - ZX Spectrum в 1998 году: хакерская деятельность в отношении Черного Ворона",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_1998_году_хакерская_деятельность_в_отн"
+  },
+  {
+    "article_id": 18592,
+    "article_url": "https://zxpress.ru/article.php?id=18592",
+    "print_url": "https://zxpress.ru/print.php?id=18592",
+    "title_link": "Scene - ZX Spectrum в 1999 году: трейдеры перестали покупать софт",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_1999_году_треидеры_перестали_покупать"
+  },
+  {
+    "article_id": 18595,
+    "article_url": "https://zxpress.ru/article.php?id=18595",
+    "print_url": "https://zxpress.ru/print.php?id=18595",
+    "title_link": "Scene - ZX Spectrum в 1999 году: никаких трейдеров в Хакасии не осталось, да и не было практически",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_1999_году_никаких_треидеров_в_Хакасии"
+  },
+  {
+    "article_id": 18593,
+    "article_url": "https://zxpress.ru/article.php?id=18593",
+    "print_url": "https://zxpress.ru/print.php?id=18593",
+    "title_link": "Scene - ZX Spectrum в 2000 году: можно со спокойным сердцем завязывать со Спектрумом и уходить на РС",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_2000_году_можно_со_спокоиным_сердцем_з"
+  },
+  {
+    "article_id": 18594,
+    "article_url": "https://zxpress.ru/article.php?id=18594",
+    "print_url": "https://zxpress.ru/print.php?id=18594",
+    "title_link": "Scene - ZX Spectrum в 2001 году: А много ли вообще пользователей Спpинтеpа?",
+    "order": 8,
+    "issue_label": "13",
+    "short_slug": "Scene_-_ZX_Spectrum_в_2001_году_А_много_ли_вообще_пользовате"
+  },
+  {
+    "article_id": 18596,
+    "article_url": "https://zxpress.ru/article.php?id=18596",
+    "print_url": "https://zxpress.ru/print.php?id=18596",
+    "title_link": "Code - этюды по программированию на ZX Spectrum",
+    "order": 9,
+    "issue_label": "13",
+    "short_slug": "Code_-_этюды_по_программированию_на_ZX_Spectrum"
+  },
+  {
+    "article_id": 18597,
+    "article_url": "https://zxpress.ru/article.php?id=18597",
+    "print_url": "https://zxpress.ru/print.php?id=18597",
+    "title_link": "Code - эффекты ротаторов и ротозумеров",
+    "order": 10,
+    "issue_label": "13",
+    "short_slug": "Code_-_эффекты_ротаторов_и_ротозумеров"
+  },
+  {
+    "article_id": 18598,
+    "article_url": "https://zxpress.ru/article.php?id=18598",
+    "print_url": "https://zxpress.ru/print.php?id=18598",
+    "title_link": "Code - О туннелях и небоскреба",
+    "order": 11,
+    "issue_label": "13",
+    "short_slug": "Code_-_О_туннелях_и_небоскреба"
+  },
+  {
+    "article_id": 18599,
+    "article_url": "https://zxpress.ru/article.php?id=18599",
+    "print_url": "https://zxpress.ru/print.php?id=18599",
+    "title_link": "Code - 3D движок для Elite",
+    "order": 12,
+    "issue_label": "13",
+    "short_slug": "Code_-_3D_движок_для_Elite"
+  },
+  {
+    "article_id": 18600,
+    "article_url": "https://zxpress.ru/article.php?id=18600",
+    "print_url": "https://zxpress.ru/print.php?id=18600",
+    "title_link": "GFX - Фотореализм: способы передать ненасыщенные цвета, присущие реальным фотографиям",
+    "order": 13,
+    "issue_label": "13",
+    "short_slug": "GFX_-_Фотореализм_способы_передать_ненасыщенные_цвета_присущ"
+  },
+  {
+    "article_id": 18601,
+    "article_url": "https://zxpress.ru/article.php?id=18601",
+    "print_url": "https://zxpress.ru/print.php?id=18601",
+    "title_link": "GFX - Подготовка графических ресурсов при создании игр на ZX Spectrum",
+    "order": 14,
+    "issue_label": "13",
+    "short_slug": "GFX_-_Подготовка_графических_ресурсов_при_создании_игр_на_ZX"
+  },
+  {
+    "article_id": 18602,
+    "article_url": "https://zxpress.ru/article.php?id=18602",
+    "print_url": "https://zxpress.ru/print.php?id=18602",
+    "title_link": "Music - софтовый движок OPL синтеза для AY (часть 1)",
+    "order": 15,
+    "issue_label": "13",
+    "short_slug": "Music_-_софтовыи_движок_OPL_синтеза_для_AY_часть_1"
+  },
+  {
+    "article_id": 18603,
+    "article_url": "https://zxpress.ru/article.php?id=18603",
+    "print_url": "https://zxpress.ru/print.php?id=18603",
+    "title_link": "Music - софтовый движок OPL синтеза для AY (часть 2)",
+    "order": 16,
+    "issue_label": "13",
+    "short_slug": "Music_-_софтовыи_движок_OPL_синтеза_для_AY_часть_2"
+  },
+  {
+    "article_id": 18604,
+    "article_url": "https://zxpress.ru/article.php?id=18604",
+    "print_url": "https://zxpress.ru/print.php?id=18604",
+    "title_link": "Music - Bintracker: в поисках идеального трекера для создания биперной музыки",
+    "order": 17,
+    "issue_label": "13",
+    "short_slug": "Music_-_Bintracker_в_поисках_идеального_трекера_для_создания"
+  },
+  {
+    "article_id": 18605,
+    "article_url": "https://zxpress.ru/article.php?id=18605",
+    "print_url": "https://zxpress.ru/print.php?id=18605",
+    "title_link": "Системки - NedoOS истоки: История NedoOS уходит корнями в далёкие 90-е годы.",
+    "order": 18,
+    "issue_label": "13",
+    "short_slug": "Системки_-_NedoOS_истоки_История_NedoOS_уходит_корнями_в_дал"
+  },
+  {
+    "article_id": 18606,
+    "article_url": "https://zxpress.ru/article.php?id=18606",
+    "print_url": "https://zxpress.ru/print.php?id=18606",
+    "title_link": "Системки - NedoOS истоки: в 2007 Fido фактически умерло и я перешёл в Интернет",
+    "order": 19,
+    "issue_label": "13",
+    "short_slug": "Системки_-_NedoOS_истоки_в_2007_Fido_фактически_умерло_и_я_п"
+  },
+  {
+    "article_id": 18607,
+    "article_url": "https://zxpress.ru/article.php?id=18607",
+    "print_url": "https://zxpress.ru/print.php?id=18607",
+    "title_link": "Системки - NedoOS истоки: 2 октября 2018 года наконец вышел первый релиз графического редактора gfxed",
+    "order": 20,
+    "issue_label": "13",
+    "short_slug": "Системки_-_NedoOS_истоки_2_октября_2018_года_наконец_вышел_п"
+  },
+  {
+    "article_id": 18608,
+    "article_url": "https://zxpress.ru/article.php?id=18608",
+    "print_url": "https://zxpress.ru/print.php?id=18608",
+    "title_link": "Системки - Разработка с помощью NedoOS",
+    "order": 21,
+    "issue_label": "13",
+    "short_slug": "Системки_-_Разработка_с_помощью_NedoOS"
+  },
+  {
+    "article_id": 18609,
+    "article_url": "https://zxpress.ru/article.php?id=18609",
+    "print_url": "https://zxpress.ru/print.php?id=18609",
+    "title_link": "Hard - 8 битный порт Kempston джойстика с 3 дополнительными кнопками",
+    "order": 22,
+    "issue_label": "13",
+    "short_slug": "Hard_-_8_битныи_порт_Kempston_джоистика_с_3_дополнительными"
+  },
+  {
+    "article_id": 18610,
+    "article_url": "https://zxpress.ru/article.php?id=18610",
+    "print_url": "https://zxpress.ru/print.php?id=18610",
+    "title_link": "Wild - тетрис в 256 байт и змейка размером 55 байт",
+    "order": 23,
+    "issue_label": "13",
+    "short_slug": "Wild_-_тетрис_в_256_баит_и_змеика_размером_55_баит"
+  },
+  {
+    "article_id": 18611,
+    "article_url": "https://zxpress.ru/article.php?id=18611",
+    "print_url": "https://zxpress.ru/print.php?id=18611",
+    "title_link": "Games - Войти в геймдев: переизобретение текстовых игр",
+    "order": 24,
+    "issue_label": "13",
+    "short_slug": "Games_-_Воити_в_геимдев_переизобретение_текстовых_игр"
+  },
+  {
+    "article_id": 18612,
+    "article_url": "https://zxpress.ru/article.php?id=18612",
+    "print_url": "https://zxpress.ru/print.php?id=18612",
+    "title_link": "Games - устройство игры Super Mario Bros от Gogin",
+    "order": 25,
+    "issue_label": "13",
+    "short_slug": "Games_-_устроиство_игры_Super_Mario_Bros_от_Gogin"
+  },
+  {
+    "article_id": 18613,
+    "article_url": "https://zxpress.ru/article.php?id=18613",
+    "print_url": "https://zxpress.ru/print.php?id=18613",
+    "title_link": "Games - Marsmare устройство игры и самописный инструментарий: ассемблер, редактор\r\nспрайтов, редактор карт, IDE",
+    "order": 26,
+    "issue_label": "13",
+    "short_slug": "Games_-_Marsmare_устроиство_игры_и_самописныи_инструментарии"
+  },
+  {
+    "article_id": 18614,
+    "article_url": "https://zxpress.ru/article.php?id=18614",
+    "print_url": "https://zxpress.ru/print.php?id=18614",
+    "title_link": "Games - Смесь игр Twins и Tetris",
+    "order": 27,
+    "issue_label": "13",
+    "short_slug": "Games_-_Смесь_игр_Twins_и_Tetris"
+  },
+  {
+    "article_id": 18615,
+    "article_url": "https://zxpress.ru/article.php?id=18615",
+    "print_url": "https://zxpress.ru/print.php?id=18615",
+    "title_link": "Games - Глюки с ULAplus: несколько игр, сделанных в AGD устанавливают неправильную палитру\r\nULAplus",
+    "order": 28,
+    "issue_label": "13",
+    "short_slug": "Games_-_Глюки_с_ULAplus_несколько_игр_сделанных_в_AGD_устана"
+  },
+  {
+    "article_id": 18616,
+    "article_url": "https://zxpress.ru/article.php?id=18616",
+    "print_url": "https://zxpress.ru/print.php?id=18616",
+    "title_link": "Mail - errata: игры из СССР",
+    "order": 29,
+    "issue_label": "13",
+    "short_slug": "Mail_-_errata_игры_из_СССР"
+  },
+  {
+    "article_id": 18617,
+    "article_url": "https://zxpress.ru/article.php?id=18617",
+    "print_url": "https://zxpress.ru/print.php?id=18617",
+    "title_link": "Mail - Отзывы на Info Guide #12",
+    "order": 30,
+    "issue_label": "13",
+    "short_slug": "Mail_-_Отзывы_на_Info_Guide_12"
+  },
+  {
+    "article_id": 18618,
+    "article_url": "https://zxpress.ru/article.php?id=18618",
+    "print_url": "https://zxpress.ru/print.php?id=18618",
+    "title_link": "Mail - Авторы журнала",
+    "order": 31,
+    "issue_label": "13",
+    "short_slug": "Mail_-_Авторы_журнала"
+  }
+]

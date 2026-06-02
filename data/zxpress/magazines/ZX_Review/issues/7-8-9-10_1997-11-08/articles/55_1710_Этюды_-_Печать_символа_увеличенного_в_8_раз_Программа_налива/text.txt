@@ -1,0 +1,196 @@
+ZX Review 7-8-9-10 - Этюды - Печать символа, увеличенного в 8 раз. Программа "наливания" экрана. Процедура гашения экрана по точкам. Очистка экрана как в Terminator'е. Поиск последовательности символов в памяти. Система перекодировки символьного набора.
+(c) Онуфриев Е., г.Анапа
+1.
+По  идее  Сергея  Колотова
+(Ревю 4/95 стр.43), символ, уве-
+личенный в 8 раз (в атрибутах).
+   Код символа  в  аккумуляторе.
+Длина - 43 байта.
+140.
+          LD      H,0
+          LD      L,A
+          LD      DE,15360
+          ADD     HL,HL
+          ADD     HL,HL
+          ADD     HL,HL
+          ADD     HL,DE
+          LD      D,88
+          LD      C,8
+LOOP1     LD      A,(HL)
+          LD      B,24
+LOOP2     RLCA
+          PUSH    BC
+          LD      B,4
+          JR      C,CARRY
+ZICL      INC     DE
+          DJNZ    ZICL
+LOOP3     POP     BC
+          DJNZ    LOOP2
+          DEC     C
+          INC     HL
+          JR      NZ,LOOP1
+          RET
+CARRY     EX      DE,HL
+          LD      (HL),КОД ЦВЕТА
+          EX      DE,HL
+          INC     DE
+          DJNZ    CARRY
+          JR      LOOP3
+2
+   2.
+Следующая программа - "на-
+ливание" экрана.  Screen  должен
+находиться по адресу BUFF.
+140.
+          LD      HL,BUFF
+          LD      BC,192*256
+LOOPIK    LD      DE,16384
+          PUSH    BC
+LOOPSCR   PUSH    BC
+          PUSH    HL
+          LD      BC,32
+          PUSH    BC
+          PUSH    DE
+          LDIR
+          POP     DE
+          POP     BC
+          HALT
+          CALL    LPAK
+          POP     HL
+          POP     BC
+          DJNZ    LOOSCR
+          ADD     HL,BC
+          POP     BC
+          DJNZ    LOOPIK
+          RET
+LPAK      INC     D
+          LD      A,D
+          AND     7
+          RET     NZ
+          LD      A,E
+          ADD     A,C
+          LD      E,A
+          RET     C
+          LD      A,D
+          SUB     8
+          LD      D,A
+          RET
+
+Длина программы - 48 байт.
+2
+   3.
+Процедура  гашения  экрана
+по точкам, в  случайном  порядке
+(с атрибутами -  если  PAPER  0;
+INK 7).
+140.
+          LD      B,10
+LP1       LD      HL,16384
+LP2       LD      A,(BC)
+          DEC     C
+          AND     (HL)
+          LD      (HL),A
+          INC     HL
+          LD      A,H
+          CP      91
+          JR      NZ,LP2
+          DJNZ    LP1
+          RET
+
+Длина процедуры 18 байт.
+
+Коды:  6,10,33,0,64,13,10,166,
+       119,35,124,254,91,32,246,
+       16,240,201.
+2
+   4.
+Очистка экрана как в  TER-
+MINATOR'е.  Длина процедуры - 31
+байт.
+140.
+          LD      B,7
+L1        HALT
+          LD      HL,22528
+L2        LD      A,(HL)
+          AND     7
+          JR      Z,L3
+          DEC     A
+L3        LD      C,A
+          LD      A,(HL)
+          AND     56
+          JR      Z,L4
+          SUB     8
+L4        OR      C
+          LD      (HL),A
+          INC     HL
+          LD      A,H
+          CP      91
+          JR      NZ,L2
+          DJNZ    L1
+          RET
+2
+   5.
+Поиск любой последователь-
+ности (в любом  участке  памяти,
+любой  длины)  символов.   Длина
+процедуры - 37 байт.
+140.
+          LD      HL,Начальный
+адрес, где будем искать
+          LD      BC,Кол-во байт
+в этой области
+LOOP1     PUSH    BC
+          LD      DE,Адрес рас-
+положения последовательности -
+оригинала
+          LD      B,Кол-во байт
+в последовательности
+
+;Начало
+          PUSH    BC
+LP3       LD      A,(DE)
+          CP      (HL)
+          INC     HL
+          JR      NZ,NOBYTE
+          INC     DE
+          DJNZ    LP2
+          POP     BC
+LPA       DEC     HL
+          DJNZ    LPA
+          POP     BC
+          LD      B,H
+          LD      C,L
+          RET
+NOBYTE    POP     BC
+          POP     BC
+          DEC     BC
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP1
+          RET
+2
+   Если в BC - 0, то  последова-
+тельность не найдена. Если в  BC
+не 0, то BC указывает на  начало
+найденной последовательности.
+6.
+Я  также  создал свою сис-
+тему  перекодировки  символьного
+набора (каждый символ занимает 3
+бита  + 1 отделяющий, на  экране
+умещается 64 символа).  Преобра-
+зуется каждый байт по схеме:
+140.
+          LD      A,(HL)
+          PUSH    AF
+          RRA
+          AND     56
+          LD      D,A
+          POP     AF
+          RLA
+          AND     62
+          OR      D
+          RLCA
+          RLCA
+2
+          *   *   *

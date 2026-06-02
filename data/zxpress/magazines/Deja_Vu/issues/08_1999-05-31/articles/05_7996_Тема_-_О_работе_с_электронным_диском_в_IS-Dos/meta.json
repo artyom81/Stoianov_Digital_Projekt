@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 5,
+  "article_id": 7996,
+  "title_link": "Тема - О работе с электронным диском в IS-Dos.",
+  "title_h1": "Deja Vu 08 - Тема - О работе с электронным диском в IS-Dos.",
+  "print_url": "https://zxpress.ru/print.php?id=7996",
+  "article_url": "https://zxpress.ru/article.php?id=7996",
+  "fetched_at": "2026-05-31T21:55:28Z"
+}

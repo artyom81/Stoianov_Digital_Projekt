@@ -1,0 +1,64 @@
+Body 28 - Coding - пpоцедуpа коppектного обpащения к TR-DOS&#039;у чеpез точку входа #3d13.
+■·······················[
+Coding
+]·························■
+(c) Brom^Ellipse
+Всем  привет, это опять я со своими нужными процедурами. На этот
+раз  я  хочу  предложить  вашему  вниманию процедуру корректного
+обращения к TR-DOS'у через точку входа #3d13. Возожно для многих
+процедура   покажется  знакомой  по  этому  на  авторство  я  не
+претендую :)
+
+DOS     CALL SV_REG
+        EX AF,AF'
+        XOR A
+        LD (#5D10),A
+        LD (#5DOF),A
+        DEC A
+        LD (#5CЗA),A
+        EX AF,AF'  
+        LD IY,#5CЗA
+        PUSH HL
+        LD HL,ERROR
+        EX (SP),HL
+        LD (#5CЗD),SP
+        CALL #3D13
+        DI 
+        POP HL
+        LD (SOST_BC+1),BC
+        CALL LD_REG
+SOST_BC LD BC,0
+        RET 
+                  
+ERROR   DI 
+        LD SP,(#5CЗD)
+        POP HL
+        CALL LD_REG
+        JR DOS
+
+;сохраняем  содержимое  всех   регистров   для   последующего
+;успешного их востановления
+     
+SV_REG  EX (SP),HL
+        LD (RETURN2+1),HL
+        POP HL
+        PUSH HL,DE,BC,AF,IX,IY
+        EXX 
+        PUSH HL,DE,BC
+        EX AF,AF'
+        PUSH AF
+        EX AF,AF'
+        EXX 
+RETURN2 JP 0
+
+;востанавливаем состояния регистров  на  момент  обрашения  к
+;процедуре DOS
+     
+LD_REG  POP HL
+        LD (RETURN1+1),HL
+        POP AF
+        EX AF,AF'
+        POP BC,DE,HL
+        EXX 
+        POP IY,IX,AF,BC,DE,HL
+RETURN1 JP 0

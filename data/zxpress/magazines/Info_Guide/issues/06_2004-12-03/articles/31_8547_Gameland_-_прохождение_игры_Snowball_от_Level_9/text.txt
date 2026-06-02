@@ -1,0 +1,820 @@
+Info Guide 06 - Gameland - прохождение игры Snowball от Level 9.
+Snowball (Level 9)
+Cyberdaemon
+обнаружил проходиловки мно-
+гих текстовых игрушек,в том числе
+ВСЕХ
+игр
+фирмы
+Level 9.
+Он прислал мне полный архив,но этот ар-
+хив настолько велик,что возникло предложе-
+ние  опубликовать только
+3
+текстика и ука-
+зать направление,где лежат остальные.А ле-
+жат они на
+ftp.gmd.de.
+Мы учили по таким играм английский. По-
+том  начался  бум  с переводами на русский
+всего  на свете. Это был хороший способ не
+дать детям стать умнее :(
+Практически   все  текстовые  адвентюры
+имеют язык,подчиняющийся определённым пра-
+вилам. В него  обязательно  входят команды
+направлений
+N, S, E, W
+(зачастую  есть ещё
+U,D,IN
+и
+OUT
+), инвентарь
+I,
+повторный ос-
+мотр локации
+L,
+иногда счёт -
+SCORE.
+Стан-
+дартные  действия:
+TAKE (GET), DROP, EXAM,
+OPEN, PUSH, WEAR.
+Банальные
+HELP
+и
+USE
+по-
+чти всегда ничем не помогают. Для слов,ко-
+торых нет в словаре,обычно выводится соот-
+ветствующее  сообщение. В  некоторых играх
+последнее не выполняется, и это для игрока
+очень неприятно.
+В тех играх,которые я сегодня буду рас-
+сматривать, действуют также следующие пра-
+вила: можно вводить по
+4
+буквы от большин-
+ства слов;слово
+BUTTON
+не вводить;для ука-
+зания  направлений достаточно одной буквы;
+команды  можно  перечислять через запятую.
+В  некоторых  версиях игр
+(их по нескольку
+на ZX),
+если ошибётесь,можно командой
+OOPS
+(или
+UNDO)
+откатывать предыдущий ход,и да-
+же не один.Точнее,отменить все действия на
+текущей локации и вернуться на предыдущую.
+(Сделано это, видимо,путём автоматического
+создания многочисленных отгрузок в верхней
+памяти. Их  число  велико, но ограничено.)
+128k
+версии  игр  обычно имеют команды
+RAM
+SAVE
+и
+RAM RESTORE,
+смысл которых понятен.
+Вот интересное сообщение по поводу:
+──────────────────────────────────────────
+Известный  дизайнер и автор IF-игр
+Грэм
+Нельсон
+написал книгу
+"Мастерство Adventu-
+re".
+В ней, в частности, находится состав-
+ленный им прелюбопытнейший документ:
+Билль
+о правах игрока.
+В нём  содержатся  основ-
+ные, по его мнению (которому я лично скло-
+нен доверять), правила,которые должны соб-
+людаться  в любой адвентюре. Прочтите этот
+билль. Вы  согласны  со всеми положениями?
+Держу пари, что да. А теперь возьмите свою
+любимую графическую адвентюру,и прикиньте,
+сколько  из  пунктов  она нарушает. Вот! А
+любая  текстовая  игра  -  намного меньше.
+Кстати,с этим биллем рекомендуется ознако-
+миться  всем  разработчикам квестов, ежели
+кто из них наш журнал читает. Авось они не
+будут  повторять ошибок зарубежных коллег.
+Итак,
+ГРЭМ НЕЛЬСОН'S БИЛЛЬ О ПРАВАХ ИГРОКА
+1.
+Игрок не может быть  убит без предуп-
+реждения.
+2.
+Игрок  не  должен получать совершенно
+неясные подсказки.
+3.
+Игрок  должен иметь возможность побе-
+дить, не используя опыт прошлых "жизней".
+4.
+Игрок  должен иметь возможность побе-
+дить без знания тех событий,которые ожида-
+ют его в будущем. (И в этом,и в предыдущем
+пунктах  имеется в виду возможность пройти
+игру с первой попытки, без единой перезаг-
+рузки).
+5.
+Игра не должна "закрыться" без преду-
+преждения. (Необратимые  действия, ведущие
+к  совершению  фатальной ошибки, допустимы
+только в тех случаях, когда играющий полу-
+чает честное предупреждение о том,что дан-
+ное действие необратимо.)
+6.
+Игрок не обязан делать неестественные
+действия.
+7.
+Игрок не должен  без нужды делать од-
+нообразные, скучные  и утомительные дейст-
+вия.
+Эти три пункта относятся только к текс-
+товым играм:
+8.
+Игрок не должен впечатывать абсолютно
+точно нужный глагол.
+9.
+Игрок  имеет право использовать сино-
+нимы существительных.
+10.
+Игрок имеет право на сервис в анали-
+заторе команд.
+11.
+Игрок  должен иметь разумную свободу
+действий.
+12.
+Игрок не должен слишком сильно зави-
+сеть  от  удачи. (Имеются  в виду рэндомно
+происходящие события).
+13.
+Играющий должен быть в состоянии по-
+нять задачу после того, как она была реше-
+на.
+14.
+Игрок  не  должен  получать  слишком
+много "обманок".(обманка - предмет,которым
+можно подобрать,но который заведомо ни для
+чего не нужен).
+15.
+Игрок имеет право на разумное объяс-
+нение  причин, почему то или иное действие
+невозможно.
+16.
+Играющий не обязан быть американцем.
+17.
+Игрок  имеет право знать, как у него
+идут дела.
+Добавить к этому можно следующее. Коне-
+чно, писался этот билль для игр текстовых,
+поскольку  ошибки они совершали и поболее,
+и  пораньше графических (ибо появились они
+раньше,да и количество их неслабое :)). Но
+графические игры, как выяснилось, страдают
+теми же болезнями. И, в отличии от тексто-
+вых,лечатся с трудом. И наконец,специально
+для  пятого  поколения адвентюр, предлагаю
+18-й пункт:
+18.
+Игра не должна быть "рассчитанной на
+новичка", то есть тупой и дебильной.
+──────────────────────────────────────────
+Многие старые игры требуют
+48k
+или ста-
+ндартную  прошивку
+128k.
+Это несколько ос-
+танавливает. К слову, хочется заметить,что
+многие отечественные крэки игр, изначально
+работавших везде, после взлома требуют от-
+ключения  памяти выше
+128k.
+Особенно таки-
+ми  релизами  грешили  группы
+Ascendancy
+и
+Flash.
+А по логике вещей хакер должен, на-
+оборот, исправлять несовместимость. Но кто
+этим  займётся, когда дисковых  версий игр
+уже тысячи (только на
+zx.da.ru
+-
+4264
+), и
+они еле помещаются на CD болванке?
+Для тех, кто заинтересуется современной
+текстовой адвентюрой, рекомендуем найти
+ZX
+Z Virtual Machine.
+Многоплатформенные игры
+в
+.z3, .z4, .z5, .z8
+пишутся  до сих пор и
+размещаются  на том же
+ftp.gmd.de.
+Даже на
+zx.da.ru
+внутри архивов
+zxzvm*.*
+их столь-
+ко, что хватит на долгие годы ;)
+А  мою  текстовую адвентюру
+1997
+года в
+скрытой части
+ZX-Guide #4
+один человек уже
+прошёл :) Кстати, у меня  где-то лежала её
+английская версия!
+Описание
+Return to Eden
+я было взялся
+проверять,но...К сожалению,в игре возможны
+ситуации (не зависящие от игрока),делающие
+её  непроходимой. У нас бы такую игру наз-
+вали  глючной... Туда же относятся длинные
+описания локаций, которые иногда проскаки-
+вают  и исчезают без просьбы нажать кнопку
+- это в том случае, если при вашем входе в
+локацию что-то происходит.
+Unreal Speccy
+и
+ZXMAK
+не могут прочитать свой снапшот этой
+игры. Зато какая графика! 8) Наши хвалёные
+программисты  не  смогли превзойти степень
+набивки  экранами  игр
+Snowball, Return to
+Eden, Eric the Viking
+или, скажем,
+Spell-
+bound Dizzy.
+У нас экраны просто рисуют, и
+в результате игра той же сложности занима-
+ет весь диск...
+SNOWBALL
+(Level 9)
+(Later released as
+Part 1 of the 'Silicon Dreams' Trilogy)
+Start inside a Coffin.
+
+EXAMINE
+(you  will  notice a lever beside
+you, even  though it's pitch black!),
+PULL
+LEVER
+(the  lid  rises),
+OUT, N, PUSH RED
+BUTTON,  PUSH RED BUTTON, PUSH RED BUTTON,
+(a coffin will now slide from an arpeture)
+S, UP
+(you  now  stand on the coffin),
+UP
+(you  scramble  through  a trapdoor),
+WAIT
+(several  times until the 'clanking noise'
+of   the   deadly  Mechanical  Nightingale
+"fades  away"),
+N,  OPEN DOOR, N, E, PUSH
+BUTTON
+(the  elevator  arrives),
+S, DOWN
+(you   now  cling  to  a  rope  below  the
+elevator!),
+DOWN,  TAKE TOOLBOX,  UP, UP,
+PRESS BLACK BUTTON,  N, W, W, W, UP
+(to a
+Significant  Cylindrical  Ledge),
+S, S, S,
+S, S, S, S, S
+(you  are now in a Feature-
+less  Airlock),
+PRESS YELLOW BUTTON
+(the
+door  slides  open),
+S, S, DOWN, DOWN
+(you
+are  now  lying  on  a comfortable couch),
+SCORE
+(the table will now massage you, and
+you've got
+150/1000
+so far!!).
+
+UP
+(a Dumpy Droid is now shuffling about),
+UP, S,
+[Ред.:
+Видимо, пропущено
+W.
+]
+WAIT,
+(several times until a Scruffy Robot shuf-
+fles  on  to  the  Cyladder and is carried
+down)
+[Ред.:
+Вместо
+WAIT
+проще набирать
+I]
+DOWN
+(you  fall into a Large Low Room),
+S,
+DOWN
+(you  are  now seated at a Console),
+WEAR VISOR
+(the  screen  will  light up),
+LOOK AT 2
+(it  becomes  brighter),
+BLINK
+(the screen displays information numbers),
+UP,  S,  SEARCH BODY,  WEAR LEOTARD,  WEAR
+NECKLACE, WEAR BRACELET,  N, N, N, EXAMINE
+TABLE, TAKE VIEWER, N, TAKE MEMPAK, INSERT
+MEMPAK, EXAMINE VIEWER.
+(You  will  now be
+given
+TWO
+important colour codes. One is
+for your
+OWN
+coffin location and the other
+for  the
+FROZEN CREW MEMBER'S
+coffin loca-
+tion....... These  are
+DIFFERENT
+for
+EACH
+GAME!
+....... Make  a note of the
+TWO SETS
+OF COLOUR CODES,
+including  the
+MORTUARY
+COLOURS.
+You  should have
+SEVEN COLOURS
+in
+EACH CODE!
+).
+[Ред.:
+Не  забудьте записать
+вторую  последовательность на бумажку!!! А
+не первую! Вам нужна вторая!
+]
+OPEN TOOLBOX,  TAKE SPANNER, DROP SPANNER,
+TAKE SCREWDRIVER,  TAKE BATPAK
+(you lever
+it   out   with   the  screwdriver),
+DROP
+SCREWDRIVER,  DROP VIEWER,  S, S, E, N, E,
+N, TAKE LAMP,  INSERT BATPAK, TAKE CUP, S,
+INSERT CUP
+(the machine fills it with thin
+lentil custard!!),
+W, LOOK UNDER BED, TAKE
+LED
+[Ред.:
+LEDS.
+],
+S,  W,  UP
+(you are
+carried up the Cyladder),
+S, N, N, DOWN
+(a
+Robot  welcomes you),
+DOWN, DOWN, S, S, U,
+W, N
+(the  Damaged Droid requests a spare
+part.....
+'EXAMINE'
+or
+'WAIT',
+until  it
+does),
+ATTACH PROBE
+(this is the
+'LED'
+you
+collected  earlier. Make  a  note  of  the
+spare  part  it  requires....... this will
+DIFFER FOR EACH GAME
+........ then  follow
+the   given  route  around  the  junk  and
+collect, what you were asked for,returning
+to  the Damaged Droid)
+[Ред.:
+У меня дроид
+захотел
+BUMB BEARING.
+Любую  часть  можно
+найти  здесь, на свалке.
+],
+E, N, N, W, S,
+S
+[Ред.:
+Это был способ пройти к дроиду из
+любого места свалки.
+],
+GIVE ...
+(the item
+you  were asked for) (the Droid then gives
+you a battered Bubble Helmet).
+
+DROP PROBE,  E, DOWN, DOWN, E, E, TAKE RED
+TICKET, N, N, N,  TAKE GREEN TICKET, W, W,
+GIVE RED TICKET,  TAKE RED FORM,  S, S, S,
+GIVE GREEN TICKET,   GIVE RED FORM,   TAKE
+ORANGE FORM,  E,  E,  TAKE RED TICKET,  N,
+N, N,  TAKE GREEN TICKET,  W, W,  GIVE RED
+TICKET, GIVE ORANGE FORM,TAKE YELLOW FORM,
+S,  S,  S,  GIVE GREEN TICKET, GIVE YELLOW
+FORM,  TAKE GREEN FORM,   E,  E,  TAKE RED
+TICKET,  N, N, N,  W, W,  GIVE RED TICKET,
+GIVE GREEN FORM,  TAKE LANCE,  S, UP, OPEN
+DOOR, U, U,
+[Ред.:
+А  теперь
+НЕ ЗАБУДЬТЕ
+сбегать за STACKER LIFT:
+W,D,E,GET STACKER
+LIFT, W, U, E.
+]
+N, PRESS BUTTON
+(the door
+slides  open),
+N
+(We're now coming to the
+complicated  bit, which  cannot  be mapped
+correctly  as  it
+DIFFERENT
+for
+EACH GAME!
+Follow  the  directions  carefully),
+SCORE
+(should now be
+450/1000
+).
+LOCATING AND REVIVING
+THE FROZEN CREW MEMBER!!
+
+PRESS YELLOW BUTTON, N
+(continue North and
+every time there is an exit
+DOWN,
+'EXAMINE
+BRACELET'
+until  the
+FOURTH
+colour on the
+bracelet  is the
+SAME
+as the
+SECOND
+colour
+of  the Frozen Crew Member's code that you
+noted earlier.
+[Ред.:
+То есть первый сооб-
+щенный вам цвет во второй последовательно-
+сти,если не считать цвета mortuary.
+]
+When
+the colour matches....),
+DOWN
+(now proceed
+EAST
+until you reach an elevator,indicated
+by  a  button  protruding from the floor),
+PRESS BUTTON
+(the elevator arrives)
+[Ред.:
+Теперь надо
+S,
+чтобы войти в лифт
+],
+PRESS
+...
+(the
+FOURTH
+colour of the code
+[Ред.:
+То  есть  третий, если  не  считать  цвета
+mortuary.
+]
+)
+... BUTTON, N
+(from now on,
+whenever  you  hear  a  noise, go  in  the
+OPPOSITE
+direction  of  the source of the
+noise, usually  from  the West, and find a
+door,
+[Ред.:
+Двери  на  юг  лично  мне  не
+помогали. Если вы уже находитесь за дверью
+на  юг, попытайтесь  выдвинуть  саркофаг и
+спрятаться  сверху:
+S, U, U
+]
+open it, and
+'WAIT'
+until the noise fades away, then go
+OUT
+and proceed
+EAST
+until you are at a
+GREEN
+door),
+[Ред.:
+Цвет  нужной  двери
+зависит  от  цвета  mortuary, который  вам
+сообщили. Ибо за дверью находится mortuary
+того же цвета.
+]
+EXAMINE LIGHTS
+(there are
+THREE
+colours  and  they  must  match the
+SECOND, THIRD
+and
+FOURTH
+colours of the
+Frozen  Crew Member's code.
+[Ред.:
+То есть
+первые три, не считая цвета mortuary. Этих
+mortuary и коридоров несметное количество.
+Первый  цвет  вы выбираете, идя по туннелю
+с  браслетом, третий - кнопкой  в лифте, а
+второй (и заодно  цвет mortuary) - сейчас.
+Потом   в  mortuary  вводите  последние
+3
+цвета.
+]
+If they don't, proceed
+EAST
+again
+until  you  reach  the next
+GREEN
+door and
+repeat the procedure, bearing in mind what
+to  do  if  you  hear  the noise! When the
+lights  match the
+SECOND, THIRD
+and
+FOURTH
+colours, in the
+SAME SEQUENCE
+.....),
+OPEN
+DOOR, N
+[Ред.:
+Может  быть  и
+S,
+двери в
+коридоре  чередуются  в  разные стороны.
+]
+(there  is a panel here and you must press
+the  buttons  corresponding  with the
+LAST
+THREE
+colours of the code, that is
+FIFTH,
+SIXTH
+and
+SEVENTH),
+PRESS ...
+(5th colour)
+BUTTON, PRESS ...
+(6th colour)
+... BUTTON,
+PRESS ...
+(7th colour)
+...BUTTON
+(a coffin
+slides out from an arpeture),
+N
+[Ред.:
+Или
+S,
+соответственно.
+],
+TAKE COFFIN,S
+[Ред.:
+или
+N,
+соответственно.
+],
+WAIT
+(several
+times, until the clanking sound approaches
+and eventually fades away)
+[Ред.:
+Только в
+том случае,если вы за дверью на север,т.е.
+зелёной],
+OPEN DOOR, S
+[Ред.:
+Или
+N,
+соот-
+ветственно.
+],
+E
+(continue
+EAST
+until you
+arrive at a button in the floor....bearing
+in  mind  the  procedure  if  you hear the
+clanking noise again!),
+N
+(a machine grabs
+and  opens the coffin to reveal the Frozen
+Crew Member!!),
+GIVE LIQUID
+(she drinks it
+and gives you the
+HABIDOME CODE
+....make a
+note of these
+THREE COLOURS
+).(Well,that's
+the  hard  bit  over!!.... now on with the
+adventure!!)
+
+S,  PUSH BUTTON,  S, PUSH BLACK BUTTON, N,
+W, W,
+[Ред.:
+Повторять, пока  не  появится
+выход наверх.
+]
+UP,S
+(continue
+SOUTH
+until
+you  arrive  at  an  Airlock),
+PUSH YELLOW
+BUTTON, S
+(You  are now back at the North
+End  of  the  Marblon  Cylinder. See Map 2
+[Ред.:
+Карту сами нарисуете;)
+]),
+S, S, S,
+WEAR HELMET,  PUSH YELLOW BUTTON,  S, PUSH
+YELLOW BUTTON, S, TAKE GUN, LIGHT LAMP, S,
+S, S, JUMP
+(you are told that there is no
+web  that  way, are you sure?),
+YES, SHOOT
+GUN
+(the  recoil  spins you and you float
+down),
+SHOOT GUN
+(you now have to quickly
+match  your  velocity with the fast-moving
+ice  below you!!),
+SHOOT GUN
+(That did the
+trick! You  are  now on a Flat Snowfield),
+DROP GUN, UP, UP, PUSH BUTTON
+(the Shuttle
+arrives),
+IN, PRESS BUTTON
+(on to the next
+Station),
+OUT,  DOWN,  DOWN,  IN,  PRESS
+BUTTON,  S,  PRESS YELLOW BUTTON,  S, DOWN
+(you  are  now  confronted  by  a Security
+Door. The  combination is the
+THREE COLOUR
+HABIDOME CODE
+given  to  you earlier when
+you revived the Frozen Crew Member),
+PRESS
+...
+(1st colour)
+...BUTTON, PRESS ...
+(2nd
+colour)
+... BUTTON, PRESS ...
+(3rd colour)
+...BUTTON
+(the door will now slide open!),
+IN.
+DOWN
+(the  Forest Glade is really a holo-
+gram!!),
+E, E, IN,  TAKE WAND, OUT, W, W,
+WAVE WAND
+(it whistles, and you are now in
+a Large Round Room),
+DROP WAND, DOWN, PUSH
+BUTTON,  DOWN,  PUSH YELLOW BUTTON,  DOWN,
+DOWN, WEAR GLASSES,  UP,  PUSH BUTTON, UP,
+PUSH YELLOW BUTTON,  UP, UP, SE, SE,  TAKE
+CAT, NW,  NW,  OPEN DOOR,  NE,  TAKE TRAY,
+OPEN DOOR,  SW,  UP,  OPEN DOOR,  OUT, UP,
+S,   TAKE CAN,  PUT CAN IN TOOLBOX,  CLOSE
+TOOLBOX,  TAKE FLASK,  N,  PUSH BUTTON, N,
+PUSH YELLOW BUTTON,  N, OUT, UP, UP,  PUSH
+BUTTON
+(to call the Monorail Shuttle),
+IN,
+PUSH BUTTON, PUSH BUTTON, OUT, DOWN, DOWN,
+TAKE SHOVEL, UP, UP, PUSH BUTTON, IN, PUSH
+BUTTON, PUSH BUTTON,  OUT, DOWN, DOWN, IN,
+DOWN, DOWN, S, TAKE CYLINDERS
+[Ред.:
+Пред-
+варительно  выбросьте
+STACKER LIFT,
+иначе
+рук  не хватит.
+],
+N, UP, UP, OUT, UP, UP,
+PUSH BUTTON, IN, PUSH BUTTON, PUSH BUTTON,
+OUT,  DOWN,  DOWN,  OPEN DOOR,   IN,  WEAR
+ARMOUR,   OPEN DOOR,  OUT,  UP,  UP,  PUSH
+BUTTON, IN, PUSH BUTTON, PUSH BUTTON, PUSH
+BUTTON, OUT, DOWN, DOWN, DIG
+(you  find a
+bunch  of  keys  and you are now in a Tiny
+Hole).
+
+DROP SHOVEL,   TAKE KEYS,   MEND SNOWDOZER
+(you  fix  the  tracks),
+DROP LANCE,  DROP
+CYLINDERS,  IN,  DOWN,  TAKE EXTINGUISHER,
+UP, TURN KEYS
+(you  are  now  advised  to
+leave  the Snowdozer!),
+OUT
+(the Snowdozer
+moves  off, pushing  ice  blocks  into the
+hole),
+DROP KEYS EXAMINE TRAY
+(it holds an
+Electro-Flute),
+TAKE FLUTE,  UP, UP, PUSH
+BUTTON, IN, PUSH BUTTON,  OUT, DOWN, DOWN,
+N, N
+(you  are now at the base of Jacob's
+Ladder, guarded  by  a massive Waldroid!),
+OPEN TOOLBOX
+(the   aerosol   paint  can
+explodes in the vacuum and blinds the Wal-
+droid!),
+UP, UP, UP, UP, N
+(the ramp here
+is  coated in 'unislime'),
+DROP CAT
+(likes
+slime, does  this  cat!!),
+UP, UP, UP, UP,
+OPEN DOOR, IN, ATTACH FLASK
+(the helmet is
+now recharged with air),
+W, WAVE TRAY
+(the
+tray  reflects a laser beam back on itself
+and  you  hear  an  explosion),
+W, S, OPEN
+DOOR, IN
+(a figure, holding a petrol bomb,
+warns  you to keep back!!),
+PLAY FLUTE
+(it
+shatters  the  bomb and engulfs the female
+figure in flames),
+PRESS EXTINGUISHER
+(the
+Nitrogen kills the fire),
+W, PULL LEVER.
+FINAL MESSAGE
+
+"It turns!... Engines roar!...The Snowball
+turns away from the sun....you have won!".
+"You scored 1000 out of 1000".
+[Ред.:
+Последнего  сообщения  я  не видел.
+Таким образом, непонятно, какой счёт полу-
+чился  у  меня. Видимо, тоже
+1000.
+До
+PULL
+LEVER
+было
+950
+.]

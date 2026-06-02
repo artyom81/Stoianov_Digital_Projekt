@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-04-24",
+  "order": 2,
+  "article_id": 344,
+  "title_link": "Проходилка - Описание адвентюры \"Red Hawk\".",
+  "title_h1": "Micro 03 - Проходилка - Описание адвентюры \"Red Hawk\".",
+  "print_url": "https://zxpress.ru/print.php?id=344",
+  "article_url": "https://zxpress.ru/article.php?id=344",
+  "fetched_at": "2026-05-31T22:25:14Z"
+}

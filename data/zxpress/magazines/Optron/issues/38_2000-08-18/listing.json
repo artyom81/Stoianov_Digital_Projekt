@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 4432,
+    "article_url": "https://zxpress.ru/article.php?id=4432",
+    "print_url": "https://zxpress.ru/print.php?id=4432",
+    "title_link": "Стихи - \"Магия стали\".",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "Стихи_-_Магия_стали"
+  },
+  {
+    "article_id": 4433,
+    "article_url": "https://zxpress.ru/article.php?id=4433",
+    "print_url": "https://zxpress.ru/print.php?id=4433",
+    "title_link": "Хобби - рассказ Gendalf'a об увличении хоббитизмом: Я - оружейник (продолжение).",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Хобби_-_рассказ_Gendalfa_об_увличении_хоббитизмом_Я_-_оружеи"
+  },
+  {
+    "article_id": 4434,
+    "article_url": "https://zxpress.ru/article.php?id=4434",
+    "print_url": "https://zxpress.ru/print.php?id=4434",
+    "title_link": "Страницы истории - Толкин: продолжение рассказа о жизни знаминитого писателя.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Страницы_истории_-_Толкин_продолжение_рассказа_о_жизни_знами"
+  },
+  {
+    "article_id": 4435,
+    "article_url": "https://zxpress.ru/article.php?id=4435",
+    "print_url": "https://zxpress.ru/print.php?id=4435",
+    "title_link": "Мнение - мнения знатоков фэнтези об этом жанре.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Мнение_-_мнения_знатоков_фэнтези_об_этом_жанре"
+  },
+  {
+    "article_id": 4436,
+    "article_url": "https://zxpress.ru/article.php?id=4436",
+    "print_url": "https://zxpress.ru/print.php?id=4436",
+    "title_link": "Реклама - реклама и обьявления во Львове.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_реклама_и_обьявления_во_Львове"
+  }
+]

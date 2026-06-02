@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1999-01-15",
+  "order": 14,
+  "article_id": 8284,
+  "title_link": "Модем - О проблеме при подключении модемов к машинам с раздельными полями памяти.",
+  "title_h1": "KrNews 07 - Модем - О проблеме при подключении модемов к машинам с раздельными полями памяти.",
+  "print_url": "https://zxpress.ru/print.php?id=8284",
+  "article_url": "https://zxpress.ru/article.php?id=8284",
+  "fetched_at": "2026-05-31T22:17:28Z"
+}

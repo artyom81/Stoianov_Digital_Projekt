@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 10068,
+    "article_url": "https://zxpress.ru/article.php?id=10068",
+    "print_url": "https://zxpress.ru/print.php?id=10068",
+    "title_link": "News - впечатление Alone Coder'a о CC'2004.",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "News_-_впечатление_Alone_Codera_о_CC2004"
+  },
+  {
+    "article_id": 10069,
+    "article_url": "https://zxpress.ru/article.php?id=10069",
+    "print_url": "https://zxpress.ru/print.php?id=10069",
+    "title_link": "Music - предсказание участников музыкального конкурса на Chaos Construction 2004.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "Music_-_предсказание_участников_музыкального_конкурса_на_Cha"
+  },
+  {
+    "article_id": 10070,
+    "article_url": "https://zxpress.ru/article.php?id=10070",
+    "print_url": "https://zxpress.ru/print.php?id=10070",
+    "title_link": "Demoparty - КАСик из Sinclair Club организует KIDSOFT'2004.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Demoparty_-_КАСик_из_Sinclair_Club_организует_KIDSOFT2004"
+  },
+  {
+    "article_id": 10071,
+    "article_url": "https://zxpress.ru/article.php?id=10071",
+    "print_url": "https://zxpress.ru/print.php?id=10071",
+    "title_link": "Мысли - ПОТРЕБИТЕЛЬСТВО - ЭТО ТВОЯ СМЕРТЬ.",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Мысли_-_ПОТРЕБИТЕЛЬСТВО_-_ЭТО_ТВОЯ_СМЕРТЬ"
+  },
+  {
+    "article_id": 10072,
+    "article_url": "https://zxpress.ru/article.php?id=10072",
+    "print_url": "https://zxpress.ru/print.php?id=10072",
+    "title_link": "Contacts - Список Заслуженных Пользователей AC Edit.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Contacts_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "33",
+  "issue_date_iso": "1997-05-21",
+  "order": 4,
+  "article_id": 2927,
+  "title_link": "Устав SpbZxNet - Памятка начинающим пользователям сети SpbZxNet v2.01.",
+  "title_h1": "ZX-News 33 - Устав SpbZxNet - Памятка начинающим пользователям сети SpbZxNet v2.01.",
+  "print_url": "https://zxpress.ru/print.php?id=2927",
+  "article_url": "https://zxpress.ru/article.php?id=2927",
+  "fetched_at": "2026-05-31T23:29:31Z"
+}

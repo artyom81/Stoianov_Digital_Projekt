@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 66,
+    "article_url": "https://zxpress.ru/article.php?id=66",
+    "print_url": "https://zxpress.ru/print.php?id=66",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - JAM-BBS.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_JAM-BBS"
+  },
+  {
+    "article_id": 1960,
+    "article_url": "https://zxpress.ru/article.php?id=1960",
+    "print_url": "https://zxpress.ru/print.php?id=1960",
+    "title_link": "E-MAIL - Информация о сети Fidonet.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "E-MAIL_-_Информация_о_сети_Fidonet"
+  },
+  {
+    "article_id": 1962,
+    "article_url": "https://zxpress.ru/article.php?id=1962",
+    "print_url": "https://zxpress.ru/print.php?id=1962",
+    "title_link": "Scorpion Club - Открыта новая B.B.S. О разработке новой TR-DOS совместимой оболочки.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Scorpion_Club_-_Открыта_новая_BBS_О_разработке_новои_TR-DOS"
+  },
+  {
+    "article_id": 1963,
+    "article_url": "https://zxpress.ru/article.php?id=1963",
+    "print_url": "https://zxpress.ru/print.php?id=1963",
+    "title_link": "Железо - ТУРБО ВГ в компьютерах фирмы Grandrommax.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Железо_-_ТУРБО_ВГ_в_компьютерах_фирмы_Grandrommax"
+  },
+  {
+    "article_id": 1961,
+    "article_url": "https://zxpress.ru/article.php?id=1961",
+    "print_url": "https://zxpress.ru/print.php?id=1961",
+    "title_link": "Заметки СисОпа - Правила пользования ZX-Magazine BBS-2...",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Заметки_СисОпа_-_Правила_пользования_ZX-Magazine_BBS-2"
+  },
+  {
+    "article_id": 1964,
+    "article_url": "https://zxpress.ru/article.php?id=1964",
+    "print_url": "https://zxpress.ru/print.php?id=1964",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

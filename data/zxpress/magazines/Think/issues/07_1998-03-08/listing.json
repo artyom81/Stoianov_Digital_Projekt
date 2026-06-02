@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4119,
+    "article_url": "https://zxpress.ru/article.php?id=4119",
+    "print_url": "https://zxpress.ru/print.php?id=4119",
+    "title_link": "От автора - вот и вышел седьмой номер...",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "От_автора_-_вот_и_вышел_седьмои_номер"
+  },
+  {
+    "article_id": 4120,
+    "article_url": "https://zxpress.ru/article.php?id=4120",
+    "print_url": "https://zxpress.ru/print.php?id=4120",
+    "title_link": "Проходилка - прохождение игры \"Занни\"",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Проходилка_-_прохождение_игры_Занни"
+  },
+  {
+    "article_id": 4121,
+    "article_url": "https://zxpress.ru/article.php?id=4121",
+    "print_url": "https://zxpress.ru/print.php?id=4121",
+    "title_link": "Обзор новинок - Putup (demo).",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Обзор_новинок_-_Putup_demo"
+  },
+  {
+    "article_id": 4122,
+    "article_url": "https://zxpress.ru/article.php?id=4122",
+    "print_url": "https://zxpress.ru/print.php?id=4122",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4123,
+    "article_url": "https://zxpress.ru/article.php?id=4123",
+    "print_url": "https://zxpress.ru/print.php?id=4123",
+    "title_link": "Игра для ума - Находчивый комендант, числовые орешки.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Игра_для_ума_-_Находчивыи_комендант_числовые_орешки"
+  },
+  {
+    "article_id": 4125,
+    "article_url": "https://zxpress.ru/article.php?id=4125",
+    "print_url": "https://zxpress.ru/print.php?id=4125",
+    "title_link": "Юмор - анекдот про армию.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Юмор_-_анекдот_про_армию"
+  },
+  {
+    "article_id": 4126,
+    "article_url": "https://zxpress.ru/article.php?id=4126",
+    "print_url": "https://zxpress.ru/print.php?id=4126",
+    "title_link": "Wanted - Розыск программ...",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Wanted_-_Розыск_программ"
+  },
+  {
+    "article_id": 4127,
+    "article_url": "https://zxpress.ru/article.php?id=4127",
+    "print_url": "https://zxpress.ru/print.php?id=4127",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

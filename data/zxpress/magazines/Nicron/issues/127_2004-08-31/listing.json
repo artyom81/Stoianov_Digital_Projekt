@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6080,
+    "article_url": "https://zxpress.ru/article.php?id=6080",
+    "print_url": "https://zxpress.ru/print.php?id=6080",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "127",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6081,
+    "article_url": "https://zxpress.ru/article.php?id=6081",
+    "print_url": "https://zxpress.ru/print.php?id=6081",
+    "title_link": "События - глобальный отчет: 4-й Международный фестиваль компьютерного искусства \"Chaos Constructions 2004\".",
+    "order": 2,
+    "issue_label": "127",
+    "short_slug": "События_-_глобальныи_отчет_4-и_Международныи_фестиваль_компь"
+  },
+  {
+    "article_id": 6082,
+    "article_url": "https://zxpress.ru/article.php?id=6082",
+    "print_url": "https://zxpress.ru/print.php?id=6082",
+    "title_link": "События - официальные результаты Chaos Construction 2004.",
+    "order": 3,
+    "issue_label": "127",
+    "short_slug": "События_-_официальные_результаты_Chaos_Construction_2004"
+  },
+  {
+    "article_id": 6083,
+    "article_url": "https://zxpress.ru/article.php?id=6083",
+    "print_url": "https://zxpress.ru/print.php?id=6083",
+    "title_link": "Интервью - интервью с новообразованной группой железячников из Москвы: NedoPC team/group.",
+    "order": 4,
+    "issue_label": "127",
+    "short_slug": "Интервью_-_интервью_с_новообразованнои_группои_железячников"
+  },
+  {
+    "article_id": 6084,
+    "article_url": "https://zxpress.ru/article.php?id=6084",
+    "print_url": "https://zxpress.ru/print.php?id=6084",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 5,
+    "issue_label": "127",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

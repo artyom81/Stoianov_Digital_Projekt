@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 13423,
+    "article_url": "https://zxpress.ru/article.php?id=13423",
+    "print_url": "https://zxpress.ru/print.php?id=13423",
+    "title_link": "Введение - Быстро летит время,\r\n вот и ENLIGHT'97 закончился в Питере.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Введение_-_Быстро_летит_время_вот_и_ENLIGHT97_закончился_в_П"
+  },
+  {
+    "article_id": 13424,
+    "article_url": "https://zxpress.ru/article.php?id=13424",
+    "print_url": "https://zxpress.ru/print.php?id=13424",
+    "title_link": "Обзор - В этом разделе, как обычно, я познаком\r\n лю с новинками программного обеспечения\r\n которые поступили в Чайковский в послед\r\n ние дни лета.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Обзор_-_В_этом_разделе_как_обычно_я_познаком_лю_с_новинками"
+  },
+  {
+    "article_id": 13425,
+    "article_url": "https://zxpress.ru/article.php?id=13425",
+    "print_url": "https://zxpress.ru/print.php?id=13425",
+    "title_link": "Хит-Парад - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Хит-Парад_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13426,
+    "article_url": "https://zxpress.ru/article.php?id=13426",
+    "print_url": "https://zxpress.ru/print.php?id=13426",
+    "title_link": "Проходилка - продолжение\r\n описания игры PIJAMARAMA.",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Проходилка_-_продолжение_описания_игры_PIJAMARAMA"
+  },
+  {
+    "article_id": 13427,
+    "article_url": "https://zxpress.ru/article.php?id=13427",
+    "print_url": "https://zxpress.ru/print.php?id=13427",
+    "title_link": "Юмор - РЕВОЛЮЦИЯ В МОХЛАНДИИ.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Юмор_-_РЕВОЛЮЦИЯ_В_МОХЛАНДИИ"
+  },
+  {
+    "article_id": 13428,
+    "article_url": "https://zxpress.ru/article.php?id=13428",
+    "print_url": "https://zxpress.ru/print.php?id=13428",
+    "title_link": "Конкурс - Для читателей газеты ZX - PARK об'является конкурс на лучшее описание игровой\r\n программы.",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Конкурс_-_Для_читателеи_газеты_ZX_-_PARK_обявляется_конкурс"
+  },
+  {
+    "article_id": 13429,
+    "article_url": "https://zxpress.ru/article.php?id=13429",
+    "print_url": "https://zxpress.ru/print.php?id=13429",
+    "title_link": "Реклама - Желающие подать об'явление в газету\r\n ZX - PARK могут обратиться по адресу\r\n Мира 28 - 25.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Желающие_подать_обявление_в_газету_ZX_-_PARK_могут"
+  }
+]

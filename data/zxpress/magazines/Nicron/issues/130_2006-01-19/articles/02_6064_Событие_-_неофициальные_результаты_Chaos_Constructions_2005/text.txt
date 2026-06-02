@@ -1,0 +1,76 @@
+Nicron 130 - Событие - неофициальные результаты Chaos Constructions 2005.
+Chaos Constructions 2005
+		 (Saint Petersburg 20- 21.08)
+illegal results v0.3
+legend:
+
+##.          place
+    #.###    collected points
+          ## shown
+ZX SPECTRUM GFX (01)
+01. 7.221 11 Mysterious                   Dm (ex-Dimidrol)
+02. 7.000 01 Forever                      Rion
+03. 6.540 03 Flash                        Rion
+04. 6.404 05 Hочной прибой                Liza
+05. 6.094 08 Одинокий волк                Liza
+06. 5.546 07 Рыба                         Saab
+07. 5.240 09 Love Fear                    Moran/CyberPunks Unity
+08. 5.188 10 Yes, it's me                 Pharcide/Nitrox
+09. 4.990 04 Автокросс                    Kasik/Sinclair Club
+10. 4.980 02 Afreekaanjoy                 Sand/Mayhem
+11. 3.918 06 Tetka                        Hobbit/Siberian Group
+ZX SPECTRUM MUSIC (02)
+01. 6.097 01 Trank u. Takit money and run Rkluch
+02. 5.788 02 Tune-Final                   S. A. V.
+03. 5.759 05 Hi CC05 visitors             Mmcm/Sage
+04. 5.232 09 Elbymzk                      Asi
+05. 5.214 06 Party                        Scarab/Siberian Group
+06. 5.181 11 ParaCC05                     Moran/CyberPunks Unity
+07. 5.099 07 Scary Sheep (With Pointed Theeth)
+                                          Gasman/Hooy-program
+08. 5.053 03 Sinusoida (Demoversion)      Splinter/Trinitrocode
+09. 4.768 04 z0rg's steps                 Scalesmann/March Cats
+10. 4.550 08 Kkolor                       Jeffie/Brainwave
+11. 4.222 10 No Power                     Karbofos
+8BIT: 512b INTRO (03)
+01. 6.300 02 E6/|auHc                     Hobbit/Siberian Group
+02. 5.298 01 Matr!x                       Hobbit/Siberian Group
+             Ircircle                     Bolek & Zubrik (*)
+8BIT: 4k INTRO (04)
+Why me?                      Сергей Рыбаков
+ZX SPECTRUM REALTIME MUSIC COMPO (11)
+01. 6.941 03 Mind Overside                Moran/CyberPunks Unity
+02. 4.047 01 Objection                    Elfh/CyberPunks Unity
+03. 4.038 02 Artifical Breath             sq/skrju
+ZX SPECTRUM REALTIME CODERS COMPO (14)
+01. 6.011 02 No more                      Alff/CyberPunks Unity
+02. 5.841 05 Wonderful day                Newart/n-Discovery
+03. 5.702 03 3.5 mhz                      Sergei Smirnov
+04. 5.487 04 Circle                       Hedj
+05. 3.933 01 Sux                          MadCat!
+8BIT: 640kb DEMO (15)
+01. 7.429 05 Kkolor                       Triebkraft &
+					   4th Dimension
+02. 7.125 06 I am the seed                Inward/CyberPunks
+							Unity
+03. 6.460 03 CPU loves you!               CyberPunks Unity
+04. 5.842 02 Waves                        CyberPunks Unity
+05. 5.353 04 USSR2185                     skrju
+06. 4.162 01 CC 2004 invitation           skrju
+ADDITIONAL INFO
+* Ircircle by Bolek & Zubrik (ZX Spectrum 512b intro) -
+    disqualifed
+ ** In canon space by Fayka (Mobile/Handheld: 64kb intro) -
+    special diploma
+*** Jam by fOx and Lost Soul (PC/Amiga: 64kb intro) -
+    CC'05 winner
+
+    compo #08 (Mobile/Handheld 1mb demo compo) and #13
+    (8bit: 640kb game compo) were failed,
+    because of owning to 0 of works.
+last compilation: 24.08.2005 16:00
+
+    results compiled by Jeffie/BW,
+    fixed by Diver/4D
+http://cc5.org.ru
+    ftp://ftp.cc5.org.ru

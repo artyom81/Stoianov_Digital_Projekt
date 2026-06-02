@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 3167,
+    "article_url": "https://zxpress.ru/article.php?id=3167",
+    "print_url": "https://zxpress.ru/print.php?id=3167",
+    "title_link": "BBS NEWS - График работы BBS на неделю.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "BBS_NEWS_-_График_работы_BBS_на_неделю"
+  },
+  {
+    "article_id": 3171,
+    "article_url": "https://zxpress.ru/article.php?id=3171",
+    "print_url": "https://zxpress.ru/print.php?id=3171",
+    "title_link": "Spectrum Forevor? - Что нас ждет годика через полтора?..",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Spectrum_Forevor_-_Что_нас_ждет_годика_через_полтора"
+  },
+  {
+    "article_id": 3169,
+    "article_url": "https://zxpress.ru/article.php?id=3169",
+    "print_url": "https://zxpress.ru/print.php?id=3169",
+    "title_link": "Ассемблер для user - Заполнение экрана \"*\".",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Ассемблер_для_user_-_Заполнение_экрана"
+  },
+  {
+    "article_id": 3166,
+    "article_url": "https://zxpress.ru/article.php?id=3166",
+    "print_url": "https://zxpress.ru/print.php?id=3166",
+    "title_link": "Вступление - MOVE - празднует пол года своего существования.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_MOVE_-_празднует_пол_года_своего_существования"
+  },
+  {
+    "article_id": 3173,
+    "article_url": "https://zxpress.ru/article.php?id=3173",
+    "print_url": "https://zxpress.ru/print.php?id=3173",
+    "title_link": "Давайте познакомимся - Рассказ от CODEMAN'а о себе.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Даваите_познакомимся_-_Рассказ_от_CODEMANа_о_себе"
+  },
+  {
+    "article_id": 3172,
+    "article_url": "https://zxpress.ru/article.php?id=3172",
+    "print_url": "https://zxpress.ru/print.php?id=3172",
+    "title_link": "Компьютерные пираты - Митник: преступление или жертва (продолжение).",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Компьютерные_пираты_-_Митник_преступление_или_жертва_продолж"
+  },
+  {
+    "article_id": 3174,
+    "article_url": "https://zxpress.ru/article.php?id=3174",
+    "print_url": "https://zxpress.ru/print.php?id=3174",
+    "title_link": "Опрос - Результаты опроса Беларусских спектрумистов.",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Опрос_-_Результаты_опроса_Беларусских_спектрумистов"
+  },
+  {
+    "article_id": 3170,
+    "article_url": "https://zxpress.ru/article.php?id=3170",
+    "print_url": "https://zxpress.ru/print.php?id=3170",
+    "title_link": "Улыбнитесь - Собрание приколов Минского радиотехнического колледжа.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Улыбнитесь_-_Собрание_приколов_Минского_радиотехнического_ко"
+  },
+  {
+    "article_id": 3168,
+    "article_url": "https://zxpress.ru/article.php?id=3168",
+    "print_url": "https://zxpress.ru/print.php?id=3168",
+    "title_link": "Хроника 930 - Праздник Пива.",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Хроника_930_-_Праздник_Пива"
+  }
+]

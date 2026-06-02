@@ -1,0 +1,158 @@
+ACNews 62 -  ZX Spectrum demoscene: DiHalt Lite 2016 thoughts - Sadly this DiHalt Lite hasn&#039;t become "united and main" Spectrum demoparty despite the hopes.
+ZX Spectrum demoscene: DiHalt Lite 2016 thoughts
+by Alone Coder
+Sadly this DiHalt Lite hasn't become "united and main" Spectrum
+demoparty despite the hopes. A year ago they united with Chaos
+Constructions that had its own circle of authors, but this 
+winter it was skipped. Because of huge number of Spectrum
+democompos in 2015 the authors couldn't accumulate material for
+serious releases. As a result, the first places were taken not
+by Spectrum works but by a BK-0011 demo and a C-64 picture.
+
+An idea emerged from somewhere that "to make a cow eat less and
+give more milk, feed it less and milk it more". This resulted in
+multiplying parties and falling the average quality of prods
+below the last place at Enlight'96.
+
+It seems that unless the number of demoparties returns to norm,
+the queue of poor works, discrediting ZX Spectrum, won't stop.
+Strong works will be rare and won't compete at a single
+demoparty.
+
+Demoparties today repeat each other, even the voting is
+frequently made with one "zapilyator". And each of them doesn't
+want to close. The best compromise for Spectrum in this
+situation would be transforming one of them into "Spectrum only,
+any Spectrum, demo only, realtime only" party, maybe changing
+the "show" format to "seminar" format.
+
+The first point - "Spectrum only" - will make the party more
+aimed (something like X for C-64, where the strongest works
+appear). Mixing all the 8-bit computers together might look
+fashionable - but there are a lot parties like this, including
+the biggest European ones.
+Attempts to dilute ZX Spectrum prods with emulator stuff also
+gave nothing to the platform. Although the desire of some
+organizers is understandable, to snatch a great deal of works
+for their one party of dozen in existence - works of any
+quality, and to make friends even with devil for that.
+
+The second point - "any Spectrum" - will improve originality in
+works. Historically inauthentic limitation "128К or Pentagon
+128+AY", forced by certain people in some of recent parties,
+only made the situation worse.
+
+The inadequacy of this limitation (it is not self-generated - 
+its promoters are known by name) can be seen at least because: 
+- there are 6 years between these configurations, different 
+generations of data medium, and Pentagon 128+AY is not a 
+definite machine but a home-made thing with arbitrary filling, 
+including at least one add-on; 
+- neither of these configurations was a "top one" (Timex 
+Sinclair 2068 and its CP/M compatible disk system appeared 
+before the light Spectrum 128K - extra memory was initially a 
+virtual disk; they were released in different countries; as for 
+AY interface for Pentagon 128, there are no traces of it before 
+the appearance of Profi); 
+- circulation of all the 128K models combined comprises a tiny 
+part of all Spectrums (less than 48K by order of magnitude, down 
+to zero in some countries); 
+- even in circles where 48K were excluded (ZX-Net nodes), the 
+share of 128K models according to polls never exceeded 74% - 
+even locally and even ignoring the add-ons - the maximum was in 
+1997 with quick decline in favour of >=256K by 1999: 
+Moscow (ZX-Net), April 1996 - 79 (61%) 128K, 39 (30%) >=256K 
+http://www.zxpress.ru/article.php?id=2073 
+mostly Moscow (ZX-Net), May 1997 - 49 (74%) 128K, 17 (26%) 
+>=256K http://www.zxpress.ru/article.php?id=1322 
+Saint-Petersburg (ZX-Format purchasers), July 1997 - 31% 128K, 
+49% >=256K http://www.zxpress.ru/article.php?id=9885 
+ZX.SPECTRUM (FidoNet), July 1997 - 9 (25%) 128K, 24 (67%) >=256K 
+http://www.zxpress.ru/article.php?id=4745
+Gomel, December 1997 - 21 (70%) 128K, 6 (20%) >=256K 
+http://www.zxpress.ru/article.php?id=3258
+Krasnodar, June 1998 - 9 (64%) 128K, 2 (14%) >=256K 
+http://www.zxpress.ru/article.php?id=9119
+ZX-Net, January 1999 - 42% 128K, 48% >=256K 
+http://www.zxpress.ru/article.php?id=7181
+Omsk, January 1999 - 3 (25%) 128K, 6 (50%) >=512K 
+http://www.zxpress.ru/article.php?id=11366
+CIS or xUSSR, July 2000 - 9 (15%) 128K, 52 (85%) >=256K 
+http://www.zxpress.ru/article.php?id=4417
+Rostov-on-Don, July 2001 - 50% 128K, the rest >=256K (with wrong 
+sum) 
+http://www.zxpress.ru/article.php?id=7322
+Izhevsk, July 2001 - 100% >=512K 
+http://www.zxpress.ru/article.php?id=9429
+- the share of 128K only software is not big on the whole. As 
+for demos, 128K demos prevail no earlier than August 1998 (this 
+is easily traced in Chip ZX collection, with software sorted by 
+date of arrival and with labelled hardware requirements in the 
+catalog). Moreover, since Demobit'1996, Doxycon 1998, 
+ArtComp'98, Paradox'99, Cafe'999, and CC'999, compo machines 
+included add-ons, unfortunately different ones; 
+- despite the compatibility and circulation problems, different 
+authors wrote up to one thousand software titles for various 
+devices above this limitation (it's hard to say "extra devices", 
+as 128К was "extra memory" in our youth, too). This includes 
+about 200 demos and intros. 
+
+The returning interest to Timex and Profi is thereupon very
+promising. As well as the long-going movement at Pentagon 1024 
+and ATM Turbo that are far from exhausting the potentialities.
+Today, unlike the 90's, there is no problem to run any software.
+
+All this hardware is known, so the audience won't have troubles 
+in judging how efficiently it's used. For example, everyone 
+understands that a demo for the original Speccy has 3 times less 
+of available RAM, as compared to 128K, and the only screen area 
+(so there are beam problems and limitations on multicolor 
+types). If we consider higher class in the form of Pentagon 
+128+AY, we take into account its fast memory (which means speed 
+up and tempting ease of sync), high border resolution, and the 
+disk drive from where you can load in background and almost 
+instantly. It's obvious that demos like Eye Ache 2, Refresh, or 
+Stellar Contour can't run from tape - with loading parts three 
+times as big as in 48K demos where they are already long. Demos 
+supporting turbo mode allow smoother 3D (maybe even ideal for 
+those Profi users who soldered 20 MHz, and this is hardly the 
+limit) but they are limited in some of coding techniques, 
+multicolors, digital sounds, and border effects. On the other 
+hand, demos for Timex, upgraded Pentagons, ATM, Profi etc can 
+avoid multicolor by using hardware videomodes. General Sound 
+returns digital sound for demos supporting turbo mode, and also 
+saves RAM and t-states for music, with richer sound. And so on. 
+The only question here is about inclusion of SAM Coupe' that had 
+separate community for a long time. Of the old sceners, Y... 
+supports this inclusion. Possible arguments, apart from current 
+decoding of SAM as "Spectrum Advanced Machine", might be seeming 
+succession to Timex (so unusual frequencies aren't strange, 
+especially as Pentagon 48/128 also has unusual frequencies and 
+even lacks AY, too), and the memory mapping blows memories 
+about very old 80K extension  to stock 48K with two 32K banks. 
+
+The third point - "demo only" - will concentrate the authors'
+efforts. This generally applies to graphicians and composers
+that usually have no time for demo because they need solo
+releases at every party :)
+
+The fourth point - "realtime only" - is intended to return the
+former quality of demos (based on definition "Realtime demo" at
+European PC demoparties or on formula "pure animation is
+forbidden" in rules of old Russian demoparties), after many
+years of degradation.
+
+One notable observation is that degradation is glorified as a 
+form of art by the same circles that support multiplying 
+parties, castration of ZX Spectrum, and hooliganism on scene. 
+Maybe they don't so want bad for the platform (they might never 
+mind about its future), if they are defending their mode of 
+life. Anyway the sequences are seen - Russian-language 
+IRC-channels turned into streams of mud, zx.pk.ru forum became 
+desolate after mass attacks and trolling, somebody hesitates to 
+release the already written software (S...), and some people 
+even decide to quit the Spectrum scene with wording like "it's 
+no more interesting to me" (N...) and "it became unpleasant to 
+communicate" (S...). However the heart of the scene in its best 
+years was not between internet loudmouths, but in more moderate 
+private correspondence and informational press.

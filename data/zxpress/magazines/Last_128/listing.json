@@ -1,0 +1,59 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 10
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "08",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "09",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "3.5",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "8.025",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "M!R 01",
+      "issue_date_iso": "2002-01-01",
+      "articles_count": 8
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 107,
+  "magazine_name": "KrNews",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1999-05-18",
+  "order": 10,
+  "article_id": 8315,
+  "title_link": "Взгляд - Тест \"Не гений ли вы?\".",
+  "title_h1": "KrNews 09 - Взгляд - Тест \"Не гений ли вы?\".",
+  "print_url": "https://zxpress.ru/print.php?id=8315",
+  "article_url": "https://zxpress.ru/article.php?id=8315",
+  "fetched_at": "2026-05-31T22:17:40Z"
+}

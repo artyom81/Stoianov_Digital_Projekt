@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "14",
+  "issue_date_iso": "1999-02-13",
+  "order": 3,
+  "article_id": 5185,
+  "title_link": "Эмуляторы - обзор эмуляторов Спектрума.",
+  "title_h1": "Micro 14 - Эмуляторы - обзор эмуляторов Спектрума.",
+  "print_url": "https://zxpress.ru/print.php?id=5185",
+  "article_url": "https://zxpress.ru/article.php?id=5185",
+  "fetched_at": "2026-05-31T22:25:38Z"
+}

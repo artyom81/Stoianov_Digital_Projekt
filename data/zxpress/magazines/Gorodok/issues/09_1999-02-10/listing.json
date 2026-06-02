@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 17351,
+    "article_url": "https://zxpress.ru/article.php?id=17351",
+    "print_url": "https://zxpress.ru/print.php?id=17351",
+    "title_link": "Вступление - От редакции. Содержание номера.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_От_редакции_Содержание_номера"
+  },
+  {
+    "article_id": 17352,
+    "article_url": "https://zxpress.ru/article.php?id=17352",
+    "print_url": "https://zxpress.ru/print.php?id=17352",
+    "title_link": "Армейская Рубрика - Тарас всё продолжает присылать материалы из Армии...",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Армеиская_Рубрика_-_Тарас_все_продолжает_присылать_материалы"
+  },
+  {
+    "article_id": 17353,
+    "article_url": "https://zxpress.ru/article.php?id=17353",
+    "print_url": "https://zxpress.ru/print.php?id=17353",
+    "title_link": "Юмор - Крестовый поход или Вася в прыщавых беретах.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Юмор_-_Крестовыи_поход_или_Вася_в_прыщавых_беретах"
+  },
+  {
+    "article_id": 17354,
+    "article_url": "https://zxpress.ru/article.php?id=17354",
+    "print_url": "https://zxpress.ru/print.php?id=17354",
+    "title_link": "ASM vs SNS - Просьба к издателям поместить это письмо во все спектрумистские газеты и во все эхи.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "ASM_vs_SNS_-_Просьба_к_издателям_поместить_это_письмо_во_все"
+  },
+  {
+    "article_id": 17355,
+    "article_url": "https://zxpress.ru/article.php?id=17355",
+    "print_url": "https://zxpress.ru/print.php?id=17355",
+    "title_link": "Credits - Мнения редакции не всегда совпадают с мнением автора статьи.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Credits_-_Мнения_редакции_не_всегда_совпадают_с_мнением_авто"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-30",
+  "order": 7,
+  "article_id": 381,
+  "title_link": "Апперативчик - Об оболочке журнала и управлении в ней.",
+  "title_h1": "Deja Vu 01 - Апперативчик - Об оболочке журнала и управлении в ней.",
+  "print_url": "https://zxpress.ru/print.php?id=381",
+  "article_url": "https://zxpress.ru/article.php?id=381",
+  "fetched_at": "2026-05-31T21:54:03Z"
+}

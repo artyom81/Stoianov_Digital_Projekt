@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 6,
+    "article_url": "https://zxpress.ru/article.php?id=6",
+    "print_url": "https://zxpress.ru/print.php?id=6",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "54",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2373,
+    "article_url": "https://zxpress.ru/article.php?id=2373",
+    "print_url": "https://zxpress.ru/print.php?id=2373",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "54",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2372,
+    "article_url": "https://zxpress.ru/article.php?id=2372",
+    "print_url": "https://zxpress.ru/print.php?id=2372",
+    "title_link": "Застрял ? - Описание игры \"The Master of Magic\".",
+    "order": 3,
+    "issue_label": "54",
+    "short_slug": "Застрял_-_Описание_игры_The_Master_of_Magic"
+  },
+  {
+    "article_id": 2370,
+    "article_url": "https://zxpress.ru/article.php?id=2370",
+    "print_url": "https://zxpress.ru/print.php?id=2370",
+    "title_link": "Мозаика - Письмо из Белорусии от VFNG/NHG .\r\n Давайте придумаем \"идеальную читалку\". О журнале \"Спектрофон #20\" и когда же он выйдет.\r\n Cheat'ы к играм : Raw Recruit, ZUB.",
+    "order": 4,
+    "issue_label": "54",
+    "short_slug": "Мозаика_-_Письмо_из_Белорусии_от_VFNGNHG_Даваите_придумаем_и"
+  },
+  {
+    "article_id": 2371,
+    "article_url": "https://zxpress.ru/article.php?id=2371",
+    "print_url": "https://zxpress.ru/print.php?id=2371",
+    "title_link": "Непроверен.сведенья - Новая рубрика ! Слухи, касающиеся Speccy.\r\n Пятого номера журнал \"ZX-Format\" НЕ ждите.",
+    "order": 5,
+    "issue_label": "54",
+    "short_slug": "Непроверенсведенья_-_Новая_рубрика_Слухи_касающиеся_Speccy_П"
+  },
+  {
+    "article_id": 2369,
+    "article_url": "https://zxpress.ru/article.php?id=2369",
+    "print_url": "https://zxpress.ru/print.php?id=2369",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "54",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

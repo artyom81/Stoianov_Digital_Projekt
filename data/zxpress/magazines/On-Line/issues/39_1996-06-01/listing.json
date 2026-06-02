@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 62,
+    "article_url": "https://zxpress.ru/article.php?id=62",
+    "print_url": "https://zxpress.ru/print.php?id=62",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2104,
+    "article_url": "https://zxpress.ru/article.php?id=2104",
+    "print_url": "https://zxpress.ru/print.php?id=2104",
+    "title_link": "HOT GAMES - Лучшая десятка от MagicC Soft.",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_MagicC_Soft"
+  },
+  {
+    "article_id": 2102,
+    "article_url": "https://zxpress.ru/article.php?id=2102",
+    "print_url": "https://zxpress.ru/print.php?id=2102",
+    "title_link": "Железо - Световой пистолет для Speccy.",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Железо_-_Световои_пистолет_для_Speccy"
+  },
+  {
+    "article_id": 2103,
+    "article_url": "https://zxpress.ru/article.php?id=2103",
+    "print_url": "https://zxpress.ru/print.php?id=2103",
+    "title_link": "Застрял ? - Вторая часть \"подсказок из подземелья\" (The Bards of Tale).",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "Застрял_-_Вторая_часть_подсказок_из_подземелья_The_Bards_of"
+  },
+  {
+    "article_id": 2101,
+    "article_url": "https://zxpress.ru/article.php?id=2101",
+    "print_url": "https://zxpress.ru/print.php?id=2101",
+    "title_link": "Мозаика - НЛО-2, распространяемый в Москве. Небольшая заметка о работе Alex-BBS.",
+    "order": 5,
+    "issue_label": "39",
+    "short_slug": "Мозаика_-_НЛО-2_распространяемыи_в_Москве_Небольшая_заметка"
+  },
+  {
+    "article_id": 2105,
+    "article_url": "https://zxpress.ru/article.php?id=2105",
+    "print_url": "https://zxpress.ru/print.php?id=2105",
+    "title_link": "Новости ZXNet - ZXNet \"вышла\" в Internet. Обращение к поклонникам ZX-Spectrum'a.",
+    "order": 6,
+    "issue_label": "39",
+    "short_slug": "Новости_ZXNet_-_ZXNet_вышла_в_Internet_Обращение_к_поклонник"
+  },
+  {
+    "article_id": 2100,
+    "article_url": "https://zxpress.ru/article.php?id=2100",
+    "print_url": "https://zxpress.ru/print.php?id=2100",
+    "title_link": "Реклама - Реклама и об'явления ...",
+    "order": 7,
+    "issue_label": "39",
+    "short_slug": "Реклама_-_Реклама_и_обявления"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 5920,
+    "article_url": "https://zxpress.ru/article.php?id=5920",
+    "print_url": "https://zxpress.ru/print.php?id=5920",
+    "title_link": "Несколько слов - внеочередной genz 3.5.",
+    "order": 1,
+    "issue_label": "3.5",
+    "short_slug": "Несколько_слов_-_внеочереднои_genz_35"
+  },
+  {
+    "article_id": 5921,
+    "article_url": "https://zxpress.ru/article.php?id=5921",
+    "print_url": "https://zxpress.ru/print.php?id=5921",
+    "title_link": "сроки проведения respect'a - всеобщая перепись спектрумистов.",
+    "order": 2,
+    "issue_label": "3.5",
+    "short_slug": "сроки_проведения_respecta_-_всеобщая_перепись_спектрумистов"
+  },
+  {
+    "article_id": 5922,
+    "article_url": "https://zxpress.ru/article.php?id=5922",
+    "print_url": "https://zxpress.ru/print.php?id=5922",
+    "title_link": "Respect - анкета: всеобщая перепись спектрумистов.",
+    "order": 3,
+    "issue_label": "3.5",
+    "short_slug": "Respect_-_анкета_всеобщая_перепись_спектрумистов"
+  },
+  {
+    "article_id": 5923,
+    "article_url": "https://zxpress.ru/article.php?id=5923",
+    "print_url": "https://zxpress.ru/print.php?id=5923",
+    "title_link": "Первые итоги - переписи спектрумистов.",
+    "order": 4,
+    "issue_label": "3.5",
+    "short_slug": "Первые_итоги_-_переписи_спектрумистов"
+  },
+  {
+    "article_id": 5924,
+    "article_url": "https://zxpress.ru/article.php?id=5924",
+    "print_url": "https://zxpress.ru/print.php?id=5924",
+    "title_link": "Новостной блок - чайковские новости от risk'a.",
+    "order": 5,
+    "issue_label": "3.5",
+    "short_slug": "Новостнои_блок_-_чаиковские_новости_от_riska"
+  },
+  {
+    "article_id": 5925,
+    "article_url": "https://zxpress.ru/article.php?id=5925",
+    "print_url": "https://zxpress.ru/print.php?id=5925",
+    "title_link": "Risk - мысли risk'a o genz'e 3.5",
+    "order": 6,
+    "issue_label": "3.5",
+    "short_slug": "Risk_-_мысли_riska_o_genze_35"
+  },
+  {
+    "article_id": 5926,
+    "article_url": "https://zxpress.ru/article.php?id=5926",
+    "print_url": "https://zxpress.ru/print.php?id=5926",
+    "title_link": "Последнее слово в номер - главная идея этого номера генза - убедить вас поддержать\r\nперепись.",
+    "order": 7,
+    "issue_label": "3.5",
+    "short_slug": "Последнее_слово_в_номер_-_главная_идея_этого_номера_генза_-"
+  }
+]

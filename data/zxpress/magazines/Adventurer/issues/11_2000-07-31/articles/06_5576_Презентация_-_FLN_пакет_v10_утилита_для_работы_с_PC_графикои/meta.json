@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "2000-07-31",
+  "order": 6,
+  "article_id": 5576,
+  "title_link": "Презентация - FLN пакет v1.0: утилита для работы с PC графикой.",
+  "title_h1": "Adventurer 11 - Презентация - FLN пакет v1.0: утилита для работы с PC графикой.",
+  "print_url": "https://zxpress.ru/print.php?id=5576",
+  "article_url": "https://zxpress.ru/article.php?id=5576",
+  "fetched_at": "2026-05-31T21:34:25Z"
+}

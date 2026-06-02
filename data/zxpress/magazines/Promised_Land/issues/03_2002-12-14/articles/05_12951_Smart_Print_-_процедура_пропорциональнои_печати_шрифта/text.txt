@@ -1,0 +1,700 @@
+Promised Land 03 - Smart Print - процедура пропорциональной печати шрифта.
+B  этом разделе мне хотелось бы подели-
+ться  с  Вами одной своей разработкой, ее
+условное название -
+Smart Print.
+B  одном
+из проектов мне понадобилась очень мощная
+процедура печати текста, и вскоре она ус-
+пешно была реализована.                  
+                                         
+  Перечислю требования, которые ставились
+при создании данной печаталки:
+- прежде  всего, вывод  текста шрифтом с
+плавающей  шириной символа (каждый символ
+имеет свою ширину;                       
+ - возможность   печати  форматированного
+текста (растягивание по ширине);         
+ - вывод в произвольном окне экрана как в
+режиме скроллинга, так и постранично;    
+ - возможность  зaмедленнoй печати (поль-
+зoвaтель  при  желании может ускорить или
+сделать паузу);                          
+ - вставка текстовых переменных.
+Последний пункт мне хотелось бы npokom-
+mehtupobatb  особо. Если в достаточно бо-
+льшoм  текстовом  блоке меняется незнaчи-
+тельная  часть, то  лучше не перекраивать
+текст, a доверить эту работу самой проце-
+дуре  печати. Поясню  принцип  на примере
+небольшой BASIC-программы:
+10 INPUT "Your Name: "; х$              
+ 20 INPUT "Your Age: "; y                
+ 30 PRINT "Your name is ";х$;            
+" and you are ";y;" years old!"
+Так вот, наша процедура работает немно-
+го по-другому:
+10 INPUT "Your Name: "; х$              
+ 20 INPUT "Your Age: "; y                
+ 30 LET y$ = STR$ y                      
+ 40 LET z$ = "Your name is "+х$+         
+" and you are "+y$+" years old!"         
+ 50 PRINT z$
+Специально  для реализации этой схемы в
+памяти выделяется буфер для 8 переменных,
+максимум  32 символа каждая. Каждой пере-
+менной  соответствует  некий  контрольный
+код. Встретив  его в главной строке, сис-
+тема выведет содержимое переменной и про-
+дoлжит свою работу.                      
+                                         
+  Выводимый  текст набирается в альтерна-
+тивной кодировке, используется вся табли-
+ца  от 0 до 255, причем определенные коды
+используются как управляющие. Шрифт можно
+подготовить, например, в программе BGE. B
+самой верхней линии каждого символа зада-
+ется  двоичный код, определяющий реальную
+ширину  символа. B приложении, помимо ис-
+хoднoгo  кода в формате Alasm, вы найдете
+и готовый к употреблению шрифт.          
+                                         
+  Ряд  требований пpедьявляется к тексту.
+Прежде  всего, задается набор управляющих
+кодов. B  большинстве своем - это обычные
+ASCII  символы из тех, что в Вашем тексте
+не  будут  встречаться. Первоначально, их
+раскладка такова:
+"#"
+- этот  код обозначает конец абзаца.
+Поскольку программа печати сама занимает-
+ся расположением текста в рамках окна, ей
+нужно знать, где заканчивается один абзац
+и  начинается  следующий. Предупреждение:
+текст обрабатывается и печатается пoaбзa-
+цно, так  что  ограничения  есть на число
+символов в абзаце, но не в тексте.
+"@"
+- aбзaцный отступ, "красная строка".
+B  общем случае, абзац может и не обозна-
+чаться  отступом, но если это нужно, при-
+меняйте данный код сразу после пpедыдуще-
+го.
+"^"
+- конец текста.
+13
+- вместо  кодов Enter печатаются про-
+белы. Коды 10 вообще игнорируются.
+24.. 31
+- встретив  такой код, программа
+перейдет к печати переменной под номером,
+соответственно, 0..7.
+"£"
+(фунт стерлингов или обратный anoct-
+poф) - применяется только внутри перемен-
+ной, чтобы обозначить ее конец.          
+                                         
+  Теперь - o том, как же пользоваться пе-
+чaтaлкoй. Вся  информация  задается через
+регистры следующим образом:
+IX - адрес начала текста;               
+ DE - координаты окна вывода             
+  (D - строка 0..23, Е - столбец 0..31); 
+ ВС - размер окна вывода                 
+  (B - высота 1..24, С - ширина 1..32);  
+ А - флаги. Суммируются значения:        
+  +1  для  вывода  со  скроллингом снизу,
+иначе - обычная печать постранично.      
+  +2  для печати форматированного текста,
+иначе - со рваным краем.                 
+  +4  для вывода с задержкой.
+B  процессе  печати  доступны следующие
+управляющие клавиши:
+Caps Shift
+- пауза вкл./выкл.;
+Symb Shift
+- ускорение печати;
+Space
+- печать следующей страницы.      
+                                         
+ Далее  приведен полный текст процедуры с
+минимумом комментариев.
+;- Точка входа 1, параметры по умолчанию
+PWO     XOR     A                        
+        LD      D,A                      
+        LD      Е,A                      
+        LD      B,24                     
+        LD      С,32                     
+        LD      A,4
+;- Главная точка входа
+PW1     LD      (WIN),DE
+LD      (SIZ),ВС                 
+        LD      (FLG),A                  
+        LD      (CRD),DE                 
+        LD      A,С
+;вычислим длину
+ADD     A,A
+;строки в пикс.
+ADD     A,A                      
+        ADD     A,A                      
+        DEC     A                        
+        LD      (SLN),A                  
+        LD      A,B
+;число строк
+INC     A
+;для печати
+LD      (PRIL),A                 
+        LD      A,(FLG)                  
+        AND     1
+;скроллинг?
+JR      Z,BLD
+;телетайп!
+LD      HL,SIZ+1                 
+        LD      A,(WIN+1)                
+        ADD     A,(HL)                   
+        DEC     A                        
+        LD      (CRD+1),A                
+BLD     LD      (PSGS),IX
+;начало абзаца
+LD      HL,BUF
+;есть, теперь
+LD      ВС,0
+;ищем конец!
+XOR     A                        
+        LD      (LASPAS),A               
+NLT     LD      A,(IX)                   
+        INC     IX                       
+        СР      "#"                      
+        JR      Z,FINPAS
+;нашли!
+СР      "^"                      
+        JR      Z,FINTXT
+;конец текста
+СР      "£"                      
+        JR      Z,ENDV
+;конец перем.
+СР      10                       
+        JR      Z,NLT
+;urhop.
+СР      13                       
+        JR      Z,CRREP
+; 13 -> 32
+СР      24                       
+        JR      С,NLT2                   
+        СР      32                       
+        JR      С,VRSB
+;переменные...
+NLT2    LD      (HL),A
+;копирование
+INC     HL
+;текста в буфер
+INC     ВС
+;абзаца
+JR      NLT                      
+CRREP   LD      A,32
+;меняем Enter
+JR      NLT2
+;на пробел
+VRSB    AND     7
+;3 младшие бита
+PUSH    HL
+;кода 24..31
+LD      L,A
+;дают номер
+LD      Н,0
+;перем. 0..7
+LD      DE,(VARS)
+;ищем ее по
+ADD     HL,HL
+;номеру!...
+ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,DE                    
+        LD      (VADR),IX
+;нашли!
+PUSH    HL                       
+        POP     IX                       
+        POP     HL                       
+        JR      NLT                      
+ENDV    LD      IX,(VADR)
+;возврат в
+JR      NLT
+;основной текст
+FINTXT  LD      A,1
+LD      (LASPAS),A               
+        LD      A,"#"                    
+FINPAS  LD      (HL),A
+;абзац весь.
+LD      (PSGS),IX
+;Печатаем его.
+LD      HL,BUF                   
+        LD      (LINS),HL                
+NXL     LD      A,(PRIL)
+;проверка
+DEC     A
+;заполнения
+LD      (PRIL),A
+;окна
+JR      NZ,NXL2                  
+        LD      A,(SIZ+1)                
+        LD      (PRIL),A                 
+        CALL    PRSPC
+;нажатие SPACE
+LD      A,(FLG)
+;если телетайп,
+AND     1
+;чистим окно.
+JR      NZ,NXL2
+;если скроллер,
+CALL    CLWIN
+;не чистим!
+LD      HL,(WIN)                 
+        LD      (CRD),HL                 
+NXL2    LD      A,(FLG)                  
+        AND     1                        
+        JR      Z,NXLЗ
+LD      A,8
+;скролл окна на
+CALL    SCRL
+;8 пикс. вверх
+NXLЗ    LD      HL,(LINS)
+;САМОЕ ЖУТКОЕ:
+DEC     HL
+;определение
+XOR     A
+;очередной
+LD      (WASP),A
+;выводимой
+LD      (LALI),A
+;строки
+LD      B,A                      
+        LD      С,A                      
+        LD      IX,SNG-1                 
+CIL     INC     HL                       
+        INC     IX                       
+        LD      A,(HL)                   
+        LD      (IX),A                   
+        СР      "#"                      
+        JR      Z,ENL                    
+        PUSH    HL                       
+        СР      #20
+;многое зависит
+JR      NZ,NOSP
+;от того, есть
+LD      HL,WASP
+;ли там пробел!
+INC     (HL)                     
+NOSP    LD      DE,FONT
+;ширину символа
+LD      L,A
+;берем из FONTa
+LD      Н,0                      
+        ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,DE                    
+        LD      (SYM),HL                 
+        LD      A,(HL)                   
+        LD      (IX+64),A                
+        POP     HL                       
+        INC     B                        
+        ADD     A,С                      
+        LD      С,A                      
+        JR      С,QUI                    
+        LD      A,(SLN)                  
+        СР      С                        
+        JR      С,QUI                    
+        JR      CIL                      
+QUI     LD      A,B                      
+        LD      (LLE),A                  
+        LD      A,С                      
+        LD      (SUM),A
+LD      A,(WASP)
+;нет пробела?
+OR      A
+;будем резать!
+JR      NZ,WORD                  
+BROKEN  DEC     B                        
+        LD      A,B                      
+        LD      (LLE),A                  
+        LD      (LINS),HL                
+        JP      NF                       
+WORD    LD      A,С
+;пошел процесс
+SUB     (IX+64)
+;выравнивания!
+LD      С,A                      
+        DEC     B                        
+        LD      A,(IX)                   
+        СР      32                       
+        JR      Z,WEND                   
+        DEC     IX                       
+        DEC     HL                       
+        JR      WORD                     
+ENL     LD      A,1
+;последнюю не
+LD      (LALI),A
+;выравнивать
+WEND    INC     HL                       
+        LD      (LINS),HL
+LD      A,B                      
+        LD      (LLE),A                  
+        LD      A,С                      
+        LD      (SUM),A                  
+        LD      A,(WASP)                 
+        СР      1                        
+        JR      Z,NF                     
+        LD      A,(FLG)                  
+        AND     2                        
+        JR      Z,NF                     
+        LD      A,(LALI)                 
+        OR      A                        
+        JR      NZ,NF                    
+        LD      A,(SLN)                  
+        СР      С                        
+        JR      Z,NF                     
+SHRT    LD      A,(LLE)                  
+        LD      B,A                      
+        LD      Е,A                      
+        XOR     A                        
+        LD      D,A                      
+        LD      IX,SNG
+ADD     IX,DE                    
+SHRL    DEC     IX                       
+        LD      A,32                     
+        СР      (IX)                     
+        JR      Z,EXTE                   
+SHR0    DJNZ    SHRL                     
+        JR      SHRT                     
+EXTE    INC     (IX+64)                  
+        INC     С                        
+        LD      A,(SLN)                  
+        СР      С                        
+        JR      NZ,SHR0                  
+NF      CALL    PLINE
+;печать строки
+LD      A,(FLG)                  
+        AND     1                        
+        JR      NZ,SKIP_3                
+        LD      HL,CRD+1                 
+        INC     (HL)                     
+SKIP_3  LD      A,(LALI)                 
+        OR      A                        
+        JP      Z,NXL                    
+        LD      IX,(PSGS)
+LD      A,(LASPAS)               
+        OR      A                        
+        JP      Z,BLD                    
+        RET                              
+                                         
+PLINE   XOR     A
+;печатаем
+LD      (SHF),A
+;строчку
+LD      DE,(CRD)                 
+        CALL    CALC                     
+        LD      (POS),HL                 
+        LD      IX,SNG-1                 
+        LD      A,(LLE)                  
+        INC     A                        
+        LD      (LENN),A                 
+PQ1     LD      A,(LENN)                 
+        DEC     A                        
+        LD      (LENN),A                 
+        RET     Z                        
+        LD      ВС,65278
+;CS, первое
+IN      A,(С)
+;нажатие
+AND     1                        
+        JR      NZ,CONTIN
+HALT                             
+EXPLEA  LD      ВС,65278
+;отпуск. CS
+IN      A,(С)                    
+        AND     1                        
+        JR      Z,EXPLEA                 
+        HALT                             
+EXPPRE  LD      ВС,65278
+;CS, второе
+IN      A,(С)
+;нажатие
+AND     1                        
+        JR      NZ,EXPPRE                
+        HALT                             
+EXPLE2  LD      ВС,65278
+;отпуск. CS
+IN      A,(С)                    
+        AND     1                        
+        JR      Z,EXPLE2                 
+CONTIN  LD      A,(FLG)                  
+        AND     4                        
+        JR      Z,NODL                   
+        LD      HL,1200
+;печать с
+LD      A,(FLG)
+;задержкой
+AND     1                        
+        JR      Z,DLY
+LD      HL,10000                 
+DLY     LD      ВС,32766
+;Symb Shift
+IN      A,(С)
+;не отменяет
+AND     2
+;задержку, a
+JR      NZ,DYL
+;укopaчивaет
+SRL     Н
+;ее в 8 раз
+SRL     Н                        
+        SRL     Н                        
+        SRL     Н                        
+DYL     NOP                              
+        DEC     HL                       
+        LD      A,Н                      
+        OR      L                        
+        JR      NZ,DYL                   
+NODL    INC     IX                       
+        LD      A,(IX)
+;печатаем
+LD      DE,FONT
+;символ
+LD      L,A                      
+        LD      Н,0                      
+        ADD     HL,HL                    
+        ADD     HL,HL                    
+        ADD     HL,HL
+ADD     HL,DE                    
+        LD      (SYM),HL                 
+        LD      DE,(POS)                 
+        LD      B,7                      
+LPP1    INC     D                        
+        INC     HL                       
+        LD      С,B                      
+        LD      A,(SHF)                  
+        LD      B,A                      
+        OR      A                        
+        LD      A,(HL)                   
+        JR      Z,LPPЗ                   
+LPP2    SRL     A                        
+        DJNZ    LPP2                     
+LPPЗ    LD      B,С                      
+        LD      С,A                      
+        LD      A,(DE)                   
+        OR      С                        
+        LD      (DE),A                   
+        LD      A,(SHF)                  
+        ADD     A,(IX+64)                
+        LD      (NSF),A
+СР      9                        
+        JR      С,ONLY1                  
+        INC     Е                        
+        LD      С,B                      
+        LD      A,(SHF)                  
+        LD      B,A                      
+        LD      A,8                      
+        SUB     B                        
+        LD      B,A                      
+        OR      A                        
+        LD      A,(HL)                   
+        JR      Z,LPPS                   
+LPPЧ    SLA     A                        
+        DJNZ    LPPЧ                     
+LPPS    LD      B,С                      
+        LD      С,A                      
+        LD      A,(DE)                   
+        OR      С                        
+        LD      (DE),A                   
+        DEC     Е                        
+ONLY1   DJNZ    LPP1                     
+        LD      A,(NSF)
+LD      B,A                      
+        LD      HL,(POS)                 
+        SRL     A                        
+        SRL     A                        
+        SRL     A                        
+        ADD     A,L                      
+        LD      L,A                      
+        LD      (POS),HL                 
+        LD      A,B                      
+        AND     7                        
+        LD      (SHF),A                  
+        JP      PQ1                      
+                                         
+CLWIN   LD      HL,WIN
+;очистка окна
+LD      D,(HL)                   
+        INC     HL                       
+        LD      Е,(HL)                   
+        LD      (COORD),DE               
+        LD      HL,SIZ                   
+        LD      D,(HL)                   
+        INC     HL                       
+        LD      Е,(HL)
+LD      (PARAM),DE               
+        LD      DE,(COORD)               
+        LD      A,Е                      
+        СР      #17                      
+        RET     P                        
+        LD      (COORD),DE               
+        LD      A,Е                      
+        AND     #18                      
+        OR      #40                      
+        LD      Н,A                      
+        LD      A,Е                      
+        AND     7                        
+        OR      A                        
+        RRA                              
+        RRA                              
+        RRA                              
+        RRA                              
+        ADD     A,D                      
+        LD      L,A                      
+        LD      A,(PARAM)                
+        LD      B,A                      
+LOOP_V  PUSH    ВС
+PUSH    HL                       
+        LD      B,8                      
+LOOP_8  PUSH    ВС                       
+        PUSH    HL                       
+        LD      A,(PARAM+1)              
+        LD      B,A                      
+        XOR     A                        
+LOOP_Н  LD      (HL),A                   
+        INC     HL                       
+        DJNZ    LOOP_Н                   
+        POP     HL                       
+        POP     ВС                       
+        INC     Н                        
+        DJNZ    LOOP_8                   
+        POP     HL                       
+        POP     ВС                       
+        LD      A,#20                    
+        ADD     A,L                      
+        LD      L,A                      
+        JR      NC,NO_SEG                
+        LD      A,8                      
+        ADD     A,Н
+LD      Н,A                      
+NO_SEG  DJNZ    LOOP_V                   
+        RET                              
+                                         
+PRSPC   LD      ВС,32766
+;нажатие
+IN      A,(С)
+;пробела
+AND     1                        
+        JR      NZ,PRSPC                 
+        RET                              
+                                         
+SCRL    LD      B,A
+;скроллинг
+SCRL0   PUSH    ВС
+;рабочего окна
+SCR_UP  LD      A,(WIN)                  
+        LD      С,A                      
+        LD      A,(SIZ+1)                
+        LD      B,A                      
+        LD      A,(WIN+1)                
+        SLA     A                        
+        SLA     A                        
+        SLA     A                        
+        SLA     B                        
+        SLA     B
+SLA     B                        
+        DEC     B                        
+        SLA     С                        
+        SLA     С                        
+        SLA     С                        
+        PUSH    AF                       
+        PUSH    ВС                       
+        CALL    8880                     
+        POP     ВС                       
+        POP     AF                       
+SCRUP1  INC     A                        
+        PUSH    AF                       
+        PUSH    ВС                       
+        PUSH    HL                       
+        CALL    8880                     
+        POP     DE                       
+        PUSH    HL                       
+        LD      A,(SIZ)                  
+        LD      С,A                      
+        LD      B,0                      
+        LDIR                             
+        POP     HL
+POP     ВС                       
+        POP     AF                       
+        DJNZ    SCRUP1                   
+        LD      (HL),0                   
+        LD      D,Н                      
+        LD      Е,L                      
+        INC     DE                       
+        LD      A,(SIZ)                  
+        DEC     A                        
+        JR      Z,SCROV                  
+        LD      С,A                      
+        LD      B,0                      
+        LDIR                             
+SCROV   POP     ВС                       
+        DJNZ    SCRL0                    
+        RET                              
+                                         
+CALC    LD      A,D
+;расчет адреса
+AND     #18
+;в экране по
+ADD     A,#40
+;координатам
+LD      Н,A                      
+        LD      A,D
+AND     7                        
+        RRCA                             
+        RRCA                             
+        RRCA                             
+        ADD     A,Е                      
+        LD      L,A                      
+        RET                              
+                                         
+POS     DW     0                         
+SHF     DB     0                         
+SYM     DW     0                         
+NSF     DB     0                         
+VARS    DW     VAR                       
+VADR    DW     0                         
+WIN     DW     0                         
+SIZ     DW     0                         
+ATR     DB     0                         
+FLG     DB     0                         
+SLN     DB     0                         
+SUM     DB     0                         
+LLE     DB     0                         
+LENN    DB     0
+LENN    DB     0                         
+CRD     DW     0                         
+PSGS    DW     0                         
+LINS    DW     0                         
+LALI    DB     0                         
+LASPAS  DB     0                         
+PRIL    DB     0                         
+WASP    DB     0                         
+COORD   DW     0                         
+PARAM   DW     0                         
+                                         
+BUF     DEFS    2048
+;буфер абзаца
+SNG     DEFS    128
+;буфер строки
+VAR     DEFS    256
+;буфер перем.
+FONT    INCBIN  "font"
+;шрифт
+Вот и все! У данной процедуры, в  прин-
+ципе, только один  серьезный  недостаток:
+она получилась не слишком скоростной. Но,
+с учетом всех ее наворотов - это не слиш-
+ком критично.  Надеюсь,  что  кому-нибудь
+сие творение пригодится. Удачи!

@@ -1,0 +1,73 @@
+Subliminal Extacy 00 - +D and Multiface Protection
+>>>>> +D and Multiface Protection <<<<<            
+                                                                
+              -= By Vision Of The Mad Guys Corp. =-             
+                                                                
+The following two routines protect your programs to get "snaped"
+or "multifaced". I don't know wether you'll find this useful,   
+but I don't like to see my programs being rubbished or hacked   
+when they weren't supposed to.                                  
+                                                                
+To switch off the SNAP function of the +D (only printer options 
+will work) use the follwong Poke:                               
+POKE @161,201                                                   
+If no +D is attached this will probably end with an error       
+message, so it is better to use assembler as it then makes no   
+difference wether a +D is attached or not:                      
+                                                                
+DI              ;Disable interrupts                             
+IN A,(231)      ;Page in +D                                     
+PUSH AF         ;Save A register                                
+LD A, 201       ;Equal to POKE                                  
+LD (8353),A     ;@161,201                                       
+POP AF          ;Restore A register                             
+OUT (231),A     ;Page out +D                                    
+EI              ;Enable interrupts                              
+RET             ;Return to Basic                                
+                                                                
+Note that the +D ROM/RAM are exchanged when you use MC:         
+Basic: RAM 0-8191, ROM 8192-16383                               
+MC   : RAM 8192-16383, ROM 0-8191                               
+                                                                
+To disable the Multiface use the following routine:             
+                                                                
+     DI           ;Disable interrupts                           
+     IN A,(159)   ;Page Multiface in                            
+     LD HL,OFF    ;Copy protection                              
+     LD DE,8192   ;routine into                                 
+     LD BC,6      ;Multiface RAM                                
+     LDIR                                                       
+     IN A,(31)    ;Page Multiface out                           
+     EI           ;Enable interrupts                            
+     RET                                                        
+OFF  DEFB 0,0,255,82,85,78                                      
+                                                                
+Note that the Multiface will only get disabled if it is switched
+on! To get around this problem the routine should run by        
+interrupt! If the Multiface button is then pressed the program  
+stops for a second and then continues. Tested on a Multiface 1  
+so other reactions might occur with other Multifaces!           
+                                                                
+Michael Meyer, Struempellstr. 6/14038, 40225 Duesseldorf        
+Germany                                                         
+                                                                
+(NOTE FROM L.A.)                                                
+This is not to be used as I haven't got Vision's permission for 
+it to be used in any of our stuff!! But Who Gives a Fuck????    
+                                                                
+                                -                               
+                               ---                              
+                              -----                             
+                             -------                            
+                              -----                             
+                               ---                              
+                                -                               
+                                                                
+             Bollocks, Bollocks, and more Bollocks!             
+                                                                
+                            wey-hey!                            
+                                                                
+                   Bollocks Productions 1994!                   
+                                                                
+                                                                
+                                                            End.

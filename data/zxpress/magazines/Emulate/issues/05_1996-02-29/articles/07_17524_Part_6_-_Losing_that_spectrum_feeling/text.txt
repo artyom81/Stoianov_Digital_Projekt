@@ -1,0 +1,120 @@
+05 - Part 6 - Losing that spectrum feeling.
+==========================================
+*****************************************
+* PART 6 - LOSING THAT SPECTRUM FEELING *
+*****************************************
+
+By Stephen Smith(stevo@jonlan.demon.co.uk)
+
+Okay,  this  one  is a serious (one sided)
+discussion,  unlike my previous ramblings.
+We're   talking   about   what  makes  the
+Spectrum  the Spectrum, and it's more than
+just  the  games,  or  the rubber keys, or
+it's  easy programming. It's that Spectrum
+feeling,  and  I  feel  that when I use my
+emulator   to  play  Spectrum  games,  I'm
+losing something, and I think I know why.
+
+There  was a discussion around February on
+comp.sys.sinclair   about  the  merits  of
+using  a  Spectrum  Emulator  over  a real
+Spectrum  to  play  Spectrum  games, and I
+must  confess  to  being  in  the Emulator
+camp,  although,  as I said, that's mainly
+because  my Spectrum doesn't work any more
+(join  the  club).  However, I also use an
+Emulator  to  play  Spectrum Games because
+it's  so  much  quicker and easier to load
+the games than using the real thing, which
+can  be  an  edgy  affair,  and  due to my
+hardware,  I  could only play games that I
+have tapes of (about 20, compared to about
+150 snaps in total). And there we have the
+two  problems  in  a  nutshell - speed and
+quantity. It's too easy and too quick!
+
+In  the  old  days  when  I  used  a  real
+Spectrum, I didn't have that any games and
+those that I did have took five minutes to
+load.  So  when  they  did load, I spent a
+long  time  with  them, exploring them and
+seeing  how far I could get. Now, with the
+Emulator,   I   load   up   a   snap  (say
+Rollercoaster),  jump around for literally
+about  30  seconds,  lose a few lives, and
+then  load  another  game.  I can remember
+playing  Rollercoaster  in  the past on my
+real Spectrum, and I played it for *days!*
+(I  even thought it was better than MM and
+JSW). Maybe it's because I'm older now and
+prefer  games  to  be  deeper, but it's so
+easy  to  give  a snap 30 seconds to prove
+itself,  and  if it fails (as most will do
+in  that  time  limit), to load up another
+one,  and  then another etc. The ftp sites
+means  that  we  have  an almost unlimited
+supply  of  games to try out. I don't give
+them a chance any more, but I'm determined
+to change.
+
+Thank you for listening!
+
+Stephen Smith - stevo@jonlan.demon.co.uk
+"Spectrum Users do it with a rubber."
+TECHNICAL FORUM
+
+This  month,  there is a follow-up to last
+month's  query  by  Dominik Behr about the
+Timex FDDЗ.
+
+"I  just got through reading Emulate issue
+4  on-line  and  wanted to give a reply to
+one  of the letters in the Technical Forum
+concerning the Timex FDDЗ disk system. I'm
+no expert on the system, but I just wanted
+to  answer  in  case  no-one  else did. (I
+can't  believe  that  would  happen!)" [It
+did - TEd]
+
+"There is some info on the disk system at:
+http://relcom.eu.net/zx/de/tc2048.pst.  It
+is  a  collection  of some e-mails talking
+about  (mostly) how to transfer files from
+the  Timex disk system to a PC. The author
+used  22DISK  to read the Timex disks on a
+PC and includes the setup configuration to
+read  TOS  disks.  Mr  Behr  could  try to
+contact  the  author  (Wojtek)  using  the
+e-mail address in the file and ask him for
+a  copy  of TOS on disk. He should also be
+able  to  suggest a way of using 22DISK to
+copy TOS back onto a Timex disk.
+
+"I  also  just  came across an ad for CP/M
+2.2  for  the FDDЗO00 system (the one with
+the   64K  bank  built  in)  with  Timex's
+original    CP/M    manual   and   Digital
+Research's   official  CP/M  manual.  This
+one's  a rare bird as it was only released
+in  Portugal  after  Timex Corp. folded. I
+don't  know  how widespread CP/M usage was
+on the Timex computers in Portugal."
+
+Tech Ed's reply:
+
+Thanks!  Not  only  have  I  now found out
+about  the  Portuguese Timex computers, we
+also  appear  to  have  an  answer to last
+month's query.
+
+As   for   CP/M,  my  experience  of  this
+operating  system  has  been gained on the
+Research  Machines  LINK  480Z and Amstrad
+CPC  and  PCW series. I know it could also
+be  used  on  the  Spectrum +3, but not on
+most  versions  of the Spectrum due to the
+memory  layout. It would be interesting to
+know more about CP/M on the Timex.
+
+==========================================

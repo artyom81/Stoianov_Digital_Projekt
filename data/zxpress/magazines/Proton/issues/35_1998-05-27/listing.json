@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 16756,
+    "article_url": "https://zxpress.ru/article.php?id=16756",
+    "print_url": "https://zxpress.ru/print.php?id=16756",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16757,
+    "article_url": "https://zxpress.ru/article.php?id=16757",
+    "print_url": "https://zxpress.ru/print.php?id=16757",
+    "title_link": "Полезные советы - Для владельцев компьютеров Скорпион, хочу подсказать об одной, неболшой, доработке вашего компьютера.",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "Полезные_советы_-_Для_владельцев_компьютеров_Скорпион_хочу_п"
+  },
+  {
+    "article_id": 16758,
+    "article_url": "https://zxpress.ru/article.php?id=16758",
+    "print_url": "https://zxpress.ru/print.php?id=16758",
+    "title_link": "EMS 2.00 - Об правильной настройке SETUP'а.",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "EMS_200_-_Об_правильнои_настроике_SETUPа"
+  },
+  {
+    "article_id": 16759,
+    "article_url": "https://zxpress.ru/article.php?id=16759",
+    "print_url": "https://zxpress.ru/print.php?id=16759",
+    "title_link": "Вдруг пригодится - При определении номера EMS после номера пишет \"abonent type\", а затем некое число...",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Вдруг_пригодится_-_При_определении_номера_EMS_после_номера_п"
+  },
+  {
+    "article_id": 16760,
+    "article_url": "https://zxpress.ru/article.php?id=16760",
+    "print_url": "https://zxpress.ru/print.php?id=16760",
+    "title_link": "Дом 16а - продолжение рассказа.",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "Дом_16а_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 16761,
+    "article_url": "https://zxpress.ru/article.php?id=16761",
+    "print_url": "https://zxpress.ru/print.php?id=16761",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16762,
+    "article_url": "https://zxpress.ru/article.php?id=16762",
+    "print_url": "https://zxpress.ru/print.php?id=16762",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16763,
+    "article_url": "https://zxpress.ru/article.php?id=16763",
+    "print_url": "https://zxpress.ru/print.php?id=16763",
+    "title_link": "От авторов - Редакция.",
+    "order": 8,
+    "issue_label": "35",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

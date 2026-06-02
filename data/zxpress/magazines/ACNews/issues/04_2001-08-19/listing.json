@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9274,
+    "article_url": "https://zxpress.ru/article.php?id=9274",
+    "print_url": "https://zxpress.ru/print.php?id=9274",
+    "title_link": "Новости - ZX-Guide будет скоро,хотя еще мало что готово.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Новости_-_ZX-Guide_будет_скорохотя_еще_мало_что_готово"
+  },
+  {
+    "article_id": 9275,
+    "article_url": "https://zxpress.ru/article.php?id=9275",
+    "print_url": "https://zxpress.ru/print.php?id=9275",
+    "title_link": "Вопрос - почему никто не сказал о глюке в ACEdit?",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Вопрос_-_почему_никто_не_сказал_о_глюке_в_ACEdit"
+  },
+  {
+    "article_id": 9276,
+    "article_url": "https://zxpress.ru/article.php?id=9276",
+    "print_url": "https://zxpress.ru/print.php?id=9276",
+    "title_link": "Софт - Как сменить шрифт в ACE.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Софт_-_Как_сменить_шрифт_в_ACE"
+  },
+  {
+    "article_id": 9277,
+    "article_url": "https://zxpress.ru/article.php?id=9277",
+    "print_url": "https://zxpress.ru/print.php?id=9277",
+    "title_link": "Wanted - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Wanted_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

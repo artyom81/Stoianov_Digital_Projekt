@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 13713,
+    "article_url": "https://zxpress.ru/article.php?id=13713",
+    "print_url": "https://zxpress.ru/print.php?id=13713",
+    "title_link": "Вступление - Привет всем странникам виртуального мира игр!",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Привет_всем_странникам_виртуального_мира_игр"
+  },
+  {
+    "article_id": 13714,
+    "article_url": "https://zxpress.ru/article.php?id=13714",
+    "print_url": "https://zxpress.ru/print.php?id=13714",
+    "title_link": "Клич - Что делать с Нечистью в \"Святогоре\"?",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Клич_-_Что_делать_с_Нечистью_в_Святогоре"
+  },
+  {
+    "article_id": 13715,
+    "article_url": "https://zxpress.ru/article.php?id=13715",
+    "print_url": "https://zxpress.ru/print.php?id=13715",
+    "title_link": "Описание новинок - 'описание' на \"Sherwood'а\".",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Описание_новинок_-_описание_на_Sherwoodа"
+  },
+  {
+    "article_id": 13716,
+    "article_url": "https://zxpress.ru/article.php?id=13716",
+    "print_url": "https://zxpress.ru/print.php?id=13716",
+    "title_link": "Лучшие солюшены SOSG - The Trap Door.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Лучшие_солюшены_SOSG_-_The_Trap_Door"
+  },
+  {
+    "article_id": 13717,
+    "article_url": "https://zxpress.ru/article.php?id=13717",
+    "print_url": "https://zxpress.ru/print.php?id=13717",
+    "title_link": "Анонс - В следующем номере ожидаются.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Анонс_-_В_следующем_номере_ожидаются"
+  },
+  {
+    "article_id": 4292,
+    "article_url": "https://zxpress.ru/article.php?id=4292",
+    "print_url": "https://zxpress.ru/print.php?id=4292",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 12628,
+    "article_url": "https://zxpress.ru/article.php?id=12628",
+    "print_url": "https://zxpress.ru/print.php?id=12628",
+    "title_link": "UFO II - как всегда новый CHEAT\r\nпо UFO II,но увы последний и только для Scorpion'щиков.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "UFO_II_-_как_всегда_новыи_CHEATпо_UFO_IIно_увы_последнии_и_т"
+  },
+  {
+    "article_id": 13072,
+    "article_url": "https://zxpress.ru/article.php?id=13072",
+    "print_url": "https://zxpress.ru/print.php?id=13072",
+    "title_link": "От авторов - закуриваю последнюю сигарету, и думаю чего бы\r\nвам написать светлого и доброго...",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_закуриваю_последнюю_сигарету_и_думаю_чего_бывам"
+  },
+  {
+    "article_id": 841,
+    "article_url": "https://zxpress.ru/article.php?id=841",
+    "print_url": "https://zxpress.ru/print.php?id=841",
+    "title_link": "Железо - Графические видеорежимы.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Железо_-_Графические_видеорежимы"
+  },
+  {
+    "article_id": 90,
+    "article_url": "https://zxpress.ru/article.php?id=90",
+    "print_url": "https://zxpress.ru/print.php?id=90",
+    "title_link": "B.B.S. Новости - О работе нового шлюза для связи со спектрумистами города\r\n Москвы на платформе PC.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "BBS_Новости_-_О_работе_нового_шлюза_для_связи_со_спектрумист"
+  }
+]

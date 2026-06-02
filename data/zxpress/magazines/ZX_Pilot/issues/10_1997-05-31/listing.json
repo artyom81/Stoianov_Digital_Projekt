@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7624,
+    "article_url": "https://zxpress.ru/article.php?id=7624",
+    "print_url": "https://zxpress.ru/print.php?id=7624",
+    "title_link": "Наши новости - Вышел в свет уже 10 номер газеты.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Наши_новости_-_Вышел_в_свет_уже_10_номер_газеты"
+  },
+  {
+    "article_id": 7625,
+    "article_url": "https://zxpress.ru/article.php?id=7625",
+    "print_url": "https://zxpress.ru/print.php?id=7625",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7626,
+    "article_url": "https://zxpress.ru/article.php?id=7626",
+    "print_url": "https://zxpress.ru/print.php?id=7626",
+    "title_link": "Разберемся - Подробный отчет о прохождении игры DIZZY-7.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Разберемся_-_Подробныи_отчет_о_прохождении_игры_DIZZY-7"
+  },
+  {
+    "article_id": 7627,
+    "article_url": "https://zxpress.ru/article.php?id=7627",
+    "print_url": "https://zxpress.ru/print.php?id=7627",
+    "title_link": "AMIGA vs PC - Основные особенности различных моделей Амиг.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "AMIGA_vs_PC_-_Основные_особенности_различных_моделеи_Амиг"
+  },
+  {
+    "article_id": 7628,
+    "article_url": "https://zxpress.ru/article.php?id=7628",
+    "print_url": "https://zxpress.ru/print.php?id=7628",
+    "title_link": "FANTASY - Сказка про Байта-Дурака и Мантиссу Прекрасную.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "FANTASY_-_Сказка_про_Баита-Дурака_и_Мантиссу_Прекрасную"
+  },
+  {
+    "article_id": 7629,
+    "article_url": "https://zxpress.ru/article.php?id=7629",
+    "print_url": "https://zxpress.ru/print.php?id=7629",
+    "title_link": "COMPUTER WORLDS - Новелла по игре \"ZOMBI\".",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "COMPUTER_WORLDS_-_Новелла_по_игре_ZOMBI"
+  },
+  {
+    "article_id": 7630,
+    "article_url": "https://zxpress.ru/article.php?id=7630",
+    "print_url": "https://zxpress.ru/print.php?id=7630",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

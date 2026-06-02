@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-30",
+  "order": 11,
+  "article_id": 373,
+  "title_link": "За бугром - Богатые тоже плачут?",
+  "title_h1": "Deja Vu 01 - За бугром - Богатые тоже плачут?",
+  "print_url": "https://zxpress.ru/print.php?id=373",
+  "article_url": "https://zxpress.ru/article.php?id=373",
+  "fetched_at": "2026-05-31T21:54:04Z"
+}

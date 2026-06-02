@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12614,
+    "article_url": "https://zxpress.ru/article.php?id=12614",
+    "print_url": "https://zxpress.ru/print.php?id=12614",
+    "title_link": "Вступление - Привет всем читателям нашей газеты,вот уже и четвертый выпуск.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_Привет_всем_читателям_нашеи_газетывот_уже_и_чет"
+  },
+  {
+    "article_id": 12615,
+    "article_url": "https://zxpress.ru/article.php?id=12615",
+    "print_url": "https://zxpress.ru/print.php?id=12615",
+    "title_link": "Список BBS - Итак, начнем! В сети снова изменения.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Список_BBS_-_Итак_начнем_В_сети_снова_изменения"
+  },
+  {
+    "article_id": 12616,
+    "article_url": "https://zxpress.ru/article.php?id=12616",
+    "print_url": "https://zxpress.ru/print.php?id=12616",
+    "title_link": "UFO II - как можно сделать побольше оружия типа 'ГАРПУН'.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "UFO_II_-_как_можно_сделать_побольше_оружия_типа_ГАРПУН"
+  },
+  {
+    "article_id": 12617,
+    "article_url": "https://zxpress.ru/article.php?id=12617",
+    "print_url": "https://zxpress.ru/print.php?id=12617",
+    "title_link": "Курс изучения ассемблера - ЯЗЫК АССЕМБЛЕРА (4 часть).",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Курс_изучения_ассемблера_-_ЯЗЫК_АССЕМБЛЕРА_4_часть"
+  },
+  {
+    "article_id": 12618,
+    "article_url": "https://zxpress.ru/article.php?id=12618",
+    "print_url": "https://zxpress.ru/print.php?id=12618",
+    "title_link": "Картинки - красивая ANSII Графика.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Картинки_-_красивая_ANSII_Графика"
+  },
+  {
+    "article_id": 12619,
+    "article_url": "https://zxpress.ru/article.php?id=12619",
+    "print_url": "https://zxpress.ru/print.php?id=12619",
+    "title_link": "Здесь и сейчас - Может показаться странным, но шикарный ужин в самом дорогом\r\nресторане не так уж необходим для соблазнения.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Здесь_и_сеичас_-_Может_показаться_странным_но_шикарныи_ужин"
+  },
+  {
+    "article_id": 12620,
+    "article_url": "https://zxpress.ru/article.php?id=12620",
+    "print_url": "https://zxpress.ru/print.php?id=12620",
+    "title_link": "Реклама - Продается два дисковода 5311 и блок питания.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Продается_два_дисковода_5311_и_блок_питания"
+  }
+]

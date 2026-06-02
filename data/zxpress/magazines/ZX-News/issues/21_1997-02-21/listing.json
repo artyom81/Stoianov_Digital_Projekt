@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2826,
+    "article_url": "https://zxpress.ru/article.php?id=2826",
+    "print_url": "https://zxpress.ru/print.php?id=2826",
+    "title_link": "BBS List - Список станций BBS и их тематика.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "BBS_List_-_Список_станции_BBS_и_их_тематика"
+  },
+  {
+    "article_id": 2828,
+    "article_url": "https://zxpress.ru/article.php?id=2828",
+    "print_url": "https://zxpress.ru/print.php?id=2828",
+    "title_link": "Железо - Ремонт Скорпиона своими руками часть 3: Дисковод не читает\r\n или не форматирует.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Железо_-_Ремонт_Скорпиона_своими_руками_часть_3_Дисковод_не"
+  },
+  {
+    "article_id": 2827,
+    "article_url": "https://zxpress.ru/article.php?id=2827",
+    "print_url": "https://zxpress.ru/print.php?id=2827",
+    "title_link": "Игры - Описание и пароли уровней игры Tube MIX.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Игры_-_Описание_и_пароли_уровнеи_игры_Tube_MIX"
+  },
+  {
+    "article_id": 2825,
+    "article_url": "https://zxpress.ru/article.php?id=2825",
+    "print_url": "https://zxpress.ru/print.php?id=2825",
+    "title_link": "От авторов - Новая оболочка газеты. Нужна ли поддержка General Sound?",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "От_авторов_-_Новая_оболочка_газеты_Нужна_ли_поддержка_Genera"
+  },
+  {
+    "article_id": 2831,
+    "article_url": "https://zxpress.ru/article.php?id=2831",
+    "print_url": "https://zxpress.ru/print.php?id=2831",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2830,
+    "article_url": "https://zxpress.ru/article.php?id=2830",
+    "print_url": "https://zxpress.ru/print.php?id=2830",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2829,
+    "article_url": "https://zxpress.ru/article.php?id=2829",
+    "print_url": "https://zxpress.ru/print.php?id=2829",
+    "title_link": "Юмор - Новости о мегадемонстрации AntiArno microdemo.",
+    "order": 7,
+    "issue_label": "21",
+    "short_slug": "Юмор_-_Новости_о_мегадемонстрации_AntiArno_microdemo"
+  }
+]

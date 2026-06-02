@@ -1,0 +1,953 @@
+Micro 12 - Poke's - подборка poke's.
+╔═══════════════════════════════════════╗
+║                Poke's                 ║▒
+╚═══════════════════════════════════════╝▒
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+             Storm Bringer 48
+             Infinite energy
+                 40161 0
+        Do things without objects
+                46183 99
+                46301 99
+                 46702 0
+
+
+               Stormlord 1
+             Infinite lives
+                55877 127
+              Invincibility
+                56877 201
+                 34092 0
+              No fire pods
+                 33866 0
+                Autostart
+                33251 61
+
+            Street Fighter 1
+         Infinite time 41740 24
+               Always win
+                41336 255
+                Big bonus
+                35601 255
+              Invincibility
+                42348 201
+              Freeze enemy
+                 37963 0
+
+              Street Hassle
+             Infinite lives
+                 43391 0
+
+               Street Hawk
+             Infinite energy
+                39990 91
+
+                Strider 2
+             Infinite lives
+                 33133 0
+
+           Strike Force Cobra
+             Infinite lives
+                 48389 0
+                 49568 0
+                 48585 0
+
+       Strontium Dog: The Killing
+             Infinite lives
+                 52156 0
+
+                  Styx
+           Set number of lives
+                29856 num
+
+               Submariner
+             Infinite lives
+                50643 183
+
+         Subterranean Nightmare
+             Infinite lives
+                 43435 0
+
+               Super Cycle
+              Infinite time
+                43560 150
+
+             Super Monaco GP
+             Always qualify
+                30966 201
+            No fatal crashes
+                 38061 0
+
+            Super Robin Hood
+             Infinite lives
+                 50545 0
+              Invincibility
+                50540 201
+
+        Super Scramble Simulator
+              Infinite time
+                48718 33
+                48719 144
+                48720 144
+
+              Super Sprint
+             Always qualify
+                49358 201
+             Always 'add on'
+                40968 205
+
+             Super Stuntman
+              Infinite time
+                 27262 0
+             Infinite takes
+                 25517 0
+
+                Survivor
+             Infinite energy
+                 37734 0
+                 37735 0
+              Infinite ammo
+                 36047 0
+                 36048 0
+                   ???
+                29337 71
+
+          Sweevo's Whirled 128
+             Infinite lives
+                 48153 0
+                 48154 0
+
+            Sweevo's World 48
+             Infinite lives
+                 33219 0
+           Set number of lives
+                37008 num
+
+              Switch-Blade
+             Infinite energy
+                38435 201
+
+              Sword Slayer
+             Infinite energy
+                52338 182
+
+                 Syntax
+             Infinite lives
+                 35757 0
+
+                 Tanium
+             Infinite lives
+                38648 182
+                34253 183
+
+                  Tank
+             Infinite lives
+                 30209 0
+
+              Tank Command
+             Infinite lives
+                 65535 0
+
+              Tank Duel, 3D
+             Infinite lives
+                 51311 0
+
+                Tantalus
+                Immunity
+                 42247 0
+             Infinite lives
+                 42228 0
+             Infinite energy
+                 42826 0
+
+                 Tapper
+             Infinite lives
+                33233 182
+
+               Tarantulas
+                Immunity
+                38335 201
+
+                 Tarzan
+             Infinite lives
+                51002 183
+                51185 183
+             Infinite energy
+                52268 183
+              Infinite time
+                 51013 0
+
+             Tarzan Goes Ape
+             Infinite lives
+                 47131 0
+
+          Tau Ceti 2 : Academy
+         Set number of missiles
+                47754 num
+           Set number of ammo
+                47755 num
+          Set number of flares
+                47756 num
+           Set number of bombs
+                47757 num
+            Infinite shields
+                50584 201
+            Progress report 1
+                26458 num
+            Progress report 2
+                26459 num
+            Progress report 3
+                26460 num
+            Progress report 4
+                26461 num
+               Define cost
+                26497 num
+              Define weight
+                24496 num
+             No restrictions
+                31378 225
+                31386 255
+                Immunity
+                50584 201
+              Infinite fuel
+                 44456 0
+             Infinite bombs
+                 44831 0
+            Infinite missiles
+                 44716 0
+             Infinite flares
+                 44752 0
+              Infinite AMMs
+                 44794 0
+
+             Technician Ted
+             Infinite lives
+                44210 24
+                44211 81
+              Infinite time
+                 43890 0
+                Immunity
+                44728 10
+           Walk through walls
+                 47711 0
+           Infinite task time
+                 45230 0
+              Fall forever
+                 48058 0
+
+             Techno-Cop 128
+             Infinite lives
+                31183 20
+                37266 201
+                42979 201
+                48736 201
+
+              Techno-Cop 48
+             Infinite lives
+                31183 20
+                37266 201
+                42979 201
+                48736 201
+
+                 Teladon
+             Infinite lives
+                 35969 0
+             Infinite laser
+                 65269 0
+             Infinite oxygen
+                 35945 0
+
+                 Tempest
+         Infinite lives player 1
+                 33537 0
+           Set number of lives
+                33462 num
+         Infinite lives player 2
+                 33610 0
+                Superzaps
+                 34909 0
+
+                Terminus
+             Infinite lives
+                 45583 0
+             Infinite energy
+                 47023 0
+
+              Terra Cognita
+          Infinite lives + fuel
+                 50615 0
+                 50616 0
+                 44486 0
+                 45004 0
+
+              Terra Cresta
+             Infinite lives
+                 37797 0
+                 37798 0
+                 37799 0
+
+                Terramex
+             Infinite lives
+                 43516 0
+
+            Terror-Daktil 4D
+             Infinite lives
+                 37629 0
+
+           Thing Bounces Back
+             Infinite lives
+                 45255 0
+              Infinite oil
+                44911 62
+                  Quits
+                45219 201
+                No doors
+                63858 32
+                63859 178
+                No laser
+                63861 205
+                63862 177
+          Set number of changes
+                38157 num
+
+       Three Weeks in Paradise 48
+             Infinite lives
+                 50066 0
+
+                Thrust 1
+             Infinite lives
+                 39219 0
+              Infinite fuel
+                54903 201
+
+                Thrust 2
+             Infinite lives
+                 34200 0
+
+              Thunderbirds
+             Infinite lives
+                 58927 0
+          Infinite weight limit
+                 55985 0
+              Infinite fuel
+                 59095 0
+
+            Thunderblade 128
+             Infinite lives
+                 41964 0
+                 42018 0
+
+             Thunderblade 48
+             Infinite lives
+                 41964 0
+                 42018 0
+
+             Thundercats 128
+                  Weird
+                 30060 0
+
+             Thundercats 48
+             Infinite lives
+                 31407 0
+
+              Thunderceptor
+             Infinite lives
+                54487 201
+
+                  Tilt
+             Infinite power
+                 54142 0
+
+               Time Flies
+             Infinite lives
+                 35113 0
+
+               Tir Na Nog
+                No sidhe
+                34202 255
+             Something sidhe
+                33727 24
+                   ???
+                31365 201
+                   ???
+                34751 201
+                   ???
+                30801 195
+                   ???
+                35421 24
+                   ???
+                 31109 0
+                   ???
+                 27057 0
+                 27058 0
+                 27068 0
+                 27069 0
+                 32403 0
+                 26919 0
+          Something sidhe again
+                 33724 0
+                 33725 0
+
+               Toad Runner
+             Infinite lives
+                27395 222
+                27396 149
+
+                Tomahawk
+             Infinite lives
+                 24601 0
+           Set number of lives
+                35508 num
+            Infinite rockets
+                37140 167
+           Infinite hellfires
+                37206 167
+            Infinite bullets
+                37087 24
+             Fall any height
+                32646 195
+
+             Tomb of Syrinx
+             Infinite lives
+                 58046 0
+               No nasties
+                57286 201
+
+                 Toobin
+            Infinite credits
+                 59863 0
+             Infinite lives
+                 61721 0
+
+                 Top Gun
+        Infinite lives (player 1)
+                 26460 0
+       Set number lives (player 2)
+                27727 num
+                27728 num
+
+            Tornado Low Level
+             Infinite lives
+                 35006 0
+              Infinite fuel
+                 33807 0
+
+              Tour de Force
+             Infinite cycles
+                 42062 0
+              Infinite time
+                45472 24
+              Infinite heat
+                 45902 0
+
+           Tower of Evil, The
+             Infinite lives
+                 59386 0
+
+              Trail Blazer
+              Infinite time
+                 34899 0
+             Infinite jumps
+                 35570 0
+
+               Trans Muter
+             Infinite lives
+                 28878 0
+
+      Trantor the Last Stormtrooper
+            Infinite strength
+                 56596 0
+              Infinite time
+                 56711 0
+              Infinite ammo
+                 54236 0
+                No aliens
+                 52514 0
+             Infinite lives
+                 52221 0
+
+                Tranz Am
+             Infinite lives
+                 25446 0
+            Make game harder
+                 28610 0
+              Infinite time
+                 25445 0
+
+                  Trap
+             Infinite lives
+                 39558 0
+           Access to all ships
+                 27126 0
+
+             Trapdoor 1, The
+              Infinite time
+                44139 24
+               Max. bonus
+                 44251 0
+
+    Trapdoor 2: Through the Trapdoor
+              Infinite time
+                44116 201
+                   ???
+                 47492 0
+
+               Trashman 1
+              Infinite time
+                 52037 0
+              Invincibility
+                 32359 0
+                 42467 0
+                 42468 0
+                 42444 0
+                 42445 0
+                 42453 0
+                 42457 0
+                   ???
+                48985 201
+                 42457 0
+                 42458 0
+                 42459 0
+
+                  Traxx
+             Infinite lives
+                 31769 0
+
+             Treasure Island
+             Infinite lives
+                 61148 0
+                 61147 0
+                 61143 0
+                 61149 0
+
+                 Triaxos
+           Infinite everything
+                 30724 0
+                 33288 0
+                 37116 0
+
+             Tribble Trubble
+              Infinite time
+                 31981 0
+                31984 24
+
+                  Tujad
+             Infinite lives
+                 27212 0
+                 27213 0
+
+              Tunnel 1, 3D
+             Infinite lives
+                 29711 0
+
+              Turbo Esprit
+             Infinite lives
+                 29893 0
+              Invincibility
+                 60514 0
+                 60515 0
+                 60516 0
+                 60517 0
+                 60518 0
+                 60519 0
+                 60520 0
+                 60521 0
+                 60573 0
+                 60574 0
+                 60575 0
+                 60576 0
+                 60577 0
+                 60578 0
+                 60579 0
+                 60580 0
+                 62434 0
+                 62435 0
+                 62436 0
+                 62437 0
+                 62438 0
+                 62439 0
+                 62440 0
+                 62441 0
+
+                 Turmoil
+             Infinite lives
+                 57557 0
+
+               Turrican 1
+             Infinite lives
+                 28406 0
+           Infinite gyroscopes
+                 31501 0
+             Infinite energy
+                28582 195
+
+               Tutankhamun
+             Infinite lives
+                 27783 0
+
+                Type-Rope
+              Infinite time
+                 32091 0
+
+                 Typhoon
+             Infinite lives
+                40459 99
+
+      Ultimate Combat Mission, The
+         Infinite lives player 1
+                 36337 0
+         Infinite lives player 2
+                 43734 0
+                 Bazooka
+                 27832 0
+                30884 24
+                34198 24
+               No enemies
+                32767 201
+
+               Underwurlde
+             Infinite lives
+                 59376 0
+                 59380 0
+           Infinite gem power
+                 38041 0
+                 39042 0
+           Weapons don't move
+                 59591 0
+               No nasties
+                45018 201
+           Set number of lives
+                36981 num
+
+                 Unitrax
+              Infinite lies
+                29264 183
+
+                 Uridium
+                Immunity
+                 55419 0
+                55420 255
+             Infinite lives
+                 31308 0
+
+                Vampire!
+              Invincibility
+                28405 30
+
+                 Vatman
+                Immunity
+                 56547 0
+                 56681 0
+               No baddies
+                 55435 0
+                Autofire
+                 52134 0
+
+             Vegetable Crash
+           Set number of lives
+                34626 num
+
+           Vindicators part 1
+             Infinite lives
+                 37913 0
+                 38094 0
+
+           Vindicators part 2
+             Infinite lives
+                 37913 0
+                 38094 0
+
+           Vindicators part 3
+             Infinite lives
+                 37913 0
+                 38094 0
+              Infinite time
+                 35055 0
+
+                  Virus
+             Infinite lives
+                 44945 0
+             Infinite bombs
+                 37835 0
+
+               Voidrunner
+             Infinite lives
+                 39935 0
+
+    Way of the Exploding Fist 1, The
+        Set number of time units
+                44793 num
+
+          Way of the Tiger, The
+          Unarmed combat lives
+                45532 201
+           Pole fighting lives
+                45178 201
+          Sword fighting lives
+                45806 201
+
+           W.E.C. Le Mans 128
+              Infinite time
+                26110 34
+
+            W.E.C. Le Mans 48
+              Infinite time
+                33249 195
+
+    Week in the life of the Thing!, A
+             Infinite energy
+                 39509 0
+                 30183 0
+                 32097 0
+                 32576 0
+
+                Westbank
+           Set number of lives
+                51210 num
+             Infinite lives
+                 51210 0
+
+                 Wheelie
+             Infinite lives
+                30037 201
+
+            Who Dares Wins 2
+             Infinite lives
+                 50833 0
+            Infinite grenades
+                 51847 0
+
+             Wild West Hero
+           Set number of lives
+                23821 num
+
+                   Wiz
+             Infinite lives
+                 60305 0
+
+              Wizard's Lair
+             Infinite energy
+                 52056 0
+             Infinite lives
+                 47968 0
+              Infinite keys
+                 52081 0
+           Set number of keys
+                25516 num
+           Set number of lives
+                25522 num
+           Set number of rings
+                25517 num
+         Set number of diamonds
+                25518 num
+            Infinite weapons
+                 51419 0
+
+                Wiz Ball
+             Infinite lives
+                 37052 0
+              Invincibility
+                48190 201
+
+               Wonder Boy
+             Infinite lives
+                 34362 0
+              Invincibility
+                34106 195
+                40816 195
+                Vitality
+                41250 195
+                41870 195
+                 38176 0
+                   Axe
+                 34338 0
+
+      World of Obliterator 128, The
+             Infinite energy
+                33595 182
+
+      World of Obliterator 48, The
+             Infinite energy
+                33595 182
+
+       Worse Things Happen at Sea
+             Infinite energy
+                 35303 0
+                 Droids
+                 35443 0
+                 No sink
+                30008 201
+
+                Wriggler
+             Infinite lives
+                 50173 0
+                Immunity
+                 51274 0
+                 59101 0
+                 63278 0
+
+          Wulfan the Barbarian
+                Immunity
+                 31273 0
+             Infinite lives
+                 25862 0
+
+                  Xarax
+             Infinite lives
+                 41352 0
+
+                 Xecutor
+         Infinite lives player 1
+                 54017 0
+         Infinite lives player 2
+                 53538 0
+         Invincibility player 1
+                47216 201
+         Invincibility player 2
+                47320 201
+              No enemy fire
+                48259 201
+
+                  Xeno
+             Infinite lives
+                 22225 1
+
+                Xenon 128
+           Set number of lives
+                36368 num
+
+                Xenon 48
+           Set number of lives
+                36368 num
+
+                 Xevious
+             Infinite lives
+                53756 58
+           Set number of lives
+                53592 num
+
+            Yabba Dabba Dooo!
+             Infinite lives
+                 43612 0
+
+                  Yeti
+             Infinite lives
+                 47894 0
+              Infinite ammo
+                 49077 0
+            Infinite grenades
+                48311 24
+             Infinite bombs
+                 48328 0
+              Disable guns
+                56318 201
+
+            Yie Ar Kung Fu 1
+             Infinite lives
+                29587 183
+
+                Yogi Bear
+                Immunity
+                 35090 0
+                 35091 0
+                 34900 0
+                 35092 0
+                 35093 0
+                45026 24
+
+               Y.S. Capers
+             Infinite power
+                 61920 0
+                 61946 0
+              Infinite time
+                 61815 0
+
+                    Z
+             Infinite lives
+                 41285 0
+
+                 Zar-Jas
+             Infinite lives
+                30230 183
+                30256 183
+
+                 Zaxxan
+             Infinite lives
+                 50244 0
+                 50245 0
+                 50246 0
+                 50247 0
+
+                 Zaxxon
+             Infinite lives
+                33170 182
+       Set number of lives (1-250)
+                48825 num
+
+                  Zenji
+             Infinite lives
+                 35731 0
+              Infinite time
+                 38281 0
+
+                 Zip Zap
+             Infinite lives
+                 53753 0
+             Infinite energy
+                 54141 0
+                 54144 0
+
+                  Zoids
+             Infinite power
+                 53613 0
+            Infinite missiles
+                55781 191
+            Infinite bullets
+                 54653 0
+             Infinite damage
+                55013 24
+
+                  Zolyx
+             Infinite lives
+                 50800 0
+              Infinite time
+                 50476 0
+
+                  Zorro
+             Infinite lives
+                 53729 0
+
+                 Zub 48
+             Infinite lives
+                37473 201
+
+                 Zynaps
+             Infinite lives
+                 45424 0
+                 45425 0
+                 45426 0
+                Immunity
+                39775 201
+
+                 Zythum
+           Set number of lives
+                52503 num
+              Infinite time
+                 54786 0
+                 54790 0
+                 54791 0
+                 56498 0
+              Infinite ammo
+                 51270 0
+                 51271 0
+                   ???
+                 51067 0
+                 51068 0
+
+                  Zzoom
+             Infinite lives
+                 24743 0
+
+                  THE END
+__________________________________________

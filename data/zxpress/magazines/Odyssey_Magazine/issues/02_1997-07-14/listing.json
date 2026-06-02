@@ -1,0 +1,317 @@
+[
+  {
+    "article_id": 7542,
+    "article_url": "https://zxpress.ru/article.php?id=7542",
+    "print_url": "https://zxpress.ru/print.php?id=7542",
+    "title_link": "Вступление - Что будет в третьем номере ?",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_Что_будет_в_третьем_номере"
+  },
+  {
+    "article_id": 7513,
+    "article_url": "https://zxpress.ru/article.php?id=7513",
+    "print_url": "https://zxpress.ru/print.php?id=7513",
+    "title_link": "Вступление - об оболочке",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_об_оболочке"
+  },
+  {
+    "article_id": 7514,
+    "article_url": "https://zxpress.ru/article.php?id=7514",
+    "print_url": "https://zxpress.ru/print.php?id=7514",
+    "title_link": "Ассемблер - Возможно ли перекинуть экран (6144 байта) за один тик.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Ассемблер_-_Возможно_ли_перекинуть_экран_6144_баита_за_один"
+  },
+  {
+    "article_id": 7515,
+    "article_url": "https://zxpress.ru/article.php?id=7515",
+    "print_url": "https://zxpress.ru/print.php?id=7515",
+    "title_link": "Ассемблер - Плавный скрол текста вверх в окне 15x24 знакоместа.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Ассемблер_-_Плавныи_скрол_текста_вверх_в_окне_15x24_знакомес"
+  },
+  {
+    "article_id": 7516,
+    "article_url": "https://zxpress.ru/article.php?id=7516",
+    "print_url": "https://zxpress.ru/print.php?id=7516",
+    "title_link": "Дискуссия - AMIGA VS PC мнение читателей (VVG).",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Дискуссия_-_AMIGA_VS_PC_мнение_читателеи_VVG"
+  },
+  {
+    "article_id": 7517,
+    "article_url": "https://zxpress.ru/article.php?id=7517",
+    "print_url": "https://zxpress.ru/print.php?id=7517",
+    "title_link": "Презентация - VIRTUAL VISION GROUP из Воронежа .",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Презентация_-_VIRTUAL_VISION_GROUP_из_Воронежа"
+  },
+  {
+    "article_id": 7518,
+    "article_url": "https://zxpress.ru/article.php?id=7518",
+    "print_url": "https://zxpress.ru/print.php?id=7518",
+    "title_link": "Отдохнем - Рок энциклопедия: MEGADEATH...",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Отдохнем_-_Рок_энциклопедия_MEGADEATH"
+  },
+  {
+    "article_id": 7519,
+    "article_url": "https://zxpress.ru/article.php?id=7519",
+    "print_url": "https://zxpress.ru/print.php?id=7519",
+    "title_link": "IS-DOS - Проблемы и решения: макросы.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "IS-DOS_-_Проблемы_и_решения_макросы"
+  },
+  {
+    "article_id": 7520,
+    "article_url": "https://zxpress.ru/article.php?id=7520",
+    "print_url": "https://zxpress.ru/print.php?id=7520",
+    "title_link": "IS-DOS - Практическое применение макросов.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "IS-DOS_-_Практическое_применение_макросов"
+  },
+  {
+    "article_id": 7521,
+    "article_url": "https://zxpress.ru/article.php?id=7521",
+    "print_url": "https://zxpress.ru/print.php?id=7521",
+    "title_link": "Почта - Скроллинг по строке вверх и вниз.",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Почта_-_Скроллинг_по_строке_вверх_и_вниз"
+  },
+  {
+    "article_id": 7522,
+    "article_url": "https://zxpress.ru/article.php?id=7522",
+    "print_url": "https://zxpress.ru/print.php?id=7522",
+    "title_link": "Почта - Печать строки 32-х символьным шрифтом.",
+    "order": 11,
+    "issue_label": "02",
+    "short_slug": "Почта_-_Печать_строки_32-х_символьным_шрифтом"
+  },
+  {
+    "article_id": 7523,
+    "article_url": "https://zxpress.ru/article.php?id=7523",
+    "print_url": "https://zxpress.ru/print.php?id=7523",
+    "title_link": "Почта - Процедура пропорциональной печати.",
+    "order": 12,
+    "issue_label": "02",
+    "short_slug": "Почта_-_Процедура_пропорциональнои_печати"
+  },
+  {
+    "article_id": 7524,
+    "article_url": "https://zxpress.ru/article.php?id=7524",
+    "print_url": "https://zxpress.ru/print.php?id=7524",
+    "title_link": "Отдохнем - Рассказ \"Чебурашка\".",
+    "order": 13,
+    "issue_label": "02",
+    "short_slug": "Отдохнем_-_Рассказ_Чебурашка"
+  },
+  {
+    "article_id": 7525,
+    "article_url": "https://zxpress.ru/article.php?id=7525",
+    "print_url": "https://zxpress.ru/print.php?id=7525",
+    "title_link": "Система - Описание формата PСX.",
+    "order": 14,
+    "issue_label": "02",
+    "short_slug": "Система_-_Описание_формата_PСX"
+  },
+  {
+    "article_id": 7526,
+    "article_url": "https://zxpress.ru/article.php?id=7526",
+    "print_url": "https://zxpress.ru/print.php?id=7526",
+    "title_link": "Система - Описание программ: Y-COMMANDER & MS COMPILER v1.08.",
+    "order": 15,
+    "issue_label": "02",
+    "short_slug": "Система_-_Описание_программ_Y-COMMANDER_MS_COMPILER_v108"
+  },
+  {
+    "article_id": 7527,
+    "article_url": "https://zxpress.ru/article.php?id=7527",
+    "print_url": "https://zxpress.ru/print.php?id=7527",
+    "title_link": "Обзор - Системных программ: XAS 7.1",
+    "order": 16,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Системных_программ_XAS_71"
+  },
+  {
+    "article_id": 7528,
+    "article_url": "https://zxpress.ru/article.php?id=7528",
+    "print_url": "https://zxpress.ru/print.php?id=7528",
+    "title_link": "Обзор - Системных программ: PRO TRACKER 2,1, PRO TRACKER 3,0d",
+    "order": 17,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Системных_программ_PRO_TRACKER_21_PRO_TRACKER_30d"
+  },
+  {
+    "article_id": 7529,
+    "article_url": "https://zxpress.ru/article.php?id=7529",
+    "print_url": "https://zxpress.ru/print.php?id=7529",
+    "title_link": "Обзор - Системных программ: ZASM",
+    "order": 18,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Системных_программ_ZASM"
+  },
+  {
+    "article_id": 7530,
+    "article_url": "https://zxpress.ru/article.php?id=7530",
+    "print_url": "https://zxpress.ru/print.php?id=7530",
+    "title_link": "Разборка - Обзор игр на тему \"футболный менеджмент\" : Обзор на тему \"футболный менеджмент\" : THE DOUBLE , MSMANAGER,\r\n MANCHESTER UNITED, KENNY, SOCCER RIVALS , 1-ST DIVISION MANA-\r\n GER, SUPER LEAGUE, SOCCER BOSS, PROFFESIONAL SOCCER FOOTBALL,\r\n MANAGER 2, ADVANCED SOCCER SIMULATOR.",
+    "order": 19,
+    "issue_label": "02",
+    "short_slug": "Разборка_-_Обзор_игр_на_тему_футболныи_менеджмент_Обзор_на_т"
+  },
+  {
+    "article_id": 7531,
+    "article_url": "https://zxpress.ru/article.php?id=7531",
+    "print_url": "https://zxpress.ru/print.php?id=7531",
+    "title_link": "Интервью - Интервью с FIKUS/Flash Inc.",
+    "order": 20,
+    "issue_label": "02",
+    "short_slug": "Интервью_-_Интервью_с_FIKUSFlash_Inc"
+  },
+  {
+    "article_id": 7532,
+    "article_url": "https://zxpress.ru/article.php?id=7532",
+    "print_url": "https://zxpress.ru/print.php?id=7532",
+    "title_link": "Отдохнем - Однажды на лекции.",
+    "order": 21,
+    "issue_label": "02",
+    "short_slug": "Отдохнем_-_Однажды_на_лекции"
+  },
+  {
+    "article_id": 7533,
+    "article_url": "https://zxpress.ru/article.php?id=7533",
+    "print_url": "https://zxpress.ru/print.php?id=7533",
+    "title_link": "История - Хакеры - статья \"ОНО\" - об истории появления хакерства. ч.2",
+    "order": 22,
+    "issue_label": "02",
+    "short_slug": "История_-_Хакеры_-_статья_ОНО_-_об_истории_появления_хакерст"
+  },
+  {
+    "article_id": 7534,
+    "article_url": "https://zxpress.ru/article.php?id=7534",
+    "print_url": "https://zxpress.ru/print.php?id=7534",
+    "title_link": "Система - Перспективы группы Assept Corp: APS v2.0.",
+    "order": 23,
+    "issue_label": "02",
+    "short_slug": "Система_-_Перспективы_группы_Assept_Corp_APS_v20"
+  },
+  {
+    "article_id": 7535,
+    "article_url": "https://zxpress.ru/article.php?id=7535",
+    "print_url": "https://zxpress.ru/print.php?id=7535",
+    "title_link": "Система - Multicolor Studio Compiler",
+    "order": 24,
+    "issue_label": "02",
+    "short_slug": "Система_-_Multicolor_Studio_Compiler"
+  },
+  {
+    "article_id": 7537,
+    "article_url": "https://zxpress.ru/article.php?id=7537",
+    "print_url": "https://zxpress.ru/print.php?id=7537",
+    "title_link": "Разборка - Описание игр: SOCCER RIVALS.",
+    "order": 25,
+    "issue_label": "02",
+    "short_slug": "Разборка_-_Описание_игр_SOCCER_RIVALS"
+  },
+  {
+    "article_id": 7538,
+    "article_url": "https://zxpress.ru/article.php?id=7538",
+    "print_url": "https://zxpress.ru/print.php?id=7538",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 26,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 7539,
+    "article_url": "https://zxpress.ru/article.php?id=7539",
+    "print_url": "https://zxpress.ru/print.php?id=7539",
+    "title_link": "Новости - Колесо обозрения.",
+    "order": 27,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Колесо_обозрения"
+  },
+  {
+    "article_id": 7540,
+    "article_url": "https://zxpress.ru/article.php?id=7540",
+    "print_url": "https://zxpress.ru/print.php?id=7540",
+    "title_link": "Почта - о письмах",
+    "order": 28,
+    "issue_label": "02",
+    "short_slug": "Почта_-_о_письмах"
+  },
+  {
+    "article_id": 7541,
+    "article_url": "https://zxpress.ru/article.php?id=7541",
+    "print_url": "https://zxpress.ru/print.php?id=7541",
+    "title_link": "Почта - Конкурс на лучшую головолмку (первые 2 головоломки).",
+    "order": 29,
+    "issue_label": "02",
+    "short_slug": "Почта_-_Конкурс_на_лучшую_головолмку_первые_2_головоломки"
+  },
+  {
+    "article_id": 7543,
+    "article_url": "https://zxpress.ru/article.php?id=7543",
+    "print_url": "https://zxpress.ru/print.php?id=7543",
+    "title_link": "Обзор - Новые игры: TIME COP, UFO III, MORTAL COMBAT, MINELAYER , SEX\r\n REVERSY, THE MAGIC OF LOGIC, FEUDAL WARS, КУБОК АВИЛЛИАДЫ ,\r\n CHOPPER DUEL, BACK TO SCHOLL, LCP, 750 CC GRANDPRX, INTERNA-\r\n TIONAL KIKBOXING, TAG TEAM WRESTLING, CAPTAIN PLANET,DOC THE\r\n DESTRUE DUX, OLE,TORO!.",
+    "order": 30,
+    "issue_label": "02",
+    "short_slug": "Обзор_-_Новые_игры_TIME_COP_UFO_III_MORTAL_COMBAT_MINELAYER"
+  },
+  {
+    "article_id": 7544,
+    "article_url": "https://zxpress.ru/article.php?id=7544",
+    "print_url": "https://zxpress.ru/print.php?id=7544",
+    "title_link": "Презентация - История группы AURYN.",
+    "order": 31,
+    "issue_label": "02",
+    "short_slug": "Презентация_-_История_группы_AURYN"
+  },
+  {
+    "article_id": 7545,
+    "article_url": "https://zxpress.ru/article.php?id=7545",
+    "print_url": "https://zxpress.ru/print.php?id=7545",
+    "title_link": "Подарок - О приложении к журналу.",
+    "order": 32,
+    "issue_label": "02",
+    "short_slug": "Подарок_-_О_приложении_к_журналу"
+  },
+  {
+    "article_id": 7547,
+    "article_url": "https://zxpress.ru/article.php?id=7547",
+    "print_url": "https://zxpress.ru/print.php?id=7547",
+    "title_link": "Деморынок - Хит парад музыкальных дем.",
+    "order": 33,
+    "issue_label": "02",
+    "short_slug": "Деморынок_-_Хит_парад_музыкальных_дем"
+  },
+  {
+    "article_id": 7548,
+    "article_url": "https://zxpress.ru/article.php?id=7548",
+    "print_url": "https://zxpress.ru/print.php?id=7548",
+    "title_link": "Система - Описание программ: КРАТКОЕ ОПИСАНИЕ КОМАНД Y-COMMANDER.",
+    "order": 34,
+    "issue_label": "02",
+    "short_slug": "Система_-_Описание_программ_КРАТКОЕ_ОПИСАНИЕ_КОМАНД_Y-COMMAN"
+  },
+  {
+    "article_id": 7546,
+    "article_url": "https://zxpress.ru/article.php?id=7546",
+    "print_url": "https://zxpress.ru/print.php?id=7546",
+    "title_link": "авторы - авторы журнала",
+    "order": 35,
+    "issue_label": "02",
+    "short_slug": "авторы_-_авторы_журнала"
+  }
+]

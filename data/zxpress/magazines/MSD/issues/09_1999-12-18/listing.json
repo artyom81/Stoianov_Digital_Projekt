@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 14310,
+    "article_url": "https://zxpress.ru/article.php?id=14310",
+    "print_url": "https://zxpress.ru/print.php?id=14310",
+    "title_link": "Вступление - оглавление.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_оглавление"
+  },
+  {
+    "article_id": 14311,
+    "article_url": "https://zxpress.ru/article.php?id=14311",
+    "print_url": "https://zxpress.ru/print.php?id=14311",
+    "title_link": "Вступление - от ORC GOD.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_от_ORC_GOD"
+  },
+  {
+    "article_id": 14312,
+    "article_url": "https://zxpress.ru/article.php?id=14312",
+    "print_url": "https://zxpress.ru/print.php?id=14312",
+    "title_link": "А знаете ли вы что - Нашей группой готовится к выходу печаталка текстов 8х8...",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "А_знаете_ли_вы_что_-_Нашеи_группои_готовится_к_выходу_печата"
+  },
+  {
+    "article_id": 14313,
+    "article_url": "https://zxpress.ru/article.php?id=14313",
+    "print_url": "https://zxpress.ru/print.php?id=14313",
+    "title_link": "Игры - Черный ворон - Промежуточный репорт.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Игры_-_Черныи_ворон_-_Промежуточныи_репорт"
+  },
+  {
+    "article_id": 14314,
+    "article_url": "https://zxpress.ru/article.php?id=14314",
+    "print_url": "https://zxpress.ru/print.php?id=14314",
+    "title_link": "Железо - схема расширения памяти на SIMM от JtN/4D.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Железо_-_схема_расширения_памяти_на_SIMM_от_JtN4D"
+  },
+  {
+    "article_id": 14315,
+    "article_url": "https://zxpress.ru/article.php?id=14315",
+    "print_url": "https://zxpress.ru/print.php?id=14315",
+    "title_link": "Программирование - Оптимизация программ\r\n или пишем загрузчик в кодах.",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Программирование_-_Оптимизация_программ_или_пишем_загрузчик"
+  },
+  {
+    "article_id": 14316,
+    "article_url": "https://zxpress.ru/article.php?id=14316",
+    "print_url": "https://zxpress.ru/print.php?id=14316",
+    "title_link": "Реклама - реклама, объявления, каталог.",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_реклама_объявления_каталог"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 300,
+  "magazine_name": "Spectrofun",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-06-30",
+  "order": 4,
+  "article_id": 17769,
+  "title_link": "Полка - Сегодня мы вам предлагаем новую рубрику.",
+  "title_h1": "Spectrofun 03 - Полка - Сегодня мы вам предлагаем новую рубрику.",
+  "print_url": "https://zxpress.ru/print.php?id=17769",
+  "article_url": "https://zxpress.ru/article.php?id=17769",
+  "fetched_at": "2026-05-31T23:41:41Z"
+}

@@ -1,0 +1,13 @@
+1-3 - Topchars
+T H I S   I S   T O P C H A R S.
+TOPCHARS simply consists of two character sets which are printed consecutively. This program has a convenient routine to display the TOPCHARS text but you may, of course, prefer to write your own routines.
+
+Of the two TOPCHARS character sets, one holds the design of the top half of the text and one holds the bottom half, thus:-
+In this program, the text that you wish to PRINT is stored as DATA in BASIC and then the subroutine at 8000 is called with a GOSUB P (We used the variable P for convenience - GOSUB 8000 will do just as well).
+The subroutine at LINE 8000 RESTORES the DATA at the line which calls it automatically and READS it. It then pokes in a new character set which consists of the top half of the large TOPCHARS text and prints ONE LINE ONLY thus:-
+THIS IS HALF OF TOPCHARS 
+It then prints the bottom half underneath thus:-
+The routine automatically 'wordwraps' - that is, it does NOT split words in two at the end of a line and put the last half on the next line so you can type a paragraph of text straight into a DATA statement without leaving any extra spaces at the end of the lines.
+That's all there is to it reallybut here's a bit of the normal Sinclair character set just for comparison 
+This is TOPCHARS. Although not suitable for every application you can see that generally it is a lot clearer and easier on the eye...
+The TOPCHARS character sets are at 61952 and 62720 and are paged in by POKE 23606,0 (which it normally is so may not need poking at all) and POKE 23607,244 for the top half of TOPCHARS and POKE 23607,241 for the bottom half. You can, of course, move the TOPCHARS code elsewhere in memory.

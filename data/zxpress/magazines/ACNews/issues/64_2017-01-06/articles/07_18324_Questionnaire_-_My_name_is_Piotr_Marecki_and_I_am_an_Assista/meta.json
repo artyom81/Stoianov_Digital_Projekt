@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "64",
+  "issue_date_iso": "2017-01-06",
+  "order": 7,
+  "article_id": 18324,
+  "title_link": "Questionnaire - My name is Piotr Marecki and I am an Assistant Professor at the\r\nJagiellonian University in Krakow. Together with two \r\ndemosceners, Yerzmyey and Hellboj, we decided to write a book\r\nabout the ZX Spectrum.",
+  "title_h1": "ACNews 64 - Questionnaire - My name is Piotr Marecki and I am an Assistant Professor at the Jagiellonian University in Krakow. Together with two  demosceners, Yerzmyey and Hellboj, we decided to write a book about the ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=18324",
+  "article_url": "https://zxpress.ru/article.php?id=18324",
+  "fetched_at": "2026-05-31T21:31:51Z"
+}

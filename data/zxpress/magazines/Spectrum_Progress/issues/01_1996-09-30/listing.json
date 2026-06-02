@@ -1,0 +1,236 @@
+[
+  {
+    "article_id": 9966,
+    "article_url": "https://zxpress.ru/article.php?id=9966",
+    "print_url": "https://zxpress.ru/print.php?id=9966",
+    "title_link": "От редакции - Приглашаем вас, дорогие читатели, в мир творчества, в мир Спектрума.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_Приглашаем_вас_дорогие_читатели_в_мир_творчест"
+  },
+  {
+    "article_id": 9967,
+    "article_url": "https://zxpress.ru/article.php?id=9967",
+    "print_url": "https://zxpress.ru/print.php?id=9967",
+    "title_link": "От редакции - описание оболочки журнала.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_описание_оболочки_журнала"
+  },
+  {
+    "article_id": 9968,
+    "article_url": "https://zxpress.ru/article.php?id=9968",
+    "print_url": "https://zxpress.ru/print.php?id=9968",
+    "title_link": "Игротека - прохождение известной игры Prince of Persia.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Игротека_-_прохождение_известнои_игры_Prince_of_Persia"
+  },
+  {
+    "article_id": 9969,
+    "article_url": "https://zxpress.ru/article.php?id=9969",
+    "print_url": "https://zxpress.ru/print.php?id=9969",
+    "title_link": "Игротека - описание уникальное недетерминированной игре Soldiers of the Future.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Игротека_-_описание_уникальное_недетерминированнои_игре_Sold"
+  },
+  {
+    "article_id": 9970,
+    "article_url": "https://zxpress.ru/article.php?id=9970",
+    "print_url": "https://zxpress.ru/print.php?id=9970",
+    "title_link": "Игротека - описание игры про мафиози и ФБР - The Movie.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Игротека_-_описание_игры_про_мафиози_и_ФБР_-_The_Movie"
+  },
+  {
+    "article_id": 9971,
+    "article_url": "https://zxpress.ru/article.php?id=9971",
+    "print_url": "https://zxpress.ru/print.php?id=9971",
+    "title_link": "Записки программиста - работа с расширенной опертивной памятью на ZX Spectrum.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Записки_программиста_-_работа_с_расширеннои_опертивнои_памят"
+  },
+  {
+    "article_id": 9972,
+    "article_url": "https://zxpress.ru/article.php?id=9972",
+    "print_url": "https://zxpress.ru/print.php?id=9972",
+    "title_link": "Записки программиста - унивкрсальная библиотека для работы с графикой от Вячеслава Медноногова - Graphic Library v1.1",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Записки_программиста_-_унивкрсальная_библиотека_для_работы_с"
+  },
+  {
+    "article_id": 9973,
+    "article_url": "https://zxpress.ru/article.php?id=9973",
+    "print_url": "https://zxpress.ru/print.php?id=9973",
+    "title_link": "Записки программиста - о русификации программ (перевод на русский язык).",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Записки_программиста_-_о_русификации_программ_перевод_на_рус"
+  },
+  {
+    "article_id": 9974,
+    "article_url": "https://zxpress.ru/article.php?id=9974",
+    "print_url": "https://zxpress.ru/print.php?id=9974",
+    "title_link": "Записки программиста - глюк монитора отладчика в ZS Scorpion 256.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Записки_программиста_-_глюк_монитора_отладчика_в_ZS_Scorpion"
+  },
+  {
+    "article_id": 9975,
+    "article_url": "https://zxpress.ru/article.php?id=9975",
+    "print_url": "https://zxpress.ru/print.php?id=9975",
+    "title_link": "Инструментарий - Предлагаем познакомиться с новой операционной системой Domen OS!",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Инструментарии_-_Предлагаем_познакомиться_с_новои_операционн"
+  },
+  {
+    "article_id": 9976,
+    "article_url": "https://zxpress.ru/article.php?id=9976",
+    "print_url": "https://zxpress.ru/print.php?id=9976",
+    "title_link": "Инструментарий - описание нового редактора шрифтов FONT EDITOR.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Инструментарии_-_описание_нового_редактора_шрифтов_FONT_EDIT"
+  },
+  {
+    "article_id": 9977,
+    "article_url": "https://zxpress.ru/article.php?id=9977",
+    "print_url": "https://zxpress.ru/print.php?id=9977",
+    "title_link": "Инструментарий - программа для работы с модемом на ZX Spectrum - Macro Modem (MMD).",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Инструментарии_-_программа_для_работы_с_модемом_на_ZX_Spectr"
+  },
+  {
+    "article_id": 9978,
+    "article_url": "https://zxpress.ru/article.php?id=9978",
+    "print_url": "https://zxpress.ru/print.php?id=9978",
+    "title_link": "Железяка - Фирма \"Петерс\" представляет свою новую\r\nразработку домашнего компьютера \"Спринтер\".",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Железяка_-_Фирма_Петерс_представляет_свою_новуюразработку_до"
+  },
+  {
+    "article_id": 9979,
+    "article_url": "https://zxpress.ru/article.php?id=9979",
+    "print_url": "https://zxpress.ru/print.php?id=9979",
+    "title_link": "Железяка - история создания и развития фирмы \"ПЕТЕРС\".",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Железяка_-_история_создания_и_развития_фирмы_ПЕТЕРС"
+  },
+  {
+    "article_id": 9980,
+    "article_url": "https://zxpress.ru/article.php?id=9980",
+    "print_url": "https://zxpress.ru/print.php?id=9980",
+    "title_link": "Железяка - Схема модема для работы c программой Macro Modem.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Железяка_-_Схема_модема_для_работы_c_программои_Macro_Modem"
+  },
+  {
+    "article_id": 9981,
+    "article_url": "https://zxpress.ru/article.php?id=9981",
+    "print_url": "https://zxpress.ru/print.php?id=9981",
+    "title_link": "Конкурс - на лучшее название нового домашнего компьютера для современного пользователя!",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Конкурс_-_на_лучшее_название_нового_домашнего_компьютера_для"
+  },
+  {
+    "article_id": 9982,
+    "article_url": "https://zxpress.ru/article.php?id=9982",
+    "print_url": "https://zxpress.ru/print.php?id=9982",
+    "title_link": "Новости - новые проекты на Спектруме: Легенды о Кирандии, Dune 2, Модемные Шахматы, Спртнтер, Домен ОС, Новый графический редактор для СПРИНТЕРА.",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новые_проекты_на_Спектруме_Легенды_о_Кирандии_Dune"
+  },
+  {
+    "article_id": 9983,
+    "article_url": "https://zxpress.ru/article.php?id=9983",
+    "print_url": "https://zxpress.ru/print.php?id=9983",
+    "title_link": "Новости - краткий отчет и результаты с Enlight'96.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Новости_-_краткии_отчет_и_результаты_с_Enlight96"
+  },
+  {
+    "article_id": 9984,
+    "article_url": "https://zxpress.ru/article.php?id=9984",
+    "print_url": "https://zxpress.ru/print.php?id=9984",
+    "title_link": "Водолей - открыта последнняя тайна легендарной игры ELITE!",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Водолеи_-_открыта_последнняя_таина_легендарнои_игры_ELITE"
+  },
+  {
+    "article_id": 9985,
+    "article_url": "https://zxpress.ru/article.php?id=9985",
+    "print_url": "https://zxpress.ru/print.php?id=9985",
+    "title_link": "Форум - Уважаемые читатели - пишите письма!",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Форум_-_Уважаемые_читатели_-_пишите_письма"
+  },
+  {
+    "article_id": 9986,
+    "article_url": "https://zxpress.ru/article.php?id=9986",
+    "print_url": "https://zxpress.ru/print.php?id=9986",
+    "title_link": "Реклама - бесплатная реклама и обьявления.",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_бесплатная_реклама_и_обьявления"
+  },
+  {
+    "article_id": 1940,
+    "article_url": "https://zxpress.ru/article.php?id=1940",
+    "print_url": "https://zxpress.ru/print.php?id=1940",
+    "title_link": "Обо всем понемногу - Подключение AY-Mouse.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Обо_всем_понемногу_-_Подключение_AY-Mouse"
+  },
+  {
+    "article_id": 12937,
+    "article_url": "https://zxpress.ru/article.php?id=12937",
+    "print_url": "https://zxpress.ru/print.php?id=12937",
+    "title_link": "Железяки - сaмoстoятельное изгoтoвление печaтных плaт.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Железяки_-_сaмoстoятельное_изгoтoвление_печaтных_плaт"
+  },
+  {
+    "article_id": 7677,
+    "article_url": "https://zxpress.ru/article.php?id=7677",
+    "print_url": "https://zxpress.ru/print.php?id=7677",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 102,
+    "article_url": "https://zxpress.ru/article.php?id=102",
+    "print_url": "https://zxpress.ru/print.php?id=102",
+    "title_link": "BBS NEWS - Список действующих серверов.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "BBS_NEWS_-_Список_деиствующих_серверов"
+  },
+  {
+    "article_id": 10484,
+    "article_url": "https://zxpress.ru/article.php?id=10484",
+    "print_url": "https://zxpress.ru/print.php?id=10484",
+    "title_link": "Бук - Похождения Штиpлица и дpугие пpиключения Боpмана.",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Бук_-_Похождения_Штиpлица_и_дpугие_пpиключения_Боpмана"
+  }
+]

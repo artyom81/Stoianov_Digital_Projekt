@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-04-24",
+  "order": 1,
+  "article_id": 345,
+  "title_link": "Коротко о разном - О командерах. О клавиатурах.\r\n Сериалы на TV.\r\n Рассуждения об адвентюрах.",
+  "title_h1": "Micro 03 - Коротко о разном - О командерах. О клавиатурах.             Сериалы на TV.             Рассуждения об адвентюрах.",
+  "print_url": "https://zxpress.ru/print.php?id=345",
+  "article_url": "https://zxpress.ru/article.php?id=345",
+  "fetched_at": "2026-05-31T22:25:13Z"
+}

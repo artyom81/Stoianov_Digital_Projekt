@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-11-21",
+  "order": 5,
+  "article_id": 15452,
+  "title_link": "Новости - Новость дня.",
+  "title_h1": "Next 07 - Новости - Новость дня.",
+  "print_url": "https://zxpress.ru/print.php?id=15452",
+  "article_url": "https://zxpress.ru/article.php?id=15452",
+  "fetched_at": "2026-05-31T22:19:03Z"
+}

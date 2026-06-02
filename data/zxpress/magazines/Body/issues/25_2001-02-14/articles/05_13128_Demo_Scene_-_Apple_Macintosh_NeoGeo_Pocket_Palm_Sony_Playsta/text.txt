@@ -1,0 +1,74 @@
+Body 25 - Demo Scene - Apple Macintosh, NeoGeo Pocket, Palm, Sony Playstation, GameBoy.
+■························[
+Demo Scene
+]·························■
+источник: DEMO.DESIGN FAQ, http://www.enlight.ru/demo/faq
+Apple Macintosh
+Процессор:  Серия  Motorola  68k  либо  PowerPC.  демо обычно до
+640x480x1бмлн цветов Существует демосцена. Первые демо появились
+в 1993. Размер demo обычно не более ЗMB. Ассемблер при написании
+используется редко (обычно целиком на С)
+
+О демосцене в СССР и России ничего не известно.
+NeoGeo Pocket (color)
+Игровая  карманная  машинка. Трудно сказать насчет демосцены, но
+отдельные  демо существуют, также как и сцена сама по себе. Main
+CPU:  TLCS-900H (based on the TMP95CSбЧF package) Sound CPU: Z80
+RAM: ~12K Игры/программы на картриджах (ROM)
+
+В СССР и России сцена не замечена.
+Palm (Pilot)
+Palm  и другие компьютеры с операционной системой PalmOS (Visor,
+TRGPro)   Представляют   собой   PDA   -  карманные  портативные
+компьютеры.  Наиболее  общие характеристики: - Motorola 68000 (в
+варианте  68328) 16-2SMHz - 160x160 точек, черно-белые (2, 8, 16
+уровней  серого)  либо  цветные  (256 цветов) - 2-8MB RAM (может
+быть  расширено)  -  несколько  кнопок,  перьевой  ввод  -  звук
+однобитный  либо  4  битный  (в  TRGPro)  -  интерфейс  RS232, в
+некоторых  также USB, CompactFlash, SpringBoard Демосцена только
+появляется.  Разработка  приложений  на  PC  (есть  варианты)  с
+использованием   GNU   C,  CodeWarrior  C,  Assembler,  а  также
+непосредственно на Palm (C, Forth, другие языки).
+Sony Playstation
+Sony  Playstation  (PSX)  -  игровая  приставка  (game console).
+
+Существует  две  модели: Sony Playstation (PSX): - R3000A (32bit
+RISC), ЗЗMHz - BUS 132 MB/sec. - Geometry Transfer Engine - Data
+Comrpession  Engine  - RAM: 2MB, VRAM: 1MB, SoundRAM: 512K, ROM:
+~512K,  RAM  картриджи:  128K flash - Sound: Digital, 24 канала,
+ЧЧKHz,  Digital  FX  - Graphics: Чbit..2Чbit, 256x240...640x480.
+Аппаратные спрайты, 3D engine - CD-ROM (2x) - TV/RGB/SCART out.
+выпускается с 1994
+
+Sony  Playstation  2 (PSX2): - Sony Emotion Engine (128bit RISC,
+на  базе архитектуры MIPS IV), 29SMHz - 32MB RAM - Sony Graphics
+Synthesizer,  148MHz,  ЧMB  VRAM - звук - Sony SPU2, 48 каналов,
+2RAM   под   инструменты   -   процессор   ввода-вывода  (слегка
+модифицированный  центральный  от  PSX). ЗЧMHz, 2MB RAM - CD-ROM
+(24x), DVD-ROM (4x)
+выпускается с 2000. Для Playstation 2 пока нет demo, поэтому все
+что ниже относится к Playstation 1.
+
+Разработка приложений на PC (есть варианты) с использованием GNU
+C++.  Отладка  и загрузка приложений осуществляется через Action
+Replay  + Comms Link. Готовую вещь записывают на CDR. В качестве
+музыки  используют  .MOD.  Признаки  наличия демосцены появились
+примерно в 1996. Demo обычно не превышает мегабайта, участвуют в
+demo party (например - Assembly'2000)
+
+В СССР и России демосцена отсутствует, хотя программисты пишущие
+под PSX есть.
+GameBoy (original и color)
+Игровая  карманная  машинка  Демосцена есть. Кроме того, сама по
+себе сцена для этой машинки очень развита.
+CPU:  8-bit  (Аналог  Z80.) Main RAM: 8K Byte Video RAM: 8K Byte
+Screen  Size  2.6"  Resolution:  160x144  (20x18 tiles) Max # of
+sprites:  40  Max  #  sprites/line: 10 Max sprite size: 8x16 Min
+sprite  size:  8x8  Clock  Speed: 4.194304 MHz (4.295454 MHz for
+Super GB) Sound: 4 channels with stereo sound
+Применительно  к  демосцене подрузамевают обычно Gameboy Color с
+цветным LCD.
+Игры/программы на картриджах (ROM)
+Представлен  на  demo  party  (например  - Mekka Symposium 2000,
+GBDEV'99)
+Признаки демосцена есть например в Беларуси.

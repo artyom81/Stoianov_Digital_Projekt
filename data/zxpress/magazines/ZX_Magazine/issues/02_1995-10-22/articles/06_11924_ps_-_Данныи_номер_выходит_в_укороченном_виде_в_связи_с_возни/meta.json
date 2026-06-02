@@ -1,0 +1,15 @@
+{
+  "magazine_id": 268,
+  "magazine_name": "ZX Magazine",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1995-10-22",
+  "order": 6,
+  "article_id": 11924,
+  "title_link": "p.s. - Данный номер выходит в укороченном виде в связи с возникшими у\r\nнас проблемами.",
+  "title_h1": "ZX Magazine 02 - p.s. - Данный номер выходит в укороченном виде в связи с возникшими у нас проблемами.",
+  "print_url": "https://zxpress.ru/print.php?id=11924",
+  "article_url": "https://zxpress.ru/article.php?id=11924",
+  "fetched_at": "2026-05-31T23:27:29Z"
+}

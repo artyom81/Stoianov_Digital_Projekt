@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "1998-09-30",
+  "order": 13,
+  "article_id": 8005,
+  "title_link": "CODING - Драйвер чтения/записи.",
+  "title_h1": "Deja Vu 06 - CODING - Драйвер чтения/записи.",
+  "print_url": "https://zxpress.ru/print.php?id=8005",
+  "article_url": "https://zxpress.ru/article.php?id=8005",
+  "fetched_at": "2026-05-31T21:55:01Z"
+}

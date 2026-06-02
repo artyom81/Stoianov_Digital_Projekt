@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "38",
+  "issue_date_iso": "2005-01-24",
+  "order": 4,
+  "article_id": 17990,
+  "title_link": "Конец - Список Заслуженных Пользователей AC Edit.",
+  "title_h1": "ACNews 38 - Конец - Список Заслуженных Пользователей AC Edit.",
+  "print_url": "https://zxpress.ru/print.php?id=17990",
+  "article_url": "https://zxpress.ru/article.php?id=17990",
+  "fetched_at": "2026-05-31T21:31:06Z"
+}

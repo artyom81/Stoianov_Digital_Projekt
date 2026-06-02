@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "39",
+  "issue_date_iso": "1997-08-18",
+  "order": 1,
+  "article_id": 2972,
+  "title_link": "Автозагрузка - Автостарт программ с любого диска.",
+  "title_h1": "ZX-News 39 - Автозагрузка - Автостарт программ с любого диска.",
+  "print_url": "https://zxpress.ru/print.php?id=2972",
+  "article_url": "https://zxpress.ru/article.php?id=2972",
+  "fetched_at": "2026-05-31T23:29:46Z"
+}

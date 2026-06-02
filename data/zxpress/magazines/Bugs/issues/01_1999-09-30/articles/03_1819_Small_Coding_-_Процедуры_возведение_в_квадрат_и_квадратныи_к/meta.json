@@ -1,0 +1,15 @@
+{
+  "magazine_id": 34,
+  "magazine_name": "Bugs",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-09-30",
+  "order": 3,
+  "article_id": 1819,
+  "title_link": "Small Coding - Процедуры возведение в квадрат и квадратный корень.",
+  "title_h1": "Bugs 01 - Small Coding - Процедуры возведение в квадрат и квадратный корень.",
+  "print_url": "https://zxpress.ru/print.php?id=1819",
+  "article_url": "https://zxpress.ru/article.php?id=1819",
+  "fetched_at": "2026-05-31T21:46:44Z"
+}

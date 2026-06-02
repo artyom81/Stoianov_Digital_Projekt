@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1275,
+    "article_url": "https://zxpress.ru/article.php?id=1275",
+    "print_url": "https://zxpress.ru/print.php?id=1275",
+    "title_link": "ZX-Обоз - Ирландские частушки - лимерики.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "ZX-Обоз_-_Ирландские_частушки_-_лимерики"
+  },
+  {
+    "article_id": 1274,
+    "article_url": "https://zxpress.ru/article.php?id=1274",
+    "print_url": "https://zxpress.ru/print.php?id=1274",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Plutonium 10, Nicron 105, C-Net Week n18.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Plutonium_10_Nicron_105_C"
+  },
+  {
+    "article_id": 1269,
+    "article_url": "https://zxpress.ru/article.php?id=1269",
+    "print_url": "https://zxpress.ru/print.php?id=1269",
+    "title_link": "Ликбез - Без карты ни шагу: советы будущим писателям.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Ликбез_-_Без_карты_ни_шагу_советы_будущим_писателям"
+  },
+  {
+    "article_id": 1277,
+    "article_url": "https://zxpress.ru/article.php?id=1277",
+    "print_url": "https://zxpress.ru/print.php?id=1277",
+    "title_link": "Лит. страничка - Тени прошлых лет.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Лит_страничка_-_Тени_прошлых_лет"
+  },
+  {
+    "article_id": 1273,
+    "article_url": "https://zxpress.ru/article.php?id=1273",
+    "print_url": "https://zxpress.ru/print.php?id=1273",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1276,
+    "article_url": "https://zxpress.ru/article.php?id=1276",
+    "print_url": "https://zxpress.ru/print.php?id=1276",
+    "title_link": "Стихи - Новый год.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Стихи_-_Новыи_год"
+  },
+  {
+    "article_id": 1271,
+    "article_url": "https://zxpress.ru/article.php?id=1271",
+    "print_url": "https://zxpress.ru/print.php?id=1271",
+    "title_link": "Страницы истории - Сказ о ДВМ.",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Страницы_истории_-_Сказ_о_ДВМ"
+  }
+]

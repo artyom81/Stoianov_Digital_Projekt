@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16597,
+    "article_url": "https://zxpress.ru/article.php?id=16597",
+    "print_url": "https://zxpress.ru/print.php?id=16597",
+    "title_link": "Список BBS - ZX-Net 095.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Список_BBS_-_ZX-Net_095"
+  },
+  {
+    "article_id": 16598,
+    "article_url": "https://zxpress.ru/article.php?id=16598",
+    "print_url": "https://zxpress.ru/print.php?id=16598",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16599,
+    "article_url": "https://zxpress.ru/article.php?id=16599",
+    "print_url": "https://zxpress.ru/print.php?id=16599",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16600,
+    "article_url": "https://zxpress.ru/article.php?id=16600",
+    "print_url": "https://zxpress.ru/print.php?id=16600",
+    "title_link": "Юмор - Приколы.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Юмор_-_Приколы"
+  },
+  {
+    "article_id": 16601,
+    "article_url": "https://zxpress.ru/article.php?id=16601",
+    "print_url": "https://zxpress.ru/print.php?id=16601",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16602,
+    "article_url": "https://zxpress.ru/article.php?id=16602",
+    "print_url": "https://zxpress.ru/print.php?id=16602",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

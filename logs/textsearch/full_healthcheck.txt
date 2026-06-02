@@ -1,0 +1,58 @@
+TextSearch Healthcheck
+======================
+Index-Verzeichnis: index_dir
+Tools-Verzeichnis: scripts/TextSearch/_tools
+
+--- Schritt: Feldabdeckung ---
+Befehl: /Users/stoia1/miniforge3/envs/Dig-Project-arm64/bin/python scripts/TextSearch/_tools/feldabdeckung.py --index-dir index_dir
+Returncode: 0
+Status: OK
+
+=== Feldabdeckung / STDOUT ===
+Index: index_dir
+Dokumente: 18481
+
+Feldabdeckung:
+- content: 18481/18481 (100.0%)
+- title: 18481/18481 (100.0%)
+- magazine: 18481/18481 (100.0%)
+- form: 0/18481 (0.0%)
+- language: 18481/18481 (100.0%)
+- filename: 18481/18481 (100.0%)
+- issue_date_iso: 18481/18481 (100.0%)
+- article_url: 18481/18481 (100.0%)
+- issue_date_epoch_ms: 17512/18481 (94.8%)
+- issue_label: 18481/18481 (100.0%)
+
+=== Feldabdeckung / STDERR ===
+WARNING: Using incubator modules: jdk.incubator.vector
+Juni 02, 2026 3:56:53 AM org.apache.lucene.internal.vectorization.PanamaVectorizationProvider <init>
+INFORMATION: Java vector incubator API enabled; uses preferredBitSize=128
+
+--- Schritt: Index-Basisprüfung ---
+Befehl: /Users/stoia1/miniforge3/envs/Dig-Project-arm64/bin/python scripts/TextSearch/_tools/indexueberpruefen.py --index-dir index_dir
+Returncode: 0
+Status: OK
+
+=== Index-Basisprüfung / STDOUT ===
+Index: index_dir
+numDocs: 18481
+maxDoc : 18481
+MatchAllDocsQuery: 1001 Treffer
+
+Query-Tests:
+- 'спектрум': content=1345, title=117
+- 'covox OR ковокс': content=731, title=24
+- 'игра': content=1160, title=167
+
+Gesamtstatus: OK
+
+=== Index-Basisprüfung / STDERR ===
+WARNING: Using incubator modules: jdk.incubator.vector
+Juni 02, 2026 3:56:55 AM org.apache.lucene.internal.vectorization.PanamaVectorizationProvider <init>
+INFORMATION: Java vector incubator API enabled; uses preferredBitSize=128
+
+=== Gesamtfazit ===
+✅ TextSearch-Healthcheck erfolgreich.
+Der Lucene-Index ist lesbar und die Basispruefungen fuer Searcher/Index sind erfolgreich.
+

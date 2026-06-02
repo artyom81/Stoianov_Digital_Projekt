@@ -1,0 +1,142 @@
+Scenergy 02 - Illegal Corner - Welcome to Scenergy Release Charts (SRC).
+Welcome to Scenergy Release Charts (SRC)
+
+
+Directories, named /firstreleases/, are created for special
+purpose, so don't use them for uploads unless you didn't read
+this.
+
+These directories can be found on several speccy scene FTP sites
+and are created especially for firstreleases - all cracks of
+games, which are finished and released (and therefore also
+cracked not earlier) after 01.01.2000. The word "firstrelease"
+may tell you the essence - it means that the group who managed
+to crack and upload it first, have the firstrelease, all other
+groups can have simple release or in some cases - rerelease.
+To have a firstrelease, group have to upload crack to as much
+FTP sites (there are five sites taken in consideration) as
+possible. If some site is down, group should send e-mail to
+Scenergy magazine (scenergy@chaosite.com) informing about time
+and site it happened and try to upload again a bit later.
+
+While these directories were made for SRC, they can be surely
+used as source for release charts in other magazines as well as
+they can set up and use their own sites.
+
+See http://www.chaosite.com/scenergy/src.html for latest news
+about our thing.
+
+
+Rules (for SRC).
+
+1. All releases, uploaded to directories /firstreleases/ will be
+pretending to status "firstrelease"
+
+2. Release must be game released by author after 01.01.2000 and
+that also means that crack can't be performed earlier.
+
+3. Crack have to be uploaded to as much of FTP's listed below as
+possible. If any of these are down, please inform Scenergy by
+sending e-mail and try again later. If upload will not suceed
+later, it will be counted as firstie anyway. However, if any
+other group upload the same release to more FTP's than first
+group, they will get the firstrelease except cases when Scenergy
+received e-mail about sites being down. See also rule #5.
+
+4. All the cracks of the same game which will be uploaded to FTP
+sites later than three hours after first group uploaded their
+version, will be counted as rereleases. Also, minus points as
+rerelease will get all the games made before 01.01.2000.
+
+5. There exist a three hours rule. It means that if there will
+be uploaded crack of the game already upped by other group
+earlier within 3 hours, it will not be punished with minus
+points. However, it will not receive points at all unless rule
+#3 will activate.
+
+6. Minor bugs will be get minus points, but major bugs which
+makes game unplayable, will not be counted as firstrelease.
+Non-english games will be counted as firstrelease, but they will
+recieve less points if they are unplayable for these knowning
+only english, also group which will release translated version
+later, will recieve points.
+
+7. Game can be released both in TAP and TR-DOS formats. First
+release not depending on format will recieve usual points, while
+release in other format uploaded later (it can be release of
+some other group too) will get from 1 to 2 points. If there is
+uniloader in the first release, it will recieve usual points
+plus 2 to 3 points bonus.
+
+8. Points for the firstreleases will be given depending on the
+quality of the game and quality of the crack. The judgement will
+be performed by editors of SRC.
+
+9. All cracks will be tested at least on differently configured
+pentagons and scorpions.
+
+10. Editors of SRC have rights to add or remove points for
+special things not included in rules.
+
+11. Detailed information about SRC:
+Editors of Scenergy Release Charts:
+#в”Ђ
+Raver/Phantasy
+Max Iwamoto/Code Busters
+
+
+Used FTP sites:
+в”Ђ
+Acid Nature [Phantasy and Progress HQ]
+ftp://ftp.oic.lv/acid-nature/speccy/incoming/firstreleases/
+
+Chaosite [Concern Chaos HQ]
+ftp://chaosite.com:303/incoming/firstreleases/
+
+Sweet Confusion [Phantasy and Fatality HQ]
+ftp://not.available.at.the.mo/incoming/firstreleases/
+
+Ascendancy [Ascendancy Creative Labs HQ]
+ftp://ftp.telecom.grodno.by/zxspectrum/uploads/firstreleases/
+
+Soul's Storage [Digital Reality HQ]
+ftp:down.for.good.times                      
+
+
+Main points:
+в”Ђ
+English or foreign language playable previews: 1-2 points
+Unplayable foreign previews: 1 point
+English or foreign language playable full games: 3-5 points
+Unplayable foreign full games: 3 points
+
+Crack points:
+
+в”Ђ
+Trainer: 0-2 points
+Translation: 0-2 points
+Missing format (TAP/TR-DOS): 1-2 points
+Uniloader: 2-3 points
+
+
+
+Bonus points:
+
+в”Ђ
+Multicolor/#FD fix: 0-2 points
+Docs included: 0-2 point
+TR-DOS save/load added: 1.5 points
+Hi-score saver installed: 1.5 points
+
+Minus points:
+
+в”Ђ
+Rerelease: -5 points
+No crunching: -3 points
+No trainer: -1 point
+Minor bugs: -1 point
+Not onefiled: -1 point (except uniloaders)
+
+
+
+Happy Cracking!

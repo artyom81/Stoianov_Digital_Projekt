@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6825,
+    "article_url": "https://zxpress.ru/article.php?id=6825",
+    "print_url": "https://zxpress.ru/print.php?id=6825",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "55",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6826,
+    "article_url": "https://zxpress.ru/article.php?id=6826",
+    "print_url": "https://zxpress.ru/print.php?id=6826",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "55",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6827,
+    "article_url": "https://zxpress.ru/article.php?id=6827",
+    "print_url": "https://zxpress.ru/print.php?id=6827",
+    "title_link": "Рассказы - Возрадуемся до плеши?",
+    "order": 3,
+    "issue_label": "55",
+    "short_slug": "Рассказы_-_Возрадуемся_до_плеши"
+  },
+  {
+    "article_id": 6828,
+    "article_url": "https://zxpress.ru/article.php?id=6828",
+    "print_url": "https://zxpress.ru/print.php?id=6828",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 4,
+    "issue_label": "55",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6829,
+    "article_url": "https://zxpress.ru/article.php?id=6829",
+    "print_url": "https://zxpress.ru/print.php?id=6829",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 5,
+    "issue_label": "55",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 11052,
+    "article_url": "https://zxpress.ru/article.php?id=11052",
+    "print_url": "https://zxpress.ru/print.php?id=11052",
+    "title_link": "Вступление - о новой Питерской газете.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_о_новои_Питерскои_газете"
+  },
+  {
+    "article_id": 11051,
+    "article_url": "https://zxpress.ru/article.php?id=11051",
+    "print_url": "https://zxpress.ru/print.php?id=11051",
+    "title_link": "Новости - появление в продаже TurboSound FM, Недавно встретился с Surfin Bird, Послал денег ALCO, убились два почтовых раздела на ZX-HDD, Заказал у CARO плату ZX MULTI CARD, В этом году на Спектрум уже было потрачено 2994 рубля.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Новости_-_появление_в_продаже_TurboSound_FM_Недавно_встретил"
+  },
+  {
+    "article_id": 11053,
+    "article_url": "https://zxpress.ru/article.php?id=11053",
+    "print_url": "https://zxpress.ru/print.php?id=11053",
+    "title_link": "ЦЦ2000 - отчет с питерского фестиваля КОHСТРУКЦИИ ХАОСА 2000.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "ЦЦ2000_-_отчет_с_питерского_фестиваля_КОHСТРУКЦИИ_ХАОСА_2000"
+  },
+  {
+    "article_id": 4677,
+    "article_url": "https://zxpress.ru/article.php?id=4677",
+    "print_url": "https://zxpress.ru/print.php?id=4677",
+    "title_link": "Горячий привет - юмористический рассказ на компьютерную тематику \"Виртуальный Театр\".",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Горячии_привет_-_юмористическии_рассказ_на_компьютерную_тема"
+  },
+  {
+    "article_id": 13920,
+    "article_url": "https://zxpress.ru/article.php?id=13920",
+    "print_url": "https://zxpress.ru/print.php?id=13920",
+    "title_link": "Конец - А чтo, сoбственнo, былo?",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Конец_-_А_чтo_сoбственнo_былo"
+  },
+  {
+    "article_id": 5731,
+    "article_url": "https://zxpress.ru/article.php?id=5731",
+    "print_url": "https://zxpress.ru/print.php?id=5731",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 6475,
+    "article_url": "https://zxpress.ru/article.php?id=6475",
+    "print_url": "https://zxpress.ru/print.php?id=6475",
+    "title_link": "Железо - Защита КР1818ВГ93.",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Железо_-_Защита_КР1818ВГ93"
+  },
+  {
+    "article_id": 3640,
+    "article_url": "https://zxpress.ru/article.php?id=3640",
+    "print_url": "https://zxpress.ru/print.php?id=3640",
+    "title_link": "Groups - анкеты действующих групп: RUSH.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_RUSH"
+  }
+]

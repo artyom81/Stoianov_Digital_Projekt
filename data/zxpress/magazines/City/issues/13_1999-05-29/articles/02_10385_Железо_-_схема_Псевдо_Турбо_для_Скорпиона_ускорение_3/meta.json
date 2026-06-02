@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1999-05-29",
+  "order": 2,
+  "article_id": 10385,
+  "title_link": "Железо - схема Псевдо Турбо для Скорпиона (ускорение 3%).",
+  "title_h1": "City 13 - Железо - схема Псевдо Турбо для Скорпиона (ускорение 3%).",
+  "print_url": "https://zxpress.ru/print.php?id=10385",
+  "article_url": "https://zxpress.ru/article.php?id=10385",
+  "fetched_at": "2026-05-31T21:50:26Z"
+}

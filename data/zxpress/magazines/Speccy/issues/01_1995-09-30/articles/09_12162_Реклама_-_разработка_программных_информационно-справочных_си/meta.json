@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-09-30",
+  "order": 9,
+  "article_id": 12162,
+  "title_link": "Реклама - разработка программных информационно-справочных систем.",
+  "title_h1": "Speccy 01 - Реклама - разработка программных информационно-справочных систем.",
+  "print_url": "https://zxpress.ru/print.php?id=12162",
+  "article_url": "https://zxpress.ru/article.php?id=12162",
+  "fetched_at": "2026-05-31T23:03:57Z"
+}

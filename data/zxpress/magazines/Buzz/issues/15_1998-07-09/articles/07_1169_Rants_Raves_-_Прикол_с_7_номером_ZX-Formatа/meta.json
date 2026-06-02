@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1998-07-09",
+  "order": 7,
+  "article_id": 1169,
+  "title_link": "Rants & Raves - Прикол с 7 номером ZX-Format'а.",
+  "title_h1": "Buzz 15 - Rants & Raves - Прикол с 7 номером ZX-Format'а.",
+  "print_url": "https://zxpress.ru/print.php?id=1169",
+  "article_url": "https://zxpress.ru/article.php?id=1169",
+  "fetched_at": "2026-05-31T21:48:15Z"
+}

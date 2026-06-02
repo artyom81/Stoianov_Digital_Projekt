@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 51,
+    "article_url": "https://zxpress.ru/article.php?id=51",
+    "print_url": "https://zxpress.ru/print.php?id=51",
+    "title_link": "B.B.S. Hовости - Новая станция - IMI BBS.",
+    "order": 1,
+    "issue_label": "82",
+    "short_slug": "BBS_Hовости_-_Новая_станция_-_IMI_BBS"
+  },
+  {
+    "article_id": 2491,
+    "article_url": "https://zxpress.ru/article.php?id=2491",
+    "print_url": "https://zxpress.ru/print.php?id=2491",
+    "title_link": "Мозаика - О новой версии Pro Tracker'a (Golden Disk Corp).",
+    "order": 2,
+    "issue_label": "82",
+    "short_slug": "Мозаика_-_О_новои_версии_Pro_Trackera_Golden_Disk_Corp"
+  },
+  {
+    "article_id": 2493,
+    "article_url": "https://zxpress.ru/article.php?id=2493",
+    "print_url": "https://zxpress.ru/print.php?id=2493",
+    "title_link": "На правах рекламы - Red Limited Drunkards Group представляет:\r\n Extrem Tracker v1.32 - новый музыкальный редактор. Inter Mode Player v1.2 - проигрыватель мелодий.",
+    "order": 3,
+    "issue_label": "82",
+    "short_slug": "На_правах_рекламы_-_Red_Limited_Drunkards_Group_представляет"
+  },
+  {
+    "article_id": 2490,
+    "article_url": "https://zxpress.ru/article.php?id=2490",
+    "print_url": "https://zxpress.ru/print.php?id=2490",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "82",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2492,
+    "article_url": "https://zxpress.ru/article.php?id=2492",
+    "print_url": "https://zxpress.ru/print.php?id=2492",
+    "title_link": "Система - Персональный компьютер АТМ-Тurbo 2+ : Техническое описание и руководство программиста: Spectrum 128.Системный порт. Порт телефонной линии. Порт чтения АЦП. Порт\r\n музыкального синтезатора. Порт принтера и ЦАП. Порт\r\n атрибутов. Порт клавиатуры. Порт бордюра.",
+    "order": 5,
+    "issue_label": "82",
+    "short_slug": "Система_-_Персональныи_компьютер_АТМ-Тurbo_2_Техническое_опи"
+  }
+]

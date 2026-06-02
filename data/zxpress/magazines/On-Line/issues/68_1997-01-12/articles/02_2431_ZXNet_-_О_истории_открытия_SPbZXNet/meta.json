@@ -1,0 +1,15 @@
+{
+  "magazine_id": 147,
+  "magazine_name": "On-Line",
+  "city": null,
+  "country": null,
+  "issue_label": "68",
+  "issue_date_iso": "1997-01-12",
+  "order": 2,
+  "article_id": 2431,
+  "title_link": "ZXNet - О истории открытия SPbZXNet.",
+  "title_h1": "On-Line 68 - ZXNet - О истории открытия SPbZXNet.",
+  "print_url": "https://zxpress.ru/print.php?id=2431",
+  "article_url": "https://zxpress.ru/article.php?id=2431",
+  "fetched_at": "2026-05-31T22:44:16Z"
+}

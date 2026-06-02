@@ -1,0 +1,881 @@
+Nicron 62 - Софт - синтезатор речи. Исходники.
+S.O.S.!
+Синтезатор речи
+(c)(r) Wlodek Black
+Здравствуйте все!
+Письмо,  которое  я  получил  12 ноября, накануне Всемирного дня
+слепых  (символично или случайно?), адресовано не только мне, но
+и  всем,  кто может помочь. Пожалуйста, прочитайте письмо, и вам
+все станет понятно.
+=== Cut: ===
+Привет, Владимир. Пишет тебе Андрей из Львова. Участник группы
+Iron  Falcons.  Я музыкант-программист группы. Я уже писал тебе.
+Очень приятно было почитать письмо от тебя. Также мне приятно за
+приглашение  на  Фестиваль.  Володя,  я  уже  писал тебе, что я,
+наверно,  не  смогу  приехать,  так  как  у  меня свои проблемы.
+Во-первых,  дорога,  потом  - гостиница, то есть постоянно места
+забиты,  а к тому же летом. Да и я не знаю, писал ли я тебе, или
+нет,  что  у  меня  проблемы со зрением. То есть вообще не вижу.
+Работать  на  Speccy  мне помогает синтезатор речи, на котором я
+читаю  тексты. Правда, сделан он некорректно, да и функций в нем
+мало,  но пока для работы хватает, правда, есть много неудобств.
+Доделать  мне  его  некому,  так  как  человек,  который начинал
+делать,  свалил на IBM, а я буду оставаться верен своему Speccy.
+Володя,  я высылаю тебе архив с синтезом, написан он под is_dos,
+там  есть  пара  версий,  а также исходники к ним. Старые версии
+сделаны без наворотов, то есть не читают цифры, точнее, там одна
+старая  версия, которая не умеет читать цифры. Hачиная со второй
+версии,  синтез  читает  цифры.  Там  пытались  добавить немного
+функций  -  таких, как перемотки вперед и назад. Hо новые версии
+не  нормально  работают, то есть зависают. Hапишу, как запустить
+синтез.  Сначала надо перегнать в is_dos, а потом переименовать,
+чтобы  она  имела  расширение .com. После чего подвести курсор к
+текстовому файлу, который надо почитать, и из монитора командной
+строки  вызвать  синтез  речи  без всяких параметров, потому что
+никаких  параметров  к нему нет. После того, как вызовешь синтез
+речи из командной стоки, он начнет читать текст. В новых версиях
+действуют  кнопки.  Единичка - перемотать вперед на один сектор.
+Двойка   -  перемотать  назад  на  сектор.  Тройка  -  запомнить
+местонахождение, а четверкой возвратить туда, где запомнил.
+  Володя,  так  как  эти  версии плохо работают, я подумывал, не
+объявить  ли  конкурс  на  лучший  синтез речи, так как это вещь
+нужная.  Hу войди сам в мое положение. Почитать что-то новенькое
+всегда хочется, а постоянно нет кому читать, да и постоянно быть
+зависимым  от  кого-то  неохота.  Я  хотел  бы, чтобы программка
+как-то  сообщала,  где  находишься,  когда  остановился, так как
+текстовые  файлы могут быть большие, а постоянно читать с начала
+неудобно,   потому,   чтобы  можно  было  вызывать  оттуда,  где
+остановился.  Также,  чтобы  перемотки были сделаны грамотнее. И
+чтобы все работало корректно. Я думаю, что ты скажешь: "А почему
+с  этим ко мне обращаться? Зачем людям синтезы, не лучше было бы
+сделать  крутую демку." Hо поверь мне, это нужно. Володя, у тебя
+есть адреса в разные журналы, потому я прошу тебя, если сможешь,
+то  напиши им и дай такую пропозицию - сделать конкурс на лучший
+синтез  речи.  Можешь выслать им эти версии, что я тебе высылаю.
+Буду тебе за это благодарен.
+<skipped>
+Hа этом буду заканчивать. До свидания. С уважением ANDREW.
+P.S.  То, что я не смогу приехать на FunTop98,  не означает, что
+никто  с  нашей  группы не приедет. Ребята, возможно, приедут. Я
+пока не знаю. Буду знать - напишу.
+<skipped>
+Пока  буду  прощаться, а то и так много написал. Hадеюсь, тебе
+не надоест читать про мои проблемы.
+
+ Извини за опечатки.
+
+   NDREW
+=== Cut^ ===.
+
+[ Окончание письма Андрея ].
+Цепляю   тексты   исходников.  Пожалуйста,  попытайтесь  довести
+просьбу    Андрея    до   всех   кодеров,   особенно   владеющих
+программированием  под IS-DOS (увы, в последнем я сам бессилен).
+Хотя,  вероятно,  можно сделать версию и под TR-DOS. Hасколько я
+понимаю,  в  исходном  варианте  привязку  к IS-DOS имеет только
+загрузчик   текстовых   файлов,   а  собственно  звукосинтезатор
+работает  сам  в  себе,  и  его  можно отассемблировать с любого
+адреса.  Возможно,  кто-то  уже  занимался подобной проблемой, и
+тогда,  не исключено, проще и лучше вообще написать заново subj.
+Одно   только   требование  ясно  однозначно:  программа  должна
+управляться   теми  же  клавишами,  должна  иметь  перечисленные
+Андреем функции, должна обеспечивать качество звука не хуже, чем
+было.
+  Просьба    к   редакциям   местных   спектрумовских   изданий:
+пожалуйста,  обратите внимание, перепечатайте, взлохматьте ваших
+кодеров.
+  Поможем человеку!
+
+Писать Андрею можно по адресу:
+felcons@litech.lviv.ua
+^опечатки нет!
+Если нужен архив "sintez", сигнальте на ZXNet. У Falcons-ов,
+наверно, и так забот хватает...
+
+Форвардьте дальше.
+=== Cut: ===
+; 4-я версия синтезатора
+ORG  31000
+BEG_OP LD   C,#8A
+       RST  #10
+       LD   (F_NUMB),A
+       LD   C,#26
+       OR   A
+       RET  Z
+       RST  #10
+       RET  C
+       EXX
+       LD   BC,#000E
+       ADD  HL,BC
+       LD   E,(HL)
+       INC  HL
+       LD   D,(HL)
+       LD   (F_LENG),DE
+       LD   A,E
+       LD   (OSTAT),A
+       INC  D
+       LD   A,D
+       LD   (NUM_BL),A
+       EXX
+;
+PROG
+       LD (SP_),SP
+       CALL READ
+       RET  C
+       LD   HL,NUM_BL
+       LD   A,(TEBLOK)
+       CP   (HL)
+       JR   Z,LAST_B
+       CALL SET
+       CALL $SAY
+       JR   PROG
+LAST_B CALL SET ;можно сделать малый цикл
+       CALL $SAY
+EXIT   RET
+;
+READ   LD   HL,IN_BUF
+       LD   DE,IN_BUF+1
+       LD   BC,#00FF
+       LD   (HL),32
+       LDIR
+       LD   A,(TEBLOK)
+       LD   E,A
+       LD   D,#00
+       LD   HL,IN_BUF
+       XOR  A
+       LD   C,#3D
+       RST  #10
+       INC  E
+       LD   A,E
+       LD   (TEBLOK),A
+       RET  C
+       RET
+
+SKIP_B LD   A,(TEBLOK)
+       INC  A
+       LD   (TEBLOK),A
+       RET
+;-----------------------
+$R_KEY LD   C,9
+
+       LD   A,247  ; 4 SEMIROW
+       IN   A,(#FE)
+       BIT  0,A    ; "1"
+       JP   Z, FAST
+       BIT  1,A    ; "2"
+       JP   Z, HALT
+       BIT  2,A
+       JP   Z,SAVE
+       BIT  3,A
+       JP   Z,LOAD
+       JP   RTN
+FAST   LD   HL,TEBLOK
+       LD   A,(NUM_BL)
+       CP (HL)
+       RET  Z
+       LD   SP,(SP_)
+       JP   PROG
+RTN    LD   HL,#0400
+       LD   ($SPEED),HL
+RT     RET
+SAVE   LD   A,(TEBLOK)
+       DEC  A
+       LD   (TEBL2),A
+       RET
+LOAD   LD A,(TEBL2)
+       LD (TEBLOK),A
+       LD SP,(SP_)
+       JP PROG
+
+BEEP   LD   HL,400
+       LD   DE,261
+       CALL #03B5
+       RET
+HALT
+       LD   A,(TEBLOK)
+       CP   2
+       RET  C
+       DEC  A
+       DEC  A
+       LD   (TEBLOK),A
+       LD   SP,(SP_)
+       JP   PROG
+
+TEBL2  DEFB #00
+SP_    DEFW #0000
+F_LENG DEFW #0000
+F_NUMB DEFB #00
+TEBLOK DEFB #00
+IN_BUF DEFS 256
+$T_ADR  DEFS 1024
+NUM_BL DEFB #00
+OSTAT  DEFB #00
+
+SET    LD   BC,256
+       LD   HL,IN_BUF
+       LD   DE,$T_ADR
+GET    LD   A,(HL)
+       JR   ANALIZ
+ONECH  LD   (DE),A
+       INC  DE
+       INC  HL
+       DEC  BC
+PROWER LD   A,C
+       OR   B
+       RET  Z
+       JR   GET
+ANALIZ CP   #F6   ; I укр
+       JP   Z,MIN173
+       CP   #F7   ; i укр
+       JP   Z,MIN174
+       CP   "р"   ;E0
+       JP   NC,RUSL2
+       CP   "а"   ;A0
+       JP   NC,RUSL1 ; RUS UP CASE
+       CP   "a"   ;61
+       JP   NC,LATL  ; LAT UP CASE
+       CP   #20
+       JP   C,PRB
+       CP   "0"
+       JP   Z,NIL
+       CP   "1"
+       JP   Z,ONE
+       CP   "2"
+       JP   Z,TWO
+       CP   "3"
+       JP   Z,TRE
+       CP   "4"
+       JP   Z,FOR
+       CP   "5"
+       JP   Z,FIV
+       CP   "6"
+       JP   Z,SIX
+       CP   "7"
+       JP   Z,SEV
+       CP   "8"
+       JP   Z,EIT
+       CP   "9"
+       JP   Z,NIN
+       JP   ONECH
+NIL    LD    A,"N"
+       LD    (DE),A
+       INC   DE
+       LD    A,"O"
+       LD    (DE),A
+       INC   DE
+       LD    A,"L"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+ONE    LD    A,"O"
+       LD    (DE),A
+       INC   DE
+       LD    A,"D"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"N"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+TWO    LD    A,"D"
+       LD    (DE),A
+       INC   DE
+       LD    A,"V"
+       LD    (DE),A
+       INC   DE
+       LD    A,"A"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+TRE    LD    A,"T"
+       LD    (DE),A
+       INC   DE
+       LD    A,"R"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+FOR    LD    A,"C"
+       LD    (DE),A
+       INC   DE
+       LD    A,"H"
+       LD    (DE),A
+       INC   DE
+       LD    A,"O"
+       LD    (DE),A
+       INC   DE
+       LD    A,"T"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"R"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Y"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+FIV    LD    A,"P"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"A"
+       LD    (DE),A
+       INC   DE
+       LD    A,"T"
+       LD    (DE),A
+       INC   DE
+       LD    A,"'"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+SIX    LD    A,"C"
+       LD    (DE),A
+       INC   DE
+       LD    A,"H"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"S"
+       LD    (DE),A
+       INC   DE
+       LD    A,"T"
+       LD    (DE),A
+       INC   DE
+       LD    A,"'"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+SEV    LD    A,"S"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"M"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+EIT    LD    A,"V"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"S"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"M"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+NIN    LD    A,"D"
+       LD    (DE),A
+       INC   DE
+       LD    A,"E"
+       LD    (DE),A
+       INC   DE
+       LD    A,"V"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       LD    (DE),A
+       INC   DE
+       LD    A,"A"
+       LD    (DE),A
+       INC   DE
+       LD    A,"T"
+       LD    (DE),A
+       INC   DE
+       LD    A,"'"
+       LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+
+AFT1   CP   "А"
+       JP   Z,MIN63
+       CP   "Б"
+       JP   Z,MIN63
+       CP   "И"
+       JP   NC,GREATI
+       JP   NO_I_U
+GREATI CP   "Р"
+       JP   NC,GREATR
+       JP   MIN63
+GREATR CP   "Ф"
+       JP   NC,NO_I_U
+       JP   MIN62
+NO_I_U CP   "В"
+       JP   Z,MIN44
+       CP   "Г"
+       JP   Z,MIN60
+       CP   "Д"
+       JP   Z,MIN64
+       CP   "З"
+       JP   Z,MIN45
+       CP   "Ф"
+       JP   Z,MIN78
+       CP   "Х"
+       JP   Z,MIN77
+       CP   "Ц"
+       JP   Z,MIN83
+       CP   "Ы"
+       JP   Z,MIN66
+       CP   "Ь"
+       JP   Z,MIN60
+       CP   "Э"
+       JP   Z,MIN88
+       CP   "Е"
+       JP   Z,YE
+       CP   "Ж"
+       JP   Z,ZH
+       CP   "Ч"
+       JP   Z,CZ
+       CP   "Ш"
+       JP   Z,CH
+       CP   "Щ"
+       JP   Z,CHE
+       CP   "Ю"
+       JP   Z,YU
+       CP   "Я"
+       JP   Z,YA
+       CP   "Ё"
+       JP   Z,YO
+       CP   "ё"
+       JP   Z,YO
+       CP   "Ї"
+       JP   Z,YE
+       CP   "ї"
+       JP   Z,YE
+       CP   "°"
+       JP   Z,YI
+       CP   "∙"
+       JP   Z,YI
+PRB    CP   #00
+       JR   Z,N0
+       LD   A,#20
+N0     JP   ONECH
+RUSL2  CP   "Ё"   ;F0
+       JP   NC,AFT1
+       SUB  #50
+       JP   AFT1
+RUSL1  CP   "░"   ;B0
+       JP   NC,AFT1
+       SUB  #20
+       JP   AFT1
+LATL   CP   "{"   ;7B
+       JP   NC,AFT1
+       SUB  #20
+       JR   N0
+MIN174 SUB    1
+MIN173 SUB   85
+MIN88  SUB    5
+MIN83  SUB    5
+MIN78  SUB    1
+MIN77  SUB   11
+MIN66  SUB    2
+MIN64  SUB    1
+MIN63  SUB    1
+MIN62  SUB    2
+MIN60  SUB   15
+MIN45  SUB    1
+MIN44  SUB   44
+       JP   ONECH
+YE     LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"E"
+       JP    KONEC
+YU     LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"U"
+       JP    KONEC
+YA     LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"A"
+       JP    KONEC
+YO     LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"O"
+       JP    KONEC
+YI     LD    A,"Y"
+       LD    (DE),A
+       INC   DE
+       LD    A,"I"
+       JP    KONEC
+ZH     LD    A,"Z"
+       LD    (DE),A
+       INC   DE
+       LD    A,"H"
+       JP    KONEC
+CZ     LD    A,"C"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Z"
+       JP    KONEC
+CH     LD    A,"S"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Z"
+       JP    KONEC
+CHE    LD    A,"S"
+       LD    (DE),A
+       INC   DE
+       LD    A,"Z"
+       LD    (DE),A
+       INC   DE
+       LD    A,"'"
+KONEC  LD    (DE),A
+       INC   HL
+       INC   DE
+       DEC   BC
+       JP    PROWER
+; модуль генерации звука
+$SAY   LD   HL,$T_ADR
+       DI
+       CALL LEA69
+       EI
+       RET
+LEA69  LD   B,#BB
+LEA6B  PUSH BC
+       PUSH HL
+       PUSH DE
+       CALL $R_KEY
+       POP  DE
+       POP  HL
+       POP  BC
+       LD   A,B
+       LD   C,B
+       LD   B,(HL)
+       OR   A
+       RET  Z
+       LD   A,C
+       CP   #41
+       JP   M,LEA9B
+       CP   #5B
+       JP   P,LEA9B
+       CP   #43
+       LD   A,B
+       JP   NZ,LEA86
+       CP   #48
+       JP   Z,LEA8C
+LEA86  CP   #27
+       LD   A,C
+       JP   NZ,LEA90
+LEA8C  ADD  A,#1A
+       LD   B,#BB
+LEA90  PUSH BC
+       PUSH HL
+       CALL LEAC3
+       POP  HL
+       POP  BC
+LEA97  INC  HL
+       JP   LEA6B
+LEA9B  LD   DE,#0000
+       CP   #2E
+       JP   Z,LEAB3
+       LD   DE,#8000
+       CP   #2C
+       JP   Z,LEAB3
+       LD   DE,#4000
+       CP   #20
+       JP   NZ,LEAB9
+LEAB3  CALL LEABC
+       JP   LEA97
+LEAB9  JP   LEA97
+LEABC  DEC  DE
+       LD   A,D
+       OR   E
+       JP   NZ,LEABC
+       RET
+LEAC3  LD   BC,LEAF7
+       LD   L,A
+       LD   H,#00
+       ADD  HL,BC
+       LD   BC,LEB6C
+       LD   L,(HL)
+       LD   H,#00
+       ADD  HL,BC
+LEAD1  LD   A,(HL)
+       AND  #0F
+       LD   C,A
+       INC  HL
+       LD   A,(HL)
+       AND  #80
+       OR   C
+       LD   C,A
+       DEC  HL
+LEADC  LD   A,(HL)
+       RLCA
+       RLCA
+       RLCA
+       AND  #07
+       PUSH HL
+       JP   Z,LEB1B
+       LD   DE,LED35
+       LD   L,A
+       LD   H,#00
+       ADD  HL,DE
+       LD   B,(HL)
+       POP  HL
+       INC  HL
+       LD   A,(HL)
+       DEC  HL
+       PUSH HL
+       RLA
+       LD   DE,LEC2E
+LEAF7  LD   L,A
+       LD   H,#00
+       ADD  HL,DE
+       LD   A,#80
+LEAFD  PUSH AF
+       AND  (HL)
+       JP   Z,LEB04
+       LD   A,#10
+LEB04  OUT  (#FE),A
+       LD   A,(LEB33)
+LEB09  DEC  A
+       JP   NZ,LEB09
+       POP  AF
+       DEC  B
+       JP   Z,LEB1B
+       OR   A
+       RRCA
+       JP   NC,LEAFD
+       INC  HL
+       JP   LEAFD
+LEB1B  LD   HL,($SPEED)
+       EX   DE,HL
+       XOR  A
+       CALL LEABC
+       DEC  C
+       LD   A,C
+       AND  #0F
+       POP  HL
+       JP   NZ,LEADC
+       LD   A,C
+       RLA
+       RET  C
+       INC  HL
+       INC  HL
+       JP   LEAD1
+LEB33  DEFB #1C
+$SPEED  DEFB #00,#04
+LEB36  DEFB ":",#ED,#00
+       DEFB #02,#06,#0A
+       DEFB #0E,#10,#12
+       DEFB #16,#1A,#1C
+       DEFB ""","&","*"
+       DEFB ".","2","4"
+       DEFB "8","B","H"
+       DEFB "J","N","P"
+       DEFB "P","V",#1A
+       DEFB "","d","f"
+       DEFB "p","t","z"
+       DEFB "|",#C2,#84
+       DEFB #86,#C2,#C2
+       DEFB #C2,#88,#8C
+       DEFB #92,#94,#C2
+       DEFB #9E,#A6,#A8
+       DEFB #AE,#B0,#C2
+       DEFB #C2,#86,#BC
+LEB6C  DEFB "6",#81,"4"
+       DEFB #19,"1",#AB
+       DEFB #18,#19,#91
+       DEFB #C3,"4",#19
+       DEFB "1",#E0,"6"
+       DEFB #84,#92,#E3
+       DEFB "5",#19,"Q"
+       DEFB #9C,"1","1"
+       DEFB "4",#96,"6"
+       DEFB #87,"3",":"
+       DEFB "2","=","2"
+       DEFB #C0,#18,#19
+       DEFB "Q",#9C,"3"
+       DEFB ""","1",#B1
+       DEFB "1","1","6"
+       DEFB #A5,"1","1"
+       DEFB "6",#A8,"6"
+       DEFB #8A,#18,#19
+       DEFB "1",#AB,#18
+       DEFB #19,"Q",#1C
+       DEFB "4","1","2"
+       DEFB "4","2",#B7
+       DEFB """,#10,#13
+       DEFB #19,"!",#AE
+       DEFB #92,#C3,#18
+       DEFB #19,"1",#E0
+       DEFB "6",#8D,"4"
+       DEFB "1","2","4"
+       DEFB "2",#B7,#18
+       DEFB #19,"q",#1C
+       DEFB #92,#C3,"2"
+       DEFB "1","2","C"
+       DEFB "2","D","2"
+       DEFB #C5,"?",#81
+       DEFB "4",#19,"1"
+       DEFB "+","3",":"
+       DEFB "2","=","2"
+       DEFB #C0,#18,#19
+       DEFB #91,#D3,"3"
+       DEFB #19,"q","m"
+       DEFB "2",#93,">"
+       DEFB #84,#92,"c"
+       DEFB "3",":","2"
+       DEFB "=","2",#C0
+       DEFB #92,#F3,">"
+       DEFB #87,"1","1"
+       DEFB "6","%","1"
+       DEFB "1","5","%"
+       DEFB "2",#93,">"
+       DEFB #8A,#18,#19
+       DEFB "1","+","3"
+       DEFB ":","2","="
+       DEFB "2",#C0,#13
+       DEFB #19,"2","`"
+       DEFB #13,#19,"q"
+       DEFB #DD,#92,#D3
+       DEFB #18,#19,"q"
+       DEFB "m","2",#93
+       DEFB ">",#8D,"4"
+       DEFB "1","2","4"
+       DEFB "2","7","3"
+       DEFB ":","2","="
+       DEFB "2",#C0,"2"
+       DEFB "S","2","T"
+       DEFB "2",#D5
+LEC2E  DEFB #1A,#99,#E1
+       DEFB #C3,#E1,#C7
+       DEFB #8F,#0F,#F8
+       DEFB #03,#0F,#07
+       DEFB #C1,#E3,#FF
+       DEFB "@",#17,#FF
+       DEFB #00,#03,#F8
+       DEFB "|",#C1,#F1
+       DEFB #F8,#03,#FE
+       DEFB #00,"",#FC
+       DEFB #00,#03,#F8
+       DEFB #0F,#09,#F1
+       DEFB #FE,#03,#EF
+       DEFB "@",#17,#FF
+       DEFB #00,#03,#E1
+       DEFB "","5",#C5
+       DEFB #AA,"5",#00
+       DEFB #00,#00,#00
+       DEFB #00,#00,">"
+       DEFB #8E,"8","s"
+       DEFB #CF,#F8,"x"
+       DEFB #C3,#DF,#1C
+       DEFB #F1,#C7,#FE
+       DEFB #03,#C0,#FF
+       DEFB #00,#00,#FF
+       DEFB #F8,#00,""
+       DEFB #F8,#03,#FF
+       DEFB #F0,#01,#FF
+       DEFB #E0,#03,#AA
+       DEFB #CA,"Z",#D5
+       DEFB "!","=",#FE
+       DEFB #1F,#F8,#00
+       DEFB #00,#1F,#FF
+       DEFB #FC," ",#00
+       DEFB #00,#03,#FF
+       DEFB #FF,#08,"y"
+       DEFB #00,#02,#FF
+       DEFB #E1,#C7,#1F
+       DEFB #E0,#03,#FF
+       DEFB #D0,#01,#FF
+       DEFB #F0,#03,""
+       DEFB #01,#FA,"_"
+       DEFB #C0,#07,#F8
+       DEFB #0F,#C0,#FF
+       DEFB #00,"B",#AA
+       DEFB #A5,"U","Z"
+       DEFB #AA,#AA,"Z"
+       DEFB #A5,"Z",#AA
+       DEFB "U","U",#AA
+       DEFB #AA,#A5,"U"
+       DEFB #AA,"Z",#AA
+       DEFB #A5,"U",#AA
+       DEFB #AA,#A5,"U"
+       DEFB #AA,#AA,"U"
+       DEFB #A5,#A5,#AA
+       DEFB #A5,#B7,"f"
+       DEFB "l",#D8,#F9
+       DEFB #B3,"l",#AD
+       DEFB "7","7","f"
+       DEFB #FC,#9B,#87
+       DEFB #F6,#C0,#D3
+       DEFB #B6,"`",#F7
+       DEFB #F7,">","M"
+       DEFB #FB,#FE,"]"
+       DEFB #B7,#DE,"F"
+       DEFB #F6,#96,#B4
+       DEFB "O",#AA,#A9
+       DEFB "U",#AA,#AA
+       DEFB #A5,"i","Y"
+       DEFB #9A,"j",#95
+       DEFB "U",#95,"U"
+       DEFB "j",#A5,"U"
+       DEFB #A9,"M","f"
+       DEFB "j",#92,#EC
+       DEFB #A5,"U",#D2
+       DEFB #96,"U",#A2
+       DEFB #BA,#CD,#00
+       DEFB "f",#99,#CC
+       DEFB "g","1",#8E
+       DEFB "f","9",#A6
+       DEFB "k",#19,"f"
+       DEFB "Y",#C6,"q"
+       DEFB #09,"g",#19
+       DEFB #CB,#01,"q"
+       DEFB #CC,"s",#19
+       DEFB #99,#CC,#C6
+       DEFB "g",#19,#9A
+       DEFB #C6,"Y"
+LED35  DEFB #00,".","Z"
+; окончание исходника.
+=== Cut^ ===.
+P.S. Я тоже не остаюсь в стороне и попробую разобраться
+с этими исходниками, правда, не в Is-Dos-е.
+С уважением -
+Владимир Wlodek Black.

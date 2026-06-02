@@ -1,0 +1,15 @@
+{
+  "magazine_id": 25,
+  "magazine_name": "Best of",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 1,
+  "article_id": 12926,
+  "title_link": "Малая энциклопедия компьютерных существ - из \"золотого фонда\" FIDO.",
+  "title_h1": "Best of 01 - Малая энциклопедия компьютерных существ - из \"золотого фонда\" FIDO.",
+  "print_url": "https://zxpress.ru/print.php?id=12926",
+  "article_url": "https://zxpress.ru/article.php?id=12926",
+  "fetched_at": "2026-05-31T21:38:47Z"
+}

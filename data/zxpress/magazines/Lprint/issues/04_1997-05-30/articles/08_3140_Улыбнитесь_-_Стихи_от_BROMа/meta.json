@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1997-05-30",
+  "order": 8,
+  "article_id": 3140,
+  "title_link": "Улыбнитесь - Стихи от BROM'а.",
+  "title_h1": "Lprint 04 - Улыбнитесь - Стихи от BROM'а.",
+  "print_url": "https://zxpress.ru/print.php?id=3140",
+  "article_url": "https://zxpress.ru/article.php?id=3140",
+  "fetched_at": "2026-05-31T22:20:36Z"
+}

@@ -1,0 +1,39 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 2
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "07",
+      "issue_date_iso": "0000-01-01",
+      "articles_count": 1
+    }
+  ]
+}

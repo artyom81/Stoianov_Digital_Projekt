@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 2247,
+    "article_url": "https://zxpress.ru/article.php?id=2247",
+    "print_url": "https://zxpress.ru/print.php?id=2247",
+    "title_link": "7 Origins - Семерка лучших origin'ов-мудрых и не очень выражений.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "7_Origins_-_Семерка_лучших_originов-мудрых_и_не_очень_выраже"
+  },
+  {
+    "article_id": 2243,
+    "article_url": "https://zxpress.ru/article.php?id=2243",
+    "print_url": "https://zxpress.ru/print.php?id=2243",
+    "title_link": "Intro - стихи Werewolves'a, о новогодних праздниках",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Intro_-_стихи_Werewolvesa_о_новогодних_праздниках"
+  },
+  {
+    "article_id": 2246,
+    "article_url": "https://zxpress.ru/article.php?id=2246",
+    "print_url": "https://zxpress.ru/print.php?id=2246",
+    "title_link": "Marazm - рассказы Werewolves'a и Lisica",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Marazm_-_рассказы_Werewolvesa_и_Lisica"
+  },
+  {
+    "article_id": 2244,
+    "article_url": "https://zxpress.ru/article.php?id=2244",
+    "print_url": "https://zxpress.ru/print.php?id=2244",
+    "title_link": "News - история создания Pussy, новогодняя сказка от Медноногова, впечатления от Pussy by LCD...",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "News_-_история_создания_Pussy_новогодняя_сказка_от_Медноного"
+  },
+  {
+    "article_id": 2248,
+    "article_url": "https://zxpress.ru/article.php?id=2248",
+    "print_url": "https://zxpress.ru/print.php?id=2248",
+    "title_link": "Outro",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Outro"
+  },
+  {
+    "article_id": 2245,
+    "article_url": "https://zxpress.ru/article.php?id=2245",
+    "print_url": "https://zxpress.ru/print.php?id=2245",
+    "title_link": "Post... - письма читателей...",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Post_-_письма_читателеи"
+  }
+]

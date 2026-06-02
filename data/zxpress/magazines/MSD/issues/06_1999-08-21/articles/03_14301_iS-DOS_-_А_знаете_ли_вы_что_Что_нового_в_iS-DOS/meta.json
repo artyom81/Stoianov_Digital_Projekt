@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "1999-08-21",
+  "order": 3,
+  "article_id": 14301,
+  "title_link": "iS-DOS - А знаете ли вы что ... ?\r\n Что нового в iS-DOS ?",
+  "title_h1": "MSD 06 - iS-DOS - А знаете ли вы что ... ?  Что нового в iS-DOS ?",
+  "print_url": "https://zxpress.ru/print.php?id=14301",
+  "article_url": "https://zxpress.ru/article.php?id=14301",
+  "fetched_at": "2026-05-31T22:28:05Z"
+}

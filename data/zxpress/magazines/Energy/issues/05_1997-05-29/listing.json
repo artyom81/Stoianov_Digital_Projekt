@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 3881,
+    "article_url": "https://zxpress.ru/article.php?id=3881",
+    "print_url": "https://zxpress.ru/print.php?id=3881",
+    "title_link": "FANTASY - Роман Г.Гаррисона \"Чума из космоса\" (продолжение).",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "FANTASY_-_Роман_ГГаррисона_Чума_из_космоса_продолжение"
+  },
+  {
+    "article_id": 3888,
+    "article_url": "https://zxpress.ru/article.php?id=3888",
+    "print_url": "https://zxpress.ru/print.php?id=3888",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3887,
+    "article_url": "https://zxpress.ru/article.php?id=3887",
+    "print_url": "https://zxpress.ru/print.php?id=3887",
+    "title_link": "TR-DOS - О работе с портами TR-DOS'а.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "TR-DOS_-_О_работе_с_портами_TR-DOSа"
+  },
+  {
+    "article_id": 3890,
+    "article_url": "https://zxpress.ru/article.php?id=3890",
+    "print_url": "https://zxpress.ru/print.php?id=3890",
+    "title_link": "Анекдот - 14 анекдотов.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Анекдот_-_14_анекдотов"
+  },
+  {
+    "article_id": 3882,
+    "article_url": "https://zxpress.ru/article.php?id=3882",
+    "print_url": "https://zxpress.ru/print.php?id=3882",
+    "title_link": "Байки из склепа-3 - Захват лунной базы.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Баики_из_склепа-3_-_Захват_луннои_базы"
+  },
+  {
+    "article_id": 3883,
+    "article_url": "https://zxpress.ru/article.php?id=3883",
+    "print_url": "https://zxpress.ru/print.php?id=3883",
+    "title_link": "Металлургия - Схама Разгон Байта v1.0.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Металлургия_-_Схама_Разгон_Баита_v10"
+  },
+  {
+    "article_id": 3889,
+    "article_url": "https://zxpress.ru/article.php?id=3889",
+    "print_url": "https://zxpress.ru/print.php?id=3889",
+    "title_link": "Новости - 5 юбилейный номер газеты.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Новости_-_5_юбилеиныи_номер_газеты"
+  },
+  {
+    "article_id": 3879,
+    "article_url": "https://zxpress.ru/article.php?id=3879",
+    "print_url": "https://zxpress.ru/print.php?id=3879",
+    "title_link": "Повествование - Хронический неудачник.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Повествование_-_Хроническии_неудачник"
+  },
+  {
+    "article_id": 3886,
+    "article_url": "https://zxpress.ru/article.php?id=3886",
+    "print_url": "https://zxpress.ru/print.php?id=3886",
+    "title_link": "Попрошайкам - Подайте на клейрасил, пожалуйста!",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Попрошаикам_-_Подаите_на_клеирасил_пожалуиста"
+  },
+  {
+    "article_id": 3880,
+    "article_url": "https://zxpress.ru/article.php?id=3880",
+    "print_url": "https://zxpress.ru/print.php?id=3880",
+    "title_link": "Приложение - Mortal Kombat",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Приложение_-_Mortal_Kombat"
+  },
+  {
+    "article_id": 3885,
+    "article_url": "https://zxpress.ru/article.php?id=3885",
+    "print_url": "https://zxpress.ru/print.php?id=3885",
+    "title_link": "Рассказы - Рассказы Даниила Хармса: Голубая тетрадь n10, Что теперь\r\n продают в магазинах, Начало очень хорошего летнего дня ,\r\n Сон.",
+    "order": 11,
+    "issue_label": "05",
+    "short_slug": "Рассказы_-_Рассказы_Даниила_Хармса_Голубая_тетрадь_n10_Что_т"
+  },
+  {
+    "article_id": 3884,
+    "article_url": "https://zxpress.ru/article.php?id=3884",
+    "print_url": "https://zxpress.ru/print.php?id=3884",
+    "title_link": "Сказание Барда - Мини help к BARDS TALE. Magic Book - о заклинаниях.",
+    "order": 12,
+    "issue_label": "05",
+    "short_slug": "Сказание_Барда_-_Мини_help_к_BARDS_TALE_Magic_Book_-_о_закли"
+  }
+]

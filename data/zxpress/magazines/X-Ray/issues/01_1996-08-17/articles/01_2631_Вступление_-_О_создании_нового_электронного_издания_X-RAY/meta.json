@@ -1,0 +1,15 @@
+{
+  "magazine_id": 245,
+  "magazine_name": "X-Ray",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-08-17",
+  "order": 1,
+  "article_id": 2631,
+  "title_link": "Вступление - О создании нового электронного издания \"X-RAY\".",
+  "title_h1": "X-Ray 01 - Вступление - О создании нового электронного издания \"X-RAY\".",
+  "print_url": "https://zxpress.ru/print.php?id=2631",
+  "article_url": "https://zxpress.ru/article.php?id=2631",
+  "fetched_at": "2026-05-31T23:18:14Z"
+}

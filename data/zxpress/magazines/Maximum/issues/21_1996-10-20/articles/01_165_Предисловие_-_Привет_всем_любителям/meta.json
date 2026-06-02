@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "21",
+  "issue_date_iso": "1996-10-20",
+  "order": 1,
+  "article_id": 165,
+  "title_link": "Предисловие - Привет всем любителям...",
+  "title_h1": "Maximum 21 - Предисловие - Привет всем любителям...",
+  "print_url": "https://zxpress.ru/print.php?id=165",
+  "article_url": "https://zxpress.ru/article.php?id=165",
+  "fetched_at": "2026-05-31T22:23:34Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "1996-12-19",
+  "order": 3,
+  "article_id": 2817,
+  "title_link": "От авторов - Последний номер в этом году...",
+  "title_h1": "ZX-News 20 - От авторов - Последний номер в этом году...",
+  "print_url": "https://zxpress.ru/print.php?id=2817",
+  "article_url": "https://zxpress.ru/article.php?id=2817",
+  "fetched_at": "2026-05-31T23:28:45Z"
+}

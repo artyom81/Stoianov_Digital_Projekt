@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-11-10",
+  "order": 5,
+  "article_id": 15502,
+  "title_link": "Юмор - Частушки.",
+  "title_h1": "MSF 19 - Юмор - Частушки.",
+  "print_url": "https://zxpress.ru/print.php?id=15502",
+  "article_url": "https://zxpress.ru/article.php?id=15502",
+  "fetched_at": "2026-05-31T22:28:37Z"
+}

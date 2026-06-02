@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 2907,
+    "article_url": "https://zxpress.ru/article.php?id=2907",
+    "print_url": "https://zxpress.ru/print.php?id=2907",
+    "title_link": "Oт редакции - Больше не будет раздела \"Реклама\".",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "Oт_редакции_-_Больше_не_будет_раздела_Реклама"
+  },
+  {
+    "article_id": 2910,
+    "article_url": "https://zxpress.ru/article.php?id=2910",
+    "print_url": "https://zxpress.ru/print.php?id=2910",
+    "title_link": "Железо - IBM PC Keyboard (часть 2).",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "Железо_-_IBM_PC_Keyboard_часть_2"
+  },
+  {
+    "article_id": 2913,
+    "article_url": "https://zxpress.ru/article.php?id=2913",
+    "print_url": "https://zxpress.ru/print.php?id=2913",
+    "title_link": "Интервью - На вопросы отвечает Михаил Белоусов (Amadeus Voxon).",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Интервью_-_На_вопросы_отвечает_Михаил_Белоусов_Amadeus_Voxon"
+  },
+  {
+    "article_id": 2909,
+    "article_url": "https://zxpress.ru/article.php?id=2909",
+    "print_url": "https://zxpress.ru/print.php?id=2909",
+    "title_link": "Интернет - WWW или Всемирная паутина.",
+    "order": 4,
+    "issue_label": "30",
+    "short_slug": "Интернет_-_WWW_или_Всемирная_паутина"
+  },
+  {
+    "article_id": 2915,
+    "article_url": "https://zxpress.ru/article.php?id=2915",
+    "print_url": "https://zxpress.ru/print.php?id=2915",
+    "title_link": "Обмен опытом - Компьютер и здоровье.",
+    "order": 5,
+    "issue_label": "30",
+    "short_slug": "Обмен_опытом_-_Компьютер_и_здоровье"
+  },
+  {
+    "article_id": 2911,
+    "article_url": "https://zxpress.ru/article.php?id=2911",
+    "print_url": "https://zxpress.ru/print.php?id=2911",
+    "title_link": "Презентация - Презентация демо версии игры Reversy of Brain Crash.",
+    "order": 6,
+    "issue_label": "30",
+    "short_slug": "Презентация_-_Презентация_демо_версии_игры_Reversy_of_Brain"
+  },
+  {
+    "article_id": 2912,
+    "article_url": "https://zxpress.ru/article.php?id=2912",
+    "print_url": "https://zxpress.ru/print.php?id=2912",
+    "title_link": "Про животных - Про собаку.",
+    "order": 7,
+    "issue_label": "30",
+    "short_slug": "Про_животных_-_Про_собаку"
+  },
+  {
+    "article_id": 2908,
+    "article_url": "https://zxpress.ru/article.php?id=2908",
+    "print_url": "https://zxpress.ru/print.php?id=2908",
+    "title_link": "Список BBS - Сетевые гейты. Список BBS.",
+    "order": 8,
+    "issue_label": "30",
+    "short_slug": "Список_BBS_-_Сетевые_геиты_Список_BBS"
+  },
+  {
+    "article_id": 2916,
+    "article_url": "https://zxpress.ru/article.php?id=2916",
+    "print_url": "https://zxpress.ru/print.php?id=2916",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 9,
+    "issue_label": "30",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2914,
+    "article_url": "https://zxpress.ru/article.php?id=2914",
+    "print_url": "https://zxpress.ru/print.php?id=2914",
+    "title_link": "Юмор - \"Штирлиц - русский SysOp\" (глава 10 и заключение).",
+    "order": 10,
+    "issue_label": "30",
+    "short_slug": "Юмор_-_Штирлиц_-_русскии_SysOp_глава_10_и_заключение"
+  }
+]

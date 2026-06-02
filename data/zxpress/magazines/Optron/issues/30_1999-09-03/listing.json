@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 1561,
+    "article_url": "https://zxpress.ru/article.php?id=1561",
+    "print_url": "https://zxpress.ru/print.php?id=1561",
+    "title_link": "Non Possumus - Критические отметки на рубрику ZX-Обоз.",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "Non_Possumus_-_Критические_отметки_на_рубрику_ZX-Обоз"
+  },
+  {
+    "article_id": 1550,
+    "article_url": "https://zxpress.ru/article.php?id=1550",
+    "print_url": "https://zxpress.ru/print.php?id=1550",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: ZX-Pilot 31, Born Dead 0A, 0B, Nicron 109, Don News 8, C-Net Week 19, Полесье 9.",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_ZX-Pilot_31_Born_Dead_0A"
+  },
+  {
+    "article_id": 1560,
+    "article_url": "https://zxpress.ru/article.php?id=1560",
+    "print_url": "https://zxpress.ru/print.php?id=1560",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Что такое сдвиг?",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Что_такое_сдвиг"
+  },
+  {
+    "article_id": 1557,
+    "article_url": "https://zxpress.ru/article.php?id=1557",
+    "print_url": "https://zxpress.ru/print.php?id=1557",
+    "title_link": "Лит. страничка - Три веселых буквы: отзывы к газете.",
+    "order": 4,
+    "issue_label": "30",
+    "short_slug": "Лит_страничка_-_Три_веселых_буквы_отзывы_к_газете"
+  },
+  {
+    "article_id": 1555,
+    "article_url": "https://zxpress.ru/article.php?id=1555",
+    "print_url": "https://zxpress.ru/print.php?id=1555",
+    "title_link": "Обратная связь - Отклики читателей о газете.",
+    "order": 5,
+    "issue_label": "30",
+    "short_slug": "Обратная_связь_-_Отклики_читателеи_о_газете"
+  },
+  {
+    "article_id": 1558,
+    "article_url": "https://zxpress.ru/article.php?id=1558",
+    "print_url": "https://zxpress.ru/print.php?id=1558",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "30",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1551,
+    "article_url": "https://zxpress.ru/article.php?id=1551",
+    "print_url": "https://zxpress.ru/print.php?id=1551",
+    "title_link": "Рубрика X - Новелла к \"Черному ворону\" - не хвались идучи на рать.",
+    "order": 7,
+    "issue_label": "30",
+    "short_slug": "Рубрика_X_-_Новелла_к_Черному_ворону_-_не_хвались_идучи_на_р"
+  },
+  {
+    "article_id": 1556,
+    "article_url": "https://zxpress.ru/article.php?id=1556",
+    "print_url": "https://zxpress.ru/print.php?id=1556",
+    "title_link": "Хобби - Искусство Бонсаи.",
+    "order": 8,
+    "issue_label": "30",
+    "short_slug": "Хобби_-_Искусство_Бонсаи"
+  },
+  {
+    "article_id": 1553,
+    "article_url": "https://zxpress.ru/article.php?id=1553",
+    "print_url": "https://zxpress.ru/print.php?id=1553",
+    "title_link": "Четыре килобайта - С началом Нового учебного года!",
+    "order": 9,
+    "issue_label": "30",
+    "short_slug": "Четыре_килобаита_-_С_началом_Нового_учебного_года"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2000-01-15",
+  "order": 5,
+  "article_id": 4876,
+  "title_link": "Глюки - эссе о глюках, фичах и прочих неприятностях.",
+  "title_h1": "IzhNews 03 - Глюки - эссе о глюках, фичах и прочих неприятностях.",
+  "print_url": "https://zxpress.ru/print.php?id=4876",
+  "article_url": "https://zxpress.ru/article.php?id=4876",
+  "fetched_at": "2026-05-31T22:15:20Z"
+}

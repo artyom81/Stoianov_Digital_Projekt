@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "21",
+  "issue_date_iso": "1996-04-24",
+  "order": 3,
+  "article_id": 8827,
+  "title_link": "Блиц-опрос - Доклад на тему \"Как я ездил на радиорынок и чего я там накопал\".",
+  "title_h1": "Lime Tree 21 - Блиц-опрос - Доклад на тему \"Как я ездил на радиорынок и чего я там накопал\".",
+  "print_url": "https://zxpress.ru/print.php?id=8827",
+  "article_url": "https://zxpress.ru/article.php?id=8827",
+  "fetched_at": "2026-05-31T22:19:48Z"
+}

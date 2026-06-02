@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6264,
+    "article_url": "https://zxpress.ru/article.php?id=6264",
+    "print_url": "https://zxpress.ru/print.php?id=6264",
+    "title_link": "График - Список, работающих BBS г.Минска.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "График_-_Список_работающих_BBS_гМинска"
+  },
+  {
+    "article_id": 6265,
+    "article_url": "https://zxpress.ru/article.php?id=6265",
+    "print_url": "https://zxpress.ru/print.php?id=6265",
+    "title_link": "Обзор - Первое собрание СисОпов: интервью с McMAKER, Stinger, ARS, Wolfsoft.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Обзор_-_Первое_собрание_СисОпов_интервью_с_McMAKER_Stinger_A"
+  },
+  {
+    "article_id": 6266,
+    "article_url": "https://zxpress.ru/article.php?id=6266",
+    "print_url": "https://zxpress.ru/print.php?id=6266",
+    "title_link": "XOR'em ALL - Ксорка с командой LDIR , Обратные ксорки.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "XORem_ALL_-_Ксорка_с_командои_LDIR_Обратные_ксорки"
+  },
+  {
+    "article_id": 6267,
+    "article_url": "https://zxpress.ru/article.php?id=6267",
+    "print_url": "https://zxpress.ru/print.php?id=6267",
+    "title_link": "Прикол - В гостях у MASTSOFT'a.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Прикол_-_В_гостях_у_MASTSOFTa"
+  },
+  {
+    "article_id": 6268,
+    "article_url": "https://zxpress.ru/article.php?id=6268",
+    "print_url": "https://zxpress.ru/print.php?id=6268",
+    "title_link": "Тест - Ответы на тест 2-го номера.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Тест_-_Ответы_на_тест_2-го_номера"
+  },
+  {
+    "article_id": 6269,
+    "article_url": "https://zxpress.ru/article.php?id=6269",
+    "print_url": "https://zxpress.ru/print.php?id=6269",
+    "title_link": "Радио - Схема FM-радио микрофона.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Радио_-_Схема_FM-радио_микрофона"
+  },
+  {
+    "article_id": 6270,
+    "article_url": "https://zxpress.ru/article.php?id=6270",
+    "print_url": "https://zxpress.ru/print.php?id=6270",
+    "title_link": "Конкурс - Опрос-конкурс на лучшую игровую программу.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Конкурс_-_Опрос-конкурс_на_лучшую_игровую_программу"
+  },
+  {
+    "article_id": 6271,
+    "article_url": "https://zxpress.ru/article.php?id=6271",
+    "print_url": "https://zxpress.ru/print.php?id=6271",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

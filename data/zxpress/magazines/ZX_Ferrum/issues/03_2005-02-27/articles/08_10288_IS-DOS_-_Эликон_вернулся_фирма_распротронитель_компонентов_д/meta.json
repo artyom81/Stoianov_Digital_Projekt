@@ -1,0 +1,15 @@
+{
+  "magazine_id": 255,
+  "magazine_name": "ZX Ferrum",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2005-02-27",
+  "order": 8,
+  "article_id": 10288,
+  "title_link": "IS-DOS - \"Эликон\" вернулся? (фирма распротронитель компонентов для спектрума)",
+  "title_h1": "ZX Ferrum 03 - IS-DOS - \"Эликон\" вернулся? (фирма распротронитель компонентов для спектрума)",
+  "print_url": "https://zxpress.ru/print.php?id=10288",
+  "article_url": "https://zxpress.ru/article.php?id=10288",
+  "fetched_at": "2026-05-31T23:21:52Z"
+}

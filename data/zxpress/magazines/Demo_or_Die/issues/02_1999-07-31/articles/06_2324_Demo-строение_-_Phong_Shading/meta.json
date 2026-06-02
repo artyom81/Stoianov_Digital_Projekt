@@ -1,0 +1,15 @@
+{
+  "magazine_id": 51,
+  "magazine_name": "Demo or Die",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-07-31",
+  "order": 6,
+  "article_id": 2324,
+  "title_link": "Demo-строение - Phong Shading.",
+  "title_h1": "Demo or Die 02 - Demo-строение - Phong Shading.",
+  "print_url": "https://zxpress.ru/print.php?id=2324",
+  "article_url": "https://zxpress.ru/article.php?id=2324",
+  "fetched_at": "2026-05-31T21:56:41Z"
+}

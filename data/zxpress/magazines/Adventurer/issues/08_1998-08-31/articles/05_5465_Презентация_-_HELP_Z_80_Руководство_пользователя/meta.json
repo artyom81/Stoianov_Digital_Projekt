@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-08-31",
+  "order": 5,
+  "article_id": 5465,
+  "title_link": "Презентация - HELP Z_80: Руководство пользователя.",
+  "title_h1": "Adventurer 08 - Презентация - HELP Z_80: Руководство пользователя.",
+  "print_url": "https://zxpress.ru/print.php?id=5465",
+  "article_url": "https://zxpress.ru/article.php?id=5465",
+  "fetched_at": "2026-05-31T21:33:38Z"
+}

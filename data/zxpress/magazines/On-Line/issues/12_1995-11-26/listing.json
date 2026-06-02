@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 24,
+    "article_url": "https://zxpress.ru/article.php?id=24",
+    "print_url": "https://zxpress.ru/print.php?id=24",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - электронной газеты \"Lime Tree\".",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_электроннои_газеты_Lime_Tree"
+  },
+  {
+    "article_id": 1972,
+    "article_url": "https://zxpress.ru/article.php?id=1972",
+    "print_url": "https://zxpress.ru/print.php?id=1972",
+    "title_link": "Smileys - Англо-русский словарь улыбок, принятых в среде IBM'овских\r\n User'ов.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Smileys_-_Англо-русскии_словарь_улыбок_принятых_в_среде_IBMо"
+  },
+  {
+    "article_id": 1974,
+    "article_url": "https://zxpress.ru/article.php?id=1974",
+    "print_url": "https://zxpress.ru/print.php?id=1974",
+    "title_link": "WANTED !!! - Разыскивается ...",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "WANTED_-_Разыскивается"
+  },
+  {
+    "article_id": 1971,
+    "article_url": "https://zxpress.ru/article.php?id=1971",
+    "print_url": "https://zxpress.ru/print.php?id=1971",
+    "title_link": "Застрял ? - Описание игры \"TOP CAT\".",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Застрял_-_Описание_игры_TOP_CAT"
+  },
+  {
+    "article_id": 1973,
+    "article_url": "https://zxpress.ru/article.php?id=1973",
+    "print_url": "https://zxpress.ru/print.php?id=1973",
+    "title_link": "Мозаика - Как играть в сетевой вариант игры \"Laser Squad\".\r\n Коды уровней к игре \"Fire Gear\".",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Мозаика_-_Как_играть_в_сетевои_вариант_игры_Laser_Squad_Коды"
+  },
+  {
+    "article_id": 1975,
+    "article_url": "https://zxpress.ru/article.php?id=1975",
+    "print_url": "https://zxpress.ru/print.php?id=1975",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

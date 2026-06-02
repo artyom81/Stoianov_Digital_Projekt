@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-03-06",
+  "order": 5,
+  "article_id": 13515,
+  "title_link": "Бук - Интим-полигон.",
+  "title_h1": "City 01 - Бук - Интим-полигон.",
+  "print_url": "https://zxpress.ru/print.php?id=13515",
+  "article_url": "https://zxpress.ru/article.php?id=13515",
+  "fetched_at": "2026-05-31T21:49:56Z"
+}

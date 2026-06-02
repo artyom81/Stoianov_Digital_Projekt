@@ -1,0 +1,15 @@
+{
+  "magazine_id": 123,
+  "magazine_name": "Mirage",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "0000-01-01",
+  "order": 2,
+  "article_id": 12937,
+  "title_link": "Железяки - сaмoстoятельное изгoтoвление печaтных плaт.",
+  "title_h1": "Promised Land 02 - Железяки - сaмoстoятельное изгoтoвление печaтных плaт.",
+  "print_url": "https://zxpress.ru/print.php?id=12937",
+  "article_url": "https://zxpress.ru/article.php?id=12937",
+  "fetched_at": "2026-05-31T22:26:56Z"
+}

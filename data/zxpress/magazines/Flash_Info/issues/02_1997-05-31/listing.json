@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10754,
+    "article_url": "https://zxpress.ru/article.php?id=10754",
+    "print_url": "https://zxpress.ru/print.php?id=10754",
+    "title_link": "Вступление - Вот и наступила летняя пора, пора дачников и огородников.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_Вот_и_наступила_летняя_пора_пора_дачников_и_ого"
+  },
+  {
+    "article_id": 10755,
+    "article_url": "https://zxpress.ru/article.php?id=10755",
+    "print_url": "https://zxpress.ru/print.php?id=10755",
+    "title_link": "Новости - Новости от FLASH на 01.06.97 года.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_010697_года"
+  },
+  {
+    "article_id": 10756,
+    "article_url": "https://zxpress.ru/article.php?id=10756",
+    "print_url": "https://zxpress.ru/print.php?id=10756",
+    "title_link": "Новости - новости из других городов.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Новости_-_новости_из_других_городов"
+  },
+  {
+    "article_id": 10757,
+    "article_url": "https://zxpress.ru/article.php?id=10757",
+    "print_url": "https://zxpress.ru/print.php?id=10757",
+    "title_link": "Реклама - Предлагаю дисковод МС 5305 - находу.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Предлагаю_дисковод_МС_5305_-_находу"
+  }
+]

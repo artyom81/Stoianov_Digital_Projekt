@@ -1,0 +1,139 @@
+Adventurer 13 - От авторов - авторы журнала.
+▄█▌ ▐█▄   ▄█ █▌   ▄█▌▐█▄ █▓▓▄██ █▌█ ▐█▄     ▄█▌▐█▄
+     ▓███ █▓██  ▓█ ▓█  ▓██▌▓█▓█ ▓▓▓█ ▓█▐█▌█▓██ ░ ▓██▌█▓██   ░
+░   ▓█▌▓█▌▓█▐▓█ ▓█ ▓█ ▓██  ▓█▐▓█ ▓█ ▓█▌▓█▌▓█▐▓█ ▓██  ▓█▐▓█  ░
+░ ░▐▓█ ▓█▌▓█ ▓█▌▓█ ▓█▐▓█ ░ ▓█ ▓█▌▓█▐▓█ ▓█▌▓█ ▓█▐▓█ ░ ▓█ ▓█▌ ░
+░ ░▐▓█ ▓█▌▓█ ▓█▌▓█ ▓█▐▓▓▓█ ▓█ ▓█▌▓█▐▓█ ▓█▌▓█▐▓█▐▓▓▓█ ▓█▐▓█▌░░
+░ ░▐▓▓▓▓█▌▓█ ▓█▌▓█ ▓█▐▓█ ░ ▓█ ▓█▌▓█▐▓█ ▓█▌▓█▓█▀▐▓█ ░ ▓█▓█▀ ░░
+░░░ ▓█ ▓█▌▓█▐▓█ ▓█▐▓█ ▓██  ▓█ ▓█▌▓█ ▓█▌▓█▌▓██▓▄ ▓██  ▓██▓▄ ░░░
+░░░░▐▓█▐█▌█▓██ ░ █▓█ ░ ▓██▌█▓ ▓█ █▓  ▓▓██ █▓▐▓█  ▓██▌█▓▐▓█ ░░░
+░░░░░▐█▌█▌▐█▀ ░░░▐█ ░░░ ▀█▌▀█ █▌░▀█ ░ ▀█▌░▀█ █▌░░ ▀█▌▀█ █▌░die
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ░
+ ░░░░░ ░░░░░ ░░░░ ░ ░░░ ░░ ░░░░ ░░░ ░ ░░ ░░░ ░░░░░░░░░ ░░░░░ ░
+ ░░ ░░ ░░░ ░ ░░░
+┌ │ │┐┌┐┌ ┌┐│ ┌┐├┘┌ │ ┌┐ ┼│
+░░░░ ░░░ ░ ░░░ ░
+  ░ ░░ ░ ░ ░ ░ ░
+└─└┤└┘└ │ │┘└┘ │││┘ └┘ ││└└┤
+░░ ░ ░ ░ ░ ░ ░
+  ░  ░     ░ ░                                 ░   ░       ░
+E1e<┼r0n!( mA9aZ!nЕ
+█▄▀▄█  █▀▄ █▀▄ █▀█ ▄ █ █ █▄   █▀    █▀ █▄  █   █▀  █▀   ▀█▀▄▄
+▀▄█▄▀ ▐█▄▄▐█  ▐█▄ ▐█▄█▐█▐█▄▄ ▄█▌   ▄█▌▐█▄▄▐█▄█▐█▀ ▐█▀   ▀▄█▄▀
+Main Editor:
+Miguel/CPU
+Co-Editors:
+Jam/XPJ
+Elf/CPU
+Graphics:
+Paracels/Placebo
+'Whirlpool' title screen
+Miguel/CPU
+'Bow To The Penis God' intro screen
+ disk cover design
+Deadie/HS/CPU
+ascii&catalogue design, intro screen
+Diver/4th Dimension
+'Soul Implant' title screen
+Maksim Magnetik/CPU
+intro gfx, sticker design
+
+Music:
+Fatal Snipe/Fenomen
+Siril/4th Dimension
+Nik-O/Techno Lab.
+Ahim/CPU
+Moran/CPU
+Davos/HS/CPU
+Programming:
+Xn0ByS/CPU
+Adventurer creative tools&shell
+Elf/CPU
+intro mastering
+Veka/CPU
+shell total re-mastering
+
+Contact:
+152934
+Ярославская обл.
+г. Рыбинск
+ул. Кирова 11-158
+Елфимову Константину Валерьевичу
+
+тел.: (0855) 21-50-69
+e-mail: elphecy@mail.ru
+Authors:
+Chasm/CPU
+     Elf/CPU
+     Maxim Magnetik/CPU
+     Alff/CPU
+     Jam/X-Project
+     Nuts/Eye-Q
+     Research/Volga Soft
+     Di/Last Speccy Group
+     Cannibal/Techno Lab
+     Red Alex/Constellation i.a.
+     PSB/Halloween
+     Stanly/Studio Stall
+     Strade/Voodoo People
+     Dimidrol/Mild Group/GBG
+     Iron Lord/Mild Group/GBG
+     Fatal Snipe/Fenomen
+     Faster/TNL+PHT
+     Pol/PHT.SK
+     Moroz
+     Матлаш Владислав
+Support:
+Mikhail Sergeevitch
+interview typing
+Fixxar/CPU
+disk cover printing
+Protecvision jnr./CPU aka Леха
+scanning processes
+Said/CPU
+being stoned
+Kurles/HS/CPU
+     Clear
+     Cav Inc./CPU
+and whole Speccy scene
+
+With respect to mature CPU members:
+Never
+     SHRSoft aka Delta
+     John Ivanoff
+     Stellerex
+     Psychodel... aka DJ Dens
+     Andrey Smirnov
+     Ray aka Sirius Software
+     Protecvision snr. aka Шурик
+     Left Handed
+     PM Corp
+     Blind
+     XLPRDG97
+     Surgeon
+     Flex Software
+     Mad Max
+     Max ZX
+     Demon
+     Vaniac
+     Ant
+▄▄▄
+▓▓██▀▀▀▀▀▀▀▀▀▀░▒▒▓▓▓█▀ ▀██ ▀▀▀▀▀░▒▒▓▓████▀▀▀▀▀▀▀▀▀▀▀░▒▀▀▀▀▀▀▀░
+▓▀▄▄██████ ███ ░▒▒▓▓ ███ █ █████▄▄▀░▒▓▀▄▄██████████▀▄▄███████
+ █▓█▀▀▀▀▀▀▀ ███ ░▒▒ ███ █▓ ▀▀▀▀▀███ ░ █▓█▀▀▀▀▀▀▀▀▀ █▓█▀▀▀▀▀▀▀▄
+█▓█ ░▒▒▓▓▓██ ███ ░ ███ █▓█ ░▒▒▓▓ ███ █▓█ ▄█████ ▒ █▓█ ░▒▒▓▓▓██
+███ ░░▒▒▓▓▓██ █▓█ ███  ███ ░░▒▒▓ █▓█ ███ ▀█████ ▒ █▓█ ░░▒▒▓▓▓█
+ ███▄▄▄▄▄▄▄▄▄▄ █▓█▓█ ▄▄ ███▄▄▄▄▄█▓█ ░ ███▄▄▄▄▄▄▄▄ ███ ░die▒▓▓▓
+▓▄▀▀███████████ █▓█ ████▄▀▀█████▀▀▄░▒▓▄▀▀████████ ███ ░░░▒▒▒▓▓
+▓▓██▄▄▄▄▄▄▄▄▄▄ ███ ▄▄▄▄▄▄░▒▄▄▄▄▄░▒▒▓▓████▄▄▄▄▄▄▄▄░▄▄▄░░░▒▒▒▓▓▓
+═╗ ┌───┐ ╔══  ███
+▄▄▄▄▄▄▄▄ ▄▄ ░ ▄▄▄ ▄▄▄▄▄▄▄▄ ▄▄▄  ▄▄ ▀░ ▄▄▄▄▄▄
+╚═╡Z80╞═╝   ╔═══
+▓▒█▄▄▄██ ██▄▄▄▓▒█ ▓▒█ ▄ ██ ▓▒█▀▀▀██ ▄▄▓▒██
+═══╡   ╞═════╝
+__▀▀ ___  _______  ___  _________  ___  ____
+╔╡CPU╞═══╗
+(   _/   )/   _   (   (__     __)(   /   /
+══╝└───┘   ╚══
+_______/(___/ ___)___)  ___/    __    /
+                                                      (___/

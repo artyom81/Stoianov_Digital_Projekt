@@ -1,0 +1,15 @@
+{
+  "magazine_id": 240,
+  "magazine_name": "Wizard News",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 4,
+  "article_id": 17284,
+  "title_link": "Заметки по Wizard'у - Кроны, Эльфы, Метаморфы, Волколаки.",
+  "title_h1": "Wizard News 01 - Заметки по Wizard&#039;у - Кроны, Эльфы, Метаморфы, Волколаки.",
+  "print_url": "https://zxpress.ru/print.php?id=17284",
+  "article_url": "https://zxpress.ru/article.php?id=17284",
+  "fetched_at": "2026-05-31T23:17:48Z"
+}

@@ -1,0 +1,185 @@
+06 - Part 6 - Emulator reviews.
+==========================================
+********************************
+*  PART 6  - EMULATOR REVIEWS  *
+********************************
+
+I  thought  as  the  magazine  is entitled
+"Emulate"  it was high time we took a look
+at  some  of the Emulators currently doing
+the rounds on the web pages, FTP sites and
+BBS's around the globe!
+As   more   and   more   computers  become
+obsolete,  more  and more emulators appear
+to  start  people "retro-computing" in the
+hope  of bringing back the memories of the
+days   when  games  were  playable,  cheap
+(well..some  of  them!) and were above all
+good  fun!  (Stop  me  if I begin to sound
+like an old fogey!) So, I have scoured the
+web and have come up with short reviews of
+a few of the newer emulators, not only for
+the  humble  Speccy,  but  also  some  for
+computers  which made the Speccy obsolete,
+now  having  been relegated to the bargain
+shops themselves!!
+
+WSPECEM
+I  start  with a Speccy emulator which has
+just  been  released on the Internet. When
+this  emulator  was  announced recently on
+C.S.S, it took me slightly by surprise - I
+had  heard  no  mention  of  it  before  -
+therefore  it couldn't be very good, could
+it? How wrong I was...
+This  new  Spectrum  Emulator  for Windows
+3.1/95  is  top class. It runs in a window
+which  can be re-sized as you wish, and it
+even multitasks under Windows 95 (well, as
+much  as W95 can multitask!) It recognizes
+and  can convert between nearly all of the
+Spectrum  file-types,  even  including TAP
+and SLT support.
+The  version  I  have  tried  shows  great
+potential.   There  are  several  features
+missing  which would make it a major rival
+to  Z80,  the main one being 128k support.
+Currently,  you  cannot use 128k snapshots
+with   it,   although  the  emulator  will
+bravely try to load any snapshot you throw
+at  it,  giving  you the appropriate "This
+probably      won't     work"     warning!
+Nevertheless,  you can take a good look at
+a  128k  game's  title  screen  before the
+emulator  crashes, and I am sure that 128k
+support  will  appear  in a later version.
+Another  drawback  is  speed. The emulator
+runs  at normal Spectrum speed on my 7SMhz
+Pentium  while in a small window. Enlarged
+to  a whole screen, the emulator does drag
+quite  significantly.  Also,  there  is no
+option to alter speed, although the author
+may  be  saving this option for registered
+users     (though    the    emulator    is
+freeware...at the moment!).
+
+Finally,  there  are  no  real  "advanced"
+features  implemented yet, such as Plus-D,
+Microdrive or Tape-File editing.
+If  you  just use your emulator for games,
+download  this  gem immediately, otherwise
+stick  to  your  DOS  emulator  until more
+features are added.
+
+PCбЧ
+
+A  complex Commodore Emulator, PCбЧ offers
+a  massive  amount  of features, including
+support  for  Disks  and  Tapes,  with the
+option of connecting up to 8 external disk
+drives. However "complex" is the operative
+word  and  after a few hours usage, I felt
+that I still hadn't got to grips with most
+of  it's  features.  However  it is a well
+designed  DOS-based emulator, although I'm
+sure  no readers of Emulate! will be using
+it - if only out of principal!!
+
+VGB
+The  "Virtual  Gameboy"  is  the  first of
+several   console   emulators   that  have
+recently  appeared. There are versions now
+for  Unix,  Windows  and DOS, although the
+latest Windows version is not very nice to
+use,  as  a big "Register this or die" (or
+words to those effect!) message is printed
+across  screen  at  all  times! I know the
+idea  of  shareware is just for trial, but
+surely  it  would have been better just to
+disbale some features? Anyway...
+The  VGB is a nice emulator, running about
+85%  of  gameboy  games  at a near perfect
+speed on my P75. It is hard to make copies
+of   Gameboy  carts  yourself  without  an
+expensive piece of equipment, although you
+need   look  no  further  than  the  newly
+created  Alt.Binaries.Gameboy newsgroup to
+find  enough  games  to keep you happy for
+many a day!
+
+SMS
+Another  console  emulator,  this time for
+the   Sega  Master  System.  I  have  fond
+memories  of  this, as the MS was my first
+step  away from a Speccy (boo..hiss I hear
+you  say!) This emulator has only just (by
+a  matter  of  days)  been  released  in a
+playable form with version 0.2.
+The  previous  version  0.0  (!)  was only
+capable  of  playing  the  soundtrack of a
+game  (Bet  that was gripping stuff!), but
+the   latest   version   is  looking  very
+impressive.  I played two games (Alex Kidd
+and Wonderboy) and found that the emulator
+run  at  an  excellent speed, with perfect
+sound.  The  only  problem  is  the sprite
+update  in  some  games,  which causes old
+sprites  to  be  left  on the screen. This
+should  be  fixed shortly according to the
+readme  file.  LATEST  - It has been fixed
+with version 0.3!
+
+SPW
+Another  console  emulator,  this time for
+the  Super  Nintendo.  When run, it looked
+fine.  It  only works under Windows 95 and
+seems  a  bit  slow, but the game I loaded
+(Kick  Off  3)  seemed to run perfectly. I
+couldn't  fathom  out  any  of the control
+buttons,  but I never let that put me off!
+Also,  there  is  apparently  no game that
+runs  100%  and  very  few  games that run
+better than 50%, but I'm sure that will be
+improved   upon  in  future  releases.  My
+advice  -  leave  this  one  alone until a
+later   version   (and   also   when   the
+instructions  have  been  translated  into
+English!)
+
+UAE
+They  said  it  couldn't  be  done....they
+shouted   it   couldn't   be   done...they
+SCREAMED it couldn't be done...but it has!
+The  subject  of  many  a  debate  on  the
+Emulators newsgroup was the possibility of
+creating  a  functional Amiga emulator for
+the  PC. Well, after many false starts, we
+finally  have  an  emulator  that is worth
+downloading.   The   Unix  Amiga  Emulator
+(previously   called  the  Unusable  Amiga
+Emulator  due to the fact that it couldn't
+even  boot!)  is now up to version 0.6 and
+looks set for a proper release soon. A lot
+of  games  still  do  not  work  with  the
+emulator,  although  Monkey Island and The
+Bards  Tale amongst others, work fine. The
+emulator  is still quite slow and there is
+a   slight   problem   with   the   screen
+centering,  but  this seems to have proved
+all the doubters wrong!
+
+Anyway,  thats  enough  emulators for this
+month.  If you want to download any of the
+emulators listed above, you can find links
+on the Emulate! Web Pages.
+
+NOTE: The Amiga Emulator requires an image
+of  the  KickStart ROM to be able to boot.
+This  can  be  obtained  by  using a small
+program  supplied  with  the emulator on a
+real  Amiga.  Alternatively, check out one
+of  the  warez  newsgroups  as  they  will
+probably soon be doing the rounds there (I
+didn't say that!!!)
+
+==========================================

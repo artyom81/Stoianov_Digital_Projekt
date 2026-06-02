@@ -1,0 +1,15 @@
+{
+  "magazine_id": 72,
+  "magazine_name": "Fantadrom",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2002-01-01",
+  "order": 1,
+  "article_id": 17777,
+  "title_link": "От редакции - А это, как вы уже поняли, второй номер \"Фантадрома\".",
+  "title_h1": "Fantadrom 02 - От редакции - А это, как вы уже поняли, второй номер \"Фантадрома\".",
+  "print_url": "https://zxpress.ru/print.php?id=17777",
+  "article_url": "https://zxpress.ru/article.php?id=17777",
+  "fetched_at": "2026-05-31T22:04:27Z"
+}

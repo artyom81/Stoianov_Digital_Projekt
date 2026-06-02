@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "69",
+  "issue_date_iso": "2018-04-07",
+  "order": 2,
+  "article_id": 18487,
+  "title_link": "News - Info Guide #12 was\r\nfinally released, LVD is soldering a new version of ZXNetUSB, Yerzmyey has released an interactive novel.",
+  "title_h1": "ACNews 69 - News - Info Guide #12 was finally released, LVD is soldering a new version of ZXNetUSB, Yerzmyey has released an interactive novel.",
+  "print_url": "https://zxpress.ru/print.php?id=18487",
+  "article_url": "https://zxpress.ru/article.php?id=18487",
+  "fetched_at": "2026-05-31T21:32:05Z"
+}

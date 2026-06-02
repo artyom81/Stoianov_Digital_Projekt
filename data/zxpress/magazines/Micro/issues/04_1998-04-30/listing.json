@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 350,
+    "article_url": "https://zxpress.ru/article.php?id=350",
+    "print_url": "https://zxpress.ru/print.php?id=350",
+    "title_link": "AD&D - Настольная игра жанра Advanced Dungeons & Dragons",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "ADD_-_Настольная_игра_жанра_Advanced_Dungeons_Dragons"
+  },
+  {
+    "article_id": 347,
+    "article_url": "https://zxpress.ru/article.php?id=347",
+    "print_url": "https://zxpress.ru/print.php?id=347",
+    "title_link": "Взгляд в будущее",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Взгляд_в_будущее"
+  },
+  {
+    "article_id": 349,
+    "article_url": "https://zxpress.ru/article.php?id=349",
+    "print_url": "https://zxpress.ru/print.php?id=349",
+    "title_link": "Игры - Плюсы и минусы игры \"Операция Р.Р.\"",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Игры_-_Плюсы_и_минусы_игры_Операция_РР"
+  },
+  {
+    "article_id": 353,
+    "article_url": "https://zxpress.ru/article.php?id=353",
+    "print_url": "https://zxpress.ru/print.php?id=353",
+    "title_link": "О разном - Amiga. Пупожус. Зеркало pre releaze.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "О_разном_-_Amiga_Пупожус_Зеркало_pre_releaze"
+  },
+  {
+    "article_id": 352,
+    "article_url": "https://zxpress.ru/article.php?id=352",
+    "print_url": "https://zxpress.ru/print.php?id=352",
+    "title_link": "Прохождение - Операция Р.Р.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Прохождение_-_Операция_РР"
+  },
+  {
+    "article_id": 348,
+    "article_url": "https://zxpress.ru/article.php?id=348",
+    "print_url": "https://zxpress.ru/print.php?id=348",
+    "title_link": "Севастополь - о спектруме в Севастополе",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Севастополь_-_о_спектруме_в_Севастополе"
+  },
+  {
+    "article_id": 351,
+    "article_url": "https://zxpress.ru/article.php?id=351",
+    "print_url": "https://zxpress.ru/print.php?id=351",
+    "title_link": "Хороший тон в адвентюрах",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Хорошии_тон_в_адвентюрах"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 36,
+    "article_url": "https://zxpress.ru/article.php?id=36",
+    "print_url": "https://zxpress.ru/print.php?id=36",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Raver-BBS.",
+    "order": 1,
+    "issue_label": "37",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Raver-BBS"
+  },
+  {
+    "article_id": 2091,
+    "article_url": "https://zxpress.ru/article.php?id=2091",
+    "print_url": "https://zxpress.ru/print.php?id=2091",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "37",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2092,
+    "article_url": "https://zxpress.ru/article.php?id=2092",
+    "print_url": "https://zxpress.ru/print.php?id=2092",
+    "title_link": "Застрял ? - Описание игры \"Смагли - 2\".",
+    "order": 3,
+    "issue_label": "37",
+    "short_slug": "Застрял_-_Описание_игры_Смагли_-_2"
+  },
+  {
+    "article_id": 2090,
+    "article_url": "https://zxpress.ru/article.php?id=2090",
+    "print_url": "https://zxpress.ru/print.php?id=2090",
+    "title_link": "Мозаика - Некоторые замечания по поводу отечественных программ :\r\n Dizzy, 48 Утюгов, Войны Эмбера, Soldier of Future.",
+    "order": 4,
+    "issue_label": "37",
+    "short_slug": "Мозаика_-_Некоторые_замечания_по_поводу_отечественных_програ"
+  },
+  {
+    "article_id": 2088,
+    "article_url": "https://zxpress.ru/article.php?id=2088",
+    "print_url": "https://zxpress.ru/print.php?id=2088",
+    "title_link": "Мозаика - О секретах в играх : Dizzy 3, Soviet Simpson Bart.\r\n Теневые части Ecstasy.",
+    "order": 5,
+    "issue_label": "37",
+    "short_slug": "Мозаика_-_О_секретах_в_играх_Dizzy_3_Soviet_Simpson_Bart_Тен"
+  },
+  {
+    "article_id": 2089,
+    "article_url": "https://zxpress.ru/article.php?id=2089",
+    "print_url": "https://zxpress.ru/print.php?id=2089",
+    "title_link": "Мозаика - Станции B.B.S. подверглись нападению супер юзера.",
+    "order": 6,
+    "issue_label": "37",
+    "short_slug": "Мозаика_-_Станции_BBS_подверглись_нападению_супер_юзера"
+  },
+  {
+    "article_id": 2087,
+    "article_url": "https://zxpress.ru/article.php?id=2087",
+    "print_url": "https://zxpress.ru/print.php?id=2087",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "37",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

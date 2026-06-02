@@ -1,0 +1,1347 @@
+Adventurer 14 - Reviews - 2002 year demo review: Alter Ego, Reject, Laya, Lovemaker, Harm, Abyss Of Madness, Losing Victoria, Inbetween, Summermilk, demo21, Black&White, Traffic Of Death, Invasion, The Loop.
+Demo Review             
+
+elph/CPU                
+
+elph> Lately, I began to feel the
+lack of professionalism when rea-
+ding some party stuff reviews.
+It's about demos in particular. It
+is either funny and frivolous, or
+just unprofessional. Anyway, such
+reviews make me think, that someo-
+ne should do only what they are
+competent in, or learn for more on
+practice as those, whom I've invi-
+ted to review the 2002 year's de-
+mos and who are still perceiving
+the knowledge of the making. As
+for me, they are experts in each
+sphere of the art they are presen-
+ting and, an important thing, un-
+derstand. So, it is always interes-
+ting and instructively to know opi-
+nions expressed by Miguel, Diver
+and Flying.
+
+Alter Ego
+
+Miguel>  Dicks-dicks  here,
+dicks-dicks there, everywhere
+dicks-dicks... It becomes quite
+clear from the very start of the
+programm that this is a Hooy Prog-
+ramm release. I wont say anything
+about the content of this megademo
+but the music is the thing that I
+should pay attention to. It is far
+from ordinary european oldscool
+spectrum music that I've heard. I
+don't know what was the reason for
+putting this unusual music into a
+demo made in europe, but I like it
+as a varied and full of ideas
+track. I think that the author is
+self-confident and he made exactly
+what he wanted to :) But there are
+some defects in this tune. As in
+the majority of western modules
+samples are slightly distorted,
+that makes'em to sound not so good
+as possible. And the logic of com-
+bining the track is a little diffe-
+rent from that I used to call
+'high technics'.
+
+Diver> Hm, it's a good idea to use
+Yerzmyey's graphics along with
+standart chunks, because it can be
+applied just fine. If you haven't
+paid attention to Yerzmyey's crazy
+visions you can see them here, be-
+cause the second part of the demo
+contains the old works and some
+new. As for me, Yerzmyey's style
+looks funny - expression, crazy
+smiles and quite qualitative con-
+tours.
+
+Flying> Another work of the group,
+which is known for it's original
+style and sense of humour. It se-
+ems that the main purpose of demo-
+making for HPRG is fun, nothing
+matters in means of getting into
+this condition, while others try
+to concentrate on powerful program-
+ming. And this demo is not an ex-
+ception from this rule.
+
+Technically, the most diffucuilt
+effect in a whole demo is a spin-
+ning 3D dick-styled sausage with
+gouraud shading. And the main prob-
+lem here is that polygons must be
+sorted because the object is not a
+convex one. Besides this, I should
+mention about precise calculations
+used here, the edges of the object
+don't shiver, as it could be using
+8-bit mathematics.
+
+The other effects are usual: a
+chunk plasma, the attribute analo-
+gue of which was made by
+Baca/DMS in Brain Surgery in
+1997; sinusoids, which RST7 used
+in 1995... But that plasma used as
+a background for amasing
+Yerzmyey gfx (coloured dog is real-
+ly cool) looks good indeed.
+
+Of course, this demo isn't a mas-
+terpiece, but this fact seem to be
+not very important for HPRG. The
+Demo has it's own style and that
+is the main thing.
+
+Reject
+
+Miguel> No comments.
+
+Diver> Not bad oldschool design,
+clear and accurate, but nothing
+special at the same time, cos the
+author is a musician at first, not
+an artist. Probably, the main pur-
+pose of this product isn't design
+or gfx, but music, jokes and
+texts.
+
+Flying> All I can say about this
+demo was said by the author in the
+final scroll :)
+
+This demo could be called 'a demo
+without a coder' as you can remem-
+ber Funtasy from Funtop'98 :)
+However, the idea and it's realiza-
+tion are good enough. 'Originally'
+designed greetings for each of 4
+platforms made in each platform's
+style - it's very cool.
+
+Laya
+
+Miguel> Baze roxx :) Confident and
+qualified. I think it's a talant.
+Although I'm not a fan of music li-
+ke that, but I'm pleased with its
+quality.
+
+Diver> Though it contains no
+graphics, just a set of converted
+b/w images, I cannot leave this de-
+mo aside of this review, because
+high designed demos in 2002 can be
+counted by fingers. And Laya de-
+sign can be called 'high quality'
+accurate synchronization with
+great music, well applied layer
+principle, a couple of hi-res fea-
+tures, weird slogans :). Anyway,
+looks lovely, but I still can't un-
+derstand what's described on those
+layers -looks like porno, insects
+and brains :).
+
+Flying> This small demo continues
+the line which Baze has started in
+The Loop. The same style -
+chunks, one main effect for the
+whole demo, very exact music syn-
+chronization and a plenty of small
+details, which seem to live their
+own life and make the whole demo
+complete in the same time. It lo-
+oks amazing altogether. Of course,
+considering only technical stuff,
+neither Laya, nor The Loop is
+tight in code, it is not neccessa-
+ry in both demos. But at the same
+time I can't expect 'lame' program-
+ming from Baze :) As Baze said:
+"I made these work basically for
+myself". Nevertheless, many people
+can acquire a lot of positive vib-
+rations while watching Laya and
+The Loop.
+
+Lovemaker
+
+Miguel> In this demo I do apprecia-
+te that the main idea really mat-
+ters for skreamer. He tried to rea-
+lize the feelings he had at that
+time, and I think he succeeded.
+And he was not interested in what
+the scene would tell about it, he
+just made the demo about himself.
+That roxx! So and music is filled
+with that anxiety, so nervous and
+irregular, it makes me feel the
+same. Very impressive.
+
+Diver> Author says that this is a
+pure nocode stuff. Damn, it's bad
+when gfx is made not by an artist,
+so in addition it becomes a pure
+nographics too, though there is so-
+mething like gfx: did anybody un-
+derstand what's placed on the be-
+ginning screen? This is a DOLPHIN
+:) However, reviewing this demo
+considering just gfx or design
+might seem stupid, cos the result
+of such review could be rather
+strict - 'lame', especially compa-
+ring with the next work. And if
+Laya is the first example of extre-
+me nographics realization, the pie-
+ce of the fine design, then Lovema-
+ker is another nographics realiza-
+tion, it's an expression, sensual
+drive, pure emotions.
+
+Flying> Demo (16kb intro, to be
+correct) is designed in a easy to
+recognize style of skrju. Minima-
+lism in gfx, a set of sound ef-
+fects instead of a melody in
+music, good code, tight synchroni-
+zation, psychodelic text, which is
+not so easy to understand for most
+of people - all this is a result
+of a creativity of a couple :) of
+young sceners, amazing the scene
+with their extraordinary releases
+and behaviour. I think, that skrju
+is the most outstanding event on
+Spectrum scene for last few years,
+the people who gave another life
+to our Speccy. Almost everything
+that they make causes a storm of
+opinions, even close to a scandal,
+and at the same time makes scene
+to react in the right direction -
+the direction of creativity.
+Hmm... Let's get back to the demo
+:) Lovemaker.
+
+I think, that this demo could be
+named as "How to tell a story of
+an unlucky love using 3 sprites, 1
+font, a few samples and a short
+text" :)) Maybe it's too long for
+a title, but it's close enough to
+my opinion about this work. Now,
+looking at this intro, one can
+see, that skrju understood the
+main principle of a good intro ve-
+ry well - to make as more as pos-
+sible using a very few of ele-
+ments. This principle was implemen-
+ted at the high quality level, re-
+sulted in a few minutes of action
+leading the audience into the dee-
+pest thoughts. Uneven, original,
+ragged music combining with accura-
+te synchronization brings the main
+demo affection. No need of difficu-
+ilt effects here, cos they would
+corrupt the whole picture, drawn
+using a little piece of code. So,
+greeting to skrju, I wish them to
+entertain us with such works again
+and again.
+
+Harm
+
+Miguel> I wouldn't say that I'm a
+Key Jee fan... And how can i judge
+the music if it is unfinished? Of
+course, Nik-O tried to make it mo-
+re complete, but it's not the way,
+so... That's all...
+
+Diver> Here is another extreme
+piece, probably, the worst compa-
+ring with 2 previous works. It se-
+ems that authors relied on gfx and
+code only, or maybe they just
+can't design like Baze and feel li-
+ke skreemah. What's about gfx -
+it's good. And it is due to pROF
+rather than Diver as someone could
+have thought, cos Diver is just a
+well experienced performer... and
+noone have noticed that the final
+picture which had been rated very
+inadequate on the ascii'02 party
+is a pure nocopy, excellently rea-
+lized, so many others can envy.
+
+Flying> Serious work, pretending
+to be one of the best Speccy demos
+in technical aspect from famous
+4th Dimension and their talanted
+partners - Triebkraft.
+
+Really, CyberJack/TBK made the
+whole speccy scene understand,
+that not only Placebo and Brainwa-
+ve can work with 3D object at
+3.5MHz and 128kb memory of our
+Speccy. His code is generally re-
+cognized as the most optimized and
+the fastest for 3D objects which
+has ever been used in Speccy
+demos. Although, the difficuilty
+of 3D scenes, amount of effects
+and features used by Placebo in
+their demos is much higher, and
+Brainwave, showing their abilities
+in multicolour still shocking eve-
+rybody, but I should say that they
+had made their masterpieces not
+from the very start of their crea-
+tivity. So, technically, Harm is a
+high quality demo, and it should
+be seen not only from outside, but
+from inside too (through monitor)
+:) I think, every coder will be
+pleased using both ways of observa-
+tion :)
+
+One more detail, which I should
+mention here - Harm authors sho-
+wed us again, that the new effect
+is a quite forgotten one. As a
+fact -greets are no more than a
+combination of horizontal scroll,
+blob and environment mapping,
+which we could have seen before se-
+parately in other demos thru the
+past few years. But anyway, this
+mixture of well known effects re-
+sulted in a new good looking pic-
+ture, no matter of it's simplicity
+(and maybe due to this). As for
+me, I like the effect that authors
+call 'double stretch'. It can be
+found in many demos on the other
+platforms and if realised well is
+a very good looking effect, as it
+is in Harm. The only drawback, ba-
+sically considering the demo ef-
+fects, is that they are similar to
+Placebo ones. And this is boring.
+Actually, who cares how the effect
+looks in code when there is the sa-
+me action at the screen?
+
+Demo graphics are made well too,
+no doubts this time, especially
+when you see the credits with
+Diver/4D and pROF/4D in the list.
+
+And now music. As for me (though
+I'm not a specialist here) it is
+poor. The melody is very simple
+and unexpressive, and it's not the
+single drawback. The main problem
+is that starting from the 2/3 of a
+demo, synchronization begin to di-
+sappear and this process continues
+till the end. It seems that
+authors just left it on itself (it
+is worth of party version, but
+unexcusable for final release).
+Then, I think, Key Jee had chosen
+the wrong tempo for the soundtrack
+it is slower than the action on
+the screen, an this circumstance
+makes the demo look slower and the
+CyberJack's optimization - use-
+less. You can compare Harm with
+Refresh by Extreme - the slower
+3D scenes are more spectacular due
+to the drive produced by the so-
+undtrack made by Visual. So, it wo-
+uld be nice to see all of compo-
+nents of a good demo compiled to-
+gether in the next works of these
+groups to bring us a real piece of
+art!
+
+Abyss Of Madness
+
+Miguel> Ahim is Ahim, there's
+nothing left to say. His style (or
+maybe just the only way to do so-
+mething in music) is well known,
+especially for russian sceners and
+users. I only had to clean the
+technical drawbacks (they can be
+found in every Ahim track) before
+sending it to RGI and to help with
+fixing after that. And so I did.
+But a little later I was shocked
+with the result. There is a good
+question - what's the use of the
+fast track when the demo effects
+are too slow not even for music,
+but for the whole demo, which
+can't be called neither oldschool
+nor newschool. It's another
+school, I think, the school of AN-
+TIdemoism :) And the main task of
+this ANTIdemoism is to strike upon
+the rest of demomakers, make them
+see the other side. But I think
+that's good, it's just the example
+of what shouldn't be done in any
+circumstances. Real abyss.
+
+Diver> Really funny. To repeat a
+STOLEN screen for 6 or even 7 ti-
+mes saying that it was made by
+another 2 dudes... I can not remem-
+ber anybody doing like that, it is
+very original! I recall some facts
+of stealing the fragments of a
+screen, recolouring, mixing and no
+examples of dealing in such impu-
+dent way. It makes me compare this
+demo with Lovemaker by skrju.
+This is the case when I'm at 200%
+agree with Raver saying that
+english text fits the demo better
+than russian. And if you're taking
+gfx made by somebody else it's bet-
+ter to ask the author about it's
+use beforehand like skreemah did
+with bizk's characters used in Lo-
+vemaker. What else can I say?
+Crap...
+
+Flying> I had a very strange
+impression after seing this
+demo... On the one hand, it has
+nothing special in code - all of
+the effects or their modifications
+can be found in demos from mid ni-
+nety's. Graphics also brings no
+pleasure (by the way, almost no
+graphics is used). Besides, obvi-
+ous faults in code, resulted in a
+black screen for 5-10 seconds or
+stopping effect (things which are
+not accepted in any demo), are ir-
+ritating me. The ending is clumsy,
+music wraps bluntly and epilogue
+appears. The effect that looks
+like 'Life' game with it's length
+reminds me the last effect of Ex-
+cess demo by Zer0 (as you can
+remember, it was released at En-
+light'97).
+
+However, on the other hand, the
+whole demo brings the positive emo-
+tions (more positive than Harm,
+which was the concurent for Abyss
+Of Madness at Ascii'02). I can't
+say what exactly makes me feel
+so... Maybe lyrics, that produce
+the atmosphere of mystery and
+heed. Maybe effects that aren't
+diffucuilt to make, but they ap-
+pear in the right places and in
+the right form. Maybe it brings
+the freshness among the majority
+of demos made in a past few years
+leading in one direction - 3D
+graphics. And finally, I just lo-
+ved greets - very simple and very
+beautiful.
+
+
+Losing Victoria
+
+Miguel> Ordinary european music.
+Nothing more.
+
+Diver> Why nobody had such idea to
+exhibit his work at Assembly be-
+fore? Oldschool demo compo at this
+party is held since 2000. But the-
+re is a need of a representative
+of your work and a real michine to
+run it. On the other hand, CC/CAFe
+parties are usually held at this
+time too. So I can understand why
+nobody had competed at Assembly,
+although we must not forget about
+the possibility of such perfor-
+mance. Gasman didn't manage to
+join the oldschol compo, 'cos he
+had his spectrum dead at that
+time, so he performed his work in
+wild compo and the results were
+not too bad -7th of 13. I could ha-
+ve thought that Summermilk is a co-
+py of Losing Victoria, but there
+was no possibility of such remake
+in a short period of time between
+Assembly and CAFe, where the
+demo by skrju was presented. I
+guess both (Gasman and skrju)
+authors have the similar way of
+thinking. However, Losing Victo-
+ria has no outstanding desing or
+even gfx, nevertheless, it looks
+pretty.
+
+Flying> This demo is remarkable
+just because the fact that it is
+the only work, made on ZX
+Spectrum and presented at the big-
+gest  European  demoparty
+Assembly'2002. Was it worth of be-
+ing there and presenting our plat-
+form on a worldwide scene, or the
+first effort has failed? Looking
+at the results of this party
+(Losing Victoria took 7th place
+among 12 works in compo) -it may
+look not too big achievement. Tho-
+ugh considering the fact that this
+work had to be presented not in
+Oldschool demo compo, but in Wild
+compo (because Gasman was late
+with registration), it becomes mo-
+re impressive.
+
+And even without this fact, Losing
+Victoria - is a very nice and
+well-made demo. Though there is al-
+most no gfx (only one picture) and
+no effects :)) (practically, 5 ef-
+fects and only one among them is
+an independent, the other are sub-
+sidiary ones) - demo looks fine
+and brings a lot of pleasure. Its
+style looks similar to demos from
+skrju for me. Although, unlike
+skrju with their alternative
+works, it's much lighter and free,
+as it was made for relaxation and
+rest. I think the main reason of
+such effect is the melody, though
+visual images are bringing their
+influence too. The only flaw of
+this demo - the ending, it's ab-
+sence, to be more correct. Music
+just stops and everything disap-
+pears. Anyway, Losing Victoria is
+a very good work, that's for sure,
+and it is worth of notice.
+
+Inbetween
+
+Miguel> A demo from Placebo cau-
+ses the deepest emotions to appear
+deep inside of me. But time to ti-
+me they become weaker and weaker,
+from the times of Dogma, I think.
+That demo was the finest thing
+that Placebo did ever, I think.
+One can mention Napalm, which
+was a breakthru in demomaking, but
+Dogma... As i recall the Chaos
+Constructions party in 2000, I put
+the vote in my votelist right af-
+ter the start of Dogma because I
+was surprized with it. Then, next
+year, followed with Life Forms,
+which was done great, but imho it
+is weaker. And then, this year,
+everybody became a witness of ina-
+bility of Placebo to make so-
+mething new, as they did some time
+ago. Inbetween uses the same en-
+gine, which irritates the majority
+of sceners... So, i can make the
+conclusion that Inbetween was do-
+ne for the party only as a real
+chance to win again, 'cos it uses
+a still powerful engine.
+
+Musically it has nothing new, the
+Sair00s' style is the same. What's
+the use of changing style without
+changing the rest of the demo? And
+now is another interesting ques-
+tion - who's gonna make a so-
+undtrack for their new demo if
+they will make something new? I'm
+sure that Sair00s is not capable
+to make a new engine and music for
+it simultaneously. On the other
+side - there's not so much active
+musicians in Russia who could make
+a real demo track so it could fit
+the power of Placebo. Who will be
+the chosen one? :))) We'll see...
+But I hope Sair00s will try as
+hard as he can to make the music
+by himself.
+
+Diver> All things can be estimated
+in different ways - relatively and
+absolutely. Camparing with the
+other demoscene releases of 2002
+year Inbetween is a hit, along
+with Summermilk and Laya, the
+hit with its own unique features.
+Paracels' gfx this time is neither
+worse nor better than last year. I
+don't see any breakthru, it's
+rather the same level as the last
+work, the certain balance, but
+it's hard to estimate objectively.
+I think it's because of the number
+of ideas and the same technique.
+As they say about my gfx - it beca-
+me worse, as it is no longer worth
+of my abilities. But I'm confused
+about that -why they think so? May-
+be it's because I started to copy
+not only scene works, but even tho-
+se which are less spectacular, or
+maybe it's because of the progress
+absence, who knows?
+
+Now back to Paracels... Inbetween
+logo is almost shocking, Paracels
+is doing everybody in this genre,
+imho, including pROF. The
+mask-contour animation is just the
+piece of fine art. Then - Ragin'
+and 2 screens in Atlantis theme
+are great, but don't fit the demo
+theme as usual with pixel gfx :)))
+I especially appreciate Paracels
+for Atlantis Of My Dream and the
+previous demo picture that I cal-
+led just Atlantis - they are made
+in interesting way, cos everybody
+is tired of the large scaled faces
+like Ragin' :), it's quite clear
+that faces can be drawn out very
+well. I was pleased with techiques
+used in these 2 screens, there is
+no overtexturing as before. As I
+know the last 2 screens - Horizon-
+tal Attitude and Watching Far Bey-
+ond are copied (i hope not con-
+verted) from 'Demoscope' by Cre-
+ative Minds (Amiga) and that's why
+they are placed in the end of the
+demo. These works are balanced
+with Paracels' 2 last year's remi-
+xes from Lifeforms - Lifeforms
+title screen ('Cosme' by Made)
+and the Placebo team looking
+downwards (from 'Elektroniks' by
+Doomsday). I cannot judge objecti-
+vely being in the same situation
+as Paracels. Scene is what we are
+making of this conception, and if
+I made scenecopy sometime ago and
+now a simple copy then I can't say
+that gfx from Inbetween sucks, on-
+ly Rion can say this. Design is
+the same as usual for a such demo
+engine. I'm not a god of code but
+as I know it's very hard to achie-
+ve better results with effects ha-
+ving nothing in common with each
+other. The only solution is to use
+gfx as it was done in Lifeforms.
+Inbetween additional visual ef-
+fects are spread quite good, some
+of them present in the early begin-
+ning of the demo, not only in the
+end as Miguel said. And the alloca-
+tion of effects and gfx is equal
+to the soundtrack, so I can make a
+conclusion that Placebo did the
+best they could in this situation.
+
+By the way, design seems similar
+to Lifeforms which has greetings
+style like My Kingdom (Sco-
+opex+Haujobb, Amiga), and Inbet-
+ween has the beginning that re-
+minds me of Haupex (Haujobb+Sco-
+opex, Amiga). Of course it's great
+that Placebo had chosen these
+great examples of design for inspi-
+ration, but i think they did it
+too evidently.
+
+Flying> With this work Placebo try
+to show everybody that Speccy abi-
+lities in calculating 3D graphics
+revealed in their last demo is not
+a limit for 3.5MHz and 128Kb me-
+mory. Now objects and 3D scenes be-
+come more complicated, additional
+effects appear in this demo, anima-
+tion applied in this work is used
+not only for rotating and moving
+the objects, but to the objects it-
+self. Sair00s, I think, is the lea-
+ding expert in 3D on Speccy nowa-
+days, and he could have written a
+dissertation titled "The princip-
+les of 3D graphics realtime calcu-
+lating using strictly limited
+machine resourses" :)
+
+In addition to Sair00s' code there
+is a brilliant Paracels' gfx and
+music by Sair00s (again :)) - all
+this made this demo a winner at
+CAFe'2002.
+
+I think there's no need of discus-
+sing Sair00s' code - I'm not a spe-
+ciallist here, also I think not a
+single speccy coder have scanned
+his code in monitor :) All I can
+say, is that I like the effect
+which I don't know how to call,
+but I've seen it on the other plat-
+forms and it's realisation in In-
+between look fine. I mean the 3rd
+chunk effect with a sphere rota-
+ting in a flashing light. Very fa-
+bulous thing! Besides, the gree-
+tings part is made very origi-
+nally, mentioning Digital Reality
+doubles my impression! The textu-
+res used are carefully selected,
+particularly in effect with
+plasma.
+
+Finally, I think Placebo are deser-
+ving a status of professionals in
+each member's occupation. So the
+result of their collective work is
+worthy of the first place. I hope
+it's not the last Placebo work and
+we'll see them this year.
+
+Summermilk
+
+Miguel> Great demo! I'm sure that
+it is the best demo shown at
+CAFe'2002 and maybe even for the
+whole 2002 year. That's why i put
+the highest point for this demo du-
+ring the vote, while the previous
+demo, Inbetween, got only 3. I had
+made the choice i did because of
+wild novelty that presents in this
+new demo from skrju. I think it is
+the next logical step in their
+(skrju) development as the demoma-
+kers. They abandoned the ordinary
+way of making the demo, ordinary
+way of perceiving its main idea.
+They don't give a shit whether you
+understand it or not, they just ma-
+de it the only way they had to rea-
+lize it.
+
+Ok, now the music. As they say, it
+was written in Pro Tracker using
+tempo 2. And because the Pro Trac-
+ker player which is linked to com-
+piled module is not capable to
+play the tunes written in 2nd
+tempo, skreemah had to make his
+own. Jtn^4D did this work great
+for skreemah, but it influenced
+the speed of effects used in demo
+(one effect and the rest of design
+routines). So, that's why I have a
+question to D-Juice: is it a big
+need of using 2nd tempo causing
+the demo work slower? I think that
+it's possible to make drum'n'bass
+using tempo 4 as the double for
+2nd. And then the main high speed
+elements of melody (drums in parti-
+cular) can be done within samples.
+Of course, it's much harder I
+think, but it's possible. I wo-
+uldn't say anything about that if
+I hadn't try. That's all about
+technics. Nothing to say about me-
+lody for me, I should only mention
+it :)
+
+Diver> No comments here. Except
+one - screens with a few copies of
+the same flower make me a little
+sick, their contours seem to be
+not very perfect, maybe something
+else... the best demo of 2002.
+
+Flying> Call me 'minimalism
+lover', but Summermilk is the best
+work I've ever seen from skrju
+and one of the best demos in such
+trend. As usual for skrju -minimum
+of code, music adn gfx. Sometimes
+it seems, that they don't want to
+give all they have and that's why
+they share it between the little
+pieces :) At the same time, it is
+the irreproachable compilation
+using the minimum of effects but
+resulting in a complex, mani-sided
+construction. Moreover, it is ba-
+sed on the story of a man with ori-
+ginal and extraordinary point of
+view and the different sense of
+life, realized in a prose rhyme.
+Poor granny...
+
+And again I repeat what I've said
+in Lovemaker review - skrju are
+very original, they are not as
+others, they are not ashamed of be-
+ing themselves and not afraid of
+being misunderstood.
+
+If talking about technical side of
+the work, I should say, that eve-
+rything is done on a high quality
+level. Maybe, synchronization
+might have been more accurate, but
+it doesn't matter here.
+
+Finally, the black crystall on the
+red background, which edges beco-
+me chunked when outside the bor-
+ders (I hope you know what I'm tal-
+king about) - that's really cool!
+Right on, guys!
+
+
+demo21
+
+Miguel> The main track of this de-
+mo is made in Sair00s style, it
+just pretending to sound like so-
+undtracks from Placebo demos.
+It's for me... One can disagree,
+but anyway, the explanation of
+this fact is very simple - people
+are trying to make something real-
+ly good and powerful, at the same
+time they follow (maybe unconscio-
+usly) the current leader in demoma-
+king -Placebo. So, we get the mu-
+sic like that. I don't know what
+Sair00s think about this, maybe he
+like the fact that he made a trend
+in demo music, but I wouldn't like
+it if I were the trendmaker :)) Ma-
+ybe it happened because of a
+little differences in Sair00s' mu-
+sic itself... Anyway, I think that
+any musician must have his own mu-
+sical solutions. Technically, I
+should pay attention to samples,
+again samples.
+
+Diver> Having no artist or a per-
+son able to make more or less qua-
+lity gfx is a bad thing. In case
+of no credits posted in this demo
+I could say that there is no gfx.
+But the presence of 'artwork' sec-
+tion makes me pay attention to
+this fact. What can I say -artwork
+is entirely converted from pC,
+anyway, this part of 'artwork' was
+done very carefully. And they use
+it in a right way, as the effect
+and messager backgrounds. All ima-
+ges are selected in accordance
+with the demo theme (which is good
+enough), though it would be better
+to use handdrawn nocopy gfx to ma-
+ke the whole product more outstan-
+ding. Design could have been be mo-
+re kewl with the messager moving
+upon the effects (it is harder to
+realize, but looks greater). At
+last, it's better to release the
+demo complete, maybe with some
+drawbacks, then do nothing as we
+did because of the very serious at-
+tidude to the final result. And fi-
+nally, I guess the word 'artwork'
+describes something different than
+converted pC gfx...
+
+Flying> "Strange demo" - that was
+the first thought after seing this
+work made by Eye-Q. I suspect the
+presence of a theme here, taking
+into consideration the text mes-
+sages, that suddenly appear from
+time to time, but I can't get the
+point. Anyway, I could't put them
+together with action on the screen
+to see the full picture. Of co-
+urse, this work shows the progress
+that Eye-Q made after their last
+work (Absolute Lame at CC'001),
+but it looks very poor, especially
+for a whole year since previous
+party. This demo contains a couple
+of good effects, but they can be
+hardly seen among the rest of
+technically and visually poor ef-
+fects.
+
+Also, the set of chunk effects and
+converted pictures, interrupted by
+suddenly (and in the wrong time)
+appearing copper bars, looks very
+clumsy. I think that somebody from
+Eye-Q had found the old sources
+disk and decided to put those old
+effects in this demo. But dealing
+like this doesn't make a straight
+line out of all effects used here.
+Besides, two of them (DNA spiral
+and something like 2 bitplanes
+plasma) are destined to produce an
+epileptic seizure :) No good,
+guys! :)
+
+On the other hand, I liked the syn-
+chronization with music. I sup-
+pose, that music was specially
+written for this demo and not ta-
+ken from some old music disk. Of
+course, we all can find the better
+examples of such synchronization,
+but it's the most positive aspect
+in this demo.
+
+In conclusion, I should say that
+in the overall progress of Eye-Q
+as demomakers this demo is an im-
+portant step and I think, that in
+future they will amaze us with
+another interesting works. But
+this demo itself is not adequate
+for 2002 year, especially taking
+in concideration that it's not the
+first Eye-Q work.
+
+Black&White
+
+Miguel> It looks like the author
+wanted to make a powerful track,
+as in usual newschool demo nowa-
+days. But the lack of ideas and
+low technical level didn't let him
+to do so. And this is not about mu-
+sic only - the rest of the demo is
+too ordinary and technically unpro-
+fessional.
+
+Diver> This demo had the close con-
+curancy with the previous one, so
+i'll compare them between each
+other. There's no artist here as
+well. Maybe Black And White (the
+name of the demo) was chosen due
+to the b/w images used, but I
+don't think they are handmade. Ho-
+wever, all is done great, all
+titles, images, i like its qua-
+lity, but, imho, all this stuff
+was converted, again, using orde-
+red dither this time. It's possib-
+le to make more quality handmade
+gfx, for example, by using
+brightness. Moreover, it has
+nothing in common, no theme can be
+revealed from this graphical accom-
+paniment for me. Design is much we-
+aker, we see only the following
+strict ordered combination: ef-
+fect, image, title and so on.
+That's why despite the accurate
+b/w gfx B&W looks much weaker
+than demo21.
+
+Flying> Honestly, I don't want to
+review this demo... The reason is
+that it cause no positive emotions
+for me. All three effects (attribu-
+te or planar analogues) can be fo-
+und in many other demos from mid
+90's. Poor music bringing no plea-
+sure to me, scanned and/or rende-
+red gfx used with no need of such.
+Can anybody explain, what does the
+picture with Eifel tower and a car
+in the beginning of the demo mean?
+And why after text message saying
+"Black stripe -white stripe" we
+see a sphere with leaves of a
+strange plant "stuck" to it and no
+stripes on the screen?
+
+I think these guys found the old
+sourses and used them in this demo
+with the only reason - to do so-
+mething for the compo. What a
+pity...
+
+Traffic Of Death
+
+Miguel> At this time CPU refused
+to help POS with music. We have
+enough of bad feelings about their
+own (POS and RGI) demomaking.
+So they had found another way out
+and asked Nik-O to make a so-
+undtrack for their next creation.
+And as I think, Nik-O made really
+cool track. But when they began to
+fix it with their s_l_o_w_e_s_t
+demo the track was perverted, loo-
+ped more than once and finally it
+lost its primary idea. In conclu-
+sion I should say to our foreign
+friends that this demo has a
+strong social motivation, antinar-
+cotic propaganda and may be due to
+this social affection POS group be-
+came empty inside. No drugs! Ehh!
+Then I say - FUCK THE POLICE, FUCK
+THE AUTHORITIES!!! FUCK!!!
+
+Diver> It's hard to say something
+good about this demo. It can be ba-
+rely called a demo... Pure propa-
+ganda. Quite clear for me why the
+authors didn't want to take part
+in demo compo with this stuff, it
+is tooo faaar from Smokebomb...
+But on the other hand, gfx is good
+enough, Stanly's part in parti-
+cular, it fits the whole theme,
+which is quite rare event in a
+demo. The rest of the visuals is
+very weak, it makes no strong af-
+fection which propaganda must
+have. Comparing with Smokebomb
+that leads into the deepest tho-
+ughts...
+
+Flying> As I know, this work was
+made specially for another compo,
+held at CAFe'2002, something like
+"Social problems demo compo" :)),
+but it was the only work there, so
+it moved to demo compo.
+
+For me two details are too evi-
+dent: this demo is quite similar
+to Pos WT's last work (Abyss Of
+Madness), even some effects are
+the same. I think this demo is
+much more "wet" then Abyss Of
+Madness. I'm sure that this work
+fits that "strange" social compo,
+but as a demo is very poor. Though
+the effects sometimes are more dif-
+ficuit to realize then in Abyss Of
+Madness (final spinning and mor-
+phing text is good, but old ef-
+fect), and music along with gfx is
+much better, but the whole demo
+doesn't look complete, I think
+it's a party version, made in big
+rush. Maybe... Maybe the final re-
+lease does exist, then I apolo-
+gize.
+
+One more thing, can't help with it
+:))) Can anybody explain me what
+does the set of tricolor pictures
+within this antinarcotic propagan-
+da mean? As for me, the phrase
+"All clear?" in the end has put me
+in a deadlock, cos nothing is
+clear. Maybe I'm dumb? :)))
+
+p.s. However, I got the final rele-
+ase later, but I've decided to
+keep everything that I wrote about
+the party version as it is now. I
+just want to say that the final
+version looks more nicely. Al-
+though, the picture "I'm alive,
+but envy the dead" is being shown
+for a too long time (as for me),
+but I think that it's because the
+musician lives in an other city
+and PoS had to work with the tune
+they had at that moment. And again
+that strange tricolor pictures :))
+At least, you could have corrected
+them, guys :)
+
+z80 cheap
+
+Miguel> It's not worth of deep ana-
+lisis, the only thing I have to
+say is that knowledge is a power.
+So you'd better learn before ma-
+king something to show people. If
+anyone thinks that I'm writing
+this article because I know too
+much about spectrum music and the
+music at all, then I'll say that
+you're wrong. I learn something
+new every time I compose a
+track... So, that's it.
+
+Diver> It's not a surprise that it
+has no credits, it's a big shame I
+think to be proud of gfx like
+this. The final screen has some
+initials - SG, that aren't fami-
+liar to me. Anyway, such gfx has
+just one visual merit - it's noco-
+py gfx :))) But the quality is mo-
+re than awful. Maybe authors deci-
+ded to imitate Yerzmyey's style,
+which is too far from this parody.
+
+Flying> While watching this demo I
+had a feeling that the authors of
+this work are mentally close to
+HPRG (about their Alter Ego read
+above). First, gfx has something
+in common, then intentionally slip-
+shod effects with evident mistakes
+(there's need to use paper in
+attribute plasma). Of course, the-
+re are a lot of differencies: HPRG
+works can be easily recognized due
+to their excessive accents on the
+"fallic symbols", while the
+authors of z80 cheap demo con-
+centrated on what we all like
+Speccy. And this fact helps to for-
+get about the technical drawbacks,
+demo is filled with positive emoti-
+ons and I'm happy that there are
+people who can deliver it to the
+audience it is quite rare event.
+
+Thanks you guys, exellent work!
+
+Invasion
+
+Miguel> The soundtrack of this de-
+mo was taking part in CAFe'2002
+music compo, which was 2 weeks
+earlier than Paradox party. By the
+way, I'm against of such things,
+especially when a screen from a de-
+mo is taking part in gfx compo and
+that's why everybody have to watch
+it 2 times...
+
+Now technics - I don't like when
+the chord is playing much louder
+than the rest of instruments. And
+the main melodical theme which be-
+gins after credits part is killing
+me :)
+
+Diver> Looks like there are no se-
+rious problems with gfx used in
+this demo. Of course, it's not so
+good, but remember PCB who star-
+ted their triumphant performances
+not from 5th Element, as I know,
+in the beginning there was Climba-
+tize, it revealed from my memory
+after seeing Invasion. I can't say
+this demo sucks, i think that the
+authors try to develop their
+skills in the right direction. For-
+get about the russian language ly-
+rics here, such drawback can be fo-
+und in Jaundice too, but the last
+one had its tremendous followers -
+Lovemaker and Summermilk. So, I
+think a little bit of practice wo-
+uld help the authors with their
+next works. And of course, they
+should look at the best amiga, c64
+and pc stuff more than once to de-
+velop their design abilities.
+
+Flying> An average demo, conside-
+ring code in particualar, though
+music and gfx are good enough.
+This work has nothing new in code
+usual and old enough effects, rea-
+lized as usual. On the other hand,
+this demo was released complete,
+though it's not a masterpiece. Ho-
+wever, I think, that the authors
+obtained that experience they need
+and I hope we'll see their next
+works for our beloved Speccy.
+
+By the way, why did you buried
+RST7 and Mic? Remember - Le-
+gends never die!
+
+The Loop
+
+Miguel> Again Baze. I think he is
+the only one who tries to make a
+real PRODUCT, not crap, so and his
+music is outstanding among the
+rest of european musicians and de-
+momakers, who wish only fun. Seri-
+ous work.
+
+Diver> At last, the demo which was
+made for 2 years ago already but
+had been released only in 2002.
+Just before CAFe Baze made eve-
+rybody on #z80 happy by giving the
+party version of his 'The Loop' in-
+to publicity. Poor Baze, he was af-
+raid that nobody would understand
+his work, and this time he was
+right. Mostly, people have stupid
+faces while watching The Loop
+and describe the action on the
+screen with the words something
+like: "What a shit". Dummies! What
+did you want? Another 3D sausage
+with a breakbeat in background?
+Considering that there's only few
+good sausages I've seen nowadays.
+And Baze brought another quality
+conceptual product, somehow remin-
+ding of c2h5oh, but more philo-
+sophic
+
+Flying> The Loop was first shown
+at Forever 2E3 SE in march of
+2001. But Baze/3SC hadn't released
+the party version and explained it
+by his desire to make the final
+version. A year and a half passed
+since then, and in september 2002
+everybody could see it released,
+again as a party version. Somehow
+Baze didn't finish the demo. Tho-
+ugh it's better than no release at
+all.
+
+At Forever 2E3 SE party this demo
+won the third place. And i think
+it deserves the higher rate. Espe-
+cially when compared with Pondlife
+(1st place) and Heart Beat (2nd).
+
+It's amasing, but this masterpiece
+(a real masterpiece) has nothing
+difficuilt in code. Maybe somebody
+is agaist of including such works
+in the demo compo (no pure anima-
+tion permitted as it is written in
+the rules). Technically, The Loop
+consists of one effect (used as a
+background), one simple melody and
+a dozen of short, primitive anima-
+tions -that's all. Anyway, compi-
+led together, all this captivate
+the audience with a strange en-
+chantment. You forget about how it
+was done after seing the first mi-
+nute of the demo, nothing matters
+the samples, music arrangement,
+the graphics, the code - all this
+become insignificant, you just STA-
+RE until the final sounds tell
+you, that it's The Loop, and
+nothing could be said. Such emoti-
+ons could be revealed only by a
+few things in this world, which
+authors reached the effect by
+their persistence, or by inspira-
+tion or just being naturally born
+genius. And this things are diffe-
+rent for every single person, so-
+mething you reckon as a genius co-
+uld be nothing for another man.
+
+As for me, The Loop emotionally
+belongs to the row of such pieces
+of art as Stairway to Heaven by
+Led Zeppelin, Comfortably Numb by
+Pink Floyd, Strawberry Fields Fore-
+ver by The Beatles and The End by
+The Doors.
+
+There's nothing left to say - just
+watch.
+
+
+elph> I think that these are mar-
+vellous reviews! Always deep and
+full of different emotions. I
+hope, that demomakers will read it
+and try to judge their works from
+different points of view, to see
+some drawbacks, perhaps, to achie-
+ve the higher level of realization
+of their ideas. Let ideas disturb
+your mind!

@@ -1,0 +1,47 @@
+ZX Review 5-6 - Этюды - Процедура поворота символа на 90 градусов по часовой стрелке.
+(c) Мелинг С., Татарстан, г. Бу-
+гульма
+Процедура поворота символа  на
+ 90 градусов по часовой стрелке
+Эту процедуру  я  сделал  для
+своего редактора символьного на-
+бора.
+140.
+        LD   HL,ADR  ;Адрес сим-
+;вола, который нужно повернуть
+        LD   IX,OBL
+        PUSH HL
+        PUSH IX
+        LD   B,8
+LP      LD   (IX+0),0
+        INC  IX
+        DJNZ LP
+        POP  IX
+        LD   B,8
+LP1     PUSH BC
+        PUSH IX
+        LD   B,8
+        LD   A,(HL)
+LP2     RLCA
+        PUSH AF
+        AND  1
+        OR   (IX+0)
+        RRCA
+        LD   (IX+0),A
+        INC  IX
+        POP  AF
+        DJNZ LP2
+        POP  IX
+        POP  BC
+        INC  HL
+        DJNZ LP1
+        PUSH IX
+        POP  HL
+        POP  DE
+        LD   BC,8
+        LDIR
+        RET
+OBL     DEFB 0,0,0,0
+        DEFB 0,0,0,0
+2
+*   *   *

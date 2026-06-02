@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 3023,
+    "article_url": "https://zxpress.ru/article.php?id=3023",
+    "print_url": "https://zxpress.ru/print.php?id=3023",
+    "title_link": "General Sound - Анкета - какие игры нужны под GS.",
+    "order": 1,
+    "issue_label": "47",
+    "short_slug": "General_Sound_-_Анкета_-_какие_игры_нужны_под_GS"
+  },
+  {
+    "article_id": 3022,
+    "article_url": "https://zxpress.ru/article.php?id=3022",
+    "print_url": "https://zxpress.ru/print.php?id=3022",
+    "title_link": "Горячая линия - Где можно найти свежие номера газеты?",
+    "order": 2,
+    "issue_label": "47",
+    "short_slug": "Горячая_линия_-_Где_можно_наити_свежие_номера_газеты"
+  },
+  {
+    "article_id": 3024,
+    "article_url": "https://zxpress.ru/article.php?id=3024",
+    "print_url": "https://zxpress.ru/print.php?id=3024",
+    "title_link": "Интервью - Спектрумисты из Запорожской сечи.",
+    "order": 3,
+    "issue_label": "47",
+    "short_slug": "Интервью_-_Спектрумисты_из_Запорожскои_сечи"
+  },
+  {
+    "article_id": 3025,
+    "article_url": "https://zxpress.ru/article.php?id=3025",
+    "print_url": "https://zxpress.ru/print.php?id=3025",
+    "title_link": "Мнение - О состоянии отечественного журналостроения: иллюзия под\r\n названием журнал.",
+    "order": 4,
+    "issue_label": "47",
+    "short_slug": "Мнение_-_О_состоянии_отечественного_журналостроения_иллюзия"
+  },
+  {
+    "article_id": 3027,
+    "article_url": "https://zxpress.ru/article.php?id=3027",
+    "print_url": "https://zxpress.ru/print.php?id=3027",
+    "title_link": "Новелла - Новелла по игре \"Иван Царевич\".",
+    "order": 5,
+    "issue_label": "47",
+    "short_slug": "Новелла_-_Новелла_по_игре_Иван_Царевич"
+  },
+  {
+    "article_id": 3020,
+    "article_url": "https://zxpress.ru/article.php?id=3020",
+    "print_url": "https://zxpress.ru/print.php?id=3020",
+    "title_link": "Новости - О новинках ПО: Technodrom 2, Awaken demo, Pkunzip v0.9,\r\n Real Commander v1.7, Lara Croft v4.10.",
+    "order": 6,
+    "issue_label": "47",
+    "short_slug": "Новости_-_О_новинках_ПО_Technodrom_2_Awaken_demo_Pkunzip_v09"
+  },
+  {
+    "article_id": 3018,
+    "article_url": "https://zxpress.ru/article.php?id=3018",
+    "print_url": "https://zxpress.ru/print.php?id=3018",
+    "title_link": "От редакции - Задержка с выходом номера газеты.",
+    "order": 7,
+    "issue_label": "47",
+    "short_slug": "От_редакции_-_Задержка_с_выходом_номера_газеты"
+  },
+  {
+    "article_id": 3021,
+    "article_url": "https://zxpress.ru/article.php?id=3021",
+    "print_url": "https://zxpress.ru/print.php?id=3021",
+    "title_link": "Презентация - Презентация игры \"Четверо сволочей\" (Four Rascoals).",
+    "order": 8,
+    "issue_label": "47",
+    "short_slug": "Презентация_-_Презентация_игры_Четверо_сволочеи_Four_Rascoal"
+  },
+  {
+    "article_id": 3028,
+    "article_url": "https://zxpress.ru/article.php?id=3028",
+    "print_url": "https://zxpress.ru/print.php?id=3028",
+    "title_link": "Реклама - Объявления и реклама.",
+    "order": 9,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_Объявления_и_реклама"
+  },
+  {
+    "article_id": 3019,
+    "article_url": "https://zxpress.ru/article.php?id=3019",
+    "print_url": "https://zxpress.ru/print.php?id=3019",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 10,
+    "issue_label": "47",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  },
+  {
+    "article_id": 3026,
+    "article_url": "https://zxpress.ru/article.php?id=3026",
+    "print_url": "https://zxpress.ru/print.php?id=3026",
+    "title_link": "Сюрприз - The Colour of Magic: находка сезона.",
+    "order": 11,
+    "issue_label": "47",
+    "short_slug": "Сюрприз_-_The_Colour_of_Magic_находка_сезона"
+  }
+]

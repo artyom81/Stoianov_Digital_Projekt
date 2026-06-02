@@ -1,0 +1,29 @@
+{
+  "issues": [
+    {
+      "issue_label": "00",
+      "issue_date_iso": "1998-03-14",
+      "articles_count": 28
+    },
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1998-07-06",
+      "articles_count": 26
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1998-10-19",
+      "articles_count": 29
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1998-10-19",
+      "articles_count": 24
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1999-02-19",
+      "articles_count": 27
+    }
+  ]
+}

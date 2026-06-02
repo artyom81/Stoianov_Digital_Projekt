@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 9555,
+    "article_url": "https://zxpress.ru/article.php?id=9555",
+    "print_url": "https://zxpress.ru/print.php?id=9555",
+    "title_link": "От авторов - O содержании журнала.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_O_содержании_журнала"
+  },
+  {
+    "article_id": 9556,
+    "article_url": "https://zxpress.ru/article.php?id=9556",
+    "print_url": "https://zxpress.ru/print.php?id=9556",
+    "title_link": "Построим город - Дисковая версия игры SIM CITY.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Построим_город_-_Дисковая_версия_игры_SIM_CITY"
+  },
+  {
+    "article_id": 9557,
+    "article_url": "https://zxpress.ru/article.php?id=9557",
+    "print_url": "https://zxpress.ru/print.php?id=9557",
+    "title_link": "Что новенького - Звездное наследие, НЛО - враг неизвестен, Цветные линии,\r\n Отряд быстрого реагирования, Поле чудес, Клуб сека,\r\n DIZZY-X, DIZZY-Y.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Что_новенького_-_Звездное_наследие_НЛО_-_враг_неизвестен_Цве"
+  },
+  {
+    "article_id": 9558,
+    "article_url": "https://zxpress.ru/article.php?id=9558",
+    "print_url": "https://zxpress.ru/print.php?id=9558",
+    "title_link": "Начинающим - описание дискового коммандера F-commander V 4.01",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Начинающим_-_описание_дискового_коммандера_F-commander_V_401"
+  },
+  {
+    "article_id": 9559,
+    "article_url": "https://zxpress.ru/article.php?id=9559",
+    "print_url": "https://zxpress.ru/print.php?id=9559",
+    "title_link": "Софт для вас - FORMAT UTILITY V 2.01 - инструкция по пользованию программы для форматирования и востановления дисков.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Софт_для_вас_-_FORMAT_UTILITY_V_201_-_инструкция_по_пользова"
+  },
+  {
+    "article_id": 9560,
+    "article_url": "https://zxpress.ru/article.php?id=9560",
+    "print_url": "https://zxpress.ru/print.php?id=9560",
+    "title_link": "В час досуга - Демка - \"BEANTY AND the BEAST\".",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "В_час_досуга_-_Демка_-_BEANTY_AND_the_BEAST"
+  },
+  {
+    "article_id": 9561,
+    "article_url": "https://zxpress.ru/article.php?id=9561",
+    "print_url": "https://zxpress.ru/print.php?id=9561",
+    "title_link": "Электронное письмо - О перспективах развития SPECCY : IS-DOS.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Электронное_письмо_-_О_перспективах_развития_SPECCY_IS-DOS"
+  },
+  {
+    "article_id": 9562,
+    "article_url": "https://zxpress.ru/article.php?id=9562",
+    "print_url": "https://zxpress.ru/print.php?id=9562",
+    "title_link": "Кто быстрей - Конкурс по игре DIZZY-X.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Кто_быстреи_-_Конкурс_по_игре_DIZZY-X"
+  },
+  {
+    "article_id": 9563,
+    "article_url": "https://zxpress.ru/article.php?id=9563",
+    "print_url": "https://zxpress.ru/print.php?id=9563",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

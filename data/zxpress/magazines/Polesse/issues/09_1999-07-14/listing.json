@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3668,
+    "article_url": "https://zxpress.ru/article.php?id=3668",
+    "print_url": "https://zxpress.ru/print.php?id=3668",
+    "title_link": "В паутине - График работы городских серверов.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "В_паутине_-_График_работы_городских_серверов"
+  },
+  {
+    "article_id": 3669,
+    "article_url": "https://zxpress.ru/article.php?id=3669",
+    "print_url": "https://zxpress.ru/print.php?id=3669",
+    "title_link": "Глюкодром - Глюки в Real Commander v1.6 - 1.8 и терминалке EMS v2.54.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Глюкодром_-_Глюки_в_Real_Commander_v16_-_18_и_терминалке_EMS"
+  },
+  {
+    "article_id": 3670,
+    "article_url": "https://zxpress.ru/article.php?id=3670",
+    "print_url": "https://zxpress.ru/print.php?id=3670",
+    "title_link": "Каракули мозга - Сами гоним, сами пьем... время водку пить свою.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Каракули_мозга_-_Сами_гоним_сами_пьем_время_водку_пить_свою"
+  },
+  {
+    "article_id": 3671,
+    "article_url": "https://zxpress.ru/article.php?id=3671",
+    "print_url": "https://zxpress.ru/print.php?id=3671",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3667,
+    "article_url": "https://zxpress.ru/article.php?id=3667",
+    "print_url": "https://zxpress.ru/print.php?id=3667",
+    "title_link": "Событие - Итоги Фестиваля компьютерного искусства Chaos Construction 1999.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Событие_-_Итоги_Фестиваля_компьютерного_искусства_Chaos_Cons"
+  }
+]

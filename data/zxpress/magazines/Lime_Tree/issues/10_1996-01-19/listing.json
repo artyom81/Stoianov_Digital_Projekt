@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 106,
+    "article_url": "https://zxpress.ru/article.php?id=106",
+    "print_url": "https://zxpress.ru/print.php?id=106",
+    "title_link": "BBS NEWS - Графика работы станций.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "BBS_NEWS_-_Графика_работы_станции"
+  },
+  {
+    "article_id": 8789,
+    "article_url": "https://zxpress.ru/article.php?id=8789",
+    "print_url": "https://zxpress.ru/print.php?id=8789",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 8790,
+    "article_url": "https://zxpress.ru/article.php?id=8790",
+    "print_url": "https://zxpress.ru/print.php?id=8790",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8791,
+    "article_url": "https://zxpress.ru/article.php?id=8791",
+    "print_url": "https://zxpress.ru/print.php?id=8791",
+    "title_link": "Ужасные новости - Словарный запас EVIL MAN'а подошел к концу.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Ужасные_новости_-_Словарныи_запас_EVIL_MANа_подошел_к_концу"
+  },
+  {
+    "article_id": 8792,
+    "article_url": "https://zxpress.ru/article.php?id=8792",
+    "print_url": "https://zxpress.ru/print.php?id=8792",
+    "title_link": "Лит.Страничка - Новые приключения Винни Пуха (глава 2,3,4).",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "ЛитСтраничка_-_Новые_приключения_Винни_Пуха_глава_234"
+  }
+]

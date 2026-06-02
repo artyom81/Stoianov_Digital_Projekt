@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2584,
+    "article_url": "https://zxpress.ru/article.php?id=2584",
+    "print_url": "https://zxpress.ru/print.php?id=2584",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2578,
+    "article_url": "https://zxpress.ru/article.php?id=2578",
+    "print_url": "https://zxpress.ru/print.php?id=2578",
+    "title_link": "Fun Top'98 - Официальная информация о проведении фестиваля v1.0.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Fun_Top98_-_Официальная_информация_о_проведении_фестиваля_v1"
+  },
+  {
+    "article_id": 2581,
+    "article_url": "https://zxpress.ru/article.php?id=2581",
+    "print_url": "https://zxpress.ru/print.php?id=2581",
+    "title_link": "День за днем - Самые интересные сетевые \"базары\".",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "День_за_днем_-_Самые_интересные_сетевые_базары"
+  },
+  {
+    "article_id": 2582,
+    "article_url": "https://zxpress.ru/article.php?id=2582",
+    "print_url": "https://zxpress.ru/print.php?id=2582",
+    "title_link": "Новости - Новый стандарт оформления писем. Список нодных адресов SPbZXNet.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Новости_-_Новыи_стандарт_оформления_писем_Список_нодных_адре"
+  },
+  {
+    "article_id": 2577,
+    "article_url": "https://zxpress.ru/article.php?id=2577",
+    "print_url": "https://zxpress.ru/print.php?id=2577",
+    "title_link": "От авторов - О новшествах в оболочке газеты.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "От_авторов_-_О_новшествах_в_оболочке_газеты"
+  },
+  {
+    "article_id": 2580,
+    "article_url": "https://zxpress.ru/article.php?id=2580",
+    "print_url": "https://zxpress.ru/print.php?id=2580",
+    "title_link": "Программирование - Вывод текста терминальным способом на фоне бегущих квадратиков.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Программирование_-_Вывод_текста_терминальным_способом_на_фон"
+  },
+  {
+    "article_id": 2585,
+    "article_url": "https://zxpress.ru/article.php?id=2585",
+    "print_url": "https://zxpress.ru/print.php?id=2585",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2583,
+    "article_url": "https://zxpress.ru/article.php?id=2583",
+    "print_url": "https://zxpress.ru/print.php?id=2583",
+    "title_link": "Чайнику - Почтовый софт: Speccy Mail Master.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Чаинику_-_Почтовыи_софт_Speccy_Mail_Master"
+  },
+  {
+    "article_id": 2579,
+    "article_url": "https://zxpress.ru/article.php?id=2579",
+    "print_url": "https://zxpress.ru/print.php?id=2579",
+    "title_link": "Юмор - Мерфилогия.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_Мерфилогия"
+  }
+]

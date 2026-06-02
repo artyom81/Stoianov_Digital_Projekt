@@ -1,0 +1,15 @@
+{
+  "magazine_id": 15,
+  "magazine_name": "Amigoz",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-11-04",
+  "order": 4,
+  "article_id": 10710,
+  "title_link": "Юмор - 9600 бод и все-все-все...",
+  "title_h1": "Amigoz 02 - Юмор - 9600 бод и все-все-все...",
+  "print_url": "https://zxpress.ru/print.php?id=10710",
+  "article_url": "https://zxpress.ru/article.php?id=10710",
+  "fetched_at": "2026-05-31T21:37:11Z"
+}

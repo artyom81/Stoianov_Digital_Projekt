@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 9698,
+    "article_url": "https://zxpress.ru/article.php?id=9698",
+    "print_url": "https://zxpress.ru/print.php?id=9698",
+    "title_link": "Вступление - о том, что можно будет найти в моем листке.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_о_том_что_можно_будет_наити_в_моем_листке"
+  },
+  {
+    "article_id": 9699,
+    "article_url": "https://zxpress.ru/article.php?id=9699",
+    "print_url": "https://zxpress.ru/print.php?id=9699",
+    "title_link": "Игры - Как написать компьютерную игру.",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Игры_-_Как_написать_компьютерную_игру"
+  },
+  {
+    "article_id": 9700,
+    "article_url": "https://zxpress.ru/article.php?id=9700",
+    "print_url": "https://zxpress.ru/print.php?id=9700",
+    "title_link": "Игры - откуда взялись Артанги в Звездном Наследии.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "Игры_-_откуда_взялись_Артанги_в_Звездном_Наследии"
+  },
+  {
+    "article_id": 13855,
+    "article_url": "https://zxpress.ru/article.php?id=13855",
+    "print_url": "https://zxpress.ru/print.php?id=13855",
+    "title_link": "Обзор игр - Puzzle, Astro Ball, N.E.I.L., DESPERADО-2, WОRD LIFE.",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Обзор_игр_-_Puzzle_Astro_Ball_NEIL_DESPERADО-2_WОRD_LIFE"
+  },
+  {
+    "article_id": 18442,
+    "article_url": "https://zxpress.ru/article.php?id=18442",
+    "print_url": "https://zxpress.ru/print.php?id=18442",
+    "title_link": "Письмо №298 - Вологда",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Письмо_No298_-_Вологда"
+  },
+  {
+    "article_id": 11637,
+    "article_url": "https://zxpress.ru/article.php?id=11637",
+    "print_url": "https://zxpress.ru/print.php?id=11637",
+    "title_link": "Local Newz - глазовские и пермские новости: CJ заканчивает игру \"Кощеева Цепь\", Dr.Disмаl учится, Sиrvivоr собирает архив ZX софта, Orc(k) доделывает игру.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Local_Newz_-_глазовские_и_пермские_новости_CJ_заканчивает_иг"
+  },
+  {
+    "article_id": 3691,
+    "article_url": "https://zxpress.ru/article.php?id=3691",
+    "print_url": "https://zxpress.ru/print.php?id=3691",
+    "title_link": "Каракули мозга - Межлокальная контрабанда.\r\n Лечебные заговоры (от пьянства, похмелья, запоя).",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Каракули_мозга_-_Межлокальная_контрабанда_Лечебные_заговоры"
+  },
+  {
+    "article_id": 1169,
+    "article_url": "https://zxpress.ru/article.php?id=1169",
+    "print_url": "https://zxpress.ru/print.php?id=1169",
+    "title_link": "Rants & Raves - Прикол с 7 номером ZX-Format'а.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Rants_Raves_-_Прикол_с_7_номером_ZX-Formatа"
+  }
+]

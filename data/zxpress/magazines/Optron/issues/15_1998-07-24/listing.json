@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 851,
+    "article_url": "https://zxpress.ru/article.php?id=851",
+    "print_url": "https://zxpress.ru/print.php?id=851",
+    "title_link": "Винтостроение - Как самому собрать винт на PC.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "Винтостроение_-_Как_самому_собрать_винт_на_PC"
+  },
+  {
+    "article_id": 850,
+    "article_url": "https://zxpress.ru/article.php?id=850",
+    "print_url": "https://zxpress.ru/print.php?id=850",
+    "title_link": "Лит. страничка - Гриф \"Y\" (Дневник Лаборанта Ж. Скальпив).",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Лит_страничка_-_Гриф_Y_Дневник_Лаборанта_Ж_Скальпив"
+  },
+  {
+    "article_id": 855,
+    "article_url": "https://zxpress.ru/article.php?id=855",
+    "print_url": "https://zxpress.ru/print.php?id=855",
+    "title_link": "Мнения - Стандарты: Restin Peace?..",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Мнения_-_Стандарты_Restin_Peace"
+  },
+  {
+    "article_id": 849,
+    "article_url": "https://zxpress.ru/article.php?id=849",
+    "print_url": "https://zxpress.ru/print.php?id=849",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 856,
+    "article_url": "https://zxpress.ru/article.php?id=856",
+    "print_url": "https://zxpress.ru/print.php?id=856",
+    "title_link": "Слава! Слава! Слава!",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Слава_Слава_Слава"
+  },
+  {
+    "article_id": 852,
+    "article_url": "https://zxpress.ru/article.php?id=852",
+    "print_url": "https://zxpress.ru/print.php?id=852",
+    "title_link": "Стихи - Я выглядывая из окошка.",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Стихи_-_Я_выглядывая_из_окошка"
+  },
+  {
+    "article_id": 854,
+    "article_url": "https://zxpress.ru/article.php?id=854",
+    "print_url": "https://zxpress.ru/print.php?id=854",
+    "title_link": "Страничка истории - Пионеры Отечественного Спектрума.",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Страничка_истории_-_Пионеры_Отечественного_Спектрума"
+  }
+]

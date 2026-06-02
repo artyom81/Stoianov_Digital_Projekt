@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 9097,
+    "article_url": "https://zxpress.ru/article.php?id=9097",
+    "print_url": "https://zxpress.ru/print.php?id=9097",
+    "title_link": "Авторы - Об авторах и оболочке.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Авторы_-_Об_авторах_и_оболочке"
+  },
+  {
+    "article_id": 9098,
+    "article_url": "https://zxpress.ru/article.php?id=9098",
+    "print_url": "https://zxpress.ru/print.php?id=9098",
+    "title_link": "Новьё - обзор игровых новинок: Operation R.R., Волшебник страны Оз, \r\nPUZZLE, Рыбак, Last Courier, Бегство на Хархан, Mirror_Pre-Relize, Черный Ворон.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новье_-_обзор_игровых_новинок_Operation_RR_Волшебник_страны"
+  },
+  {
+    "article_id": 9099,
+    "article_url": "https://zxpress.ru/article.php?id=9099",
+    "print_url": "https://zxpress.ru/print.php?id=9099",
+    "title_link": "Письма - первые письма: Коцарев Алексей (О глобальном квесте LOST EDEN), Sector/Serious S.G.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Письма_-_первые_письма_Коцарев_Алексеи_О_глобальном_квесте_L"
+  },
+  {
+    "article_id": 9100,
+    "article_url": "https://zxpress.ru/article.php?id=9100",
+    "print_url": "https://zxpress.ru/print.php?id=9100",
+    "title_link": "Чёрный Ворон - примерный план действий для прохождения некоторых уровней игры Черный Ворон.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Черныи_Ворон_-_примерныи_план_деиствии_для_прохождения_некот"
+  },
+  {
+    "article_id": 9101,
+    "article_url": "https://zxpress.ru/article.php?id=9101",
+    "print_url": "https://zxpress.ru/print.php?id=9101",
+    "title_link": "Игрокам - инструкция по взлому отгрузок к игре BLOODWYCH.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Игрокам_-_инструкция_по_взлому_отгрузок_к_игре_BLOODWYCH"
+  },
+  {
+    "article_id": 9102,
+    "article_url": "https://zxpress.ru/article.php?id=9102",
+    "print_url": "https://zxpress.ru/print.php?id=9102",
+    "title_link": "Приколы - о хакерах.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Приколы_-_о_хакерах"
+  },
+  {
+    "article_id": 9103,
+    "article_url": "https://zxpress.ru/article.php?id=9103",
+    "print_url": "https://zxpress.ru/print.php?id=9103",
+    "title_link": "Рассказ - Окончание научно-фантастической дилогии: Червь: - Князь Тьмы\".",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Рассказ_-_Окончание_научно-фантастическои_дилогии_Червь_-_Кн"
+  },
+  {
+    "article_id": 9104,
+    "article_url": "https://zxpress.ru/article.php?id=9104",
+    "print_url": "https://zxpress.ru/print.php?id=9104",
+    "title_link": "Сочи'97 - Consul party: рассказ о Сочинской тусовке.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Сочи97_-_Consul_party_рассказ_о_Сочинскои_тусовке"
+  },
+  {
+    "article_id": 9105,
+    "article_url": "https://zxpress.ru/article.php?id=9105",
+    "print_url": "https://zxpress.ru/print.php?id=9105",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

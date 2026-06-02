@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2001-07-08",
+  "order": 1,
+  "article_id": 9265,
+  "title_link": "Новости - группа Anarchia переживает свои худшие времена.",
+  "title_h1": "ACNews 02 - Новости - группа Anarchia переживает свои худшие времена.",
+  "print_url": "https://zxpress.ru/print.php?id=9265",
+  "article_url": "https://zxpress.ru/article.php?id=9265",
+  "fetched_at": "2026-05-31T21:30:07Z"
+}

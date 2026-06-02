@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "1998-09-30",
+  "order": 14,
+  "article_id": 8009,
+  "title_link": "CODING - Уроки кодера: Генерилка шариков.",
+  "title_h1": "Deja Vu 06 - CODING - Уроки кодера: Генерилка шариков.",
+  "print_url": "https://zxpress.ru/print.php?id=8009",
+  "article_url": "https://zxpress.ru/article.php?id=8009",
+  "fetched_at": "2026-05-31T21:55:01Z"
+}

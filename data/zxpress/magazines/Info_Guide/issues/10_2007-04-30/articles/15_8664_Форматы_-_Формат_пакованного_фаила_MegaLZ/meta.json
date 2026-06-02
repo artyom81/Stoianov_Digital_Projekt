@@ -1,0 +1,15 @@
+{
+  "magazine_id": 302,
+  "magazine_name": "Info Guide",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "2007-04-30",
+  "order": 15,
+  "article_id": 8664,
+  "title_link": "Форматы - Формат пакованного файла MegaLZ.",
+  "title_h1": "Info Guide 10 - Форматы - Формат пакованного файла MegaLZ.",
+  "print_url": "https://zxpress.ru/print.php?id=8664",
+  "article_url": "https://zxpress.ru/article.php?id=8664",
+  "fetched_at": "2026-05-31T23:43:24Z"
+}

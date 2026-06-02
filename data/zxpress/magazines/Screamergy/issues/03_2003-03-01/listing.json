@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16983,
+    "article_url": "https://zxpress.ru/article.php?id=16983",
+    "print_url": "https://zxpress.ru/print.php?id=16983",
+    "title_link": "От авторов - Хм... блин... ну вот не выдержал я...",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_Хм_блин_ну_вот_не_выдержал_я"
+  },
+  {
+    "article_id": 16984,
+    "article_url": "https://zxpress.ru/article.php?id=16984",
+    "print_url": "https://zxpress.ru/print.php?id=16984",
+    "title_link": "Ньюсы - Сценеры бабам дают! Да!",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Ньюсы_-_Сценеры_бабам_дают_Да"
+  },
+  {
+    "article_id": 16985,
+    "article_url": "https://zxpress.ru/article.php?id=16985",
+    "print_url": "https://zxpress.ru/print.php?id=16985",
+    "title_link": "Интервью - Сегодня у нас в гостях cyberm00h.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Интервью_-_Сегодня_у_нас_в_гостях_cyberm00h"
+  },
+  {
+    "article_id": 16986,
+    "article_url": "https://zxpress.ru/article.php?id=16986",
+    "print_url": "https://zxpress.ru/print.php?id=16986",
+    "title_link": "Творчество - Частушки и стихи.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Творчество_-_Частушки_и_стихи"
+  }
+]

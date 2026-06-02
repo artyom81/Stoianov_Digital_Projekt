@@ -1,0 +1,15 @@
+{
+  "magazine_id": 101,
+  "magazine_name": "Innovision",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "0000-01-01",
+  "order": 3,
+  "article_id": 17251,
+  "title_link": "Tomorow - Раскрывает инфo o планируеmых прoектах.",
+  "title_h1": "00 - Tomorow - Раскрывает инфo o планируеmых прoектах.",
+  "print_url": "https://zxpress.ru/print.php?id=17251",
+  "article_url": "https://zxpress.ru/article.php?id=17251",
+  "fetched_at": "2026-05-31T22:13:54Z"
+}

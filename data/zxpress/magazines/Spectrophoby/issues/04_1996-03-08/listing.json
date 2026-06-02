@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 12103,
+    "article_url": "https://zxpress.ru/article.php?id=12103",
+    "print_url": "https://zxpress.ru/print.php?id=12103",
+    "title_link": "Вступление - история создания журнала.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_история_создания_журнала"
+  },
+  {
+    "article_id": 12104,
+    "article_url": "https://zxpress.ru/article.php?id=12104",
+    "print_url": "https://zxpress.ru/print.php?id=12104",
+    "title_link": "Экспертиза - разбор игры \"Carrier Command\".",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Экспертиза_-_разбор_игры_Carrier_Command"
+  },
+  {
+    "article_id": 12105,
+    "article_url": "https://zxpress.ru/article.php?id=12105",
+    "print_url": "https://zxpress.ru/print.php?id=12105",
+    "title_link": "Экспертиза - разбор игры \"Addidas Championchip Football\".",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Экспертиза_-_разбор_игры_Addidas_Championchip_Football"
+  },
+  {
+    "article_id": 12106,
+    "article_url": "https://zxpress.ru/article.php?id=12106",
+    "print_url": "https://zxpress.ru/print.php?id=12106",
+    "title_link": "Дебют - описание игры \"Murrey Mouse Super Cop\".",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Дебют_-_описание_игры_Murrey_Mouse_Super_Cop"
+  },
+  {
+    "article_id": 12107,
+    "article_url": "https://zxpress.ru/article.php?id=12107",
+    "print_url": "https://zxpress.ru/print.php?id=12107",
+    "title_link": "Архив - стратегическая игра \"Felklands'82\".",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Архив_-_стратегическая_игра_Felklands82"
+  },
+  {
+    "article_id": 12108,
+    "article_url": "https://zxpress.ru/article.php?id=12108",
+    "print_url": "https://zxpress.ru/print.php?id=12108",
+    "title_link": "Архив - приключенческая игра \"The Master Of Magic\".",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Архив_-_приключенческая_игра_The_Master_Of_Magic"
+  },
+  {
+    "article_id": 12109,
+    "article_url": "https://zxpress.ru/article.php?id=12109",
+    "print_url": "https://zxpress.ru/print.php?id=12109",
+    "title_link": "Примьера - новые игр и программы: Sprite Generator v2.0, EDAS v3.3, Mazics, Block, Super Copy Utilite v1.11.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Примьера_-_новые_игр_и_программы_Sprite_Generator_v20_EDAS_v"
+  },
+  {
+    "article_id": 12110,
+    "article_url": "https://zxpress.ru/article.php?id=12110",
+    "print_url": "https://zxpress.ru/print.php?id=12110",
+    "title_link": "Почта - обзор: Insult Megademo, Skeletons, Color Balls, Crystall Kingdom Dizzy, The Addams Family.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Почта_-_обзор_Insult_Megademo_Skeletons_Color_Balls_Crystall"
+  },
+  {
+    "article_id": 12111,
+    "article_url": "https://zxpress.ru/article.php?id=12111",
+    "print_url": "https://zxpress.ru/print.php?id=12111",
+    "title_link": "Юмор - описание игры \"Танкисты\".",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Юмор_-_описание_игры_Танкисты"
+  },
+  {
+    "article_id": 12112,
+    "article_url": "https://zxpress.ru/article.php?id=12112",
+    "print_url": "https://zxpress.ru/print.php?id=12112",
+    "title_link": "Система - новый aссeмблeр из городa Волгодонскa: EDAS 3.3.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Система_-_новыи_aссeмблeр_из_городa_Волгодонскa_EDAS_33"
+  },
+  {
+    "article_id": 12113,
+    "article_url": "https://zxpress.ru/article.php?id=12113",
+    "print_url": "https://zxpress.ru/print.php?id=12113",
+    "title_link": "Реклама - Eсли xотитe имeть доступ к сaмым свeжим прогрaммaм в г.Волгогрaдe, обрaщaйтeсь к нaм.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Eсли_xотитe_имeть_доступ_к_сaмым_свeжим_прогрaммaм"
+  }
+]

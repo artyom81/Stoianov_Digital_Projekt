@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6006,
+    "article_url": "https://zxpress.ru/article.php?id=6006",
+    "print_url": "https://zxpress.ru/print.php?id=6006",
+    "title_link": "Несколько слов - \"многие из вас, наверняка, думают, что этот номер - тот самый\r\nобещанный номер 4\"...",
+    "order": 1,
+    "issue_label": "3.75",
+    "short_slug": "Несколько_слов_-_многие_из_вас_наверняка_думают_что_этот_ном"
+  },
+  {
+    "article_id": 6007,
+    "article_url": "https://zxpress.ru/article.php?id=6007",
+    "print_url": "https://zxpress.ru/print.php?id=6007",
+    "title_link": "C новым годом - \"желаем вам в новом году уделять больше\r\nвремени speccy!\"",
+    "order": 2,
+    "issue_label": "3.75",
+    "short_slug": "C_новым_годом_-_желаем_вам_в_новом_году_уделять_большевремен"
+  },
+  {
+    "article_id": 6008,
+    "article_url": "https://zxpress.ru/article.php?id=6008",
+    "print_url": "https://zxpress.ru/print.php?id=6008",
+    "title_link": "Письмо - lzb^j77: \"йоу, гайз! %)\"",
+    "order": 3,
+    "issue_label": "3.75",
+    "short_slug": "Письмо_-_lzbj77_иоу_гаиз"
+  },
+  {
+    "article_id": 6009,
+    "article_url": "https://zxpress.ru/article.php?id=6009",
+    "print_url": "https://zxpress.ru/print.php?id=6009",
+    "title_link": "Respect news - несколько новостей проходящей по просторам Speccy акции Respect.",
+    "order": 4,
+    "issue_label": "3.75",
+    "short_slug": "Respect_news_-_несколько_новостеи_проходящеи_по_просторам_Sp"
+  },
+  {
+    "article_id": 6010,
+    "article_url": "https://zxpress.ru/article.php?id=6010",
+    "print_url": "https://zxpress.ru/print.php?id=6010",
+    "title_link": "Последнее слово в номер - \"еще раз призываю писать в генз статьи\".",
+    "order": 5,
+    "issue_label": "3.75",
+    "short_slug": "Последнее_слово_в_номер_-_еще_раз_призываю_писать_в_генз_ста"
+  }
+]

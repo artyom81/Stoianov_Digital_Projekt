@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 15478,
+    "article_url": "https://zxpress.ru/article.php?id=15478",
+    "print_url": "https://zxpress.ru/print.php?id=15478",
+    "title_link": "Последний штрих - ZX-Net.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Последнии_штрих_-_ZX-Net"
+  },
+  {
+    "article_id": 15479,
+    "article_url": "https://zxpress.ru/article.php?id=15479",
+    "print_url": "https://zxpress.ru/print.php?id=15479",
+    "title_link": "Новости - Скупые новости. Анекдотец.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Новости_-_Скупые_новости_Анекдотец"
+  },
+  {
+    "article_id": 15480,
+    "article_url": "https://zxpress.ru/article.php?id=15480",
+    "print_url": "https://zxpress.ru/print.php?id=15480",
+    "title_link": "Почта - Ну вот и пришло время почитать ваши письма. Анонс.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Почта_-_Ну_вот_и_пришло_время_почитать_ваши_письма_Анонс"
+  }
+]

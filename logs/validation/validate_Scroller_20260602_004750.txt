@@ -1,0 +1,6 @@
+  Magazin: Scroller
+
+✅ Validierung: OK - Scroller
+   (mit Warnungen)
+  - [Issue #02] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 2 | Artikel gesamt: 15

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1997-08-01",
+  "order": 4,
+  "article_id": 12345,
+  "title_link": "Таланты - Кошмар на битом диске.",
+  "title_h1": "Lprint 13 - Таланты - Кошмар на битом диске.",
+  "print_url": "https://zxpress.ru/print.php?id=12345",
+  "article_url": "https://zxpress.ru/article.php?id=12345",
+  "fetched_at": "2026-05-31T22:21:05Z"
+}

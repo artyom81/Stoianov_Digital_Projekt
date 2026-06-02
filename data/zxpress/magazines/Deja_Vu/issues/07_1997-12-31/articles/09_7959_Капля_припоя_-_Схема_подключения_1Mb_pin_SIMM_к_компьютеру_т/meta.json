@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1997-12-31",
+  "order": 9,
+  "article_id": 7959,
+  "title_link": "Капля припоя - Схема подключения 1Mb pin SIMM к компьютеру типа Пентагон.",
+  "title_h1": "Deja Vu 07 - Капля припоя - Схема подключения 1Mb pin SIMM к компьютеру типа Пентагон.",
+  "print_url": "https://zxpress.ru/print.php?id=7959",
+  "article_url": "https://zxpress.ru/article.php?id=7959",
+  "fetched_at": "2026-05-31T21:55:12Z"
+}

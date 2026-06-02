@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-09-05",
+  "order": 2,
+  "article_id": 368,
+  "title_link": "Poke's",
+  "title_h1": "Micro 08 - Poke's",
+  "print_url": "https://zxpress.ru/print.php?id=368",
+  "article_url": "https://zxpress.ru/article.php?id=368",
+  "fetched_at": "2026-05-31T22:25:23Z"
+}

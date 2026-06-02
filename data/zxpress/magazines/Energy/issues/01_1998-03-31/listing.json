@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 3848,
+    "article_url": "https://zxpress.ru/article.php?id=3848",
+    "print_url": "https://zxpress.ru/print.php?id=3848",
+    "title_link": "Байки из склепа - О лосенке по прозвищу FREE.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Баики_из_склепа_-_О_лосенке_по_прозвищу_FREE"
+  },
+  {
+    "article_id": 3846,
+    "article_url": "https://zxpress.ru/article.php?id=3846",
+    "print_url": "https://zxpress.ru/print.php?id=3846",
+    "title_link": "Исповедь - Благодарность всем, кто участвовал в создании газеты.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Исповедь_-_Благодарность_всем_кто_участвовал_в_создании_газе"
+  },
+  {
+    "article_id": 3849,
+    "article_url": "https://zxpress.ru/article.php?id=3849",
+    "print_url": "https://zxpress.ru/print.php?id=3849",
+    "title_link": "Курьезы - Стебы \"ENERGY\".",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Курьезы_-_Стебы_ENERGY"
+  },
+  {
+    "article_id": 3845,
+    "article_url": "https://zxpress.ru/article.php?id=3845",
+    "print_url": "https://zxpress.ru/print.php?id=3845",
+    "title_link": "Новости - Группа RAGE завершила проект - Monster Land.\r\n Вышел ZX-ELEMENT #2.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Новости_-_Группа_RAGE_завершила_проект_-_Monster_Land_Вышел"
+  },
+  {
+    "article_id": 3844,
+    "article_url": "https://zxpress.ru/article.php?id=3844",
+    "print_url": "https://zxpress.ru/print.php?id=3844",
+    "title_link": "От авторов - С первым апреля дорогие читатели.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_С_первым_апреля_дорогие_читатели"
+  },
+  {
+    "article_id": 3851,
+    "article_url": "https://zxpress.ru/article.php?id=3851",
+    "print_url": "https://zxpress.ru/print.php?id=3851",
+    "title_link": "Письма - Отзывы FiloSof'а на темы затронутые газетами, мессагами и\r\n устными разговорами.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Письма_-_Отзывы_FiloSofа_на_темы_затронутые_газетами_мессага"
+  },
+  {
+    "article_id": 3850,
+    "article_url": "https://zxpress.ru/article.php?id=3850",
+    "print_url": "https://zxpress.ru/print.php?id=3850",
+    "title_link": "Приложение - Предложение...",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Приложение_-_Предложение"
+  },
+  {
+    "article_id": 3847,
+    "article_url": "https://zxpress.ru/article.php?id=3847",
+    "print_url": "https://zxpress.ru/print.php?id=3847",
+    "title_link": "С сетки по нитке - Первоапрельские новости из Беларуси.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "С_сетки_по_нитке_-_Первоапрельские_новости_из_Беларуси"
+  },
+  {
+    "article_id": 16887,
+    "article_url": "https://zxpress.ru/article.php?id=16887",
+    "print_url": "https://zxpress.ru/print.php?id=16887",
+    "title_link": "Статьи - Cор из избы, или история бронзового пузыря.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Статьи_-_Cор_из_избы_или_история_бронзового_пузыря"
+  },
+  {
+    "article_id": 310,
+    "article_url": "https://zxpress.ru/article.php?id=310",
+    "print_url": "https://zxpress.ru/print.php?id=310",
+    "title_link": "IS-DOS - пользователям: Краткий путеводитель\r\n по системному диску IS-DOS",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "IS-DOS_-_пользователям_Краткии_путеводитель_по_системному_ди"
+  },
+  {
+    "article_id": 3960,
+    "article_url": "https://zxpress.ru/article.php?id=3960",
+    "print_url": "https://zxpress.ru/print.php?id=3960",
+    "title_link": "Программистам - Адаптация игр: зыкрытые коды.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Программистам_-_Адаптация_игр_зыкрытые_коды"
+  },
+  {
+    "article_id": 1068,
+    "article_url": "https://zxpress.ru/article.php?id=1068",
+    "print_url": "https://zxpress.ru/print.php?id=1068",
+    "title_link": "Enlight'97 - Краткий отчет от ROM Corp.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Enlight97_-_Краткии_отчет_от_ROM_Corp"
+  },
+  {
+    "article_id": 16981,
+    "article_url": "https://zxpress.ru/article.php?id=16981",
+    "print_url": "https://zxpress.ru/print.php?id=16981",
+    "title_link": "От авторов - Приветствую вас в новом номере моей газеты.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_Приветствую_вас_в_новом_номере_моеи_газеты"
+  }
+]

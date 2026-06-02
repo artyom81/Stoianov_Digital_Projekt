@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "1999-01-31",
+  "order": 5,
+  "article_id": 4254,
+  "title_link": "Поздравляем - День рождения редактора газеты.",
+  "title_h1": "Think 25 - Поздравляем - День рождения редактора газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=4254",
+  "article_url": "https://zxpress.ru/article.php?id=4254",
+  "fetched_at": "2026-05-31T23:13:17Z"
+}

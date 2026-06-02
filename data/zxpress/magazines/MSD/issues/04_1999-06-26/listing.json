@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 6052,
+    "article_url": "https://zxpress.ru/article.php?id=6052",
+    "print_url": "https://zxpress.ru/print.php?id=6052",
+    "title_link": "Вступление - содержание выпуска.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_содержание_выпуска"
+  },
+  {
+    "article_id": 6053,
+    "article_url": "https://zxpress.ru/article.php?id=6053",
+    "print_url": "https://zxpress.ru/print.php?id=6053",
+    "title_link": "Мысли - \"Speccy и будущее\".",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Мысли_-_Speccy_и_будущее"
+  },
+  {
+    "article_id": 6054,
+    "article_url": "https://zxpress.ru/article.php?id=6054",
+    "print_url": "https://zxpress.ru/print.php?id=6054",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

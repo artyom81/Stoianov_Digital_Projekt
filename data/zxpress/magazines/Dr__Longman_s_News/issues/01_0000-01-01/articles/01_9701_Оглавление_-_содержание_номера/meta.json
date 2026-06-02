@@ -1,0 +1,15 @@
+{
+  "magazine_id": 59,
+  "magazine_name": "Dr. Longman`s News",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 1,
+  "article_id": 9701,
+  "title_link": "Оглавление - содержание номера.",
+  "title_h1": "Dr. Longman`s News 01 - Оглавление - содержание номера.",
+  "print_url": "https://zxpress.ru/print.php?id=9701",
+  "article_url": "https://zxpress.ru/article.php?id=9701",
+  "fetched_at": "2026-05-31T21:59:39Z"
+}

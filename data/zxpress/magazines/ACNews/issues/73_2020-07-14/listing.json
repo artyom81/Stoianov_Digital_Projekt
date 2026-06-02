@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 18524,
+    "article_url": "https://zxpress.ru/article.php?id=18524",
+    "print_url": "https://zxpress.ru/print.php?id=18524",
+    "title_link": "Новости - операционная система NedoOS стала моим основным проектом. К\r\nпроекту NedoOS подтянулось ещё несколько людей.",
+    "order": 1,
+    "issue_label": "73",
+    "short_slug": "Новости_-_операционная_система_NedoOS_стала_моим_основным_пр"
+  },
+  {
+    "article_id": 18525,
+    "article_url": "https://zxpress.ru/article.php?id=18525",
+    "print_url": "https://zxpress.ru/print.php?id=18525",
+    "title_link": "News - the NedoOS operating system has\r\nbecome my main project. A few more people joined the NedoOS\r\nproject ( DimkaM, Demige, Lord Vader, etc.)",
+    "order": 2,
+    "issue_label": "73",
+    "short_slug": "News_-_the_NedoOS_operating_system_hasbecome_my_main_project"
+  },
+  {
+    "article_id": 18526,
+    "article_url": "https://zxpress.ru/article.php?id=18526",
+    "print_url": "https://zxpress.ru/print.php?id=18526",
+    "title_link": "Книжки - книги котоорые прочитал Alone Coder",
+    "order": 3,
+    "issue_label": "73",
+    "short_slug": "Книжки_-_книги_котоорые_прочитал_Alone_Coder"
+  },
+  {
+    "article_id": 18527,
+    "article_url": "https://zxpress.ru/article.php?id=18527",
+    "print_url": "https://zxpress.ru/print.php?id=18527",
+    "title_link": "Конкурс игр - Объявляется новый конкурс игр для ZX Spectrum - \"Твоя игра 6\".",
+    "order": 4,
+    "issue_label": "73",
+    "short_slug": "Конкурс_игр_-_Объявляется_новыи_конкурс_игр_для_ZX_Spectrum"
+  },
+  {
+    "article_id": 18528,
+    "article_url": "https://zxpress.ru/article.php?id=18528",
+    "print_url": "https://zxpress.ru/print.php?id=18528",
+    "title_link": "Game competition - Welcome to a new gamedev compo for ZX Spectrum - \"Your Game 6\".",
+    "order": 5,
+    "issue_label": "73",
+    "short_slug": "Game_competition_-_Welcome_to_a_new_gamedev_compo_for_ZX_Spe"
+  }
+]

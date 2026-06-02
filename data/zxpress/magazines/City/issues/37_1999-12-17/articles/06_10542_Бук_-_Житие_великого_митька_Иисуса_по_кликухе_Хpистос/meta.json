@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "37",
+  "issue_date_iso": "1999-12-17",
+  "order": 6,
+  "article_id": 10542,
+  "title_link": "Бук - Житие великого митька Иисуса по кликухе Хpистос.",
+  "title_h1": "City 37 - Бук - Житие великого митька Иисуса по кликухе Хpистос.",
+  "print_url": "https://zxpress.ru/print.php?id=10542",
+  "article_url": "https://zxpress.ru/article.php?id=10542",
+  "fetched_at": "2026-05-31T21:51:37Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "14",
+  "issue_date_iso": "1999-06-06",
+  "order": 7,
+  "article_id": 10398,
+  "title_link": "Реклама - пpиобpету pазличную инфоpмацию по \"железу\" ZX Spectrum.",
+  "title_h1": "City 14 - Реклама - пpиобpету pазличную инфоpмацию по \"железу\" ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=10398",
+  "article_url": "https://zxpress.ru/article.php?id=10398",
+  "fetched_at": "2026-05-31T21:50:31Z"
+}

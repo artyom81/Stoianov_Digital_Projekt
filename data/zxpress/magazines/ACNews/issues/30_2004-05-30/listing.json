@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9963,
+    "article_url": "https://zxpress.ru/article.php?id=9963",
+    "print_url": "https://zxpress.ru/print.php?id=9963",
+    "title_link": "News - Alone Coder анализирует обьм электронных журналов на спектруме.",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "News_-_Alone_Coder_анализирует_обьм_электронных_журналов_на"
+  },
+  {
+    "article_id": 9964,
+    "article_url": "https://zxpress.ru/article.php?id=9964",
+    "print_url": "https://zxpress.ru/print.php?id=9964",
+    "title_link": "Вопросы - Нужен ли на Speccy универсальный энциклопедический словарь?",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "Вопросы_-_Нужен_ли_на_Speccy_универсальныи_энциклопедическии"
+  },
+  {
+    "article_id": 9965,
+    "article_url": "https://zxpress.ru/article.php?id=9965",
+    "print_url": "https://zxpress.ru/print.php?id=9965",
+    "title_link": "Детям - поучающее обьявления Alone Coder'a для детей 17 школы.",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Детям_-_поучающее_обьявления_Alone_Codera_для_детеи_17_школы"
+  }
+]

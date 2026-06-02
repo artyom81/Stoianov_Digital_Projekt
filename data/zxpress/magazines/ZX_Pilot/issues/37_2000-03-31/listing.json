@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 8365,
+    "article_url": "https://zxpress.ru/article.php?id=8365",
+    "print_url": "https://zxpress.ru/print.php?id=8365",
+    "title_link": "Новости - создатели газеты покидают спектрум.",
+    "order": 1,
+    "issue_label": "37",
+    "short_slug": "Новости_-_создатели_газеты_покидают_спектрум"
+  },
+  {
+    "article_id": 8366,
+    "article_url": "https://zxpress.ru/article.php?id=8366",
+    "print_url": "https://zxpress.ru/print.php?id=8366",
+    "title_link": "Наш гость - рассказ о поездке Kristof'a и Justina'a в гости к Ковровским спектрумистам.",
+    "order": 2,
+    "issue_label": "37",
+    "short_slug": "Наш_гость_-_рассказ_о_поездке_Kristofa_и_Justinaa_в_гости_к"
+  },
+  {
+    "article_id": 8367,
+    "article_url": "https://zxpress.ru/article.php?id=8367",
+    "print_url": "https://zxpress.ru/print.php?id=8367",
+    "title_link": "Наш гость - характеристики Ковроских спектрумистов от Kristof'a.",
+    "order": 3,
+    "issue_label": "37",
+    "short_slug": "Наш_гость_-_характеристики_Ковроских_спектрумистов_от_Kristo"
+  },
+  {
+    "article_id": 8368,
+    "article_url": "https://zxpress.ru/article.php?id=8368",
+    "print_url": "https://zxpress.ru/print.php?id=8368",
+    "title_link": "Тема - идея полиграфического издания для спектрума от Станислава Юдина.",
+    "order": 4,
+    "issue_label": "37",
+    "short_slug": "Тема_-_идея_полиграфического_издания_для_спектрума_от_Станис"
+  },
+  {
+    "article_id": 8369,
+    "article_url": "https://zxpress.ru/article.php?id=8369",
+    "print_url": "https://zxpress.ru/print.php?id=8369",
+    "title_link": "Тема - подробный отчет Justinas'a о поездке на демопати CHAOS CONSTRUCTIONS '999.",
+    "order": 5,
+    "issue_label": "37",
+    "short_slug": "Тема_-_подробныи_отчет_Justinasa_о_поездке_на_демопати_CHAOS"
+  },
+  {
+    "article_id": 8370,
+    "article_url": "https://zxpress.ru/article.php?id=8370",
+    "print_url": "https://zxpress.ru/print.php?id=8370",
+    "title_link": "Компьютерный мир - Новелла по мотивам игры ALIEN ENCOUNTER.",
+    "order": 6,
+    "issue_label": "37",
+    "short_slug": "Компьютерныи_мир_-_Новелла_по_мотивам_игры_ALIEN_ENCOUNTER"
+  },
+  {
+    "article_id": 8371,
+    "article_url": "https://zxpress.ru/article.php?id=8371",
+    "print_url": "https://zxpress.ru/print.php?id=8371",
+    "title_link": "Железо - схема корректировки сигналов Wait и Int для работы мультиколоров.",
+    "order": 7,
+    "issue_label": "37",
+    "short_slug": "Железо_-_схема_корректировки_сигналов_Wait_и_Int_для_работы"
+  },
+  {
+    "article_id": 8372,
+    "article_url": "https://zxpress.ru/article.php?id=8372",
+    "print_url": "https://zxpress.ru/print.php?id=8372",
+    "title_link": "Birthday - поздравления с днями рождения.",
+    "order": 8,
+    "issue_label": "37",
+    "short_slug": "Birthday_-_поздравления_с_днями_рождения"
+  },
+  {
+    "article_id": 8373,
+    "article_url": "https://zxpress.ru/article.php?id=8373",
+    "print_url": "https://zxpress.ru/print.php?id=8373",
+    "title_link": "Реклама - реклама и обьявления от и для спектрумистов.",
+    "order": 9,
+    "issue_label": "37",
+    "short_slug": "Реклама_-_реклама_и_обьявления_от_и_для_спектрумистов"
+  },
+  {
+    "article_id": 8374,
+    "article_url": "https://zxpress.ru/article.php?id=8374",
+    "print_url": "https://zxpress.ru/print.php?id=8374",
+    "title_link": "Credits - авторы газеты.",
+    "order": 10,
+    "issue_label": "37",
+    "short_slug": "Credits_-_авторы_газеты"
+  }
+]

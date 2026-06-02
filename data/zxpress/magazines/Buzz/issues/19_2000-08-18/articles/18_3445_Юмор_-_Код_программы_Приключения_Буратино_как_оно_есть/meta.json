@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "2000-08-18",
+  "order": 18,
+  "article_id": 3445,
+  "title_link": "Юмор - Код программы. Приключения Буратино как оно есть.",
+  "title_h1": "Buzz 19 - Юмор - Код программы. Приключения Буратино как оно есть.",
+  "print_url": "https://zxpress.ru/print.php?id=3445",
+  "article_url": "https://zxpress.ru/article.php?id=3445",
+  "fetched_at": "2026-05-31T21:48:57Z"
+}

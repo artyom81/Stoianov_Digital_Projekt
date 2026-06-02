@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-03-31",
+  "order": 10,
+  "article_id": 3131,
+  "title_link": "Новости железа - О новых разработках из-за бугра.",
+  "title_h1": "Lprint 03 - Новости железа - О новых разработках из-за бугра.",
+  "print_url": "https://zxpress.ru/print.php?id=3131",
+  "article_url": "https://zxpress.ru/article.php?id=3131",
+  "fetched_at": "2026-05-31T22:25:08Z"
+}

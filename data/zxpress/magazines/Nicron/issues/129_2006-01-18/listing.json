@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6070,
+    "article_url": "https://zxpress.ru/article.php?id=6070",
+    "print_url": "https://zxpress.ru/print.php?id=6070",
+    "title_link": "Вступление - пара слов от редакции.",
+    "order": 1,
+    "issue_label": "129",
+    "short_slug": "Вступление_-_пара_слов_от_редакции"
+  },
+  {
+    "article_id": 6071,
+    "article_url": "https://zxpress.ru/article.php?id=6071",
+    "print_url": "https://zxpress.ru/print.php?id=6071",
+    "title_link": "События - отчет: Международный фестиваль компьютерного искусства 'Chaos Constructions 2005'.",
+    "order": 2,
+    "issue_label": "129",
+    "short_slug": "События_-_отчет_Международныи_фестиваль_компьютерного_искусс"
+  },
+  {
+    "article_id": 6072,
+    "article_url": "https://zxpress.ru/article.php?id=6072",
+    "print_url": "https://zxpress.ru/print.php?id=6072",
+    "title_link": "Железо - NedoPC group - современный производитель спектрумовского 'железа' в Москве.",
+    "order": 3,
+    "issue_label": "129",
+    "short_slug": "Железо_-_NedoPC_group_-_современныи_производитель_спектрумов"
+  },
+  {
+    "article_id": 6073,
+    "article_url": "https://zxpress.ru/article.php?id=6073",
+    "print_url": "https://zxpress.ru/print.php?id=6073",
+    "title_link": "Софт - новая операционная система для ZX Spectrum: TASiS.",
+    "order": 4,
+    "issue_label": "129",
+    "short_slug": "Софт_-_новая_операционная_система_для_ZX_Spectrum_TASiS"
+  },
+  {
+    "article_id": 6074,
+    "article_url": "https://zxpress.ru/article.php?id=6074",
+    "print_url": "https://zxpress.ru/print.php?id=6074",
+    "title_link": "Контакты - адреса редакции.",
+    "order": 5,
+    "issue_label": "129",
+    "short_slug": "Контакты_-_адреса_редакции"
+  }
+]

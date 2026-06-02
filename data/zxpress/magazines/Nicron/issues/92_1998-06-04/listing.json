@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7092,
+    "article_url": "https://zxpress.ru/article.php?id=7092",
+    "print_url": "https://zxpress.ru/print.php?id=7092",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "92",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7093,
+    "article_url": "https://zxpress.ru/article.php?id=7093",
+    "print_url": "https://zxpress.ru/print.php?id=7093",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "92",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 7094,
+    "article_url": "https://zxpress.ru/article.php?id=7094",
+    "print_url": "https://zxpress.ru/print.php?id=7094",
+    "title_link": "События - эскиз официального логотипа \"FunTop\".",
+    "order": 3,
+    "issue_label": "92",
+    "short_slug": "События_-_эскиз_официального_логотипа_FunTop"
+  },
+  {
+    "article_id": 7095,
+    "article_url": "https://zxpress.ru/article.php?id=7095",
+    "print_url": "https://zxpress.ru/print.php?id=7095",
+    "title_link": "Проекты - Сетевой \"Спектрум\". Соображения о направлении развития Спектрума как сетевого компьютера.",
+    "order": 4,
+    "issue_label": "92",
+    "short_slug": "Проекты_-_Сетевои_Спектрум_Соображения_о_направлении_развити"
+  },
+  {
+    "article_id": 7096,
+    "article_url": "https://zxpress.ru/article.php?id=7096",
+    "print_url": "https://zxpress.ru/print.php?id=7096",
+    "title_link": "Развлечения - стихи и головоломки.",
+    "order": 5,
+    "issue_label": "92",
+    "short_slug": "Развлечения_-_стихи_и_головоломки"
+  },
+  {
+    "article_id": 7097,
+    "article_url": "https://zxpress.ru/article.php?id=7097",
+    "print_url": "https://zxpress.ru/print.php?id=7097",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "92",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7098,
+    "article_url": "https://zxpress.ru/article.php?id=7098",
+    "print_url": "https://zxpress.ru/print.php?id=7098",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "92",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

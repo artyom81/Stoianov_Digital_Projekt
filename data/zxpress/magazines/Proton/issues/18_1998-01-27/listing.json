@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16636,
+    "article_url": "https://zxpress.ru/article.php?id=16636",
+    "print_url": "https://zxpress.ru/print.php?id=16636",
+    "title_link": "Список BBS - Обзор сетевых новостей.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Список_BBS_-_Обзор_сетевых_новостеи"
+  },
+  {
+    "article_id": 16637,
+    "article_url": "https://zxpress.ru/article.php?id=16637",
+    "print_url": "https://zxpress.ru/print.php?id=16637",
+    "title_link": "Астрология - Астрологический прогноз на предстоящую неделю.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Астрология_-_Астрологическии_прогноз_на_предстоящую_неделю"
+  },
+  {
+    "article_id": 16638,
+    "article_url": "https://zxpress.ru/article.php?id=16638",
+    "print_url": "https://zxpress.ru/print.php?id=16638",
+    "title_link": "Психология - Является ли число секретным кодом судьбы ?",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Психология_-_Является_ли_число_секретным_кодом_судьбы"
+  },
+  {
+    "article_id": 16639,
+    "article_url": "https://zxpress.ru/article.php?id=16639",
+    "print_url": "https://zxpress.ru/print.php?id=16639",
+    "title_link": "IS-DOS - Способ исправить глюк в терминалке под CDOS модем и способ сильно ускорить дисковые операции с дисководом.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "IS-DOS_-_Способ_исправить_глюк_в_терминалке_под_CDOS_модем_и"
+  },
+  {
+    "article_id": 16640,
+    "article_url": "https://zxpress.ru/article.php?id=16640",
+    "print_url": "https://zxpress.ru/print.php?id=16640",
+    "title_link": "Кодинг - Разбор опечаток из предыдущей статьи...",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Кодинг_-_Разбор_опечаток_из_предыдущеи_статьи"
+  },
+  {
+    "article_id": 16641,
+    "article_url": "https://zxpress.ru/article.php?id=16641",
+    "print_url": "https://zxpress.ru/print.php?id=16641",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16642,
+    "article_url": "https://zxpress.ru/article.php?id=16642",
+    "print_url": "https://zxpress.ru/print.php?id=16642",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

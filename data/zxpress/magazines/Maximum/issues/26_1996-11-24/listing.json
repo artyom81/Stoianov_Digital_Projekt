@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 178,
+    "article_url": "https://zxpress.ru/article.php?id=178",
+    "print_url": "https://zxpress.ru/print.php?id=178",
+    "title_link": "Предисловие - Ушел главный редактор газеты...",
+    "order": 1,
+    "issue_label": "26",
+    "short_slug": "Предисловие_-_Ушел_главныи_редактор_газеты"
+  },
+  {
+    "article_id": 179,
+    "article_url": "https://zxpress.ru/article.php?id=179",
+    "print_url": "https://zxpress.ru/print.php?id=179",
+    "title_link": "Сплошные приколы - 3 анекдота.\r\n Сборник высказываний советских офицеров (продолжение).",
+    "order": 2,
+    "issue_label": "26",
+    "short_slug": "Сплошные_приколы_-_3_анекдота_Сборник_высказывании_советских"
+  },
+  {
+    "article_id": 12272,
+    "article_url": "https://zxpress.ru/article.php?id=12272",
+    "print_url": "https://zxpress.ru/print.php?id=12272",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "26",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12273,
+    "article_url": "https://zxpress.ru/article.php?id=12273",
+    "print_url": "https://zxpress.ru/print.php?id=12273",
+    "title_link": "Разбиралка - Описание игры: A WEEK in the LIFE of the ... THING!",
+    "order": 4,
+    "issue_label": "26",
+    "short_slug": "Разбиралка_-_Описание_игры_A_WEEK_in_the_LIFE_of_the_THING"
+  },
+  {
+    "article_id": 12274,
+    "article_url": "https://zxpress.ru/article.php?id=12274",
+    "print_url": "https://zxpress.ru/print.php?id=12274",
+    "title_link": "Споем?! - Песни группы QUEEN & Кино.",
+    "order": 5,
+    "issue_label": "26",
+    "short_slug": "Споем_-_Песни_группы_QUEEN_Кино"
+  },
+  {
+    "article_id": 12275,
+    "article_url": "https://zxpress.ru/article.php?id=12275",
+    "print_url": "https://zxpress.ru/print.php?id=12275",
+    "title_link": "Розыск - Разыскиваются: MOTOR'S AMERICAN 3 & DOUBLE DRAGON 3.",
+    "order": 6,
+    "issue_label": "26",
+    "short_slug": "Розыск_-_Разыскиваются_MOTORS_AMERICAN_3_DOUBLE_DRAGON_3"
+  },
+  {
+    "article_id": 12276,
+    "article_url": "https://zxpress.ru/article.php?id=12276",
+    "print_url": "https://zxpress.ru/print.php?id=12276",
+    "title_link": "Юмор - очень серьезная реклама.",
+    "order": 7,
+    "issue_label": "26",
+    "short_slug": "Юмор_-_очень_серьезная_реклама"
+  },
+  {
+    "article_id": 12277,
+    "article_url": "https://zxpress.ru/article.php?id=12277",
+    "print_url": "https://zxpress.ru/print.php?id=12277",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "26",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

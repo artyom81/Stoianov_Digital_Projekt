@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 2985,
+    "article_url": "https://zxpress.ru/article.php?id=2985",
+    "print_url": "https://zxpress.ru/print.php?id=2985",
+    "title_link": "Enlight'97 - Официальные комментарии организаторов. Неофициальные результаты голосования. Будущее.",
+    "order": 1,
+    "issue_label": "41",
+    "short_slug": "Enlight97_-_Официальные_комментарии_организаторов_Неофициаль"
+  },
+  {
+    "article_id": 2983,
+    "article_url": "https://zxpress.ru/article.php?id=2983",
+    "print_url": "https://zxpress.ru/print.php?id=2983",
+    "title_link": "Интервью - В гостях дизайнерская группа FX-Illusion.",
+    "order": 2,
+    "issue_label": "41",
+    "short_slug": "Интервью_-_В_гостях_дизаинерская_группа_FX-Illusion"
+  },
+  {
+    "article_id": 2981,
+    "article_url": "https://zxpress.ru/article.php?id=2981",
+    "print_url": "https://zxpress.ru/print.php?id=2981",
+    "title_link": "От редакции - Этот номер газеты последний...",
+    "order": 3,
+    "issue_label": "41",
+    "short_slug": "От_редакции_-_Этот_номер_газеты_последнии"
+  },
+  {
+    "article_id": 2984,
+    "article_url": "https://zxpress.ru/article.php?id=2984",
+    "print_url": "https://zxpress.ru/print.php?id=2984",
+    "title_link": "Письма - О схеме подключения хайес модема.",
+    "order": 4,
+    "issue_label": "41",
+    "short_slug": "Письма_-_О_схеме_подключения_хаиес_модема"
+  },
+  {
+    "article_id": 2982,
+    "article_url": "https://zxpress.ru/article.php?id=2982",
+    "print_url": "https://zxpress.ru/print.php?id=2982",
+    "title_link": "Список BBS - Последнее письмо координатора сети SPbZXNet.",
+    "order": 5,
+    "issue_label": "41",
+    "short_slug": "Список_BBS_-_Последнее_письмо_координатора_сети_SPbZXNet"
+  }
+]

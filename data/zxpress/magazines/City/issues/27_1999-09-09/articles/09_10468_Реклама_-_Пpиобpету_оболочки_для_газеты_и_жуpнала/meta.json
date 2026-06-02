@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "27",
+  "issue_date_iso": "1999-09-09",
+  "order": 9,
+  "article_id": 10468,
+  "title_link": "Реклама - Пpиобpету оболочки для газеты и жуpнала.",
+  "title_h1": "City 27 - Реклама - Пpиобpету оболочки для газеты и жуpнала.",
+  "print_url": "https://zxpress.ru/print.php?id=10468",
+  "article_url": "https://zxpress.ru/article.php?id=10468",
+  "fetched_at": "2026-05-31T21:51:07Z"
+}

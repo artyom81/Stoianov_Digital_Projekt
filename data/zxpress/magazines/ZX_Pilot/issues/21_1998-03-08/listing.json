@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7703,
+    "article_url": "https://zxpress.ru/article.php?id=7703",
+    "print_url": "https://zxpress.ru/print.php?id=7703",
+    "title_link": "Наши новости - О переодичности выхода газеты.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "Наши_новости_-_О_переодичности_выхода_газеты"
+  },
+  {
+    "article_id": 7704,
+    "article_url": "https://zxpress.ru/article.php?id=7704",
+    "print_url": "https://zxpress.ru/print.php?id=7704",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7705,
+    "article_url": "https://zxpress.ru/article.php?id=7705",
+    "print_url": "https://zxpress.ru/print.php?id=7705",
+    "title_link": "Разберемся? - Описание игры ADDAMS FAMALY.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Разберемся_-_Описание_игры_ADDAMS_FAMALY"
+  },
+  {
+    "article_id": 7706,
+    "article_url": "https://zxpress.ru/article.php?id=7706",
+    "print_url": "https://zxpress.ru/print.php?id=7706",
+    "title_link": "О разном - Вирусы на IBM PC & ZX-SPECTRUM-е.",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "О_разном_-_Вирусы_на_IBM_PC_ZX-SPECTRUM-е"
+  },
+  {
+    "article_id": 7707,
+    "article_url": "https://zxpress.ru/article.php?id=7707",
+    "print_url": "https://zxpress.ru/print.php?id=7707",
+    "title_link": "О разном - Просто приколы.",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "О_разном_-_Просто_приколы"
+  },
+  {
+    "article_id": 7708,
+    "article_url": "https://zxpress.ru/article.php?id=7708",
+    "print_url": "https://zxpress.ru/print.php?id=7708",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

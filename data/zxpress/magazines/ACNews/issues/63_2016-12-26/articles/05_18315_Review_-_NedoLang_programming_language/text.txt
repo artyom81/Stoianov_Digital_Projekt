@@ -1,0 +1,419 @@
+ACNews 63 - Review - NedoLang programming language
+NedoLang programming language
+                         by Alone Coder
+
+The language in this version doesn't provide counterparts for
+the following C things:
+
+- multidimensional arrays (can be changed to index calculations
+or arrays of pointers);
+- switch...case (todo because assembler is based on it);
+- floating point numbers (todo, they are already processed
+syntactically);
+- const constants;
+- const constant arrays;
+- sizeof(<type>);
+- #include (todo it projects will be based on it);
+- #define constants;
+- #define macros (not recommended);
+- conditional compilation ( #if, #ifdef, #ifndef );
+- for (use while or repeat instead);
+- structures;
+- unions (not recommended);
+- return from the middle of a function (not recommended);
+- exit from the middle of a program (not recommended);
+- calling functions by pointers (not recommended);
+
+Commands are collected in blocks enclosed with curly braces:
+               {<command><command>...<command>}
+Such a block is equal to a command and usable anywhere you can
+use single command. For C compatibility, it's recommended (not
+required) to write ; after every command.
+
+A line can contain any number of commands. Line break between
+words doesn't matter. There are no line numbers in the source.
+In error messages, there are text line numbers (the first line
+is 00001).
+
+Standard comments are /**comment*/. Single asterisk /*comment*/
+isn't a comment (it's needed for procedure/function calls, see
+below). Standard comments can't be nested. There are also
+standard one-line comments: // to end of line. There are also
+non-standard (incompatible with C) nested comments:
+          {comment{comment inside}resume comment}
+You can insert comments anywhere between words, except between
+variable and opening square bracket, i.e. you can't do this:
+                      a/**comment*/[10]
+All the comments are copied into assembly text as comments.
+
+Full name of a variable (that is used by the assembler) is made
+of current namespace followed by variable name followed by
+postfix.
+
+- Full name "petya.pet." means: namespace "petya", variable
+"pet", defined in the source (marked with dot ".").
+- Full name "_boolarr." means: global variable "_boolarr",
+defined in the source (marked with dot ".").
+- Full name "vasya.nemain.l00003" means: namespace
+"vasya.nemain", variable "l00003", created automatically (no dot
+in the end).
+
+Thus automatically created variables can't mix with variables
+defined in the source.
+
+Function headers and jump labels are also composed this way.
+Variables and other identifiers are accessible from the language
+this way:
+
+- _boolarr to access a global variable _boolarr from anywhere
+(the same for global procedure/function).
+- i to access a variable i, defined in the current namespace.
+- .func2 to access a function func2, defined in the parent
+namespace (this is used to call procedures/functions from other
+procedures/functions).
+- ..anothermodule.funcS to access a function funcS, defined in
+neighbour module anothermodule (i.e. in neighbour namespace to a
+namespace where the current function is defined).
+- submodule.v to access a variable v, defined in child namespace
+submodule (practically this can be only used for nested
+functions that use goto)
+
+Automatically created variables are not accessible.
+
+Identifiers (names of variables, procedures, functions, labels)
+must begin with a letter (or underscore for globals) and consist
+of letters, digis, and underscores. Full name must not exceed
+254 characters. Cyrillic letters are allowed. They remain
+encoded the same way as in the source (i.e. cp866, cp1251, or
+utf8).
+
+All the commands begin with a word:
+
+* var - define a variable:
+                     var<type><variable>
+* var with square brackets - define an array of fixed size:
+            var<type><variable><[><expression><]>
+indexed from 0, so array a[10] doesn't contain a value with
+index 10.
+* recursivevar - define a variable inside a recursive
+procedure/function. Syntax is the same as in var. If you define
+a regular variable in recursive procedure/function, it will be
+spoiled while recursion. You can't define arrays this way.
+* let - count and assign to a variable:
+                    let<var>=<expression>
+expression type must match variable type, except pointers: you
+can assign an array address to a pointer variable, i.e.
+                         let poi=arr
+(in fact, you can assign anything to a pointer, but the outcome
+is undefined with byte or char, and with long there will be a
+runtime error).
+* let with square brackets - count and assign to a location in
+an array:
+           let<var><[><expression><]>=<expression>
+* let* - count and write in memory with given type:
+       let*(<type>*)(<pointerexpression>)=<expression>
+you can't skip (<type>*) and parentheses around
+(<pointerexpression>).
+* module - define a module (namespace):
+                    module<label><command>
+command <command> is created inside a new namespace that is
+inside the current namespace (for example, if there was current
+namespace mainmodule, then "module submodule{...}" will create
+namespace mainmodule.submodule for the command. You can
+re-define the same namespace to add something to it.
+* proc - define a procedure:
+          proc<procname>([<type><par>,...])<command>
+also creates a namespace inside the current namespace. Thus
+<procname> must be unique in the current namespace.
+* func - define a function:
+       func<type><funcname>([<type><par>,...])<command>
+also creates a namespace inside the current namespace. Thus
+<funccname> must be unique in the current namespace.
+* if - alternative branching:
+     if<boolexpression>then<command>[else<command>]endif
+contains 'then' to avoid "if(expr);cmd" mistake, and 'endif' to
+avoid mistakes with nested incomplete alternatives. For C
+compatibility, it's recommended to perenthesize the
+<boolexpression>.
+* call - call a procedure:
+call<label>[recursive]([<type><label>.<par>=<expression>,...])
+for C compatibility, the following form is recommended:
+                call/*.*/<procname>[recursive]
+      ([/*<type>.<procname>.<par>=*/<expression>,...])
+The name of called procedure and its parameters are written from
+the current namespace, so a dot is used before (not needed for
+globals). 'recursive' word is mandatory for calling recursive
+procedures, or else the parameters will be spoiled while
+recursion.
+* while - pre-conditional loop:
+              while<boolexpression>loop<command>
+contains 'loop' to avoid "while(expr);cmd" mistake. For C
+compatibility, it's recommended to perenthesize the
+<boolexpression>.
+* repeat - post-conditional loop:
+             repeat<command>until<boolexpression>
+for C compatibility, it's recommended to perenthesize the
+<boolexpression>.
+* break - exit from loop (while or repeat): no parameters, just
+                             break
+* return - return value from function:
+                      return<expression>
+must be the last command in a function. Return expression type
+must match the function type.
+* _label - define a label for jump:
+                     _label<labelname><:>
+label must be unique in the current namespace. Underscore is
+added to see it better in the source.
+* goto - jump to a label:
+                       goto<labelname>
+only inside the current procedure or function.
+* asm - assembly language commands:
+                     asm("cmd1""cmd2"...)
+every string is generated to a single command in a separate line
+of assembly text.
+
+There are the following data types:
+
+* byte (1 byte, unsigned)
+* bool (the only allowed values are /*?*/_TRUE and /*?*/_FALSE ,
+unknown size)
+* char (1 byte, unknown signedness)
+* int (signed integer, size of one CPU word)
+* uint (unsigned integer, size of one CPU word)
+* long (long integer, size of two CPU words)
+[* float ]
+* pointer (pointer - size of one CPU word)
+
+In the current version, bool is 1 byte, /*?*/_TRUE==Oxff,
+/*?*/_FALSE==0x00. They might be defined in C in other ways, so
+don't mix boolean data with integer data. Any value except
+/*?*/_FALSE means /*?*/_TRUE, but it's not recommended to use
+this behaviour for future compatibility. Values of type long
+can't be used in comparisons, multiplications, and divisions, so
+their signedness is not defined.
+
+In <expressions>, there is the following order of operations:
+
+1. Parentheses and prefixes ( + , - , ~ (inversion), ! (logical
+negation), & (take variable address), * (read memory at
+pointer), also nonstandard < (shift left 1 bit), > (shift right
+1 bit), [<constexpr>] (constant expression)).
+2. Multiplication, division, & , && .
+3. Addition, subtraction, | , || , ^ , ^^ .
+4. Comparisons and shifts ( << , >> ). Comparisons and shifts
+work only for types byte, char, int, uint. For bool, you can
+only compare for (un)equality.
+
+The following values are allowed:
+
+* variable name - typed as the variable.
+* unsigned integer constant - typed as byte (if written as Oxff
+with <=2 digits or 0b111 with <=8 digits), long (if it has L in
+the end), or uint (otherwise).
+* signed integer constant - typed as int.
+* floating point constant - typed as float (not yet supported).
+* boolean constant /*?*/_TRUE or /*?*/_FALSE - typed as bool.
+* character constant 'c' or 'c' (only 'n', 'r', 't', ' ',
+''', '"', '\' allowed), where c is one symbol - typed as
+char.
+* string constant "string" - typed as pointer. String linking
+like "str1""str2" is allowed (may be with line break). String
+constants are created automatially with ' ' in the end.
+
+Integer constants may be decimal ( 100 ), hexadecimal ( 0x10 ),
+binary ( 0b11 ), octal ( 0o177 or a variant 0177 with warning
+because of ambiguity).
+
+Expressions are strongly typed. Every operation with two
+operands needs their types to match, except:
+
+* adding pointer with int or uint (no multiplication because the
+pointers are untyped).
+* + / - / & / | / ^ char with byte (typed as the left operand).
+* & for typecast.
+* 0L + <uintexpression> .
+
+For moving a pointer one byte left use <pointerexpression>+-1 .
+
+To cast uint, byte, char to int use +<expression> (without sign
+change) or -<expression> (with sign change).
+
+To cast int or long to uint use <expression>&Oxffff .
+
+To cast char, int, uint, long to byte use <expression>&Oxff .
+
+To cast uint to long use 0L + <expression> . It is forbidden to
+add long+uint in other cases.
+
+Function call is written whis way:
+              /*@<type>.*/<procname>[recursive]
+       ([/*<type>.<procname>.<par>=*/<expression>,...])
+(see above about /*...*/ for C compatibility and about
+'recursive' for calling recursive procedures and functions). Dot
+before <procname> is not needed for global functions (see above
+about namespaces). Procedures and functions technically have a
+variable number of arguments, but this behaviour is not
+recommended.
+
+Reading memory at a pointer must contain typecast:
+               *(<type>*)(<pointerexpression>)
+
+It is recommended to write all the keywords with all capitals.
+To compile a NedoLang file with a C compiler, define the
+following:
+
+#define POINTER byte*
+#define BYTE byte
+#define CHAR unsigned char
+#define INT short int
+#define UINT unsigned short int
+#define LONG long
+#define FLOAT double
+#define BOOL unsigned char
+#define _TRUE Oxff
+#define _FALSE 0x00
+#define FUNC /**/
+#define PROC /**/
+#define RETURN return
+#define VAR /**/
+#define LET /**/
+#define CALL /**/
+#define LABEL /**/
+#define LOOP /**/
+#define REPEAT do
+#define IF if
+#define THEN /**/
+#define ELSE else
+#define ENDIF /**/
+#define WHILE while
+#define UNTIL(x) while(!(x))
+
+This syntax is based on the following requirements:
+
+- analyze syntax with left context only;
+- every command begins with a word, to avoid long label search;
+- namespaces don't cross (label access in C can mean current
+namespace or any parent namespace);
+- C compatibility.
+
+The syntax can be changed. For example, with prefix + for
+typecast and function call:
+                          +(type)var
+                       +(type)func(...)
+
+Today the system is targetted for Z80 only, but the CPU
+sensitive part is under 40% of all code, and this part is very
+monotonous. So the language might be multi-platform. Preliminary
+evaluated size of compiler code (found by compiling old versions
+via IAR and SDCC) is around 20-30 KB, so there is some space to
+evolve. It is unknown, what compiling speed it will have at ZX
+Spectrum. I try to keep compromises between inefficient code and
+preliminary optimization, i.e. I select code structures that
+allow easy subsequent changes.
+
+Here are the statistics for IAR and SDCC (no self-compilation
+yet):
+
+SDCC 3.6.0 --opt-code-speed --all-callee-saves: 
+ #6630 bytes code with constants + #0036 bytes constant arrays +
+ #19c7 bytes data = #802d
+
+IAR Z80/64180 C-Compiler V4.06A/W32 
+ Command line  =  -v0 -ml -uua -q -e -K -gA -s9 -t4 -T -Llist
+                  -Alist -I../z80/inc/ main.c
+ #38b4 bytes code + #1076 bytes constants + #19c7 bytes data
+ (writes shifted address before defs) = #62f1
+
+Compiler features and problems for self-compilation:
+
+# SDCC 2.9.0 initializes constant arrays with commands. SDCC
+3.4.0 doesn't - it uses ".area _INITIALIZER" (no LDIR and no
+initialization code)
+
+# SDCC 2.9.0 generates stack frame code for empty functions. 
+SDCC 3.4.0 doesn't. My code generator doesn't, too. 
+IAR generates obscure push-pops in half-empty procedures. 
+SDCC 3.6.0 with opt-size, writes call ___sdcc_enter_ix instead 
+of push ix:ld ix,0:add ix,sp (so opt-speed must be used). 
+opt-size also adds excessive inc sp:pop af in the end of 
+emitinvreg, emitnegreg. 
+opt-size (and SDCC 3.4.0) also counts REGNAME[rnew] once for two 
+uses (it even can push-pop sometimes, more often with 
+--all-callee-saves). I can't do this. 
+No other distinctions found in SDCC 3.6.0 between opt-size and 
+opt-speed (there still are even inc sp..dec sp for 8 bit 
+arguments). 
+
+# In SDCC, expressions with && || are counted arithmetically 
+(IAR uses jumps). I can't make jumps. 
+Either I add 'and if', 'or else', or a lot of branches in the 
+condition, or make islalpha...() with an array (initialize it by 
+hand?) 
+If I break the condition in parts like a&&b (no loss in IAR), 
+SDCC translates && into jumps (even in 'return a&&b' in 3.6.0) - 
+how to make so? 
+If I break || in parts like if (a) else if (b) else if (c) with 
+identical commands, SDCC doesn't join them (IAR does), but 
+anyway it works faster (IAR code doesn't change). 
+If I make instead if (!a) if (!b) if (!c), then SDCC code goes 
+better, and IAR code is almost ideal (with strange registers 
+though). 
+Expressions like (c<='z') are inefficient in IAR (not as 
+c<('z'+1)). I must rewrite the source with +1? My current code 
+generator won't make profit of this because it can't do CP. 
+
+# Most procedures have arguments. IAR passes one or two 
+arguments in registers (SDCC doesn't). 
+This is visible in number printing procedure (it's just for 
+debug). 
+Pass one argument in a register? (I must keep a variable in a 
+register!) 
+Sometimes I can remove one argument, if I join a flag with data, 
+like isfunc with functype. 
+SDCC 3.4.0 accesses the first argument with pop:pop:push:push, 
+this makes profit without ix stack frame. But register passing 
+is better. 
+
+# String procedures use 8-bit and 16-bit data in the same time. 
+Rewrite all the syscalls module in assembly language? 
+
+# String procedures (via arrays) are compiled as a mess. Use 
+pointers? And keep pointers in registers? How to determine where 
+to keep everything? Add 'register' keyword? 
+Rewrite all the syscalls module in assembly language? But 
+strings are also used in compiler (title cutting, label 
+read/write). 
+
+# SDCC and IAR optimize CALL:RET to JP. How to make so? 
+Lazy CALL? (won't work for CALL in local block) 
+SDCC 3.4.0 generates jr:ret (in getnothingword), where it was jr
+before. SDCC 3.6.0 fixes this. 
+
+# SDCC 3.4.0 (3.6.0 with opt-size) counts REGNAME[rnew] once for
+two uses (it even can push-pop sometimes, more often with 
+--all-callee-saves). I can't do this. 
+todo rewrite the sounce with a variable (I need two because 
+there are two letters) 
+
+# stringappend (used for 'command' and 'joinwordsresult' 
+strings) needs to be inline. I don't have #define for inlines.
+
+# read, write need to be inline (inline syscalls? or inline 
+emits? or both? in the end there will be system macros). I 
+ don't 
+have #define for inlines. 
+
+# SDCC 3.6.0 generates ld iy:ld a,(iy)...ld (iy),a instead of 
+ld a,()...ld (),a (in readchar_skipdieresis_concat) 
+--reserve-regs-iy makes it via hl but with ix stack frames where 
+unneeded, and becomes unable to do this: 
+       ld hl,(_fin)
+       push hl
+       call _eof
+it emits this instead: 
+       ld hl,#_fin
+       ld c, (hl)
+       inc hl
+       ld b, (hl)
+       push bc
+       call _eof

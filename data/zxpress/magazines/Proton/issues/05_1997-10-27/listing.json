@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16547,
+    "article_url": "https://zxpress.ru/article.php?id=16547",
+    "print_url": "https://zxpress.ru/print.php?id=16547",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16548,
+    "article_url": "https://zxpress.ru/article.php?id=16548",
+    "print_url": "https://zxpress.ru/print.php?id=16548",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16549,
+    "article_url": "https://zxpress.ru/article.php?id=16549",
+    "print_url": "https://zxpress.ru/print.php?id=16549",
+    "title_link": "Размышления - Как-то, в начале октября, пришла мне повестка в военкомат...",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Размышления_-_Как-то_в_начале_октября_пришла_мне_повестка_в"
+  },
+  {
+    "article_id": 16550,
+    "article_url": "https://zxpress.ru/article.php?id=16550",
+    "print_url": "https://zxpress.ru/print.php?id=16550",
+    "title_link": "Разное - Погода.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16551,
+    "article_url": "https://zxpress.ru/article.php?id=16551",
+    "print_url": "https://zxpress.ru/print.php?id=16551",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16552,
+    "article_url": "https://zxpress.ru/article.php?id=16552",
+    "print_url": "https://zxpress.ru/print.php?id=16552",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

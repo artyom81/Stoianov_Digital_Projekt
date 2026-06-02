@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "16",
+  "issue_date_iso": "1999-06-29",
+  "order": 7,
+  "article_id": 10405,
+  "title_link": "Beatles - Музыка и слова О.Митяева.",
+  "title_h1": "City 16 - Beatles - Музыка и слова О.Митяева.",
+  "print_url": "https://zxpress.ru/print.php?id=10405",
+  "article_url": "https://zxpress.ru/article.php?id=10405",
+  "fetched_at": "2026-05-31T21:50:38Z"
+}

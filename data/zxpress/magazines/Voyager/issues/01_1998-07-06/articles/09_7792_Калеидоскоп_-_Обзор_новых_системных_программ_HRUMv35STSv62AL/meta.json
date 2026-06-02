@@ -1,0 +1,15 @@
+{
+  "magazine_id": 233,
+  "magazine_name": "Voyager",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-07-06",
+  "order": 9,
+  "article_id": 7792,
+  "title_link": "Калейдоскоп - Обзор новых системных программ: HRUMv3.5,STSv6.2,ALASMv4.1.",
+  "title_h1": "Voyager 01 - Калейдоскоп - Обзор новых системных программ: HRUMv3.5,STSv6.2,ALASMv4.1.",
+  "print_url": "https://zxpress.ru/print.php?id=7792",
+  "article_url": "https://zxpress.ru/article.php?id=7792",
+  "fetched_at": "2026-05-31T23:16:09Z"
+}

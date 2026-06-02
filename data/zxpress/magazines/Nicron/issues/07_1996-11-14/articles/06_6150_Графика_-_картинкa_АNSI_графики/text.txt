@@ -1,0 +1,87 @@
+Nicron 07 - Графика - картинкa АNSI графики.
+╔──────────────────────────────────────────────────────────────╗
+│███▒▒░█▒▒░█▒▒▒▒░█▒▒▒▒▒░█▒▒▒▒▒▒░▒▒░█▒▒░▒▒░█▒▒░▒▒░█▒▒░▒▒░█▒▒░███│
+│▓▓▓▒▒▒▒▒░▓▒▒░▓▒▒░▒▒░▓▒▒░▓▓▒▒░▓▓▒▒░▒▒▒░▒▒░▓▒▒░▒▒▒▒▒░▓▒▒░▒▒▒░▓▓▓│
+│▒▒▓▒▒░▒▒▒░▒▒▒▒▒▒░▒▒▒▒▒░▓▓▓▒▒░▒▓▒▒▒░▒▒░▒▒▒▒▒▒░▒▒░▒▒▒░▒▒▒░▒▒░▓▒▒│
+│░░░▒▒░░▒▒░▒▒░░▒▒░▒▒░░░░░░░▒▒░░░▒▒░░▒▒░▒▒░░▒▒░▒▒░░▒▒░▒▒░░▒▒░░░░│
+╚──────────────────────────────────────────────────────────────╝
+ANSII Графика
+(с) MDF HACKER.
+Привет всем:как вы видите,читалка уже цветная,и режим 128
+Ну ладно,у меня нет времени писать,покуда надо клепать заставку
+для программы.
+..    d$P		 $$      `$b
+	 z$"   $$F		 4$$      $$L
+	 $$   4$$		  $$.     4$$    ,z$P
+$$   $$'		  $$F      $$   $$$P
+	$$$   $$		  $$f      $$   ""`
+       $'$$; 4$F      .,_	  $$'      $$
+.$' ?$L 4$'   .d$" `?    zee $$   ,ec $F  d$F z$$   ,ce,.
+   .d$ee. $$ 4$'  d$"   z$  $$"  .$f.d$"  4$  4$$ 4$$P z$P?$$$
+  d$" "?$$d$,`$  $$F   z$f,$$    $$.$$    $P  $$% $$$4$"   4$$
+.$"        $$ $ J$$  z$$$ $$"  .$$ $$"  .$$C 4$P  $$$"     $$f
+b$          $.$ $$$$$P $$.$$b.$P4$ $$L.$P4$F $P  4$P     .$$"
+            `b' `??"   "?"^?F"   $$`?PF"  $$ "   P'     eF
+:   .
+		::  `::.
+		:::: `::::
+	       .:::::  ::::::
+	       :::::::  `::::::
+	       .::::::::  :::::::
+	       ::::::::::  ::::::::
+	       :::::::::::  ::::::::
+	       ::::::::::::  ::::::::
+		`:::::::::::  :::::::  ?$$e
+	     uu   `:::::::::  ::::::  `$$$$bc
+	  ,d$$$$u   :::::::::  ::::::  ?$$$$$$bc
+	 x$$$$$$$$$u  `::::::::  :::::: `$$$$$$$$$b
+      d$$$$$$$$$$$$$b   :::::::  :::::  $$$$$$$$$$$b
+    z$$$$$$$$$$$$$$$$$b   ::::::  ::::  `$$$$$$$$$$$$b
+  .d$$$$$$$$$$$$$$$$$$$$L  `::::  `::::  $$$$$$$$$$$$$b.
+ s$$$$$$$$$$$$$$$$$$$$$$$$L `::::  ::::  ?$$$" ::::`"?$$b
+d$$$$$$$$$$$$F""    "??$$$$b. `::: `:::: `$E .:::::::: "Rb
+$$$$$$$$$$""  ::::::::  "$$$$i  ::. `:::  $> ::'  `::::: "L
+$$$$$$$$" .:::::`````:::. "$$$$  ::. `::  $F :: MMMx  `:: `L
+$$$$$$" ::::`   .nnnx `:::  $$$$  ':  ::  $$ :: MMMMMM  `:
+$$$$R  ::`  xMMMMMMMMMh `~~ "$$$$i `. ::  $$ :` MMMMMMMx `:
+$$$$ ::` :MMMMMMMMMMMMMM '~: T$$$$r `  :  $$ : 4MMMMMMMML `:
+$$$ .:  MMMMMMMMMMMMMMMMM  ~  $$$$$>      ?P : MMMMMMMMMM: :
+$$F :` MMMMMMMMMMMMMMMMMMM  : ^$$F  <~  `.. ' dMMMMMMMMMMM
+$$' :  MMMMMMMMMMMMMMMMMMMM: ~: " '~  , .  . `MMMMMMMMMMMM:
+$$  : 'MMMMMMMMMMMMMMMMMMMMMn. `  '  >   `  . MMMMMMMMMMMMM
+$$L : 'MMMMMMMMMMMMMMMMMMMMMMMMMk '>  ~~~~  : MMMMMMMMMMMMM
+$$$ :. MMMMMMMMMMMMMMMMMMMMMMMMMMh  `   ~~ ~ :MMMM"   MMMMT
+$$$: : "MMMMMMMMMMMMMMMMMMMMMMMMMMMn  `   ~ uuu.      MMMM
+$$$$ `. MMMMMMMMMMMMMMMMMMMMMTTMM" .e$$bee$$$$"   .   MMT
+$$$$b : `MMMMMMMMMMMMMMMMMMf      "$$$$$$$$$$$$  :F  d""
+$$$$$k : `MMMMMMMMMMMMMMMMM        "$$$$$$$$$?$  ~.e.
+?$$$$$  . TMMMMMMMMMMMMMMMM  :$$c.  `"$$$$$$$ $  4P" :
+ "$$$$$.'  TMMMMMMMMMMMMMMM   $$$$F    "?$$$P d>'     .
+   ?$$$$>   TMMMMMMMMMMMMM  h.  ^" ""       .d$b '~.r $
+     "$$$L'\ "MMMMMMMMMMT  MMf d$F    .u$$" $$$$b.^  $"
+       "?$L ` `TMMMMMMMM  HMf 4$$$.-xuC.  d$$""?$$$$c
+	   ^=   `MMMMMM  MMMM . `?$$eeeed$$$ 4$$$$$$$b .
+		  "TTM' dMMMT MM  ."$$$$$$$$ .."?$$$$F M,
+		       dMMMM :MM  $i?$$$$$F"u$$  "?$$' MM.
+		      dMMMMT MMM  $$$$$F".u$$$F d ..  dMMM.
+		     MMMMMM nMMM  3$$$ . 3$$$$F'$ $$k'MMMMMx
+		    MMMMMM" MMMM  3$$"'$b ?$$$  R '$$L MMMMMk
+		   dMMMMM" MMMM>  3$E .'$b.'""  .k   ^  TMMMMx
+		  MMMMMMT <MMMM H: Rk 4k ?$$$$$$$$$$$$$N TMMMMh
+		:MMMMMMM :MMMMM MMk.`" 9$b,.`"" ..uuu '".MMMMMMM
+	       :MMMMMMM' MMMMM>'MMMMMh. `"?$$$$$$$$$F ."TMMMMMMM
+	      nMMMMMMMM nMMMMM 4MMMMMMMMM.  "?$$$$$$$$$$i  "TMMM
+	     MMMMMMMMM':MMMMMM NMMMMMMMMMMMMnx   "??$$$$$$    TM
+	   :MMMMMMMMM' MMMMMMT MMMMMMMMMMMMMMMMMn..    `""    xM
+	 .MMMMMMMMMM' nMMMMMM> MMMMMMMMMMMMMMMMMMMMMx.       dMM
+        :MMMMMMMMMMM nMMMMMMM <MMMMMMMMMMMMMMMMMMMMMM      MMMMM
+      .MMMMMMMMMMMM :MMMMMMMM 'MMMMMMMMMMMMMMMMMMMMM       `""""
+     :MMMMMMMMMMMM  MMMMMMMMM 'MMMMMMMMMMMMMMMMMMMMMMnnnnnn=--+n
+    :MMMMMMMMMMMM' MMMMMMMMMMr'MMMMMMMMMMMMMMMMMMMMMMMMMM" nn.-"
+   HMMMMMMMMMMMM' MMMMMMMMMMM> MMMMMMMMMMMMMMMMMMMMMMMMMMMnnxxnM
+╔════════════════╗
+				         ║Обработка в Word│ 
+				         ║ (c) MDF HACKER │▒▒
+			   	         ║ poen 058/153.8 │▒▒
+				         ╚────────────────┘▒▒
+					    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒

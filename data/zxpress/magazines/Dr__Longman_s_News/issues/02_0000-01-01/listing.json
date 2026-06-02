@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9704,
+    "article_url": "https://zxpress.ru/article.php?id=9704",
+    "print_url": "https://zxpress.ru/print.php?id=9704",
+    "title_link": "Оглавление - содержание выпуска.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Оглавление_-_содержание_выпуска"
+  },
+  {
+    "article_id": 9705,
+    "article_url": "https://zxpress.ru/article.php?id=9705",
+    "print_url": "https://zxpress.ru/print.php?id=9705",
+    "title_link": "Игры - как написать кампьютерную игру (продолжение).",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Игры_-_как_написать_кампьютерную_игру_продолжение"
+  },
+  {
+    "article_id": 9706,
+    "article_url": "https://zxpress.ru/article.php?id=9706",
+    "print_url": "https://zxpress.ru/print.php?id=9706",
+    "title_link": "Жизнь - что делать, если тебя забрали в милицию.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Жизнь_-_что_делать_если_тебя_забрали_в_милицию"
+  }
+]

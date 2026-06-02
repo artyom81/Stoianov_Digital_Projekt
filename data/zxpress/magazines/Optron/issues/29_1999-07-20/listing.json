@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 1535,
+    "article_url": "https://zxpress.ru/article.php?id=1535",
+    "print_url": "https://zxpress.ru/print.php?id=1535",
+    "title_link": "CC'99 - Chaos Construction'99 demo party.",
+    "order": 1,
+    "issue_label": "29",
+    "short_slug": "CC99_-_Chaos_Construction99_demo_party"
+  },
+  {
+    "article_id": 1539,
+    "article_url": "https://zxpress.ru/article.php?id=1539",
+    "print_url": "https://zxpress.ru/print.php?id=1539",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: KrNews 9, ProFi-BBS, ZX-Hard 1, Полесье n6 , Born Dead 9, ZX-News 48, Plutonium 12, Fantastic 11.",
+    "order": 2,
+    "issue_label": "29",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_KrNews_9_ProFi-BBS_ZX-Har"
+  },
+  {
+    "article_id": 1537,
+    "article_url": "https://zxpress.ru/article.php?id=1537",
+    "print_url": "https://zxpress.ru/print.php?id=1537",
+    "title_link": "Железо - Югославия - полигон?",
+    "order": 3,
+    "issue_label": "29",
+    "short_slug": "Железо_-_Югославия_-_полигон"
+  },
+  {
+    "article_id": 1534,
+    "article_url": "https://zxpress.ru/article.php?id=1534",
+    "print_url": "https://zxpress.ru/print.php?id=1534",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Что такое стек. Определение области стека.",
+    "order": 4,
+    "issue_label": "29",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Что_такое_стек_Определени"
+  },
+  {
+    "article_id": 1540,
+    "article_url": "https://zxpress.ru/article.php?id=1540",
+    "print_url": "https://zxpress.ru/print.php?id=1540",
+    "title_link": "Лит. страничка - Гриф \"Y-II\" (Дневник - окончание).",
+    "order": 5,
+    "issue_label": "29",
+    "short_slug": "Лит_страничка_-_Гриф_Y-II_Дневник_-_окончание"
+  },
+  {
+    "article_id": 1541,
+    "article_url": "https://zxpress.ru/article.php?id=1541",
+    "print_url": "https://zxpress.ru/print.php?id=1541",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "29",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1536,
+    "article_url": "https://zxpress.ru/article.php?id=1536",
+    "print_url": "https://zxpress.ru/print.php?id=1536",
+    "title_link": "Страницы истории - Спектрум - от макета - к изделию (как это было).",
+    "order": 7,
+    "issue_label": "29",
+    "short_slug": "Страницы_истории_-_Спектрум_-_от_макета_-_к_изделию_как_это"
+  },
+  {
+    "article_id": 1533,
+    "article_url": "https://zxpress.ru/article.php?id=1533",
+    "print_url": "https://zxpress.ru/print.php?id=1533",
+    "title_link": "Четыре килобайта - Новая BBS во Львове для пользователей CDOS-модемов.",
+    "order": 8,
+    "issue_label": "29",
+    "short_slug": "Четыре_килобаита_-_Новая_BBS_во_Львове_для_пользователеи_CDO"
+  }
+]

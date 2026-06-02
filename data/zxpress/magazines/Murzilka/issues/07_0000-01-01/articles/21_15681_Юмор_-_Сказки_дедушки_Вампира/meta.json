@@ -1,0 +1,15 @@
+{
+  "magazine_id": 130,
+  "magazine_name": "Murzilka",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "0000-01-01",
+  "order": 21,
+  "article_id": 15681,
+  "title_link": "Юмор - Сказки дедушки Вампира.",
+  "title_h1": "Murzilka 07 - Юмор - Сказки дедушки Вампира.",
+  "print_url": "https://zxpress.ru/print.php?id=15681",
+  "article_url": "https://zxpress.ru/article.php?id=15681",
+  "fetched_at": "2026-05-31T22:31:00Z"
+}

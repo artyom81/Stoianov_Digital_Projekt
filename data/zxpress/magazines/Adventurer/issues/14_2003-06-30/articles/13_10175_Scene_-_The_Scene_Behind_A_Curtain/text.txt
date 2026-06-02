@@ -1,0 +1,428 @@
+Adventurer 14 - Scene - The Scene Behind A Curtain.
+Scene Behind a Curtain  
+Setok/Aggression        
+
+The Scene Behind A Curtain
+
+Everything really started out one
+spring evening. I got a call from
+somebody, probably Nosfe, to co-
+me out to a nearby pub - Sizzle.
+Apparently everybody who was any-
+body was there, there was good mu-
+sic and a Russian Spectrum
+scener. I considered this proposal
+only for a moment. It's not every
+day that you get to meet a Russian
+Spectrum scener. I quite remember
+how Pavel, or xPasha, decided to
+meet Finland but there he was
+anyway. The bar was hot and not
+particularly pleasant, but they we-
+re not lying: the music was good,
+so I decided to get myself a beer
+and sit myself down.
+
+Now the Russian scene was a real
+mystery to everyone. The infamous
+iron curtain affected people in mo-
+re ways than one. Indeed, we were
+barely even aware of a scene
+there. Speaking with Pavel, I rea-
+lised computing life there was
+much more active than had previous-
+ly been thought. I think an inte-
+resting question is, how did the
+scene reach Russia? Did some wes-
+tern ideas manage to seep in thro-
+ugh the holes in the curtain, or
+did the Russians develop their sce-
+ne independently? Perhaps the sce-
+ne somehow reflects something more
+fundamental about the nature of hu-
+mans. Something that is built into
+us genetically. The need to
+create, whatever the hurdles. The
+urge to demonstrate our own achie-
+vements to others in the hope of
+gaining respect. Maybe the only
+mystery is how it happens in
+exactly the same way across the
+borders: tight code, design and
+thumping music.
+
+Nosfe and co. had been telling Pa-
+vel about this funny, unimportant
+thing we call the Alternative Par-
+ty in the hopes that the word wo-
+uld spread to Russia and we'd see
+a nice influx of sceners we knew
+nothing about. Pavel, in turn, was
+telling us about CAFe. A Russian
+party? With Speccy people? I was
+interested. After all, that's how
+I started with computers: on my
+good old ZX Spectrum.
+
+To cut a long story short I ended
+up in a city called Kazan with my
+friend, Tuomas Toivonen. In a
+way it was quite a humbling experi-
+ence visiting Russia for the first
+time. Just over ten years ago Rus-
+sia was under strict communist
+rule. Entering would most likely
+have been quite an operation. Yet,
+it was not quite obvious how the
+change had affected the people
+themselves. How much was positive?
+How much negative? Many towns we
+passed in the train were really qu-
+ite run-down. Paint was peeling
+off the walls, old equipment rus-
+ting in yards and roads turning to
+muck. That vast stretches of Rus-
+sia suffers from poverty was sadde-
+ningly obvious. Still, despite all
+that, most whom I talked with said
+that even though times were to-
+ugher now, they would get better.
+According to them, Russia will be
+some day be better than ever be-
+fore. I guess freedom, in all its
+forms, is more important than we
+realise in our everyday lives.
+
+Once in Kazan itself, our recep-
+tion was extremely welcoming. It
+seemed as if everyone who was in
+the area had come to help us off
+the train. The friendliness was un-
+like anything we've seen before.
+It continued in that fashion thro-
+ughout our stay, with people al-
+ways willing to show us around or
+shake our hand. Some even wanted
+autographs!
+
+Obviously our first priority was
+to get the bags somewhere, ie. an
+appropriate hotel. It turned out
+that there was a major Tatar confe-
+rence taking place in Kazan at the
+same time as CAFe, so finding a ho-
+tel room was definitely more diffi-
+cult than had been expected. A
+word of warning for anyone plan-
+ning a trip there next August: I
+understand the conference will be
+held at the same time again, so
+book your room well in advance.
+
+That aside, we did get quite a
+glance at the city and its archi-
+tecture. It had that run-down dus-
+ty feel that all Russian towns
+seem to have, but at the same time
+change was clearly taking place.
+Large construction projects were
+commencing and buildings were be-
+ing fixed up. With Tuomas we ag-
+reed that there is a lot of poten-
+tial in Kazan. They clearly have
+the most important thing any place
+can have: hope and belief in the
+future. The will to make things
+better. If you have that you can
+accomplish anything. This was espe-
+cially clear when walking down the
+main street, where a lot of renova-
+tion was going on, and some alrea-
+dy complete. Just squint your eyes
+a bit and marvel at the splendid
+architecture around.
+
+Finally we managed to get a room
+and could begin to relax. During
+our trip we came up with a rather
+crazy plan: as we were the first
+Finns to visit (indeed we were the
+first from a country which hadn't
+been part of the Soviet Union), we
+just had to make a demo. Note that
+neither me nor Tuomas had ever
+made a demo before in our lives,
+although I've done the odd little
+routine back in the good old days.
+Still, we felt we had to contribu-
+te somehow. So quite a lot of time
+was spent trying to get SDL to
+work, creating music, playing aro-
+und with routines and desperately
+attempting to collect something to-
+gether.
+
+With our minds set on making a de-
+mo we reckoned the best place to
+be was the party place. The party
+hadn't officially started yet, but
+we were kindly invited to come and
+see the place while the organisers
+were setting everything up. From
+the moment we stepped in it was ob-
+vious that Russian parties had qui-
+te stark differences from the Fin-
+nish and Western European ones.
+The organisers had rented a hall
+which had been an old theatre buil-
+ding and instead of the rows of
+tables and computers one has grown
+used to, there were only chairs po-
+inting towards the spot where the
+big screen would be. The real rea-
+son for this would only later beco-
+me clear. A BK demo or two later
+we were back at the hotel, enjoy-
+ing much-needed rest.
+
+The next day we packed all our
+stuff and headed off to the party
+building again. Tonight, in proper
+party fashion, we would sleep over
+at the part building. This seemed
+to please the Russians no end: we
+were proving that we were truly
+part of the crowd. The day was re-
+ally hectic. We had our laptops
+with us and spent a lot of the ti-
+me coding. This was apparently ve-
+ry strange for the people at the
+party. Apparently in those parts
+of the world, people do not code
+demos at parties, which is almost
+the opposite of what we are used
+to (although this is changing in
+Western Europe too). Most people
+were sitting around chatting and
+enjoying themselves.
+
+However, we weren't restricted to
+work alone. During our time there
+we had somehow become minor ce-
+lebrities. Not because we're parti-
+cularly star-like but I guess
+simply for our long and adventu-
+rous trip and because nobody from
+the "outside" had ever visited. We
+even got interviewed by the local
+TV-stations, talking about the
+scene, our trip and even drugs. It
+was also our goal to try and mar-
+ket our own event, the Alternative
+Party, as we have yet to see any
+Russian people there, or even any
+Spectrum demos.
+
+Now, Russians and other Eastern co-
+untries are famous in the scene
+for primarily one thing: Spectrum
+demos. The Sinclair machine has
+mostly been forgotten by the wes-
+tern demo scene in its worship for
+the Commodore 64. Not so for the
+Russians. They have quite suc-
+cessfully managed to battle the li-
+mitations of the platform like
+8times 8 colour blocks and even
+used them to their creative advan-
+tage to produce some astounding
+and original demos. They would not
+disappoint us this time either,
+with the Spectrum demo compo cle-
+arly being the highlight of the
+event. We really need to see more
+of that at the Alternative Party.
+
+It's not just the Z80 assembler
+that amazes, either. The Eastern
+scene is not content with the old
+rubber keys and beeps of an origi-
+nal speccy. In fact, the real
+Sinclair Spectrums are not even
+that common there. Instead they ha-
+ve a bewildering amount of clones
+and super-clones with hefty modifi-
+cations.
+
+I'll always remember the discus-
+sion I had with one Speccy artist,
+whose name I have unfortunately
+forgotten. It was like a scene
+from the film Ghost Dog: he didn't
+speak any English and my Russian
+is even worse. Still, we managed
+to get on quite well. He was very
+eager to show his work and the pa-
+int program he uses on the Speccy.
+I asked him why he was using an
+emulator. I thought that was a
+fair conclusion based on the fact
+that the software was running in a
+VGA monitor from a gray
+mini-tower. The question had to be
+translated, of course, but he then
+looked at my strangely for a mo-
+ment and replied, "It's not an emu-
+lator, it's a Spectrum". Then the
+full realisation of the Russians'
+ability to extend their speccies
+hit me. Not only was this machine
+in a mini-tower and connected to a
+proper monitor, it also had a hard
+drive and two 3.5 inch disk
+drives.
+
+Another interesting point is that
+Linux really does not seem to be
+very popular in Russia. With the
+tight budgets there I would've ima-
+gined it to be a good choice but
+the availability of pirated Win-
+dows copies really cancels Linux's
+cheap price. However, many people
+were fascinated by the Debian
+installations running on our lap-
+tops so we did get a good chance
+to spread the word. Unfortunately
+we were somewhat unprepared in
+one respect: we had only a few Li-
+nux demos downloaded and my laptop
+would only work properly with
+Fit's One Day Miracle, the others
+requiring full-screen mode. Later
+on we managed to get a few MFX
+productions running too. Everyone
+was very eager to see what Linux
+could do and they crowded round
+for the show time after time. Hope-
+fully Linux, and other alternative
+operating systems, will slowly be-
+come more popular in Russia as
+they have around the world.
+
+During the evening we were presen-
+ted with the normal mixture of
+compos: music, graphics, chip
+music, ASCII graphics etc. A few
+things can be said about these. It
+was clear that Russians have quite
+a different taste in music than ma-
+ny of my friends. Many of the
+tracks were rock or metal and
+anything that approached electro-
+nic music was deemed to fail. It
+reminded me of the late 80s when I
+came to Finland and everyone and
+their grandmother was wearing an
+Iron Maiden t-shirt. Not that
+there's anything necessarily wrong
+with that. It was just one more
+difference in our cultures.
+
+Another thing that I really have
+to point out: they had ANSI and AS-
+CII graphics competitions. The on-
+ly real difference here was that
+the ANSI graphics were colour and
+so-called ASCII was 2-colour black
+and white ANSI. In other words, al-
+most all the entries in the ASCII
+graphics compo did not use ASCII
+but ANSI characters (or perhaps
+IBM). Just a small hint to the or-
+ganisers for the future...
+
+As night arrived we realised why
+Russian sceners don't need compu-
+ters at their parties and what the
+few tables were really for: vodka.
+Oh, Finnish sceners drink at their
+parties too but they still claim
+the focus to be computers and co-
+ding. The Russians have quite glad-
+ly ridden themselves of all those
+unnecessary extras and have con-
+centrated all their efforts on one
+thing. Poor Tuomas and me were
+still trying with our symbolic ef-
+fort to complete a demo. Finally
+we just had to give up. Nobody el-
+se in the hall was touching their
+computers and they were beginning
+to think we were slightly queer.
+So in the end we joined the merry
+bunch sitting at the tables snac-
+king, chatting and enjoying their
+alcohol. The strong sense of fri-
+endliness continued and our glas-
+ses were never left empty. In the
+morning we were rewarded with fri-
+endly headaches.
+
+There were few surprises in the re-
+sults of the competitions, inclu-
+ding the fact that our demo did qu-
+ite poorly. There were several
+good Speccy demos with interes-
+ting concepts but the most techni-
+cally advanced, by a crew called
+Placebo, won fair and square. On
+behalf of the Alternative Party,
+we gave them one free train ticket
+to Finland and free entrance. Un-
+fortunately we didn't hear from
+them after the party and for some
+reason they didn't show up. Too
+bad. I believe they would have do-
+ne well in our demo compo.
+
+After the party we had a couple of
+days to get to know Kazan better.
+We had a nice guided tour of the
+historical fortress and heard sto-
+ries of its past (thanks to one of
+xPasha's friends - I'm really bad
+at names). We also tasted a wide
+range of local dishes, topped with
+some cheap beer and vodka. As an
+extra note I'd like to say I was
+positively surprised by the Rus-
+sian girls. Maybe we just looked
+odd to them, but on several occasi-
+ons they came up in a friendly man-
+ner to chat - something I've never
+noticed happening here. I also qui-
+te prefer skirts, especially of
+the shorter kind, to the trousers
+everyone in Finland seems to be we-
+aring these days. Maybe we'll meet
+more of them in the future.
+
+Well it was a hectic trip and we
+were finally glad to be heading
+back home. At the same time we had
+really enjoyed being there and mee-
+ting all those fantastic people.
+The experience is something I will
+surely never forget and which will
+enrich my life for years to come.
+A great big thanks to everyone in-
+volved: xPasha, Max, Adam etc.
+and to elph for inviting me to wri-
+te this article, which will hope-
+fully still make it to the mag. I
+hope to meet you all again.
+
+References
+
+[http://www.altparty.org/]

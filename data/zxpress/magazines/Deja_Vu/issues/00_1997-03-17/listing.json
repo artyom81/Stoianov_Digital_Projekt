@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 17414,
+    "article_url": "https://zxpress.ru/article.php?id=17414",
+    "print_url": "https://zxpress.ru/print.php?id=17414",
+    "title_link": "От авторов - Вступительное слово.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "От_авторов_-_Вступительное_слово"
+  },
+  {
+    "article_id": 17415,
+    "article_url": "https://zxpress.ru/article.php?id=17415",
+    "print_url": "https://zxpress.ru/print.php?id=17415",
+    "title_link": "Несколько слов об оболочке - Как вы наверное уже догадались, управление в оболчке элементарное...",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Несколько_слов_об_оболочке_-_Как_вы_наверное_уже_догадались"
+  },
+  {
+    "article_id": 17416,
+    "article_url": "https://zxpress.ru/article.php?id=17416",
+    "print_url": "https://zxpress.ru/print.php?id=17416",
+    "title_link": "O чем этот журнал - Eсли я вам скажу, что обо всем, то естественно вас этот ответ не устроит...",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "O_чем_этот_журнал_-_Eсли_я_вам_скажу_что_обо_всем_то_естеств"
+  },
+  {
+    "article_id": 17417,
+    "article_url": "https://zxpress.ru/article.php?id=17417",
+    "print_url": "https://zxpress.ru/print.php?id=17417",
+    "title_link": "Как с нами связаться - Eсли у вас есть какие-то предложения, замечания, вопросы, посьбы то пишите...",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Как_с_нами_связаться_-_Eсли_у_вас_есть_какие-то_предложения"
+  },
+  {
+    "article_id": 17418,
+    "article_url": "https://zxpress.ru/article.php?id=17418",
+    "print_url": "https://zxpress.ru/print.php?id=17418",
+    "title_link": "Условия распространения - Oб условиях распространения нашего журнала.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Условия_распространения_-_Oб_условиях_распространения_нашего"
+  },
+  {
+    "article_id": 17419,
+    "article_url": "https://zxpress.ru/article.php?id=17419",
+    "print_url": "https://zxpress.ru/print.php?id=17419",
+    "title_link": "Послесловие - А на последок я скажу...",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Послесловие_-_А_на_последок_я_скажу"
+  },
+  {
+    "article_id": 2255,
+    "article_url": "https://zxpress.ru/article.php?id=2255",
+    "print_url": "https://zxpress.ru/print.php?id=2255",
+    "title_link": "#z80 - рассказ о канале #z80",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "z80_-_рассказ_о_канале_z80"
+  },
+  {
+    "article_id": 15112,
+    "article_url": "https://zxpress.ru/article.php?id=15112",
+    "print_url": "https://zxpress.ru/print.php?id=15112",
+    "title_link": "Подробности - Винни-пух.",
+    "order": 8,
+    "issue_label": "00",
+    "short_slug": "Подробности_-_Винни-пух"
+  },
+  {
+    "article_id": 16064,
+    "article_url": "https://zxpress.ru/article.php?id=16064",
+    "print_url": "https://zxpress.ru/print.php?id=16064",
+    "title_link": "Сцена - Sintесh оnlinе zх shор. SCЕnЕ* mаgаzinе.",
+    "order": 9,
+    "issue_label": "00",
+    "short_slug": "Сцена_-_Sintесh_оnlinе_zх_shор_SCЕnЕ_mаgаzinе"
+  },
+  {
+    "article_id": 9188,
+    "article_url": "https://zxpress.ru/article.php?id=9188",
+    "print_url": "https://zxpress.ru/print.php?id=9188",
+    "title_link": "Вступление - новый номер Target в новой оболочке.",
+    "order": 10,
+    "issue_label": "00",
+    "short_slug": "Вступление_-_новыи_номер_Target_в_новои_оболочке"
+  },
+  {
+    "article_id": 4747,
+    "article_url": "https://zxpress.ru/article.php?id=4747",
+    "print_url": "https://zxpress.ru/print.php?id=4747",
+    "title_link": "BBS-NEWS - новости московского ZXNet.",
+    "order": 11,
+    "issue_label": "00",
+    "short_slug": "BBS-NEWS_-_новости_московского_ZXNet"
+  }
+]

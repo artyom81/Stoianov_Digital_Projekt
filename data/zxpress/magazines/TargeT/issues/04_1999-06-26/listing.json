@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 9164,
+    "article_url": "https://zxpress.ru/article.php?id=9164",
+    "print_url": "https://zxpress.ru/print.php?id=9164",
+    "title_link": "Вступление - о новом номере газеты.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Вступление_-_о_новом_номере_газеты"
+  },
+  {
+    "article_id": 9165,
+    "article_url": "https://zxpress.ru/article.php?id=9165",
+    "print_url": "https://zxpress.ru/print.php?id=9165",
+    "title_link": "Вести с полигона - новости от E-mage и ACL, о газете C_Net Week 19.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Вести_с_полигона_-_новости_от_E-mage_и_ACL_о_газете_C_Net_We"
+  },
+  {
+    "article_id": 9166,
+    "article_url": "https://zxpress.ru/article.php?id=9166",
+    "print_url": "https://zxpress.ru/print.php?id=9166",
+    "title_link": "Летопись - биография ГРОДНЕНСКОЙ сети на SPECTRUM'е - С_Net.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Летопись_-_биография_ГРОДНЕНСКОИ_сети_на_SPECTRUMе_-_С_Net"
+  },
+  {
+    "article_id": 9167,
+    "article_url": "https://zxpress.ru/article.php?id=9167",
+    "print_url": "https://zxpress.ru/print.php?id=9167",
+    "title_link": "Слушаем вас ? - письмо в газету от Smont'a.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Слушаем_вас_-_письмо_в_газету_от_Smonta"
+  },
+  {
+    "article_id": 9168,
+    "article_url": "https://zxpress.ru/article.php?id=9168",
+    "print_url": "https://zxpress.ru/print.php?id=9168",
+    "title_link": "P.S. - послесловие.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "PS_-_послесловие"
+  }
+]

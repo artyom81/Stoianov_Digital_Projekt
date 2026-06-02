@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12394,
+    "article_url": "https://zxpress.ru/article.php?id=12394",
+    "print_url": "https://zxpress.ru/print.php?id=12394",
+    "title_link": "От редакции - Мнение газеты является\r\nНЕЗАВИCИМЫМ.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "От_редакции_-_Мнение_газеты_являетсяНЕЗАВИCИМЫМ"
+  },
+  {
+    "article_id": 12395,
+    "article_url": "https://zxpress.ru/article.php?id=12395",
+    "print_url": "https://zxpress.ru/print.php?id=12395",
+    "title_link": "Новости - Нашелся глюк в 18 и 19 номерах.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Новости_-_Нашелся_глюк_в_18_и_19_номерах"
+  },
+  {
+    "article_id": 12396,
+    "article_url": "https://zxpress.ru/article.php?id=12396",
+    "print_url": "https://zxpress.ru/print.php?id=12396",
+    "title_link": "ENLIGHT RULEZ?! - ENLIGHT - к чему он прирулит? (день первый).",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "ENLIGHT_RULEZ_-_ENLIGHT_-_к_чему_он_прирулит_день_первыи"
+  },
+  {
+    "article_id": 12397,
+    "article_url": "https://zxpress.ru/article.php?id=12397",
+    "print_url": "https://zxpress.ru/print.php?id=12397",
+    "title_link": "Новелла - Новелла к игре Lord of Chaos (часть 5-8).",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Новелла_-_Новелла_к_игре_Lord_of_Chaos_часть_5-8"
+  },
+  {
+    "article_id": 12398,
+    "article_url": "https://zxpress.ru/article.php?id=12398",
+    "print_url": "https://zxpress.ru/print.php?id=12398",
+    "title_link": "Новелла - Новелла к игре Lord of Chaos (часть 9-10).",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Новелла_-_Новелла_к_игре_Lord_of_Chaos_часть_9-10"
+  },
+  {
+    "article_id": 12399,
+    "article_url": "https://zxpress.ru/article.php?id=12399",
+    "print_url": "https://zxpress.ru/print.php?id=12399",
+    "title_link": "Улыбнемся - Подключение водяного пистолета к ZX-SPECTRUM.\r\n Автобус (монолог женщины).",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Улыбнемся_-_Подключение_водяного_пистолета_к_ZX-SPECTRUM_Авт"
+  },
+  {
+    "article_id": 12400,
+    "article_url": "https://zxpress.ru/article.php?id=12400",
+    "print_url": "https://zxpress.ru/print.php?id=12400",
+    "title_link": "BLOODWYCH - Рассказ по мотиву игры \"BloodWych\" (глава 1-2).",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "BLOODWYCH_-_Рассказ_по_мотиву_игры_BloodWych_глава_1-2"
+  },
+  {
+    "article_id": 12401,
+    "article_url": "https://zxpress.ru/article.php?id=12401",
+    "print_url": "https://zxpress.ru/print.php?id=12401",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

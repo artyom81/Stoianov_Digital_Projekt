@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 17963,
+    "article_url": "https://zxpress.ru/article.php?id=17963",
+    "print_url": "https://zxpress.ru/print.php?id=17963",
+    "title_link": "Новости - Работа над игрой Rusted Souls дошла до 4-го уровня, я сделал автоматическую определялку модели Спектрума, сделали поддержку цифрового звука в Pro Tracker 3.x",
+    "order": 1,
+    "issue_label": "60",
+    "short_slug": "Новости_-_Работа_над_игрои_Rusted_Souls_дошла_до_4-го_уровня"
+  },
+  {
+    "article_id": 17964,
+    "article_url": "https://zxpress.ru/article.php?id=17964",
+    "print_url": "https://zxpress.ru/print.php?id=17964",
+    "title_link": "News - 14th of November - Louisa gave birth to our daughter, named Dasha.",
+    "order": 2,
+    "issue_label": "60",
+    "short_slug": "News_-_14th_of_November_-_Louisa_gave_birth_to_our_daughter"
+  },
+  {
+    "article_id": 17965,
+    "article_url": "https://zxpress.ru/article.php?id=17965",
+    "print_url": "https://zxpress.ru/print.php?id=17965",
+    "title_link": "ZX Spectrum в ГДР - история спектрумовских клонов в Германии.",
+    "order": 3,
+    "issue_label": "60",
+    "short_slug": "ZX_Spectrum_в_ГДР_-_история_спектрумовских_клонов_в_Германии"
+  },
+  {
+    "article_id": 17966,
+    "article_url": "https://zxpress.ru/article.php?id=17966",
+    "print_url": "https://zxpress.ru/print.php?id=17966",
+    "title_link": "ZX Spectrum in GDR (DDR) - Spectrum clones history in Germany.",
+    "order": 4,
+    "issue_label": "60",
+    "short_slug": "ZX_Spectrum_in_GDR_DDR_-_Spectrum_clones_history_in_Germany"
+  },
+  {
+    "article_id": 17967,
+    "article_url": "https://zxpress.ru/article.php?id=17967",
+    "print_url": "https://zxpress.ru/print.php?id=17967",
+    "title_link": "AY музыка с цифровыми сэмплами - цифровая музыка в Pro Tracker.3 для General Sound.",
+    "order": 5,
+    "issue_label": "60",
+    "short_slug": "AY_музыка_с_цифровыми_сэмплами_-_цифровая_музыка_в_Pro_Track"
+  },
+  {
+    "article_id": 17968,
+    "article_url": "https://zxpress.ru/article.php?id=17968",
+    "print_url": "https://zxpress.ru/print.php?id=17968",
+    "title_link": "AY music with digital samples - in ProTracker 3.X in General Sound.",
+    "order": 6,
+    "issue_label": "60",
+    "short_slug": "AY_music_with_digital_samples_-_in_ProTracker_3X_in_General"
+  }
+]

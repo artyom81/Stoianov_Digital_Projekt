@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 645,
+    "article_url": "https://zxpress.ru/article.php?id=645",
+    "print_url": "https://zxpress.ru/print.php?id=645",
+    "title_link": "About Miko Best - О разновидности Спектрума - MikoBest.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "About_Miko_Best_-_О_разновидности_Спектрума_-_MikoBest"
+  },
+  {
+    "article_id": 642,
+    "article_url": "https://zxpress.ru/article.php?id=642",
+    "print_url": "https://zxpress.ru/print.php?id=642",
+    "title_link": "PC vs ZX - Дискуссия продолжается...",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "PC_vs_ZX_-_Дискуссия_продолжается"
+  },
+  {
+    "article_id": 647,
+    "article_url": "https://zxpress.ru/article.php?id=647",
+    "print_url": "https://zxpress.ru/print.php?id=647",
+    "title_link": "Лит. страничка - Ночная смена (продолжение).",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Лит_страничка_-_Ночная_смена_продолжение"
+  },
+  {
+    "article_id": 648,
+    "article_url": "https://zxpress.ru/article.php?id=648",
+    "print_url": "https://zxpress.ru/print.php?id=648",
+    "title_link": "Львовские приколы - 10 правил после поступления на работу (на украинском).",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Львовские_приколы_-_10_правил_после_поступления_на_работу_на"
+  },
+  {
+    "article_id": 649,
+    "article_url": "https://zxpress.ru/article.php?id=649",
+    "print_url": "https://zxpress.ru/print.php?id=649",
+    "title_link": "Прохождение и коды - игра The Last Courier.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Прохождение_и_коды_-_игра_The_Last_Courier"
+  },
+  {
+    "article_id": 650,
+    "article_url": "https://zxpress.ru/article.php?id=650",
+    "print_url": "https://zxpress.ru/print.php?id=650",
+    "title_link": "Реклама - Реклама и объявления во Львове...",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления_во_Львове"
+  },
+  {
+    "article_id": 646,
+    "article_url": "https://zxpress.ru/article.php?id=646",
+    "print_url": "https://zxpress.ru/print.php?id=646",
+    "title_link": "Рубрика X - О новинках Soft'а: ZX-Format 7, X-Reversy, The Mission.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Рубрика_X_-_О_новинках_Softа_ZX-Format_7_X-Reversy_The_Missi"
+  },
+  {
+    "article_id": 641,
+    "article_url": "https://zxpress.ru/article.php?id=641",
+    "print_url": "https://zxpress.ru/print.php?id=641",
+    "title_link": "Четыре килобайта - Итоги опроса: \"мнение о газете Optron\".",
+    "order": 8,
+    "issue_label": "07",
+    "short_slug": "Четыре_килобаита_-_Итоги_опроса_мнение_о_газете_Optron"
+  }
+]

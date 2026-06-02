@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 161,
+    "article_url": "https://zxpress.ru/article.php?id=161",
+    "print_url": "https://zxpress.ru/print.php?id=161",
+    "title_link": "Предисловие - Глючный номер.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "Предисловие_-_Глючныи_номер"
+  },
+  {
+    "article_id": 162,
+    "article_url": "https://zxpress.ru/article.php?id=162",
+    "print_url": "https://zxpress.ru/print.php?id=162",
+    "title_link": "Сплошные приколы - Сборник высказываний советских офицеров (продолжение).",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Сплошные_приколы_-_Сборник_высказывании_советских_офицеров_п"
+  },
+  {
+    "article_id": 12222,
+    "article_url": "https://zxpress.ru/article.php?id=12222",
+    "print_url": "https://zxpress.ru/print.php?id=12222",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 12223,
+    "article_url": "https://zxpress.ru/article.php?id=12223",
+    "print_url": "https://zxpress.ru/print.php?id=12223",
+    "title_link": "Печатается с продолж. - Десять байт, которые потрясли мир. (Хроника событий).",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Печатается_с_продолж_-_Десять_баит_которые_потрясли_мир_Хрон"
+  },
+  {
+    "article_id": 12224,
+    "article_url": "https://zxpress.ru/article.php?id=12224",
+    "print_url": "https://zxpress.ru/print.php?id=12224",
+    "title_link": "Версии - 2 версии музыкальной демонстрации: MEGADEMO AGONY.",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Версии_-_2_версии_музыкальнои_демонстрации_MEGADEMO_AGONY"
+  },
+  {
+    "article_id": 12225,
+    "article_url": "https://zxpress.ru/article.php?id=12225",
+    "print_url": "https://zxpress.ru/print.php?id=12225",
+    "title_link": "Видео - Комедия \"Крартира Джо\".",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "Видео_-_Комедия_Крартира_Джо"
+  },
+  {
+    "article_id": 12226,
+    "article_url": "https://zxpress.ru/article.php?id=12226",
+    "print_url": "https://zxpress.ru/print.php?id=12226",
+    "title_link": "Розыск - Разыскиваются: ROCET RANGER & SCALETRIC 128...",
+    "order": 7,
+    "issue_label": "19",
+    "short_slug": "Розыск_-_Разыскиваются_ROCET_RANGER_SCALETRIC_128"
+  },
+  {
+    "article_id": 12227,
+    "article_url": "https://zxpress.ru/article.php?id=12227",
+    "print_url": "https://zxpress.ru/print.php?id=12227",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "19",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

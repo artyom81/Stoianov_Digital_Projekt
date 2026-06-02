@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "32",
+  "issue_date_iso": "1999-10-04",
+  "order": 1,
+  "article_id": 10495,
+  "title_link": "От редакции - Очеpедной номеp газеты я постаpался сделать более\r\npазнообpазным, чем обычно.",
+  "title_h1": "City 32 - От редакции - Очеpедной номеp газеты я постаpался сделать более pазнообpазным, чем обычно.",
+  "print_url": "https://zxpress.ru/print.php?id=10495",
+  "article_url": "https://zxpress.ru/article.php?id=10495",
+  "fetched_at": "2026-05-31T21:51:18Z"
+}

@@ -1,0 +1,238 @@
+Info Guide 07 - Inferno - Ошибки в предыдущих номерах.
+Работа над ошибками
+IG #6
+   В описание
+ALASM4.47
+вкрался абзац из длинных строк. Вы легко
+можете исправить этот текст и перепаковать журнал, получив неко─
+торый невредный опыт в использовании пакета
+ZXRar
++
+ZXUnRar
+:)
+   Другая ошибка  в этом описании: текущее смещение
+DISP
+опреде─
+ляется на самом деле так:
+a       ORG 0
+ENT
+shift   ORG a+shift
+DISP a
+;shift=org-disp
+IG #5
+Shiru Otaku
+(Александр Семёнов)
+сообщает  дополнения к своей
+статье про рейкастинг:
+1.
+Нигде  не сказано, что
+sin, cos, tan
+в статье подразумевают
+значения в градусах на входе и выходе.
+2.
+Указан параметр скорости движения
+Pspd,
+но в формулах напи─
+сано
+*10,
+а не
+*Pspd.
+IG#5 (прислано Hrumer'ом)
+Hrust 1.x:
+   По-моему,
+Сергей  Муллин
+мне  в  свое  время  писал, что код
+дехруста  позволяет  и "сужать" коды - если переполнить регистр,
+который  отвечает за хранение длины кодов. Hужно просто вставить
+подряд  несколько  кодов  расширения, и получим сужение. Hо я не
+проверял :)  Можно  это  было  бы  использовать при резкой смене
+содержимого - код - графика - текст.  Если   снова  встретилась,
+например, графика - расширяем код.
+Hrust 2.x:
+000xxxx - disp12 (#e200-#f0ff), xxxx=0001
+(а было  по  ошибке
+напечатано
+0000
+)
+соответствует
+#e2.
+LC 4.x:
+   Сейчас  сделал распаковщик на Си
+LC4,
+в твоем описании неточ─
+ность:
+11xxxx01,
+байт:
+не
+1..15
+одинаковых байт - должно  быть
+2..16.
+Нашел  неточность  потому, что по твоему описанию формата
+делал распаковщик :)
+LC4
+более  эффективно  сохраняет  большие  последовательности
+"непакуемых байтов".
+LC 5.x:
+   В журнале  написано, что  в
+LC5.x
+исчезли  копирования "задом
+наперед". Это неверно. Флаг берётся вот этим кодом:
+DLC3    EXA
+SLA D
+JR NZ,$+6
+LD D,(HL)
+INC HL
+SLI D
+DJNZ DLC7
+С переходом на
+DLC7.
+   После получения
+-dispH
+из битового потока извлекается признак
+направления копирования:
+0
+-
+последовательное копирование байтов;
+1
+-
+обратное копирование байтов,
+и помещается в CF.
+Кусок кода, где используется это значение в дальнейшем:
+JR NC,$+4
+DEC HL
+DEC HL
+INC HL
+   Далее из  байтового  потока  извлекается
+-dispL.
+Как уже было
+отмечено, при
+disp>768
+увеличивается
+puts.
+   Надо исправить так:
+────────────────────────────────────────────────────────────────
+Битовый поток:
+%1
+- взять байт из байтового потока;
+%0, -puts, -dispH, %x
+(признак направления копирования:
+0
+- как
+обычно,
+1
+- в обратном порядке),
+-dispL
+(из  байтового потока)
+  - ссылка назад  с копированием. Коды для
+disp
+и
+puts
+приведены
+  в таблице выше. При
+disp=1
+и
+признаке направления = 0,
+очеви─
+  дно, происходит повторение предыдущего байта...
+────────────────────────────────────────────────────────────────
+//Распаковщик картинок LaserCompact5.2.
+// Си версия: Hrumer & HalfElf. 25.02.2005
+typedef unsigned char BYTE;
+typedef unsigned short WORD;
+
+BYTE *lc_d_input;
+BYTE lc_d_tagbyte;
+BYTE lc_d_index;
+
+// преобразование 000СгСтолбРядЛин в 000СгЛинРядСтолб
+WORD getrealadr(WORD virtadr, WORD lb, WORD sc)
+{
+  WORD realadr;
+  if (virtadr < lb)
+  {
+    WORD Lin =   (virtadr & 0x0007) << 8;
+    WORD Ryd =   (virtadr & 0x0038) << 2;
+    WORD Stolb = (virtadr & 0x07C0) >> 6;
+    WORD Sg =     virtadr & 0x1800;
+    realadr = Sg | Lin | Ryd | Stolb;
+  } else {
+    realadr = virtadr + sc;
+  }
+  return realadr;
+}
+
+BYTE lc_d_getbit(void)
+{
+  BYTE bit[] = {0x80, 0x40, 0x20, 0x10, 0x08, 0x04, 0x02, 0x01};
+  if (lc_d_index == 0) lc_d_tagbyte = *lc_d_input++;
+  BYTE tmp = (lc_d_tagbyte & bit[lc_d_index]) == 0 ? 0 : 1;
+  lc_d_index = (lc_d_index + 1) % 8;
+  return tmp;
+}
+
+BYTE getcode(void)
+{
+  BYTE tmp = 0xFE;
+
+  for( int i = 0; i < 3; ++i)
+  {
+    if( lc_d_getbit() ) return tmp+1;
+    tmp = (tmp << 1) | lc_d_getbit();
+  }
+  return ((tmp << 1) | lc_d_getbit()) + 9;
+}
+
+BYTE getlen(void)
+{
+  BYTE len = getcode();
+  if (len == 0x100 - 7)
+  {
+    len = *lc_d_input++;
+    --len;
+  } else {
+    if (len > 0x100 - 7) --len;
+  }
+  return len;
+}
+
+int delc52(BYTE* source, BYTE* destination)
+{
+  lc_d_index = 0;
+  BYTE *lc_d_output = destination;
+  lc_d_input = source + source[7] + 9 ;
+
+  WORD sc = (lc_d_input[-1]) << 8;
+  WORD to = (sc & 0x0300) << 3;
+  WORD lb = (sc ^ 0x1800) & 0xFC00;
+
+  lc_d_output[getrealadr(to++, lb, sc)] = *lc_d_input++;
+
+  while(true)
+  {
+    if (lc_d_getbit())
+    {
+      lc_d_output[getrealadr(to++, lb, sc)] = *lc_d_input++;
+    } else {
+      BYTE len = getlen();
+      if (len == 0xFF) break;
+
+      WORD dist = getcode() << 8;
+      BYTE napr = lc_d_getbit();
+      dist |=  *lc_d_input++;
+
+      len = -len;
+      dist =  -dist;
+      if (dist > 768) ++len;
+
+      WORD from = to-dist;
+      do
+      {
+        lc_d_output[getrealadr(to++, lb, sc)] =
+          lc_d_output[getrealadr(from, lb, sc)];
+        from += napr ? -1 : 1;
+        --len;
+      } while (len>0);
+    }
+  }
+return 0;
+}

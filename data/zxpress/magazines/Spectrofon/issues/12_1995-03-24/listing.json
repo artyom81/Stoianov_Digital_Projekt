@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4537,
+    "article_url": "https://zxpress.ru/article.php?id=4537",
+    "print_url": "https://zxpress.ru/print.php?id=4537",
+    "title_link": "Экспертиза - Новинка сезона - фантастическая игра стратегического жанра \r\n\"Space Crusade\" (128К).",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Экспертиза_-_Новинка_сезона_-_фантастическая_игра_стратегиче"
+  },
+  {
+    "article_id": 4538,
+    "article_url": "https://zxpress.ru/article.php?id=4538",
+    "print_url": "https://zxpress.ru/print.php?id=4538",
+    "title_link": "Экзамен - тонкости прохождения игры \"THEY\r\nSTOLE A MILLION\".",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Экзамен_-_тонкости_прохождения_игры_THEYSTOLE_A_MILLION"
+  },
+  {
+    "article_id": 4539,
+    "article_url": "https://zxpress.ru/article.php?id=4539",
+    "print_url": "https://zxpress.ru/print.php?id=4539",
+    "title_link": "Премьера - две авторские программы \"Считалка\" - обучение \r\nустному счету и LIFE - позволяет исследовать математическую модель деления \r\nклеток.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Премьера_-_две_авторские_программы_Считалка_-_обучение_устно"
+  },
+  {
+    "article_id": 4541,
+    "article_url": "https://zxpress.ru/article.php?id=4541",
+    "print_url": "https://zxpress.ru/print.php?id=4541",
+    "title_link": "Обзор - Новые отечественные и зарубежные игровые программы. Новое слово в \r\nигровых программах - вирусные игры.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Обзор_-_Новые_отечественные_и_зарубежные_игровые_программы_Н"
+  },
+  {
+    "article_id": 4542,
+    "article_url": "https://zxpress.ru/article.php?id=4542",
+    "print_url": "https://zxpress.ru/print.php?id=4542",
+    "title_link": "С миру по биту - Обсуждение демоверсии игры \"Звездное Наследие\", разговор о \r\nновосибирской \"ELITE\" и др.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "С_миру_по_биту_-_Обсуждение_демоверсии_игры_Звездное_Наследи"
+  },
+  {
+    "article_id": 4543,
+    "article_url": "https://zxpress.ru/article.php?id=4543",
+    "print_url": "https://zxpress.ru/print.php?id=4543",
+    "title_link": "Система - исправленная и доработанная схема турбирования ВГ-93.",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Система_-_исправленная_и_доработанная_схема_турбирования_ВГ-"
+  },
+  {
+    "article_id": 4544,
+    "article_url": "https://zxpress.ru/article.php?id=4544",
+    "print_url": "https://zxpress.ru/print.php?id=4544",
+    "title_link": "Реклама - бесплатные обьявления.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_бесплатные_обьявления"
+  }
+]

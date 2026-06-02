@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1999-07-06",
+  "order": 3,
+  "article_id": 10409,
+  "title_link": "Что-где-почему - каталог программ фиpмы \"Скоpпион\".",
+  "title_h1": "City 17 - Что-где-почему - каталог программ фиpмы \"Скоpпион\".",
+  "print_url": "https://zxpress.ru/print.php?id=10409",
+  "article_url": "https://zxpress.ru/article.php?id=10409",
+  "fetched_at": "2026-05-31T21:50:39Z"
+}

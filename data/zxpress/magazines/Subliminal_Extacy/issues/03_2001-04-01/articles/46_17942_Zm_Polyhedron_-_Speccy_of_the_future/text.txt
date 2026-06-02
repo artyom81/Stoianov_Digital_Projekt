@@ -1,0 +1,102 @@
+Subliminal Extacy 03 - Zm_Polyhedron - Speccy of the future
+Zm_Polyhedron - Speccy of the future ???
+
+                  Phoenix  Interviews Raydac
+Where do you live?
+I living in St.Petersburg city (in Russia).
+How's the spectrum scene there nowadays?
+ZX-Net 400. Chaos Construction'99.
+At us many people are engaged in a Spectrum. In ZX-Net the
+      approximately   400   men. The   summer   will carry   out
+      (spent) a festival Chaos Construction'99.
+Seems like it is still a cool scene!
+How does zx-net work?
+Has not understood. Set a question more correct.
+Shite...
+Is it BBS-driven?
+Yes
+Ok ...
+There are modems available for which computers?
+Scorpion and Pentagon.
+Modem have type is Vicomm.
+What is the maximum baud rate?
+Approximate 2400-3000 bits per second.
+Fast huh? ;)
+Where do you plug it?
+Does the pentagon have a comm (rs-232) port?
+Vicomm modem is connected in tape port of the spectrum.
+In pentagon, scorpion and polyhedron not have comm port.
+Ok.  The  polyhedron ...  That's  your  new speccy  clone
+      project, right?
+This project is saving for a platform a Spectrum.
+It essentially new implementation of a platform.
+This platform will allow  of the game on a Spectrum colour
+      without change of the code.
+How do you do that????????????
+It will be given  with the new concept of  construction of
+      home computers.
+Erm... ok.
+It is very  a pity, that I  while poorly know the  English
+      language.
+That's ok, please continue ...
+Now we select element base for implementation and I  think
+      that all will be ready to summer.
+Can you estimate a price for the finished product?
+40$ - mother board
+In it computer 256 kB RAM
+In full construction it computer ~60-70$
+That's very cheap!
+What processor will you be using?
+Z80 frequency 7 meghertz.
+Like scorpion?
+Yes.
+in the next models it will have a Z380.
+That sounds interesting...
+What sound chip? Just AY?
+While that just AY8910.
+It computer work in scorpion mode , 48 mode, 128 mode  and
+      in ZM_Polyhedron mode.
+What's the difference in zm_polyhedron mode?
+All your black-white games will become color.
+I can't see how you can do that without re-programming the
+      game ...
+There is a possibility, but it nobody knows.
+Ok ... i get the picture. (nurse! ;-)
+It  very powerful  construction of  the home  computer and
+      such yet were not.
+Oh... i see. (not!)
+We  now want  to open  the corporation  for manufacture of
+      this computer.
+Our corporation will be named "Fenix computers".
+Nice name ... ;)
+Will polyhedron be in a tower or desktop case?
+Mother board of the  polyhedron is very small and  it will
+      be in what the buyer wants in.
+Cool.
+And the keyboard? PC like?
+It is very a pity,  that I have not the direct  channel of
+      delivery of details because of a boundary keyboard by  and
+      PC and ZX.
+????????
+Keyboard will by ZX, and possible connect PC over  special
+      card.
+Ok ...
+Will it be tr-dos based?
+Yes it be tr-dos based.
+5 1/4" or 3 1/2"?
+I think, that will be 5 1/4 " .
+Will it have pentagon or scorpion timings?
+In my computer , CPU will by work without steps of  delay,
+      so will be as Pentagon.
+I here  recently have made  slightly colour After  the War
+      game,  and  it was  very   interesting to  play  in colour
+      variant of this game.
+I  still  can't  figure  out  how  it's  done  without re
+      -programming the whole game ...
+To know how it is necessary :)
+Then everyone learn (find  out) as it easily color  on the
+      spectrum it is really.
+Ok - thanks for everything!!!
+
+If anyone wishes to contact Raydac, here's his e-mail address:
+ Raydac@usa.net

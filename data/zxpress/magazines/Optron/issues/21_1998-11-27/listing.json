@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 976,
+    "article_url": "https://zxpress.ru/article.php?id=976",
+    "print_url": "https://zxpress.ru/print.php?id=976",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Pilot 29, CNet Week 17, Born Dead 1-4, Maximum 47, Nicron 104.",
+    "order": 1,
+    "issue_label": "21",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Pilot_29_CNet_Week_17_Bor"
+  },
+  {
+    "article_id": 1260,
+    "article_url": "https://zxpress.ru/article.php?id=1260",
+    "print_url": "https://zxpress.ru/print.php?id=1260",
+    "title_link": "Железо - Много функций на одном теле (об АОН'ах).",
+    "order": 2,
+    "issue_label": "21",
+    "short_slug": "Железо_-_Много_функции_на_одном_теле_об_АОНах"
+  },
+  {
+    "article_id": 1259,
+    "article_url": "https://zxpress.ru/article.php?id=1259",
+    "print_url": "https://zxpress.ru/print.php?id=1259",
+    "title_link": "Железо - Обзор качества дискет.",
+    "order": 3,
+    "issue_label": "21",
+    "short_slug": "Железо_-_Обзор_качества_дискет"
+  },
+  {
+    "article_id": 974,
+    "article_url": "https://zxpress.ru/article.php?id=974",
+    "print_url": "https://zxpress.ru/print.php?id=974",
+    "title_link": "Кодинг - Тест доступной памяти. Управление банками памяти. Адаптация программ под Miko.",
+    "order": 4,
+    "issue_label": "21",
+    "short_slug": "Кодинг_-_Тест_доступнои_памяти_Управление_банками_памяти_Ада"
+  },
+  {
+    "article_id": 979,
+    "article_url": "https://zxpress.ru/article.php?id=979",
+    "print_url": "https://zxpress.ru/print.php?id=979",
+    "title_link": "Ликбез - Ассемблер: Взгляд издалека (продолжение).",
+    "order": 5,
+    "issue_label": "21",
+    "short_slug": "Ликбез_-_Ассемблер_Взгляд_издалека_продолжение"
+  },
+  {
+    "article_id": 977,
+    "article_url": "https://zxpress.ru/article.php?id=977",
+    "print_url": "https://zxpress.ru/print.php?id=977",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "21",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 978,
+    "article_url": "https://zxpress.ru/article.php?id=978",
+    "print_url": "https://zxpress.ru/print.php?id=978",
+    "title_link": "Четыре килобайта - О тематических выпусках Оптрона: Железо и кодинг.",
+    "order": 7,
+    "issue_label": "21",
+    "short_slug": "Четыре_килобаита_-_О_тематических_выпусках_Оптрона_Железо_и"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16817,
+    "article_url": "https://zxpress.ru/article.php?id=16817",
+    "print_url": "https://zxpress.ru/print.php?id=16817",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16818,
+    "article_url": "https://zxpress.ru/article.php?id=16818",
+    "print_url": "https://zxpress.ru/print.php?id=16818",
+    "title_link": "Вдруг пригодится - Про конденсаторы, про мультиметры.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "Вдруг_пригодится_-_Про_конденсаторы_про_мультиметры"
+  },
+  {
+    "article_id": 16819,
+    "article_url": "https://zxpress.ru/article.php?id=16819",
+    "print_url": "https://zxpress.ru/print.php?id=16819",
+    "title_link": "Астрология - Целью данной статьи является не навязывание мнения автора читателю статьи, а лишь желание поделиться своими соображениями на этот счет и, все-таки, найти союзников в этом вопросе.",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Астрология_-_Целью_даннои_статьи_является_не_навязывание_мне"
+  },
+  {
+    "article_id": 16820,
+    "article_url": "https://zxpress.ru/article.php?id=16820",
+    "print_url": "https://zxpress.ru/print.php?id=16820",
+    "title_link": "IS-DOS - New resident for is_dos Scorpion (CMOS).",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "IS-DOS_-_New_resident_for_is_dos_Scorpion_CMOS"
+  },
+  {
+    "article_id": 16821,
+    "article_url": "https://zxpress.ru/article.php?id=16821",
+    "print_url": "https://zxpress.ru/print.php?id=16821",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16822,
+    "article_url": "https://zxpress.ru/article.php?id=16822",
+    "print_url": "https://zxpress.ru/print.php?id=16822",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16823,
+    "article_url": "https://zxpress.ru/article.php?id=16823",
+    "print_url": "https://zxpress.ru/print.php?id=16823",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "45",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

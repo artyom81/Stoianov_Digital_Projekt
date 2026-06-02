@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "1997-10-24",
+  "order": 7,
+  "article_id": 12423,
+  "title_link": "Улыбнемся - За трезвый образ жизни.",
+  "title_h1": "Lprint 23 - Улыбнемся - За трезвый образ жизни.",
+  "print_url": "https://zxpress.ru/print.php?id=12423",
+  "article_url": "https://zxpress.ru/article.php?id=12423",
+  "fetched_at": "2026-05-31T22:21:36Z"
+}

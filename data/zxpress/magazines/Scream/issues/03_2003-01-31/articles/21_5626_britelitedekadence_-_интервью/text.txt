@@ -1,0 +1,170 @@
+Scream 03 - britelite/dekadence - интервью.
+Session Start: Mon Dec 09 02:33:05 2002 
+
+<kq\skrju>hi! i wanted to ask you some questions, may i? 
+
+<BriteLite>hi. hit me :) 
+
+<kq\skrju>it's about your cooperation with haujobb 
+
+<BriteLite>ok 
+
+<kq\skrju>as you maybe know  i'm  zx-spectrum addict,  so  i'm 
+interested  in  zx  sceneprogress. one of the main theme of our
+e-mag new nuber is multiplatform groups.  as  you  already  have
+got a work in cooperation with haujobbyou can tell me a lot  of
+interesting things ^_^
+
+<BriteLite>:) 
+
+<kq\skrju>how did it all began?! i mean, haujobbers just  came 
+to  you and said: 'hey, we want to start haujobb on c64 section,
+so lets make a demo!',or ..? 
+
+<BriteLite>it all started at some party when Droid/Haujobbtold 
+me  he  wanted to learn c64-coding and maybe do a c64-demo... so
+we've had the idea for maybe 1-2  years  before  My  Kondom was
+made... 
+
+<kq\skrju>oho! 
+
+<BriteLite>then later (while  being  very  drunk),  I  promised 
+Droidthat I would make a Haujobbdemo for asm2002:) 
+
+<kq\skrju>do you know, what was the point  in  c64,  why  droid 
+wanted  to  start c64 department?i mean, not atari, not msx but
+c64?
+
+<BriteLite>well, c64 is probably  the  best  known  and  famous 
+8bit-platfrom here in Finland.
+
+<kq\skrju>oh! you're from one contry?! 
+
+<BriteLite>yeah, we're both Finnish. 
+
+<kq\skrju>hehe;] 
+<kq\skrju>does haujobbknow something about zx-spectrum? 
+
+<BriteLite>well, they probably know that the zx-spectrum scene 
+exists...  but  there's  not  that many Spectrums around here in
+Finland. c64 and amiga dominated the market here  (in  80's  and
+early 90's)
+
+<kq\skrju>hm 
+
+<BriteLite>I've got some spectrums ofcourse,  but  haven't  got 
+any Pentagons, so I've watched all demos on emulator
+
+<kq\skrju>what did you think, is there a chance  that  any  pc/ 
+amiga/c64 group will start zx-spectrumsection?
+
+<BriteLite>probably not in Finland  atleast,  as  there  aren't 
+that  many  spectrums  available...  Dekadencemay get a speccy-
+section if I can bother to learn some z80-asm ;)
+
+<kq\skrju>have you seen last zx demos, from cafe2002? 
+
+<BriteLite>yeah, I've got them here... can't remember how  they 
+looked though :)
+
+<kq\skrju>hehe 
+
+<kq\skrju>in your opinion, is spectrum lost for the world-demo- 
+scene?
+
+<BriteLite>not really. but most people who  own  speccys  don't 
+even   have  diskdrives...  and  most  new  speccydemos  require
+Pentagon, so that's a second problem
+
+<kq\skrju>some emulators  do  their  job  perfect.  btw  i  use 
+emulator in my work ^_^
+
+<BriteLite>ofcourse, if speccydemos would  get  shown  on  more 
+european  parties,  then  maybe  some  people  would  gain  some
+interest...  but  most PC-sceners atleast don't even know of the
+Russian speccyscene.
+
+<kq\skrju>i think, what if we'll try to  combine  c64  and  zx- 
+spectrum  democompos on european parties? i mean, we've got some
+kicking groups now, i think we will be able to compete with c64.
+
+<BriteLite>yeah... I've actually been afraid of the possibility 
+that  someone  would bring speccydemos to the Assemblyoldskool-
+competition ;)
+
+<kq\skrju>oh! there is a possibility of this in rules?! 
+
+<BriteLite>ofcourse. "bring your own hardware" 
+
+<kq\skrju>damn! thats oh great! 
+
+<BriteLite>the rules state that the machine  should  have  been 
+available prior to 1990, so regular 48k and 128k  speccys  would
+qualify... dunno about Pentagon though
+
+<kq\skrju>^_^ 
+
+<kq\skrju>hm, and there must be a man, who will  bring  a  real 
+machine to party?
+
+<BriteLite>I have a 128k speccy (+2)  so  I  can  atleast  show 
+demos from tape.
+
+<kq\skrju>hm... tape is not that kewl 
+
+<BriteLite>I know 
+           
+<BriteLite>but I haven't got a diskdrive 
+
+<kq\skrju>and if i'll send pentagon to one person (it's  Exin), 
+how  do you think, is it ok, i mean is pentagon oldskool enough?
+^_^
+
+<BriteLite>when was the Pentagon released? 
+
+<kq\skrju>hm... dunno realy, maybe in 89-92, but i'm not sure 
+
+<BriteLite>ok. well, I think it would be accepted :) 
+
+<kq\skrju>have you seen our last demo,  'summermilk'? what  do 
+you think of it?
+
+<BriteLite> hmmh,  was  it  the  one  with  singlecolors filled 
+vectors?
+
+<kq\skrju>yes! 
+
+<BriteLite>yeah, it was nice... I liked the design. 
+
+<kq\skrju>how do you think, could that demo  compete  with  c64 
+demos on asm02?
+
+<BriteLite>why not... but it's ofcourse  safer  to  make  demos 
+more PC-like, to get votes from newskool-people.
+
+<kq\skrju>but  demos  by replayhad no fx-show, i.e. BOOKS,but 
+they did won the compos.
+
+<BriteLite>yeah... but at least on Assembly it has always  been 
+the  most  PC-like  c64-demos that have won... ofcourse demos on
+"exotic"platforms have a better chance than c64-demos 
+
+<kq\skrju>but our point is not to win the compo but to show the 
+platform ;]
+
+<BriteLite>yeah... would be really cool to see some speccydemos 
+at assembly
+
+<kq\skrju>are you working on some cooperation with haujobbnow? 
+
+<BriteLite>not at the moment... 
+
+<kq\skrju>oh,  have  you seen that demo by gasmanat asm02?!it 
+was in wild-compo
+
+<BriteLite>yeah, he showed it to me :) but now I have to go  to 
+bed... see you later
+
+<kq\skrju>g'night ^_^ 
+
+Session Close: Mon Dec 09 03:25:08 2002

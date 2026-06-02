@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13785,
+    "article_url": "https://zxpress.ru/article.php?id=13785",
+    "print_url": "https://zxpress.ru/print.php?id=13785",
+    "title_link": "От авторов - Доброе воскресение всем\r\nтем, кто читает нашу газету!",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "От_авторов_-_Доброе_воскресение_всемтем_кто_читает_нашу_газе"
+  },
+  {
+    "article_id": 15186,
+    "article_url": "https://zxpress.ru/article.php?id=15186",
+    "print_url": "https://zxpress.ru/print.php?id=15186",
+    "title_link": "Программы - CAD+3D PLOT. Векторный графический редактор.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Программы_-_CAD3D_PLOT_Векторныи_графическии_редактор"
+  },
+  {
+    "article_id": 11424,
+    "article_url": "https://zxpress.ru/article.php?id=11424",
+    "print_url": "https://zxpress.ru/print.php?id=11424",
+    "title_link": "Про кровь - группа крови - задачка для психологов.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Про_кровь_-_группа_крови_-_задачка_для_психологов"
+  },
+  {
+    "article_id": 560,
+    "article_url": "https://zxpress.ru/article.php?id=560",
+    "print_url": "https://zxpress.ru/print.php?id=560",
+    "title_link": "Раскрутка - Описание игры \"Jungle Warrior\".",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Раскрутка_-_Описание_игры_Jungle_Warrior"
+  },
+  {
+    "article_id": 8125,
+    "article_url": "https://zxpress.ru/article.php?id=8125",
+    "print_url": "https://zxpress.ru/print.php?id=8125",
+    "title_link": "Разное - РЕКЛАМА.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Разное_-_РЕКЛАМА"
+  },
+  {
+    "article_id": 172,
+    "article_url": "https://zxpress.ru/article.php?id=172",
+    "print_url": "https://zxpress.ru/print.php?id=172",
+    "title_link": "Видео - Боевик \"Русский крестный отец\".",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Видео_-_Боевик_Русскии_крестныи_отец"
+  }
+]

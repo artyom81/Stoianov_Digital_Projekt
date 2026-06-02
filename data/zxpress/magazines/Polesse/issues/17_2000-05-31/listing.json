@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3718,
+    "article_url": "https://zxpress.ru/article.php?id=3718",
+    "print_url": "https://zxpress.ru/print.php?id=3718",
+    "title_link": "Millenium Demoparty - отчет о Millenium'000",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Millenium_Demoparty_-_отчет_о_Millenium000"
+  },
+  {
+    "article_id": 3714,
+    "article_url": "https://zxpress.ru/article.php?id=3714",
+    "print_url": "https://zxpress.ru/print.php?id=3714",
+    "title_link": "В паутине - о создании общебелорусской ZX-Net",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "В_паутине_-_о_создании_общебелорусскои_ZX-Net"
+  },
+  {
+    "article_id": 3715,
+    "article_url": "https://zxpress.ru/article.php?id=3715",
+    "print_url": "https://zxpress.ru/print.php?id=3715",
+    "title_link": "Навезли новья - Battle Ship + Modem, Stagger, Clickmania, Seaquest, PiFormat, MicroAdapter, Laser Compact 5.2, TAP ->TR-DOS 0.3, Quick Commander 2.6.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Навезли_новья_-_Battle_Ship_Modem_Stagger_Clickmania_Seaques"
+  },
+  {
+    "article_id": 3717,
+    "article_url": "https://zxpress.ru/article.php?id=3717",
+    "print_url": "https://zxpress.ru/print.php?id=3717",
+    "title_link": "Откровенный разговор с читателями - разбор писем читателей.",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Откровенныи_разговор_с_читателями_-_разбор_писем_читателеи"
+  },
+  {
+    "article_id": 3721,
+    "article_url": "https://zxpress.ru/article.php?id=3721",
+    "print_url": "https://zxpress.ru/print.php?id=3721",
+    "title_link": "Сами гоним, сами пьем... - размышления об алкогольных напитках.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Сами_гоним_сами_пьем_-_размышления_об_алкогольных_напитках"
+  },
+  {
+    "article_id": 3720,
+    "article_url": "https://zxpress.ru/article.php?id=3720",
+    "print_url": "https://zxpress.ru/print.php?id=3720",
+    "title_link": "Слабо пройти? - Seaquest.",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Слабо_проити_-_Seaquest"
+  },
+  {
+    "article_id": 3716,
+    "article_url": "https://zxpress.ru/article.php?id=3716",
+    "print_url": "https://zxpress.ru/print.php?id=3716",
+    "title_link": "События, факты, комментарии - день рождения Синклера, состояние дел на белорусской сцене.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "События_факты_комментарии_-_день_рождения_Синклера_состояние"
+  },
+  {
+    "article_id": 3719,
+    "article_url": "https://zxpress.ru/article.php?id=3719",
+    "print_url": "https://zxpress.ru/print.php?id=3719",
+    "title_link": "Трезвый взгляд - рассуждения о Millennium.",
+    "order": 8,
+    "issue_label": "17",
+    "short_slug": "Трезвыи_взгляд_-_рассуждения_о_Millennium"
+  }
+]

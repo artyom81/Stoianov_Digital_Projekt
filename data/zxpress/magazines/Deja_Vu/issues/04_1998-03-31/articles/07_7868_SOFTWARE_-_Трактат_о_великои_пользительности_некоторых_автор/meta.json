@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1998-03-31",
+  "order": 7,
+  "article_id": 7868,
+  "title_link": "SOFTWARE - Трактат о великой пользительности некоторых авторский разработок.",
+  "title_h1": "Deja Vu 04 - SOFTWARE - Трактат о великой пользительности некоторых авторский разработок.",
+  "print_url": "https://zxpress.ru/print.php?id=7868",
+  "article_url": "https://zxpress.ru/article.php?id=7868",
+  "fetched_at": "2026-05-31T21:54:31Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "2000-09-05",
+  "order": 2,
+  "article_id": 9383,
+  "title_link": "Новости - новости от Ижевских групп: X-Team, Power of Sound, TRG.",
+  "title_h1": "IzhNews 09 - Новости - новости от Ижевских групп: X-Team, Power of Sound, TRG.",
+  "print_url": "https://zxpress.ru/print.php?id=9383",
+  "article_url": "https://zxpress.ru/article.php?id=9383",
+  "fetched_at": "2026-05-31T22:15:45Z"
+}

@@ -1,0 +1,169 @@
+ACNews 59 -  Скрипт с 4-битными командами - скриптование в стиле форт-команд.
+Скрипт с 4-битными командами
+by Alone Coder
+Хотел я в очередной раз оптимизнуть ACEdit по размеру - с помощью
+скриптования. Но после того, как я наконец придумал скрипт, у
+меня опустились руки что-либо на нём писать :)
+
+Идея скрипта в том, что каждая команда кодируется не байтом, а
+полубайтом, а адреса в командах (перехода, вызова, чтения
+переменной) вместо двух байт кодируются одним. Кроме того,
+регистрово-стековая модель несколько нетривиальна: после
+написания кучи тестовых сниппетов я пришёл к объединению стеков
+данных и вызовов и хранению вершины стека данных (она не входит в
+стек вызовов) в регистре HL - для передачи параметров и
+сопряжения с машинным кодом.
+
+Минуточку - при чём тут машинный код? Дело в том, что
+полноценный набор форт-команд не уместился (например, нет записи
+переменной), и остальные операции предполагается реализовать
+путём вызова процедур. Команда вызова
+(callr) вызывает именно
+машинный код. А вход в интерпретатор скрипта -
+RST #10.
+Ещё одна тонкость - обработка условий. Предполагается, что
+скрипт пишется в структурном стиле. При этом нативно реализован
+сквозной возврат "ошибок" во флаге CY. Предполагается, что CY=1
+соответствует ошибке, но в реальности коды ошибок может
+понадобиться чередовать на каждом уровне вызовов - в этом
+виновата последняя адская оптимизация с убиранием call, которая
+сократила интерпретатор в два раза.
+
+Так и не удалось проверить, работает ли эта страшная
+числомолотилка, потому что для написания хоть какого-то скрипта
+надо изобрести целый компилятор :)
+
+Может быть, удастся встроить генератор скрипта из пи-кодов в
+каком-нибудь компиляторе ЯВУ?
+
+Итак, список команд с кодами:
+
+0. ccf:NC for < (выполняется после каждой команды! для цепочки
+reterr надо чередовать C/NC на каждом уровне вызова)
+1. callrтолько в текущем сегменте (8 бит)
+2. jrNC(ok)только в текущем сегменте (8 бит) (для
+loop,break,djnz и даже if с полной альтернативой - вместо
+callcc) (полная альтернатива="jrNC:...:jr:...")
+3. getvar,адрес var=8 бит (не бывает в ifcc - дешевле сделать
+jrcc, чем добавлять в скрипт): push<=reg:reg<=(var) (1бbit)
+4. retNC(ok):ifNC{ret}
+5. retC(err):ifC{ret}
+6. push:push<=reg
+7. pop:pop>=reg
+8. swapregtoc
+9. popsub:reg<=reg-pop
+A. popadd:reg<=reg+pop
+B. dec:reg<=reg-1
+C. inc:reg<=reg+1
+D. scf:CY=1(err) (jr="scf[+ccf]:jrNC")
+E. eq:ifNZ{scf}: NC for = (loop="eq[+ccf]:jrNC")
+(retz="eq[+ccf]:retC")
+F. leq:ifNZ{ccf}: NC for <=
+Сам интерпретатор:
+
+;надо перед стартом настроить RST#10 на _q (основные регистры и
+флаги сохраняются, но делается exx (там портится hl,de). значит
+на входе в скрипт и при ret надо делать exx)
+ld hl,_startscript
+ld (#5c51),hl
+;+6 (нужно только при инициализации)
+
+_startscript
+pop hl;skip #1Sfe (return from call #162c)
+pop hl;restore hl'
+exx
+pop hl;address after RST #10
+ld c,0;read byte immediately
+;(hl=addr, de=reg, b=cmd, c=bit):
+_ccf
+ccf
+_q
+push af
+ld a,%00010000
+getcmd:
+sla c
+jr nz,$+6
+ld c,(hl)
+inc hl
+rl c
+rla
+jr nc,getcmd
+ld b,a
+pop af
+djnz _ncall
+push bc;return bit
+push hl;return addr
+ld l,(hl);read 8bit
+call jphl;(in 48 basic) call machine code procedure
+pop hl;return addr
+pop bc;return bit
+inc hl;skip 8bit
+_ncall:
+djnz _njrc
+jr nc,_q
+ld l,(hl)
+_njrc:
+djnz _ngetvar
+;getvar: push<=reg:reg<=(var) ;1 byte less if no push
+push de
+push hl
+ld l,(hl);read 8bit
+ld h,tvar/256
+ld e,(hl)
+inc hl
+ld d,(hl)
+pop hl
+inc hl;skip 8bit
+_ngetvar:
+djnz _nretnc
+ret nc
+_nretnc:
+djnz _nretc
+ret c
+_nretc:
+djnz _npush
+push de
+_npush:
+djnz _npop
+pop de
+_npop:
+djnz _nswap
+ex de,hl
+ex (sp),hl
+ex de,hl
+_nswap:
+djnz _nsub
+;reg<=reg-pop ;1 byte less if "pop-reg" ;1 byte less if sbc
+ex (sp),hl
+ex de,hl
+or a
+sbc hl,de
+ex de,hl
+pop hl
+_nsub:
+djnz _nadd
+;reg<=reg+pop
+ex (sp),hl
+add hl,de
+ex de,hl
+pop hl
+_nadd:
+djnz _ndec
+dec de
+_ndec
+djnz _ninc
+inc de
+_ninc
+djnz _nscf;#D
+scf
+_nscf
+jr z,_ccf;#E
+djnz _neq
+scf
+_neq
+djnz _ccf;#F
+jr _q ;instead of ccf:jr _ccf
+;+100
+
+;=106 (можно -1 при popantisub, -1 при sbc, -1 при getvar без
+push

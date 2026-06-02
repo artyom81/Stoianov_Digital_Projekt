@@ -1,0 +1,346 @@
+ACNews 71 - Программирование - работа с банками памяти в IAR&#039;е.
+Banking in IAR and ZX Spectrum 128K
+by DimkaM
+---00---
+
+По просьбе телезрителей, а также для себя в качестве шпаргалки,
+решил описать работу с банкингом в IAR'е.
+Сразу хочу огорчить - банкинг не распространяется на переменные
+и константы (с некоторыми оговорками), только на исполняемый
+код.
+Данная статья предполагает, что вы уже ознакомились с моей
+статьёй в Info Guide #11 и у вас есть приложение к IG #11, так
+как я буду ссылаться на предыдущие примеры.
+
+Сначала хочу дополнить предыдущую статью, так как многие не
+читают документацию и задают вопросы:
+
+Q:
+Почему всё обёрнуто в модули?
+R: Как минимум, чтобы не было мешанины из меток, и при линковке 
+(библиотек) линкуются только используемые модули. 
+
+Q:
+Как передавать/принимать параметры С-функций в ассемблере?
+R: До двух параметров передаётся в регистрах, остальные через 
+стек. 
+Если количество параметров неопределённо (printf(...) и т.п.), 
+то все параметры передаются через стек. 
+Первый параметр передаётся в E, DE, CDE или BCDE, в зависимости 
+от разрядности значения. 
+Если первый и второй параметры не шире 16 бит каждый, то второй 
+параметр передаётся в регистрах B или BC, иначе через стек. 
+Возвращаемое значение из функции передаётся в регистрах A (L при 
+банкинге), HL, CHL или BCHL, в зависимости от разрядности 
+значения. 
+
+                            ---01---
+
+Для начала нам необходимы процедуры для вызова (и возврата)
+процедур из переключаемых страниц.
+Вернее, они уже есть в библиотеке
+z8Oincclz80b.r01, но они
+расчитаны на порт с восьмибитным адресом, да ещё и с чтением из
+него текущей страницы.
+Поэтому заменим (чтобы постоянно не линковать) в этой библиотеки
+нужные нам процедуры.
+Создадим директорию проекта
+fix_clz80b.
+Создадим в этой директории файл
+zx128k.s01 со следующим
+содержимым:
+
+;так как нет аппаратной возможности узнать текущую страницу в 
+;окне OxcOO0-Oxffff, 
+;то каждая страница (участвующая в банкинге) будет хранить свой 
+;номер по адресу OxFFFF.
+MODULE  MY_CURRENT_PAGE
+PUBLIC  MY_CURRENT_PAGE
+MY_CURRENT_PAGE=Oxffff
+ENDMOD
+MODULE  ?BANK_CALL_DIRECT_L08
+PUBLIC  ?BANK_CALL_DIRECT_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_CALL_DIRECT_L08:
+push hl
+ld   hl,(MY_CURRENT_PAGE-1)
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ex   (sp),hl
+jp   (hl)
+ENDMOD
+MODULE  ?BANK_LEAVE_32_L08
+PUBLIC  ?BANK_LEAVE_32_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_LEAVE_32_L08:
+ld   sp,ix
+pop  ix
+pop  de
+inc sp
+inc sp
+pop af
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ret
+ENDMOD
+MODULE  ?BANK_LEAVE_DIRECT_L08
+PUBLIC  ?BANK_LEAVE_DIRECT_L08
+PUBLIC  ?BANK_FAST_LEAVE_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_LEAVE_DIRECT_L08:
+ld   sp,ix
+pop  ix
+pop  de
+pop  bc
+?BANK_FAST_LEAVE_L08:
+pop  af
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ret
+ENDMOD
+MODULE  ?BANK_CALL_DIRECT_EXAF_L08
+PUBLIC  ?BANK_CALL_DIRECT_EXAF_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_CALL_DIRECT_EXAF_L08:
+ex   af,af'
+ld   a,(MY_CURRENT_PAGE)
+push af
+ex   af,af'
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+jp   (hl)
+END
+Далее нам понадобится файл
+zx128k.bat с содержимым:
+..z8Obinaz80 -uu -b -v0 zx128k.s01
+copy ..z8Olibclz80b.r01 ..z8Olibclzx128k.r01 /Y
+..z8Obinxlib -c "fetch-modules zx128k.r01
+..z8Olibclzx128k.r01 MY_CURRENT_PAGE MY_CURRENT_PAGE"
+..z8Obinxlib -c "replace-modules zx128k.r01
+..z8Olibclzx128k.r01"
+Запускаем его, и у нас появляется библиотека
+..z8Oincclzx128k.r01 - это копия библиотеки
+clz80b.r01 с
+заменёнными процедурами банкинга.
+Проект
+fix_clz80b нам больше не понадобится.
+---02---
+
+Сейчас мы переделаем под банкинг процедуры печати из предыдущей
+статьи.
+Создадим директорию
+mylibb, в ней поддиректорию list.
+Скопируем в текущий проект файлы
+mylib.c (переименовав в
+putchar.c ) и
+graf.s01 из директории mylib (см. статью в Info
+Guide #11 ). 
+
+graf.s01 отредактируем следующим образом:
+БыстрыйПиксель и таблицу положим в небанкируемую память, т.е. в
+сегмент RCODE. Соответственно, выход из неё - обычный ret.
+MODULE  fast_set_pix
+PUBLIC  fast_set_pix,fast_set_pix_table
+RSEG  RCODE  ;НЕбанкируемый сегмент
+fast_set_pix  ;http://zxdn.narod.ru/coding/zg1etud2.txt
+... 
+тело процедуры 
+...
+ret  ;обычный выход
+RSEG  ALIGN8
+fast_set_pix_table
+DEFS 1024
+ENDMOD
+Инициализацию таблиц и медленныйпиксель определим в банкируемый
+сегмент CODE, в этом случае необходимо использовать библиотечную
+процедуру для выхода.
+MODULE  fast_set_pix_init
+PUBLIC  fast_set_pix_init
+EXTERN  fast_set_pix_table,?BANK_FAST_LEAVE_L08
+RSEG  CODE  ;банкируемый сегмент
+fast_set_pix_init
+... 
+тело процедуры 
+...
+;ret заменим на выход из страницы:
+JP  LWRD ?BANK_FAST_LEAVE_L08
+ENDMOD
+MODULE  little_set_pix
+PUBLIC  little_set_pix
+EXTERN  ?BANK_FAST_LEAVE_L08
+RSEG  CODE  ;банкируемый сегмент
+little_set_pix
+... 
+тело процедуры 
+...
+;ret заменим на выход из страницы:
+JP  LWRD ?BANK_FAST_LEAVE_L08
+END
+Создадим
+build.bat:
+..z8Obiniccz80 -v0 -mb -uua -b -q -x -K -gA -z9 -t4 -T
+-Olist -Llist -Alist -I"../z80/inc/" putchar.c
+..z8Obinaz80 -uu -b -v0 -Olist graf.s01
+Опция -mb указывает на необходимость компиляции всех функций под
+банкинговые вызовы, т.к. библиотечные puts и printf ожидают
+банкируемую функцию putchar.
+
+Туда же добавим компоновку библиотеки:
+del /Q mylibb.r01
+..z8Obinxlib -c "fetch-mod listputchar.r01 mylibb.r01"
+"fetch-mod listgraf.r01 mylibb.r01"
+"LIST-ALL-SYMBOLS mylibb.r01 listmods.txt"
+Собираем библиотеку этим батником.
+
+В новом файле
+'mylibb.h' опишем переменную MY_CURRENT_PAGE, она
+пригодится, если понадобится узнать текущую страницу:
+extern unsigned char MY_CURRENT_PAGE;
+И остальные функции, не забывая указывать модификаторы банкинга:
+banked void scr_init(char atribute);
+#ifdef FASTPIXEL
+banked void fast_set_pix_init(void);
+non_banked void fast_set_pix(unsigned char x,unsigned char y);
+#define set_pix fast_set_pix
+#define set_pix_init fast_set_pix_init
+#else
+#define set_pix_init()
+banked void little_set_pix(unsigned char x,unsigned char y);
+#define set_pix little_set_pix
+#endif
+Модификатор banked можно не указывать, т.к. по умолчанию у нас
+всё банкируется, но лучше указать - потом может пригодиться.
+
+                            ---03---
+
+Итак, наконец-то, подготовка к HelloWorld прошла. Проверим, что
+у нас получилось.
+Создадим проект
+'HelloWorld', в нем поддиректории list и bin
+Файл
+Lnk.xcl:
+-cZ80 //процессор
+//-P(CODE)CODE=[C000-FFFF]*2+10000, 
+  //[3C000-ЗFFFF]*2+10000,[6C000-бFFFF]*2+10000 //выделяем банки
+  //0,1,3,4,6,7 под банкинг (5 и 2 не юзаем, т.к. прибиты)
+//но мы ещё учтём бит (в порту 7ffd) выбора ПЗУ 48К. Если нужно 
+//ПЗУ 128К, то используйте предыдущую строчку: 
+-P(CODE)CODE=[10C000-1OFFFE]*2+10000,
+[13C000-1ЗFFFE]*2+10000,[16C000-1бFFFE]*2+10000
+-Z(CODE)RCODE,CDATAO,CONST,CSTR,CCSTR=6000-7FFF //сегменты
+//памяти с константами и кодом
+-Z(DATA)DATAO,IDATAO,UDATAO,ECSTR,ALIGN8|8,CSTACK+200=8000-BFFF
+//сегменты стека, переменных и т.п.
+-e_medium_write=_formatted_write //конфигурация printf/sprintf
+-e_medium_read=_formatted_read //конфигурация scanf/sscanf
+../mylibb/mylibb //линкуем свою библиотеку
+-C ../z80/lib/clzx128k //подключаем библиотеку ИАРа
+-FMOTOROLA
+-o list/aout.a01
+-l list/cout.html
+-xehinms //включим всё для полноты картины
+-R
+-w47 //подавляем предупреждения, от которых я пока не понял,
+//как избавиться
+
+Файл build.bat:
+..z8Obiniccz80 -v0 -mb -uua -q -e -K -gA -s9 -t4 -T -Llist
+-Olist -Alist -I"../z80/inc/" main.c
+..z8Obinaz80 -Olist -Dbanking Cstartup.s01
+..z8Obinxlink -Ilist main cstartup -f Lnk.xcl
+Скопируем
+cstartup из предыдущей статьи, добавим нумерацию
+страниц, добавив следующий код сразу после метки
+init_C:
+#ifdef banking
+#if NOT procбЧ180
+EXTERN MY_CURRENT_PAGE
+ld hl,MY_CURRENT_PAGE
+ld bc,0x7ffd
+ld a,0x17
+bankIniLoop:
+REPT 2
+out (c),a
+ld (hl),a
+dec a
+ENDR
+dec a
+cp OxOe
+jr nz,bankIniLoop
+#endif
+#endif
+Создадим
+main.c:
+#include <stdio.h>
+#include <intrz80.h>
+#include <math.h>
+//#define FASTPIXEL
+#include "../mylibb/mylibb.h"
+void KbdScan(void){
+printf("Keyboard scan: 0x%02Xr",input(OxOOfe));
+}
+C_task void main(void){
+unsigned char x=0;
+scr_init(0x07<<3);
+set_pix_init();
+puts("Hello World!");
+do{
+set_pix(x,(sin((double)x/20)*20+95));
+}while(++x);
+while(1) KbdScan();
+}
+Компилируем батником.
+
+                            ---04---
+
+Опять засада: что делать с файлом
+listaout.a01 !?
+Этот файл в формате
+motorola s-records.
+Для преобразования файла
+aout.a01 воспользуемся сторонней
+утилитой SRecord - её вы сможете найти в приложении к этой
+газете.
+
+Добавим в
+build.bat (внимание! рассчитано на стартовый адрес
+0x6000 !): 
+
+@echo off
+..z8Osrecordsrec_cat listaout.a01 -offset -0x6000 -crop 0
+0x6000 -o bincode.c -Binary
+FOR %%i IN (00,01,03,04,06,07,10,11,13,14,16,17) do
+..z8Osrecordsrec_cat listaout.a01 -offset -0x%%~iCOO0
+-crop 0 0x4000 -o bin%%~i.c -Binary
+for /R bin %%i in (*.c) do (if %%~zi==0 (del /Q %%i)
+ELSE (echo crop file:%%~nxi size:%%~zi out^(7FFD^),0x%%~ni))
+echo on
+В директории
+bin создастся бинарный файл code, который
+необходимо загрузить и запустить с адреса 0x6000, а также файлы
+с номером (с учётом бита выбора ПЗУ) страницы в имени - их,
+естественно, надо загрузить по страницам.
+
+Возможно, у вас есть свои методы создания загрузчика и образа
+диска. Если нет, то можете добавить следующую строчку в
+build.bat:
+..z8Obinbuild128k.bat buildscl
+И получите на выходе scl-файл со всеми файлами и загрузчиком.
+Запускаем и наслаждаемся чистым синусом.
+
+                             * * *
+
+В следующей серии мы рассмотрим грязные хаки. К примеру, как 
+положить локальные переменные и константы в банкируемый сегмент.

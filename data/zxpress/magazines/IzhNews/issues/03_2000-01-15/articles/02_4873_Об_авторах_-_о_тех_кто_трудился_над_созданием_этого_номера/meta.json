@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2000-01-15",
+  "order": 2,
+  "article_id": 4873,
+  "title_link": "Об авторах - о тех, кто трудился над созданием этого номера.",
+  "title_h1": "IzhNews 03 - Об авторах - о тех, кто трудился над созданием этого номера.",
+  "print_url": "https://zxpress.ru/print.php?id=4873",
+  "article_url": "https://zxpress.ru/article.php?id=4873",
+  "fetched_at": "2026-05-31T22:15:18Z"
+}

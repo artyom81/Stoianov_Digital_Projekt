@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 15890,
+    "article_url": "https://zxpress.ru/article.php?id=15890",
+    "print_url": "https://zxpress.ru/print.php?id=15890",
+    "title_link": "От авторов - Привет всем!",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_Привет_всем"
+  },
+  {
+    "article_id": 15891,
+    "article_url": "https://zxpress.ru/article.php?id=15891",
+    "print_url": "https://zxpress.ru/print.php?id=15891",
+    "title_link": "Новости - ЧВ2 - как скоро? Q-net >>> Zx-net, Литература, Zx-windows realize version, Citizen v.1.0, XTRM bbs.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Новости_-_ЧВ2_-_как_скоро_Q-net_Zx-net_Литература_Zx-windows"
+  },
+  {
+    "article_id": 15892,
+    "article_url": "https://zxpress.ru/article.php?id=15892",
+    "print_url": "https://zxpress.ru/print.php?id=15892",
+    "title_link": "Железо - Описание и программирование AY-3-8910(12).",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Железо_-_Описание_и_программирование_AY-3-891012"
+  },
+  {
+    "article_id": 15893,
+    "article_url": "https://zxpress.ru/article.php?id=15893",
+    "print_url": "https://zxpress.ru/print.php?id=15893",
+    "title_link": "Ликбез - Анкета для писишников и вопросы для спектрумистов.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Ликбез_-_Анкета_для_писишников_и_вопросы_для_спектрумистов"
+  },
+  {
+    "article_id": 15894,
+    "article_url": "https://zxpress.ru/article.php?id=15894",
+    "print_url": "https://zxpress.ru/print.php?id=15894",
+    "title_link": "Юмор - Вообшем, дело было вечером...",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Юмор_-_Вообшем_дело_было_вечером"
+  }
+]

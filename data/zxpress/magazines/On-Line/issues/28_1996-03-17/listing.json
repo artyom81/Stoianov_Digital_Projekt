@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 84,
+    "article_url": "https://zxpress.ru/article.php?id=84",
+    "print_url": "https://zxpress.ru/print.php?id=84",
+    "title_link": "B.B.S. Новости - O новой B.B.S. - Digitecs-BBS.",
+    "order": 1,
+    "issue_label": "28",
+    "short_slug": "BBS_Новости_-_O_новои_BBS_-_Digitecs-BBS"
+  },
+  {
+    "article_id": 2053,
+    "article_url": "https://zxpress.ru/article.php?id=2053",
+    "print_url": "https://zxpress.ru/print.php?id=2053",
+    "title_link": "ZXNet - Как может быть плохо, когда стандартизации работают вразнобой.",
+    "order": 2,
+    "issue_label": "28",
+    "short_slug": "ZXNet_-_Как_может_быть_плохо_когда_стандартизации_работают_в"
+  },
+  {
+    "article_id": 2050,
+    "article_url": "https://zxpress.ru/article.php?id=2050",
+    "print_url": "https://zxpress.ru/print.php?id=2050",
+    "title_link": "Железо - Запись-воспроизведение цифрового звука - цифро-аналоговый\r\n преобразователь (Covox). 2 классических схемы ковокса.",
+    "order": 3,
+    "issue_label": "28",
+    "short_slug": "Железо_-_Запись-воспроизведение_цифрового_звука_-_цифро-анал"
+  },
+  {
+    "article_id": 2051,
+    "article_url": "https://zxpress.ru/article.php?id=2051",
+    "print_url": "https://zxpress.ru/print.php?id=2051",
+    "title_link": "Застрял ? - Новелла-проходилка по игре \"48 Утюгов\" часть 4.",
+    "order": 4,
+    "issue_label": "28",
+    "short_slug": "Застрял_-_Новелла-проходилка_по_игре_48_Утюгов_часть_4"
+  },
+  {
+    "article_id": 2052,
+    "article_url": "https://zxpress.ru/article.php?id=2052",
+    "print_url": "https://zxpress.ru/print.php?id=2052",
+    "title_link": "Новье ?! - О программах : Приключения Винни Пуха, Open IT, Biff.",
+    "order": 5,
+    "issue_label": "28",
+    "short_slug": "Новье_-_О_программах_Приключения_Винни_Пуха_Open_IT_Biff"
+  },
+  {
+    "article_id": 2049,
+    "article_url": "https://zxpress.ru/article.php?id=2049",
+    "print_url": "https://zxpress.ru/print.php?id=2049",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "28",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

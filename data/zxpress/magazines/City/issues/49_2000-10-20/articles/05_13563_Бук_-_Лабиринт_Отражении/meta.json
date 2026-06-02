@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "49",
+  "issue_date_iso": "2000-10-20",
+  "order": 5,
+  "article_id": 13563,
+  "title_link": "Бук - Лабиринт Отражений.",
+  "title_h1": "City 49 - Бук - Лабиринт Отражений.",
+  "print_url": "https://zxpress.ru/print.php?id=13563",
+  "article_url": "https://zxpress.ru/article.php?id=13563",
+  "fetched_at": "2026-05-31T21:52:17Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "67",
+  "issue_date_iso": "2017-03-01",
+  "order": 8,
+  "article_id": 18505,
+  "title_link": "How it was in Leningrad - Year 1988. First computers",
+  "title_h1": "ACNews 67 - How it was in Leningrad - Year 1988. First computers",
+  "print_url": "https://zxpress.ru/print.php?id=18505",
+  "article_url": "https://zxpress.ru/article.php?id=18505",
+  "fetched_at": "2026-05-31T21:32:00Z"
+}

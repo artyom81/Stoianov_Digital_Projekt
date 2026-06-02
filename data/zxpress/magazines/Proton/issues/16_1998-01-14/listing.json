@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16625,
+    "article_url": "https://zxpress.ru/article.php?id=16625",
+    "print_url": "https://zxpress.ru/print.php?id=16625",
+    "title_link": "Список BBS - Сетевые новости.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "Список_BBS_-_Сетевые_новости"
+  },
+  {
+    "article_id": 16626,
+    "article_url": "https://zxpress.ru/article.php?id=16626",
+    "print_url": "https://zxpress.ru/print.php?id=16626",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16627,
+    "article_url": "https://zxpress.ru/article.php?id=16627",
+    "print_url": "https://zxpress.ru/print.php?id=16627",
+    "title_link": "Психология - Сколько лет вашему телу ? Исследование института духовного развития в Бергиш-Гладбах.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Психология_-_Сколько_лет_вашему_телу_Исследование_института"
+  },
+  {
+    "article_id": 16628,
+    "article_url": "https://zxpress.ru/article.php?id=16628",
+    "print_url": "https://zxpress.ru/print.php?id=16628",
+    "title_link": "Опрос - Итоги опроса на тему конфигурации компьютера.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Опрос_-_Итоги_опроса_на_тему_конфигурации_компьютера"
+  },
+  {
+    "article_id": 16629,
+    "article_url": "https://zxpress.ru/article.php?id=16629",
+    "print_url": "https://zxpress.ru/print.php?id=16629",
+    "title_link": "Игрушки - JACK NIPPER IN COCONUT CAPERS (PART 2).",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Игрушки_-_JACK_NIPPER_IN_COCONUT_CAPERS_PART_2"
+  },
+  {
+    "article_id": 16630,
+    "article_url": "https://zxpress.ru/article.php?id=16630",
+    "print_url": "https://zxpress.ru/print.php?id=16630",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16631,
+    "article_url": "https://zxpress.ru/article.php?id=16631",
+    "print_url": "https://zxpress.ru/print.php?id=16631",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

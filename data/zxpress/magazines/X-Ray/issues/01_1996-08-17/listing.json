@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 2631,
+    "article_url": "https://zxpress.ru/article.php?id=2631",
+    "print_url": "https://zxpress.ru/print.php?id=2631",
+    "title_link": "Вступление - О создании нового электронного издания \"X-RAY\".",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_О_создании_нового_электронного_издания_X-RAY"
+  },
+  {
+    "article_id": 2633,
+    "article_url": "https://zxpress.ru/article.php?id=2633",
+    "print_url": "https://zxpress.ru/print.php?id=2633",
+    "title_link": "Игротека - Обзор \"автомобильных\" игр на Speccy: Paris Dakar,\r\n Carlos Saintz Campenato Delmundo, Hard Drivin,\r\n Lotus Espirit Turbo Challenge, Toyota Celia gt rally.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Игротека_-_Обзор_автомобильных_игр_на_Speccy_Paris_Dakar_Car"
+  },
+  {
+    "article_id": 2634,
+    "article_url": "https://zxpress.ru/article.php?id=2634",
+    "print_url": "https://zxpress.ru/print.php?id=2634",
+    "title_link": "Развлечения - Носки или очередная классификация околокомпьютерного населения.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Развлечения_-_Носки_или_очередная_классификация_околокомпьют"
+  },
+  {
+    "article_id": 2632,
+    "article_url": "https://zxpress.ru/article.php?id=2632",
+    "print_url": "https://zxpress.ru/print.php?id=2632",
+    "title_link": "Размышления по поводу - О создании и принципах развития фирмы ТОО \"Кондор\".",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Размышления_по_поводу_-_О_создании_и_принципах_развития_фирм"
+  },
+  {
+    "article_id": 2635,
+    "article_url": "https://zxpress.ru/article.php?id=2635",
+    "print_url": "https://zxpress.ru/print.php?id=2635",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2543,
+    "article_url": "https://zxpress.ru/article.php?id=2543",
+    "print_url": "https://zxpress.ru/print.php?id=2543",
+    "title_link": "Новелла - Новелла \"Черный берет\" по игре \"Sabouter\".",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Новелла_-_Новелла_Черныи_берет_по_игре_Sabouter"
+  },
+  {
+    "article_id": 3700,
+    "article_url": "https://zxpress.ru/article.php?id=3700",
+    "print_url": "https://zxpress.ru/print.php?id=3700",
+    "title_link": "От редакции - С новым годом!",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_С_новым_годом"
+  },
+  {
+    "article_id": 8434,
+    "article_url": "https://zxpress.ru/article.php?id=8434",
+    "print_url": "https://zxpress.ru/print.php?id=8434",
+    "title_link": "Hard - решение проблемы временной защиты дисков от записи.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Hard_-_решение_проблемы_временнои_защиты_дисков_от_записи"
+  },
+  {
+    "article_id": 14495,
+    "article_url": "https://zxpress.ru/article.php?id=14495",
+    "print_url": "https://zxpress.ru/print.php?id=14495",
+    "title_link": "Игры - Цель игры достичь HAMPSTEAD.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Игры_-_Цель_игры_достичь_HAMPSTEAD"
+  },
+  {
+    "article_id": 13701,
+    "article_url": "https://zxpress.ru/article.php?id=13701",
+    "print_url": "https://zxpress.ru/print.php?id=13701",
+    "title_link": "Спецвыпуска - полностью посвящен давно обещанной нами статье об аппаратном MILТICOLOR'е.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Спецвыпуска_-_полностью_посвящен_давно_обещаннои_нами_статье"
+  }
+]

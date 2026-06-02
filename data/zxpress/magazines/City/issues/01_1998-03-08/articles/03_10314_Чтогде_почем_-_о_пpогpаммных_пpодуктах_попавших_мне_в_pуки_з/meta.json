@@ -1,0 +1,15 @@
+{
+  "magazine_id": 41,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-03-08",
+  "order": 3,
+  "article_id": 10314,
+  "title_link": "Что,где, почем - о пpогpаммных пpодуктах, попавших мне в pуки за последнюю неделю.",
+  "title_h1": "City 01 - Что,где, почем - о пpогpаммных пpодуктах, попавших мне в pуки за последнюю неделю.",
+  "print_url": "https://zxpress.ru/print.php?id=10314",
+  "article_url": "https://zxpress.ru/article.php?id=10314",
+  "fetched_at": "2026-05-31T21:49:47Z"
+}

@@ -1,0 +1,86 @@
+ZX Pilot 24 - HARD and SOFT - Простейший Turbo Load/Save-ер.
+╔══──══──══──══──══──══──══──══──══──══──══──══──══──══──══──══╗
+│
+HARD and SOFT
+│
+╚══──══──══──══──══──══──══──══──══──══──══──══──══──══──══──══╝
+(C) VEL
+
+   Привет! Сегодня мы предлагаем вам простейший turbo loader. Но
+это не просто лоадер. Заменой всего одной цифры, его можно прев-
+ратить в turbo save'ер.
+   Ну а простейший он потому, что не выполняет проверки на ошиб-
+ки дисковых операций и, как следствие, зависание.
+   Основные  его  достоинства это универсальность и малый объем.
+Такой  же  лоадер,  но  с  проверкой ошибок, занимает в три раза
+больше.  Если у наших читателей появится интерес к этой теме, то
+мы с удовельствием опубликуем полный turbo loader.
+   Кстати,  в  ZX-РЕВЮ  5-6/97 (по-моему) был опубликован полный
+turbo loader/save'ер. Но, к сожалению, там не хватает нескольких
+меток да и, кажется, авторы сами не проверяли его работоспособ -
+ность.
+   Ну а теперь сам лоадер.
+
+
+ORG25000
+
+LDHL,30000;адрес загрузки данных
+LDDE,(23796);текущий трек/сектор
+LDBC,100*256+5;в B-количество секторов
+CALLTURBO1;в C-5, если load C-6, если save
+RET
+
+TURBO1PUSHBC
+PUSHHL
+RRC
+LDHL,#2F1B
+JRC,TURBO2
+LDHL,#2D73
+TURBO2LD(TURBO3+2),HL
+POPHL
+PUSHDE
+LDA,D
+ORA
+RRA 
+LDC,A
+LDA,#2C
+JRC,TURBO4
+LDA,#3C
+TURBO4LDIX,#1FF3
+PUSHHL
+LDH,A
+LDA,(#5D16)
+AND3
+ORH
+POPHL
+CALLTURBO5
+LDA,C
+LDBC,#007F
+LDIX,#2A53
+CALLTURBO5
+LDA,#18
+LDIX,#2FC3
+CALLTURBO5
+POPDE
+POPBC
+TURBO6PUSHBC
+PUSHDE
+TURBO3LDIX,#2F1B
+CALLTURBO5
+POPDE
+INCH
+INCE
+BIT4,E
+JRZ,TURBO7
+LDE,0
+INCD
+POPBC
+DJNZTURBO1
+LD(#5CF4),DE
+RET 
+TURBO7POPBC
+DJNZTURBO6
+LD(#5CF4),DE
+RET 
+TURBO5PUSHIX
+JP#3D2F

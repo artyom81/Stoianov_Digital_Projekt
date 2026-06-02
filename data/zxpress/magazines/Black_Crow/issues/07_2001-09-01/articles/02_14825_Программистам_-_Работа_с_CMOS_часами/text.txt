@@ -1,0 +1,621 @@
+Black Crow 07 - Программистам - Работа с CMOS часами.
+ПРОГРАММИРУЕМ CMOS на К512ВИ1  
+(процедуры обработки часов)
+Pantera                                  
+                                         
+_________________________________________
+                                         
+                                         
+     Да,все кричат  вокруг  Cmos-часы это
+рулез,круто.Вот если бы хоть кто-то пока-
+зал как под них кодить.Я эти часики  себе
+давно уж как  собрал  и теперь решил, раз
+ни кто не хочет поделится с народом о ме-
+тодах   программирования,  то  значит это
+суждено:-) сделать мне.
+Доступ  к  часам   осуществляется   через
+регистр  управления   #EFF7  с маской #80
+включения и #00 маской выключения.
+Часы имеют также два регистра передачи:
+Регистр адреса  #DFF7 который  заказывает
+нужную ячейку памяти в Cmos. Этот регистр
+работает только на запись.
+Регистр данных #BFF7 через который проис-
+ходит запись/чтение значений Cmos.
+LD   ВС,#DFF7                     
+       LD   Н,#11     ;открываем ячейку  
+       OUT (С),Н      ;#11               
+       LD   ВС,#BFF7                     
+       LD   L,#AA     ;записываем в эту  
+       OUT (С),L      ;ячейку #AA        
+       RET
+;для чтения из ячейки
+LD   ВС,#BFF7                     
+       IN   A,(С)     ;читаем из порта   
+       СР   #AA       ;байт наличия cmos
+RET  Z                            
+       RET
+Ну а вот u тело программы:
+;ОБРАБОТКА АППАРАТНЫХ CMOS ЧАСОВ         
+;WRITEN ВУ (С)Pantera 2001               
+;V2.1                                    
+;УСТАНОВКА РЕГИСТРОВ МИКРОСХЕМЫ          
+;В Н,АДРЕС  В L,ЗНАЧЕНИЕ                 
+;Ячейки в которые заносятся значения:    
+                                         
+;#00-СЕКУНДЫ                             
+;#02-МИНУТЫ                              
+;#04-ЧАСЫ                                
+;#06-ДЕНь НЕДЕЛИ                         
+;#07-ЧИСЛО                               
+;#08-МЕСЯЦ                               
+;#09-ГОД
+;Теперь о контрольных байтах cmos,которые
+;заносятся в ячейки #11,#0A,#0В перед ра-
+;ботой cmos.
+;#11
+-#AA
+БАЙТ НАЛИЧИЯ ЧАСОВ.ОБЯЗАТЕЛьНО!!
+;        ИСПОЛьЗУЕТСЯ ДЛЯ ОБНАРУЖЕНИЯ ЧА-
+;        СОВ В СИСТЕМЕ, ПРОГРАММАМИ.     
+;#0А
+-32
+ОБЯЗАТЕЛьНО ЗАНЕСТИ ЭТО ЗНАЧЕНИЕ
+;#0В
+-2
+ОБЯЗАТЕЛьНО ЗАНЕСТИ ЭТО ЗНАЧЕНИЕ
+                                         
+                                         
+                                         
+       ORG #8000                         
+       JP СНЕСК                          
+                                         
+;----------------------------------------
+R_SEL  DEFW #EFF7     ;РЕГИСТР УПРАВЛЕНИЯ
+R_DATA DEFW #BFF7     ;РЕГИСТР ДАННЫХ    
+R_ADRS DEFW #DFF7     ;РЕГИСТР АДРЕСА    
+ON     DEFB #80       ;МАСКА ВКЛЮЧЕНИЯ   
+OFF    DEFB #00       ;МАСКА ВЫКЛЮЧЕНИЯ  
+;----------------------------------------
+;-------ПРОВЕРКА НАЛИЧИЯ CMOS------------
+СНЕСК  CALL OPEN      ;ОТКРЫВАЕМ     CMOS
+       LD Н,#11       ;ПИШЕМ В #11 ЯЧЕЙКУ
+       LD ВС,(R_ADRS)                    
+       OUT (С),Н                         
+       LD L,#AA       ;#AA В  ЯЧЕЙКЕ  #11
+       LD ВС,(R_DATA) ;ДЛЯ       ПРОВЕРКИ
+       OUT (С),L      ;НАЛИЧИЯ    МИКРУХИ
+;---------ПРОЦЕДУРА ЧТЕНИЯ ИЗ ПОРТА------
+LD Н,#11       ;ОТКРЫВАЕМ   ЯЧЕЙКУ
+       LD ВС,(R_ADRS)  ЗАПИСЫВАЕМ  ЗНАЧЕ-
+       OUT (С),Н      ;НИЕ В РЕГ.  АДРЕСА
+       LD ВС,(R_DATA) ;ЧИТАЕМ ИЗ РЕГИСТРА
+       IN A,(С)       ;ДАННЫХ  ЧИСЛО  #AA
+       СР #AA         ;СРАВНИВАЕМ        
+       PUSH AF                           
+       CALL CLOSE                        
+       РОР AF
+JR Z,CMOS                         
+       RET            ;НЕТ ЧАСОВ         
+                                         
+CMOS   CALL OPEN                         
+       LD HL,#0A20    ;В ЯЧЕЙКУ #0А НУЖНО
+       CALL W_CMOS    ;ЗАНЕСТИ #20!!!    
+       LD HL,#0В02    ;В ЯЧЕЙКУ #0В НУЖНО
+       CALL W_CMOS    ;ЗАНЕСТИ #02!!!    
+       CALL CLOSE                        
+       LD A,7         ;ЕСЛИ ЕСТь  ЧАСЫ ТО
+       OUT (#FE),A    ;БОРДЕР БУДЕТ БЕЛЫМ
+       RET
+;---ПРОЦЕДУРА ОТКРЫТИЯ ДОСТУПА К CMOS----
+OPEN   LD ВС,(R_SEL)  ;ОТКРЫВАЕМ    CMOS 
+       LD A,(ON)      ;УСТАНОВКОЙ БИТА 7 
+       OUT (С),A      ;                  
+       RET
+;---ПРОЦЕДУРА ЗАКРЫТИЯ ДОСТУПА К CMOS---
+CLOSE  LD A,(OFF)     ;ВСЕ ОТРУБАЕМСЯ    
+       LD ВС,(R_SEL)                     
+       OUT (С),A                         
+       RET
+;---ПОДПРОГРАММА ДЛЯ ЗАПUCU ЗНАЧEНUЙ В CMOS-ЧАСЫ------------- 
+;ЗАПUCЬ ЧЕРЕЗ PEГUCTP HL, В Н-ЯЧЕЙКА, В L-ЗНЧEНUE
+W_CMOS LD ВС,(R_ADRS)                    
+       OUT (С),Н                         
+       LD ВС,(R_DATA)                    
+       OUT (С),L                         
+       RET
+Это процедура тикания часов:
+;исходники взяты из прoграииы Мг.Gluk Reset Service 5.3k
+:ВЫВОД ВРЕМЕНИ И ДАТЫ НА ЭКРАН
+М1     CALL CMOS_R
+JP М1                             
+                                         
+                                         
+CMOS_R EXX                               
+       CALL CMOS_3                       
+       LD HL,10072                       
+       EXX                               
+       RET                               
+CMOS_3 LD HL,#5815                       
+       CALL LLAFбЗ                       
+       LD DE,#4015                       
+       LD Н,#0В                          
+       CALL LLAF2В                       
+       BIT 5,A                           
+       JR Z,LLADB9                       
+       LD A,#0С                          
+       CALL LLAE45                       
+       LD A,#0В                          
+       CALL LLAE45                       
+       LD A,#0В                          
+       CALL LLAE45                       
+       DEC Е
+DEC Е                             
+       DEC Е                             
+LLADB9 INC Е                             
+       INC Е                             
+       INC Е                             
+       LD Н,#04                          
+       CALL LLAE19                       
+       CALL LLAE1Е                       
+       LD Н,#02                          
+       CALL LLAE19                       
+       CALL LLAE1Е                       
+       LD Н,#00                          
+       CALL LLAE19                       
+       LD HL,#5835                       
+       CALL LLAFбЗ                       
+       LD Н,#06                          
+       CALL LLAF2В                       
+       LD DE,#4035                       
+       JR С,LLADF8                       
+       DEC A                             
+       LD HL,LLAEE3                      
+       ADD A,A
+ADD A,L                           
+       LD L,A                            
+       JR NC,LLADEB                      
+       INC Н                             
+LLADEB LD A,(HL)                         
+       INC HL                            
+       PUSH AF                           
+       LD A,(HL)                         
+       CALL LLAE45                       
+       РОР AF                            
+       CALL LLAE45                       
+       DEC Е                             
+       DEC Е                             
+LLADF8 INC Е                             
+       INC Е                             
+       LD A,#0В                          
+       CALL LLAE45                       
+       LD Н,#07                          
+       CALL LLAE19                       
+       LD A,#0D                          
+       CALL LLAE45                       
+       LD Н,#08
+CALL LLAE19                       
+       LD A,#0D                          
+       CALL LLAE45                       
+       LD Н,#09                          
+       CALL LLAE19                       
+       RET                               
+LLAE19 CALL LLAF2В                       
+       JR LLAE32                         
+LLAE1Е LD Н,#00                          
+       CALL LLAF2В                       
+       RRCA                              
+       LD A,#0A                          
+       JR NC,LLAE2С                      
+LLAE28 CALL LLAE45                       
+       RET                               
+LLAE2С INC A                             
+       JR LLAE28                         
+LLAE2F INC DE                            
+       INC DE                            
+       RET                               
+LLAE32 JR С,LLAE2F                       
+       PUSH AF
+RRCA                              
+       RRCA                              
+       RRCA                              
+       RRCA                              
+       AND #0F                           
+       CALL LLAE45                       
+       РОР AF                            
+       AND #0F                           
+       CALL LLAE45                       
+       RET                               
+LLAE45 PUSH DE                           
+       LD DE,LLAE63                      
+       ADD A,A                           
+       LD L,A                            
+       ADD A,A                           
+       ADD A,L                           
+       LD L,A                            
+       LD Н,#00                          
+       ADD HL,DE                         
+       РОР DE                            
+       LD В,#06                          
+       LD С,D
+XOR A                             
+       LD (DE),A                         
+       INC D                             
+LLAE58 LD A,(HL)                         
+       LD (DE),A                         
+       INC HL                            
+       INC D                             
+       DJNZ LLAE58                       
+       XOR A                             
+       LD (DE),A                         
+       LD D,С                            
+       INC Е                             
+       RET                               
+LLAE63 LD A,A                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD A,A                            
+       JR LLAE83                         
+       JR LLAE85                         
+       JR LLAE87
+LD A,A                            
+       INC ВС                            
+       LD A,A                            
+       LD Н,В                            
+       LD Н,В                            
+       LD A,A                            
+       LD A,A                            
+       INC ВС                            
+       RRCA                              
+       INC ВС                            
+       INC ВС                            
+       LD A,A                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD A,A                            
+       INC ВС                            
+       INC ВС                            
+       LD A,A                            
+       LD Н,В                            
+LLAE83 LD A,A                            
+       INC ВС
+LLAE85 INC ВС                            
+       LD A,A                            
+LLAE87 LD A,A                            
+       LD Н,В                            
+       LD A,A                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD A,A                            
+       LD A,(HL)                         
+       LD В,#06                          
+       LD В,#06                          
+       LD В,#7F                          
+       LD Н,Е                            
+       LD A,A                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD A,A                            
+       LD A,A                            
+       LD Н,Е                            
+       LD Н,Е                            
+       LD A,A                            
+       INC ВС
+LD A,A                            
+       INC Е                             
+       INC Е                             
+       NOP                               
+       NOP                               
+       INC Е                             
+       INC Е                             
+       NOP                               
+       NOP                               
+       NOP                               
+       NOP                               
+       NOP                               
+       NOP                               
+       LD A,(HL)                         
+       ADD A,С                           
+       SBC A,A                           
+       SUB С                             
+       ADD A,С                           
+       LD A,(HL)                         
+       NOP                               
+       NOP                               
+       NOP
+INC Е                             
+       INC Е                             
+       INC Е                             
+       NOP                               
+       NOP                               
+       LD A,(HL)                         
+       LD В,D                            
+       LD В,D                            
+       LD В,D                            
+       NOP                               
+       NOP                               
+LLAEBF LD В,D                            
+       LD A,(HL)                         
+       LD В,D                            
+       LD В,D                            
+       NOP                               
+       NOP                               
+       LD (HL),В                         
+       LD A,(HL)                         
+       LD В,D                            
+       LD A,(HL)                         
+       NOP
+NOP                               
+       LD A,#08                          
+       ЕХ AF,AF`                         
+       ЕХ AF,AF`                         
+       NOP                               
+       NOP                               
+       LD A,(HL)                         
+       LD В,В                            
+       LD В,В                            
+       LD A,(HL)                         
+       NOP                               
+       NOP                               
+       LD A,Н                            
+       LD В,Н                            
+       LD A,Н                            
+       LD В,В                            
+       NOP                               
+       INC A                             
+       LD В,В                            
+       LD A,Н                            
+       LD В,D                            
+       LD A,Н
+LD (DE),A                         
+       DJNZ LLAEF3                       
+LLAEE3 EQU $-#01                         
+       LD С,#11                          
+       DJNZ LLAEFB                       
+       LD (DE),A                         
+       LD DE,#1104                       
+       LD С,#14                          
+       LD (DE),A                         
+       LD (DE),A                         
+       DJNZ LLAEBF                       
+       INC В                             
+LLAEF3 XOR A                             
+       LD A,Н                            
+       LD ВС,(R_ADRS)                    
+       OUT (С),A                         
+       LD A,L                            
+LLAEFB LD ВС,(R_DATA)                    
+       OUT (С),A                         
+       CALL LLAFOD                       
+       RET                               
+LLAFOЧ LD ВС,(R_SEL)
+LD A,(ON)                         
+       DI                                
+       OUT (С),A                         
+       RET                               
+LLAFOD LD ВС,(R_SEL)                     
+       LD A,(OFF)                        
+       EI                                
+       OUT (С),A                         
+       RET                               
+LLAF16 CALL LLAFOЧ                       
+       LD A,Н                            
+       LD ВС,(R_ADRS)                    
+       OUT (С),A                         
+       LD ВС,(R_DATA)                    
+       IN A,(С)                          
+       LD Н,A                            
+       CALL LLAFOD                       
+       LD A,Н                            
+       AND A                             
+       RET                               
+LLAF2В CALL LLAFOЧ                       
+       LD A,#0A
+LD ВС,(R_ADRS)                    
+       OUT (С),A                         
+       LD ВС,(R_DATA)                    
+       IN A,(С)                          
+       RLA                               
+       JR С,LLAF5E                       
+       CALL LLAF16                       
+       LD Н,A                            
+       LD A,#00                          
+       AND A                             
+       JR Z,LLAF5B                       
+       LD A,Н                            
+       LD С,#FF                          
+LLAFЧ9 INC С                             
+       SUB #0A                           
+       JR NC,LLAFЧ9                      
+       ADD A,#0A                         
+       RLC С                             
+       RLC С                             
+       RLC С                             
+       RLC С                             
+       OR С
+AND A                             
+       RET                               
+LLAF5B LD A,Н                            
+       AND A                             
+       RET                               
+LLAF5E CALL LLAFOD                       
+       SCF                               
+       RET                               
+LLAFбЗ LD D,Н                            
+       LD Е,L                            
+       INC Е                             
+       LD ВС,#000A                       
+       LD (HL),#61    ;байт атрибутов    
+       LDIR                              
+       RET
+Вот еще u резидент для часов:
+:РЕЗИДЕНТ CMOS ЧАСОВ ДЛЯ IS=DOS
+ORG #С350                         
+MEMO   EQU $-1                           
+       DEFW INIT                         
+       DEFW #0000                        
+                                         
+       LD A,#FF                          
+МЕМ1   EQU $                             
+       LD HL,МЕМЗ                        
+       LD С,#1Е                          
+       RST #10                           
+       RET                               
+                                         
+INIT   INC A                             
+       RET Z                             
+       INC A                             
+       RET NZ                            
+МЕМ2   EQU $                             
+       LD HL,МЕМЗ                        
+       LD С,#1Е                          
+       RST #10                           
+       RET
+DEFW #0000                        
+                                         
+МЕМЗ   EQU $                             
+LLC36A LD A,(LLC44D)                     
+       ADD A,#10                         
+МЕМЧ   EQU $                             
+       LD (LLC44D),A                     
+       RET NC                            
+       DI                                
+       LD ВС,#EFF7                       
+       LD A,#80                          
+       OUT (С),A                         
+LLC373 LD A,#0A                          
+MEMS   EQU $                             
+       CALL LLC444                       
+       RLCA                              
+       JR С,LLC373                       
+       LD A,#07                          
+МЕМб   EQU $                             
+       CALL LLC444                       
+       LD Е,A                            
+       LD A,#08
+МЕМ7   EQU $                             
+       CALL LLC444                       
+       AND #0F                           
+       RRCA                              
+       RRCA                              
+       RRCA                              
+       LD D,A                            
+       AND #Е0                           
+       OR Е                              
+       LD Е,A                            
+       LD A,#01                          
+       AND D                             
+       LD D,A                            
+       LD A,#09                          
+МЕМ8   EQU $                             
+       CALL LLC444                       
+       SLA A                             
+       OR D                              
+       LD D,A                            
+       PUSH DE                           
+       LD A,#00                          
+МЕМ9   EQU $
+CALL LLC444                       
+       RR A                              
+       PUSH AF                           
+       LD A,#02                          
+МЕМ10  EQU $                             
+       CALL LLC444                       
+       LD Е,A                            
+       LD D,#00                          
+       PUSH DE                           
+       LD A,#04                          
+МЕМ11  EQU $                             
+       CALL LLC444                       
+       LD Е,A                            
+       LD A,#02                          
+       AND A                             
+       PUSH AF                           
+МЕМ12  EQU $                             
+       LD HL,LLC44E                      
+       LD ВС,#107С                       
+       RST #10                           
+       РОР AF                            
+       РОР DE
+МЕМ13  EQU $                             
+       LD HL,LLC451                      
+       RST #10                           
+МЕМ14  EQU $                             
+       LD HL,LLC44D                      
+       LD В,#04                          
+       LD A,#20                          
+LLC3D4 INC HL                            
+       СР (HL)                           
+       JR NZ,LLC3DA                      
+       LD (HL),#30                       
+LLC3DA DJNZ LLC3D4                       
+       DEC HL                            
+       РОР AF                            
+       LD A,#3A                          
+       JR С,LLC3E4                       
+       AND #20                           
+LLC3E4 LD (HL),A                         
+       LD С,#45                          
+       RST #10                           
+       EXX                               
+       DEC HL
+DEC HL                            
+       РОР DE                            
+       LD (HL),D                         
+       DEC HL                            
+       LD (HL),Е                         
+       LD В,#05                          
+МЕМ15  EQU $                             
+       LD HL,LLC44E                      
+       LD DE,#401В                       
+LLC3F7 PUSH ВС                           
+       PUSH HL                           
+       PUSH DE                           
+       LD L,(HL)                         
+       LD Н,#00                          
+       ADD HL,HL                         
+       ADD HL,HL                         
+       ADD HL,HL                         
+       LD ВС,#3С00                       
+       ADD HL,ВС                         
+       ЕХ DE,HL                          
+       LD В,#08                          
+       РОР HL
+PUSH HL                           
+LLC409 PUSH ВС                           
+       LD A,(DE)                         
+       LD (HL),A                         
+       LD ВС,#0100                       
+       ADD HL,ВС                         
+       INC DE                            
+       РОР ВС                            
+       DJNZ LLC409                       
+       РОР DE                            
+       РОР HL                            
+       РОР ВС                            
+       INC HL                            
+       INC DE                            
+       DJNZ LLC3F7                       
+       LD ВС,#EFF7                       
+       XOR A                             
+       OUT (С),A                         
+       EI                                
+       RET                               
+LLC444 LD ВС,#DFF7                       
+       OUT (С),A
+LD В,#BF                          
+       IN A,(С)                          
+       RET                               
+LLC44D DEFB #00                          
+LLC44E DEFM "## ##"                      
+LLC451 EQU $-2                           
+       DEFB #FF,#FF                      
+       DEFW MEMO,МЕМ1,МЕМ2,МЕМЗ          
+       DEFW МЕМЧ,MEMS,МЕМб,МЕМ7          
+       DEFW МЕМ8,МЕМ9,МЕМ10,МЕМ11        
+       DEFW МЕМ12,МЕМ13,МЕМ14,МЕМ15
+В приложении находится установщик рези-  
+дента вместе с резидентом часов.

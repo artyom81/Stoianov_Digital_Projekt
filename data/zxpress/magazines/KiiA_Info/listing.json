@@ -1,0 +1,34 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1992-03-11",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1992-03-18",
+      "articles_count": 2
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1992-03-25",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1992-04-16",
+      "articles_count": 2
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "1992-04-12",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "1992-06-25",
+      "articles_count": 3
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3712,
+    "article_url": "https://zxpress.ru/article.php?id=3712",
+    "print_url": "https://zxpress.ru/print.php?id=3712",
+    "title_link": "23-е февраля - Дню защитников Отечества посвещается...",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "23-е_февраля_-_Дню_защитников_Отечества_посвещается"
+  },
+  {
+    "article_id": 3711,
+    "article_url": "https://zxpress.ru/article.php?id=3711",
+    "print_url": "https://zxpress.ru/print.php?id=3711",
+    "title_link": "В паутине - Гейт с Минском и Гродно.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "В_паутине_-_Геит_с_Минском_и_Гродно"
+  },
+  {
+    "article_id": 3710,
+    "article_url": "https://zxpress.ru/article.php?id=3710",
+    "print_url": "https://zxpress.ru/print.php?id=3710",
+    "title_link": "Железячный фронт - Новый контроллер винчестера с произвольным доступом из\r\n TR-DOS.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Железячныи_фронт_-_Новыи_контроллер_винчестера_с_произвольны"
+  },
+  {
+    "article_id": 18091,
+    "article_url": "https://zxpress.ru/article.php?id=18091",
+    "print_url": "https://zxpress.ru/print.php?id=18091",
+    "title_link": "Лаборатория - CDOS-модем типа \"Алегро\" для ZX-Spectrum совместимых компьютеров.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Лаборатория_-_CDOS-модем_типа_Алегро_для_ZX-Spectrum_совмест"
+  },
+  {
+    "article_id": 3709,
+    "article_url": "https://zxpress.ru/article.php?id=3709",
+    "print_url": "https://zxpress.ru/print.php?id=3709",
+    "title_link": "Лаборатория - Схема расширения памяти Таганрог 128.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Лаборатория_-_Схема_расширения_памяти_Таганрог_128"
+  },
+  {
+    "article_id": 3708,
+    "article_url": "https://zxpress.ru/article.php?id=3708",
+    "print_url": "https://zxpress.ru/print.php?id=3708",
+    "title_link": "Навезли новья - Обзор новинок ПО: Satanic, Sinclair Club #1, 12 Тайных книг,\r\n Rush #2, Фанат #1, Tower Pod, Suslik Must Die, The Cezar,\r\n Small Hrust Unpacker v2.1, Best View v2.9, Laser Compactv5.0,\r\n PC-Unzip v1.1 fast, Black Raven Level Disk.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_Satanic_Sinclair_Club_1_12"
+  },
+  {
+    "article_id": 3713,
+    "article_url": "https://zxpress.ru/article.php?id=3713",
+    "print_url": "https://zxpress.ru/print.php?id=3713",
+    "title_link": "Рек-тайм - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3707,
+    "article_url": "https://zxpress.ru/article.php?id=3707",
+    "print_url": "https://zxpress.ru/print.php?id=3707",
+    "title_link": "События, факты - Новости от MicroSoft - Windows-2000.\r\n Конструкции Хаоса'2000.",
+    "order": 8,
+    "issue_label": "16",
+    "short_slug": "События_факты_-_Новости_от_MicroSoft_-_Windows-2000_Конструк"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 4,
+    "article_url": "https://zxpress.ru/article.php?id=4",
+    "print_url": "https://zxpress.ru/print.php?id=4",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Ditronik6-BBS.",
+    "order": 1,
+    "issue_label": "30",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Ditronik6-BBS"
+  },
+  {
+    "article_id": 2059,
+    "article_url": "https://zxpress.ru/article.php?id=2059",
+    "print_url": "https://zxpress.ru/print.php?id=2059",
+    "title_link": "Enlight'96 - Проект \"Спектрум на Enlight'96\".",
+    "order": 2,
+    "issue_label": "30",
+    "short_slug": "Enlight96_-_Проект_Спектрум_на_Enlight96"
+  },
+  {
+    "article_id": 2061,
+    "article_url": "https://zxpress.ru/article.php?id=2061",
+    "print_url": "https://zxpress.ru/print.php?id=2061",
+    "title_link": "Застрял ? - Новелла-проходилка \"Приключения Винни Пуха\" часть 1.",
+    "order": 3,
+    "issue_label": "30",
+    "short_slug": "Застрял_-_Новелла-проходилка_Приключения_Винни_Пуха_часть_1"
+  },
+  {
+    "article_id": 2060,
+    "article_url": "https://zxpress.ru/article.php?id=2060",
+    "print_url": "https://zxpress.ru/print.php?id=2060",
+    "title_link": "Мозаика - Письмо с Украины от Mafia. Вышла полная версия игры \"Prince of Persia\".",
+    "order": 4,
+    "issue_label": "30",
+    "short_slug": "Мозаика_-_Письмо_с_Украины_от_Mafia_Вышла_полная_версия_игры"
+  },
+  {
+    "article_id": 2058,
+    "article_url": "https://zxpress.ru/article.php?id=2058",
+    "print_url": "https://zxpress.ru/print.php?id=2058",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "30",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

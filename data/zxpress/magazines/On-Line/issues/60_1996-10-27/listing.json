@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 70,
+    "article_url": "https://zxpress.ru/article.php?id=70",
+    "print_url": "https://zxpress.ru/print.php?id=70",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "60",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2396,
+    "article_url": "https://zxpress.ru/article.php?id=2396",
+    "print_url": "https://zxpress.ru/print.php?id=2396",
+    "title_link": "Застрял ? - Описание игры \"Flunky\".",
+    "order": 2,
+    "issue_label": "60",
+    "short_slug": "Застрял_-_Описание_игры_Flunky"
+  },
+  {
+    "article_id": 2395,
+    "article_url": "https://zxpress.ru/article.php?id=2395",
+    "print_url": "https://zxpress.ru/print.php?id=2395",
+    "title_link": "Мозаика - \"Компьютер и программа 1989 года ... Амига.\"",
+    "order": 3,
+    "issue_label": "60",
+    "short_slug": "Мозаика_-_Компьютер_и_программа_1989_года_Амига"
+  },
+  {
+    "article_id": 2394,
+    "article_url": "https://zxpress.ru/article.php?id=2394",
+    "print_url": "https://zxpress.ru/print.php?id=2394",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "60",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

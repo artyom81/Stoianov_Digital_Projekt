@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 10819,
+    "article_url": "https://zxpress.ru/article.php?id=10819",
+    "print_url": "https://zxpress.ru/print.php?id=10819",
+    "title_link": "Вступление - Как и было обещано, сменилась оболочка, а значит\r\nи у газеты появилось свое лицо.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_Как_и_было_обещано_сменилась_оболочка_а_значити"
+  },
+  {
+    "article_id": 10820,
+    "article_url": "https://zxpress.ru/article.php?id=10820",
+    "print_url": "https://zxpress.ru/print.php?id=10820",
+    "title_link": "Программирование - как в игровых программах делать запись рекордов,статусов на диск.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Программирование_-_как_в_игровых_программах_делать_запись_ре"
+  },
+  {
+    "article_id": 10821,
+    "article_url": "https://zxpress.ru/article.php?id=10821",
+    "print_url": "https://zxpress.ru/print.php?id=10821",
+    "title_link": "Мысли по поводу - Программистская сказка от дяди Коли.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Мысли_по_поводу_-_Программистская_сказка_от_дяди_Коли"
+  },
+  {
+    "article_id": 10822,
+    "article_url": "https://zxpress.ru/article.php?id=10822",
+    "print_url": "https://zxpress.ru/print.php?id=10822",
+    "title_link": "Разыскивабтся - игры.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Разыскивабтся_-_игры"
+  },
+  {
+    "article_id": 10823,
+    "article_url": "https://zxpress.ru/article.php?id=10823",
+    "print_url": "https://zxpress.ru/print.php?id=10823",
+    "title_link": "Музыка - BEST POP MUSIC.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Музыка_-_BEST_POP_MUSIC"
+  },
+  {
+    "article_id": 10824,
+    "article_url": "https://zxpress.ru/article.php?id=10824",
+    "print_url": "https://zxpress.ru/print.php?id=10824",
+    "title_link": "Реклама - ИЩЕМ: дилеров, для распространения журнала ZX-PLATINUM.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_ИЩЕМ_дилеров_для_распространения_журнала_ZX-PLATIN"
+  }
+]

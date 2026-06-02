@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1999-10-11",
+  "order": 15,
+  "article_id": 3413,
+  "title_link": "От авторов - Задержка с выходом номера газеты...",
+  "title_h1": "Buzz 18 - От авторов - Задержка с выходом номера газеты...",
+  "print_url": "https://zxpress.ru/print.php?id=3413",
+  "article_url": "https://zxpress.ru/article.php?id=3413",
+  "fetched_at": "2026-05-31T21:48:48Z"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 13724,
+    "article_url": "https://zxpress.ru/article.php?id=13724",
+    "print_url": "https://zxpress.ru/print.php?id=13724",
+    "title_link": "Вступление - С третьим номером вышла небольшая задержка в силу технических\r\nи организационных причин. ;-)",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_С_третьим_номером_вышла_небольшая_задержка_в_си"
+  },
+  {
+    "article_id": 13725,
+    "article_url": "https://zxpress.ru/article.php?id=13725",
+    "print_url": "https://zxpress.ru/print.php?id=13725",
+    "title_link": "Всё о спектрумовских играх - о том, как НЕ НАДО писать адвентюрные программы \"Island of darkness\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Все_о_спектрумовских_играх_-_о_том_как_НЕ_НАДО_писать_адвент"
+  },
+  {
+    "article_id": 13726,
+    "article_url": "https://zxpress.ru/article.php?id=13726",
+    "print_url": "https://zxpress.ru/print.php?id=13726",
+    "title_link": "Лучшие солюшены SOSG - Публикация солюшена по игре не\r\nпростого, а прокомментированного!",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Лучшие_солюшены_SOSG_-_Публикация_солюшена_по_игре_непростог"
+  },
+  {
+    "article_id": 13727,
+    "article_url": "https://zxpress.ru/article.php?id=13727",
+    "print_url": "https://zxpress.ru/print.php?id=13727",
+    "title_link": "Анонс - \r\n В следующем номере ожидаются традиционные рубрики, а также\r\nсвежий каталог SOSG.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Анонс_-_В_следующем_номере_ожидаются_традиционные_рубрики_а"
+  }
+]

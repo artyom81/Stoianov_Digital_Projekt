@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2958,
+    "article_url": "https://zxpress.ru/article.php?id=2958",
+    "print_url": "https://zxpress.ru/print.php?id=2958",
+    "title_link": "Enlight'97 - Ответы на вопросы анкеты.",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "Enlight97_-_Ответы_на_вопросы_анкеты"
+  },
+  {
+    "article_id": 2954,
+    "article_url": "https://zxpress.ru/article.php?id=2954",
+    "print_url": "https://zxpress.ru/print.php?id=2954",
+    "title_link": "Oт редакции - Приближается Enlight'97.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Oт_редакции_-_Приближается_Enlight97"
+  },
+  {
+    "article_id": 2957,
+    "article_url": "https://zxpress.ru/article.php?id=2957",
+    "print_url": "https://zxpress.ru/print.php?id=2957",
+    "title_link": "Интервью - Новости в мире IS-DOS: Разработка контроллера винчестера IDE.\r\n PC-MODEM - подключение к ZX внутреннего HAYES-модема от IBM",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Интервью_-_Новости_в_мире_IS-DOS_Разработка_контроллера_винч"
+  },
+  {
+    "article_id": 2959,
+    "article_url": "https://zxpress.ru/article.php?id=2959",
+    "print_url": "https://zxpress.ru/print.php?id=2959",
+    "title_link": "Лит.страничка - Рассказ \"Дятел\".",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Литстраничка_-_Рассказ_Дятел"
+  },
+  {
+    "article_id": 2956,
+    "article_url": "https://zxpress.ru/article.php?id=2956",
+    "print_url": "https://zxpress.ru/print.php?id=2956",
+    "title_link": "Письма - Письмо из Харькова о \"познаниях\" в мире Хайес-модемов.\r\n Схема подключения внутреннего HAYES-модема.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Письма_-_Письмо_из_Харькова_о_познаниях_в_мире_Хаиес-модемов"
+  },
+  {
+    "article_id": 2955,
+    "article_url": "https://zxpress.ru/article.php?id=2955",
+    "print_url": "https://zxpress.ru/print.php?id=2955",
+    "title_link": "Список BBS - Сетевой гейт. Список BBS.",
+    "order": 6,
+    "issue_label": "38",
+    "short_slug": "Список_BBS_-_Сетевои_геит_Список_BBS"
+  },
+  {
+    "article_id": 2960,
+    "article_url": "https://zxpress.ru/article.php?id=2960",
+    "print_url": "https://zxpress.ru/print.php?id=2960",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 7,
+    "issue_label": "38",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  }
+]

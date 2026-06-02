@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1998-07-09",
+  "order": 8,
+  "article_id": 1171,
+  "title_link": "Speccy on CD - О создании CD с ПО в Самаре.",
+  "title_h1": "Buzz 15 - Speccy on CD - О создании CD с ПО в Самаре.",
+  "print_url": "https://zxpress.ru/print.php?id=1171",
+  "article_url": "https://zxpress.ru/article.php?id=1171",
+  "fetched_at": "2026-05-31T21:48:16Z"
+}

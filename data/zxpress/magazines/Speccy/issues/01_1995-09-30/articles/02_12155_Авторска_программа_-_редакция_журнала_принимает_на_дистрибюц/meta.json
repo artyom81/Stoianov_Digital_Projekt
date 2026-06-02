@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-09-30",
+  "order": 2,
+  "article_id": 12155,
+  "title_link": "Авторска программа - редакция журнала принимает на дистрибюцию авторские программы.",
+  "title_h1": "Speccy 01 - Авторска программа - редакция журнала принимает на дистрибюцию авторские программы.",
+  "print_url": "https://zxpress.ru/print.php?id=12155",
+  "article_url": "https://zxpress.ru/article.php?id=12155",
+  "fetched_at": "2026-05-31T23:03:54Z"
+}

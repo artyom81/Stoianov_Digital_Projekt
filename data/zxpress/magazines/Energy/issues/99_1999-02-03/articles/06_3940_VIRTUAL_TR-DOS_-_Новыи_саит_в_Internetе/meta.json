@@ -1,0 +1,15 @@
+{
+  "magazine_id": 67,
+  "magazine_name": "Energy",
+  "city": null,
+  "country": null,
+  "issue_label": "99",
+  "issue_date_iso": "1999-02-03",
+  "order": 6,
+  "article_id": 3940,
+  "title_link": "VIRTUAL TR-DOS - Новый сайт в Internet'е.",
+  "title_h1": "Energy 99 - VIRTUAL TR-DOS - Новый сайт в Internet'е.",
+  "print_url": "https://zxpress.ru/print.php?id=3940",
+  "article_url": "https://zxpress.ru/article.php?id=3940",
+  "fetched_at": "2026-05-31T22:02:49Z"
+}

@@ -1,0 +1,115 @@
+Subliminal Extacy 02 - Playing With The Index Registers
+Playing With The Index Registers                
+                --------------------------------                
+                         By Bogie Of E-3                        
+                         ---------------                        
+NB: Some knowledge of m/c is needed for this article!!!         
+                                                                
+In this article I am going to tell you things about IX and IY   
+you NEVER knew.  In all the manuals and m/c books that I have   
+seen, they state that IX and IY cannot be split up, i.e.        
+                             LD X,50                            
+is not possible to do.  But infact you CAN do this!!!           
+                                                                
+I started looking into this when ICABOD told me that he had     
+found out (via the internet) that there are ways of doing this. 
+So I decided to look further into how IX and IY work!!!  All    
+that the IX and IY do is take the op-code for HL and prefix it  
+with #DD for IX and #FD for IY.
+
+For convenience I shall call the hi byte of IX hX and the low   
+byte of IX X. I shall only use IX today but if you wish to use  
+IY then just change #DD to #FD!!!!                              
+                                                               
+For a small example type this into yor assembler and PRINT USR  
+the address to which you assemble it to!!!                      
+                                                                
+       LD IX,0       
+       LD HL,65535   
+       DEFB #DD      
+       LD L,50       
+       PUSH IX       
+       POP BC        
+       RET           
+                                                               
+Because it looks like I don't change IX in anyway, you would    
+expect 0 to be printed.  But infact 50 is printed!!!!  This is  
+due to 'Prefixing' LD L,50 by #DD, which changes it into        
+LD X,50.  Which apparantly is impossible!!!!!                   
+                                                                
+It is also possible to LoaD hX and X by other registers!!!!     
+                                                                
+       LD IX,0                                                 
+       LD DE,12345   
+       DEFB #DD                                               
+       LD H,D                                                 
+       DEFB #DD                                               
+       LD L,E                                                 
+       PUSH IX                                                
+       POP BC                                                 
+       RET
+                                                                
+If you PRINT USR then 0 will not be Printed but infact  2345    
+will be printed!!  This is because this is what you have really 
+DONE:                                                        
+      LD IX,0                                               
+      LD DE,12345                                            
+      LD hX,D                                                
+      LD X,E                                                
+      PUSH IX                                               
+      POP BC                                                
+      RET                                                       
+Which your assembler will not be able to cope with because      
+according to Sinclair Research, is NOT possible!!  There are    
+some LD X,r which I have yet to find out how to do, these are:  
+                                                               
+      LD X,Y                                                
+      LD hX,Y                                               
+      LD X,hY                                               
+      LD hX,hY                                              
+      LD X,H                                               
+      LD X,L                                               
+      LD hX,H                                                
+      LD hX,L                                                   
+These maybe possible but not in an easy to understand way, but  
+if ICABOD can find the informtion on the internet again, then   
+maybe he can update us in the next issue of Subliminal Extacy   
+                                                                
+You can also use hX and X in logic operations, for example:     
+                                                                
+      LD IX,0                                                  
+      DEFB #DD                                                 
+      LD L,69                                               
+      LD L,0                                                
+      LD A,69                                               
+      DEFB #DD                                              
+      AND L                                                
+      DEFB #DD                                              
+      LD L,A                                               
+      PUSH IX                                              
+      POP BC                                                   
+      RET                                                       
+What this does is LoaD X,69                                     
+                  LoaD A,69                                     
+                  And X                                         
+So 69 And 69 = 69, so 69 will be printed with PRINT Usr.        
+                                                                
+I hope you can understand this article but just incase here is a
+basic run down of this article:                                 
+                                                                
+DEFB #DD  LD H,n  =  LD hX,n                                   
+DEFB #DD  LD H,r  =  LD hX,r                                   
+DEFB #DD  LD L,n  =  LD X,n                                    
+DEFB #DD  LD L,r  =  LD X,r                                  
+DEFB #DD  AND H   =  AND hX                                  
+DEFB #DD  AND L   =  AND X                                  
+DEFB #DD  OR H    =  OR hX    
+DEFB #DD  OR L    =  OR X                                   
+DEFB #DD  XOR H   =  XOR hX                                  
+DEFB #DD  XOR L   =  XOR X                                  
+DEFB #DD  INC H   = INC hX                                 
+DEFB #DD  INC L   =  INC X                                     
+DEFB #DD  DEC H   =  DEC hX                                    
+DEFB #DD  DEC L   =  DEC X                                      
+                                                               
+That's all for now, happy coding.                  Bogie of E-3!

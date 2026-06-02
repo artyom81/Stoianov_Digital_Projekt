@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1579,
+    "article_url": "https://zxpress.ru/article.php?id=1579",
+    "print_url": "https://zxpress.ru/print.php?id=1579",
+    "title_link": "Non Possumus - Сеть... Что же это такое на самом деле?",
+    "order": 1,
+    "issue_label": "32",
+    "short_slug": "Non_Possumus_-_Сеть_Что_же_это_такое_на_самом_деле"
+  },
+  {
+    "article_id": 1580,
+    "article_url": "https://zxpress.ru/article.php?id=1580",
+    "print_url": "https://zxpress.ru/print.php?id=1580",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Nicron 112-113, Полесье 11, ZX-News 49, Born Dead 0D.",
+    "order": 2,
+    "issue_label": "32",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Nicron_112-113_Полесье_11"
+  },
+  {
+    "article_id": 1575,
+    "article_url": "https://zxpress.ru/article.php?id=1575",
+    "print_url": "https://zxpress.ru/print.php?id=1575",
+    "title_link": "Вся жизнь игра - Операция Р.Р. (окончание Приключения последнего).",
+    "order": 3,
+    "issue_label": "32",
+    "short_slug": "Вся_жизнь_игра_-_Операция_РР_окончание_Приключения_последнег"
+  },
+  {
+    "article_id": 1578,
+    "article_url": "https://zxpress.ru/article.php?id=1578",
+    "print_url": "https://zxpress.ru/print.php?id=1578",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Работа с внешними устройствами. Чтение данных из порта. Команды записи в порт.",
+    "order": 4,
+    "issue_label": "32",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Работа_с_внешними_устроис"
+  },
+  {
+    "article_id": 1576,
+    "article_url": "https://zxpress.ru/article.php?id=1576",
+    "print_url": "https://zxpress.ru/print.php?id=1576",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "32",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1577,
+    "article_url": "https://zxpress.ru/article.php?id=1577",
+    "print_url": "https://zxpress.ru/print.php?id=1577",
+    "title_link": "Рубрика X - Торжественная поинтовка.",
+    "order": 6,
+    "issue_label": "32",
+    "short_slug": "Рубрика_X_-_Торжественная_поинтовка"
+  }
+]

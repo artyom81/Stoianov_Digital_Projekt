@@ -1,0 +1,479 @@
+Adventurer 14 - Scene - Democoders Questionnarie: best zx demo.
+Democoders Questionnarie
+elph/CPU                
+
+Many of us have their own favouri-
+te speccy demos: Forever, Shit
+For Brains, Dogma, Refresh... - I
+can proceed with the names but eve-
+rybody knows the first places of
+charts. Each of us finds something
+special in every particular demo,
+trying to perceive the atmosphere
+created by authors of the work.
+These impressions become deeper if
+you have your own experience of be-
+ing a creator. Today I've decided
+to ask some questions to the pe-
+ople, devoted themselves to demoma-
+king. Honestly, this idea was ta-
+ken by me from C64 zine Attitude,
+where Cactus/Oxyron made a sur-
+vey amongst the C64 democoders.
+I wanted to know the anwers on the
+same questions from speccy co-
+ders. So, this is a list of coders
+I could seize:
+
+Flying/Digital Reality     
+Poisoned Cyberjack/Triebkraft
+Vivid/Brainwave    
+sq/skrju    
+Fyrex/Mayhem    
+Rom&Fux/Progress
+D-Art/Fenomen
+Mad_rain/Fenomen
+Gasman/H-PRG
+
+And here are the questions:
+
+1. What effect and in what demo
+impressed you most of all?
+
+2. What fx is the best of yours?
+
+3. What is your favourite speccy
+demo?
+
+And now read the answers, I think
+it is interesting not only for me.
+
+1. What effect and in what demo
+impressed you most of all?
+
+Flying> Shock megademo from
+Ethanol Software Inc. (ESI), the
+part with the moving chessboard.
+It is the most impressive effect
+I've ever seen for sure (conside-
+ring only single effects). I remem-
+ber that shock I had when I saw it
+for the first time. I stared at
+that chessboard for a long time.
+This shock became greater when I
+discovered the control keys... :)
+
+CJ> It's hard to say at once... Ma-
+ny of demos impressed me much du-
+ring different periods of time
+Vibrations, Illusion, Trashe, Con-
+dommed, Power Up, Shit For
+Brains, Rage, Spirius, Refresh,
+Insane, Jam, Napalm, Dogma,
+Tryptomine Dreams, The Loop - he-
+re are the most outstanding ones.
+The strongest emotions caused Ref-
+resh, there was no 3D on
+Spectrum before this demo... The
+most impressive effect, I think,
+texturemapping with phong from Na-
+palm. I couldn't believe that it
+is possible on Spectrum. Besides,
+my Profi worked at 170% of speed
+in turbo mode, so it looked fine
+:) The techniques used in modern
+demos are more powerful now,
+but... it doesn't amaze me much :(
+So let's talk about the last centu-
+ries' effects.
+
+Vivid> To be honest, usually ef-
+fect impress me up to the moment
+when I understand how it was done
+and make it better. So I have to
+see the code level higher than
+I've reached. For example, i had
+saw the mirror rotator in GOA and
+Refresh, then in Tryptomine Dream
+I made it in multicolour at
+fullscreen. Then voxels from In-
+sane - I made the same in multico-
+lour in 3 ints. Phong from Napalm
+I made the analogue in Tryptomine
+Dream. And then 3D I realized in
+multicolour in Stellar Contour.
+
+Mandelbrot Fractal Zooming in the
+old pc demo Crystal Dreams-2.
+I made the same in multicolour on
+Spectrum. Show me the effect made
+on Spectrum and I will make it
+better. The thing that i want to
+make but I don't know how to reali-
+ze it to work fast is 3D bump
+(remember the cube from Refresh).
+It could be possible to make it
+with isometric surface if Z80 had
+a higher productivity. I think it
+would be too slow even with Flat
+shading, not only TMap.
+
+sq> Aha. As I understand, impressi-
+ve in code? Hm, honestly, i never
+thought of it, so I can't say
+anything about any single effect.
+I think the whole demo must
+impress, not the single effects,
+and if you like one effect and
+don't like another from the same
+demo - it is not right, perhaps.
+What I can remember just now, is
+tmap+phong from Napalm -the ef-
+fect with eye 'pulled' on a candy.
+Visually, I like toruses very
+much, that's why I like gouraud
+mapped torus from Refresh, phong
+mapped torus from Voodoo and a to-
+rus from Life Forms. Also I like
+zoomer from Melange - looks lo-
+vely. Recently released effects -
+a flower on a blank white screen
+from Inbetween. If talking about
+non_chunks effects, I like multico-
+lour by Vivid, very beautiful. His
+Doom from Stellar Contour is so-
+mething outstanding! But with all
+my love to chunks, I think that
+it's time to make non-chunks
+demos. However, don't listen to
+me, do what you like! Else, every-
+body will use white background and
+over a year it will bother everybo-
+dy as it was with chunks :)
+
+Fyrex> I like many things equally,
+so it's hard to choose one,...
+perhaps, the most technically
+impressive are the multicolour ef-
+fects from the latest Brainwave
+demo, Stellar Contour, as I re-
+member. I'm not a multicolour fan,
+but it looks funny there.
+
+Rom&Fux> Env from Refresh.
+
+D-Art> Sometimes ago I was wonde-
+red by voxel Mars from Over The
+Top, I've never seen the most rea-
+listic effect on Speccy.
+
+Mad_rain> The tunnel from
+YES1997. I've never seen so-
+mething like that before. Very in-
+teresting algorithm.
+
+Gasman> Probably the voxel
+landscape from 3SC's Insane
+(and later in Higher State). Usu-
+ally, demo effects don't just get
+invented - they borrow ideas from
+earlier demos, expanding on them,
+slowly evolving and pushing the bo-
+undaries a bit further. (For
+example, the famous multicolour
+part in Shock was just a develop-
+ment from a similar effect in NMI
+3.) But this time, Baze and As-
+tex brought us a completely new ef-
+fect, with all the possible tricks
+and tweaks already in place. It
+zooms, it spins, it has suspension
+bridges... and yet, as far as I
+can remember, this was the first
+time I'd ever seen real, fast, so-
+lid 3D on the Speccy.
+
+It's been copied several times by
+different  coders  (myself
+included...) but never so well as
+the original. It's especially
+impressive when you remember that
+1995-96 was a lull in the
+Spectrum's life, with Exodus being
+perhaps the only real innovators,
+and 3SC were still a new, relative-
+ly unknown group.
+
+2. What fx is the best of yours?
+
+Flying> It's hard to say... I
+ought to separate programming from
+the exterior beauty to answer the
+question. Moreover, the last thing
+is the desert of our (me and Arty)
+cooperation, cos the look of the
+effects from our demos was mainly
+Arty's contribution.
+
+However, I need to say, that usual-
+ly i'm not pleased with the quali-
+ty of my programming over the
+month since it has been done alre-
+ady (maybe somebody has the same
+feelings). And the code i reckon
+as the best code of myself usually
+is not in effects, but in the in-
+ner programm organization. So, I
+like Jam in a way it's organized
+on the level of sources, and so
+the Scenergy. If talking about the
+difficuilty of effects' code, I
+should mention my 512 bytes intro
+released at CAFe'2002 with the
+most perfect code that I ever
+made. I can say it for sure, that
+it's the almost only work that is
+optimized in it's size :) Visually
+(without noticing the code) I like
+very much: jumping crystall in 7th
+Reality; polygonal heart illumina-
+ted by the lamp and morphings in
+the end of Binary Love; final ani-
+mation in Forever (though I don't
+like to discuss Forever as the set
+of effects, it was planned and rea-
+lized as a whole and so it must be
+taken as complete product);
+another crystall in CC'999 invita-
+tion dentro; animation with dan-
+cing Arty and 'dotty medusa' in
+Jam, and of course, I think, our
+best intro from Doom pre-release
+(with dots, originally by Qu-
+ardax).
+
+CJ> The most powerful thing among
+_released_ effects is my
+3D-engine (Harm, Pneuma). I
+don't like to boast, however, it
+is faster for about 30% than that,
+made by Sair00s, in the same con-
+ditions, but it's capabilities are
+much lesser. For example, it has
+Gourad-shading for 15 tacts aga-
+inst standart in 26. I can't pick
+out any single effect, because the
+modern techniques (chunks, 3D) are
+commonly based on an engine. The
+most powerful _unreleased_ stuff -
+the engine of the game called Bom-
+berman, which was being made by
+me and GD/4D. Maybe someday it
+will be finished (???).
+
+Vivid> The first part of Stellar
+Contour - multicolour 'Wolf-kind'
+engine. The main feature is multi-
+colour and 16 fps. But Alone Coder
+gave an idea how to improve it up
+to 25 fps - to trace not every co-
+lumn of rays, but every second co-
+lumn and then to interpolate it.
+
+sq> Oops, I've made nothing by my-
+self, i'm always stealing the ef-
+fects :)) As people say :)) He-he.
+Really, the best effect of mine
+is, of course, 3D from Summermilk.
+By the way, i'll tell you a
+secret: actually, it's not slow,
+but fast enough. The reason why it
+is slowed down is the background -
+they are beind drawn too clumsy.
+Mmm... does anybody understand
+what I mean?
+
+Fyrex> I have nothing of this kind
+:)
+
+Rom&Fux> 3d engine (not released
+yet).
+
+D-Art> It's hard to say. I try do
+not make lame effects at all. When
+i'll finish Oxygen - you'll see.
+
+Mad_rain> In Livingstone 2
+intro (as I remember the name of
+the game) with something dropping
+on a text. It's not too diffi-
+cuilt, but looks funny.
+
+Gasman> The reflecting lake in Lo-
+sing Victoria. It was originally
+inspired by the Java applet that's
+used on loads of websites, but the
+idea of doing it on the Spectrum
+was an instant leap of the imagina-
+tion that I could only make by
+thinking about coding, design and
+graphics all at once. The same is
+probably true about the act of co-
+ding it and putting it in the demo
+everything was done by myself, wor-
+king from one vision (including
+drawing the picture, which is usu-
+ally my weak point...), so it pro-
+bably turned out much better than
+if it had been a group effort. Co-
+ding it was a big gamble - until
+the final bytes of code were
+there, I didn't know whether it wo-
+uld look realistic, or whether the-
+re would be enough processor time
+for it to work. Luckily it did,
+and my weeks of coding and pixel-
+ling weren't wasted...
+
+However, being fortunate enough to
+present this at Assembly is what
+makes this truly memorable for me.
+The applause it got from a stadium
+full of thousands of sceners is so-
+mething I'll never forget (even if
+the applause was started by Antti,
+the other Spectrum fan at the
+party ;-) )
+
+3. What is your favourite speccy
+demo?
+
+Flying> Certainly, Shit 4 Brainz
+by Progress. There's nothing more
+astonishing that this demo.
+Though, there are a lot of good
+speccy demos, which are amazing
+in different ways: one has really
+tough code (demos by RST7,
+Exploder, Sair00s, Vivid), one has
+outstanding design (4D, E-Mage
+and many others), one has the
+strongest psychological affection
+(as latest, The Loop and Summer-
+milk). I don't forget Shock mega-
+demo, Echology and some others -
+the classics. But all this demos
+look weaker than S4B for me, which
+contains every element of a good
+demo. One can disagree, but it's
+my constant opinion since seeing
+this demo at Enlight'97.
+
+CJ> Condommed by E-Mage -
+that's for sure!!! It was a real
+shock for me at that time - wonder-
+ful music, exellent design and, of
+course, code. Actually, even then
+the effects seemed to be not so
+difficuilt - now i'm still convin-
+ced in this, although their beauty
+is not the way they were made, but
+in originality and a brilliant syn-
+chronization with music. Techni-
+cally, I like not the effects, I
+like the details multiloader (the
+first one working fine), it's fix
+for different machines (i hate
+'Pentagon only' !!!), and of cour-
+se digital samples in music!!!
+unforgettable and incomparable
+thing!!!
+
+Now I know this demo by memory,
+though I watch it from time to
+time - just to relax and to remem-
+ber those good old days :)
+
+Vivid> Hard to say. The reason is
+that I have several favourite
+demos. It's, of course, Placebo's
+demos - Dogma, Lifeforms and
+Inbetween. Sair00s's code at that
+time was the level that everybody
+had try to reach.
+
+I like demos by Exploder - Power
+Up, Action, Refresh. This demos
+have no pauses and almost ideal
+code.
+
+sq> Condommed. It is still asto-
+nishing. Perhaps, somebody doesn't
+know, that KVA was 15 when he ma-
+de it with Rum (and, btw, 14 when
+he made Trashe :) but it's not the
+point. I think there are no such
+demos on Spectrum, which had that
+fine combination of story, code
+and design. And the soundtrack, i
+think, is of the best tracks on
+Speccy, moreover, I reckon music
+the main thing in demo.
+
+Fyrex> Dogma. Good effects,
+graphics, the story and so on.
+With comparison to Shit For Bra-
+ins - even then it had poor ef-
+fects, hackneyed theme, that was
+socially bored already. Anamnesis
+looks fine too, but it's good to
+watch it for no more than 3 times.
+
+Rom&Fux> Condommed by E-Mage
+
+D-Art> It's hard to choose only
+one demo. I've seen nothing good
+for years. From the old ones
+Power Up.
+
+Mad_rain> Dies Irae - classic,
+very beautiful and nice demo. So-
+mething like this I long for nowa-
+days.
+
+Gasman> Shit 4 Brains - probably
+the most influential ZX demo ever.
+One of the first trackmos on the
+Speccy, and certainly the one that
+inspired all trackmos after it...
+the Second Reality of the
+Spectrum scene? I think so. Even
+today, it's hard to find a demo
+which combines visuals and music
+quite so well as this one - that's
+certainly something I always try
+to achieve in my demos. Putting to-
+gether 5 minutes of fast-paced ef-
+fects to match the soundtrack must
+have taken an immense amount of
+work.
+
+The ending effects are, to me, one
+of the great moments of Speccy his-
+tory - the drums come to a stop,
+leaving behind an echoing melody
+as atmospheric as any Tim Follin
+composition, as we plunge into the
+whirlpool... truly breathtaking,
+especially on a party bigscreen.
+
+"We think it's enough"... it certa-
+inly is.
+
+
+elph> So, that's it. I think every-
+body noticed, that a best effect
+and a best demo are different con-
+ceptions, standing far away from
+each other even for those, who ma-
+de the art out of CODE.

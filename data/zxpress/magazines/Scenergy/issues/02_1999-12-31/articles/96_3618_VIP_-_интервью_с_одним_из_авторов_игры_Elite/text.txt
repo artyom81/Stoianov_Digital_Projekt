@@ -1,0 +1,239 @@
+Scenergy 02 - V.I.P. - интервью с одним из авторов игры Elite.
+TWICE CONFIRMED FROM THE AUTHORS - THERE IS NO RAXXLA
+no no we can't believe this anyway! by raver/phantasy
+
+Ofcourse! Raxxla exsists, we just have no possibility to land
+there. And these chaps are lying anyway. Because i did read in
+some old issue of ZX Review that some geek have found Raxxla
+after his power supply fucked up for a short while. Shit,
+probably nobody will experience such a PSU phenomena again but
+still i keep trying with mine, so far three PSU's are gone but
+who the hell cares? I mean i would be pleased to see a face of
+that lamer claiming to see Raxxla.
+Ahh as about interviews, the first one with David Braben was
+already published in previous issue, but i decided to include
+it here too as it is in english this time. And there also goes
+the promised interview with Ian Bell, the second half of Elite
+due. Also in english, go and learn language which is the right
+one for the scene.
+Else. These interested in The Lords interview english version
+should wait for the Subliminal Extacy #3 including a lot more
+quality articles in english!
+DAVID BRABEN
+
+[?] At first, please introduce our readers with yourself a bit!
+
+[!] I'm David Braben. I co-wrote Elite, wrote Virus, and
+Frontier. I then started Frontier Developments Ltd.
+
+[?] How and when did you started with computers and why you were
+involved with games making?
+
+[!] I got interested in computers when I was 17, an Acorn Atom.
+This was in about 1981.
+
+[?] What was your first big game project?
+
+[!] Elite. This was started in 1982, and released in 1984 on the
+BBC Micro.
+
+[?] Elite was revolutionary new game for 8 bit market. How do
+you think, why it was so succesful?
+
+[!] It was very different to the other games at the time, and it
+was pretty well the first 3D game.
+
+[?] What pushed you to continue Elite idea after nearly 10 years
+with Frontier on Amiga/PC/ST?
+
+[!] Frontier took a long time to write (5 and a half years), so
+it was really started only five years after Elite. In that gap,
+there were many different versions of Elite, and Also I did the
+games Lander, Zarch and Virus.
+
+[?] Why wasn't Frontier released on Speccy?
+
+[!] The Spectrum wasn't really up to doing the amount of work
+required for Frontier, particularly the amount of data. It was
+tricky enough putting it on the ST and Amiga.
+
+[?] What do you prefer - Amiga or PC?
+
+[!] The Amiga was better than the PC in its day, but now it has
+been left far far behind. So sadly I now prefer the PC.
+
+[?] What are your future plans and will there ever be released
+Elite clone game again?
+
+[!] Not sure what you mean by Elite clone. There was tons more
+in Frontier than in Elite - its funny that many people remember
+things that are in Frontier as being in Elite. I imagine there
+will be a future sequel to the Elite-Frontier-First Encounters
+sequence, but I'm currently in dispute with Gametek over
+problems with First Encounters.
+
+[?] A couple of years ago, when there on speccy scene was so
+much hype about Elite, some magazines wrote - there in game
+Elite is secret planet Raxxla. Is it true?
+
+[!] No.
+
+[?] What else secrets can be found in old 8 bit Elite versions?
+
+[!] Various missions, there was a secret ship you could find
+(called the Constrictor), there were "Rock Hermits" to be
+discovered in some versions.
+
+[?] What're doing nowadays your mate and elite co-author Ian
+Bell?
+
+[!] I don't know what he's up to now.
+
+[?] What's your opinion about games future and about Amiga and
+PC future?
+
+[!] PC future is very exiting. I'm not sure of the Amiga's
+future. I hope Gateway don't simply use is as a brand name for
+a graphic card or something.
+
+
+
+
+IAN BELL
+
+[?] This time i will start it unusual way: do you know that old
+eight bitters like c=64 and speccy are still alive? What do you
+think of these computers (& other eight bit machines) and which
+was the first computer you ever used?
+
+[!] I was not aware that these machines still generated any
+interest. The first computer i used was, IIRC, a Radio Shack
+TRS-80. The first i owned was the excellent BBC Micro (B).
+I quite liked the C64.
+
+[?] Are these of any interest for you? Or do you completely
+moved to modern technologies?
+
+[!] No. I'm interested in the current (and likely future) mass
+market machines, whatever they may be.
+
+[?] Please tell us the story of Elite - how it started, what was
+the inital idea and why it became so succesful multiplatform
+game?
+
+[!] The idea of a first person wireframe 3D space combat game
+was obvious to us, and others, at that time. We just decided to
+do it. As i recall, the addition of trading as a rationale came
+later. Our main worry was that someone else would beat us to it.
+It was so succesful because it was substantially unlike anything
+else at the time. It was the next step. Further, it was very
+skillfully packaged and marketed by Acornsoft and, on the BBC,
+was perhaps not competing with as many games as it would have
+been had it been first released on another platform. People who
+had BBC Micro home computers initially had them, by and large,
+to program on (in theory if not in practice). It was a smart
+audience that appreciated a challenging game. The reviewers
+almost all loved it and it just took off.
+
+[?] Which one is the best Elite version in your opinion?
+
+[!] NES. (ed: it's eight bit console, better known in ex-USSR
+from clones such as Dandy, Zhiloton, Ufo etc)
+
+[?] Are there any special differences?
+
+[!] Pre-game practice combat sequence. Icon strip replacing
+keyboard controls. Pretty pictures and nice music.
+
+[?] What secrets can be found in eight bit Elite versions? What
+are difference between them and does in any of these exist a
+planet named Raxxla?
+
+[!] I don't know. The missions vary across the platforms. There
+is no Raxxla functionality in the 6502 versions AFAICR.
+
+[?] What are you doing nowadays, any software making activities?
+
+[!] I've been working on a new game for a long time now.
+Recently i have been developing various dynamic texture
+algorithms (fire, water, etc.) for PS Unreal.
+
+[?] Can you tell a bit more about the game you're working on?
+
+[!] Its not a space sim. Its a whole new genre AFAIK. Thats all
+i'm saying.
+
+[?] When i interviewed David Braben i asked what are doing his
+mate (you) at present time and he said he don't know. You are
+not keeping in touch anymore?
+
+[!] No.
+
+[?] Is there any particular reason for it and for the fact that
+David continued Elite with Frontier and you not?
+
+[!] See:
+
+http://www.gamesdomain.co.uk/gdreview/archive/iview003.html
+http://www.ndirect.co.uk/~law/ispdefr.htm#innocent
+
+(ed: some copyrights disagreement and conflict in general
+between former partners)
+
+[?] 3D is the thing which invades every genre of games today,
+how do you like this trend?
+
+[!] Its to be expected. Games mimic life and life is percieved
+as 3D.
+
+[?] But is it right to turn every genre into 3D? Everything we
+had before as 2D we now get in three dimensions. Where are the
+cute platformers, shoot'em up's and mazes, which originally was
+2D only (no it's not only for the nostalgy)?
+
+[!] I didn't say it was right. I said it was to be expected.
+
+[?] Is PC the gaming future, or maybe it's up to consoles? What
+are your expectations on amiga comeback?
+
+[!] Amiga's chances are nil IMHO, though i wouldn't describe my
+opinion as informed. PCs and consoles will meet in some sort
+of ungodly home info/game-station wired in to the Internet and
+most likely with state surveillance capabilities.
+
+[?] If only companies will drop their egos and will sort out the
+business things.
+
+[!] Companies exsist to make money.
+
+[?] What are the main things to create the right atmosphere in
+game?
+
+[!] Consistency. Responsiveness. Aesthetics. Audio.
+
+[?] What are your favorite games of all time then and on which
+platforms?
+
+[!] Chuckie Egg (BBC). Elite (BBC/NES). Starship Command (BBC). Gauntlet
+(arcades).
+
+[?] I've heard you are DJing now, what music do you like
+spinning and listening to?
+
+[!] Psychaedelic intelligent layered trance and mellow ambient.
+
+[?] How do you think does coders nowadays use all available
+resources of machines? does they optimize they code to get
+best performance?
+
+[!] I think few coders use all available resources optimally.
+Optimised INTEL assembly is an increasingly arcane and black
+art. With increased resources folk get away with greater wastage
+and inefficiencies. To a certain extent this is what increased
+resources are for.
+
+[?] What are your opinion about software piracy and the
+"cracking scene", is it harming software market very much?
+
+[!] I haven't kept up with events enough to have an informed
+opinion.

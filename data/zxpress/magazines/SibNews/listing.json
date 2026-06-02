@@ -1,0 +1,44 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "2017-05-27",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "2017-06-04",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "2017-06-12",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "2017-07-25",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "2017-09-17",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "06",
+      "issue_date_iso": "2017-10-31",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "07",
+      "issue_date_iso": "2017-12-28",
+      "articles_count": 4
+    },
+    {
+      "issue_label": "08",
+      "issue_date_iso": "2018-01-01",
+      "articles_count": 5
+    }
+  ]
+}

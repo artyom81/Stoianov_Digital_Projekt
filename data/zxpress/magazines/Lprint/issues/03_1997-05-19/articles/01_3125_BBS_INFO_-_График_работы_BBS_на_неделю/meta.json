@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-05-19",
+  "order": 1,
+  "article_id": 3125,
+  "title_link": "BBS INFO - График работы BBS на неделю.",
+  "title_h1": "Lprint 03 - BBS INFO - График работы BBS на неделю.",
+  "print_url": "https://zxpress.ru/print.php?id=3125",
+  "article_url": "https://zxpress.ru/article.php?id=3125",
+  "fetched_at": "2026-05-31T22:20:28Z"
+}

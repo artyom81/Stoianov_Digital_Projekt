@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 32,
+    "article_url": "https://zxpress.ru/article.php?id=32",
+    "print_url": "https://zxpress.ru/print.php?id=32",
+    "title_link": "B.B.S. Новости - Анкета от фирмы Limesoft.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "BBS_Новости_-_Анкета_от_фирмы_Limesoft"
+  },
+  {
+    "article_id": 2023,
+    "article_url": "https://zxpress.ru/article.php?id=2023",
+    "print_url": "https://zxpress.ru/print.php?id=2023",
+    "title_link": "Moзаика - O установке счетчиков АТС.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Moзаика_-_O_установке_счетчиков_АТС"
+  },
+  {
+    "article_id": 2019,
+    "article_url": "https://zxpress.ru/article.php?id=2019",
+    "print_url": "https://zxpress.ru/print.php?id=2019",
+    "title_link": "ZXNet - Устав телекоммуникационной сети ZXNet.",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "ZXNet_-_Устав_телекоммуникационнои_сети_ZXNet"
+  },
+  {
+    "article_id": 2021,
+    "article_url": "https://zxpress.ru/article.php?id=2021",
+    "print_url": "https://zxpress.ru/print.php?id=2021",
+    "title_link": "Застрял ? - Oписание игры \"Castle Master 2 (The Crypt)\".",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Застрял_-_Oписание_игры_Castle_Master_2_The_Crypt"
+  },
+  {
+    "article_id": 2020,
+    "article_url": "https://zxpress.ru/article.php?id=2020",
+    "print_url": "https://zxpress.ru/print.php?id=2020",
+    "title_link": "Новье !? - О программах : Страна Мифов, Поле чудес, 48 утюгов,\r\n Indiana Jones and the Fate of Atlantis, The Neverending Story 2, King Kong.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Новье_-_О_программах_Страна_Мифов_Поле_чудес_48_утюгов_India"
+  },
+  {
+    "article_id": 2022,
+    "article_url": "https://zxpress.ru/article.php?id=2022",
+    "print_url": "https://zxpress.ru/print.php?id=2022",
+    "title_link": "Опрос - Анкетирование пользователей BBS.",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Опрос_-_Анкетирование_пользователеи_BBS"
+  }
+]

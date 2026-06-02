@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-03-19",
+  "order": 1,
+  "article_id": 10330,
+  "title_link": "От редакции - мне пpислали новую плату контpоллеpа\r\nпpинтеpа МС 6312.",
+  "title_h1": "City 04 - От редакции - мне пpислали новую плату контpоллеpа пpинтеpа МС 6312.",
+  "print_url": "https://zxpress.ru/print.php?id=10330",
+  "article_url": "https://zxpress.ru/article.php?id=10330",
+  "fetched_at": "2026-05-31T21:50:04Z"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 9595,
+    "article_url": "https://zxpress.ru/article.php?id=9595",
+    "print_url": "https://zxpress.ru/print.php?id=9595",
+    "title_link": "От авторов - Прошел целый год с тех пор, как мы оставили сцену.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_авторов_-_Прошел_целыи_год_с_тех_пор_как_мы_оставили_сцен"
+  },
+  {
+    "article_id": 9596,
+    "article_url": "https://zxpress.ru/article.php?id=9596",
+    "print_url": "https://zxpress.ru/print.php?id=9596",
+    "title_link": "Новости - новые программы: \"Временные войны\", Micro Studio, Universal Sprite Studio, Pro Tracker 2.4 Decompiler. Новости от: Unit 5, Flash, Omega Hackers Group, Global Corp., Code Busters.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новые_программы_Временные_воины_Micro_Studio_Unive"
+  },
+  {
+    "article_id": 9597,
+    "article_url": "https://zxpress.ru/article.php?id=9597",
+    "print_url": "https://zxpress.ru/print.php?id=9597",
+    "title_link": "Презентация - Ваааау! Свершилось! Accept copr доделали карточную игру \"Козел\".",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Презентация_-_Ваааау_Свершилось_Accept_copr_доделали_карточн"
+  },
+  {
+    "article_id": 9598,
+    "article_url": "https://zxpress.ru/article.php?id=9598",
+    "print_url": "https://zxpress.ru/print.php?id=9598",
+    "title_link": "Интервью - интервью с main coder'ом города Оболенска: Steel Dragon.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Интервью_-_интервью_с_main_coderом_города_Оболенска_Steel_Dr"
+  },
+  {
+    "article_id": 9599,
+    "article_url": "https://zxpress.ru/article.php?id=9599",
+    "print_url": "https://zxpress.ru/print.php?id=9599",
+    "title_link": "IS-DOS - процедура экранной заставки для IS-DOS. Процедуры проявления экрана.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "IS-DOS_-_процедура_экраннои_заставки_для_IS-DOS_Процедуры_пр"
+  },
+  {
+    "article_id": 9600,
+    "article_url": "https://zxpress.ru/article.php?id=9600",
+    "print_url": "https://zxpress.ru/print.php?id=9600",
+    "title_link": "Ментура - описание малоизвестной адвентюры \"Ментура\".",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Ментура_-_описание_малоизвестнои_адвентюры_Ментура"
+  },
+  {
+    "article_id": 9601,
+    "article_url": "https://zxpress.ru/article.php?id=9601",
+    "print_url": "https://zxpress.ru/print.php?id=9601",
+    "title_link": "Эпилог - авторы газеты.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Эпилог_-_авторы_газеты"
+  },
+  {
+    "article_id": 10977,
+    "article_url": "https://zxpress.ru/article.php?id=10977",
+    "print_url": "https://zxpress.ru/print.php?id=10977",
+    "title_link": "Технодром 2 - схема расширение видеоредима для 512 x 192 (Scorpion Trubo).",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Технодром_2_-_схема_расширение_видеоредима_для_512_x_192_Sco"
+  },
+  {
+    "article_id": 11315,
+    "article_url": "https://zxpress.ru/article.php?id=11315",
+    "print_url": "https://zxpress.ru/print.php?id=11315",
+    "title_link": "Открытие - Мифы и реальность компьютера PC. Компьютер - наша надежда, наше спасение, волшебник, герой ...",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Открытие_-_Мифы_и_реальность_компьютера_PC_Компьютер_-_наша"
+  },
+  {
+    "article_id": 1701,
+    "article_url": "https://zxpress.ru/article.php?id=1701",
+    "print_url": "https://zxpress.ru/print.php?id=1701",
+    "title_link": "Этюды - Программа очистки заданного окна экрана.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Этюды_-_Программа_очистки_заданного_окна_экрана"
+  },
+  {
+    "article_id": 17275,
+    "article_url": "https://zxpress.ru/article.php?id=17275",
+    "print_url": "https://zxpress.ru/print.php?id=17275",
+    "title_link": "Разное - Еmрlаstrum аdhаesivum.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Еmрlаstrum_аdhаesivum"
+  },
+  {
+    "article_id": 18207,
+    "article_url": "https://zxpress.ru/article.php?id=18207",
+    "print_url": "https://zxpress.ru/print.php?id=18207",
+    "title_link": "Музыка - Снова о плейерах Pro Tracker 3.x",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Музыка_-_Снова_о_плеиерах_Pro_Tracker_3x"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1997-09-14",
+  "order": 2,
+  "article_id": 12382,
+  "title_link": "Новости - Вышла новая газета NEXT.",
+  "title_h1": "Lprint 18 - Новости - Вышла новая газета NEXT.",
+  "print_url": "https://zxpress.ru/print.php?id=12382",
+  "article_url": "https://zxpress.ru/article.php?id=12382",
+  "fetched_at": "2026-05-31T22:21:20Z"
+}

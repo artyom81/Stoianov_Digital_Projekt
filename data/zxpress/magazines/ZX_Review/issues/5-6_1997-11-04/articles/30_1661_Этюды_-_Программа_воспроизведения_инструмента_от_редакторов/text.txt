@@ -1,0 +1,119 @@
+ZX Review 5-6 - Этюды - Программа воспроизведения инструмента от редакторов оцифрованной музыки.
+(c) Назаров Дмитрий, г.Тюмень
+Программа  воспроизводит  ин-
+струмент от музыкальных редакто-
+ров SAMPLER, INSTRUMENT, DIGITAL
+STUDIO и других редакторов оциф-
+рованной музыки. Программа напи-
+сана на ассемблере MASM1.1.
+140.
+; WARLOCK SYSTEM3 22.12.96
+
+          ORG     30000
+
+          LD      A,#0D
+          LD      HL,OZIW
+          LD      DE,20000
+          LD      (OZIW).A
+          LD      (L1),HL
+          LD      (L2),DE
+          XOR     A
+          LD      C,A
+          CALL    LOOP
+          INC     C
+          XOR     A
+          CALL    LOOP
+          LD      A,#3E
+          LD      C,#07
+          CALL    LOOP
+          EXX
+          LD      BC,#BFFD
+          EXX
+          LD      BC,#FFFD
+          LD      HL,OZIW
+L1        EQU     $-2
+          LD      DE,#0DE8
+L2        EQU     $-2
+M1        PUSH    DE
+          LD      D,#08
+          OUT     (C),D
+          LD      A,(HL)
+          RRCA
+          RRCA
+          RRCA
+          RRCA
+          AND     #0F
+          EXX
+          OUT     (C),A
+          EXX
+          INC     D
+          OUT     (C),D
+          EXX
+          OUT     (C),A
+          EXX
+          INC     D
+          OUT     (C),D
+          EXX
+          OUT     (C),A
+          EXX
+          LD      A,(OZIW)
+L3        DEC     A
+          JP      NZ,L3
+          PUSH    HL
+          POP     HL
+          RRCA
+          RRCA
+          RRCA
+          LD      A,(HL)
+          RRCA
+          RRCA
+          RRCA
+          RRCA
+          AND     #0F
+          EXX
+          OUT     (C),A
+          EXX
+          DEC     D
+          OUT     (C),D
+          EXX
+          OUT     (C),A
+          EXX
+          DEC     D
+          OUT     (C),D
+          EXX
+          OUT     (C),A
+          EXX
+          LD      A,(OZIW)
+L4        DEC     A
+          JP      NZ,L4
+          INC     HL
+          POP     DE
+          DEC     DE
+          LD      A,D
+          OR      E
+          JR      NZ,M1
+          XOR     A
+          LD      C,#08
+          CALL    LOOP
+          INC     C
+          XOR     A
+LOOP      PUSH    BC
+          PUSH    DE
+          LD      D,C
+          LD      BC,#FFFD
+          OUT     (C),D
+          LD      B,#8F
+          OUT     (C),A
+          POP     DE
+          POP     BC
+          RET
+
+OZIN  ; начиная  с  этого адреса
+должен располагаться инструмент.
+2
+Основная часть была взята  из
+музыкального  редактора  DIGITAL
+STUDIO. Это сейчас самый  крутой
+редактор оцифрованной музыки  на
+ZX.
+*   *   *

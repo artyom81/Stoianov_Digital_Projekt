@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 5781,
+    "article_url": "https://zxpress.ru/article.php?id=5781",
+    "print_url": "https://zxpress.ru/print.php?id=5781",
+    "title_link": "От редактора - о свадьбе главного реадктора и других событиях.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "От_редактора_-_о_свадьбе_главного_реадктора_и_других_события"
+  },
+  {
+    "article_id": 5782,
+    "article_url": "https://zxpress.ru/article.php?id=5782",
+    "print_url": "https://zxpress.ru/print.php?id=5782",
+    "title_link": "Обзор новья - пресса: Generation Z #01, Body #37-#3a, Lamergy, Psychoz #6-#8, Buzz #20, Chart #3, Depress #0-#1, Nicron 124, NetSpec info #1. Софт: RIP v0.21, Alasm v4.44, Real Commander v2.3.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Обзор_новья_-_пресса_Generation_Z_01_Body_37-3a_Lamergy_Psyc"
+  },
+  {
+    "article_id": 5783,
+    "article_url": "https://zxpress.ru/article.php?id=5783",
+    "print_url": "https://zxpress.ru/print.php?id=5783",
+    "title_link": "Новый Спектрум - разработка нового клона Спектрума почти завершена.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Новыи_Спектрум_-_разработка_нового_клона_Спектрума_почти_зав"
+  },
+  {
+    "article_id": 5784,
+    "article_url": "https://zxpress.ru/article.php?id=5784",
+    "print_url": "https://zxpress.ru/print.php?id=5784",
+    "title_link": "Разборки - краткое описание очень оригинальной игры Night\r\nShift (ночная смена).",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Разборки_-_краткое_описание_очень_оригинальнои_игры_NightShi"
+  },
+  {
+    "article_id": 5785,
+    "article_url": "https://zxpress.ru/article.php?id=5785",
+    "print_url": "https://zxpress.ru/print.php?id=5785",
+    "title_link": "О всем про все - Музыка Led Zeppelin.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "О_всем_про_все_-_Музыка_Led_Zeppelin"
+  },
+  {
+    "article_id": 5786,
+    "article_url": "https://zxpress.ru/article.php?id=5786",
+    "print_url": "https://zxpress.ru/print.php?id=5786",
+    "title_link": "О всем про все - \"Проклятые места России\".",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "О_всем_про_все_-_Проклятые_места_России"
+  },
+  {
+    "article_id": 5787,
+    "article_url": "https://zxpress.ru/article.php?id=5787",
+    "print_url": "https://zxpress.ru/print.php?id=5787",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

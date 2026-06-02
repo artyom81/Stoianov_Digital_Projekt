@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EndpointDescription
+    xmlns="http://clarin.eu/fcs/endpoint-description"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="2">
+
+  <Capabilities>
+    <Capability>http://clarin.eu/fcs/capability/basic-search</Capability>
+  </Capabilities>
+
+  <SupportedDataViews>
+    <SupportedDataView id="kwic" delivery-policy="send-by-default">
+      application/x-clarin-fcs-kwic+xml
+    </SupportedDataView>
+    <SupportedDataView id="hits" delivery-policy="send-by-default">
+      application/x-clarin-fcs-hits+xml
+    </SupportedDataView>
+  </SupportedDataViews>
+
+  <SupportedLayers>
+    <SupportedLayer id="text" result-id="text">text</SupportedLayer>
+  </SupportedLayers>
+
+  <Resources>
+    <Resource pid="zx-corpus">
+      <Title xml:lang="en">ZXPress Corpus</Title>
+      <Description xml:lang="en">
+        Digital corpus of Russian ZX Spectrum disk magazines and related articles.
+      </Description>
+      <LandingPageURI>https://zxpress.ru</LandingPageURI>
+      <Languages>
+        <Language>rus</Language>
+        <Language>eng</Language>
+        <Language>deu</Language>
+      </Languages>
+      <AvailableDataViews ref="kwic hits"/>
+      <AvailableLayers ref="text"/>
+    </Resource>
+  </Resources>
+</EndpointDescription>

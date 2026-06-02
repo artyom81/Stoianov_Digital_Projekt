@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 16251,
+    "article_url": "https://zxpress.ru/article.php?id=16251",
+    "print_url": "https://zxpress.ru/print.php?id=16251",
+    "title_link": "О журнале - О Dune 3.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "О_журнале_-_О_Dune_3"
+  },
+  {
+    "article_id": 16252,
+    "article_url": "https://zxpress.ru/article.php?id=16252",
+    "print_url": "https://zxpress.ru/print.php?id=16252",
+    "title_link": "Игры - Описание Elven warrior.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Игры_-_Описание_Elven_warrior"
+  },
+  {
+    "article_id": 16253,
+    "article_url": "https://zxpress.ru/article.php?id=16253",
+    "print_url": "https://zxpress.ru/print.php?id=16253",
+    "title_link": "Poke`s - Puzznic, Rive Raid, Draconus, Batty, Turtles, Elven warrior, Bagdad, Fast food, Motos, N.O.M.A.D., Zolix, Crosswize.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Pokes_-_Puzznic_Rive_Raid_Draconus_Batty_Turtles_Elven_warri"
+  },
+  {
+    "article_id": 16254,
+    "article_url": "https://zxpress.ru/article.php?id=16254",
+    "print_url": "https://zxpress.ru/print.php?id=16254",
+    "title_link": "Юмор - Комикс. Анекдот.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Юмор_-_Комикс_Анекдот"
+  }
+]

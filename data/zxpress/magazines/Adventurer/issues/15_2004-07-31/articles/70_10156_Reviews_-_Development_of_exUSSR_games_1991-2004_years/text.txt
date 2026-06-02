@@ -1,0 +1,1812 @@
+Adventurer 15 - Reviews - Development of exUSSR games (1991-2004 years).
+Development of exUSSR games     
+Chasm/CyberPunks Unity          
+
+ Development of exUSSR game
+ industry
+
+by chasm/cpu
+
+I think, this article will be interes-
+ting especially for our foreign fri-
+ends, and also for all newcomers
+who know nothing about Spectrum
+ten or more years ago. It is impos-
+sible to completely review all games
+that was produced during 1991-2
+003 (because most of them weren't
+good enough), so I decided to speak
+about the most popular games of
+this times.
+
+It is known that major development
+of Russian Spectrum started in end
+of 80th last century when perestro-
+ika was going on as quick as pos-
+sible. Some foreign magazines peri-
+odically broke information starva-
+tion, which still existed. But of coz
+it was hardly to get them, except,
+maybe "Bajtek" from Poland. There
+wasn't any kind of links between
+spectrum users and the appearan-
+ce of paper "Zx-Review" had explo-
+ded the ice, which locked minds of
+spectrum people. Army of readers
+incr eased from day to day, because
+that time there weren't much edu-
+cated people, and authors looked
+pretty enough to be cyber gods.
+
+Some simple BASIC routines started
+to appear on pages of "Review"
+when authors created a section
+about programming and began to te-
+ach readers not just to play. As the
+result some people started to make
+programs on assembler. Of coz the-
+re w ere some good work in late
+80th, for example we can take
+"Pentis" by Tony Raugas, this game
+consists of standard tetris and two
+additional pentis and petris. For
+comparison it had figures made of
+some more blocks. And we can
+rightly call it the first Russian game
+for spectrum. In early 90th some
+other tetrislike games were pro-
+duced. The most interesting from
+bare tetrises were "Stek" by MPF,
+"Columns" by Piter ltd и "Tetriller"
+by A.C.E. - the conversion from PC.
+Another one popular type of games
+was strategic and economic. The
+best were: "The Euphoria Kingdom"
+("Королевство Эйфория" - as if we
+have some Russian names I'll try to
+translate them and in the brackets
+there will be Russian letters) by
+Silva, "Prezident 2" by Oleg Ki-
+rasov, "Super President" by Bala-
+ganoff, "The kingdom of grain"
+(Королевство Зерна) by THD, "Space
+Trade" by Pavel Nikitin, and the
+first Russian arcade for two play-
+ers "Cowboy Duel" by D.J. Stepa-
+nenko.
+
+The most famous Russian gamema-
+ker Vecheslav Mednonogov aka Cop-
+per Feet started his career that
+time. He produced three games du-
+ring 1991: "Durak" - the computer
+release of card game, "Videosport"
+the soviet game console imitator
+and "Game Box" - the collection of
+minigames, the last two games were
+written by his brother Alexej who
+would take part in all other works of
+Copper Feet. In 1992 he released
+"Tankodrom" (Танкодром) good ar-
+cade with elements of strategy, and
+in 11 1993 "The adventures of Bu-
+ratino" ("Приключения Буратино")
+the first Russian arcade/adventure
+game.
+
+1993 brought a vogue for logic
+games. And people who did it were
+THD & Fanatic Stas. They produced a
+line of logic games: "Slab Age",
+"Squares Colours", "Tube Mix",
+"Watermill" and also "Russian
+Tetris" ("Русский тетрис").
+
+Among other games produced in
+1993 we can call: "King's Bounty" by
+Yarosh R., Zelenkevich D. - the con-
+version of famous game, "Power
+Ball" by Flash - very original ver-
+sion of "Arcanoid", "Hell Master" by
+Paul Nikitin -a-la "Boulder Dash",
+"Tetcolor" By Krasnoyarsk Soft -
+mixture of "Tetris" and "Columns",
+"SexTris" by Russian Soft - the first
+logic/arcade game where erotic pic-
+tures were used.
+
+But the real sensation of 93 was the
+appearance of several new version
+of cult game for all Russian players
+"Elite". That time lots of people
+tried to improve this game, among
+them we can pick out the first remix
+from THD, but it was buggy and lame,
+so it was hard to play it with com-
+fort. Later Vladimir Kladov aka Sha-
+dow Soft conquered the minds of all
+"elite" players with new much much
+better version of game, it was very
+good rewritten, and it contained
+some more additional features,
+which made it more playable than
+firm version. Also its difficulty was
+on higher level, because the engine
+was modified there appeared plenty
+of new gameplay features like new
+ships and etc. New equipment was
+added to Cobra MK-3, it allowed to
+travel from star to star using in-
+terstars space and to save hy-
+perdrive. It'll took too much space
+here to count all new features and
+improvements of "Elite 3", it will be
+enough if I say that except three
+standard secret miss ions author
+added another four: "mineral life"
+task is to find and explore mineral
+forms of life, "Alien Computer" - to
+complete this mission you should
+get the alien items and new genera-
+tion spaceship "Cobra MK-4" where
+you can set up more equipments.
+Next mission is "Star Wars". It is an
+emulation of great war between men
+and thargoids including the rescue
+operations, cargo delivering mis-
+sions, missions where you should
+bring a squad of troops to the ene-
+my station in the deep space, if you
+agreed to take part in this operati-
+ons you might get military rank up
+to colonel.
+
+Shadow soft showed his desire to
+make "Elite 4". The further moder-
+nization of game where secret mis-
+sions would load from disk and so
+on. Unfortunately this project had
+lost in time.
+
+The publishers of ZX-Review - Infor-
+kom in 1994 started a new project
+called "Author's program" and till
+the end of year it had brought some
+good results. The side-firm of Infor-
+kom - 'Formak' began to sell compila-
+tions of games and system progs
+which had been sent to ZX-Review
+from all over the country and near-
+by regions, but level of program-
+ming and gameplay wasn't high.
+
+However there were some games
+which differed from other heaps, li-
+ke action games: "Main Blow" by
+Chip, "Special Forces" ("Отряд
+быстрого реагирования") by
+Chip&Rocky, "Mini Fly" by Galaxy
+and "Fire Gear" by TM'M - the first
+Russian action game with multilevel
+structure and introduction and fi-
+nal cut.
+
+The love of all Russian players to
+"Lode Runner" and all conversion on
+other platforms moulded into some
+games: "Raise out from Dungeons"
+by Vetyutnev Vadim, "Klad" by
+Technotime and "Montana Jones 2"
+by Home Masters.
+
+The fenomen of early 90th was the
+logical game "Colour Lines" which
+was written by Russian firm
+"Gamos" for PC platform and beca-
+me the most popular office game. In
+period 93-96 were made almost ten
+different versions of this game for
+Spectrum. Surdakar, Vadim and
+Sergey Grepan, RSC, Michael Ko-
+valev, CWC and Genesis made the
+most interesting.
+
+In 1994 appeared mass tendency of
+"intellectual" games it was caused
+by Inforkom's popularisation of ga-
+mes of that kind in "ZX-Review", so
+some products were made:
+"Destroyer" by Rensoft - based on
+"Rebel Star Raiders" and the first
+wargam e "The Kulikovskaya battle"
+("Куликовская битва") by WE
+group. Fans of adventure games
+wasn't deprive, in this period were
+made some games on Russian lan-
+guage: "Lenin in October", "Cops",
+"The Vice Island" ("Ленин в Ок-
+тябре", "Ментура", "Остров по-
+роков") by Sergey Gusev and "The
+Magic story. Dedication of Fal-
+koris." ("Волшебная История. Пос-
+вящение Фалькориса") by
+V.Bodrov.
+
+Like in previous years in 94 were
+produced lots of tetrislike
+
+And logic/arcade games: "Night
+Tetris" by Chemist; "Colour of
+Magic" by Genesis, "Diamonds
+Downfall" by Pritula Oleg -another
+variant of "Columns"; "Mega Xonix"
+by Zaporozhye, "Roboxonix" by
+Chemist - variant of "Xonix".
+
+From other releases of 94 year we
+can pick out: "The Dark" by Hanzis
+Sergey - spectrum conversion of
+Apple 2 game, "Fox hunt" ("Охота на
+Лис") by Computer Rats, "The 'Seka'
+Club" ("Клуб Сека") by V.Bodrov -
+computer realization of card gam e,
+"Skirmish" by Mas -the first speccy
+realization of pC "Scorched Earth",
+it has many tunings during game
+play, and "Sunny Gummy ("Солныш-
+ко Гамми") by Andrey Slabosnitskiy
+a quite good game which looked like
+"Head over Heels ".
+
+But the mostressive brakethrough
+in game industry was in 1995. In
+March Copper Feet had released
+spectrum version "UFO: Enemy
+Unknown" by Microprose. In Speccy
+version tactic part was replaced
+with arcade, so instead of step by
+step controlling you had opportuni-
+ty to control one soldier and run
+over the level and kill aliens. But
+economic and science block was ma-
+de same as in the original.
+
+"UFO" wasn't the single strategic
+game this year, Pan Code released
+the game "Scorpions: Die Machine"
+and Domen Soft finished their game
+based on novel by R.Zhelazny "War-
+riors of Amber". "Country of Tales"
+("Страна мифов") by Fantasy was
+an other game made in 95, it was ve-
+ry interesting, made in the style of
+"Kings Bounty". Another strategic
+game was "Pirates" ("Пираты") by
+Nicodim, it was conversion of fa-
+mous table game.
+
+In middle summer, electronic maga-
+zine "Spectrofon" opened a champi-
+onship dedicated to game "Virus"
+(and later "Virus 2") which was
+written by S.V.Kukoviakin, it was a
+sequel of famous "Life", where you
+could create and program you own
+viruses. On battlefield the most
+full-blown virus survived and
+destroyed other weaker oppo-
+nents. Anyone could join champion-
+ship, but closer to the end of year
+mass interest began to fade.
+
+Epidemic passion of Russian players
+for Dizzy series and quests brought
+results in form of game "48 Irons"
+("48 утюгов") by Galaxy, a team
+from St.Petersburg. And of course
+this game became a megahit. Rus-
+sian language, lots of humour, and
+some uploading levels made this ga-
+me glorious. By the way, Phantom
+family during a couple of years is
+trying to translate this game into
+English. The game engine was rebu-
+ild and it gave a chance to save some
+space, which was occupied, by le
+vels. And to make language closer to
+original English humour, authors
+choose Agony^CC for translator.
+Authors are planning to release it in
+.TAP and may be in .TRD.
+
+Russian Dizzymania gave a way to
+many different sequels. Of course
+there were a lot of low level works,
+but we can define some quality ga-
+mes such as "Dizzy-X Journey to
+Russia" and "Dizzy-Y Return to
+Russia" by Speed Code, "Home Ice-
+land D zzy" by VS Prog, and also the
+game which was released at Chaos
+Constructions'01 game compo "Diz-
+zy Underground" by Gogin.
+
+Lets go back to 95 year. After some
+announces in "Zx-Review" and in
+their own "Spectrofon", Step crea-
+tive group released national mega-
+hit "Star Inheritance" ("Звездное
+Наследие"). This arcade/adventure
+game has everything - a good
+graphic, good thought scenario,
+plenty of quests and original game
+engine.
+
+So it took minds of players for a long
+time. A few time later some games
+were made on same game engine,
+such as "Time Cop" by MoonSoft,
+"Mirror" ("Зеркало") by AWCG,
+"Chainik: Horror in the flat" by Opti-
+cal Bros, "Sea Quest" by Taras,
+"Plut onia" ("Плутония") by Twin Pe-
+aks и "Virtue. Da dirty soul" by
+C-Jeff. In 2001 "Star Inheritance"
+was transferred to GBA by R-Lab,
+there were redrawn gfx, English
+language of course with full spirit of
+Russian version and etc. Nowadays
+Step creative group are working on
+pC where they also trying to produ-
+ce quests. There were released so-
+me small game projects during this
+year "Regeners" by Reserve (in sty-
+le of "Life"), "Piton" ("Питон") by
+Surdakar, a couple of verions of
+"Battle City" - game from Dandy
+consol (it would better to say NES,
+because Dandy was made later and
+it was NES clone, so I suppose
+Battle City or TANK 91 was made for
+NES. - remark of translator), so in
+period from 93 were made at least 3
+releases. Adventure games "Svya-
+togor knight and Karachun wizard"
+("Витязь Святогор и колдун Ка-
+рачун") by Demiurge Ash.
+"Talisman" ("Талисман") by Ray and
+"Oragon" by Evgenij Bernikov. In 95
+Appeared two different versions of
+Russian clone of TV show "Wheel of
+Fortune", ("Поле чудес") by
+Softland and Outland. Also we re re-
+leased some nice logical games: the
+conversion from pC and Amiga "Turn
+or Xor'em All" by Mad Max, "Mines-
+weaper" by Simple Company (the
+most good made transfer) and "Pipe
+Dream" by Infosoft, "Hearts" by
+Barrisoft, it was original logic
+game, "Open It" by Hazard Dreams.
+Of course programmers didn't for-
+got about tetrises, "SexTris" by Si-
+licon Brains - with stimulating ero-
+tic pictures between levels,
+"Trubis" by Sunny Tram - conver-
+sion from pC, "Magic Block" by DAB
+Lab - ano ther one "Columns", and
+the most fluent tetris from all which
+were done "Amiga Tetris" by Navi-
+gator.
+
+Success of 1995 inspired gamema-
+kers, and in the next year many qua-
+lity games were released. Another
+one large project was released that
+year, "UFO 2: Devils from the Deep"
+from the gamemaking monster -
+Copper Feet, for that time Slava
+didn't make any improvements ima-
+gined by himself and just made quali-
+ty conversion to Spectrum. O f co-
+urse there were some free in-
+terpretations, like aliens ship in-
+terception, he made it in form of ar-
+cade shooter, but in everything el-
+se Copper Feet was more correct.
+He used original graphics in ufo-
+pedia. Naturally he refined main
+part sprites, but shape and content
+of aliens ship remained unchanged
+and looked like original.
+
+Passion of the majority Russian pla-
+yers to strategic games was satis-
+fied in a sufficient measure. Except
+for mentioned already "UFO 2" were
+published: "Kings Bounty 2" by EJB -
+conversion of the same game from
+pc, "Murk 3320" by Wanderer and
+"Last Battle" by Hacker's Squad -
+quite good step-by-step strategy
+In style of a mix "Laser Squad" and
+"Nether Earth", in this game for the
+first time on Speccy was made a
+"fog" mode which not allowed to
+watch movement of enemy forces in
+unexplored space. By the way, now
+the author works on conversion of
+"Last Battle" to PC, release is plan-
+ned by the end of 2004 year.
+
+It is possible to name one more sen-
+sational game of the beginning of
+that year "Prince of Persia" by Ni-
+codim - very close to the original
+conversion. The gfx of game and
+smoothness of movement of the cha-
+racter were close to version for
+Ami ga, whence was made it conver-
+sion.
+
+Remembering the last year's suc-
+cess of "Virus 1,2", Ivan Gudkov is-
+sued "Soldier of the Future" -logic
+continuation of above named prog-
+rams. In his game it was possible to
+program behaviour of several soldi-
+ers and to let out them on a battle-
+field. Personally to me,
+
+It was very interesting to look at
+attempts of my creatures to exter-
+minate enemies in the confusing la-
+byrinth; especially some part of gfx
+and the interface in "SOF" were
+borrowed from favourite "Laser
+Squad". You can also save your ro-
+bot t hat enabled to play with crea-
+tions of your friends.
+
+Also this year was plentiful on logic
+games and logics with arcade ele-
+ments. To the first group it is pos-
+sible to relate "Hexxagon" by We,
+"Fifteens" by Greedy Guys, "Heavy
+Metal Mover" by UCM, "Rings of the
+Magic" by Global Corp, "The
+Hundred" by X-Master, "Grab of
+Territory" by Free Group, "Square-
+Head" by Outland, "The Magic of
+Logic" by VVS, "Russian Time Tre-
+aser" by World Eyes, "Filler" by ZC,
+"Squards" by Spark, "Dizzy Ware-
+house " by Yury Schapov - on this
+time the auth or has forced Dizzy to
+move washing machines in game a-la
+"Socoban", "Passiance Klondike" by
+Digital Reality, "Dice - poker"
+("Кости-покер") by Auryn, "Gold
+Fever" by SM - computer variant of
+desktop game, "Corners"
+("Уголки") by Electrical Brain and
+"Donkey" ("Осел") by Devil. Rema-
+kes of "Lode Runner" with much mo-
+re extended logic component were
+released by two groups: "King
+Valley" by We and "Klademiner" by
+Bitmunchers. Also to logic/arcade
+division it is possible to relate
+"Tank War " by Interceptor, "Doub-
+le Xinox" by ZX Masters, "Dr.
+Mario" by Romantic Warriors,
+"Blockus" by Bitmunchers,
+"Trubes" by Panc and "Home Tetris"
+by Russian Bear.
+
+There were also a lot of quests.
+1996 has begun with such serials as
+"Crime Santa Claus" by ETC and
+"Smagly" by Crystal Dream, by the
+way, the third part of "Smagly" rep-
+resented in style of "Astro Marine
+Corps". Except for the first series
+of these Games it is possible to men-
+tion "Adventures of Vinny the Puh"
+("Приключения Винни Пуха") by
+Softland, "Sliders" by MSD and
+"Freddy McNeford" by D.J. Hooligan
+it was an interactive comics rather
+than quest.
+
+Lovers of Russian language adven-
+tures this year also have received
+in order some quite good games:
+"Ivan Tsarevich" ("Иван Царевич")
+by G&M, "Last Rider" by Kit, "Alien"
+by Terminator, "Medieval story"
+("Средневековая история") by Hu-
+man So ft, "Apollo" by Jocker-
+soft.
+
+Cloud soft and Precision published
+"Magicians Land". It was impossible
+to characterize this game as pure
+RPG, most likely it was the advanced
+quest, as in "ML" were absent op-
+portunity of hero characteristics
+development and save of the cu
+rrent condition, however game was
+very interesting.
+
+As manufacturers of Spectrum ga-
+mes were not constrained by the
+law on protection of copyrights, so
+trademark and characters from
+other platforms were widely used,
+therefore some commands have
+declared release of demoversions
+and the beginning of manufacture
+such products as "Dune 2",
+"WarCraft" and "Mortal Kombat".
+
+On a pique of new stream, XL-Design
+published the demoversion of "MK",
+in which were used large converted
+sprites of characters from Amiga,
+however the given product has evi-
+dently shown, that using of
+high-grade converted gfx makes im-
+possible to create full conversion
+(banal shortage of memory). There-
+fore AWS have gone a little bit other
+way and have decided to reduce size
+of sprites and made them
+handdrown. Certainly it became a
+minus in recognition of characters,
+but in t he given version were reali-
+zed all super strikes of all of twelve
+heroes, fatality, babylity and also a
+digital sound which was converted
+from Amiga and game has remained
+very dynamical and difficult.
+
+The genre of arcade/action also was
+represented this year by games
+"Ice Climber" by VDV Soft -conver-
+sion from game console, "Crusher"
+by Playgear - a variation of "Arca-
+noid", "Humanoid" ("Гуманоид") by
+Shock - the author of the given pro-
+duct was obviously keen by "Boul-
+der Dash", labyrinths: "The New
+Year story" ("Новогодняя ис-
+тория") by Binary Masters and
+"Dungeon" ("Подземелье") by Ivan
+Krut, and also quite volumetric
+"Return to Home 4: road into hell "
+by K.Kav Soft. It is possible to name
+this game, fashionable at that time
+word "doomlike". Certainly, there
+wasn't any kind of three-dimensio-
+nal gfx, it is possible to compare
+this game with "Hired Guns"
+(Amiga), but for one player.
+
+1997 year was less productive, in
+comparison with previous, however
+this year were released a few abso-
+lute megahits.
+
+In the beginning of the year "Opera-
+tion R.R." was released - devilishly
+amusing and interesting game in
+style of arcade adventure from Ga-
+laxy, who already made a name on
+"48 irons". Closer to the middle of
+year one more game in the similar
+genre was released, it was based on
+popular fantastic novel of brothers
+Strugatski "Picnic at the Roadside"
+("Пикник на обочине"), foreign rea-
+ders could see film from cult Rus-
+sian director Andrey Tarkovskij
+"Stalker" ("Сталкер"), that name
+used Jam^XPJ for the game.
+
+Among other appreciable projects
+it is possible to note "Elopment. Way
+to Earth" by OHG it is can be related
+to a genre of arcade adventure too
+and compared with a well-known
+"Saboteur", though in product of
+OHG the quest component is more
+expressed, "Fizzy" by Speed Co. -
+basically unremarkable game, So we
+remind it because Unbeliever took
+part in this project, "the Wizard of
+OZ Country" ("Волшебник Страны
+Оз") by Famous Faces Factory,
+"Mystery of an Ancient Castle" by
+Art Studio, and also "Escape to
+Kharkhan" ("Бегство на Хархан")
+by AIR.
+
+Due to occurrence in Russia of
+"Quill" package, in 97 year have ap-
+peared a few quite good adventures
+in Russian: "Island of Darkness" by
+Paul Moscow, "Diamond" by Dr.
+Laser, and also "Examination inves-
+tigation"  ("Экзаменационное
+расследова ние") by Demiurge
+Ash.
+
+In 97 the tendency of not losing of
+interest to manufacture of logic ga-
+mes has brought: "Magic Stripes"
+by Vitrual Bros, "X-Reversy" by
+XL-Design, "The Puzzle" by Taras,
+"Marrow in the World of Wisdom" by
+Reflection, "TeSo" by Ivan Krut,
+"Digital Tetris" by Batsoft, "Hexxa-
+gon 2" by Style Group, "Lightly Fi-
+elds" by Magic Moon, "Genius
+House" by Jupiter77 - conversion of
+game "Poly Peg" from Macintosh,
+and also electronic versions of po-
+pular in Russia Puzzles, pocket and
+desk top games: "Rubik's
+cube"("Кубик Рубика") by Phantom
+Family, "Goat" ("Козел") by Accept,
+"Trinja" ("Триня") by RND, "Pasy-
+ance 'Four Row's'" by Studio Rubi-
+con and "Ouths and Сrosses"
+("Крестики, нолики") by SHCG.
+Perspective Group have gone a little
+bit other way and have released
+"Last Courier" - game on a joint of
+arcade and puzzle.
+
+Star Group has gone further and ha-
+ve released classical shooter for
+two players "Chopper Duel", where
+players were killing in realtime the
+helicopter of the opponent. than-
+king to not bad design and speed of
+engine, the given process become s
+fascinating and grasped for a long
+time. In the next year by team Alli-
+ance was published logic continua-
+tion: "Choppers Deathmatch", ho-
+wever, "deathmatch" wasn't so dy-
+namical as a produc`t of Star
+group.
+
+An absolute arcade game (what ap-
+pears from the name) became
+"Arcade Volleyball" by Rome'r - it
+was conversion of "Headball" from
+PC. By the way, in 98 year ZX-Mas-
+ters released another one conver-
+sion of this game with better engine
+and more quality gfx, and also with
+nice sound effects (using General
+Sound).
+
+But the most important event of
+that year became occurrence of ab-
+solute megahit among speccy games
+"Black Raven". ( "Черный Ворон")
+Basically, Copper Feet planned to
+name the game with more
+well-known brand - "WarCraft", but
+when he has de cided to engage in
+this project, brand "WC" was alrea-
+dy taken by one of Petersburg
+teams, the work which have decla-
+red on the beginning of game with
+this name. Changing of the name of
+project only has untied Copper
+Feet's hands, as it was n ot neces-
+sary to copy levels of a source
+completely. As to gameplay of
+"Black Raven", it has taken all the
+best from "WarCraft 1,2" and under
+the right can be considered as the
+best strategy in real time on
+Spectrum.
+
+It is necessary to notice that game
+occupied two disks and had two va-
+rious companies with 16 levels
+(people and kungs) and also rende-
+red twenty minutes introductory
+video and two various versions of fi-
+nal cut.
+
+A little bit later, already in 1999,
+Compu-Studio recompiled "BR", re-
+leased the powerful editor of levels,
+and also a disk with new missions
+for game. Due to occurrence of the
+given editor, in 2002 year Metallurg
+published one more disk wi th 15 le-
+vels, And in 2003 by the unknown
+author two disks with missions we-
+re created, which differed by incre-
+ased difficulty.
+
+"Technodrom" by Real Soft was
+another good step-by-step strate-
+gy of 97 - roots are going to "Laser
+Squad" and "Nether Earth", so as in
+"NE" - with the help of robots made
+on bases it was necessary to grasp
+all bases of enemy. I must note, that
+despite of external similarity, ga-
+meplay differed from "LS" in the
+better side. Long-term attachment
+of gamemakers to unforgettable
+"Kings Bounty" embodied in one mo-
+re remake "Feudal Wars" by
+X-Studio.
+
+Manager game "Diller" by D.J. Hooli-
+gan has returned me ten years back
+and put me in atmosphere that was
+on our "flea market" where I tra-
+ded Speccy programs. This game of-
+fered you to become the seller of
+software on the market, and the
+chro nology of game events is based
+on real facts of 1993-1997 years.
+So, it gave you an opportunity to be
+a regional dealer of Copper Feet,
+Step, Magic Soft etc. and to support
+and expand your business, and of
+course to deserve general love and
+respect as the best seller of
+spectrum software in city.
+
+
+From other releases of 94 year we
+can pick out: "The Dark" by Hanzis
+Sergey - spectrum conversion of
+Apple 2 game, "Fox hunt" ("Охота на
+Лис") by Computer Rats, "The 'Seka'
+Club" ("Клуб Сека") by V.Bodrov -
+computer realization of card gam e,
+"SkirmDevelopment of exUSSR games     
+Chasm/CyberPunks Unity          
+
+1998 became the year of finishing of
+all earlier announced major game
+projects. "Last Hero of the Light
+Force" became the first Russian
+RPG, Excess Team manufactured it.
+They worked more than two years.
+Game had very big size -two .trd
+disks, and large handdrown gfx, ple-
+asant interface and quite good en-
+gine, though it was not so good as
+popular on that moment "Bard's
+Tale".
+
+Here at once it is necessary to men-
+tion two games, which stylistically
+directly adjoined to RPG
+"Monstrland" by Rage and "12 Sec-
+ret Books" ("12 Тайных Книг") by
+Demiurge Ash, though "Monstrland"
+most likely was an advanced quest,
+becaus e you couldn't develop your
+hero (except filling up energy). The-
+se games had something similar in
+both main сharacters are submit-
+ted by the top view, in both it was
+necessary to solve quests, to have
+battles and use magic, and by the
+way, in both games the result of
+battle does not depend directly
+from the player, but only from force
+and weapon of your character.
+
+If there was a conversation about a
+genre of quest, undoubtedly, it sho-
+uld be noted the occurrence of
+crazy "Homer Simpson in Russia"
+("Homer Simpson в России") by Mr.
+Gluk and Co. Demoversion of "Para-
+dise Lost" by Digital Reality was the
+main force that pushed the authors
+of "Homer Simpson" to start their
+project, and the full version of "PL"
+which had mass advertising, but
+was not issued. Though "Homer" al-
+so had similar with "PL" engine and
+gfx, however, it had own "highli
+ght" as Simpson's humour, which all
+of us so appreciate in an unforget-
+table serial.
+
+The genre of simulators always liked
+in Russia, this year it was submitted
+with not absolutely standard
+program. Instead of operating the
+tank or a bomber, you should spend
+some time on a silent bank of the ri-
+ver with a fishing tackle in hands. In
+game "Fisher" by Hard Code, a choi-
+ce of a few reservoirs was offered
+to you , types of fishing tackles and
+baits. Besides in a consequence it
+was possible to compete in amount
+of caught fish.
+
+The amount of logic games released
+in this year was still less than in the
+past, however among them, it is
+possible to note "Net Walk" by Style
+Group - very large product, with
+lots of three-colour pictures bet-
+ween levels, it occupied two disks
+and it was a conversion of the same
+game by Gamos. I think Gamos games
+cryed out to be converted on
+Speccy (recollect "Colour Lines"),
+therefore, next year Face Off relea-
+sed another one version of "NW",
+distinguished from Style Group rele-
+ase much in smaller size and more
+worked gfx. "Word Life" by Compu-
+ter Rats Group, also it was possible
+to count it as logical sequence of
+Gamos creation, but in comparison
+with "Colour Lines", you was offe-
+red to put in a line not simple colour
+balls, but letters, which at forma-
+tion of intelligent combinations,
+that was simply speaking a Russian
+word - disappeared. Among other
+logic games is necessary to mention
+"Crossword" by Razzlers, "Devil's
+Curse " by S.E.I., "Figus" by Image
+Crew and "Fast Breed" by MHCG - all
+games graphically beautifully made
+and differed by sufficient difficulty.
+Also MHCG released "Wormpithon"
+an interesting version of known
+game, and Crushers made an arcade
+puzzle "The Flinstones. Fred in Ma-
+gic Wood".
+
+Gamblings were not forgotten, Free
+Group issued patience "Free Cell"
+("Свободная Ячейка") and Stran-
+gers - "Blackjack" ("Очко").
+
+On a joint of logic and arcade has ap-
+peared "Leprekon" by Omega Hac-
+ker Group - though the plot of the
+game also did not differ novelty (it
+was old "Lode Runner"), but the be-
+autiful gfx, smoothness of engine
+and good sound made me to pass it
+completely. A little bit later OHG re-
+leased the second edition of "Lep-
+rekon" with two new additional le-
+vels.
+
+But the main piece of 1998 year, I
+think, was the occurrence of mi-
+nimal, but not less crazy arcades.
+The initiator of "Belarusian pheno-
+menon", I think, was Fre-
+eman^Asphyxia, who has begun all
+this with release of "Kolobok Zoom"
+completel y mad shooter in style (as
+he defined it) "realtime aggres-
+sion". After this release was "Any
+Tank" by Optical Bros -an absolute
+arcade, controlled with one button.
+Also there were "Hunting on Moles"
+("Охота на Кротов") by Asphyxia,
+"Mobile Wars" by Mythos, and a se-
+rial of 98-99 years "Kill PC 1-3" by
+Rage the arcade saga of pC hater
+and New Year arcade-congratula-
+tion "White Eagle. Comrade is
+known" ("Белый Орел. Товарищ Из-
+вестен") by Fatality. Deification of
+all became " Kolobok Zoom 2" by As-
+phyxia and Fatality - thirty levels
+terrible fight accompanying with
+lethal sound effects and vivid music.
+All this was executed in beautiful gfx
+with simply fantastic speed (especi-
+ally it was evidently visible when
+her o took all extra weapons). In
+the end certainly, there was a final
+fight and excellent final cut. In my
+opinion "KZ2" was the best arcade
+on Speccy, nobody had done it
+later.
+
+By ninety ninth the majority of ga-
+memakers have understood, that
+manufacturing of games on a com-
+mercial basis already became a
+past. It was ounded up with low pri-
+ces on consoles and second hand
+pCs that has caused outflow of
+"pure" gamers from Spectrum.
+Also, the growing of last year's hac-
+kers activity made situation worse,
+so if sometimes authors earned only
+minimal money just for beer. And ac-
+cording to that fact, stopped work
+on such projects as "The Black Ra-
+ven 2", "Last Hero of the Light
+Force 2", and continuations of
+"Monsterland" and "12 Secret
+Books". From this moment most of
+games were written for fun, but ho-
+wever still there were enthusiasts,
+who were attracted by the process
+of creation.
+
+Strangely enough, the majority of
+games released that year is possib-
+le to divide into logic and
+strategic.
+
+Jeez released "Kluxer" - beta ver-
+sion of amusing puzzle, later, ha-
+ving taken advantage of same idea
+Optical Bros made more tremendous
+beautiful "Clickmania"; Clevers is-
+sued " 4x4 Puzzle", Smokers "Take
+It", and Ascendancy finished
+two-year work on puzzle "Hamon
+IV". Also in Belorussia was finished
+work on "Fields of Logic" by AMD and
+"Tormozilka" ("Тормоз илка") by
+Amalitiya, and in Russia "Clocks" by
+Omega. "Tet Block" by Cyber Team
+and "Xixit" by Real Soft were
+another versions of old hit
+"Columns", though it is necessary
+to admit that it was made on rather
+higher level and with use of m odern
+technologies.
+
+Step-by-step strategy "OWА aga-
+inst Nato: the Apocalypse" ("ОВД
+против Nato: Апокалипсис") by
+Larri, which was released under
+impression of war at the Balkan. In
+a basis there was a script of possib-
+le development of those years
+events: Russia, Belorussia and Uk-
+raine resist NATO to start the third
+world war. "Ships" ("Кораблики")
+by Sizenko Alexander was
+step-by-step tactics on sea,
+rather than strategy. In 99 was re-
+leased the game called "Cezar" -
+the first game from rather produc-
+tive till that moment, team Action.
+The given game was written in style
+of "Sim City" the player is offered to
+construct and develop antique city,
+and also to complete various missi-
+ons developed by author. Very close
+to a strategic genre was manager
+game "the Owner 2: the Millionaire"
+by Upsoft - you are offered to beco-
+me the owner of some ore mines
+with all troubles connected with
+this hard business.
+
+However, other genres were not
+forgotten too, so for quick
+button-click lovers were made
+"Kick da Gaga" by Avalon/Rush - be-
+autifully made arcade, "Supaplex"
+by Flyman - A little bit pale conver-
+sion of the same game from PC,
+"Gunman" by Alien Factory and Sage
+really good arcade shooter, "Mario
+Islands" by Omega Hackers Group -
+quite nice spectrum version of
+known platform game. Z-System And
+Graphics System have continued ad-
+venture comics serial, having rele-
+ased the second and the third part
+of "Wolf". D.J.Hooligan again reali-
+zes itself in the genre of Interacti-
+ve comics. However this time, quest
+component was exp ressed more
+clearly, he released rather massive
+game with plenty of animation -
+"Explosion" ("Взрыв"). Shuric
+Program debuts in a new genre for
+him, he wrote text adventure
+"Great Testing".
+
+"Super Tetris" by Alex Art - was, in
+my opinion, the best tetris on
+Speccy, with its smoothness of en-
+gine even better than "Amiga
+Tetris", which was the best for five
+years. Having decided to unite all
+the best in one game, Push and DGMS
+s tarted to work on "Mega Tetris
+2000", however despite of huge
+size, and lots of various modes of
+game and adjustments, this product
+has turned out much less playable,
+than mentioned above "Super
+Tetris".
+
+Popular in middle 90 genre nonde-
+terministic games a-la "Life" this
+year was submitted by game
+"Snake", written by Pelepejchenko
+Alexey. Though that game also had
+advanced language of snakes prog-
+ramming, pleasant interface and qu-
+ite good gfx, nevertheless it was
+not so popular as "Virus" or "Sol-
+dier of the Future".
+
+As well as all last years, it was is-
+sued a few computer versions of
+gamblings - "Poker" by Ma$ter,
+"Cobble 2", "Nine" ("Девятка"),
+"Patience" ("Пасьянс") by V. Cher-
+pasov.
+
+2000 year has pleased us with fi-
+nishing of several projects, to see
+which, the majority of players alre-
+ady didn't hope.
+
+After two-year-old drudgery and
+transition of sources from hands to
+hands, Light has seen "Pussy" at
+least. It was excellent made puzzle
+and it was completed by Razzlers.
+As Asphyxia and Fatality have rena-
+med in Free Art, at that time trie d
+to be engaged in making games un-
+der GBC on a commercial basis.
+Strangely enough, but the first re-
+lease of that game was carried out
+outside ex-USSR - LCD has got all
+rights on its distribution and pri-
+mary "Pussy" was issued on tape.
+Howev er due to efforts of
+Maddy^PhF, the given game has left
+in TR-DOS version too, it was optimi-
+sed and fully repacked.
+
+Also in this year was completed bea-
+utiful quest "Crime Santa Claus: De-
+ja Vu" which BrokImSoft promised
+to release in the last year. Crystal
+Dream have decided not to make se-
+parate release of "Smagly 3", which
+demoversion already existed an d
+they have released "Smagly Antho-
+logy" - the whole disk release,
+which included the third arcade
+part, and the first and second quest
+parts.
+
+Young team Action in 2000 began to
+increase their potential. In the be-
+ginning of that year "The Eighth De-
+partment" ("Восьмой отдел") was
+published - it was arcade adven-
+ture, based on life of confidential
+agents. Game has turned out very la
+rge and occupied practically half of
+a disk, but it was a little bit dam-
+pish, and a good impression was
+spoiled by total illiteracy of the
+author, who has managed to do
+grammatical mistakes even in the
+simple words. However, the activity
+of Slip was really great, because he
+practically alone does the following
+product -"Empire 2000" which also
+had large volume and occupied one
+disk. Genre of this game was the mix
+of first game by Action "Cezar" with
+famous "King's Bounty", i .e. you
+need to construct and develop city,
+to create army and destroy your
+enemies. The list of strategic games
+for Spectrum has replenished this
+year with one more remake of
+"Rebel Star Riders" - "Солдатики
+v1.2" by Sizenko Alexander, how
+ever that game differed from the
+prototype with worse AI of oppo-
+nents and bad game engine.
+
+In comparison with previous year,
+2000 was plentiful on Logic games
+and puzzles. N-Discovery and Cobra
+made "The Knight's Arena" and
+"10x10" - games with practically
+identical idea. It was offered you to
+move a course with using of Chess h
+orse step to clear a whole game
+field, but game by N-Discovery was
+made at the higher level.
+
+Among others, it is necessary to al-
+locate work of Studio Stall "Tower
+Pod" - beautifully created conver-
+sion of "Pad" from pC. Also that time
+were released: "Aliens" by
+Syndrome, "Honey World" by Alex
+Art,
+
+"Real Lines" by Saint - the next at-
+tempt to improve "Colour Lines",
+"Strange Exhibits" by Prog Master,
+"Virtual Rubik's Cube "by VRCP - not
+so successful computer realization
+of known puzzle, "Japanese
+Contrast" by Fenomen - the collec-
+tion of Japanese puzzles.
+
+In a genre of logic/arcade appeared
+"New Time Pacman" by Shuric and
+"XOR 2000" by D.Moroz - game in
+style of "Boulder Dash ", but with
+more clearly expressed logic com-
+ponent. "Deathmatch Arena" by
+Lynx and "Stagger" by Fenomen we-
+re pure ar cades. Also I was pleased
+with greetings from childhood: Hor-
+rorsoft released "Kool Eggs" -very
+exact imitation of pocket electronic
+arcade "I'll get you!" ("Ну, по-
+годи!"), in which I played at soviet
+times. By the way, a year be-
+fore,
+
+Paradox released "Rabbit Jazzy"
+which was also based on the same
+game, however, in my opinion, Hor-
+rorsoft's release looked much more
+attractive.
+
+At 1st of January of new millennium
+"Homer Simpson 2: Again in Russia"
+was released by Mr. Gluk and Co,
+they worked on it about two years.
+Game turned out better than the
+first part, engine has undergone to
+processing, and again funny ques ts
+and humour have allowed it to win
+hearts of players.
+
+But "Homer 2" became the last pro-
+ject of Mr.Gluk. "Yard Story " by
+Orion has continued the traditions
+of "The Star Heritage" ("Звездного
+Наследия"), so it was externally a
+little bit similar to it. However, very
+small attention, which the a uthor
+has given to the gfx and plot, made it
+less attractive to players in compa-
+rison with other representatives of
+this genre.
+
+At spring Triumph released arcade
+races "Numb Cars" - unpreten-
+tious, but tightening, and later
+"Thimble" - imitation of Russian na-
+tional street game, i.e. games in
+thimbles. Siberian Group were dis-
+tinguished by logic games, they cre-
+ated "New Puzzle", also Studio Stall
+released "Opener" ("Открывашкa")
+(basically, it officially was a part of
+appendix to Adventurer 13, therefo-
+re it was issued only in 2002, though
+it was made in 2001).
+
+Arcades were submitted by works
+of Studio Stall - while I was playing
+"Stuckun" my brain was simply dis-
+connected, Delirium Tremens
+transferred work to a spinal de-
+partment with their "Cars"
+("Машинками") and began a series
+of paranoid game s - all that you
+need is to destroy four enemy cars.
+Triebkraft pleased people with their
+remake of fresh arcade "Super
+Bomberman 2" by Action -Poisoned
+CyberJack rewrote the game en-
+gine, player of music and sound ef-
+fects, and also optimised a work
+with memory and that made his game
+a hit of the beginning of year on one
+level with "Homer 2".
+
+Due to the occurrence of new nomi-
+nation "32k Game Compo" on Chaos
+Constructions'99, many games we-
+re released at the party. So still in
+99 on CC were released demoversi-
+ons of "Curse of Xeen" by X-Master
+and "Babylon 5" by Troll, and men-
+tion ed above "Hamon IV" by Ascen-
+dancy and "Stagger" by Fenomen
+were submitted to public on Millen-
+nium 1900.
+
+The similar situation has taken pla-
+ce in 2000: logic game "3D-Roost" by
+Fenomen was completed, however it
+was released only after MLN'1901.
+Also at the given party were relea-
+sed "Technodrom. Millennium edi-
+tion" by Real Soft - in mln version
+was added mouse support, new gfx,
+new maps and new parts of ga-
+meplay.
+
+On CC'01 the following picture was
+observed: as game compo had rigid
+frameworks in 32 kb, so arcade sho-
+oter "Hunt on sparrows Born to
+kill" by Green Bit Group, logic
+"Farspace" by Mayhem and short
+version of "Arcanoid" by Drv53b6
+were al lowed to take part. And for
+its size, the indisputable leader
+"Dizzy Underground" by Gogin was
+thrown away, so another one weak
+remake on the same theme -"Dizzy
+B" by N-Discovery.
+
+The beginning of 2002 was marked by
+release of "Kill Pokemon" by Deli-
+rium Tremens - in this arcade shoo-
+ter you should kill 50 pokemons,
+exactly Pikachu. Personally, I was
+fucked by "Pokemon" cartoon and
+had a lot of fun while killing these
+bastards. Then in February, Tri-
+ebkraft and 4th Dimension released
+Spectrum version of another one
+arcade shooter - "Moorhuhn: First
+Blood". The given version differed
+way with it greater visualisa-
+tion.
+
+N-Discovery team developed a pac-
+kage "IF Creator" for text games
+creation, a-la Interactive Fiction
+the book genre that started to col-
+lect popularity in Russia. With the
+help of this package N-Discovery
+made "Adventure of your dream"
+("Приключение твоей мечты"),
+which showed the advantages of "IF
+Creator".
+
+Sam Style released "Battle Field"
+step-by-step tactic for 1-4 Pla-
+yers. This game intended, as a com-
+ponent of package of "WindowZ'02".
+In my opinion game wasn't done very
+professional, and lots of settings
+and quite good gfx, didn't rescu e it
+at all, because of absence of an op-
+portunity of game with com-
+puter.
+
+In 2002 was another attempt to
+start producing games on a com-
+mercial basis. Perspective group
+has declared a competition "Your
+Game" ("Твоя Игра") which called to
+participate in it all manufacturers
+of Spectrum games. Organiozers of
+this cоmpetition have appointed pri-
+ze fund and determined time limit. At
+the end of summer, Perspective Re-
+leased the collection of demoversi-
+ons of six games, which have parti-
+cipated in competition. Winners we-
+re chosen with method of absentia
+votin g. Any interested person co-
+uld vote, meanwhile games were
+prepared to release, and money
+from its selling were transferred to
+prize fund. However, later on Vir-
+tual TR-DOS was published a freewa-
+re version of the "Your Game" col-
+lection. First of all among other ga-
+mes presented on that competition,
+It is necessary to allocate the win-
+ner -"Abe's Mission (escape) part
+1" by Brothers. The given game was
+the remake of "Oddworld: Abe's Od-
+dysee". It has quite good converted
+gfx , smoothness of moving and qu-
+ests transferred from a source of
+conversion, distinguished it from
+other games, which took part in
+competition. Also in the collection
+were released "Mine" ("Шахта") by
+SCG - arcade game for team playing.
+It wa s offered you to equip with va-
+rious stock (tools, fixtures, and
+other different kinds of an explo-
+sive) to kill your enemies. Enemies
+also got similar equipment; therefo-
+re process of game became fascina-
+ting massacre, demanding not only
+react ions, but also sharpness of
+mind. "The Dome" by Studio Stall
+continued traditions of "Nether
+Earth", however from its prototype
+game distinguished with the absen-
+ce of opportunity of independent de-
+signing of robots and weaker AI of
+your comp uter opponent. "The Cou-
+rier 2: the Lost world" ("Курьер 2:
+Потерянный мир") by Perspective
+was the continuation of the first
+parts of this serial which was pub-
+lished in 1997. A genre of game
+hasn't changed - it also was the ar-
+cade puzzle , however engine was
+advanced and improved. Real Soft
+released on this competition compu-
+ter realization of desktop game
+"Manager" ("Мeнeджер") (the So-
+viet variant of "Monopoly"). It was
+written in 1996, however up to that
+time was unreleasd. Game was main-
+ly written in BASIC and had the in-
+convenient interface, therefore in
+my opinion Real Soft formally parti-
+cipated in "Your Game" presenting
+their early, not absolutely suc-
+cessful development. "Super Mario
+Bros" by Gogin was a playable demo
+with four levels; in it there were ab-
+sence of sound effects (there was
+only a music) and various features
+from original game that spoils game
+a little. However, Gogin for the first
+time on Spectrum used a mul-
+tiscreen engine with one frame ho-
+rizontal scrolling, which made even
+this demoversion visually attracti-
+ve and also forced to play in it. The
+release of full version was planned
+on the beginning of 2003, but it
+wasn't made.
+
+In the beginning of 2003, was the
+calm which proceeded till spring
+when Ice'Di^Triumph released
+"Lord of Darkness" - IF adventure,
+made with the help of N-Discovery
+package. Game based on cult "Lord
+of rings" and used some undocumen-
+ted commands of "IF Creator", that
+allowed Ice'Di to bring in gameplay
+elements of fight. Unfortunately, in
+spite of the fact that game had large
+size (about 800 locations), It could
+be solved rather easily and quickly.
+"Deadventure" by ACH also w as
+written with the help of "IFC", this
+game has good script and some al-
+ternative finals.
+
+Ineradicable mania of Clown and Wi-
+zard to pokemons poured out in
+another one release from Delirium
+Tremens where there were these
+kinds of characters - "Gotta
+catch'em all". It is possible to put
+unequivocal diagnosis to the
+authors - slow schizophrenia; the
+plot of game was in guessing of com-
+bination of pokemons, besides there
+were available three bars with nine
+pokemons in each, i.e. it turns out
+9^3=729 variants, and to complete
+it with 9 lives, in my opinion, impos-
+sible ;) Also that summer were rele-
+ased already mentioned "Virtue. Da
+dirty soul" by C-Jeff and "Doctor
+Ouchithurts" ("Доктор Айболит") by
+Transman, it was the conversion of
+"Dr. Mario" from Nintendo.
+
+Inspired by success of "Your
+Game'02" ("Твоя Игра'02"),
+Perspective Group have decided to
+start publish and distribute last
+game from Action team - "Dune: Im-
+peria 2" it was written in a genre of
+real time strategy. It is necessary
+to notic e, that it was the largest on
+scale project, ever spread in
+ex-USSR, something similar did only
+Inforkom earlier. However
+Perspective have gone further and
+acted as serious publishing house,
+they not only offered game, but also
+game box, i .e. the complete set of
+Game, a printed short story based
+on game, and also audio tape with
+authors music tracks. However this
+share didn't make big success for
+poor quality of game, it worked only
+in TR-DOS and requirements of me-
+mory was 2 56 kilobyte (besides
+normally game worked only on com-
+puters with expansion of memory by
+Pentagon standard). It is necessa-
+ry to notice that in "Dune: Imperia
+2" was possible to play only with
+presence of TURBO Mode, i.e. it was
+very slow, that was a little bit
+surprising if you compare its cha-
+racteristics and quality of gamep-
+lay with "Black Raven".
+
+Also Perspective announced the
+next competition "Your Game'03",
+but the majority of gamemakers had
+ignored it, preferring to be exposed
+on game compo of CAFe'03.
+
+Basically all games presented on
+that party were submitted by demo-
+versions: Virtual Masters had bro-
+ught demoversion of "Darkwing
+Duck" - conversion of known plat-
+form game and "EroTris" - very cru-
+de tetris with erotic picture bet-
+ween level s. Green Bit Group had
+exposed pre-release of "Death
+Valley" - it was a mixture of "Lem-
+mings" and "Worms", they worked
+about three years to complete it.
+And "Fire and Ice" by N-Discovery
+was submitted in compiled on par-
+typlace blocks which shown diffe-
+rent game situations, that however
+hasn't prevented it to get first
+place. The full version of this beauti-
+ful puzzle, based on Namco game
+was released much more lately, only
+in December 30. Full versions expo-
+sed only Studio Stall , presenting
+arcade adventure "Lethargy: the
+apathetic dream", which someone
+
+Called "Myth 2" because of its gfx
+and similar plot. However
+"Lethargy" differed from its proto-
+type with the big number of locati-
+ons and variety of character's equ-
+ipment. "Milas Kazmus" by Cyber-
+Punks Unity - arcade shooter, also
+it was poss ible to count it as full
+version, however there wasn't
+introduction screen and additional
+music and final cut, because of aspi-
+rations to make it 32 kb.
+
+Right at the beginning of 2004 on Vir-
+tual TR-DOS, appeared one more re-
+lease from Action - "Empire 3",
+again RTS but with elements of RPG.
+As far as I can judge, the given game
+was made for "Your Game'О3" com-
+petition, but because of failur e of
+given contest, wasn't released till
+that moment. "Empire 3" has more
+advanced engine and interface, ho-
+wever, frankly speaking, stolen
+from "Black Raven 1,2" gfx, the re-
+quirement of turbo mode and 256 kb
+of memory again have not allowed it
+to become popular, it was promoted
+with the fact that Slip this time not
+began to think about universal me-
+mory support and in my opinion, has
+ignored other types of expanded
+memory, except Pentagon 512. I
+don't know as for ATM and Profi , but
+on mine Scorpion game hasn't
+worked.
+
+In early 90 on territory of ex-USSR
+has appeared lots of so-called "hac-
+kers" (it was name for both coders
+and crackers) and they had no op-
+portunity to write high-grade
+game, because most of them
+weren't able to write good music
+and to draw quality gfx. However it
+did not stop them and later the mar-
+ket of software began to flood with
+plenty of foreign games re-
+mixes.
+
+That time all was limited to addition
+of AY music (sometimes even
+self-hand-written), fix and repack
+for 128 kb machines and realization
+of game for TR-DOS (loading of le-
+vels, saving/loading games condi-
+tion), but nevertheless some people
+w ent further and made high-grade
+remakes with new levels, gfx and
+music.
+
+Among that games we can pick out
+new versions of such games as
+"Batty 3,4" by Surdakar; "Krakout
+3" by Beloozersky A.; some remakes
+of "Lode Runner" - a few different
+versions from Fantadrom, Biotech
+and Image; "Boulder Dash 5,6" by
+Krasko vsky Vass., Spectrum ver-
+sion of "Lemmings" in 1995 was glo-
+bally rewritten by Rst7^CodeBus-
+ters - The engine was accelerated
+and also levels were repacked, it al-
+lowed to store all levels in 128 kb.
+Also in 96 Logros released "Lem-
+mings 2", it contained 70 new
+levels.
+
+As I already wrote above, on a wave
+of "dizzymania" have appeared hu-
+ge amount of remixes of this super
+popular game, except for already
+mentioned quality releases, there
+were lame hand-made games, which
+differed not only the worst prog-
+ramm ing realization, but with also
+absolutely illogical quests: "Last
+Will Dizzy" by the unknown author,
+"New Dizzy" by V.Kutin, D.Paltusov,
+"Dizzy 8: Little Joke" by P.A.Soft,
+Timur and "Dizzy A&B" by N-Disco-
+very. Also "Laser Squad" was very
+popular. That time various versions
+of this game have appeared and so-
+me editors of missions (the best of
+them was made by Wredosoftware)
+and all of us could observe occur-
+rence of mediocrely made additional
+level s to this remarkable game -
+there was one "masterpiece", one
+shoot to any barrel will detonate all
+of them with the subsequent chain
+reaction for five or so minutes. Ho-
+wever, among other, it is possible
+to allocate remix "Super Laser
+Squad" by Chip&Chap, ZS+Vek, which
+contained 7 new quality made le-
+vels.
+
+Also on the common background it is
+possible to allocate some products,
+not only adapted for TR-DOS, but al-
+so totally rewritten (additional
+music, gfx, bugfix, add program-
+ming, final cut): "Nether Earth. Spe-
+cial Edition " + 11 additional levels by
+ZS, "Advanced Nether Earth" by
+Eternity Industry, "Draconus" by
+Seamans and Dream Team, "Heavy on
+the Magic!" by Real Soft, "Times of
+Lore" and "Dragons of Flame" by Cy-
+berPunks Unity.
+
+In 96-97 X-Trade team conducted
+development of General Sound - a
+sound card for Speccy. It was rele-
+ased in several variants (various
+memory size, etc), the given card
+had digital sound with parameters
+closely coming to Amiga, so popular
+at that time in speccy circles. Origi-
+nal projects initially used GS, as I
+remember, were only "Headball" by
+ZX-Masters and "Net Walk" by
+Style, also digital sound was plan-
+ned to be used in "The Black Raven
+1,2" ("Черный Ворон 1,2"), besides f
+or the second part of game all
+samples were already made. Howe-
+ver all advantages of sound of this
+devices can be estimated in some
+remixes of old games, that started
+to be manufactured in 97. Undoub-
+ted masterpieces were cult games
+"Chase H. Q. 1" and "Target Rene-
+gade" by Mike Blum, who made GS
+versions of these games with music
+and sound effects, transferred
+from Amiga and PC. Also it is possible
+to allocate good remixes of "Barba-
+rian" by Moroz, "Comando Tracer"
+by Syndrome, " Dan Dare. Pilot of
+the Future", "Krakout", "Lee En-
+field" by Phantom Family, "Navy Mo-
+ves 1" by Triumph, "Power Boat Si-
+mulator", "Renegade", "Y.S.Capers
+Scatz", "Zynaps" by Mike Blum,
+"Xecutor" by Stinger, "Rex 1,2" by
+CPG, "Batty" by Nova. A nd it was on-
+ly a small list of releases, because
+such kind of works are conducting
+till nowadays by different
+teams.
+
+At last it is necessary to tell about
+demoversions of interesting pro-
+jects which have not seen the end
+though if the full versions of these
+games were completed, the majori-
+ty of them would become mega-
+hits.
+
+When in middle 90's level of coding of
+Spectrum people has achieved
+rather high level, many people deci-
+ded to realize a dream of all players
+and transfer to 8-bit platform
+"Doom". There were some attempts
+to write "doomlike" engine, in pa
+rticular such attempts, we shall tell
+not so impressing, were underta-
+ken by Cobra and Syndicate, howe-
+ver they hadn't reached the realiza-
+tion of enemies. But already in 1997
+there was a sensation -Digital Reali-
+ty released welldone demoversi on,
+containing the first level of "Doom".
+It had three video modes (two
+chunks with attributes, and one mo-
+nochrome in a small window, but
+hi-rez), and also four kinds of wea-
+pons, ammunition, first-aid sets,
+the armour and two kinds of monst
+ers, which were already possible to
+kill. A little bit later Alone Coder re-
+leased "Wolf 3D", however with
+good engine (smooth movement in
+big window, normally opening doors)
+in that demoversion, despite of pre-
+sence of several kinds of the w ea-
+pon monsters were harmless, i.e.
+they were realized, but remained
+motionless and impregnable for we-
+apon of the player. But the most
+successful, in my opinion, realiza-
+tion was the last demoversion (by
+the way it was published in the ap-
+pend ix to Adventurer#13) of game
+"Citadel" by Stalker. The engine va-
+ried during period of several years
+and at the end - It had united itself
+all the best that were in "Doom" by
+Digital Reality and "Wolf 3D" by Alone
+Coder. Except of three vide omodes,
+active enemies, several types of
+weapons and normal realization of
+doors in it, there was attempted to
+realize dynamic illumination of
+explosions and ammunition. Also it is
+necessary to mention one more un-
+finished, but very perspect ive pro-
+ject -"ZX Duke Nukem", developed
+by Volga Soft. There wasn't demo-
+version of this game as such, howe-
+ver this engine was possible to
+explore in an article and sources,
+which were, published in "Adventu-
+rer #13", also it was used in tra
+ckmo "Love Gun", which was writ-
+ten by the same Volga Soft. On my
+sight, it is one of the fastest
+(alongside with "Awaken") 3D engine
+on Spectrum, allowing to make real-
+ly fast hi-rez 3D games. For an
+example it is possible to tell, that if
+t his technology were applied in ga-
+mes such as "Driller" or "Total Ec-
+lipse" they would work in 5-6 times
+faster.
+
+In 1996 electronic magazine
+"Spectrofon" published demover-
+sion of cult RTS "Dune 2", this first
+conversion was made by Pe-
+restroika, certainly attempt to re-
+alize this kind of strategy wasn't so
+successful, if there were produced
+many units game started to go slow,
+but this demoversion showed us
+that it is possible to make RTS on
+Speccy. As I already wrote above,
+at the end of next year "Black
+Raven" was released and became
+immortal, which has lifted a compe-
+tition up to very h igh level. As I
+known Copper Feet has refused to
+finish "BW2" by reasons of finan-
+cials, however apparently from fi-
+nal demoversion published in 2000
+this game should have many advan-
+tages, new engine and refreshed
+gfx. Also there could be fly ing units,
+expanded list of spells and more ad-
+vanced game play. Among un-
+completed, but promised projects
+in genre of RTS it is possible to note
+"Operation 'Oil'" by Alexoft and Ber-
+seker, and "Jackals" by The Mad Ma-
+ilmen League both these ga mes had
+more integrated sprites of units
+and structures, and also some addi-
+tional features which favourably
+distinguished them from "BW1".
+
+Some releases of step-by-step
+strategies also were planned. Cu-
+beckin Vitaliy tried to transfer
+"Civilization", and demoversion,
+not differed from original. Phantom
+family released demoversion of ve-
+ry popular in circles of strategy
+fans game "Master of Orion", ho-
+wever, because of its incomplete-
+ness it is impossible to speak about
+quality of an end product, but even
+only the name of game "MoO" would
+force many people to play. "Mecha-
+nic Wars" by Green Fort was writ-
+ten under influence of "Heroes of
+Might and Magic", but it had futuris-
+tic plot with opportunity to develop
+science, so it looked like the same
+"Master of Orion" and "Reunion". In
+a genre of wargame we can pick out
+"Empire" by Virtual Vision Group,
+however after release of the se-
+cond demoversion this group left Sp
+ectrum and renamed in Team Power
+Amiga.
+
+If speech has gone to Amiga it is ne-
+cessary to recollect one megahit of
+this platform - "Walker". Alien Fac-
+tory was engaged to transfer this
+game during four years and have
+achieved dazzling successes. Final

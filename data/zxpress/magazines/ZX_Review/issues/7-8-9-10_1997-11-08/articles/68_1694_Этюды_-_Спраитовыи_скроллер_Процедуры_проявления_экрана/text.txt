@@ -1,0 +1,491 @@
+ZX Review 7-8-9-10 - Этюды - Спрайтовый скроллер. Процедуры проявления экрана.
+(c) Командин И.Г., г.Калуга
+Предлагаю  свою   программку.
+Это спрайтовый скроллер  с  воз-
+можностью использования спрайтов
+высотой от 1 до  8  знакомест  и
+шириной от 1 до 31 знакоместа.
+140.
+;(C) ZX-MANIACS
+;SPECIAL FOR INFORCOM
+3;KALUGA'1996
+
+          ORG     40000
+
+DX        EQU     4
+DY        EQU     4
+          CALL    INIT
+          CALL    SCROLL
+          RET
+INIT      LD      HL,BUFF
+          LD      DE,BUFF+1
+          LD      BC,DX*DY*8-1
+          LD      (HL),0
+          LDIR
+          LD      HL,TEXT
+          LD      (TEXTP),HL
+          LD      HL,41000
+          LD      (FONT),HL
+          XOR     A
+          LD      (COL),A
+          RET
+SCROLL    LD      A,(COL)
+          OR      A
+          JR      Z,LDCOL
+          DEC     A
+          LD      (COL),A
+          JR      NEXT
+LDCOL     CALL    LDIRB
+          LD      A,DX*8
+          LD      (COL),A
+NEXT      LD      HL,#481F    ;!
+          LD      DE,BUFF+DX-1
+          LD      B,DY
+LOOP      PUSH    BC
+          PUSH    HL
+          LD      B,8
+LOOP1     PUSH    BC
+          PUSH    HL
+          EX      DE,HL
+          AND     A
+          LD      B,DX
+LOOP3     RL      (HL)
+          DEC     HL
+          DJNZ    LOOP3
+          EX      DE,HL
+          LD      B,32       ;!!
+LOOP2     RL      (HL)
+          DEC     HL
+          DJNZ    LOOP2
+          POP     HL
+          LD      B,DX*2
+LOOP4     INC     DE
+          DJNZ    LOOP4
+          POP     BC
+          INC     H
+          DJNZ    LOOP1
+          POP     HL
+          LD      BC,32
+          ADD     HL,BC
+          POP     BC
+          DJNZ    LOOP
+          RET
+LDIRB     LD      HL,(TEXTP)
+          LD      A,(HL)
+          OR      A
+          JR      NZ,NEXTA
+          LD      HL,TEXT
+          LD      (TEXTP),HL
+          LD      A,32      ;!!!
+          JR      NEXTB
+NEXTA     INC     HL
+          LD      (TEXTP),HL
+NEXTB     SUB     32
+          LD      H,A
+          LD      C,DX*DY
+          LD      L,0
+          LD      B,L
+          LD      A,8
+L1        ADD     HL,HL
+          JR      NC,L2
+          ADD     HL,BC
+L2        DEC     A
+          JR      NZ,L1
+          ADD     HL,HL
+          ADD     HL,HL
+          ADD     HL,HL
+          LD      DE,(FONT)
+          ADD     HL,DE
+          LD      DE,BUFF
+          LD      BC,DX*DY*8
+          LDIR
+          RET
+
+COL       DEFB  DX*8
+TEXTP     DEFW  TEXT
+FONT      DEFW  41000
+BUFF      DEFS  DX*DY*8
+TEXT      DEFM  " MEGA SPRITE"
+          DEFM  " SCROLL IS"
+          DEFM  " WRITTEN BY"
+          DEFM  " KOMANDIN ILYA"
+          DEFM  " (ZX-MANIACS)"
+       3   DEFM  ",KALUGA'1996"
+          DEFB  0
+2
+   Ну а теперь некоторые аннота-
+ции к этой программе.
+1.
+Как основа  для  программы
+использовалась  бегущая   строка
+Сергея Каминского  (ZX РЕВЮ  N3'
+1995, стр.43-45).
+2.
+Также в программе  исполь-
+зуется процедура  MUL_3  Алексея
+Жильцова  (ZX РЕВЮ N3'1995, стр.
+35-36).
+3.
+Хотя  размеры  спрайтов  в
+процедуре  и  могут  быть  очень
+большими, я бы не советовал  ис-
+пользовать  спрайты  больше, чем
+6x6  знакомест.  Во-первых, сим-
+вольный набор для  таких  спрай-
+тов занимает больше 27 килобайт,
+а во-вторых, быстродействие-то у
+программы  не  мгновенное.  Если
+Вы работаете из Бейсика, то  Вам
+придется отказаться от привычно-
+го  PAUSE  1  уже  при  спрайтах
+больше чем 3x3 знакоместа. Впро-
+чем, в машинном коде, к счастью,
+Вы сможете использовать HALT да-
+же при довольно  больших  спрай-
+тах.
+4.
+При набивании программы Вы
+должны  использовать  ассемблер,
+воспринимающий    математическую
+операцию "умножить", или же  Вам
+придется  пересчитывать  некото-
+рые числа вручную, что, согласи-
+тесь, не очень удобно.
+5.
+Как  создавать  спрайтовый
+набор для скроллера  -  это  уже
+Ваша забота, но я  бы  советовал
+использовать программу Юрия Але-
+хина (ZX РЕВЮ  1'95, стр.45).  В
+принципе, ее можно  с  легкостью
+переделать для  спрайтов  любого
+размера.
+6.
+В конец  текстого  сообще-
+ния, записанного начиная с  мет-
+ки TEXT, программа  автоматичес-
+ки записывает еще  один  пробел.
+Это не чудачество автора, а  не-
+обходимость, но, если Вы хотите,
+чтобы выдавался не пробел, а ка-
+кой-либо  иной  символ, занесите
+его код в аккумулятор в  строке,
+помеченной тремя восклицательны-
+ми значками.
+7.
+Теперь настало время  рас-
+сказать,  как  изменять   данные
+скроллера.  Размеры  спрайта  по
+горизонтали и по  вертикали  за-
+даются в  переменных  DX  и  DY,
+соответственно, в  самом  начале
+программы.  Адрес  байта  в  эк-
+ранной области, соответствующего
+правому верхнему углу окна выво-
+да скроллера, задается в  строке
+с одним восклицательным  знаком,
+а длина окна - с  двумя.  Внима-
+ние!!! Следите за тем, чтобы ок-
+но вывода бегущей строки не  вы-
+ходило за  пределы  одной  трети
+экрана, иначе будут глюки!
+8.
+Запускается скроллер  ана-
+логично программе Сергея  Камин-
+ского - см. 1-й пункт.
+
+        С уважением, ZX-MANIACS.
+
+          *   *   *
+(c) Командин И.Г., г.Калуга
+Предлагаю процедуру  проявле-
+ния экрана  горизонтальными  ли-
+ниями. Предлагаю  полный  и  уп-
+рощенный вариант процедуры, хотя
+качество последнего  мне, честно
+говоря, не нравится.
+140.
+;(C) ZX-MANIACS
+;SPECIAL FOR INFORCOM
+;
+          ORG     40000
+          ENT
+
+BUFF      EQU     41000
+          LD      HL,TABL
+          LD      DE,TABL+1
+          LD      BC,191
+          LD      (HL),0
+          LDIR
+          LD      B,192
+          LD      HL,14000    ;*
+LOOP      PUSH    BC
+LOOP1     PUSH    HL
+          LD      A,(HL)
+          CP      192
+          JR      NC,CONT
+          LD      HL,TABL
+          LD      D,0
+          LD      E,A
+          ADD     HL,DE
+          LD      B,A
+          LD      A,(HL)
+          OR      A
+          JR      NZ,CONT
+          INC     A
+          LD      (HL),A
+          LD      A,B
+          LD      C,0
+          CALL    8880
+          LD      D,H
+          LD      E,L
+          LD      BC,BUFF-16384
+          ADD     HL,BC
+          LD      BC,32
+          LDIR
+          HALT
+          POP     HL
+          POP     BC
+          DEC     HL
+          DJNZ    LOOP
+          LD      HL,BUFF+6144
+          LD      DE,22528
+          LD      BC,768
+          LDIR
+          RET
+
+CONT      POP     HL
+          DEC     HL
+          JR      LOOP1
+
+TABL      DEFS    192
+
+────────────────────────────────
+
+          ORG     40000
+
+          LD      BC,400
+          LD      HL,14000    ;*
+LOOP      PUSH    BC
+LOOP1     PUSH    HL
+          LD      A,(HL)
+          CP      192
+          JR      NC,CONT
+          LD      C,0
+          CALL    8880
+          LD      D,H
+          LD      E,L
+          LD      BC,BUFF-16384
+          ADD     HL,BC
+          LD      BC,32
+          LDIR
+          HALT
+          POP     HL
+          POP     BC
+          DEC     HL
+          DEC     BC
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+          LD      HL,BUFF
+          LD      DE,16384
+          LD      BC,6912
+          LDIR
+          RET
+
+CONT      POP     HL
+          DEC     HL
+          JR      LOOP1
+
+BUFF      EQU     41000
+2
+   В строках, помеченных звездо-
+чкой, задается адрес в  ПЗУ, ис-
+пользуемом как генератор случай-
+ных чисел. Изменяя  этот  адрес,
+Вы сможете получить разные  пос-
+ледовательности вывода картинки.
+
+   Следующая  процедура  как  бы
+складывает картинку из отдельных
+линий, падающих сверху.
+140.
+;(C) ZX-MANIACS
+;SPECIAL FOR INFORCOM
+;
+          ORG     40000
+
+BUFF      EQU     41000
+
+          LD      A,191
+          LD      BC,49152
+LOOP      PUSH    BC
+          PUSH    AF
+          CALL    8880
+          LD      DE,BUFF-16384
+          ADD     HL,DE
+          POP     AF
+          PUSH    AF
+          INC     A
+          LD      B,A
+          XOR     A
+LOOP1     PUSH    BC
+          PUSH    AF
+          PUSH    HL
+          CALL    8880
+          EX      DE,HL
+          POP     HL
+          PUSH    HL
+          LD      BC,32
+          LDIR
+          POP     HL          ;*
+          POP     AF
+          PUSH    AF
+140.          PUSH    HL
+          DEC     A
+          CALL    8880
+          LD      D,H
+          LD      E,L
+          INC     DE
+          LD      (HL),0
+          LD      BC,31
+          LDIR
+          LD      B,250
+PAUSE     NOP
+          NOP
+          DJNZ    PAUSE      ;**
+          POP     HL
+          POP     AF
+          INC     A
+          POP     BC
+          DJNZ    LOOP1
+          POP     AF
+          DEC     A
+          POP     BC
+          DJNZ    LOOP
+          LD      HL,BUFF+6144
+          LD      DE,22528
+          LD      BC,768
+          LDIR
+          RET
+2
+   Скорость падения линий  можно
+менять, изменяя число  в  строке
+перед  меткой  PAUSE.  При   ма-
+ленькой задержке  изображение  у
+меня начинало заметно дрожать. В
+принципе, я склонен отнести  все
+это  к  чудачествам  моего  ком-
+пьютера (у меня, например, очень
+сильно  дрожит  экран  в   LASER
+SQUAD), но  кто  знает...   Если
+стереть все  строки, начиная  со
+строки, помеченной звездочкой, и
+вплоть до строки с  двумя  звез-
+дочками (включительно), то полу-
+чится  самая  короткая  из  ког-
+да-либо предлагавшихся  программ
+"наливания" экрана.
+
+   Следующая программа проявляет
+экран довольно замороченным  об-
+разом, поэтому я  даже  не  буду
+пытаться описывать  ее  действие
+словами. Могу лишь  посоветовать
+поизменять  число  в  строке  со
+звездочкой  и   посмотреть,  что
+выйдет (попробуйте поставить ту-
+да, например, число 190).
+140.
+;(C) ZX-MANIACS
+;
+          ORG     40000
+
+BUFF      EQU     41000
+
+          LD      B,192
+          LD      HL,#4000
+          LD      DE,22497
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      A,255       ;*
+          LD      B,16
+LOOP1     LD      (HL),A
+          INC     HL
+          INC     HL
+          LD      (DE),A
+          INC     DE
+          INC     DE
+          DJNZ    LOOP1
+          POP     DE
+          CALL    UP
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          HALT
+          DJNZ    LOOP
+          LD      HL,#4001
+          LD      DE,22496
+          LD      B,192
+LOOP2     PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,16
+LOOP3     PUSH    BC
+          LD      BC,BUFF-16384
+          ADD     HL,BC
+          LD      A,(HL)
+          SBC     HL,BC
+          LD      (HL),A
+          INC     HL
+          INC     HL
+          EX      DE,HL
+          ADD     HL,BC
+          LD      A,(HL)
+          SBC     HL,BC
+          LD      (HL),A
+          EX      DE,HL
+          INC     DE
+          INC     DE
+          POP     BC
+          DJNZ    LOOP3
+          POP     DE
+          CALL    UP
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          HALT
+          DJNZ    LOOP2
+          LD      HL,BUFF+6144
+          LD      DE,22528
+          LD      BC,768
+          LDIR
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+UP        DEC     D
+          LD      A,D
+          AND     7
+          CP      7
+          RET     NZ
+          LD      A,E
+          SUB     32
+          LD      E,A
+          RET     C
+          LD      A,D
+          ADD     A,8
+          LD      D,A
+          RET
+2
+          *   *   *

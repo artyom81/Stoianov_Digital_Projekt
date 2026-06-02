@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "34",
+  "issue_date_iso": "1999-08-21",
+  "order": 6,
+  "article_id": 4333,
+  "title_link": "Конкурс - Необычный конкурс для читателей.",
+  "title_h1": "Think 34 - Конкурс - Необычный конкурс для читателей.",
+  "print_url": "https://zxpress.ru/print.php?id=4333",
+  "article_url": "https://zxpress.ru/article.php?id=4333",
+  "fetched_at": "2026-05-31T23:13:49Z"
+}

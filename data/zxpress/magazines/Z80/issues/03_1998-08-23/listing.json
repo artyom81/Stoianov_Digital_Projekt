@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1884,
+    "article_url": "https://zxpress.ru/article.php?id=1884",
+    "print_url": "https://zxpress.ru/print.php?id=1884",
+    "title_link": "Living on IRC - Посвящается стойким фанатам Спектрума.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Living_on_IRC_-_Посвящается_стоиким_фанатам_Спектрума"
+  },
+  {
+    "article_id": 1882,
+    "article_url": "https://zxpress.ru/article.php?id=1882",
+    "print_url": "https://zxpress.ru/print.php?id=1882",
+    "title_link": "Вступление - О содержании газеты...",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_О_содержании_газеты"
+  },
+  {
+    "article_id": 1886,
+    "article_url": "https://zxpress.ru/article.php?id=1886",
+    "print_url": "https://zxpress.ru/print.php?id=1886",
+    "title_link": "Обо всем - О прошедших demo party: FunTop и Doxycon.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Обо_всем_-_О_прошедших_demo_party_FunTop_и_Doxycon"
+  },
+  {
+    "article_id": 1885,
+    "article_url": "https://zxpress.ru/article.php?id=1885",
+    "print_url": "https://zxpress.ru/print.php?id=1885",
+    "title_link": "Ресурсы - ZX-Spectrum: ресурсы в Интернет - 2...",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Ресурсы_-_ZX-Spectrum_ресурсы_в_Интернет_-_2"
+  },
+  {
+    "article_id": 1883,
+    "article_url": "https://zxpress.ru/article.php?id=1883",
+    "print_url": "https://zxpress.ru/print.php?id=1883",
+    "title_link": "Интервью - Интервью Jaan aka DJ Phantasy.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Интервью_-_Интервью_Jaan_aka_DJ_Phantasy"
+  },
+  {
+    "article_id": 1887,
+    "article_url": "https://zxpress.ru/article.php?id=1887",
+    "print_url": "https://zxpress.ru/print.php?id=1887",
+    "title_link": "Авторы - Над номером работали...",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Авторы_-_Над_номером_работали"
+  }
+]

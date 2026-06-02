@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "50",
+  "issue_date_iso": "2000-11-19",
+  "order": 2,
+  "article_id": 13567,
+  "title_link": "Московские новости - чем сейчас живет Спектрум в Москве и вообще на\r\nтерритории бывшего СССР.",
+  "title_h1": "City 50 - Московские новости - чем сейчас живет Спектрум в Москве и вообще на территории бывшего СССР.",
+  "print_url": "https://zxpress.ru/print.php?id=13567",
+  "article_url": "https://zxpress.ru/article.php?id=13567",
+  "fetched_at": "2026-05-31T21:52:18Z"
+}

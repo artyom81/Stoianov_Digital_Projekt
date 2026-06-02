@@ -1,0 +1,123 @@
+SOSG 05 - Новинки SOSG - Bard&#039;s Tale: Hеобычные предметы.
+┌──────────────────────────────────────────────────────────────┐
+│                         НОВИНКИ SOSG                         │
+└──────────────────────────────────────────────────────────────┘
+
+(C) 1998 by Valentin Pimenov
+
+                   Bard's Tale: Необычные предметы
+
+   В лабиринтах (не в основном городе) Вы можете  находить  раз-
+личные магические предметы. К сожалению в фирменном описании ни-
+чего не говорится о них. Я постараюсь  восполнить  этот  пробел,
+хотя бы простым их перечислением.
+
+ADMT Sword - Адамантовый меч
+ADMT Shield - Адамантовый щит
+ADMT Dagger - Адамантовый Кинжал
+ADMT Helm - Адамантивый шлем
+ADMT Gloves - Адамантовые перчатки
+ADMT Mace - Адамантовая палица
+ADMT Chain - Адамантовые доспехи
+ADMT Scale - Адамантовая кольчуга
+ADMT Plate - Адамантовая броня
+DMND Sword - Алмазный меч
+DMND Shield - Алмазный щит
+DMND Plate - Алмазная броня
+DMND Dagger - Алмазный кинжал
+DMND Helm - Алмазный шлем
+MTHR Sword - Мифриловый меч
+MTHR Shield - Мифриловый щит
+MTHR Chain - Мифриловые доспехи
+MTHR Scale - Мифриловая кольчуга
+MTHR Dagger - Мифриловый кинжал
+MTHR Helm - Мифриловый шлем
+MTHR Gloves - Мифриловые перчатки
+MTHR Axe - Мифриловый топор
+MTHR Mace - Мифриловая палица
+MTHR Plate - Мифриловая броня
+Giant FGN - Статуэтка гиганта
+Thor FGN - Статуэтка Тора
+Old man FGN - Статуэтка Старика
+Mongo FGN - Статуэтка Монго
+Lich FGN - Статуэтка Лича
+Dragon FGN - Статуэтка Дракона
+Mage FGN -  Статуэтка Мага
+Golem FGN - Статуэтка Голема
+Titan FGN - Статуэтка Титана
+Samurai FGN - Статуэтка самурая
+Bracers - Нарукавники
+Bardsword - Меч Барда
+Fire Horn - Огненный Рог
+Lightwand - Жезл Света
+Ogre FGN - Статуэтка Огра
+Lak's Lyre - Лира Лэка
+Shield Ring - Кольцо Защиты
+Dork Ring  - Кольцо Дорка (?)
+Fins Flute - Флейта Финса (Руки?)
+Kael's Axe - Топор Кэлса
+Blood Axe - Топор Крови
+Dayblade - Клинок Дня
+Shelid Staff - Посох Защиты
+Elf Cloak - Плащ эльфа
+Hawkblade - Клинок Ястреба
+Broom - Метла
+Pureblade - Непорочный Клинок
+Exorwand - Заклинательский жезл
+Ali's Carpet - Ковер Али
+Magic Mouth - Магический рот (для допроса?)
+Luckshield - Щит Удачи
+Arcsheild - Щит Арка
+Pureshield - Непорочный щит
+Magestaff - Магический посох
+Warstaff - Посох Войны
+Thief Dagger - Воровской кинжал
+Soul Mace - Палица Души
+Wither Staff - Осушающий посох
+Sorcerer Staff - Посох Волшебника
+Sword of Pak - Меч Пака
+Heal Harp - Арфа Исцеления
+Galt's Flute - Флейта Гальта
+Frost Horn - Рог Холода
+Conjurstaff - Посох Заклинателя
+Arc's Hammer - Молот Арка
+Staff of Lor - Посох Лора
+Powerstaff - Посох Силы
+Mournblade - Клинок Грусти
+Dragonshield - Щит Дракона
+Warglovers - Военные перчатки
+Lore Helm - Шлем Лоура
+Kiel's Compass - Компас Келса
+Speed Boots - Сапоги-скороходы
+Flame Horn - Пламенный рог
+Truthdrum - Барабан Истины
+Spiritdrum - Барабан Духа
+Pipes of Pan - Трубочки Пана
+Ring of Power - Кольцо Силы
+Deathring - Кольцо Смерти
+Ybarrashield - Щит Ибарра
+Specte Mace - Спектральная (?) палица
+Dag Stone - Камень Дэга (Руна?)
+Arc's Eye - Глаз Арка
+Orgewand - Жезл Огра
+Spirithelm - Шлем Духа
+Troll Ring - Кольцо Тролля
+Troll Staff - Посох Тролля
+Onyx Key - Ключ Оникса
+Crystal Sword - Кристальный меч
+Stone Blade - Каменный клинок
+Travel Helm - Шлем Странствия
+Death Dagger - Кинжал Смерти
+Master Key - Отмычка
+Wiz Wand - Жезл Колдуна
+Silver Square - Серебряный Квадрат
+Silver Circle - Серебряный Круг
+Silver Triangle - Серебряный Треугольник
+Spectre Snare - Ловушка для призраков
+
+   Достано собственноручно.
+
+P.S. А представляете, сколько еще исследований предстоит сделать
+по поводу этих вещей. Даются они, похоже, с использованием гене-
+ратора случайных чисел. Мне больше  всего  понравилась "Old  Man
+FGN." - очень хорошо работает.

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 877,
+    "article_url": "https://zxpress.ru/article.php?id=877",
+    "print_url": "https://zxpress.ru/print.php?id=877",
+    "title_link": "Fun Top'98 - Demo Compo - рассмотрение работ.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Fun_Top98_-_Demo_Compo_-_рассмотрение_работ"
+  },
+  {
+    "article_id": 883,
+    "article_url": "https://zxpress.ru/article.php?id=883",
+    "print_url": "https://zxpress.ru/print.php?id=883",
+    "title_link": "Железо - Рождение модема во Львове.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Железо_-_Рождение_модема_во_Львове"
+  },
+  {
+    "article_id": 878,
+    "article_url": "https://zxpress.ru/article.php?id=878",
+    "print_url": "https://zxpress.ru/print.php?id=878",
+    "title_link": "Лит. страничка - Гриф \"Y\" (Дневник Лаборанта Ж. Скальпив - продолжение).",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Лит_страничка_-_Гриф_Y_Дневник_Лаборанта_Ж_Скальпив_-_продол"
+  },
+  {
+    "article_id": 881,
+    "article_url": "https://zxpress.ru/article.php?id=881",
+    "print_url": "https://zxpress.ru/print.php?id=881",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 882,
+    "article_url": "https://zxpress.ru/article.php?id=882",
+    "print_url": "https://zxpress.ru/print.php?id=882",
+    "title_link": "Четыре килобайта - Надеюсь, что таки будет проведен FT'99.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Четыре_килобаита_-_Надеюсь_что_таки_будет_проведен_FT99"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 37,
+  "magazine_name": "Cancer",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "0000-01-01",
+  "order": 1,
+  "article_id": 17043,
+  "title_link": "Pitonchik - Здесь творится что-то непонятное...",
+  "title_h1": "Cancer 02 - Pitonchik - Здесь творится что-то непонятное...",
+  "print_url": "https://zxpress.ru/print.php?id=17043",
+  "article_url": "https://zxpress.ru/article.php?id=17043",
+  "fetched_at": "2026-05-31T21:49:20Z"
+}

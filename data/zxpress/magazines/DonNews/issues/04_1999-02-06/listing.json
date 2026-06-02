@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 6389,
+    "article_url": "https://zxpress.ru/article.php?id=6389",
+    "print_url": "https://zxpress.ru/print.php?id=6389",
+    "title_link": "Предисловие - Газета стала периодичной.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Предисловие_-_Газета_стала_периодичнои"
+  },
+  {
+    "article_id": 6390,
+    "article_url": "https://zxpress.ru/article.php?id=6390",
+    "print_url": "https://zxpress.ru/print.php?id=6390",
+    "title_link": "Пикник - Впечатление от Omega Party.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Пикник_-_Впечатление_от_Omega_Party"
+  },
+  {
+    "article_id": 6391,
+    "article_url": "https://zxpress.ru/article.php?id=6391",
+    "print_url": "https://zxpress.ru/print.php?id=6391",
+    "title_link": "Почта - Письмо от Vage/X-Team.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Почта_-_Письмо_от_VageX-Team"
+  },
+  {
+    "article_id": 6392,
+    "article_url": "https://zxpress.ru/article.php?id=6392",
+    "print_url": "https://zxpress.ru/print.php?id=6392",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 6393,
+    "article_url": "https://zxpress.ru/article.php?id=6393",
+    "print_url": "https://zxpress.ru/print.php?id=6393",
+    "title_link": "Послесловие - Как делался этот номер.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Послесловие_-_Как_делался_этот_номер"
+  }
+]

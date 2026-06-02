@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 6361,
+    "article_url": "https://zxpress.ru/article.php?id=6361",
+    "print_url": "https://zxpress.ru/print.php?id=6361",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6362,
+    "article_url": "https://zxpress.ru/article.php?id=6362",
+    "print_url": "https://zxpress.ru/print.php?id=6362",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6364,
+    "article_url": "https://zxpress.ru/article.php?id=6364",
+    "print_url": "https://zxpress.ru/print.php?id=6364",
+    "title_link": "Железо - обзор микропроцессора Zilog Z380, продолжение.",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Железо_-_обзор_микропроцессора_Zilog_Z380_продолжение"
+  },
+  {
+    "article_id": 6365,
+    "article_url": "https://zxpress.ru/article.php?id=6365",
+    "print_url": "https://zxpress.ru/print.php?id=6365",
+    "title_link": "Графика - картинка АNSI графики.",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Графика_-_картинка_АNSI_графики"
+  },
+  {
+    "article_id": 6366,
+    "article_url": "https://zxpress.ru/article.php?id=6366",
+    "print_url": "https://zxpress.ru/print.php?id=6366",
+    "title_link": "Юмор - дневник одной девочки.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Юмор_-_дневник_однои_девочки"
+  },
+  {
+    "article_id": 6367,
+    "article_url": "https://zxpress.ru/article.php?id=6367",
+    "print_url": "https://zxpress.ru/print.php?id=6367",
+    "title_link": "Юмор - Новая эра информатики, новости - факты - сенсации.",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Юмор_-_Новая_эра_информатики_новости_-_факты_-_сенсации"
+  },
+  {
+    "article_id": 6368,
+    "article_url": "https://zxpress.ru/article.php?id=6368",
+    "print_url": "https://zxpress.ru/print.php?id=6368",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "22",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6369,
+    "article_url": "https://zxpress.ru/article.php?id=6369",
+    "print_url": "https://zxpress.ru/print.php?id=6369",
+    "title_link": "Юмор - анекдоты.",
+    "order": 8,
+    "issue_label": "22",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6370,
+    "article_url": "https://zxpress.ru/article.php?id=6370",
+    "print_url": "https://zxpress.ru/print.php?id=6370",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 9,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6371,
+    "article_url": "https://zxpress.ru/article.php?id=6371",
+    "print_url": "https://zxpress.ru/print.php?id=6371",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 10,
+    "issue_label": "22",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1997-07-25",
+  "order": 3,
+  "article_id": 12335,
+  "title_link": "Demo - Мнение брестских синклеристов относительно демостроения.",
+  "title_h1": "Lprint 12 - Demo - Мнение брестских синклеристов относительно демостроения.",
+  "print_url": "https://zxpress.ru/print.php?id=12335",
+  "article_url": "https://zxpress.ru/article.php?id=12335",
+  "fetched_at": "2026-05-31T22:21:01Z"
+}

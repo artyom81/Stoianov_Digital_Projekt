@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5198,
+    "article_url": "https://zxpress.ru/article.php?id=5198",
+    "print_url": "https://zxpress.ru/print.php?id=5198",
+    "title_link": "Credits - авторство графики и музыки прошлых номеров.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Credits_-_авторство_графики_и_музыки_прошлых_номеров"
+  },
+  {
+    "article_id": 5199,
+    "article_url": "https://zxpress.ru/article.php?id=5199",
+    "print_url": "https://zxpress.ru/print.php?id=5199",
+    "title_link": "AD&D - Небольшая информация по группе \"волшебники\".",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "ADD_-_Небольшая_информация_по_группе_волшебники"
+  },
+  {
+    "article_id": 5200,
+    "article_url": "https://zxpress.ru/article.php?id=5200",
+    "print_url": "https://zxpress.ru/print.php?id=5200",
+    "title_link": "G.A.C. - адаптация под TR-DOS системы для написания адвентюр G.A.C.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "GAC_-_адаптация_под_TR-DOS_системы_для_написания_адвентюр_GA"
+  },
+  {
+    "article_id": 5201,
+    "article_url": "https://zxpress.ru/article.php?id=5201",
+    "print_url": "https://zxpress.ru/print.php?id=5201",
+    "title_link": "Описание - 'CONVER-Commander V 4.23 pro' (часть вторая).",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Описание_-_CONVER-Commander_V_423_pro_часть_вторая"
+  },
+  {
+    "article_id": 5202,
+    "article_url": "https://zxpress.ru/article.php?id=5202",
+    "print_url": "https://zxpress.ru/print.php?id=5202",
+    "title_link": "Юмор - Юмор из Фидо: фидошник рассказывает о том как он очутился в Фидо.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Юмор_-_Юмор_из_Фидо_фидошник_рассказывает_о_том_как_он_очути"
+  }
+]

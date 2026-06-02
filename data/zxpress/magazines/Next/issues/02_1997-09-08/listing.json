@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15420,
+    "article_url": "https://zxpress.ru/article.php?id=15420",
+    "print_url": "https://zxpress.ru/print.php?id=15420",
+    "title_link": "Новости - Цитата дня. Новость дня. Новости.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Цитата_дня_Новость_дня_Новости"
+  },
+  {
+    "article_id": 15421,
+    "article_url": "https://zxpress.ru/article.php?id=15421",
+    "print_url": "https://zxpress.ru/print.php?id=15421",
+    "title_link": "Наезд - Вчера в воскресенье, прошарив все BBS'ки до 01:30, мне не удалось найти ни на одной из них Lprint17...",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Наезд_-_Вчера_в_воскресенье_прошарив_все_BBSки_до_0130_мне_н"
+  },
+  {
+    "article_id": 15422,
+    "article_url": "https://zxpress.ru/article.php?id=15422",
+    "print_url": "https://zxpress.ru/print.php?id=15422",
+    "title_link": "Статистика - Сравнительный график качества.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Статистика_-_Сравнительныи_график_качества"
+  },
+  {
+    "article_id": 15423,
+    "article_url": "https://zxpress.ru/article.php?id=15423",
+    "print_url": "https://zxpress.ru/print.php?id=15423",
+    "title_link": "Нужна помощь - Внимание, All! Кто может помочь Werewolves'у?",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Нужна_помощь_-_Внимание_All_Кто_может_помочь_Werewolvesу"
+  }
+]

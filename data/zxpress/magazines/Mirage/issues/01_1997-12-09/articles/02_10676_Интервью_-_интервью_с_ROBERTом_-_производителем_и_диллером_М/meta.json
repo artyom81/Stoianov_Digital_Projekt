@@ -1,0 +1,15 @@
+{
+  "magazine_id": 123,
+  "magazine_name": "Mirage",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-12-09",
+  "order": 2,
+  "article_id": 10676,
+  "title_link": "Интервью - интервью с ROBERT'ом - производителем и диллером Московского модема фирмы \"Аллегро\".",
+  "title_h1": "Mirage 01 - Интервью - интервью с ROBERT&#039;ом - производителем и диллером Московского модема фирмы \"Аллегро\".",
+  "print_url": "https://zxpress.ru/print.php?id=10676",
+  "article_url": "https://zxpress.ru/article.php?id=10676",
+  "fetched_at": "2026-05-31T22:26:58Z"
+}

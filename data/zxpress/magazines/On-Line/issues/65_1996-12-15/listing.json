@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 60,
+    "article_url": "https://zxpress.ru/article.php?id=60",
+    "print_url": "https://zxpress.ru/print.php?id=60",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "65",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2421,
+    "article_url": "https://zxpress.ru/article.php?id=2421",
+    "print_url": "https://zxpress.ru/print.php?id=2421",
+    "title_link": "ZXNet - Как использовать ZXNet для связи с другими сетями.",
+    "order": 2,
+    "issue_label": "65",
+    "short_slug": "ZXNet_-_Как_использовать_ZXNet_для_связи_с_другими_сетями"
+  },
+  {
+    "article_id": 2420,
+    "article_url": "https://zxpress.ru/article.php?id=2420",
+    "print_url": "https://zxpress.ru/print.php?id=2420",
+    "title_link": "Непроверенные сведедения - Луганская группа закончила написание игры \"Смагли 3\".\r\n Создание спектрумовской сети SPbZXNet в Питере.",
+    "order": 3,
+    "issue_label": "65",
+    "short_slug": "Непроверенные_сведедения_-_Луганская_группа_закончила_написа"
+  },
+  {
+    "article_id": 2419,
+    "article_url": "https://zxpress.ru/article.php?id=2419",
+    "print_url": "https://zxpress.ru/print.php?id=2419",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "65",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

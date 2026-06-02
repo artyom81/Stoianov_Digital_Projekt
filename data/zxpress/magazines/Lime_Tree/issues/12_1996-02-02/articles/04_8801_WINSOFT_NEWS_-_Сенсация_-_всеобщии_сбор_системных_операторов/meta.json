@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1996-02-02",
+  "order": 4,
+  "article_id": 8801,
+  "title_link": "WINSOFT NEWS - Сенсация! - всеобщий сбор системных операторов.\r\n ZX-NET в виде схемы передачи информации.\r\n Как возникла идея создания этой газеты.",
+  "title_h1": "Lime Tree 12 - WINSOFT NEWS - Сенсация! - всеобщий сбор системных операторов.  ZX-NET в виде схемы передачи информации.  Как возникла идея создания этой газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=8801",
+  "article_url": "https://zxpress.ru/article.php?id=8801",
+  "fetched_at": "2026-05-31T22:19:30Z"
+}

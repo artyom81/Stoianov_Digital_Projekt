@@ -1,0 +1,289 @@
+Inferno 04 - Sofтинка - Типы файлов, определённые в ОС ZXVGS.
+Типы файлов, определённые в ZXVGS
+Происхождения расширений:
+new
+- новое, определённое для нужд ZXVGS
+old
+- совместимость сверху вниз
+other
+- с других платформ.
+Возможные операции:
+load
+- файл может быть запущен с помощью
+RSX,
+data
+- данные из файла могут быть загруже-
+ны с помощью RSX,
+run
+- ZXVGS может запустить такой файл,
+screen
+- файл может использоваться для
+хранения экрана.
+Тип     Операции    Описание
+$B
+old   run
+Hobeta TR-DOS file - BASIC
+$C
+old    -
+Hobeta TR-DOS file - CODE
+$T
+old    -
+Hobeta TR-DOS file - text
+$W
+old    -
+Hobeta TR-DOS file - text
+ACH
+old    -
+snapshot file (???)
+BA2
+new    -
+Бейсик-файл с инструкциями
+для TOS A.2. Заголовок:
+(0,len,start,prog,line)
+у всех Бейсик-файлов
+BD1
+new    -
+Бейсик-файл с инструкциями
+для DISCiPLE/+D
+BI1
+new    -
+Бейсик-файл с инструкциями
+для Interface 1
+BLK
+old   data
+Образ ленты для эмулятора
+Sinclair 2.0, см. TAP.RZX
+BJR
+new    -
+Бейсик-файл с инструкциями
+для ELWRO 800 Junior,
+см. ".PRG"
+BMP
+other  -
+Графический файл
+BZX
+new   load
+Бейсик-файл с простыми
+дисковыми инструкциями
+см. BZX.RZX
+COD
+old    -
+То же, что и ".CZX", но с
+17 B магнитофонным
+заголовком
+COM
+other  -
+Программа для CP/M
+CZX
+new   data,
+Файл типа CODE. Заголовок:
+screen
+(3,len,start,#FFFF,#FFFF)
+DAT
+old    -
+Файл данных без заголовка
+DSK
+old    -
+Образ диска для ZX+3 или
+SAM или ???
+DZX
+new   data
+Стандартный number array
+или character array
+Заголовок:
+(1,len,start,name,#FFFF)
+Заголовок:
+(2,len,start,name,#FFFF)
+FDI
+old    -
+Образ диска TR-DOS
+GIF
+other  -
+Графический файл
+GRP
+other  -
+Графический файл (для MSX)
+multicolor
+GZX
+new   data,
+Исходник для ассемблера
+screen
+GENS3
+HC
+new    -
+Исходник для HiSoft C
+HP
+new    -
+Исходник для HiSoft Pascal
+(HP4S, HP4T)
+HRS
+old    -
+Интерлейсный экран высоко-
+го разрешения (512x384)
+IFF
+other  -
+Графический файл
+JPG
+other  -
+Графический файл
+MDR
+old    -
+Образ ленты Microdrive (см
+описание эмулятора "Z80")
+MLT
+old    -
+Мультиколорный экран
+(используется в MB-02)???
+NEL
+old    -
+Библиотека под NeOS
+NEX
+old    -
+Программа под NeOS
+PCX
+other  -
+Графический файл
+PRG
+old    -
+То же, что и ".BJR", но с
+17 B магнитофонным
+заголовком
+PTX
+old    -
+Исходник для ассемблера
+Prometheus
+RAW
+old   data,
+См. CZX, обычно 48kB
+screen
+с адреса #4000
+ROM
+other data,
+Содержимое ПЗУ; нет заго-
+screen
+ловка, длина кратна 128
+RZX
+new    -
+Резидентное Расширение
+Системы ZXVGS. Заголовок:
+(14,len,start,codelen,
+rsxflags)
+SCL
+old   run
+Архив файлов TR-DOS
+SCR
+old   data,
+Экран без заголовка (непо-
+screen
+средственное содержимое
+экранной памяти)
+SEM
+old    -
+snapshot file (???)
+SIT
+old    -
+snapshot file (???)
+SLT
+old    -
+snapshot file (с подгруз-
+ками через команду
+#ED #FB), см. SLT.RZX
+SNA
+old    -
+snapshot file, см. SNA.RZX
+SNX
+old    -
+snapshot file (???)
+SP
+old    -
+snapshot для эмулятора
+"ZX Spectrum", см. SP.RZX
+SPC
+old    -
+Образ ленты (???)
+SV?
+new    -
+Состояние игры или конфи-
+гурация со структурой,оп-
+ределённой пользователем;
+обычно "SV0".."SV9" или
+"SV@" для таблиц рекордов
+Заголовок: (13,len,start,
+namelen,restlen)
+SZX
+new   data,
+Экран (содержимое экранной
+screen
+области). Заголовок:
+(3,#1B00,start,#FFFF,#FFFF)
+TAP
+old   data
+Образ ленты (см. описание
+эмулятора "Z80")
+TRD
+old    -
+Образ диска TR-DOS
+TXT
+other  -
+Текст (RSX может перекоди-
+ровать разделители строк)
+TZX
+old    -
+Образ ленты (см. описание
+эмулятора "X128")
+UDG
+new   data,
+Символы UDG. Заголовок:
+screen
+(3,#00A8,start,#FFFF,#FFFF)
+VFL
+new    -
+Иконки ZXVGS для файлов в
+текущей директории
+VGS
+new    -
+Программа под ZXVGS (сжа-
+тая с помощью ZXVGSC3+),
+кроме файла "VGS.VGS"
+VOC
+other  -
+Образ ленты (см. описание
+эмулятора "X128")
+Vnn
+new    -
+Программа или оверлей под
+ZXVGS, сжатая с помощью
+ZXVGSC1 или ZXVGSC2;
+nn=00..99
+ZX
+old    -
+snapshot длиной 49486 B
+для эмулятора KGB
+Z80
+old   run,
+snapshot file (см.описание
+screen
+эмулятора "X128")
+ZX8
+old    -
+snapshot file (Specculator
+'97), полное расширение
+на самом деле ".ZX82"
+ZXS
+old    -
+Файл ZX32
+ZXT
+new    -
+Текст (конец строки ^M=13,
+конец файла ^@=0)
+Структура файлов "*.BZX", "*.CZX", "*.DZX"
+одинакова.
+То же можно сказать о файлах "*.GZX",
+"*.HC", "*.HP".
+
+Двухбайтные числа в заголовках (start,len,
+prog) лежат в порядке L, H. Это не относи-
+тся к сжатым файлам.
+------------------------------------------
+(c) 2001-10-29 Jarek Adamski
+{zxvgs@yarek.com},{http://zxvgs.yarek.com}

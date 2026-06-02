@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 7716,
+    "article_url": "https://zxpress.ru/article.php?id=7716",
+    "print_url": "https://zxpress.ru/print.php?id=7716",
+    "title_link": "Наши новости - О переделанных на диск играх.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "Наши_новости_-_О_переделанных_на_диск_играх"
+  },
+  {
+    "article_id": 7717,
+    "article_url": "https://zxpress.ru/article.php?id=7717",
+    "print_url": "https://zxpress.ru/print.php?id=7717",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7718,
+    "article_url": "https://zxpress.ru/article.php?id=7718",
+    "print_url": "https://zxpress.ru/print.php?id=7718",
+    "title_link": "HINTS - Пароли к игре THE LAST COURIER.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "HINTS_-_Пароли_к_игре_THE_LAST_COURIER"
+  },
+  {
+    "article_id": 7719,
+    "article_url": "https://zxpress.ru/article.php?id=7719",
+    "print_url": "https://zxpress.ru/print.php?id=7719",
+    "title_link": "BIRTHDAY - С днем рождения SHOTGUN & MONGOL.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "BIRTHDAY_-_С_днем_рождения_SHOTGUN_MONGOL"
+  },
+  {
+    "article_id": 7720,
+    "article_url": "https://zxpress.ru/article.php?id=7720",
+    "print_url": "https://zxpress.ru/print.php?id=7720",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

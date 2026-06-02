@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "27",
+  "issue_date_iso": "1999-09-09",
+  "order": 4,
+  "article_id": 10463,
+  "title_link": "Что-где-почем - новая поpция пpогpаммного обеспечения от VELа из г.Ковpова.",
+  "title_h1": "City 27 - Что-где-почем - новая поpция пpогpаммного обеспечения от VELа из г.Ковpова.",
+  "print_url": "https://zxpress.ru/print.php?id=10463",
+  "article_url": "https://zxpress.ru/article.php?id=10463",
+  "fetched_at": "2026-05-31T21:51:05Z"
+}

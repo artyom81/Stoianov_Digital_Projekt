@@ -1,0 +1,216 @@
+Inferno 01 - Softинка - Extractor: программа для извлечения спектрумовских файлов из эмуляторских форматов.
+Вынь и положи
+(C)2000 Jerri/AF
+Howdy Peoples!
+И еще один глючный продукт от Jerri. На
+сей  раз  он  называется
+"Extractor".
+И
+предназначен он для получения Нормальных
+Спектрумских прог из Глючных ПЦшных фай-
+лов.
+
+Но  самое главное это то, что конвертеры
+из разных форматов задаются как Оверлеи.
+
+ Поэтому не  надо  иметь  на  диске кучу
+прог  типа
+"UNz80","UNslt" или "UNtap",
+достаточно  иметь  оболочку и нужные вам
+оверлеи.
+
+ Итак, после  запуска программа проводит
+тест памяти и начинает шарить по диску в
+поисках файлов с расширением "ovl".
+
+ Если таких на найдено, то она потребует
+вставить диск с оверлеями.
+
+ Управление оболочкой
+"OPQA", "6789"
+и курсорные клавиши.
+"Enter"
+натравить  один  из оверлеев на
+текущий файл
+"G"
+запустить текущий файл
+"R"
+перечитать диск
+ Остальные кнопки   выделены  ЗАГЛАВНЫМИ
+буквами.
+
+ Оболочка поддерживает    файлы   длиной
+больше
+255
+секторов, если они порезаны
+по расширению.
+ 
+Например : Supaplex tzx
+           Supaplex 0zx
+           Supaplex 1zx
+Как написать Оверлей?
+Стартовый адрес  оверлея  #8000 = 32768
+ Максимальная длина
+                  оверлея  #1000 = 4096
+ 
+ После выбора  файла  оболочка переносит
+оверлей  на  адрес  #8000 и передает ему
+следующие данные:
+(DEBC)
+- полная длина файла в байтах
+HL
+- указатель на адреса процедур
++0   Close_File
+закрыть файл
++2  Create_File
+создать файл,
+                         заголовок файла
+                         (14 байт) адре-
+                         суется рег. HL.
++4   Byte_to_buffer
+передать в соз-
+                         данный     файл
+                         байт из рег. А
++6   Get_byte
+взять в рег.  А
+                         байт из  потока
+                         данных
+ 
+  IX  - имя исходного файла
+(может  понадобится для записи извлечен-
+ного из 'sna ' файла)
+
+  При  возврате  если флаг 'Carry' уста-
+новлен, значит в файле была ошибка.
+              
+ Для примера исходник 'scl'а.
+ORG    #6C76
+          DISP   #8000
+;ONSTART
+;HL   INDEX
+
+; +0  CLOFIL
+; +2  CREFIL
+; +4  STOBYT
+; +6  GETBYT
+
+;DEBC FILELENGHT
+
+;BEGINNING
+BEGIN
+          JP     START
+;
+GETBYT    JP     $
+;
+STOBYT    JP     $
+;
+CREFIL    JP     $
+;HL FILEHEADER
+;FILENAME_E_AD(XE)_LN_S
+CLOFIL    JP     $
+FILEHEA   DEFB   "FILENAME"
+          DEFB   "EADLNS"
+HIGLEN    DEFW   0
+LOWLEN    DEFW   0
+START
+          LD     A,B
+          OR     C
+          OR     E
+          OR     D
+          SCF
+          RET    Z
+          PUSH   BC
+          PUSH   DE
+          LD     B,4
+          LD     E,(HL)
+          INC    HL
+          LD     D,(HL)
+          INC    HL
+          PUSH   DE
+          DJNZ   $-5
+          POP    HL
+          LD     (GETBYT+1),HL
+          POP    HL
+          LD     (STOBYT+1),HL
+          POP    HL
+          LD     (CREFIL+1),HL
+          POP    HL
+          LD     (CLOFIL+1),HL
+          POP    HL
+          LD     (HIGLEN),HL
+          POP    HL
+          LD     (LOWLEN),HL
+
+          LD     B,8
+          LD     HL,DAT
+;скрипт'SINCLAIR'
+CALL   GETBYT
+          CP     (HL)
+          SCF
+;ошибка если
+LD     A,1
+;скрипт не
+                     ;совпадает
+RET    NZ
+;с заголовком
+                     ;файла
+INC    HL
+          DJNZ   $-9
+
+          CALL   GETBYT
+;взять
+                        ;количество
+                        ;файлов
+LD     B,A
+          PUSH   BC
+          LD     HL,ENDPROG
+          LD     (TECCAT),HL
+MAIN0     PUSH   BC
+          LD     B,14
+MAIN00
+          CALL   GETBYT
+          LD     (HL),A
+          INC    HL
+          DJNZ   MAIN00
+          POP    BC
+          DJNZ   MAIN0
+          POP    BC
+MAIN1     PUSH   BC
+          LD     BC,13
+          LD     HL,(TECCAT)
+          LD     DE,FILEHEA
+          PUSH   DE
+          LDIR
+          LD     A,(HL)
+          LDI
+          LD     (TECCAT),HL
+          POP    HL
+          PUSH   AF
+          CALL   CREFIL
+;создать файл
+POP    AF
+          LD     B,A
+          LD     C,0
+MAIN2     PUSH   BC
+MAIN3
+          CALL   GETBYT
+          CALL   STOBYT
+;заполнить файл
+DEC    C
+          JR     NZ,MAIN3
+          POP    BC
+          DJNZ   MAIN2
+          CALL   CLOFIL
+;закрыть файл
+POP    BC
+          DJNZ   MAIN1
+          OR     A
+;нет ошибок
+RET
+DAT       DEFB   "SINCLAIR"
+TECCAT    DEFW   0
+ENDPROG
+LENG      EQU    ENDPROG-BEGIN
+SAVE "scl" CODE BEGIN,LENG
+Ну вот наверное и все.
+      При обнаружении глюков, пишите.

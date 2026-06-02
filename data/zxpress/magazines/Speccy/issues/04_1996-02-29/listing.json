@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 471,
+    "article_url": "https://zxpress.ru/article.php?id=471",
+    "print_url": "https://zxpress.ru/print.php?id=471",
+    "title_link": "Авторская программа - Описание авторской игры \"Move'em All\".",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Авторская_программа_-_Описание_авторскои_игры_Moveem_All"
+  },
+  {
+    "article_id": 470,
+    "article_url": "https://zxpress.ru/article.php?id=470",
+    "print_url": "https://zxpress.ru/print.php?id=470",
+    "title_link": "Авторская программа - Описание системной программы \"Uinversal Sprite Cracker v1.01\".",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Авторская_программа_-_Описание_системнои_программы_Uinversal"
+  },
+  {
+    "article_id": 473,
+    "article_url": "https://zxpress.ru/article.php?id=473",
+    "print_url": "https://zxpress.ru/print.php?id=473",
+    "title_link": "Игроскоп - Описание первого уровня аркадно-адвентюрной игры \"48 Утюгов\", карта к игре \"Dan Dare 3\".",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Игроскоп_-_Описание_первого_уровня_аркадно-адвентюрнои_игры"
+  },
+  {
+    "article_id": 474,
+    "article_url": "https://zxpress.ru/article.php?id=474",
+    "print_url": "https://zxpress.ru/print.php?id=474",
+    "title_link": "Игроскоп - Разбор игры \"The Hunt For Red October\".",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Игроскоп_-_Разбор_игры_The_Hunt_For_Red_October"
+  },
+  {
+    "article_id": 475,
+    "article_url": "https://zxpress.ru/article.php?id=475",
+    "print_url": "https://zxpress.ru/print.php?id=475",
+    "title_link": "Музобоз - Итоги первого конкурса на лучшую демонстрацию.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Музобоз_-_Итоги_первого_конкурса_на_лучшую_демонстрацию"
+  },
+  {
+    "article_id": 478,
+    "article_url": "https://zxpress.ru/article.php?id=478",
+    "print_url": "https://zxpress.ru/print.php?id=478",
+    "title_link": "Новелла - \"НЛО враг неизвестен или охотничьи угодия на окраине галактики\".",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Новелла_-_НЛО_враг_неизвестен_или_охотничьи_угодия_на_окраин"
+  },
+  {
+    "article_id": 469,
+    "article_url": "https://zxpress.ru/article.php?id=469",
+    "print_url": "https://zxpress.ru/print.php?id=469",
+    "title_link": "От редакции - O распространении журнала.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "От_редакции_-_O_распространении_журнала"
+  },
+  {
+    "article_id": 472,
+    "article_url": "https://zxpress.ru/article.php?id=472",
+    "print_url": "https://zxpress.ru/print.php?id=472",
+    "title_link": "Программирование - Как подключить музыкальное сопровождение при выводе мультфильма.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Программирование_-_Как_подключить_музыкальное_сопровождение"
+  },
+  {
+    "article_id": 479,
+    "article_url": "https://zxpress.ru/article.php?id=479",
+    "print_url": "https://zxpress.ru/print.php?id=479",
+    "title_link": "Реклама - Реклама из Челябинской области.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_из_Челябинскои_области"
+  },
+  {
+    "article_id": 476,
+    "article_url": "https://zxpress.ru/article.php?id=476",
+    "print_url": "https://zxpress.ru/print.php?id=476",
+    "title_link": "Тусовка - Письмо от Дмитрия Бурлака из г.Минска.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Тусовка_-_Письмо_от_Дмитрия_Бурлака_из_гМинска"
+  },
+  {
+    "article_id": 477,
+    "article_url": "https://zxpress.ru/article.php?id=477",
+    "print_url": "https://zxpress.ru/print.php?id=477",
+    "title_link": "ЧЕЛГУ - Челябинский государственный университет об'являет прием на физический факультет по специальности 070300 \"Баллистика\"",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "ЧЕЛГУ_-_Челябинскии_государственныи_университет_обявляет_при"
+  }
+]

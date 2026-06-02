@@ -1,0 +1,71 @@
+Body 15 - Paradox'99 - Результаты Paradox'99.
+┌══════════════════════════════════════════════════════════════┐
+│░░░░░░░░░░░░░░░░░░░░░░░░░  PARADOX'99
+░░░░░░░░░░░░░░░░░░░░░░░░│
+└══════════════════════════════════════════════════════════════┘
+W> собственно говоря этот файл пролетал где-то в Фидо, и был
+удачно слит с диска Маст'а. так что читайте, как оно есть
+ZX Demo compo
+Place   Name             Votes  Show   Autor
+
+1       63Bit4:No Exit    564    2     Accept corp
+2       7Up               538    1     Speedway
+
+ZX 16kb intro
+Place   Name             Votes  Show   Autor
+
+1       DWISH             571    2     Phantom Lord/Accept corp
+2       JL#16             465    1     Partyzans
+3       DIVE              396    3     Computer Rats Group
+
+ZX Graphics compo
+Place   Name             Votes  Show   Autor
+
+1       FTFuture          576    7     Paracels/EI
+2       Green_Br          498    16    Snake/OHG
+3       ZOMBIE            466    17    Die Krupps
+4       CHARM             465    11    Kasik/ZX-Spectrum
+5       mns11             451    15    Snake/OHG
+6       ROSE              449    10    A.Placid/Double Plus
+7       MarioIsl          424    13    Mistik+Disabler/OHG
+8       Castle            374    4     G.D/4th Dimension
+9       HERODAY           362    3     Virtual/Scene
+10      DRAGON3           338    18    Accept corp
+11      dog               322    9     Chaos/Hell Raisers
+12      puma              313    2     Semen/Hell Raisers
+13      men.b1            310    6     Semen/Hell Raisers
+14      tank=             299    8     PST/Hell Raisers
+15      HUNTER            284    5     Semen/Hell Raisers
+16      death             241    14    ???
+17      gun_man           231    12    Shadow/WDG
+18      flower            191    1     Zodiac/ZX-Maniacs
+
+ZX Digital music compo
+Place   Name             Votes  Show   Autor
+
+1       Untitled2        395     3     Cj.Le0/Coders Academy
+2       Sintimental      386     1     Cj.Vigil
+3       Dis              383     2     ???
+
+ZX AY music compo
+Place   Name             Votes  Show   Autor
+1       Good Bye-3        465    13    Dj.Wlf/Accept corp
+2       Autostop          455    12    Phantom Lord/Accept corp
+3       MILESNEW          450    11    Shov/Accept corp
+4       ANASHA            428    14    Ray/Hell Raisers
+5       BASSATT           426    17    A.Placid/Double Plus
+6       FREMIX#1          407    16    Ray/Hell Raisers
+7       WIND              405    15    Ray/Hell Raisers
+8       KLIM33            402    6     Klim/OHG
+9       HEATBEAT          385    18    A.Placid/Double Plus
+10      HAPpyd&        378    19    Criminal/Die Krupps
+11      KLIM43            371    5     Klim/OHG
+12      CASAB_ACB         370    4     And/Speedway
+13      C_IMPRO           344    20    Cj.Le0/Coders Academy
+14      Activity          342    1     Mast/Fatality
+15      Sense             327    7     MMcM/Sage group
+16      P_CITY_C          325    8     Dr.Dismal/LFG
+17      BRKPOP            318    10    Siril/4th Dimension
+18      INVITE2+          313    3     McMaker/Fatality
+19      -=ccmc=-          303    9     Black Groove/BS
+20      ELEPHANT          293    2     Equator/PHD

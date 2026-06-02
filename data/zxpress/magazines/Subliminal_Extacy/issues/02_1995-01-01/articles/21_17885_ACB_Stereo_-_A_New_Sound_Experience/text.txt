@@ -1,0 +1,48 @@
+Subliminal Extacy 02 - ACB Stereo - A New Sound Experience
+ACB Stereo - A New Sound Experience              
+               -----------------------------------              
+                            By L.A.                             
+                            ------                            
+Recently I gave my speccy a small enhancement.  I gave it ACB   
+stereo.  'Is it any good?' I hear you say.  Answer: Fucking     
+Amazing.  That's what it is!!!  If you have a small knowledge of
+electronics and soldering (oh and a copy the interlace demo)    
+then I strongly suggest you try this out.                       
+                                                                
+I used Busysoft's circuit diagram in Interlace for reference and
+you'll be glad that it works for an AY-3-8912 (Spectrum 128 +2's
+have 'em. Infact I think all 128 speccies have the 8912. The    
+8910, I think, is in the AY interface!).  All the pin-outs are  
+correct and the circuit works with much good workingness!!  So  
+much respect goes to BusySoft (+Hard) for the well drawn circuit
+diagram.                                                        
+                                                                
+Now for those who are saying 'What is ACB stereo?' or those of  
+you saying 'What's so 8pecial about ACB?', I shall explain.     
+                                                                
+Basically, ACB is as follows:                                   
+                                                                
+                    Channel A - Left Speaker                    
+                    Channel B - Right Speaker                   
+             Channel C - Centre of the Two Speakers             
+                                                                
+So what's so special?  Well make it for yourself and find out!! 
+But if you can't be fucked or are incapable, I'll try and       
+explain what it sounds like.                                    
+                                                                
+Well normal music (Not written with ACB in mind) can sound      
+interesting if the main part of the tune jumps between channels,
+as this makes it sound like it's jumping between the speakers.  
+But if you get a piece of music made for ACB, it can sound (if  
+made properly) very good, as in it sounds very stereo (something
+I've never had from speccy and surely speccy wasn't made to be  
+in stereo!!).  Oh fuck this how am I supposed to explain how it 
+sounds??  Make it and experience it, that's what I say!!        
+                                                                
+As I am very impressed with my ACB speccy, you can expect to    
+hear ACB tunes coming from me in the very near future!!  Hey,   
+Amanda, how 'bout composing some ACB hardcore??  And for those  
+of you with SQ-Tracker, the tracks are arranged for ACB.  So it 
+makes it just that bit easier!!                                 
+                                                                
+Thanx for listening and ACB is fucking GOOD!!

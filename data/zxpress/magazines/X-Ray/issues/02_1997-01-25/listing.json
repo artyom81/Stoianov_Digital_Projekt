@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 13703,
+    "article_url": "https://zxpress.ru/article.php?id=13703",
+    "print_url": "https://zxpress.ru/print.php?id=13703",
+    "title_link": "Вступление - Mаrkus (Sаdriат) и Mс.Flоyd ушли на AMIGA 1200.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Вступление_-_Mаrkus_Sаdriат_и_MсFlоyd_ушли_на_AMIGA_1200"
+  },
+  {
+    "article_id": 13704,
+    "article_url": "https://zxpress.ru/article.php?id=13704",
+    "print_url": "https://zxpress.ru/print.php?id=13704",
+    "title_link": "Софт - Прошлое, настоящее и будущее ZX WINDOWS.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Софт_-_Прошлое_настоящее_и_будущее_ZX_WINDOWS"
+  },
+  {
+    "article_id": 13705,
+    "article_url": "https://zxpress.ru/article.php?id=13705",
+    "print_url": "https://zxpress.ru/print.php?id=13705",
+    "title_link": "Commondore - о сцене на Commondore 64.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Commondore_-_о_сцене_на_Commondore_64"
+  },
+  {
+    "article_id": 13706,
+    "article_url": "https://zxpress.ru/article.php?id=13706",
+    "print_url": "https://zxpress.ru/print.php?id=13706",
+    "title_link": "Новинка - схема железного мультиколора.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Новинка_-_схема_железного_мультиколора"
+  },
+  {
+    "article_id": 13707,
+    "article_url": "https://zxpress.ru/article.php?id=13707",
+    "print_url": "https://zxpress.ru/print.php?id=13707",
+    "title_link": "Глоссарий - кто есть кто на демосцене.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Глоссарии_-_кто_есть_кто_на_демосцене"
+  }
+]

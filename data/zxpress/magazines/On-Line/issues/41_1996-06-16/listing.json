@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 61,
+    "article_url": "https://zxpress.ru/article.php?id=61",
+    "print_url": "https://zxpress.ru/print.php?id=61",
+    "title_link": "B.B.S. Новости - Несколько телеконференций,касающихся дальнейшего развития\r\n ZX-Spectrum'a.",
+    "order": 1,
+    "issue_label": "41",
+    "short_slug": "BBS_Новости_-_Несколько_телеконференциикасающихся_дальнеишег"
+  },
+  {
+    "article_id": 2114,
+    "article_url": "https://zxpress.ru/article.php?id=2114",
+    "print_url": "https://zxpress.ru/print.php?id=2114",
+    "title_link": "ZXNet - О порядке пересылки файлов через Internet.",
+    "order": 2,
+    "issue_label": "41",
+    "short_slug": "ZXNet_-_О_порядке_пересылки_фаилов_через_Internet"
+  },
+  {
+    "article_id": 2112,
+    "article_url": "https://zxpress.ru/article.php?id=2112",
+    "print_url": "https://zxpress.ru/print.php?id=2112",
+    "title_link": "Застрял ? - Третья часть \"подсказок из подземелья\"(The Bards of Tale).",
+    "order": 3,
+    "issue_label": "41",
+    "short_slug": "Застрял_-_Третья_часть_подсказок_из_подземельяThe_Bards_of_T"
+  },
+  {
+    "article_id": 2113,
+    "article_url": "https://zxpress.ru/article.php?id=2113",
+    "print_url": "https://zxpress.ru/print.php?id=2113",
+    "title_link": "Новье !? - О программах : Pang 128 + 52 Level, Duckula 2, Сotka,\r\n Passiance of Klondike, Bobsleight, Roy of Rovers, FBI 13,\r\n Malstese 3D Pool, President 3, How to be complete Bastard.",
+    "order": 4,
+    "issue_label": "41",
+    "short_slug": "Новье_-_О_программах_Pang_128_52_Level_Duckula_2_Сotka_Passi"
+  },
+  {
+    "article_id": 2111,
+    "article_url": "https://zxpress.ru/article.php?id=2111",
+    "print_url": "https://zxpress.ru/print.php?id=2111",
+    "title_link": "Реклама - Реклама и об'явления ...",
+    "order": 5,
+    "issue_label": "41",
+    "short_slug": "Реклама_-_Реклама_и_обявления"
+  }
+]

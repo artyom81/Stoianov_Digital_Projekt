@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "35",
+  "issue_date_iso": "1999-12-04",
+  "order": 6,
+  "article_id": 10526,
+  "title_link": "Beatles - Сегодня у нас самая известная песня гpуппы \"Евpопа\" - \"Последний отсчет\".",
+  "title_h1": "City 35 - Beatles - Сегодня у нас самая известная песня гpуппы \"Евpопа\" - \"Последний отсчет\".",
+  "print_url": "https://zxpress.ru/print.php?id=10526",
+  "article_url": "https://zxpress.ru/article.php?id=10526",
+  "fetched_at": "2026-05-31T21:51:31Z"
+}

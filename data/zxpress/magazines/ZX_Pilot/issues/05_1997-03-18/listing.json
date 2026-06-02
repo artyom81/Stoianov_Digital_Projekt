@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7580,
+    "article_url": "https://zxpress.ru/article.php?id=7580",
+    "print_url": "https://zxpress.ru/print.php?id=7580",
+    "title_link": "Наши новости - Ответы на вопросы читателей.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Наши_новости_-_Ответы_на_вопросы_читателеи"
+  },
+  {
+    "article_id": 7581,
+    "article_url": "https://zxpress.ru/article.php?id=7581",
+    "print_url": "https://zxpress.ru/print.php?id=7581",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7582,
+    "article_url": "https://zxpress.ru/article.php?id=7582",
+    "print_url": "https://zxpress.ru/print.php?id=7582",
+    "title_link": "Разберемся - Полное описание игр QUAZATRON & MAGNETRON.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Разберемся_-_Полное_описание_игр_QUAZATRON_MAGNETRON"
+  },
+  {
+    "article_id": 7583,
+    "article_url": "https://zxpress.ru/article.php?id=7583",
+    "print_url": "https://zxpress.ru/print.php?id=7583",
+    "title_link": "DUCK NEWS - О новейших играх, популярных в Москве : SEX INTIMY, ALLTIMEDOOM.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "DUCK_NEWS_-_О_новеиших_играх_популярных_в_Москве_SEX_INTIMY"
+  },
+  {
+    "article_id": 7584,
+    "article_url": "https://zxpress.ru/article.php?id=7584",
+    "print_url": "https://zxpress.ru/print.php?id=7584",
+    "title_link": "DUCK NEWS - Клуб любителей Пентагонов. O вирусе LTSG-89 (PRESTOR), вшитом в ПЗУ компьютеров Пентагон & Скорпион.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "DUCK_NEWS_-_Клуб_любителеи_Пентагонов_O_вирусе_LTSG-89_PREST"
+  },
+  {
+    "article_id": 7585,
+    "article_url": "https://zxpress.ru/article.php?id=7585",
+    "print_url": "https://zxpress.ru/print.php?id=7585",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-03-19",
+  "order": 6,
+  "article_id": 10335,
+  "title_link": "Реклама - HAСKER KONDOR FROM SARANSK'99 будет благодарен за\r\nпомощь в приобретении следующих программ...",
+  "title_h1": "City 04 - Реклама - HAСKER KONDOR FROM SARANSK&#039;99 будет благодарен за помощь в приобретении следующих программ...",
+  "print_url": "https://zxpress.ru/print.php?id=10335",
+  "article_url": "https://zxpress.ru/article.php?id=10335",
+  "fetched_at": "2026-05-31T21:50:06Z"
+}

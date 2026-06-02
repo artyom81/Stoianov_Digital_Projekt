@@ -1,0 +1,425 @@
+[
+  {
+    "article_id": 5428,
+    "article_url": "https://zxpress.ru/article.php?id=5428",
+    "print_url": "https://zxpress.ru/print.php?id=5428",
+    "title_link": "Help - Описание оболочки электронного издания \"ZX-FORUM 4\".",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Help_-_Описание_оболочки_электронного_издания_ZX-FORUM_4"
+  },
+  {
+    "article_id": 1787,
+    "article_url": "https://zxpress.ru/article.php?id=1787",
+    "print_url": "https://zxpress.ru/print.php?id=1787",
+    "title_link": "Секреты успешного дизайна - глава для книги \"Дизайн Ваших\r\nпрограмм\"",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Секреты_успешного_дизаина_-_глава_для_книги_Дизаин_Вашихпрог"
+  },
+  {
+    "article_id": 1788,
+    "article_url": "https://zxpress.ru/article.php?id=1788",
+    "print_url": "https://zxpress.ru/print.php?id=1788",
+    "title_link": "Экранные эффекты - Бегущая строка из R-Type.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_Бегущая_строка_из_R-Type"
+  },
+  {
+    "article_id": 1789,
+    "article_url": "https://zxpress.ru/article.php?id=1789",
+    "print_url": "https://zxpress.ru/print.php?id=1789",
+    "title_link": "Экранные эффекты - гашения экрана из Zynaps.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_гашения_экрана_из_Zynaps"
+  },
+  {
+    "article_id": 1792,
+    "article_url": "https://zxpress.ru/article.php?id=1792",
+    "print_url": "https://zxpress.ru/print.php?id=1792",
+    "title_link": "Экранные эффекты - \"сворачивание\" экрана из Comando Tracer.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_сворачивание_экрана_из_Comando_Tracer"
+  },
+  {
+    "article_id": 1793,
+    "article_url": "https://zxpress.ru/article.php?id=1793",
+    "print_url": "https://zxpress.ru/print.php?id=1793",
+    "title_link": "Экранные эффекты - плавное \"затухание\" экрана из Сommando Tracer.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_плавное_затухание_экрана_из_Сommando_Trac"
+  },
+  {
+    "article_id": 1794,
+    "article_url": "https://zxpress.ru/article.php?id=1794",
+    "print_url": "https://zxpress.ru/print.php?id=1794",
+    "title_link": "Экранные эффекты - модификация символьного набора для получения оригинального стилизованного шрифта из игры Rockstar.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_модификация_символьного_набора_для_получе"
+  },
+  {
+    "article_id": 1795,
+    "article_url": "https://zxpress.ru/article.php?id=1795",
+    "print_url": "https://zxpress.ru/print.php?id=1795",
+    "title_link": "Экранные эффекты - \"выбегающая строка\" из игры Rockstar.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_выбегающая_строка_из_игры_Rockstar"
+  },
+  {
+    "article_id": 1796,
+    "article_url": "https://zxpress.ru/article.php?id=1796",
+    "print_url": "https://zxpress.ru/print.php?id=1796",
+    "title_link": "Экранные эффекты - \"наливающийся\" экран из игры Rockstar.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_наливающиися_экран_из_игры_Rockstar"
+  },
+  {
+    "article_id": 1797,
+    "article_url": "https://zxpress.ru/article.php?id=1797",
+    "print_url": "https://zxpress.ru/print.php?id=1797",
+    "title_link": "Экранные эффекты - сложный многоступенчатый эффект из игры Bubbler.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Экранные_эффекты_-_сложныи_многоступенчатыи_эффект_из_игры_B"
+  },
+  {
+    "article_id": 5429,
+    "article_url": "https://zxpress.ru/article.php?id=5429",
+    "print_url": "https://zxpress.ru/print.php?id=5429",
+    "title_link": "Новые 40 лучших процедур - скроллинг экрана, слияние двух картинок, инвертирование\r\nэкрана, поворот символов, замена атрибутов, заливка замкнутого контура, вычисление адресов в экране, копирование части экрана и т.д.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Новые_40_лучших_процедур_-_скроллинг_экрана_слияние_двух_кар"
+  },
+  {
+    "article_id": 5430,
+    "article_url": "https://zxpress.ru/article.php?id=5430",
+    "print_url": "https://zxpress.ru/print.php?id=5430",
+    "title_link": "Технология спрайтов - часть 1: введение.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_1_введение"
+  },
+  {
+    "article_id": 5431,
+    "article_url": "https://zxpress.ru/article.php?id=5431",
+    "print_url": "https://zxpress.ru/print.php?id=5431",
+    "title_link": "Технология спрайтов - часть 2: охота на спрайты (поиск и выдирание).",
+    "order": 13,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_2_охота_на_спраиты_поиск_и_выдир"
+  },
+  {
+    "article_id": 5432,
+    "article_url": "https://zxpress.ru/article.php?id=5432",
+    "print_url": "https://zxpress.ru/print.php?id=5432",
+    "title_link": "Технология спрайтов - часть 3: форматы спрайтов.",
+    "order": 14,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_3_форматы_спраитов"
+  },
+  {
+    "article_id": 5433,
+    "article_url": "https://zxpress.ru/article.php?id=5433",
+    "print_url": "https://zxpress.ru/print.php?id=5433",
+    "title_link": "Технология спрайтов - часть 4: форматы спрайтов с маской.",
+    "order": 15,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_4_форматы_спраитов_с_маскои"
+  },
+  {
+    "article_id": 5434,
+    "article_url": "https://zxpress.ru/article.php?id=5434",
+    "print_url": "https://zxpress.ru/print.php?id=5434",
+    "title_link": "Технология спрайтов - часть 5: структура спрайтовых блоков (как уживаются в\r\nпамяти спрайт и маска, какие данные помогают нам оперативно находить адрес спрайта в памяти и многое другое.)",
+    "order": 16,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_5_структура_спраитовых_блоков_ка"
+  },
+  {
+    "article_id": 5435,
+    "article_url": "https://zxpress.ru/article.php?id=5435",
+    "print_url": "https://zxpress.ru/print.php?id=5435",
+    "title_link": "Технология спрайтов - часть 6: подготовка данных к печати.",
+    "order": 17,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_6_подготовка_данных_к_печати"
+  },
+  {
+    "article_id": 5436,
+    "article_url": "https://zxpress.ru/article.php?id=5436",
+    "print_url": "https://zxpress.ru/print.php?id=5436",
+    "title_link": "Технология спрайтов - часть 8: печать спрайтов (координаты заданы в знакоместах).",
+    "order": 18,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_8_печать_спраитов_координаты_зад"
+  },
+  {
+    "article_id": 5437,
+    "article_url": "https://zxpress.ru/article.php?id=5437",
+    "print_url": "https://zxpress.ru/print.php?id=5437",
+    "title_link": "Технология спрайтов - часть 9: печать спрайтов (координаты заданы в пикселях).",
+    "order": 19,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_9_печать_спраитов_координаты_зад"
+  },
+  {
+    "article_id": 5438,
+    "article_url": "https://zxpress.ru/article.php?id=5438",
+    "print_url": "https://zxpress.ru/print.php?id=5438",
+    "title_link": "Технология спрайтов - часть 10: обзор программ для работы со спрайтами и графикой.",
+    "order": 20,
+    "issue_label": "04",
+    "short_slug": "Технология_спраитов_-_часть_10_обзор_программ_для_работы_со"
+  },
+  {
+    "article_id": 5439,
+    "article_url": "https://zxpress.ru/article.php?id=5439",
+    "print_url": "https://zxpress.ru/print.php?id=5439",
+    "title_link": "Мир звуков Спектрума - глава 1: Физика звука.",
+    "order": 21,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_1_Физика_звука"
+  },
+  {
+    "article_id": 5440,
+    "article_url": "https://zxpress.ru/article.php?id=5440",
+    "print_url": "https://zxpress.ru/print.php?id=5440",
+    "title_link": "Мир звуков Спектрума - глава 2: Оператор BEEP, Создание эффектов на BEEPе, Создание музыки на BEEPе.",
+    "order": 22,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_2_Оператор_BEEP_Создание_эффект"
+  },
+  {
+    "article_id": 5441,
+    "article_url": "https://zxpress.ru/article.php?id=5441",
+    "print_url": "https://zxpress.ru/print.php?id=5441",
+    "title_link": "Мир звуков Спектрума - глава 3: Как получается звук (устройство BEEP'ра и способы звукоизвлечения).",
+    "order": 23,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_3_Как_получается_звук_устроиств"
+  },
+  {
+    "article_id": 5442,
+    "article_url": "https://zxpress.ru/article.php?id=5442",
+    "print_url": "https://zxpress.ru/print.php?id=5442",
+    "title_link": "Мир звуков Спектрума - глава 4: Программирование звука на ассемблере.",
+    "order": 24,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_4_Программирование_звука_на_асс"
+  },
+  {
+    "article_id": 5443,
+    "article_url": "https://zxpress.ru/article.php?id=5443",
+    "print_url": "https://zxpress.ru/print.php?id=5443",
+    "title_link": "Мир звуков Спектрума - глава 4.1: Программирование звуковых эффектов - Тон, Шум, Комплексы эффектов.",
+    "order": 25,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_41_Программирование_звуковых_эф"
+  },
+  {
+    "article_id": 5444,
+    "article_url": "https://zxpress.ru/article.php?id=5444",
+    "print_url": "https://zxpress.ru/print.php?id=5444",
+    "title_link": "Мир звуков Спектрума - глава 4.2: Программирование звуковых эффектов - Управление громкостью.",
+    "order": 26,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_42_Программирование_звуковых_эф"
+  },
+  {
+    "article_id": 5445,
+    "article_url": "https://zxpress.ru/article.php?id=5445",
+    "print_url": "https://zxpress.ru/print.php?id=5445",
+    "title_link": "Мир звуков Спектрума - глава 4.3: Программирование звуковых эффектов - Управление тембром.",
+    "order": 27,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_43_Программирование_звуковых_эф"
+  },
+  {
+    "article_id": 5446,
+    "article_url": "https://zxpress.ru/article.php?id=5446",
+    "print_url": "https://zxpress.ru/print.php?id=5446",
+    "title_link": "Мир звуков Спектрума - глава 4.4: Программирование звуковых эффектов - Программирование музыки.",
+    "order": 28,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_44_Программирование_звуковых_эф"
+  },
+  {
+    "article_id": 5447,
+    "article_url": "https://zxpress.ru/article.php?id=5447",
+    "print_url": "https://zxpress.ru/print.php?id=5447",
+    "title_link": "Мир звуков Спектрума - глава 4.5: Программирование звуковых эффектов - Многоголосые мелодии (полифония).",
+    "order": 29,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_45_Программирование_звуковых_эф"
+  },
+  {
+    "article_id": 5448,
+    "article_url": "https://zxpress.ru/article.php?id=5448",
+    "print_url": "https://zxpress.ru/print.php?id=5448",
+    "title_link": "Мир звуков Спектрума - глава 4.6: Обработка внешних сигналов - оцифровка.",
+    "order": 30,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_46_Обработка_внешних_сигналов_-"
+  },
+  {
+    "article_id": 5449,
+    "article_url": "https://zxpress.ru/article.php?id=5449",
+    "print_url": "https://zxpress.ru/print.php?id=5449",
+    "title_link": "Мир звуков Спектрума - глава 4.7: Обработка внешних сигналов - Реверберация.",
+    "order": 31,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_47_Обработка_внешних_сигналов_-"
+  },
+  {
+    "article_id": 5450,
+    "article_url": "https://zxpress.ru/article.php?id=5450",
+    "print_url": "https://zxpress.ru/print.php?id=5450",
+    "title_link": "Мир звуков Спектрума - глава 4.8: Синтезирование речи.",
+    "order": 32,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_48_Синтезирование_речи"
+  },
+  {
+    "article_id": 5451,
+    "article_url": "https://zxpress.ru/article.php?id=5451",
+    "print_url": "https://zxpress.ru/print.php?id=5451",
+    "title_link": "Мир звуков Спектрума - глава 4.9: воспроизведение звука на прерываниях.",
+    "order": 33,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_49_воспроизведение_звука_на_пре"
+  },
+  {
+    "article_id": 5452,
+    "article_url": "https://zxpress.ru/article.php?id=5452",
+    "print_url": "https://zxpress.ru/print.php?id=5452",
+    "title_link": "Мир звуков Спектрума - глава 5: Оператор PLAY для музыкального сопроцессора AY-\r\n3-8910 (AY-3-8912).",
+    "order": 34,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_5_Оператор_PLAY_для_музыкальног"
+  },
+  {
+    "article_id": 5453,
+    "article_url": "https://zxpress.ru/article.php?id=5453",
+    "print_url": "https://zxpress.ru/print.php?id=5453",
+    "title_link": "Мир звуков Спектрума - глава 5.1: Создание эффектов оператором PLAY.",
+    "order": 35,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_51_Создание_эффектов_оператором"
+  },
+  {
+    "article_id": 5454,
+    "article_url": "https://zxpress.ru/article.php?id=5454",
+    "print_url": "https://zxpress.ru/print.php?id=5454",
+    "title_link": "Мир звуков Спектрума - глава 5.2: Создание музыки на PLAYе.",
+    "order": 36,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_52_Создание_музыки_на_PLAYе"
+  },
+  {
+    "article_id": 5455,
+    "article_url": "https://zxpress.ru/article.php?id=5455",
+    "print_url": "https://zxpress.ru/print.php?id=5455",
+    "title_link": "Мир звуков Спектрума - глава 6.1: описание регистров музыкального сопроцессора AY-\r\n3-8910 (AY-3-8912).",
+    "order": 37,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_61_описание_регистров_музыкальн"
+  },
+  {
+    "article_id": 5456,
+    "article_url": "https://zxpress.ru/article.php?id=5456",
+    "print_url": "https://zxpress.ru/print.php?id=5456",
+    "title_link": "Мир звуков Спектрума - глава 6.2: Программирование эффектов и музыки под музыкальный сопроцессор AY-\r\n3-8910 (AY-3-8912).",
+    "order": 38,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_62_Программирование_эффектов_и"
+  },
+  {
+    "article_id": 5457,
+    "article_url": "https://zxpress.ru/article.php?id=5457",
+    "print_url": "https://zxpress.ru/print.php?id=5457",
+    "title_link": "Мир звуков Спектрума - глава 7: Обзор программного обеспечения ZX-Spectrum для создания звуков и музыки.",
+    "order": 39,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_7_Обзор_программного_обеспечени"
+  },
+  {
+    "article_id": 5458,
+    "article_url": "https://zxpress.ru/article.php?id=5458",
+    "print_url": "https://zxpress.ru/print.php?id=5458",
+    "title_link": "Мир звуков Спектрума - глава 7.1: Редактор звуковых эффектов SUPER SOUND.",
+    "order": 40,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_71_Редактор_звуковых_эффектов_S"
+  },
+  {
+    "article_id": 5459,
+    "article_url": "https://zxpress.ru/article.php?id=5459",
+    "print_url": "https://zxpress.ru/print.php?id=5459",
+    "title_link": "Мир звуков Спектрума - глава 7.2: Музыкальный редактор\r\n Wham the Music Box.",
+    "order": 41,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_глава_72_Музыкальныи_редактор_Wham_th"
+  },
+  {
+    "article_id": 5460,
+    "article_url": "https://zxpress.ru/article.php?id=5460",
+    "print_url": "https://zxpress.ru/print.php?id=5460",
+    "title_link": "Мир звуков Спектрума - приложения 1, 2: листинги звуковых эффектов SUPER SOUND'а, советы по использованию ассемблера.",
+    "order": 42,
+    "issue_label": "04",
+    "short_slug": "Мир_звуков_Спектрума_-_приложения_1_2_листинги_звуковых_эффе"
+  },
+  {
+    "article_id": 17944,
+    "article_url": "https://zxpress.ru/article.php?id=17944",
+    "print_url": "https://zxpress.ru/print.php?id=17944",
+    "title_link": "Садоводцы и морозовки - Синильная кослота приятно пощипывала желудок.",
+    "order": 43,
+    "issue_label": "04",
+    "short_slug": "Садоводцы_и_морозовки_-_Синильная_кослота_приятно_пощипывала"
+  },
+  {
+    "article_id": 7229,
+    "article_url": "https://zxpress.ru/article.php?id=7229",
+    "print_url": "https://zxpress.ru/print.php?id=7229",
+    "title_link": "Новости - Владивостокский клyб спектpyмистов.",
+    "order": 44,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Владивостокскии_клyб_спектpyмистов"
+  },
+  {
+    "article_id": 11275,
+    "article_url": "https://zxpress.ru/article.php?id=11275",
+    "print_url": "https://zxpress.ru/print.php?id=11275",
+    "title_link": "Перспективы ПО - новая игрушка Citadel и навороты журнала.",
+    "order": 45,
+    "issue_label": "04",
+    "short_slug": "Перспективы_ПО_-_новая_игрушка_Citadel_и_навороты_журнала"
+  },
+  {
+    "article_id": 7405,
+    "article_url": "https://zxpress.ru/article.php?id=7405",
+    "print_url": "https://zxpress.ru/print.php?id=7405",
+    "title_link": "Обзор игрушек - Обзор новых игровых программ: VINDICATORS",
+    "order": 46,
+    "issue_label": "04",
+    "short_slug": "Обзор_игрушек_-_Обзор_новых_игровых_программ_VINDICATORS"
+  },
+  {
+    "article_id": 16069,
+    "article_url": "https://zxpress.ru/article.php?id=16069",
+    "print_url": "https://zxpress.ru/print.php?id=16069",
+    "title_link": "Vаsеlinе Attасk - Вечером, в канун выхода Psyсhоz 1э был совершен дерзкий по своей сути террористический акт, виновниками которого являются 50 чеченцев...",
+    "order": 47,
+    "issue_label": "04",
+    "short_slug": "Vаsеlinе_Attасk_-_Вечером_в_канун_выхода_Psyсhоz_1э_был_сове"
+  }
+]

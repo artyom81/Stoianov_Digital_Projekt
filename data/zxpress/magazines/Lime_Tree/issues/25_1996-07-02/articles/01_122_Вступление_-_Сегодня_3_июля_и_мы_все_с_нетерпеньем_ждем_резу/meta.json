@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "25",
+  "issue_date_iso": "1996-07-02",
+  "order": 1,
+  "article_id": 122,
+  "title_link": "Вступление - Сегодня 3 июля и мы все с нетерпеньем ждем результатов выборов.",
+  "title_h1": "Lime Tree 25 - Вступление - Сегодня 3 июля и мы все с нетерпеньем ждем результатов выборов.",
+  "print_url": "https://zxpress.ru/print.php?id=122",
+  "article_url": "https://zxpress.ru/article.php?id=122",
+  "fetched_at": "2026-05-31T22:19:56Z"
+}

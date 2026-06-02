@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 9311,
+    "article_url": "https://zxpress.ru/article.php?id=9311",
+    "print_url": "https://zxpress.ru/print.php?id=9311",
+    "title_link": "News - выпущен ZX-Guide#4.5, выпустили RiP#15, прошли CAFe и Paradox, Nik-O выступил с идеей провести виртуальное пати.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "News_-_выпущен_ZX-Guide45_выпустили_RiP15_прошли_CAFe_и_Para"
+  },
+  {
+    "article_id": 9312,
+    "article_url": "https://zxpress.ru/article.php?id=9312",
+    "print_url": "https://zxpress.ru/print.php?id=9312",
+    "title_link": "Olds - ситуация с материалами к ZX-Format#9.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Olds_-_ситуация_с_материалами_к_ZX-Format9"
+  },
+  {
+    "article_id": 9313,
+    "article_url": "https://zxpress.ru/article.php?id=9313",
+    "print_url": "https://zxpress.ru/print.php?id=9313",
+    "title_link": "Guide - Формат модуля Pro Tracker v3.x",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Guide_-_Формат_модуля_Pro_Tracker_v3x"
+  },
+  {
+    "article_id": 9314,
+    "article_url": "https://zxpress.ru/article.php?id=9314",
+    "print_url": "https://zxpress.ru/print.php?id=9314",
+    "title_link": "Docs - шифрование и дешифровка писем.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Docs_-_шифрование_и_дешифровка_писем"
+  },
+  {
+    "article_id": 9315,
+    "article_url": "https://zxpress.ru/article.php?id=9315",
+    "print_url": "https://zxpress.ru/print.php?id=9315",
+    "title_link": "Fun - история как Slip/Ottodix познакомился с DemiChron со Владивостока.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Fun_-_история_как_SlipOttodix_познакомился_с_DemiChron_со_Вл"
+  },
+  {
+    "article_id": 9316,
+    "article_url": "https://zxpress.ru/article.php?id=9316",
+    "print_url": "https://zxpress.ru/print.php?id=9316",
+    "title_link": "ASCII - abstraction.",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "ASCII_-_abstraction"
+  },
+  {
+    "article_id": 9317,
+    "article_url": "https://zxpress.ru/article.php?id=9317",
+    "print_url": "https://zxpress.ru/print.php?id=9317",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

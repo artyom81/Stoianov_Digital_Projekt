@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "45",
+  "issue_date_iso": "2000-06-09",
+  "order": 4,
+  "article_id": 13528,
+  "title_link": "Ликбез - полное описание и полный дизассемблер ПЗУ TR-DOS (продолжение).",
+  "title_h1": "City 45 - Ликбез - полное описание и полный дизассемблер ПЗУ TR-DOS (продолжение).",
+  "print_url": "https://zxpress.ru/print.php?id=13528",
+  "article_url": "https://zxpress.ru/article.php?id=13528",
+  "fetched_at": "2026-05-31T21:52:03Z"
+}

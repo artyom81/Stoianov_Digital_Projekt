@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "42",
+  "issue_date_iso": "1997-06-03",
+  "order": 4,
+  "article_id": 232,
+  "title_link": "Печатается с продолж. - ZILOG - основные сведения о процессорах.",
+  "title_h1": "Maximum 42 - Печатается с продолж. - ZILOG - основные сведения о процессорах.",
+  "print_url": "https://zxpress.ru/print.php?id=232",
+  "article_url": "https://zxpress.ru/article.php?id=232",
+  "fetched_at": "2026-05-31T22:24:41Z"
+}

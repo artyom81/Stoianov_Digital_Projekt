@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 12926,
+    "article_url": "https://zxpress.ru/article.php?id=12926",
+    "print_url": "https://zxpress.ru/print.php?id=12926",
+    "title_link": "Малая энциклопедия компьютерных существ - из \"золотого фонда\" FIDO.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Малая_энциклопедия_компьютерных_существ_-_из_золотого_фонда"
+  },
+  {
+    "article_id": 9766,
+    "article_url": "https://zxpress.ru/article.php?id=9766",
+    "print_url": "https://zxpress.ru/print.php?id=9766",
+    "title_link": "Почтовый ящик - О народном проекте - PROGRESS MEGADEMO.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Почтовыи_ящик_-_О_народном_проекте_-_PROGRESS_MEGADEMO"
+  },
+  {
+    "article_id": 17153,
+    "article_url": "https://zxpress.ru/article.php?id=17153",
+    "print_url": "https://zxpress.ru/print.php?id=17153",
+    "title_link": "Из книг - Море синеет: Джошуа Слокэм - первый кругосветный мореплаватель-одиночка.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Из_книг_-_Море_синеет_Джошуа_Слокэм_-_первыи_кругосветныи_мо"
+  },
+  {
+    "article_id": 8587,
+    "article_url": "https://zxpress.ru/article.php?id=8587",
+    "print_url": "https://zxpress.ru/print.php?id=8587",
+    "title_link": "Inferno - Авторы журнала.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Inferno_-_Авторы_журнала"
+  },
+  {
+    "article_id": 12455,
+    "article_url": "https://zxpress.ru/article.php?id=12455",
+    "print_url": "https://zxpress.ru/print.php?id=12455",
+    "title_link": "Фантастика - крыса из нержавеющей стали (часть 4).",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Фантастика_-_крыса_из_нержавеющеи_стали_часть_4"
+  },
+  {
+    "article_id": 5397,
+    "article_url": "https://zxpress.ru/article.php?id=5397",
+    "print_url": "https://zxpress.ru/print.php?id=5397",
+    "title_link": "Tutorials - учимся рисовать 'new school' ASCII.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Tutorials_-_учимся_рисовать_new_school_ASCII"
+  }
+]

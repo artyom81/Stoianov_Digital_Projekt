@@ -1,0 +1,176 @@
+04 - Part 1 - Editorial and news.
+==========================================
+**********************************
+*  PART 1  - EDITORIAL AND NEWS  *
+**********************************
+
+Hello  and  welcome  to another edition of
+Emulate!  Sorry  about  the  long wait for
+this  issue,  but I took an extended break
+over  Christmas  and the New Year! To make
+up  for  that,  this  issue  is a bit of a
+bumper   special   with   lots  to  digest
+inlcuding  the  second  part  of the great
+book  database,  plus  loads  of hints and
+tips  for games previously featured in our
+gamespacks!  Also,  all the regulars, such
+as  the  Spectrum  History and A-Z. So why
+are  you  still  reading  this  bit?!? Get
+going!!
+
+==========================================
+==========================================
+
+SPECTRUM NEWS
+
+==========================================
+
+COMP.SYS.SINCLAIR CRAP COMPILATION
+
+After  the  appearance  of the notoriously
+crap  Cascade  50  games collection on the
+NVG site, everyone on the Speccy newsgroup
+has  been gripped by crap games fever!! So
+much  so  that  it  has  been  decided  to
+collect  together 50 crap games by posters
+to Comp.Sys.Sinclair. By the time you read
+this,  the  collection  should  be  nearly
+ready, although you may still have time to
+add  your  own gem to the collection. Just
+send it to Blood at:
+L.D.TONKS@BRAO202.WINS.ICL.CO.UK
+Beware! Games may be terminally crap! Play
+with care....
+
+==========================================
+
+SPECTRUM/SAM FAIR
+
+The  annual  Speccy and SAM fair organised
+by Format magazine is due to take place on
+the  2Oth  April  at  the  village hall in
+Quedgely.  Quedgely  is  in the Gloucester
+area  and  you  can get more details about
+the   event  from  the  editor  of  Format
+magazine,  Bob  Brenchley  on 01452 412572
+(or FAX:01452 380890)
+
+==========================================
+
+NEW GAMES AT NVG UNIT
+
+There  has  recently  been  a flood of new
+snapshots  appearing  at  the NVG UNIT FTP
+site.   Aside   from   the   Cascade  gem,
+mentioned  above,  you  can also find lots
+more  rare and hard-to-get snapashots. You
+can  find  the new ones in the directory :
+pub/spectrum/snaps/unsorted
+
+==========================================
+
+NEW SPECTRUM FAQ
+
+Damien   Burke  has  now  taken  over  the
+compilation of the Spectrum FAQ. Not to be
+confused  with  the  Game  FAQ,  this text
+covers  the  more technical aspects of the
+Spectrum,  and also answers such questions
+as   What   Emulators  are  available  and
+describes  different  formats  of snapshot
+which are available. You can find this FAQ
+at  the Demon FTP site, or at Damien's own
+Wb  site,  both  addresses can be found in
+Part 14 of the magazine.
+
+==========================================
+==========================================
+
+SNAPSHOT REQUESTS
+
+Another  list  of  reader's  requests. The
+list  is getting quite long now, so if you
+have  received  the  game  you are looking
+for,  please  let  me know so I can remove
+your name from the list!
+
+GAME                   FORMAT
+REQUESTED BY    E-MAIL
+==========================================
+720 Degrees            48/128
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Advanced Pinball Sim   48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Bubble Bobble          48/128
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Cluedo                 48/128
+Philip Reynolds PHIL@HEDGFORD.DEMON.CO.UK
+Cybernoid              48/128
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Dark Empire            48/128
+Josie Haynes    JHAYNES@CENTRAL.MURDOCH.AU
+Denis/Drinking Glass   48/128
+Fredrik Ekman   EKMAN@LYSATOR.LIU.SE
+Dynamite Dux           48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Fairlight              128k
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Ghosts and Goblins     128k
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Head Over Heels        128k
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Heroes Of The Lance    48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Int 3D Tennis          128K
+David Crick     D.A.CRICK@EX.AC.UK
+Knight Orc             48/128
+Shaun Crouch    SCROUCH@LARK.RU.AC.ZA
+Lemmings Demo          48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Lotus Turbo Challenge  48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Moria                  48/128
+Fredrik Ekman   EKMAN@LYSATOR.LIU.SE
+On the Bench           48/128
+Dave Mills      DAVE@MILLS.DEMON.CO.UK
+Orc Attack             48/128
+Andy Maccallum  MINDBOMB_BBS@DELPHI.COM
+Pang                   48/128
+Ian Collier     IMC@ECS.OX.AC.UK
+Renegade I, II and III 48/128
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+Renegade III Final Ch  48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Rick Dangerous         128k
+Jonathan Geor j.w.george@csv.warwick.ac.uk
+Rod Land               48/128
+Anton Belenki   ANTON@GYM11.PERM.SU
+Shadow Warriors        48/128
+David Crick     D.A.CRICK@EX.AC.UK
+Splitting Images       48/128
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Strangeloop            48/128
+Philip Reynolds PHIL@HEDGFORD.DEMON.CO.UK
+Street Fighter 2       128k
+Barry Plewa    DOCTOR@DOCBARRY.DEMON.CO.UK
+Strider                128k
+Jonathan Geor J.W.GEORGE@CSV.WARWICK.AC.UK
+The Boss               48/128
+Dave Mills      DAVE@MILLS.DEMON.CO.UK
+The Double             48/128
+Dave Mills      DAVE@MILLS.DEMON.CO.UK
+The Tebbit             48/128
+Fredrik Ekman   EKMAN@LYSATOR.LIU.SE
+Technician Ted MegaMix 128K
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Time Machine (arcade)  128k
+Barry Plewa    DOCTOR@DOCBARRY.DEMON.CO.UK
+Tobor                  48/128
+Jon Taylor      JON@BIRKHALL.DEMON.CO.UK
+Wonderboy              48/128
+David Crick     D.A.CRICK@EX.AC.UK
+
+Thanks  again  to everyone who has replied
+to these requests!
+
+==========================================

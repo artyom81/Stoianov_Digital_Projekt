@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "48",
+  "issue_date_iso": "2000-08-25",
+  "order": 6,
+  "article_id": 13557,
+  "title_link": "Beatles - I should have known better.",
+  "title_h1": "City 48 - Beatles - I should have known better.",
+  "print_url": "https://zxpress.ru/print.php?id=13557",
+  "article_url": "https://zxpress.ru/article.php?id=13557",
+  "fetched_at": "2026-05-31T21:52:14Z"
+}

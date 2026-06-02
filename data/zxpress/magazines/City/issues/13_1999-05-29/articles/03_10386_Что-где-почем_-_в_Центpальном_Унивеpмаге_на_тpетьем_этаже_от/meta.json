@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1999-05-29",
+  "order": 3,
+  "article_id": 10386,
+  "title_link": "Что-где-почем - в Центpальном Унивеpмаге на тpетьем этаже откpылась новая секция pадиотоваpов.",
+  "title_h1": "City 13 - Что-где-почем - в Центpальном Унивеpмаге на тpетьем этаже откpылась новая секция pадиотоваpов.",
+  "print_url": "https://zxpress.ru/print.php?id=10386",
+  "article_url": "https://zxpress.ru/article.php?id=10386",
+  "fetched_at": "2026-05-31T21:50:26Z"
+}

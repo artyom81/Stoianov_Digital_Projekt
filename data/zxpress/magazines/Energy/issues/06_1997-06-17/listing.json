@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3895,
+    "article_url": "https://zxpress.ru/article.php?id=3895",
+    "print_url": "https://zxpress.ru/print.php?id=3895",
+    "title_link": "BBS - Список работающих серверов в Минске.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "BBS_-_Список_работающих_серверов_в_Минске"
+  },
+  {
+    "article_id": 3892,
+    "article_url": "https://zxpress.ru/article.php?id=3892",
+    "print_url": "https://zxpress.ru/print.php?id=3892",
+    "title_link": "FANTASY - Роман Г.Гаррисона \"Чума из космоса\" (часть 2).",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "FANTASY_-_Роман_ГГаррисона_Чума_из_космоса_часть_2"
+  },
+  {
+    "article_id": 3897,
+    "article_url": "https://zxpress.ru/article.php?id=3897",
+    "print_url": "https://zxpress.ru/print.php?id=3897",
+    "title_link": "HORROR - Повесть С.Кинга \"Кукурузные дети\".",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "HORROR_-_Повесть_СКинга_Кукурузные_дети"
+  },
+  {
+    "article_id": 3893,
+    "article_url": "https://zxpress.ru/article.php?id=3893",
+    "print_url": "https://zxpress.ru/print.php?id=3893",
+    "title_link": "Mortal Kombat - Об игре Mortal Kombat : скрытые бойцы.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Mortal_Kombat_-_Об_игре_Mortal_Kombat_скрытые_боицы"
+  },
+  {
+    "article_id": 3896,
+    "article_url": "https://zxpress.ru/article.php?id=3896",
+    "print_url": "https://zxpress.ru/print.php?id=3896",
+    "title_link": "PRICE LIST - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "PRICE_LIST_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 3891,
+    "article_url": "https://zxpress.ru/article.php?id=3891",
+    "print_url": "https://zxpress.ru/print.php?id=3891",
+    "title_link": "Байки из склепа-3 - Захват лунной базы.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Баики_из_склепа-3_-_Захват_луннои_базы"
+  },
+  {
+    "article_id": 3898,
+    "article_url": "https://zxpress.ru/article.php?id=3898",
+    "print_url": "https://zxpress.ru/print.php?id=3898",
+    "title_link": "Грязное белье - Обзор последних скандалов и наездов в компьютерном мире.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Грязное_белье_-_Обзор_последних_скандалов_и_наездов_в_компью"
+  },
+  {
+    "article_id": 3894,
+    "article_url": "https://zxpress.ru/article.php?id=3894",
+    "print_url": "https://zxpress.ru/print.php?id=3894",
+    "title_link": "Сказание Барда - Мини help к BARDS TALE. Характеристика монстров.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Сказание_Барда_-_Мини_help_к_BARDS_TALE_Характеристика_монст"
+  }
+]

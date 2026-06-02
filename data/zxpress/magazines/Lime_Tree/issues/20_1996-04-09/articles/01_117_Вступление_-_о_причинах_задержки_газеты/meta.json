@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "1996-04-09",
+  "order": 1,
+  "article_id": 117,
+  "title_link": "Вступление - о причинах задержки газеты.",
+  "title_h1": "Lime Tree 20 - Вступление - о причинах задержки газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=117",
+  "article_url": "https://zxpress.ru/article.php?id=117",
+  "fetched_at": "2026-05-31T22:19:45Z"
+}

@@ -1,0 +1,662 @@
+1-3 - Outletters
+ISSUE 02           OCTOBER, 1987
+
+
+
+From: JOHN TAYLOR..........02-06
+
+To:   JOHN TAYLOR..........07-09
+
+From: JOHN NICHOLLS........10-26
+
+To:   JOHN NICHOLLS........27-30
+
+
+From: John Taylor, Grantham.
+
+Thank you for issue one of
+OUTLET. I admit I ordered it
+with some misgivings as so many
+people mean well when embarking
+on a new venture but  often fail
+miserably to reach their own
+high expectations.
+
+Such is not the case however
+with OUTLET. The presentation
+and graphics are first class.
+The concept of a Microdrive
+Magazine has been undertaken
+with flair and considerable
+imagination and the Publishers,
+if that is the correct word,
+deserve to be well supported.
+
+
+
+This point needs to be stressed.
+If the high quality is to be
+maintained, or dare I say it,
+improved.  The following are
+important to all of us if OUTLET
+is going to succeed.
+
+CIRCULATION. A large dedicated
+following is an absolute must as
+even with the best will in the
+world it is difficult to
+maintain the impetus if there is
+only a small demand.
+
+CONTRIBUTORS. The first issue is
+good and I have no doubt that
+the authors have other exciting
+ideas for us, but there is a
+vast amount of talent in the
+Microdrive community and I would
+like to see some real
+
+
+
+competition for space on OUTLET.
+
+FEEDBACK. The authors, I don't
+know which one is editor, really
+do need to know what the
+reaction is and your letters
+therefore are essential. I wrote
+this using JOTTER which is
+simple to use and looks very
+effective. So get your thoughts
+on the screen and don't worry
+too much about the spelin,
+punkchewasian and such. Ritein
+iz ded eazy wiv a bit ov
+practiss.
+
+I must wish everyone connected
+with OUTLET, readers or writers,
+every success for the future and
+may I see you again & again &
+again.
+
+
+
+Now comes the crunch bit. How do
+I get an 8 column margin using
+an Epson compatable printer and
+JOTTER? I know I need to open a
+"b" channel to send the control
+code CHR$ (9), but where do I
+put the code in your program?
+
+The LOADING program for my
+cartridge is KICKSTART by P J
+Tester. The master program puts
+a loading program on the
+cartridge with multiple saves
+for quick loading. Thereafter
+the program is self maintained
+no matter what programs are
+added or removed. A great
+advantage is only BASIC programs
+are listed so the screen isn't
+cluttered up and you don't have
+to remember which is which.
+
+
+
+P J T. has written several
+exciting programs for the
+microdrive but except for a
+short appearance on Telesoftware
+they haven't really been made
+available.
+
+Many thanks, John Taylor.
+
+
+
+To John Taylor from Brian.
+
+Thanks John! Regarding
+circulation we have plans to
+promote OUTLET further following
+the tremendous response to our
+initial mail/mailbox shots.
+
+To get an 8 column margin in
+JOTTER print-outs (through
+Interface 1) you need to edit
+line 8180 by adding OPEN #4;"B":
+PRINT #4;CHR$ 27;"l";CHR$ 8
+after OPEN #S;"T" but to save
+the hassle we've saved a patch
+on this Issue 2 cartridge so
+just break into JOTTER, put the
+issue 2 cartridge in drive 1 and
+enter: MERGE *"M";1;"JPATCH".
+Then run JOTTER and re-save it.
+
+
+
+Yes, we've seen 1 or 2 of P.J.
+Tester's programs which are very
+good. However, CHEZRON do a menu
+loader called CATLOADER which
+we're convinced is superior to
+KICKSTART in flexibility and
+presentation. It's mine and
+Ron's most-used program - we
+think of it more as an operating
+system - it's brilliant!
+
+We've given a lot of thought as
+to whether to include other
+CHEZRON software such as
+CATLOADER in OUTLET but realize
+that it would be unfair to
+readers who have previously
+bought such programs from us.
+There may be one or two items we
+can include in OUTLET but
+anyway, CATLOADER is on our
+
+
+
+UTILITY TAPE 'A' AT `3.50. We'll
+give more details of CATLOADER
+and our other software in future
+issues of OUTLET.
+
+  - Brian
+
+
+From John Nicholls, Birmingham
+
+Dear all at Chezron,
+
+Outlet!! OUTLET!! Cor!
+Worraloadarubbish!!
+
+Firstly, the damned tape kept
+getting stuck. OK, I know I
+supplied the cartridge, but it
+was one that had been LOADed but
+a few times, and was one of the
+sweetest running ones that I
+possess. However, it seems to be
+running OK now.
+
+Your section "LOOKOUT" will not
+LOAD at all, and LOADing other
+sections frequently resulted in
+the error report "FILE NOT
+FOUND".
+
+
+
+Am returning the cartridge in
+the hope that you can do
+something with it. (I am told
+that immersion of the cartridge
+in petrol and the judicious
+application of a lighted match
+cures all loading faults.)
+
+The letters section was
+nauseating!! I understand your
+need to invent letters for the
+first issue, but did we have to
+suffer such a load of trash?
+
+The lecture on mankinds' pursuit
+of pleasure produced no earth
+shattering revelations. It was,
+in fact, nothing but a
+continuously repeated statement
+of the very obvious. In short,
+it was a complete waste of tape!
+
+
+
+I refuse to admit that I enjoyed
+reading it in case Brian is thus
+encouraged to take up philosophy
+instead of sticking to his
+programming!!
+
+I do hope you appreciate my
+words of encouragement!!
+
+However, being ever the
+optimist, I can look upon the
+bright side. When a publication
+is this bad, it can surely only
+get better!! And I doubt if you
+could produce another one as bad
+even if you tried.
+
+I did appreciate the "AUTOCHARS"
+prog.That was very good,and is a
+useful utility to have standing
+by to use in ones' own progs.
+
+
+
+No doubt the animation prog was
+good, too, but I haven't looked
+at that well enough to make any
+sense out of it yet.
+
+The game of MATCHTAKES was
+certainly good, and I enjoyed a
+couple of games. But not being a
+gamester, I have to hope that in
+future issues you will not
+devote too much of the valuable
+100K (approx) to games, though I
+agree that you have to try to
+cater for a wide range of
+tastes.
+
+I am enclosing my cheque for the
+sum of `25.00 for the next 12
+issues. After all, as OUTLET is
+by CHEZRON, I have no doubt that
+future issues WILL be good.
+
+
+In fact, had the name of BRIAN
+CAVERS been mentioned in your
+first communication, you would
+have had my cheque without my
+even sending for a trial issue.
+
+Re your request for information
+on discs. The best I have found
+so far is ATHENE CONSULTANTS,
+for 3.5" disks.
+
+       Athene Consultants,      
+       33 Holly Grove,          
+       Fareham,                 
+       Hants. PO16 7UP
+
+   Qty       DS/DD      SS/DD
+
+   10        `11.95     `10.95
+
+Special prices for quantities:-
+
+
+
+   Qty       DS/DD      SS/DD
+
+    50       `51.75     `48.88  
+   100      `100.05     `94.30  
+   150      `146.63    `138.00  
+   300      `267.38    `250.13
+
+All disks are supplied with
+labels. All disks are supplied
+with a lifetime guarantee, plus
+a seven day money back
+guarantee.
+
+Disk Manufacturer:- WABASH.
+
+All prices include VAT and
+postage.
+
+For Express Same Day Despatch,
+add `1.00 per 10 disks. (First
+Class Postage).
+
+
+
+That is the best I know of,
+especially when disk quality and
+efficiency of service are also
+considered.
+
+And now, as CHEZRON sounds like
+a good shoulder to cry on, I'm
+about to relate my current moan.
+
+A short while ago I sent off to
+Cut Price Software Ltd., for the
+package "LASER GENIUS". The
+price was in the region of
+`12-`13 or so.
+
+In due course, my "LASER GENIUS"
+arrived, but on LOADing the
+first of the two tapes, I got
+nowhere at all. Further
+investigation revealed that tape
+No. One was, in fact, a
+
+
+
+mislabelled copy of tape Two.
+
+I wrote back to Cut Price
+Software, enclosing the tape and
+asking them to replace it with a
+correct one.
+
+After the usual wait that one
+experiences with most software
+houses, CPS wrote back to me,
+returning the faulty tape. They
+regretted they could not
+exchange the tape as they had no
+further copies of "LASER GENIUS"
+in stock. (Huh!!)
+
+They requested me to send the
+tape to OCEAN, who would
+exchange it without further ado.
+
+This I did, but no tape came
+
+
+
+back from OCEAN, not even my
+faulty one. I have sent two
+further letters to OCEAN, and
+had neither reply or
+acknowledgement. I have since
+learned that OCEAN have gone out
+of business.
+
+(I wonder what happens to mail
+addressed to a company which has
+ceased trading? Is it just
+destroyed? Does someone read it,
+have a laugh and then throw it
+away? I'll bet that had I been
+sending a cheque for some
+reason, there would have been
+someone there to cash it, but
+not to send any goods out!!)
+
+So now I have a "LASER GENIUS"
+manual, tape No. Two of the
+
+
+
+package, and nothing else.
+Without the faulty tape, I
+cannot even return the package
+to CPS for a refund.
+
+I wonder if someone, somewhere,
+would be willing to let me have
+a copy of TAPE ONE of "LASER
+GENIUS"?
+
+         +++++++++++
+
+I was sorry to hear that OCEAN
+had gone out of business. They
+produced some good programs. I
+wonder if they became victims of
+the piracy which is not only
+rampant, but is actively
+supported by people who would
+never dream of walking into a
+shop and stealing a cassette,
+
+
+even though piracy is
+essentially just the same thing.
+
+           +++++++++
+
+Does anyone provide a utility
+which gives 48 characters per
+line on the screen?
+
+I know Tasword do "TASWIDE",
+which gives 64 chrs., the same
+as in "TASWORD", but I find the
+print a little on the small side
+for general use, while the
+SINCLAIR 32 chrs is too big for
+some purposes..
+
+I do have a program, keyed in
+from some magazine or other,
+which gives 48 chrs per line,
+but it is rather cumbersome to
+
+
+
+use, as the text has to be
+constantly put into strings.
+
+I haven't the slightest idea of
+how "AUTOCHARS" was
+constructed,but I wonder if a 48
+chr font could be created in a
+one or two line program in a
+similar way? It would be ideal
+to MERGE into ones' own program,
+without the need to load
+separate code.
+
+I, for one, would be willing to
+pay a few pounds for such a
+utility. I'd be even happier to
+see something along those lines
+given away free with "OUTLET".
+(Or with corn flakes, for that
+matter!!)                       
+          ++++++++++++
+
+
+
+NEXT MOAN (or comment)
+----------------------
+
+I think it's rather a pity that
+most software houses which
+produce utility programs, take
+it for granted that their
+customers have some degree of
+common sense. Many excellent
+utilities are produced which
+seem absolutely simple to use by
+the writers, and they frequently
+produce stunning examples to
+demonstrate what can be done
+with their masterpiece.
+
+No doubt well experienced
+programmers seize upon their
+work with little shrieks of joy,
+and immediately set to to
+produce work of equal, or even
+
+
+
+superior excellence.
+
+But what of the poor old thicko
+who two months later is still
+trying to fathom out how to
+produce a passable result from
+the prog?
+
+It would be nice if that thicko
+had the option, for a few extra
+quid, of sending for a more
+detailed instruction tape or
+cartridge which would take him
+in gentle stages, and in words
+not exceeding two syllables,
+from first loading the program
+to actually getting some of his
+own work, via examples, onto
+screen and into a SAVEable
+program.
+
+
+
+I don't wish to name any
+specific software house, but I
+do have one program which has
+fascinated me, but from which I
+have so far failed to produced
+anything. You may possibly have
+heard of it. The prog is named
+BONNABANNER.
+
+         ++++++++++++
+
+I seem to have almost come to
+the end of my current moans. I
+think I could be getting my
+moneysworth from CHEZRON just by
+having someone that I can moan
+to, (or at), even if nothing can
+be done to remove the cause of
+those moans.
+
+
+
+On your order form, you have a
+box for people to tick who are
+enclosing contributions or
+letters for publication. But you
+have no box for people who are
+writing in just to you.
+
+I certainly do not intend this
+letter to be for publication,
+though of course you have my
+full permission to do with it as
+you will. Some of my comments
+would hardly be good publicity,
+I fear. Your best course of
+action would be to do as other
+software houses do, and ignore
+me completely.
+
+Bye for now. I'll be in touch
+again as soon as I can find
+something else to moan my head
+
+
+
+off about.
+
+Best of luck in your new
+venture,
+
+        Yours etc.,
+
+        JOHN
+
+
+
+        Mr J E NICHOLLS.
+
+
+
+PS. I bet you DAREN'T publish
+this letter as it is.
+
+PSS. If you do, I bet someone
+says you wrote it yourselves.
+
+
+To John Nicholls from Brian
+
+Nice one John! PSS? (Tee hee!
+Shall we tell him? - No!)
+
+Sorry about loading trouble -
+you should have a new copy by
+now. If anybody else gets a
+loading problem - don't hesitate
+- send it back and we'll replace
+it. You can also get your money
+back on any Chezron program,
+within a reasonable time, even
+if you simply don't want it! -
+We don't quibble. (creep, creep)
+
+Now I have to say that we had
+trouble cramming your letter in
+the dustbin, sorry! I mean in
+this issue! Seriously we'd love
+to have lots of such 16K letters
+
+
+
+but are still looking at ways to
+squeeze more in each issue such
+as hard copy text or TWO
+cartridges each issue, any other
+suggestions anybody? Meanwhile
+send in what you like but you've
+more chance of getting published
+with a shorter letter.
+
+Incidentally, We may edit any
+letter or program that comes in
+for various reasons but we
+don't, of course, try to alter
+the substance of your
+contribution.
+
+You thought our dummy letters
+were nauseating? You should see
+the new mag: ACE!
+
+
+
+You ENJOYED a couple of games of
+MATCHTAKES? - Careful! We can't
+have too much of that sort of
+thing can we?
+
+Thanks for disc info..
+
+Piracy? There's a SHOUTBURST
+article in this issue that'll
+make your hair curl!
+
+I have got a 50 odd char a line
+routine that uses LPRINT to
+print to the screen but it's not
+my own code so I can't put it in
+OUTLET. I half-wrote something
+similar... Mmmm If I can find
+the time... - but don't hold
+your breath! (Incidentally these
+routines need more than just a
+new font to work - they require
+
+
+
+their own special PRINT routine
+but it COULD be put in a REM...)
+
+The BONABANNER instructions you
+got ARE the special ones we
+wrote for thickos! Seriously,
+we'll try and get a v. simple
+step-by-step instruction in your
+OUTLET wallet. (No room here -
+some thicko's sent in this b.
+long letter...)
+
+Your comment about the order
+form noted - we'll think about
+it...
+
+  - Brian

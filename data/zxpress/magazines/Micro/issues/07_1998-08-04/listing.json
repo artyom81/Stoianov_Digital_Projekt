@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 5149,
+    "article_url": "https://zxpress.ru/article.php?id=5149",
+    "print_url": "https://zxpress.ru/print.php?id=5149",
+    "title_link": "Новинки - обзор новых игрушек: Fisher, Dizzy 5, Зеркало, Dizzy 2.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Новинки_-_обзор_новых_игрушек_Fisher_Dizzy_5_Зеркало_Dizzy_2"
+  },
+  {
+    "article_id": 5150,
+    "article_url": "https://zxpress.ru/article.php?id=5150",
+    "print_url": "https://zxpress.ru/print.php?id=5150",
+    "title_link": "Письмо из FidoNet - письмо от Вячеслава Медноногова о ЧВ и Хакерах.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Письмо_из_FidoNet_-_письмо_от_Вячеслава_Медноногова_о_ЧВ_и_Х"
+  },
+  {
+    "article_id": 5151,
+    "article_url": "https://zxpress.ru/article.php?id=5151",
+    "print_url": "https://zxpress.ru/print.php?id=5151",
+    "title_link": "Железо - небольшая доработка ZSC модема.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Железо_-_небольшая_доработка_ZSC_модема"
+  },
+  {
+    "article_id": 5152,
+    "article_url": "https://zxpress.ru/article.php?id=5152",
+    "print_url": "https://zxpress.ru/print.php?id=5152",
+    "title_link": "Tape и Disk - Адаптация программ к системе TR-DOS (часть 2).",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Tape_и_Disk_-_Адаптация_программ_к_системе_TR-DOS_часть_2"
+  },
+  {
+    "article_id": 5153,
+    "article_url": "https://zxpress.ru/article.php?id=5153",
+    "print_url": "https://zxpress.ru/print.php?id=5153",
+    "title_link": "Проходилка - пошаговое прохождение игры Зеркало.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Проходилка_-_пошаговое_прохождение_игры_Зеркало"
+  },
+  {
+    "article_id": 5154,
+    "article_url": "https://zxpress.ru/article.php?id=5154",
+    "print_url": "https://zxpress.ru/print.php?id=5154",
+    "title_link": "AD&D - описание система AD&D (часть 3).",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "ADD_-_описание_система_ADD_часть_3"
+  },
+  {
+    "article_id": 5155,
+    "article_url": "https://zxpress.ru/article.php?id=5155",
+    "print_url": "https://zxpress.ru/print.php?id=5155",
+    "title_link": "Pokes - Poke's из Интернета part 2.",
+    "order": 7,
+    "issue_label": "07",
+    "short_slug": "Pokes_-_Pokes_из_Интернета_part_2"
+  }
+]

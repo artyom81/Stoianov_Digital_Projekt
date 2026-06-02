@@ -1,0 +1,15 @@
+{
+  "magazine_id": 127,
+  "magazine_name": "MSD",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1999-12-18",
+  "order": 6,
+  "article_id": 14315,
+  "title_link": "Программирование - Оптимизация программ\r\n или пишем загрузчик в кодах.",
+  "title_h1": "MSD 09 - Программирование - Оптимизация программ  или пишем загрузчик в кодах.",
+  "print_url": "https://zxpress.ru/print.php?id=14315",
+  "article_url": "https://zxpress.ru/article.php?id=14315",
+  "fetched_at": "2026-05-31T22:28:14Z"
+}

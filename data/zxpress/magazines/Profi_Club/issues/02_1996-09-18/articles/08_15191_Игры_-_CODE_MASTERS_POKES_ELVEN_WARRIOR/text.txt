@@ -1,0 +1,162 @@
+Teleshow 02 - Игры - CODE MASTERS, POKES, ELVEN WARRIOR
+CODE MASTERS
+    В   последнее  время  растет
+популярность            программ
+разработанных     фирмой    CODE
+MASTERS.  Примером  этому  может
+служит  сериал DIZZY, который мы
+описывали   в  этом,  проШлом  и
+следуЮЩих   номерах.   Ниже   мы
+приводим  список  программ  этой
+фирмы которые нам встречались.
+ADVANCED PINPALL SIMULATION
+ARCADE FLIGHT SIMULATION
+ATV SIMULATION
+ALL TERRAIN VEHCLE
+BIG FOOT
+BLADE WARRIOR
+BMX SIMULATION
+BRAIN ACHE
+BUDGER BRANACHE
+DIZZY
+DIZZY 2
+DIZZY 3
+DIZZY 3.5
+DIZZY 4
+DIZZY 5
+DIZZY 6
+DIZZY 7
+DIZZY PRINCE
+DIZZY DOWN
+FAST FOOT
+FOUR SOCCER SIMULATION
+FRUIT MASHINE
+GHOST HUNTERS
+GRAND PRIX SIMULATION
+THE HIT SQUAD
+K.BALGEISH SOCCER MAN
+MOTO CROSS
+NINJA MASSACRE
+PROF B.M.X
+PRO SKI
+PROFFESIONAL SNOOKER
+RED MAX
+ROCK STAR
+SAS COMBAT
+SCATE BOARD
+ELEPHANT
+L.PUFF
+SIDE SOCCER
+MONTECARLO CASINO
+SUPER HERO
+SUPER DRAGON SLAYER
+SUPER G-MAN
+SUPER ROBUN GOOD
+MIG 29
+TERROMETR
+WHITE HEAT
+TRANSMUTER
+WALKY DARTS
+BIGNOSES USA ADVENTURE
+KWIK SNAX
+PROF SKATEBOARD SIMULATOR
+
+‚    Для  читателей сообЩаем  ряд
+"POKE"   для  обесмерчивания   и
+несколько паролей.
+HYPSIS 2       пароль DROWSSAP
+TOYOTA         31289,195
+(убирает пароли)
+BIGNOSES USA   42823,194
+SHORT CIRCUIT  #8EA9-8EAE
+Также как и в первом здесь
+оказалась проверка. 
+Она выглядит так:
+       #8EA9   IN A,(255)
+               CP 96
+               JR NZ,#8EA9
+DIZZY 4        30273,182
+PIXY 2         26894,0:25027,49
+KING KONG 128K 30033,0
+DIZZY 5        51291,0:41815,0
+               (жизни)
+               41668,0
+               (полоска)
+STREET HASSLE  62004,201
+               49661,36
+MYTHOS         29701,0
+OCTAN          58309,0
+RICK_DAN       58356,0:64075,0
+               64166,0
+TALADON        35969,182
+               65074,182
+NINJA MASSACRE SNOW
+               EASY
+               RACK
+               BLUE
+               STAG
+               HULL
+               BEER
+               BARD
+EARTH SHACKER
+ROOM FOR IMPROVEMENT
+THE BUBBLE BATH
+THE GRAVITY CHAMBER
+HEAD IN THE CLOUDS
+HUSH TOED ICELAND
+DIAMONDS OF MINE
+THE TWO OF HEARTS
+CENTRAL INCINERATOR
+INTERNAL REACTOR INC
+NUCLEAR ARE CAVERNS
+GRAVITY SHELLS
+THE OIL WELLS
+WET HELL SOIL
+THE GRAVLOCK CELL
+HONEYCOMBS
+HAIR BRAINED SURGERY
+BURY DRAINAGE HIPERS
+SPACEBASE WASTEPIPES
+THE SNARE
+RUSE NO DOUBT
+OUTER BOUNDS
+SPRING LODED
+ALARM CLOCK WORKS
+FOG RISE WATER FALL
+GREAT WALL OF FIRE
+CHINA CANAL
+THE COMBINATION LOCK 
+YOUR SAFE WITH ME
+YE FIT WARM HOUSE
+THE KEEP
+FOR GOODNESS SAKE
+NO DEVIL LIVED ON
+WHEELIE        пароли:
+               WITTY
+               SHARK
+               BEBOP
+               XENON
+
+‚             
+!          ELVEN WARRIOR
+    PLAYERS PREMIER (C) 1989
+    Маленький   эльф,  на   тебя
+возложена   сложная  миссия-  ты
+должен  освободить  лес  от  чар
+злой  ведьмы. В этой миссии тебе
+придется   собирать  бутылки   и
+относить  их к  котлу. Используй
+1,2,3  для смены  оружия, 4  для
+вклЮчения  заЩиты, 5  для взрыва
+всего,  что есть  в комнате.  Не
+бегай  из двери  в дверь-  запас
+клЮчей ограничен.
+!
+Выражаем           благодарность
+Калакутину ВиталиЮ за некоторые 
+описания.
+Как  всегда сообЩаем  адрес  для
+переписки:
+630027, Новосибирск,
+а/я  434 Тоо "Анкор" с припиской
+Spectrum

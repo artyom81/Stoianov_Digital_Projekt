@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 1615,
+    "article_url": "https://zxpress.ru/article.php?id=1615",
+    "print_url": "https://zxpress.ru/print.php?id=1615",
+    "title_link": "Ликбез - Прерывания в ZX Spectrum.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "Ликбез_-_Прерывания_в_ZX_Spectrum"
+  },
+  {
+    "article_id": 1620,
+    "article_url": "https://zxpress.ru/article.php?id=1620",
+    "print_url": "https://zxpress.ru/print.php?id=1620",
+    "title_link": "Литстраничка - Путь перед рассветом (памяти Роджера Желязны).",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "Литстраничка_-_Путь_перед_рассветом_памяти_Роджера_Желязны"
+  },
+  {
+    "article_id": 1618,
+    "article_url": "https://zxpress.ru/article.php?id=1618",
+    "print_url": "https://zxpress.ru/print.php?id=1618",
+    "title_link": "Мнение - Феномен электронной почты (взгляд и чувства программиста).",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "Мнение_-_Феномен_электроннои_почты_взгляд_и_чувства_программ"
+  },
+  {
+    "article_id": 1617,
+    "article_url": "https://zxpress.ru/article.php?id=1617",
+    "print_url": "https://zxpress.ru/print.php?id=1617",
+    "title_link": "Обоз - Обзор прессы: Always 1, Micro 23, ZX-News 50, Полесье 15.",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Обоз_-_Обзор_прессы_Always_1_Micro_23_ZX-News_50_Полесье_15"
+  },
+  {
+    "article_id": 1616,
+    "article_url": "https://zxpress.ru/article.php?id=1616",
+    "print_url": "https://zxpress.ru/print.php?id=1616",
+    "title_link": "Обратная связь - Письма от читателей.",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "Обратная_связь_-_Письма_от_читателеи"
+  },
+  {
+    "article_id": 1621,
+    "article_url": "https://zxpress.ru/article.php?id=1621",
+    "print_url": "https://zxpress.ru/print.php?id=1621",
+    "title_link": "Стихи - Люди сделаны не из стали.",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "Стихи_-_Люди_сделаны_не_из_стали"
+  },
+  {
+    "article_id": 1619,
+    "article_url": "https://zxpress.ru/article.php?id=1619",
+    "print_url": "https://zxpress.ru/print.php?id=1619",
+    "title_link": "Страницы истории - О завтрашнем времени.",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Страницы_истории_-_О_завтрашнем_времени"
+  },
+  {
+    "article_id": 1614,
+    "article_url": "https://zxpress.ru/article.php?id=1614",
+    "print_url": "https://zxpress.ru/print.php?id=1614",
+    "title_link": "Четыре килобайта - Смена главного редактора газеты.",
+    "order": 8,
+    "issue_label": "35",
+    "short_slug": "Четыре_килобаита_-_Смена_главного_редактора_газеты"
+  }
+]

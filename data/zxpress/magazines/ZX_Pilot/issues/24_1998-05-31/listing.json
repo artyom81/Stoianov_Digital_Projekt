@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 7721,
+    "article_url": "https://zxpress.ru/article.php?id=7721",
+    "print_url": "https://zxpress.ru/print.php?id=7721",
+    "title_link": "Наши новости - Скоро будет FunTop-98.",
+    "order": 1,
+    "issue_label": "24",
+    "short_slug": "Наши_новости_-_Скоро_будет_FunTop-98"
+  },
+  {
+    "article_id": 7722,
+    "article_url": "https://zxpress.ru/article.php?id=7722",
+    "print_url": "https://zxpress.ru/print.php?id=7722",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "24",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7723,
+    "article_url": "https://zxpress.ru/article.php?id=7723",
+    "print_url": "https://zxpress.ru/print.php?id=7723",
+    "title_link": "Обзор - Обзор нескольких Laser Squad подобных игр: TECHNODROM, SPACE CRUSADE & LAST BATTLE.",
+    "order": 3,
+    "issue_label": "24",
+    "short_slug": "Обзор_-_Обзор_нескольких_Laser_Squad_подобных_игр_TECHNODROM"
+  },
+  {
+    "article_id": 7724,
+    "article_url": "https://zxpress.ru/article.php?id=7724",
+    "print_url": "https://zxpress.ru/print.php?id=7724",
+    "title_link": "О разном - Словарь игры LITTLE COMPUTER PEOPLE.",
+    "order": 4,
+    "issue_label": "24",
+    "short_slug": "О_разном_-_Словарь_игры_LITTLE_COMPUTER_PEOPLE"
+  },
+  {
+    "article_id": 7725,
+    "article_url": "https://zxpress.ru/article.php?id=7725",
+    "print_url": "https://zxpress.ru/print.php?id=7725",
+    "title_link": "HARD and SOFT - Простейший Turbo Load/Save-ер.",
+    "order": 5,
+    "issue_label": "24",
+    "short_slug": "HARD_and_SOFT_-_Простеишии_Turbo_LoadSave-ер"
+  },
+  {
+    "article_id": 7726,
+    "article_url": "https://zxpress.ru/article.php?id=7726",
+    "print_url": "https://zxpress.ru/print.php?id=7726",
+    "title_link": "Про это - разборки Ковровских спектрумистов.",
+    "order": 6,
+    "issue_label": "24",
+    "short_slug": "Про_это_-_разборки_Ковровских_спектрумистов"
+  },
+  {
+    "article_id": 7727,
+    "article_url": "https://zxpress.ru/article.php?id=7727",
+    "print_url": "https://zxpress.ru/print.php?id=7727",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 7,
+    "issue_label": "24",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

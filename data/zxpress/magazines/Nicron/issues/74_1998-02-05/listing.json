@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6961,
+    "article_url": "https://zxpress.ru/article.php?id=6961",
+    "print_url": "https://zxpress.ru/print.php?id=6961",
+    "title_link": "Вступление - с днем рожденья, ZXNET! и содержание номера.",
+    "order": 1,
+    "issue_label": "74",
+    "short_slug": "Вступление_-_с_днем_рожденья_ZXNET_и_содержание_номера"
+  },
+  {
+    "article_id": 6962,
+    "article_url": "https://zxpress.ru/article.php?id=6962",
+    "print_url": "https://zxpress.ru/print.php?id=6962",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "74",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6963,
+    "article_url": "https://zxpress.ru/article.php?id=6963",
+    "print_url": "https://zxpress.ru/print.php?id=6963",
+    "title_link": "Пресса - ZX-Spectrum - Путь в будущее. Статья из \"Hавигатора игрового мира\".",
+    "order": 3,
+    "issue_label": "74",
+    "short_slug": "Пресса_-_ZX-Spectrum_-_Путь_в_будущее_Статья_из_Hавигатора_и"
+  },
+  {
+    "article_id": 6964,
+    "article_url": "https://zxpress.ru/article.php?id=6964",
+    "print_url": "https://zxpress.ru/print.php?id=6964",
+    "title_link": "Образование - Применение современных телекоммуникационных технологий в дистанционном образовании.",
+    "order": 4,
+    "issue_label": "74",
+    "short_slug": "Образование_-_Применение_современных_телекоммуникационных_те"
+  },
+  {
+    "article_id": 6965,
+    "article_url": "https://zxpress.ru/article.php?id=6965",
+    "print_url": "https://zxpress.ru/print.php?id=6965",
+    "title_link": "Пресса - Проблемы с телефонными хулиганами на МГТС. Статья из газеты \"МК\".",
+    "order": 5,
+    "issue_label": "74",
+    "short_slug": "Пресса_-_Проблемы_с_телефонными_хулиганами_на_МГТС_Статья_из"
+  },
+  {
+    "article_id": 6966,
+    "article_url": "https://zxpress.ru/article.php?id=6966",
+    "print_url": "https://zxpress.ru/print.php?id=6966",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "74",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6967,
+    "article_url": "https://zxpress.ru/article.php?id=6967",
+    "print_url": "https://zxpress.ru/print.php?id=6967",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "74",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

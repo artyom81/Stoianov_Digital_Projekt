@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 11317,
+    "article_url": "https://zxpress.ru/article.php?id=11317",
+    "print_url": "https://zxpress.ru/print.php?id=11317",
+    "title_link": "Дискуссия - письмо от Golden Max об распространенении журнала. Письмо от Альберта Яппарова из г.Чебоксары (NNG) и Nik Beast from IZHEVSK sity, Поляков Виталий из Кохтла-Ярве.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Дискуссия_-_письмо_от_Golden_Max_об_распространенении_журнал"
+  },
+  {
+    "article_id": 11318,
+    "article_url": "https://zxpress.ru/article.php?id=11318",
+    "print_url": "https://zxpress.ru/print.php?id=11318",
+    "title_link": "На досуге - об истории создания ZX-SPECTRUM, о ее триумфальном шествии по\r\n рынкам мира.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "На_досуге_-_об_истории_создания_ZX-SPECTRUM_о_ее_триумфально"
+  },
+  {
+    "article_id": 11319,
+    "article_url": "https://zxpress.ru/article.php?id=11319",
+    "print_url": "https://zxpress.ru/print.php?id=11319",
+    "title_link": "Открытие - Электронный офис - концепция WANG Freestyle-Handset.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Открытие_-_Электронныи_офис_-_концепция_WANG_Freestyle-Hands"
+  },
+  {
+    "article_id": 11320,
+    "article_url": "https://zxpress.ru/article.php?id=11320",
+    "print_url": "https://zxpress.ru/print.php?id=11320",
+    "title_link": "Новости - как там поживают спектрумисты: Flash inc., JVS, UNIT-5, AURYN, Mafia, Stalker, Max Iwamoto, Games Killer, Silicon Brains, Roversoft, Omega Hackers Group, ETC Group, Bitmunchers, Digital Reality.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Новости_-_как_там_поживают_спектрумисты_Flash_inc_JVS_UNIT-5"
+  },
+  {
+    "article_id": 11321,
+    "article_url": "https://zxpress.ru/article.php?id=11321",
+    "print_url": "https://zxpress.ru/print.php?id=11321",
+    "title_link": "Новости - обзор свежих игрушек: Fear Tales, Blood Wych, Sex Xonix. Список новинок Харьковского рынка.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Новости_-_обзор_свежих_игрушек_Fear_Tales_Blood_Wych_Sex_Xon"
+  },
+  {
+    "article_id": 11322,
+    "article_url": "https://zxpress.ru/article.php?id=11322",
+    "print_url": "https://zxpress.ru/print.php?id=11322",
+    "title_link": "Из вне - интервью со всем известным JOKER of AWS/Mafia.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Из_вне_-_интервью_со_всем_известным_JOKER_of_AWSMafia"
+  },
+  {
+    "article_id": 11323,
+    "article_url": "https://zxpress.ru/article.php?id=11323",
+    "print_url": "https://zxpress.ru/print.php?id=11323",
+    "title_link": "Пользователям - Обзор программного обеспечения для ZX Spectrum: языки программирования, прикладные программы, графические редакторы, 3D редакторы.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Пользователям_-_Обзор_программного_обеспечения_для_ZX_Spectr"
+  },
+  {
+    "article_id": 11324,
+    "article_url": "https://zxpress.ru/article.php?id=11324",
+    "print_url": "https://zxpress.ru/print.php?id=11324",
+    "title_link": "Презентация - новьё: Play-mod - плеер mod файлов, SMSdemo, TUAREG, T.BLINKYS, DIESIRAE, P.HOPPER.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Презентация_-_новье_Play-mod_-_плеер_mod_фаилов_SMSdemo_TUAR"
+  },
+  {
+    "article_id": 11325,
+    "article_url": "https://zxpress.ru/article.php?id=11325",
+    "print_url": "https://zxpress.ru/print.php?id=11325",
+    "title_link": "CPU для вас - программировани для начинающих. Что такой машинный язык? Что такое язык ассемблера? Как считает компьютер?",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "CPU_для_вас_-_программировани_для_начинающих_Что_такои_машин"
+  },
+  {
+    "article_id": 11326,
+    "article_url": "https://zxpress.ru/article.php?id=11326",
+    "print_url": "https://zxpress.ru/print.php?id=11326",
+    "title_link": "Реклама - Лицензионные версии нашего журнала можно приобрести только у нас!",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Лицензионные_версии_нашего_журнала_можно_приобрест"
+  }
+]

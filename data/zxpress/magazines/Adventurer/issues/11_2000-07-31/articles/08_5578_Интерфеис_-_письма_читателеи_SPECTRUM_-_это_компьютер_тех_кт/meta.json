@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "2000-07-31",
+  "order": 8,
+  "article_id": 5578,
+  "title_link": "Интерфейс - письма читателей: \"SPECTRUM - это компьютер тех, кто развивается, кто увлечен им\"...",
+  "title_h1": "Adventurer 11 - Интерфейс - письма читателей: \"SPECTRUM - это компьютер тех, кто развивается, кто увлечен им\"...",
+  "print_url": "https://zxpress.ru/print.php?id=5578",
+  "article_url": "https://zxpress.ru/article.php?id=5578",
+  "fetched_at": "2026-05-31T21:34:26Z"
+}

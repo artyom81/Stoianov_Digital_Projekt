@@ -1,0 +1,82 @@
+ZX Review 3-4 - Этюды - М.Лазутов: Программа модернизации шрифта. Программа кодирования/декодирования блока кодов. Эффект с атрибутами.
+(c) Лазутов М., 1996,
+г.Тучково, М.О.
+Данная  программа  модерниза-
+ции шрифта  была  "вытащена"  из
+загрузчика к игре "DAM Busters"
+140.
+     ORG  40000
+     LD   DE,41000
+     LD   HL,15616
+     PUSH DE
+     LD   BC,768
+     LDIR
+     POP  HL
+     PUSH HL
+     LD   B,96
+M2   PUSH BC
+     LD   B,4
+     INC  HL
+     INC  HL
+     INC  HL
+     INC  HL
+M1   LD   A,(HL)
+     LD   C,A
+     SLA  A    ; можно заменить
+               ; на SRA A
+     OR   C
+     LD   (HL),A
+     INC  HL
+     DJNZ M1
+     POP  BC
+     DJNZ M2
+     POP  HL
+     DEC  H
+     LD   (23606),HL
+     RET
+2
+Предлагаю   также  простейшую
+программу,  которая   "кодирует"
+блок кодов, а при повторном  вы-
+зове - декодирует.
+140.
+     LD   HL,START  ; Начальный
+;адрес кодируемого блока.
+     LD   BC,LEN    ; Длина
+;кодируемого блока.
+M1   LD   A,(HL)
+     CPL
+     LD   (HL),A
+     INC  HL
+     DEC  BC
+     LD   A,B
+     OR   C
+     JR   NZ,M1
+     RET
+А эта программа создает эффект
+с атрибутами:
+ORG  40000
+     ENT  $
+     CALL 3435
+M0   LD   HL,22528
+     LD   DE,768
+M1   LD   A,(23560)
+     CP   32
+     RET  Z
+     LD   A,(HL)
+     OUT  (254),A
+     INC  A
+     RRC  A
+     RRC  A
+     XOR  L
+     LD   (HL),A
+     INC  HL
+     DEC  DE
+     LD   A,D
+     OR   E
+     JR   NZ,M1
+     JR   M02
+; ATTR EFFECT
+; BY MAXSOFT
+; (C) 1996
+********************************

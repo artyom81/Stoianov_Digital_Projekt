@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1996-10-31",
+  "order": 5,
+  "article_id": 8890,
+  "title_link": "ZX-PROFI - Управление ресурсами.\r\n Карта компьютера в системе SP-DOS.\r\n Подключение дисководов 5.25/1.2Мб, 3.5/1.44 к SPECCY.",
+  "title_h1": "Echo 01 - ZX-PROFI - Управление ресурсами.  Карта компьютера в системе SP-DOS.  Подключение дисководов 5.25/1.2Мб, 3.5/1.44 к SPECCY.",
+  "print_url": "https://zxpress.ru/print.php?id=8890",
+  "article_url": "https://zxpress.ru/article.php?id=8890",
+  "fetched_at": "2026-05-31T22:00:07Z"
+}

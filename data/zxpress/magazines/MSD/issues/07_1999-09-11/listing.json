@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 14309,
+    "article_url": "https://zxpress.ru/article.php?id=14309",
+    "print_url": "https://zxpress.ru/print.php?id=14309",
+    "title_link": "Оглавление - Сегодня в выпуске.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Оглавление_-_Сегодня_в_выпуске"
+  },
+  {
+    "article_id": 14304,
+    "article_url": "https://zxpress.ru/article.php?id=14304",
+    "print_url": "https://zxpress.ru/print.php?id=14304",
+    "title_link": "Игры - правила карточной игры Козел.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "Игры_-_правила_карточнои_игры_Козел"
+  },
+  {
+    "article_id": 14305,
+    "article_url": "https://zxpress.ru/article.php?id=14305",
+    "print_url": "https://zxpress.ru/print.php?id=14305",
+    "title_link": "Программирование - процедуры: скролирования экрана, умножение, стринг в двоичное число, подготавливка спрайта для печати с точностью до пиксела, расчет адреса экрана, расчет адреса следующей строки в\r\nобласти экрана.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Программирование_-_процедуры_скролирования_экрана_умножение"
+  },
+  {
+    "article_id": 14306,
+    "article_url": "https://zxpress.ru/article.php?id=14306",
+    "print_url": "https://zxpress.ru/print.php?id=14306",
+    "title_link": "Железо - паралельный Порт RS-232 к ZX-SPECTRUM.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Железо_-_паралельныи_Порт_RS-232_к_ZX-SPECTRUM"
+  },
+  {
+    "article_id": 14307,
+    "article_url": "https://zxpress.ru/article.php?id=14307",
+    "print_url": "https://zxpress.ru/print.php?id=14307",
+    "title_link": "iS-DOS - 3М и SERG в гостях у создателя контроллера винчестера (iS-DOS).",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "iS-DOS_-_3М_и_SERG_в_гостях_у_создателя_контроллера_винчесте"
+  },
+  {
+    "article_id": 14308,
+    "article_url": "https://zxpress.ru/article.php?id=14308",
+    "print_url": "https://zxpress.ru/print.php?id=14308",
+    "title_link": "Обьявления - и реклама.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Обьявления_-_и_реклама"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 76,
+    "article_url": "https://zxpress.ru/article.php?id=76",
+    "print_url": "https://zxpress.ru/print.php?id=76",
+    "title_link": "B.B.S. Новости - Рейтинг среди пользователей отличившихся при работе с BBS.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "BBS_Новости_-_Реитинг_среди_пользователеи_отличившихся_при_р"
+  },
+  {
+    "article_id": 1950,
+    "article_url": "https://zxpress.ru/article.php?id=1950",
+    "print_url": "https://zxpress.ru/print.php?id=1950",
+    "title_link": "E-MAIL - E-Mail что это такое ?",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "E-MAIL_-_E-Mail_что_это_такое"
+  },
+  {
+    "article_id": 1952,
+    "article_url": "https://zxpress.ru/article.php?id=1952",
+    "print_url": "https://zxpress.ru/print.php?id=1952",
+    "title_link": "WANTED !!! - Разыскивается : Sid hit einem...",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "WANTED_-_Разыскивается_Sid_hit_einem"
+  },
+  {
+    "article_id": 1953,
+    "article_url": "https://zxpress.ru/article.php?id=1953",
+    "print_url": "https://zxpress.ru/print.php?id=1953",
+    "title_link": "Железо - Сравнение компьютеров Профи и Скорпион.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Железо_-_Сравнение_компьютеров_Профи_и_Скорпион"
+  },
+  {
+    "article_id": 1951,
+    "article_url": "https://zxpress.ru/article.php?id=1951",
+    "print_url": "https://zxpress.ru/print.php?id=1951",
+    "title_link": "Застрял ? - Описание игры \"Gremlins the Adventure\".",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Застрял_-_Описание_игры_Gremlins_the_Adventure"
+  },
+  {
+    "article_id": 1949,
+    "article_url": "https://zxpress.ru/article.php?id=1949",
+    "print_url": "https://zxpress.ru/print.php?id=1949",
+    "title_link": "Новое ком. издание - О новом компьютерном журнале \"ZX-Magazine\".",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Новое_ком_издание_-_О_новом_компьютерном_журнале_ZX-Magazine"
+  },
+  {
+    "article_id": 1954,
+    "article_url": "https://zxpress.ru/article.php?id=1954",
+    "print_url": "https://zxpress.ru/print.php?id=1954",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

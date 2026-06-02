@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-09-30",
+  "order": 1,
+  "article_id": 402,
+  "title_link": "Amiga Sensor - Амига, PC, Спектрум - плата за Rulez.",
+  "title_h1": "Deja Vu 02 - Amiga Sensor - Амига, PC, Спектрум - плата за Rulez.",
+  "print_url": "https://zxpress.ru/print.php?id=402",
+  "article_url": "https://zxpress.ru/article.php?id=402",
+  "fetched_at": "2026-05-31T21:54:08Z"
+}

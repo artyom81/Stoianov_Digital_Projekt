@@ -1,0 +1,15 @@
+{
+  "magazine_id": 325,
+  "magazine_name": "Anecdotes",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-04-01",
+  "order": 1,
+  "article_id": 16146,
+  "title_link": "Введение - От автора.",
+  "title_h1": "Anecdotes 01 - Введение - От автора.",
+  "print_url": "https://zxpress.ru/print.php?id=16146",
+  "article_url": "https://zxpress.ru/article.php?id=16146",
+  "fetched_at": "2026-05-31T23:46:21Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4444,
+    "article_url": "https://zxpress.ru/article.php?id=4444",
+    "print_url": "https://zxpress.ru/print.php?id=4444",
+    "title_link": "4 килобайта - юбилей газеты и Междунaродный Фестивaль компьютерного искусствa Chaos Constructions 2000 (CC'000).",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "4_килобаита_-_юбилеи_газеты_и_Междунaродныи_Фестивaль_компью"
+  },
+  {
+    "article_id": 4445,
+    "article_url": "https://zxpress.ru/article.php?id=4445",
+    "print_url": "https://zxpress.ru/print.php?id=4445",
+    "title_link": "Non Possums - Фестивaли: aту их, aту! Критическая статья о CC'000.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "Non_Possums_-_Фестивaли_aту_их_aту_Критическая_статья_о_CC00"
+  },
+  {
+    "article_id": 4446,
+    "article_url": "https://zxpress.ru/article.php?id=4446",
+    "print_url": "https://zxpress.ru/print.php?id=4446",
+    "title_link": "Кодинг - отчет о Галицком турнире юных информатиков.",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "Кодинг_-_отчет_о_Галицком_турнире_юных_информатиков"
+  },
+  {
+    "article_id": 4447,
+    "article_url": "https://zxpress.ru/article.php?id=4447",
+    "print_url": "https://zxpress.ru/print.php?id=4447",
+    "title_link": "Обоз - Партийная жизнь: Chaos Constructions 2000 - впечатления посетителей.",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Обоз_-_Партииная_жизнь_Chaos_Constructions_2000_-_впечатлени"
+  },
+  {
+    "article_id": 4448,
+    "article_url": "https://zxpress.ru/article.php?id=4448",
+    "print_url": "https://zxpress.ru/print.php?id=4448",
+    "title_link": "Хобби - Рассказ о всеукраинском фестивале пива во Львове.",
+    "order": 5,
+    "issue_label": "40",
+    "short_slug": "Хобби_-_Рассказ_о_всеукраинском_фестивале_пива_во_Львове"
+  },
+  {
+    "article_id": 4449,
+    "article_url": "https://zxpress.ru/article.php?id=4449",
+    "print_url": "https://zxpress.ru/print.php?id=4449",
+    "title_link": "Обратная связь - письма читателей: О тематике \"Оптрона\", О смайликах и Об \"Оптроне\" в целом.",
+    "order": 6,
+    "issue_label": "40",
+    "short_slug": "Обратная_связь_-_письма_читателеи_О_тематике_Оптрона_О_смаил"
+  },
+  {
+    "article_id": 4450,
+    "article_url": "https://zxpress.ru/article.php?id=4450",
+    "print_url": "https://zxpress.ru/print.php?id=4450",
+    "title_link": "Литстраничка - Действие законов Мерфи на выпуск электронных изданий (рассказ о сборке Оптрона).",
+    "order": 7,
+    "issue_label": "40",
+    "short_slug": "Литстраничка_-_Деиствие_законов_Мерфи_на_выпуск_электронных"
+  },
+  {
+    "article_id": 4451,
+    "article_url": "https://zxpress.ru/article.php?id=4451",
+    "print_url": "https://zxpress.ru/print.php?id=4451",
+    "title_link": "Рекалама - обьявления и реклама во Львове.",
+    "order": 8,
+    "issue_label": "40",
+    "short_slug": "Рекалама_-_обьявления_и_реклама_во_Львове"
+  }
+]

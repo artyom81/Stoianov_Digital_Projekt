@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "28",
+  "issue_date_iso": "2004-03-15",
+  "order": 1,
+  "article_id": 9957,
+  "title_link": "News - John сломал первый принтер и купил второй.",
+  "title_h1": "ACNews 28 - News - John сломал первый принтер и купил второй.",
+  "print_url": "https://zxpress.ru/print.php?id=9957",
+  "article_url": "https://zxpress.ru/article.php?id=9957",
+  "fetched_at": "2026-05-31T21:30:51Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 51,
+  "magazine_name": "Demo or Die",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-02-28",
+  "order": 17,
+  "article_id": 9155,
+  "title_link": "Вступление - о втором номере газеты.",
+  "title_h1": "Dni-Pro 02 - Вступление - о втором номере газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=9155",
+  "article_url": "https://zxpress.ru/article.php?id=9155",
+  "fetched_at": "2026-05-31T21:56:38Z"
+}

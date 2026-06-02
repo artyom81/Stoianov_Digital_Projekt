@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 866,
+    "article_url": "https://zxpress.ru/article.php?id=866",
+    "print_url": "https://zxpress.ru/print.php?id=866",
+    "title_link": "Fun Top'98 - Заметки участника.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Fun_Top98_-_Заметки_участника"
+  },
+  {
+    "article_id": 873,
+    "article_url": "https://zxpress.ru/article.php?id=873",
+    "print_url": "https://zxpress.ru/print.php?id=873",
+    "title_link": "ZX-ОБОЗ - Обзор электронной прессы: RIP 8, Proton 45.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "ZX-ОБОЗ_-_Обзор_электроннои_прессы_RIP_8_Proton_45"
+  },
+  {
+    "article_id": 875,
+    "article_url": "https://zxpress.ru/article.php?id=875",
+    "print_url": "https://zxpress.ru/print.php?id=875",
+    "title_link": "Все жизнь игра - Новелла к игре \"Операция Р.Р.\" (окончание).",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Все_жизнь_игра_-_Новелла_к_игре_Операция_РР_окончание"
+  },
+  {
+    "article_id": 874,
+    "article_url": "https://zxpress.ru/article.php?id=874",
+    "print_url": "https://zxpress.ru/print.php?id=874",
+    "title_link": "Железо - Black Color TR-DOS - что это?",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Железо_-_Black_Color_TR-DOS_-_что_это"
+  },
+  {
+    "article_id": 870,
+    "article_url": "https://zxpress.ru/article.php?id=870",
+    "print_url": "https://zxpress.ru/print.php?id=870",
+    "title_link": "Подписка - Подписка на газету Оптрон для пользователей сети Internet и Fido.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Подписка_-_Подписка_на_газету_Оптрон_для_пользователеи_сети"
+  },
+  {
+    "article_id": 872,
+    "article_url": "https://zxpress.ru/article.php?id=872",
+    "print_url": "https://zxpress.ru/print.php?id=872",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 871,
+    "article_url": "https://zxpress.ru/article.php?id=871",
+    "print_url": "https://zxpress.ru/print.php?id=871",
+    "title_link": "Стихи - В благодарность.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "Стихи_-_В_благодарность"
+  }
+]

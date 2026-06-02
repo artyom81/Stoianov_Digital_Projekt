@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "49",
+  "issue_date_iso": "2000-10-20",
+  "order": 2,
+  "article_id": 13560,
+  "title_link": "Планета шелезяка - Буфер шины адреса CPU Z80 (продолжение).",
+  "title_h1": "City 49 - Планета шелезяка - Буфер шины адреса CPU Z80 (продолжение).",
+  "print_url": "https://zxpress.ru/print.php?id=13560",
+  "article_url": "https://zxpress.ru/article.php?id=13560",
+  "fetched_at": "2026-05-31T21:52:16Z"
+}

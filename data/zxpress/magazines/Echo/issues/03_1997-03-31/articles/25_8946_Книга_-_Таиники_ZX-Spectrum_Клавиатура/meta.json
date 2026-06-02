@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-03-31",
+  "order": 25,
+  "article_id": 8946,
+  "title_link": "Книга - Тайники ZX-Spectrum: Клавиатура.",
+  "title_h1": "Echo 03 - Книга - Тайники ZX-Spectrum: Клавиатура.",
+  "print_url": "https://zxpress.ru/print.php?id=8946",
+  "article_url": "https://zxpress.ru/article.php?id=8946",
+  "fetched_at": "2026-05-31T22:00:33Z"
+}

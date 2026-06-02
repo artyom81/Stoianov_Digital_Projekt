@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-04-09",
+  "order": 9,
+  "article_id": 3496,
+  "title_link": "Почта - Интересная статья - о заковыристом втором коде в\r\n \"Звездном наследии\".",
+  "title_h1": "Buzz 03 - Почта - Интересная статья - о заковыристом втором коде в  \"Звездном наследии\".",
+  "print_url": "https://zxpress.ru/print.php?id=3496",
+  "article_url": "https://zxpress.ru/article.php?id=3496",
+  "fetched_at": "2026-05-31T21:47:20Z"
+}

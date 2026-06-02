@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "47",
+  "issue_date_iso": "2000-06-19",
+  "order": 1,
+  "article_id": 13544,
+  "title_link": "Преамбула - На днях получил письмо от VEL'а, который прислал три диска с\r\nсофтом.",
+  "title_h1": "City 47 - Преамбула - На днях получил письмо от VEL&#039;а, который прислал три диска с софтом.",
+  "print_url": "https://zxpress.ru/print.php?id=13544",
+  "article_url": "https://zxpress.ru/article.php?id=13544",
+  "fetched_at": "2026-05-31T21:52:09Z"
+}

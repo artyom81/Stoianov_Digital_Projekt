@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1999-04-10",
+  "order": 7,
+  "article_id": 3397,
+  "title_link": "GOURAUD - Ликбез в области 3D-shading (алгоритм заливки грани методом GOURAUD).",
+  "title_h1": "Buzz 17 - GOURAUD - Ликбез в области 3D-shading (алгоритм заливки грани методом GOURAUD).",
+  "print_url": "https://zxpress.ru/print.php?id=3397",
+  "article_url": "https://zxpress.ru/article.php?id=3397",
+  "fetched_at": "2026-05-31T21:48:33Z"
+}

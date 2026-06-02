@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16,
+    "article_url": "https://zxpress.ru/article.php?id=16",
+    "print_url": "https://zxpress.ru/print.php?id=16",
+    "title_link": "B.B.S. Новости - Ночь снятых паролей на Lime-BBS-2.",
+    "order": 1,
+    "issue_label": "34",
+    "short_slug": "BBS_Новости_-_Ночь_снятых_паролеи_на_Lime-BBS-2"
+  },
+  {
+    "article_id": 2077,
+    "article_url": "https://zxpress.ru/article.php?id=2077",
+    "print_url": "https://zxpress.ru/print.php?id=2077",
+    "title_link": "HOT GAMES - Хит-парад от Magic Soft.",
+    "order": 2,
+    "issue_label": "34",
+    "short_slug": "HOT_GAMES_-_Хит-парад_от_Magic_Soft"
+  },
+  {
+    "article_id": 2079,
+    "article_url": "https://zxpress.ru/article.php?id=2079",
+    "print_url": "https://zxpress.ru/print.php?id=2079",
+    "title_link": "ZXNet - О использовании модема \"Алегро\".",
+    "order": 3,
+    "issue_label": "34",
+    "short_slug": "ZXNet_-_О_использовании_модема_Алегро"
+  },
+  {
+    "article_id": 2076,
+    "article_url": "https://zxpress.ru/article.php?id=2076",
+    "print_url": "https://zxpress.ru/print.php?id=2076",
+    "title_link": "Мозаика - Размышления Digitecs Inc о видеопроцессоре. Едем на ENlight'96!",
+    "order": 4,
+    "issue_label": "34",
+    "short_slug": "Мозаика_-_Размышления_Digitecs_Inc_о_видеопроцессоре_Едем_на"
+  },
+  {
+    "article_id": 2078,
+    "article_url": "https://zxpress.ru/article.php?id=2078",
+    "print_url": "https://zxpress.ru/print.php?id=2078",
+    "title_link": "Новье !? - О программах: Lemmings 2, Color Balls, The Red Stone 1&2,\r\n Crimes Santa Clause, Fillers, Prince of Persia, Soldier of Future.",
+    "order": 5,
+    "issue_label": "34",
+    "short_slug": "Новье_-_О_программах_Lemmings_2_Color_Balls_The_Red_Stone_12"
+  },
+  {
+    "article_id": 2075,
+    "article_url": "https://zxpress.ru/article.php?id=2075",
+    "print_url": "https://zxpress.ru/print.php?id=2075",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "34",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

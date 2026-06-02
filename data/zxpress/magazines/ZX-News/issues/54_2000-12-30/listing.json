@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3075,
+    "article_url": "https://zxpress.ru/article.php?id=3075",
+    "print_url": "https://zxpress.ru/print.php?id=3075",
+    "title_link": "ZX Spectrum и винчестер — статья Влада Сотникова/Vega о работе и программировании жесткого диска (HDD) на Спектруме.",
+    "order": 1,
+    "issue_label": "54",
+    "short_slug": "ZX_Spectrum_и_винчестер_статья_Влада_СотниковаVega_о_работе"
+  },
+  {
+    "article_id": 3074,
+    "article_url": "https://zxpress.ru/article.php?id=3074",
+    "print_url": "https://zxpress.ru/print.php?id=3074",
+    "title_link": "ZX-Party — итог горячей и скандальной полемики длиною в год.",
+    "order": 2,
+    "issue_label": "54",
+    "short_slug": "ZX-Party_итог_горячеи_и_скандальнои_полемики_длиною_в_год"
+  },
+  {
+    "article_id": 3072,
+    "article_url": "https://zxpress.ru/article.php?id=3072",
+    "print_url": "https://zxpress.ru/print.php?id=3072",
+    "title_link": "Горячая линия - Сайт \"ZX-News\"! Плюс кое-что по SOSG.",
+    "order": 3,
+    "issue_label": "54",
+    "short_slug": "Горячая_линия_-_Саит_ZX-News_Плюс_кое-что_по_SOSG"
+  },
+  {
+    "article_id": 3071,
+    "article_url": "https://zxpress.ru/article.php?id=3071",
+    "print_url": "https://zxpress.ru/print.php?id=3071",
+    "title_link": "От редакции - С Новым годом, веком и тысячелетием!!!",
+    "order": 4,
+    "issue_label": "54",
+    "short_slug": "От_редакции_-_С_Новым_годом_веком_и_тысячелетием"
+  },
+  {
+    "article_id": 3073,
+    "article_url": "https://zxpress.ru/article.php?id=3073",
+    "print_url": "https://zxpress.ru/print.php?id=3073",
+    "title_link": "Презентация - Interactive Fiction: новое слово! Новая игра и редактор адвентюр.",
+    "order": 5,
+    "issue_label": "54",
+    "short_slug": "Презентация_-_Interactive_Fiction_новое_слово_Новая_игра_и_р"
+  }
+]

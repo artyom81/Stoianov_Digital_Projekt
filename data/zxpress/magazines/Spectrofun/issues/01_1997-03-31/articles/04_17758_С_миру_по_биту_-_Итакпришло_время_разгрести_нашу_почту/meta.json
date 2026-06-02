@@ -1,0 +1,15 @@
+{
+  "magazine_id": 300,
+  "magazine_name": "Spectrofun",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-03-31",
+  "order": 4,
+  "article_id": 17758,
+  "title_link": "С миру по биту - Итак,пришло время разгрести нашу почту.",
+  "title_h1": "Spectrofun 01 - С миру по биту - Итак,пришло время разгрести нашу почту.",
+  "print_url": "https://zxpress.ru/print.php?id=17758",
+  "article_url": "https://zxpress.ru/article.php?id=17758",
+  "fetched_at": "2026-05-31T23:41:34Z"
+}

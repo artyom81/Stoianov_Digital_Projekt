@@ -1,0 +1,15 @@
+{
+  "magazine_id": 233,
+  "magazine_name": "Voyager",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "1998-03-14",
+  "order": 26,
+  "article_id": 66,
+  "title_link": "B.B.S. Новости - О новой B.B.S. - JAM-BBS.",
+  "title_h1": "On-Line 10 - B.B.S. Новости - О новой B.B.S. - JAM-BBS.",
+  "print_url": "https://zxpress.ru/print.php?id=66",
+  "article_url": "https://zxpress.ru/article.php?id=66",
+  "fetched_at": "2026-05-31T23:16:05Z"
+}

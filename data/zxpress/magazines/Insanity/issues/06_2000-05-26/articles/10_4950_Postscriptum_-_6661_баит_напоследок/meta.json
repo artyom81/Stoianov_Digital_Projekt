@@ -1,0 +1,15 @@
+{
+  "magazine_id": 102,
+  "magazine_name": "Insanity",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "2000-05-26",
+  "order": 10,
+  "article_id": 4950,
+  "title_link": "Postscriptum - 666+1 байт напоследок.",
+  "title_h1": "Insanity 06 - Postscriptum - 666+1 байт напоследок.",
+  "print_url": "https://zxpress.ru/print.php?id=4950",
+  "article_url": "https://zxpress.ru/article.php?id=4950",
+  "fetched_at": "2026-05-31T22:14:32Z"
+}

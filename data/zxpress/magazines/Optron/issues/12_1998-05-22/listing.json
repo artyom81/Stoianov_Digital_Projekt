@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 680,
+    "article_url": "https://zxpress.ru/article.php?id=680",
+    "print_url": "https://zxpress.ru/print.php?id=680",
+    "title_link": "Funtop'98 - официальная информация v1.3.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "Funtop98_-_официальная_информация_v13"
+  },
+  {
+    "article_id": 683,
+    "article_url": "https://zxpress.ru/article.php?id=683",
+    "print_url": "https://zxpress.ru/print.php?id=683",
+    "title_link": "Top Ten - лучшая десятка игр от C.Филимонова",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Top_Ten_-_лучшая_десятка_игр_от_CФилимонова"
+  },
+  {
+    "article_id": 688,
+    "article_url": "https://zxpress.ru/article.php?id=688",
+    "print_url": "https://zxpress.ru/print.php?id=688",
+    "title_link": "Короче... - О великом противостоянии ZX и PC.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "Короче_-_О_великом_противостоянии_ZX_и_PC"
+  },
+  {
+    "article_id": 687,
+    "article_url": "https://zxpress.ru/article.php?id=687",
+    "print_url": "https://zxpress.ru/print.php?id=687",
+    "title_link": "Кто ты читатель - анкета для читателей газеты.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Кто_ты_читатель_-_анкета_для_читателеи_газеты"
+  },
+  {
+    "article_id": 684,
+    "article_url": "https://zxpress.ru/article.php?id=684",
+    "print_url": "https://zxpress.ru/print.php?id=684",
+    "title_link": "Лит. Страничка - Головная боль полковника хауэлла или \"объвляю заседание открытым\" (продолжение).",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Лит_Страничка_-_Головная_боль_полковника_хауэлла_или_объвляю"
+  },
+  {
+    "article_id": 685,
+    "article_url": "https://zxpress.ru/article.php?id=685",
+    "print_url": "https://zxpress.ru/print.php?id=685",
+    "title_link": "Реклама - реклама и объявления...",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 686,
+    "article_url": "https://zxpress.ru/article.php?id=686",
+    "print_url": "https://zxpress.ru/print.php?id=686",
+    "title_link": "Рубрика X - о новинках: Черный Ворон, Alasm v3.9, журнал \"Spectrum Expert 1\",\r\n STS v6.2, Perfect Commander v1.7.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Рубрика_X_-_о_новинках_Черныи_Ворон_Alasm_v39_журнал_Spectru"
+  }
+]

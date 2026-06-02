@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 14576,
+    "article_url": "https://zxpress.ru/article.php?id=14576",
+    "print_url": "https://zxpress.ru/print.php?id=14576",
+    "title_link": "Вступление - содержание газеты.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_содержание_газеты"
+  },
+  {
+    "article_id": 14577,
+    "article_url": "https://zxpress.ru/article.php?id=14577",
+    "print_url": "https://zxpress.ru/print.php?id=14577",
+    "title_link": "Привет - В этом номере Вы сможете прочитать продолжение\r\nАрмейской Рубрики.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Привет_-_В_этом_номере_Вы_сможете_прочитать_продолжениеАрмеи"
+  },
+  {
+    "article_id": 14578,
+    "article_url": "https://zxpress.ru/article.php?id=14578",
+    "print_url": "https://zxpress.ru/print.php?id=14578",
+    "title_link": "Армейская рубрика - Тараса перевели из учебки в\r\nГенштаб Обороны Украины.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Армеиская_рубрика_-_Тараса_перевели_из_учебки_вГенштаб_Оборо"
+  },
+  {
+    "article_id": 14579,
+    "article_url": "https://zxpress.ru/article.php?id=14579",
+    "print_url": "https://zxpress.ru/print.php?id=14579",
+    "title_link": "От редактора - заказ дискет почтой.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "От_редактора_-_заказ_дискет_почтои"
+  },
+  {
+    "article_id": 14580,
+    "article_url": "https://zxpress.ru/article.php?id=14580",
+    "print_url": "https://zxpress.ru/print.php?id=14580",
+    "title_link": "Обзор игр - это обзор не только игр, но и\r\nнекоторых журнальчиков, дэмо и т.д. и т.п.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Обзор_игр_-_это_обзор_не_только_игр_но_инекоторых_журнальчик"
+  },
+  {
+    "article_id": 14581,
+    "article_url": "https://zxpress.ru/article.php?id=14581",
+    "print_url": "https://zxpress.ru/print.php?id=14581",
+    "title_link": "Тайник - глюки Sea Quest на Profi.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Таиник_-_глюки_Sea_Quest_на_Profi"
+  },
+  {
+    "article_id": 14582,
+    "article_url": "https://zxpress.ru/article.php?id=14582",
+    "print_url": "https://zxpress.ru/print.php?id=14582",
+    "title_link": "Реклама - Следующие выпуски будут выходить по мере накопления\r\nматериала.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Следующие_выпуски_будут_выходить_по_мере_накоплени"
+  }
+]

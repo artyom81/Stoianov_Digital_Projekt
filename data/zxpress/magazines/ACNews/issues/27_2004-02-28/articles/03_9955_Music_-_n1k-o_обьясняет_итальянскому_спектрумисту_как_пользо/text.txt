@@ -1,0 +1,155 @@
+ACNews 27 - Music - n1k-o обьясняет итальянскому спектрумисту, как пользоваться Pro Tracker&#039;ом.
+▄   ▄ ▄  ▄ ▄▄▄▄ ▄ ▄▄▄▄
+ ░▄■ ▓▀▄▀▓ ▓  ▓ ▓▄▄▄ ▓ ▓     ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░ ■▄░
+▀■▄  ░   ▒ ▒▄▄░ ▄▄▄░ ▒ ░▄▄▄  ▄■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀░ ■▀
+
+
+Давным-давно  (году эдак в 2002) наш старый знакомый n1k-o/tl из
+Краснодара (n1k-o читается как "нИко") пытался  объяснить одному
+итальянскому  спектрумисту,  как  пользоваться   Pro Tracker'ом.
+Естественно, разговор шёл на упрощённом английском :)
+
+----------------------------------------------------------------
+>well  your  tracks R0CkZ!!!!Your sounds are good..your sound is
+>good!!but..I need to know the basilar things about this kind of
+>tracker..ok.. I'm in front of the program that u gave to me..my
+>patterns are empty.. and I don't have any sample or ornament..
+
+heh,  tnx  4  'roxx' :)  did u really heard my tracks? kewl, not
+russian man heard my muzax :)
+
+first step: try to load any track  (xxxxxxxx.m - without player,
+xxxxxxxx .c  -  with player)  forexample. then try to understand
+anything :) that main way if u want to be zx-spekka muzaker!
+
+second  step:  try  to  create your own track or just fill empty
+pattern :)
+
+here is sturcture of [edit pattern]
+
+           |   A      |   B      |    C     |
+
+ 0 .... |..| ... .... | ... .... | ... .... |
+ 1 .... |..| ... .... | ... .... | ... .... |
+ 2 .... |..| ... .... | ... .... | ... .... |
+
+ ^   ^    ^   ^  ^^^^    ^  ^^^^    ^  ^^^^
+ 1   2    3   4  5678    4  5678    4  5678
+
+1. number of edit line.
+2. data of envelope (it's zx-spekka bass! really kewl! :)
+3. data of noise for notes in all channels (A,B,C).
+4. place for note (forexaple: C-7 - it's mean... u're know,
+   aren't it? :) '7' - it's number of octave (8 octaves)).
+5. number of sample (31| 1,2,3...a,b,c... t,u,v).
+6. mask for note ('F') or for envelope (envelope=bass: 'E','A' -
+   sounds mellow; 'C','8' - sounds harsh and rough).
+7. place for ornament (1-F not decimal). :)
+8. place  for  volume  (max - 'F', other words 15 (F) levels, 0
+   (empty place) - without changes).
+
+>(hehe what's an ornament?)
+
+hmm... :) hard to say :) hard to translate too! :]
+it's  very  useful  thing,  here  u  can  make  chords (3 notes,
+forexample:  C,  E,  G - it'll be C-major) or if u have C-4 than
+setting in any ornament:
+
+[edit ornament]
+
+     0 +12   <1
+     1 -12   <1   that'll 'blam' sound :))
+2>  [2]+00   <1
+     ^
+     3
+
+or here is example of C-major:  :)
+
+2>  [0 +00  <1
+     1 +04  <1    that'll chord or we says trill :)
+2>   2]+07  <1
+     ^
+     3
+
+1. how  many  up  notes  from  base-note (- it's placed in edit
+   pattern!) - '+' and how many down notes from base-note - '-'.
+2. it's loop.
+3. number of place for note.
+
+yeah! :) i can, i can! :) hope u'll understand it.
+
+>well  I need  to  create them..hem.. where? how? :>and.. when I
+>have create a sample I have to play it with different tunes..
+
+ok, let's create a sample.
+
+[edit sample]
+
+ 0  ...  -.... |..| T-- ############### F
+ 1  ...  -.... |..| T-- ############### F
+ 2  ...  -.... |..| T-- ##############. E
+ 3  ...  -.... |..| T-- #############.. D
+[4  ...  -.... |..| T-- #############.. D
+ 5] -..  -.... |..| T-- #############.. D
+
+that example of easy sample, just sounds Tone (T)
+
+ok, here is structure of sample:
+
+[0] ...  -.... |..| TNE ############### F
+
+ ^  ^^^    ^    ^   ^^^                 ^
+ 1  234    5    6   789                 A
+
+1. number of sample line (0-63) with loops (as ornament).
+2. '+'  -  volume's encreasing up and '-' - volume's decreasing
+   down.
+3. that's activate slide (up/down) for '5' (hard to translate).
+4. that's activate slide (up/down) for '6'.
+5. it  can  be  used in hard samples with '3', forexample, drum
+   (it'll  down  text).  u  may  set  here a frequence for note,
+   that's  main trouble on 'way of muzaker' :) try to understand
+   it in your practise.
+6. data of Noise (N) (0-31 - decimal)
+7. 'T' - Tone, sounds clear. (great sound:)
+8. 'N' - Noise, sounds as noise :)
+9. 'E'  -  Envelope  (we  says - 'ogibayushaya' ;) if 'on' than
+   sample will sounds as bass (mask ('6' - edit pattern) must be
+   not 'F').
+A. volume of sample [0-F (15) not decimal]
+
+that's example of drum:
+
+ 0  ...  -0200 |..| T-- ############### F
+ 1  ...  -0400 |..| T-- ############### F
+ 2  ...  -0900 |..| T-- ##############. E
+[3] ...   .... |..| --- ...............
+
+
+that's example of drum with bass ('n':)
+
+ 0  ...  -0200 |..| T-- ############### F
+ 1  ...  -0400 |..| T-- ############### F
+ 2  ...  -0900 |..| T-- ##############. E
+[3] ...  -.... |..| --E ...............
+
+
+that's example of bass:
+
+[0] ...  -.... |..| --E ############### F
+
+
+that's example of bass with Tone:
+
+[0] ...  -.... |..| T-E ############### F
+
+and many-many others combinations :)
+
+just research my or other tracks and u'll find MUZAKING 8)
+
+>I  really  don't know nothing about this kind of tracking.. but
+>it's awesome.. the sound is GREAT..hem :> help me :>
+
+do u like it? :) all ascii works and text done by me ;)
+
+ok, i'm waiting for your first track! :]

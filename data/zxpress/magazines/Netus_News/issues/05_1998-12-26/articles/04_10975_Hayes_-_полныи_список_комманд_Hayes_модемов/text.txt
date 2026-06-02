@@ -1,0 +1,412 @@
+Netus News 05 - Hayes - полный список комманд Hayes модемов.
+─── Командное множество Hayes ───
+
+ COMMAND SUMMARY
+command  Description
+(*denotes the factory setting)
+
+AT       Attention Command
+A/       Repeat Preceding Command Secuense
+A        Ansower Call Imme iately
+B        Select CCITT V.22 and V.21 Mode
+B1      *Select BELL212A and 103 Mode
+C        Not permitted; returns  ERROR re-
+         sult code
+C1      *Normal transmit carrier switching
+         (preset)
+Dn       Dial Telephone Number (n)
+         Additional Dial Modifier Commands:
+         L = Dial the last string that was
+             dialed
+        *P = Pulse Dial Mode
+         T = Touch Tone Mode
+         R = Reverse To Answer Mode  After
+             Dialing
+         S = Dial Stored Number
+         W = Wait  For  Dial  tone  before
+             dial in
+         , = Pause (2 Seconds)
+         ; = Return To Command State After
+             Dialing
+         @ = Wait For Quiet Answer ( 5 Se-
+             conds Of Silence
+             After Detecting Ringback)
+         ! = Flash (1/2 Second On-Hook)
+         ^ = Turn On Call Tone
+E        Command Character Echo Disabled
+E1      *Command Character Echo Enabled
+F        Error
+F1      *On Line State Character Echo  Di-
+         sabled
+H        Go To On-Hook (Off-Line)
+H1       Go To Off-Hook (On-Line)
+I        Output Product Code To The PC
+I1       Output Product Checksum To The PC
+I2       Perform Checksum  Test and return
+         OK/ERROR
+I3       Output  Manufacturer  I.D. and C-
+         hecksum To The PC
+L0,1     Select Low Speaker Volume
+L2      *Select Medium Speaker Volume
+L3       Select Hight Speaker Volume
+M        Speaker Always Off
+M1      *Speaker on During Autodialing and
+         Until Carrier Detected
+M2       Speaker Always  on  When Modem is
+         Off-Hook
+M3       Speaker on After  Autodialing and
+         Until Carrier Detected
+O        Return to on-Line Communication
+O1       Return  to  on-Line Communication
+         and Initiate Retrain
+P       *Set Pulse Dial as Default
+Q       *Result Code Messages Sent to  The
+         PC
+Q1       No Result  Code Messages  Sent to
+         The PC (Quiet)
+Sr?      Read and Display Contents of  Re-
+         gister (r)
+Sr=n     Set Register (r) To Value (n)
+T        Set Tone Dial as Default
+V        Result Code Messages Sent in  Nu-
+         meric Format
+V1      *Result Code Messages Sent in Eng-
+         lish Word Format
+X        Basic Status Set / Blind Dialing
+X1       Extended Status Set /  Blind Dia-
+         ling
+X2       Extended Status Set/Dialtone  De-
+         tection
+X3       Extended Status Set / Blind  Dia-
+         ling / Busy Tone Detection
+X4      *Extended Status Set / Dialtone  &
+         Busy Tone Detection
+Y       *Long Space Disconnect Disabled
+Y1      *Long Space Disconnect Enabled
+Z       *Restore  The Active  Cofiguration
+         with User Profile 0
+Z1       Restore  The Active  Cofiguration
+         with User Profile 1
++++     *Escape Code From On-Line  to Com-
+         mand State
+&C      *Force DCD Active
+&C1      DCD Indicates  On-Line Data  Car-
+         rier Detected
+&D      *Force DTR Active
+&D1      Return To Command State After  ON
+         to OFF Transition of DTR
+&D2      Disconnect, Return  to Command S-
+         tate And Disable Auto-Answering
+         After ON to OFF Transition of DTR
+&D3      Initialize to User  Configuration
+         After ON to OFF Transition of DTR
+&F       Initialize to Factory  Configura-
+         tion
+&G      *No Guard Tone
+&G1      550 Hz Guard Tone
+&G2      1800 Hz Guard Tone
+&J      *RJ-11,RJ-41S,or RJ45S  type Telp-
+         hone Jack
+&J1      RJ-12 or RJ-13 type Telephone Ja-
+         ck
+&L      *Dial-up Line Mode
+&L1      Leased Line Mode (not supported)
+&M      *Asynchronous Operating Mode (Same
+         as AT&Q0-AT&Q3)
+&P      *39% Make/61% Break Pulse Dial Ra-
+         tio @10pps (USA/Canada)
+&P1      33% Make/67% Break Pulse Dial Ra-
+         tio @10pps (UK/HK)
+&P2      39% Make/61% Break Pulse Dial Ra-
+         tio @20pps
+&P3      33% Make/67% Break Pulse Dial Ra-
+         tio @20pps
+&Q       Select  Asinchronous Operation in
+         Direct Mode
+&Q1      Reserved
+&Q2      Reserved
+&Q3      Reserved
+&R       CTC Track  RTS (not supported  by
+         fax/modem hardware).
+&R1      CTC on,RTS ignored. CTC is always
+         in asynchronous mode.
+&S      *DSR Always ON
+&S1      DSR Turned OFF  While  Carrier is
+         Lost
+&T       Terminate Test in Progress
+&T1      Initiate  Local  Analog  Loopback
+         Test Mode
+&T3      Initiate  Local  Digital Loopback
+         Test Mode
+&T4     *Enable Response to Remote Digital
+         Loopback Signal
+&T5      Disable Response  to Remote Digi-
+         tal Loopback Signal
+&T6      Initiate Remote  Digital Loopback
+         Test Mode
+&T7      Initiate Remote Digital  Loopback
+         with Self-Test
+&T8      Enter Local Analog  Loopback with
+         Self-Test
+&V       View  Current  Configuration  and
+         User Profile
+&W       Save User  Profile  0 as  Current
+         Configuration
+&W1      Save  User Profile 1  as  Current
+         Configuration
+&X      *The Modem Generates The  Transmit
+         Clock
+&X1      The  Local DTE Sources The Trans-
+         mit Clock
+&X2      The Modem  Derives Transmit Clock
+         From Incoming carrier
+&Y0     *Select User Profile 0  as the Ac-
+         tive Profile
+&Y1      Select User Profile  1 as the Ac-
+         tive Profile
+&Zn=x    Write Phone Number (x)  To Memory
+         entry (n)
+%Dn      DTMF Level Attenuation
+%Ln      Transmit Level Attenuation
+%J       Load Secondary Defaults
+
+
+    МОДЕМЫ . CПРАВОЧНИК ПОЛЬЗОВАТЕЛЯ.
+      ЛАНЬ. САНКТ-ПЕТЕРБУРГ 1997.
+
+АТ       Префикс командной строки
+Ln       Запрос  результирующего кода и п-
+         роверочной суммы ROM:
+         0 - модем  посылает  трёхцифровой
+             результирующий код;
+         1 - модем выдаёт проверочную сум-
+             му программы ROM;
+         2 - модем выдаёт <OK> или состоя-
+             ние ошибки  проверочной суммы
+             программы ROM;
+         3 - модем выдаёт свой статус, вк-
+             лючая формат данных, протокол
+             Bell или ITU-T.
+A        Автоответ.
+Bn       Выбор протокола Bell или ITU-T:
+         0 - ITU-T V.22/V.22bis;
+         1 - Bell 212A.
+Cn       Передача сигнала несущей:
+         0 - запрещает передачу несущей;
+         1 - разрешает передачу несущей.
+Dn       Набор номера n и  установление с-
+         вязи.
+P        Использование  импульсного набора
+         (метода PULSE).
+R        Установление связи в  реверсивном
+         режиме - режиме автоотваета.
+S        Набор хранимого номера.
+T        Использование  тонального  набора
+         номера (метода TONE).
+W        Ожидание длинного тона (гудка) из
+         линии.
+@        Ожидание "молчания" в линии.
+,        Задержка, перерыв  в последовате-
+         льности вызовов (время задержки -
+         из регистра S8).
+!        Краткая временная задержка (0.5с)
+         - имитирует процесс  "положить т-
+         рубку".
+;        Возврат в командный  режим модема
+         после набора номера.
+/        Пауза на 1/8с.
+En       Эхо модемных команд  (отображение
+         выдаваемых команд на экране дисп-
+         лея):
+         Е0 - запрет эха;
+         Е1 - любой  символ, посланный  на
+         модем в командном режиме, отобра-
+         жается на дисплее.
+Fn       Установка режима дуплекса:
+         F0 - полудуплексный режим;
+         F1 - полнодуплексный режим.
+Hn       Подключение модема к линии:
+         H0 - "положить трубку" (HUNGE  UP
+         или ON HOOK);
+         H1 - "поднять трубку" (OFF HOOK);
+Ln       Управление громкостью встроенного
+         динамика:
+         L0 - слабая; L1 - выше слабой; L2
+         - средняя; L3 - высокая.
+Mn       Управление динамиком:
+         М0 - выключен;
+         М1 - включен  в  процессе  вызова
+              или ответа (по умолчанию);
+         М2 - всегда включен;
+         М3 - отключается  после получения
+              несущего сигнала  при наборе
+              номера.
+On       Управление режимом работы модема:
+         О0 - переводит модем  в режим пе-
+              редачи;
+         О1 - переводит модем  в режим пе-
+              редачи  и  переустанавливает
+              протоколы связи  и параметры
+              эквалайзера.
+Qn       Выдача сообщений модемом:
+         Q0 - разрешает  выдачу  сообщений
+              модемом;
+         Q1 - запрещает выдачу сообщений.
+Sn=x     Команды записи в S-регистры:
+         n - номер S-регистра;
+         x - значение записываемое  в  ре-
+             гистр.
+Sn?      Чтение регистра- считывает содер-
+         жимое S-регистра с номером n.
+Vn       Выбор кодов для сообщений модема:
+         V0 - используются цифры;
+         V1 - используются слова.
+Xn       Выбор набора диагностических  со-
+         общений, управление  определением
+         сигналa "занято" и  наличием гуд-
+         ков в линии.
+         X5,X6- переключение голос/данные:
+         X5 - переход  из режима голосовой
+            связи в режим передачи данных;
+         X6 - переход  из  режима передачи
+           данных в режим передачи голоса.
+Yn       Дистанционное  отключение  сеанса
+         связи:
+         Y0 - не отключается;
+         Y1 - отключается после задержки в
+         1.6с.
+Z        Первоначальная  установка, приво-
+         дит к следующим событиям:
+         - модем "кладёт трубку";
+         - содержимое всех  S-регистровус-
+           танавливается  в  состояние "по
+           умолчанию";
+         - очищается командный буфер;
+         - считывается  состояние конфигу-
+           рационных   переключателей  или
+           файла конфигурации из энергоне-
+           зависимой памяти;
+         посылается сообщение <OK>.
+
+РАСШИРЕННЫЙ НАБОР АТ-КОМАНД.
+&Cn
+Определение   положения  информа-
+         ционной несущей (DCD):
+         &C0 - модем поддерживает DCD(кон-
+               такт 8 DB-25 RS-232) всегда
+               включенным;
+         &C1 - информационная несущая  DCD
+            определяется состоянием связи.
+&Dn
+Определение положения  линии  го-
+         товности терминала (DTR):
+         &D0 - модем игнорирует сигнал DTR
+               (контакт 20 DB-25 RS-232);
+         &D1 - при  пропадании  DTR  модем
+              переходит в коммандный режим
+              асинхронный режим;
+         &D2 - выключение  DTR  приводит к
+         "опусканию трубки", выходу из ре-
+         жима ответа и возвращению к кома-
+         ндному режиму;
+         &D3 - отключение DTR  инициализи-
+               рует модем.
+&F
+Считывание конфигурации из  энер-
+         гонезависимой памяти (ERPROM).
+&Gn
+Выбор частоты  сигнала  защитного
+         тона:
+         &G0 или &G - без защитного тона;
+         &G1 - 550 Гц;
+         &G2 - 1800 Гц (по умолчанию).
+&Jn
+Выбор телефонного разъёма:
+         &J0 - RJ-11/RJ-41S/RJ-45S;
+         &J1 - RJ-12/RJ-13.
+&Ln
+Выбор типа линии:
+         &L0 - коммутируемая;
+         &L1 - выделенная (арендуемая) ли-
+               ния.
+&Mn
+Выбор режима связи:
+         &M0 - асинхронный;
+         &М1 - первый синхронный режим -
+         асинхронный вызов и последующий
+         переход в синхронный режим;
+         &M2 - второй синхронный режим  -
+         запоминание номера вызова;
+         &M3 - третий синхронный режим  -
+         ручной вызов.
+&Pn
+Выбор отношения вызов/пауза(брейк
+         -отношения) для импульсного режи-
+         ма набора:
+         &P0 - 39/61 (стандарт США, Канады
+         и России);
+         &P1 - 33/67 (стандарт  Великобри-
+         тании).
+&Rn
+Определение положения сигнала RTS
+         (только в синхронном режиме):
+         &R0 - сигнал CTS (контакт 5 DB-25
+         RS-232)  передаётся  при  наличии
+         сигнала RTS (контакт 4);
+         &R1 - модем  игнорирует RTS и вк-
+         лючает CTS, когда готов  к приёму
+         синхронных данных.
+&Sn
+Определяет положение сигнала  го-
+         товности модема (DSR):
+         &S0 - модем устанавливает DSR  по
+         включению;
+         &S1 -DSR (контакт 6 DB-25 RS-232)
+         функционирует согласно рекоменда-
+         ции EIA.
+&Tn
+Установление тестового режима:
+         &T0 - прекращает любой  выполняе-
+         мый тест по получению команды;
+         &T1 - запускает локальный  анало-
+         говый тест;
+         &T2 - запускает  локальный цифро-
+         вой тест;
+         &T3 - подготавливает  модем к вы-
+         полнению удалённого цифрового те-
+         ста по запросу другого модема;
+         &T4 - запрещает удалённый  цифро-
+         вой тест;
+         &T5 - разрешает удалённый  цифро-
+         вой тест с другим модемом;
+         &T6 -  инициализирует   удалённый
+         цифровой тест;
+         &T7 -  инициализирует   удалённый
+         цифровой тест с самодиагностикой.
+&Wn
+Запись текущей конфигурации  в э-
+         негонезависимую память   профиля
+         (профайла)n.
+&Xn
+Выбор источника тактовой частоты
+         синхронизации передачи   (только
+         для синхронного  режима   работы
+         порта):
+         &X0 - модем  генерирует тактовую
+         частоту  и  выдаёт её на 15 кон-
+         такт DB-25  RS-232;
+         &X1 - компьютер  генерирует так-
+         товую частоту и передаёт  её  на
+         модем через 24 контакт DB-25,  а
+         модем  передаёт её через контакт
+         15;
+         &X2 - модем выделяет сигнал так-
+         товой синхронизации из  входного
+         сигнала  и  поддерживает  его на
+         контакте 15 RS-232.
+&Zn
+Запоминание телефонного номера n.
+Нифонтов Владимир
+─────────────
+             ─────────────────
+               ─────────────

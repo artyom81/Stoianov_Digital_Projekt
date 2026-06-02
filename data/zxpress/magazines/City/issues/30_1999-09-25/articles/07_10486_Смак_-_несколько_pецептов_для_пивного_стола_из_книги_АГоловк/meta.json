@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "30",
+  "issue_date_iso": "1999-09-25",
+  "order": 7,
+  "article_id": 10486,
+  "title_link": "Смак - несколько pецептов для пивного стола из книги А.Головкова \"Кухня без секpетов\".",
+  "title_h1": "City 30 - Смак - несколько pецептов для пивного стола из книги А.Головкова \"Кухня без секpетов\".",
+  "print_url": "https://zxpress.ru/print.php?id=10486",
+  "article_url": "https://zxpress.ru/article.php?id=10486",
+  "fetched_at": "2026-05-31T21:51:15Z"
+}

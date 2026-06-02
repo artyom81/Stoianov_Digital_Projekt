@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "47",
+  "issue_date_iso": "2000-08-30",
+  "order": 3,
+  "article_id": 4406,
+  "title_link": "Программистам - Вывод трехсимвольных расширений файлов.",
+  "title_h1": "Think 47 - Программистам - Вывод трехсимвольных расширений файлов.",
+  "print_url": "https://zxpress.ru/print.php?id=4406",
+  "article_url": "https://zxpress.ru/article.php?id=4406",
+  "fetched_at": "2026-05-31T23:14:24Z"
+}

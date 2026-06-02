@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 26,
+    "article_url": "https://zxpress.ru/article.php?id=26",
+    "print_url": "https://zxpress.ru/print.php?id=26",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2012,
+    "article_url": "https://zxpress.ru/article.php?id=2012",
+    "print_url": "https://zxpress.ru/print.php?id=2012",
+    "title_link": "Железо - Порт #FD.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Железо_-_Порт_FD"
+  },
+  {
+    "article_id": 2010,
+    "article_url": "https://zxpress.ru/article.php?id=2010",
+    "print_url": "https://zxpress.ru/print.php?id=2010",
+    "title_link": "Записки СисОпа - О электронной почте.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Записки_СисОпа_-_О_электроннои_почте"
+  },
+  {
+    "article_id": 2011,
+    "article_url": "https://zxpress.ru/article.php?id=2011",
+    "print_url": "https://zxpress.ru/print.php?id=2011",
+    "title_link": "Мозаика - Размышления о IS-DOS'e. Небольшой хит-парад приколов.\r\n Идея о создании единой сети на Speccy.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Мозаика_-_Размышления_о_IS-DOSe_Небольшои_хит-парад_приколов"
+  },
+  {
+    "article_id": 2013,
+    "article_url": "https://zxpress.ru/article.php?id=2013",
+    "print_url": "https://zxpress.ru/print.php?id=2013",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

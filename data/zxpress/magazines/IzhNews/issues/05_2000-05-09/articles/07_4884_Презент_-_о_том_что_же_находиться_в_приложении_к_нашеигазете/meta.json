@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "2000-05-09",
+  "order": 7,
+  "article_id": 4884,
+  "title_link": "Презент - о том что же находиться в приложении к нашей\r\nгазете.",
+  "title_h1": "IzhNews 05 - Презент - о том что же находиться в приложении к нашей газете.",
+  "print_url": "https://zxpress.ru/print.php?id=4884",
+  "article_url": "https://zxpress.ru/article.php?id=4884",
+  "fetched_at": "2026-05-31T22:15:30Z"
+}

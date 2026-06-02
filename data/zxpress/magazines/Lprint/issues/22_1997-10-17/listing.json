@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12410,
+    "article_url": "https://zxpress.ru/article.php?id=12410",
+    "print_url": "https://zxpress.ru/print.php?id=12410",
+    "title_link": "От редакции - Коммерческое распространение газеты не\r\nзапрещено и приветствуется.",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "От_редакции_-_Коммерческое_распространение_газеты_незапрещен"
+  },
+  {
+    "article_id": 12411,
+    "article_url": "https://zxpress.ru/article.php?id=12411",
+    "print_url": "https://zxpress.ru/print.php?id=12411",
+    "title_link": "Новости - Новости уходящей недели...",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Новости_-_Новости_уходящеи_недели"
+  },
+  {
+    "article_id": 12412,
+    "article_url": "https://zxpress.ru/article.php?id=12412",
+    "print_url": "https://zxpress.ru/print.php?id=12412",
+    "title_link": "Что лучше? - Техническая характеристика некоторых видов компьютеров:\r\n PROFI v5.x, Scorpion 256, ATM v7.10, Pentagon.",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Что_лучше_-_Техническая_характеристика_некоторых_видов_компь"
+  },
+  {
+    "article_id": 12413,
+    "article_url": "https://zxpress.ru/article.php?id=12413",
+    "print_url": "https://zxpress.ru/print.php?id=12413",
+    "title_link": "BLOODWYCH - Рассказ по мотиву игры \"BloodWych\" (глава 5).",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "BLOODWYCH_-_Рассказ_по_мотиву_игры_BloodWych_глава_5"
+  },
+  {
+    "article_id": 12414,
+    "article_url": "https://zxpress.ru/article.php?id=12414",
+    "print_url": "https://zxpress.ru/print.php?id=12414",
+    "title_link": "Карта - Карты уровней к игре BloodWych.",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "Карта_-_Карты_уровнеи_к_игре_BloodWych"
+  },
+  {
+    "article_id": 12415,
+    "article_url": "https://zxpress.ru/article.php?id=12415",
+    "print_url": "https://zxpress.ru/print.php?id=12415",
+    "title_link": "ENLIGHT RULEZ?! - ENLIGHT 1997 - к чему он прирулит? (день четвертый и пятый).",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "ENLIGHT_RULEZ_-_ENLIGHT_1997_-_к_чему_он_прирулит_день_четве"
+  },
+  {
+    "article_id": 12416,
+    "article_url": "https://zxpress.ru/article.php?id=12416",
+    "print_url": "https://zxpress.ru/print.php?id=12416",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 7,
+    "issue_label": "22",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

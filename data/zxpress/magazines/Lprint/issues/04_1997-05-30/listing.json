@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 3138,
+    "article_url": "https://zxpress.ru/article.php?id=3138",
+    "print_url": "https://zxpress.ru/print.php?id=3138",
+    "title_link": "BBS NEWS - График работы BBS на неделю.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "BBS_NEWS_-_График_работы_BBS_на_неделю"
+  },
+  {
+    "article_id": 3145,
+    "article_url": "https://zxpress.ru/article.php?id=3145",
+    "print_url": "https://zxpress.ru/print.php?id=3145",
+    "title_link": "Авторы - Творческий коллектив газеты.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Авторы_-_Творческии_коллектив_газеты"
+  },
+  {
+    "article_id": 3144,
+    "article_url": "https://zxpress.ru/article.php?id=3144",
+    "print_url": "https://zxpress.ru/print.php?id=3144",
+    "title_link": "Вопрос-Ответ - Итерактивность...",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Вопрос-Ответ_-_Итерактивность"
+  },
+  {
+    "article_id": 3137,
+    "article_url": "https://zxpress.ru/article.php?id=3137",
+    "print_url": "https://zxpress.ru/print.php?id=3137",
+    "title_link": "Вступления - новая газета Body.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Вступления_-_новая_газета_Body"
+  },
+  {
+    "article_id": 3141,
+    "article_url": "https://zxpress.ru/article.php?id=3141",
+    "print_url": "https://zxpress.ru/print.php?id=3141",
+    "title_link": "Интервью - Интервью с IVAN'ом хозяин Aquamarine BBS.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Интервью_-_Интервью_с_IVANом_хозяин_Aquamarine_BBS"
+  },
+  {
+    "article_id": 3143,
+    "article_url": "https://zxpress.ru/article.php?id=3143",
+    "print_url": "https://zxpress.ru/print.php?id=3143",
+    "title_link": "Мнение - Дискуссия Demo & Megademo.",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Мнение_-_Дискуссия_Demo_Megademo"
+  },
+  {
+    "article_id": 3139,
+    "article_url": "https://zxpress.ru/article.php?id=3139",
+    "print_url": "https://zxpress.ru/print.php?id=3139",
+    "title_link": "Описание - Описание игры THRUST 2.",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Описание_-_Описание_игры_THRUST_2"
+  },
+  {
+    "article_id": 3140,
+    "article_url": "https://zxpress.ru/article.php?id=3140",
+    "print_url": "https://zxpress.ru/print.php?id=3140",
+    "title_link": "Улыбнитесь - Стихи от BROM'а.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Улыбнитесь_-_Стихи_от_BROMа"
+  },
+  {
+    "article_id": 3142,
+    "article_url": "https://zxpress.ru/article.php?id=3142",
+    "print_url": "https://zxpress.ru/print.php?id=3142",
+    "title_link": "Хаккеры - Компьютерные пираты.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Хаккеры_-_Компьютерные_пираты"
+  }
+]

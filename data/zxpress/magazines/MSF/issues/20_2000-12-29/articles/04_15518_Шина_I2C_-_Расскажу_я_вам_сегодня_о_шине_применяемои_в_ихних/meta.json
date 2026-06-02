@@ -1,0 +1,15 @@
+{
+  "magazine_id": 128,
+  "magazine_name": "MSF",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "2000-12-29",
+  "order": 4,
+  "article_id": 15518,
+  "title_link": "Шина I2C - Расскажу я вам сегодня о шине, применяемой в \"ихних\" телевизорах.",
+  "title_h1": "MSF 20 - Шина I2C - Расскажу я вам сегодня о шине, применяемой в \"ихних\" телевизорах.",
+  "print_url": "https://zxpress.ru/print.php?id=15518",
+  "article_url": "https://zxpress.ru/article.php?id=15518",
+  "fetched_at": "2026-05-31T22:28:45Z"
+}

@@ -1,0 +1,181 @@
+ACNews 66 - News - AmoNik has measured the power consumption of IDE different devices, I am mostly occupied with NedoLang compiler
+News
+by Alone Coder
+Today I am mostly occupied with NedoLang compiler.
+
+The main part of the program (10 modules, formerly more because
+of header files), that in fact compiles, is already converted in
+NedoLang language, module after module. I added few structures 
+in he language to do this, namely import of constants,
+variables, and functions (header files and
+#include are not
+used). This is not the final version of the syntax yet because I
+still can't compile NedoAsm -
+"switch" and defines are needed
+(or maybe enums that are also missing). Anyway, I can sum up the
+situation after 6 months in the project:
+
+- 346 KB of sources, not counting the GUI. 191 KB of them is the
+compilator itself (that generates assembly text). The rest is
+asm tokenizer, asm exporter (de-tokenizer), and the assembler.
+
+- with comments off, the output assembly text of the compiler
+(that was 191 KB) comprises 500 KB. While compilation of the
+largest module, 11 KB of labels is generated (there was 10 KB
+reserved before, now it doesn't fit).
+
+- binary file generated from this assembly text is 57 KB
+(including label buffer and other memory buffers). Assembler
+uses around 60 KB for labels (I reserved 128 KB because the
+assembler acts as a linker and must know all labels in all
+modules).
+
+This is too early to release. If I add filesystem and screen
+output, the compiler will exceed the address space, the
+assembler already did. And how many floppies would be needed to
+self-compile... three at once?
+
+I can work in different ways:
+
+- optimize the compiler source (for example, remove superfluous
+text messages);
+- make better code generation (register allocator at least);
+- support far calls to write as many code as you want;
+- support far pointers to use as much memory as you want;
+- somehow remove local labels during assembly;
+- assemply part by part and add a linker;
+- stream the assembly text to save disk space. For this, I need
+to buffer constants and variables in memory. Now they are just
+emitted in another assembly text. However, if I stream assembly
+text, I can't compile programs part by part (is it needed? we
+will know when we measure compilation speed).
+
+I don't know how much time any of these jobs will take. There
+were other ideas - overlays for example (proposed by
+deathsoft
+who has hand-counted around 4000 transistors in VG93 disk
+controller, and has found commonly with
+Lord Vader a few bugs in
+NedoLang using three different compilers). But I don't want to 
+bind the system to overlay loading. I want the whole system
+(editor, compiler, assembler, and programm running) in memory.
+For this, OS support is needed, of course.
+
+I'd better run self-compilation as early as possible, at least
+to know what places to optimize for speed. I don't know the
+speed yet. Judging from the size of assembly file, today's
+version will take more than a minute at 3.5 MHz. It is desirable
+to fit in 1 minute.
+
+Maybe integrating the assembler in the compiler is profitable.
+Of course, built-in assembler will not be as fast as a dedicated
+one (that reads tokenized text). Although the future work
+scenario for NedoLang assumes prototyping a program in
+high-level language then converting the slowest parts in
+assembly. There's no need to convert all parts. However, someone
+might want writing in assembly from scratch.
+
+As a compromise, I can include the tokenizer in NedoLang, so it
+will output tokenized assembly text. This adds 98 KB to 191 KB
+of sources mentioned earlier, and will not fit in the current
+binary.
+
+The third option, most comfortable for the end user and the
+hardest to do - re-write the assembler to compile both
+separately and inside the compiler (so the binary will be twice
+as big). However, we need assembly text output anyway.
+
+Of course, I can make the language simpler, like Pseudo-C, with
+one loop command, two types, without function arguments, modules
+etc. But this will be unusable for real-life tasks.
+
+The reserve method is re-writing the compiler in assembly, but
+that will stall the development of the development system. We
+shall see what we shall see. Maybe the speed will be sufficient.
+Especially with background compilation :)
+* * *
+This time I couldn't escape neither to
+John Silver, nor to the
+gathering at local film studio (namely we visited the studio
+with
+Louisa but found a quiz there, not lessons). John said he
+writes a song. In general, he repairs PCs.
+
+By the way, as I wrote this issue, my very old PC has broken -
+first the keyboard went crazy, then something clicked, the
+computer stopped and refused to reboot. The mouse was played to
+the end by
+Dasha even earlier. A couple of laptops remained. All
+of this at the very moment when
+Wanderer (author of MURKЗЗ20,
+MURKЗЗ27 games) asked me to copy Spectrum floppies with a source 
+for an unreleased game. Somebody else should do it. Suddenly I
+realized that all my working computers are at least 6 years old.
+This was unthinkable in 2000, even at Speccy...
+
+There are marks of music by other authors, and the articles for
+the e-zine are also being written. Sadly there's still no
+graphics.
+AmoNik sent a lot of data - old archives, echo conferences,
+memories.
+
+In between times,
+AmoNik has measured the power consumption of
+different devices (I've seen a dispute in the Internet about
+this today) - see in separate article. He also fixed the IDE
+driver for iS-DOS, written in 1999 by
+Oleg Grigoriev. It had the
+same problem (see
+#65 ) - it didn't work with modern devices,
+namely his CompactFlash card that doesn't return sector
+coordinates in registers.
+
+Let him say:
+
+┌───────────────────────────────────────────────────────────────┐
+I copied the original driver in
+SMUC.ZIP
+archive in mid-2000s 
+from the author,
+Oleg Grigoriev.
+He wrote a fast and compact 
+driver but hadn't finished an installer for it, arguing that he 
+had few iS-DOS partitions at his HDD, so he had hard-coded their 
+coordinates directly in the driver. As far I understood,
+Oleg's
+driver is based on
+Jason Frost's
+driver with some update. After 
+the update the driver became shorter and more logical. 
+
+In 2006, I made an LBA version of it, but for some reason the 
+new driver wasn't tested successfully, and I forgot about it. In 
+2017, I was cleaning test versions of programs from
+TEMP
+directory at my system disk, and I found this driver in a 
+directory named
+NOTWORK.ING.
+There weren't any text notes. So I 
+couldn't know what was broken. I copied the driver just in case, 
+and tested it at a test partition. The driver completed reading 
+tests successfully but failed in writing. 
+
+I converted the driver in ALASM and wrote a test suite. After 
+debugging for some time, I found and fixed the fragment not 
+working at modern devices. Then I remade partition switcher, 
+modelling it after HDDLSERV, then I tested the driver thoroughly 
+by copying my 8 MB system disk to test partition of MASTER and 
+SLAVE devices. Checksums showed that the driver in working. 
+
+As always, the driver requires open ports of SMUC IDE and works 
+in both iS-DOS Classic and Chic. I think this driver is better 
+because it's 230 bytes shorter than my HDDLSMUC. I also wrote a 
+universal disk mounter named HDUNISRV. It works with either 
+HDDLSMUC or RHDDLBA depending on the driver name in the command 
+line. For example: 
+hdunisrv Rhddlba - mounts disks to Rhddlba driver.
+The original
+Grigoriev's
+archive is also here. There are several 
+versions of his driver, some sketches of install utility, and 
+testing procedures. Maybe somebody will be interested.

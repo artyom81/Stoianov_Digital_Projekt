@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 117,
+    "article_url": "https://zxpress.ru/article.php?id=117",
+    "print_url": "https://zxpress.ru/print.php?id=117",
+    "title_link": "Вступление - о причинах задержки газеты.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Вступление_-_о_причинах_задержки_газеты"
+  },
+  {
+    "article_id": 8823,
+    "article_url": "https://zxpress.ru/article.php?id=8823",
+    "print_url": "https://zxpress.ru/print.php?id=8823",
+    "title_link": "Зазеркалье - Из хроники исчезновений (продолжение).",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Зазеркалье_-_Из_хроники_исчезновении_продолжение"
+  },
+  {
+    "article_id": 8824,
+    "article_url": "https://zxpress.ru/article.php?id=8824",
+    "print_url": "https://zxpress.ru/print.php?id=8824",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8825,
+    "article_url": "https://zxpress.ru/article.php?id=8825",
+    "print_url": "https://zxpress.ru/print.php?id=8825",
+    "title_link": "Анкета - Результаты анкетирования, по результатам опроса 75 Спектрумистов.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Анкета_-_Результаты_анкетирования_по_результатам_опроса_75_С"
+  }
+]

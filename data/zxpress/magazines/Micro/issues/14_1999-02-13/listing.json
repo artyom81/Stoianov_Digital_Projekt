@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 5183,
+    "article_url": "https://zxpress.ru/article.php?id=5183",
+    "print_url": "https://zxpress.ru/print.php?id=5183",
+    "title_link": "Credits - список авторов музыки и графики использованной в предыдущих номерах.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Credits_-_список_авторов_музыки_и_графики_использованнои_в_п"
+  },
+  {
+    "article_id": 5184,
+    "article_url": "https://zxpress.ru/article.php?id=5184",
+    "print_url": "https://zxpress.ru/print.php?id=5184",
+    "title_link": "На заметку - Реальное положение дел в ассоциации Amazing Software Making (А.S.M.)",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "На_заметку_-_Реальное_положение_дел_в_ассоциации_Amazing_Sof"
+  },
+  {
+    "article_id": 5185,
+    "article_url": "https://zxpress.ru/article.php?id=5185",
+    "print_url": "https://zxpress.ru/print.php?id=5185",
+    "title_link": "Эмуляторы - обзор эмуляторов Спектрума.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Эмуляторы_-_обзор_эмуляторов_Спектрума"
+  },
+  {
+    "article_id": 5186,
+    "article_url": "https://zxpress.ru/article.php?id=5186",
+    "print_url": "https://zxpress.ru/print.php?id=5186",
+    "title_link": "Литстраничка - Максимилиан Волошин: Из цикла \"Путями Каина\".",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Литстраничка_-_Максимилиан_Волошин_Из_цикла_Путями_Каина"
+  },
+  {
+    "article_id": 5187,
+    "article_url": "https://zxpress.ru/article.php?id=5187",
+    "print_url": "https://zxpress.ru/print.php?id=5187",
+    "title_link": "Юмор из Фидо - подборка юморных текстов.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Юмор_из_Фидо_-_подборка_юморных_текстов"
+  }
+]

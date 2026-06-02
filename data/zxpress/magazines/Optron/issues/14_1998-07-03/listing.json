@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 842,
+    "article_url": "https://zxpress.ru/article.php?id=842",
+    "print_url": "https://zxpress.ru/print.php?id=842",
+    "title_link": "Kempston Mouse-2 - Определение наличия мышки. Обработка кнопок и координат.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Kempston_Mouse-2_-_Определение_наличия_мышки_Обработка_кнопо"
+  },
+  {
+    "article_id": 841,
+    "article_url": "https://zxpress.ru/article.php?id=841",
+    "print_url": "https://zxpress.ru/print.php?id=841",
+    "title_link": "Железо - Графические видеорежимы.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Железо_-_Графические_видеорежимы"
+  },
+  {
+    "article_id": 843,
+    "article_url": "https://zxpress.ru/article.php?id=843",
+    "print_url": "https://zxpress.ru/print.php?id=843",
+    "title_link": "Железо - Макси-извращенные \"прибамбасы\" PowerZX.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Железо_-_Макси-извращенные_прибамбасы_PowerZX"
+  },
+  {
+    "article_id": 839,
+    "article_url": "https://zxpress.ru/article.php?id=839",
+    "print_url": "https://zxpress.ru/print.php?id=839",
+    "title_link": "Конкурс - Ваши хитрости и советы, которые могут быть полезны не только в области Спектрума, но и в домашнем хозяйстве.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Конкурс_-_Ваши_хитрости_и_советы_которые_могут_быть_полезны"
+  },
+  {
+    "article_id": 840,
+    "article_url": "https://zxpress.ru/article.php?id=840",
+    "print_url": "https://zxpress.ru/print.php?id=840",
+    "title_link": "Лит. страничка - Начало конца. Стихи: Дебит и кредит.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Лит_страничка_-_Начало_конца_Стихи_Дебит_и_кредит"
+  },
+  {
+    "article_id": 845,
+    "article_url": "https://zxpress.ru/article.php?id=845",
+    "print_url": "https://zxpress.ru/print.php?id=845",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 844,
+    "article_url": "https://zxpress.ru/article.php?id=844",
+    "print_url": "https://zxpress.ru/print.php?id=844",
+    "title_link": "Четыре килобайта - Новое название группы - Steel Falcons.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Четыре_килобаита_-_Новое_название_группы_-_Steel_Falcons"
+  }
+]

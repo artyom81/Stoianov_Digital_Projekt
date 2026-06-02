@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 27,
+    "article_url": "https://zxpress.ru/article.php?id=27",
+    "print_url": "https://zxpress.ru/print.php?id=27",
+    "title_link": "B.B.S. Новости - О работе B.B.S.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "BBS_Новости_-_О_работе_BBS"
+  },
+  {
+    "article_id": 1947,
+    "article_url": "https://zxpress.ru/article.php?id=1947",
+    "print_url": "https://zxpress.ru/print.php?id=1947",
+    "title_link": "WANTED !!! - Разыскиваются ...",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "WANTED_-_Разыскиваются"
+  },
+  {
+    "article_id": 1946,
+    "article_url": "https://zxpress.ru/article.php?id=1946",
+    "print_url": "https://zxpress.ru/print.php?id=1946",
+    "title_link": "Железо - Доработка синхрогенератора компьютера \"Profi\" v5.03.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Железо_-_Доработка_синхрогенератора_компьютера_Profi_v503"
+  },
+  {
+    "article_id": 1944,
+    "article_url": "https://zxpress.ru/article.php?id=1944",
+    "print_url": "https://zxpress.ru/print.php?id=1944",
+    "title_link": "Застрял ? - Описание игры \"Ranarama\".",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Застрял_-_Описание_игры_Ranarama"
+  },
+  {
+    "article_id": 1948,
+    "article_url": "https://zxpress.ru/article.php?id=1948",
+    "print_url": "https://zxpress.ru/print.php?id=1948",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1945,
+    "article_url": "https://zxpress.ru/article.php?id=1945",
+    "print_url": "https://zxpress.ru/print.php?id=1945",
+    "title_link": "Хаккеры тоже люди - Советы редакции журнала \"Cпектрофон\".",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Хаккеры_тоже_люди_-_Советы_редакции_журнала_Cпектрофон"
+  }
+]

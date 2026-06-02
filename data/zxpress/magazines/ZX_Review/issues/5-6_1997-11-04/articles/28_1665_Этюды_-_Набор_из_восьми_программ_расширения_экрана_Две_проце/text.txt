@@ -1,0 +1,578 @@
+ZX Review 5-6 - Этюды - Набор из восьми программ "расширения" экрана.  Две процедуры проявления экрана.
+(c) Командин И.Г., г.Калуга
+Предлагаю  набор  из   восьми
+программ,  объединенных    общей
+целью. Ниже будут  даны  краткие
+характеристики каждой  из  прог-
+рамм, а затем и их листинги.
+PICTH1
+- увеличение вдвое  по
+высоте содержимого средней части 
+экрана,  так,  что  получившееся
+изображение занимает весь экран;
+PICTH2
+- увеличивает вдвое по
+высоте содержимое верхней  поло-
+вины экрана (строки 0-11);
+ATTRH1
+- то же, что и PICTH1,
+но для атрибутов;
+ATTRH2
+- то же, что и PICTH2,
+но для атрибутов;
+PICTW1
+- увеличение вдвое  по
+ширине  изображения в центре эк-
+рана (столбцы 8-23);
+PICTW2
+- увеличение вдвое  по
+ширине изображения в левой поло-
+вине экрана (столбцы 0-15);
+ATTRW1
+- PICTW1  для  атрибу-
+тов;
+ATTRW2
+- PICTW2  для  атрибу-
+тов.
+140.
+PICTH1    LD      B,48
+          LD      HL,#40C0
+          LD      DE,#4000
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      BC,32
+          LDIR
+          POP     DE
+          EX      DE,HL
+          CALL    DOWN
+          EX      DE,HL
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          DJNZ    LOOP
+          LD      B,48
+          LD      HL,#5720
+          LD      DE,#57E0
+LOOP1     PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      BC,32
+          LDIR
+          POP     DE
+          EX      DE,HL
+          CALL    UP
+          EX      DE,HL
+          POP     HL
+          PUSH    HL
+          PUSH    DE
+          LD      BC,32
+          LDIR
+          POP     DE
+          EX      DE,HL
+          CALL    UP
+          EX      DE,HL
+          POP     HL
+          CALL    UP
+          POP     BC
+          DJNZ    LOOP1
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+UP        DEC     H
+          LD      A,H
+          AND     7
+          CP      7
+          RET     NZ
+          LD      A,L
+          SUB     32
+          LD      L,A
+          RET     C
+          LD      A,H
+          ADD     A,8
+          LD      H,A
+          RET
+
+───────────────────────────────
+
+PICTH2    LD      B,96
+          LD      HL,#4F60
+          LD      DE,#57E0
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      BC,32
+          LDIR
+          POP     DE
+          EX      DE,HL
+          CALL    UP
+          EX      DE,HL
+          POP     HL
+          PUSH    HL
+          PUSH    DE
+          LD      BC,32
+          LDIR
+          POP     DE
+          EX      DE,HL
+          CALL    UP
+          EX      DE,HL
+          POP     HL
+          CALL    UP
+          POP     BC
+          DJNZ    LOOP
+          RET
+UP        DEC     H
+          LD      A,H
+          AND     7
+          CP      7
+          RET     NZ
+          LD      A,L
+          SUB     32
+          LD      L,A
+          RET     C
+          LD      A,H
+          ADD     A,8
+          LD      H,A
+          RET
+
+───────────────────────────────
+
+ATTRH1    LD      B,6
+          LD      HL,#58C0
+          LD      DE,#5800
+LOOP      PUSH    BC
+          PUSH    HL
+          LD      BC,32
+          LDIR
+          POP     HL
+          LD      BC,32
+          LDIR
+          POP     BC
+          DJNZ    LOOP
+          LD      B,6
+          LD      HL,#5A3F
+          LD      DE,#5AFF
+LOOP1     PUSH    BC
+          PUSH    HL
+          LD      BC,32
+          LDIR
+          POP     HL
+          LD      BC,32
+          LDDR
+          POP     BC
+          DJNZ    LOOP1
+          RET
+
+───────────────────────────────
+
+ATTRH2    LD      B,12
+          LD      HL,#597F
+          LD      DE,#5AFF
+LOOP      PUSH    BC
+          PUSH    HL
+          LD      BC,32
+          LDIR
+          POP     HL
+          LD      BC,32
+          LDDR
+          POP     BC
+          DJNZ    LOOP
+          RET
+
+───────────────────────────────
+
+PICTW1    LD      B,192
+          LD      HL,#4000
+          LD      DE,#4008
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,8
+L3        PUSH    BC
+          LD      A,(DE)
+          LD      B,2
+L2        PUSH    BC
+          LD      B,4
+L1        RLCA
+          PUSH    AF
+          RL      (HL)
+          POP     AF
+          RL      (HL)
+          DJNZ    L1
+          INC     HL
+          POP     BC
+          DJNZ    L2
+          INC     DE
+          POP     BC
+          DJNZ    L3
+          POP     DE
+          EX      DE,HL
+          CALL    DOWN
+          EX      DE,HL
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          DJNZ    LOOP
+          LD      B,192
+          LD      HL,#401F
+          LD      DE,#4017
+LOOP1     PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,8
+L6        PUSH    BC
+          LD      A,(DE)
+          LD      B,2
+L5        PUSH    BC
+          LD      B,4
+L4        RRCA
+          PUSH    AF
+          RR      (HL)
+          POP     AF
+          RR      (HL)
+          DJNZ    L4
+          DEC     HL
+          POP     BC
+          DJNZ    L5
+          DEC     DE
+          POP     BC
+          DJNZ    L6
+          POP     DE
+          EX      DE,HL
+          CALL    DOWN
+          EX      DE,HL
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          DJNZ    LOOP1
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+
+───────────────────────────────
+
+PICTW2    LD      B,192
+          LD      HL,#401F
+          LD      DE,#400F
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,16
+L3        PUSH    BC
+          LD      A,(DE)
+          LD      B,2
+L2        PUSH    BC
+          LD      B,4
+L1        RRCA
+          PUSH    AF
+          RR      (HL)
+          POP     AF
+          RR      (HL)
+          DJNZ    L1
+          DEC     HL
+          POP     BC
+          DJNZ    L2
+          DEC     DE
+          POP     BC
+          DJNZ    L3
+          POP     DE
+          EX      DE,HL
+          CALL    DOWN
+          EX      DE,HL
+          POP     HL
+          CALL    DOWN
+          POP     BC
+          DJNZ    LOOP
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+
+───────────────────────────────
+
+ATTRW1    LD      B,24
+          LD      HL,#5808
+          DE      DE,#5800
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,8
+LOOP2     LD      A,(HL)
+          LD      (DE),A
+          INC     DE
+          LD      (DE),A
+          INC     DE
+          INC     HL
+          DJNZ    LOOP2
+          POP     DE
+          LD      HL,32
+          ADD     HL,DE
+          LD      D,H
+          LD      E,L
+          POP     HL
+          LD      BC,32
+          ADD     HL,BC
+          POP     BC
+          DJNZ    LOOP
+          LD      B,24
+          LD      HL,#5817
+          LD      DE,#581F
+LOOP3     PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,8
+LOOP4     LD      A,(HL)
+          LD      (DE),A
+          DEC     DE
+          LD      (DE),A
+          DEC     HL
+          DEC     DE
+          DJNZ    LOOP4
+          POP     DE
+          LD      HL,32
+          ADD     HL,DE
+          LD      D,H
+          LD      E,L
+          POP     HL
+          LD      BC,32
+          ADD     HL,BC
+          POP     BC
+          DJNZ    LOOP3
+          RET
+
+───────────────────────────────
+
+ATTRW2    LD      HL,#580F
+          LD      DE,#581F
+          LD      B,24
+LOOP      PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      B,16
+LOOP2     LD      A,(HL)
+          LD      (DE),A
+          DEC     DE
+          LD      (DE),A
+          DEC     DE
+          DEC     HL
+          DJNZ    LOOP2
+          POP     DE
+          LD      HL,32
+          ADD     HL,DE
+          LD      D,H
+          LD      E,L
+          POP     HL
+          LD      BC,32
+          ADD     HL,BC
+          POP     BC
+          DJNZ    LOOP
+          RET
+2
+Ну вот и все. Осталось только
+добавить, что программы  "расши-
+рения"  экрана  несколько медли-
+тельны, так что лучше  использо-
+вать их для  теневого  экрана, а
+затем   переносить  получившееся
+изображение в экранную область.
+   Помнится, однажды Сергей  Ко-
+лотов предложил сделать програм-
+му, увеличивающую изображение  в
+центре экрана вдвое, так,  чтобы
+оно занимало весь экран  (графи-
+ка + атрибуты). Теперь для того,
+чтобы  добиться  этого  эффекта,
+нужно  всего  лишь    последова-
+тельно вызвать процедуры PICTH1,
+PICTW1, ATTRH1, ATTRW1.
+   Следующие две программы,  ко-
+торые я хочу предложить, -  про-
+цедуры проявления экрана. Особый
+интерес, на  мой  взгляд,  пред-
+ставляет последняя процедура.
+140.
+;(C) ZX-MANIACS
+;SPECIAL FOR INFORCOM
+
+BUFF      EQU     41000
+          LD      HL,BUFF
+          LD      DE,#4000
+          SBC     HL,DE
+          LD      (DIFF),HL
+140.          LD      HL,DOWN
+          LD      (MODE),HL
+          LD      HL,#4000
+          CALL    DRAW
+          LD      HL,UP
+          LD      (MODE),HL
+          LD      HL,#57E0
+          CALL    DRAW
+          LD      HL,DOWN
+          LD      (MODE),HL
+          LD      HL,#4100
+          CALL    DRAW
+          LD      HL,UP
+          LD      (MODE),HL
+          LD      HL,#56E0
+          CALL    DRAW
+          LD      HL,BUFF
+          LD      DE,#4000
+          LD      BC,6912
+          LDIR
+          RET
+DRAW      LD      B,47
+LOOP      PUSH    BC
+          PUSH    HL
+          LD      D,H
+          LD      E,L
+          LD      BC,(DIFF)
+          ADD     HL,BC
+          LD      BC,32
+          LDIR
+          POP     HL
+          LD      B,4
+PASS      DEFB    205
+MODE      NOP
+          NOP
+          DJNZ    PASS
+          POP     BC
+          HALT
+          DJNZ    LOOP
+          RET
+DOWN      INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+UP        DEC     H
+          LD      A,H
+          AND     7
+          CP      7
+          RET     NZ
+          LD      A,L
+          SUB     32
+          LD      L,A
+          RET     C
+          LD      A,H
+          ADD     A,8
+          LD      H,A
+          RET
+DIFF      DEFW    0
+
+───────────────────────────────
+
+;(C) ZX-MANIACS
+;SPECIAL FOR INFORCOM
+
+BUFF      EQU     41000
+          LD      HL,BUFF
+          LD      DE,#4000
+          SBC     HL,DE
+          LD      (DIFF),HL
+          LD      B,0
+LOOP      PUSH    BC
+          LD      C,B
+          INC     B
+          LD      A,B
+          CP      #C0
+          JR      C,M1
+          LD      B,#C0
+M1        XOR     A
+L1        PUSH    AF
+          CALL    8880
+          CALL    PLOT
+          POP     BC
+          POP     AF
+          DEC     C
+          INC     A
+          DJNZ    L1
+          POP     BC
+          INC     B
+          LD      A,B
+          CP      #FF
+          JR      NZ,LOOP
+          LD      B,#BF
+LOOP1     PUSH    BC
+          LD      A,#BF
+          SUB     B
+          LD      C,#FF
+          INC     B
+L2        PUSH    AF
+          PUSH    BC
+          CALL    8880
+          CALL    PLOT
+          POP     BC
+          POP     AF
+          DEC     C
+          INC     A
+          DJNZ    L2
+          POP     BC
+          DJNZ    LOOP1
+          LD      HL,BUFF+1800
+          LD      DE,#5800
+          LD      BC,#0300
+          LDIR
+          RET
+PLOT      ADD     A,A
+          ADD     A,A
+          ADD     A,A
+          ADD     A,#46
+          LD      (BITP),A
+          ADD     A,#40
+          LD      (RESP),A
+          ADD     A,#40
+          LD      (SETP),A
+          LD      DE,(DIFF)
+          ADD     HL,DE
+          DEFB    #CB
+BITP      NOP
+          PUSH    AF
+          SBC     HL,DE
+          POP     AF
+          JR      Z,CONT
+          DEFB    #CB
+SETP      NOP
+          RET
+CONT      DEFB    #CB
+RESP      NOP
+          RET
+DIFF      DEFW    0
+2
+С уважением, ZX-MANIAC.
+*   *   *

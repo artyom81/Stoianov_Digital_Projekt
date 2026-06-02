@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6992,
+    "article_url": "https://zxpress.ru/article.php?id=6992",
+    "print_url": "https://zxpress.ru/print.php?id=6992",
+    "title_link": "Вступление - стихи и содержание номера.",
+    "order": 1,
+    "issue_label": "78",
+    "short_slug": "Вступление_-_стихи_и_содержание_номера"
+  },
+  {
+    "article_id": 6993,
+    "article_url": "https://zxpress.ru/article.php?id=6993",
+    "print_url": "https://zxpress.ru/print.php?id=6993",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "78",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6994,
+    "article_url": "https://zxpress.ru/article.php?id=6994",
+    "print_url": "https://zxpress.ru/print.php?id=6994",
+    "title_link": "Интервью - интервью с первой московской спектрумисткой-сисопом Марией.",
+    "order": 3,
+    "issue_label": "78",
+    "short_slug": "Интервью_-_интервью_с_первои_московскои_спектрумисткои-сисоп"
+  },
+  {
+    "article_id": 6995,
+    "article_url": "https://zxpress.ru/article.php?id=6995",
+    "print_url": "https://zxpress.ru/print.php?id=6995",
+    "title_link": "Поздравления - поздравление женщин с 8-м марта.",
+    "order": 4,
+    "issue_label": "78",
+    "short_slug": "Поздравления_-_поздравление_женщин_с_8-м_марта"
+  },
+  {
+    "article_id": 6996,
+    "article_url": "https://zxpress.ru/article.php?id=6996",
+    "print_url": "https://zxpress.ru/print.php?id=6996",
+    "title_link": "Информация - новости о введении повременной оплаты телефона в Москве.",
+    "order": 5,
+    "issue_label": "78",
+    "short_slug": "Информация_-_новости_о_введении_повременнои_оплаты_телефона"
+  },
+  {
+    "article_id": 6997,
+    "article_url": "https://zxpress.ru/article.php?id=6997",
+    "print_url": "https://zxpress.ru/print.php?id=6997",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 6,
+    "issue_label": "78",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6998,
+    "article_url": "https://zxpress.ru/article.php?id=6998",
+    "print_url": "https://zxpress.ru/print.php?id=6998",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "78",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6999,
+    "article_url": "https://zxpress.ru/article.php?id=6999",
+    "print_url": "https://zxpress.ru/print.php?id=6999",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "78",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

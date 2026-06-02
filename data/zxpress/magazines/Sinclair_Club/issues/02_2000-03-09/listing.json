@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 11940,
+    "article_url": "https://zxpress.ru/article.php?id=11940",
+    "print_url": "https://zxpress.ru/print.php?id=11940",
+    "title_link": "Help - описание оболочки газеты.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Help_-_описание_оболочки_газеты"
+  },
+  {
+    "article_id": 11941,
+    "article_url": "https://zxpress.ru/article.php?id=11941",
+    "print_url": "https://zxpress.ru/print.php?id=11941",
+    "title_link": "От авторов - Sinclair CLub посвящен только Спектруму!",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "От_авторов_-_Sinclair_CLub_посвящен_только_Спектруму"
+  },
+  {
+    "article_id": 11942,
+    "article_url": "https://zxpress.ru/article.php?id=11942",
+    "print_url": "https://zxpress.ru/print.php?id=11942",
+    "title_link": "Демопати - предварительная информация о Paradox'2000.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Демопати_-_предварительная_информация_о_Paradox2000"
+  },
+  {
+    "article_id": 11943,
+    "article_url": "https://zxpress.ru/article.php?id=11943",
+    "print_url": "https://zxpress.ru/print.php?id=11943",
+    "title_link": "Демосцена - журнал Хакер рассказывает - что такое демосцена и зачем она нужна.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Демосцена_-_журнал_Хакер_рассказывает_-_что_такое_демосцена"
+  },
+  {
+    "article_id": 11944,
+    "article_url": "https://zxpress.ru/article.php?id=11944",
+    "print_url": "https://zxpress.ru/print.php?id=11944",
+    "title_link": "Возвращаясь к истокам - рассказ о Воронежском компьютерном клубе Sinclair Club (компьютерра).",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Возвращаясь_к_истокам_-_рассказ_о_Воронежском_компьютерном_к"
+  },
+  {
+    "article_id": 11945,
+    "article_url": "https://zxpress.ru/article.php?id=11945",
+    "print_url": "https://zxpress.ru/print.php?id=11945",
+    "title_link": "Приложение - о программе Quick Screen Viewer 2.0.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Приложение_-_о_программе_Quick_Screen_Viewer_20"
+  },
+  {
+    "article_id": 11946,
+    "article_url": "https://zxpress.ru/article.php?id=11946",
+    "print_url": "https://zxpress.ru/print.php?id=11946",
+    "title_link": "Приложение - программа Please Design v.1.0.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Приложение_-_программа_Please_Design_v10"
+  },
+  {
+    "article_id": 11947,
+    "article_url": "https://zxpress.ru/article.php?id=11947",
+    "print_url": "https://zxpress.ru/print.php?id=11947",
+    "title_link": "Спектрумист из Самары - интервью с Shaitan/Stars of Keladan взятое на Paradox'99.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Спектрумист_из_Самары_-_интервью_с_ShaitanStars_of_Keladan_в"
+  },
+  {
+    "article_id": 11948,
+    "article_url": "https://zxpress.ru/article.php?id=11948",
+    "print_url": "https://zxpress.ru/print.php?id=11948",
+    "title_link": "Обьявления - документальный фильм о фестивале Paradox'99.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Обьявления_-_документальныи_фильм_о_фестивале_Paradox99"
+  },
+  {
+    "article_id": 11949,
+    "article_url": "https://zxpress.ru/article.php?id=11949",
+    "print_url": "https://zxpress.ru/print.php?id=11949",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

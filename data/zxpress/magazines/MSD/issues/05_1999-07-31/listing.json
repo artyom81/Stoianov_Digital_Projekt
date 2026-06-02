@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6055,
+    "article_url": "https://zxpress.ru/article.php?id=6055",
+    "print_url": "https://zxpress.ru/print.php?id=6055",
+    "title_link": "Вступление - содержание выпуска.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_содержание_выпуска"
+  },
+  {
+    "article_id": 6056,
+    "article_url": "https://zxpress.ru/article.php?id=6056",
+    "print_url": "https://zxpress.ru/print.php?id=6056",
+    "title_link": "Железо - Схема Kempston Mouse interface (Michael Kondratyev, 17-Apr-95).",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Железо_-_Схема_Kempston_Mouse_interface_Michael_Kondratyev_1"
+  },
+  {
+    "article_id": 6057,
+    "article_url": "https://zxpress.ru/article.php?id=6057",
+    "print_url": "https://zxpress.ru/print.php?id=6057",
+    "title_link": "Софт - ZX Terminal 97 - вaщ пyть в Интepнeт (пo мamepиaлaм фиpмы Cкopnиoн).",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Софт_-_ZX_Terminal_97_-_вaщ_пyть_в_Интepнeт_пo_мamepиaлaм_фи"
+  },
+  {
+    "article_id": 6058,
+    "article_url": "https://zxpress.ru/article.php?id=6058",
+    "print_url": "https://zxpress.ru/print.php?id=6058",
+    "title_link": "Бульон для размышления - перепечатки из МК.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Бульон_для_размышления_-_перепечатки_из_МК"
+  },
+  {
+    "article_id": 6059,
+    "article_url": "https://zxpress.ru/article.php?id=6059",
+    "print_url": "https://zxpress.ru/print.php?id=6059",
+    "title_link": "Прожекты - дизайн проект игровой программы \"Тамогочи\" от группы MSD.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Прожекты_-_дизаин_проект_игровои_программы_Тамогочи_от_групп"
+  },
+  {
+    "article_id": 6060,
+    "article_url": "https://zxpress.ru/article.php?id=6060",
+    "print_url": "https://zxpress.ru/print.php?id=6060",
+    "title_link": "Прожекты - реализация русского орфографического словаря на ZX Spectrum для составления кроссвордов.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Прожекты_-_реализация_русского_орфографического_словаря_на_Z"
+  },
+  {
+    "article_id": 6061,
+    "article_url": "https://zxpress.ru/article.php?id=6061",
+    "print_url": "https://zxpress.ru/print.php?id=6061",
+    "title_link": "Юмор - анекдоты.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6062,
+    "article_url": "https://zxpress.ru/article.php?id=6062",
+    "print_url": "https://zxpress.ru/print.php?id=6062",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

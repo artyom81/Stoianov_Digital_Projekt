@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 10782,
+    "article_url": "https://zxpress.ru/article.php?id=10782",
+    "print_url": "https://zxpress.ru/print.php?id=10782",
+    "title_link": "Вступление - Мы с Voxon'ом решили объеденить наши газеты.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Вступление_-_Мы_с_Voxonом_решили_объеденить_наши_газеты"
+  },
+  {
+    "article_id": 10783,
+    "article_url": "https://zxpress.ru/article.php?id=10783",
+    "print_url": "https://zxpress.ru/print.php?id=10783",
+    "title_link": "Новости - Новости от FLASH на 20.07.97 года.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_200797_года"
+  },
+  {
+    "article_id": 10784,
+    "article_url": "https://zxpress.ru/article.php?id=10784",
+    "print_url": "https://zxpress.ru/print.php?id=10784",
+    "title_link": "Реклама - Группа \"DARK CROWN\" ищет музыканта и кодера, желательно проживающего в городе Новосибирске.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Реклама_-_Группа_DARK_CROWN_ищет_музыканта_и_кодера_желатель"
+  }
+]

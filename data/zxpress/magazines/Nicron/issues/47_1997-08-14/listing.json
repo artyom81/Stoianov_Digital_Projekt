@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6775,
+    "article_url": "https://zxpress.ru/article.php?id=6775",
+    "print_url": "https://zxpress.ru/print.php?id=6775",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "47",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6776,
+    "article_url": "https://zxpress.ru/article.php?id=6776",
+    "print_url": "https://zxpress.ru/print.php?id=6776",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "47",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6777,
+    "article_url": "https://zxpress.ru/article.php?id=6777",
+    "print_url": "https://zxpress.ru/print.php?id=6777",
+    "title_link": "Юмор - Фирме \"от Бинкона\" срочно требуются.",
+    "order": 3,
+    "issue_label": "47",
+    "short_slug": "Юмор_-_Фирме_от_Бинкона_срочно_требуются"
+  },
+  {
+    "article_id": 6778,
+    "article_url": "https://zxpress.ru/article.php?id=6778",
+    "print_url": "https://zxpress.ru/print.php?id=6778",
+    "title_link": "Рассказы - Муж. Жена. Любовница.",
+    "order": 4,
+    "issue_label": "47",
+    "short_slug": "Рассказы_-_Муж_Жена_Любовница"
+  },
+  {
+    "article_id": 6779,
+    "article_url": "https://zxpress.ru/article.php?id=6779",
+    "print_url": "https://zxpress.ru/print.php?id=6779",
+    "title_link": "Юмор - анекдоты.",
+    "order": 5,
+    "issue_label": "47",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6780,
+    "article_url": "https://zxpress.ru/article.php?id=6780",
+    "print_url": "https://zxpress.ru/print.php?id=6780",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 6,
+    "issue_label": "47",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6781,
+    "article_url": "https://zxpress.ru/article.php?id=6781",
+    "print_url": "https://zxpress.ru/print.php?id=6781",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 7,
+    "issue_label": "47",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

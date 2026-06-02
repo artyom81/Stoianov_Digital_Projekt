@@ -1,0 +1,15 @@
+{
+  "magazine_id": 19,
+  "magazine_name": "Aspect",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1998-04-07",
+  "order": 4,
+  "article_id": 2614,
+  "title_link": "Внимание - Памятка пользователю сети SPbZXNet.",
+  "title_h1": "Aspect 08 - Внимание - Памятка пользователю сети SPbZXNet.",
+  "print_url": "https://zxpress.ru/print.php?id=2614",
+  "article_url": "https://zxpress.ru/article.php?id=2614",
+  "fetched_at": "2026-05-31T21:38:14Z"
+}

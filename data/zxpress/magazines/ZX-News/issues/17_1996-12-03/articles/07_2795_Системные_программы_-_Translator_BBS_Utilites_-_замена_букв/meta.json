@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "17",
+  "issue_date_iso": "1996-12-03",
+  "order": 7,
+  "article_id": 2795,
+  "title_link": "Системные программы - Translator (BBS Utilites) - замена букв Н,Р,У на латинские.\r\n Killer - обрезка муссора в конце текстовго файла.\r\n Adder - \"склеивает\" файлы в один.",
+  "title_h1": "ZX-News 17 - Системные программы - Translator (BBS Utilites) - замена букв Н,Р,У на латинские.  Killer - обрезка муссора в конце текстовго файла.  Adder - \"склеивает\" файлы в один.",
+  "print_url": "https://zxpress.ru/print.php?id=2795",
+  "article_url": "https://zxpress.ru/article.php?id=2795",
+  "fetched_at": "2026-05-31T23:28:36Z"
+}

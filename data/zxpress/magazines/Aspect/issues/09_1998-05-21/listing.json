@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 2630,
+    "article_url": "https://zxpress.ru/article.php?id=2630",
+    "print_url": "https://zxpress.ru/print.php?id=2630",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2628,
+    "article_url": "https://zxpress.ru/article.php?id=2628",
+    "print_url": "https://zxpress.ru/print.php?id=2628",
+    "title_link": "Внимание - Памятка пользователю сети SPbZXNet (продолжение).",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Внимание_-_Памятка_пользователю_сети_SPbZXNet_продолжение"
+  },
+  {
+    "article_id": 2624,
+    "article_url": "https://zxpress.ru/article.php?id=2624",
+    "print_url": "https://zxpress.ru/print.php?id=2624",
+    "title_link": "Вопрос - Ареал распространения газеты.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Вопрос_-_Ареал_распространения_газеты"
+  },
+  {
+    "article_id": 2622,
+    "article_url": "https://zxpress.ru/article.php?id=2622",
+    "print_url": "https://zxpress.ru/print.php?id=2622",
+    "title_link": "День за днем - Обзор эхи GENERAL...",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "День_за_днем_-_Обзор_эхи_GENERAL"
+  },
+  {
+    "article_id": 2623,
+    "article_url": "https://zxpress.ru/article.php?id=2623",
+    "print_url": "https://zxpress.ru/print.php?id=2623",
+    "title_link": "Новинка - О новой игре: Операция PP v1.01.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Новинка_-_О_новои_игре_Операция_PP_v101"
+  },
+  {
+    "article_id": 2619,
+    "article_url": "https://zxpress.ru/article.php?id=2619",
+    "print_url": "https://zxpress.ru/print.php?id=2619",
+    "title_link": "От авторов - Полуторомесячная \"кома\".",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "От_авторов_-_Полуторомесячная_кома"
+  },
+  {
+    "article_id": 2625,
+    "article_url": "https://zxpress.ru/article.php?id=2625",
+    "print_url": "https://zxpress.ru/print.php?id=2625",
+    "title_link": "Под микроскопом - Анонс журнала: Spectrum Expert.",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Под_микроскопом_-_Анонс_журнала_Spectrum_Expert"
+  },
+  {
+    "article_id": 2620,
+    "article_url": "https://zxpress.ru/article.php?id=2620",
+    "print_url": "https://zxpress.ru/print.php?id=2620",
+    "title_link": "Праздник - С Днем победы.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Праздник_-_С_Днем_победы"
+  },
+  {
+    "article_id": 2627,
+    "article_url": "https://zxpress.ru/article.php?id=2627",
+    "print_url": "https://zxpress.ru/print.php?id=2627",
+    "title_link": "Программирование - Печать строки на 42 символа.",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Программирование_-_Печать_строки_на_42_символа"
+  },
+  {
+    "article_id": 2621,
+    "article_url": "https://zxpress.ru/article.php?id=2621",
+    "print_url": "https://zxpress.ru/print.php?id=2621",
+    "title_link": "Сетевые новости - MMD v4.00 - тестируется на BBS, гейт SpbZxNet Internet набирает обороты.",
+    "order": 10,
+    "issue_label": "09",
+    "short_slug": "Сетевые_новости_-_MMD_v400_-_тестируется_на_BBS_геит_SpbZxNe"
+  },
+  {
+    "article_id": 2629,
+    "article_url": "https://zxpress.ru/article.php?id=2629",
+    "print_url": "https://zxpress.ru/print.php?id=2629",
+    "title_link": "Чемпионат - Посвящение в вирусоводы.",
+    "order": 11,
+    "issue_label": "09",
+    "short_slug": "Чемпионат_-_Посвящение_в_вирусоводы"
+  },
+  {
+    "article_id": 2626,
+    "article_url": "https://zxpress.ru/article.php?id=2626",
+    "print_url": "https://zxpress.ru/print.php?id=2626",
+    "title_link": "Юмор - Армейские маразмы (часть 1).",
+    "order": 12,
+    "issue_label": "09",
+    "short_slug": "Юмор_-_Армеиские_маразмы_часть_1"
+  }
+]

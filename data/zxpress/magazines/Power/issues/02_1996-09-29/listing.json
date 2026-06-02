@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 10800,
+    "article_url": "https://zxpress.ru/article.php?id=10800",
+    "print_url": "https://zxpress.ru/print.php?id=10800",
+    "title_link": "Мысли по поводу - демостроение способствует повышению технологии программирования на\r\nZX.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Мысли_по_поводу_-_демостроение_способствует_повышению_технол"
+  },
+  {
+    "article_id": 10801,
+    "article_url": "https://zxpress.ru/article.php?id=10801",
+    "print_url": "https://zxpress.ru/print.php?id=10801",
+    "title_link": "Программирование - как можно адаптировать на диск программы с подгружаемыми уровнями.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Программирование_-_как_можно_адаптировать_на_диск_программы"
+  },
+  {
+    "article_id": 10802,
+    "article_url": "https://zxpress.ru/article.php?id=10802",
+    "print_url": "https://zxpress.ru/print.php?id=10802",
+    "title_link": "Новости - Spectrum \r\nWorld города Томска кажется впал в спячку.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Новости_-_Spectrum_World_города_Томска_кажется_впал_в_спячку"
+  },
+  {
+    "article_id": 10803,
+    "article_url": "https://zxpress.ru/article.php?id=10803",
+    "print_url": "https://zxpress.ru/print.php?id=10803",
+    "title_link": "Внимание! - призыв о помощи ко всем, кто читает эти строки.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Внимание_-_призыв_о_помощи_ко_всем_кто_читает_эти_строки"
+  },
+  {
+    "article_id": 10804,
+    "article_url": "https://zxpress.ru/article.php?id=10804",
+    "print_url": "https://zxpress.ru/print.php?id=10804",
+    "title_link": "Презентация - игра \"THE ROCKY HORROR SHOW\".",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Презентация_-_игра_THE_ROCKY_HORROR_SHOW"
+  },
+  {
+    "article_id": 10805,
+    "article_url": "https://zxpress.ru/article.php?id=10805",
+    "print_url": "https://zxpress.ru/print.php?id=10805",
+    "title_link": "Реклама - Редакция газеты POWER ждет ваших писем.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Реклама_-_Редакция_газеты_POWER_ждет_ваших_писем"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 44,
+    "article_url": "https://zxpress.ru/article.php?id=44",
+    "print_url": "https://zxpress.ru/print.php?id=44",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Denison-BBS.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Denison-BBS"
+  },
+  {
+    "article_id": 1986,
+    "article_url": "https://zxpress.ru/article.php?id=1986",
+    "print_url": "https://zxpress.ru/print.php?id=1986",
+    "title_link": "Мозаика - Пароли, бесмертия и читы...",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Мозаика_-_Пароли_бесмертия_и_читы"
+  },
+  {
+    "article_id": 1984,
+    "article_url": "https://zxpress.ru/article.php?id=1984",
+    "print_url": "https://zxpress.ru/print.php?id=1984",
+    "title_link": "Новье !? - O программах Mask I, Blinky's Scarry School, Plotting,\r\n Jonny Quest in Doctor Zin's Underground, Bronx Street Cop,\r\n Dina Blaster, Sly Spy Secret Agent, Silent Storm,\r\n International Ninja Operation Hanoi, Duck Out .",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Новье_-_O_программах_Mask_I_Blinkys_Scarry_School_Plotting_J"
+  },
+  {
+    "article_id": 1987,
+    "article_url": "https://zxpress.ru/article.php?id=1987",
+    "print_url": "https://zxpress.ru/print.php?id=1987",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1985,
+    "article_url": "https://zxpress.ru/article.php?id=1985",
+    "print_url": "https://zxpress.ru/print.php?id=1985",
+    "title_link": "Смертельные гонки - Новелла к игре \"Itallian Supercar\".",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Смертельные_гонки_-_Новелла_к_игре_Itallian_Supercar"
+  },
+  {
+    "article_id": 1983,
+    "article_url": "https://zxpress.ru/article.php?id=1983",
+    "print_url": "https://zxpress.ru/print.php?id=1983",
+    "title_link": "Страничка СисОпа - Заговор для СисОпов.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Страничка_СисОпа_-_Заговор_для_СисОпов"
+  }
+]

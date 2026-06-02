@@ -1,0 +1,197 @@
+004 - Shoutburst - program structure
+PROGRAM STRUCTURE
+         By Brian Cavers
+        _________________
+
+I wish somebody would explain
+what the difference is between a
+procedure and a subroutine. No,
+I don't mean the superficial
+difference I mean the structural
+difference. Let's look at a
+definition:-.
+
+
+A BASIC PROGRAM  IS  A  LIST  OF
+INSTRUCTIONS WHICH  IS  FOLLOWED
+IN  SEQUENCE  BY  THE  COMPUTER.
+THERE IS A SPECIAL  INSTRUCTION,
+FOLLOWED BY A LABEL,WHICH CAUSES
+THE COMPUTER TO JUMP OUT OF  THE
+SEQUENCE AND TO CONTINUE FROM  A
+PLACE IN THE PROGRAM POINTED  TO
+BY  THE  LABEL.  THE    COMPUTER
+CONTINUES  TO  CARRY  OUT    THE
+INSTRUCTIONS   FOLLOWING    THIS
+POINT,  IN  SEQUENCE,  UNTIL  IT
+MEETS  ANOTHER  SPECIAL  COMMAND
+WHICH CAUSES IT TO JUMP BACK AND
+CONTINUE  WITH   THE    ORIGINAL
+SEQUENCE..
+It seems to me that this could
+equally be the definition of a
+procedure or of a subroutine.
+The "special instruction": PROC
+with a label is no different to
+GOSUB with a label and ENDPROC
+is the exact equivalent of
+RETURN. I realize that the
+Spectrum doesn't support true
+labels but they can be simulated
+with variables and other
+machines do provide labelled
+GOSUBS.
+
+I own an Atari ST with FAST
+BASIC which provides both
+procedures and subroutines. The
+start of the subroutine is
+marked with a label and the
+finish with a RETURN. It is
+called with GOSUB LABEL in the
+.
+usual way. The start of a
+procedure is marked with DEF
+PROC LABEL and the end with
+ENDPROC in the usual way. It is
+called from the main program
+with PROC LABEL.
+
+The manual actively discourages
+GOSUBS as if they contribute to
+bad programming and it is stated
+that they were only included in
+the BASIC to be compatible with
+other BASICS! However, it does
+not give any rational argument
+as to why it is thought that
+procedures are structurally
+superior. After a week or two
+programming using procedures I
+discovered that FAST BASIC
+executes subroutines FASTER than
+procedures! I know what I shall
+use in future!.
+Actually this is what infuriates
+me about what I call "structure"
+fanatics. There is this smug,
+superior claim, as if it is
+self-evident, that subroutines
+are obsolete and that one
+"should" use procedures but I
+HAVE NEVER YET SEEN ANY
+EXPLANATION! THEY REALLY DO LOOK
+LIKE IDENTICAL COMMANDS TO ME! I
+CHALLENGE ANYONE TO PROVIDE A
+RATIONAL EXPLANATION AS TO WHY
+PROCEDURES ARE STRUCTURALLY
+SUPERIOR TO SUBROUTINES.
+
+The poor old GO TO takes even
+more of a hammering from the
+structural purists. I realize
+that numerous jumps back and
+forth can turn a program into
+a debugger's nightmare but I.
+cannot see what is wrong in
+having several main routines
+making up a program, each one
+being jumped to as needed. For
+example, in a database: INPUT
+ROUTINE, SORT ROUTINE, PRINT
+ROUTINE, DISPLAY ROUTINE etc.
+
+Additionally, why is:
+
+  10 LET A = 1
+  20 LET A = A + 1
+  30 PRINT A
+  40 IF A <25 THEN GO TO 20
+
+any less structurally sound
+than:
+
+  10 FOR A = 1 TO 25
+  20 PRINT A
+  30 NEXT A.
+or:
+
+  10 LET A = 1
+  20 WHILE A <=25
+  30 PRINT A
+  40 LET A = A + 1
+  50 WEND.
+
+In every case what the program
+is actually doing is jumping
+back in a loop. The loop is the
+structure - the labels: GO TO,
+FOR NEXT, WHILE WEND, to me, are
+cosmetic - irrelevant to the
+structure of the program. (This
+is not to say, of course, that
+these commands don't all have
+their uses in the right place -
+they do but it's not
+STRUCTURALLY RELEVANT in my
+view!)..
+Another thing! (I'm really
+getting annoyed now - but then,
+this is SHOUTBURST isn't it!).
+In many BASICS, the computer
+keeps track of the program's
+position in FOR NEXT loops by
+use of a stack, I believe. This
+means it could cause problems if
+you jump out of the middle of a
+FOR NEXT loop without finishing
+it properly. This has given rise
+to the nonsense that it is
+structurally inefficient to
+escape FOR NEXT loops in that
+way. On the Spectrum, the FOR
+NEXT variable is just another
+variable and can be abandoned at
+any time and another loop
+started using the same variable,
+for example:-.
+  10 FOR N = 1 TO 25
+  20 GO TO 50
+  30 NEXT N
+  40 STOP
+  50 FOR N = 1 TO 4
+  60 NEXT N
+
+NO PROBLEM TO THE SPECTRUM AND
+NO STRUCTURAL PROBLEM EXCEPT IN
+SOMEONE'S IMAGINATION!
+
+To sum up, I think what make's
+my blood boil most is not the
+claim that certain features are
+structurally superior but that
+such claims never seem to be
+accompanied by rational,
+objective supporting evidence or
+arguments. After all, it is not
+up to me to support my position
+- I'm not the one who's.
+SUPPORTING anything (in this
+particular topic). It's the
+people who claim that certain
+labels somehow CONSTITUTE
+correct structure who need to
+prove what they say is true! To
+finish, I'd just like to
+emphasise how important I
+believe structure is in
+programming - I take a great
+deal of care when writing the
+structure of my own programs.
+However, I believe that
+structure lies in the WAY THE
+PROGRAMMER ARRANGES HIS
+INSTRUCTIONS AND NOT IN
+SUPERFICIAL LABELS!
+
+Grrrrrrrrrrrrrrr!.

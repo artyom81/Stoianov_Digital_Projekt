@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1999-10-11",
+  "order": 9,
+  "article_id": 3415,
+  "title_link": "Napalm - Информация о нашей новой деме \"NaPaLm\".",
+  "title_h1": "Buzz 18 - Napalm - Информация о нашей новой деме \"NaPaLm\".",
+  "print_url": "https://zxpress.ru/print.php?id=3415",
+  "article_url": "https://zxpress.ru/article.php?id=3415",
+  "fetched_at": "2026-05-31T21:48:45Z"
+}

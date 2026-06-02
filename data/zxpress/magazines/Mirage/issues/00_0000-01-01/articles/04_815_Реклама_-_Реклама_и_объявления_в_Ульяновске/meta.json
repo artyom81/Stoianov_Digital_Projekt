@@ -1,0 +1,15 @@
+{
+  "magazine_id": 123,
+  "magazine_name": "Mirage",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "0000-01-01",
+  "order": 4,
+  "article_id": 815,
+  "title_link": "Реклама - Реклама и объявления в Ульяновске...",
+  "title_h1": "Virtual World 02 - Реклама - Реклама и объявления в Ульяновске...",
+  "print_url": "https://zxpress.ru/print.php?id=815",
+  "article_url": "https://zxpress.ru/article.php?id=815",
+  "fetched_at": "2026-05-31T22:26:56Z"
+}

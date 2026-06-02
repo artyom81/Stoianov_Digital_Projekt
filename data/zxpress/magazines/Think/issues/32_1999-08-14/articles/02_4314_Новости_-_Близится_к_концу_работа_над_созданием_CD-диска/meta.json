@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "32",
+  "issue_date_iso": "1999-08-14",
+  "order": 2,
+  "article_id": 4314,
+  "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+  "title_h1": "Think 32 - Новости - Близится к концу работа над созданием CD-диска.",
+  "print_url": "https://zxpress.ru/print.php?id=4314",
+  "article_url": "https://zxpress.ru/article.php?id=4314",
+  "fetched_at": "2026-05-31T23:13:42Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "56",
+  "issue_date_iso": "2010-09-12",
+  "order": 4,
+  "article_id": 14670,
+  "title_link": "Errata старых публикаций - Ошибки и опечатки.",
+  "title_h1": "ACNews 56 - Errata старых публикаций - Ошибки и опечатки.",
+  "print_url": "https://zxpress.ru/print.php?id=14670",
+  "article_url": "https://zxpress.ru/article.php?id=14670",
+  "fetched_at": "2026-05-31T21:31:32Z"
+}

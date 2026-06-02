@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "14",
+  "issue_date_iso": "1998-04-29",
+  "order": 16,
+  "article_id": 1133,
+  "title_link": "Нововведения - В оболочке появилось много чего нового.",
+  "title_h1": "Buzz 14 - Нововведения - В оболочке появилось много чего нового.",
+  "print_url": "https://zxpress.ru/print.php?id=1133",
+  "article_url": "https://zxpress.ru/article.php?id=1133",
+  "fetched_at": "2026-05-31T21:48:10Z"
+}

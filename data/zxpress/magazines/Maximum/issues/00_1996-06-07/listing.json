@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 127,
+    "article_url": "https://zxpress.ru/article.php?id=127",
+    "print_url": "https://zxpress.ru/print.php?id=127",
+    "title_link": "Вперед на мины - О планах редакции газеты.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Вперед_на_мины_-_О_планах_редакции_газеты"
+  },
+  {
+    "article_id": 9137,
+    "article_url": "https://zxpress.ru/article.php?id=9137",
+    "print_url": "https://zxpress.ru/print.php?id=9137",
+    "title_link": "Видеопорт - Рекомендации по сборке, наладке и программирование Видеопорта (дигитайзера).",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Видеопорт_-_Рекомендации_по_сборке_наладке_и_программировани"
+  },
+  {
+    "article_id": 17,
+    "article_url": "https://zxpress.ru/article.php?id=17",
+    "print_url": "https://zxpress.ru/print.php?id=17",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 17841,
+    "article_url": "https://zxpress.ru/article.php?id=17841",
+    "print_url": "https://zxpress.ru/print.php?id=17841",
+    "title_link": "Dear Extacy-3/Subliminal Extacy",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Dear_Extacy-3Subliminal_Extacy"
+  },
+  {
+    "article_id": 9817,
+    "article_url": "https://zxpress.ru/article.php?id=9817",
+    "print_url": "https://zxpress.ru/print.php?id=9817",
+    "title_link": "Версии - 2 версии игры: DIZZY Y.",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "Версии_-_2_версии_игры_DIZZY_Y"
+  },
+  {
+    "article_id": 4843,
+    "article_url": "https://zxpress.ru/article.php?id=4843",
+    "print_url": "https://zxpress.ru/print.php?id=4843",
+    "title_link": "Тусовка - FunTop'98: Интервью с Serzh Soft.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Тусовка_-_FunTop98_Интервью_с_Serzh_Soft"
+  }
+]

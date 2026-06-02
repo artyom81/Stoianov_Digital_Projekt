@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "63",
+  "issue_date_iso": "2016-12-26",
+  "order": 6,
+  "article_id": 18316,
+  "title_link": "Описание - Операционная система PQ-DOS",
+  "title_h1": "ACNews 63 - Описание - Операционная система PQ-DOS",
+  "print_url": "https://zxpress.ru/print.php?id=18316",
+  "article_url": "https://zxpress.ru/article.php?id=18316",
+  "fetched_at": "2026-05-31T21:31:48Z"
+}

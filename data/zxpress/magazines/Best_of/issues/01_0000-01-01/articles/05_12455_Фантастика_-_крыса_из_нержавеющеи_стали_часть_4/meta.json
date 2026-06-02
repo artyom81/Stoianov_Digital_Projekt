@@ -1,0 +1,15 @@
+{
+  "magazine_id": 25,
+  "magazine_name": "Best of",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 5,
+  "article_id": 12455,
+  "title_link": "Фантастика - крыса из нержавеющей стали (часть 4).",
+  "title_h1": "Depth 01 - Фантастика - крыса из нержавеющей стали (часть 4).",
+  "print_url": "https://zxpress.ru/print.php?id=12455",
+  "article_url": "https://zxpress.ru/article.php?id=12455",
+  "fetched_at": "2026-05-31T21:38:49Z"
+}

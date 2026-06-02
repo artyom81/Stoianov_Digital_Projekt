@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "2001-08-19",
+  "order": 1,
+  "article_id": 9274,
+  "title_link": "Новости - ZX-Guide будет скоро,хотя еще мало что готово.",
+  "title_h1": "ACNews 04 - Новости - ZX-Guide будет скоро,хотя еще мало что готово.",
+  "print_url": "https://zxpress.ru/print.php?id=9274",
+  "article_url": "https://zxpress.ru/article.php?id=9274",
+  "fetched_at": "2026-05-31T21:30:11Z"
+}

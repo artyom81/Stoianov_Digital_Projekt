@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 122,
+    "article_url": "https://zxpress.ru/article.php?id=122",
+    "print_url": "https://zxpress.ru/print.php?id=122",
+    "title_link": "Вступление - Сегодня 3 июля и мы все с нетерпеньем ждем результатов выборов.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "Вступление_-_Сегодня_3_июля_и_мы_все_с_нетерпеньем_ждем_резу"
+  },
+  {
+    "article_id": 8845,
+    "article_url": "https://zxpress.ru/article.php?id=8845",
+    "print_url": "https://zxpress.ru/print.php?id=8845",
+    "title_link": "График работы - Графика работы серверов на неделю, входящив в ZXNet.",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "График_работы_-_Графика_работы_серверов_на_неделю_входящив_в"
+  },
+  {
+    "article_id": 8846,
+    "article_url": "https://zxpress.ru/article.php?id=8846",
+    "print_url": "https://zxpress.ru/print.php?id=8846",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8847,
+    "article_url": "https://zxpress.ru/article.php?id=8847",
+    "print_url": "https://zxpress.ru/print.php?id=8847",
+    "title_link": "TREE NEWS - Новая версия программы для модемов CDOS.",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "TREE_NEWS_-_Новая_версия_программы_для_модемов_CDOS"
+  },
+  {
+    "article_id": 8848,
+    "article_url": "https://zxpress.ru/article.php?id=8848",
+    "print_url": "https://zxpress.ru/print.php?id=8848",
+    "title_link": "Твой сервер - Второй совет СисОпов ZXNet.",
+    "order": 5,
+    "issue_label": "25",
+    "short_slug": "Твои_сервер_-_Второи_совет_СисОпов_ZXNet"
+  },
+  {
+    "article_id": 8849,
+    "article_url": "https://zxpress.ru/article.php?id=8849",
+    "print_url": "https://zxpress.ru/print.php?id=8849",
+    "title_link": "Разборки - Об играх: STREET FIGHTER 2, THE SOLDIER OF THE FUTURE.",
+    "order": 6,
+    "issue_label": "25",
+    "short_slug": "Разборки_-_Об_играх_STREET_FIGHTER_2_THE_SOLDIER_OF_THE_FUTU"
+  },
+  {
+    "article_id": 8850,
+    "article_url": "https://zxpress.ru/article.php?id=8850",
+    "print_url": "https://zxpress.ru/print.php?id=8850",
+    "title_link": "Зазеркалье - Из хроники исчезновений (продолжение).",
+    "order": 7,
+    "issue_label": "25",
+    "short_slug": "Зазеркалье_-_Из_хроники_исчезновении_продолжение"
+  }
+]

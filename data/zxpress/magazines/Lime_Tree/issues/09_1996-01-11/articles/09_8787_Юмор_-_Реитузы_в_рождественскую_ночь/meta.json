@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "1996-01-11",
+  "order": 9,
+  "article_id": 8787,
+  "title_link": "Юмор - Рейтузы в рождественскую ночь.",
+  "title_h1": "Lime Tree 09 - Юмор - Рейтузы в рождественскую ночь.",
+  "print_url": "https://zxpress.ru/print.php?id=8787",
+  "article_url": "https://zxpress.ru/article.php?id=8787",
+  "fetched_at": "2026-05-31T22:19:23Z"
+}

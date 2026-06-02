@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "44",
+  "issue_date_iso": "2000-05-19",
+  "order": 5,
+  "article_id": 10590,
+  "title_link": "Бук - ПАПАХИ HА БАШHЯХ.",
+  "title_h1": "City 44 - Бук - ПАПАХИ HА БАШHЯХ.",
+  "print_url": "https://zxpress.ru/print.php?id=10590",
+  "article_url": "https://zxpress.ru/article.php?id=10590",
+  "fetched_at": "2026-05-31T21:52:00Z"
+}

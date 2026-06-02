@@ -1,0 +1,20 @@
+[
+  {
+    "article_id": 8375,
+    "article_url": "https://zxpress.ru/article.php?id=8375",
+    "print_url": "https://zxpress.ru/print.php?id=8375",
+    "title_link": "INTRO - О трудностях редакции газеты.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "INTRO_-_О_трудностях_редакции_газеты"
+  },
+  {
+    "article_id": 8376,
+    "article_url": "https://zxpress.ru/article.php?id=8376",
+    "print_url": "https://zxpress.ru/print.php?id=8376",
+    "title_link": "Outro - Авторы газеты и контакты редакции.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Outro_-_Авторы_газеты_и_контакты_редакции"
+  }
+]

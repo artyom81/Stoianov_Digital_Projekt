@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3014,
+    "article_url": "https://zxpress.ru/article.php?id=3014",
+    "print_url": "https://zxpress.ru/print.php?id=3014",
+    "title_link": "Новости - О новинках ПО: Военная зона, Mech War, Gambit.",
+    "order": 1,
+    "issue_label": "46",
+    "short_slug": "Новости_-_О_новинках_ПО_Военная_зона_Mech_War_Gambit"
+  },
+  {
+    "article_id": 3012,
+    "article_url": "https://zxpress.ru/article.php?id=3012",
+    "print_url": "https://zxpress.ru/print.php?id=3012",
+    "title_link": "От редакции - Настала эпоха еженедельного выхода.",
+    "order": 2,
+    "issue_label": "46",
+    "short_slug": "От_редакции_-_Настала_эпоха_еженедельного_выхода"
+  },
+  {
+    "article_id": 3015,
+    "article_url": "https://zxpress.ru/article.php?id=3015",
+    "print_url": "https://zxpress.ru/print.php?id=3015",
+    "title_link": "Презентация - Сетевая ролевая игра: Wizard.",
+    "order": 3,
+    "issue_label": "46",
+    "short_slug": "Презентация_-_Сетевая_ролевая_игра_Wizard"
+  },
+  {
+    "article_id": 3017,
+    "article_url": "https://zxpress.ru/article.php?id=3017",
+    "print_url": "https://zxpress.ru/print.php?id=3017",
+    "title_link": "Реклама - Объявления и реклама.",
+    "order": 4,
+    "issue_label": "46",
+    "short_slug": "Реклама_-_Объявления_и_реклама"
+  },
+  {
+    "article_id": 3016,
+    "article_url": "https://zxpress.ru/article.php?id=3016",
+    "print_url": "https://zxpress.ru/print.php?id=3016",
+    "title_link": "Событие - FunTop'98 - событие прошлого года...",
+    "order": 5,
+    "issue_label": "46",
+    "short_slug": "Событие_-_FunTop98_-_событие_прошлого_года"
+  },
+  {
+    "article_id": 3013,
+    "article_url": "https://zxpress.ru/article.php?id=3013",
+    "print_url": "https://zxpress.ru/print.php?id=3013",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 6,
+    "issue_label": "46",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  }
+]

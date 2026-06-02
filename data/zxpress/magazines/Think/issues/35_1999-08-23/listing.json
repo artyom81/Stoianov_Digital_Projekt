@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4336,
+    "article_url": "https://zxpress.ru/article.php?id=4336",
+    "print_url": "https://zxpress.ru/print.php?id=4336",
+    "title_link": "От автора - Непрошло и несколько дней,а наша газета вышла вновь...",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "От_автора_-_Непрошло_и_несколько_днеиа_наша_газета_вышла_вно"
+  },
+  {
+    "article_id": 4337,
+    "article_url": "https://zxpress.ru/article.php?id=4337",
+    "print_url": "https://zxpress.ru/print.php?id=4337",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4338,
+    "article_url": "https://zxpress.ru/article.php?id=4338",
+    "print_url": "https://zxpress.ru/print.php?id=4338",
+    "title_link": "Обзор новинок - NetWalk, Full Shit (demo)",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "Обзор_новинок_-_NetWalk_Full_Shit_demo"
+  },
+  {
+    "article_id": 4339,
+    "article_url": "https://zxpress.ru/article.php?id=4339",
+    "print_url": "https://zxpress.ru/print.php?id=4339",
+    "title_link": "Записки о Hевинном Буддисте - Юмор.",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Записки_о_Hевинном_Буддисте_-_Юмор"
+  },
+  {
+    "article_id": 4340,
+    "article_url": "https://zxpress.ru/article.php?id=4340",
+    "print_url": "https://zxpress.ru/print.php?id=4340",
+    "title_link": "HЛО: Вопросы и ответы - Статья о неопознаных летающих обьектах.",
+    "order": 5,
+    "issue_label": "35",
+    "short_slug": "HЛО_Вопросы_и_ответы_-_Статья_о_неопознаных_летающих_обьекта"
+  },
+  {
+    "article_id": 4341,
+    "article_url": "https://zxpress.ru/article.php?id=4341",
+    "print_url": "https://zxpress.ru/print.php?id=4341",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "35",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4342,
+    "article_url": "https://zxpress.ru/article.php?id=4342",
+    "print_url": "https://zxpress.ru/print.php?id=4342",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "35",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

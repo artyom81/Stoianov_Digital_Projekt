@@ -1,0 +1,15 @@
+{
+  "magazine_id": 144,
+  "magazine_name": "Odyssey Magazine",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-07-14",
+  "order": 11,
+  "article_id": 7522,
+  "title_link": "Почта - Печать строки 32-х символьным шрифтом.",
+  "title_h1": "Odyssey Magazine 02 - Почта - Печать строки 32-х символьным шрифтом.",
+  "print_url": "https://zxpress.ru/print.php?id=7522",
+  "article_url": "https://zxpress.ru/article.php?id=7522",
+  "fetched_at": "2026-05-31T22:40:43Z"
+}

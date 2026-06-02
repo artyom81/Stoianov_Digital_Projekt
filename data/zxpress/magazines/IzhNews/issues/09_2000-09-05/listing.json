@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 9382,
+    "article_url": "https://zxpress.ru/article.php?id=9382",
+    "print_url": "https://zxpress.ru/print.php?id=9382",
+    "title_link": "Введемся - повальная компьютеризация по-прежнему сосала деньги из наивных ламеров, новое в листалке.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Введемся_-_повальная_компьютеризация_по-прежнему_сосала_день"
+  },
+  {
+    "article_id": 9383,
+    "article_url": "https://zxpress.ru/article.php?id=9383",
+    "print_url": "https://zxpress.ru/print.php?id=9383",
+    "title_link": "Новости - новости от Ижевских групп: X-Team, Power of Sound, TRG.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Новости_-_новости_от_Ижевских_групп_X-Team_Power_of_Sound_TR"
+  },
+  {
+    "article_id": 9384,
+    "article_url": "https://zxpress.ru/article.php?id=9384",
+    "print_url": "https://zxpress.ru/print.php?id=9384",
+    "title_link": "Свежак - новости софта: LIBRARY MANAGER, ZX AMP 1.00, SPRITER 1.04, HRUST SPISOK MAKER 1.2, ASCII GFX MAKER 1.00, HRUST RIP ARCHIVATOR, BURIAL GFX EDITOR 2.00.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Свежак_-_новости_софта_LIBRARY_MANAGER_ZX_AMP_100_SPRITER_10"
+  },
+  {
+    "article_id": 9385,
+    "article_url": "https://zxpress.ru/article.php?id=9385",
+    "print_url": "https://zxpress.ru/print.php?id=9385",
+    "title_link": "PCCC - история группы \"Power of Sound\" (часть 3).",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "PCCC_-_история_группы_Power_of_Sound_часть_3"
+  },
+  {
+    "article_id": 9386,
+    "article_url": "https://zxpress.ru/article.php?id=9386",
+    "print_url": "https://zxpress.ru/print.php?id=9386",
+    "title_link": "Club - нужен ли ижевским спектрумистам клуб или место для сборов?",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Club_-_нужен_ли_ижевским_спектрумистам_клуб_или_место_для_сб"
+  },
+  {
+    "article_id": 9387,
+    "article_url": "https://zxpress.ru/article.php?id=9387",
+    "print_url": "https://zxpress.ru/print.php?id=9387",
+    "title_link": "Adventure - Руководство по адвентюрным играм (часть 3).",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Adventure_-_Руководство_по_адвентюрным_играм_часть_3"
+  },
+  {
+    "article_id": 9388,
+    "article_url": "https://zxpress.ru/article.php?id=9388",
+    "print_url": "https://zxpress.ru/print.php?id=9388",
+    "title_link": "Nonsese - процедура и описание алгоритма эффекта Пламени (огня).",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "Nonsese_-_процедура_и_описание_алгоритма_эффекта_Пламени_огн"
+  },
+  {
+    "article_id": 9389,
+    "article_url": "https://zxpress.ru/article.php?id=9389",
+    "print_url": "https://zxpress.ru/print.php?id=9389",
+    "title_link": "Цвет.мет. - анализ возможнстей расширения цветовых возможностей Спектрума: Flash Colour и прототип схемы Gigascreen.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Цветмет_-_анализ_возможнстеи_расширения_цветовых_возможносте"
+  },
+  {
+    "article_id": 9390,
+    "article_url": "https://zxpress.ru/article.php?id=9390",
+    "print_url": "https://zxpress.ru/print.php?id=9390",
+    "title_link": "Презент - приложение газеты: Grand Prix Simulator 2, Pusher6.02, схема Flash Colour.",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Презент_-_приложение_газеты_Grand_Prix_Simulator_2_Pusher602"
+  },
+  {
+    "article_id": 9391,
+    "article_url": "https://zxpress.ru/article.php?id=9391",
+    "print_url": "https://zxpress.ru/print.php?id=9391",
+    "title_link": "Движок - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "09",
+    "short_slug": "Движок_-_реклама_и_обьявления"
+  }
+]

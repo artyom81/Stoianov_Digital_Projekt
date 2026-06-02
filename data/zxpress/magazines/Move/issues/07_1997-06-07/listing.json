@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 6287,
+    "article_url": "https://zxpress.ru/article.php?id=6287",
+    "print_url": "https://zxpress.ru/print.php?id=6287",
+    "title_link": "Письмо - Письмо от Postman'a в газету.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "Письмо_-_Письмо_от_Postmana_в_газету"
+  },
+  {
+    "article_id": 6288,
+    "article_url": "https://zxpress.ru/article.php?id=6288",
+    "print_url": "https://zxpress.ru/print.php?id=6288",
+    "title_link": "От редакции - сомненение в целессобразности газеты.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "От_редакции_-_сомненение_в_целессобразности_газеты"
+  },
+  {
+    "article_id": 6289,
+    "article_url": "https://zxpress.ru/article.php?id=6289",
+    "print_url": "https://zxpress.ru/print.php?id=6289",
+    "title_link": "C-DOS MODEM - Что такое C-DOS? Установка режимов.\r\n Каким образом C-DOS осуществляет передачу данных?",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "C-DOS_MODEM_-_Что_такое_C-DOS_Установка_режимов_Каким_образо"
+  },
+  {
+    "article_id": 6290,
+    "article_url": "https://zxpress.ru/article.php?id=6290",
+    "print_url": "https://zxpress.ru/print.php?id=6290",
+    "title_link": "Музыкантам - PROFESSIONAL SOUND CREATOR demo realise (E-mage) : основ-\r\n ные параметры , горячие клавиши редактора.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "Музыкантам_-_PROFESSIONAL_SOUND_CREATOR_demo_realise_E-mage"
+  },
+  {
+    "article_id": 6291,
+    "article_url": "https://zxpress.ru/article.php?id=6291",
+    "print_url": "https://zxpress.ru/print.php?id=6291",
+    "title_link": "CHEAT - Несколько полезных советов для любителей MORTAL COMBAT ,\r\n STRIP REVERSI.",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "CHEAT_-_Несколько_полезных_советов_для_любителеи_MORTAL_COMB"
+  },
+  {
+    "article_id": 6292,
+    "article_url": "https://zxpress.ru/article.php?id=6292",
+    "print_url": "https://zxpress.ru/print.php?id=6292",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

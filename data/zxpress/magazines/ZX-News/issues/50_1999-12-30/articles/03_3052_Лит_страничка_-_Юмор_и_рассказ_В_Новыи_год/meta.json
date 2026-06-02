@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "50",
+  "issue_date_iso": "1999-12-30",
+  "order": 3,
+  "article_id": 3052,
+  "title_link": "Лит. страничка - Юмор и рассказ \"В Новый год\".",
+  "title_h1": "ZX-News 50 - Лит. страничка - Юмор и рассказ \"В Новый год\".",
+  "print_url": "https://zxpress.ru/print.php?id=3052",
+  "article_url": "https://zxpress.ru/article.php?id=3052",
+  "fetched_at": "2026-05-31T23:30:24Z"
+}

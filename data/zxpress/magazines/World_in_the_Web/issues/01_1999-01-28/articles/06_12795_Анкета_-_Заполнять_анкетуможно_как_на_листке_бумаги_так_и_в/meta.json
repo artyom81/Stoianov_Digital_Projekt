@@ -1,0 +1,15 @@
+{
+  "magazine_id": 241,
+  "magazine_name": "World in the Web",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-01-28",
+  "order": 6,
+  "article_id": 12795,
+  "title_link": "Анкета - Заполнять анкету\r\nможно как на листке бумаги, так и в текстовом файле на дискете.",
+  "title_h1": "World in the Web 01 - Анкета - Заполнять анкету можно как на листке бумаги, так и в текстовом файле на дискете.",
+  "print_url": "https://zxpress.ru/print.php?id=12795",
+  "article_url": "https://zxpress.ru/article.php?id=12795",
+  "fetched_at": "2026-05-31T23:17:56Z"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9945,
+    "article_url": "https://zxpress.ru/article.php?id=9945",
+    "print_url": "https://zxpress.ru/print.php?id=9945",
+    "title_link": "News - 3 ноября на улице, возвращаясь с работы, убит ножом Дмитрий Козлов (Dr.Envelope).",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "News_-_3_ноября_на_улице_возвращаясь_с_работы_убит_ножом_Дми"
+  },
+  {
+    "article_id": 9946,
+    "article_url": "https://zxpress.ru/article.php?id=9946",
+    "print_url": "https://zxpress.ru/print.php?id=9946",
+    "title_link": "Music - у Alone Coder'a нет слуха.",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "Music_-_у_Alone_Codera_нет_слуха"
+  },
+  {
+    "article_id": 9947,
+    "article_url": "https://zxpress.ru/article.php?id=9947",
+    "print_url": "https://zxpress.ru/print.php?id=9947",
+    "title_link": "Анонс - анонс содержания журнала \"Фантадром-4\".",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Анонс_-_анонс_содержания_журнала_Фантадром-4"
+  },
+  {
+    "article_id": 9948,
+    "article_url": "https://zxpress.ru/article.php?id=9948",
+    "print_url": "https://zxpress.ru/print.php?id=9948",
+    "title_link": "Docs - пароли к игре Slip'a - The Dune: Imperia 2.",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "Docs_-_пароли_к_игре_Slipa_-_The_Dune_Imperia_2"
+  }
+]

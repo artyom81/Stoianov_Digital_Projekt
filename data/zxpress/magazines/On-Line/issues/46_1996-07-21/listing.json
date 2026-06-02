@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 75,
+    "article_url": "https://zxpress.ru/article.php?id=75",
+    "print_url": "https://zxpress.ru/print.php?id=75",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Elly Estel-BBS.",
+    "order": 1,
+    "issue_label": "46",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Elly_Estel-BBS"
+  },
+  {
+    "article_id": 2138,
+    "article_url": "https://zxpress.ru/article.php?id=2138",
+    "print_url": "https://zxpress.ru/print.php?id=2138",
+    "title_link": "Застрял ? - Описание игры \"Night Raider\".",
+    "order": 2,
+    "issue_label": "46",
+    "short_slug": "Застрял_-_Описание_игры_Night_Raider"
+  },
+  {
+    "article_id": 2137,
+    "article_url": "https://zxpress.ru/article.php?id=2137",
+    "print_url": "https://zxpress.ru/print.php?id=2137",
+    "title_link": "Интервью - Интервью с Московским музыкантом и кодером - KSA.",
+    "order": 3,
+    "issue_label": "46",
+    "short_slug": "Интервью_-_Интервью_с_Московским_музыкантом_и_кодером_-_KSA"
+  },
+  {
+    "article_id": 2136,
+    "article_url": "https://zxpress.ru/article.php?id=2136",
+    "print_url": "https://zxpress.ru/print.php?id=2136",
+    "title_link": "Мозаика - О появлении в Москве игры \"UFO 2 v2.10\".",
+    "order": 4,
+    "issue_label": "46",
+    "short_slug": "Мозаика_-_О_появлении_в_Москве_игры_UFO_2_v210"
+  },
+  {
+    "article_id": 2139,
+    "article_url": "https://zxpress.ru/article.php?id=2139",
+    "print_url": "https://zxpress.ru/print.php?id=2139",
+    "title_link": "Презентация - Теневой отладчик \"Alasm 128/512 v2.8\" & \"STS v4.2\".",
+    "order": 5,
+    "issue_label": "46",
+    "short_slug": "Презентация_-_Теневои_отладчик_Alasm_128512_v28_STS_v42"
+  },
+  {
+    "article_id": 2135,
+    "article_url": "https://zxpress.ru/article.php?id=2135",
+    "print_url": "https://zxpress.ru/print.php?id=2135",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "46",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

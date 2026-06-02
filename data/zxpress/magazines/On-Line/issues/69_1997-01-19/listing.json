@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 65,
+    "article_url": "https://zxpress.ru/article.php?id=65",
+    "print_url": "https://zxpress.ru/print.php?id=65",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "69",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2436,
+    "article_url": "https://zxpress.ru/article.php?id=2436",
+    "print_url": "https://zxpress.ru/print.php?id=2436",
+    "title_link": "ZXNet - О порядке переписки через FIDO и Internet.",
+    "order": 2,
+    "issue_label": "69",
+    "short_slug": "ZXNet_-_О_порядке_переписки_через_FIDO_и_Internet"
+  },
+  {
+    "article_id": 2434,
+    "article_url": "https://zxpress.ru/article.php?id=2434",
+    "print_url": "https://zxpress.ru/print.php?id=2434",
+    "title_link": "Достоверная информ. - О новой WWW страничке.",
+    "order": 3,
+    "issue_label": "69",
+    "short_slug": "Достоверная_информ_-_О_новои_WWW_страничке"
+  },
+  {
+    "article_id": 2435,
+    "article_url": "https://zxpress.ru/article.php?id=2435",
+    "print_url": "https://zxpress.ru/print.php?id=2435",
+    "title_link": "Застрял ? - Описание игры \"Night Breed\".",
+    "order": 4,
+    "issue_label": "69",
+    "short_slug": "Застрял_-_Описание_игры_Night_Breed"
+  },
+  {
+    "article_id": 2433,
+    "article_url": "https://zxpress.ru/article.php?id=2433",
+    "print_url": "https://zxpress.ru/print.php?id=2433",
+    "title_link": "Непроверенные свед. - Включение телефонных счетчиков откладывается...\r\n DOOM под C-DOS модем будет !?",
+    "order": 5,
+    "issue_label": "69",
+    "short_slug": "Непроверенные_свед_-_Включение_телефонных_счетчиков_откладыв"
+  },
+  {
+    "article_id": 2432,
+    "article_url": "https://zxpress.ru/article.php?id=2432",
+    "print_url": "https://zxpress.ru/print.php?id=2432",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "69",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

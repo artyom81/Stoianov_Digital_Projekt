@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3067,
+    "article_url": "https://zxpress.ru/article.php?id=3067",
+    "print_url": "https://zxpress.ru/print.php?id=3067",
+    "title_link": "CC'000 - Рассказ Random'а (!) о CC'000.",
+    "order": 1,
+    "issue_label": "53",
+    "short_slug": "CC000_-_Рассказ_Randomа_о_CC000"
+  },
+  {
+    "article_id": 3069,
+    "article_url": "https://zxpress.ru/article.php?id=3069",
+    "print_url": "https://zxpress.ru/print.php?id=3069",
+    "title_link": "COSG - Крупнейшее собрание cheat'ов!",
+    "order": 2,
+    "issue_label": "53",
+    "short_slug": "COSG_-_Крупнеишее_собрание_cheatов"
+  },
+  {
+    "article_id": 3068,
+    "article_url": "https://zxpress.ru/article.php?id=3068",
+    "print_url": "https://zxpress.ru/print.php?id=3068",
+    "title_link": "SOSG - То самое легендарное царство солюшенов!",
+    "order": 3,
+    "issue_label": "53",
+    "short_slug": "SOSG_-_То_самое_легендарное_царство_солюшенов"
+  },
+  {
+    "article_id": 3066,
+    "article_url": "https://zxpress.ru/article.php?id=3066",
+    "print_url": "https://zxpress.ru/print.php?id=3066",
+    "title_link": "ZX-Party - Первая информация о CC1!",
+    "order": 4,
+    "issue_label": "53",
+    "short_slug": "ZX-Party_-_Первая_информация_о_CC1"
+  },
+  {
+    "article_id": 3070,
+    "article_url": "https://zxpress.ru/article.php?id=3070",
+    "print_url": "https://zxpress.ru/print.php?id=3070",
+    "title_link": "Интервью - задушевная беседа с автором одной из самых популярных игр: квесте \"Гомер Симпсон в России\".",
+    "order": 5,
+    "issue_label": "53",
+    "short_slug": "Интервью_-_задушевная_беседа_с_автором_однои_из_самых_популя"
+  },
+  {
+    "article_id": 3065,
+    "article_url": "https://zxpress.ru/article.php?id=3065",
+    "print_url": "https://zxpress.ru/print.php?id=3065",
+    "title_link": "От редакции - новогодний выпуск ZX-News.",
+    "order": 6,
+    "issue_label": "53",
+    "short_slug": "От_редакции_-_новогоднии_выпуск_ZX-News"
+  }
+]

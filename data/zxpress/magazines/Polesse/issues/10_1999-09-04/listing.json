@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3676,
+    "article_url": "https://zxpress.ru/article.php?id=3676",
+    "print_url": "https://zxpress.ru/print.php?id=3676",
+    "title_link": "Ассемблер - Регистры SP, PC, R, IX, IY, OUT-IN.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Ассемблер_-_Регистры_SP_PC_R_IX_IY_OUT-IN"
+  },
+  {
+    "article_id": 3673,
+    "article_url": "https://zxpress.ru/article.php?id=3673",
+    "print_url": "https://zxpress.ru/print.php?id=3673",
+    "title_link": "В паутине - Третья общегородская поитовка.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "В_паутине_-_Третья_общегородская_поитовка"
+  },
+  {
+    "article_id": 3677,
+    "article_url": "https://zxpress.ru/article.php?id=3677",
+    "print_url": "https://zxpress.ru/print.php?id=3677",
+    "title_link": "Лаборатория - Глюк о цветной графике.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Лаборатория_-_Глюк_о_цветнои_графике"
+  },
+  {
+    "article_id": 3674,
+    "article_url": "https://zxpress.ru/article.php?id=3674",
+    "print_url": "https://zxpress.ru/print.php?id=3674",
+    "title_link": "Навезли новья - Обзор новинок ПО: Справочник радиолюбителя, Англо - Русский словарь.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Навезли_новья_-_Обзор_новинок_ПО_Справочник_радиолюбителя_Ан"
+  },
+  {
+    "article_id": 3672,
+    "article_url": "https://zxpress.ru/article.php?id=3672",
+    "print_url": "https://zxpress.ru/print.php?id=3672",
+    "title_link": "Слово авторов - Праздничный - юбилейный выпуск газеты.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Слово_авторов_-_Праздничныи_-_юбилеиныи_выпуск_газеты"
+  },
+  {
+    "article_id": 3675,
+    "article_url": "https://zxpress.ru/article.php?id=3675",
+    "print_url": "https://zxpress.ru/print.php?id=3675",
+    "title_link": "События, факты - Куда катится сцена, или глас вопиющего.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "События_факты_-_Куда_катится_сцена_или_глас_вопиющего"
+  }
+]

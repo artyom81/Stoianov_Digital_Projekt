@@ -1,0 +1,15 @@
+{
+  "magazine_id": 51,
+  "magazine_name": "Demo or Die",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1999-07-31",
+  "order": 14,
+  "article_id": 2330,
+  "title_link": "Интервью - Интервью с Деннисом Ричи (Dennis M.\r\nRitchie) создателем языка программирования \"С\".",
+  "title_h1": "Demo or Die 02 - Интервью - Интервью с Деннисом Ричи (Dennis M. Ritchie) создателем языка программирования \"С\".",
+  "print_url": "https://zxpress.ru/print.php?id=2330",
+  "article_url": "https://zxpress.ru/article.php?id=2330",
+  "fetched_at": "2026-05-31T21:56:45Z"
+}

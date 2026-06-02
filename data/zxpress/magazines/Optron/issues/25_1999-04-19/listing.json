@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1495,
+    "article_url": "https://zxpress.ru/article.php?id=1495",
+    "print_url": "https://zxpress.ru/print.php?id=1495",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Фэнзин 7, Kr News 7, Полесье 2, ZX-News 45, Don News 4.",
+    "order": 1,
+    "issue_label": "25",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Фэнзин_7_Kr_News_7_Полесь"
+  },
+  {
+    "article_id": 1500,
+    "article_url": "https://zxpress.ru/article.php?id=1500",
+    "print_url": "https://zxpress.ru/print.php?id=1500",
+    "title_link": "Железо - HDD на спектруме - мифы и реальность.",
+    "order": 2,
+    "issue_label": "25",
+    "short_slug": "Железо_-_HDD_на_спектруме_-_мифы_и_реальность"
+  },
+  {
+    "article_id": 1499,
+    "article_url": "https://zxpress.ru/article.php?id=1499",
+    "print_url": "https://zxpress.ru/print.php?id=1499",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Работа с битами, Сравнение чисел, Команда сравнения.",
+    "order": 3,
+    "issue_label": "25",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Работа_с_битами_Сравнение"
+  },
+  {
+    "article_id": 1497,
+    "article_url": "https://zxpress.ru/article.php?id=1497",
+    "print_url": "https://zxpress.ru/print.php?id=1497",
+    "title_link": "Лит. страничка - Гриф \"Y-II\" (Дневник - продолжение).",
+    "order": 4,
+    "issue_label": "25",
+    "short_slug": "Лит_страничка_-_Гриф_Y-II_Дневник_-_продолжение"
+  },
+  {
+    "article_id": 1498,
+    "article_url": "https://zxpress.ru/article.php?id=1498",
+    "print_url": "https://zxpress.ru/print.php?id=1498",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "25",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1502,
+    "article_url": "https://zxpress.ru/article.php?id=1502",
+    "print_url": "https://zxpress.ru/print.php?id=1502",
+    "title_link": "Рубрика X - Обзор игр: Тwilight, Зеркало, Белый орел, Kolobok Zoom 2, Quadrax, Chaos Zone.",
+    "order": 6,
+    "issue_label": "25",
+    "short_slug": "Рубрика_X_-_Обзор_игр_Тwilight_Зеркало_Белыи_орел_Kolobok_Zo"
+  },
+  {
+    "article_id": 1501,
+    "article_url": "https://zxpress.ru/article.php?id=1501",
+    "print_url": "https://zxpress.ru/print.php?id=1501",
+    "title_link": "Рубрика X - Электронная пресса: вчера, сегодня, завтра.",
+    "order": 7,
+    "issue_label": "25",
+    "short_slug": "Рубрика_X_-_Электронная_пресса_вчера_сегодня_завтра"
+  }
+]

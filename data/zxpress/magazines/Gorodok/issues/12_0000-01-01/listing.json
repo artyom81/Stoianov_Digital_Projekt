@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 17369,
+    "article_url": "https://zxpress.ru/article.php?id=17369",
+    "print_url": "https://zxpress.ru/print.php?id=17369",
+    "title_link": "От редакции - Содержание номера.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "От_редакции_-_Содержание_номера"
+  },
+  {
+    "article_id": 17370,
+    "article_url": "https://zxpress.ru/article.php?id=17370",
+    "print_url": "https://zxpress.ru/print.php?id=17370",
+    "title_link": "Kaktus - Здоровая критика.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "Kaktus_-_Здоровая_критика"
+  },
+  {
+    "article_id": 17371,
+    "article_url": "https://zxpress.ru/article.php?id=17371",
+    "print_url": "https://zxpress.ru/print.php?id=17371",
+    "title_link": "News - Новости нашего городка.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "News_-_Новости_нашего_городка"
+  },
+  {
+    "article_id": 17372,
+    "article_url": "https://zxpress.ru/article.php?id=17372",
+    "print_url": "https://zxpress.ru/print.php?id=17372",
+    "title_link": "Обзор игр - FISHER, KOLOBOK ZOOM 2, NET WALK.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Обзор_игр_-_FISHER_KOLOBOK_ZOOM_2_NET_WALK"
+  },
+  {
+    "article_id": 17373,
+    "article_url": "https://zxpress.ru/article.php?id=17373",
+    "print_url": "https://zxpress.ru/print.php?id=17373",
+    "title_link": "Тайник - NET WALK.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Таиник_-_NET_WALK"
+  },
+  {
+    "article_id": 17374,
+    "article_url": "https://zxpress.ru/article.php?id=17374",
+    "print_url": "https://zxpress.ru/print.php?id=17374",
+    "title_link": "Футбол - Динамо - чемпион!",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Футбол_-_Динамо_-_чемпион"
+  },
+  {
+    "article_id": 17375,
+    "article_url": "https://zxpress.ru/article.php?id=17375",
+    "print_url": "https://zxpress.ru/print.php?id=17375",
+    "title_link": "Точка зрения - События в Югославии.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "Точка_зрения_-_События_в_Югославии"
+  },
+  {
+    "article_id": 17376,
+    "article_url": "https://zxpress.ru/article.php?id=17376",
+    "print_url": "https://zxpress.ru/print.php?id=17376",
+    "title_link": "Фан-клуб - В новосозданной рубрике я предлагаю обмениваться информацией о наших (Ваших) кумирах-музыкантах.",
+    "order": 8,
+    "issue_label": "12",
+    "short_slug": "Фан-клуб_-_В_новосозданнои_рубрике_я_предлагаю_обмениваться"
+  },
+  {
+    "article_id": 17377,
+    "article_url": "https://zxpress.ru/article.php?id=17377",
+    "print_url": "https://zxpress.ru/print.php?id=17377",
+    "title_link": "Проза - Дневник красной туфельки.",
+    "order": 9,
+    "issue_label": "12",
+    "short_slug": "Проза_-_Дневник_краснои_туфельки"
+  },
+  {
+    "article_id": 17378,
+    "article_url": "https://zxpress.ru/article.php?id=17378",
+    "print_url": "https://zxpress.ru/print.php?id=17378",
+    "title_link": "Credits - Напоследок...",
+    "order": 10,
+    "issue_label": "12",
+    "short_slug": "Credits_-_Напоследок"
+  }
+]

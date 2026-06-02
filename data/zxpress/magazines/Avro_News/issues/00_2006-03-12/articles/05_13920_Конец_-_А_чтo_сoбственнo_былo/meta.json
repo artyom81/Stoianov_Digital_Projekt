@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "2006-03-12",
+  "order": 5,
+  "article_id": 13920,
+  "title_link": "Конец - А чтo, сoбственнo, былo?",
+  "title_h1": "Impulse 07 - Конец - А чтo, сoбственнo, былo?",
+  "print_url": "https://zxpress.ru/print.php?id=13920",
+  "article_url": "https://zxpress.ru/article.php?id=13920",
+  "fetched_at": "2026-05-31T21:38:28Z"
+}

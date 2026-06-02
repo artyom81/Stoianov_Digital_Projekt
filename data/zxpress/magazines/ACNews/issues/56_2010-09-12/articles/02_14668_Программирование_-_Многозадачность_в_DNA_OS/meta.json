@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "56",
+  "issue_date_iso": "2010-09-12",
+  "order": 2,
+  "article_id": 14668,
+  "title_link": "Программирование - Многозадачность в DNA OS.",
+  "title_h1": "ACNews 56 - Программирование - Многозадачность в DNA OS.",
+  "print_url": "https://zxpress.ru/print.php?id=14668",
+  "article_url": "https://zxpress.ru/article.php?id=14668",
+  "fetched_at": "2026-05-31T21:31:31Z"
+}

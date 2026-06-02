@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-30",
+  "order": 16,
+  "article_id": 386,
+  "title_link": "Реклама - Реклама и объявления ...",
+  "title_h1": "Deja Vu 01 - Реклама - Реклама и объявления ...",
+  "print_url": "https://zxpress.ru/print.php?id=386",
+  "article_url": "https://zxpress.ru/article.php?id=386",
+  "fetched_at": "2026-05-31T21:54:06Z"
+}

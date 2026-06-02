@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 545,
+    "article_url": "https://zxpress.ru/article.php?id=545",
+    "print_url": "https://zxpress.ru/print.php?id=545",
+    "title_link": "Oбзор - Обзор новинок игр: Reckles Rofus, Peeking, Pang, Roy of the Royers.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Oбзор_-_Обзор_новинок_игр_Reckles_Rofus_Peeking_Pang_Roy_of"
+  },
+  {
+    "article_id": 546,
+    "article_url": "https://zxpress.ru/article.php?id=546",
+    "print_url": "https://zxpress.ru/print.php?id=546",
+    "title_link": "Oбзор - Обзор новинок: НЛО - 2 : Дьяволы бездны, Патруль времени. Лучшая десятка игр месяца.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Oбзор_-_Обзор_новинок_НЛО_-_2_Дьяволы_бездны_Патруль_времени"
+  },
+  {
+    "article_id": 539,
+    "article_url": "https://zxpress.ru/article.php?id=539",
+    "print_url": "https://zxpress.ru/print.php?id=539",
+    "title_link": "Интерфейс - \"Облом века\" - фельетон.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Интерфеис_-_Облом_века_-_фельетон"
+  },
+  {
+    "article_id": 10670,
+    "article_url": "https://zxpress.ru/article.php?id=10670",
+    "print_url": "https://zxpress.ru/print.php?id=10670",
+    "title_link": "Интерфейс - новости от Flex Software, Infosft, Simple Company, Surdakar Group, Auryn Group, Nicodim и т.д.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "Интерфеис_-_новости_от_Flex_Software_Infosft_Simple_Company"
+  },
+  {
+    "article_id": 568,
+    "article_url": "https://zxpress.ru/article.php?id=568",
+    "print_url": "https://zxpress.ru/print.php?id=568",
+    "title_link": "Интерфейс - Обзор программ и журналов : ZX Format, Spectrofon, On Line , Speccy, Eldorado, ZX-Magazine, Faultles, Dune, Adventurer.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Интерфеис_-_Обзор_программ_и_журналов_ZX_Format_Spectrofon_O"
+  },
+  {
+    "article_id": 10669,
+    "article_url": "https://zxpress.ru/article.php?id=10669",
+    "print_url": "https://zxpress.ru/print.php?id=10669",
+    "title_link": "Интерфейс - Описание игры \"Смагли-2\".",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Интерфеис_-_Описание_игры_Смагли-2"
+  },
+  {
+    "article_id": 550,
+    "article_url": "https://zxpress.ru/article.php?id=550",
+    "print_url": "https://zxpress.ru/print.php?id=550",
+    "title_link": "Новелла - \"Боевое Крещение\" по игре \"Rebel Star\".",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Новелла_-_Боевое_Крещение_по_игре_Rebel_Star"
+  },
+  {
+    "article_id": 547,
+    "article_url": "https://zxpress.ru/article.php?id=547",
+    "print_url": "https://zxpress.ru/print.php?id=547",
+    "title_link": "Обмен опытом - \"С точностью до ...\" : о прерываниях; дисковые загрузчики.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "Обмен_опытом_-_С_точностью_до_о_прерываниях_дисковые_загрузч"
+  },
+  {
+    "article_id": 540,
+    "article_url": "https://zxpress.ru/article.php?id=540",
+    "print_url": "https://zxpress.ru/print.php?id=540",
+    "title_link": "Презентация - Презентация игр : Where Time Stood Stile, Кости-Покер, Весы.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Презентация_-_Презентация_игр_Where_Time_Stood_Stile_Кости-П"
+  },
+  {
+    "article_id": 542,
+    "article_url": "https://zxpress.ru/article.php?id=542",
+    "print_url": "https://zxpress.ru/print.php?id=542",
+    "title_link": "Раскрутка - Описание игры \"Starglider 2\".",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Раскрутка_-_Описание_игры_Starglider_2"
+  },
+  {
+    "article_id": 569,
+    "article_url": "https://zxpress.ru/article.php?id=569",
+    "print_url": "https://zxpress.ru/print.php?id=569",
+    "title_link": "Раскрутка - Описание игры Scorpions Die Machine.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Раскрутка_-_Описание_игры_Scorpions_Die_Machine"
+  },
+  {
+    "article_id": 552,
+    "article_url": "https://zxpress.ru/article.php?id=552",
+    "print_url": "https://zxpress.ru/print.php?id=552",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 548,
+    "article_url": "https://zxpress.ru/article.php?id=548",
+    "print_url": "https://zxpress.ru/print.php?id=548",
+    "title_link": "Система - Описание системных программ: XAS, MASM 1.1, Copy v3.3 turbo,\r\nPower Assembler v3.0, Turbo Assembler, Rock Disk Service v3.1, LZ-Compressor v1.0, PCX Show v1.0, Memory test v1.3, Digital Music Macker.",
+    "order": 13,
+    "issue_label": "04",
+    "short_slug": "Система_-_Описание_системных_программ_XAS_MASM_11_Copy_v33_t"
+  },
+  {
+    "article_id": 549,
+    "article_url": "https://zxpress.ru/article.php?id=549",
+    "print_url": "https://zxpress.ru/print.php?id=549",
+    "title_link": "Система - Спектрум-совместимые компьютеры: Pentagon, ATM-Turbo, Scorpion.",
+    "order": 14,
+    "issue_label": "04",
+    "short_slug": "Система_-_Спектрум-совместимые_компьютеры_Pentagon_ATM-Turbo"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1999-10-17",
+  "order": 6,
+  "article_id": 13468,
+  "title_link": "Кнопки - управление в газете.",
+  "title_h1": "IzhNews 04 - Кнопки - управление в газете.",
+  "print_url": "https://zxpress.ru/print.php?id=13468",
+  "article_url": "https://zxpress.ru/article.php?id=13468",
+  "fetched_at": "2026-05-31T22:15:23Z"
+}

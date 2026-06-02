@@ -1,0 +1,308 @@
+[
+  {
+    "article_id": 1678,
+    "article_url": "https://zxpress.ru/article.php?id=1678",
+    "print_url": "https://zxpress.ru/print.php?id=1678",
+    "title_link": "Adventure Project - Проектирование и разработака Адвентюрных и RPG игр.",
+    "order": 1,
+    "issue_label": "5-6",
+    "short_slug": "Adventure_Project_-_Проектирование_и_разработака_Адвентюрных"
+  },
+  {
+    "article_id": 1677,
+    "article_url": "https://zxpress.ru/article.php?id=1677",
+    "print_url": "https://zxpress.ru/print.php?id=1677",
+    "title_link": "Adventure Project - Русификация адвентюр.",
+    "order": 2,
+    "issue_label": "5-6",
+    "short_slug": "Adventure_Project_-_Русификация_адвентюр"
+  },
+  {
+    "article_id": 1653,
+    "article_url": "https://zxpress.ru/article.php?id=1653",
+    "print_url": "https://zxpress.ru/print.php?id=1653",
+    "title_link": "TR-DOS для начинающих - Продолжение.",
+    "order": 3,
+    "issue_label": "5-6",
+    "short_slug": "TR-DOS_для_начинающих_-_Продолжение"
+  },
+  {
+    "article_id": 1047,
+    "article_url": "https://zxpress.ru/article.php?id=1047",
+    "print_url": "https://zxpress.ru/print.php?id=1047",
+    "title_link": "Авторская разработка - Scorpion 2000 (С.Зонов).",
+    "order": 4,
+    "issue_label": "5-6",
+    "short_slug": "Авторская_разработка_-_Scorpion_2000_СЗонов"
+  },
+  {
+    "article_id": 1046,
+    "article_url": "https://zxpress.ru/article.php?id=1046",
+    "print_url": "https://zxpress.ru/print.php?id=1046",
+    "title_link": "Авторская разработка - Трамплин (С.Веремеенко).",
+    "order": 5,
+    "issue_label": "5-6",
+    "short_slug": "Авторская_разработка_-_Трамплин_СВеремеенко"
+  },
+  {
+    "article_id": 1649,
+    "article_url": "https://zxpress.ru/article.php?id=1649",
+    "print_url": "https://zxpress.ru/print.php?id=1649",
+    "title_link": "Визитная карточка - новый электронный юмористический журнал \"SpectrofUn\".",
+    "order": 6,
+    "issue_label": "5-6",
+    "short_slug": "Визитная_карточка_-_новыи_электронныи_юмористическии_журнал"
+  },
+  {
+    "article_id": 1683,
+    "article_url": "https://zxpress.ru/article.php?id=1683",
+    "print_url": "https://zxpress.ru/print.php?id=1683",
+    "title_link": "Перекресток драконов - Раскрутка игры Finders Keepers.",
+    "order": 7,
+    "issue_label": "5-6",
+    "short_slug": "Перекресток_драконов_-_Раскрутка_игры_Finders_Keepers"
+  },
+  {
+    "article_id": 1682,
+    "article_url": "https://zxpress.ru/article.php?id=1682",
+    "print_url": "https://zxpress.ru/print.php?id=1682",
+    "title_link": "Перекресток драконов - Раскрутка игры Knight Tyme.",
+    "order": 8,
+    "issue_label": "5-6",
+    "short_slug": "Перекресток_драконов_-_Раскрутка_игры_Knight_Tyme"
+  },
+  {
+    "article_id": 1679,
+    "article_url": "https://zxpress.ru/article.php?id=1679",
+    "print_url": "https://zxpress.ru/print.php?id=1679",
+    "title_link": "Перекресток драконов - Раскрутка игры Spellbound.",
+    "order": 9,
+    "issue_label": "5-6",
+    "short_slug": "Перекресток_драконов_-_Раскрутка_игры_Spellbound"
+  },
+  {
+    "article_id": 1681,
+    "article_url": "https://zxpress.ru/article.php?id=1681",
+    "print_url": "https://zxpress.ru/print.php?id=1681",
+    "title_link": "Перекресток драконов - Раскрутка игры Stormbringer.",
+    "order": 10,
+    "issue_label": "5-6",
+    "short_slug": "Перекресток_драконов_-_Раскрутка_игры_Stormbringer"
+  },
+  {
+    "article_id": 1666,
+    "article_url": "https://zxpress.ru/article.php?id=1666",
+    "print_url": "https://zxpress.ru/print.php?id=1666",
+    "title_link": "Ретро - 40 лучших процедур: Слияние картинок, Вращение символа\r\n по часовой стрелке, Инвертирование символов, Изменение атрибута, Закрашивание контура, Построение шаблонов (Дж.Хардман, Э.Хьюзон.).",
+    "order": 11,
+    "issue_label": "5-6",
+    "short_slug": "Ретро_-_40_лучших_процедур_Слияние_картинок_Вращение_символа"
+  },
+  {
+    "article_id": 1050,
+    "article_url": "https://zxpress.ru/article.php?id=1050",
+    "print_url": "https://zxpress.ru/print.php?id=1050",
+    "title_link": "Советы экспертов - Total Eclipse 2.",
+    "order": 12,
+    "issue_label": "5-6",
+    "short_slug": "Советы_экспертов_-_Total_Eclipse_2"
+  },
+  {
+    "article_id": 1051,
+    "article_url": "https://zxpress.ru/article.php?id=1051",
+    "print_url": "https://zxpress.ru/print.php?id=1051",
+    "title_link": "Советы экспертов Super League.",
+    "order": 13,
+    "issue_label": "5-6",
+    "short_slug": "Советы_экспертов_Super_League"
+  },
+  {
+    "article_id": 1675,
+    "article_url": "https://zxpress.ru/article.php?id=1675",
+    "print_url": "https://zxpress.ru/print.php?id=1675",
+    "title_link": "Форум-игры - Описание игры Страна Мифов.",
+    "order": 14,
+    "issue_label": "5-6",
+    "short_slug": "Форум-игры_-_Описание_игры_Страна_Мифов"
+  },
+  {
+    "article_id": 1676,
+    "article_url": "https://zxpress.ru/article.php?id=1676",
+    "print_url": "https://zxpress.ru/print.php?id=1676",
+    "title_link": "Форум-игры - Прохождение Renegade.",
+    "order": 15,
+    "issue_label": "5-6",
+    "short_slug": "Форум-игры_-_Прохождение_Renegade"
+  },
+  {
+    "article_id": 1674,
+    "article_url": "https://zxpress.ru/article.php?id=1674",
+    "print_url": "https://zxpress.ru/print.php?id=1674",
+    "title_link": "Форум-игры - Тонкости торговли в игре Elite",
+    "order": 16,
+    "issue_label": "5-6",
+    "short_slug": "Форум-игры_-_Тонкости_торговли_в_игре_Elite"
+  },
+  {
+    "article_id": 1672,
+    "article_url": "https://zxpress.ru/article.php?id=1672",
+    "print_url": "https://zxpress.ru/print.php?id=1672",
+    "title_link": "Форум - Изучение и отладка @-файлов с помощью STS 5.1.\r\n Особенности отладки программ с помощью монитора STS. Исправление ошибки STS 5.1.",
+    "order": 17,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_Изучение_и_отладка_-фаилов_с_помощью_STS_51_Особенно"
+  },
+  {
+    "article_id": 1670,
+    "article_url": "https://zxpress.ru/article.php?id=1670",
+    "print_url": "https://zxpress.ru/print.php?id=1670",
+    "title_link": "Форум - Компрессия программ.",
+    "order": 18,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_Компрессия_программ"
+  },
+  {
+    "article_id": 1669,
+    "article_url": "https://zxpress.ru/article.php?id=1669",
+    "print_url": "https://zxpress.ru/print.php?id=1669",
+    "title_link": "форум - О сокращении времени форматирования. О записи секторов одновременно с форматированием. Перестроение экрана за одно\r\n прерывание.",
+    "order": 19,
+    "issue_label": "5-6",
+    "short_slug": "форум_-_О_сокращении_времени_форматирования_О_записи_секторо"
+  },
+  {
+    "article_id": 1671,
+    "article_url": "https://zxpress.ru/article.php?id=1671",
+    "print_url": "https://zxpress.ru/print.php?id=1671",
+    "title_link": "Форум - Особенности ассемблера ZX ASM 3.0.",
+    "order": 20,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_Особенности_ассемблера_ZX_ASM_30"
+  },
+  {
+    "article_id": 1673,
+    "article_url": "https://zxpress.ru/article.php?id=1673",
+    "print_url": "https://zxpress.ru/print.php?id=1673",
+    "title_link": "Форум - По поводу компилятора бейсика \"Blast\".",
+    "order": 21,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_По_поводу_компилятора_беисика_Blast"
+  },
+  {
+    "article_id": 1667,
+    "article_url": "https://zxpress.ru/article.php?id=1667",
+    "print_url": "https://zxpress.ru/print.php?id=1667",
+    "title_link": "Форум - По поводу релоцируемых программ.",
+    "order": 22,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_По_поводу_релоцируемых_программ"
+  },
+  {
+    "article_id": 1668,
+    "article_url": "https://zxpress.ru/article.php?id=1668",
+    "print_url": "https://zxpress.ru/print.php?id=1668",
+    "title_link": "Форум - Программы \"Пламя\" и \"Дракон\".",
+    "order": 23,
+    "issue_label": "5-6",
+    "short_slug": "Форум_-_Программы_Пламя_и_Дракон"
+  },
+  {
+    "article_id": 1655,
+    "article_url": "https://zxpress.ru/article.php?id=1655",
+    "print_url": "https://zxpress.ru/print.php?id=1655",
+    "title_link": "Читатель-читателю - TR-DOS: как не допустить ошибки?",
+    "order": 24,
+    "issue_label": "5-6",
+    "short_slug": "Читатель-читателю_-_TR-DOS_как_не_допустить_ошибки"
+  },
+  {
+    "article_id": 1656,
+    "article_url": "https://zxpress.ru/article.php?id=1656",
+    "print_url": "https://zxpress.ru/print.php?id=1656",
+    "title_link": "Читатель-читателю - Эффективная работа с дисководом .",
+    "order": 25,
+    "issue_label": "5-6",
+    "short_slug": "Читатель-читателю_-_Эффективная_работа_с_дисководом"
+  },
+  {
+    "article_id": 1662,
+    "article_url": "https://zxpress.ru/article.php?id=1662",
+    "print_url": "https://zxpress.ru/print.php?id=1662",
+    "title_link": "Этиды - Расчет адреса в файле атрибутов. Программа скроллирования заданного\r\n окна на 1 пиксел вправо. Программа очистки заданного окна. Процедура вывода картинки из буфера.",
+    "order": 26,
+    "issue_label": "5-6",
+    "short_slug": "Этиды_-_Расчет_адреса_в_фаиле_атрибутов_Программа_скроллиров"
+  },
+  {
+    "article_id": 1660,
+    "article_url": "https://zxpress.ru/article.php?id=1660",
+    "print_url": "https://zxpress.ru/print.php?id=1660",
+    "title_link": "Этюды - Индикатор каналов музыкального процессора. Процедура очистки экрана. Предложение по стандартизации.",
+    "order": 27,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Индикатор_каналов_музыкального_процессора_Процедура"
+  },
+  {
+    "article_id": 1665,
+    "article_url": "https://zxpress.ru/article.php?id=1665",
+    "print_url": "https://zxpress.ru/print.php?id=1665",
+    "title_link": "Этюды - Набор из восьми программ \"расширения\" экрана.\r\n Две процедуры проявления экрана.",
+    "order": 28,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Набор_из_восьми_программ_расширения_экрана_Две_проце"
+  },
+  {
+    "article_id": 1658,
+    "article_url": "https://zxpress.ru/article.php?id=1658",
+    "print_url": "https://zxpress.ru/print.php?id=1658",
+    "title_link": "Этюды - Новые темы для разработок.",
+    "order": 29,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Новые_темы_для_разработок"
+  },
+  {
+    "article_id": 1661,
+    "article_url": "https://zxpress.ru/article.php?id=1661",
+    "print_url": "https://zxpress.ru/print.php?id=1661",
+    "title_link": "Этюды - Программа воспроизведения инструмента от редакторов оцифрованной музыки.",
+    "order": 30,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Программа_воспроизведения_инструмента_от_редакторов"
+  },
+  {
+    "article_id": 1657,
+    "article_url": "https://zxpress.ru/article.php?id=1657",
+    "print_url": "https://zxpress.ru/print.php?id=1657",
+    "title_link": "Этюды - Программа обработки @-бейсик файлов.",
+    "order": 31,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Программа_обработки_-беисик_фаилов"
+  },
+  {
+    "article_id": 1664,
+    "article_url": "https://zxpress.ru/article.php?id=1664",
+    "print_url": "https://zxpress.ru/print.php?id=1664",
+    "title_link": "Этюды - Процедура поворота символа на 90 градусов по часовой стрелке.",
+    "order": 32,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Процедура_поворота_символа_на_90_градусов_по_часовои"
+  },
+  {
+    "article_id": 1659,
+    "article_url": "https://zxpress.ru/article.php?id=1659",
+    "print_url": "https://zxpress.ru/print.php?id=1659",
+    "title_link": "Этюды - Процедура поиска текстовых файлов.",
+    "order": 33,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Процедура_поиска_текстовых_фаилов"
+  },
+  {
+    "article_id": 1663,
+    "article_url": "https://zxpress.ru/article.php?id=1663",
+    "print_url": "https://zxpress.ru/print.php?id=1663",
+    "title_link": "Этюды - Экранная процедура \"UP HL\".",
+    "order": 34,
+    "issue_label": "5-6",
+    "short_slug": "Этюды_-_Экранная_процедура_UP_HL"
+  }
+]

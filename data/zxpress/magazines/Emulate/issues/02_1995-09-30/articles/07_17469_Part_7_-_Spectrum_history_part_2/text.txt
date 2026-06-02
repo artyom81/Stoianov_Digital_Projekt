@@ -1,0 +1,250 @@
+02 - Part 7 - Spectrum history (part 2).
+==========================================
+***************************************
+*  PART 7  - SPECTRUM HISTORY PART 2  *
+***************************************
+
+A STORY OF SURVIVAL Part 2
+Orignially published in
+Crash 79 - August 1990
+
+Creator  of  our  fave  home computer, Sir
+Clive  Sinclair  is  fifty this year. Last
+month  we  looked at how he started the ZX
+range of computers and now we complete the
+story:  from the launch of the ZX Spectrum
+in 1983 up until the present day.
+
+CHEAP AND POWERFUL SPECTRUM
+
+The  Spectrum  hardware  was  designed  by
+Richard  Altwasser,  and  the software was
+adapted   from   the  ZX-81`s  by  Stephen
+Vickers.  The  Spectrum  had  a new custom
+chip  which could keep a colour display up
+yet hardly slow the processor at all - but
+a last-minute bodge was needed to make the
+keyboard work properly. This was the "dead
+cockroach"  modification:  a chip soldered
+on its back with its legs in the air!
+At  125  for  16k,  or  175  for  48k, the
+Spectrum  was  very cheap and powerful for
+its  day. The 48k model seemed such a good
+deal  that  it sold eight times as well as
+the  16k  model  from  the start, so a new
+version was produced - the issue 2 - which
+could  hold  48k on one board. The issue 2
+had  blue  keys  rather than grey ones, to
+make  the lettering on them easier to read
+under electric light.
+Meanwhile   Altwasser   and  Vickers  left
+Sinclair to set up their own firm, Jupiter
+Cantab, selling a small fast computer that
+was  a  cross  between  a  Spectrum  and a
+ZX-80. Their Jupiter Ace flopped.
+Sinclair  refined  the  Spectrum  again in
+1983, making BEEP slightly louder, using a
+cooler  logic  array,  and  adding a minor
+tweak  which unfortunately stopped lots of
+sloppily  written  games  recognising  the
+keyboard.  This  Spectrum was the infamous
+Issue 3.
+Meanwhile  in  the USA...Timex was bemused
+by  the  success of the TMS-1000 and tried
+to  follow  it  with  a 16k variation, the
+TMS-1500.  It  flopped,  so Timex came out
+with  the TMS-2068 - a super Spectrum with
+graphics  much  like  the SAM Coupe, sound
+like  a  Spectrum  128K. That flopped too,
+mainly  because  of  competition in the US
+Market  and  poor  software compatibility.
+Timex gave up in February 1984.
+The    rubbery   Spectrum   keyboard   was
+universally  hated,  so  Sinclair tried to
+develop   something  better  looking.  The
+result was the Spectrum Plus. Brilliantly,
+with  the  plus,  Sinclair preserved total
+compatibility  by  using  exactly the same
+circuits  as  in an old Spectrum, in a new
+box.  And  the Plus sold well for a while,
+though the routines to read the keys still
+insisted  you pressed them one at a time -
+fine for rubber keys, but now frustrating.
+
+THINGS GO WRONG
+
+Sinclair  had been putting off plans for a
+superSpectrum since 1982. He spent most of
+1983   designing   a   portable   business
+computer,   but   at  the  last  moment  a
+near-random  collection of design features
+merged  into  the  Sinclair QL. The QL was
+launched,   designed,   manufactured   and
+made-to-work   in   that  order.  In  1985
+Sinclair`s    main   distributor,   Prism,
+collapsed.  The  QL  price  was slashed in
+half.  Sinclair,  now  a  knight, was bust
+advertising   electric  tricycles.  Robert
+Maxwell  stepped,  sniffed  the  air,  and
+stepped out again. And by now the Spectrum
+was  not  considered  sophisticated,  even
+witht  the  new  keyboard. People began to
+demand  more memory, interfaces and better
+sound.  A  mixture  of  new  and  TMS-2068
+features were cobbled together to make the
+Spectrum  Plus 128K. The money for the 128
+came  from  Spain,  so  thats where it was
+launched.
+In January 1986 the Spectrum Plus 128K was
+launched  in the UK, in a desperate bid by
+Sinclair  to  look busy as debts piled up.
+But   by   March   the   bank  had  closed
+Sinclair`s  accounts and the company staff
+were  paid  on the firms behalf by a large
+retailer who took stock in return.
+
+OVER TO AMSTRAD
+
+On April 7 1986, Amstrad bought the rights
+to make Spectrums, and to kill the QL, for
+just  5  million  and also paid 11 million
+for   the  remaining  stocks.  Unconfirmed
+reports   suggets  that  about  4  million
+standard   Spectrums   were   produced  by
+Sinclair research. And there must be about
+500,000 128s in circulation, with the bulk
+of those being first-edition Amstrad Plus.
+A  few Sinclair staff moved to Amstrad and
+produced  the  Plus  2: a 128 in a new box
+with   a  cassette  drive  `glued  on`  as
+Amstrad  boss  Alan  Sugar  put it. A year
+later   came   the   first   true  Amstrad
+Spectrum  -  the  Plus  3,  minus Sinclair
+chips   and  plus  the  disk  system  from
+Amstrads  CPC  range. The Plus-3 was a new
+design,  not  very compatible with the old
+Spectrum  and  its  wealth of 48K hardware
+and software.
+Sir  Clive  Sinclair  went  on  to  sell a
+portable computer called the Z88, designed
+by  Jim  Westwood  and  using the same Z80
+processor  as the ZX range. Latest reports
+indicate plans for a C-15 electric car...!
+At  the 1988 PC Show, Amstrad launched its
+own machine - the Sinclair Professional PC
+200.  The  machine  found  many  critics -
+mainly  because  no-one  understood who it
+was  aimed  at  -  it  wasn`t a good games
+machine  (it  features  only  four colours
+and,  at  basic  starting  price of around
+350, is wildly expensive) and not powerful
+enough  for  a serious PC alternative. Not
+really Sinclair stuff at all.
+
+THE SPECTRUM CLONED
+
+Christmas  1989  saw  the  launch  of  the
+machine  everyone was really waiting for -
+the  Miles  Gordon  Technology  SAM Coupe.
+256K   RAM,   four   colour   modes,  fast
+operating speed and compatibility with the
+majority  of 48K Spectrum games. Initially
+the ROM chip was bugged, but in April, MGT
+delivered  new  ROM chips for users to fit
+themselves. By May 1990 the first signs of
+real   software  support  were  showing  -
+Enigma  Variations  specially  created SAM
+Coupe  Defenders  of  the Earth was just a
+week or so off release. Things were really
+looking up, and hardware sales appeared to
+be good.
+
+THE COMPLETE STORY
+
+1983
+
+JUPITER ACE
+80;  spin  off;  8K  ROM,  3K  RAM;  Forth
+Spectrum Keys/tape/display. 3,000,000 Plus
+Spectrum Issue 3s sold: new low power ULA,
+louder   BEEP,   runs  cooler,  no  colour
+tweaks,  key  port incompatibility. Prices
+cut to 100/130 (16K/48K)
+
+TIMEX TMS-1500
+$80;  8K  ROM,  16K RAM; ZX-81 with better
+keyboard - a flop
+
+TIMEX TMS-2068
+$150/200;  24K  ROM, 16K/48K RAM; paged in
+8K  lumps up to 256K. Improved BASIC sound
+and   much   better   display,   but  very
+incompatible.  UK  PAL  TV  version  never
+marketed.
+
+1984
+
+SPECTRUM PLUS
+180;   issue   3   circuits   (with  minor
+revisions) and extra RESET button; new box
+and keys
+
+1985
+
+Spectrum  Plus  plrice cut to 130; 16K and
+rubber-key versions discontinued.
+
+SPECTRUM 128K
+180;  32K  ROM and 128K RAM, in 16K pages;
+RGB;  old  box  and  chunky  heat sink; no
+key-words;  three  channel  sound,  clumsy
+screen editor; MIDI/serial port; funded by
+Investronica.
+
+1986
+
+SPECTRUM PLUS 2
+140; the old 128 in a new box, with better
+keyboard  and  cassette  unit  `glued on`;
+250,000  sold  in  first  year;  the first
+Amstrad Spectrum.
+
+1987
+
+SPECTRUM PLUS 3
+249; 3-inch disk; AMSDOS in 64K ROM; first
+radical re-design since 1982. Earlier 128s
+were   more   compatible   with   existing
+hardware  and  software  than the Plus-3 -
+they  had  extra  features  just bolted on
+rather  than  built  in.  Spectrum  Plus 3
+price  cut  to  199 - some stores discount
+further to 180.
+
+1988
+
+SPECTRUM PLUS 2 (revised)
+64K ROM, 128K RAM; outwardly as older Plus
+2s but less compatible inside.
+
+SINCLAIR PROFESSIONAL PC 200
+16-bit  processor 8Mhz 8086, 512K RAM, One
+3.5   inch   720K   disk   drive.   Medium
+resolution  CGA graphics 320x200 pixels in
+four colours. Never hit big-time.
+
+1989
+
+SAM COUPE
+MGT   launches  the  SAM  Coupe.  The  new
+British  computer  offering  compatibility
+with the majority of Spectrum software.
+
+1990
+
+Amstrad   hold   a  secret  conference  in
+France, with major announcements expected
+
+To be continued....?
+
+==========================================

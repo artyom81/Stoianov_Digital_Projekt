@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 17630,
+    "article_url": "https://zxpress.ru/article.php?id=17630",
+    "print_url": "https://zxpress.ru/print.php?id=17630",
+    "title_link": "От редакции - Здраствуйте, читатели! Вот уже и вышел третий номер электронной газеты \"FANTOM\".",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_редакции_-_Здраствуите_читатели_Вот_уже_и_вышел_третии_но"
+  },
+  {
+    "article_id": 17631,
+    "article_url": "https://zxpress.ru/article.php?id=17631",
+    "print_url": "https://zxpress.ru/print.php?id=17631",
+    "title_link": "Ассемблер - Процедура сдвига всего экрана на одно знакоместо вверх, загрузчик на вссемблере.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Ассемблер_-_Процедура_сдвига_всего_экрана_на_одно_знакоместо"
+  },
+  {
+    "article_id": 17632,
+    "article_url": "https://zxpress.ru/article.php?id=17632",
+    "print_url": "https://zxpress.ru/print.php?id=17632",
+    "title_link": "Gaме station - Недавно я прошел игру KING`S BOUNTY... Поэтому, даю вам описание \"что, где и как проходить\".",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Gaме_station_-_Недавно_я_прошел_игру_KINGS_BOUNTY_Поэтому_да"
+  },
+  {
+    "article_id": 17633,
+    "article_url": "https://zxpress.ru/article.php?id=17633",
+    "print_url": "https://zxpress.ru/print.php?id=17633",
+    "title_link": "Железо - 8-ми разрядный АЦП для СOVOХ`а, формирователь сигнала яркости для монитора.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Железо_-_8-ми_разрядныи_АЦП_для_СOVOХа_формирователь_сигнала"
+  },
+  {
+    "article_id": 17634,
+    "article_url": "https://zxpress.ru/article.php?id=17634",
+    "print_url": "https://zxpress.ru/print.php?id=17634",
+    "title_link": "Обзор ПО - TЕХT MAKЕR v1.10f, BЕST VIЕW v2.8, DЕMO OR DIЕ #2.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Обзор_ПО_-_TЕХT_MAKЕR_v110f_BЕST_VIЕW_v28_DЕMO_OR_DIЕ_2"
+  },
+  {
+    "article_id": 17635,
+    "article_url": "https://zxpress.ru/article.php?id=17635",
+    "print_url": "https://zxpress.ru/print.php?id=17635",
+    "title_link": "Мысли вслух - Лучшая сисtемщина нашей плаtфoрмы.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Мысли_вслух_-_Лучшая_сисtемщина_нашеи_плаtфoрмы"
+  },
+  {
+    "article_id": 17636,
+    "article_url": "https://zxpress.ru/article.php?id=17636",
+    "print_url": "https://zxpress.ru/print.php?id=17636",
+    "title_link": "Реклама - Рекламный раздел.",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Рекламныи_раздел"
+  },
+  {
+    "article_id": 17637,
+    "article_url": "https://zxpress.ru/article.php?id=17637",
+    "print_url": "https://zxpress.ru/print.php?id=17637",
+    "title_link": "Информация - Об оболочки и об авторах. Благодарности и приветы.",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "Информация_-_Об_оболочки_и_об_авторах_Благодарности_и_привет"
+  }
+]

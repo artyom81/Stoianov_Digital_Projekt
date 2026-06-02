@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 13525,
+    "article_url": "https://zxpress.ru/article.php?id=13525",
+    "print_url": "https://zxpress.ru/print.php?id=13525",
+    "title_link": "Преамбула - Рад приветствовать вас на страницах очередного 45-го выпуска\r\nнашей газеты.",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "Преамбула_-_Рад_приветствовать_вас_на_страницах_очередного_4"
+  },
+  {
+    "article_id": 13526,
+    "article_url": "https://zxpress.ru/article.php?id=13526",
+    "print_url": "https://zxpress.ru/print.php?id=13526",
+    "title_link": "Планета шелезяка - схема RS-232 интерфейса.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "Планета_шелезяка_-_схема_RS-232_интерфеиса"
+  },
+  {
+    "article_id": 13527,
+    "article_url": "https://zxpress.ru/article.php?id=13527",
+    "print_url": "https://zxpress.ru/print.php?id=13527",
+    "title_link": "Смайлик - Для нормального человека: одна бутылка - нормально, две бутылки - много, три бутылки - мало...",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Смаилик_-_Для_нормального_человека_одна_бутылка_-_нормально"
+  },
+  {
+    "article_id": 13528,
+    "article_url": "https://zxpress.ru/article.php?id=13528",
+    "print_url": "https://zxpress.ru/print.php?id=13528",
+    "title_link": "Ликбез - полное описание и полный дизассемблер ПЗУ TR-DOS (продолжение).",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "Ликбез_-_полное_описание_и_полныи_дизассемблер_ПЗУ_TR-DOS_пр"
+  },
+  {
+    "article_id": 13529,
+    "article_url": "https://zxpress.ru/article.php?id=13529",
+    "print_url": "https://zxpress.ru/print.php?id=13529",
+    "title_link": "Бук - последняя шутка воина.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Бук_-_последняя_шутка_воина"
+  },
+  {
+    "article_id": 13530,
+    "article_url": "https://zxpress.ru/article.php?id=13530",
+    "print_url": "https://zxpress.ru/print.php?id=13530",
+    "title_link": "Beatles - forever wont see me.",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "Beatles_-_forever_wont_see_me"
+  },
+  {
+    "article_id": 13531,
+    "article_url": "https://zxpress.ru/article.php?id=13531",
+    "print_url": "https://zxpress.ru/print.php?id=13531",
+    "title_link": "Смак - Цыпленок табака.",
+    "order": 7,
+    "issue_label": "45",
+    "short_slug": "Смак_-_Цыпленок_табака"
+  },
+  {
+    "article_id": 13532,
+    "article_url": "https://zxpress.ru/article.php?id=13532",
+    "print_url": "https://zxpress.ru/print.php?id=13532",
+    "title_link": "Двигатель торговли - Меняюсь mod-файлами для General Sound-128 (есть и для GS-512).",
+    "order": 8,
+    "issue_label": "45",
+    "short_slug": "Двигатель_торговли_-_Меняюсь_mod-фаилами_для_General_Sound-1"
+  },
+  {
+    "article_id": 13533,
+    "article_url": "https://zxpress.ru/article.php?id=13533",
+    "print_url": "https://zxpress.ru/print.php?id=13533",
+    "title_link": "Благодарности - О.Хохлову, К.Афендикову, В.Pубцову за ZXASM 3.0",
+    "order": 9,
+    "issue_label": "45",
+    "short_slug": "Благодарности_-_ОХохлову_КАфендикову_ВPубцову_за_ZXASM_30"
+  }
+]

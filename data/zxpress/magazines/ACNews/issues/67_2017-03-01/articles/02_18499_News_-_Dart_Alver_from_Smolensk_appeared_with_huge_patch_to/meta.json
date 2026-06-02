@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "67",
+  "issue_date_iso": "2017-03-01",
+  "order": 2,
+  "article_id": 18499,
+  "title_link": "News - Dart Alver from Smolensk appeared with huge patch to Burial Gfx Editor, Wanderer wrote new scripting engine for his next game",
+  "title_h1": "ACNews 67 - News - Dart Alver from Smolensk appeared with huge patch to Burial Gfx Editor, Wanderer wrote new scripting engine for his next game",
+  "print_url": "https://zxpress.ru/print.php?id=18499",
+  "article_url": "https://zxpress.ru/article.php?id=18499",
+  "fetched_at": "2026-05-31T21:31:57Z"
+}

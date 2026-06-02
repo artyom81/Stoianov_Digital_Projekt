@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 5228,
+    "article_url": "https://zxpress.ru/article.php?id=5228",
+    "print_url": "https://zxpress.ru/print.php?id=5228",
+    "title_link": "Поездка в Одессу - в гостях у Одесских спектрумистов.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "Поездка_в_Одессу_-_в_гостях_у_Одесских_спектрумистов"
+  },
+  {
+    "article_id": 5229,
+    "article_url": "https://zxpress.ru/article.php?id=5229",
+    "print_url": "https://zxpress.ru/print.php?id=5229",
+    "title_link": "Маньяк - телефонный стеб над компьютерными фирмами торгующими ПЦ.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Маньяк_-_телефонныи_стеб_над_компьютерными_фирмами_торгующим"
+  },
+  {
+    "article_id": 5230,
+    "article_url": "https://zxpress.ru/article.php?id=5230",
+    "print_url": "https://zxpress.ru/print.php?id=5230",
+    "title_link": "AD&D - Тексты на тематику AD&D.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "ADD_-_Тексты_на_тематику_ADD"
+  },
+  {
+    "article_id": 5231,
+    "article_url": "https://zxpress.ru/article.php?id=5231",
+    "print_url": "https://zxpress.ru/print.php?id=5231",
+    "title_link": "Проходилка - большая трилогия адвентюр под названием \"Axe of Kolt\".",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Проходилка_-_большая_трилогия_адвентюр_под_названием_Axe_of"
+  }
+]

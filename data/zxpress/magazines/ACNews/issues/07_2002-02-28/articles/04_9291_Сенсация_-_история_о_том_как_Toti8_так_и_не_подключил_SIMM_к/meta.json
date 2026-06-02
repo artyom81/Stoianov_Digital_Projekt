@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "2002-02-28",
+  "order": 4,
+  "article_id": 9291,
+  "title_link": "Сенсация - история о том как Tot/i8 так и не подключил SIMM к пнетагону AloneCoder'a.",
+  "title_h1": "ACNews 07 - Сенсация - история о том как Tot/i8 так и не подключил SIMM к пнетагону AloneCoder&#039;a.",
+  "print_url": "https://zxpress.ru/print.php?id=9291",
+  "article_url": "https://zxpress.ru/article.php?id=9291",
+  "fetched_at": "2026-05-31T21:30:17Z"
+}

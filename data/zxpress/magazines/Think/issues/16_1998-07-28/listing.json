@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4182,
+    "article_url": "https://zxpress.ru/article.php?id=4182",
+    "print_url": "https://zxpress.ru/print.php?id=4182",
+    "title_link": "От автора - проходит лето...",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "От_автора_-_проходит_лето"
+  },
+  {
+    "article_id": 4183,
+    "article_url": "https://zxpress.ru/article.php?id=4183",
+    "print_url": "https://zxpress.ru/print.php?id=4183",
+    "title_link": "Проходилка - Drunk Dizzy (demo)",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Проходилка_-_Drunk_Dizzy_demo"
+  },
+  {
+    "article_id": 4184,
+    "article_url": "https://zxpress.ru/article.php?id=4184",
+    "print_url": "https://zxpress.ru/print.php?id=4184",
+    "title_link": "Обзор новинок - Уголки, Robo, Сокобан.",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "Обзор_новинок_-_Уголки_Robo_Сокобан"
+  },
+  {
+    "article_id": 4185,
+    "article_url": "https://zxpress.ru/article.php?id=4185",
+    "print_url": "https://zxpress.ru/print.php?id=4185",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4186,
+    "article_url": "https://zxpress.ru/article.php?id=4186",
+    "print_url": "https://zxpress.ru/print.php?id=4186",
+    "title_link": "Головоломки - различные головоломки.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Головоломки_-_различные_головоломки"
+  },
+  {
+    "article_id": 4187,
+    "article_url": "https://zxpress.ru/article.php?id=4187",
+    "print_url": "https://zxpress.ru/print.php?id=4187",
+    "title_link": "Анкета - опрос читателей.",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Анкета_-_опрос_читателеи"
+  },
+  {
+    "article_id": 4188,
+    "article_url": "https://zxpress.ru/article.php?id=4188",
+    "print_url": "https://zxpress.ru/print.php?id=4188",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "16",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4189,
+    "article_url": "https://zxpress.ru/article.php?id=4189",
+    "print_url": "https://zxpress.ru/print.php?id=4189",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

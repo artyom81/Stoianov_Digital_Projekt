@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 57,
+    "article_url": "https://zxpress.ru/article.php?id=57",
+    "print_url": "https://zxpress.ru/print.php?id=57",
+    "title_link": "B.B.S. Новости - О новой MAL'S BBS & Estel BBS.",
+    "order": 1,
+    "issue_label": "68",
+    "short_slug": "BBS_Новости_-_О_новои_MALS_BBS_Estel_BBS"
+  },
+  {
+    "article_id": 2431,
+    "article_url": "https://zxpress.ru/article.php?id=2431",
+    "print_url": "https://zxpress.ru/print.php?id=2431",
+    "title_link": "ZXNet - О истории открытия SPbZXNet.",
+    "order": 2,
+    "issue_label": "68",
+    "short_slug": "ZXNet_-_О_истории_открытия_SPbZXNet"
+  },
+  {
+    "article_id": 2430,
+    "article_url": "https://zxpress.ru/article.php?id=2430",
+    "print_url": "https://zxpress.ru/print.php?id=2430",
+    "title_link": "Новье !? - О играх: Crack Down, Heavy Metal Mover, Starfox,\r\n Bosconian 87, Dominion, Double Dragon 2, The Cycles,\r\n Choy Lee Fut Kkung FU Warrior, Moon Torc, The Hundred,\r\n Sideral war.",
+    "order": 3,
+    "issue_label": "68",
+    "short_slug": "Новье_-_О_играх_Crack_Down_Heavy_Metal_Mover_Starfox_Bosconi"
+  },
+  {
+    "article_id": 2429,
+    "article_url": "https://zxpress.ru/article.php?id=2429",
+    "print_url": "https://zxpress.ru/print.php?id=2429",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "68",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

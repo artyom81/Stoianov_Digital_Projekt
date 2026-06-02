@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 1306,
+    "article_url": "https://zxpress.ru/article.php?id=1306",
+    "print_url": "https://zxpress.ru/print.php?id=1306",
+    "title_link": "Coding - Как кодить оптимально.",
+    "order": 1,
+    "issue_label": "0B",
+    "short_slug": "Coding_-_Как_кодить_оптимально"
+  },
+  {
+    "article_id": 1305,
+    "article_url": "https://zxpress.ru/article.php?id=1305",
+    "print_url": "https://zxpress.ru/print.php?id=1305",
+    "title_link": "Hints - Скрытая часть в Lazarus demo. Cheat в Net Walk. Отключение мыши в Полесье.\r\n Секрет POPS Megademo.",
+    "order": 2,
+    "issue_label": "0B",
+    "short_slug": "Hints_-_Скрытая_часть_в_Lazarus_demo_Cheat_в_Net_Walk_Отключ"
+  },
+  {
+    "article_id": 1301,
+    "article_url": "https://zxpress.ru/article.php?id=1301",
+    "print_url": "https://zxpress.ru/print.php?id=1301",
+    "title_link": "Вступление - Очепятки - must die.",
+    "order": 3,
+    "issue_label": "0B",
+    "short_slug": "Вступление_-_Очепятки_-_must_die"
+  },
+  {
+    "article_id": 1308,
+    "article_url": "https://zxpress.ru/article.php?id=1308",
+    "print_url": "https://zxpress.ru/print.php?id=1308",
+    "title_link": "Злоба дня 2 - Новый трекер: Master Tracker.",
+    "order": 4,
+    "issue_label": "0B",
+    "short_slug": "Злоба_дня_2_-_Новыи_трекер_Master_Tracker"
+  },
+  {
+    "article_id": 1307,
+    "article_url": "https://zxpress.ru/article.php?id=1307",
+    "print_url": "https://zxpress.ru/print.php?id=1307",
+    "title_link": "Злоба дня - Новая дисковая система MB-O2+ из Германии.",
+    "order": 5,
+    "issue_label": "0B",
+    "short_slug": "Злоба_дня_-_Новая_дисковая_система_MB-O2_из_Германии"
+  },
+  {
+    "article_id": 1302,
+    "article_url": "https://zxpress.ru/article.php?id=1302",
+    "print_url": "https://zxpress.ru/print.php?id=1302",
+    "title_link": "Новости - Chaos Construction'99, ZX-Format 9,",
+    "order": 6,
+    "issue_label": "0B",
+    "short_slug": "Новости_-_Chaos_Construction99_ZX-Format_9"
+  },
+  {
+    "article_id": 1303,
+    "article_url": "https://zxpress.ru/article.php?id=1303",
+    "print_url": "https://zxpress.ru/print.php?id=1303",
+    "title_link": "Обзор - Обзор новых журналов: Rush #1, Adventure #9, Scenergy #1, ZX-Power #3, Miracle #3.",
+    "order": 7,
+    "issue_label": "0B",
+    "short_slug": "Обзор_-_Обзор_новых_журналов_Rush_1_Adventure_9_Scenergy_1_Z"
+  },
+  {
+    "article_id": 1304,
+    "article_url": "https://zxpress.ru/article.php?id=1304",
+    "print_url": "https://zxpress.ru/print.php?id=1304",
+    "title_link": "Партийная зона - Официальные результаты Complex Compo & Ddoxycon.",
+    "order": 8,
+    "issue_label": "0B",
+    "short_slug": "Партииная_зона_-_Официальные_результаты_Complex_Compo_Ddoxyc"
+  },
+  {
+    "article_id": 1309,
+    "article_url": "https://zxpress.ru/article.php?id=1309",
+    "print_url": "https://zxpress.ru/print.php?id=1309",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 9,
+    "issue_label": "0B",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

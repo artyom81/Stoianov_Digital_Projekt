@@ -1,0 +1,54 @@
+Subliminal Extacy 03 - How to use Subliminal Extacy... and more
+How to use Subliminal Extacy... and more :)
+
+Er.. It's  quite easy  really :)  You can  use A-mouse, Kempston
+mouse and  keys. If  Kempston mouse is detected  even though you
+don't have it (hardware  conflict) keep CAPS pressed on loading.
+Keys are always active so if something  goes terribly wrong with
+the mouse detection you can use  'Q','A','O' and  'P' to control
+the  cursor. Space bar is left 'mouse' button and 'M', Enter and
+Edit are the right 'mouse' button. Got   that? Good.  Now you're
+probably  wondering  what  the  buttons  do  right?  Fear not, I 
+shall put your troubled mind  to rest:  Left button  is used  to
+select  something (the cursor will change  to a hand   when  you
+go  over a selectable item) and to go up  and  down a  page (the
+cursor will  change to  an arrow  when you  go over  the top  or
+bottom of a  page). Right mouse  button is used to return to the
+previous screen. Oh, and if you  double-click left  mouse button
+anywhere there isn't a  selectable item (the cursor  will change
+to a  musical note) you'll go  to the music selector - use right
+mouse button to get back. Easy eh? Thought as much :)
+
+Now I'll take this opportunity to write a few words about SE #3,
+since I didn't have time to write any articles. I hope you  like
+the  new  SE engine...  It  went through  some  changes till  it
+reached its  current state  and I  just wish  I had  the time to
+optimize it further and add some more bits n pieces. Like proper
+mouse acceleration and a setup menu,  skin selector, etc. Yes, I
+did  say skin,  the topic  icons and  top  and  bottom gfx  are
+skinable - unfortunately we only got 1 skin  this issue  (thanks
+Kristoph :).   Still,  let's  not be  fussy ;)   SE is  back and
+we're here to stay!   All the things we  didn't have time to  do
+for this issue  will be in  SE #4 for  sure. So now  i propose a
+little challenge - Who will make  the best skin for SE #4?  Send
+your contributions  to se@raww.org.  The best  skin will  be the
+default one, but the others will be selectable too of course.
+
+Now some greetings and thanks to:
+
+LaesQ/RA for his neverending  support and friendship. We finally
+made it :) Now it's time to get down to real business...
+Bogie/RA for saying that  normal page flipping like  in Scenergy
+suxx... Right as always ;)
+Icabod/RA for  some interesting  ideas on  how to  speed up  the
+scroll routine. You're dirty! ;)
+Pol/PHT For the A-mouse routine he  sent me years ago ;) (I sped
+it up a bit... mail me if you want it ;)
+Raver/PHT for the tunes and title screen he got us.
+Jordan/Exodus I  used a  modified  version  of  your  SQ Tracker
+replayer, so thanks for that.
+X-Agon/PHT Thanks for sending me Jordan's routine :)
+Kristoph/CTL For the skin :)
+Ok, I'm very tired now and I need some sleep... See you in SE#4!
+
+Phoenix/Papaya Dezign/Raww Arse

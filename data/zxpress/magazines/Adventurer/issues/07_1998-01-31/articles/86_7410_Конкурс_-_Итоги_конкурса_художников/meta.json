@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1998-01-31",
+  "order": 86,
+  "article_id": 7410,
+  "title_link": "Конкурс - Итоги конкурса художников.",
+  "title_h1": "Adventurer 07 - Конкурс - Итоги конкурса художников.",
+  "print_url": "https://zxpress.ru/print.php?id=7410",
+  "article_url": "https://zxpress.ru/article.php?id=7410",
+  "fetched_at": "2026-05-31T21:33:35Z"
+}

@@ -1,0 +1,1770 @@
+ACNews 54 - Demo - Керналь демы.
+YO      EQU     0                                               
+NO      EQU     1                                               
+                                                                
+RELEASE EQU     YO                                              
+FINAL   EQU     YO              ;SET TRK/SEC                    
+                                                                
+GENCHANX EQU    YO                                              
+                                                                
+HELP    EQU     NO                                              
+        .INCLUDE MACLIBR                                        
+;--------------------------------                               
+FUL     EQU     (3+4)*#80                                       
+FST     EQU     #80*7-1                                         
+;--------------------------------                               
+                                                                
+MASK_В  EQU     #40                                             
+        .IF     RELEASE                                         
+MASK_В  =       0                                               
+        .ENDIF                                                  
+                                                                
+CODE2D_BANK EQU #14+MASK_В                                      
+MUS_В   EQU     #16+MASK_В                                      
+TEMP_BANK EQU   #11
+Uб_цод  EQU     #10                                             
+                                                                
+;--------------------------------                               
+SPRITE  EQU     #8800                                           
+MASK    EQU     SPRITE+#1В00                                    
+                                                                
+C2P_OUT EQU     #F000                                           
+C2P_ТАВ EQU     #FOFO                                           
+SCR_ТАВ EQU     #6600-96-96                                     
+                                                                
+SP_LEN  EQU     #0180                                           
+                                                                
+MUS_I   EQU     #C000                                           
+MUS_P   EQU     #C005                                           
+                                                                
+KER_ADR EQU     #SBSB                                           
+SYS_BNK EQU     #D7                                             
+SYS_BUF EQU     #F000                                           
+BREAK   EQU     #1F54                                           
+;--------------------------------                               
+        ORG     #6600                                           
+        .RUN    $
+DISP    KERNEL                                          
+        DI                                                      
+                                                                
+        .IF     FINAL-NO                                        
+        LD      ВС,#0051                                        
+        PUSH    ВС                                              
+        LD      ВС,#7FFD                                        
+        LD      A,SYS_BNK                                       
+        OUT     (C),A                                           
+        LD      В,#DF                                           
+        LD      A,1                                             
+        OUT     (C),A           ;PROFI                          
+        EXX                                                     
+        LD      HL,#5C00                                        
+        LD      DE,SYS_BUF                                      
+        LD      ВС,#1000                                        
+        LDIR                                                    
+        EXX                                                     
+        XOR     A                                               
+        OUT     (C),A                                           
+        .ENDIF                                                  
+                                                                
+        LD      HL,#5D4B
+LD      DE,#BE00                                        
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+                                                                
+        LD      HL,(#5CFЧ)      ;TRK/SEC                        
+        LD      A,(#5D16)                                       
+        AND     3                                               
+        OR      #2C                                             
+        LD      E,A                                             
+        EXX                                                     
+                                                                
+        LD      HL,KER_BEG                                      
+        LD      DE,KER_ADR                                      
+        LD      ВС,KER_LEN                                      
+        LDIR                                                    
+        LD      DE,END_KERNEL_CODE+SP_LEN                       
+        LD      ВС,SCR_ТАВ-(END_KERNEL_CODE+SP_LEN)             
+        CALL    .NLDIR                                          
+                                                                
+;INITIALIZE                                                     
+        LD      (SP_EXIT),SP
+LD      SP,END_KERNEL_CODE+SP_LEN                       
+                                                                
+        EXX                                                     
+        LD      A,E                                             
+        LD      (DRIVE),A                                       
+                                                                
+        .IF     FINAL                                           
+        LD      (TRACK),HL                                      
+                                                                
+        LD      HL,#BE00                                        
+        LD      DE,ULA_FIX                                      
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        .ENDIF                                                  
+                                                                
+        .IF     RELEASE-NO                                      
+        CALL    MUS_INSTALL                                     
+        .ENDIF                                                  
+                                                                
+        CALL    GENCH           ;CHANKS                         
+        LD      HL,SCR_ТАВ
+LD      DE,#4000                                        
+        CALL    GEN_SCRT                                        
+        LD      DE,#C000                                        
+        CALL    GEN_SCRT                                        
+                                                                
+        LD      HL,#8000                                        
+        CALL    .INSTIM2                                        
+        RET                                                     
+                                                                
+GEN_SCRT                                                        
+        LD      В,48                                            
+GSCT2                                                           
+        LD      (HL),E                                          
+        INC     L                                               
+        LD      (HL),D                                          
+        INC     L                                               
+                                                                
+        LD      A,D                                             
+        ADD     A,4                                             
+        LD      D,A                                             
+        AND     7                                               
+        JR      NZ,GSCT3                                        
+        LD      A,E
+ADD     A,#20                                           
+        LD      E,A                                             
+        JR      C,GSCT3                                         
+        LD      A,D                                             
+        SUB     8                                               
+        LD      D,A                                             
+GSCT3                                                           
+        DJNZ    GSCT2                                           
+        RET                                                     
+                                                                
+;------ G E N  C2P --------------------                         
+GENCH                                                           
+        .IF     GENCHANX                                        
+                                                                
+        LD      A,#17                                           
+        CALL    .BANK                                           
+                                                                
+        LD      HL,C2P_OUT                                      
+        LD      НУ,C2P_ТАВ                                      
+        LD      IX,CHNXI                                        
+        LD      ВС,#1010                                        
+.IC2P1                                                          
+        PUSH    ВС
+LD      DE,CHNXI                                        
+        LD      В,C                                             
+        LD      LY,C2P_ТАВ                                      
+        LD      L,0                                             
+.IC2P2                                                          
+        LD      (IY),L                                          
+        INC     LY                                              
+                                                                
+        LD      (HL),#60        ;Н,В                            
+        INC     L                                               
+        LD      (HL),#69        ;L,C                            
+        INC     L                                               
+                                                                
+        LD      (HL),#36        ;(HL),N                         
+        INC     L                                               
+        LD      A,(DE)                                          
+        AND     #F0                                             
+        LD      C,A                                             
+        LD      A,(IX+0)                                        
+        AND     #F                                              
+        OR      C                                               
+        LD      (HL),A                                          
+        INC     L
+LD      (HL),#24        ;INC Н                          
+        INC     L                                               
+        INC     DE                                              
+                                                                
+        LD      (HL),#36        ;(HL),N                         
+        INC     L                                               
+        LD      A,(DE)                                          
+        AND     #F0                                             
+        LD      C,A                                             
+        LD      A,(IX+1)                                        
+        AND     #F                                              
+        OR      C                                               
+        LD      (HL),A                                          
+        INC     L                                               
+        LD      (HL),#24        ;INC Н                          
+        INC     L                                               
+        INC     DE                                              
+                                                                
+        LD      (HL),#36        ;(HL),N                         
+        INC     L                                               
+        LD      A,(DE)                                          
+        AND     #F0                                             
+        LD      C,A
+LD      A,(IX+2)                                        
+        AND     #F                                              
+        OR      C                                               
+        LD      (HL),A                                          
+        INC     L                                               
+        LD      (HL),#24        ;INC Н                          
+        INC     L                                               
+        INC     DE                                              
+                                                                
+        LD      (HL),#36        ;(HL),N                         
+        INC     L                                               
+        LD      A,(DE)                                          
+        AND     #F0                                             
+        LD      C,A                                             
+        LD      A,(IX+3)                                        
+        AND     #F                                              
+        OR      C                                               
+        LD      (HL),A                                          
+        INC     L                                               
+        LD      (HL),#DD        ;JP (IX)                        
+        INC     L                                               
+        LD      (HL),#E9                                        
+        INC     L
+INC     DE                                              
+        DJNZ    .IC2P2                                          
+                                                                
+        INC     Н                                               
+        INC     НУ                                              
+        LD      C,4                                             
+        ADD     IX,ВС                                           
+        POP     ВС                                              
+        DJNZ    .IC2P1                                          
+        RET                                                     
+                                                                
+CHNXI                                                           
+ DEFB #00,#00,#00,#00,   #88,#00,#22,#00                        
+ DEFB #AA,#00,#22,#00,   #AA,#00,#AA,#00                        
+ DEFB #AA,#44,#AA,#00,   #AA,#44,#AA,#11                        
+ DEFB #AA,#55,#AA,#11,   #AA,#55,#AA,#55                        
+ DEFB #EE,#55,#AA,#55,   #EE,#55,#ВВ,#55                        
+ DEFB #FF,#55,#ВВ,#55,   #FF,#55,#FF,#55                        
+ DEFB #FF,#DD,#FF,#55,   #FF,#DD,#FF,#77                        
+ DEFB #FF,#FF,#FF,#77,   #FF,#FF,#FF,#FF                        
+                                                                
+        .ENDIF
+;------ K E R N E L  В E G I N -------                          
+                                                                
+                                                                
+KER_BEG                                                         
+        .PHASE  KER_ADR                                         
+                                                                
+;JUMPERS                                                        
+                                                                
+INTJP   JP      .IMER                                           
+BANK    JP      .BANK                                           
+SWAPSCR JP      .SWAPSCR                                        
+MOVE    JP      .MOVE                                           
+DEHRUST JP      .DEHRUST                                        
+INITIM2 JP      .INITIM2                                        
+IC2PMSK JP      .INITC2P                                        
+C2PNMSK JP      .BEG_C2P_NOMASK                                 
+NLDIR   JP      .NLDIR                                          
+                                                                
+;FOR TESTING:                                                   
+KDEHR   JP      .KDEHR                                          
+KMOVE   JP      .KMOVE                                          
+PLAYER  JP      .PLAYER                                         
+FIX     JP      .FIX
+SETBANK JP      .SETBANK                                        
+SETSCR0 JP      .SETSCR0                                        
+PUTSCR  JP      .PUTSCR                                         
+CLR     JP      .CLR                                            
+CLRINV  JP      .CLRINV                                         
+CLRO    JP      .CLRO                                           
+NHALT   JP      .NHALT                                          
+EXIT    JP      .EXIT                                           
+                                                                
+;VARIABLES                                                      
+                                                                
+PAGE    DEFB    0                                               
+EKRAN   DEFB    8                                               
+INTSP   DEFW    0                                               
+INTRET  DEFW    0                                               
+COUNTER DEFW    0                                               
+USER    DEFW    0                                               
+PLAY    DEFW    0                                               
+MUSPLAY DEFW    MUS_P                                           
+MUSBANK DEFB    MUS_В                                           
+ULA_FIX DEFW    0                                               
+TURBO   DEFB    0
+LDTYPE  DEFB    0               ;0 - MULTI, 1 - #3D13           
+DRIVE   DEFB    #2C                                             
+TRACK   DEFW    #0100                                           
+                                                                
+;------- R O U Т I N E S ------                                 
+.IMER                                                           
+        EX      (SP),HL                                         
+        LD      (.INT_RET),HL                                   
+        LD      (INTRET),HL                                     
+        POP     HL                                              
+        LD      (INTSP),SP                                      
+        LD      SP,INTJP                                        
+        PUSH    HL                                              
+                                                                
+        PUSH    IX                                              
+        PUSH    IY                                              
+        PUSH    DE                                              
+        PUSH    ВС                                              
+        PUSH    AF                                              
+        EX      AF,AF`                                          
+        EXX                                                     
+        PUSH    HL                                              
+        PUSH    DE
+PUSH    ВС                                              
+        PUSH    AF                                              
+        LD      HL,(COUNTER)                                    
+        INC     HL                                              
+        LD      (COUNTER),HL                                    
+        LD      A,(PAGE)                                        
+        PUSH    AF                                              
+        CALL    .PLAYMUS                                        
+        LD      HL,_EXUSER                                      
+        PUSH    HL                                              
+        LD      HL,(USER)                                       
+        LD      A,Н                                             
+        OR      L                                               
+        RET     Z                                               
+        JP      (HL)                                            
+_EXUSER                                                         
+        POP     AF                                              
+        CALL    .BANK                                           
+        POP     AF                                              
+        POP     ВС                                              
+        POP     DE                                              
+        POP     HL                                              
+        EX      AF,AF`
+EXX                                                     
+        POP     AF                                              
+        POP     ВС                                              
+        POP     DE                                              
+        POP     IY                                              
+        POP     IX                                              
+        POP     HL                                              
+                                                                
+        LD      SP,(INTSP)                                      
+        EI                                                      
+.INT_RET EQU     $+1                                            
+        JP      #CЗCЗ                                           
+                                                                
+;---------------------------------                              
+.SWAPSCR                                                        
+        LD      A,(EKRAN)                                       
+        XOR     8                                               
+        LD      (EKRAN),A                                       
+        RET                                                     
+.PLAYMUS                                                        
+        LD      A,MUS_В                                         
+        CALL    .BANK                                           
+        JP      MUS_P
+.SETBANK                                                        
+        DEC     SP                                              
+        POP     AF                                              
+.BANK                                                           
+        LD      (PAGE),A                                        
+        PUSH    ВС                                              
+        LD      C,A                                             
+        LD      A,(EKRAN)                                       
+        OR      C                                               
+        LD      ВС,#7FFD                                        
+        OUT     (C),A                                           
+        POP     ВС                                              
+        RET                                                     
+.INITIM2                                                        
+        LD      A,I                                             
+        CP      Н                                               
+        RET     Z                                               
+        HALT                                                    
+.INSTIM2                                                        
+        LD      A,Н                                             
+        LD      I,A                                             
+        IM      2                                               
+        LD      D,Н
+LD      E,1                                             
+        LD      (HL),INTJP                                      
+        LD      ВС,#0100                                        
+        JP      .NLDIR                                          
+.MOVE                                                           
+        POP     IX                                              
+        DEC     SP                                              
+        LD      A,(PAGE)                                        
+        EX      AF,AF`                                          
+        POP     AF                                              
+        CALL    .BANK                                           
+        POP     HL                                              
+        POP     ВС                                              
+        CALL    .NLDIR                                          
+        EX      AF,AF`                                          
+        CALL    .BANK                                           
+        JP      (IX)                                            
+                                                                
+.PLAYER  ; eффeцт                                               
+; ин: (сп)2 - фрамeс нумбер то nлаы                             
+;-ин: (сп+2)2 -маин цыцлe адресс оф eффeцт                      
+                                                                
+        LD      A,(PAGE)
+LD      (PLAY_BN),A                                     
+        LD      HL,(PLAY)                                       
+        LD      (.PLAY),HL                                      
+        POP     DE                                              
+        LD      HL,(COUNTER)                                    
+        ADD     HL,DE                                           
+PLAY1                                                           
+        PUSH    HL                                              
+        LD      DE,(COUNTER)                                    
+        AND     A                                               
+        SBC     HL,DE                                           
+        JR      C,PL_EXIT                                       
+                                                                
+.PLAY   EQU     $+1                                             
+        CALL    #CDCD                                           
+                                                                
+        .IF     FINAL-NO                                        
+        CALL    BREAK                                           
+        JR      NC,PL_EXIT                                      
+        .ENDIF                                                  
+        POP     HL                                              
+        JP      PLAY1                                           
+PL_EXIT
+POP     HL                                              
+PLAY_BN EQU     $+1                                             
+        LD      A,#3E                                           
+        JP      .BANK                                           
+                                                                
+.FIX                                                            
+; ин: (сп)2 -фиь                                                
+;                  (абсолутe фром тхе бeгин)                    
+        POP     DE              ;FIX                            
+                                                                
+        .IF     FINAL-NO                                        
+        HALT                                                    
+        PUSH    DE                                              
+                                                                
+        LD      ВС,#7FFD                                        
+        LD      A,(EKRAN)                                       
+        OR      #D0                                             
+        OUT     (C),A                                           
+        LD      В,#DF                                           
+        LD      A,1                                             
+        OUT     (C),A           ;PROFI                          
+                                                                
+        LD      HL,(COUNTER)
+AND     A                                               
+        SBC     HL,DE                                           
+        EX      DE,HL                                           
+                                                                
+_OST    EQU     $+1                                             
+        LD      HL,#C000                                        
+        LD      (HL),E                                          
+        INC     HL                                              
+        LD      (HL),D                                          
+        INC     HL                                              
+        LD      (_OST),HL                                       
+                                                                
+        XOR     A                                               
+        OUT     (C),A           ;PROFI                          
+        POP     DE                                              
+FIX1                                                            
+        HALT                                                    
+        CALL    BREAK                                           
+        RET     NC                                              
+        .ELSE                                                   
+FIX1                                                            
+        .ENDIF
+LD      HL,(COUNTER)                                    
+        AND     A                                               
+        SBC     HL,DE                                           
+        JR      C,FIX1                                          
+        RET                                                     
+                                                                
+;---------------------------------                              
+.EXIT                                                           
+        HALT                                                    
+        IM      1                                               
+        LD      A,63                                            
+        LD      I,A                                             
+        LD      IY,#5CЗA                                        
+        LD      HL,10072                                        
+        EXX                                                     
+        DI                                                      
+        XOR     A                                               
+        LD      (EKRAN),A                                       
+        CALL    MUS_INSTALL                                     
+                                                                
+        LD      A,SYS_BNK                                       
+        CALL    .BANK                                           
+        LD      ВС,#DFFD
+LD      A,1                                             
+        OUT     (C),A           ;PROFI                          
+        LD      HL,SYS_BUF                                      
+        LD      DE,#5C00                                        
+        LD      ВС,#1000                                        
+SP_EXIT EQU     $+1                                             
+        LD      SP,#3131                                        
+        JP      #33C3           ;LDIR RET                       
+;---------------------------------                              
+.DEHRUST                                                        
+        POP     IY      ;RET ADR                                
+        LD      A,(PAGE)                                        
+        EX      AF,AF`                                          
+        DEC     SP                                              
+        POP     AF                                              
+        CALL    .BANK                                           
+        POP     HL                                              
+                                                                
+        LD      (UNP_ADR),DE                                    
+        LD      IX,0-6-6                                        
+        ADD     IX,SP                                           
+        LD      SP,HL                                           
+        POP     ВС              ;HR
+EX      DE,HL                                           
+        POP     ВС              ;PACK LEN                       
+        DEC     ВС                                              
+        ADD     HL,ВС                                           
+        EX      DE,HL                                           
+        POP     ВС                                              
+        DEC     ВС                                              
+        ADD     HL,ВС                                           
+        SBC     HL,DE                                           
+        ADD     HL,DE                                           
+        JR      C,LL8018                                        
+        LD      D,Н                                             
+        LD      E,L                                             
+LL8018                                                          
+        XOR     A                                               
+        SUB     C                                               
+        AND     #7                                              
+        JR      Z,_LDD                                          
+        ADD     A,A                                             
+        LD      ($+3+1),A                                       
+        JR      $                                               
+_LDD                                                            
+        LDD
+LDD                                                     
+        LDD                                                     
+        LDD                                                     
+        LDD                                                     
+        LDD                                                     
+        LDD                                                     
+        LDD                                                     
+        JP      PE,_LDD                                         
+                                                                
+        EX      DE,HL                                           
+UNP_ADR EQU     $+1                                             
+        LD      DE,#1111                                        
+        LD      SP,HL                                           
+        POP     HL                                              
+        POP     HL                                              
+        POP     HL                                              
+        LD      В,6                                             
+LL8027  DEC     SP                                              
+        POP     AF                                              
+        LD      (IX+#06),A                                      
+        INC     IX                                              
+        DJNZ    LL8027                                          
+        EXX
+LD      D,#BF                                           
+        LD      ВС,#1010                                        
+        POP     HL                                              
+LL8037  DEC     SP                                              
+        POP     AF                                              
+        EXX                                                     
+LL803A  LD      (DE),A                                          
+        INC     DE                                              
+LL803C  EXX                                                     
+LL803D  ADD     HL,HL                                           
+        DJNZ    LL8042                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL8042  JR      C,LL8037                                        
+        LD      E,#01                                           
+LL8046  LD      A,#80                                           
+LL8048  ADD     HL,HL                                           
+        DJNZ    LL804D                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL804D  RLA                                                     
+        JR      C,LL8048                                        
+        CP      #03
+JR      C,LL8059                                        
+        ADD     A,E                                             
+        LD      E,A                                             
+        XOR     C                                               
+        JR      NZ,LL8046                                       
+LL8059  ADD     A,E                                             
+        CP      #04                                             
+        JP      Z,LL80В8                                        
+        ADC     A,#FF                                           
+        CP      #02                                             
+        EXX                                                     
+LL8063  LD      C,A                                             
+LL8064  EXX                                                     
+        LD      A,#BF                                           
+        JR      C,LL807D                                        
+LL8069  ADD     HL,HL                                           
+        DJNZ    LL806E                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL806E  RLA                                                     
+        JR      C,LL8069                                        
+        JR      Z,LL8078                                        
+        INC     A
+ADD     A,D                                             
+        JR      NC,LL807F                                       
+        SUB     D                                               
+LL8078  INC     A                                               
+        JR      NZ,LL8087                                       
+        LD      A,#EF                                           
+LL807D  RRCA                                                    
+        CP      A                                               
+LL807F  ADD     HL,HL                                           
+        DJNZ    LL8084                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL8084  RLA                                                     
+        JR      C,LL807F                                        
+LL8087  EXX                                                     
+        LD      Н,#FF                                           
+        JR      Z,LL8092                                        
+        LD      Н,A                                             
+        DEC     SP                                              
+        INC     A                                               
+        JR      Z,LL809D                                        
+        POP     AF                                              
+LL8092  LD      L,A
+ADD     HL,DE                                           
+        LD      A,C                                             
+        CP      10                                              
+        JR      NC,_NLDI                                        
+        LDIR                                                    
+        JP      LL803C                                          
+_NLDI                                                           
+        CALL    .NLDIR                                          
+        JP      LL803C                                          
+                                                                
+LL8098  EXX                                                     
+        RRC     D                                               
+        JP      LL803D                                          
+                                                                
+LL809D  POP     AF                                              
+        CP      #E0                                             
+        JR      C,LL8092                                        
+        RLCA                                                    
+        XOR     C                                               
+        INC     A                                               
+        JR      Z,LL8098                                        
+        SUB     #10                                             
+LL80A9  LD      L,A
+LD      C,A                                             
+        LD      Н,#FF                                           
+        ADD     HL,DE                                           
+        LDI                                                     
+        DEC     SP                                              
+        POP     AF                                              
+        LD      (DE),A                                          
+        INC     HL                                              
+        INC     DE                                              
+        LD      A,(HL)                                          
+        JP      LL803A                                          
+                                                                
+LL80В8  LD      A,#80                                           
+LL80BA  ADD     HL,HL                                           
+        DJNZ    LL80BF                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL80BF  ADC     A,A                                             
+        JR      NZ,LL80DB                                       
+        JR      C,LL80BA                                        
+        LD      A,#FC                                           
+        JP      LL8ODE
+LL80C8  DEC     SP                                              
+        POP     ВС                                              
+        LD      C,В                                             
+        LD      В,A                                             
+        CCF                                                     
+        JP      LL8064                                          
+                                                                
+LL8OCF  CP      #0F                                             
+        JR      C,LL80C8                                        
+        JP      NZ,LL8063                                       
+        ADD     A,#F4                                           
+        LD      SP,IX                                           
+        JP      LL8OEF                                          
+                                                                
+LL80DB  SBC     A,A                                             
+        LD      A,#EF                                           
+LL8ODE  ADD     HL,HL                                           
+        DJNZ    LL80E3                                          
+        POP     HL                                              
+        LD      В,C                                             
+LL80E3  RLA                                                     
+        JR      C,LL8ODE                                        
+        EXX
+JR      NZ,LL80A9                                       
+        BIT     7,A                                             
+        JR      Z,LL8OCF                                        
+        SUB     #EA                                             
+                                                                
+LL8OEF  EX      DE,HL                                           
+LL80F0  POP     DE                                              
+        LD      (HL),E                                          
+        INC     HL                                              
+        LD      (HL),D                                          
+        INC     HL                                              
+        DEC     A                                               
+        JP      NZ,LL80F0                                       
+        EX      DE,HL                                           
+        JP      NC,LL803C                                       
+        EX      AF,AF`                                          
+        CALL    .BANK                                           
+        JP      (IY)                                            
+                                                                
+                                                                
+;---------------------------------                              
+                                                                
+;GENER MASK FOR C2P
+;INPUT FOR INSTALL                                              
+; DE - OUTPUT ROUTINE ADRESS                                    
+; HL - OUTPUT ADRESS ON SCREEN                                  
+; ВС - OUTPUT WINDOW SIZE (CHANX PIXELS)                        
+; A=1 - ONE SCR NO ТАВ, A=0 2 SCRS, SCR ТАВ                     
+                                                                
+;INPUT FOR C2P                                                  
+;HL`- C2P BUF, DE`-SCR ADRESSES ТАВ                             
+                                                                
+                                                                
+.INITC2P                                                        
+        EX      AF,AF`                                          
+        LD      A,(PAGE)                                        
+        PUSH    AF                                              
+        LD      A,#17                                           
+        CALL    .BANK                                           
+        EX      AF,AF`                                          
+                                                                
+        LD      (OUTP_ADR),HL                                   
+        PUSH    HL                                              
+        EX      DE,HL                                           
+        LD      (HL),#C3
+INC     HL                                              
+        LD      DE,BEG_C2P_MASK                                 
+        LD      (HL),E                                          
+        INC     HL                                              
+        LD      (HL),D                                          
+        INC     HL                                              
+        LD      (MASKC2P),HL                                    
+        PUSH    HL                                              
+                                                                
+        OR      A                                               
+        LD      HL,TWO_SCR                                      
+        JR      Z,$+5                                           
+        LD      HL,ONE_SCR                                      
+        LD      (METHOD),HL                                     
+                                ;DE=START                       
+        LD      НХ,В                                            
+        LD      A,C                                             
+        SRL     A                                               
+        LD      (_XLEN1),A                                      
+        LD      (_XLEN2),A                                      
+                                                                
+        LD      HL,SPRITE                                       
+        LD      DE,#C000
+LD      ВС,#1В00                                        
+        CALL    .NLDIR                                          
+                                                                
+        POP     DE              ;OUTPUT ROUTINE                 
+        POP     HL              ;---//--- ADRESS                
+                                                                
+        LD      A,#55                                           
+        BIT     2,Н             ;CHET/NECHET 40/44              
+        JR      Z,$+3                                           
+        RLCA                                                    
+        LD      (_FLG),A                                        
+                                                                
+        RES     7,Н                                             
+        LD      ВС,MASK-#4000                                   
+        ADD     HL,ВС                                           
+        LD      НУ,0                                            
+        EXX                     ;BUFER FOR MASK                 
+        LD      HL,C2P_OUT-1                                    
+;       LD      HL,#бFFF                                        
+        EXX                                                     
+                                                                
+NEXT_LINE
+EX      DE,HL                                           
+METHOD  EQU     $+1                                             
+        CALL    0                                               
+        EX      DE,HL                                           
+                                                                
+_XLEN1  EQU     $+1                                             
+        LD      В,6                                             
+CONT                                                            
+        LD      C,Н                                             
+        LD      A,(HL)                                          
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н                                               
+        OR      (HL)                                            
+        JP      Z,GEN_CHK                                       
+        LD      A,(HL)                                          
+        DEC     Н                                               
+        AND     (HL)                                            
+        DEC     Н                                               
+        AND     (HL)                                            
+        DEC     Н
+AND     (HL)                                            
+        INC     A                                               
+        JP      Z,GEN_PIX                                       
+                                                                
+;GEN MASK                                                       
+        LD      LX,В                                            
+        LD      Н,C                                             
+        PUSH    HL                                              
+GM1                                                             
+                                                                
+        INC     L                                               
+        DEC     В                                               
+        JR      Z,GM2                                           
+                                                                
+        LD      A,(HL)                                          
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н                                               
+        OR      (HL)                                            
+        JR      Z,GM2                                           
+        LD      A,(HL)
+DEC     Н                                               
+        AND     (HL)                                            
+        DEC     Н                                               
+        AND     (HL)                                            
+        DEC     Н                                               
+        AND     (HL)                                            
+        INC     A                                               
+        JR      NZ,GM1                                          
+GM2                                                             
+        LD      Н,C                                             
+        EX      (SP),HL                                         
+        EX      DE,HL                                           
+        LD      A,LX                                            
+        SUB     В                                               
+        LD      LX,A                                            
+        PUSH    ВС                                              
+                                                                
+        LD      (HL),#3E        ;LD LX,PUTMASK                  
+        INC     HL                                              
+        LD      (HL),A                                          
+        INC     HL                                              
+        LD      A,6             ;LD LY,0:JP 0                   
+        CALL    SET_IY_
+DEC     HL                                              
+        LD      (HL),#C3        ;JP                             
+        INC     HL                                              
+        LD      (HL),PUTMASK                                    
+        INC     HL                                              
+        LD      (HL),PUTMASK/256                                
+        INC     HL                                              
+                                                                
+        EX      DE,HL                                           
+GMЗ                             ;MASK                           
+        LD      A,(HL)                                          
+        CPL                                                     
+        LD      C,A                                             
+        INC     Н                                               
+        LD      A,(HL)                                          
+        CPL                                                     
+        LD      В,A                                             
+        INC     Н                                               
+        PUSH    ВС                                              
+        LD      A,(HL)                                          
+        CPL                                                     
+        LD      C,A                                             
+        INC     Н
+LD      A,(HL)                                          
+        CPL                                                     
+        LD      В,A                                             
+        PUSH    ВС                                              
+                                                                
+        LD      A,Н                                             
+        ADD     A,0-#1В-3                                       
+        LD      Н,A                                             
+                                                                
+        LD      C,(HL)                                          
+        INC     Н                                               
+        LD      В,(HL)                                          
+        INC     Н                                               
+        PUSH    ВС                                              
+        LD      A,(HL)                                          
+        LD      (_MPIX1),A                                      
+        INC     Н                                               
+        LD      A,(HL)                                          
+        LD      (_MPIX2),A                                      
+                                                                
+        LD      A,Н                                             
+        ADD     A,#1В-3                                         
+        LD      Н,A
+EXX                                                     
+        POP     DE      ;PIX                                    
+        POP     ВС      ;MASK                                   
+        LD      (HL),В                                          
+        DEC     L                                               
+_MPIX2  EQU     $+1                                             
+        LD      (HL),0                                          
+        DEC     L                                               
+        LD      (HL),C                                          
+        DEC     L                                               
+_MPIX1  EQU     $+1                                             
+        LD      (HL),0                                          
+        DEC     L                                               
+        POP     ВС      ;MASK                                   
+        LD      (HL),В                                          
+        DEC     L                                               
+        LD      (HL),D                                          
+        DEC     L                                               
+        LD      (HL),C                                          
+        DEC     L                                               
+        LD      (HL),E                                          
+        DEC     HL
+EXX                                                     
+        INC     L                                               
+        DEC     LX                                              
+        JR      NZ,GMЗ                                          
+        POP     ВС                                              
+        POP     HL                                              
+        EX      DE,HL                                           
+        JP      NEXT                                            
+                                                                
+GEN_PIX                                                         
+        LD      LX,В                                            
+GP1                                                             
+        LD      Н,C                                             
+                                                                
+        INC     L                                               
+        DEC     В                                               
+        JR      Z,GP2                                           
+                                                                
+        LD      A,(HL)                                          
+        INC     Н                                               
+        AND     (HL)                                            
+        INC     Н                                               
+        AND     (HL)
+INC     Н                                               
+        AND     (HL)                                            
+        INC     A                                               
+        JP      Z,GP1                                           
+GP2                                                             
+        LD      Н,C                                             
+        EX      DE,HL                                           
+        LD      C,#E1           ;POP HL                         
+        LD      A,LX                                            
+        SUB     В                                               
+        LD      LX,A                                            
+        CP      3                                               
+        JR      NC,GPЗ2                                         
+GPЗ1                                                            
+        LD      (HL),C                                          
+        INC     HL                                              
+        DEC     A                                               
+        JP      NZ,GPЗ1                                         
+        JR      GPЗЗ                                            
+GPЗ2                                                            
+        LD      (HL),#21        ;LD HL,NN       10              
+        INC     HL                                              
+        ADD     A,A
+LD      (HL),A                                          
+        INC     HL                                              
+        LD      (HL),0                                          
+        INC     HL                                              
+        LD      (HL),#39        ;ADD HL,SP      11              
+        INC     HL                                              
+        LD      (HL),#F9        ;LD SP,HL       6               
+        INC     HL                                              
+GPЗЗ                                                            
+        LD      A,LX                                            
+        CP      5                                               
+        JR      NC,GPS                                          
+        LD      C,#0C                                           
+GPЧ                                                             
+        LD      (HL),C          ;INC C                          
+        INC     HL                                              
+        DEC     A                                               
+        JP      NZ,GPЧ                                          
+        JP      NEXT                                            
+GPS                                                             
+        LD      (HL),#79        ;LD A,C                         
+        INC     HL                                              
+        LD      (HL),#C6        ;ADD A,0
+INC     HL                                              
+        LD      (HL),A                                          
+        INC     HL                                              
+        LD      (HL),#4F        ;LD C,A                         
+        INC     HL                                              
+        JP      NEXT                                            
+                                                                
+                                                                
+GEN_CHK                                                         
+        LD      LX,В                                            
+GC1                                                             
+        LD      Н,C                                             
+                                                                
+        INC     L                                               
+        DEC     В                                               
+        JR      Z,GC2                                           
+                                                                
+        LD      A,(HL)                                          
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н                                               
+        OR      (HL)                                            
+        INC     Н
+OR      (HL)                                            
+        JP      Z,GC1                                           
+GC2                                                             
+        LD      Н,C                                             
+        EX      DE,HL                                           
+        LD      A,LX                                            
+        SUB     В                                               
+;       LD      (HL),#AF        ;XOR A                          
+;       JR      Z,GCЗ                                           
+        LD      (HL),#3E        ;LD A,0                         
+        INC     HL                                              
+        LD      (HL),A                                          
+GCЗ                                                             
+        INC     HL                                              
+                                                                
+        LD      (HL),#E1        ;POP HL                         
+        INC     HL                                              
+        LD      (HL),#6E        ;L,(HL)                         
+        INC     HL                                              
+        CALL    SET_IY                                          
+                                                                
+NEXT                                                            
+        EX      DE,HL
+XOR     A                                               
+        CP      В                                               
+        JP      NZ,CONT                                         
+                                                                
+        LD      A,D                                             
+        CP      #E2                                             
+        JP      NZ,_NBUG                                        
+                                                                
+        EX      DE,HL                                           
+        LD      ВС,#6В80                                        
+        LD      (HL),#C3                                        
+        INC     HL                                              
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),В                                          
+        INC     HL                                              
+        EX      DE,HL                                           
+        LD      D,В                                             
+        LD      E,C                                             
+_NBUG                                                           
+                                                                
+        LD      A,L                                             
+_XLEN2  EQU     $+1
+SUB     0                                               
+        LD      L,A                                             
+                                                                
+        LD      A,Н                                             
+        ADD     A,4                                             
+        LD      Н,A                                             
+_FLG    EQU     $+1                                             
+        LD      A,#3E                                           
+        RLCA                                                    
+        LD      (_FLG),A                                        
+        JR      NC,...1                                         
+        LD      A,L                                             
+        ADD     A,#20                                           
+        LD      L,A                                             
+        JR      C,...1                                          
+        LD      A,Н                                             
+        SUB     8                                               
+        LD      Н,A                                             
+...1                                                            
+        DEC     НХ                                              
+        JP      NZ,NEXT_LINE                                    
+        EX      DE,HL                                           
+        LD      (HL),#C3        ;JP END
+INC     HL                                              
+        LD      ВС,END_C2P                                      
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),В                                          
+                                                                
+        POP     AF                                              
+        JP      .BANK                                           
+;---------                                                      
+                                                                
+SET_IY                                                          
+        LD      A,4             ;LY,0:JP (HL)                   
+SET_IY_                                                         
+        ADD     A,L                                             
+        LD      C,A                                             
+        ADC     A,Н                                             
+        SUB     C                                               
+                                                                
+        LD      (HL),#FD        ;LD IY,0                        
+        INC     HL                                              
+                                                                
+        CP      НУ                                              
+        JR      NZ,S_IY
+LD      (HL),#2E        ;LY,0                           
+        INC     HL                                              
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),#E9        ;JP (HL)                        
+        INC     HL                                              
+        RET                                                     
+S_IY                                                            
+        LD      НУ,A                                            
+        INC     C                                               
+        LD      (HL),#21        ;IY,0                           
+        INC     HL                                              
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),A                                          
+        INC     HL                                              
+        LD      (HL),#E9        ;JP (HL)                        
+        INC     HL                                              
+        RET                                                     
+                                                                
+ONE_SCR
+OUTP_ADR EQU    $+1                                             
+        LD      ВС,#0101                                        
+        LD      (HL),#01        ;LD ВС,0                        
+        INC     HL                                              
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),В                                          
+        INC     HL                                              
+        LD      (HL),#D9        ;EXX                            
+        INC     HL                                              
+        LD      (HL),#F9        ;LD SP,HL                       
+        INC     HL                                              
+        LD      (HL),#09        ;ADD HL,ВС                      
+;       LD      (HL),#24        ;INC Н                          
+        INC     HL                                              
+        LD      (HL),#D9        ;EXX                            
+        INC     HL                                              
+                                                                
+        LD      A,В                                             
+        ADD     A,4                                             
+        LD      В,A                                             
+        AND     7                                               
+        JR      NZ,...N
+LD      A,C                                             
+        ADD     A,#20                                           
+        LD      C,A                                             
+        JR      C,...N                                          
+        LD      A,В                                             
+        SUB     8                                               
+        LD      В,A                                             
+...N                                                            
+        LD      (OUTP_ADR),ВС                                   
+        RET                                                     
+                                                                
+TWO_SCR                                                         
+        LD      A,6             ;HL,0:JP 0                      
+        ADD     A,L                                             
+        LD      C,A                                             
+        ADC     A,Н                                             
+        SUB     C                                               
+        LD      (HL),#21        ;HL,0                           
+        INC     HL                                              
+        LD      (HL),C                                          
+        INC     HL                                              
+        LD      (HL),A                                          
+        INC     HL
+LD      (HL),#C3        ;JP                             
+        INC     HL                                              
+        LD      (HL),GETSCR                                     
+        INC     HL                                              
+        LD      (HL),GETSCR/256                                 
+        INC     HL                                              
+        RET                                                     
+                                                                
+;------------------------------------                           
+;PIX CHK P+C                                                    
+                                                                
+;NPIX P+C NCHK P+C                                              
+;NCHK P+C NPIX P+C                                              
+                                                                
+;OUTPUT MODULES                                                 
+                                                                
+BEG_C2P_MASK                                                    
+        LD      IX,REG_IX                                       
+        LD      DE,C2P_OUT-1                                    
+        LD      (SV_SP_C2P),SP                                  
+MASKC2P EQU     $+1                                             
+        JP      #CЗCЗ
+.BEG_C2P_NOMASK                                                 
+        LD      LY,A                                            
+        LD      IX,REG_IX2                                      
+        LD      (SV_SP_C2P),SP                                  
+                                                                
+        EXX                                                     
+        PUSH    ВС                                              
+        EXX                                                     
+        POP     DE                                              
+_NM1                                                            
+        EXX                                                     
+        LD      A,(DE)                                          
+        EX      AF,AF`                                          
+        INC     E                                               
+        LD      A,(DE)                                          
+        INC     E                                               
+        LD      SP,HL                                           
+        ADD     HL,ВС                                           
+;       INC     Н                                               
+        EXX                                                     
+        LD      В,A                                             
+        EX      AF,AF`                                          
+        LD      C,A
+LD      Н,D                                             
+        LD      L,E                                             
+        ADD     HL,SP           ;DE=ВС`                         
+        LD      A,(HL)                                          
+        LD      (REG_HL),A                                      
+        LD      (HL),_NM2                                       
+        INC     HL                                              
+        LD      A,(HL)                                          
+        LD      (REG_HL+1),A                                    
+        LD      (HL),_NM2/256                                   
+        POP     HL                                              
+        LD      L,(HL)                                          
+        JP      (HL)                                            
+                                                                
+;FOR EXCEPT BUGZ!!!                                             
+        .IF     $&#FF-#FF                                       
+        DEFB    0                                               
+        .ENDIF                                                  
+_NM2                                                            
+        DEFB    $+1                                             
+REG_HL  EQU     $+1                                             
+        LD      HL,#2121
+PUSH    HL                                              
+        DEC     LY                                              
+        JP      NZ,_NM1                                         
+                                                                
+END_C2P                                                         
+SV_SP_C2P EQU   $+1                                             
+        LD      SP,#3131                                        
+        RET                                                     
+REG_IX2                                                         
+        INC     C                                               
+        POP     HL                                              
+        LD      L,(HL)                                          
+        JP      (HL)                                            
+                                                                
+;---------WITH MASK---------                                    
+EXI_LIN2                                                        
+        JP      (IY)                                            
+REG_IX                                                          
+        INC     C                                               
+        DEC     A                                               
+        JR      Z,EXI_LIN2                                      
+        POP     HL                                              
+        LD      L,(HL)
+JP      (HL)                                            
+PUTMASK                         ;HL SCREEN, DE MASK             
+        LD      IX,PUTM2                                        
+PUTM1                                                           
+        EX      AF,AF`                                          
+        POP     HL                                              
+        LD      L,(HL)                                          
+        JP      (HL)                                            
+PUTM2                                                           
+        INC     C                                               
+        EX      DE,HL                                           
+        LD      A,(DE)                                          
+        AND     (HL)                                            
+        DEC     L                                               
+        OR      (HL)                                            
+        DEC     L                                               
+        LD      (DE),A                                          
+        DEC     D                                               
+        LD      A,(DE)                                          
+        AND     (HL)                                            
+        DEC     L                                               
+        OR      (HL)                                            
+        DEC     L
+LD      (DE),A                                          
+        DEC     D                                               
+        LD      A,(DE)                                          
+        AND     (HL)                                            
+        DEC     L                                               
+        OR      (HL)                                            
+        DEC     L                                               
+        LD      (DE),A                                          
+        DEC     D                                               
+        LD      A,(DE)                                          
+        AND     (HL)                                            
+        DEC     L                                               
+        OR      (HL)                                            
+        DEC     HL                                              
+        LD      (DE),A                                          
+        EX      DE,HL                                           
+        EX      AF,AF`                                          
+        DEC     A                                               
+        JP      NZ,PUTM1                                        
+                                                                
+        LD      IX,REG_IX                                       
+        JP      (IY)                                            
+GETSCR
+EXX                                                     
+        LD      A,(DE)                                          
+        EX      AF,AF`                                          
+        INC     E                                               
+        LD      A,(DE)                                          
+        INC     E                                               
+        LD      SP,HL                                           
+        ADD     HL,ВС                                           
+;       INC     Н                                               
+        EXX                                                     
+        LD      В,A                                             
+        EX      AF,AF`                                          
+        LD      C,A                                             
+        JP      (HL)                                            
+                                                                
+; CODE GENER                                                    
+                                                                
+;       LD      A,0                                             
+;       LD      IY,LL                                           
+;       POP     HL                                              
+;       LD      L,(HL)                                          
+;       JP      (HL)
+;       POP     HL                                              
+;       INC     C                                               
+                                                                
+;---------------------------------                              
+MUS_INSTALL                                                     
+        LD      A,MUS_В                                         
+        CALL    .BANK                                           
+        CALL    MUS_I                                           
+        DI                                                      
+        RET                                                     
+                                                                
+.CLRO                                                           
+;       LD      A,8                                             
+;       LD      (EKRAN),A                                       
+        DEC     SP                                              
+        POP     AF                                              
+        JR      .CLRINV                                         
+                                                                
+.CLR                                                            
+        DEC     SP                                              
+        POP     AF                                              
+        LD      LX,A                                            
+        CALL    .CLRINV
+CALL    .SWAPSCR                                        
+        HALT                    ;CHANGE                         
+        LD      A,LX                                            
+.CLRINV                         ;CLEAR INVIS. SCR               
+        LD      (_COL),A                                        
+        LD      A,(PAGE)                                        
+        EX      AF,AF`                                          
+        LD      A,#17                                           
+        CALL    .BANK                                           
+        LD      A,(EKRAN)                                       
+        ADD     A,A                                             
+        ADD     A,A                                             
+        ADD     A,A                                             
+        ADD     A,A                                             
+        XOR     #C0     ;8->40,0->C0                            
+        LD      Н,A                                             
+        LD      D,Н                                             
+        LD      E,1                                             
+        LD      ВС,#1800                                        
+        LD      L,C                                             
+        LD      (HL),C                                          
+        CALL    .NLDIR                                          
+_COL    EQU     $+1
+LD      (HL),#36                                        
+        LD      ВС,#02FF                                        
+        CALL    .NLDIR                                          
+        EX      AF,AF`                                          
+        JP      .BANK                                           
+                                                                
+.SETSCR0                                                        
+        LD      A,(PAGE)                                        
+        EX      AF,AF`                                          
+        LD      A,#17                                           
+        CALL    .BANK                                           
+        CALL    .SWAPSCR        ;2                              
+        LD      HL,#C000                                        
+        LD      DE,#4000                                        
+        LD      ВС,#1В00                                        
+        HALT                                                    
+        CALL    .NLDIR                                          
+        EX      AF,AF`                                          
+        JP      .BANK                                           
+                                                                
+.KDEHR                                                          
+        POP     DE                                              
+        CALL    .DEHRUST
+RET                                                     
+.KMOVE                                                          
+        POP     DE                                              
+        CALL    .MOVE                                           
+        RET                                                     
+.PUTSCR                                                         
+        XOR     A                                               
+        LD      (EKRAN),A                                       
+        LD      HL,#8000                                        
+        CALL    .INITIM2                                        
+        LD      DE,#8800                                        
+        CALL    .DEHRUST                                        
+        LD      A,#17                                           
+        CALL    .BANK                                           
+        LD      HL,#8800                                        
+        LD      DE,#C000                                        
+        LD      ВС,#1В00                                        
+        CALL    .NLDIR                                          
+        RET                                                     
+                                                                
+.NHALT                                                          
+        DEC     SP                                              
+        POP     ВС
+HALT                                                    
+        DJNZ    $-1                                             
+        RET                                                     
+                                                                
+                                                                
+.NLDIR                                                          
+        XOR     A                                               
+        SUB     C                                               
+        AND     #3F                                             
+        JR      Z,_LDI                                          
+        ADD     A,A                                             
+        LD      ($+3+1),A                                       
+        JR      $                                               
+_LDI                                                            
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI
+LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+                                                                
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI
+LDI                                                     
+                                                                
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+                                                                
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI
+LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+        LDI                                                     
+                                                                
+        JP      PE,_LDI                                         
+        RET                                                     
+                                                                
+        DISP    END_KERNEL_CODE                                 
+        .UNPHASE                                                
+KER_LEN EQU     $-KER_BEG                                       
+                                                                
+;--------------------------------------------                   
+;            F I N A L   M O D U L E                            
+;--------------------------------------------
+.IF     FINAL                                           
+        DEFW    KDEHR,#C000                                     
+        DEFB    Uб_цод                                          
+        DEFW    #C000                                           
+        DEFW    KDEHR,#C000                                     
+        DEFB    CODE2D_BANK                                     
+        DEFW    #C000                                           
+        .ENDIF                                                  
+                                                                
+        .IF     RELEASE                                         
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    CODE2D_BANK                                     
+        DEFW    #C000           ;INST                           
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    Uб_цод                                          
+        DEFW    #C000;INST                                      
+                                                                
+        DEFW    KDEHR,#C000                                     
+        DEFB    #16                                             
+        DEFW    #E000,MUS_INSTALL
+DEFW    #0051           ;EI                             
+                                                                
+ ;      .IF     0                                               
+                                                                
+;---3D 1 ------------------------------------                   
+                                                                
+        DEFW    .CLRO                                           
+        DEFB    0                                               
+        DEFW    .SETBANK                                        
+        DEFB    Uб_цод                                          
+        DEFW    #C003;INST PART1                                
+;EFFECT DATA                                                    
+        DEFB    #16                                             
+        DEFW    #EFE9;#1000;SPRITE                              
+                                                                
+        DEFW    .FIX,FST                                        
+        DEFW    .PLAYER,FUL-92      ;PART1                      
+                                                                
+        DEFW    .CLR                                            
+        DEFB    #47                                             
+                                                                
+        DEFW    #C006;UNINSTAL
+;---2D 1 ------------------------------------                   
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    CODE2D_BANK                                     
+        DEFW    #C003           ;INST PART1                     
+;EFFECT DATA                                                    
+        DEFB    #14                                             
+        DEFW    #CB02           ;SPRITE                         
+        DEFB    #13                                             
+        DEFW    #C7В4,#2000     ;TUNTAB                         
+        DEFB    #13                                             
+        DEFW    #C002           ;TUNTX                          
+        DEFW    .FIX,FST+FUL,.SETSCR0                           
+        DEFW    .PLAYER,FUL/4-5    ;PART11                      
+        DEFW    #C006                                           
+        DEFB    #45       ;P12 COLOR                            
+        DEFW    .PLAYER,FUL/4*3-58   ;PART12                    
+                                                                
+        DEFW    .CLR                                            
+        DEFB    0                                               
+                                                                
+        DEFW    #C009           ;UNINSTALL
+;---3D 2-------------------------------------                   
+                                                                
+PHONG   EQU     #E200           ;BANK 14                        
+;UNPACK PHONG                                                   
+        DEFW    .KDEHR,PHONG                                    
+        DEFB    #16                                             
+        DEFW    #EDOD                                           
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    Uб_цод                                          
+        DEFW    #C009;INST PART1                                
+;EFFECT DATA                                                    
+        DEFB    #14                                             
+        DEFW    #DDE8;#1000  ;BACKGR                            
+        DEFB    #16                                             
+        DEFW    PHONG,#1000  ;PHONG                             
+                                                                
+        DEFW    .FIX,FST+(FUL*2)                                
+        DEFW    .PLAYER,FUL-74                                  
+                                                                
+        DEFW    .CLR                                            
+        DEFB    0
+DEFW    #COOC;UNINSTAL                                  
+                                                                
+;---2D 2 ------------------------------------                   
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    CODE2D_BANK                                     
+        DEFW    #COOC           ;INST PART2                     
+;EFFECT DATA                                                    
+        DEFB    #13                                             
+        DEFW    #F516           ;SPRITE                         
+        DEFB    #13                                             
+        DEFW    #E1BD,#2000     ;STRTAB                         
+        DEFB    #13                                             
+        DEFW    #C2В6           ;STRTX                          
+                                                                
+        DEFW    .FIX,FST+(FUL*3),.SETSCR0                       
+        DEFW    .PLAYER,FUL/4-5    ;PART21                      
+                                                                
+        DEFW    #COOF                                           
+        DEFB    #47       ;P22 COLOR                            
+        DEFW    .PLAYER,FUL/4*3-60   ;PART22                    
+                                                                
+        DEFW    .CLR
+DEFB    0                                               
+                                                                
+        DEFW    #C012           ;UNINSTALL                      
+                                                                
+;---3D 3 ------------------------------------                   
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    Uб_цод                                          
+        DEFW    #COOF;INST PART1                                
+;EFFECT DATA                                                    
+        DEFB    #16                                             
+        DEFW    #FSF2;#1000;SPRITE                              
+        DEFB    #16                                             
+        DEFW    PHONG,#1000;SPRITE                              
+                                                                
+        DEFW    .FIX,FST+(FUL*4)                                
+        DEFW    .PLAYER,FUL-37                                  
+                                                                
+        DEFW    .CLR                                            
+        DEFB    0                                               
+                                                                
+        DEFW    #C012;UNINSTAL
+;-- LOADER -----------------------------------                  
+                                                                
+;       .ENDIF                                                  
+                                                                
+LOADER  EQU     #6600           ;LOADER                         
+                                                                
+        DEFW    .PUTSCR                                         
+        DEFB    #14                                             
+        DEFW    #EЗCF                                           
+                                                                
+        DEFW    KMOVE,LOADER     ;ТО    MOVE LOADER             
+        DEFB    #14             ;BANK                           
+        DEFW    #C800,#0300     ;FROM                           
+                                                                
+        DEFW    .FIX,FST+(FUL*5)                                
+        DEFW    .SWAPSCR,.NHALT                                 
+        DEFB    1                                               
+                                                                
+                                                                
+;--------------------------                                     
+                                                                
+        DEFW    360             ;FRAMES                         
+        DEFB    7               ;NUMBER OF BLOCKS
+DEFB    #15,#10                                         
+        DEFW    #C000           ;ANIMA                          
+        DEFB    #11,#0E                                         
+        DEFW    #C000           ;ANIMA                          
+        DEFB    #13,#0D                                         
+        DEFW    #C000           ;ANIMA                          
+        DEFB    #14,#0E                                         
+        DEFW    #C000           ;ANIMA                          
+;       DEFW    #0000           ;ANIMA                          
+        DEFB    #10,#0C                                         
+        DEFW    #E000           ;TXTR                           
+        DEFB    #10,#02                                         
+;       DEFB    #10,#03                                         
+        DEFW    #C000           ;CODE                           
+        DEFB    #17,#14                                         
+        DEFW    #DB00           ;PIC                            
+                                                                
+;       DEFW    EXIT                                            
+                                                                
+;MOVE LOADER                                                    
+        DEFW    .KMOVE,#FDOO                                    
+        DEFB    #16                                             
+        DEFW    LOADER,#0300
+;UNPACK BLOBS CODE                                              
+                                                                
+        DEFW    .KDEHR,#C000                                    
+        DEFB    #10                                             
+        DEFW    #C000                                           
+                                                                
+        DEFW    .SETBANK                                        
+        DEFB    #10                                             
+        DEFW    #C000; инит                                     
+                                                                
+        DEFB    #10                                             
+        DEFW    #E000              ;TEXTURE                     
+                                                                
+        DEFB    #10                                             
+        DEFW    #4000                                           
+        DEFB    #11                                             
+        DEFW    #C000                                           
+        DEFB    #13                                             
+        DEFW    #C000                                           
+        DEFB    #14                                             
+        DEFW    #C000
+DEFW    .FIX,FST+(FUL*5)+536-35-5                       
+        DEFW    .CLR                                            
+        DEFB    #46             ;COLOR                          
+        DEFW    .PLAYER,1256            ;ТЕХТ 42*250            
+                                                                
+        DEFW    .CLR                                            
+        DEFB    0               ;COLOR                          
+        DEFW    #6600                   ;UNINST                 
+                                                                
+        DEFW    .PUTSCR                                         
+        DEFB    #17                                             
+        DEFW    #DB00                                           
+                                                                
+        DEFW    .FIX,FST+(FUL*7)                                
+                                                                
+        DEFW    .SWAPSCR                                        
+                                                                
+        DEFW    .FIX,FST+(FUL*8)+300                            
+                                                                
+;       DEFW    EXIT                                            
+                                                                
+;--- O U Т R O ---
+DEFW    .KMOVE,LOADER                                   
+        DEFB    #16                                             
+        DEFW    #FDOO,#0300                                     
+                                                                
+        DEFW    LOADER                                          
+                                                                
+        DEFW    1               ;FRAMES                         
+        DEFB    1               ;NUMBER OF BLOCKS               
+        DEFB    #10,#17         ;PAGE, SEC                      
+        DEFW    #8800                                           
+                                                                
+        DEFW    MUS_INSTALL                                     
+        DEFW    .KDEHR,#6600                                    
+        DEFB    #10                                             
+        DEFW    #8800                                           
+        DEFW    #6600           ;RUN                            
+                                                                
+;----END -------------------------------------                  
+        .ENDIF

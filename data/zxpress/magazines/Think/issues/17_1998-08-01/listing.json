@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4190,
+    "article_url": "https://zxpress.ru/article.php?id=4190",
+    "print_url": "https://zxpress.ru/print.php?id=4190",
+    "title_link": "От автора - последний месяц лета...",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "От_автора_-_последнии_месяц_лета"
+  },
+  {
+    "article_id": 4191,
+    "article_url": "https://zxpress.ru/article.php?id=4191",
+    "print_url": "https://zxpress.ru/print.php?id=4191",
+    "title_link": "Проходилка - Dizzy 8 Little Joke.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Проходилка_-_Dizzy_8_Little_Joke"
+  },
+  {
+    "article_id": 4192,
+    "article_url": "https://zxpress.ru/article.php?id=4192",
+    "print_url": "https://zxpress.ru/print.php?id=4192",
+    "title_link": "Обзор новинок - Ice Climber, Скелеты, Last Battle (patch).",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "Обзор_новинок_-_Ice_Climber_Скелеты_Last_Battle_patch"
+  },
+  {
+    "article_id": 4193,
+    "article_url": "https://zxpress.ru/article.php?id=4193",
+    "print_url": "https://zxpress.ru/print.php?id=4193",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4194,
+    "article_url": "https://zxpress.ru/article.php?id=4194",
+    "print_url": "https://zxpress.ru/print.php?id=4194",
+    "title_link": "Солдатские хохмы - армейские маразмы.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Солдатские_хохмы_-_армеиские_маразмы"
+  },
+  {
+    "article_id": 4195,
+    "article_url": "https://zxpress.ru/article.php?id=4195",
+    "print_url": "https://zxpress.ru/print.php?id=4195",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4196,
+    "article_url": "https://zxpress.ru/article.php?id=4196",
+    "print_url": "https://zxpress.ru/print.php?id=4196",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 10904,
+    "article_url": "https://zxpress.ru/article.php?id=10904",
+    "print_url": "https://zxpress.ru/print.php?id=10904",
+    "title_link": "Новости - Первая новость просто ужасна. Ходят слухи о распаде ИНФОРКОМ'а.\r\nБольше не будет книжных номеров ZX-РЕВЮ.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Первая_новость_просто_ужасна_Ходят_слухи_о_распаде"
+  },
+  {
+    "article_id": 10905,
+    "article_url": "https://zxpress.ru/article.php?id=10905",
+    "print_url": "https://zxpress.ru/print.php?id=10905",
+    "title_link": "Презентация - новая адвентюрная игра \"Тайна капитана Шелтона\".",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Презентация_-_новая_адвентюрная_игра_Таина_капитана_Шелтона"
+  },
+  {
+    "article_id": 10906,
+    "article_url": "https://zxpress.ru/article.php?id=10906",
+    "print_url": "https://zxpress.ru/print.php?id=10906",
+    "title_link": "Тусовка - в городе Риге прошел третий сбор спектрумистов.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Тусовка_-_в_городе_Риге_прошел_третии_сбор_спектрумистов"
+  },
+  {
+    "article_id": 10907,
+    "article_url": "https://zxpress.ru/article.php?id=10907",
+    "print_url": "https://zxpress.ru/print.php?id=10907",
+    "title_link": "Железо - немного о новом девайсе для Спектрума - GMX.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Железо_-_немного_о_новом_деваисе_для_Спектрума_-_GMX"
+  },
+  {
+    "article_id": 10908,
+    "article_url": "https://zxpress.ru/article.php?id=10908",
+    "print_url": "https://zxpress.ru/print.php?id=10908",
+    "title_link": "От авторов - Наконец-то появился постоянный кодер,\r\nграфику нам по прежнему рисует Циркуль.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_Наконец-то_появился_постоянныи_кодерграфику_нам"
+  }
+]

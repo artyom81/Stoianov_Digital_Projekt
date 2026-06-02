@@ -1,0 +1,24 @@
+ACNews 63 - Содержание - содержание газеты
+ACNews #63
+       *                  2бxii'16
+                                             *
+Новости(нажмите"0")
+News(press"1")     *
+
+Описание языка программирования Nedolang(нажмите"2")
+Nedolang programming language(press"3")
+                                                        *
+Операционная система PQ-DOS(нажмите"4")
+PQ-DOS operating system(press"5")
+
+        *                             *
+                          *
+                                                     *
+"H"- return to this text (возврат в этот текст).
+                    *                             
+Additional keys -F(find),N(next),B(begin),E(end).
+In "find":Edit- Рус/Lat,Caps Lock- case insensitive search.
+
+             Since 19vi'01. Edited by Alone Coder.       *
+              http://alonecoder.nedopc.com/
+    *          dmitry.alonecoder@gmail.com

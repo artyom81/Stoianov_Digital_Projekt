@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 2568,
+    "article_url": "https://zxpress.ru/article.php?id=2568",
+    "print_url": "https://zxpress.ru/print.php?id=2568",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 2566,
+    "article_url": "https://zxpress.ru/article.php?id=2566",
+    "print_url": "https://zxpress.ru/print.php?id=2566",
+    "title_link": "Вопрос - Гейт INTERNET SPbZXNet. Нужно ли это?",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Вопрос_-_Геит_INTERNET_SPbZXNet_Нужно_ли_это"
+  },
+  {
+    "article_id": 2564,
+    "article_url": "https://zxpress.ru/article.php?id=2564",
+    "print_url": "https://zxpress.ru/print.php?id=2564",
+    "title_link": "Новинка - Компьютер \"Спринтер\" 97.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Новинка_-_Компьютер_Спринтер_97"
+  },
+  {
+    "article_id": 2563,
+    "article_url": "https://zxpress.ru/article.php?id=2563",
+    "print_url": "https://zxpress.ru/print.php?id=2563",
+    "title_link": "От авторов - Задержка с выходом номера.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_Задержка_с_выходом_номера"
+  },
+  {
+    "article_id": 2567,
+    "article_url": "https://zxpress.ru/article.php?id=2567",
+    "print_url": "https://zxpress.ru/print.php?id=2567",
+    "title_link": "Сделай сам - Схема мини-усилителя.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Сделаи_сам_-_Схема_мини-усилителя"
+  },
+  {
+    "article_id": 2565,
+    "article_url": "https://zxpress.ru/article.php?id=2565",
+    "print_url": "https://zxpress.ru/print.php?id=2565",
+    "title_link": "Чайнику - Модернизация паяльника.",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "Чаинику_-_Модернизация_паяльника"
+  }
+]

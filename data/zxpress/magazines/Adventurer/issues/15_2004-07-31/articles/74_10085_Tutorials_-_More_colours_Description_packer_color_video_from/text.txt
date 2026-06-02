@@ -1,0 +1,209 @@
+Adventurer 15 - Tutorials - More colours!!! Description packer color video from the demo "Weed".
+More colours!!!
+
+Poisoned Cyberjack//TriebkraftNE
+
+Trying  to  do  something  impressive for the 'weed', I haven't
+expected  such  a good results. A lot of people asked me at the
+party  'is it multicolour?'. Meanwhile, it is all that simple -
+this   is   just  packed  fullscreen  animation.  Packed  well,
+indeed...
+
+Outrage  of  colour,  seen  at the screen, is not the result of
+engine's   work,   but   a  correctly  done  original  picture.
+Gd//tbk//4d  is  the  one  to  answer  how it could be done, he
+rendered it in lightwave 7.5. After that I converted avi files,
+using  bmp2scr_1.75  by  LCD.  I  worked  only with the screens
+received from such a conversion.
+
+That's  all  I  had  to tell you :). But because of a good mood
+I'll speak about the packer itself...
+
+The  demo  features 198 coloured screens, shown within a little
+amount  of  time.  This  occupies 1.368.576 bytes in not packed
+form.  290k  in zip (hrust does nearly the same). Laser compact
+packed  it  takes  a  little  less space, but it still makes no
+sense because of huge size. That's why original packer was used
+to  compress it all in 80k, i.e. Each screen is about 400 bytes
+long!!! And who cares about quality loss :)
+
+Diver//4d  brought  up this idea long time ago in 2001. Why not
+combine  hi-res  and  low-res, pixel graphics and attributes in
+the  engine itself, to obtain a lot of colour and high speed. I
+didn't fulfil it in full scale, still, but it would be a lie to
+say that I'm trying to do this from dusk till down.
+
+And now, a bit of history... Two years ago diver came with idea
+to  make  a  demo, absolutely unprecendental on speccy. To make
+the  hardware  do  its  maximum  without multicolour technique,
+everything  have  to  be  done  using  perverse combinations of
+low-res and hi-res, attrs and pixels. Don't forget, this is the
+main  powerful  feature  of speccy, otherwise it could lose the
+other    computers,    released   later   and   having   better
+specifications  at  start. Because of averagely high resolution
+of  coloured  screen  and  very  high  speed of screen updating
+(maybe  not  so, but the size of screen data is small), western
+authors  released  games  till  the  middle  of  nineties, when
+majority  of the other home computers were almost dead. For now
+this  feature  is  practically  out  of use - either people are
+working  with  pixels  (vectors,  dots,  chunks  4x4),  or with
+attributes, but the same way as with chunks (8x8, various forms
+of  multicolour).  The  real combining is never used - it's too
+hard to code and the purposes of use are far too specific.
+
+But diver is a keen minded person ;) he invented a lot of ideas
+(more  than  a  half of which is unrealisable as I see it ;) we
+doesn't  succeed with that demo, being busy with other projects
+(harm  demo,  moorhuhn  game),  and  because  of  diver's  army
+service...
+
+I  didn't forget those ideas, but there was no time to shape it
+out.  And  finally  I  came  to  it  only  this year, making up
+detroYt.  There was no effect in the middle, I had an idea, but
+was  pressed  by  the  lack of time and there was no memory for
+animation.  Thinking  for a while, I found my old chunk engine,
+cut everything about real-time calcs, fixed bugs, redone it for
+2  colours  and  got  a part with a flying pinions as a result.
+Just to mention - 230 screens occupied 22.5k.
+
+Nearly  this  time  in  April  I've  got an idea to do a colour
+animation.  But  confronted  with difficulties - it was hard to
+make   detroYt's  engine  use  colours,  packing  was  bad  and
+decompression  speed was below 5 frames (the threshold we set).
+That's why I spit upon all this tortures with chunks depacking,
+shit  with  c2p,  and did everything as simple as it could be -
+just  compressed  all screens. But, truly saying I used chunks,
+therefore something left from the old method...
+
+An  idea  behind  this  mythical engine is simple, although its
+perverse.  We  are  building  a  screen  in a chunk buffer (not
+dealing  with  screen addressing problems or working with bits)
+1x1  or 2x2 (I've chosen this variant as it is optimal by speed
+and  amount  of stored data - chunks 2x2 roxx!!!). But it can't
+be  done as it is (don't ask me why - its clearly seen), that's
+why  I used some tweaking - processed the screen in two passes.
+On  the  first  we  are  counting only height's colours - 33x25
+chars  grid.  For the massive coloured objects there would be a
+lot  (more  than a half) chars, where all four heights have the
+same  colour. Such chars c2p fills with this colour and forgets
+about it. The rest has to be detailed - we count edges of chars
+(2  pixel step in my case), after that we find the needed chunk
+(or sprite if its easier to understand), and finally putting it
+in  a  char cell on the screen. It's more complex with colour -
+but  I  decided  to use colours of first two heights and forget
+about it... This is the short explanation of an idea behind the
+new  wonderful coloured engine, that is not realised till today
+:)))
+
+There  wasn't  time, nor desire to complete it (laziness is the
+main  reason :) one thing I did till the end - drawn all chunks
+(it  could  be  generated, but 'handmade' is our main principle
+:).  The  main problem is the second pass on the chunk screen -
+its  too abstruse :((( therefore there is no blasting real-time
+in our last demos - just very cool crunching...
+
+How  it  was done in detroYt: at first, depacks the colour grid
+for  the  char's  heights,  then, using the four heights of the
+char,  the  type  of  the sprite is defined. We got 16 types of
+sprites, 2 of it were not drown at all (black filled chars were
+instead  of  it :), and the next two are just chars filled with
+paper=ink.  12 types left, for everyone of them I have drawn 16
+sprites  by  hand.  Number  o sprite (4 bits) is taken from the
+packed  data.  I'll not explain what is what :) the screen with
+the  sprites  is  applied. If someone is extremely interested -
+contact me.
+
+'Weed' features no grid and no sprite definition. We get colour
+for every char and the number of sprite, if needed, right after
+depacking. I just couldn't understand how to redraw sprites and
+took  it  from  the previous product. Because of that there are
+163  of them, not 256 :) why not 192? Some are the same, I just
+erased it...
+
+Definition  of  type  and sprite number at the packing stage is
+simplified too. No attention paid to the char's heights colour,
+everything  counts  with the banal moving through all variants.
+Sprite,  having  minimal  differences  is the needed one. It is
+logical  if  we  are talking about machine logics - human would
+choose the form appropriating one...
+
+You  will find two sources in attachment. My_batch - my private
+source  designed  to  assemble the demo. It was used exactly in
+this  form.  No comments, everything was done specially for our
+needs. Colourful - source designed to be understood (as much as
+it  could). I wrote comments these days, so not laugh too much.
+Also,  do  not pay attention at the awful code - it just works,
+that counts. I really didn't know that someone would need it :)
+
+Both  are  in storm assembler format. I don't know how users of
+the other asms would convert it - practically it is impossible.
+And I just can't write the other way now :(((
+
+Don't be confused by the multiple repeats of some lines in some
+places  :)  unwarping  of  the inner loops adversely affect the
+amount  and  modification ability of the code, but very good on
+readability  and  speed,  simplifies  the  coding at last - and
+sometimes I am just running out of registers...
+
+'Check'  procedure is called before packing, it sets the screen
+in the state, consumed by the packer - all empty chars coloured
+ink=paper.  Due  to  a  distinctive  feature  of  pc  converter
+bmp2scr,  completely  filled  chars  are  not being looked for,
+because it never happens.
+
+There  is  another trick... In some chars only 1-2 pixels could
+be  set.  Fitting  (wisely) sprites are not being found all the
+time,  resulting  bugs  on  the  screen. At the moment of party
+version  I went through this, adding 2 sprites - one completely
+filled,  and  second  -  empty. That not really helped - can be
+approved by peculiar people who have seen it. After the party I
+wrote  normal optimiser, it just cleans such chars out. 'Optim'
+procedure  is  doing  that.  P_min  parameter  sets quantity of
+threshold  pixels to clean the char. Checking goes for the less
+and  for  the  larger  quantity of pixels (1-2 and 62-63 pix if
+p_min=2).  Setting  this  parameter  to 32 turns the picture to
+clean attributes. Some people like it that way :)))
+
+'Check'  and  'optim'  are doing overlapping work, but I didn't
+correct it.
+
+Also a simple rle packer with the strange logic was used. Block
+of  packed  data represents itself as a continuously bit field,
+where  commands and arguments are placed. Commands consist of 2
+bits, accordingly to that there could be 4 of them:
+
+00  - new colour, 3b - colour code 01 - new sprite, 8b - number
+of sprite 10 - chain, 4b - chain length 11 - one filled char
+
+More detailed...
+
+Work  with  colour  is  going  like that - we have two colours,
+paper  and  ink.  'New  colour'  command sets new value of ink,
+while  paper  becomes equal to an old value of ink. That scheme
+proved to be more appropriate and optimal.
+
+Sprite...  Draws sprite with the right number, colour is set by
+the current values.
+
+One filled char - ink=paper_current, paper=paper_current, while
+current colours are not changing.
+
+Chain  - sequence of filled chars. Length is set by the 4 bits,
+that  number  was  chosen by the experimental way, more or less
+was found unprofitable.
+
+I  described  the packing algorithm, depacking is the same. All
+work  is  going on with structured data, being described above.
+It  could be written the other way, I would not be surprised if
+it  would  be simplier and faster than my version. We just were
+convenient  with  this  work  - speed of compression isn't that
+high,  but  there  is  no need to compress something too often,
+decompression  is  better - confines in 3 frames, opposingly to
+our delay - 5.
+
+Except  of  the  sources,  mentioned  above,  you can find some
+screens  for  testing  in  attachment.  And  a  small  program,
+demonstrating this method, for those, who haven't seen our demo
+:)))
+
+wbw, poisoned cyberjack//triebkraf

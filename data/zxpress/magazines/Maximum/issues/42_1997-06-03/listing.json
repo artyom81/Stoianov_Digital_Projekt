@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 9786,
+    "article_url": "https://zxpress.ru/article.php?id=9786",
+    "print_url": "https://zxpress.ru/print.php?id=9786",
+    "title_link": "AMIGA info - Краткий обзор моделей и конфигураций компьютера Амига.",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "AMIGA_info_-_Краткии_обзор_моделеи_и_конфигурации_компьютера"
+  },
+  {
+    "article_id": 9785,
+    "article_url": "https://zxpress.ru/article.php?id=9785",
+    "print_url": "https://zxpress.ru/print.php?id=9785",
+    "title_link": "Версии - 3 версии игры: SLY SPY SECRET AGENT.",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "Версии_-_3_версии_игры_SLY_SPY_SECRET_AGENT"
+  },
+  {
+    "article_id": 231,
+    "article_url": "https://zxpress.ru/article.php?id=231",
+    "print_url": "https://zxpress.ru/print.php?id=231",
+    "title_link": "Вступление - Скоро я переезжаю.",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Вступление_-_Скоро_я_переезжаю"
+  },
+  {
+    "article_id": 232,
+    "article_url": "https://zxpress.ru/article.php?id=232",
+    "print_url": "https://zxpress.ru/print.php?id=232",
+    "title_link": "Печатается с продолж. - ZILOG - основные сведения о процессорах.",
+    "order": 4,
+    "issue_label": "42",
+    "short_slug": "Печатается_с_продолж_-_ZILOG_-_основные_сведения_о_процессор"
+  },
+  {
+    "article_id": 233,
+    "article_url": "https://zxpress.ru/article.php?id=233",
+    "print_url": "https://zxpress.ru/print.php?id=233",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "42",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9784,
+    "article_url": "https://zxpress.ru/article.php?id=9784",
+    "print_url": "https://zxpress.ru/print.php?id=9784",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 6,
+    "issue_label": "42",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 9787,
+    "article_url": "https://zxpress.ru/article.php?id=9787",
+    "print_url": "https://zxpress.ru/print.php?id=9787",
+    "title_link": "Сплошные приколы - Анекдот про доярку и корову.",
+    "order": 7,
+    "issue_label": "42",
+    "short_slug": "Сплошные_приколы_-_Анекдот_про_доярку_и_корову"
+  }
+]

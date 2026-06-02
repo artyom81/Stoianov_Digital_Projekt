@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 14331,
+    "article_url": "https://zxpress.ru/article.php?id=14331",
+    "print_url": "https://zxpress.ru/print.php?id=14331",
+    "title_link": "Оглавление - содержание номера.",
+    "order": 1,
+    "issue_label": "2.5",
+    "short_slug": "Оглавление_-_содержание_номера"
+  },
+  {
+    "article_id": 14332,
+    "article_url": "https://zxpress.ru/article.php?id=14332",
+    "print_url": "https://zxpress.ru/print.php?id=14332",
+    "title_link": "Игры - Коментарии к некоторым играм: Черный ворон.",
+    "order": 2,
+    "issue_label": "2.5",
+    "short_slug": "Игры_-_Коментарии_к_некоторым_играм_Черныи_ворон"
+  },
+  {
+    "article_id": 14333,
+    "article_url": "https://zxpress.ru/article.php?id=14333",
+    "print_url": "https://zxpress.ru/print.php?id=14333",
+    "title_link": "FAQ - Часто задаваемые вопросы.",
+    "order": 3,
+    "issue_label": "2.5",
+    "short_slug": "FAQ_-_Часто_задаваемые_вопросы"
+  },
+  {
+    "article_id": 14334,
+    "article_url": "https://zxpress.ru/article.php?id=14334",
+    "print_url": "https://zxpress.ru/print.php?id=14334",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "2.5",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 14335,
+    "article_url": "https://zxpress.ru/article.php?id=14335",
+    "print_url": "https://zxpress.ru/print.php?id=14335",
+    "title_link": "Реклама - и обьявления.",
+    "order": 5,
+    "issue_label": "2.5",
+    "short_slug": "Реклама_-_и_обьявления"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2001-06-18",
+  "order": 6,
+  "article_id": 14020,
+  "title_link": "мир пц - из жизни писишника.",
+  "title_h1": "Body 2F - мир пц - из жизни писишника.",
+  "print_url": "https://zxpress.ru/print.php?id=14020",
+  "article_url": "https://zxpress.ru/article.php?id=14020",
+  "fetched_at": "2026-05-31T21:30:06Z"
+}

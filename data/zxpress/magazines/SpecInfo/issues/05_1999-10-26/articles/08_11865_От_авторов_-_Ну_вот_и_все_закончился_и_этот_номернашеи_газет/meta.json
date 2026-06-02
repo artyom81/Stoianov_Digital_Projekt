@@ -1,0 +1,15 @@
+{
+  "magazine_id": 201,
+  "magazine_name": "SpecInfo",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-10-26",
+  "order": 8,
+  "article_id": 11865,
+  "title_link": "От авторов - Ну вот и все, закончился и этот номер\r\nнашей газеты.",
+  "title_h1": "SpecInfo 05 - От авторов - Ну вот и все, закончился и этот номер нашей газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=11865",
+  "article_url": "https://zxpress.ru/article.php?id=11865",
+  "fetched_at": "2026-05-31T23:04:54Z"
+}

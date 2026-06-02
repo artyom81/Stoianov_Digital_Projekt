@@ -1,0 +1,15 @@
+{
+  "magazine_id": 1,
+  "magazine_name": "#Z80",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1998-11-21",
+  "order": 3,
+  "article_id": 1891,
+  "title_link": "Net Death - Интервью с Dron'ом из K3L.",
+  "title_h1": "#Z80 04 - Net Death - Интервью с Dron'ом из K3L.",
+  "print_url": "https://zxpress.ru/print.php?id=1891",
+  "article_url": "https://zxpress.ru/article.php?id=1891",
+  "fetched_at": "2026-05-31T21:28:26Z"
+}

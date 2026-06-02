@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3002,
+    "article_url": "https://zxpress.ru/article.php?id=3002",
+    "print_url": "https://zxpress.ru/print.php?id=3002",
+    "title_link": "Интервью - Открытие Спектрума: Дмитрий Ломов/LD, Виталий Видмиров/Dark, Феликс Арзуманян/Felix, Андрей Литвинов/LAV, Иван Макарченко/Ivan Mak.",
+    "order": 1,
+    "issue_label": "44",
+    "short_slug": "Интервью_-_Открытие_Спектрума_Дмитрии_ЛомовLD_Виталии_Видмир"
+  },
+  {
+    "article_id": 2999,
+    "article_url": "https://zxpress.ru/article.php?id=2999",
+    "print_url": "https://zxpress.ru/print.php?id=2999",
+    "title_link": "Новости - О новинках ПО: Ultra Sonic, Огни Саламандры, Черный ворон 2,\r\n Homer Simpson в России, Spectrum Progress 4, ZX-Format 9.",
+    "order": 2,
+    "issue_label": "44",
+    "short_slug": "Новости_-_О_новинках_ПО_Ultra_Sonic_Огни_Саламандры_Черныи_в"
+  },
+  {
+    "article_id": 3000,
+    "article_url": "https://zxpress.ru/article.php?id=3000",
+    "print_url": "https://zxpress.ru/print.php?id=3000",
+    "title_link": "Обратный отсчет - Colour of Magic: Поиск приключений.",
+    "order": 3,
+    "issue_label": "44",
+    "short_slug": "Обратныи_отсчет_-_Colour_of_Magic_Поиск_приключении"
+  },
+  {
+    "article_id": 2997,
+    "article_url": "https://zxpress.ru/article.php?id=2997",
+    "print_url": "https://zxpress.ru/print.php?id=2997",
+    "title_link": "От редакции - SPbZXNet исполнилось 2 года.",
+    "order": 4,
+    "issue_label": "44",
+    "short_slug": "От_редакции_-_SPbZXNet_исполнилось_2_года"
+  },
+  {
+    "article_id": 3001,
+    "article_url": "https://zxpress.ru/article.php?id=3001",
+    "print_url": "https://zxpress.ru/print.php?id=3001",
+    "title_link": "Подробности - Новая операционная система - NeOS.",
+    "order": 5,
+    "issue_label": "44",
+    "short_slug": "Подробности_-_Новая_операционная_система_-_NeOS"
+  },
+  {
+    "article_id": 3003,
+    "article_url": "https://zxpress.ru/article.php?id=3003",
+    "print_url": "https://zxpress.ru/print.php?id=3003",
+    "title_link": "Реклама - Объявления и реклама.",
+    "order": 6,
+    "issue_label": "44",
+    "short_slug": "Реклама_-_Объявления_и_реклама"
+  },
+  {
+    "article_id": 2998,
+    "article_url": "https://zxpress.ru/article.php?id=2998",
+    "print_url": "https://zxpress.ru/print.php?id=2998",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 7,
+    "issue_label": "44",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 86,
+    "article_url": "https://zxpress.ru/article.php?id=86",
+    "print_url": "https://zxpress.ru/print.php?id=86",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "63",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2412,
+    "article_url": "https://zxpress.ru/article.php?id=2412",
+    "print_url": "https://zxpress.ru/print.php?id=2412",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "63",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2410,
+    "article_url": "https://zxpress.ru/article.php?id=2410",
+    "print_url": "https://zxpress.ru/print.php?id=2410",
+    "title_link": "Мозаика - Обзор по стратегическим игр для ZX Spectrum.",
+    "order": 3,
+    "issue_label": "63",
+    "short_slug": "Мозаика_-_Обзор_по_стратегическим_игр_для_ZX_Spectrum"
+  },
+  {
+    "article_id": 2411,
+    "article_url": "https://zxpress.ru/article.php?id=2411",
+    "print_url": "https://zxpress.ru/print.php?id=2411",
+    "title_link": "Мозаика - Ответ на письмо Artman'a по поводу работы BBS'oк.",
+    "order": 4,
+    "issue_label": "63",
+    "short_slug": "Мозаика_-_Ответ_на_письмо_Artmana_по_поводу_работы_BBSoк"
+  },
+  {
+    "article_id": 2409,
+    "article_url": "https://zxpress.ru/article.php?id=2409",
+    "print_url": "https://zxpress.ru/print.php?id=2409",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "63",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

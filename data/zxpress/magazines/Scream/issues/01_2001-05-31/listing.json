@@ -1,0 +1,452 @@
+[
+  {
+    "article_id": 5365,
+    "article_url": "https://zxpress.ru/article.php?id=5365",
+    "print_url": "https://zxpress.ru/print.php?id=5365",
+    "title_link": "Editorial - \"Зачем? Парни, зачем нам еще один сценовый журнал, ведь уже есть scenergy?\".",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Editorial_-_Зачем_Парни_зачем_нам_еще_один_сценовыи_журнал_в"
+  },
+  {
+    "article_id": 5366,
+    "article_url": "https://zxpress.ru/article.php?id=5366",
+    "print_url": "https://zxpress.ru/print.php?id=5366",
+    "title_link": "Scream - from screamer: \"сцена. хех, вас ещё не достало это игривое словцо? а что вы понимаете под этим термином?\"",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Scream_-_from_screamer_сцена_хех_вас_еще_не_достало_это_игри"
+  },
+  {
+    "article_id": 5367,
+    "article_url": "https://zxpress.ru/article.php?id=5367",
+    "print_url": "https://zxpress.ru/print.php?id=5367",
+    "title_link": "Scream - charts: \"каждый сценовый e-zine должен иметь свои чарты, и мы решили не отходить от традиций\".",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Scream_-_charts_каждыи_сценовыи_e-zine_должен_иметь_свои_чар"
+  },
+  {
+    "article_id": 5368,
+    "article_url": "https://zxpress.ru/article.php?id=5368",
+    "print_url": "https://zxpress.ru/print.php?id=5368",
+    "title_link": "Scream - help: \"описание оболочки screwdriver v0.0\".",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Scream_-_help_описание_оболочки_screwdriver_v00"
+  },
+  {
+    "article_id": 5369,
+    "article_url": "https://zxpress.ru/article.php?id=5369",
+    "print_url": "https://zxpress.ru/print.php?id=5369",
+    "title_link": "Scream - credits: авторы журнала.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Scream_-_credits_авторы_журнала"
+  },
+  {
+    "article_id": 5371,
+    "article_url": "https://zxpress.ru/article.php?id=5371",
+    "print_url": "https://zxpress.ru/print.php?id=5371",
+    "title_link": "Zoom - screamin' news 1: \"Scenergy 3 не будет\", \"CC'000 прошедшее летом 2000 года, никого не оставила равнодушным\", \"краткая информация о CC1\", \"Прошла ещё одна виртуальная парти, на этот раз посвящённая графике и только графике!\", \"Diver вернулся из армии\", \"газета RIP окончательно закрылась\", \"вести от D-Jooze и Mithell'a\", \"Andrew Fer ушел со спектрума\", \"EDP vs BGE\", \"оказывается BUSY все еще творит на спектруме\" и т.д.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Zoom_-_screamin_news_1_Scenergy_3_не_будет_CC000_прошедшее_л"
+  },
+  {
+    "article_id": 5372,
+    "article_url": "https://zxpress.ru/article.php?id=5372",
+    "print_url": "https://zxpress.ru/print.php?id=5372",
+    "title_link": "Zoom - screamin' news 1: \"результаты Forever 2e3\", \"отчет с Ижевской пати ASCII\", \"новости от Power of Sound и Placebo\", \"Небольшой блиц-опрос\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Zoom_-_screamin_news_1_результаты_Forever_2e3_отчет_с_Ижевск"
+  },
+  {
+    "article_id": 5373,
+    "article_url": "https://zxpress.ru/article.php?id=5373",
+    "print_url": "https://zxpress.ru/print.php?id=5373",
+    "title_link": "Zoom - freedom: \"Вы уже слышали, что на Сектpумовской сцене объявилось новое объединение? Да-да, pечь идет о Freedom...\"",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Zoom_-_freedom_Вы_уже_слышали_что_на_Сектpумовскои_сцене_объ"
+  },
+  {
+    "article_id": 5374,
+    "article_url": "https://zxpress.ru/article.php?id=5374",
+    "print_url": "https://zxpress.ru/print.php?id=5374",
+    "title_link": "Zoom - rush#3: \"следующего номера журнала, скорее всего, не будет\".",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Zoom_-_rush3_следующего_номера_журнала_скорее_всего_не_будет"
+  },
+  {
+    "article_id": 5375,
+    "article_url": "https://zxpress.ru/article.php?id=5375",
+    "print_url": "https://zxpress.ru/print.php?id=5375",
+    "title_link": "Scene - diffident newcomers: на сцене сложилась непонятная ситуация \"старые не могут, молодые не хотят\".",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Scene_-_diffident_newcomers_на_сцене_сложилась_непонятная_си"
+  },
+  {
+    "article_id": 5376,
+    "article_url": "https://zxpress.ru/article.php?id=5376",
+    "print_url": "https://zxpress.ru/print.php?id=5376",
+    "title_link": "Scene - профиль: \"Так кто же такой сценер? ...понятия сцены никто не диктует. Их просто не существует. Все это игра!\"",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Scene_-_профиль_Так_кто_же_такои_сценер_понятия_сцены_никто"
+  },
+  {
+    "article_id": 5377,
+    "article_url": "https://zxpress.ru/article.php?id=5377",
+    "print_url": "https://zxpress.ru/print.php?id=5377",
+    "title_link": "Scene - IRCmania: \"IRC что же это такое? Первый раз попадая сюда, ты с трудом понимаешь, что твориться вокруг\".",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Scene_-_IRCmania_IRC_что_же_это_такое_Первыи_раз_попадая_сюд"
+  },
+  {
+    "article_id": 5378,
+    "article_url": "https://zxpress.ru/article.php?id=5378",
+    "print_url": "https://zxpress.ru/print.php?id=5378",
+    "title_link": "Scene - buzz, sweet buzz: \"газета Buzz. Да, да, да, тот самый тот, который радовал нас долгие годы и месяцы. Вспомним его\".",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Scene_-_buzz_sweet_buzz_газета_Buzz_Да_да_да_тот_самыи_тот_к"
+  },
+  {
+    "article_id": 5379,
+    "article_url": "https://zxpress.ru/article.php?id=5379",
+    "print_url": "https://zxpress.ru/print.php?id=5379",
+    "title_link": "Scene - что бы помнили 1: \"Эта статья - дань памяти ушедшим со спектрума. Пусть ушедшим на другие платформы, пусть забывшим о некогда лучшем своем друге,\r\nно все же - великим людям, внесшим свой вклад в становление\r\nспектрум-культуры.\"",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Scene_-_что_бы_помнили_1_Эта_статья_-_дань_памяти_ушедшим_со"
+  },
+  {
+    "article_id": 5381,
+    "article_url": "https://zxpress.ru/article.php?id=5381",
+    "print_url": "https://zxpress.ru/print.php?id=5381",
+    "title_link": "Scene - ASCII: \"Аски сцена очень, очень развита на попсовых компютерах, где есть тысячи аски-артистов, где аски-группа - вполне стандартное явление, где основным средством презентации своих работ являются так называемые арт-паки..\"",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Scene_-_ASCII_Аски_сцена_очень_очень_развита_на_попсовых_ком"
+  },
+  {
+    "article_id": 5382,
+    "article_url": "https://zxpress.ru/article.php?id=5382",
+    "print_url": "https://zxpress.ru/print.php?id=5382",
+    "title_link": "Scene - мысли вслух: \"Ха. А для чего тогда 'делиться мыслями'?! Пpосто так - лишь\r\nбы языком почесать? Я ещё pаз повтоpяю то, с чем ты упоpно не\r\nхочешь соглашаться не знаю почему: твоpчеству HИКТО и HИКАКИМИ\r\nмыслями не поможет.\" статья от Manwe.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Scene_-_мысли_вслух_Ха_А_для_чего_тогда_делиться_мыслями_Пpо"
+  },
+  {
+    "article_id": 5383,
+    "article_url": "https://zxpress.ru/article.php?id=5383",
+    "print_url": "https://zxpress.ru/print.php?id=5383",
+    "title_link": "Scream - чтиво: Особенности спектрумовского чтива - \"На Спектруме быть журналистом модно. Каждое село просто обязано иметь собственный 'боевой листок'\".",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Scream_-_чтиво_Особенности_спектрумовского_чтива_-_На_Спектр"
+  },
+  {
+    "article_id": 5384,
+    "article_url": "https://zxpress.ru/article.php?id=5384",
+    "print_url": "https://zxpress.ru/print.php?id=5384",
+    "title_link": "Pro-обзор - demoscene: обзор демок.",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_demoscene_обзор_демок"
+  },
+  {
+    "article_id": 5385,
+    "article_url": "https://zxpress.ru/article.php?id=5385",
+    "print_url": "https://zxpress.ru/print.php?id=5385",
+    "title_link": "Pro-обзор - обзор свежей прессы: RIP13, Buzz 19, Ворона 5, ZX Guide 3, Beccul 1, Cancer 2, KrNew 13, IzhNews 0B, Insanity 8, Scenergy 2, Adventurer 12.",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_обзор_свежеи_прессы_RIP13_Buzz_19_Ворона_5_ZX_Gu"
+  },
+  {
+    "article_id": 5386,
+    "article_url": "https://zxpress.ru/article.php?id=5386",
+    "print_url": "https://zxpress.ru/print.php?id=5386",
+    "title_link": "Pro-обзор - обзор музыкальной сцены на спектруме от Justinas'a.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_обзор_музыкальнои_сцены_на_спектруме_от_Justinas"
+  },
+  {
+    "article_id": 5387,
+    "article_url": "https://zxpress.ru/article.php?id=5387",
+    "print_url": "https://zxpress.ru/print.php?id=5387",
+    "title_link": "Pro-обзор - обзор графики с СС'000 gfx compo.",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_обзор_графики_с_СС000_gfx_compo"
+  },
+  {
+    "article_id": 5388,
+    "article_url": "https://zxpress.ru/article.php?id=5388",
+    "print_url": "https://zxpress.ru/print.php?id=5388",
+    "title_link": "Pro-обзор - обзор графики с Final Shoque'2k.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_обзор_графики_с_Final_Shoque2k"
+  },
+  {
+    "article_id": 5389,
+    "article_url": "https://zxpress.ru/article.php?id=5389",
+    "print_url": "https://zxpress.ru/print.php?id=5389",
+    "title_link": "Pro-обзор - обзор графики с Forever2e3SE.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Pro-обзор_-_обзор_графики_с_Forever2e3SE"
+  },
+  {
+    "article_id": 5390,
+    "article_url": "https://zxpress.ru/article.php?id=5390",
+    "print_url": "https://zxpress.ru/print.php?id=5390",
+    "title_link": "Demoparty - репортаж с CC'2000 от Justinas'а.",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Demoparty_-_репортаж_с_CC2000_от_Justinasа"
+  },
+  {
+    "article_id": 5391,
+    "article_url": "https://zxpress.ru/article.php?id=5391",
+    "print_url": "https://zxpress.ru/print.php?id=5391",
+    "title_link": "Demoparty - отчет о Mindresources 2001.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "Demoparty_-_отчет_о_Mindresources_2001"
+  },
+  {
+    "article_id": 5392,
+    "article_url": "https://zxpress.ru/article.php?id=5392",
+    "print_url": "https://zxpress.ru/print.php?id=5392",
+    "title_link": "Demoparty - хорошее/плохое пати: CC'2001 глазами Unbeliever'а.",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Demoparty_-_хорошееплохое_пати_CC2001_глазами_Unbelieverа"
+  },
+  {
+    "article_id": 5393,
+    "article_url": "https://zxpress.ru/article.php?id=5393",
+    "print_url": "https://zxpress.ru/print.php?id=5393",
+    "title_link": "Demoparty - the truth: вся правда о СС'2001 - признания Random'a.",
+    "order": 27,
+    "issue_label": "01",
+    "short_slug": "Demoparty_-_the_truth_вся_правда_о_СС2001_-_признания_Random"
+  },
+  {
+    "article_id": 5394,
+    "article_url": "https://zxpress.ru/article.php?id=5394",
+    "print_url": "https://zxpress.ru/print.php?id=5394",
+    "title_link": "РуSкие пряники - Интервью с художниом, кодером и публицистом: Survivor, автором газеты Instanity.",
+    "order": 28,
+    "issue_label": "01",
+    "short_slug": "РуSкие_пряники_-_Интервью_с_художниом_кодером_и_публицистом"
+  },
+  {
+    "article_id": 5395,
+    "article_url": "https://zxpress.ru/article.php?id=5395",
+    "print_url": "https://zxpress.ru/print.php?id=5395",
+    "title_link": "РуSкие пряники - интьервью с известным сценовым художником Dever/4D.",
+    "order": 29,
+    "issue_label": "01",
+    "short_slug": "РуSкие_пряники_-_интьервью_с_известным_сценовым_художником_D"
+  },
+  {
+    "article_id": 5396,
+    "article_url": "https://zxpress.ru/article.php?id=5396",
+    "print_url": "https://zxpress.ru/print.php?id=5396",
+    "title_link": "РуSкие пряники - интервью с известным сценовым музыкантом Siril/4D.",
+    "order": 30,
+    "issue_label": "01",
+    "short_slug": "РуSкие_пряники_-_интервью_с_известным_сценовым_музыкантом_Si"
+  },
+  {
+    "article_id": 5397,
+    "article_url": "https://zxpress.ru/article.php?id=5397",
+    "print_url": "https://zxpress.ru/print.php?id=5397",
+    "title_link": "Tutorials - учимся рисовать 'new school' ASCII.",
+    "order": 31,
+    "issue_label": "01",
+    "short_slug": "Tutorials_-_учимся_рисовать_new_school_ASCII"
+  },
+  {
+    "article_id": 5398,
+    "article_url": "https://zxpress.ru/article.php?id=5398",
+    "print_url": "https://zxpress.ru/print.php?id=5398",
+    "title_link": "Tutorials - x-4: ухещрения для музыкантов - \"подбор от одной ноты частот всех имеющихся нот\".",
+    "order": 32,
+    "issue_label": "01",
+    "short_slug": "Tutorials_-_x-4_ухещрения_для_музыкантов_-_подбор_от_однои_н"
+  },
+  {
+    "article_id": 5399,
+    "article_url": "https://zxpress.ru/article.php?id=5399",
+    "print_url": "https://zxpress.ru/print.php?id=5399",
+    "title_link": "Tutorials - графика: \"Конверсии - такой ли это отстой? Конверсии - разоблачение титанов? Конверсии - как сделать их круто? Конверсии - зачем?\".",
+    "order": 33,
+    "issue_label": "01",
+    "short_slug": "Tutorials_-_графика_Конверсии_-_такои_ли_это_отстои_Конверси"
+  },
+  {
+    "article_id": 5400,
+    "article_url": "https://zxpress.ru/article.php?id=5400",
+    "print_url": "https://zxpress.ru/print.php?id=5400",
+    "title_link": "Мозжечек - Титаны сцены: \"об огромном количестве дерьмовых сценеров, и той небольшой прослойке элиты, которой так гордятся все спекрумисты!\"",
+    "order": 34,
+    "issue_label": "01",
+    "short_slug": "Мозжечек_-_Титаны_сцены_об_огромном_количестве_дерьмовых_сце"
+  },
+  {
+    "article_id": 5401,
+    "article_url": "https://zxpress.ru/article.php?id=5401",
+    "print_url": "https://zxpress.ru/print.php?id=5401",
+    "title_link": "Мозжечек - Нездоровые сны: юмористический рассказ с участием персонажей со Спектрума.",
+    "order": 35,
+    "issue_label": "01",
+    "short_slug": "Мозжечек_-_Нездоровые_сны_юмористическии_рассказ_с_участием"
+  },
+  {
+    "article_id": 5402,
+    "article_url": "https://zxpress.ru/article.php?id=5402",
+    "print_url": "https://zxpress.ru/print.php?id=5402",
+    "title_link": "Мозжечек - having phun: Немного обыкновенных приколов - не сценового содержания.",
+    "order": 36,
+    "issue_label": "01",
+    "short_slug": "Мозжечек_-_having_phun_Немного_обыкновенных_приколов_-_не_сц"
+  },
+  {
+    "article_id": 5403,
+    "article_url": "https://zxpress.ru/article.php?id=5403",
+    "print_url": "https://zxpress.ru/print.php?id=5403",
+    "title_link": "ГонЫ - negrozz: прогон от D-Joice.",
+    "order": 37,
+    "issue_label": "01",
+    "short_slug": "ГонЫ_-_negrozz_прогон_от_D-Joice"
+  },
+  {
+    "article_id": 5404,
+    "article_url": "https://zxpress.ru/article.php?id=5404",
+    "print_url": "https://zxpress.ru/print.php?id=5404",
+    "title_link": "ГонЫ - люДи голиВУДи: стишок посвящается irONMan.у...",
+    "order": 38,
+    "issue_label": "01",
+    "short_slug": "ГонЫ_-_люДи_голиВУДи_стишок_посвящается_irONManу"
+  },
+  {
+    "article_id": 5405,
+    "article_url": "https://zxpress.ru/article.php?id=5405",
+    "print_url": "https://zxpress.ru/print.php?id=5405",
+    "title_link": "ГонЫ - Лесом Схожу: прогон от Ironman'a.",
+    "order": 39,
+    "issue_label": "01",
+    "short_slug": "ГонЫ_-_Лесом_Схожу_прогон_от_Ironmana"
+  },
+  {
+    "article_id": 5406,
+    "article_url": "https://zxpress.ru/article.php?id=5406",
+    "print_url": "https://zxpress.ru/print.php?id=5406",
+    "title_link": "ГонЫ - зарифмованый \"Крик\".",
+    "order": 40,
+    "issue_label": "01",
+    "short_slug": "ГонЫ_-_зарифмованыи_Крик"
+  },
+  {
+    "article_id": 5407,
+    "article_url": "https://zxpress.ru/article.php?id=5407",
+    "print_url": "https://zxpress.ru/print.php?id=5407",
+    "title_link": "Misc - НЛП и его этапы.",
+    "order": 41,
+    "issue_label": "01",
+    "short_slug": "Misc_-_НЛП_и_его_этапы"
+  },
+  {
+    "article_id": 5408,
+    "article_url": "https://zxpress.ru/article.php?id=5408",
+    "print_url": "https://zxpress.ru/print.php?id=5408",
+    "title_link": "Misc - НЛП: Работа со стеpеотипами.",
+    "order": 42,
+    "issue_label": "01",
+    "short_slug": "Misc_-_НЛП_Работа_со_стеpеотипами"
+  },
+  {
+    "article_id": 5409,
+    "article_url": "https://zxpress.ru/article.php?id=5409",
+    "print_url": "https://zxpress.ru/print.php?id=5409",
+    "title_link": "Misc - НЛП: наведение конфyзионного тpанса.",
+    "order": 43,
+    "issue_label": "01",
+    "short_slug": "Misc_-_НЛП_наведение_конфyзионного_тpанса"
+  },
+  {
+    "article_id": 5410,
+    "article_url": "https://zxpress.ru/article.php?id=5410",
+    "print_url": "https://zxpress.ru/print.php?id=5410",
+    "title_link": "Misc - НЛП: Создание иллюзии пpавдивости pечи.",
+    "order": 44,
+    "issue_label": "01",
+    "short_slug": "Misc_-_НЛП_Создание_иллюзии_пpавдивости_pечи"
+  },
+  {
+    "article_id": 5411,
+    "article_url": "https://zxpress.ru/article.php?id=5411",
+    "print_url": "https://zxpress.ru/print.php?id=5411",
+    "title_link": "Misc - значение некоторых фраз в Восточно-Европейских языках: Польша, Чехия, Словакия, Литва, Латвия, Эстония.",
+    "order": 45,
+    "issue_label": "01",
+    "short_slug": "Misc_-_значение_некоторых_фраз_в_Восточно-Европеиских_языках"
+  },
+  {
+    "article_id": 24,
+    "article_url": "https://zxpress.ru/article.php?id=24",
+    "print_url": "https://zxpress.ru/print.php?id=24",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - электронной газеты \"Lime Tree\".",
+    "order": 46,
+    "issue_label": "01",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_электроннои_газеты_Lime_Tree"
+  },
+  {
+    "article_id": 75,
+    "article_url": "https://zxpress.ru/article.php?id=75",
+    "print_url": "https://zxpress.ru/print.php?id=75",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Elly Estel-BBS.",
+    "order": 47,
+    "issue_label": "01",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Elly_Estel-BBS"
+  },
+  {
+    "article_id": 8409,
+    "article_url": "https://zxpress.ru/article.php?id=8409",
+    "print_url": "https://zxpress.ru/print.php?id=8409",
+    "title_link": "Репортаж - Фотовыставка в Краснодаре.",
+    "order": 48,
+    "issue_label": "01",
+    "short_slug": "Репортаж_-_Фотовыставка_в_Краснодаре"
+  },
+  {
+    "article_id": 8437,
+    "article_url": "https://zxpress.ru/article.php?id=8437",
+    "print_url": "https://zxpress.ru/print.php?id=8437",
+    "title_link": "Тема - разборки: а так ли крут Unbeliever? Eternity Industry сами испортили DiHalt'99? Могильщики на спектруме.",
+    "order": 49,
+    "issue_label": "01",
+    "short_slug": "Тема_-_разборки_а_так_ли_крут_Unbeliever_Eternity_Industry_с"
+  },
+  {
+    "article_id": 15248,
+    "article_url": "https://zxpress.ru/article.php?id=15248",
+    "print_url": "https://zxpress.ru/print.php?id=15248",
+    "title_link": "О всякой хуйне - бред.",
+    "order": 50,
+    "issue_label": "01",
+    "short_slug": "О_всякои_хуине_-_бред"
+  }
+]

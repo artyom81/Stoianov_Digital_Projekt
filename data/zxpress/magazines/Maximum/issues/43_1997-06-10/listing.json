@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 235,
+    "article_url": "https://zxpress.ru/article.php?id=235",
+    "print_url": "https://zxpress.ru/print.php?id=235",
+    "title_link": "Версии - 2 версии игры: PSYCHO PIG V.X.B.",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "Версии_-_2_версии_игры_PSYCHO_PIG_VXB"
+  },
+  {
+    "article_id": 234,
+    "article_url": "https://zxpress.ru/article.php?id=234",
+    "print_url": "https://zxpress.ru/print.php?id=234",
+    "title_link": "Вступление - Газете исполнился год.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Вступление_-_Газете_исполнился_год"
+  },
+  {
+    "article_id": 9782,
+    "article_url": "https://zxpress.ru/article.php?id=9782",
+    "print_url": "https://zxpress.ru/print.php?id=9782",
+    "title_link": "Печатается с продолж. - Z80/ZILOG - основные сведения (продолжение).",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "Печатается_с_продолж_-_Z80ZILOG_-_основные_сведения_продолже"
+  },
+  {
+    "article_id": 9783,
+    "article_url": "https://zxpress.ru/article.php?id=9783",
+    "print_url": "https://zxpress.ru/print.php?id=9783",
+    "title_link": "Реклама - бесплатная реклама и объявления ...",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_бесплатная_реклама_и_объявления"
+  },
+  {
+    "article_id": 9781,
+    "article_url": "https://zxpress.ru/article.php?id=9781",
+    "print_url": "https://zxpress.ru/print.php?id=9781",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  }
+]

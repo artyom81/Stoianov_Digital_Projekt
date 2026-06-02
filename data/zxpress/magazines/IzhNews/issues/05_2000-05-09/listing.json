@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 4878,
+    "article_url": "https://zxpress.ru/article.php?id=4878",
+    "print_url": "https://zxpress.ru/print.php?id=4878",
+    "title_link": "Авторы - об авторах нового номера газеты.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Авторы_-_об_авторах_нового_номера_газеты"
+  },
+  {
+    "article_id": 4879,
+    "article_url": "https://zxpress.ru/article.php?id=4879",
+    "print_url": "https://zxpress.ru/print.php?id=4879",
+    "title_link": "Вступление - у газеты новая листалка.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_у_газеты_новая_листалка"
+  },
+  {
+    "article_id": 4880,
+    "article_url": "https://zxpress.ru/article.php?id=4880",
+    "print_url": "https://zxpress.ru/print.php?id=4880",
+    "title_link": "Учим клаву - описание управления оболочкой газеты.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Учим_клаву_-_описание_управления_оболочкои_газеты"
+  },
+  {
+    "article_id": 4881,
+    "article_url": "https://zxpress.ru/article.php?id=4881",
+    "print_url": "https://zxpress.ru/print.php?id=4881",
+    "title_link": "Новости - в Ижевске открылась первая BBS и образовалась новая группа TRG!",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Новости_-_в_Ижевске_открылась_первая_BBS_и_образовалась_нова"
+  },
+  {
+    "article_id": 4882,
+    "article_url": "https://zxpress.ru/article.php?id=4882",
+    "print_url": "https://zxpress.ru/print.php?id=4882",
+    "title_link": "Warez - игровые новинки: Шибениця, Worm Word, Tower Pod, Clickmania.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Warez_-_игровые_новинки_Шибениця_Worm_Word_Tower_Pod_Clickma"
+  },
+  {
+    "article_id": 4883,
+    "article_url": "https://zxpress.ru/article.php?id=4883",
+    "print_url": "https://zxpress.ru/print.php?id=4883",
+    "title_link": "Рулезники - рассказ.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Рулезники_-_рассказ"
+  },
+  {
+    "article_id": 4884,
+    "article_url": "https://zxpress.ru/article.php?id=4884",
+    "print_url": "https://zxpress.ru/print.php?id=4884",
+    "title_link": "Презент - о том что же находиться в приложении к нашей\r\nгазете.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Презент_-_о_том_что_же_находиться_в_приложении_к_нашеигазете"
+  },
+  {
+    "article_id": 4885,
+    "article_url": "https://zxpress.ru/article.php?id=4885",
+    "print_url": "https://zxpress.ru/print.php?id=4885",
+    "title_link": "Nonsense in BASIC - программиррование калькулятора Citizen SPR-145.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Nonsense_in_BASIC_-_программиррование_калькулятора_Citizen_S"
+  },
+  {
+    "article_id": 4886,
+    "article_url": "https://zxpress.ru/article.php?id=4886",
+    "print_url": "https://zxpress.ru/print.php?id=4886",
+    "title_link": "MiniParty - научно-практическая конференция\r\nстаршеклассников.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "MiniParty_-_научно-практическая_конференциястаршеклассников"
+  },
+  {
+    "article_id": 4887,
+    "article_url": "https://zxpress.ru/article.php?id=4887",
+    "print_url": "https://zxpress.ru/print.php?id=4887",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

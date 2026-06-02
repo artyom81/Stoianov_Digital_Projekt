@@ -1,0 +1,15 @@
+{
+  "magazine_id": 114,
+  "magazine_name": "Lprint",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "1997-09-14",
+  "order": 6,
+  "article_id": 12386,
+  "title_link": "ZX-NET - О создании в Минске полноценной сети на SPECCY.",
+  "title_h1": "Lprint 18 - ZX-NET - О создании в Минске полноценной сети на SPECCY.",
+  "print_url": "https://zxpress.ru/print.php?id=12386",
+  "article_url": "https://zxpress.ru/article.php?id=12386",
+  "fetched_at": "2026-05-31T22:21:21Z"
+}

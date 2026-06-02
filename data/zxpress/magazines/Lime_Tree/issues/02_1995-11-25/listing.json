@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 97,
+    "article_url": "https://zxpress.ru/article.php?id=97",
+    "print_url": "https://zxpress.ru/print.php?id=97",
+    "title_link": "Wanted - поиск программ и игр.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Wanted_-_поиск_программ_и_игр"
+  },
+  {
+    "article_id": 4749,
+    "article_url": "https://zxpress.ru/article.php?id=4749",
+    "print_url": "https://zxpress.ru/print.php?id=4749",
+    "title_link": "BBS-NEWS - новости сети.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "BBS-NEWS_-_новости_сети"
+  },
+  {
+    "article_id": 4750,
+    "article_url": "https://zxpress.ru/article.php?id=4750",
+    "print_url": "https://zxpress.ru/print.php?id=4750",
+    "title_link": "ЮМОР - несколько анекдотов.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "ЮМОР_-_несколько_анекдотов"
+  },
+  {
+    "article_id": 4751,
+    "article_url": "https://zxpress.ru/article.php?id=4751",
+    "print_url": "https://zxpress.ru/print.php?id=4751",
+    "title_link": "Литературная страничка - продолжение произведений И.БАРКОВА.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Литературная_страничка_-_продолжение_произведении_ИБАРКОВА"
+  },
+  {
+    "article_id": 4752,
+    "article_url": "https://zxpress.ru/article.php?id=4752",
+    "print_url": "https://zxpress.ru/print.php?id=4752",
+    "title_link": "Литературная страничка - у нас в гостях поэтище - М.МУЛЮКОВ.",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Литературная_страничка_-_у_нас_в_гостях_поэтище_-_ММУЛЮКОВ"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "article_id": 9722,
+    "article_url": "https://zxpress.ru/article.php?id=9722",
+    "print_url": "https://zxpress.ru/print.php?id=9722",
+    "title_link": "От редакции - ZX-CLUB развивается и формируется.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "От_редакции_-_ZX-CLUB_развивается_и_формируется"
+  },
+  {
+    "article_id": 9723,
+    "article_url": "https://zxpress.ru/article.php?id=9723",
+    "print_url": "https://zxpress.ru/print.php?id=9723",
+    "title_link": "Soft group - Драйвер ввода в режимах последовательного и прямого доступа из файлов системы TR-DOS. Как использовать\r\n драйвер.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Soft_group_-_Драивер_ввода_в_режимах_последовательного_и_пря"
+  },
+  {
+    "article_id": 9724,
+    "article_url": "https://zxpress.ru/article.php?id=9724",
+    "print_url": "https://zxpress.ru/print.php?id=9724",
+    "title_link": "Hard group - ZS Scorpion 2000 - о GMX-контроллере.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Hard_group_-_ZS_Scorpion_2000_-_о_GMX-контроллере"
+  },
+  {
+    "article_id": 9725,
+    "article_url": "https://zxpress.ru/article.php?id=9725",
+    "print_url": "https://zxpress.ru/print.php?id=9725",
+    "title_link": "Users group - Компрессия экранных файлов: Обзор ПО. Дискография. Анализ результатов компрессии.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Users_group_-_Компрессия_экранных_фаилов_Обзор_ПО_Дискографи"
+  },
+  {
+    "article_id": 9726,
+    "article_url": "https://zxpress.ru/article.php?id=9726",
+    "print_url": "https://zxpress.ru/print.php?id=9726",
+    "title_link": "Users group - Компрессия кодовых блоков - работа с HRUM v3.5.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Users_group_-_Компрессия_кодовых_блоков_-_работа_с_HRUM_v35"
+  },
+  {
+    "article_id": 9727,
+    "article_url": "https://zxpress.ru/article.php?id=9727",
+    "print_url": "https://zxpress.ru/print.php?id=9727",
+    "title_link": "News - Барнаульская олимпиада по информатике 1997 года.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "News_-_Барнаульская_олимпиада_по_информатике_1997_года"
+  },
+  {
+    "article_id": 9728,
+    "article_url": "https://zxpress.ru/article.php?id=9728",
+    "print_url": "https://zxpress.ru/print.php?id=9728",
+    "title_link": "News - Барнаульская фирма Komel приняла решение о поддержкеавторских программ.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "News_-_Барнаульская_фирма_Komel_приняла_решение_о_поддержкеа"
+  },
+  {
+    "article_id": 9729,
+    "article_url": "https://zxpress.ru/article.php?id=9729",
+    "print_url": "https://zxpress.ru/print.php?id=9729",
+    "title_link": "News - конкурс на лучший вирус продолжается.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "News_-_конкурс_на_лучшии_вирус_продолжается"
+  },
+  {
+    "article_id": 9730,
+    "article_url": "https://zxpress.ru/article.php?id=9730",
+    "print_url": "https://zxpress.ru/print.php?id=9730",
+    "title_link": "Досье - О деятельности барнаульских программистов: Кротов\r\n Олег , Маяцкий Виталий , Ростов Александр , Ковалев\r\n Роман (DJ RUSH), Командир Нортон (NC).",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Досье_-_О_деятельности_барнаульских_программистов_Кротов_Оле"
+  },
+  {
+    "article_id": 9731,
+    "article_url": "https://zxpress.ru/article.php?id=9731",
+    "print_url": "https://zxpress.ru/print.php?id=9731",
+    "title_link": "ZX-Поппури - Письма читателей из Магадана и Коврова , Воронежа и\r\n Чебоксар.",
+    "order": 10,
+    "issue_label": "06",
+    "short_slug": "ZX-Поппури_-_Письма_читателеи_из_Магадана_и_Коврова_Воронежа"
+  },
+  {
+    "article_id": 9732,
+    "article_url": "https://zxpress.ru/article.php?id=9732",
+    "print_url": "https://zxpress.ru/print.php?id=9732",
+    "title_link": "Enjoy - Как выйти замуж за программиста.",
+    "order": 11,
+    "issue_label": "06",
+    "short_slug": "Enjoy_-_Как_выити_замуж_за_программиста"
+  },
+  {
+    "article_id": 9733,
+    "article_url": "https://zxpress.ru/article.php?id=9733",
+    "print_url": "https://zxpress.ru/print.php?id=9733",
+    "title_link": "Фантастика - Повесть А.Питерского \"Четырнадцатое измерение\".",
+    "order": 12,
+    "issue_label": "06",
+    "short_slug": "Фантастика_-_Повесть_АПитерского_Четырнадцатое_измерение"
+  },
+  {
+    "article_id": 9734,
+    "article_url": "https://zxpress.ru/article.php?id=9734",
+    "print_url": "https://zxpress.ru/print.php?id=9734",
+    "title_link": "Toys - Новелла к игре \"BISMARK\".",
+    "order": 13,
+    "issue_label": "06",
+    "short_slug": "Toys_-_Новелла_к_игре_BISMARK"
+  },
+  {
+    "article_id": 9735,
+    "article_url": "https://zxpress.ru/article.php?id=9735",
+    "print_url": "https://zxpress.ru/print.php?id=9735",
+    "title_link": "Toys - описание к игре \"BISMARK\".",
+    "order": 14,
+    "issue_label": "06",
+    "short_slug": "Toys_-_описание_к_игре_BISMARK"
+  },
+  {
+    "article_id": 9736,
+    "article_url": "https://zxpress.ru/article.php?id=9736",
+    "print_url": "https://zxpress.ru/print.php?id=9736",
+    "title_link": "Toys - словарь к игре \"BISMARK\".",
+    "order": 15,
+    "issue_label": "06",
+    "short_slug": "Toys_-_словарь_к_игре_BISMARK"
+  }
+]

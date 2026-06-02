@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 21,
+    "article_url": "https://zxpress.ru/article.php?id=21",
+    "print_url": "https://zxpress.ru/print.php?id=21",
+    "title_link": "B.B.S. Новости - О новой B.B.S. - Lime Tree 2-BBS.\r\n Платная B.B.S. ?!",
+    "order": 1,
+    "issue_label": "29",
+    "short_slug": "BBS_Новости_-_О_новои_BBS_-_Lime_Tree_2-BBS_Платная_BBS"
+  },
+  {
+    "article_id": 2056,
+    "article_url": "https://zxpress.ru/article.php?id=2056",
+    "print_url": "https://zxpress.ru/print.php?id=2056",
+    "title_link": "Железо - АЦП в режиме биполярного преобразования.\r\n Звуковой интерфейс \"Sound Driver - 1\".",
+    "order": 2,
+    "issue_label": "29",
+    "short_slug": "Железо_-_АЦП_в_режиме_биполярного_преобразования_Звуковои_ин"
+  },
+  {
+    "article_id": 2057,
+    "article_url": "https://zxpress.ru/article.php?id=2057",
+    "print_url": "https://zxpress.ru/print.php?id=2057",
+    "title_link": "Застрял ? - Новелла-проходилка по игре \"48 Утюгов\" часть 5.",
+    "order": 3,
+    "issue_label": "29",
+    "short_slug": "Застрял_-_Новелла-проходилка_по_игре_48_Утюгов_часть_5"
+  },
+  {
+    "article_id": 2055,
+    "article_url": "https://zxpress.ru/article.php?id=2055",
+    "print_url": "https://zxpress.ru/print.php?id=2055",
+    "title_link": "Мозаика - O файле \"Dermo\" , который был закачан в сеть ZX-Net , содержащий нецензурные выпады в адрес координатора сети.",
+    "order": 4,
+    "issue_label": "29",
+    "short_slug": "Мозаика_-_O_фаиле_Dermo_которыи_был_закачан_в_сеть_ZX-Net_со"
+  },
+  {
+    "article_id": 2054,
+    "article_url": "https://zxpress.ru/article.php?id=2054",
+    "print_url": "https://zxpress.ru/print.php?id=2054",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "29",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

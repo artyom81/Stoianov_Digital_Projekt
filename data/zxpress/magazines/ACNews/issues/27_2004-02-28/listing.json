@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9953,
+    "article_url": "https://zxpress.ru/article.php?id=9953",
+    "print_url": "https://zxpress.ru/print.php?id=9953",
+    "title_link": "News - mr.event рассказывает о своем отчуждение от спектрумовской сцены.",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "News_-_mrevent_рассказывает_о_своем_отчуждение_от_спектрумов"
+  },
+  {
+    "article_id": 9954,
+    "article_url": "https://zxpress.ru/article.php?id=9954",
+    "print_url": "https://zxpress.ru/print.php?id=9954",
+    "title_link": "Guide - Alone Coder дивится количеству написанного кода.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "Guide_-_Alone_Coder_дивится_количеству_написанного_кода"
+  },
+  {
+    "article_id": 9955,
+    "article_url": "https://zxpress.ru/article.php?id=9955",
+    "print_url": "https://zxpress.ru/print.php?id=9955",
+    "title_link": "Music - n1k-o обьясняет итальянскому спектрумисту, как пользоваться Pro Tracker'ом.",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "Music_-_n1k-o_обьясняет_итальянскому_спектрумисту_как_пользо"
+  },
+  {
+    "article_id": 9956,
+    "article_url": "https://zxpress.ru/article.php?id=9956",
+    "print_url": "https://zxpress.ru/print.php?id=9956",
+    "title_link": "Contacts - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "Contacts_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

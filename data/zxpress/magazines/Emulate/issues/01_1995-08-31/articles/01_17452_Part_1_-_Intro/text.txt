@@ -1,0 +1,245 @@
+01 - Part 1 - Intro.
+______________________________________
+/_____________________________________
+:                                      :
+: -------------------------------      :
+: :                              : O O :
+: :       E M U L A T E !        :     :
+: :                              : O O :
+: :The Spectrum Emulator Magazine:     :
+: :                              : O O :
+: :       I S S U E      1       :     :
+: :                              :     :
+: :        September 1995        : ### :
+: :                              : ### :
+: -------------------------------      :
+:______________________________________:
+
+
+EDITOR    :    Barry   Plewa   E-Mail   :
+              DOCTOR@DOCBARRY.DEMON.CO.UK
+ASSISTANT  EDITOR:  Matthew Pimm E-Mail :
+               M.PIMM@MARKROB.DEMON.CO.UK
+GAMES EDITOR    :
+TECHNICAL EDITOR: Vacant
+
+Support   BBS   :  FRAZZLE  PROJECT  BBS,
+            Kidderminster, Worcs, England
+Number (UK   ) :  (01562) 827019
+Number (Other) :  +44 1562 827019
+FIDONET ADDRESS : 2:2500/615.4
+
+        ________________________
+       /                        
+      /--------------------------
+     /                            
+    /      C O N T E N T S       / 
+   /                            / / 
+  /____________________________/_/_/_
+  -------------------------------------
+
+ Welcome  to  the first issue of Emulate!
+The  magazine dedicated to all aspects of
+the  Sinclair computer. Whether you are a
+veteran to the Spectrum computer, or have
+recently  discovered  the  joy  of colour
+clash  and  monochrome through the use of
+one  of  the  many Spectrum Emulators now
+available, this magazine is for you! This
+first  issue  is  really a test to see if
+there  is enough interest in the media to
+justify  further issues, although judging
+by its renewed popularity, this market is
+just beginning to take off again.
+
+ In  this first issue, features include a
+series  of  free snapshots to use on your
+emulator  and  complete  instructions for
+each.  They  are  also accompanied by its
+original  rating  in  one of the Spectrum
+magazines  and,  where possible, extracts
+from its original review. I will also sum
+up by saying how the game appears now and
+how well it has dated.
+
+ In  the  tradition  of  the old Spectrum
+magazines,  there  will also be areas set
+aside for other old reviews, a section of
+playing  tips and a column covering those
+old   favourites,  the  adventure  games.
+Hopefully,  in  future issues, we will be
+able   to  feature  readers  letters  and
+queries,  as  well as answer requests for
+playing tips.
+
+ This  first  issue  has been produced in
+plain  text,  so as to be readable on all
+popular computers.
+
+ If   you   have  any  queries,  letters,
+comments  or  cries  for help, all E-Mail
+can  be  directed  to me at the following
+address  and will be featured in a future
+issue:
+
+DOCTOR@DOCBARRY.DEMON.CO.UK
+
+ Also,  any interesting articles you have
+produced  about  the  Spectrum  computer,
+send to the same address for inclusion in
+a future edition of Emulate!
+
+=========================================
+
+CONTENTS
+
+Part 1 - Editorial
+Part 2 - Playing Tips - This issue a
+          multiface bonanza!!
+Part 3 - Free Games instructions.
+Part 4 - Adventure Games.
+Part 5 - Reviews - This issue "Rebelstar"
+Part 6 - Classic Spectrum Characters -
+          This issue "Dizzy"
+Part 7 - History of Sinclair Part 1.
+Part 8 - Spectrum on the Internet.
+Part 9 - Spectrum Games charts - Past and
+          Present.
+Part 10 - A-Z of Spectrum Games Reviews
+          Part 1.
+Part 11 - Next Month
+
+=========================================
+=========================================
+
+SPECTRUM NEWS
+
+ This section of the editorial covers all
+the  latest  Spectrum  news, mainly taken
+from  postings  to  the Comp.Sys.Sinclair
+newsgroup.
+
+=========================================
+
+ DIZZY  COLLECTION  ON  NVG Thanks to the
+combined   efforts  of  David  Crick  and
+Richard  Hallas,  the complete collection
+of  Dizzy  games  is now available on the
+NVG  UNIT ftp archive. This includes 4(!)
+different  versions of the original Dizzy
+game, plus all the others in both 48k and
+128k  format.  Definitely worth a look if
+you  have  yet to discover the joys(?) of
+Dizzy! The games should be located in the
+Incoming directory.
+
+=========================================
+
+ SPECTRUM   DATABASE  UNDER  CONSTRUCTION
+Stephen   Smith   is   currently  getting
+together  a  complete  database  of every
+Spectrum  Game  released. A mammoth task,
+he  obviously  needs  all the help he can
+get!  If  you  a  prepared to lend a hand
+typing  out  the  instructions to some of
+your  Speccy  Games,  give  him a bell at
+STEVO@JONLAN.DEMON.CO.UK   If  you  would
+like  to  check  on  the  progress of the
+database,  the  list  of  entries  can be
+found on the WWW at:
+HTTP://WWW.CATALOG.COM/SJR/WWW/SS/GAMEDBS
+                                     .HTM
+
+=========================================
+
+ TOP 100 SPECTRUM GAMES SITE An excellent
+new  Spectrum  Games  site  is  currently
+being  constructed  by John Stringer. The
+site features a list of the favourite 100
+Spectrum Games as voted for by members of
+the  newsgroup,  and  a  snapshot of each
+game is available for download! This site
+can be found on the WWW at:
+HTTP://GRELB.SRC.GLA.AC.UK:8000/~WEBSTER
+
+=========================================
+
+ BUBBLE  BOBBLE  FAN CLUB Currently Anton
+Belenki is looking for people to join his
+Bubble Bobble fan club. Anyone who enjoys
+the   Bubble   Bobble   style   game   is
+encouraged  to  get  in touch with him to
+swap snapshots. Just send him a note to
+  ANTON@GYM11.PERM.SU
+
+=========================================
+
+SNAPSHOT REQUESTS
+
+ Another regular section in the editorial
+will   be   set   aside  to  request  any
+snapshots  you  may  be  hunting for, but
+still  are  unable  to  find.  Send  your
+request  here and maybe someone else will
+come  to your aid! Many of these requests
+are also taken from the COMP.SYS.SINCLAIR
+newsgroup,  If  you do possess any of the
+following  snapshots, it would be greatly
+appreciated  by the person in question if
+you  could  mail them a note letting them
+know  and  making  arrangements  to swap.
+Failing  that,  you  can always drop us a
+note here at Emulate, and we will pass on
+the news.
+
+GAME                               FORMAT
+REQUESTED BY   E-MAIL
+=========================================
+Behind Closed Doors                48/128
+Barry Plewa   DOCTOR@DOCBARRY.DEMON.CO.UK
+Cluedo                             48/128
+Philip Reynolds PHIL@HEDGFORD.DEMON.CO.UK
+Costa Capers                       48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Dark Empire                        48/128
+Josie Haynes   JHAYNES@CENTRAL.MURDOCH.AU
+Everest Ascent                     48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Hyperbowl                          48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+ICUPS                              48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Knight Orc                         48/128
+Shaun Crouch        SCROUCH@LARK.RU.AC.ZA
+Muncher                            48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Orc Attack                         48/128
+Andy Maccallum    MINDBOMB_BBS@DELPHI.COM
+Pang                               48/128
+Ian Collier              IMC@ECS.OX.AC.UK
+Rainbow Islands                      128k
+Anton Belenki         ANTON@GYM11.PERM.SU
+Return of the Things               48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Robocop I/II                       48/128
+Barry Plewa   DOCTOR@DOCBARRY.DEMON.CO.UK
+Rod Land                           48/128
+Anton Belenki         ANTON@GYM11.PERM.SU
+Splitting Images                   48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Strangeloop                        48/128
+Philip Reynolds PHIL@HEDGFORD.DEMON.CO.UK
+Styxx                              48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Sweevo's Whirled                     128K
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Technician Ted MegaMix               128K
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+The Runes of Zendos                48/128
+Richard Hallas RICHARD@HALLAS.DEMON.CO.UK
+Tobor                              48/128
+Jon Taylor       JON@BIRKHALL.DEMON.CO.UK
+
+ Any   snapshot   requests  can  be  sent
+directly  to  Emulate! for publication in
+the next issue.

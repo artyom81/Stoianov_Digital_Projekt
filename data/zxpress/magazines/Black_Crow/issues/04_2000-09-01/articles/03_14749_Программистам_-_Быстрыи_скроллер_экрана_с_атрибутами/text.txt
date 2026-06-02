@@ -1,0 +1,239 @@
+Black Crow 04 - Программистам - Быстрый скроллер экрана с атрибутами.
+СКРОЛЛИНГ ЭКРАНА С АТРИБУТАМИ
+(С) PunisHer/VooDoo People
+-----------------------------------------
+Я  хочу  представить  два  скроллера -
+вниз  и вверх с атрибутами. Ничего толко-
+вого  говорить не буду, скажу лишь одно -
+эти  подпрограммы создают конструкции ти-
+па:                                      
+        LD   SP,Откуда                   
+        РОР  HL                          
+        LD   (Куда),HL                   
+        РОР  HL                          
+        LD   (Куда),HL                   
+        РОР  HL                          
+        LD   (Куда),HL                   
+        ...........                      
+        РОР  HL                          
+        LD   (Куда),HL                   
+        РОР  HL                          
+        LD   (Куда),HL
+LD   SP,Откуда                   
+        РОР  HL                          
+        LD   (Куда),HL                   
+                                         
+   Вот листинги подпрограмм:
+;СКРОЛЛЕР ВНИЗ С АТРИБУТАМИ
+;(С) PunisHer/VooDoo People
+DOWN    EQU  #8000 ;по этому адресу будет
+                   ;scroll`ер            
+        LD   HL,#5740;откуда (экран)     
+        LD   DE,#5760;куда               
+        LD   IX,DOWN ;тут создать        
+        LD   (IX),#ED;команда LD (0),SP  
+        LD   (IX+1),#73                  
+        LD   IX,DOWN+4                   
+        EXX                              
+        LD   HL,#5A40;откуда (attr)      
+        LD   DE,#5A60;куда               
+        LD   С,16    ;кол-во знаком. Y-1 
+М3      EXX
+LD   A,8;пикселей в знакоместе   
+        LD   (IX),#31;LD SP,откуда       
+        LD   (IX+1),L                    
+        LD   (IX+2),Н                    
+        INC  IX                          
+        INC  IX                          
+        INC  IX                          
+М2      PUSH DE                          
+        LD   В,16    ;длина строки (X/2) 
+М1      LD   (IX),#Е1;РОР HL             
+        LD   (IX+1),#22;LD (куда),HL     
+        LD   (IX+2),Е                    
+        LD   (IX+3),D                    
+        PUSH ВС                          
+        LD   ВС,4                        
+        ADD  IX,ВС                       
+        РОР  ВС                          
+        INC  DE                          
+        INC  DE                          
+        DJNZ М1                          
+        РОР  DE                          
+        ЕХ   AF,AF`
+CALL DEC_DE                      
+        CALL DEC_HL                      
+        LD   (IX),#31;LD SP,откуда       
+        LD   (IX+1),L                    
+        LD   (IX+2),Н                    
+        LD   ВС,3                        
+        ADD  IX,ВС                       
+        ЕХ   AF,AF`                      
+        DEC  A                           
+        JR   NZ,М2                       
+        EXX                              
+        LD   В,16                        
+        LD   (IX-2),L                    
+        LD   (IX-1),Н                    
+ММЧ     LD   (IX),#Е1;РОР HL             
+        LD   (IX+1),#22;LD (куда),HL     
+        LD   (IX+2),Е                    
+        LD   (IX+3),D                    
+        PUSH ВС                          
+        LD   ВС,4                        
+        ADD  IX,ВС                       
+        РОР  ВС
+INC  DE                          
+        DEC  HL                          
+        DEC  HL                          
+        INC  DE                          
+        DJNZ ММЧ                         
+        PUSH ВС                          
+        ЕХ   DE,HL                       
+        AND  A                           
+        LD   ВС,#40                      
+        SBC  HL,ВС                       
+        ЕХ   DE,HL                       
+        РОР  ВС                          
+        DEC  С                           
+        JR   NZ,М3                       
+        LD   (IX),#31                    
+        INC  IX                          
+        LD   (IX+2),#С9;RET              
+        PUSH IX                          
+        РОР  HL                          
+        LD   IX,DOWN                     
+        LD   (IX+2),L                    
+        LD   (IX+3),Н
+RET
+;СКРОЛЛЕР ВВЕРХ С АТРИБУТАМИ
+;(С) PunisHer/VooDoo People
+UP      EQU  #С000                       
+        LD   HL,#4080;ОТКУДА             
+        LD   DE,#4060;КУДА               
+        LD   IX,UP   ;ТУТ СОЗДАЁМ ROLLER 
+        LD   (IX),#ED;LD (0) SP          
+        LD   (IX+1),#73                  
+        LD   IX,UP+4                     
+        EXX                              
+        LD   HL,#5880                    
+        LD   DE,#5860                    
+        LD   С,16    ;КОЛ-ВО ЗНАКОМ. Y-1 
+ММЗ     EXX                              
+        LD   A,8     ;ЛИНИЙ В ЗНАКОМЕСТЕ 
+        LD   (IX),#31;LD SP,ОТКУДА       
+        LD   (IX+1),L                    
+        LD   (IX+2),Н                    
+        INC  IX                          
+        INC  IX
+INC  IX                          
+ММ2     PUSH DE                          
+        LD   В,16    ;ДЛИНА X/2          
+ММ1     LD   (IX),#Е1;РОР HL             
+        LD   (IX+1),#22;LD (КУДА),HL     
+        LD   (IX+2),Е                    
+        LD   (IX+3),D                    
+        PUSH ВС                          
+        LD   ВС,4                        
+        ADD  IX,ВС                       
+        РОР  ВС                          
+        INC  DE                          
+        INC  DE                          
+        DJNZ ММ1                         
+        РОР  DE                          
+        ЕХ   AF,AF`                      
+        CALL NEX_DE                      
+        CALL NEX_HL                      
+        LD   (IX),#31;LD SP,ОКУДА        
+        LD   (IX+1),L                    
+        LD   (IX+2),Н                    
+        LD   ВС,3
+ADD  IX,ВС                       
+        ЕХ   AF,AF`                      
+        DEC  A                           
+        JR   NZ,ММ2                      
+        EXX                              
+        LD   (IX-3),#31                  
+        LD   (IX-2),L                    
+        LD   (IX-1),Н                    
+        LD   В,16                        
+        LD   (IX-3),#31                  
+        LD   (IX-2),L                    
+        LD   (IX-1),Н                    
+МММЧ    LD   (IX),#Е1;РОР HL             
+        LD   (IX+1),#22;LD (КУДА),HL     
+        LD   (IX+2),Е                    
+        LD   (IX+3),D                    
+        PUSH ВС                          
+        LD   ВС,4                        
+        ADD  IX,ВС                       
+        РОР  ВС                          
+        INC  DE                          
+        INC  HL
+INC  HL                          
+        INC  DE                          
+        DJNZ МММЧ                        
+        DEC  С                           
+        JR   NZ,ММЗ                      
+        LD   (IX),#31                    
+        INC  IX                          
+        LD   (IX+2),#С9;RET              
+        PUSH IX                          
+        РОР  HL                          
+        LD   IX,UP                       
+        LD   (IX+2),L                    
+        LD   (IX+3),Н                    
+        RET                              
+                                         
+;Дальше идут стандартные подпрограммы    
+;увеличения и уменьшения адреса экрана:  
+                                         
+NEX_DE  INC  D                           
+        LD   A,D                         
+        AND  7                           
+        RET  NZ
+LD   A,Е                         
+        ADD  A,#20                       
+        LD   Е,A                         
+        RET  С                           
+        LD   A,D                         
+        SUB  8                           
+        LD   D,A                         
+        RET                              
+                                         
+NEX_HL  ЕХ   DE,HL                       
+        CALL NEX_DE                      
+        ЕХ   DE,HL                       
+        RET                              
+                                         
+DEC_DE  DEC  D                           
+        LD   A,D                         
+        CPL                              
+        AND  7                           
+        RET  NZ                          
+        LD   A,Е                         
+        SUB  #20                         
+        LD   Е,A
+RET  С                           
+        LD   A,D                         
+        ADD  A,8                         
+        LD   D,A                         
+        RET                              
+                                         
+DEC_HL  ЕХ   DE,HL                       
+        CALL DEC_DE                      
+        ЕХ   DE,HL                       
+        RET                              
+                                         
+   Для чего это всё нужно? Абсурдно наби-
+рать в ассемблере  многокилометровые лис-
+тинги, где будет одно и то же, поэтому мы
+предлагаем вам своеобразный  инсталлятор,
+который сформирует нужный алгоритм в ОЗУ.
+   Данный алгоритм скроллера является од-
+ним из быстрых и рекомендуется к примене-
+нию в различных  читалках текста, играх и
+прочих программах, где память не критична
+и можно себе позволить большой, но эконо-
+мичный для процессора алгоритм переброски
+памяти.

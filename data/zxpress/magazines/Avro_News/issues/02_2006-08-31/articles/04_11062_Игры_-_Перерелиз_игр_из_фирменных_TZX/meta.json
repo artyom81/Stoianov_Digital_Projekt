@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2006-08-31",
+  "order": 4,
+  "article_id": 11062,
+  "title_link": "Игры - Перерелиз игр из фирменных TZX.",
+  "title_h1": "Avro News 02 - Игры - Перерелиз игр из фирменных TZX.",
+  "print_url": "https://zxpress.ru/print.php?id=11062",
+  "article_url": "https://zxpress.ru/article.php?id=11062",
+  "fetched_at": "2026-05-31T21:38:33Z"
+}

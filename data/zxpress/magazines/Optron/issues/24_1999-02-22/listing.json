@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 1487,
+    "article_url": "https://zxpress.ru/article.php?id=1487",
+    "print_url": "https://zxpress.ru/print.php?id=1487",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: ZX-News 42, Don News 1, Nicron 106, ZX-Pilot 30.",
+    "order": 1,
+    "issue_label": "24",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_ZX-News_42_Don_News_1_Nic"
+  },
+  {
+    "article_id": 1488,
+    "article_url": "https://zxpress.ru/article.php?id=1488",
+    "print_url": "https://zxpress.ru/print.php?id=1488",
+    "title_link": "Вся жизнь игра - Последний II: злодеи близко.",
+    "order": 2,
+    "issue_label": "24",
+    "short_slug": "Вся_жизнь_игра_-_Последнии_II_злодеи_близко"
+  },
+  {
+    "article_id": 1492,
+    "article_url": "https://zxpress.ru/article.php?id=1492",
+    "print_url": "https://zxpress.ru/print.php?id=1492",
+    "title_link": "Ликбез - Ассемблер взгляд издалека: Логические операции, Операции AND, OR,XOR,NOT; мнемоники. Результаты действия команд.",
+    "order": 3,
+    "issue_label": "24",
+    "short_slug": "Ликбез_-_Ассемблер_взгляд_издалека_Логические_операции_Опера"
+  },
+  {
+    "article_id": 1489,
+    "article_url": "https://zxpress.ru/article.php?id=1489",
+    "print_url": "https://zxpress.ru/print.php?id=1489",
+    "title_link": "Лит. страничка - Гриф \"Y-II\" (Дневник).",
+    "order": 4,
+    "issue_label": "24",
+    "short_slug": "Лит_страничка_-_Гриф_Y-II_Дневник"
+  },
+  {
+    "article_id": 1490,
+    "article_url": "https://zxpress.ru/article.php?id=1490",
+    "print_url": "https://zxpress.ru/print.php?id=1490",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 5,
+    "issue_label": "24",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1491,
+    "article_url": "https://zxpress.ru/article.php?id=1491",
+    "print_url": "https://zxpress.ru/print.php?id=1491",
+    "title_link": "Рубрика X - Прощания славянки.",
+    "order": 6,
+    "issue_label": "24",
+    "short_slug": "Рубрика_X_-_Прощания_славянки"
+  }
+]

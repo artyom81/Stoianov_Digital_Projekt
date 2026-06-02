@@ -1,0 +1,15 @@
+{
+  "magazine_id": 166,
+  "magazine_name": "Proton",
+  "city": null,
+  "country": null,
+  "issue_label": "35",
+  "issue_date_iso": "1998-05-27",
+  "order": 4,
+  "article_id": 16759,
+  "title_link": "Вдруг пригодится - При определении номера EMS после номера пишет \"abonent type\", а затем некое число...",
+  "title_h1": "Proton 35 - Вдруг пригодится - При определении номера EMS после номера пишет \"abonent type\", а затем некое число...",
+  "print_url": "https://zxpress.ru/print.php?id=16759",
+  "article_url": "https://zxpress.ru/article.php?id=16759",
+  "fetched_at": "2026-05-31T22:53:08Z"
+}

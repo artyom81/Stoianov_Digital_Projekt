@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 1937,
+    "article_url": "https://zxpress.ru/article.php?id=1937",
+    "print_url": "https://zxpress.ru/print.php?id=1937",
+    "title_link": "Apple, Amiga, IBM ... - Какой компьютер лучше.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Apple_Amiga_IBM_-_Какои_компьютер_лучше"
+  },
+  {
+    "article_id": 9,
+    "article_url": "https://zxpress.ru/article.php?id=9",
+    "print_url": "https://zxpress.ru/print.php?id=9",
+    "title_link": "B.B.S. Новости - O работе B.B.S.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "BBS_Новости_-_O_работе_BBS"
+  },
+  {
+    "article_id": 1938,
+    "article_url": "https://zxpress.ru/article.php?id=1938",
+    "print_url": "https://zxpress.ru/print.php?id=1938",
+    "title_link": "Operation Wolf - Новелла по игре \"Operation Wolf\".",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Operation_Wolf_-_Новелла_по_игре_Operation_Wolf"
+  },
+  {
+    "article_id": 1942,
+    "article_url": "https://zxpress.ru/article.php?id=1942",
+    "print_url": "https://zxpress.ru/print.php?id=1942",
+    "title_link": "Видеообзор - Видеообзор новинок.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Видеообзор_-_Видеообзор_новинок"
+  },
+  {
+    "article_id": 1936,
+    "article_url": "https://zxpress.ru/article.php?id=1936",
+    "print_url": "https://zxpress.ru/print.php?id=1936",
+    "title_link": "Новье !? - O программах Death Zone, Tremor.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Новье_-_O_программах_Death_Zone_Tremor"
+  },
+  {
+    "article_id": 1939,
+    "article_url": "https://zxpress.ru/article.php?id=1939",
+    "print_url": "https://zxpress.ru/print.php?id=1939",
+    "title_link": "Обо всем понемногу - О новых режимах работы B.B.S. STS'a.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Обо_всем_понемногу_-_О_новых_режимах_работы_BBS_STSa"
+  },
+  {
+    "article_id": 1940,
+    "article_url": "https://zxpress.ru/article.php?id=1940",
+    "print_url": "https://zxpress.ru/print.php?id=1940",
+    "title_link": "Обо всем понемногу - Подключение AY-Mouse.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Обо_всем_понемногу_-_Подключение_AY-Mouse"
+  },
+  {
+    "article_id": 1941,
+    "article_url": "https://zxpress.ru/article.php?id=1941",
+    "print_url": "https://zxpress.ru/print.php?id=1941",
+    "title_link": "Обо всем понемногу - Что нужно для спасения Spectrum'a.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Обо_всем_понемногу_-_Что_нужно_для_спасения_Spectruma"
+  },
+  {
+    "article_id": 1943,
+    "article_url": "https://zxpress.ru/article.php?id=1943",
+    "print_url": "https://zxpress.ru/print.php?id=1943",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

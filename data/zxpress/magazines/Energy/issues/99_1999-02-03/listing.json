@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 3937,
+    "article_url": "https://zxpress.ru/article.php?id=3937",
+    "print_url": "https://zxpress.ru/print.php?id=3937",
+    "title_link": "CHAOS ZONE'99 - О демке CHAOS ZONE'99.",
+    "order": 1,
+    "issue_label": "99",
+    "short_slug": "CHAOS_ZONE99_-_О_демке_CHAOS_ZONE99"
+  },
+  {
+    "article_id": 3942,
+    "article_url": "https://zxpress.ru/article.php?id=3942",
+    "print_url": "https://zxpress.ru/print.php?id=3942",
+    "title_link": "DEAD TOP - 10 лучших игр и 3 журналов.",
+    "order": 2,
+    "issue_label": "99",
+    "short_slug": "DEAD_TOP_-_10_лучших_игр_и_3_журналов"
+  },
+  {
+    "article_id": 3941,
+    "article_url": "https://zxpress.ru/article.php?id=3941",
+    "print_url": "https://zxpress.ru/print.php?id=3941",
+    "title_link": "PC-RULEZ - Непутевые заметки или как я стал писюком.",
+    "order": 3,
+    "issue_label": "99",
+    "short_slug": "PC-RULEZ_-_Непутевые_заметки_или_как_я_стал_писюком"
+  },
+  {
+    "article_id": 3943,
+    "article_url": "https://zxpress.ru/article.php?id=3943",
+    "print_url": "https://zxpress.ru/print.php?id=3943",
+    "title_link": "PHD - Еще одно Humble opinion по поводу PHD или почему все так\r\n мрачно?",
+    "order": 4,
+    "issue_label": "99",
+    "short_slug": "PHD_-_Еще_одно_Humble_opinion_по_поводу_PHD_или_почему_все_т"
+  },
+  {
+    "article_id": 3944,
+    "article_url": "https://zxpress.ru/article.php?id=3944",
+    "print_url": "https://zxpress.ru/print.php?id=3944",
+    "title_link": "RAGE - Rage Technology - взгляд изнутри...",
+    "order": 5,
+    "issue_label": "99",
+    "short_slug": "RAGE_-_Rage_Technology_-_взгляд_изнутри"
+  },
+  {
+    "article_id": 3940,
+    "article_url": "https://zxpress.ru/article.php?id=3940",
+    "print_url": "https://zxpress.ru/print.php?id=3940",
+    "title_link": "VIRTUAL TR-DOS - Новый сайт в Internet'е.",
+    "order": 6,
+    "issue_label": "99",
+    "short_slug": "VIRTUAL_TR-DOS_-_Новыи_саит_в_Internetе"
+  },
+  {
+    "article_id": 3936,
+    "article_url": "https://zxpress.ru/article.php?id=3936",
+    "print_url": "https://zxpress.ru/print.php?id=3936",
+    "title_link": "Байки из склепа - История про Штурмана.",
+    "order": 7,
+    "issue_label": "99",
+    "short_slug": "Баики_из_склепа_-_История_про_Штурмана"
+  },
+  {
+    "article_id": 3946,
+    "article_url": "https://zxpress.ru/article.php?id=3946",
+    "print_url": "https://zxpress.ru/print.php?id=3946",
+    "title_link": "Новье - О новинках ПО: Don News 1, Deja Vu 7.",
+    "order": 8,
+    "issue_label": "99",
+    "short_slug": "Новье_-_О_новинках_ПО_Don_News_1_Deja_Vu_7"
+  },
+  {
+    "article_id": 3945,
+    "article_url": "https://zxpress.ru/article.php?id=3945",
+    "print_url": "https://zxpress.ru/print.php?id=3945",
+    "title_link": "От авторов - Идет подготовка к зависанию вашего компьютера...",
+    "order": 9,
+    "issue_label": "99",
+    "short_slug": "От_авторов_-_Идет_подготовка_к_зависанию_вашего_компьютера"
+  },
+  {
+    "article_id": 3938,
+    "article_url": "https://zxpress.ru/article.php?id=3938",
+    "print_url": "https://zxpress.ru/print.php?id=3938",
+    "title_link": "Размышления - Знакомство с миром Спектрума.",
+    "order": 10,
+    "issue_label": "99",
+    "short_slug": "Размышления_-_Знакомство_с_миром_Спектрума"
+  },
+  {
+    "article_id": 3939,
+    "article_url": "https://zxpress.ru/article.php?id=3939",
+    "print_url": "https://zxpress.ru/print.php?id=3939",
+    "title_link": "Рек-тайм - Реклама и объявления ...",
+    "order": 11,
+    "issue_label": "99",
+    "short_slug": "Рек-таим_-_Реклама_и_объявления"
+  }
+]

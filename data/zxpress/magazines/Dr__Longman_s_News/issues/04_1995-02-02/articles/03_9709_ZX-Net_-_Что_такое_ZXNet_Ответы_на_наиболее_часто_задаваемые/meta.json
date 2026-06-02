@@ -1,0 +1,15 @@
+{
+  "magazine_id": 59,
+  "magazine_name": "Dr. Longman`s News",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1995-02-02",
+  "order": 3,
+  "article_id": 9709,
+  "title_link": "ZX-Net - Что такое ZXNet? Ответы на наиболее часто задаваемые вопросы о\r\nZXNet.",
+  "title_h1": "Dr. Longman`s News 04 - ZX-Net - Что такое ZXNet? Ответы на наиболее часто задаваемые вопросы о ZXNet.",
+  "print_url": "https://zxpress.ru/print.php?id=9709",
+  "article_url": "https://zxpress.ru/article.php?id=9709",
+  "fetched_at": "2026-05-31T21:59:43Z"
+}

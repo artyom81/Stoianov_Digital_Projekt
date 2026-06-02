@@ -1,0 +1,15 @@
+{
+  "magazine_id": 302,
+  "magazine_name": "Info Guide",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "2015-07-05",
+  "order": 9,
+  "article_id": 18194,
+  "title_link": "Code - Этюды: Вызов функции по номеру, Поиск текста по номеру, Определение наличия\r\n музыкального сопроцессора, Установка пикселя на ATM Turbo 2, Библиотеки процедур в ALASM, Короткий генератор случайных чисел, Ускорение LD:PUSH.",
+  "title_h1": "Info Guide 11 - Code - Этюды: Вызов функции по номеру, Поиск текста по номеру, Определение наличия  музыкального сопроцессора, Установка пикселя на ATM Turbo 2, Библиотеки процедур в ALASM, Короткий генератор случайных чисел, Ускорение LD:PUSH.",
+  "print_url": "https://zxpress.ru/print.php?id=18194",
+  "article_url": "https://zxpress.ru/article.php?id=18194",
+  "fetched_at": "2026-05-31T23:43:36Z"
+}

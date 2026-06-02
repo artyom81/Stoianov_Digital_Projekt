@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10078,
+    "article_url": "https://zxpress.ru/article.php?id=10078",
+    "print_url": "https://zxpress.ru/print.php?id=10078",
+    "title_link": "News - Сегодня мы празднуем шестилетие встречи Alone Co. и Invaders Gr.",
+    "order": 1,
+    "issue_label": "35",
+    "short_slug": "News_-_Сегодня_мы_празднуем_шестилетие_встречи_Alone_Co_и_In"
+  },
+  {
+    "article_id": 10079,
+    "article_url": "https://zxpress.ru/article.php?id=10079",
+    "print_url": "https://zxpress.ru/print.php?id=10079",
+    "title_link": "Крыша в пути - Что, если до написания полноценного коммандера под FAT32 поддержать винт как TR-DOS диск с \"гиперпереходами\"?",
+    "order": 2,
+    "issue_label": "35",
+    "short_slug": "Крыша_в_пути_-_Что_если_до_написания_полноценного_коммандера"
+  },
+  {
+    "article_id": 10080,
+    "article_url": "https://zxpress.ru/article.php?id=10080",
+    "print_url": "https://zxpress.ru/print.php?id=10080",
+    "title_link": "Мысли - продолжаем наш прерванный разговор о проблемах образования.",
+    "order": 3,
+    "issue_label": "35",
+    "short_slug": "Мысли_-_продолжаем_наш_прерванныи_разговор_о_проблемах_образ"
+  },
+  {
+    "article_id": 10081,
+    "article_url": "https://zxpress.ru/article.php?id=10081",
+    "print_url": "https://zxpress.ru/print.php?id=10081",
+    "title_link": "Contacts - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "35",
+    "short_slug": "Contacts_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  }
+]

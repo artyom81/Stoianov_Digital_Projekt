@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "2000-10-31",
+  "order": 8,
+  "article_id": 5144,
+  "title_link": "NeOS - Операционная Система нового поколения для ZX Spectrum совместимых компьютеров NeOS.",
+  "title_h1": "Echo 07 - NeOS - Операционная Система нового поколения для ZX Spectrum совместимых компьютеров NeOS.",
+  "print_url": "https://zxpress.ru/print.php?id=5144",
+  "article_url": "https://zxpress.ru/article.php?id=5144",
+  "fetched_at": "2026-05-31T22:01:00Z"
+}

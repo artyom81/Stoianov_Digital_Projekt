@@ -1,0 +1,15 @@
+{
+  "magazine_id": 51,
+  "magazine_name": "Demo or Die",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-02-28",
+  "order": 18,
+  "article_id": 7967,
+  "title_link": "SOFTWARE - планы по созданию ELITE с залитой графикой.",
+  "title_h1": "Deja Vu 07 - SOFTWARE - планы по созданию ELITE с залитой графикой.",
+  "print_url": "https://zxpress.ru/print.php?id=7967",
+  "article_url": "https://zxpress.ru/article.php?id=7967",
+  "fetched_at": "2026-05-31T21:56:38Z"
+}

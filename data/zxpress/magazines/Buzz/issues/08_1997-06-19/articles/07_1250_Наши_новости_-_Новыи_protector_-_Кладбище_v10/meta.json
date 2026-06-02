@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1997-06-19",
+  "order": 7,
+  "article_id": 1250,
+  "title_link": "Наши новости - Новый protector - Кладбище v1.0",
+  "title_h1": "Buzz 08 - Наши новости - Новый protector - Кладбище v1.0",
+  "print_url": "https://zxpress.ru/print.php?id=1250",
+  "article_url": "https://zxpress.ru/article.php?id=1250",
+  "fetched_at": "2026-05-31T21:47:36Z"
+}

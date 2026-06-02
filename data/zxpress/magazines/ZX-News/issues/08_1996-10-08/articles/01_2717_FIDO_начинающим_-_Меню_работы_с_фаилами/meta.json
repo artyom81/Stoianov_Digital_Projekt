@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1996-10-08",
+  "order": 1,
+  "article_id": 2717,
+  "title_link": "FIDO начинающим - Меню работы с файлами.",
+  "title_h1": "ZX-News 08 - FIDO начинающим - Меню работы с файлами.",
+  "print_url": "https://zxpress.ru/print.php?id=2717",
+  "article_url": "https://zxpress.ru/article.php?id=2717",
+  "fetched_at": "2026-05-31T23:28:00Z"
+}

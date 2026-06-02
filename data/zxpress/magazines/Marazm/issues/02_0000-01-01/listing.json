@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 18167,
+    "article_url": "https://zxpress.ru/article.php?id=18167",
+    "print_url": "https://zxpress.ru/print.php?id=18167",
+    "title_link": "Маразм жив! - я решил ВЫПУСКАТЬ ГАЗЕТУ!",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Маразм_жив_-_я_решил_ВЫПУСКАТЬ_ГАЗЕТУ"
+  },
+  {
+    "article_id": 18168,
+    "article_url": "https://zxpress.ru/article.php?id=18168",
+    "print_url": "https://zxpress.ru/print.php?id=18168",
+    "title_link": "Новости одного дня - Вы не поверите, но за один день можно узнать и постичь массу интересного! Вот посудите сами...",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Новости_одного_дня_-_Вы_не_поверите_но_за_один_день_можно_уз"
+  },
+  {
+    "article_id": 18169,
+    "article_url": "https://zxpress.ru/article.php?id=18169",
+    "print_url": "https://zxpress.ru/print.php?id=18169",
+    "title_link": "Если глючит модем... - вот вам советы от Hamer'a",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Если_глючит_модем_-_вот_вам_советы_от_Hamera"
+  },
+  {
+    "article_id": 18170,
+    "article_url": "https://zxpress.ru/article.php?id=18170",
+    "print_url": "https://zxpress.ru/print.php?id=18170",
+    "title_link": "Ну и Эпилог... - связь со мной осуществляется через любую bbs.",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Ну_и_Эпилог_-_связь_со_мнои_осуществляется_через_любую_bbs"
+  }
+]

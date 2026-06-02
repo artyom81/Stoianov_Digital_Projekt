@@ -1,0 +1,83 @@
+ACNews 42 - Мысли - Снова о шифровках и шифрах
+:::::::::::::::::::::::::::: Мысли ::::::::::::::::::::::::::::: 
+
+                       Снова о шифровках
+
+Цифровая шифровка, приведённая в ACN#12, оказалась не самой удо─
+бной  для  чтения. Наверно, была  взята неверная точка отсчёта -
+буржуйские  телефонные аппараты. При другой же системе разбиения
+читать   становится   значительно  легче!  Прийти  к  ней  можно
+следующим  образом.  Представьте, что русский язык превратился в
+гавайский,или в язык Pirahna, или даже хуже - что в нём осталось
+9 букв:
+
+---------------------------------------------------------------- 
+Ведь по-русски можно писать всего 9 (девятью) буквами вместо 33 
+- тремя гласными (a, e, u) и шестью согласными (k, l, n, p, s, 
+t). И не по азбуке Морзе, а пользуясь тремя простыми правилами 
+об отождествлении, удвоении и палатизации. 
+1. а=о, е=ы=й, в=у, п=ф, ш=с, ж=з, к=х, ц=ч. 
+2. Буква удваивается для озвончения или в случаях nn=м, ll=р, 
+ee=и, aa=о. 
+3. Дополнительная (сверх произношения) буква e справа от 
+согласной смягчает эту согласную: например, ш превращается в щ. 
+Правда, автоматизировать этот процесс нельзя: дело в том, что 
+существующяя русская орфография ориентирована именно на 
+кириллический набор букв. А новое правописание приходится 
+восстанавливать прямо из произношения, с учётом лучшей 
+читабельности и с оглядкой на двусмысленность. 
+
+Uette pa-lluske nnaassna pesate useuaa 9 (tteueateu) ppukuanne 
+unnesta 33 - tllennea kklasnenne (a, e, u) ee sesteu 
+sakklasnenne (k, l, n, p, s, t). Ee ne pa assppuke Nnaallsse, a 
+paalssuease tllennea pllaastenne pllauelanne aab 
+aataassttestulenee, uttuaenee ee palatessatsee. 
+...
+Pllautta, autannatessellauate etat pllatses nelssea: ttelaa u 
+taann, tstaa suseestuueseae lluskae aallpaakkllapeea 
+aalleenteellauana eennenaa na kelleeleetseskee nappaall ppukuu. 
+A naauae pllauapesaneen pllekaattetsa uaastanauleuate plleanna 
+eess pllaessnaseneea, s utseaatann lutsee tsetappelnaaste ee s 
+aakkleattkae na ttuusnneslenaste. 
+
+Ещё букву e можно заменить на i, в этом случае ii=е, наверно, 
+нельзя, но чистое e для однозначности можно иногда писать через 
+ia. Согласные можно тоже разрешить уточнять для уменьшения 
+двусмысленности: 
+ш не только s, но и sk, 
+щ не только se, но и ske, 
+ч не только ts, но и tse, 
+х не только k, но и ks, 
+ф не только p, но и pk, 
+ж не только ss, но и ssk. 
+
+Вполне жизнеспособный алфавит. Даже может быть, что пиранийских 
+дикарей просто подвели с алфавитом - дали меньше букв, чем у них 
+звуков в языке. 
+
+Боюсь, для английского языка (устного) такой фокус не пройдёт. 
+Но для письменного можно :) 
+Было: 
+Transcriber's Note: The following text contains numerous 
+non-English words containing diacritical marks not contained in 
+the ASCII character set. 
+Стало: 
+Tllansklleeppell's Naate: Tke pkaallaaueenkk tekst kaantaeens 
+nunnellaaus naan-Enkkleesk uaalltts kaantaeeneenkk 
+tteeaklleeteekal nnallks naat kaantaeenett een tke ASKEE 
+kallaktell set. 
+---------------------------------------------------------------- 
+
+Поскольку  цифр  у  нас  10, а  буква e в русском языке получает
+слишком  много  смыслов, то можно выделить особую букву i - иск─
+лючительно для смягчения и обозначения звука i (под ударением).
+
+Осталось только подобрать соответствие цифр буквам (по форме):
+
+           a=0, o=00 (под ударением), u=8, e=3, i=1,
+                 k=9, l=2, n=4, p=6, s=5, t=7,
+              g=99, r=22, m=44, b=66, z=55, d=77.
+
+Ввод SMS упростился бы :)
+
+                                                  Alone Coder :)

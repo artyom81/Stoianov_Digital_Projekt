@@ -1,0 +1,15 @@
+{
+  "magazine_id": 201,
+  "magazine_name": "SpecInfo",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1997-09-23",
+  "order": 2,
+  "article_id": 10898,
+  "title_link": "Новинки - новые игры для спектрума - Doom, Mortal Kombat.",
+  "title_h1": "SpecInfo 02 - Новинки - новые игры для спектрума - Doom, Mortal Kombat.",
+  "print_url": "https://zxpress.ru/print.php?id=10898",
+  "article_url": "https://zxpress.ru/article.php?id=10898",
+  "fetched_at": "2026-05-31T23:04:44Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 240,
+  "magazine_name": "Wizard News",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 6,
+  "article_id": 17286,
+  "title_link": "Пример игры - Вы демобилизованный с войны против метаморфов...",
+  "title_h1": "Wizard News 01 - Пример игры - Вы демобилизованный с войны против метаморфов...",
+  "print_url": "https://zxpress.ru/print.php?id=17286",
+  "article_url": "https://zxpress.ru/article.php?id=17286",
+  "fetched_at": "2026-05-31T23:17:49Z"
+}

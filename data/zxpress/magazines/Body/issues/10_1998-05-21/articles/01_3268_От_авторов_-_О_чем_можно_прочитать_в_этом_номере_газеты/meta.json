@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1998-05-21",
+  "order": 1,
+  "article_id": 3268,
+  "title_link": "От авторов - О чем можно прочитать в этом номере газеты.",
+  "title_h1": "Body 10 - От авторов - О чем можно прочитать в этом номере газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=3268",
+  "article_url": "https://zxpress.ru/article.php?id=3268",
+  "fetched_at": "2026-05-31T21:41:10Z"
+}

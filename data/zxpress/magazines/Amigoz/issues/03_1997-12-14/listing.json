@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 10712,
+    "article_url": "https://zxpress.ru/article.php?id=10712",
+    "print_url": "https://zxpress.ru/print.php?id=10712",
+    "title_link": "Вступление - уже появился и ТРЕТИЙ номер газеты \"AMIGOZ\"!",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_уже_появился_и_ТРЕТИИ_номер_газеты_AMIGOZ"
+  },
+  {
+    "article_id": 10713,
+    "article_url": "https://zxpress.ru/article.php?id=10713",
+    "print_url": "https://zxpress.ru/print.php?id=10713",
+    "title_link": "Новости - Халло ,всем пользователям рулез-компьютера Speccy.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Халло_всем_пользователям_рулез-компьютера_Speccy"
+  },
+  {
+    "article_id": 10714,
+    "article_url": "https://zxpress.ru/article.php?id=10714",
+    "print_url": "https://zxpress.ru/print.php?id=10714",
+    "title_link": "Юмор - 9600 бод и все-все-все...",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Юмор_-_9600_бод_и_все-все-все"
+  },
+  {
+    "article_id": 10715,
+    "article_url": "https://zxpress.ru/article.php?id=10715",
+    "print_url": "https://zxpress.ru/print.php?id=10715",
+    "title_link": "Реклама - Редакции газеты \"AMIGOZ\" требуются корреспонденты.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Редакции_газеты_AMIGOZ_требуются_корреспонденты"
+  },
+  {
+    "article_id": 10716,
+    "article_url": "https://zxpress.ru/article.php?id=10716",
+    "print_url": "https://zxpress.ru/print.php?id=10716",
+    "title_link": "Приветы - я хотел бы передать привет со страниц газеты.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "Приветы_-_я_хотел_бы_передать_привет_со_страниц_газеты"
+  }
+]

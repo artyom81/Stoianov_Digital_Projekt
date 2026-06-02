@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 20,
+    "article_url": "https://zxpress.ru/article.php?id=20",
+    "print_url": "https://zxpress.ru/print.php?id=20",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "61",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2400,
+    "article_url": "https://zxpress.ru/article.php?id=2400",
+    "print_url": "https://zxpress.ru/print.php?id=2400",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "61",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2401,
+    "article_url": "https://zxpress.ru/article.php?id=2401",
+    "print_url": "https://zxpress.ru/print.php?id=2401",
+    "title_link": "ZXNet - Об открытии нового адреса ZXNet.",
+    "order": 3,
+    "issue_label": "61",
+    "short_slug": "ZXNet_-_Об_открытии_нового_адреса_ZXNet"
+  },
+  {
+    "article_id": 2399,
+    "article_url": "https://zxpress.ru/article.php?id=2399",
+    "print_url": "https://zxpress.ru/print.php?id=2399",
+    "title_link": "Застрял ? - Описание игры \"Flunky\" (продолжение).",
+    "order": 4,
+    "issue_label": "61",
+    "short_slug": "Застрял_-_Описание_игры_Flunky_продолжение"
+  },
+  {
+    "article_id": 2398,
+    "article_url": "https://zxpress.ru/article.php?id=2398",
+    "print_url": "https://zxpress.ru/print.php?id=2398",
+    "title_link": "Мозаика - О проведении DemoBit'96.\r\n Cheat к игре \"The Hundred\".",
+    "order": 5,
+    "issue_label": "61",
+    "short_slug": "Мозаика_-_О_проведении_DemoBit96_Cheat_к_игре_The_Hundred"
+  },
+  {
+    "article_id": 2397,
+    "article_url": "https://zxpress.ru/article.php?id=2397",
+    "print_url": "https://zxpress.ru/print.php?id=2397",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "61",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 12349,
+    "article_url": "https://zxpress.ru/article.php?id=12349",
+    "print_url": "https://zxpress.ru/print.php?id=12349",
+    "title_link": "От редакции - небольшое лирическое отступление.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "От_редакции_-_небольшое_лирическое_отступление"
+  },
+  {
+    "article_id": 12350,
+    "article_url": "https://zxpress.ru/article.php?id=12350",
+    "print_url": "https://zxpress.ru/print.php?id=12350",
+    "title_link": "Новости - Прекратила свое существование газета - MAXIMUM.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Новости_-_Прекратила_свое_существование_газета_-_MAXIMUM"
+  },
+  {
+    "article_id": 12351,
+    "article_url": "https://zxpress.ru/article.php?id=12351",
+    "print_url": "https://zxpress.ru/print.php?id=12351",
+    "title_link": "Письма - Мнение IMPERIO о демках.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Письма_-_Мнение_IMPERIO_о_демках"
+  },
+  {
+    "article_id": 12352,
+    "article_url": "https://zxpress.ru/article.php?id=12352",
+    "print_url": "https://zxpress.ru/print.php?id=12352",
+    "title_link": "Дискуссия - Письмо от IMPERIO: о \"продуктах\" творческой деятельности синклеристов.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Дискуссия_-_Письмо_от_IMPERIO_о_продуктах_творческои_деятель"
+  },
+  {
+    "article_id": 12353,
+    "article_url": "https://zxpress.ru/article.php?id=12353",
+    "print_url": "https://zxpress.ru/print.php?id=12353",
+    "title_link": "SPECCY - Хай живет Спектрум.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "SPECCY_-_Хаи_живет_Спектрум"
+  },
+  {
+    "article_id": 12354,
+    "article_url": "https://zxpress.ru/article.php?id=12354",
+    "print_url": "https://zxpress.ru/print.php?id=12354",
+    "title_link": "Железо - Доработка позволяющая улучшить качество приема информации на модеме.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Железо_-_Доработка_позволяющая_улучшить_качество_приема_инфо"
+  },
+  {
+    "article_id": 12355,
+    "article_url": "https://zxpress.ru/article.php?id=12355",
+    "print_url": "https://zxpress.ru/print.php?id=12355",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

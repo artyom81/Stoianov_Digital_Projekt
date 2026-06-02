@@ -1,0 +1,29 @@
+{
+  "issues": [
+    {
+      "issue_label": "00",
+      "issue_date_iso": "2006-03-12",
+      "articles_count": 8
+    },
+    {
+      "issue_label": "01",
+      "issue_date_iso": "2006-03-31",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "2006-08-31",
+      "articles_count": 6
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "2006-10-08",
+      "articles_count": 1
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "2006-10-27",
+      "articles_count": 3
+    }
+  ]
+}

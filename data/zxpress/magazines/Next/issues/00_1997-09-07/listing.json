@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 15411,
+    "article_url": "https://zxpress.ru/article.php?id=15411",
+    "print_url": "https://zxpress.ru/print.php?id=15411",
+    "title_link": "Введение - Что самое интересное, не поверите - данный номер пишется уже после того, как сделан NEXT #01.",
+    "order": 1,
+    "issue_label": "00",
+    "short_slug": "Введение_-_Что_самое_интересное_не_поверите_-_данныи_номер_п"
+  },
+  {
+    "article_id": 15412,
+    "article_url": "https://zxpress.ru/article.php?id=15412",
+    "print_url": "https://zxpress.ru/print.php?id=15412",
+    "title_link": "Правила выпуска газеты - Пока что правила полностью не приняты, присылайте свои предложения в файлах \"FOR_NEXT\".",
+    "order": 2,
+    "issue_label": "00",
+    "short_slug": "Правила_выпуска_газеты_-_Пока_что_правила_полностью_не_приня"
+  },
+  {
+    "article_id": 2618,
+    "article_url": "https://zxpress.ru/article.php?id=2618",
+    "print_url": "https://zxpress.ru/print.php?id=2618",
+    "title_link": "BBS-Лист - Список Vicomm-совместимых BBS.",
+    "order": 3,
+    "issue_label": "00",
+    "short_slug": "BBS-Лист_-_Список_Vicomm-совместимых_BBS"
+  },
+  {
+    "article_id": 1849,
+    "article_url": "https://zxpress.ru/article.php?id=1849",
+    "print_url": "https://zxpress.ru/print.php?id=1849",
+    "title_link": "Story-3 - Дилогия \"Червь\". Книга первая: Князь тьмы (глава 16-18).",
+    "order": 4,
+    "issue_label": "00",
+    "short_slug": "Story-3_-_Дилогия_Червь_Книга_первая_Князь_тьмы_глава_16-18"
+  },
+  {
+    "article_id": 1995,
+    "article_url": "https://zxpress.ru/article.php?id=1995",
+    "print_url": "https://zxpress.ru/print.php?id=1995",
+    "title_link": "WANTED !!! - Разыскиваются : Sunshine, Three Model, Enjust World,\r\n Cyrus 2...",
+    "order": 5,
+    "issue_label": "00",
+    "short_slug": "WANTED_-_Разыскиваются_Sunshine_Three_Model_Enjust_World_Cyr"
+  },
+  {
+    "article_id": 14979,
+    "article_url": "https://zxpress.ru/article.php?id=14979",
+    "print_url": "https://zxpress.ru/print.php?id=14979",
+    "title_link": "Enjoy - Будем знакомы. Случай из жизни.",
+    "order": 6,
+    "issue_label": "00",
+    "short_slug": "Enjoy_-_Будем_знакомы_Случаи_из_жизни"
+  },
+  {
+    "article_id": 12955,
+    "article_url": "https://zxpress.ru/article.php?id=12955",
+    "print_url": "https://zxpress.ru/print.php?id=12955",
+    "title_link": "Творчесво - эпопея: хронологический отчет о создании игры \"Куpьеp - 2\".",
+    "order": 7,
+    "issue_label": "00",
+    "short_slug": "Творчесво_-_эпопея_хронологическии_отчет_о_создании_игры_Куp"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3199,
+    "article_url": "https://zxpress.ru/article.php?id=3199",
+    "print_url": "https://zxpress.ru/print.php?id=3199",
+    "title_link": "GAME Обзор - Описание игры Mortal Kombat (продолжение).",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "GAME_Обзор_-_Описание_игры_Mortal_Kombat_продолжение"
+  },
+  {
+    "article_id": 3200,
+    "article_url": "https://zxpress.ru/article.php?id=3200",
+    "print_url": "https://zxpress.ru/print.php?id=3200",
+    "title_link": "Глюк! - О глюках в читалке газеты.\r\n Теория ошибок.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Глюк_-_О_глюках_в_читалке_газеты_Теория_ошибок"
+  },
+  {
+    "article_id": 3201,
+    "article_url": "https://zxpress.ru/article.php?id=3201",
+    "print_url": "https://zxpress.ru/print.php?id=3201",
+    "title_link": "Давайте посмеемся - Ответы GIVER'a на задачки второго номера.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Даваите_посмеемся_-_Ответы_GIVERa_на_задачки_второго_номера"
+  },
+  {
+    "article_id": 3198,
+    "article_url": "https://zxpress.ru/article.php?id=3198",
+    "print_url": "https://zxpress.ru/print.php?id=3198",
+    "title_link": "От авторов - Мнение GIVER'a о газете.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "От_авторов_-_Мнение_GIVERa_о_газете"
+  },
+  {
+    "article_id": 3202,
+    "article_url": "https://zxpress.ru/article.php?id=3202",
+    "print_url": "https://zxpress.ru/print.php?id=3202",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

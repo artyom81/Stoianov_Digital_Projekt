@@ -1,0 +1,17 @@
+  Magazin: Marazm
+
+✅ Validierung: OK - Marazm
+   (mit Warnungen)
+  - [Issue #01] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #02] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #03] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #04] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #05] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #06] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #07] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #08] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #09] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #10] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #19] unbekanntes Datum → Platzhalter '0000-01-01'
+  - [Issue #20] unbekanntes Datum → Platzhalter '0000-01-01'
+   ➜ Issues: 25 | Artikel gesamt: 48

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 143,
+    "article_url": "https://zxpress.ru/article.php?id=143",
+    "print_url": "https://zxpress.ru/print.php?id=143",
+    "title_link": "Предисловие - Газета в одной читалке...",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Предисловие_-_Газета_в_однои_читалке"
+  },
+  {
+    "article_id": 11161,
+    "article_url": "https://zxpress.ru/article.php?id=11161",
+    "print_url": "https://zxpress.ru/print.php?id=11161",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 11162,
+    "article_url": "https://zxpress.ru/article.php?id=11162",
+    "print_url": "https://zxpress.ru/print.php?id=11162",
+    "title_link": "Печатается с продолж. - Сборник маразмов советских программистов.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Печатается_с_продолж_-_Сборник_маразмов_советских_программис"
+  },
+  {
+    "article_id": 11163,
+    "article_url": "https://zxpress.ru/article.php?id=11163",
+    "print_url": "https://zxpress.ru/print.php?id=11163",
+    "title_link": "Версии - 2 версии игры: 48 Утюгов.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Версии_-_2_версии_игры_48_Утюгов"
+  },
+  {
+    "article_id": 11164,
+    "article_url": "https://zxpress.ru/article.php?id=11164",
+    "print_url": "https://zxpress.ru/print.php?id=11164",
+    "title_link": "Видео - Боевик 96-го года \"Спина к спине\".",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Видео_-_Боевик_96-го_года_Спина_к_спине"
+  },
+  {
+    "article_id": 11165,
+    "article_url": "https://zxpress.ru/article.php?id=11165",
+    "print_url": "https://zxpress.ru/print.php?id=11165",
+    "title_link": "Сплошные приколы - 8 приколово & 3 анекдота. Сборник высказываний советских офицеров (продолжение).",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Сплошные_приколы_-_8_приколово_3_анекдота_Сборник_высказыван"
+  },
+  {
+    "article_id": 11166,
+    "article_url": "https://zxpress.ru/article.php?id=11166",
+    "print_url": "https://zxpress.ru/print.php?id=11166",
+    "title_link": "Разбиралка - Как пройти игру DANGEROUS MOUSE in BLACK FOREST.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Разбиралка_-_Как_проити_игру_DANGEROUS_MOUSE_in_BLACK_FOREST"
+  },
+  {
+    "article_id": 11167,
+    "article_url": "https://zxpress.ru/article.php?id=11167",
+    "print_url": "https://zxpress.ru/print.php?id=11167",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

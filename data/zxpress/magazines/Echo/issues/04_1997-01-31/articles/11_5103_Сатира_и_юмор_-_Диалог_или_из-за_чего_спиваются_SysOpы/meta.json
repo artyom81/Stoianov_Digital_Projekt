@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "04",
+  "issue_date_iso": "1997-01-31",
+  "order": 11,
+  "article_id": 5103,
+  "title_link": "Сатира и юмор - Диалог или из-за чего спиваются SysOp'ы.",
+  "title_h1": "Echo 04 - Сатира и юмор - Диалог или из-за чего спиваются SysOp'ы.",
+  "print_url": "https://zxpress.ru/print.php?id=5103",
+  "article_url": "https://zxpress.ru/article.php?id=5103",
+  "fetched_at": "2026-05-31T22:00:43Z"
+}

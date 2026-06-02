@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 4177,
+    "article_url": "https://zxpress.ru/article.php?id=4177",
+    "print_url": "https://zxpress.ru/print.php?id=4177",
+    "title_link": "От автора - скоро день рождения газеты...",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "От_автора_-_скоро_день_рождения_газеты"
+  },
+  {
+    "article_id": 4178,
+    "article_url": "https://zxpress.ru/article.php?id=4178",
+    "print_url": "https://zxpress.ru/print.php?id=4178",
+    "title_link": "Проходилка - Посвящение Фалькориса",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Проходилка_-_Посвящение_Фалькориса"
+  },
+  {
+    "article_id": 4179,
+    "article_url": "https://zxpress.ru/article.php?id=4179",
+    "print_url": "https://zxpress.ru/print.php?id=4179",
+    "title_link": "Обзор новинок - Сталкер.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Обзор_новинок_-_Сталкер"
+  },
+  {
+    "article_id": 4180,
+    "article_url": "https://zxpress.ru/article.php?id=4180",
+    "print_url": "https://zxpress.ru/print.php?id=4180",
+    "title_link": "Фенечки - говорят дети.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Фенечки_-_говорят_дети"
+  },
+  {
+    "article_id": 4181,
+    "article_url": "https://zxpress.ru/article.php?id=4181",
+    "print_url": "https://zxpress.ru/print.php?id=4181",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

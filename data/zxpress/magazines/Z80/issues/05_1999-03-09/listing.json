@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2508,
+    "article_url": "https://zxpress.ru/article.php?id=2508",
+    "print_url": "https://zxpress.ru/print.php?id=2508",
+    "title_link": "CC'99 - Что? Кто? Где?",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "CC99_-_Что_Кто_Где"
+  },
+  {
+    "article_id": 2513,
+    "article_url": "https://zxpress.ru/article.php?id=2513",
+    "print_url": "https://zxpress.ru/print.php?id=2513",
+    "title_link": "Sites Review - Обзор спектрумовских сайтов.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Sites_Review_-_Обзор_спектрумовских_саитов"
+  },
+  {
+    "article_id": 2511,
+    "article_url": "https://zxpress.ru/article.php?id=2511",
+    "print_url": "https://zxpress.ru/print.php?id=2511",
+    "title_link": "Speccy music - О состоянии дел на Спектрумовской музыкальной сцене.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Speccy_music_-_О_состоянии_дел_на_Спектрумовскои_музыкальнои"
+  },
+  {
+    "article_id": 2507,
+    "article_url": "https://zxpress.ru/article.php?id=2507",
+    "print_url": "https://zxpress.ru/print.php?id=2507",
+    "title_link": "Вступление - О содержании газеты...",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_О_содержании_газеты"
+  },
+  {
+    "article_id": 2510,
+    "article_url": "https://zxpress.ru/article.php?id=2510",
+    "print_url": "https://zxpress.ru/print.php?id=2510",
+    "title_link": "Информации о CC - Правила CC'99 v2.367.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Информации_о_CC_-_Правила_CC99_v2367"
+  },
+  {
+    "article_id": 2509,
+    "article_url": "https://zxpress.ru/article.php?id=2509",
+    "print_url": "https://zxpress.ru/print.php?id=2509",
+    "title_link": "Правда о CC - Random/CC: Правда о Хаосе.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Правда_о_CC_-_RandomCC_Правда_о_Хаосе"
+  },
+  {
+    "article_id": 2512,
+    "article_url": "https://zxpress.ru/article.php?id=2512",
+    "print_url": "https://zxpress.ru/print.php?id=2512",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

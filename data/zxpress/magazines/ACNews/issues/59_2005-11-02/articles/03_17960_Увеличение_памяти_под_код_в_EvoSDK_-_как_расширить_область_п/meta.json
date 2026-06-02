@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "59",
+  "issue_date_iso": "2005-11-02",
+  "order": 3,
+  "article_id": 17960,
+  "title_link": "Увеличение памяти под код в EvoSDK - как расширить область памяти кода до\r\nочень больших объёмов.",
+  "title_h1": "ACNews 59 - Увеличение памяти под код в EvoSDK - как расширить область памяти кода до очень больших объёмов.",
+  "print_url": "https://zxpress.ru/print.php?id=17960",
+  "article_url": "https://zxpress.ru/article.php?id=17960",
+  "fetched_at": "2026-05-31T21:31:37Z"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4354,
+    "article_url": "https://zxpress.ru/article.php?id=4354",
+    "print_url": "https://zxpress.ru/print.php?id=4354",
+    "title_link": "От автора - Завтра 1 сентября...",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "От_автора_-_Завтра_1_сентября"
+  },
+  {
+    "article_id": 4355,
+    "article_url": "https://zxpress.ru/article.php?id=4355",
+    "print_url": "https://zxpress.ru/print.php?id=4355",
+    "title_link": "Архивчик - Mikie, Sabre Wulf.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Архивчик_-_Mikie_Sabre_Wulf"
+  },
+  {
+    "article_id": 4356,
+    "article_url": "https://zxpress.ru/article.php?id=4356",
+    "print_url": "https://zxpress.ru/print.php?id=4356",
+    "title_link": "Little stories about clear love - Юмор.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Little_stories_about_clear_love_-_Юмор"
+  },
+  {
+    "article_id": 4357,
+    "article_url": "https://zxpress.ru/article.php?id=4357",
+    "print_url": "https://zxpress.ru/print.php?id=4357",
+    "title_link": "Колобок - Сказка.",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Колобок_-_Сказка"
+  },
+  {
+    "article_id": 4358,
+    "article_url": "https://zxpress.ru/article.php?id=4358",
+    "print_url": "https://zxpress.ru/print.php?id=4358",
+    "title_link": "Поздравление - Поздравление с 1 сентября.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Поздравление_-_Поздравление_с_1_сентября"
+  },
+  {
+    "article_id": 4359,
+    "article_url": "https://zxpress.ru/article.php?id=4359",
+    "print_url": "https://zxpress.ru/print.php?id=4359",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "38",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4360,
+    "article_url": "https://zxpress.ru/article.php?id=4360",
+    "print_url": "https://zxpress.ru/print.php?id=4360",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

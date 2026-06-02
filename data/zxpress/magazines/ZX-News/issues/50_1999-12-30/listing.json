@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3050,
+    "article_url": "https://zxpress.ru/article.php?id=3050",
+    "print_url": "https://zxpress.ru/print.php?id=3050",
+    "title_link": "ZX-Party - Посетители и уровень работ на Party.",
+    "order": 1,
+    "issue_label": "50",
+    "short_slug": "ZX-Party_-_Посетители_и_уровень_работ_на_Party"
+  },
+  {
+    "article_id": 3049,
+    "article_url": "https://zxpress.ru/article.php?id=3049",
+    "print_url": "https://zxpress.ru/print.php?id=3049",
+    "title_link": "Гуру - Жизнь в эхах. Этап 1: Как написать в эху.",
+    "order": 2,
+    "issue_label": "50",
+    "short_slug": "Гуру_-_Жизнь_в_эхах_Этап_1_Как_написать_в_эху"
+  },
+  {
+    "article_id": 3052,
+    "article_url": "https://zxpress.ru/article.php?id=3052",
+    "print_url": "https://zxpress.ru/print.php?id=3052",
+    "title_link": "Лит. страничка - Юмор и рассказ \"В Новый год\".",
+    "order": 3,
+    "issue_label": "50",
+    "short_slug": "Лит_страничка_-_Юмор_и_рассказ_В_Новыи_год"
+  },
+  {
+    "article_id": 3048,
+    "article_url": "https://zxpress.ru/article.php?id=3048",
+    "print_url": "https://zxpress.ru/print.php?id=3048",
+    "title_link": "Новости ПО - О новинках ПО: Винни Пух-2, Tower Pod, Operation OiX,\r\n Stickman Animation Studio, Screen Traslate Universal v1.0,\r\n Code Disabler v1.0, Art Studio v2.3, Zx-Word v2.6,\r\n Picture viewer v1.18, Chunk Graphics Editor v1.2.",
+    "order": 4,
+    "issue_label": "50",
+    "short_slug": "Новости_ПО_-_О_новинках_ПО_Винни_Пух-2_Tower_Pod_Operation_O"
+  },
+  {
+    "article_id": 3046,
+    "article_url": "https://zxpress.ru/article.php?id=3046",
+    "print_url": "https://zxpress.ru/print.php?id=3046",
+    "title_link": "От редакции - С Новым годом!\r\n Воспоминания о старых добрых временах.",
+    "order": 5,
+    "issue_label": "50",
+    "short_slug": "От_редакции_-_С_Новым_годом_Воспоминания_о_старых_добрых_вре"
+  },
+  {
+    "article_id": 3047,
+    "article_url": "https://zxpress.ru/article.php?id=3047",
+    "print_url": "https://zxpress.ru/print.php?id=3047",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 6,
+    "issue_label": "50",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  },
+  {
+    "article_id": 3051,
+    "article_url": "https://zxpress.ru/article.php?id=3051",
+    "print_url": "https://zxpress.ru/print.php?id=3051",
+    "title_link": "Старина Z80 - Печать копии спектрумовского экрана в псевдографике.",
+    "order": 7,
+    "issue_label": "50",
+    "short_slug": "Старина_Z80_-_Печать_копии_спектрумовского_экрана_в_псевдогр"
+  }
+]

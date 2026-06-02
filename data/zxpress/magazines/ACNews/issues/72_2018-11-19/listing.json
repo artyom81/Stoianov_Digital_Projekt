@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 18520,
+    "article_url": "https://zxpress.ru/article.php?id=18520",
+    "print_url": "https://zxpress.ru/print.php?id=18520",
+    "title_link": "Новости - В сентябре к нам на работу поступил Николай Гривин, которого я\r\nстал обучать программированию на ассемблере.",
+    "order": 1,
+    "issue_label": "72",
+    "short_slug": "Новости_-_В_сентябре_к_нам_на_работу_поступил_Николаи_Гривин"
+  },
+  {
+    "article_id": 18521,
+    "article_url": "https://zxpress.ru/article.php?id=18521",
+    "print_url": "https://zxpress.ru/print.php?id=18521",
+    "title_link": "News - In September, Nikolay Grivin came to my job, and I started to\r\nteach him assembler.",
+    "order": 2,
+    "issue_label": "72",
+    "short_slug": "News_-_In_September_Nikolay_Grivin_came_to_my_job_and_I_star"
+  },
+  {
+    "article_id": 18522,
+    "article_url": "https://zxpress.ru/article.php?id=18522",
+    "print_url": "https://zxpress.ru/print.php?id=18522",
+    "title_link": "Идеи для игр - Первая идея для людей в творческом кризисе.",
+    "order": 3,
+    "issue_label": "72",
+    "short_slug": "Идеи_для_игр_-_Первая_идея_для_людеи_в_творческом_кризисе"
+  },
+  {
+    "article_id": 18523,
+    "article_url": "https://zxpress.ru/article.php?id=18523",
+    "print_url": "https://zxpress.ru/print.php?id=18523",
+    "title_link": "Ideas for games - The first idea for creative crisis. The simplest and used by\r\nmany.",
+    "order": 4,
+    "issue_label": "72",
+    "short_slug": "Ideas_for_games_-_The_first_idea_for_creative_crisis_The_sim"
+  }
+]

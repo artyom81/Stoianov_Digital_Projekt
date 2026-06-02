@@ -1,0 +1,353 @@
+[
+  {
+    "article_id": 9487,
+    "article_url": "https://zxpress.ru/article.php?id=9487",
+    "print_url": "https://zxpress.ru/print.php?id=9487",
+    "title_link": "От редакции - новый украинский электронный журнал под названием \"3BiT\".",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_новыи_украинскии_электронныи_журнал_под_назван"
+  },
+  {
+    "article_id": 9501,
+    "article_url": "https://zxpress.ru/article.php?id=9501",
+    "print_url": "https://zxpress.ru/print.php?id=9501",
+    "title_link": "От редакции - накануне: переписка авторов журнала с корреспондентами.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_накануне_переписка_авторов_журнала_с_корреспон"
+  },
+  {
+    "article_id": 9488,
+    "article_url": "https://zxpress.ru/article.php?id=9488",
+    "print_url": "https://zxpress.ru/print.php?id=9488",
+    "title_link": "От редакции - Credits: авторы журнала.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_Credits_авторы_журнала"
+  },
+  {
+    "article_id": 9499,
+    "article_url": "https://zxpress.ru/article.php?id=9499",
+    "print_url": "https://zxpress.ru/print.php?id=9499",
+    "title_link": "Speccy news - новости: Scl выпустил газету Cossackos, результаты Воронежского фестиваля KidSoft'2004, Сергей Бульба архив AY музыки, Alone Coder выпустил Info Guide\r\n#6...",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Speccy_news_-_новости_Scl_выпустил_газету_Cossackos_результа"
+  },
+  {
+    "article_id": 9508,
+    "article_url": "https://zxpress.ru/article.php?id=9508",
+    "print_url": "https://zxpress.ru/print.php?id=9508",
+    "title_link": "Программинг - новый быстрой и короткий PT3.x Player от RSM.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_новыи_быстрои_и_короткии_PT3x_Player_от_RSM"
+  },
+  {
+    "article_id": 9491,
+    "article_url": "https://zxpress.ru/article.php?id=9491",
+    "print_url": "https://zxpress.ru/print.php?id=9491",
+    "title_link": "Программинг - дизайн исходных кодов: основные требования к листинг программы, ориентированной на широкую публику.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_дизаин_исходных_кодов_основные_требования_к_ли"
+  },
+  {
+    "article_id": 9493,
+    "article_url": "https://zxpress.ru/article.php?id=9493",
+    "print_url": "https://zxpress.ru/print.php?id=9493",
+    "title_link": "Программинг - процедуры печати текста шрифтами 8х8, 6х8, 5х8,\r\n4х8 точек.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_процедуры_печати_текста_шрифтами_8х8_6х8_5х84х"
+  },
+  {
+    "article_id": 9511,
+    "article_url": "https://zxpress.ru/article.php?id=9511",
+    "print_url": "https://zxpress.ru/print.php?id=9511",
+    "title_link": "Программинг - обзор особенностей моделей оттечественного и фирменного спектрума от Rob F.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_обзор_особенностеи_моделеи_оттечественного_и_ф"
+  },
+  {
+    "article_id": 9486,
+    "article_url": "https://zxpress.ru/article.php?id=9486",
+    "print_url": "https://zxpress.ru/print.php?id=9486",
+    "title_link": "Программинг - сборник кодов: Рисование окна с рамкой в цвете, обработка дисковых ошибок TR-DOS, универсальня процедура Scroll'a экрана.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_сборник_кодов_Рисование_окна_с_рамкои_в_цвете"
+  },
+  {
+    "article_id": 9504,
+    "article_url": "https://zxpress.ru/article.php?id=9504",
+    "print_url": "https://zxpress.ru/print.php?id=9504",
+    "title_link": "Программинг - Game Making: Mad Killer делится опытом создания игр для ZX Spectrum.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_Game_Making_Mad_Killer_делится_опытом_создания"
+  },
+  {
+    "article_id": 9498,
+    "article_url": "https://zxpress.ru/article.php?id=9498",
+    "print_url": "https://zxpress.ru/print.php?id=9498",
+    "title_link": "Программинг - Нестандартное использование General Sound: эмулятор звукового сопроцессора AY-3-8910.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Программинг_-_Нестандартное_использование_General_Sound_эмул"
+  },
+  {
+    "article_id": 9515,
+    "article_url": "https://zxpress.ru/article.php?id=9515",
+    "print_url": "https://zxpress.ru/print.php?id=9515",
+    "title_link": "Hacker Zone - \"фрикинг\": Халявные звонки на таксофонах. Бесплатные звонки в любую точку\r\nмира.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Hacker_Zone_-_фрикинг_Халявные_звонки_на_таксофонах_Бесплатн"
+  },
+  {
+    "article_id": 9485,
+    "article_url": "https://zxpress.ru/article.php?id=9485",
+    "print_url": "https://zxpress.ru/print.php?id=9485",
+    "title_link": "Перспективы - Dune для Спектрума от Сосюра Игоря.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Перспективы_-_Dune_для_Спектрума_от_Сосюра_Игоря"
+  },
+  {
+    "article_id": 9507,
+    "article_url": "https://zxpress.ru/article.php?id=9507",
+    "print_url": "https://zxpress.ru/print.php?id=9507",
+    "title_link": "Есть мнение - Mad Killer уличает Инфорком в продажности PC.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Есть_мнение_-_Mad_Killer_уличает_Инфорком_в_продажности_PC"
+  },
+  {
+    "article_id": 9506,
+    "article_url": "https://zxpress.ru/article.php?id=9506",
+    "print_url": "https://zxpress.ru/print.php?id=9506",
+    "title_link": "Рабочий стол - JPEG/GIF laboratory 1.1: программа для просмотра картинок в формате JPEG/GIF.",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Рабочии_стол_-_JPEGGIF_laboratory_11_программа_для_просмотра"
+  },
+  {
+    "article_id": 9503,
+    "article_url": "https://zxpress.ru/article.php?id=9503",
+    "print_url": "https://zxpress.ru/print.php?id=9503",
+    "title_link": "Рабочий стол - General Sound AY Emulator v1.0",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "Рабочии_стол_-_General_Sound_AY_Emulator_v10"
+  },
+  {
+    "article_id": 9500,
+    "article_url": "https://zxpress.ru/article.php?id=9500",
+    "print_url": "https://zxpress.ru/print.php?id=9500",
+    "title_link": "Рабочий стол - обзор утилиты для поиска музыкальных файлов Pro Tracker 3.X Mod Finder v1.2",
+    "order": 17,
+    "issue_label": "01",
+    "short_slug": "Рабочии_стол_-_обзор_утилиты_для_поиска_музыкальных_фаилов_P"
+  },
+  {
+    "article_id": 9497,
+    "article_url": "https://zxpress.ru/article.php?id=9497",
+    "print_url": "https://zxpress.ru/print.php?id=9497",
+    "title_link": "Игромания - Архивариус: обзор не очень свежей но интересно адвентюры \"Последняя\r\nавантюра\".",
+    "order": 18,
+    "issue_label": "01",
+    "short_slug": "Игромания_-_Архивариус_обзор_не_очень_свежеи_но_интересно_ад"
+  },
+  {
+    "article_id": 9489,
+    "article_url": "https://zxpress.ru/article.php?id=9489",
+    "print_url": "https://zxpress.ru/print.php?id=9489",
+    "title_link": "Игромания - Wolf 2004: Мир увидел то, над чем трудился Alone Coder целых 8-мь лет!!",
+    "order": 19,
+    "issue_label": "01",
+    "short_slug": "Игромания_-_Wolf_2004_Мир_увидел_то_над_чем_трудился_Alone_C"
+  },
+  {
+    "article_id": 9490,
+    "article_url": "https://zxpress.ru/article.php?id=9490",
+    "print_url": "https://zxpress.ru/print.php?id=9490",
+    "title_link": "Железячки - Кое-что о CMOS-часах: доработанная схема от Alone Coder'a.",
+    "order": 20,
+    "issue_label": "01",
+    "short_slug": "Железячки_-_Кое-что_о_CMOS-часах_доработанная_схема_от_Alone"
+  },
+  {
+    "article_id": 9502,
+    "article_url": "https://zxpress.ru/article.php?id=9502",
+    "print_url": "https://zxpress.ru/print.php?id=9502",
+    "title_link": "Железячки - обзор некоторых современных контроллеров для работы с внешними накопителями информации для ZX-Spectrum.",
+    "order": 21,
+    "issue_label": "01",
+    "short_slug": "Железячки_-_обзор_некоторых_современных_контроллеров_для_раб"
+  },
+  {
+    "article_id": 9484,
+    "article_url": "https://zxpress.ru/article.php?id=9484",
+    "print_url": "https://zxpress.ru/print.php?id=9484",
+    "title_link": "Веселуха - Жизнь простого сисадмина И печальна и тосклива если рядом нету пива: Сисадмину посвящается.",
+    "order": 22,
+    "issue_label": "01",
+    "short_slug": "Веселуха_-_Жизнь_простого_сисадмина_И_печальна_и_тосклива_ес"
+  },
+  {
+    "article_id": 9494,
+    "article_url": "https://zxpress.ru/article.php?id=9494",
+    "print_url": "https://zxpress.ru/print.php?id=9494",
+    "title_link": "Веселуха - юмористический рассказ: Я МАШИНА.",
+    "order": 23,
+    "issue_label": "01",
+    "short_slug": "Веселуха_-_юмористическии_рассказ_Я_МАШИНА"
+  },
+  {
+    "article_id": 9492,
+    "article_url": "https://zxpress.ru/article.php?id=9492",
+    "print_url": "https://zxpress.ru/print.php?id=9492",
+    "title_link": "Веселуха - Компьютерные анекдоты.",
+    "order": 24,
+    "issue_label": "01",
+    "short_slug": "Веселуха_-_Компьютерные_анекдоты"
+  },
+  {
+    "article_id": 9513,
+    "article_url": "https://zxpress.ru/article.php?id=9513",
+    "print_url": "https://zxpress.ru/print.php?id=9513",
+    "title_link": "Иной мир - Radeon X700: недорогая основа для геймерских карт.",
+    "order": 25,
+    "issue_label": "01",
+    "short_slug": "Инои_мир_-_Radeon_X700_недорогая_основа_для_геимерских_карт"
+  },
+  {
+    "article_id": 9512,
+    "article_url": "https://zxpress.ru/article.php?id=9512",
+    "print_url": "https://zxpress.ru/print.php?id=9512",
+    "title_link": "Разное - отчет Rob F. с Украинской тусовки SpeXtream'2004.",
+    "order": 26,
+    "issue_label": "01",
+    "short_slug": "Разное_-_отчет_Rob_F_с_Украинскои_тусовки_SpeXtream2004"
+  },
+  {
+    "article_id": 9505,
+    "article_url": "https://zxpress.ru/article.php?id=9505",
+    "print_url": "https://zxpress.ru/print.php?id=9505",
+    "title_link": "Разное - старости: для чего нужны программы, особенно игровые и как их делать\r\nхорошо.",
+    "order": 27,
+    "issue_label": "01",
+    "short_slug": "Разное_-_старости_для_чего_нужны_программы_особенно_игровые"
+  },
+  {
+    "article_id": 9495,
+    "article_url": "https://zxpress.ru/article.php?id=9495",
+    "print_url": "https://zxpress.ru/print.php?id=9495",
+    "title_link": "Разное - Конкурс от групы P7S для патриотов Спектрума!",
+    "order": 28,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Конкурс_от_групы_P7S_для_патриотов_Спектрума"
+  },
+  {
+    "article_id": 9483,
+    "article_url": "https://zxpress.ru/article.php?id=9483",
+    "print_url": "https://zxpress.ru/print.php?id=9483",
+    "title_link": "Разное - Интервью с DESALEX'ом/XPJ.",
+    "order": 29,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Интервью_с_DESALEXомXPJ"
+  },
+  {
+    "article_id": 9496,
+    "article_url": "https://zxpress.ru/article.php?id=9496",
+    "print_url": "https://zxpress.ru/print.php?id=9496",
+    "title_link": "Разное - интервью с автором одного из самых ожидаемых игровых проектов, игры Dune: The Battle for Arakkis.",
+    "order": 30,
+    "issue_label": "01",
+    "short_slug": "Разное_-_интервью_с_автором_одного_из_самых_ожидаемых_игровы"
+  },
+  {
+    "article_id": 9509,
+    "article_url": "https://zxpress.ru/article.php?id=9509",
+    "print_url": "https://zxpress.ru/print.php?id=9509",
+    "title_link": "Разное - интервью с автором нашумевшей демки под VIC-20 - Viznut/PWP.",
+    "order": 31,
+    "issue_label": "01",
+    "short_slug": "Разное_-_интервью_с_автором_нашумевшеи_демки_под_VIC-20_-_Vi"
+  },
+  {
+    "article_id": 9510,
+    "article_url": "https://zxpress.ru/article.php?id=9510",
+    "print_url": "https://zxpress.ru/print.php?id=9510",
+    "title_link": "Разное - интервью с известным Английским спектрумистом Gasman/Raww arse.",
+    "order": 32,
+    "issue_label": "01",
+    "short_slug": "Разное_-_интервью_с_известным_Англииским_спектрумистом_Gasma"
+  },
+  {
+    "article_id": 9514,
+    "article_url": "https://zxpress.ru/article.php?id=9514",
+    "print_url": "https://zxpress.ru/print.php?id=9514",
+    "title_link": "Разное - Интервью с Random'om взятое на Construction Chaos 2004.",
+    "order": 33,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Интервью_с_Randomom_взятое_на_Construction_Chaos_20"
+  },
+  {
+    "article_id": 9516,
+    "article_url": "https://zxpress.ru/article.php?id=9516",
+    "print_url": "https://zxpress.ru/print.php?id=9516",
+    "title_link": "Разное - Реклама - двигатель торговли и не только.",
+    "order": 34,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Реклама_-_двигатель_торговли_и_не_только"
+  },
+  {
+    "article_id": 15370,
+    "article_url": "https://zxpress.ru/article.php?id=15370",
+    "print_url": "https://zxpress.ru/print.php?id=15370",
+    "title_link": "Траектория цели - Не думаю что наша газета настолько популярна, что ее видели все. Полагаю, найдутся среди нынешних читателей люди, наблюдающие наш \"Прицел\" впервые.",
+    "order": 35,
+    "issue_label": "01",
+    "short_slug": "Траектория_цели_-_Не_думаю_что_наша_газета_настолько_популяр"
+  },
+  {
+    "article_id": 13843,
+    "article_url": "https://zxpress.ru/article.php?id=13843",
+    "print_url": "https://zxpress.ru/print.php?id=13843",
+    "title_link": "Вступление - прошел почти год...",
+    "order": 36,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_прошел_почти_год"
+  },
+  {
+    "article_id": 8813,
+    "article_url": "https://zxpress.ru/article.php?id=8813",
+    "print_url": "https://zxpress.ru/print.php?id=8813",
+    "title_link": "WINSON NEWS - LIME 2 BBS прекратила своё существование - задолбали вешать сервер!..\r\n Крутой рынок - Царицыно.",
+    "order": 37,
+    "issue_label": "01",
+    "short_slug": "WINSON_NEWS_-_LIME_2_BBS_прекратила_свое_существование_-_зад"
+  },
+  {
+    "article_id": 11791,
+    "article_url": "https://zxpress.ru/article.php?id=11791",
+    "print_url": "https://zxpress.ru/print.php?id=11791",
+    "title_link": "Вступление - Этот номер являтся. чисто рекламно-познавательным. Цель\r\nего - установить контакт с читателями. заинтересовать вас в нашем журнале.",
+    "order": 38,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Этот_номер_являтся_чисто_рекламно-познавательны"
+  },
+  {
+    "article_id": 13005,
+    "article_url": "https://zxpress.ru/article.php?id=13005",
+    "print_url": "https://zxpress.ru/print.php?id=13005",
+    "title_link": "Реклама - КУПЛЮ ПЕHТАГОH 48К.",
+    "order": 39,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_КУПЛЮ_ПЕHТАГОH_48К"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "18",
+  "issue_date_iso": "2000-03-09",
+  "order": 2,
+  "article_id": 13007,
+  "title_link": "Hardware - pассказ, как WReCKER починил свой модем...",
+  "title_h1": "Body 18 - Hardware - pассказ, как WReCKER починил свой модем...",
+  "print_url": "https://zxpress.ru/print.php?id=13007",
+  "article_url": "https://zxpress.ru/article.php?id=13007",
+  "fetched_at": "2026-05-31T21:41:35Z"
+}

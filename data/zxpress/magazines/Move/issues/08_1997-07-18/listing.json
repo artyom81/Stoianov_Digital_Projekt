@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6293,
+    "article_url": "https://zxpress.ru/article.php?id=6293",
+    "print_url": "https://zxpress.ru/print.php?id=6293",
+    "title_link": "Вступление - ZXNet в Минске.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_ZXNet_в_Минске"
+  },
+  {
+    "article_id": 6294,
+    "article_url": "https://zxpress.ru/article.php?id=6294",
+    "print_url": "https://zxpress.ru/print.php?id=6294",
+    "title_link": "Событие - О втором Минском сисипнике.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Событие_-_О_втором_Минском_сисипнике"
+  },
+  {
+    "article_id": 6295,
+    "article_url": "https://zxpress.ru/article.php?id=6295",
+    "print_url": "https://zxpress.ru/print.php?id=6295",
+    "title_link": "Письмо - Творческому коллективу газеты MOVE.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Письмо_-_Творческому_коллективу_газеты_MOVE"
+  },
+  {
+    "article_id": 6296,
+    "article_url": "https://zxpress.ru/article.php?id=6296",
+    "print_url": "https://zxpress.ru/print.php?id=6296",
+    "title_link": "Взгляд - Вымирает ли Спектрум ?\r\n О возможных путях дальнейшего развития.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Взгляд_-_Вымирает_ли_Спектрум_О_возможных_путях_дальнеишего"
+  },
+  {
+    "article_id": 6297,
+    "article_url": "https://zxpress.ru/article.php?id=6297",
+    "print_url": "https://zxpress.ru/print.php?id=6297",
+    "title_link": "Хакерам - О строении стандартной дорожки дисковода.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Хакерам_-_О_строении_стандартнои_дорожки_дисковода"
+  },
+  {
+    "article_id": 6298,
+    "article_url": "https://zxpress.ru/article.php?id=6298",
+    "print_url": "https://zxpress.ru/print.php?id=6298",
+    "title_link": "Алгоритм - Алгоритм рисования линий.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Алгоритм_-_Алгоритм_рисования_линии"
+  },
+  {
+    "article_id": 6299,
+    "article_url": "https://zxpress.ru/article.php?id=6299",
+    "print_url": "https://zxpress.ru/print.php?id=6299",
+    "title_link": "Железо - Настройка сигнала INT.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Железо_-_Настроика_сигнала_INT"
+  },
+  {
+    "article_id": 6300,
+    "article_url": "https://zxpress.ru/article.php?id=6300",
+    "print_url": "https://zxpress.ru/print.php?id=6300",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

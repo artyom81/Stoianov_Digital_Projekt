@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 8145,
+    "article_url": "https://zxpress.ru/article.php?id=8145",
+    "print_url": "https://zxpress.ru/print.php?id=8145",
+    "title_link": "От авторов - Смена главного редактора, извинения за задержку номера.",
+    "order": 1,
+    "issue_label": "12",
+    "short_slug": "От_авторов_-_Смена_главного_редактора_извинения_за_задержку"
+  },
+  {
+    "article_id": 8146,
+    "article_url": "https://zxpress.ru/article.php?id=8146",
+    "print_url": "https://zxpress.ru/print.php?id=8146",
+    "title_link": "News - новости от Таганрогских спектрумистов.",
+    "order": 2,
+    "issue_label": "12",
+    "short_slug": "News_-_новости_от_Таганрогских_спектрумистов"
+  },
+  {
+    "article_id": 8147,
+    "article_url": "https://zxpress.ru/article.php?id=8147",
+    "print_url": "https://zxpress.ru/print.php?id=8147",
+    "title_link": "CC000 Report - Jocker & Klim побывали на Chaos Constructions 2000 и делятся впечатлениями.",
+    "order": 3,
+    "issue_label": "12",
+    "short_slug": "CC000_Report_-_Jocker_Klim_побывали_на_Chaos_Constructions_2"
+  },
+  {
+    "article_id": 8148,
+    "article_url": "https://zxpress.ru/article.php?id=8148",
+    "print_url": "https://zxpress.ru/print.php?id=8148",
+    "title_link": "Partys Result - Результаты с CC000 (предварительные), Paradox2k, ZX-PARTY.",
+    "order": 4,
+    "issue_label": "12",
+    "short_slug": "Partys_Result_-_Результаты_с_CC000_предварительные_Paradox2k"
+  },
+  {
+    "article_id": 8149,
+    "article_url": "https://zxpress.ru/article.php?id=8149",
+    "print_url": "https://zxpress.ru/print.php?id=8149",
+    "title_link": "Анкета - Анкета от организаторов Paradox 2001.",
+    "order": 5,
+    "issue_label": "12",
+    "short_slug": "Анкета_-_Анкета_от_организаторов_Paradox_2001"
+  },
+  {
+    "article_id": 8150,
+    "article_url": "https://zxpress.ru/article.php?id=8150",
+    "print_url": "https://zxpress.ru/print.php?id=8150",
+    "title_link": "Игры - прохождение игры ELOPEMENT.",
+    "order": 6,
+    "issue_label": "12",
+    "short_slug": "Игры_-_прохождение_игры_ELOPEMENT"
+  },
+  {
+    "article_id": 8151,
+    "article_url": "https://zxpress.ru/article.php?id=8151",
+    "print_url": "https://zxpress.ru/print.php?id=8151",
+    "title_link": "NEOS - Рассказ авторов об операционной системе.",
+    "order": 7,
+    "issue_label": "12",
+    "short_slug": "NEOS_-_Рассказ_авторов_об_операционнои_системе"
+  },
+  {
+    "article_id": 8152,
+    "article_url": "https://zxpress.ru/article.php?id=8152",
+    "print_url": "https://zxpress.ru/print.php?id=8152",
+    "title_link": "Разборки - Dimon про газету Optron.",
+    "order": 8,
+    "issue_label": "12",
+    "short_slug": "Разборки_-_Dimon_про_газету_Optron"
+  },
+  {
+    "article_id": 8153,
+    "article_url": "https://zxpress.ru/article.php?id=8153",
+    "print_url": "https://zxpress.ru/print.php?id=8153",
+    "title_link": "Железо - доработка любого спектрума до Пентагона.",
+    "order": 9,
+    "issue_label": "12",
+    "short_slug": "Железо_-_доработка_любого_спектрума_до_Пентагона"
+  },
+  {
+    "article_id": 18092,
+    "article_url": "https://zxpress.ru/article.php?id=18092",
+    "print_url": "https://zxpress.ru/print.php?id=18092",
+    "title_link": "Железо - Как избавиться от wait'а в компьютере\r\n \"таганрог 128\".",
+    "order": 10,
+    "issue_label": "12",
+    "short_slug": "Железо_-_Как_избавиться_от_waitа_в_компьютере_таганрог_128"
+  },
+  {
+    "article_id": 18093,
+    "article_url": "https://zxpress.ru/article.php?id=18093",
+    "print_url": "https://zxpress.ru/print.php?id=18093",
+    "title_link": "Железо - графический режим Megascreen port.",
+    "order": 11,
+    "issue_label": "12",
+    "short_slug": "Железо_-_графическии_режим_Megascreen_port"
+  },
+  {
+    "article_id": 8154,
+    "article_url": "https://zxpress.ru/article.php?id=8154",
+    "print_url": "https://zxpress.ru/print.php?id=8154",
+    "title_link": "Credits & Rec Lame - Кто трудился над номером, контакты...",
+    "order": 12,
+    "issue_label": "12",
+    "short_slug": "Credits_Rec_Lame_-_Кто_трудился_над_номером_контакты"
+  }
+]

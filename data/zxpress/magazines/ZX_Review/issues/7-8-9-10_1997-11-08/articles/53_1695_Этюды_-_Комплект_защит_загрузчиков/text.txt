@@ -1,0 +1,304 @@
+ZX Review 7-8-9-10 - Этюды - Комплект защит загрузчиков.
+(c) DeathSOFT, пос.Лебяжье
+
+   Прим. ред.:
+Наш корреспондент, не  рас-
+крывший своего  имени, предлагает  на  Ваш
+суд комплект  всяческих  "защит  загрузчи-
+ков". Эти процедуры достаточно  простые  и
+не требуют отдельных комментариев, но  за-
+то они очень показательны для  начинающего
+программиста или  хаккера, т.к.  процедуры
+этого класса должны быть компактны, быстры
+и ХОРОШО продуманы.
+140.
+          LD      HL,START
+          LD      BC,LENGTH
+LOOP      LD      A,(HL)
+          XOR     B
+          LD      (HL),A
+          INC     HL
+          DEC     BC
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      HL,START
+          LD      DE,LENGTH
+LOOP      LD      A,(HL)
+          CPL
+          LD      (HL),A
+          INC     HL
+          DEC     DE
+          LD      A,E
+          OR      D
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      HL,START
+          LD      BC,LENGTH
+          LD      HL,START
+          LD      BC,LENGTH
+          LD      A,#33
+          LD      R,A
+LOOP      LD      A,R
+          XOR     (HL)
+          LD      (HL),A
+          INC     HL
+          DEC     BC
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      HL,START
+          LD      DE,START1
+          LD      BC,LENGTH
+          LD      A,#33
+          LD      R,A
+LOOP      LD      A,(HL)
+          XOR     D
+          XOR     H
+          XOR     E
+          LD      C,A
+          LD      A,R
+          XOR     C
+          LD      (HL),A
+          LD      (DE),A
+          INC     HL       ;\
+          INC     DE       ; LDI
+          DEC     BC       ;/
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      SP,START
+          LD      DE,LENGTH
+          DI
+          XOR     A
+          DEC     A
+          DAA
+          LD      R,A
+          LD      HL,START1
+          LD      DE,START1+1
+          LD      BC,LENGTH1
+          LD      (HL),L
+          LDIR
+LOOP      LD      A,R
+          POP     HL
+          XOR     L
+          LD      L,A
+          PUSH    HL
+          INC     SP
+          DEC     DE
+          LD      A,D
+          OR      E
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      IX,START
+          LD      DE,LENGTH
+LOOP      LD      A,(IX+0)
+          CPL
+          XOR     E
+          XOR     D
+          LD      (IX+0),A
+          INC     IX
+          DEC     DE
+          LD      A,D
+          OR      E
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      HL,START
+          LD      BC,LENGTH
+LOOP      LD      A,(HL)
+          CPL
+          LD      (HL),A
+          INC     HL
+          DJNZ    LOOP
+
+────────────────────────────────
+
+          XOR     A
+          LD      HL,START
+          LD      BC,LENGTH
+          LD      R,A
+LOOP      POP     HL
+          LD      A,R
+          XOR     (HL)
+          XOR     C
+          XOR     B
+          LD      (HL),A
+          INC     HL
+          DEC     BC
+          PUSH    HL
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+2
+   КОРР.:
+Дальше я предложу  бо-
+лее сложные код. процедуры (КП).
+А процедуры, содержащие вставку:
+140.
+          LD      HL,START
+          LD      DE,START1
+          LD      BC,LENGTH
+          LD      (HL),L
+          LDIR
+2
+в  мониторе-отладчике  не  могут
+быть раскручены.  Т.к., если  КП
+подставить под  адрес - 23925, а
+в регистры занести такие  значе-
+ния:   HL,24100;  DE,24101;  BC,
+41100, то после выполнения КП  с
+адреса 24100 и до 65200 вся  па-
+мять будет забита байтом из  ре-
+гистра L, т.е. автоматически бу-
+дет испорчен отладчик.
+Прим. ред.:
+Для начинающих: то что  ав-
+тор называет КП, является не чем иным, как
+обыкновенной и приятной на слух "ксоркой".
+А что касается нераскрытия таких защит, то
+давно уже  существуют  средства, позволяю-
+щие бороться с такими мощными алгоритмами,
+как забитие памяти, использование регистра
+R и другими методами  защиты.  Но  это  мы
+увлеклись...
+140.
+          DI
+          LD      HL,START
+          LD      BC,LENGTH
+          IM      2
+          LD      A,R
+          LD      IY,START1
+          LD      IX,START1+1
+          LD      DE,LENGTH1
+LOOP      LD      (IY+0),E
+          INC     IX
+          INC     IY
+          DEC     DE
+          LD      A,D
+          OR      E
+          JR      NZ,LOOP
+LOOP1     POP     HL
+          LD      R,A
+          XOR     (HL)
+          XOR     C
+          XOR     B
+          LD      (HL),A
+          CPL
+          PUSH    HL
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP1
+
+────────────────────────────────
+
+          LD      IX,START
+          LD      A,51
+          LD      R,A
+          LD      HL,START1
+          LD      DE,START1+1
+          LD      BC,LENGTH
+LOOP      POP     HL
+          LD      A,R
+          XOR     (HL)
+          XOR     E
+          XOR     D
+          LD      (IX+0),A
+          INC     IX
+          DEC     BC
+          PUSH    HL
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          DI
+          LD      A,78
+          LD      R,A
+          XOR     A
+          LD      IXh,NN  ;START
+          LD      IXl,NN  ;
+          PUSH    IX
+          POP     HL
+          LD      IXh,64
+          LD      IXl,255
+          LD      A,IXl
+          CPL
+          LD      IXl,A
+          PUSH    IX
+          POP     DE
+          LD      BC,LENGTH
+          LD      IXh,255
+          LD      IXl,253
+          CALL    13251
+          LD      A,0
+          LD      L,A
+          SET     5,A
+          LD      H,A
+          RES     2,H
+          RES     5,H
+          SET     6,H
+          LD      DE,LENGTH
+          LD      BC,START
+LOOP      LD      A,R
+          XOR     (HL)
+          CPL
+          XOR     H
+          XOR     L
+          XOR     B
+          XOR     C
+          XOR     D
+          XOR     E
+          XOR     IXh
+          XOR     IXl
+          XOR     IYl
+          XOR     IYh
+          PUSH    HL
+          POP     IX
+          LD      (IX+0),A
+          LD      (BC),A
+          INC     BC
+          INC     HL
+          DEC     DE
+          LD      A,D
+          OR      E
+          JR      NZ,LOOP
+
+────────────────────────────────
+
+          LD      HL,START
+          LD      BC,LENGTH
+          DI
+          LD      A,51
+          LD      I,A
+LOOP      LD      R,A
+          LD      A,I
+          LD      A,R
+          XOR     (HL)
+          CPL
+          XOR     B
+          XOR     H
+          XOR     L
+          XOR     C
+          LD      (HL),A
+          CPI
+          LD      A,B
+          OR      C
+          JR      NZ,LOOP
+2
+          *   *   *

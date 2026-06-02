@@ -1,0 +1,501 @@
+ZX Review 3-4 - Этюды - О.Смолянкин: Процедуры очистки экрана. Вывод текстовых сообщений на экран.
+(c) Смолянкин Олег, 1996.
+Олег прислал несколько проце-
+дур очистки экрана, которые мож-
+но использовать в различных  иг-
+ровых программах.  Первая проце-
+дура производит очистку разделе-
+нием каждого знакоместа  пополам
+и сдвигает содержимое одной  по-
+ловины влево, а другой - вправо.
+1412.
+
+ 10         ORG     40000
+ 20         LD      B,8
+ 30 LOOP2   LD      HL,16384
+ 40         PUSH    BC
+ 50         HALT
+ 60         LD      BC,#0C00
+ 70 LOOP1   SLA     (HL)
+ 80         INC     HL
+ 90         SRL     (HL)
+100         INC     HL
+110         DEC     BC
+120         LD      A,B
+130         OR      C
+140         JR      NZ,LOOP1
+150         POP     BC
+160         DJNZ    LOOP2
+170         LD      HL,22528
+180         LD      DE,22529
+190         LD      BC,767
+200         LD      (HL),#47
+210         LDIR
+220         XOR     A
+230         OUT     (254),A
+240         RET2
+Далее приводим дамп памяти:
+9C40: 06 08 21 00 40 C5 76 01:87
+9C48: 00 0C CB 26 23 CB 3E 23:30
+9C50: 0B 78 B1 20 F5 C1 10 EA:F0
+9C58: 21 00 58 11 01 58 01 FF:D7
+9C60: 02 36 47 ED B0 AF D3 FE:98
+9C68: C9 00 00 00 00 00 00 00:CD
+Следующую  процедуру   Олег
+вытащил у HACKER'а STINGER'а  из
+STIFFLIP & CO LOADER. Практичес-
+ки такая же процедура была опуб-
+ликована в ZX РЕВЮ 95/2. Однако,
+эта отличается  тем,  что  линия
+формируется регистром  регенера-
+ции.
+1412.
+ 10         ORG     40000
+ 20         LD      HL,16384
+ 30         LD      B,192
+ 40 LOOP    PUSH    BC
+ 50         PUSH    HL
+ 60         PUSH    HL
+ 70         CALL    LINE
+ 80         POP     HL
+ 90         CALL    CLS
+100         POP     HL
+110         CALL    ADDR
+120         POP     BC
+130         DJNZ    LOOP
+140         RET
+150 LINE    LD      B,32
+160         LD      A,R
+170         AND     63
+180         LD      D,A
+190 L1      LD      A,(DE)
+200         LD      (HL),A
+210         INC     HL
+220         INC     DE
+230         DJNZ    L1
+240         LD      BC,1000
+250 PAUSE   DEC     BC
+260         LD      A,B
+270         OR      C
+280         JR      NZ,PAUSE
+290         RET
+300 CLS     PUSH    HL
+310         POP     DE
+320         INC     DE
+330         LD      (HL),0
+340         LD      BC,31
+350         LDIR
+360         RET
+370 ADDR    INC     H
+380         LD      A,H
+390         AND     7
+400         RET     NZ
+410         LD      A,L
+420         ADD     A,32
+430         LD      L,A
+440         RET     C
+450         LD      A,H
+460         SUB     8
+470         LD      H,A
+480         RET
+2
+И дамп программы:
+9C40: 21 00 40 06 C0 C5 E5 E5:92
+9C48: CD 57 9C E1 CD 6D 9C E1:3C
+9C50: CD 78 9C C1 10 EF C9 06:5C
+9C58: 20 ED 5F E6 3F 57 1A 77:6D
+9C60: 23 13 10 FA 01 E8 03 0B:33
+9C68: 78 B1 20 FB C9 E5 D1 13:DA
+9C70: 36 00 01 1F 00 ED B0 C9:C8
+9C78: 24 7C E6 07 C0 7D C6 20:C4
+9C80: 6F D8 7C D6 08 67 C9 00:ED
+Следующая процедура  похожа
+на предыдущую, только при очист-
+ке на экран не выводится полоса.
+1412.
+ 10         ORG     40000
+ 20         LD      HL,22496
+ 30         EXX
+ 40         PUSH    HL
+ 50         LD      HL,16384
+ 60         LD      B,95
+ 70 LOOP    HALT
+ 80         EXX
+ 90         CALL    CLS
+100         DEC     H
+110         LD      A,H
+120         AND     7
+130         CP      7
+140         JR      NZ,NEXT
+150         LD      A,L
+160         SUB     32
+170         LD      L,A
+180         JR      C,NEXT
+190         LD      A,H
+200         ADD     A,8
+210         LD      H,A
+220 NEXT    EXX
+230         CALL    CLS
+240         INC     H
+250         LD      A,H
+260         AND     7
+270         JR      NZ,NEXT1
+280         LD      A,L
+290         ADD     A,32
+300         LD      L,A
+310         JR      C,NEXT1
+320         LD      A,H
+330         SUB     8
+340         LD      H,A
+350 NEXT1   DJNZ    LOOP
+360         POP     HL
+370         EXX
+380         RET
+390 CLS     LD      E,L
+400         LD      D,32
+410 C1      LD      (HL),0
+420         INC     L
+430         DEC     D
+440         JR      NZ,C1
+450         LD      L,E
+460         RET
+2
+И дамп программы:
+9C40: 21 E0 57 D9 E5 21 00 40:53
+9C48: 06 5F 76 D9 CD 7A 9C 25:A0
+9C50: 7C E6 07 FE 07 20 0A 7D:01
+9C58: D6 20 6F 38 04 7C C6 08:DF
+9C60: 67 D9 CD 7A 9C 24 7C E6:A5
+9C68: 07 20 0A 7D C6 20 6F 38:3F
+9C70: 04 7C D6 08 67 10 D3 E1:95
+9C78: D9 C9 5D 16 20 36 00 2C:AB
+9C80: 15 20 FA 6B C9 00 00 00:7F
+И последняя процедура очищает
+экран изменением атрибутов. Про-
+изводит она  это постепенным на-
+ращиванием  окантовки.  И каждый
+раз цвет экрана меняется.
+1412.
+ 10         ORG     40000
+ 20         LD      A,7
+ 30         CALL    MAIN
+ 40         LD      A,5
+ 50         CALL    MAIN
+ 60         LD      A,1
+ 70         CALL    MAIN
+ 80         XOR     A
+ 90         CALL    MAIN
+100         LD      HL,16384
+110         LD      DE,16385
+120         LD      BC,6911
+130         LD      (HL),0
+140         LDIR
+150         LD      A,(23693)
+160         PUSH    AF
+170         RRCA
+180         RRCA
+190         RRCA
+200         AND     7
+210         OUT     (254),A
+220         POP     AF
+230         JR      M1
+240 MAIN    OUT     (254),A
+250         LD      E,A
+260         RLCA
+270         RLCA
+280         RLCA
+290         XOR     E
+300 M1      LD      HL,22528
+310         LD      BC,#2018
+320         LD      D,#0C
+330 L1      PUSH    DE
+340         PUSH    BC
+350         PUSH    HL
+360         PUSH    AF
+370         CALL    CLS
+380         HALT
+390         HALT
+400         POP     AF
+410         POP     HL
+420         LD      BC,33
+430         ADD     HL,BC
+440         POP     BC
+450         DEC     B
+460         DEC     B
+470         DEC     C
+480         DEC     C
+490         POP     DE
+500         DEC     D
+510         JR      NZ,L1
+520         RET
+530 CLS     LD      (MEM1),A
+540         LD      DE,32
+550         LD      A,B
+560         LD      (MEM2),A
+570         LD      A,C
+580         LD      (MEM3),A
+590         LD      A,(MEM2)
+600         LD      B,A
+610         LD      A,(MEM1)
+620 C1      LD      (HL),A
+630         INC     HL
+640         DJNZ    C1
+650         DEC     HL
+660         LD      A,(MEM3)
+670         LD      B,A
+680         LD      A,(MEM1)
+690 C2      LD      (HL),A
+700         ADD     HL,DE
+710         DJNZ    C2
+720         AND     A
+730         SBC     HL,DE
+740         LD      A,(MEM2)
+750         LD      B,A
+760         LD      A,(MEM1)
+770 C3      LD      (HL),A
+780         DEC     HL
+790         DJNZ    C3
+800         INC     HL
+810         LD      A,(MEM3)
+820         LD      B,A
+830         LD      A,(MEM1)
+840 C4      LD      (HL),A
+850         AND     A
+860         SBC     HL,DE
+870         DJNZ    C4
+880         RET
+890 MEM1    DEFB    0
+900 MEM2    DEFB    0
+910 MEM3    DEFB    02
+И дамп программы:
+9C40: 3E 07 CD 6E 9C 3E 05 CD:08
+9C48: 6E 9C 3E 01 CD 6E 9C AF:B3
+9C50: CD 6E 9C 21 00 40 11 01:36
+9C58: 40 01 FF 1A 36 00 ED B0:21
+9C60: 3A 8D 5C F5 0F 0F 0F E6:27
+9C68: 07 D3 FE F1 18 07 D3 FE:BD
+9C70: 5F 07 07 07 AB 21 00 58:A4
+9C78: 01 18 20 16 0C D5 C5 E5:EE
+9C80: F5 CD 96 9C 76 76 F1 E1:CE
+9C88: 01 21 00 09 C1 05 05 0D:27
+9C90: 0D D1 15 20 E8 C9 32 D8:FA
+9C98: 9C 11 20 00 78 32 D9 9C:20
+9CA0: 79 32 DA 9C 3A D9 9C 47:53
+9CA8: 3A D8 9C 77 23 10 FC 2B:C3
+9CB0: 3A DA 9C 47 3A D8 9C 77:68
+9CB8: 19 10 FC A7 ED 52 3A D9:72
+9CC0: 9C 47 3A D8 9C 77 2B 10:9F
+9CC8: FC 23 3A DA 9C 47 3A D8:8C
+9CD0: 9C 77 A7 ED 52 10 FA C9:38
+9CD8: 00 00 00 00 00 00 00 00:74
+********************************
+Следующие процедуры посвящены
+выводу  текстовых  сообщений  на
+экран.
+(c) Олег Смолянкин.
+Предлагаю   вашему   вниманию
+процедуры, которые я вытащил  из
+различных загрузчиков.  Все  они
+предназначены для вывода тексто-
+вых сообщений. Итак:
+
+   1-ая процедура:
+145.
+     ORG  40000
+     ENT
+     LD   A,2
+     CALL #1601
+     LD   B,31
+L2   LD   A,22
+     RST  16
+     LD   A,12
+     RST  16
+     LD   A,B
+     RST  16
+     LD   A,32
+     SUB  B
+     PUSH BC
+     LD   HL,23760
+     LD   B,A
+L1   LD   A,(HL)
+     RST  16
+     INC  HL
+     DJNZ L1
+     POP  BC
+     DEC  B
+     LD   A,B
+     CP   255
+     JR   NZ,L2
+     RET
+2
+   Ее дамп:
+9C40: 3E 02 CD 01 16 06 1F 3E:63
+9C48: 16 D7 3E 0C D7 78 D7 3E:7F
+9C50: 20 90 C5 21 D0 5C 47 7E:73
+9C58: D7 23 10 FB C1 05 78 FE:35
+9C60: FF 20 E4 C9 00 00 00 00:C8
+Текст должен находиться в са-
+мой первой BASIC-строке за  опе-
+ратором REM. Длина строки фикси-
+рована - 32 символа (если  нужно
+меньше, можно добавить пробелами
+до 32 символов).
+
+   2-ая процедура:
+145.
+     ORG  40000
+     ENT
+     LD   HL,16384
+     LD   B,7
+L7   PUSH HL
+     PUSH BC
+L6   PUSH BC
+     PUSH HL
+     LD   B,32
+L5   RR   (HL)
+     INC  HL
+     DJNZ L5
+     POP  HL
+     POP  BC
+     DJNZ L6
+     POP  BC
+     POP  HL
+     INC  H
+     DJNZ L7
+     JR   L8
+L9   PUSH HL
+     POP  DE
+     INC  DE
+     LD   (HL),A
+     LD   BC,32
+     LDIR
+     RET
+L8   LD   A,#46
+     LD   HL,23168
+     CALL L9
+     LD   A,#42
+     LD   HL,23200
+     CALL L9
+     LD   HL,16384
+     LD   DE,20608
+     CALL L10
+     LD   DE,20640
+L10  LD   A,4
+L11  LD   BC,32
+     PUSH DE
+     PUSH HL
+     LDIR
+     POP  HL
+     POP  DE
+     INC  H
+     INC  D
+     INC  D
+     DEC  A
+     JR   NZ,L11
+     RET
+2
+   Ее дамп:
+9C40: 21 00 40 06 07 E5 C5 C5:B9
+9C48: E5 06 20 CB 1E 23 10 FB:06
+9C50: E1 C1 10 F3 C1 E1 24 10:67
+9C58: EC 18 0A E5 D1 13 77 01:43
+9C60: 20 00 ED B0 C9 3E 46 21:27
+9C68: 80 5A CD 5B 9C 3E 42 21:43
+9C70: A0 5A CD 5B 9C 21 00 40:2B
+9C78: 11 80 50 CD 81 9C 11 A0:90
+9C80: 50 3E 04 01 20 00 D5 E5:89
+9C88: ED B0 E1 D1 24 14 14 3D:FC
+9C90: 20 F1 C9 00 00 00 00 00:06
+Перед  использованием    этой
+процедуры экран должен быть очи-
+щен так: BORDER 0: PAPER 0:  INK
+0: CLS.
+   Напечатайте что-нибудь в  са-
+мой верхней  строке  и  вызовите
+эту процедуру. Сами увидите, что
+произойдет. Процедура очень под-
+ходит  для  оформления загрузчи-
+ков.
+
+   3-я  процедура  предназначена
+для печати символами двойной вы-
+соты.
+145.
+       ORG  30000
+POS    EQU  #0000
+LEN    EQU  27
+FONT1  EQU  40000
+FONT2  EQU  50000
+       ENT
+       LD   IX,15616
+       LD   HL,FONT1
+       LD   DE,FONT2
+       LD   B,96
+L3     PUSH BC
+       LD   B,4
+L1     LD   A,(IX+0)
+       LD   (HL),A
+       INC  HL
+       LD   (HL),A
+       INC  HL
+       INC  IX
+       DJNZ L1
+       LD   B,4
+L2     LD   A,(IX+0)
+       LD   (DE),A
+       INC  DE
+       LD   (DE),A
+       INC  DE
+       INC  IX
+       DJNZ L2
+       POP  BC
+       DJNZ L3
+       LD   A,2
+       CALL #1601
+       LD   HL,FONT1-256
+       LD   (23606),HL
+       LD   DE,TEXT
+       LD   BC,POS
+       PUSH DE
+       PUSH BC
+       CALL POSIT
+       LD   BC,LEN
+       CALL #203C
+       LD   HL,FONT2-256
+       LD   (23606),HL
+       POP  BC
+       INC  B
+       CALL POSIT
+       POP  DE
+       LD   BC,LEN
+       CALL #203C
+       RET
+POSIT  LD   A,#16
+       RST  16
+       LD   A,B
+       RST  16
+       LD   A,C
+       RST  16
+       RET
+TEXT   DEFM "   SMOLY"
+       DEFM "ANKIN OLE"
+       DEFM "G PRESENTS"
+2
+   Ее дамп:
+7530: DD 21 00 3D 21 40 9C 11:EE
+7538: 50 C3 06 60 C5 06 04 DD:D2
+7540: 7E 00 77 23 77 23 DD 23:67
+7548: 10 F5 06 04 DD 7E 00 12:39
+7550: 13 12 13 DD 23 10 F5 C1:C3
+7558: 10 E2 3E 02 CD 01 16 21:04
+7560: 40 9B 22 36 5C 11 91 75:7B
+7568: 01 00 00 D5 C5 CD 89 75:43
+7570: 01 1B 00 CD 3C 20 21 50:9B
+7578: C2 22 36 5C C1 04 CD 89:7E
+7580: 75 D1 01 1B 00 CD 3C 20:80
+7588: C9 3E 16 D7 78 D7 79 D7:90
+7590: C9 20 20 20 53 4D 4F 4C:69
+7598: 59 41 4E 4B 49 4E 20 4F:46
+75A0: 4C 45 47 20 50 52 45 53:47
+75A8: 45 4E 54 53 00 00 00 00:57
+********************************

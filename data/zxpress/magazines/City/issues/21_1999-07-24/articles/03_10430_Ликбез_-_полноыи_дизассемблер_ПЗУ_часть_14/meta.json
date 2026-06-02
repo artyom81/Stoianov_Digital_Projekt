@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "21",
+  "issue_date_iso": "1999-07-24",
+  "order": 3,
+  "article_id": 10430,
+  "title_link": "Ликбез - полноый дизассемблер ПЗУ (часть 14).",
+  "title_h1": "City 21 - Ликбез - полноый дизассемблер ПЗУ (часть 14).",
+  "print_url": "https://zxpress.ru/print.php?id=10430",
+  "article_url": "https://zxpress.ru/article.php?id=10430",
+  "fetched_at": "2026-05-31T21:50:52Z"
+}

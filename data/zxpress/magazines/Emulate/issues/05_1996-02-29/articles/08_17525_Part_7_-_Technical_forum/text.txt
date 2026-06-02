@@ -1,0 +1,75 @@
+05 - Part 7 - Technical forum.
+==========================================
+*******************************
+*  PART 7  - TECHNICAL FORUM  *
+*******************************
+
+TECHNICAL WRITES
+
+Although  nobody  has  sent  me  a message
+about    this   query,   a   friend,   who
+occasionally   reads  this  magazine,  has
+asked     for     an     explanation    of
+"hand-blocking",  a  method sometimes used
+to transfer old games to different media.
+
+Basically, it works like this:
+
+1.  Use  a tape header reader to determine
+the  start  line of the first BASIC block,
+and  the  addresses  and  lengths of other
+blocks.
+
+2.  Reset the computer and MERGE the BASIC
+loader.  After a pause, it should give OK.
+Programs larger than 7K may cause a system
+crash  if they have been made MERGE proof.
+It  should also be noted that all auto-run
+programs on Microdrives are MERGE proof.
+
+3.  Edit  the LOAD statements so that they
+access  the  new  device  rather  than the
+tape,  including filenames. If a screen is
+loaded by LOAD ""CODE, change this to LOAD
+*"m";1;"filename"SCREEN$      (or     LOAD
+"a:filename"SCREEN$,   or   whatever  your
+device  needs).  Any  block  which  passes
+through  any  of  the  addresses  23672 to
+23674  needs its start address added after
+CODE.
+
+4.  SAVE  the  loader  to  the new medium.
+Remember the LINE parameter.
+
+5.  Reset the computer. Except for screens
+and  blocks  which  pass  through 23672 to
+23674,   LOAD   further  blocks  to  their
+original  addresses,  and SAVE them to the
+new medium from those addresses with their
+original  lengths.  Remember  to CLEAR one
+byte below the start address first, unless
+the  bytes load to the system variables or
+printer buffer.
+
+6.  Screens and frame-count-protect blocks
+(those  which  affect 23672 to 23674) need
+their   contents  preserved.  CLEAR  32767
+(25855  on  a  16K)  and LOAD the block to
+32768  (25856  on 16K). SAVE it to the new
+medium  from  32768  (or  25856)  with its
+original length.
+
+7.  When  all  blocks are completed, reset
+the  computer and LOAD the loader from the
+new   medium.   The   game   should  start
+normally.
+
+Technical  editor,  Phil  Reynolds, can be
+contacted by e-mail:
+phil@hedgford.demon.co.uk,        or faxed
+(+44/0) 1543 428082.
+
+Technical queries will usually be answered
+in the next issue of Emulate.
+
+==========================================

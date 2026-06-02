@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-11-30",
+  "order": 1,
+  "article_id": 8897,
+  "title_link": "Введение - О новом интерфейсе в газете.",
+  "title_h1": "Echo 02 - Введение - О новом интерфейсе в газете.",
+  "print_url": "https://zxpress.ru/print.php?id=8897",
+  "article_url": "https://zxpress.ru/article.php?id=8897",
+  "fetched_at": "2026-05-31T22:00:12Z"
+}

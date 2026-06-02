@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "30",
+  "issue_date_iso": "1999-08-09",
+  "order": 5,
+  "article_id": 4295,
+  "title_link": "Программистам - Об AY'ке.",
+  "title_h1": "Think 30 - Программистам - Об AY'ке.",
+  "print_url": "https://zxpress.ru/print.php?id=4295",
+  "article_url": "https://zxpress.ru/article.php?id=4295",
+  "fetched_at": "2026-05-31T23:13:34Z"
+}

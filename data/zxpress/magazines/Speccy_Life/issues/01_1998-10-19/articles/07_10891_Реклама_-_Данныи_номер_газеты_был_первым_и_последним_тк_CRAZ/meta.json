@@ -1,0 +1,15 @@
+{
+  "magazine_id": 200,
+  "magazine_name": "Speccy Life",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-10-19",
+  "order": 7,
+  "article_id": 10891,
+  "title_link": "Реклама - Данный номер газеты был первым и последним т.к. CRAZY DMC ушел на Amiga.",
+  "title_h1": "Speccy Life 01 - Реклама - Данный номер газеты был первым и последним т.к. CRAZY DMC ушел на Amiga.",
+  "print_url": "https://zxpress.ru/print.php?id=10891",
+  "article_url": "https://zxpress.ru/article.php?id=10891",
+  "fetched_at": "2026-05-31T23:04:35Z"
+}

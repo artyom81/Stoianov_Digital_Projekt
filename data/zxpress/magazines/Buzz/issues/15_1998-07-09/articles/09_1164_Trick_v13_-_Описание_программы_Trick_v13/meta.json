@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1998-07-09",
+  "order": 9,
+  "article_id": 1164,
+  "title_link": "Trick v1.3 - Описание программы Trick v1.3",
+  "title_h1": "Buzz 15 - Trick v1.3 - Описание программы Trick v1.3",
+  "print_url": "https://zxpress.ru/print.php?id=1164",
+  "article_url": "https://zxpress.ru/article.php?id=1164",
+  "fetched_at": "2026-05-31T21:48:16Z"
+}

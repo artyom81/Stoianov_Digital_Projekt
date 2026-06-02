@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 9169,
+    "article_url": "https://zxpress.ru/article.php?id=9169",
+    "print_url": "https://zxpress.ru/print.php?id=9169",
+    "title_link": "Вступление - C-Net Week #19 мы все увидели! Софтография FOX'a.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Вступление_-_C-Net_Week_19_мы_все_увидели_Софтография_FOXa"
+  },
+  {
+    "article_id": 9170,
+    "article_url": "https://zxpress.ru/article.php?id=9170",
+    "print_url": "https://zxpress.ru/print.php?id=9170",
+    "title_link": "Вести с полигона - стихи от FOX'a.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Вести_с_полигона_-_стихи_от_FOXa"
+  },
+  {
+    "article_id": 9171,
+    "article_url": "https://zxpress.ru/article.php?id=9171",
+    "print_url": "https://zxpress.ru/print.php?id=9171",
+    "title_link": "Слушаем вас ? - Valeron беседует с Smont'om об играх, винте и будущем спектрума.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Слушаем_вас_-_Valeron_беседует_с_Smontom_об_играх_винте_и_бу"
+  },
+  {
+    "article_id": 9172,
+    "article_url": "https://zxpress.ru/article.php?id=9172",
+    "print_url": "https://zxpress.ru/print.php?id=9172",
+    "title_link": "P.S. - список BBS Гродно.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "PS_-_список_BBS_Гродно"
+  }
+]

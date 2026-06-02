@@ -1,0 +1,15 @@
+{
+  "magazine_id": 130,
+  "magazine_name": "Murzilka",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "0000-01-01",
+  "order": 11,
+  "article_id": 15708,
+  "title_link": "привет - кажется, это всё...",
+  "title_h1": "Murzilka 09 - привет - кажется, это всё...",
+  "print_url": "https://zxpress.ru/print.php?id=15708",
+  "article_url": "https://zxpress.ru/article.php?id=15708",
+  "fetched_at": "2026-05-31T22:31:11Z"
+}

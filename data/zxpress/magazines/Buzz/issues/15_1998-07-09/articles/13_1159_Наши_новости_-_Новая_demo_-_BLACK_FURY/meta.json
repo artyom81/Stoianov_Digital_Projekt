@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1998-07-09",
+  "order": 13,
+  "article_id": 1159,
+  "title_link": "Наши новости - Новая demo - BLACK FURY.",
+  "title_h1": "Buzz 15 - Наши новости - Новая demo - BLACK FURY.",
+  "print_url": "https://zxpress.ru/print.php?id=1159",
+  "article_url": "https://zxpress.ru/article.php?id=1159",
+  "fetched_at": "2026-05-31T21:48:18Z"
+}

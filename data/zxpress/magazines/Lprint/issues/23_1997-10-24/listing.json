@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 12417,
+    "article_url": "https://zxpress.ru/article.php?id=12417",
+    "print_url": "https://zxpress.ru/print.php?id=12417",
+    "title_link": "От редакции - Cвои статьи, вопросы, предложения и\r\nт.д. присылайте в виде файла.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "От_редакции_-_Cвои_статьи_вопросы_предложения_итд_присылаите"
+  },
+  {
+    "article_id": 12418,
+    "article_url": "https://zxpress.ru/article.php?id=12418",
+    "print_url": "https://zxpress.ru/print.php?id=12418",
+    "title_link": "Новости - Вышел BODY #0C и MOVE-21.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Новости_-_Вышел_BODY_0C_и_MOVE-21"
+  },
+  {
+    "article_id": 12419,
+    "article_url": "https://zxpress.ru/article.php?id=12419",
+    "print_url": "https://zxpress.ru/print.php?id=12419",
+    "title_link": "Письма - Письмо из Москвы по поводу статьи \"ENLIGHT RULEZ?!\" Emperio сорвал Inelight 1997?",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Письма_-_Письмо_из_Москвы_по_поводу_статьи_ENLIGHT_RULEZ_Emp"
+  },
+  {
+    "article_id": 12420,
+    "article_url": "https://zxpress.ru/article.php?id=12420",
+    "print_url": "https://zxpress.ru/print.php?id=12420",
+    "title_link": "ENLIGHT RULEZ?! - ENLIGHT 1997 - к чему он прирулит? (день шестой).",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "ENLIGHT_RULEZ_-_ENLIGHT_1997_-_к_чему_он_прирулит_день_шесто"
+  },
+  {
+    "article_id": 12421,
+    "article_url": "https://zxpress.ru/article.php?id=12421",
+    "print_url": "https://zxpress.ru/print.php?id=12421",
+    "title_link": "BLOODWYCH - Рассказ по мотиву игры \"BloodWych\" (глава 6-7).",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "BLOODWYCH_-_Рассказ_по_мотиву_игры_BloodWych_глава_6-7"
+  },
+  {
+    "article_id": 12422,
+    "article_url": "https://zxpress.ru/article.php?id=12422",
+    "print_url": "https://zxpress.ru/print.php?id=12422",
+    "title_link": "Металлургия - Как расширить память компьютера \"БАЛТИКА\" до 512 Кб.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Металлургия_-_Как_расширить_память_компьютера_БАЛТИКА_до_512"
+  },
+  {
+    "article_id": 12423,
+    "article_url": "https://zxpress.ru/article.php?id=12423",
+    "print_url": "https://zxpress.ru/print.php?id=12423",
+    "title_link": "Улыбнемся - За трезвый образ жизни.",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Улыбнемся_-_За_трезвыи_образ_жизни"
+  },
+  {
+    "article_id": 12424,
+    "article_url": "https://zxpress.ru/article.php?id=12424",
+    "print_url": "https://zxpress.ru/print.php?id=12424",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 8,
+    "issue_label": "23",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

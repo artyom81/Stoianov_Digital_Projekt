@@ -1,0 +1,94 @@
+Deja Vu 06 - CODING - Об обечатке в листинге использования стека (в 5 номере).
+(C) RLA/CRG
+__________________________________________
+По техническим причинам  в  статье
+"ИС-
+ПОЛЬЗОВАНИЕ СТЕКА"
+(DEJA_VU #05)
+были  до-
+пущены некоторые неточности.
+   В действительности  листинги обработчи-
+ков выглядят так:
+INT1
+DI
+LD      (TOSP+1),SP
+LD      SP,INT1
+PUSH    HL
+PUSH    DE
+PUSH    BC
+PUSH    AF
+PUSH    IX
+EXX
+EX      AF,AF
+PUSH    HL
+PUSH    DE
+PUSH    BC
+PUSH    AF
+PUSH    IY
+LD      HL,(TOSP+1)
+LD      DE,#4000
+AND     A
+SBC     HL,DE
+LD      A,#C9
+; RET
+JR      NZ,OK
+LD      A,#C3
+; JP
+OK
+LD      (TO_RET),A
+...
+POP     IY
+POP     AF
+POP     BC
+POP     DE
+POP     HL
+EXX
+EX      AF,AF
+POP     IX
+POP     AF
+POP     BC
+POP     DE
+POP     HL
+EI
+TOSP
+LD      SP,0
+TO_RET
+DB      0
+DW      ADR1
+INT2
+DI
+EX      (SP),HL
+LD      (_JP+1),HL
+POP     HL
+LD      (TOSP2+1),SP
+LD      SP,INT2
+PUSH    HL
+PUSH    DE
+PUSH    BC
+PUSH    AF
+PUSH    IX
+EXX
+EX      AF,AF
+PUSH    HL
+PUSH    DE
+PUSH    BC
+PUSH    AF
+PUSH    IY
+...
+POP     IY
+POP     AF
+POP     BC
+POP     DE
+POP     HL
+EXX
+EX      AF,AF
+POP     IX
+POP     AF
+POP     BC
+POP     DE
+POP     HL
+TOSP2
+LD      SP,0
+EI
+_JP
+JP      0

@@ -1,0 +1,2 @@
+fcs-simple-endpoint==1.0.4
+requests==2.28.2

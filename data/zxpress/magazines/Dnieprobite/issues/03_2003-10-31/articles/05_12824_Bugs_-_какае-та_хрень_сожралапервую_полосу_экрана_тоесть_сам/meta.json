@@ -1,0 +1,15 @@
+{
+  "magazine_id": 56,
+  "magazine_name": "Dnieprobite",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "2003-10-31",
+  "order": 5,
+  "article_id": 12824,
+  "title_link": "Bugs! - какае-та хрень сожрала\r\nпервую полосу экрана, тоесть самые верхний\r\nряд pixels.",
+  "title_h1": "Dnieprobite 03 - Bugs! - какае-та хрень сожрала первую полосу экрана, тоесть самые верхний ряд pixels.",
+  "print_url": "https://zxpress.ru/print.php?id=12824",
+  "article_url": "https://zxpress.ru/article.php?id=12824",
+  "fetched_at": "2026-05-31T21:57:55Z"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 14439,
+    "article_url": "https://zxpress.ru/article.php?id=14439",
+    "print_url": "https://zxpress.ru/print.php?id=14439",
+    "title_link": ".history - Перед вами zx-версия The Chart!",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "history_-_Перед_вами_zx-версия_The_Chart"
+  },
+  {
+    "article_id": 14440,
+    "article_url": "https://zxpress.ru/article.php?id=14440",
+    "print_url": "https://zxpress.ru/print.php?id=14440",
+    "title_link": ".голосовавшие - участники голосования.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "голосовавшие_-_участники_голосования"
+  },
+  {
+    "article_id": 14441,
+    "article_url": "https://zxpress.ru/article.php?id=14441",
+    "print_url": "https://zxpress.ru/print.php?id=14441",
+    "title_link": ".credits - авторы чартов.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "credits_-_авторы_чартов"
+  },
+  {
+    "article_id": 14442,
+    "article_url": "https://zxpress.ru/article.php?id=14442",
+    "print_url": "https://zxpress.ru/print.php?id=14442",
+    "title_link": ".best - лучшие: спектрумист, игра, группа, демо, интро, кодер, писатель, музыкант, художник, журнал.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "best_-_лучшие_спектрумист_игра_группа_демо_интро_кодер_писат"
+  },
+  {
+    "article_id": 620,
+    "article_url": "https://zxpress.ru/article.php?id=620",
+    "print_url": "https://zxpress.ru/print.php?id=620",
+    "title_link": "Amiga Sensor - Самый крутой домашний компьютер - Amiga.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Amiga_Sensor_-_Самыи_крутои_домашнии_компьютер_-_Amiga"
+  },
+  {
+    "article_id": 12278,
+    "article_url": "https://zxpress.ru/article.php?id=12278",
+    "print_url": "https://zxpress.ru/print.php?id=12278",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  },
+  {
+    "article_id": 6913,
+    "article_url": "https://zxpress.ru/article.php?id=6913",
+    "print_url": "https://zxpress.ru/print.php?id=6913",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 1381,
+    "article_url": "https://zxpress.ru/article.php?id=1381",
+    "print_url": "https://zxpress.ru/print.php?id=1381",
+    "title_link": "Hints - Трюк с отгрузками в Чёрном Вороне.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Hints_-_Трюк_с_отгрузками_в_Черном_Вороне"
+  },
+  {
+    "article_id": 1103,
+    "article_url": "https://zxpress.ru/article.php?id=1103",
+    "print_url": "https://zxpress.ru/print.php?id=1103",
+    "title_link": "Анекдоты - 22 анекдота...",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Анекдоты_-_22_анекдота"
+  }
+]

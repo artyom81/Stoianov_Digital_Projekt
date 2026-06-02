@@ -1,0 +1,93 @@
+Scream 03 - hallowman speaking - впечатление комадорщика от спектрумовских демок.
+__spectrum demos from a c64 sceners point of view 
+__HOLL0WMAN/Fairlight 
+
+
+i'd like to start this article with pointing out  one  important
+thing, i have only watched the demos in emulator and the  reason
+is  simple,  i dont own a spectrumand i dont know anyone around
+here who does. hopefully the emulator isnt too inaccurate.
+
+with that sorted out i should  perhaps  mention  who  i  am.  my
+handle  is  hollowman  and  i'm  a  member  of fairlight,i have
+previously been a member of triad. i've been active on  the  c64
+scene since 1995 as graphician and coder.
+
+i recieved a bunch of demos from kq\skrjuand sat down  to  have
+a  look. i really had no idea what to expect, what i heard about
+spectrum machines is that they are small, have  rubber  keyboard
+and dont have hardware sprites. so i figured i was perhaps gonna
+see  alot of vector stuff in single color. the first demo up was
+condommed and i was rather pleasantly surprised,  the  theme  of
+the  demo  seemed a bit silly but the effects, the music and the
+general  look  of  the  demo didnt quite look like anything i've
+seen before, atleast not on c64.this was more similar to  amiga
+demos, with a nice lo-fi touch. a good start.
+
+if you play older games on c64its hard to avoid games converted
+from spectrum.i guess i'm not only  one  who  have  cursed  the
+crappy  conversions,  especially  from codemasterslike dizzyor
+slightly magic.they were  slow,  mostly  ugly  and  didnt  take 
+benefit  of  any  of the c64'sadvantages. 'spectrum gfx'was an
+insult i remember from 80's computer mags, so i was  curious  to
+see what the graphicians has  managed  to  squueze  out  of  the
+machine. as i understood the spectrumhas the same limitation as
+c64hires bitmap mode with 2 colors per 8x8 square. and if  that 
+is  so  i  am pretty shocked by the quality of the pictures i've
+seen in some of the demos for example inbetween/placebo. hardly
+anyone  on  c64 tries to do anything like that in hires, partly
+because there are few good  hires-editors,  partly  because  its
+damn hard work. so what mostly is seen is  hires  pictures  only
+using 2 colors. what i really liked about these pictures is that
+they have both adapted a modern style from amiga and pc gfx,but
+they  still  got  a  very  unique  feel because of the spectrums
+colors. and it looks like alot of hard work has  been  put  into
+them.
+
+one thing that people has been arguing about on the c64scene is
+the use of effects  in  lower  resolutions,  using  8x8  or  4x4
+pixels.  i dont see this as a problem if its done in a good way,
+but most usually it isnt. a single chunky effect on  screen,  no
+additional gfx to spice things up, thats pretty much how  things
+have looked so far. therefore i was really happy to see that  in
+many  of the spectrumdemos the effects in lower resolutions had
+bitmap gfx on top of it. that reminded me of amiga and pc  demos
+a  few years ago that had lots of 2d effects but always some gfx
+over parts of it. i was wondering how that was done on spectrum.
+when i showed the demos at a  small  meeting  at  vodkas  place,
+trash/booze design told me that you could have two gfx layers on
+spectrum, chars in one, bitmap in the other. if that  is  so,  i
+can  just  say:  lucky bastards :) this makes alot of nice stuff
+possible. the 4x4 pixel mode on c64is  done  using  multicolour
+bitmap mode so you can mix bitmap picture and  4x4  effects  but
+not many have explored this.
+
+during the last few years we have seen a few demos on  c64 that
+has  been  a  bit  different  from  the  regular  effect  shows.
+obviously this has reached the spectrumscene aswell, i saw that
+focus  great  demo  timewaster  had  been  converted  to  speccy
+recently. in  the  collection  of  demos  i  recieved  the  demo
+summermilk did really stick out, it was quite different both  in
+graphical motives and effects. what  i  would  have  wished  for
+however was some more relaxed music. the text and the gfx builds
+a  very  mellow  atmosphere  that  is sadly not reflected in the
+music, otherwise this would have been  a  really  good  demo  to
+chill out to.
+
+to me, if a platform is interesting or not depends on if it  has
+any  special features that stand out. although some like to make
+demos on any platform just for the sake of it.
+
+the spectrumhas its gfx modes and  colors  that  are  different
+from other computers, this gives most spectrumdemos i've seen a
+nice  old  computer feel, this mixed with new effects and design
+provides an attractive style. i would like to have one of  those
+more  advanced  spectrums, but  the odds of running into one of
+those in sweden  arent  that  good.  anyhow,  i  really  enjoyed
+watching the demos and having my prejudices about spectrum blown
+away, and i hope to see more speccyproductions in the future.
+
+[ kq: the demos i've sent to  HOLL0WMAN  were:  Condommed,  Jam, 
+Dogma,  Scenergy#2promo, Tryptomine Dream, The Loop, Life Forms, 
+Stellar Contour, hARM, loveMaker, Cheap Z80,  demo21,  Inbetween 
+and summermilk. ]

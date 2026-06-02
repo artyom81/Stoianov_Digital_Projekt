@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 63,
+    "article_url": "https://zxpress.ru/article.php?id=63",
+    "print_url": "https://zxpress.ru/print.php?id=63",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "16",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 1994,
+    "article_url": "https://zxpress.ru/article.php?id=1994",
+    "print_url": "https://zxpress.ru/print.php?id=1994",
+    "title_link": "Scorpion Club - Контроллер мыши и клавиатуры, подключение к различным видам Spectrum-совместимых компьютеров.",
+    "order": 2,
+    "issue_label": "16",
+    "short_slug": "Scorpion_Club_-_Контроллер_мыши_и_клавиатуры_подключение_к_р"
+  },
+  {
+    "article_id": 1995,
+    "article_url": "https://zxpress.ru/article.php?id=1995",
+    "print_url": "https://zxpress.ru/print.php?id=1995",
+    "title_link": "WANTED !!! - Разыскиваются : Sunshine, Three Model, Enjust World,\r\n Cyrus 2...",
+    "order": 3,
+    "issue_label": "16",
+    "short_slug": "WANTED_-_Разыскиваются_Sunshine_Three_Model_Enjust_World_Cyr"
+  },
+  {
+    "article_id": 1996,
+    "article_url": "https://zxpress.ru/article.php?id=1996",
+    "print_url": "https://zxpress.ru/print.php?id=1996",
+    "title_link": "Мозаика - Cheat'ы к программам ... О журнале \"ZX-Magazine\".",
+    "order": 4,
+    "issue_label": "16",
+    "short_slug": "Мозаика_-_Cheatы_к_программам_О_журнале_ZX-Magazine"
+  },
+  {
+    "article_id": 1993,
+    "article_url": "https://zxpress.ru/article.php?id=1993",
+    "print_url": "https://zxpress.ru/print.php?id=1993",
+    "title_link": "Новье !? - О программах Navy Seals 1 и 2, Bedlam, Sex Tetris ,\r\n Light Corridor, Battle City 2.",
+    "order": 5,
+    "issue_label": "16",
+    "short_slug": "Новье_-_О_программах_Navy_Seals_1_и_2_Bedlam_Sex_Tetris_Ligh"
+  },
+  {
+    "article_id": 1997,
+    "article_url": "https://zxpress.ru/article.php?id=1997",
+    "print_url": "https://zxpress.ru/print.php?id=1997",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "16",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

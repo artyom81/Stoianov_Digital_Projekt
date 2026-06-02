@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9375,
+    "article_url": "https://zxpress.ru/article.php?id=9375",
+    "print_url": "https://zxpress.ru/print.php?id=9375",
+    "title_link": "News - следующий номер должен стать юбилейным.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "News_-_следующии_номер_должен_стать_юбилеиным"
+  },
+  {
+    "article_id": 9376,
+    "article_url": "https://zxpress.ru/article.php?id=9376",
+    "print_url": "https://zxpress.ru/print.php?id=9376",
+    "title_link": "Мысли - Достоин ли NEMO (Вячеслав Скутин) уважения?",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Мысли_-_Достоин_ли_NEMO_Вячеслав_Скутин_уважения"
+  },
+  {
+    "article_id": 9377,
+    "article_url": "https://zxpress.ru/article.php?id=9377",
+    "print_url": "https://zxpress.ru/print.php?id=9377",
+    "title_link": "Docs - Объём номера ограничен листом A4. Примите мои извинения :(",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Docs_-_Объем_номера_ограничен_листом_A4_Примите_мои_извинени"
+  }
+]

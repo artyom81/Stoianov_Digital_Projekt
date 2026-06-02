@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 14234,
+    "article_url": "https://zxpress.ru/article.php?id=14234",
+    "print_url": "https://zxpress.ru/print.php?id=14234",
+    "title_link": "От авторов - традиционное вступление.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "От_авторов_-_традиционное_вступление"
+  },
+  {
+    "article_id": 14235,
+    "article_url": "https://zxpress.ru/article.php?id=14235",
+    "print_url": "https://zxpress.ru/print.php?id=14235",
+    "title_link": "Что нового? - свежий wareZ: Shashki, Towdie_Russian,IzhNews#10, Marazm #21-#22,ZX-Power #4,BGE 2.40, HorrorWord 1.00, SHU 3.01, HRiP 0.98, PSV 1.0.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Что_нового_-_свежии_wareZ_Shashki_Towdie_RussianIzhNews10_Ma"
+  },
+  {
+    "article_id": 14236,
+    "article_url": "https://zxpress.ru/article.php?id=14236",
+    "print_url": "https://zxpress.ru/print.php?id=14236",
+    "title_link": "RestInPain - новости.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "RestInPain_-_новости"
+  },
+  {
+    "article_id": 14237,
+    "article_url": "https://zxpress.ru/article.php?id=14237",
+    "print_url": "https://zxpress.ru/print.php?id=14237",
+    "title_link": "Hints! - Взрыв.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Hints_-_Взрыв"
+  },
+  {
+    "article_id": 14238,
+    "article_url": "https://zxpress.ru/article.php?id=14238",
+    "print_url": "https://zxpress.ru/print.php?id=14238",
+    "title_link": "MinskZXnet - жизнь сети :)",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "MinskZXnet_-_жизнь_сети"
+  },
+  {
+    "article_id": 14239,
+    "article_url": "https://zxpress.ru/article.php?id=14239",
+    "print_url": "https://zxpress.ru/print.php?id=14239",
+    "title_link": "hAve A fUn! - сатанисты обезврежены !",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "hAve_A_fUn_-_сатанисты_обезврежены"
+  },
+  {
+    "article_id": 14240,
+    "article_url": "https://zxpress.ru/article.php?id=14240",
+    "print_url": "https://zxpress.ru/print.php?id=14240",
+    "title_link": "b0nus pAck - body #20.zip",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "b0nus_pAck_-_body_20zip"
+  },
+  {
+    "article_id": 14241,
+    "article_url": "https://zxpress.ru/article.php?id=14241",
+    "print_url": "https://zxpress.ru/print.php?id=14241",
+    "title_link": "Заключение - авторы и т.д.",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "Заключение_-_авторы_и_тд"
+  }
+]

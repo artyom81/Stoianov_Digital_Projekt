@@ -1,0 +1,200 @@
+[
+  {
+    "article_id": 18330,
+    "article_url": "https://zxpress.ru/article.php?id=18330",
+    "print_url": "https://zxpress.ru/print.php?id=18330",
+    "title_link": "introduction - Вы находитесь на страницах ZX-Chart, посвященного в основном выявлению лучших из лучших во всех\r\nобластях творчества на ZX-Spectrum-компьютере,\r\nизобретенным английским гением, сэром Клайвом\r\nСинклером.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "introduction_-_Вы_находитесь_на_страницах_ZX-Chart_посвященн"
+  },
+  {
+    "article_id": 18331,
+    "article_url": "https://zxpress.ru/article.php?id=18331",
+    "print_url": "https://zxpress.ru/print.php?id=18331",
+    "title_link": "voters - список участников опроса",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "voters_-_список_участников_опроса"
+  },
+  {
+    "article_id": 18332,
+    "article_url": "https://zxpress.ru/article.php?id=18332",
+    "print_url": "https://zxpress.ru/print.php?id=18332",
+    "title_link": "credits - Пpoeкт ZX-Chart выпyскaeтся theCHARTteam",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "credits_-_Пpoeкт_ZX-Chart_выпyскaeтся_theCHARTteam"
+  },
+  {
+    "article_id": 18333,
+    "article_url": "https://zxpress.ru/article.php?id=18333",
+    "print_url": "https://zxpress.ru/print.php?id=18333",
+    "title_link": "spectrumist - спектрумист года",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "spectrumist_-_спектрумист_года"
+  },
+  {
+    "article_id": 18334,
+    "article_url": "https://zxpress.ru/article.php?id=18334",
+    "print_url": "https://zxpress.ru/print.php?id=18334",
+    "title_link": "group - группа года",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "group_-_группа_года"
+  },
+  {
+    "article_id": 18335,
+    "article_url": "https://zxpress.ru/article.php?id=18335",
+    "print_url": "https://zxpress.ru/print.php?id=18335",
+    "title_link": "group ever - группа всех времен",
+    "order": 6,
+    "issue_label": "03",
+    "short_slug": "group_ever_-_группа_всех_времен"
+  },
+  {
+    "article_id": 18336,
+    "article_url": "https://zxpress.ru/article.php?id=18336",
+    "print_url": "https://zxpress.ru/print.php?id=18336",
+    "title_link": "coder - лучший кодер на спектруме",
+    "order": 7,
+    "issue_label": "03",
+    "short_slug": "coder_-_лучшии_кодер_на_спектруме"
+  },
+  {
+    "article_id": 18337,
+    "article_url": "https://zxpress.ru/article.php?id=18337",
+    "print_url": "https://zxpress.ru/print.php?id=18337",
+    "title_link": "demo - лучшее демо",
+    "order": 8,
+    "issue_label": "03",
+    "short_slug": "demo_-_лучшее_демо"
+  },
+  {
+    "article_id": 18338,
+    "article_url": "https://zxpress.ru/article.php?id=18338",
+    "print_url": "https://zxpress.ru/print.php?id=18338",
+    "title_link": "4k intro - лучшее 4к интро",
+    "order": 9,
+    "issue_label": "03",
+    "short_slug": "4k_intro_-_лучшее_4к_интро"
+  },
+  {
+    "article_id": 18339,
+    "article_url": "https://zxpress.ru/article.php?id=18339",
+    "print_url": "https://zxpress.ru/print.php?id=18339",
+    "title_link": "graphician - лучший художник на спектруме",
+    "order": 10,
+    "issue_label": "03",
+    "short_slug": "graphician_-_лучшии_художник_на_спектруме"
+  },
+  {
+    "article_id": 18340,
+    "article_url": "https://zxpress.ru/article.php?id=18340",
+    "print_url": "https://zxpress.ru/print.php?id=18340",
+    "title_link": "screen - лучшая картинка на спектруме",
+    "order": 11,
+    "issue_label": "03",
+    "short_slug": "screen_-_лучшая_картинка_на_спектруме"
+  },
+  {
+    "article_id": 18341,
+    "article_url": "https://zxpress.ru/article.php?id=18341",
+    "print_url": "https://zxpress.ru/print.php?id=18341",
+    "title_link": ".musician - лучший музыкант на спектруме",
+    "order": 12,
+    "issue_label": "03",
+    "short_slug": "musician_-_лучшии_музыкант_на_спектруме"
+  },
+  {
+    "article_id": 18342,
+    "article_url": "https://zxpress.ru/article.php?id=18342",
+    "print_url": "https://zxpress.ru/print.php?id=18342",
+    "title_link": "music module - лучший трек на спектруме",
+    "order": 13,
+    "issue_label": "03",
+    "short_slug": "music_module_-_лучшии_трек_на_спектруме"
+  },
+  {
+    "article_id": 18343,
+    "article_url": "https://zxpress.ru/article.php?id=18343",
+    "print_url": "https://zxpress.ru/print.php?id=18343",
+    "title_link": "writer - лучший журналист на спектруме",
+    "order": 14,
+    "issue_label": "03",
+    "short_slug": "writer_-_лучшии_журналист_на_спектруме"
+  },
+  {
+    "article_id": 18344,
+    "article_url": "https://zxpress.ru/article.php?id=18344",
+    "print_url": "https://zxpress.ru/print.php?id=18344",
+    "title_link": "diskmag - лучший журнал на спектруме",
+    "order": 15,
+    "issue_label": "03",
+    "short_slug": "diskmag_-_лучшии_журнал_на_спектруме"
+  },
+  {
+    "article_id": 18345,
+    "article_url": "https://zxpress.ru/article.php?id=18345",
+    "print_url": "https://zxpress.ru/print.php?id=18345",
+    "title_link": "newspaper - лучшая газета на спектруме",
+    "order": 16,
+    "issue_label": "03",
+    "short_slug": "newspaper_-_лучшая_газета_на_спектруме"
+  },
+  {
+    "article_id": 18346,
+    "article_url": "https://zxpress.ru/article.php?id=18346",
+    "print_url": "https://zxpress.ru/print.php?id=18346",
+    "title_link": "web-resource - лучший сайт для спектрума",
+    "order": 17,
+    "issue_label": "03",
+    "short_slug": "web-resource_-_лучшии_саит_для_спектрума"
+  },
+  {
+    "article_id": 18347,
+    "article_url": "https://zxpress.ru/article.php?id=18347",
+    "print_url": "https://zxpress.ru/print.php?id=18347",
+    "title_link": "game - лучшая игра на спектруме",
+    "order": 18,
+    "issue_label": "03",
+    "short_slug": "game_-_лучшая_игра_на_спектруме"
+  },
+  {
+    "article_id": 18348,
+    "article_url": "https://zxpress.ru/article.php?id=18348",
+    "print_url": "https://zxpress.ru/print.php?id=18348",
+    "title_link": "utility - лучшая утилита для спектрума",
+    "order": 19,
+    "issue_label": "03",
+    "short_slug": "utility_-_лучшая_утилита_для_спектрума"
+  },
+  {
+    "article_id": 18349,
+    "article_url": "https://zxpress.ru/article.php?id=18349",
+    "print_url": "https://zxpress.ru/print.php?id=18349",
+    "title_link": "party - лучшее демопати",
+    "order": 20,
+    "issue_label": "03",
+    "short_slug": "party_-_лучшее_демопати"
+  },
+  {
+    "article_id": 18350,
+    "article_url": "https://zxpress.ru/article.php?id=18350",
+    "print_url": "https://zxpress.ru/print.php?id=18350",
+    "title_link": "film - лучший фильм по мнению спектрумистов",
+    "order": 21,
+    "issue_label": "03",
+    "short_slug": "film_-_лучшии_фильм_по_мнению_спектрумистов"
+  },
+  {
+    "article_id": 18351,
+    "article_url": "https://zxpress.ru/article.php?id=18351",
+    "print_url": "https://zxpress.ru/print.php?id=18351",
+    "title_link": "анкета - Благодарим за заполнение анкеты. Просьба назвать этот файл\r\n своим ником и отослать нам.",
+    "order": 22,
+    "issue_label": "03",
+    "short_slug": "анкета_-_Благодарим_за_заполнение_анкеты_Просьба_назвать_это"
+  }
+]

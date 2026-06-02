@@ -1,0 +1,337 @@
+ACNews 71 - Programming - Banking in IAR and ZX Spectrum 128K
+Banking in IAR and ZX Spectrum 128K
+by DimkaM
+---00---
+
+After numerous requests, and also for my own memo, I decided to
+describe banking in IAR C Compiler.
+I must distress you at once - the banking doesn't work for
+variables and constants (except for some cases), only for code.
+
+This article assumes that you are already familiar with my
+publication in Info Guide #11 and have the bundled files,
+because I will point to these examples.
+
+First, some FAQ, because not all readers are opening manuals, so
+they ask:
+
+Q:
+Why everything is wrapped in modules?
+R: At least, to avoid the label mishmash. Also, when you link 
+(libraries), only the used modules are linked. 
+
+Q:
+How to pass/receive arguments of C functions in asm?
+R: Up to 2 arguments in registers, others are on stack. 
+If there is an undefined number of arguments (printf(...) etc), 
+all of them are on stack. 
+The first argument is passed in E, DE, CDE, or BCDE, depending 
+on its width. 
+If the first and second parameters are both no wider than 16 
+bits, then the second parameter is passed in B or BC, or else on 
+stack. 
+Return value is passed in register A (L with banking), HL, CHL, 
+or BCHL, depending on its width. 
+
+                            ---01---
+
+In the beginning, we need procedures allowing to call banked
+functions and return from them.
+The are already present in library
+z8Oincclz80b.r01, but that
+version uses an 8-bit address port, even with bidirectional
+access.
+So we replace the needed procedures in that library.
+
+Create the project directory
+fix_clz80b.
+Create there a file
+zx128k.s01 with the following contents:
+;we can't read the current bank in window OxcOO0-Oxffff from 
+;hardware, so we mark all the used banks with their numbers 
+;at location OxFFFF.
+MODULE  MY_CURRENT_PAGE
+PUBLIC  MY_CURRENT_PAGE
+MY_CURRENT_PAGE=Oxffff
+ENDMOD
+MODULE  ?BANK_CALL_DIRECT_L08
+PUBLIC  ?BANK_CALL_DIRECT_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_CALL_DIRECT_L08:
+push hl
+ld   hl,(MY_CURRENT_PAGE-1)
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ex   (sp),hl
+jp   (hl)
+ENDMOD
+MODULE  ?BANK_LEAVE_32_L08
+PUBLIC  ?BANK_LEAVE_32_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_LEAVE_32_L08:
+ld   sp,ix
+pop  ix
+pop  de
+inc sp
+inc sp
+pop af
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ret
+ENDMOD
+MODULE  ?BANK_LEAVE_DIRECT_L08
+PUBLIC  ?BANK_LEAVE_DIRECT_L08
+PUBLIC  ?BANK_FAST_LEAVE_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_LEAVE_DIRECT_L08:
+ld   sp,ix
+pop  ix
+pop  de
+pop  bc
+?BANK_FAST_LEAVE_L08:
+pop  af
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+ret
+ENDMOD
+MODULE  ?BANK_CALL_DIRECT_EXAF_L08
+PUBLIC  ?BANK_CALL_DIRECT_EXAF_L08
+EXTERN  MY_CURRENT_PAGE
+RSEG  RCODE
+?BANK_CALL_DIRECT_EXAF_L08:
+ex   af,af'
+ld   a,(MY_CURRENT_PAGE)
+push af
+ex   af,af'
+push bc
+ld bc,0x7ffd
+out  (c),a
+pop bc
+jp   (hl)
+END
+Then we need file
+zx128k.bat with the following lines:
+..z8Obinaz80 -uu -b -v0 zx128k.s01
+copy ..z8Olibclz80b.r01 ..z8Olibclzx128k.r01 /Y
+..z8Obinxlib -c "fetch-modules zx128k.r01
+..z8Olibclzx128k.r01 MY_CURRENT_PAGE MY_CURRENT_PAGE"
+..z8Obinxlib -c "replace-modules zx128k.r01
+..z8Olibclzx128k.r01"
+Run it, and we have a library file
+..z8Oincclzx128k.r01 -
+a copy of
+clz80b.r01 with our own banking procedures.
+We don't need the project
+fix_clz80b any more.
+---02---
+
+Now we change the drawing procedures from the previous
+publication to work from a bank.
+Create a directory
+mylibb, and its inner directory list.
+Copy in the current project the following files:
+mylib.c (rename it to
+putchar.c ) and graf.s01 from the
+directory
+mylib (see Info Guide #11 ).
+Edit
+graf.s01 the following way:
+put FastPixel and the table in unbanked memory, i.e. in the
+segment RCODE. So, it quits with simple ret.
+MODULE  fast_set_pix
+PUBLIC  fast_set_pix,fast_set_pix_table
+RSEG  RCODE  ;UNbanked segment
+fast_set_pix  ;http://zxdn.narod.ru/coding/zg1etud2.txt
+... 
+procedure body 
+...
+ret  ;regular exit
+RSEG  ALIGN8
+fast_set_pix_table
+DEFS 1024
+ENDMOD
+Put the table initialization and SlowPixel into the banked
+segment CODE, so we need there the library procedure for exit.
+MODULE  fast_set_pix_init
+PUBLIC  fast_set_pix_init
+EXTERN  fast_set_pix_table,?BANK_FAST_LEAVE_L08
+RSEG  CODE  ;banked segment
+fast_set_pix_init
+... 
+procedure body 
+...
+;change ret to exit from banked procedure:
+JP  LWRD ?BANK_FAST_LEAVE_L08
+ENDMOD
+MODULE  little_set_pix
+PUBLIC  little_set_pix
+EXTERN  ?BANK_FAST_LEAVE_L08
+RSEG  CODE  ;banked segment
+little_set_pix
+... 
+procedure body 
+...
+;change ret to exit from banked procedure:
+JP  LWRD ?BANK_FAST_LEAVE_L08
+END
+Create
+build.bat:
+..z8Obiniccz80 -v0 -mb -uua -b -q -x -K -gA -z9 -t4 -T
+-Olist -Llist -Alist -I"../z80/inc/" putchar.c
+..z8Obinaz80 -uu -b -v0 -Olist graf.s01
+Option -mb forces to compile all the functions for banked calls,
+because the library functions puts and printf expect a banked
+function putchar.
+
+Later add the linkage of the library:
+del /Q mylibb.r01
+..z8Obinxlib -c "fetch-mod listputchar.r01 mylibb.r01"
+"fetch-mod listgraf.r01 mylibb.r01"
+"LIST-ALL-SYMBOLS mylibb.r01 listmods.txt"
+Link the library with this batch script.
+
+In a new file
+'mylibb.h' define a variable MY_CURRENT_PAGE, it
+will be used to tell the current bank:
+extern unsigned char MY_CURRENT_PAGE;
+And the other functions, don't forget about banking options:
+banked void scr_init(char atribute);
+#ifdef FASTPIXEL
+banked void fast_set_pix_init(void);
+non_banked void fast_set_pix(unsigned char x,unsigned char y);
+#define set_pix fast_set_pix
+#define set_pix_init fast_set_pix_init
+#else
+#define set_pix_init()
+banked void little_set_pix(unsigned char x,unsigned char y);
+#define set_pix little_set_pix
+#endif
+You can skip the option "banked", because everything is banked
+by default, but it might help in the future.
+
+                            ---03---
+
+Well, we are finally prepared for HelloWorld. Let's try.
+Create a project
+'HelloWorld', with inner directories list and
+bin.
+File
+Lnk.xcl:
+-cZ80 //процессор
+//-P(CODE)CODE=[C000-FFFF]*2+10000, 
+  //[3C000-ЗFFFF]*2+10000,[6C000-бFFFF]*2+10000 //reserve banks
+  //0,1,3,4,6,7 for banking (no 5 and 2 as they are hard-wired)
+//however note the bit in port 7ffd that sets 48K ROM. If you 
+/need 128K ROM, use the previous line. 
+-P(CODE)CODE=[10C000-1OFFFE]*2+10000,
+[13C000-1ЗFFFE]*2+10000,[16C000-1бFFFE]*2+10000
+-Z(CODE)RCODE,CDATAO,CONST,CSTR,CCSTR=6000-7FFF //memory segs
+//with constants and code
+-Z(DATA)DATAO,IDATAO,UDATAO,ECSTR,ALIGN8|8,CSTACK+200=8000-BFFF
+//segs with stack, variables etc.
+-e_medium_write=_formatted_write //config for printf/sprintf
+-e_medium_read=_formatted_read //config for scanf/sscanf
+../mylibb/mylibb //link our library
+-C ../z80/lib/clzx128k //link IAR library
+-FMOTOROLA
+-o list/aout.a01
+-l list/cout.html
+-xehinms //add everything for full picture
+-R
+-w47 //suppress warnings that I don't know how to avoid
+File
+build.bat:
+..z8Obiniccz80 -v0 -mb -uua -q -e -K -gA -s9 -t4 -T -Llist
+-Olist -Alist -I"../z80/inc/" main.c
+..z8Obinaz80 -Olist -Dbanking Cstartup.s01
+..z8Obinxlink -Ilist main cstartup -f Lnk.xcl
+Copy
+cstartup from the previous publication, add bank numbering,
+using the following new code just after label
+init_C:
+#ifdef banking
+#if NOT procбЧ180
+EXTERN MY_CURRENT_PAGE
+ld hl,MY_CURRENT_PAGE
+ld bc,0x7ffd
+ld a,0x17
+bankIniLoop:
+REPT 2
+out (c),a
+ld (hl),a
+dec a
+ENDR
+dec a
+cp OxOe
+jr nz,bankIniLoop
+#endif
+#endif
+Create
+main.c:
+#include <stdio.h>
+#include <intrz80.h>
+#include <math.h>
+//#define FASTPIXEL
+#include "../mylibb/mylibb.h"
+void KbdScan(void){
+printf("Keyboard scan: 0x%02Xr",input(OxOOfe));
+}
+C_task void main(void){
+unsigned char x=0;
+scr_init(0x07<<3);
+set_pix_init();
+puts("Hello World!");
+do{
+set_pix(x,(sin((double)x/20)*20+95));
+}while(++x);
+while(1) KbdScan();
+}
+Compile it with the batch script.
+
+                            ---04---
+
+New trouble: how to handle the file
+listaout.a01 !?
+It is encoded in
+motorola s-records format.
+To convert this
+aout.a01, use an external utility SRecord - find
+it in the supplement to this ACNews.
+
+Add in
+build.bat (attention! that's for start address 0x6000 !):
+@echo off
+..z8Osrecordsrec_cat listaout.a01 -offset -0x6000 -crop 0
+0x6000 -o bincode.c -Binary
+FOR %%i IN (00,01,03,04,06,07,10,11,13,14,16,17) do
+..z8Osrecordsrec_cat listaout.a01 -offset -0x%%~iCOO0
+-crop 0 0x4000 -o bin%%~i.c -Binary
+for /R bin %%i in (*.c) do (if %%~zi==0 (del /Q %%i)
+ELSE (echo crop file:%%~nxi size:%%~zi out^(7FFD^),0x%%~ni))
+echo on
+A binary file
+'code' will appear in directory 'bin' . We must
+load and run it from address 0x6000. Also the numbered files
+will appear (with bank number plus ROM selection bit) - they
+must be loaded in the corresponding banks.
+
+You might have your own means to create a loader and a disk
+image. If you don't have one, just add the following line in
+build.bat:
+..z8Obinbuild128k.bat buildscl
+And you will see an scl file with all your files and a loader.
+Run it and enjoy a pure sine.
+
+                             * * *
+
+In the future article we will discuss dirty hacks, such as 
+putting variables and constants in banked segments.

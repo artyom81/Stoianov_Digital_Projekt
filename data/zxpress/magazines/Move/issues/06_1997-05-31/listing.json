@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 6280,
+    "article_url": "https://zxpress.ru/article.php?id=6280",
+    "print_url": "https://zxpress.ru/print.php?id=6280",
+    "title_link": "Будем жить ? - Существовать ли газете в дальнейшем ?",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Будем_жить_-_Существовать_ли_газете_в_дальнеишем"
+  },
+  {
+    "article_id": 6281,
+    "article_url": "https://zxpress.ru/article.php?id=6281",
+    "print_url": "https://zxpress.ru/print.php?id=6281",
+    "title_link": "Письмо - Алекс Никифоров о газете \"LPRINT\".",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Письмо_-_Алекс_Никифоров_о_газете_LPRINT"
+  },
+  {
+    "article_id": 6282,
+    "article_url": "https://zxpress.ru/article.php?id=6282",
+    "print_url": "https://zxpress.ru/print.php?id=6282",
+    "title_link": "C-DOS модем - Описание сигналов C-DOS модема и процедру тестирующая на-\r\n личие модема.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "C-DOS_модем_-_Описание_сигналов_C-DOS_модема_и_процедру_тест"
+  },
+  {
+    "article_id": 6283,
+    "article_url": "https://zxpress.ru/article.php?id=6283",
+    "print_url": "https://zxpress.ru/print.php?id=6283",
+    "title_link": "Музыкантам - Как сделать музыку на 4 канала и больше.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Музыкантам_-_Как_сделать_музыку_на_4_канала_и_больше"
+  },
+  {
+    "article_id": 6284,
+    "article_url": "https://zxpress.ru/article.php?id=6284",
+    "print_url": "https://zxpress.ru/print.php?id=6284",
+    "title_link": "Премьера - Премьера \"MONSTER LAND\".",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Премьера_-_Премьера_MONSTER_LAND"
+  },
+  {
+    "article_id": 6285,
+    "article_url": "https://zxpress.ru/article.php?id=6285",
+    "print_url": "https://zxpress.ru/print.php?id=6285",
+    "title_link": "Премьера - Вступительная новелла к игре \"MONSTER LAND\".",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Премьера_-_Вступительная_новелла_к_игре_MONSTER_LAND"
+  },
+  {
+    "article_id": 6286,
+    "article_url": "https://zxpress.ru/article.php?id=6286",
+    "print_url": "https://zxpress.ru/print.php?id=6286",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

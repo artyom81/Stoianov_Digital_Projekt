@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 6471,
+    "article_url": "https://zxpress.ru/article.php?id=6471",
+    "print_url": "https://zxpress.ru/print.php?id=6471",
+    "title_link": "От авторов - издание Sinclair Club продолжает\r\nсвою деятельность.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "От_авторов_-_издание_Sinclair_Club_продолжаетсвою_деятельнос"
+  },
+  {
+    "article_id": 6472,
+    "article_url": "https://zxpress.ru/article.php?id=6472",
+    "print_url": "https://zxpress.ru/print.php?id=6472",
+    "title_link": "Программирование - Вывод трехсимвольных расширений файлов в операционной системе TR-DOS.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Программирование_-_Вывод_трехсимвольных_расширении_фаилов_в"
+  },
+  {
+    "article_id": 6473,
+    "article_url": "https://zxpress.ru/article.php?id=6473",
+    "print_url": "https://zxpress.ru/print.php?id=6473",
+    "title_link": "СС'2000 - интервью: Doctor MAX/Global Corp. GLOBAL TRACKER v2.0 не за горами!",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "СС2000_-_интервью_Doctor_MAXGlobal_Corp_GLOBAL_TRACKER_v20_н"
+  },
+  {
+    "article_id": 6474,
+    "article_url": "https://zxpress.ru/article.php?id=6474",
+    "print_url": "https://zxpress.ru/print.php?id=6474",
+    "title_link": "ZXNet - Что такое ZXNet: сеть для спектрумистов\r\n- реальщиков.",
+    "order": 4,
+    "issue_label": "04",
+    "short_slug": "ZXNet_-_Что_такое_ZXNet_сеть_для_спектрумистов-_реальщиков"
+  },
+  {
+    "article_id": 6475,
+    "article_url": "https://zxpress.ru/article.php?id=6475",
+    "print_url": "https://zxpress.ru/print.php?id=6475",
+    "title_link": "Железо - Защита КР1818ВГ93.",
+    "order": 5,
+    "issue_label": "04",
+    "short_slug": "Железо_-_Защита_КР1818ВГ93"
+  },
+  {
+    "article_id": 6476,
+    "article_url": "https://zxpress.ru/article.php?id=6476",
+    "print_url": "https://zxpress.ru/print.php?id=6476",
+    "title_link": "Разное - Информация бывает разной: зачем публиковать статьи о смерти Спектрума \r\nв Spectrum'овских изданиях?",
+    "order": 6,
+    "issue_label": "04",
+    "short_slug": "Разное_-_Информация_бывает_разнои_зачем_публиковать_статьи_о"
+  },
+  {
+    "article_id": 6477,
+    "article_url": "https://zxpress.ru/article.php?id=6477",
+    "print_url": "https://zxpress.ru/print.php?id=6477",
+    "title_link": "Игры - ELITE: Когда звезды были моими!",
+    "order": 7,
+    "issue_label": "04",
+    "short_slug": "Игры_-_ELITE_Когда_звезды_были_моими"
+  },
+  {
+    "article_id": 6478,
+    "article_url": "https://zxpress.ru/article.php?id=6478",
+    "print_url": "https://zxpress.ru/print.php?id=6478",
+    "title_link": "СС'2000 - Последнее интервью ETERNITY INDUSTRY.",
+    "order": 8,
+    "issue_label": "04",
+    "short_slug": "СС2000_-_Последнее_интервью_ETERNITY_INDUSTRY"
+  },
+  {
+    "article_id": 6479,
+    "article_url": "https://zxpress.ru/article.php?id=6479",
+    "print_url": "https://zxpress.ru/print.php?id=6479",
+    "title_link": "Клуб - Спектрум в век высоких технологий.",
+    "order": 9,
+    "issue_label": "04",
+    "short_slug": "Клуб_-_Спектрум_в_век_высоких_технологии"
+  },
+  {
+    "article_id": 6480,
+    "article_url": "https://zxpress.ru/article.php?id=6480",
+    "print_url": "https://zxpress.ru/print.php?id=6480",
+    "title_link": "Приложение - приложение к газете.",
+    "order": 10,
+    "issue_label": "04",
+    "short_slug": "Приложение_-_приложение_к_газете"
+  },
+  {
+    "article_id": 6481,
+    "article_url": "https://zxpress.ru/article.php?id=6481",
+    "print_url": "https://zxpress.ru/print.php?id=6481",
+    "title_link": "Обьявления - реклама и обьявления.",
+    "order": 11,
+    "issue_label": "04",
+    "short_slug": "Обьявления_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 6482,
+    "article_url": "https://zxpress.ru/article.php?id=6482",
+    "print_url": "https://zxpress.ru/print.php?id=6482",
+    "title_link": "Авторы - Редакция газеты.",
+    "order": 12,
+    "issue_label": "04",
+    "short_slug": "Авторы_-_Редакция_газеты"
+  }
+]

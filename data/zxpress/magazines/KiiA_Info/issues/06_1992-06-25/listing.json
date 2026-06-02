@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 18586,
+    "article_url": "https://zxpress.ru/article.php?id=18586",
+    "print_url": "https://zxpress.ru/print.php?id=18586",
+    "title_link": "Софт - новая версия копировщика с поддержкой MS-DOS.",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Софт_-_новая_версия_копировщика_с_поддержкои_MS-DOS"
+  },
+  {
+    "article_id": 18588,
+    "article_url": "https://zxpress.ru/article.php?id=18588",
+    "print_url": "https://zxpress.ru/print.php?id=18588",
+    "title_link": "Софт - утилита SET для перевода консоли и клавиатуры в режим ALT-кодирования.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Софт_-_утилита_SET_для_перевода_консоли_и_клавиатуры_в_режим"
+  },
+  {
+    "article_id": 18587,
+    "article_url": "https://zxpress.ru/article.php?id=18587",
+    "print_url": "https://zxpress.ru/print.php?id=18587",
+    "title_link": "Софт - форматтер дисков KFOR c поддержкой MS-DOS, TR-DOS, SP-DOS.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Софт_-_форматтер_дисков_KFOR_c_поддержкои_MS-DOS_TR-DOS_SP-D"
+  }
+]

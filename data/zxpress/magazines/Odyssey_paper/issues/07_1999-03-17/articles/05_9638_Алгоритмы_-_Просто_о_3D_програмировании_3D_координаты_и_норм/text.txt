@@ -1,0 +1,323 @@
+Odyssey paper 07 - Алгоритмы - Просто о 3D програмировании: 3D координаты и нормали.
+Алгоритмы
+_________
+ 
+ Подготовленно по материалам, собранным из
+закоулков всего програмного мира  преступ-
+ными организациями, то бишь Hackers Group.
+Отфиксено под стандарт Odyssey by  Phantom
+Lord.
+3d Basic - Просто о 3D
+______________________
+
+
+For a start, lets look at some of the   3d
+basics. At first, what is 3d? Well, 3d  is
+short for three dimensional,  a  dimension
+we often say we as people live in.    Now,
+lets look at some of the other dimension ,
+maybe this would help us understanding 3d.
+One dimensional are just a line, and   our
+position on this line are represented   by
+the letter x.Two dimensional are represen-
+ted by the letters x and y. This  is  what
+we know as a coordinatesystem, x goes from
+left to right and y from lower to upper.  
+This is actually also our screen. Now, the
+third dimension are represented by x,y and
+z. This new axis, z, moves in and out   of
+our coordinate system,it gives us a depth.
+This is what we see in reality too.Take an
+example. Close one of your eyes (since two
+eyes confuses the 3d view) and take out  a
+pen. Hold this pen as far away as possible
+and think of this as z value 100. Now  by,
+moving the pen closer to your eye,you dec-
+rease the z value, and when you cant   get
+further, you have a z value of one,   Now,
+with a depth value of one, we have the ac-
+tual size of the pen. The pen is now  much
+larger than it was before,  often   larger
+than the sun itself. Although we know  the
+sun is actually thousands, maybe even mil-
+lions of kilometers in radius, we only see
+is as a ball no larger than 2-3 centimeter
+wide. This is because of the distance bet-
+ween you and the sun,which are 8 light mi-
+nuttes. Now, if you stod 1 centimeter from
+the sun, you would see its actual size,but
+moving 1 centimeter away, it would be half
+the size in your eyes. Now, although  this
+is not completely true, the princip    are
+correct, very correct indeed. So, we   can
+find the x and y values that we see apoint
+as, by knowing its x, y and z coordinates.
+The formul ars are:
+
+ Для начала, давайте рассмотрим  некоторые
+основы 3D. Сначала, что такое 3D? Хорошо ,
+3D сокращение от трехмерной   размерности.
+Теперь, давайте рассмотрим некоторую  дру-
+гую размерность, возможно это      поможет
+нам понимать 3D. Одномерность - только ли-
+ния, и наше положение на этой линии предс-
+тавлено буквой x. Двумерность -  представ-
+лена буквами x и y. Это - то, что мы назы-
+ваем координатной системой, x идет   слева
+направо и y   снизу   вверх. Это -  факти-
+чески также наш экран. Теперь,трехмерность
+представлена x,y и z. Эта новая ось,    z,
+движется от нас  в глубь из нашей  системы
+координат, это дает нам глубину. Это - то,
+что мы видим фактически также.Возьмем при-
+мер. Закройте один из ваших глаз (так  как
+два глаза путают 3D просмотр)  и  возьмите
+перо. Отведите это перо настолько   далеко
+насколько возможно, и думайте что z  равно
+100 при этом. Теперь,перемещайте перо бли-
+же к вашему глазу, при этом Вы  уменьшаете
+значение z, и когда Вы не   можете  больше
+перемещать, Вы имеете значение z один.
+ Теперь, со значением глубины один,мы име-
+ем фактический размер пера.  Перо   теперь
+намного большее чем было прежде,     часто
+больше, чем солнце.Хотя мы знаем,что солн-
+це - фактически тысячи, возможно даже мил-
+лионы километров в радиусе, мы только  ви-
+дим его как шарик не больше в диаметре,чем
+2-3 сантиметра.Это - из-за расстояния меж-
+ду Вами и солнцем, которое составляет    8
+световых минут. Теперь, если Вы cтояли в 1
+сантиметре от солнца,Вы видели бы его фак-
+тический размер, но перемещение 1   санти-
+метра в сторону, это будет половина разме-
+ра в ваших глазах. Теперь,хотя это не пол-
+ностью истинно, принцип правилен,    очень
+правилен действительно. Так, мы можем  на-
+ходить x и значения y, где мы видим  точку
+зная x, y и z координаты. Формулы:
+x' = x/z
+y' = y/z
+Note, that since we use a computer,we ne-
+ed to add half the screen coordinates   to
+the result. This is because the point 0,0,
+0 would be found at the upperleft   corner
+of our screen. Therefore, if we add    128
+and 96 to our value, we can see both nega-
+tive and positive x/y values.
+ The formulars we should use would then
+be:
+
+ Заметим, что,так как мы используем компь-
+ютер, мы должны прибавить половину  экран-
+ных координат к результату. Это - то,  по-
+тому что иначе точка 0,0,0 была бы найдена
+в левом верхнем углу нашего экрана. Следо-
+вательно, если мы добавляемся 128 и 96   к
+нашему значению, мы можем видеть, и  отри-
+цательные и положительные значения x/y.  
+ Формулы, которые мы должны использовать ,
+были бы затем:
+x' =  x/z+128
+y' =  y/z+96
+Now, the basics about what 3d are  should
+be in place.
+
+ Это основные сведения о 3D .
+Normals - Нормали
+_________________
+
+ If we want to do several new 3d routines,
+like backface removal, environment mapping
+and lightsources, we have to know of  nor-
+mals. In backface removal we find out   if
+they are facing away from us, in  enirmon-
+ment mapping they give us our u and v  co-
+ordinates, and in light sources we     use
+them to find the light intensity. Actually
+normals are not only used in 3d, they  are
+also used in 2d, and thats the place where
+we should start learning about them.  Nor-
+mals are a direction,not a point in space.
+The important thing about normals, and the
+handy thing,is that they are point 90 deg-
+ress out in space from their orign.
+
+ Если мы хотим делать несколько новых  3-D
+процедур, подобно удалению невидимой   по-
+верхности, вывода окружения и   источников
+света, мы должны знать о нормалях. При  у-
+далении невидимой поверхности они (   нор-
+мали ) указывают от нас   ли   поверхности
+направлены, при выводе окружения они  дают
+нам наши координаты u и v, и в  источниках
+освещения, мы используем их, чтобы   найти
+интенсивность света. Фактически    нормали
+используются не только в 3D, они также ис-
+пользуются в 2D, и это место,где мы должны
+начать обучаться относительно них.
+
+
+ Нормали - направление,а не точка в прост-
+ранстве.Важная вещь относительно нормалей,
+и удобная вещь, это то, что они всегда на-
+правлены под углом 90 градусов во вне    в
+пространство относительно их начала на по-
+верхности.
+
+
+ The trouble, as one can see,is that there
+are two normals per line. They point    in
+each their direction, each one the opposit
+of the other. This is actually  a    great
+problem in 3d normals, since this    could
+course objects to be invisible,due to back
+face removal, or it could mess up the  en-
+vironment mapper, or angle to  the   light
+source. Actually, there is no way to solve
+this.
+ Now, in 3d we have both faces and vertic-
+es. A face have a normal and so do vertic-
+es. Before we can calculate the normal for
+the three vertices in a face, we need   to
+calculate the face normal first.We do this
+by taking the dotproduct of the delta x, y
+and z values. This would look like this in
+code:
+
+ Затруднение, как можно видеть, появляется
+там, где две нормали на линию. Они  указы-
+вают каждая в своем направлении, каждая о-
+позиционно другой. Это фактически  большая
+проблема в 3D нормалях, так как это  могло
+быть направление на объект, чтобы быть не-
+видимым, из-за удаление обратных   поверх-
+ностей, или это могло бы внести беспорядок
+в вывод окружения,или угол на источник ос-
+вещения. Фактически, не имеется   никакого
+способа решить это. Теперь, в 3D мы имеем,
+и плоскости и вершины.Плоскость имеет нор-
+маль и так же нормали в вершинах. Прежде ,
+чем мы можем вычислить нормаль для    трех
+вершин на плоскости, мы должны   вычислить
+лицевую нормаль вначале. Мы делаем это   ,
+ при помощи поточечного умножения   разниц
+значений x, y и z. Это походило бы на  это
+в коде:
+nx = ((y1-y2)*(z1-z3))-((z1-z2)*(y1-y3));
+ny = ((z1-z2)*(x1-x3))-((x1-x2)*(z1-z3));
+nz = ((x1-x2)*(y1-y3))-((y1-y2)*(x1-x3));
+This returns a point in 3d space which is
+a direction point. This is the   direction
+from the orign (0,0,0)to the normal point.
+This line which could be made from   these
+points, are our direction. This normal va-
+lue which we now have found, could be used
+in our code, but this isnt very handy.Sin-
+ce a normal is only a direction, it doesnt
+matter where in 3d space the normal  point
+are placed, as long the direction from (0,
+0,0) are the same.
+ Example could be the normal point  (1000,
+0,0). This point returns the same directi-
+on as the normal point (1,0,0). Actually ,
+keeping our normal length equal  to    one
+turns out quite handy later on, when    we
+wants to calculate angles between normals.
+But how do we get our vector length to  e-
+qual one? Simple, we divide by its length.
+Now, we find our length and divide the va-
+lues by saying:
+
+ Это возвращает точку в 3D пространстве  ,
+которая выражает точку направления.    Это
+направление от начала (0,0,0) к точке нор-
+мали. Эта линия,которая могла бы быть сде-
+лана из этих точек, является нашим направ-
+лением. Это значение нормали, которое   мы
+теперь нашли, можно использовать в   нашем
+коде, но это не очень удобно. Так как нор-
+маль - это только направление, не важно  ,
+где в 3D пространстве точка нормали  поме-
+щена, и как далеко она от (0,0,0).  Пример
+- точка нормали (1000,0,0). Эта точка име-
+ет то же самое направление как    и  точка
+нормали (1,0,0). Фактически, при  хранении
+нашей длины нормали, равной единице  удоб-
+нее, когда мы хотим вычислять углы   между
+нормалями. Но как мы получим нашу  вектор-
+ную длину, чтобы она равнялась единице? 
+ Просто мы делим ее на длину. Теперь,   мы
+находим нашу длину и делим значения:
+length = sqrt((nx*nx)+(ny*ny)+(nz*nz));
+nx=nx/length;
+ny=ny/length;
+nz=nz/length;
+That much for face normals, but how about
+vertex normals,we still haven't looked in-
+to this yet. Well, what we basicly    have
+got now, is a face with a normalvector po-
+inting 90 degress out of it. So, eventual-
+ly, the vertex normals must follow the sa-
+me rule. But how do we determine where  90
+degrees from a point is, it would actually
+be any direction at all.What we need here,
+is an object which facenormals are all cal
+culated. Then for every vertex we run tro-
+ugh every face, and finds out if this face
+"uses" the current vertex. If it does, you
+add the facenormal to the vertexnormal, do
+the same with the next, and so on.    When
+this is done, you divide the  vertexnormal
+by the number of "hits" you had before(how
+many faces that used that vertex).This me-
+ans, that the result normal  is  a  normal
+calculated out of normals which stand   90
+degress flat, and therefore the result nor
+mal would have the right angle.  Actually,
+you can only talk about a right angle,the-
+re is no obvius way of telling wether   or
+not the normal vector are pointing cerrec-
+tly, since every direction is the    right
+direction. However, the facenormals    can
+point two ways, which tends to get   wuite
+anoying sometimes.This only results in the
+opposite normal, e.g (0,0,-1) is  opposite
+of (0,0,1) and so on.It does no great harm
+and it doesn't happend quite often.
+
+ Это так для лицевых нормалей, но как  от-
+носительно нормалей вершин, мы все еще  не
+изучили это однако. Хорошо, что мы  просто
+имеем теперь, экран с вектором нормали под
+углом 90 градусов. Поэтому,в конечном сче-
+те, нормали вершины должны наследовать  то
+же самое правило. Но как мы определим, где
+90 градусов из точки, это фактически любое
+направление вообще. В чем  мы    нуждаемся
+здесь, в объекте, у которого все   нормали
+поверхностей вычислены. Затем для   каждой
+вершины мы пробегаем через все поверхности
+и выясняем, "использует" ли эта    поверх-
+ность текущую вершину. Если это так,    Вы
+прибавляете нормаль поверхности к  нормали
+вершины, делайте то же самое со следующей,
+и так далее. Когда это выполнено, Вы дели-
+те нормаль вершины на число "обращений"  ,
+которые Вы имели прежде (сколько  плоскос-
+тей использовали эту вершину). Это означа-
+ет, что нормаль в результате - нормаль   ,
+расчитаная из нормалей, которые стоят   на
+90 градусов на плоском,  и   следовательно
+нормаль в результате имела бы прямой угол.
+Фактически, Вы можете только говорить    о
+прямом угле, не имеется никакого   способа
+сообщать есть или нет,  нормальный  вектор
+указывает корректно,так как каждое направ-
+ление - прямое направление. Однако, норма-
+ли поверхности могут   указываться   двумя
+способами, которые противоположны.     Это
+только приводит к противоположной нормали,
+т.е. (0,0, -1) - напротив (0,0,1) и    так
+далее.Это не делает никакого большого вре-
+да, и это не делает большого счастья.

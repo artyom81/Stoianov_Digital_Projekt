@@ -1,0 +1,74 @@
+ACNews 70 - News - Karbo came back and wrote new music, Freeman is in Ukraine now, in Odessa (left there before the Maidan, to the sea, for health reasons), sculpts games for  mobile phones, Mythos codes firmware for  BMW on outsourcing and is engaged.
+News
+by Alone Coder
+I have finished my huge report at work. There will be
+corrections after reviews, but there is a pause for the new
+issue of the newspaper :)
+
+The epidemic continues. My children caught it, Hippiman's too.
+Nitrofurano writes that this winter he had flu three times. 
+
+John Silver generates some very powerful bass for future mixes 
+and looks for software to automatically twist the phases of
+harmonics. Now he's twisting by hand. No finished music yet.
+
+But Karbo came back and wrote new music!
+
+Hippiman drew attention to an unusual release: 
+Certain zx-чекан from Lancashire, England made a game for the
+birthday of Speccy, using PGD engine (similar to Manic Miner).
+http://stonechatproductions.co.uk/zxgames/OPZ%28RU%29.tap.zip
+In principle, an unremarkable game, except that it has normal
+complexity and it is pleasant to play.
+This comrade himself posted it on zx-pk, he writes in Russian,
+not well, but he said he tries to learn the language.
+Foreigners rarely release games in Russian and at our forums!
+Nikolay Amosov wrote memories about game clubs (press "3" ). He 
+has sold his Scorpion to Belarus. Now it's bad with the Speccy
+in Belarus.
+Wolf/Rage writes: 
+Freeman is in Ukraine now, in Odessa (left there before the 
+Maidan, to the sea, for health reasons), sculpts games for 
+mobile phones, decently earns. I (Wolf/R-Age) create 
+simulators, also with solid profit. Mythos codes firmware for 
+BMW on outsourcing and is engaged in other low-level 
+programming, Ars and Mast are selling hardware, through their 
+own firm in Moscow. I do not know the fate of Kaz and Neon, 
+like they were going to emigrate. Paul Pavlov drinks a lot... 
+Dien has passed away. 
+
+Maksagor has called again. He says that he will not have major 
+political projects in near future (his employer is the Communist
+Party of the Russian Federation), so he will tightly work on the
+TASiS operating system. Maksagor codes on real hardware. 
+ATM Turbo 3 from Zorel (see Info Guide #12 ) is still at the 
+stage of fixing the bugs (for example, the disk interface), so
+Maksagor sits at ATM2+. 
+
+DimkaM made a version of TASiS for ZX Evo, at the same time 
+assembled an image of the system for installation to the SD-card
+with a bunch of utilities under TASiS and music for TurboSound
+FM. He also wrote a utility for TASiS to copy files from the 
+SD card to the TASiS file system. And at the same time he
+released the utility to build the emulator image of an SD-card.
+See the links to the releases in the logs of
+#mhm channel at
+04/26/2018, 04/04/2018, and
+01-02/05/2018: irclog.dimkam.ru/?c=1
+He is also involved in a Telnet client for ZXNetUSB. (Maksagor
+writes a terminal in TASiS for COM-port.)
+
+DJ Dron has implemented saving in UnrealSpeccy Portable 
+emulator. Fyrex immediately made its own branch of the emulator,
+which added support for ATM2+ memory (so far only in the upper
+window).
+
+In my spare time, I finally figured out how to implement more or
+less nicely a cross between
+Lisp and Forth, for a scripting
+language. The idea is that the script can be edited
+during the execution of the program. But the responses came
+negative, so this project, apparently, will not take place - I
+will just describe it here in general terms. I call it
+Listh
+(press "5" ).

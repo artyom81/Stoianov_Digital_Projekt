@@ -1,0 +1,132 @@
+ZX Review 7-8-9-10 - Этюды - Программа зажигания спрайта.
+(c) Кобяков М.В., г.Находка
+Эта процедура  была  вытащена
+мной из игры  "SPACE CRUSADE"  и
+немного  доработана   (программа
+зажигания спрайта).
+140.
+          ORG     50000
+          ENT
+
+          LD      HL,16384
+          LD      DE,BUFF+3
+          LD      BC,32
+
+;координаты верхнего левого угла
+;спрайта в дисплейном файле
+;и высота спрайта в пикселах
+
+L1        PUSH    BC
+          PUSH    HL
+          LD      B,32  ;ширина
+                        ;спрайта
+          LDIR
+          POP     HL
+140.          CALL    DLINE
+          POP     BC
+          DJNZ    L1
+          PUSH    IY
+AGAIN     CALL    FIRE
+          LD      A,#7F
+          IN      A,(254)
+          RRA
+          JR      C,AGAIN
+          POP     IY
+          RET
+FIRE      CALL    RND
+          AND     31
+          LD      D,A
+          CALL    RND
+          LD      E,A
+          PUSH    DE
+          POP     IY
+          LD      IX,BUFF+3
+          LD      C,32
+          LD      HL,16384
+
+;высота спрайта в пикселах и
+;координаты верхнего левого
+;угла спрайта, выводимого на
+;экран
+
+          LD      E,L
+          LD      D,H
+OH2       PUSH    HL
+          LD      B,32
+OH1       XOR     (IY+0)
+          OR      (IY+1)
+          AND     (HL)
+          OR      (IX+0)
+          LD      (DE),A
+          INC     L
+          INC     E
+          INC     IX
+          INC     IY
+          DJNZ    OH1
+          POP     HL
+          LD      E,L
+          LD      D,H
+          CALL    DLINE
+          DEC     C
+          LD      A,B
+          OR      C
+          JR      NZ,OH2
+          RET
+RND       PUSH    DE
+          PUSH    HL
+          LD      A,R
+          LD      L,A
+          LD      A,(BUFF)
+          ADD     A,L
+          XOR     7
+          RLCA
+          ADD     A,31
+          LD      (BUFF),A
+          LD      HL,(BUFF+1)
+          LD      DE,29711
+          ADD     HL,DE
+          RLC     L
+          LD      (BUFF+1),HL
+          XOR     L
+          XOR     H
+          POP     HL
+          POP     DE
+          RET
+DLINE     INC     H
+          LD      A,H
+          AND     7
+          RET     NZ
+          LD      A,L
+          ADD     A,32
+          LD      L,A
+          RET     C
+          LD      A,H
+          SUB     8
+          LD      H,A
+          RET
+BUFF      DEFB    0
+
+START: 50000
+LEN:   145 байт
+2
+   Теперь небольшой  комментарий
+к программе.  Перво-наперво, на-
+до поместить спрайт на  экран  и
+запустить программу, которая тут
+же начинает вводить  его  в  па-
+мять. Место под спрайт  зарезер-
+вировано под  меткой  BUFF  +  3
+байта смещения. Да, не  забудьте
+указать координаты  левого  вер-
+хнего угла спрайта в  дисплейном
+файле и его высоту в пикселах  и
+ширину в знакоместах.  В  данном
+примере заданы координаты  само-
+го верхнего левого  угла  экрана
+(16384), высота равная 32 пиксе-
+ла и ширина 32 знакоместа.
+   Под меткой RND вызывается ге-
+нератор  псевдослучайных  чисел.
+Под меткой  FIRE  -  собственно,
+сама процедура "горения".
+*   *   *

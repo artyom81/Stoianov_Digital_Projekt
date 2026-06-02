@@ -1,0 +1,281 @@
+[
+  {
+    "article_id": 7922,
+    "article_url": "https://zxpress.ru/article.php?id=7922",
+    "print_url": "https://zxpress.ru/print.php?id=7922",
+    "title_link": "Аперативчик - Об управлении в оболочке DEJA VU",
+    "order": 1,
+    "issue_label": "06",
+    "short_slug": "Аперативчик_-_Об_управлении_в_оболочке_DEJA_VU"
+  },
+  {
+    "article_id": 7923,
+    "article_url": "https://zxpress.ru/article.php?id=7923",
+    "print_url": "https://zxpress.ru/print.php?id=7923",
+    "title_link": "Аперативчик - Точность - вежливость королей; о новом выпуске журнала.",
+    "order": 2,
+    "issue_label": "06",
+    "short_slug": "Аперативчик_-_Точность_-_вежливость_королеи_о_новом_выпуске"
+  },
+  {
+    "article_id": 7924,
+    "article_url": "https://zxpress.ru/article.php?id=7924",
+    "print_url": "https://zxpress.ru/print.php?id=7924",
+    "title_link": "Тема - Fun Top-98 или очевидное и невероятное.",
+    "order": 3,
+    "issue_label": "06",
+    "short_slug": "Тема_-_Fun_Top-98_или_очевидное_и_невероятное"
+  },
+  {
+    "article_id": 7925,
+    "article_url": "https://zxpress.ru/article.php?id=7925",
+    "print_url": "https://zxpress.ru/print.php?id=7925",
+    "title_link": "Тема - Интервью с Вл. Балчукеем перед Fun Top-98.",
+    "order": 4,
+    "issue_label": "06",
+    "short_slug": "Тема_-_Интервью_с_Вл_Балчукеем_перед_Fun_Top-98"
+  },
+  {
+    "article_id": 7926,
+    "article_url": "https://zxpress.ru/article.php?id=7926",
+    "print_url": "https://zxpress.ru/print.php?id=7926",
+    "title_link": "Тема - Результаты Fun Top-98.",
+    "order": 5,
+    "issue_label": "06",
+    "short_slug": "Тема_-_Результаты_Fun_Top-98"
+  },
+  {
+    "article_id": 7927,
+    "article_url": "https://zxpress.ru/article.php?id=7927",
+    "print_url": "https://zxpress.ru/print.php?id=7927",
+    "title_link": "Тема - Фоторепортаж с Fun Top-98.",
+    "order": 6,
+    "issue_label": "06",
+    "short_slug": "Тема_-_Фоторепортаж_с_Fun_Top-98"
+  },
+  {
+    "article_id": 7928,
+    "article_url": "https://zxpress.ru/article.php?id=7928",
+    "print_url": "https://zxpress.ru/print.php?id=7928",
+    "title_link": "Капля припоя - ПЗУ, которые мы выбираем.Обзор ПЗУ: Penatagon128, Scorpion ZS256,Spectrum128-фирменный вариант,Spectrum+2,Spectrum+2, Spectrum+3, ПЗУ от PROFI CLUB.",
+    "order": 7,
+    "issue_label": "06",
+    "short_slug": "Капля_припоя_-_ПЗУ_которые_мы_выбираемОбзор_ПЗУ_Penatagon128"
+  },
+  {
+    "article_id": 7929,
+    "article_url": "https://zxpress.ru/article.php?id=7929",
+    "print_url": "https://zxpress.ru/print.php?id=7929",
+    "title_link": "Капля припоя - Дополнительный графический режим 512x192.",
+    "order": 8,
+    "issue_label": "06",
+    "short_slug": "Капля_припоя_-_Дополнительныи_графическии_режим_512x192"
+  },
+  {
+    "article_id": 7930,
+    "article_url": "https://zxpress.ru/article.php?id=7930",
+    "print_url": "https://zxpress.ru/print.php?id=7930",
+    "title_link": "SOFTWARE - Новинки демосцены: FOREVER, ADRENALIZE, BOOM,TYRANY,BLAME, EMERGENCY, KATNARSIS.",
+    "order": 9,
+    "issue_label": "06",
+    "short_slug": "SOFTWARE_-_Новинки_демосцены_FOREVER_ADRENALIZE_BOOMTYRANYBL"
+  },
+  {
+    "article_id": 7931,
+    "article_url": "https://zxpress.ru/article.php?id=7931",
+    "print_url": "https://zxpress.ru/print.php?id=7931",
+    "title_link": "SOFTWARE - Новинки игровых программ: A LAST HERO of the LIGHT FORCE, MONSTR LAND, ЗЕРКАЛО.",
+    "order": 10,
+    "issue_label": "06",
+    "short_slug": "SOFTWARE_-_Новинки_игровых_программ_A_LAST_HERO_of_the_LIGHT"
+  },
+  {
+    "article_id": 7932,
+    "article_url": "https://zxpress.ru/article.php?id=7932",
+    "print_url": "https://zxpress.ru/print.php?id=7932",
+    "title_link": "CODING - Сверхбыстрое форматирование дисков SPECCY.",
+    "order": 11,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Сверхбыстрое_форматирование_дисков_SPECCY"
+  },
+  {
+    "article_id": 7933,
+    "article_url": "https://zxpress.ru/article.php?id=7933",
+    "print_url": "https://zxpress.ru/print.php?id=7933",
+    "title_link": "CODING - Уроки кодера: Фрактальный папаратник.",
+    "order": 12,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Уроки_кодера_Фрактальныи_папаратник"
+  },
+  {
+    "article_id": 8005,
+    "article_url": "https://zxpress.ru/article.php?id=8005",
+    "print_url": "https://zxpress.ru/print.php?id=8005",
+    "title_link": "CODING - Драйвер чтения/записи.",
+    "order": 13,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Драивер_чтениязаписи"
+  },
+  {
+    "article_id": 8009,
+    "article_url": "https://zxpress.ru/article.php?id=8009",
+    "print_url": "https://zxpress.ru/print.php?id=8009",
+    "title_link": "CODING - Уроки кодера: Генерилка шариков.",
+    "order": 14,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Уроки_кодера_Генерилка_шариков"
+  },
+  {
+    "article_id": 7934,
+    "article_url": "https://zxpress.ru/article.php?id=7934",
+    "print_url": "https://zxpress.ru/print.php?id=7934",
+    "title_link": "CODING - Алгоритмы сжатия информации.",
+    "order": 15,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Алгоритмы_сжатия_информации"
+  },
+  {
+    "article_id": 7935,
+    "article_url": "https://zxpress.ru/article.php?id=7935",
+    "print_url": "https://zxpress.ru/print.php?id=7935",
+    "title_link": "CODING - Об обечатке в листинге использования стека (в 5 номере).",
+    "order": 16,
+    "issue_label": "06",
+    "short_slug": "CODING_-_Об_обечатке_в_листинге_использования_стека_в_5_номе"
+  },
+  {
+    "article_id": 7936,
+    "article_url": "https://zxpress.ru/article.php?id=7936",
+    "print_url": "https://zxpress.ru/print.php?id=7936",
+    "title_link": "ANOTHER WORLD - WINDOWS-95 и не только.",
+    "order": 17,
+    "issue_label": "06",
+    "short_slug": "ANOTHER_WORLD_-_WINDOWS-95_и_не_только"
+  },
+  {
+    "article_id": 7937,
+    "article_url": "https://zxpress.ru/article.php?id=7937",
+    "print_url": "https://zxpress.ru/print.php?id=7937",
+    "title_link": "ANOTHER WORLD - Новости от INTEL-а...",
+    "order": 18,
+    "issue_label": "06",
+    "short_slug": "ANOTHER_WORLD_-_Новости_от_INTEL-а"
+  },
+  {
+    "article_id": 7938,
+    "article_url": "https://zxpress.ru/article.php?id=7938",
+    "print_url": "https://zxpress.ru/print.php?id=7938",
+    "title_link": "ANOTHER WORLD - РС и работу софта",
+    "order": 19,
+    "issue_label": "06",
+    "short_slug": "ANOTHER_WORLD_-_РС_и_работу_софта"
+  },
+  {
+    "article_id": 7939,
+    "article_url": "https://zxpress.ru/article.php?id=7939",
+    "print_url": "https://zxpress.ru/print.php?id=7939",
+    "title_link": "Доска почета - О спектрумских журналах.",
+    "order": 20,
+    "issue_label": "06",
+    "short_slug": "Доска_почета_-_О_спектрумских_журналах"
+  },
+  {
+    "article_id": 7940,
+    "article_url": "https://zxpress.ru/article.php?id=7940",
+    "print_url": "https://zxpress.ru/print.php?id=7940",
+    "title_link": "Доска почета - письма в редакцию.",
+    "order": 21,
+    "issue_label": "06",
+    "short_slug": "Доска_почета_-_письма_в_редакцию"
+  },
+  {
+    "article_id": 7941,
+    "article_url": "https://zxpress.ru/article.php?id=7941",
+    "print_url": "https://zxpress.ru/print.php?id=7941",
+    "title_link": "Доска почета - О CD-ROM проекте из города Кемерово.",
+    "order": 22,
+    "issue_label": "06",
+    "short_slug": "Доска_почета_-_О_CD-ROM_проекте_из_города_Кемерово"
+  },
+  {
+    "article_id": 7942,
+    "article_url": "https://zxpress.ru/article.php?id=7942",
+    "print_url": "https://zxpress.ru/print.php?id=7942",
+    "title_link": "Семь и 1/2 - Особенности национального рулеза 2 или упорядоченное движение электронов.",
+    "order": 23,
+    "issue_label": "06",
+    "short_slug": "Семь_и_12_-_Особенности_национального_рулеза_2_или_упорядоче"
+  },
+  {
+    "article_id": 7943,
+    "article_url": "https://zxpress.ru/article.php?id=7943",
+    "print_url": "https://zxpress.ru/print.php?id=7943",
+    "title_link": "Семь и 1/2 - Руководство для потребителей пива.",
+    "order": 24,
+    "issue_label": "06",
+    "short_slug": "Семь_и_12_-_Руководство_для_потребителеи_пива"
+  },
+  {
+    "article_id": 7944,
+    "article_url": "https://zxpress.ru/article.php?id=7944",
+    "print_url": "https://zxpress.ru/print.php?id=7944",
+    "title_link": "Семь и 1/2 - Что делать , если не работает компьютер (Инструкция для хаккеров).",
+    "order": 25,
+    "issue_label": "06",
+    "short_slug": "Семь_и_12_-_Что_делать_если_не_работает_компьютер_Инструкция"
+  },
+  {
+    "article_id": 7945,
+    "article_url": "https://zxpress.ru/article.php?id=7945",
+    "print_url": "https://zxpress.ru/print.php?id=7945",
+    "title_link": "Семь и 1/2 - Гадание на таракане (Советы начинающему охотнику).",
+    "order": 26,
+    "issue_label": "06",
+    "short_slug": "Семь_и_12_-_Гадание_на_таракане_Советы_начинающему_охотнику"
+  },
+  {
+    "article_id": 7946,
+    "article_url": "https://zxpress.ru/article.php?id=7946",
+    "print_url": "https://zxpress.ru/print.php?id=7946",
+    "title_link": "Семь и 1/2 - Инструкция по пользованию шариковой ручкой.",
+    "order": 27,
+    "issue_label": "06",
+    "short_slug": "Семь_и_12_-_Инструкция_по_пользованию_шариковои_ручкои"
+  },
+  {
+    "article_id": 7947,
+    "article_url": "https://zxpress.ru/article.php?id=7947",
+    "print_url": "https://zxpress.ru/print.php?id=7947",
+    "title_link": "Проба пера - Стихи А. Баженова: Свечи, Смятение, Осень, Безисходность.",
+    "order": 28,
+    "issue_label": "06",
+    "short_slug": "Проба_пера_-_Стихи_А_Баженова_Свечи_Смятение_Осень_Безисходн"
+  },
+  {
+    "article_id": 7948,
+    "article_url": "https://zxpress.ru/article.php?id=7948",
+    "print_url": "https://zxpress.ru/print.php?id=7948",
+    "title_link": "Проба пера - Приключения Винни Пуха (часть 3).",
+    "order": 29,
+    "issue_label": "06",
+    "short_slug": "Проба_пера_-_Приключения_Винни_Пуха_часть_3"
+  },
+  {
+    "article_id": 7949,
+    "article_url": "https://zxpress.ru/article.php?id=7949",
+    "print_url": "https://zxpress.ru/print.php?id=7949",
+    "title_link": "Проба пера - Сутки хаккера обыкновенные.",
+    "order": 30,
+    "issue_label": "06",
+    "short_slug": "Проба_пера_-_Сутки_хаккера_обыкновенные"
+  },
+  {
+    "article_id": 7950,
+    "article_url": "https://zxpress.ru/article.php?id=7950",
+    "print_url": "https://zxpress.ru/print.php?id=7950",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 31,
+    "issue_label": "06",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

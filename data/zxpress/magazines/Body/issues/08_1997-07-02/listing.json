@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3215,
+    "article_url": "https://zxpress.ru/article.php?id=3215",
+    "print_url": "https://zxpress.ru/print.php?id=3215",
+    "title_link": "GAME Обзор - Описание игры Mortal Kombat (продолжение).",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "GAME_Обзор_-_Описание_игры_Mortal_Kombat_продолжение"
+  },
+  {
+    "article_id": 3217,
+    "article_url": "https://zxpress.ru/article.php?id=3217",
+    "print_url": "https://zxpress.ru/print.php?id=3217",
+    "title_link": "PUSH HL - Нажмите MAGIC для BORDER-эффекта.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "PUSH_HL_-_Нажмите_MAGIC_для_BORDER-эффекта"
+  },
+  {
+    "article_id": 3218,
+    "article_url": "https://zxpress.ru/article.php?id=3218",
+    "print_url": "https://zxpress.ru/print.php?id=3218",
+    "title_link": "Давайте посмеемся - Письмо юзера чайнику.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Даваите_посмеемся_-_Письмо_юзера_чаинику"
+  },
+  {
+    "article_id": 3219,
+    "article_url": "https://zxpress.ru/article.php?id=3219",
+    "print_url": "https://zxpress.ru/print.php?id=3219",
+    "title_link": "Железяка - Микропередатчик со стабилизацией тока.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Железяка_-_Микропередатчик_со_стабилизациеи_тока"
+  },
+  {
+    "article_id": 3216,
+    "article_url": "https://zxpress.ru/article.php?id=3216",
+    "print_url": "https://zxpress.ru/print.php?id=3216",
+    "title_link": "Новости - Новости из Бреста , Гомеля и Минска.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Новости_-_Новости_из_Бреста_Гомеля_и_Минска"
+  },
+  {
+    "article_id": 3214,
+    "article_url": "https://zxpress.ru/article.php?id=3214",
+    "print_url": "https://zxpress.ru/print.php?id=3214",
+    "title_link": "От авторов - День города.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "От_авторов_-_День_города"
+  },
+  {
+    "article_id": 3220,
+    "article_url": "https://zxpress.ru/article.php?id=3220",
+    "print_url": "https://zxpress.ru/print.php?id=3220",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

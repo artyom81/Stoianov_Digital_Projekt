@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 8835,
+    "article_url": "https://zxpress.ru/article.php?id=8835",
+    "print_url": "https://zxpress.ru/print.php?id=8835",
+    "title_link": "BBS - список рабочих ZXNet BBS.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "BBS_-_список_рабочих_ZXNet_BBS"
+  },
+  {
+    "article_id": 8834,
+    "article_url": "https://zxpress.ru/article.php?id=8834",
+    "print_url": "https://zxpress.ru/print.php?id=8834",
+    "title_link": "WINSOFT NEWS - О работе серверов LINE2BBS.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "WINSOFT_NEWS_-_О_работе_серверов_LINE2BBS"
+  },
+  {
+    "article_id": 8838,
+    "article_url": "https://zxpress.ru/article.php?id=8838",
+    "print_url": "https://zxpress.ru/print.php?id=8838",
+    "title_link": "Всем нам - О вежливости: критерии воспитанного человека.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Всем_нам_-_О_вежливости_критерии_воспитанного_человека"
+  },
+  {
+    "article_id": 120,
+    "article_url": "https://zxpress.ru/article.php?id=120",
+    "print_url": "https://zxpress.ru/print.php?id=120",
+    "title_link": "Вступление - кажись 30 июля - День Рождения СЭРА КЛАЙВА СИНКЛЕРА!!! Все\r\nзалезем в Политехнический музей и устроим срач.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Вступление_-_кажись_30_июля_-_День_Рождения_СЭРА_КЛАИВА_СИНК"
+  },
+  {
+    "article_id": 8839,
+    "article_url": "https://zxpress.ru/article.php?id=8839",
+    "print_url": "https://zxpress.ru/print.php?id=8839",
+    "title_link": "Неизвестное - Неизвестный Винни: Красный Винни (глава 1).",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Неизвестное_-_Неизвестныи_Винни_Красныи_Винни_глава_1"
+  },
+  {
+    "article_id": 8836,
+    "article_url": "https://zxpress.ru/article.php?id=8836",
+    "print_url": "https://zxpress.ru/print.php?id=8836",
+    "title_link": "Результаты опроса - Результаты опроса пользователей модема типа \"Аллегро\".",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Результаты_опроса_-_Результаты_опроса_пользователеи_модема_т"
+  },
+  {
+    "article_id": 8837,
+    "article_url": "https://zxpress.ru/article.php?id=8837",
+    "print_url": "https://zxpress.ru/print.php?id=8837",
+    "title_link": "Слово СисОпу - Интервью с координатором компьютерной сети ZXNet - Алексеем\r\n Ивановым ALEX (Research).",
+    "order": 7,
+    "issue_label": "23",
+    "short_slug": "Слово_СисОпу_-_Интервью_с_координатором_компьютернои_сети_ZX"
+  }
+]

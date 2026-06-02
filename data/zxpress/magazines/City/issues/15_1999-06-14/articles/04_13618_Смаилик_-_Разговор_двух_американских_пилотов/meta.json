@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "15",
+  "issue_date_iso": "1999-06-14",
+  "order": 4,
+  "article_id": 13618,
+  "title_link": "Смайлик - Разговор двух американских пилотов.",
+  "title_h1": "City 15 - Смайлик - Разговор двух американских пилотов.",
+  "print_url": "https://zxpress.ru/print.php?id=13618",
+  "article_url": "https://zxpress.ru/article.php?id=13618",
+  "fetched_at": "2026-05-31T21:50:33Z"
+}

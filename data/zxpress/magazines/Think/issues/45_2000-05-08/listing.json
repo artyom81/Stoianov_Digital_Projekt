@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4391,
+    "article_url": "https://zxpress.ru/article.php?id=4391",
+    "print_url": "https://zxpress.ru/print.php?id=4391",
+    "title_link": "От автора - Наступили майские праздники...",
+    "order": 1,
+    "issue_label": "45",
+    "short_slug": "От_автора_-_Наступили_маиские_праздники"
+  },
+  {
+    "article_id": 4392,
+    "article_url": "https://zxpress.ru/article.php?id=4392",
+    "print_url": "https://zxpress.ru/print.php?id=4392",
+    "title_link": "Обзор новинок - Кощеева цепь, UNI PLAYER 2, SCL v0.1, Империя.",
+    "order": 2,
+    "issue_label": "45",
+    "short_slug": "Обзор_новинок_-_Кощеева_цепь_UNI_PLAYER_2_SCL_v01_Империя"
+  },
+  {
+    "article_id": 4393,
+    "article_url": "https://zxpress.ru/article.php?id=4393",
+    "print_url": "https://zxpress.ru/print.php?id=4393",
+    "title_link": "Железо - Распиновка YM2612.",
+    "order": 3,
+    "issue_label": "45",
+    "short_slug": "Железо_-_Распиновка_YM2612"
+  },
+  {
+    "article_id": 4394,
+    "article_url": "https://zxpress.ru/article.php?id=4394",
+    "print_url": "https://zxpress.ru/print.php?id=4394",
+    "title_link": "Проект HIGH TECH - Hitek project info v1.0.",
+    "order": 4,
+    "issue_label": "45",
+    "short_slug": "Проект_HIGH_TECH_-_Hitek_project_info_v10"
+  },
+  {
+    "article_id": 4395,
+    "article_url": "https://zxpress.ru/article.php?id=4395",
+    "print_url": "https://zxpress.ru/print.php?id=4395",
+    "title_link": "Результаты PARADOX'2000 - Результаты PARADOX'2000.",
+    "order": 5,
+    "issue_label": "45",
+    "short_slug": "Результаты_PARADOX2000_-_Результаты_PARADOX2000"
+  },
+  {
+    "article_id": 4396,
+    "article_url": "https://zxpress.ru/article.php?id=4396",
+    "print_url": "https://zxpress.ru/print.php?id=4396",
+    "title_link": "RU.ANOMALIA - Для любителей ЛО.",
+    "order": 6,
+    "issue_label": "45",
+    "short_slug": "RUANOMALIA_-_Для_любителеи_ЛО"
+  },
+  {
+    "article_id": 4397,
+    "article_url": "https://zxpress.ru/article.php?id=4397",
+    "print_url": "https://zxpress.ru/print.php?id=4397",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "45",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4398,
+    "article_url": "https://zxpress.ru/article.php?id=4398",
+    "print_url": "https://zxpress.ru/print.php?id=4398",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "45",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

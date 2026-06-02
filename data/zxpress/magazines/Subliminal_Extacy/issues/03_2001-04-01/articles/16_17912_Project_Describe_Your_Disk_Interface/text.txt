@@ -1,0 +1,280 @@
+Subliminal Extacy 03 - Project: Describe Your Disk Interface
+Project: Describe Your Disk Interface
+                         By Mac Buster
+
+More and more  I'm hearing strange  things about  'those  stupid
+Russians  who  are doing   their games    and demos   for  "Beta
+128" disk interface,  all releases are  "protected" and so  they
+don't care about other disk systems'.
+
+Why am I thinking  this is  strange ?  Well, first of  all  it's
+strange that  most   of  you who  say this  don't  know that the
+former Soviet Union included over 180 different nations, most of
+these nations dislike it  when  you call them   "Russians",  but
+you don't notice this and so you're insulting them.
+
+The  Soviet  Union   united 15   countries,  most   of them  are
+independent now, some wanted  to stay a part of Russia.   Almost
+ten  years passed since the  dismissal of the Soviet Union,  you
+had enough time to learn  where each country is and    what it's
+nation's name  is. Second  thing is  these "protected"  loaders.
+This is not true!  Only  ~5% of  releases are really  protected,
+others  are  just  compiled  under  the  "monoloader"    scheme.
+"Protected"    and "monoloader" aren't the same thing.
+
+"Protected"  means  use  of  "hack-stop"  techniques  to prevent
+hacking   and changing    something in   original  release (some
+strange people  like to change  original text and   insert their
+own names  into releases when  they did nothing).  Some of these
+protected  loaders use  some very  interesting  and   unexpected
+ways, e.g.  using of  sound-coprocessor and  FDC registers which
+will clear its  contents if it   was not read back in a  defined
+amount of t-states.
+
+The  "monoloader"   scheme  has    nothing  to   do  with   real
+protection.  Why   use   it  then?  Because   TR-DOS   (the disk
+operating system in the EPROM of the "Beta 128" disk  interface)
+is very SLOW  when working with  separate files one-by-one.  Let
+me explain what a  monoloader is and  how it works. TR-DOS takes
+about 1  to 3  seconds  to   locate and   start reading a  files
+contents. Not  because of  complex FAT  or BAM  (there's nothing
+similar  to  these things  in  TR-DOS  at   all,  all files  are
+sequential,  and this is one  of  things which made  monoloaders
+possible),  it's just  because of   one  very  long  delay   for
+compatibility  with  very old disk drives (remember - "Beta 128"
+was made in UK in  1986).  If you have more than three   or four
+files  to load  then the  whole process  may  take  up  to   one
+minute which  is five   times longer  than sequentally   reading
+the same amount  of sectors  from  disk  to memory.  Monoloaders
+became   available   thanks  to  TR-DOS   which  loads  only the
+amount of   bytes written   in the  BASIC  length  field  of the
+file descriptor into memory and doesn't care  about the rest  of
+the  data. You  may write  the BASIC   part  of  your   program
+(there   must  be a  machine-code   loader  in  it   because the
+monoloader  can't   be processed  from  BASIC), a picture   file
+(compressed),  the  main  code  (compressed),  and   some  other
+data, one  after  another  on  the disk, and  then just   change
+the 'file  length in   sectors' field of file  descriptor.  Copy
+the first file    to another disk   and so  you  have just  made
+the   monoloader. TR-DOS  will load   only the BASIC bytes  from
+disk and  start  it  as  a BASIC   program. The BASIC  part will
+start the machine-code  part  which  loads  and     decompresses
+the picture, the  main code,  and  any other data   if there are
+any.  By this  way we're saving up   to 3 seconds   on each part
+of data! Another advantage of  monoloaders is the  reduction  of
+the amount  of needed spare  file entries in the root  directory
+on   the disk (TR-DOS    can see only the  first 128 files on  a
+disk), and saving  time which is  required to copy  this program
+to  another disk.  Also there's   no way to forget  an important
+file   when   you're   copying   this program to another    disk
+in  hurry.    Games  usually   save  their   state  inside   the
+monoloader  file,  there are   several parts  of  sectors, which
+are not  used, to  store  file data (several  bytes  at the  end
+of the last  sector of  each  block of data).  Some  loaders use
+special 'turbo loaders'   to  reduce the  time  needed to   load
+data. They work  on the direct  FDC access principle.  This cuts
+out the whole  pointless  'delay cycle'  present  in  the TR-DOS
+code,  and increases   loading  speed  by  2  to 4  times.  But
+again - this is not protection.  That was my answer to 'why  use
+monoloaders?'.
+
+Now lets talk about 'why "Beta 128"-only?'. In 1988 a scheme  of
+the Soviet clone "Beta  128"  disk interface was  released. This
+interface   is very  cheap  and  easy to  make, and  - the  most
+important thing  - it was the ONLY  disk interface  there was at
+the  time! People  started to  use it alot.  And more and   more
+programs with   "Beta   128"  support appeared   (games mainly).
+Sure  we  knew there  are  other disk   interfaces   (FDDЗO00 in
+Poland, +3  and  MGT in  other  countries). But nobody owned  it
+here and nobody knew how so support it.
+
+So  why  spend time   supporting something  which  nobody  used,
+especially when you don't know  HOW to support it? But   this is
+just the first  half  of "why",   let me  tell  you about second
+half. Since  the end  of 1992   when  we  almost lost connection
+with   Speccy   software   importers     in   other    countries
+(because production of Speccy  software  was stopped by   99% of
+the software  houses) we thought that  only citizens   of Russia
+and other  countries of former Soviet Union where using Speccy.
+
+It was  a great  shock to  see that  in 1995  someone still uses
+Speccy in Europe. This was the time when Internet access  became
+cheaper. We started  uploading  our files   to  sites and   then
+the most interesting thing happened - someone for the first time
+asked us   why  we're  doing programs  for  "Beta  128" and  not
+doing support   for other  disk systems.  Note   -  "asked why",
+but not explained    "how"! Five years  passed  since then   but
+we're all at the same  point - one part  asks "why", instead  of
+tell us  "how". Sounds   funny  ?   I don't  think  so.  Strange
+"genetic  creatures"  even    thought  that    this  was    done
+especially  and started   releasing "anti-Beta-128"   protection
+releases.   So, who is  stupid ?  I do  not know  how to  answer
+this  question.  I  tried to change  the situation  and  explain
+"why"  and  "what   for", and   asked  about   "how",  but   not
+many  of  those   who I  asked  tried to  understand  it nor did
+they try to help.
+
+And even  to this  day I  still haven't  had much success, still
+lots of  people are  talking about  'those stupid  Russians' and
+'stupid BETA 128 loaders'.
+
+   Now I've got one question to YOU. Yes, to YOU dear reader.
+
+What have YOU personally done to  change the situation, to  help
+us make our games,  demos and  utils  work on your  disk  (tape,
+HDD, CD, Flash  card,  Other media)  interface?  I bet  YOU  did
+nothing.  The  only  team  who  really  tried  to  help  us  was
+RAMSoft. They  released a  very nice  document about programming
+the  MGT  DISCiPLE  and   Plus  D  interfaces.   The  only thing
+missing  in   their  document   was   examples   which  can   be
+cut'n'pasted into  our own assembler source  codes to allow  you
+play games  and  watch demos without the need  to spend  several
+minutes or even  hours  to  convert it for  your interface.  But
+doesn't this look strange - there are   over 40 different   disk
+interfaces  and    only  ONE  description  available?!?!    I've
+released documents   about  "Beta 128" programming    and TR-DOS
+system variables,   but that's  not enough. Where's  YOUR  help?
+So  what   do you  want? A  reason  to  talk  about  how  stupid
+those who  made  productions for "Beta 128"  only really are? Or
+you  really do want   to see forthcoming productions  working on
+your interface?  Have you chosen the first option? If so, excuse
+me, but  this looks like  you   have something wrong with   your
+mind. If  you  choose the second  option, then,  please,    find
+all   your   old   programmers   manuals and  references related
+to your   disk interface   and type-in/scan them! Take care with
+translating them  into english  if they   aren't translated  yet
+(ask a friend  who is native  english -speaking to  fix it)  and
+send  them  to  any Speccy related site to  be published.  Don't
+have  enough  time   to do  that? I   understand you,  sometimes
+it's really   hard to   find enough   free  time   to  do   even
+really  important  and  urgent things. Just send  your documents
+to  someone who can  do   this instead of you.  Contact  someone
+who  has connections to  people who are releasing  popular  disk
+magazines in  former Soviet  Union and ask them to  publish your
+document.  This will be a real help  for all of us, believe me.
+
+So how exactly can you help  and what should you do? Here   is a
+small list of things which are needed to be described:  
+
+ * What is the EXACT name and version of the interface you own,  
+   including the Disk Operating System (DOS) name and version.  
+ * Who made it?  
+ - When did you buy it?  
+ - Why you bought this one, and not another interface?
+ - Features of this disk interface:
+ - disk capacity  
+ - amount of files that can be stored on a disk
+ - disk access speed (how fast 48k program gets loaded)  
+ - how many disk drives may be used  
+ - limitations (48k RAM use, etc)  
+ - Was/is there any community for this disk interface?
+ - Was/is there any newsletters published for it?  
+ - Do you have copies of such news letters still?
+ * Do you have users/programmers manual?
+ - How much software support is there for this interface?
+ * How to detect that program was started from this interface?
+ * What is the disk format of this interface:
+  - disk sides   
+  - tracks per side
+  - sectors per track
+  - standard sector length in bytes
+  - universal signature (how  to detect that  this disk  is for
+    your disk system, not for another one)   
+  - root directory descriptor   
+  - sub-directory descriptor   
+  - file descriptor   
+  - file allocation table structure (if exists)  
+  - Which FDC is used in your disk interface?
+ * How to have access to disk functions from BASIC?
+  - examples (load/save/cat/delete)
+ * How to have access to disk functions from machine-code?
+  - examples (ready-to-use examples if possible)
+ - How much RAM disk interface has and how to page it in/out?
+  - example  
+ - How much ROM disk interface has and how to page it in/out?
+  - example  
+ - How to have direct FDC access?
+  - example  
+ -  How  to  read  disks  of  this  format  on  other  machines
+    (Amiga/PC/MAC)?
+
+ - Are you ready to help with testing?
+ 
+The most important information is  marked with a "*" symbol.  Of
+course this is  just  an approximate   list,  not complete.  You
+may  add everything  which will help  those who will  try to add
+support of your interface to their own software and to those who
+will try  emulating your  disk interface.   Please, do   not  be
+aggressive    to   those    who   don't    make   support,  it's
+very  probably   that   they    just  don't    know   about your
+system. Contact  them  and   explain  how  to   add  support for
+your  disk interface. Do not   shout how stupid   they are, this
+will not change the situation   -  in  most  cases  you'll   set
+people  into an aggressive  mood   and  will  lose the hope   to
+change  situation _forever_.
+
+Why tested and working examples  are needed? Let me  tell you  a
+story, it may   sound funny now, but not back then. In 1995    I
+was  asked  to   join  a  team  of developers  who   made a MIDI
+interface   for   Speccy.   They   gave   me   several   hundred
+pages  of  photocopied      sheets     of      paper      titled
+"technical information/programmer's reference",   and shown  how
+it works. That was the first time when I saw and heard MIDI.  It
+was  very  impressive.    So I    agreed  to    work and   asked
+exactly what to do. They  told  me that I  had to do  everything
+what will make a live musicial easier.  Finally,  it must be the
+greatest  MIDI  sequencer for  an  8-bit machine,   and  a small
+control   program  to  edit/save/load/send to/from   synthesizer
+state.   I  asked   for  this   MIDI   interface   and   for the
+simplest  synthesizer but  it wasn't  supplied, because  any of
+those   devices,  even  the  simplest  synthesizer,  was    very
+expensive for   them, and  attaching a  MIDI interface  required
+some hardware  work,  which  isn't a  very well known  thing for
+me.  So I told them  to  buy a modem  for  Speccy and  told them
+that this  will save a lot  of my money, because  I'm not  going
+to spend an  hour in one  way when I  need to  test  how well my
+program  works on  real hardware.  They agreed.    Three months
+later, the first simple version  of the GUI and a  small utility
+to set the  synthesizer's preferences editor  was made. Here  is
+where the most fun thing happened.   I   phoned  the   man   who
+had   both  the MIDI  interface  and  the Synthesizer,    and of
+course  he  had a   modem. After transferring my  program to him
+and testing it, he  told  me that everything is very   nice, but
+some  improvements need to be  done. I did what he wanted in two
+weeks. Again everything worked fine on his   machine,   but   he
+asked me  make   something   to   make a musician's life easier.
+Over  half a  year we  were working  in this  way: I  write new
+features or improve something and  then send it to him  where he
+tests it and tells me what  to fix and  what to  add.  But  then
+one day  he  asked to add support for  another  MIDI protocol. I
+did it and here started something very strange.
+
+The  synthesizer received  a WRONG value,  nothing which I  sent
+from the control program. I asked 'can I have the MIDI interface
+and the synthesizer now?'  He said  'no', also  he told me  that
+it isn't possible to visit him now because he is very busy   and
+it is almost impossible to catch  him at home. He also asked  me
+to trace what's  wrong   in  my   control  program   because  he
+did everything correctly.
+
+Four months  I spent  trying to  fix it,  without any success. I
+came to a madness border.  Imagine it yourself: you   have  five
+commands which  send   data   to a  port  and   something   goes
+wrong   there  because the  synthesizer    receives number    99
+instead   of 253!   After four months  you're  looking at  these
+commands, changing  them in  a different  way, totally rewriting
+them, etc. But  nothing helps! Until one day when the man phoned
+me and told me that he has found the problem - he just forgot to
+switch   the  transfer  protocol!   So  I  broke  the   contract
+immediately after I  heard his words,   because  earlier in  the
+contract the whole developers team   told me that I'm a very bad
+coder if  can't write    a sequencer    which can    control the
+synthesizer.  That's it.  I spent   almost one  year working  on
+that project... That's  how it looks  when  you don't  have  the
+device but  have to write    support  for  it.  So   please  add
+tested  and working examples!
+ 
+                       (c) 2000 Mac Buster^Extreme Entertainment
+                    
+http://bduc.nm.ru/
+http://xtm.da.ru/

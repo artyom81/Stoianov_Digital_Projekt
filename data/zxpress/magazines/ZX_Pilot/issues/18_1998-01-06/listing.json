@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7684,
+    "article_url": "https://zxpress.ru/article.php?id=7684",
+    "print_url": "https://zxpress.ru/print.php?id=7684",
+    "title_link": "Наши новости - Сегодня люди отмечают Рождество...",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Наши_новости_-_Сегодня_люди_отмечают_Рождество"
+  },
+  {
+    "article_id": 7685,
+    "article_url": "https://zxpress.ru/article.php?id=7685",
+    "print_url": "https://zxpress.ru/print.php?id=7685",
+    "title_link": "Фантастика - Повесть Стругацких \"Путь к Амальтею\"(продолжение).",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Фантастика_-_Повесть_Стругацких_Путь_к_Амальтеюпродолжение"
+  },
+  {
+    "article_id": 7686,
+    "article_url": "https://zxpress.ru/article.php?id=7686",
+    "print_url": "https://zxpress.ru/print.php?id=7686",
+    "title_link": "COMICS - Анекдоты",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "COMICS_-_Анекдоты"
+  },
+  {
+    "article_id": 7687,
+    "article_url": "https://zxpress.ru/article.php?id=7687",
+    "print_url": "https://zxpress.ru/print.php?id=7687",
+    "title_link": "О разном - О хаккерах в разных чертах.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "О_разном_-_О_хаккерах_в_разных_чертах"
+  },
+  {
+    "article_id": 7688,
+    "article_url": "https://zxpress.ru/article.php?id=7688",
+    "print_url": "https://zxpress.ru/print.php?id=7688",
+    "title_link": "О разном - Не понос, так золотуха.",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "О_разном_-_Не_понос_так_золотуха"
+  },
+  {
+    "article_id": 7689,
+    "article_url": "https://zxpress.ru/article.php?id=7689",
+    "print_url": "https://zxpress.ru/print.php?id=7689",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

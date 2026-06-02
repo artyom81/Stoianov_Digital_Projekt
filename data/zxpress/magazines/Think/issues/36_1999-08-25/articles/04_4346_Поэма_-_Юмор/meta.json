@@ -1,0 +1,15 @@
+{
+  "magazine_id": 221,
+  "magazine_name": "Think",
+  "city": null,
+  "country": null,
+  "issue_label": "36",
+  "issue_date_iso": "1999-08-25",
+  "order": 4,
+  "article_id": 4346,
+  "title_link": "Поэма - Юмор.",
+  "title_h1": "Think 36 - Поэма - Юмор.",
+  "print_url": "https://zxpress.ru/print.php?id=4346",
+  "article_url": "https://zxpress.ru/article.php?id=4346",
+  "fetched_at": "2026-05-31T23:13:55Z"
+}

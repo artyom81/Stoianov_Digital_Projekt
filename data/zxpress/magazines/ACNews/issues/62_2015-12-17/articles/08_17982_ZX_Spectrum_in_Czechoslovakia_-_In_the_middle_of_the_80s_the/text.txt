@@ -1,0 +1,138 @@
+ACNews 62 - ZX Spectrum in Czechoslovakia - In the middle of the 80&#039;s there was already huge community of 8bit computers users.
+ZX Spectrum in Czechoslovakia
+by Ellvis
+At the beginning of 80's people started to bring first ZX80 and
+ZX81 computers from abroad. It wasn't anyhow easy and it was 
+pretty rare, because it was not easy to travel to the west, it
+was expensive plus the payments on the borders (that was
+advantage of first
+Sinclair's computers, they've been small so
+easier to bring without border police to notice:). It wasn't
+really possible to buy a computer in Czechoslovakia at that
+time, they've been sold just to schools and companies (and
+produced in very small series).
+
+In the middle of the 80's there was already huge community of
+8bit computers users. It was possible to buy them in
+"Tuzex" -
+those were special shops where you had to use something like
+coupons instead of money, they were expensive. People were
+bringing more and more computers from abroad (mainly
+ZX Spectrum, but also Atari, C64, Sharp and others). Some 
+computers started to be produced also in Czechoslovakia - PMD85
+and IQ151 ( 8080 based), SAPI ( Z80 based) and so on. But they
+were usually impossible to buy for home use (and expensive).
+
+Small company
+Didaktik (they produced educational stuff for
+schools as rulers, tables and so on) started to produce
+computers. At first, it was Didaktik Alfa and Beta, which were
+intended for schools (they were compatible with PMD85, so 8080
+based).
+
+In 1987 they started to produce Didaktik Gama - ZX Spectrum
+clone. It had original Sinclair ULA, U880D ( Z80 clone from
+eastern Germany) and was in fact a modified Issue 3 of
+ZX Spectrum. It had fixed some ROM bugs, added centronics 
+drivers for printers, 8OkB of RAM (2 banks of 32kB) and i8255 as
+a parallel interface. First version was quite buggy (it was
+marked always by the year of production, so it was Didaktik Gama
+'87, '88, '89 had different charset and finally '90 ) but they 
+improved and it is pretty good computer even today. It is 99,99%
+compatible with ZX Spectrum including perfect timing (port 127
+is used for switching the memory) and pretty reliable.
+
+Didaktik Gama ended in 1990 and Didaktik M was the follower. It 
+had just 48kB of memory and used PLA (or ULA1 ) instead of
+original ULA /maybe that was a kind of TЗЧVG1 from USSR - Ed./.
+Compatibility was worse - the timing is different (no contended
+memory), but it had nice case and quite good keyboard. The PCB
+is of bad quality. Production of those ended in 1993.
+
+The last computer from
+Didaktik was Didaktik Kompakt, that one
+was Didaktik M with disk drive (D80) in one case. Everything
+ended in 1994 (I think).
+
+Except computers,
+Didaktik was producing also some peripherals.
+One of the first was Didaktik Melodik, it was AY interface for
+48k Spectrums (including Didaktiks). It had small reproductor
+and 3,Smm jack as output (in ACB stereo).
+
+Next interface was Didaktik M/P, which was parallel interface
+for ZX Spectrum and Didaktik M (it contained i8255 and ROM with
+printer drivers so it was not working with Didaktik Gama ).
+
+The very famous was Didaktik 40 and Didaktik 80. Those were
+diskette drives with own operating system (1ЧkB ROM and 2kB
+RAM). It was most used disk system in Czechoslovakia. Didaktik
+40 used 5,25" diskettes formatted to 3бOkB (DS/DD) and Didaktik 
+80 used 3,5" diskettes. Operating system was called
+MDOS
+(developed out of
+SINDOS ), it was possible to connect 2 disk
+drives and all 2 versions existed. /Later version 3 appeared./
+It was based on WD2797 (later replaced by another version
+causing some compatibility problems) and contained also i8255
+as a parallel interface.
+
+Lot of various interfaces for ZX Spectrum were produced around
+the whole Czechoslovakia including disk drive "Dataputer Quick".
+This one was interesting by emulation of D40/D80 system, but it
+used also it's own native system.
+/There were also a couple of schemes for CP/M support: LEC 
+Memory Extension (1987) and Sinsoft's scheme (late 80's), but 
+his mentioned
+SINDOS
+was not CP/M compatible: 
+http://retrocip.cz/uplne-alternativni-spectrum/ /
+At the beginning of 1989, home made clone Mistrum was published
+in a popular electronic magazine. It was pretty complicated and
+had different timing, but it was something possible to build at
+home. It was clone of Spectrum 48k.
+
+Economic situation was a bit different then in USSR. It was even
+possible to buy "valyuta", but with some complications and not
+in big amounts. As I wrote already, there was a network of
+"Tuzex" shops that were selling stuff from abroad for a coupons
+called "Bony". It was very expensive.
+
+As for electronic parts, they've been normally sold to people in
+electronic shops. But often some of them were hard to get
+(oscillators, some integrated circuits and so on).
+
+All this ended in 1990 were Czechoslovakia transformed into
+capitalistic country.
+
+An article about this is here:
+http://hackaday.com/2014/12/15/
+home-computers-behind-the-iron-curtain/
+but I don't agree with it for 100%.
+
+                             * * *
+
+What
+Factorб wrote:
+According former Czechoslovakia, the most common setup in the
+80s was a 48K Speccy with a tape recorder and maybe a joystick
+interface (and a living-room telly or a small b/w telly). No
+128Ks, no AYs, no disk drives. After fall of communism borders
+opened and 128K Spectrums appeared, but in very tiny amount. As
+well as other computers, so many people (these with money)
+skipped 128K and went to Amiga/ST/PC. Didaktik was making their
+very humble Speccy 48 clones since 1987. Then, in about 1991
+they introduced a disk drive D40 (incompatible with 128K
+Spectrums as showed up later) and Melodik - an AY ACB stereo
+interface. So noone including me even knew about 128K and AY
+till early 1990s. There were lucky ones like Fuxoft or Busy that
+they got a 128K earlier in the 80's, but it was kinda exception.
+I understand that Speccy was considered as a low-end but here it
+was different in the 80s. There wasn't any chance to import
+computers legally so everything was black market (until Didaktik
+and their low quality ZX clones). The Spectrum was a name and
+its ownership guaranteed a feed of software (in 99% pirated).
+Who had a different machine, was an outsider, including C64 -
+there were too few C64 people around here. There was wide Atari
+XL/XE user base, much bigger than C64.
+http://www.pouet.net/topic.php?post=506396

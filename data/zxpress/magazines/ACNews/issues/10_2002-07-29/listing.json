@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 9303,
+    "article_url": "https://zxpress.ru/article.php?id=9303",
+    "print_url": "https://zxpress.ru/print.php?id=9303",
+    "title_link": "Cracked by - кряк газет Insanity#10 и Psychozz.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Cracked_by_-_кряк_газет_Insanity10_и_Psychozz"
+  },
+  {
+    "article_id": 9301,
+    "article_url": "https://zxpress.ru/article.php?id=9301",
+    "print_url": "https://zxpress.ru/print.php?id=9301",
+    "title_link": "Новости - Nikf нарисовал новые ascii, Ldir решил покончить с учёбой, письмо от Vitamin/CAIG.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Новости_-_Nikf_нарисовал_новые_ascii_Ldir_решил_покончить_с"
+  },
+  {
+    "article_id": 9302,
+    "article_url": "https://zxpress.ru/article.php?id=9302",
+    "print_url": "https://zxpress.ru/print.php?id=9302",
+    "title_link": "О музыке - Nik-O/Techno Lab делится секретами мастерства написания трекерной музыки.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "О_музыке_-_Nik-OTechno_Lab_делится_секретами_мастерства_напи"
+  },
+  {
+    "article_id": 9305,
+    "article_url": "https://zxpress.ru/article.php?id=9305",
+    "print_url": "https://zxpress.ru/print.php?id=9305",
+    "title_link": "Почётные и Вечные - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Почетные_и_Вечные_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  },
+  {
+    "article_id": 9304,
+    "article_url": "https://zxpress.ru/article.php?id=9304",
+    "print_url": "https://zxpress.ru/print.php?id=9304",
+    "title_link": "Пресс-релиз - Nuts коментирует некоторые темы заттронутые Nemo в Открытых Письмах.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Пресс-релиз_-_Nuts_коментирует_некоторые_темы_заттронутые_Ne"
+  }
+]

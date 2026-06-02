@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 212,
+    "article_url": "https://zxpress.ru/article.php?id=212",
+    "print_url": "https://zxpress.ru/print.php?id=212",
+    "title_link": "ENLIGHT'97 - Предварительная информация.",
+    "order": 1,
+    "issue_label": "38",
+    "short_slug": "ENLIGHT97_-_Предварительная_информация"
+  },
+  {
+    "article_id": 9795,
+    "article_url": "https://zxpress.ru/article.php?id=9795",
+    "print_url": "https://zxpress.ru/print.php?id=9795",
+    "title_link": "Версии - 2 версии игры: MOVING TARGET.",
+    "order": 2,
+    "issue_label": "38",
+    "short_slug": "Версии_-_2_версии_игры_MOVING_TARGET"
+  },
+  {
+    "article_id": 211,
+    "article_url": "https://zxpress.ru/article.php?id=211",
+    "print_url": "https://zxpress.ru/print.php?id=211",
+    "title_link": "Вступление - С праздником весны.",
+    "order": 3,
+    "issue_label": "38",
+    "short_slug": "Вступление_-_С_праздником_весны"
+  },
+  {
+    "article_id": 213,
+    "article_url": "https://zxpress.ru/article.php?id=213",
+    "print_url": "https://zxpress.ru/print.php?id=213",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "38",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 9794,
+    "article_url": "https://zxpress.ru/article.php?id=9794",
+    "print_url": "https://zxpress.ru/print.php?id=9794",
+    "title_link": "Список BBS - Список работающий BBS.",
+    "order": 5,
+    "issue_label": "38",
+    "short_slug": "Список_BBS_-_Список_работающии_BBS"
+  }
+]

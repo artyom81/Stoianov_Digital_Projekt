@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 9738,
+    "article_url": "https://zxpress.ru/article.php?id=9738",
+    "print_url": "https://zxpress.ru/print.php?id=9738",
+    "title_link": "От редакции - К процессу создания газеты подключилась группа Demention. Вопрос об электронном журнале на Алтае.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "От_редакции_-_К_процессу_создания_газеты_подключилась_группа"
+  },
+  {
+    "article_id": 9739,
+    "article_url": "https://zxpress.ru/article.php?id=9739",
+    "print_url": "https://zxpress.ru/print.php?id=9739",
+    "title_link": "Soft group - Кое-что о подключении принтера. Порты устройств компьютера ZX-SPECTRUM.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Soft_group_-_Кое-что_о_подключении_принтера_Порты_устроиств"
+  },
+  {
+    "article_id": 9740,
+    "article_url": "https://zxpress.ru/article.php?id=9740",
+    "print_url": "https://zxpress.ru/print.php?id=9740",
+    "title_link": "Железо - О Covox'ах, General Sound'е и Sound Drive 2.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Железо_-_О_Covoxах_General_Soundе_и_Sound_Drive_2"
+  },
+  {
+    "article_id": 9741,
+    "article_url": "https://zxpress.ru/article.php?id=9741",
+    "print_url": "https://zxpress.ru/print.php?id=9741",
+    "title_link": "ZX-Поппури - Процедура \"OPTION SELECTOR\".\r\n О процедуре \"Звезды\", используемой в газете.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "ZX-Поппури_-_Процедура_OPTION_SELECTOR_О_процедуре_Звезды_ис"
+  },
+  {
+    "article_id": 9742,
+    "article_url": "https://zxpress.ru/article.php?id=9742",
+    "print_url": "https://zxpress.ru/print.php?id=9742",
+    "title_link": "Club IM2 - Терминология и теоритические аспекты прерываний и\r\n многозадачности.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Club_IM2_-_Терминология_и_теоритические_аспекты_прерывании_и"
+  },
+  {
+    "article_id": 9745,
+    "article_url": "https://zxpress.ru/article.php?id=9745",
+    "print_url": "https://zxpress.ru/print.php?id=9745",
+    "title_link": "Club IM2 - Конкурс на лучший сценарий игры типа DIZZY.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Club_IM2_-_Конкурс_на_лучшии_сценарии_игры_типа_DIZZY"
+  },
+  {
+    "article_id": 9743,
+    "article_url": "https://zxpress.ru/article.php?id=9743",
+    "print_url": "https://zxpress.ru/print.php?id=9743",
+    "title_link": "Virus - О конкурсе по игре \"Вирус 2\".",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Virus_-_О_конкурсе_по_игре_Вирус_2"
+  },
+  {
+    "article_id": 9744,
+    "article_url": "https://zxpress.ru/article.php?id=9744",
+    "print_url": "https://zxpress.ru/print.php?id=9744",
+    "title_link": "Enjoy - Анекдоты...",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Enjoy_-_Анекдоты"
+  }
+]

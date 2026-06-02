@@ -1,0 +1,61 @@
+KrNews 05 - Кодерам - Процедуры быстрого деление и умножение.
+3) В ZX РЕВЮ была  процедура  деления
+ужасно неоптимальная (у меня подозрение,
+что тот кто ее прислал просто списал  ее
+из книги  по  какому  нибудь  i-8085, не
+используя дополнительные команды Z-80).
+   В  DE - делимое, в  C - делитель,
+результат в HL, остаток в A.
+
+
+       ;DIVIDE DE/C=HL
+
+       ORG 40000
+       ENT
+       LD DE,768
+       LD C,3
+       CALL DIV
+       RET
+
+DIV    LD B,16
+       LD HL,0
+       LD A,H
+DV1    RL E
+       RL D
+       RLA
+       SUB C
+       JR NC,DV2
+       ADD A,C
+DV2    CCF 
+       RL L
+       RL H
+       DJNZ DV1
+       RET
+
+
+   4) Смысл оттуда же, в 1.51 раз
+быстрее и на байт меньше.
+
+             Множимое -D
+             множитель - E
+             результат - DE
+
+   ;MULTIPLY DxE=DE; 0<=result<65535
+
+      ORG 40000
+      ENT 
+      LD DE,#FEFF
+      CALL MULT
+      RET
+
+MULT  XOR A
+      LD B,8
+MU1   RRA 
+      RR E
+      JR NC,MU0
+      ADD A,D
+MU0   DJNZ MU1
+      RRA
+      RR E
+      LD D,A
+      RET

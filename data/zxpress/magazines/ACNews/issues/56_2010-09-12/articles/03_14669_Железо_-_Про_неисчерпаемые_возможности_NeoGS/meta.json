@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "56",
+  "issue_date_iso": "2010-09-12",
+  "order": 3,
+  "article_id": 14669,
+  "title_link": "Железо - Про неисчерпаемые возможности NeoGS.",
+  "title_h1": "ACNews 56 - Железо - Про неисчерпаемые возможности NeoGS.",
+  "print_url": "https://zxpress.ru/print.php?id=14669",
+  "article_url": "https://zxpress.ru/article.php?id=14669",
+  "fetched_at": "2026-05-31T21:31:32Z"
+}

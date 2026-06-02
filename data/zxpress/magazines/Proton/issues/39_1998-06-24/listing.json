@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 16781,
+    "article_url": "https://zxpress.ru/article.php?id=16781",
+    "print_url": "https://zxpress.ru/print.php?id=16781",
+    "title_link": "Сеть - Сетевые новости. Список BBS: ZX-Net 095, Независимые BBS.",
+    "order": 1,
+    "issue_label": "39",
+    "short_slug": "Сеть_-_Сетевые_новости_Список_BBS_ZX-Net_095_Независимые_BBS"
+  },
+  {
+    "article_id": 16782,
+    "article_url": "https://zxpress.ru/article.php?id=16782",
+    "print_url": "https://zxpress.ru/print.php?id=16782",
+    "title_link": "Дом 16а - продолжение рассказа.",
+    "order": 2,
+    "issue_label": "39",
+    "short_slug": "Дом_16а_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 16783,
+    "article_url": "https://zxpress.ru/article.php?id=16783",
+    "print_url": "https://zxpress.ru/print.php?id=16783",
+    "title_link": "Вдруг пригодится - Схема устранения в GRM'е конфликта между портом #FF и модемом (#EF).",
+    "order": 3,
+    "issue_label": "39",
+    "short_slug": "Вдруг_пригодится_-_Схема_устранения_в_GRMе_конфликта_между_п"
+  },
+  {
+    "article_id": 16784,
+    "article_url": "https://zxpress.ru/article.php?id=16784",
+    "print_url": "https://zxpress.ru/print.php?id=16784",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 4,
+    "issue_label": "39",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16785,
+    "article_url": "https://zxpress.ru/article.php?id=16785",
+    "print_url": "https://zxpress.ru/print.php?id=16785",
+    "title_link": "IS-DOS - Не так давно я написал макросы под \"IS-EDIT 4.2 -PLUS-\", и сейчас решил ими поделится.",
+    "order": 5,
+    "issue_label": "39",
+    "short_slug": "IS-DOS_-_Не_так_давно_я_написал_макросы_под_IS-EDIT_42_-PLUS"
+  },
+  {
+    "article_id": 16786,
+    "article_url": "https://zxpress.ru/article.php?id=16786",
+    "print_url": "https://zxpress.ru/print.php?id=16786",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "39",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16787,
+    "article_url": "https://zxpress.ru/article.php?id=16787",
+    "print_url": "https://zxpress.ru/print.php?id=16787",
+    "title_link": "От авторов - Редакция.",
+    "order": 7,
+    "issue_label": "39",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 12388,
+    "article_url": "https://zxpress.ru/article.php?id=12388",
+    "print_url": "https://zxpress.ru/print.php?id=12388",
+    "title_link": "От редакции - Cвои статьи, вопросы, предложения и\r\nт.д. присылайте в виде файла.",
+    "order": 1,
+    "issue_label": "19",
+    "short_slug": "От_редакции_-_Cвои_статьи_вопросы_предложения_итд_присылаите"
+  },
+  {
+    "article_id": 12389,
+    "article_url": "https://zxpress.ru/article.php?id=12389",
+    "print_url": "https://zxpress.ru/print.php?id=12389",
+    "title_link": "Новости - Оказывается CDOS-device может эмулировать Sound Drive.",
+    "order": 2,
+    "issue_label": "19",
+    "short_slug": "Новости_-_Оказывается_CDOS-device_может_эмулировать_Sound_Dr"
+  },
+  {
+    "article_id": 12390,
+    "article_url": "https://zxpress.ru/article.php?id=12390",
+    "print_url": "https://zxpress.ru/print.php?id=12390",
+    "title_link": "Новелла - Новелла к игре Lord of Chaos (часть 1-4).",
+    "order": 3,
+    "issue_label": "19",
+    "short_slug": "Новелла_-_Новелла_к_игре_Lord_of_Chaos_часть_1-4"
+  },
+  {
+    "article_id": 12391,
+    "article_url": "https://zxpress.ru/article.php?id=12391",
+    "print_url": "https://zxpress.ru/print.php?id=12391",
+    "title_link": "Программирование - Драйвер CDOS-модема.",
+    "order": 4,
+    "issue_label": "19",
+    "short_slug": "Программирование_-_Драивер_CDOS-модема"
+  },
+  {
+    "article_id": 12392,
+    "article_url": "https://zxpress.ru/article.php?id=12392",
+    "print_url": "https://zxpress.ru/print.php?id=12392",
+    "title_link": "Личность - Первый принцип Гарвея Гаррисона (часть 2).",
+    "order": 5,
+    "issue_label": "19",
+    "short_slug": "Личность_-_Первыи_принцип_Гарвея_Гаррисона_часть_2"
+  },
+  {
+    "article_id": 12393,
+    "article_url": "https://zxpress.ru/article.php?id=12393",
+    "print_url": "https://zxpress.ru/print.php?id=12393",
+    "title_link": "График BBS - График работы BBS на неделю.",
+    "order": 6,
+    "issue_label": "19",
+    "short_slug": "График_BBS_-_График_работы_BBS_на_неделю"
+  }
+]

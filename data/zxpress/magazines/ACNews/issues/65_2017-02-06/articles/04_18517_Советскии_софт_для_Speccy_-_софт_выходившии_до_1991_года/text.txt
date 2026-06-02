@@ -1,0 +1,227 @@
+ACNews 65 - Советский софт для Speccy - софт выходивший до 1991 года
+Советский софт для Speccy
+by Alone Coder
+v0.2
+HOMECOU (Домашний бухгалтер) (1986) - кто автор и откуда?
+тетрис ANDI 1986 года (conversion by ANDI, копирайт Пажитнов),
+ там управление только с кемпстона
+
+CATALOG - Программа ведения каталога (1987 - ДАМАСК АВТОРЫ:
+ ДОМРАЧЕВ В.В ЛАВРУХИН А.А.) (SYSS9.TRD у vBv)
+Информацию о программировании в кодах мало кто имел, а
+ программированием на БЕЙСИКе занимались только те, кому это
+ требовалось по основной работе (расчёт электрических цепей,
+ некоторые астрономические расчёты, как правило, связанные с
+ необходимостью ориентации остронаправленной антенны для приёма
+ спутникового телевидения, расчёт биоритмов /см. SYSбO.TRD у
+ vBv/, расчёт систем линейных уравнений, расчёт дифференциальных
+ уравнений 2-го порядка, простейшие программы для своих детей).
+ К важнейшим достижениям этого периода надо отнести первую
+ русификацию текстового редактора - программы TASWORD
+ (Tasword-RL). Эта работа была выполнена в Москве доцентом МИФИ.
+ (ZX-Forum #1)
+
+"Pentis" (1988 Tony Raugas МФТИ ФРТК)
+Телевизионные испытательные таблицы (Виктор Рабинович, Ленинград
+ 1988) (TELETEST на SYSS9.TRD у vBv)
+Частоты (FRQ MB+) (1988 Ю. Родионов - долго жил в Югославии)
+"Русская биржа" (1988, SF Software, русская версия игры 1983
+ года by RORY DUFF)
+Питон (1988, Softmaker Box) на бейсике
+русификация Nether Earth "Сервис 1988"
+Чуть позже, в июле 87-го в Россию попал редактор "The Last Word
+ 2". Его привезла на электротехническую выставку фирма "Saga",
+ которая выпускала расширенные клавиатуры для "Спектрума".
+ Заинтересованная беседа у стенда фирмы привела к тому, что
+ зарубежные представители подарили нашим коллегам авторучку. Мы
+ ответили, подарив матрешку. Но Запад в долгу не остался и,
+ покопавшись, извлёк откуда-то из-под прилавка кассету TLW-2 с
+ полным описанием. Эта матрешка внесла огромный вклад в наше с
+ Вами дело. Через месяц описание TLW-2 уже пошло по стране
+ (примерно в том виде, в каком оно ходит и сейчас), а ещё через
+ полгода (1988) мы сделали первую (не вполне совершенную, но
+ работающую) русскоязычную адаптацию TLW-2. (ZX-Forum #1)
+
+22 (1989 Харьков, некий инженер-метролог, есть остатки
+ польского)
+Балясов Владислав А. (Москва) - BETA/MAGIC zap program (A-POKE)
+ (1989) и видимо другие утилиты в этой серии
+"Приключение в метро" (1989, Wlodek Black - Москва, класс
+ информатики)
+Тетрис на бейсике (1989 Полгов Д.А., с копирайтами на Балясова и
+ Пажитнова), такой же тетрис Трубинова (какого из них?) 1990
+ (тоже с копирайтами на Балясова и Пажитнова)
+Вторжение на Землю (1989 ИКАР-ИВТ Краснодар), они же игра Плут
+ "Каналья" (не датировано, похоже на перевод, т.к. есть FULLER),
+ связаны с производителями компьютера "Импульс" (информация от
+ Acidrain)
+ZYNAPS disk version by V.D.G. 1989
+(c) Disk-Tape-@ Copy by V.D.G. (c) DENSOFT 1989 (SYSS9.TRD у
+ vBv)
+TLW "ТЕКСТОВЫЙ РЕДАКТОР * Адаптирован Д.Г.С. * МОСКВА * 1989"
+ (SYS21.TRD у vBv) - человек с такими инициалами не найден среди
+ коллег Симоновича
+Фирма "ИНФОРКОМ" работает в сфере информационно-программного
+ обеспечения владельцев компьютеров ZX-SPECTRUM с 1989 года
+ (SYS22.TRD у vBv)
+ARTЧ8RUS - русская версия Art Studio 48 "Версия 1.7 Адаптировано
+ в 1989 году по заказу" (SYS20.TRD у vBv)
+несколько программ в книге Дьяконова "Применение персональных
+ ЭВМ и программирование на языке Бейсик" (1989)
+
+ZX-Commander V1.0 KIEV'90 (SYS20.TRD у vBv)
+AYservis "Grafic by OGNEW M.A TUCHINO lotok #55" - схема
+ подключения AY (SYS21.TRD у vBv) (между программами 1990 г.)
+REDS "Редактор-ДЕЛЬТА" - русская версия Tasword (SYS21.TRD у
+ vBv) (между программами 1990 г.)
+В 1990-1992 была фирма Kordial, которая делала буты и банк
+ программ. Неужели это можно было продать?
+ https://zxaaa.untergrund.net/demo.php?t=0&s=kordial
+ &author=Author
+BANK 25 - Valery present "New programs bank" (SYS21.TRD у vBv)
+ (между программами 1990 г.)
+BANK NEW - KORDIAL & VALERY Presents "PROGRAMS BANK" V3.10
+ (SYS21.TRD у vBv) (между программами 1990 г.)
+KAT D "KORDIAL corp 90' tel.274.83.31" (SYS21.TRD у vBv) -
+ каталог дисков
+GARboot "ZX Spectrum commander 4.2" (c)GMR Ltd МОСКВА 1990
+Гарбузов Алексей 281-37-18 (SYS21.TRD у vBv) - внутри
+ упоминаются MOA Service и SHELL
+ZNбЧ-RL by PENCRAFT SOFTWARE Ленинград 1990 (SYS5Ч.TRD у vBv) -
+ драйвер вывода 64 символа в строке
+LBF - TO LOOK BASIC FILES (c) Leningrad 1990 (SKI) (SYSS8.TRD у
+ vBv)
+DISK ERASER as RT11SJ (c) CREATED BY K.Studencov 1990 (c)
+ Leningrad 311-43-41 (SKI) (SYSS8.TRD у vBv)
+MDDM2 - MIKLE's Double Disk Monitor (SYSS8.TRD у vBv)
+LAST HOPE tape-to-tape copier (program and artwork
+ Д.Ю.Степаненко,20.7'90 тел.393-14-31) (SYSS9.TRD у vBv) - с
+ красивой картинкой чб
+DJCRACK - Cracker 3.0/42 (6.5.90), 3.0/42H и 3.1 (C) 1990
+ Д.Ю.Степаненко 393-14-31 (SYS5Ч.TRD у vBv)
+CP/M для "Байта" (1990 ЦЕРИКОПИК SOFT, Брест?) - Радио 7-92 с.26
+ - в таблице есть Байт (Брест), с КНГМД, но без CP/M!
+компрессор Балясова (1990)
+копировщик tape to disk by MOA (1990) (не найден)
+MOA Service - описание IX.90 (Санкт-Петербург), V01.05 тоже 1990
+ (SYSS9.TRD у vBv)
+Степаненко Д.Ю. 3931431 - DJCRACK (1990)
+Голубев Михаил - DISK DOCTOR for BETA 128 (DD на
+ CPU2SS_DGAME.TRD) (1990)
+READER by IskraSOFT 1990
+текстовый редактор Spark v2.0 (1990) - Ko."Iskra" Design Abramov
+ I.A.
+TSW>Sp (Text Transformation From Tasword to Spark v2.0) by
+ IskraSOFT 1990
+S*H*E*L*L (1990 IskraSOFT)
+Ревенко Александр (Компания РЮЗ) (274500 г.Речица ул.Спортивная
+ 3 кв.15) - картотека KARTEX (1990)
+Старокольцев Евгений (Днепропетровск) - Beta-Disc's Test Program
+ (B.D.TEST) (1990)
+Change Disk Name Program (c) 1990 Dmitry Sologub (Sputnik
+ Research Ltd)
+PCopier by Nicolas Rodionov - 10-16.04.1990
+DISK DOCTOR (c) CREATED BY N.Rodionov 1990 (SYSS8.TRD у vBv)
+дисковые версии Николая Родионова и Сергея Скоробогатова - 1990
+"Удав-цифроед" (А.Корниенок Ленинград 1127566 - самое позднее
+ 1990)
+Королевство Эйфория (1990 Service Software & Silva Software -
+ Голицыно-2, 143040, Кооператив "СЕРВИС" тел. 5900714)
+игра STEK v1.1 (1990 MPF Software Ленинград)
+LIGHT PEN by Roy Eastwood dkTronics 1983/disk version by Petrov
+ Sergey. Krasnoyarsk 1990. [LP 48 V4.1] Сергей Петров - один из
+ первых ZX-трейдеров в г. Красноярске, работал на заводе
+ Красмаш, выпускал компактные 48-е спектрумы в фрезерованных
+ металлических корпусах. В дальнейшем занимался игровыми
+ приставками.
+TASWORD RL by Tacman Software 1987/disk version v2.1.0, adapted
+ by Petrov Sergey, Krasnoyarsk. 28.12.1990
+НТТМ "Эврика" (Саранск) в 1990 делала ряд обучающих программ для
+ Спекки. https://zxaaa.untergrund.net/demo.php?a=HTTM+Eureka
+LIST BASIC UTILITY (*RATCOPY* Program System'90) (C15.TDO)
+TDCOPY production by AVF & CH (c) 1990-1991 - Москва (SYSS9.TRD
+ у vBv)
+DCU v1.x? DCU v2.01 (Nicolas Y. Rodionov, 01.1991 - Leningrad)
+ (SYS5Ч.TRD у vBv), DCU v2.02, DCU v2.12, DCU v2.31 (1992,
+ Николай Родионов)
+
+1991 - шквал дисковых версий (Васильев Антон, Лаптев и куча
+ неизвестных)
+Andy Tacker - на кассетах "Байта"
+ http://zxbyte.ru/additional_tapes_for_computer_byte.htm
+Catalog (октябрь 1991, Петров Анатолий И. 382-20-01 доб.21-09
+ (21-2Зчас.)) (C2.TDO) - каталог дискет
+TLF-48 (1991, D.M.Shtabsky - LIANSOFT & ALEXCO) (C2.TDO) -
+ записная книжка и телефонный компас
+Cerikiller (1991, Львов) - снимает защиту Церикопика
+MASTER FILE 14. Петров С. Д. Дисковая версия программы (тел.
+ 33-04-48, 01.1991)
+PLATA v4.01. Петров С. Д. Дисковая версия программы для разводки
+ печатных плат на русском языке.
+T32K.v2. Тест памяти. Disk version by Petrov Sergay.
+ tel. 33-04-48 Krasnoyarsk 1991.
+SPORTLOTO. 48K. Корректировка программы vBv (Богданович
+ Владимир). Ну в очень сыром виде она ко мне попала, а может
+ просто побилась по дороге.
+COOKIE. 48K. Неполный перевод на русский язык vBv. Удалось
+ русифицировать тогда только заставку и главное меню игры.
+HARRIER. 48K. vBv добавил к игре инструкцию на русском языке.
+ Правда эффективна она была для кассетной версии, т.к. ее читать
+ можно было при загрузке игры. Хотя, посмотрел, дисковую версию
+ я тоже корректно сделал.
+Тетрис (май 1991 Tera Software)
+CONVER--Comander V 2.06  128K (c) Y.Kovalevsky S.Peterburg 1991
+BETA-disk monitor (Y.Kovalevsky Leningrad 1991)
+Павлов С. (S.A.P.) (Краснодар) - TROto159 (04.91)
+MIRROR - сохранение системного трека на треке 159 - Гарбузов
+ Алексеи(sic!) Москва 1991 (MIRROR на CPU2SS_DGAME.TRD)
+ (SYS20.TRD у vBv)
+Дурак (В.Медноногов)
+Видеоспорт (В. и А. Медноноговы 1991)
+Mike Studio S.Peterburg 1782908 - ZX ARC (CoCo) (Compressor v
+ 1.01) (1991)
+ASC packer (1991 Львов)
+COPY*IBM - BG&SI-SOFT (c) 1991 (SYS20.TRD у vBv)
+ZX-Word (1991 SI-SOFT & BG-SOFT (Broken Glass Software) Харьков)
+ - впоследствии пакет был пересобран Елисеевым Владимиром и
+ фирмой Pencraft без указания оригинальных авторов
+октябрь 1991 - демы от Васильева Антона и Копрова с Макаревичем
+бейсик 1991 года - Сергей Дегтяpёв (Луганск)?
+TR-DOS 5.04T - Сергей Скоробогатов 1991 (Москва)
+ "In 1989 I got my first computer  a Sinclair ZX Spectrum 48K.
+ A year later I started building computer external hardware
+ modules like EPROM programmers and ROM emulators, and writing
+ different programs in assembler for the Zilog Z80 processor
+ used in it. All those projects were a hobby, but that was
+ probably the first time I started reverse engineering code.
+ There were two reasons for that. One was to learn the assembler
+ language better through understanding disassembled code; another
+ was to modify the programs, for example, to add extra features."
+DISCBLOC - TR DOS 5.04T (c) MAKSSOFT 1991 Servise 1.01 -DISK
+BLOC- "plomba ok" (SYS20.TRD у vBv)
+Клюев Леонид, В.Елисеев (Pencraft) - DATALOG data base English
+ version & Beta-adaptation (1991)
+TETRIS 2C (1991 Поминов Евгений, Россия, г.Красноярск)
+Макс Герман перевёл LAYOUT (C22.TDO) "Пролетарии всех стран,
+ извините!" - он же LAYOUT91 у ТОО "ФОРМАК"?
+BMD-DATA (1991-1993 Владимир Булчукей, Москва) - база данных
+ 48/128 (C24.TDO)
+RESISTOR - цветовые коды резисторов (SYS20.TRD у vBv) (между
+ программами 1990 и 1991 гг.)
+ПО компьютера "Хоббит" (1991-1994) "Copyright (c) Koslov O.,
+ InterCompex 1991", "Repaired by P.Trubinov, 06/10/91",
+ "HOBBIT 2 (C) INTERCOMPEX CP/M VERS.2.3.28 - 26/05/92 - 48 KB
+ with CCP-loader", "InterCompex (C) 1992", "FFS   (Forth File
+ System) V1.6, release 5.10.92", "FFS V4.3   (c) MD 1993",
+ "-=*  Hobbit Commander v.1.2   (c) by AGA, July 1994  *=-",
+ "Gentleman's Toolkit v2.3 (c) by AGA, 1994", "-= GENTLEMAN's
+ TOOLKIT =- ВЕРСИЯ 2.4p (c) ГРАНОВ АЛЕКСАНДР ТЕЛ.(812)-235-08-95
+ 1994 Г", "В  ВЕРСИИ 2.3, ПО СРАВНЕНИЮ С ПРЕДЫДУЩИМИ  { (c) by
+ OK, 1993 } УБРАНЫ РЯД ОПЦИЙ ГЛАВНОГО  МЕНЮ,  КОТОРЫЕ,
+ НАСКОЛЬКО МНЕ ИЗВЕСТНО, ТАК  И  НЕ  БЫЛИ  РЕАЛИЗОВАНЫ  ДО
+ КОНЦА", "-=  DISK MANAGER  v3.2  =- (c) by Alexander Agranov,
+ August 1994 (c) by Oleg Kozlov, December 1993", "-=  Forth->ME
+ Texts Translator v1.0  =- (c) by Alexander Agranov, August
+ 1994", "iS-DOS v2.0 (Hobbit) (c) by IskraSOFT, 1992/1993
+ Adapted to Hobbit by Peter True & AGA", "*** ZX WORD v2.5H ***
+ (С) by V.Yeliseev, 1993 Adapted to Hobbit by Sasha Agranov"

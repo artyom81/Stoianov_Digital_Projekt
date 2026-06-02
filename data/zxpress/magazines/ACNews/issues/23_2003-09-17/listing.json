@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9939,
+    "article_url": "https://zxpress.ru/article.php?id=9939",
+    "print_url": "https://zxpress.ru/print.php?id=9939",
+    "title_link": "News - Пати (EnteR Activity 2003) должно состояться под крылом администрации города 29.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "News_-_Пати_EnteR_Activity_2003_должно_состояться_под_крылом"
+  },
+  {
+    "article_id": 9940,
+    "article_url": "https://zxpress.ru/article.php?id=9940",
+    "print_url": "https://zxpress.ru/print.php?id=9940",
+    "title_link": "Мысли - Когда ребёнка отдают в школу, никто не спрашивает его мнения о школьной программе. Почему?",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Мысли_-_Когда_ребенка_отдают_в_школу_никто_не_спрашивает_его"
+  },
+  {
+    "article_id": 9941,
+    "article_url": "https://zxpress.ru/article.php?id=9941",
+    "print_url": "https://zxpress.ru/print.php?id=9941",
+    "title_link": "Coding - О ещё одном способе форт-подобного кодинга.",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Coding_-_О_еще_одном_способе_форт-подобного_кодинга"
+  }
+]

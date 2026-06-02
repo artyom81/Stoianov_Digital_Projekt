@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 31,
+    "article_url": "https://zxpress.ru/article.php?id=31",
+    "print_url": "https://zxpress.ru/print.php?id=31",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "48",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2147,
+    "article_url": "https://zxpress.ru/article.php?id=2147",
+    "print_url": "https://zxpress.ru/print.php?id=2147",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "48",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2148,
+    "article_url": "https://zxpress.ru/article.php?id=2148",
+    "print_url": "https://zxpress.ru/print.php?id=2148",
+    "title_link": "ZXNet - Супертусовка СисОпов ZXNet состоится ...",
+    "order": 3,
+    "issue_label": "48",
+    "short_slug": "ZXNet_-_Супертусовка_СисОпов_ZXNet_состоится"
+  },
+  {
+    "article_id": 2145,
+    "article_url": "https://zxpress.ru/article.php?id=2145",
+    "print_url": "https://zxpress.ru/print.php?id=2145",
+    "title_link": "Застрял ? - Описание программы \"High Steel\".",
+    "order": 4,
+    "issue_label": "48",
+    "short_slug": "Застрял_-_Описание_программы_High_Steel"
+  },
+  {
+    "article_id": 2144,
+    "article_url": "https://zxpress.ru/article.php?id=2144",
+    "print_url": "https://zxpress.ru/print.php?id=2144",
+    "title_link": "Мозаика - Birthday List для JAM-BBS.",
+    "order": 5,
+    "issue_label": "48",
+    "short_slug": "Мозаика_-_Birthday_List_для_JAM-BBS"
+  },
+  {
+    "article_id": 2146,
+    "article_url": "https://zxpress.ru/article.php?id=2146",
+    "print_url": "https://zxpress.ru/print.php?id=2146",
+    "title_link": "Новье !? - О программах : Los Inhumands, Mercs, Downdtown, Final Fight,\r\n The Wacky Darts Championship, Lode Runner 3, Formula 1, The Mystery of Nile.",
+    "order": 6,
+    "issue_label": "48",
+    "short_slug": "Новье_-_О_программах_Los_Inhumands_Mercs_Downdtown_Final_Fig"
+  },
+  {
+    "article_id": 2143,
+    "article_url": "https://zxpress.ru/article.php?id=2143",
+    "print_url": "https://zxpress.ru/print.php?id=2143",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "48",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

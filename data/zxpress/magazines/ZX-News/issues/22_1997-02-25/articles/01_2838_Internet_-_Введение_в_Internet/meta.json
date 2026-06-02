@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "22",
+  "issue_date_iso": "1997-02-25",
+  "order": 1,
+  "article_id": 2838,
+  "title_link": "Internet - Введение в Internet.",
+  "title_h1": "ZX-News 22 - Internet - Введение в Internet.",
+  "print_url": "https://zxpress.ru/print.php?id=2838",
+  "article_url": "https://zxpress.ru/article.php?id=2838",
+  "fetched_at": "2026-05-31T23:28:50Z"
+}

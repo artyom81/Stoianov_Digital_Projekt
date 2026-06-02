@@ -1,0 +1,15 @@
+{
+  "magazine_id": 302,
+  "magazine_name": "Info Guide",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "2004-04-30",
+  "order": 35,
+  "article_id": 8515,
+  "title_link": "О Спектруме - размышления о будущем спектрума.",
+  "title_h1": "Info Guide 05 - О Спектруме - размышления о будущем спектрума.",
+  "print_url": "https://zxpress.ru/print.php?id=8515",
+  "article_url": "https://zxpress.ru/article.php?id=8515",
+  "fetched_at": "2026-05-31T23:42:16Z"
+}

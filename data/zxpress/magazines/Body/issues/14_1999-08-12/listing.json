@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 3299,
+    "article_url": "https://zxpress.ru/article.php?id=3299",
+    "print_url": "https://zxpress.ru/print.php?id=3299",
+    "title_link": "AY Music Hit - 10 лучших музонов.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "AY_Music_Hit_-_10_лучших_музонов"
+  },
+  {
+    "article_id": 3297,
+    "article_url": "https://zxpress.ru/article.php?id=3297",
+    "print_url": "https://zxpress.ru/print.php?id=3297",
+    "title_link": "BBS List - График работы минских BBS.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "BBS_List_-_График_работы_минских_BBS"
+  },
+  {
+    "article_id": 3302,
+    "article_url": "https://zxpress.ru/article.php?id=3302",
+    "print_url": "https://zxpress.ru/print.php?id=3302",
+    "title_link": "Have a Fun - Ошибочка.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Have_a_Fun_-_Ошибочка"
+  },
+  {
+    "article_id": 3296,
+    "article_url": "https://zxpress.ru/article.php?id=3296",
+    "print_url": "https://zxpress.ru/print.php?id=3296",
+    "title_link": "History - Маленький обзор каждого номера газеты.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "History_-_Маленькии_обзор_каждого_номера_газеты"
+  },
+  {
+    "article_id": 3298,
+    "article_url": "https://zxpress.ru/article.php?id=3298",
+    "print_url": "https://zxpress.ru/print.php?id=3298",
+    "title_link": "Rest In Pain - О глюках, портящих жизнь.",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Rest_In_Pain_-_О_глюках_портящих_жизнь"
+  },
+  {
+    "article_id": 3301,
+    "article_url": "https://zxpress.ru/article.php?id=3301",
+    "print_url": "https://zxpress.ru/print.php?id=3301",
+    "title_link": "Solution - Пароли к игре Net Walk.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Solution_-_Пароли_к_игре_Net_Walk"
+  },
+  {
+    "article_id": 3300,
+    "article_url": "https://zxpress.ru/article.php?id=3300",
+    "print_url": "https://zxpress.ru/print.php?id=3300",
+    "title_link": "Новости - Новости из Плещениц от SatSoft'а.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Новости_-_Новости_из_Плещениц_от_SatSoftа"
+  },
+  {
+    "article_id": 3295,
+    "article_url": "https://zxpress.ru/article.php?id=3295",
+    "print_url": "https://zxpress.ru/print.php?id=3295",
+    "title_link": "От авторов - Юбилейный номер BODY.",
+    "order": 8,
+    "issue_label": "14",
+    "short_slug": "От_авторов_-_Юбилеиныи_номер_BODY"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "2002-04-01",
+      "articles_count": 19
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "2002-09-14",
+      "articles_count": 14
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "2002-11-06",
+      "articles_count": 12
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "2003-04-21",
+      "articles_count": 38
+    },
+    {
+      "issue_label": "05",
+      "issue_date_iso": "2008-01-01",
+      "articles_count": 38
+    },
+    {
+      "issue_label": "3.5",
+      "issue_date_iso": "2002-12-16",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "3.75",
+      "issue_date_iso": "2003-01-02",
+      "articles_count": 5
+    },
+    {
+      "issue_label": "5,5",
+      "issue_date_iso": "2009-01-20",
+      "articles_count": 8
+    }
+  ]
+}

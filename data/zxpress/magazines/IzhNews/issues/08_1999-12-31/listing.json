@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 4909,
+    "article_url": "https://zxpress.ru/article.php?id=4909",
+    "print_url": "https://zxpress.ru/print.php?id=4909",
+    "title_link": "Введемся - вступление к новому номеру газеты.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Введемся_-_вступление_к_новому_номеру_газеты"
+  },
+  {
+    "article_id": 4910,
+    "article_url": "https://zxpress.ru/article.php?id=4910",
+    "print_url": "https://zxpress.ru/print.php?id=4910",
+    "title_link": "Очепятка - исправления к статье о Power Of Sound.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Очепятка_-_исправления_к_статье_о_Power_Of_Sound"
+  },
+  {
+    "article_id": 4911,
+    "article_url": "https://zxpress.ru/article.php?id=4911",
+    "print_url": "https://zxpress.ru/print.php?id=4911",
+    "title_link": "Нетмыло - нам, наконец, пришли письма от читателей.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Нетмыло_-_нам_наконец_пришли_письма_от_читателеи"
+  },
+  {
+    "article_id": 4912,
+    "article_url": "https://zxpress.ru/article.php?id=4912",
+    "print_url": "https://zxpress.ru/print.php?id=4912",
+    "title_link": "Команата пыток - интервью одного из членов новой Ижевской группы\r\nTRG - SiSoft'a.",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Команата_пыток_-_интервью_одного_из_членов_новои_Ижевскои_гр"
+  },
+  {
+    "article_id": 4913,
+    "article_url": "https://zxpress.ru/article.php?id=4913",
+    "print_url": "https://zxpress.ru/print.php?id=4913",
+    "title_link": "Свежак - обзор новинок: Crime of the Santa Claus: Deja Vu, Grab of a Territory, AC Edit 0.47, Excess de Luxe Paint.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Свежак_-_обзор_новинок_Crime_of_the_Santa_Claus_Deja_Vu_Grab"
+  },
+  {
+    "article_id": 4914,
+    "article_url": "https://zxpress.ru/article.php?id=4914",
+    "print_url": "https://zxpress.ru/print.php?id=4914",
+    "title_link": "Cheats's - читы и коды и известным западным играм.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Cheatss_-_читы_и_коды_и_известным_западным_играм"
+  },
+  {
+    "article_id": 4915,
+    "article_url": "https://zxpress.ru/article.php?id=4915",
+    "print_url": "https://zxpress.ru/print.php?id=4915",
+    "title_link": "Adventures - Руководство по Адвентюрным играм! (продолжение)",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Adventures_-_Руководство_по_Адвентюрным_играм_продолжение"
+  },
+  {
+    "article_id": 4916,
+    "article_url": "https://zxpress.ru/article.php?id=4916",
+    "print_url": "https://zxpress.ru/print.php?id=4916",
+    "title_link": "Fantasy - начало цикла статей о ФЕНТЕЗИ.",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Fantasy_-_начало_цикла_статеи_о_ФЕНТЕЗИ"
+  },
+  {
+    "article_id": 4917,
+    "article_url": "https://zxpress.ru/article.php?id=4917",
+    "print_url": "https://zxpress.ru/print.php?id=4917",
+    "title_link": "Философия - Предлоложение о самом главном: Крысиный рай.",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "Философия_-_Предлоложение_о_самом_главном_Крысиныи_раи"
+  },
+  {
+    "article_id": 4919,
+    "article_url": "https://zxpress.ru/article.php?id=4919",
+    "print_url": "https://zxpress.ru/print.php?id=4919",
+    "title_link": "Рулезники - продолжение рассказа.",
+    "order": 10,
+    "issue_label": "08",
+    "short_slug": "Рулезники_-_продолжение_рассказа"
+  },
+  {
+    "article_id": 4918,
+    "article_url": "https://zxpress.ru/article.php?id=4918",
+    "print_url": "https://zxpress.ru/print.php?id=4918",
+    "title_link": "Движок торговли - реклама и обьявления.",
+    "order": 11,
+    "issue_label": "08",
+    "short_slug": "Движок_торговли_-_реклама_и_обьявления"
+  }
+]

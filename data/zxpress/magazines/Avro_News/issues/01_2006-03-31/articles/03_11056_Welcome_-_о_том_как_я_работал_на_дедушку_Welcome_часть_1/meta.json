@@ -1,0 +1,15 @@
+{
+  "magazine_id": 20,
+  "magazine_name": "Avro News",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "2006-03-31",
+  "order": 3,
+  "article_id": 11056,
+  "title_link": "Welcome - о том как я работал на дедушку Welcome (часть 1).",
+  "title_h1": "Avro News 01 - Welcome - о том как я работал на дедушку Welcome (часть 1).",
+  "print_url": "https://zxpress.ru/print.php?id=11056",
+  "article_url": "https://zxpress.ru/article.php?id=11056",
+  "fetched_at": "2026-05-31T21:38:31Z"
+}

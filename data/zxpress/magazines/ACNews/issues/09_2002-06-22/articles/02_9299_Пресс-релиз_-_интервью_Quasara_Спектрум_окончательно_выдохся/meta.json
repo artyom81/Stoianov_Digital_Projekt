@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "09",
+  "issue_date_iso": "2002-06-22",
+  "order": 2,
+  "article_id": 9299,
+  "title_link": "Пресс-релиз - интервью Quasar'a \"Спектрум окончательно выдохся, выродившись в нечто\r\nаморфное, само существование и имя которого поддерживается лишь\r\nвиртуально\".",
+  "title_h1": "ACNews 09 - Пресс-релиз - интервью Quasar&#039;a \"Спектрум окончательно выдохся, выродившись в нечто аморфное, само существование и имя которого поддерживается лишь виртуально\".",
+  "print_url": "https://zxpress.ru/print.php?id=9299",
+  "article_url": "https://zxpress.ru/article.php?id=9299",
+  "fetched_at": "2026-05-31T21:30:21Z"
+}

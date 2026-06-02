@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "24",
+  "issue_date_iso": "1996-06-22",
+  "order": 3,
+  "article_id": 8841,
+  "title_link": "Твой сервер - О плохих пользователях BBS.",
+  "title_h1": "Lime Tree 24 - Твой сервер - О плохих пользователях BBS.",
+  "print_url": "https://zxpress.ru/print.php?id=8841",
+  "article_url": "https://zxpress.ru/article.php?id=8841",
+  "fetched_at": "2026-05-31T22:19:54Z"
+}

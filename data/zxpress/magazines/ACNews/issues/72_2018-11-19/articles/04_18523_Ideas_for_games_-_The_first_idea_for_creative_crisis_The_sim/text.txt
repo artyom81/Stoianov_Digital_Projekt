@@ -1,0 +1,176 @@
+ACNews 72 - Ideas for games - The first idea for creative crisis. The simplest and used by many.
+Ideas for games
+                         by Cyberdaemon
+
+In December 2000 I bought an Amiga 600 and left ZX Spectrum. The
+reason was - it was too tight. I wasn't interested in games any
+more. Not all games, but ZX Spectrum games. Of course, there
+were hits that I played with fun. But at nowadays' standards,
+all of them were hardcore arcades, and I wanted more slow and
+comfortable gameplay. I also wanted to save at any given moment,
+as in most PC games. I mostly liked RPGs and graphic quests
+(like those by Lucas Arts). There were not such ones for Speccy,
+Amiga could bring that.
+It was tight for me to code. Everything I could write was
+already written. I remember I suffered from "programming just
+for fun". I had no ideas at all. There was no possibility to
+copy them from PC, because there was a race of gigahertz and 3D
+gfx. Only today we have nostalgic indie games in old style, not
+understood by schoolchildren. If I had today's ideas back then,
+I rather would not switch platform and wrote a couple of games.
+
+I hope this article to help someone who wants and can write
+games for Spectrum, but had no ideas because of creative crisis.
+Maybe the ideas I'll describe are not new, and some of you
+already tried them. But not everyone...
+
+The first idea for creative crisis. The simplest and used by
+many. Just in case you don't know: open Google Play or App Store
+and see the surprise, that most of the simplest games can be
+ported to Speccy almost without change. Just with simpler gfx.
+Don't look at MMO. Cut the Rope and Angry Birds won't do because
+of physics. But the puzzles and arcades are for us. My favourite
+is Roll the Ball. I like it so much that I wanted to make a
+Speccy version myself. One more example - Knight Saves Queen.
+Well, I pointed the direction, everyone can choose what he
+likes.
+
+Another idea is for people that are not afraid of big quests. 
+Visual novels. Initially appeared in Japan, with a lot of young
+fans there. Today they are also produced in other parts of the
+world, even in Russia. There are many free ones in Steam. The
+first game of this genre I played was Red Space, some 10 years
+ago. What is a visual novel? It is a very simple text quest,
+containing a story, accompanied with pictures, music, and
+sometimes video. It looks very similar to interactive fiction,
+but with less branches. If you are interested, try Wikipedia.
+How to make such games for Speccy? Let's drop most of gfx and
+all the video. They do little for the story. They are just
+pictures in a book. The text is the main thing. I recommend
+proportional fonts that were used in late 90's. Somewhere in ZX
+Review there was a printing routine. The user will read a lot of
+text, so take care of him. At least use 42 characters per line,
+32 is too short, and 64 is bad for eyesight.
+
+The third idea is for those who have strong heart and much time.
+Let's simplify any games to match Speccy standards. Take for
+example "The Final Station", a known indie title. It is easier
+to adapt because of its pixel gfx. If you don't know it, try to
+play, it can be completed in one day even with extra stuff. When
+you play, note the finepoints - what can we make simpler or even
+remove.
+
+Here are my ideas about this game:
+- remove the background completely - to save space and time;
+- make gfx simpler - monochrome, highly detalized;
+- remove the episodes in train, they hardly affect the plot - we
+can insert text instead about things happened;
+- make levels smaller (in towns and stations) - to fit memory;
+- make NPC's static (except the enemies), only with chats -
+because the chats are explaining the plot.
+
+                             * * *
+
+That's all. Thanks for reading. I will be pleased if someone 
+will use my ideas. I will be pleased three times as much if 
+someone will port The Final Station. I'll complete it one more 
+time, this time on Speccy. 
+
+P.S. Some 20 years ago, when Fallout came, I had a strong desire 
+to make a linear text quest about it, with RPG elements. Just an 
+idea... 
+
+P.S.S. My Amiga 600 is still alive. I even wanted to buy 
+upgrades for it: at Ebay, there are adapters for modern mice, 
+accelerators, new Kickstart ROMs, a disk drive with USB stick 
+socket to write disk images. And many ide2sd adapters at 
+Aliexpress... But for that price nostalgia is for rich people. 
+
+                           Hippiman:
+
+We can also look at indie arcades. Many of them can be easily
+adapted to Speccy. For example, VVVVVV, Super meat boy, or
+You have to win the game. 
+We can also try early Famicom games (more known as NES or
+Dendy). Most of them can work at Speccy without loss. There is
+also GameBoy, only slightly more powerful than ZX, so clever
+ports can work as well. One example is recent Ninja Gaiden
+Shadow Warriors by Jerri. But avoid simple ports. Why anyone 
+would play a game on Speccy if the game already exists with
+nicer effects on another, more fit platform?
+
+Add something of your own, or just keep the mechanics of a donor
+game, and make your own game with it, as Sanchez did in his
+demake of Mighty Final Fight. He used the idea of Famicom game,
+remastered it for ZX Spectrum realia, and produced a new game
+even for those who have learned all the corners of the original.
+So he did with his port of Castlevania 2. He took the graphics
+and the idea of walking by a huge map for artifacts, but the
+map, the quest, the plot are new.
+
+Why there games are good to play? (Except their quality.)
+Because they have modern gameplay, more or less!
+What I mean by this? Classic Spectrum gameplay as I see it - is
+little content (few locations or many similar ones), nightmare
+difficulty (based on few lives, nearly infinite number of
+enemies, and instant punishment for any mistake), and usually
+unobvious logic.
+
+Of course, there are exceptions. Spectrum has many games with
+normal difficulty, enough content, and with logic that can be
+understood. These games are remembered today. For example, Dizzy
+series. However, most games fall under the criteria above. In
+the 80's, when these games appeared, that was norm. But the
+progress changed gameplay standards. The gamers became older,
+and they have less time and more games to select from. So hardly
+anyone will sit through evenings to complete some unbeatable
+arcade if he has an option of other, more comfortable games. I
+don't mean "press X to win". I mean games became fun, not a hard
+trial.
+
+If we look at the indie market, we can see many games stylized
+like 8 bit era. If we drop the worst, we can see the what they
+have in common:
+- The difficulty can be changed. From the easiest (e.g. infinite
+lives), to the hardest (e.g. with one life). To fit every type
+of player.
+- Many different situations.
+- Some training if needed, plus hints during the game. So the
+player is not forced to read the manual every time.
+- The games are trying to please the player, not taunt him.
+
+A good example of this approach is VVVVVV game. At first look it
+is a simple C64-like arcade, with poor gfx, no scroll, and
+simple mechanics (change gravity vector and avoid obstacles to
+pass rooms one after another). There were many such games. But
+not so fast. On the one hand, it is quite difficult. The player
+will die frequently (as it was in the past), but he has infinite
+lives and a lot of checkpoints before and after hard obstacles
+(as in today's standards). So a medium player will complete the
+game in under two hours, having 300-400 deaths and many
+impressions. And a hardcore player will find many secrets in
+places hard to get to. It has many situations: from picking a
+moment to jump to a moving platform, to falling a dozen screens
+through narrow tunnels, or even cycled locations. It has a huge
+amount of screens that are fun to explore. So we have a
+detonating mixture of classic gfx, simple mechanics, but with
+gameplay hard and loyal to the player (everyone can pass every
+obstacle, this is only matter of time). When the player has
+nothing to lose except fast run through a couple of locations,
+death doesn't irritate, even 10 or 20 deaths, but when he passed
+the obstacle, he has much fun.
+
+You must have difficulty only slightly increasing. The player
+must taste the game and get excited, only then the game tests
+the player. Only test, not taunt!
+
+Let's sum up all these words. I want to say that we have a lot
+of ideas for new games, we can take them from everywhere. Don't
+copy. Take the ideas and combine them in your game. Only
+remember that your player is not a schoolboy from the 80's, but
+an adult man 30 to 40 years old who has not much time. The game
+must be a game, not a trial.
+
+If you hold these simple rules, you can make an interesting and
+pleasant game even with Churrera engine or annoying AGD. Just
+remember the game "Three Octopusses" by kas29.

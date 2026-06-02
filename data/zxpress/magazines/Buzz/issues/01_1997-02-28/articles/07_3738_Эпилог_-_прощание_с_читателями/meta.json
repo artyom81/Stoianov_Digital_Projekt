@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-02-28",
+  "order": 7,
+  "article_id": 3738,
+  "title_link": "Эпилог - прощание с читателями.",
+  "title_h1": "Buzz 01 - Эпилог - прощание с читателями.",
+  "print_url": "https://zxpress.ru/print.php?id=3738",
+  "article_url": "https://zxpress.ru/article.php?id=3738",
+  "fetched_at": "2026-05-31T21:47:12Z"
+}

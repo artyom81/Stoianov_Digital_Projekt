@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1995-11-21",
+  "order": 1,
+  "article_id": 96,
+  "title_link": "WANTED - реклама и поиск программ для спектрума.",
+  "title_h1": "Lime Tree 01 - WANTED - реклама и поиск программ для спектрума.",
+  "print_url": "https://zxpress.ru/print.php?id=96",
+  "article_url": "https://zxpress.ru/article.php?id=96",
+  "fetched_at": "2026-05-31T22:19:01Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 2995,
+    "article_url": "https://zxpress.ru/article.php?id=2995",
+    "print_url": "https://zxpress.ru/print.php?id=2995",
+    "title_link": "Лит.страничка - Песень бардов: цена вина (пародийная новелла по игре \"The Bard's Tale\")",
+    "order": 1,
+    "issue_label": "43",
+    "short_slug": "Литстраничка_-_Песень_бардов_цена_вина_пародииная_новелла_по"
+  },
+  {
+    "article_id": 2993,
+    "article_url": "https://zxpress.ru/article.php?id=2993",
+    "print_url": "https://zxpress.ru/print.php?id=2993",
+    "title_link": "Новости - О новинках ПО: A Last Hero of the Light, Gambit, Пыль звездных дорог, Dimond Mail Editor, ZX-Power 3, Oberon 5, Voyager 2.",
+    "order": 2,
+    "issue_label": "43",
+    "short_slug": "Новости_-_О_новинках_ПО_A_Last_Hero_of_the_Light_Gambit_Пыль"
+  },
+  {
+    "article_id": 2991,
+    "article_url": "https://zxpress.ru/article.php?id=2991",
+    "print_url": "https://zxpress.ru/print.php?id=2991",
+    "title_link": "От редакции - Выход еженедельной газеты.",
+    "order": 3,
+    "issue_label": "43",
+    "short_slug": "От_редакции_-_Выход_еженедельнои_газеты"
+  },
+  {
+    "article_id": 2996,
+    "article_url": "https://zxpress.ru/article.php?id=2996",
+    "print_url": "https://zxpress.ru/print.php?id=2996",
+    "title_link": "Реклама - Объявления и реклама.",
+    "order": 4,
+    "issue_label": "43",
+    "short_slug": "Реклама_-_Объявления_и_реклама"
+  },
+  {
+    "article_id": 2992,
+    "article_url": "https://zxpress.ru/article.php?id=2992",
+    "print_url": "https://zxpress.ru/print.php?id=2992",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 5,
+    "issue_label": "43",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  },
+  {
+    "article_id": 2994,
+    "article_url": "https://zxpress.ru/article.php?id=2994",
+    "print_url": "https://zxpress.ru/print.php?id=2994",
+    "title_link": "Эхо конференции - Моя твоя понимай.",
+    "order": 6,
+    "issue_label": "43",
+    "short_slug": "Эхо_конференции_-_Моя_твоя_понимаи"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 2940,
+    "article_url": "https://zxpress.ru/article.php?id=2940",
+    "print_url": "https://zxpress.ru/print.php?id=2940",
+    "title_link": "Oт редакции - Первый блин - слегка комковатый.",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "Oт_редакции_-_Первыи_блин_-_слегка_комковатыи"
+  },
+  {
+    "article_id": 2945,
+    "article_url": "https://zxpress.ru/article.php?id=2945",
+    "print_url": "https://zxpress.ru/print.php?id=2945",
+    "title_link": "Scorpion - О новых разработках для компьютера Скорпион.",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "Scorpion_-_О_новых_разработках_для_компьютера_Скорпион"
+  },
+  {
+    "article_id": 2946,
+    "article_url": "https://zxpress.ru/article.php?id=2946",
+    "print_url": "https://zxpress.ru/print.php?id=2946",
+    "title_link": "Музыка - Музыка в жизни компьютерщика.",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Музыка_-_Музыка_в_жизни_компьютерщика"
+  },
+  {
+    "article_id": 2944,
+    "article_url": "https://zxpress.ru/article.php?id=2944",
+    "print_url": "https://zxpress.ru/print.php?id=2944",
+    "title_link": "Опечатка - Vicomm-совместимый модем от FLASH'a ???\r\n Краткое пояснение возможности скоростей,больших 3200 бод на\r\n Vicomm-модеме.",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Опечатка_-_Vicomm-совместимыи_модем_от_FLASHa_Краткое_поясне"
+  },
+  {
+    "article_id": 2943,
+    "article_url": "https://zxpress.ru/article.php?id=2943",
+    "print_url": "https://zxpress.ru/print.php?id=2943",
+    "title_link": "Процессоры - Хитрые процессоры или программы , которые стабильно , в одном и том же месте \"зависают\".",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "Процессоры_-_Хитрые_процессоры_или_программы_которые_стабиль"
+  },
+  {
+    "article_id": 2942,
+    "article_url": "https://zxpress.ru/article.php?id=2942",
+    "print_url": "https://zxpress.ru/print.php?id=2942",
+    "title_link": "Сетевые новости - Правила эхи BBS.INFO",
+    "order": 6,
+    "issue_label": "36",
+    "short_slug": "Сетевые_новости_-_Правила_эхи_BBSINFO"
+  },
+  {
+    "article_id": 2941,
+    "article_url": "https://zxpress.ru/article.php?id=2941",
+    "print_url": "https://zxpress.ru/print.php?id=2941",
+    "title_link": "Список BBS - Сетевой гейт. Список BBS.",
+    "order": 7,
+    "issue_label": "36",
+    "short_slug": "Список_BBS_-_Сетевои_геит_Список_BBS"
+  },
+  {
+    "article_id": 2947,
+    "article_url": "https://zxpress.ru/article.php?id=2947",
+    "print_url": "https://zxpress.ru/print.php?id=2947",
+    "title_link": "Юмор - Это было на самом деле.",
+    "order": 8,
+    "issue_label": "36",
+    "short_slug": "Юмор_-_Это_было_на_самом_деле"
+  }
+]

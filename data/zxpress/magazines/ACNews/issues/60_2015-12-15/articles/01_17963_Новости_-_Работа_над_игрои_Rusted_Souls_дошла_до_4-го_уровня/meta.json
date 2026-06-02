@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "60",
+  "issue_date_iso": "2015-12-15",
+  "order": 1,
+  "article_id": 17963,
+  "title_link": "Новости - Работа над игрой Rusted Souls дошла до 4-го уровня, я сделал автоматическую определялку модели Спектрума, сделали поддержку цифрового звука в Pro Tracker 3.x",
+  "title_h1": "ACNews 60 - Новости - Работа над игрой Rusted Souls дошла до 4-го уровня, я сделал автоматическую определялку модели Спектрума, сделали поддержку цифрового звука в Pro Tracker 3.x",
+  "print_url": "https://zxpress.ru/print.php?id=17963",
+  "article_url": "https://zxpress.ru/article.php?id=17963",
+  "fetched_at": "2026-05-31T21:31:38Z"
+}

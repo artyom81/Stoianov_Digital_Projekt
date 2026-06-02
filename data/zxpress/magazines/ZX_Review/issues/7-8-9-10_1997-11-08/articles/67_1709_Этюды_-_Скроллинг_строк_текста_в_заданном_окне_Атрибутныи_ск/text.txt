@@ -1,0 +1,382 @@
+ZX Review 7-8-9-10 - Этюды - Скроллинг строк текста в заданном окне. Атрибутный скроллер. Диагональный скроллинг.
+(c) Командин И.Г., г.Калуга
+Хочу предложить на ваше  рас-
+смотрение  свои  программки, над
+которыми  я  работал   последнее
+время.
+1.
+Эта  программа   выполняет
+скроллинг в заданном окне  целых
+строк текста (словом, как в тит-
+рах к фильмам).
+144.
+10 ;UP-SCROLLER
+20 ;(C) ZX-MANIACS
+30        ORG     40000
+40        ENT
+50 INIT   LD      HL,TEXT
+60        LD      (TEXTP),HL
+70 SCROLL LD      HL,(TEXTP)
+80        XOR     A
+90        LD      (LINE),A
+100       LD      A,(HL)
+110       OR      A
+120       JR      Z,INIT
+130       LD      B,8
+140 M1    PUSH    BC
+150       PUSH    HL
+160       LD      DE,22506
+170       LD      B,12
+180 M2    PUSH    HL
+190       LD      A,(HL)
+200       LD      H,0
+210       LD      L,A
+220       ADD     HL,HL
+230       ADD     HL,HL
+240       ADD     HL,HL
+250       PUSH    DE
+260       LD      DE,(23606)
+270       ADD     HL,DE
+280       LD      A,(LINE)
+290       LD      D,0
+300       LD      E,A
+310       ADD     HL,DE
+320       POP     DE
+330       LD      A,HL
+340       LD      (DE),A
+350       INC     DE
+360       POP     HL
+370       INC     HL
+380       DJNZ    M2
+390       CALL    SRL_UP
+400       POP     HL
+410       POP     BC
+420       LD      A,(LINE)
+430       INC     A
+440       LD      (LINE),A
+450       DJNZ    M1
+460       LD      HL,(TEXTP)
+470       LD      DE,12
+480       ADD     HL,DE
+490       LD      (TEXTP),HL
+500       RET
+510SRL_UP LD      DE,#400A
+520       LD      H,D
+530       LD      L,E
+540       INC     H
+550       LD      BC,#0CBF
+560 UPS1  PUSH    BC
+570       PUSH    HL
+580 UPS2  LD      A,(HL)
+590       LD      (DE),A
+600       INC     HL
+610       INC     DE
+620       DJNZ    UPS2
+630       POP     DE
+640       LD      H,D
+650       LD      L,E
+660       INC     H
+670       LD      A,H
+680       AND     7
+690       JR      NZ,NXT_U
+700       LD      BC,#00E0
+710       SBC     HL,BC
+720       LD      A,H
+730       AND     7
+740       JR      Z,NXT_U
+750       LD      BC,#0700
+760       SBC     HL,BC
+770 NXT_U POP     BC
+780       DEC     C
+790       RET     Z
+800       JR      UPS1
+810 LINE  DEFB    0
+820 TEXTP DEFW    TEXT
+830 TEXT  DEFM    "**** UP ****"
+840       DEFM    "* SCROLLER *"
+850       DEFM    "*IS WRITTEN*"
+860       DEFM    "**** BY ****"
+870       DEFM    "* KOMANDIN *"
+880       DEFM    "*** ILYA ***"
+890       DEFM    "*ZX-MANIACS*"
+900       DEFM    "*****  *****"
+910       DEFM    "            "
+920       DEFM    "            "
+930       DEFM    "            "
+940       DEFB    0
+2
+   Теперь  расскажу  о  том, как
+изменить окно вывода.  В  строке
+160 задается адрес нижнего лево-
+го  угла  окна, в  строке  510 -
+верхнего левого. Ширина окна за-
+дается в строках 170  и  480  (в
+знакоместах). В строке 550 в ре-
+гистр B заносится ширина окна (в
+знакоместах), а  в  регистр  C -
+высота   окна-1  (в   пикселах).
+Текст программа считывает из па-
+мяти по  строкам, равным  ширине
+окна, так что и заносить его ту-
+да надо таким же образом.
+   В программе почти без измене-
+ний используется процедура Кули-
+кова Вадима  SRL_UP (строки 510-
+800  ZX-РЕВЮ N3'96, стр.34).  По
+ходу дела в  вышеназванной  про-
+цедуре  нашлась  одна  ошибочка.
+Строка 60 должна выглядеть  сле-
+дующим образом:
+LD      BC,#20BF
+иначе на экран вытягивается пер-
+вая строка из области атрибутов.
+2.
+Следующая программа - нес-
+колько экстравагантный  атрибут-
+ный скроллер  ("поставленный  на
+попа").
+140.
+INIT      LD      HL,TEXT
+          LD      (TEXTP),HL
+          LD      HL,BUFF
+          LD      DE,BUFF+1
+          LD      BC,7
+          LD      (HL),0
+          LDIR
+          XOR     A
+          LD      (COL),A
+          LD      A,48
+          LD      (COLOUR),A
+SCROLL    LD      A,(COL)
+          OR      A
+          JR      Z,LDIRB
+          LD      HL,22528   ;!
+          LD      DE,22529   ;!!
+          LD      BC,7
+          LD      (HL),0
+          LDIR
+          LD      B,8
+          LD      DE,22528   ;!
+          LD      HL,BUFF
+L1        AND     A
+          SLA     (HL)
+          JR      NC,NEXT
+          LD      A,(COLOUR)
+          LD      (DE),A
+NEXT      INC     HL
+          INC     DE
+          DJNZ    L1
+          LD      B,23    ;!!!!!
+          LD      HL,23232;!!!!
+          LD      DE,23264;!!!
+L2        PUSH    BC
+          PUSH    HL
+          PUSH    DE
+          LD      BC,8
+          LDIR
+          POP     DE
+          POP     HL
+          LD      D,H
+          LD      E,L
+          LD      BC,32
+          SBC     HL,BC
+          POP     BC
+          DJNZ    L2
+
+          LD      A,(COL)
+          DEC     A
+          LD      (COL),A
+          RET
+LDIRB     LD      A,8
+          LD      (COL),A
+          LD      HL,(TEXTP)
+          LD      A,(HL)
+          OR      A
+          JR      Z,INIT
+          INC     HL
+          LD      (TEXTP),HL
+          CP      16
+          JR      NZ,PASS
+          LD      A,(HL)
+          LD      (COLOUR),A
+          INC     HL
+          LD      (TEXTP),HL
+          JR      LDIRB
+PASS      LD      H,0
+          LD      L,A
+          ADD     HL,HL
+          ADD     HL,HL
+          ADD     HL,HL
+          LD      DE,(23606)
+          ADD     HL,DE
+          LD      DE,BUFF
+          LD      BC,8
+          LDIR
+          JR      SCROLL
+
+BUFF    DEFS 8
+COL     DEFB 0
+COLOUR  DEFB 48
+TEXTP   DEFW TEXT
+TEXT    DEFB 16,120,127,32,16,16
+        DEFM "ZX-MANIACS "
+        DEFB 16,32
+        DEFM "(KALUGA'"
+        DEFB 16,48
+3        DEFM "1996"
+        DEFB 16,32
+        DEFM ")                "
+        DEFB 0
+2
+   Как всегда, о том, как менять
+окно вывода скроллера. В строки,
+помеченные восклицательным  зна-
+ком, надо занести  адрес  в  об-
+ласти атрибутов, соответствующий
+верхнему  левому  углу  окна.  В
+строку с двумя  восклицательными
+знаками  надо  внести  адрес  на
+единицу больший. В строку с тре-
+мя знаками - адрес нижнего лево-
+го угла окна, в строку с четырь-
+мя знаками - адрес, на 32 меньше
+предыдущего. В строку же с пятью
+восклицательными  знаками  зано-
+сится высота окна  (в  знакомес-
+тах).
+   Вы можете по ходу строки  ме-
+нять цвет  выводимых  атрибутов.
+Для этого  в  текст  вставляется
+код 16, а за ним значение  необ-
+ходимого атрибута. Значение это,
+как  известно,  вычисляется   по
+формуле
+FLASH*128+BRIGHT*64+PAPER*8+INK
+Только не забудьте, что  в  этом
+скролле цвет букв - это PAPER, а
+цвет фона - INK.
+3.
+Данная  программа  -  диа-
+гональный  скроллинг.  Точнее  -
+псевдодиагональный  (не  как   у
+IWAMOTO  в  STEG'е), но смотрит-
+ся тоже неплохо. Правда, советую
+специально для SCROLL'а  сделать
+знакогенератор с удлиненной вер-
+хней частью (когда символ  зани-
+мает в высоту  семь  пикселов, и
+пустой  в  знакоместе   остается
+только нижняя строка).
+140.
+INIT      LD      HL,TEXT
+          LD      (TEXTP),HL
+          XOR     A
+          LD      (COL),A
+          LD      HL,BUFF
+          LD      DE,BUFF+1
+          LD      BC,7
+          LD      (HL),0
+          LDIR
+SCROLL    LD      A,(COL)
+          OR      A
+          JR      NZ,LDIRB
+          XOR     A
+          LD      HL,BUFF
+          LD      DE,22523
+          LD      B,8
+M1        SLA     (HL)
+          RRA
+          INC     HL
+          DJNZ    M1
+          LD      (DE),A
+          LD      HL,16389
+          LD      B,24
+M2        PUSH    BC
+          LD      B,8
+M3        LD      D,H
+          LD      E,L
+          CALL    DOWN
+          PUSH    HL
+          PUSH    DE
+          LD      A,(HL)
+          SLA     A
+          LD      (DE),A
+          DEC     HL
+          DEC     DE
+          LD      A,(HL)
+          RLA
+          LD      (DE),A
+          DEC     HL
+          DEC     DE
+          LD      A,(HL)
+          RLA
+          LD      (DE),A
+          POP     DE
+          POP     HL
+          DJNZ    M3
+          POP     BC
+          INC     HL
+          DJNZ    M2
+          LD      A,(COL)
+          DEC     A
+          LD      (COL),A
+          LD      HL,22522
+          LD      DE,22523
+          LD      BC,2
+          LD      (HL),0
+          LDIR
+          RET
+LDIRB     LD      HL,(TEXTP)
+          LD      A,(HL)
+          OR      A
+          JR      Z,INIT
+          INC     HL
+          LD      (TEXTP),HL
+          LD      H,0
+          LD      L,A
+          ADD     HL,HL
+          ADD     HL,HL
+          ADD     HL,HL
+          LD      DE,(23606)
+          ADD     HL,DE
+          LD      DE,BUFF
+          LD      BC,8
+          LDIR
+          LD      A,8
+          LD      (COL),A
+          JR      SCROLL
+COL    DEFB 0
+BUFF   DEFS 8
+TEXTP  DEFW TEXT
+TEXT   DEFM "45 - ANGLE SCROLL "
+       DEFM "IS WRITTEN BY "
+       DEFM "KOMANDIN ILYA "
+       DEFM "(ZX-MANIACS) "
+3       DEFM "KALUGA' 1996"
+       DEFM "                  "
+       DEFM "                  "
+       DEFB 0
+2
+   Эта программа довольно  замо-
+рочена и не делает никаких  про-
+верок, так что  лучше  ничего  в
+ней не менять. Кстати, необходи-
+мо оставлять по бокам от бегущей
+строки пустоту шириной в  знако-
+место, т.к. скроллируется полоса
+шириной в три знакоместа.
+   Ну и  напоследок  о  том, как
+запускать эти программы. В прин-
+ципе, для всех трех подходит од-
+на и та же процедура:
+140.
+          CALL    INIT
+LOOP      HALT
+          CALL    SCROLL
+          LD      A,127
+          IN      A,(254)
+          RRA
+          JR      C,LOOP
+          RET2
+
+           *   *   *

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 67,
+  "magazine_name": "Energy",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1997-05-29",
+  "order": 6,
+  "article_id": 3883,
+  "title_link": "Металлургия - Схама Разгон Байта v1.0.",
+  "title_h1": "Energy 05 - Металлургия - Схама Разгон Байта v1.0.",
+  "print_url": "https://zxpress.ru/print.php?id=3883",
+  "article_url": "https://zxpress.ru/article.php?id=3883",
+  "fetched_at": "2026-05-31T22:02:21Z"
+}

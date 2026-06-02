@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 16535,
+    "article_url": "https://zxpress.ru/article.php?id=16535",
+    "print_url": "https://zxpress.ru/print.php?id=16535",
+    "title_link": "Сеть - Список BBS: ZX-Net 095, 3D-Net, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Сеть_-_Список_BBS_ZX-Net_095_3D-Net_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16536,
+    "article_url": "https://zxpress.ru/article.php?id=16536",
+    "print_url": "https://zxpress.ru/print.php?id=16536",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16537,
+    "article_url": "https://zxpress.ru/article.php?id=16537",
+    "print_url": "https://zxpress.ru/print.php?id=16537",
+    "title_link": "Игрушки - STAR CONTROL.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Игрушки_-_STAR_CONTROL"
+  },
+  {
+    "article_id": 16538,
+    "article_url": "https://zxpress.ru/article.php?id=16538",
+    "print_url": "https://zxpress.ru/print.php?id=16538",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16539,
+    "article_url": "https://zxpress.ru/article.php?id=16539",
+    "print_url": "https://zxpress.ru/print.php?id=16539",
+    "title_link": "От авторов - Редакция.",
+    "order": 5,
+    "issue_label": "03",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]

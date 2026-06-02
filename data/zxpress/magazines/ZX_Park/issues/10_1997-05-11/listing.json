@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13378,
+    "article_url": "https://zxpress.ru/article.php?id=13378",
+    "print_url": "https://zxpress.ru/print.php?id=13378",
+    "title_link": "Введение - Начала свою работу модемная связь по радиосети.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Введение_-_Начала_свою_работу_модемная_связь_по_радиосети"
+  },
+  {
+    "article_id": 13379,
+    "article_url": "https://zxpress.ru/article.php?id=13379",
+    "print_url": "https://zxpress.ru/print.php?id=13379",
+    "title_link": "Обзор - новые программные продукты, поступившие за прошедшую неделю.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Обзор_-_новые_программные_продукты_поступившие_за_прошедшую"
+  },
+  {
+    "article_id": 13380,
+    "article_url": "https://zxpress.ru/article.php?id=13380",
+    "print_url": "https://zxpress.ru/print.php?id=13380",
+    "title_link": "Хит-Парад - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Хит-Парад_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13381,
+    "article_url": "https://zxpress.ru/article.php?id=13381",
+    "print_url": "https://zxpress.ru/print.php?id=13381",
+    "title_link": "Проходилка - описание игры\r\n \"ВИННИ-ПУХ\" фирмы SOFTLAND.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Проходилка_-_описание_игры_ВИННИ-ПУХ_фирмы_SOFTLAND"
+  },
+  {
+    "article_id": 13382,
+    "article_url": "https://zxpress.ru/article.php?id=13382",
+    "print_url": "https://zxpress.ru/print.php?id=13382",
+    "title_link": "Юмор - АНЕКДОТЫ ПРО ШТИРЛИЦА.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Юмор_-_АНЕКДОТЫ_ПРО_ШТИРЛИЦА"
+  },
+  {
+    "article_id": 13383,
+    "article_url": "https://zxpress.ru/article.php?id=13383",
+    "print_url": "https://zxpress.ru/print.php?id=13383",
+    "title_link": "Реклама - Продается усилитель \"Электроника-10\".",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Продается_усилитель_Электроника-10"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "72",
+  "issue_date_iso": "2018-11-19",
+  "order": 2,
+  "article_id": 18521,
+  "title_link": "News - In September, Nikolay Grivin came to my job, and I started to\r\nteach him assembler.",
+  "title_h1": "ACNews 72 - News - In September, Nikolay Grivin came to my job, and I started to teach him assembler.",
+  "print_url": "https://zxpress.ru/print.php?id=18521",
+  "article_url": "https://zxpress.ru/article.php?id=18521",
+  "fetched_at": "2026-05-31T21:32:12Z"
+}

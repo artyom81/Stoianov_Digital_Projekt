@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 6348,
+    "article_url": "https://zxpress.ru/article.php?id=6348",
+    "print_url": "https://zxpress.ru/print.php?id=6348",
+    "title_link": "Вступление - эпиграф и содержание номера.",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "Вступление_-_эпиграф_и_содержание_номера"
+  },
+  {
+    "article_id": 6349,
+    "article_url": "https://zxpress.ru/article.php?id=6349",
+    "print_url": "https://zxpress.ru/print.php?id=6349",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6350,
+    "article_url": "https://zxpress.ru/article.php?id=6350",
+    "print_url": "https://zxpress.ru/print.php?id=6350",
+    "title_link": "Железо - обзор микропроцессора Zilog Z380, продолжение.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Железо_-_обзор_микропроцессора_Zilog_Z380_продолжение"
+  },
+  {
+    "article_id": 6351,
+    "article_url": "https://zxpress.ru/article.php?id=6351",
+    "print_url": "https://zxpress.ru/print.php?id=6351",
+    "title_link": "Программирование - курс изучения ассемблера от Wlodek Black, продолжение. Организация памяти.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Программирование_-_курс_изучения_ассемблера_от_Wlodek_Black"
+  },
+  {
+    "article_id": 6352,
+    "article_url": "https://zxpress.ru/article.php?id=6352",
+    "print_url": "https://zxpress.ru/print.php?id=6352",
+    "title_link": "Юмор - анекдоты.",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6353,
+    "article_url": "https://zxpress.ru/article.php?id=6353",
+    "print_url": "https://zxpress.ru/print.php?id=6353",
+    "title_link": "Юмор - Малая Энциклопедия компьютерных существ, К.Антонов и Maverick, продолжение.",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Малая_Энциклопедия_компьютерных_существ_КАнтонов_и_Ma"
+  },
+  {
+    "article_id": 6354,
+    "article_url": "https://zxpress.ru/article.php?id=6354",
+    "print_url": "https://zxpress.ru/print.php?id=6354",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "20",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6355,
+    "article_url": "https://zxpress.ru/article.php?id=6355",
+    "print_url": "https://zxpress.ru/print.php?id=6355",
+    "title_link": "Юмор - Государственный мужчина, история.",
+    "order": 8,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_Государственныи_мужчина_история"
+  },
+  {
+    "article_id": 6356,
+    "article_url": "https://zxpress.ru/article.php?id=6356",
+    "print_url": "https://zxpress.ru/print.php?id=6356",
+    "title_link": "Юмор - 1001 вопрос про ЭТО.",
+    "order": 9,
+    "issue_label": "20",
+    "short_slug": "Юмор_-_1001_вопрос_про_ЭТО"
+  },
+  {
+    "article_id": 6357,
+    "article_url": "https://zxpress.ru/article.php?id=6357",
+    "print_url": "https://zxpress.ru/print.php?id=6357",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 10,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6358,
+    "article_url": "https://zxpress.ru/article.php?id=6358",
+    "print_url": "https://zxpress.ru/print.php?id=6358",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 11,
+    "issue_label": "20",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

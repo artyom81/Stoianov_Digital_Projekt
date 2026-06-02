@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "66",
+  "issue_date_iso": "2017-02-06",
+  "order": 6,
+  "article_id": 18513,
+  "title_link": "Power consumption of household devices and computers",
+  "title_h1": "ACNews 66 - Power consumption of household devices and computers",
+  "print_url": "https://zxpress.ru/print.php?id=18513",
+  "article_url": "https://zxpress.ru/article.php?id=18513",
+  "fetched_at": "2026-05-31T21:31:56Z"
+}

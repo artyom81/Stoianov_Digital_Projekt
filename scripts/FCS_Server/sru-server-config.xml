@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoint-config xmlns="http://www.clarin.eu/sru-server/1.0/">
+    <databaseInfo>
+        <title xml:lang="de" primary="true">Diskmags Korpus ZX-Press</title>
+        <title xml:lang="en">ZX Press Corpus</title>
+        <description xml:lang="de" primary="true">Korpus russischsprachiger ZX-Spectrum-Diskmags.</description>
+        <description xml:lang="en">corpus of Russian-language ZX Spectrum diskmags.</description>
+        <author xml:lang="en">Artem Stoianov</author>
+        <author xml:lang="de" primary="true">Artem Stoianov</author>
+    </databaseInfo>
+
+    <indexInfo>
+        <set name="fcs" identifier="http://clarin.eu/fcs/resource">
+            <title xml:lang="en" primary="true">CLARIN Content Search</title>
+        </set>
+        <index search="true" scan="false" sort="false">
+            <title xml:lang="en" primary="true">Text</title>
+            <map primary="true">
+                <name set="fcs">text</name>
+            </map>
+        </index>
+    </indexInfo>
+
+    <schemaInfo>
+        <schema identifier="http://clarin.eu/fcs/resource" name="fcs"
+                sort="false" retrieve="true">
+            <title xml:lang="en" primary="true">CLARIN Content Search</title>
+        </schema>
+    </schemaInfo>
+</endpoint-config>

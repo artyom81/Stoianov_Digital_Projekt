@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-03-16",
+  "order": 7,
+  "article_id": 503,
+  "title_link": "Обмен опытом - Программирование на ассемблере: эмуляция команд Clear, Cls, Pause, Plot, Draw ...",
+  "title_h1": "Adventurer 02 - Обмен опытом - Программирование на ассемблере: эмуляция команд Clear, Cls, Pause, Plot, Draw ...",
+  "print_url": "https://zxpress.ru/print.php?id=503",
+  "article_url": "https://zxpress.ru/article.php?id=503",
+  "fetched_at": "2026-05-31T21:32:26Z"
+}

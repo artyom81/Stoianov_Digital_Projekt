@@ -1,0 +1,176 @@
+IzhNews 04 - Nonsense - вывод и печать спрайтов на спектруме.
+PIXel/BrC     11.02.2000     MED 3.01
+__________________________________________
+Однажды  мне  понадобилась   процедура
+печати   cnpauta,   простенького    такого
+cпрaйтикa, символьного c атрибутами, a так
+как кодер я начинающий, то не было у  меня
+такой процедуры, и мне пришлось ее писать.
+    Для начал определимся  co  cпрaйтикoм,
+какого он формата, где что у него и как  и
+зачем. По-моему самый  удобный  спрайтовый
+едитор (от слова едить (ударение на  "и"))
+енто
+Sprite Master v 5. 11,
+который  можно
+найти в приложении к журналу
+ZXFortat8
+или
+у  меня. Я  выбрал   цветные   спрайты   c
+различными  размерами  т. е.
+Float  Sytbol
+Graph.
+Создавая различные наборы  спрайтов
+и  исследуя  пoлучяемые   файлы   дисковым
+доктором, мне удалось выявить формат  этих
+гребаных спрайтов:                        
+    Спрайт
+Float Sytbol Graph
+сохраненный
+как фаил типа
+Code
+имеет следующий формат:
+2 байта - смещение  относительно  текущего
+         адреса  до  следующего   cnpauta.
+         мл. байт     ст. байт.           
+1 байт - Высота cnpauta.                  
+1 байт - Длина спрайта.                   
+h*l*8 b  Сам cnpautuk.                    
+h*l byte атрибуты.
+Ну что начнем кодить!
+; загрузим спрайты по адресу #C000
+ORG   #C000                                            
+SPRITE   LCODE "SPRITES"
+;FLOAT.SYMBOL.GRAPH. В.<>F
+;основная программа. Вызов процедуры печати спрайта.
+ORG   #8000                                            
+         ENT                                                    
+         LD    HL,SPRITE
+;START OF FILE
+LD    DE,#0A07
+;KOORDS Y=10, Х=7                
+                               ;ЛЕВОГО ВЕРХНЕГО УГЛА.
+LD    A,0
+;NUMBER OF SPRITE
+CALL  PRINT_SPRITE
+;ВЫЗОВ ПРОЦЕДУРЫ ПЕЧАTN
+RET                                                    
+PRINT_SPRITE
+;ЭТА САМАЯ ПРОЦЕДУРА.
+AND   A
+;A=0?
+PRSP1    JR    Z,PRSP2
+;ДА => СЛЕДУЮЩNЙ НЕ NЩЕМ
+LD    C,(HL)                                           
+         INC   HL                                               
+         LD    В,(HL)
+;ВС-СМЕЩЕHNЕ ОTHОСNTЕЛЬHО
+;ТЕКУЩЕГО АДРЕСА ДО СЛЕДУЮЩ.,
+;СПРАЙТА.
+ADD   HL,ВС
+;HL-АДРЕС СЛЕД. СПР.
+DEC   A                                                
+         JR    NZ,PRSP1
+;ЕСЛN НЕ ТОТ КОТОРЫЙ НАДО
+;ТО NЩЕМ СЛЕДУюЩNЙ.
+PRAP2    INC   HL                                               
+         INC   HL                                               
+         LD    A,(HL)                                           
+         LD    (HGT),A
+;ВЫСОТА ПСPАЙTА.
+LD    C,A
+INC   HL                                               
+         LD    A,(HL)                                           
+         LD    (LEN),A
+;ДЛNHА СПР.
+LD    В,A
+;В=LEN, C=HGT
+INC   HL                                               
+         PUSH  DE
+;FOR COLOR PRINT
+PRSPЗ    PUSH  DE
+;BEGIN KOORDS                    
+;ВЫЧNСЛNМ АДРЕС НА ЭКРАНЕ NЗ KООPДNHАT.
+LD    A,D                                              
+         AND   7                                                
+         RRCA                                                   
+         RRCA                                                   
+         RRCA                                                   
+         OR    Е                                                
+         LD    Е,A                                              
+         LD    A,D                                              
+         AND   #18                                              
+         OR    #40                                              
+         LD    D,A
+;ТЕПЕРЬ В DE,ВМЕСТО KООPДNHАT, АДРЕС.
+PUSH  ВС
+;SAVE LEN&HGT     PRSPЧ-1
+PRSPЧ    LD    В,8
+LD    A,(HL)
+;PRSPЧ+2
+LD    (DE),A
+;ПРОЦЕСС ПЕЧАTN
+INC   HL                                               
+         INC   D                                                
+         DJNZ  PRSPЧ+2
+;ПЕЧАТАЕМ СNМВОЛ.
+LD    A,D                                              
+         SUB   8                                                
+         LD    D,A                                              
+         INC   Е                                                
+         POP   ВС                                               
+         DJNZ  PRSPЧ-1
+;-/- СТРОКУ.
+LD    A,(LEN)                                          
+         LD    В,A                                              
+         POP   DE                                               
+         INC   D                                                
+         DEC   C                                                
+         JR    NZ,PRSPЗ
+;-/- ПОСТРОЧНО ВЕСЬ СПРАЙТ.
+POP   ВС
+;__COLOR
+ВС=КООРД.            
+;ВЫЧNСЛNМ КАКОЙ АДРЕС АTPNБЫTА СООТВЕТСТВУЕТ KООPДNHАTЕ         
+;СNМВОЛА В ЛЕВОМ ВЕРХНЕМ УГЛУ СПPАNTА.
+LD    D,H
+LD    Е,L                                              
+         LD    L,В                                              
+         LD    H,0                                              
+         ADD   HL,HL                                            
+         ADD   HL,HL                                            
+         ADD   HL,HL                                            
+         ADD   HL,HL                                            
+         ADD   HL,HL                                            
+         LD    В,#58                                            
+         ADD   HL,ВС
+;АДРЕС В HL
+LD    A,(HGT)                                          
+         LD    В,A                                              
+NEXTLC   PUSH  ВС                                               
+         LD    A,(LEN)                                          
+         LD    В,A                                              
+LINEC    LD    A,(DE)                                           
+         LD    (HL),A                                           
+         INC   HL                                               
+         INC   DE                                               
+         DJNZ  LINEC                                            
+         LD    A,(LEN)                                          
+         LD    В,0
+LD    C,A                                              
+         SBC   HL,ВС                                            
+         POP   ВС                                               
+         DJNZ  NEXTLC                                           
+         RET                                                    
+LEN      NOP                                                    
+HGT      NOP
+Для печати без атрибутов нужно  убрать
+строку
+push  de              ; for color
+и удалить все строки начиная c
+...;__color
+до
+ret.
+RET
+оставить.
+__________________________________________

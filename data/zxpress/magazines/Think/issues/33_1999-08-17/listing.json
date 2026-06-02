@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 4320,
+    "article_url": "https://zxpress.ru/article.php?id=4320",
+    "print_url": "https://zxpress.ru/print.php?id=4320",
+    "title_link": "От автора - Время близится к осени...",
+    "order": 1,
+    "issue_label": "33",
+    "short_slug": "От_автора_-_Время_близится_к_осени"
+  },
+  {
+    "article_id": 4321,
+    "article_url": "https://zxpress.ru/article.php?id=4321",
+    "print_url": "https://zxpress.ru/print.php?id=4321",
+    "title_link": "Новости - Близится к концу работа над созданием CD-диска.",
+    "order": 2,
+    "issue_label": "33",
+    "short_slug": "Новости_-_Близится_к_концу_работа_над_созданием_CD-диска"
+  },
+  {
+    "article_id": 4322,
+    "article_url": "https://zxpress.ru/article.php?id=4322",
+    "print_url": "https://zxpress.ru/print.php?id=4322",
+    "title_link": "Проходилка - Piggy.",
+    "order": 3,
+    "issue_label": "33",
+    "short_slug": "Проходилка_-_Piggy"
+  },
+  {
+    "article_id": 4323,
+    "article_url": "https://zxpress.ru/article.php?id=4323",
+    "print_url": "https://zxpress.ru/print.php?id=4323",
+    "title_link": "Обзор Lines - Обзор различных вариантов игры Lines.",
+    "order": 4,
+    "issue_label": "33",
+    "short_slug": "Обзор_Lines_-_Обзор_различных_вариантов_игры_Lines"
+  },
+  {
+    "article_id": 4324,
+    "article_url": "https://zxpress.ru/article.php?id=4324",
+    "print_url": "https://zxpress.ru/print.php?id=4324",
+    "title_link": "Paradox - Рассказ о втором дне.",
+    "order": 5,
+    "issue_label": "33",
+    "short_slug": "Paradox_-_Рассказ_о_втором_дне"
+  },
+  {
+    "article_id": 4325,
+    "article_url": "https://zxpress.ru/article.php?id=4325",
+    "print_url": "https://zxpress.ru/print.php?id=4325",
+    "title_link": "Операция \"Выродок в космосе\" - Юмористический рассказ.",
+    "order": 6,
+    "issue_label": "33",
+    "short_slug": "Операция_Выродок_в_космосе_-_Юмористическии_рассказ"
+  },
+  {
+    "article_id": 4326,
+    "article_url": "https://zxpress.ru/article.php?id=4326",
+    "print_url": "https://zxpress.ru/print.php?id=4326",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 7,
+    "issue_label": "33",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4327,
+    "article_url": "https://zxpress.ru/article.php?id=4327",
+    "print_url": "https://zxpress.ru/print.php?id=4327",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 8,
+    "issue_label": "33",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

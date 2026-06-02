@@ -1,0 +1,659 @@
+Voyager 03 - Лаборатория - интро POORGUY! - изнутри (исходный текст с комментариями).
+(C) SIV BLADER/EXCESS TEAM
+Music: 'CROON' /13.10.98 (:-<>)/KENOTRON
+───────────────────────────────────────────────────
+╔══════════════════════╗ 
+           ║                  ║ 
+           ║
+"POORGUY"
+изнутри
+║ 
+           ║                  ║ 
+           ╚══════════════════════╝
+PLOTTAB
+EQU  #7C00
+;адрес киловой таблички 
+                   ;для рисования точки
+PLT
+EQU  #7C
+;старшой байт таблички
+ORG  #6000 
+
+        CALL MKTABPL
+;криэйтим табличку 
+                     ;для вывода точки
+CALL MAKE_CLS
+;расворачиваем 
+                      ;"фастер" для 
+                      ;быстрого CLS
+;*Begin of IM2_HANDLER PREPARATION*
+LD   HL,#7A00 
+        LD   DE,#7A01 
+        LD   BC,#100 
+        LD   A,#7B 
+        LD   (HL),A 
+        LDIR 
+
+        DEC  A 
+        LD   I,A 
+        IM   2 
+
+        LD   HL,#C9FB 
+        LD   (#7B7B),HL
+;*End of IM2_HANDLER PREPARATION**
+;*Begin of Tree Multu-Shifting **
+; эта часть кода делает буквально следующее: 
+; из одного массива точек, которые являются конца-
+; ми отрезков, которые, в свою очередь, являются
+; линиями и умело изображают деревце, мы делаем
+; еще три массива, которые предствляют собой дере-
+; вья с измененной координатой X. Т.е., когда мы вы-
+; водим по очереди эти 4 дерева, имеем эффект дви-
+; жущегося дерева на бэкграунде.
+LD   DE,TREE3_COOR 
+        PUSH DE 
+        XOR  A 
+        LD   B,4
+MAKE_TREES_L1
+PUSH BC 
+        LD   HL,M0_COOR 
+        LD   BC,59 
+        LDIR 
+
+        DEC  DE 
+        LD   (DE),A 
+        INC  DE 
+
+        POP  BC 
+        DJNZ MAKE_TREES_L1 
+        OUT  (#FE),A 
+
+        POP  HL
+;#7000
+LD   E,0 
+        LD   B,4
+MAKE_TREES_L2
+PUSH BC
+MAKE_TREES_C3
+LD   A,(HL) 
+        AND  A
+;0
+JR   Z,MAKE_TREES_C1 
+        CP   #FF 
+        JR   Z,MAKE_TREES_C31 
+        LD   A,(HL) 
+        SUB  E 
+        LD   (HL),A 
+        INC  HL
+MAKE_TREES_C31
+INC  HL 
+        JR   MAKE_TREES_C3
+MAKE_TREES_C1
+LD   A,E 
+        ADD  A,40 
+        LD   E,A 
+
+        INC  HL 
+
+        POP  BC 
+        DJNZ MAKE_TREES_L2
+;*End of Tree Multu-Shifting **
+;чистим 1 экран
+LD   A,#17 
+        CALL ONOF 
+        CALL CLS 
+        CALL CLS_ATTR
+;чистим 0 экран
+LD   A,#15+#8 
+        CALL ONOF 
+        CALL CLS 
+        CALL CLS_ATTR 
+
+        CALL CHUNK_VISUAL
+;енто и есть 
+                          ;сама интра
+EXIT
+; в общем - выход по законам первой части 
+; марлезонского балета организаторов фантопа...
+:)
+DI 
+
+        LD   A,#10 
+        LD   BC,#7FFD 
+        OUT  (C),A 
+
+        LD   A,#3F 
+        LD   I,A 
+        IM   1 
+
+        LD   HL,#2758 
+        EXX 
+        EI 
+        RET
+;указатель на текущую сцену
+CURENT_SCENE DW SCENE_ARRAY1
+;файл с данными по сценам и
+;экспланатион смотри внутрях файла...
+INCLUDE "SCENEDAT"
+CHUNK_VISUAL
+LD   HL,(CURENT_SCENE) 
+      LD   A,(HL)
+;если содержимое адреса 
+                 ;указываемого указателем
+AND  A
+;на текущую сцену = 0, то 
+                 ;енто не описание сцены, 
+                 ;а маркер конца => выход
+RET  Z
+;из процедуры.
+LD   B,A
+;иначе - это количество 
+                 ;повторений сцены
+INC  HL
+;переходим к следующему 
+                 ;элементу описания сцены, 
+                 ;к кол-ву наборов отрезков 
+                 ;в сцене
+C_V_L1
+PUSH BC 
+      PUSH HL 
+
+      LD   B,(HL)
+;взяли количество наборов 
+                ;отрезков - стока раз 
+                ;будет крутится цикл
+INC  HL
+;переходим к следующему 
+                 ;элементу описания сцены, 
+                 ;к указателю на первый 
+                 ;набор отрезков в сцене
+C_V_L2
+PUSH BC 
+
+      LD   E,(HL)
+;в DE - укузатель на
+INC  HL
+;набор отрезков в
+LD   D,(HL)
+;сцене
+INC  HL
+;переходим к указателю 
+              ;на следующий набор 
+              ;отрезков в сцене
+PUSH HL
+;сохраняем его для 
+              ;дальнейших подвигов
+:)
+PUSH DE
+;LD IX,DE для юзания
+POP  IX
+;IX в параметрах ниже- 
+              ;следующей процедуры
+CALL DRAW_SCENE
+;процедура по ука- 
+                      ;зателю на набор от- 
+                      ;резков в IX строит 
+                      ;этот набор отрезков
+POP  HL
+;цикл прорисовки
+POP  BC
+;всех наборов в от-
+DJNZ C_V_L2
+;резков в сцене
+;после того, как нарисованы все наборы отрезков в
+;сцене, делаем буквально следующее:
+C_V_CH1
+LD   A,#17
+;флажок для пе-
+XOR  %00001010
+;реключения ак-
+LD   (C_V_CH1+1),A
+;тивной и види- 
+                      ;мой видеостраниц.
+CALL ONOF
+;собственно делаем
+HALT
+;отрисованную сцену
+CALL CLS
+;видимой, и зачища- 
+                ;ем другую видеоб- 
+                ;ласть под next frame
+;*****Begin of procedure**********************
+;Вывод в правом нижнем углу экрана спрайта 
+;имитирующего загнутый уголок бымаги.
+;******************************************
+;wywod ugolka
+:-)
+LD   HL,CORNER_SPR 
+      LD   DE,#D4A0+#20-3 
+      LD   B,20
+WYWOD_UGOLKA_L1
+PUSH BC 
+      PUSH DE 
+
+      LD   BC,3 
+      LDIR 
+
+      POP  DE 
+      CALL INCD 
+      POP  BC 
+      DJNZ WYWOD_UGOLKA_L1
+;*****End of procedure***********************
+;Вывод в правом нижнем углу экрана спрайта 
+;имитирующего загнутый уголок бымаги.
+;******************************************
+POP  HL
+;повторяем текущую сцену
+POP  BC
+;до полного истощения
+DJNZ C_V_L1
+;регистра B
+LD   A,(HL) 
+      ADD  A,A
+;x2, переставляем указа-
+LD   C,A
+;тель текущей сцены
+LD   B,0
+;на следующую сцену.
+ADD  HL,BC 
+      INC  HL 
+      LD   (CURENT_SCENE),HL 
+
+      JP   CHUNK_VISUAL
+;MAIN LOOP
+DRAW_SCENE
+;
+in IX-coors data x1, y1, x2, y2 etc...
+;
+#00
+- exit 
+;
+#FF
+- skip point 
+;несмотря на название, данная процедура отрисовыва-
+;ет не всю сцену, а только один набор отрезков. 
+; 
+;На входе - IX: указатель на набор координат. 
+; 
+;Координаты хранятся в таком формате: 
+;
+x1, y1, x2, y2,...xN, yN, #FF,...xM, yM,#00
+;где
+#00
+- маркер конца набора координат 
+;
+#FF
+- скип-маркер, cущность которого будет
+;          об'яснена. 
+; Так, как мы отрисовываем отрезки по следующему
+;алгортму:
+t1-t2,t2-t3,t3-t4...,
+может возникнуть по-
+;требность отрисовать после отрезока
+t(n-1),t(n)
+не
+;отрезок
+t(n),t(n+1),
+а
+t(n+1),t(n+2)
+(т.е. разорвать по-
+;лилинию), то при встрече скипмаркера мы перескаки-
+;ваем одну пару (x,y) координат. 
+; Ну, а теперь о самой процедуре - в общем, она ри-
+;сует отрезки (линии), которые и образуют рисунок
+;на экране. "Живость" же изображения достигается за
+;счет того, что одни и те же координаты каждый раз
+;при перерисовке изображения изменяются на
++/- 1
+;пиксел - изображение при этом приятно "потрясыва-
+;ется."
+LD   D,(IX+00) 
+    LD   E,(IX+01)
+;in DE-x1,y1
+CALL RND
+;в A - RND (0..255)
+CP   85 
+    JR   NC,D_S_C_11 
+    DEC  E 
+    JR   DRAW_SCENE_C4
+D_S_C_11
+CP   165
+;NOP E
+JR   C,DRAW_SCENE_C4 
+    INC  E
+DRAW_SCENE_C4
+CALL RND 
+    CP   85 
+    JR   NC,D_S_C_12 
+    DEC  D 
+    JR   DRAW_SCENE_C5
+D_S_C_12
+CP   165
+;NOP D
+JR   C,DRAW_SCENE_C5 
+    INC  D
+DRAW_SCENE_C5
+LD   H,(IX+02) 
+    LD   L,(IX+03) 
+
+    LD   A,H
+;check for #00
+AND  A 
+    RET  Z 
+
+    INC  A
+;check for #FF
+JR   NZ,DRAW_SCENE_C1 
+    INC  IX 
+
+    JR   DRAW_SCENE_C2
+DRAW_SCENE_C1
+CALL RND 
+    CP   85 
+    JR   NC,D_S_C_112 
+    DEC  L 
+    JR   DRAW_SCENE_C42
+D_S_C_112
+CP   165
+;NOP L
+JR   C,DRAW_SCENE_C42 
+    INC  L
+DRAW_SCENE_C42
+CALL RND 
+    CP   85 
+    JR   NC,D_S_C_122 
+    DEC  H 
+    JR   DRAW_SCENE_C52
+D_S_C_122
+CP   165
+;NOP H
+JR   C,DRAW_SCENE_C52 
+    INC  H
+DRAW_SCENE_C52
+CALL LINE
+DRAW_SCENE_C2
+INC  IX 
+    INC  IX 
+    JR   DRAW_SCENE
+;координаты точек в общем-то
+GIRL_FS_COOR
+*skipped*
+──────────────────────────────────────────
+Пришлось убрать - уж больно много места. 
+    Полный листинг - в
+ПРИЛОЖЕНИИ
+──────────────────────────────────────────
+*skipped*
+;-----DRAW-LINE-------------------------
+; HL - X1,Y1 (или Y1,X1
+:)
+; DE - X2,Y2 (или Y2,X2
+:)
+LINE
+LD   (CORDL),HL 
+      PUSH HL 
+
+      CALL PLOT 
+
+      POP  HL 
+      LD   BC,#101 
+      LD   A,D 
+      SUB  H 
+      JP   NC,LC1 
+      LD   B,#FF 
+      NEG
+LC1
+LD   D,A 
+      LD   A,E 
+      SUB  L 
+      JP   NC,LC2 
+      LD   C,#FF 
+      NEG
+LC2
+LD   E,A 
+      LD   A,D 
+      CP   E 
+      JP   NC,LC3 
+      LD   L,D 
+      LD   (SIGN),BC 
+      XOR  A 
+      LD   B,A 
+      JP   LC4
+LC3
+OR   D 
+      RET  Z 
+      LD   L,E 
+      LD   E,D 
+      LD   (SIGN),BC 
+      LD   C,0
+LC4
+LD   H,E 
+      LD   A,E 
+      RRA
+LCR
+ADD  A,L 
+      JP   C,LC5 
+      CP   H 
+      JP   C,LC6
+LC5
+SUB  H 
+      LD   D,A 
+      EXX
+SIGN_OFFSET
+LD   DE,0 
+      JP   LC7
+LC6
+LD   D,A 
+      PUSH BC 
+      EXX 
+      POP  DE
+CORDL_OFFSET 
+LC7
+LD   HL,0 
+      LD   A,E 
+      ADD  A,L 
+      LD   E,A 
+      LD   A,D 
+      INC  A 
+      ADD  A,H 
+      JP   C,LC8 
+      RET  Z
+LC9
+DEC  A 
+      LD   D,A 
+      LD   (CORDL),DE 
+
+      CALL PLOT 
+
+      EXX 
+      LD   A,D 
+      DEC  E 
+      JP   NZ,LCR 
+      RET
+LC8
+JP   Z,LC9 
+      RET
+;селф-модифаин кодэ, однако
+:)
+SIGN
+EQU SIGN_OFFSET+1
+CORDL
+EQU CORDL_OFFSET+1
+;рисуем точку
+PLOT
+LD   C,H 
+        LD   H,PLT 
+        LD   B,(HL) 
+        INC  H 
+        LD   A,(HL) 
+        INC  H 
+        LD   L,C 
+        OR   (HL) 
+        LD   C,A 
+        INC  H 
+        LD   A,(BC) 
+        OR   (HL) 
+        LD   (BC),A 
+        RET
+;создание таблички для рисования точки
+MKTABPL
+LD   HL,PLOTTAB
+;MAKE PLOTTAB
+SCRPLT
+LD   A,#C0 
+        LD   E,3
+MK03
+LD   C,8
+MK02
+LD   B,8
+MK01
+LD   (HL),A 
+        INC  L 
+        INC  A 
+        DJNZ MK01 
+        SUB  8 
+        DEC  C 
+        JP   NZ,MK02 
+        ADD  A,8 
+        DEC  E 
+        JP   NZ,MK03 
+        LD   L,0 
+        INC  H 
+        LD   E,#20 
+        CALL MK06 
+        LD   E,1 
+        CALL MK06 
+        LD   A,#80 
+        LD   B,0
+MK07
+LD   (HL),A 
+        INC  HL 
+        RRCA 
+        DJNZ MK07 
+        RET
+MK06
+XOR  A 
+        LD   C,#20
+MK05
+LD   B,8
+MK04
+LD   (HL),A 
+        INC  HL 
+        DJNZ MK04 
+        ADD  A,E 
+        DEC  C 
+        JP   NZ,MK05 
+        RET
+;специальный порт в спектруме для 
+;переключения страничек 
+; in рег. A - нумер сранички
+ONOF
+LD   BC,#7FFD 
+        OUT  (C),A 
+        RET
+; char RND (void) 
+; A - out - psevdo_rnd value.
+RND
+LD   BC,0 
+        LD   A,B 
+        ADD  A,#77 
+        LD   B,A 
+        RLC  C 
+        ADD  A,C 
+        LD   C,A 
+        LD   (RND+1),BC 
+        RET
+;чистим атрибуты...
+CLS_ATTR
+LD   HL,#D800 
+        LD   DE,#D801 
+        LD   BC,#2FF 
+        LD   (HL),#38 
+        LDIR 
+        RET
+;процедура создания "фастэра" для 
+;быстрой очистки экрана
+MAKE_CLS_ARRAY1
+DI 
+        LD   HL,0 
+        LD   (#8C0C),SP 
+        LD   SP,#D800
+MAKE_CLS
+LD   HL,MAKE_CLS_ARRAY1 
+        LD   DE,#8000 
+        LD   BC,11 
+        LDIR 
+
+        EX   DE,HL 
+
+        LD   E,L 
+        LD   D,H 
+        INC  E 
+
+        LD   BC,#BFF 
+        LD   (HL),#E5 
+        LDIR 
+
+        EX   DE,HL 
+        LD   (HL),#31 
+
+        LD   HL,#C9FB 
+        LD   (#8C0E),HL 
+        RET
+;***ЗНАМЕНИТАЯ SUBROTINE ****
+; ну ее все знают и пробовали
+INCD
+INC  D 
+        LD   A,D 
+        AND  7 
+        RET  NZ 
+        LD   A,E 
+        ADD  A,32 
+        LD   E,A 
+        RET  C 
+        LD   A,D 
+        SUB  8 
+        LD   D,A 
+        RET
+;файл-спрайт с правым-нижнем уголком экрана
+CORNER_SPR
+INSERT "corner_s.C"
+;define CLS equ #8000
+CLS
+EQU  #8000
+END
+;адрес конца интры+1
+L
+EQU END-#6000
+;длина интры в байтах
+FREE
+;адрес свободной от интры области 
+    ;- Зачем ? 
+    ;- Не знаю !
+───────────────────────────────────────────────────
+  A,D
+AND  7 
+        RET  NZ 
+        LD   A,E 
+        ADD  A,32 
+        LD   E,A 
+        RET  C 
+        LD   A,D 
+        SUB  8 
+        LD   D,A 
+        RET
+;файл-спрайт с правым-нижнем уголком экрана
+CORNER_SPR
+INSERT "corner_s.C"
+;define CLS equ #8000
+CLS
+EQU  #8000
+END
+;адрес конца интры+1
+L
+EQU END-#6000
+;длина интры в байтах
+FREE
+;адрес свободной от интры области 
+    ;- Зачем ? 
+    ;- Не знаю !

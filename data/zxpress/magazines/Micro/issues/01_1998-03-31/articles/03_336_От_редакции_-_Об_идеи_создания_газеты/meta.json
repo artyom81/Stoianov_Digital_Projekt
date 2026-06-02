@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1998-03-31",
+  "order": 3,
+  "article_id": 336,
+  "title_link": "От редакции - Об идеи создания газеты.",
+  "title_h1": "Micro 01 - От редакции - Об идеи создания газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=336",
+  "article_url": "https://zxpress.ru/article.php?id=336",
+  "fetched_at": "2026-05-31T22:25:06Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 276,
+  "magazine_name": "ZX Press",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-09-15",
+  "order": 5,
+  "article_id": 11881,
+  "title_link": "Ассемблер - обмен опытом: печать нестандартными шрифтами 42 и 64.",
+  "title_h1": "ZX Press 01 - Ассемблер - обмен опытом: печать нестандартными шрифтами 42 и 64.",
+  "print_url": "https://zxpress.ru/print.php?id=11881",
+  "article_url": "https://zxpress.ru/article.php?id=11881",
+  "fetched_at": "2026-05-31T23:36:16Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 67,
+  "magazine_name": "Energy",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1997-05-29",
+  "order": 5,
+  "article_id": 3882,
+  "title_link": "Байки из склепа-3 - Захват лунной базы.",
+  "title_h1": "Energy 05 - Байки из склепа-3 - Захват лунной базы.",
+  "print_url": "https://zxpress.ru/print.php?id=3882",
+  "article_url": "https://zxpress.ru/article.php?id=3882",
+  "fetched_at": "2026-05-31T22:02:21Z"
+}

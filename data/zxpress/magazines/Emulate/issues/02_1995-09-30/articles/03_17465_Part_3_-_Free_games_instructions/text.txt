@@ -1,0 +1,505 @@
+02 - Part 3 - Free games instructions.
+==========================================
+***************************************
+*  PART 3  - FREE GAMES INSTRUCTIONS  *
+***************************************
+
+EMULATE! GAMES PACK 2
+Welcome  to  Emulate! Games Pack Number 2.
+There's certainly some great games for you
+to  play  in  this  months  pack. First we
+start  off  with  the  epic  Bards Tale. A
+massive  17-level  RPG  with 80 spells for
+you  to  learn. We also have two exclusive
+games  for  you  to play, which have never
+been  seen before! Firstly, there is "Join
+the  Jet  Set"  By  Richard  Hallas. A JSW
+game,  worthy  of  Matt Smith himself! And
+secondly, we feature a pre-release version
+of  Street  Hawk. Both this and the actual
+release  are  included  here  for  you  to
+compare.
+If  these weren't enough, we also have the
+follow-up  to  last  months  Wally  game -
+Everyones  A  Wally. Adventure fans have a
+double  helping  with the two- part "Loads
+of Midnight" and also the excellent Zenobi
+game "Retarded Creatures and Caverns"
+Also  featured  in this months editions is
+another massive POKES list, this time in a
+database  fromat  compiled  by  Hynek  Med
+(xmedhO2@drson.vse.cz)  There  is  also  a
+special  program  called SPECTEST, created
+by  our  own  techincal editor to use with
+your  Emulator.  See Technical section for
+more  details.  Have  fun  and  ENJOY  THE
+PROGRAMS!!
+
+==========================================
+==========================================
+
+THE BARDS TALE
+
+The Bards Tale is the first in a series of
+Tales  Of  The Unknown, set in the city of
+Skara  Brae which is threatened by an evil
+mage called Mangar.
+
+OBJECTIVE
+
+Your most important goal is to find Mangar
+and  "persuade"  him  to  release the once
+harmonious city from his evil control.
+Your  second goal is to develop characters
+who  are capable of surviving the layer of
+obstacles,  mazes  and  evil  henchmen who
+protect  Mangar.  Your  third  goal  is to
+explore  the  entire  world  of  The Bards
+Tale . There are numerous goodies, puzzles
+and special places in the city such as the
+legendary  catacombs  or  the  walled  off
+towers.
+
+HOW TO CREATE A CHARACTER
+
+1.  While  in  Adventurers guild, select a
+race.
+2.   Characters   attribute   numbers  are
+displayed.
+3.  If you are satisfied with the "roll of
+the  dice", choose a character class, then
+name   this  character.  If  you  are  not
+satisfied "re-roll the dice".
+4.  After  being named, the character will
+be   saved  to  disc  or  tape,  ready  to
+adventure.
+
+USING THE PRE-BUILT PARTY
+
+For  your  convenience,  you  will  find a
+pre-built  party  already  waiting for you
+when  you  enter  the  guild for the first
+time. The party is called A-Team. They are
+even outfitted with weapons and armour.
+
+CHARACTERS
+
+  RACES  -  There  are  7  different races
+which a character can be:
+  HUMAN  -  While  being of hardier stock,
+this  character is nonetheless like you or
+me.
+  ELF - The elf is slight of build, though
+taller  than  a human and very inclined to
+magic.
+  DWARF  -  Short,  stout, very strong and
+healthy  though  not too intelligent, they
+make superb fighters.
+  HOBBIT  - Being nimble and dexterous and
+smaller  than dwarves, they make excellent
+rogues.
+  HALF-ELF  - Slightly bigger and stronger
+than  an elf, though not as magical, makes
+half-elves good all rounders.
+  HALF-ORC - Although not as despicable as
+his  orc  parent, this large strong goblin
+like creature, is no beauty.
+  GNOME  -  These short tempered creatures
+are   similar   to  dwarves,  though  more
+inclined to magic.
+
+CHARACTER ATTRIBUTES
+
+  Each   character   you   create   has  5
+attributes  which  define his physical and
+mental   prowess.   These  attributes  are
+assigned  a  random value from 1 to 18 (18
+being  the best). For each race there is a
+lowest  possible number for each attribute
+and   high   attribute  scores  will  give
+characters an edge.
+  STRENGTH  (ST)  -  Affects the amount of
+damage  a  character  does in hand to hand
+combat.
+  INTELLIGENCE  (IQ)  -  A  high  IQ gives
+Mages bonus spell points.
+  DEXTERITY   (DX)   -  A  high  DX  makes
+characters  harder  to  hit and helps them
+strike the first blow in combat.
+  CONSTITUTION   (CN)  -  A  very  healthy
+character  (ie,  a high CN) gets bonus hit
+points and thus is harder to kill.
+  LUCK  (LK)  -  A lucky character will be
+more  likely  to  avoid  nasty traps, evil
+magic and the like.
+
+OTHER CHARACTER STATISTICS
+
+  ARMOUR  CLASS  (AC) - Gives the level of
+protection  a  character has from physical
+attack   and   ranges   from  10  (totally
+unprotected) to -10 (called LO) HIT POINTS
+(HITS)   -  Measures  how  much  damage  a
+character can take before he dies.
+  CONDITION  (COND) - Shows the characters
+present number of hit points.
+  SPELL  POINTS  (SpPt)  -  Shows  current
+spell  point  status. A characters maximum
+spell   points  are  listed  in  his  view
+character mode.
+  EXPERIENCE  POINTS  -  Measures how much
+experience  a  character has gained is his
+profession.  The  higher  the  number  the
+better the character.
+  GOLD  -  The  unit  of  currency in this
+world. The more you have, the better.
+  LEVEL  (LV 1) - A measure of acheivement
+within  a  characters  class.  LV  1  is a
+novice  and  LV  13 would be a master. New
+levels  are  awarded  by  the review board
+based  on the characters experience points
+and  new  levels  generally mean increased
+attribute scores, hit points, spell points
+among others.
+  SPELL  LEVELS  (e.g. MAGI 3) - Shows the
+highest  level spells a character can cast
+(There  are  7  levels of magic spells for
+each  of  the 4 mage classes). A new spell
+level  is  awarded  every other experience
+level,  i.e.  LV 1 Magician has MAGI 1, at
+LV  3  he  has MAGI 2 until at LV13 he has
+MAGI 7 and can go no further.
+  ITEMS  -  These fall into 10 catagories:
+Weapons;  shields,  armour, helms; gloves;
+musical   instruments;  figurines;  rings;
+wands  and  miscellaneous.  Only 1 item of
+each type can be equipped at one time.
+
+CHARACTER CLASSES
+
+  There   are   10   different   character
+classes,  but  only  the  first  8  can be
+seleceted for a newly generated character.
+  WARRIOR  -  Can  use nearly every weapon
+there  is  and  for  every  four levels of
+experience  after  the  first  they get an
+extra attack in combat.
+  PALADIN  -  Fighters sword to fight evil
+and uphold honour and purity, they can use
+most  weapons  even  some  that  no  other
+fighters can. They get multiple attacks at
+higher   levels   and  have  an  increased
+resistance to evil magic.
+  ROGUE  -  A  professional  thief who can
+search  for  traps  and disarm them. He is
+only  so  so in combat and prefers to hide
+in the shadows.
+  HUNTER  -  Can  use most weapons and has
+the   unique  ability  (which  grows  with
+experience)  to  strike  a  critical  hit,
+instantly killing an opponent.
+  MONK  - Trained to fight without weapons
+or  armour,  is an almost inhuman fighting
+machine at higher levels.
+  BARD  -  Bards  were  once  warriors now
+turned  wandering  minstrel, although they
+can  still  use  most weapons, they do not
+get multiple attacks. Bards have 6 magical
+tunes   which  can  be  long  lasting  and
+continue  to play even if other songs were
+played  during combat. Or the songs can be
+abbreviated  for  use  in  combat and thus
+have  different  effects  than  the longer
+versions. These short songs will only last
+for  one  round of fighting. Only one song
+can  be played at a time (by any bard) and
+if a second is played, the first will end.
+A  bard  can  play as many songs as he has
+expereince   levels   before   his  throat
+becomes  dry. Then its off to a tavern for
+a drink to rejuvenate his voice.
+  CONJURER   -   Deals   in  the  physical
+craetion  of  real things like fire, light
+or healing.
+  MAGICIAN   -  Deals  with  magic  as  it
+affects physical objects like enchanting a
+sword or making armour stronger.
+  SORCERER  -  Deals with the creation and
+manipulation  of  illusion.  This class is
+unavailable to newly created characters.
+  WIZARD  -  Deals  with the summoning and
+control of supernatural creatures from the
+negative  plane. This class is unavailable
+to newly created characters.
+
+THE COMBAT SYSTEM
+
+  The  Bards  Tale  is a game of fighting,
+its  the  only  way  to  build experience.
+Fortunately,  Magar  and  his  minions are
+very evil, so kill them if you can. At the
+outset  of  combat a list of foes is given
+broken  down  into  the  number of foes in
+each  group.  The  maximum  is four groups
+with  99  monsters  per  group.  Combat is
+divided  into  a  series of rounds. At the
+start   of   each  round,  each  character
+decides  what  action  he  will undertake,
+unless,  of  course, your party runs away.
+These options are as follows:
+
+  ATTACK FOES - To physically assault foes
+in the first or second group of monsters.
+  PARTY ATTACK - Assault another member of
+the party, including special members.
+  DEFEND - Do not attack which reduces the
+chance of being hit.
+  USE  AN  ITEM - Uses an item held in the
+characters    inventory    and   currently
+equipped.
+  BARD  SONG - Bards can play a short song
+to aid the party during the combat.
+  CAST  A  SPELL  - The spell code must be
+entered and a target identified.
+  HIDE  IN  SHADOWS  -  A rogue can try to
+avoid  combat  altogether  by  hiding. The
+first  3  characters  in your party can be
+attacked  physically  by  monsters and can
+attack back. The last 3 can only be strucj
+by  magic  and  can  only attack back with
+magic.  The  first 2 groups of monstersare
+the  only  monsters  who  can attack or be
+attacked  physically.  The most dextourous
+characters  or  monsters  usually make the
+first  strike,  but  luck, character level
+and  character  class also affect this. At
+the  end  of a combat round, dead monsters
+are   removed   and  dead  characters  are
+shuffled   to  the  back  fo  your  party.
+Treasure  and  experience points are split
+equally  among  the  battles survivorsonce
+all your foes are defeated.
+
+SPECIAL MEMBERS
+
+  The  special  slot  (marked  S)  is  for
+monsters who can join your party either by
+introducing  themselves to the party or by
+being  created/summoned by magic. Specials
+cannot  be controlled, but they will fight
+for you until killed (or disbelieved if an
+illusion).
+
+PLACES
+
+  Use  your  map to guide you around Skara
+Brae
+
+UNMARKED  BUILDINGS
+  Most  building are unmarked, but some of
+them  are  inhabited by evil creatures. So
+kick  in  a  few doors and find them. When
+you  exit  a building, it will be directly
+behind you.
+
+THE ADVENTURERS GUILD
+  The  Guild  is  where all the adventures
+begin and where you form a party.
+
+GARTHS EQUIPMENT SHOPPE
+  Is  where  characters  acn  buy, sell or
+identify  items  and  pool all the gold to
+buy  expensive  items. Unique items, found
+in  dungeons,  remain in Garths possession
+only  until  they  are  sold  unlike toher
+items of which he has an unlimited supply.
+
+THE REVIEW BOARD
+  Upon  your  request in person, the board
+will  determine whether that character has
+enough  experience  points for advancement
+to  higher  levels.  The Board teaches new
+spells  to  mages  who  qualify for higher
+spell   levels,   but   charges  for  this
+training.
+  You  will  have to do a bit of exploring
+to  find  the Review Board, and its closed
+at night.
+
+TAVERNS
+  These  are the Bards favourite place for
+gossip  and  refreshment.  Theres  even  a
+tavern named after him.
+
+ROSCOES ENERGY EMPORIUM
+  If  you  need  your  spell  points  in a
+hurry,  see  Roscoe.  But  be prepared for
+electrifyingly high fees.
+
+TEMPLES
+  Temples  are  divine  places of complete
+healing  and  resurrection  but  only at a
+price.
+
+DUNGEON DELVING
+  "Dungeon" refers to and indoor labyrinth
+from  towers  to  catacombs  with a varied
+number  of  levels for each. You can go up
+or  down  to levels via stairways, portals
+and teleportation.
+  Stairways   are   not   visible  from  a
+distance  unlike  portals (which are holes
+in  the  floor  or  ceiling). You will not
+fall  through  a portal by standing on it,
+you  must command a character to do so. If
+he jumps down a portal he will take damage
+unless  he is using a teleportation spell.
+The  only  way  to  go  up  a portal is by
+levitation.
+  The  location  of  dungeon entrances are
+well kept secrets, but there are plenty of
+hints in Skara Brae.
+
+THE MAGIC SYSTEM
+  Magic  is power, though it is not always
+necessary   or  wise  to  rely  on  magic,
+because  magic  is  by no means foolproof.
+There  are  some  places where magic never
+functions,   and  some  monsters  who  are
+highly  resistant to spells. If your party
+has  wandered into an anti-magic zone, all
+residual  spells, except light spells, are
+cancelled.
+  Residual  spells  keep  working for more
+than  just  an  instant  and  most cause a
+graphic symbol to appear on the screen, to
+keep  the  player  aware that the duration
+has yet to expire.
+  All  spells  have  a  point cost and the
+mage  casting  them  expends  some  of his
+internal    energy.    This    enegry   is
+replenished  in direct sunlight and may be
+regenerated  at Roscoes Energy Emporium or
+in special regeneration zones.
+  To  cast  a  spell, type in the 4-letter
+code  which is a rough abbreviation of the
+spell name.
+  There  are  magical  items hidden in the
+dungeons  and  carried  by the monsters of
+the  Bards  Tale and the most powerful are
+secreted  in the most challenging dungeons
+and  are  guarded  by  ferocious monsters.
+When  you  win  one,  you  should  be very
+proud.
+
+CHANGING CLASS
+  Mages  who  have  attained  at least the
+third  level  in  one mage class, may then
+change  to  another.  If  a  mage  changes
+class,  his experience points are reset to
+zero,  but  he retains all his hit points,
+spell  points  and magic knowledge. He can
+no  longer  progress in the old mage class
+nor  may he rejoin it. A mage can become a
+Conjurer, Magician or Sorcerer as a second
+class  and  he  can  become  anything as a
+third  class.  A mage who has knowledge of
+all  7 spell levels in all four classes is
+called  an  Archmage.  The  most  powerful
+being in the world of The Bards Tale.
+
+BARD SONGS
+
+1.FALKENTYNES FURY
+Increases the damage your party will do in
+combat.
+
+2.THE SEEKERS BALLAD
+Produces light when exploring.
+Increases  the  partys chance of hitting a
+foe with a weapon during combat.
+
+3.WAYLANDS WATCH
+Calms  your  foes,  making  them  do  less
+damage in combat.
+
+4.BADHR KILNFEST
+Heals the Bards wounds while travelling.
+Heals the partys wounds during combat.
+
+5.THE TRAVELLERS TUNE
+Makes  the  party more dexterous thus more
+difficult to hit.
+
+6.LUCKLARAN
+Sets up a partial anti-magic field, giving
+the   party   better   protection  against
+spells.
+
+*** THE SPELL BOOK ***
+
+CONJURER SPELLS
+
+Level 1
+
+MAFL     2     VIEW     MEDIUM
+MAGE  FLAME  - A small mobile "torch" will
+appear  and flot above the spell caster as
+he travels.
+
+ARFI     3     1 Foe    ---
+ARC  FIRE - A fan of blue flames jets from
+the  casters  fingers,  doing  1-4 hits of
+damage,  times  the  casters  level,  to a
+selected opponent.
+
+SOSH     3     SELF     COMBAT
+SORCERER SHIELD - The mage is protected by
+an  invisible  "shield" turning aside many
+blows that would otherwise hit him.
+
+TRZP     2     30`      ---
+TRAP  ZAP  -  Disarms  any trap, including
+traps  on  chests,  within 30 feet, in the
+direction the mage is facing.
+
+Level 2
+
+FRFO    3      GROUP    COMBAT
+FREEZE   FOES  -  Binds  your  enemies  in
+magical   force,  slowing  them  down  and
+making them easier to hit.
+
+MACO    3      ---      MEDIUM
+KIELS   MAGIC   COMPASS  -  A  compass  of
+shimmering  magelight  appears  above  the
+party and shows the direction they face.
+
+BASK    4      CHAR     COMBAT
+BATTLESKILL  - Increases one of your party
+members skill with weapons, increasing the
+accuracy and ferocity of his attacks.
+
+WOHL    4      CHAR     ---
+WORD  OF HEALING - With the utterance of a
+single word, the mage cures a party member
+of  minor  wounds,  healing  2-8 points of
+damage.
+
+Level 3
+
+MAST    5      GROUP    ---
+ARCYNES  MAGESTAR - A bright flare ignites
+in  front  of  a  group  of  your enemies,
+temporarily blinding them and causing them
+to miss the next combat round.
+
+LERE    5      VIEW     LONG
+LESSER  REVELATION  -  An  extended  "Mage
+Flame"  spell  that  also  reveals  secret
+doors.
+
+LEVI    4      PARTY    SHORT
+LEVITATION  -  Partially nullifies gravity
+causing  the party to float over traps, or
+up or down through portals.

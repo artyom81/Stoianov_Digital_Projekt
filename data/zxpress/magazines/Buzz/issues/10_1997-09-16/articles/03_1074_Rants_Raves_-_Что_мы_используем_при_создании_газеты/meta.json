@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1997-09-16",
+  "order": 3,
+  "article_id": 1074,
+  "title_link": "Rants & Raves - Что мы используем при создании газеты ?..",
+  "title_h1": "Buzz 10 - Rants & Raves - Что мы используем при создании газеты ?..",
+  "print_url": "https://zxpress.ru/print.php?id=1074",
+  "article_url": "https://zxpress.ru/article.php?id=1074",
+  "fetched_at": "2026-05-31T21:47:42Z"
+}

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 100,
+  "magazine_name": "Inferno",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "2001-05-01",
+  "order": 16,
+  "article_id": 4506,
+  "title_link": "Sofтинка - описание нового текстового редактора ZX-WinWord V3.0 (Oberon Creative Pack).",
+  "title_h1": "Inferno 02 - Sofтинка - описание нового текстового редактора ZX-WinWord V3.0 (Oberon Creative Pack).",
+  "print_url": "https://zxpress.ru/print.php?id=4506",
+  "article_url": "https://zxpress.ru/article.php?id=4506",
+  "fetched_at": "2026-05-31T22:13:24Z"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 18056,
+    "article_url": "https://zxpress.ru/article.php?id=18056",
+    "print_url": "https://zxpress.ru/print.php?id=18056",
+    "title_link": "BBS Новости",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "BBS_Новости"
+  },
+  {
+    "article_id": 18057,
+    "article_url": "https://zxpress.ru/article.php?id=18057",
+    "print_url": "https://zxpress.ru/print.php?id=18057",
+    "title_link": "Новости ZXNet",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Новости_ZXNet"
+  },
+  {
+    "article_id": 18058,
+    "article_url": "https://zxpress.ru/article.php?id=18058",
+    "print_url": "https://zxpress.ru/print.php?id=18058",
+    "title_link": "HOT GAMES",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "HOT_GAMES"
+  },
+  {
+    "article_id": 18059,
+    "article_url": "https://zxpress.ru/article.php?id=18059",
+    "print_url": "https://zxpress.ru/print.php?id=18059",
+    "title_link": "Застрял?!",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Застрял"
+  },
+  {
+    "article_id": 18060,
+    "article_url": "https://zxpress.ru/article.php?id=18060",
+    "print_url": "https://zxpress.ru/print.php?id=18060",
+    "title_link": "ПИСЬМА В РЕДАКЦИЮ",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "ПИСЬМА_В_РЕДАКЦИЮ"
+  },
+  {
+    "article_id": 18061,
+    "article_url": "https://zxpress.ru/article.php?id=18061",
+    "print_url": "https://zxpress.ru/print.php?id=18061",
+    "title_link": "СКАЗКА",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "СКАЗКА"
+  },
+  {
+    "article_id": 18062,
+    "article_url": "https://zxpress.ru/article.php?id=18062",
+    "print_url": "https://zxpress.ru/print.php?id=18062",
+    "title_link": "РЕКЛАМА И ОБЪЯВЛЕНИЯ",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "РЕКЛАМА_И_ОБЪЯВЛЕНИЯ"
+  },
+  {
+    "article_id": 18063,
+    "article_url": "https://zxpress.ru/article.php?id=18063",
+    "print_url": "https://zxpress.ru/print.php?id=18063",
+    "title_link": "СКАЗКА",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "СКАЗКА"
+  },
+  {
+    "article_id": 18064,
+    "article_url": "https://zxpress.ru/article.php?id=18064",
+    "print_url": "https://zxpress.ru/print.php?id=18064",
+    "title_link": "TО_GROB'AZ - Доигрался?! Пиздец те сука за твой ебучий ФУК-8",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "TО_GROBAZ_-_Доигрался_Пиздец_те_сука_за_твои_ебучии_ФУК-8"
+  }
+]

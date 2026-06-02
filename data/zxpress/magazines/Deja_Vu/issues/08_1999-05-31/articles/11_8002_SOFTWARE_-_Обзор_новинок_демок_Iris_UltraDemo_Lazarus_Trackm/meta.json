@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 11,
+  "article_id": 8002,
+  "title_link": "SOFTWARE - Обзор новинок демок: Iris UltraDemo, Lazarus Trackmo, Russian Fields of Experiments, Pressure Trackmo.",
+  "title_h1": "Deja Vu 08 - SOFTWARE - Обзор новинок демок: Iris UltraDemo, Lazarus Trackmo, Russian Fields of Experiments, Pressure Trackmo.",
+  "print_url": "https://zxpress.ru/print.php?id=8002",
+  "article_url": "https://zxpress.ru/article.php?id=8002",
+  "fetched_at": "2026-05-31T21:55:31Z"
+}

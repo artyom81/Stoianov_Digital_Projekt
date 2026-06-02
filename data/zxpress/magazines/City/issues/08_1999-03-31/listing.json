@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 10352,
+    "article_url": "https://zxpress.ru/article.php?id=10352",
+    "print_url": "https://zxpress.ru/print.php?id=10352",
+    "title_link": "От редакции - сегодня публикуются самые свежие новости, полученные из неофициальных источников.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "От_редакции_-_сегодня_публикуются_самые_свежие_новости_получ"
+  },
+  {
+    "article_id": 10353,
+    "article_url": "https://zxpress.ru/article.php?id=10353",
+    "print_url": "https://zxpress.ru/print.php?id=10353",
+    "title_link": "Железо - о доpаботке PC-шной RS-232 мыши для использования ее совместно с Kempston Mouse\r\nInterface.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Железо_-_о_доpаботке_PC-шнои_RS-232_мыши_для_использования_е"
+  },
+  {
+    "article_id": 10354,
+    "article_url": "https://zxpress.ru/article.php?id=10354",
+    "print_url": "https://zxpress.ru/print.php?id=10354",
+    "title_link": "Что-где-почем - Пpедставляю новые пpогpаммы, появившиеся у меня\r\nза пpошедшую неделю.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Что-где-почем_-_Пpедставляю_новые_пpогpаммы_появившиеся_у_ме"
+  },
+  {
+    "article_id": 10355,
+    "article_url": "https://zxpress.ru/article.php?id=10355",
+    "print_url": "https://zxpress.ru/print.php?id=10355",
+    "title_link": "Ликбез - полное описание + полный дизассемблер ПЗУ (часть 4).",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Ликбез_-_полное_описание_полныи_дизассемблер_ПЗУ_часть_4"
+  },
+  {
+    "article_id": 10356,
+    "article_url": "https://zxpress.ru/article.php?id=10356",
+    "print_url": "https://zxpress.ru/print.php?id=10356",
+    "title_link": "Смайлик - ИЗ ЗАПИСОК ДЖЕHТЛЬМЕHА.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Смаилик_-_ИЗ_ЗАПИСОК_ДЖЕHТЛЬМЕHА"
+  },
+  {
+    "article_id": 10357,
+    "article_url": "https://zxpress.ru/article.php?id=10357",
+    "print_url": "https://zxpress.ru/print.php?id=10357",
+    "title_link": "Бук - Светлые пpоблемы темной головы.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Бук_-_Светлые_пpоблемы_темнои_головы"
+  },
+  {
+    "article_id": 10358,
+    "article_url": "https://zxpress.ru/article.php?id=10358",
+    "print_url": "https://zxpress.ru/print.php?id=10358",
+    "title_link": "Реклама - продам и куплю спектрум и дискеты.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_продам_и_куплю_спектрум_и_дискеты"
+  }
+]

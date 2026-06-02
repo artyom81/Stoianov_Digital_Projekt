@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "23",
+  "issue_date_iso": "1996-05-24",
+  "order": 5,
+  "article_id": 8839,
+  "title_link": "Неизвестное - Неизвестный Винни: Красный Винни (глава 1).",
+  "title_h1": "Lime Tree 23 - Неизвестное - Неизвестный Винни: Красный Винни (глава 1).",
+  "print_url": "https://zxpress.ru/print.php?id=8839",
+  "article_url": "https://zxpress.ru/article.php?id=8839",
+  "fetched_at": "2026-05-31T22:19:52Z"
+}

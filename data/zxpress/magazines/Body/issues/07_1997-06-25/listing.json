@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 3210,
+    "article_url": "https://zxpress.ru/article.php?id=3210",
+    "print_url": "https://zxpress.ru/print.php?id=3210",
+    "title_link": "GAME Обзор - Описание игры Emlyn Hughes International Football.",
+    "order": 1,
+    "issue_label": "07",
+    "short_slug": "GAME_Обзор_-_Описание_игры_Emlyn_Hughes_International_Footba"
+  },
+  {
+    "article_id": 3211,
+    "article_url": "https://zxpress.ru/article.php?id=3211",
+    "print_url": "https://zxpress.ru/print.php?id=3211",
+    "title_link": "PUSH HL - Процедура вывода точки.",
+    "order": 2,
+    "issue_label": "07",
+    "short_slug": "PUSH_HL_-_Процедура_вывода_точки"
+  },
+  {
+    "article_id": 3212,
+    "article_url": "https://zxpress.ru/article.php?id=3212",
+    "print_url": "https://zxpress.ru/print.php?id=3212",
+    "title_link": "Давайте посмеемся - Результаты конкурса ответов на вопросы.\r\n Конкурс на самый смешной анекдот , случай из жизни.\r\n 25 анекдотов от редакции.",
+    "order": 3,
+    "issue_label": "07",
+    "short_slug": "Даваите_посмеемся_-_Результаты_конкурса_ответов_на_вопросы_К"
+  },
+  {
+    "article_id": 3209,
+    "article_url": "https://zxpress.ru/article.php?id=3209",
+    "print_url": "https://zxpress.ru/print.php?id=3209",
+    "title_link": "От авторов - Ответ редакции газеты на письмо BROM'a.",
+    "order": 4,
+    "issue_label": "07",
+    "short_slug": "От_авторов_-_Ответ_редакции_газеты_на_письмо_BROMa"
+  },
+  {
+    "article_id": 3213,
+    "article_url": "https://zxpress.ru/article.php?id=3213",
+    "print_url": "https://zxpress.ru/print.php?id=3213",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "07",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

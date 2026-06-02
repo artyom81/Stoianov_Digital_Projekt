@@ -1,0 +1,15 @@
+{
+  "magazine_id": 45,
+  "magazine_name": "Crossroads",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "1999-10-31",
+  "order": 4,
+  "article_id": 11412,
+  "title_link": "Реклама - Редакция газетки приобретет у населения матричный принтер.",
+  "title_h1": "Crossroads 07 - Реклама - Редакция газетки приобретет у населения матричный принтер.",
+  "print_url": "https://zxpress.ru/print.php?id=11412",
+  "article_url": "https://zxpress.ru/article.php?id=11412",
+  "fetched_at": "2026-05-31T21:53:03Z"
+}

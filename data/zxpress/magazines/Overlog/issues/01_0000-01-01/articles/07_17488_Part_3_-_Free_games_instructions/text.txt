@@ -1,0 +1,524 @@
+03 - Part 3 - Free games instructions.
+==========================================
+***************************************
+*  PART 3  - FREE GAMES INSTRUCTIONS  *
+***************************************
+
+EMULATE! GAMES PACK No.3
+
+Welcome  to  the third Emulate Games Pack.
+In this months selection we have:
+
+HERBERTS  DUMMY  RUN  -  The  third in the
+series of Wally Games.
+16/48  ISSUE  24  -  Another  issue of the
+popular Spectrum Tape Magazine.
+ROBOCOP  -  For  all  you  128k  users out
+there, a classic game to play.
+DEMON  FROM  THE  DARKSIDE  - The first in
+this adventure game series.
+COSTA  CAPERS  -  Technician  Ted  2 - Ted
+takes a well deserved holiday!
+GRAHAM GOOCHS MATCH CRICKET - Game for all
+Cricket fans!
+
+Two great JSW exclusives!
+JSW  EDITOR  -  A  second,  excellent  JSW
+editor.
+JSW  - THE CONTINUING ADVENTURES - Another
+great never before seen JSW game!
+
+Don't  forget you can find this great pack
+at:
+FTP.NVG.UNIT.NO/pub/sinclair/snaps/discmag
+/emulate/EMULATE-SNAPSЗ.ZIP  and  also  at
+the FRAZZLE PROJECT BBS
+
+Full    Instructions    and   descriptions
+follow...ENJOY THE GAMES!
+
+==========================================
+
+JET SET WILLY - THE CONTINUING ADVENTURES
+Submitted by Richard Hallas
+
+Another  EXCLUSIVE  Jet Set Willy game for
+you  to play this month. In this excellent
+adventure,  Willy  has  the opportunity to
+return   to  some  familiar  surroundings.
+After lasts months journeys, Willy returns
+to  his mansion to find a few changes have
+taken  place,  not  least  of which is the
+refitting  of his famous bathroom! In this
+second  new  JSW  adventure,  you have the
+chance  to celebrate the Cooks birthday or
+even  do  some  washing (lucky you!) Willy
+has can even return to the old manic mine,
+which  has  changed dramatically since his
+days as a miner, or visit some new places,
+utilizing  a  strange  new  room  that has
+appeared in his mansion....
+
+Enjoy  this great game and look forward to
+yet  another exclusive JSW game which will
+feature in our Christmas special!!
+
+==========================================
+
+16/48 No.24 - December 1985
+
+Another  issue  of the "magnetic magazine"
+16/48 is this month from December 1985 and
+was  one  of  the last ones to be produced
+(as   far  as  I  know)  This  month,  the
+magazine includes:
+
+SIDE 1
+------------------------------------------
+TEMPLE - Collect the gold
+REVIEW - Compiler
+MICROMAKER - Make computers
+WRITE ON - Adventure Hints
+
+SIDE 2
+------------------------------------------
+CRIBBAGE - Card Game
+BLOB
+ADVENTURE - Dungeon Game
+
+NB.  Sides  1  and 2 refer to the original
+tape.  The TAP file combines both sides in
+a  continuous  string, ie Cribbage follows
+on  from  Write  On.  Look out for another
+issue of 16/48 with next months Emulate!
+
+==========================================
+
+JET SET WILLY EDITOR
+By Paul Rhodes
+
+Another great Jet Set Willy editor for you
+to  use, even better than the one featured
+in  the first issue. Thanks to the author,
+Paul  Rhodes,  for giving us permission to
+include  this  great package with Emulate,
+as well as to Richard Hallas for supplying
+the original program. Heres how it works:
+
+Build your own mansion
+Software Projects Approved
+Distributed by SPECTRUM ELECTRONICS
+110 Leagrave Road, Luton, Bedfordshire
+Written by Paul Rhodes, 1984
+
+INSTRUCTIONSONS:
+To  load  the  program,  put  the  Jet Set
+Editor   tape  in  your  cassette  player,
+connect  EAR  socket  on  Spectrum  to EAR
+socket   on   cassette  player,  and  type
+LOAD  "", followed by the ENTER key. After
+a  short  time,  a  flashing  picture will
+appear.  The  main  program  will  then be
+loaded  and  you will be asked to play the
+'JetSet Willy tape'. Once the JetSet Willy
+program  has  loaded,  the  main menu will
+appear.
+
+MAIN MENU OPTIONS:
+(1) Save entire game    =
+              SAVE "jsw1" CODE 32768,32768
+(2) Load entire game    = LOAD as option 1
+(3) Save room (CODE)    = SAVE "Room:nn"
+        CODE (49152+256*nn),256
+        (nn=room no.)
+(4) Save objects        =
+             SAVE "Objects" CODE 41983,513
+(5) Save room (JSE)     See below
+(6) Load room (JSE)     See below
+(7) Save guardians      =
+         SAVE "Guardians1"CODE 40960,1020:
+        SAVE "Guardians 2"CODE 42496,6656
+(8) Load guardians      = LOAD as option 7
+(9) Play game   = RANDOMIZE USR 33792
+
+Options  5  and  6  SAVE  and  LOAD  rooms
+together with all the object positions and
+guardian and graphic DATA related to them.
+The other SAVE options produce copies that
+can  be LOADed from BASIC, but as the DATA
+saved  by  option 5 is not stored as it is
+in  the  JetSet Willy program, this is not
+possible  with  JSE  files.  There  is  no
+option to LOAD a room without guardian and
+object  DATA  as  undefined  guardians can
+cause crashes.
+
+E) THE SCREEN EDITOR:
+Cursor  movement:  Use keys 5 to 8 to move
+the  flashing cursor. Changing screen: Use
+keys  5  to  8  with CAPS SHIFT to move to
+another screen. Defining exits: Use keys 5
+to  8  with  SYMBOL  SHIFT in define which
+rooms will be to each side of the room you
+are in.
+The  DATA Line: This is directly below the
+room  name.  It  shows the graphic squares
+representing,  from  left  to  right,  the
+background  (usually  blank). the 'floor',
+the  'wall',  the 'nasty', the 'ramp', the
+'conveyor',  and  the  'object'  which you
+have  to  collect.  The character shown in
+the  white  between  the two arrows is the
+'current   character',   which   will   be
+deposited  on  the  screen  at  the cursor
+position when you press '0'. To change the
+current  character,  move  the cursor over
+one of the first four graphics on the DATA
+line, and press '0'. 'Rm' is the number of
+the  room  you  are  in,  and  'Ob' is the
+number  of  objects that must be collected
+to complete the game.
+
+OTHER KEYS ARE:
+A:  sets  attributes  of  character  under
+cursor  (cursor  must  be  over one of the
+first 6 on DATA line).
+M:   defines  8x8  graphic  character  for
+graphic   under  cursor  (cursor  on  DATA
+line).  Within  character  definer: 5-8 to
+move  cursor, 0 to flip pixel on/off, CAPS
+SHIFT  P  to pick up current definition of
+character,  Q  to set character and return
+to screen editor.
+C: places conveyor belt with left-hand end
+at   cursor  position.  Direction  0=left,
+1=right.
+R:  places  ramp  with  bottom  at  cursor
+position.
+P:  places 'object' at cursor position (if
+held  down, many objects will be placed on
+top  of each other; avoid this unless that
+is your aim).
+D:  deletes  'object'  at  cursor position
+(hold down to remove multiple objects).
+B: sets border colour for current room.
+N:  inputs room name: CAPS 8 and CAPS 0 to
+move cursor, ENTER to finish.
+?  (SYMB  SHIFT  C): Clears screen, except
+for graphics definitions and objects.
+. (SYMB SHIFT M): Returns to Main Menu.
+
+DOS AND DON'TS:
+Don't  put  anything  in  the  path  of  a
+guardian  (they  leave trails to help show
+the  parts  to  avoid).  Don't have arrows
+passing  through  anything with white INK.
+If  you  have  white  background  INK, any
+objects  in the room will be automatically
+collected   on  entry  to  the  room  (see
+swimming pool). Do not have two characters
+with  the  same  attributes, especially if
+one   is   a   'nasty'.  Having  the  same
+attributes for ramp and conveyor creates a
+'conveyor ramp' (see Chapel). Avoid having
+a 'nasty' at the top of the screen above a
+gap  at the bottom (see right-hand half of
+Under  the  Roof).  Do not put anything in
+the  path of a rope (try it and see!), and
+do  not  allow  an arrow to pass through a
+rope  (especially not a white rope). Never
+allow guardians to overlap. Objects on top
+of  other characters (floors, walls, etc.)
+cannot  be collected. Do try anything else
+that  seems  like a good idea. Do save any
+roms  you  wish to keep before playing the
+game!
+
+6) THE GUARDIAN EDITOR:
+Each guardian is identified by a number in
+the  range  1-126.  Most of them up to 111
+are  already  in use, but any guardian can
+be  deleted from all the rooms in which it
+occurs,  so  leaving the space it occupies
+in  the  DATA area free for defining a new
+guardian. Each guardian is associated with
+a  'page'  of  8  graphics,  and  a set of
+parameters  to  determine  which  of these
+graphics  are  used  and  how  they  move.
+Whenever  a  guardian  is  used,  two more
+parameters  must  be  specified;  a  start
+position in character positions across the
+screen;  and  a  'start'  character, which
+further  modifies  which  characters  will
+form  the guardian. The start character is
+the  lowest  number  graphic  that will be
+printed  (the  8 graphics in each page are
+numbered  0-7). 'Animation' is part of the
+guardian   definition,   and  affects  the
+number of characters used:
+
+Animation  0  gives  no  animation: only a
+single character is used (eg. the barrel).
+Animation  1  gives  2 character animation
+(eg. the jelly).
+Animation  3  gives  4 character animation
+(eg.  the thing in the bathroom). Adding 4
+to    the    animation    number   for   a
+horizontally-moving     guardian     gives
+bi-directional  animation, eg. anim. 7 = 4
+to   the   left,   4  to  the  right.  For
+vertically  moving  characters,  adding  4
+increases  the  number  of  graphics used.
+Animation  2  would  give  slow  animation
+using  only the even numbered characters 0
+and  2.  6  would  be  bi-directional slow
+2-character animation.
+
+Technically,  the  character  number to be
+printed cycles constantly from 0 to 7, and
+is modified before printing by ANDing with
+the  start  character  and  ORing with the
+animation.
+
+ARROWS
+move  constantly  along  an imaginary line
+with  256  positions  numbered 0-255. Only
+positions  0-31  fall  within  the  screen
+boundaries:  the rest constitute the delay
+between  the arrow leaving on one side and
+coming  back  on  the  other.  An arrow is
+defined  with  a  direction  and  a  start
+position  along  the  line.  It also has a
+'Top/bottom  byte',  which  in  its binary
+representation  gives  the bit-pattern for
+the  appearance  of  the top and bottom of
+the arrow. Eg. 65 * 01000001 binary, which
+as  a  top/bottom byte would give an arrow
+like this:
+
+ *     *
+********  (*=pixel set)
+ *     *
+
+Note  that  the  middle is always 11111111
+binary  (255 decimal). When used, an arrow
+must  have a height specified. This height
+is  in pixel positions from the top of the
+screen, but the top or bottom of the arrow
+should  not  fall  outside  the  character
+position containing the body of the arrow.
+Put  more simply, the height should not be
+exactly divisible by eight, nor must it be
+one  less  than  a number which is exactly
+divisible by eight.
+
+NB.  Heights  are  always  given in pixels
+from  the  top  of  the screen, horizontal
+positions  are in character positions from
+the  left  of the screen (as in PRINT AT).
+Directions  are 0 or 1 (for left and right
+respectively).      For     bi-directional
+graphics,  the left-facing graphics are in
+characters  0-3, and the right-facing ones
+in  4-7,  so  a 2-character bi-directional
+guardian  with start character 2 would use
+2,3,6   and   7.  Horizontal  movement  is
+obtained  by  scrolling  characters within
+their character positions (see the monk or
+the  bird  for egs.) but vertical movement
+is  by  moving the character position. Try
+moving  a horizontal character vertically,
+or vice-versa to see the difference.
+
+THE ATTIC:
+The  arrow moving to the left in the attic
+is  the  cause  of  the  problems  usually
+encountered  after  passing  through  this
+screen,  due  to  it  being  called  in an
+unorthodox  manner.  Such a problem cannot
+be  created  using  this  editor.  It can,
+however, be removed, using option 6 on the
+guardian menu.
+
+THE GUARDIAN MENU:
+(1) Examine a guardian Prints out page and
+rooms  in  which  a  guardian occurs. Also
+shows  guardian, given start character, as
+it appears in the game.
+(2)  Define  a  guardian  See above. Also:
+Vertical displacement is how many pixels a
+vertical  guardian  moves  at a time. Fast
+animation is self- explanatory.
+(3)  Delete  a  guardian  Removes guardian
+from all rooms in which it occurs.
+(4)  Define  graphics Like option M in the
+screen  editor,  but  you  can also scroll
+using  CAPS  SHIFT  S, and you can pick up
+any character.
+(5)  Examine screen Shows guardian numbers
+and  start  characters for all graphics on
+screen.
+(6) Edit screen 'G' to place guardian, 'D'
+to  delete, 'Q' to return to menu, '5' and
+'8'  to  move  cursor.  NB.  the  rope  is
+guardian no. 1.
+
+Example  screens are on the tape after the
+JetSet Editor program. Load using option 6
+on  the  Main Menu. Define 'up' from Beach
+(S/SHIFT 7 in Beach) as room 47, and go up
+to  the 'Space Station'. (The room numbers
+for loading are 47 and 61).
+
+JETSET EDITOR
+
+ADDITIONAL INSTRUCTIONS
+
+SCREEN EDITOR
+<  >  (SYM/SH  W) - Set start position for
+Willy (cursor = top-left corner of Willy).
+
+GUARDIAN EDITOR
+CAPS   R  in  Graphic  Editor  (Option  4)
+'Reflects' graphic.
+
+EXTRA BONUS PROGRAM
+As  a  bonus to the above program, we have
+also   included   two   ready-made   rooms
+designed by Paul Rhodes himself. These are
+in the JSWEXAMP.TAP file and load directly
+into the emulator as rooms 41 and 67.
+
+If  you  manage  to  produce a JSW game to
+rival  Matthew  Smith,  (and how could you
+possibly  not,  given  the quality of this
+editor!)  then  we  would love to see your
+finished  product  and  include  it  in  a
+future issue!
+
+==========================================
+
+HERBERTS DUMMY RUN
+
+Continuing our series of Wally Week games,
+we  present  the  third  in  the series of
+arcade adventures, Herbert's Dummy Run. In
+this   adventure,  Wally  and  Wilmas  son
+Herbert  is  the star. Having done nothing
+but  get  under  your feet in the previous
+episode,  Herbert has now learned to walk,
+and  when  Wally and Wilma take him to the
+shopping  centre,  he  soon gets separated
+from  them!  You,  as Herbert, must try to
+negotiate to Shopping Centre, avoiding the
+dangerous  creatures that roam around, and
+reunite  with your parents who are waiting
+to leave!
+A  full  solution to this game will appear
+in  the  next issue of the magazine, while
+the  solution to last month's installment,
+Everyones  A  Wally,  is  featured in this
+issue's  playing  tips  section. Watch out
+for  the final game in the Wally saga next
+month.
+
+BONUS PROGRAM - HERBERTS DUMMY RUN PUZZLE
+As  a  small  bonus  program  to accompany
+Dummy  Run,  we  include  a sliding puzzle
+game,  which when completed, will form the
+title  screen  of  the  above  game!  This
+program  was  originally featured in 16/48
+issue    20   as   a   competition.   Full
+instructions  of how it works are included
+with the program itself.
+
+==========================================
+
+ROBOCOP (128k Only)
+92% - Crash 59 (Dec 1988)
+
+Patrolman  Murphy  was  the 32nd cop to be
+gunned  down  in  Detroit  since  Security
+Concepts  Inc.  took control of the police
+department. It was the opportunity OCP had
+been  waiting  for....They  took  what was
+left  of  Murphy  and  turned  him  into a
+deadly  killing  machine with a reinforced
+titanium  body,  an  erased  memory  and a
+programmed  mind.  However  they could not
+completely  wipe  out  the  memory  of his
+horrific  ordeal  and he sets out to track
+down  the  gang  responsible. In this game
+you are Robocop! You are the future of law
+enforcement.
+
+CONTROLS:
+Q = UP A = DOWN K = LEFT L = RIGHT SPACE =
+FIRE/PUNCH S = PAUSE Or Kempston, Sinclair
+Port 1 or redefinable.
+
+GAMEPLAY
+Armed  with  a  standard police pistol you
+seek  out  the  criminals  responsible for
+Murphy's   death.  You  can  then  collect
+capsules   giving   you  more  ammunition,
+better  fire  power  or three way bullets.
+You  can also pick up baby food giving you
+extra energy.
+L1  -  First  patrol in Detroit. Encounter
+criminals who try to stop you.
+L2  - A woman is being attacked - you must
+intervene.  Attempt  to shoot the attacker
+and   avoid   hitting  the  poor  helpless
+hostage.
+L3  -  Second  patrol  with more offensive
+criminals.
+L4 - Try to match up photo fit parts along
+with  the  photograph  already supplied to
+you.  If  a  successful match is made, you
+will   discover   the   name  of  the  man
+responsible for Murphy's killing.
+L5 - You receive information which enables
+you  to  locate  the rest of the gang. You
+then stumble across a drug factory full of
+heavily  armed  thugs  who  will  stop  at
+nothing  to  prevent  you  from  arresting
+them.
+L6  -  After clearing up the drug factory,
+you  go  on  to  arrest  Dick  Jones,  the
+mastermind   behind   the   gang,  at  OCP
+headquarters.   However,  directive  4  of
+Robocop's program prevents you from acting
+against  a  senior officer of OCP. You are
+disarmed and left to fight the robot ED209
+with your bare steel fists.
+L7 - Use lifts to escape from OCP.
+L8 - Try to outwit the desperate criminals
+as you become a fugitive from them.
+L9  - If you make it this far you confront
+OCP's board of directors with the evidence
+of  Dick  Jones'  crimes.  In  a desperate
+effort  to  escape  he takes the president
+hostage.  The  president  sacks him on the
+spot,  directive  4  is overridden and you
+may  shoot  him. But be careful not to hit
+the president himself!
+
+STATUS AND SCORING
+Score, Time remaining and energy displayed
+at top of screen.
+20 points for hitting a bad guy
+50 points for killing a bad guy
+250 points for collecting capsule
+Special bonus for completing a level.
+
+HINTS AND TIPS
+1. Conserve ammunition
+2. Criminals will always attack you at the
+same points. Remember these points to gain
+the initiative.
+3.  On  hostage screens, try to anticipate
+the  movement  of  villains  for an easier
+shot.
+
+==========================================

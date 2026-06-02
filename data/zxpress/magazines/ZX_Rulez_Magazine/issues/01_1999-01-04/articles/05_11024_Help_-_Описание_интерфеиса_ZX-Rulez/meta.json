@@ -1,0 +1,15 @@
+{
+  "magazine_id": 278,
+  "magazine_name": "ZX Rulez Magazine",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-01-04",
+  "order": 5,
+  "article_id": 11024,
+  "title_link": "Help - Описание интерфейса ZX-Rulez.",
+  "title_h1": "ZX Rulez Magazine 01 - Help - Описание интерфейса ZX-Rulez.",
+  "print_url": "https://zxpress.ru/print.php?id=11024",
+  "article_url": "https://zxpress.ru/article.php?id=11024",
+  "fetched_at": "2026-05-31T23:37:51Z"
+}

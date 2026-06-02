@@ -1,0 +1,237 @@
+ACNews 59 - Управление флаговым регистром - Управление флаговым регистром в процессоре Z80.
+Управление флаговым регистром
+by Alone Coder
+Иногда (например, для вывода по
+push
+) требуется присвоить
+конкретное значение регистровой паре
+AF.
+Метод
+ld bc:push bc:
+pop af избыточен в большинстве случаев. Есть способы занести
+нужное число в
+F
+(часто с попутным занесением того же числа
+в
+A
+) быстрее и короче. Я свёл их в таблицу.
+
+Символ
+"="
+означает, что
+A=F.
+Символ
+"!="
+означает, что
+A!=F
+(но
+при этом процедура, например, короче).
+#00 xor a(sub a):inc a (т.е. дешевле сделать xor a:inc a:
+ld a,0=11t(4b), чем ld bc,0:push bc:pop af=31t(5b))
+#01= xor a(sub a):inc a:ccf(scf)
+#02= ld a,#82:sub #80 или(!=) or a(xor a)(and a):ld a,#51:dec a
+#03 xor a:cp #90(c0)
+#04 ld a,#47:or a
+#05 ld a,#47:or a(and a):ccf
+#06 ld a,#8e:sub #48
+#07
+#08= xor a:add a,#08
+#09= xor a:sub #f7(a1):scf или(!=) ld a,#20:dec a:scf или(!=)
+xor a:sub #a8:inc a
+#0a= ld a,#8a:sub #80 или(!=) or a:ld a,#0f(1f,4f,5f):dec a
+#0b scf:ld a,#0f(1f,4f,5f):dec a
+#0c= xor a:or #08(48)
+#0d= ld a,#85:add a,#88 или(!=) ld a,#48:or a:scf
+#0e ld a,#8e:sub #40
+#0f
+#10= ld a,#10(13,46):and a
+#11= ld a,#ff:add a,#12 или(!=) scf:ld a,#0f(4f):inc a
+#12= ld a,#20:sub #0e
+#13= xor a:sub #ed(ff,fe)
+#14 ld a,#47(11,12):and a
+#15
+#16= scf:ld a,#96(81,c6):sbc a,#7f
+#17
+#18= xor a:ld a,#18:bit 3,a или короче(!=) xor a:cp #88:ccf
+#19= ld a,#ff:add a,#1a
+#1a= ld a,#70:sub #56(51)
+#1b xor a:cp #88(89,98) или xor a:sub #a8
+#1c ld a,#ff:and #48
+#1d
+#1e= ld a,#80:sub #62(76,66)
+#1f
+#20= xor a:add a,#20 или ld a,#20:or a
+#21= xor a:sub #df:scf или(!=) xor a:sub #a0:inc a или(!=)
+xor a:add a,#21(20):scf
+#22= ld a,#a2:sub #80
+#23 xor a:cp(sub) #a0(b0)
+#24= xor a:or #24
+#25 xor a:or #27:scf или ld a,#27:or a:scf
+#26= ld a,#8e:sub #68
+#27
+#28= xor a:add a,#28
+#29= ld a,#29(40):dec a:scf или(!=) scf:sbc a,a:srl a
+#2a= ld a,#aa:sub #80 или(!=) or a:ld a,#2f(3f,3e,3d):dec a
+#2b scf:ld a,#2f(3f,3e,3d):dec a
+#2c xor a:or #28
+#2d
+#2e= ld a,#8e:sub #60
+#2f
+#30= xor a:ld a,#2f:inc a или(!=) xor a:cp(sub) #a0:ccf
+#31= ld a,#ff:add a,#32 или(!=) scf:ld a,#1f(5f):inc a
+#32= ld a,#70:sub #3e
+#33= xor a:sub #cd(8d,cc,dd)
+#34 ld a,#ff:and #60(35)
+#35
+#36= scf:ld a,#b6(a0):sbc a,#7f
+#37
+#38= xor a:ld a,#38:bit 3,a или короче(!=) xor a:cp #a8(ff):ccf
+или xor a:sub #88:ccf
+#39= ld a,#ff:add a,#3a(7f) или(!=) scf:sbc a,a:bit 0(1),a
+#3a= ld a,#70:sub #36(33)
+#3b xor a:cp #a8(ff) или xor a:sub #88
+#3c ld a,#ff:and #69
+#3d
+#3e= ld a,#80:sub 42(1) или короче(!=) ld a,#80:dec a
+#3f scf:ld a,#80:dec a
+#40 xor a:add a,a
+#41 sub a:ccf(scf)
+#42 sub a
+#43
+#44 xor a
+#45 xor a:ccf(scf)
+...
+#50 xor a:dec a:inc a
+#51 scf:sbc a,a:inc a
+#52
+#53 xor a:scf:sbc a,#ff
+#54= xor a:add(ld) a,#54:bit 0,a или короче(!=) xor a:and a
+#55= scf:ld a,#55:bit 7,a
+#56 scf:ld a,#80:sbc a,#7f (выставляет half-carry)
+#57
+#58
+#59
+#5a
+#5b
+#5c= xor a:ld a,#5c:bit 7(0),a
+#5d= scf:ld a,#5d:bit 7,a
+...
+#74= xor a:ld a,#74:bit 7,a
+#75= scf:ld a,#75:bit 7,a
+...
+#7c= xor a:ld a,#7c:bit 7,a
+#7d= scf:ld a,#7d:bit 7,a
+#7e
+#7f
+#80= xor a:add a(or),#80
+#81= scf:ld a,#80:inc a
+#82= ld a,#ff:sub #7d или or(xor) a:ld a,#83(82,81):dec a
+#83 xor a:cp #10
+#84= xor a:or #84 или ld a,#84:or a
+#85= ld a,#15(22):add a,#70:scf
+#86
+#87 xor a:cp #80
+#88= xor a:add a,#88 или(!=) xor a:or #8c
+#89= ld a,#c9:add a,#c0
+#8a= ld a,#ca:sub #40
+#8b ld a,8:sub #70
+#8c= ld a,#1c:add a,#70 или короче(!=) xor a:or #88
+#8d= ld a,#1d:add a,#70:scf
+#8e
+#8f ld a,#7f:sub #e0
+#90 ld a,#94(91,92):and a
+#91= ld a,#ff:add a,#92 или(!=) scf:ld a,#8f:inc a
+#92= ld a,#f0:sub #5e
+#93= xor a:sub #6d или(!=) xor a:cp 1
+#94 ld a,#87(90,93):and a
+#95 scf:ld a,#7f:inc a
+#96
+#97= ld a,#70:sub #d9(de)
+#98= or a:ld a,#98:bit 7,a
+#99= ld a,#ff:add a,#9a
+#9a or a:ld(add) a,#90(a0):dec a
+#9b= ld a,#15:sub #7a или короче(!=) xor a:cp #18(08,09)
+#9c= ld a,#ff:and #9c
+#9d
+#9e
+#9f= scf:ld a,#7f:sbc a,#d7(af)
+#a0= xor a:add a,#a0
+#a1= xor a:sub #5f(0d):scf
+#a2= ld a,#ff:sub #5d или(!=) xor a:add a,#a7(a8,a1):dec a
+#a3 xor a:cp #20(10)
+#a4 xor a:or #a0
+#a5= ld a,#50:add a,#55:scf
+#a6
+#a7= ld a,#7f:sub #d8
+#a8= xor a:add a,#a8
+#a9 xor a:dec a:scf(ccf) или scf:sbc a,a:rla(rlca,rra,rrca)
+#aa= or a:ld a,#ab(aa):dec a
+#ab scf:sbc a,a:dec a
+#ac= xor a:or #ac
+#ad scf:sbc a,a:rr(rrc,rlc,rl,sra) a
+#ae
+#af= ld a,#7f:sub #d0
+#b0= ld a,#ff:and #b0
+#b1= ld a,#ff:add a,#b2
+#b2= ld a,#f0:sub #3e
+#b3= xor a:sub #4d(5d)
+#b4= ld a,#ff:and #b4(a0)
+#b5
+#b6
+#b7= ld a,#70:sub #b9
+#b8= or a:ld a,#b8:bit 7,a или короче(!=) ld a,#ff:and #bc
+#b9= ld a,#ff:add a,#ba
+#ba xor a(или sub a):dec a
+#bb scf:sbc a,a
+#bc ld a,#ff:and #b8
+#bd
+#be
+#bf= ld a,#70:sub #b1
+scf снимает флаг N, т.е. маску #02
+
+маска #28 зависит от F5,F3, т.е. от содержимого A
+
+маска #40 - флаг Z, т.е. можно её получить только при нулевом
+результате. inc даёт #50, dec даёт #42
+
+bit работает как and, трогает S(=A7 при bit7,
+иначе 0),z(=~Ai),F5(=A5),h(=1),F3(=A3),p(=~Ai=z),n(=0),
+не трогаеттолько CY
+с ним можно получить xZx1xZOc, т.е.
+#x8,x9(x=1,3,9,b),xc,xd(x=5,7) - все такие случаи вписаны
+
+and даёт H=1, or даёт H=0
+
+на %111 (вычитание, одновременно перенос и переполнение)
+заканчиваются только:
+#3f (scf:ld a,#80:dec a)
+#x7,xf при x=9..b (ld a,:sub >#80)
+Какие числа получить не удалось:
+
+#48..#4f: 01001xxx S=0, Z=1 (но при этом A!=0), H=0 (т.е. нельзя
+через bit)
+#15 00010101 - надо результат <#80, переполнение, но не
+вычитание (но add не получит переполнение при результате <#80, а
+scf сбросит H)
+#1d 00011101 - то же
+#2d 00101011 - вычитание, перенос, нет переполнения, но при этом
+результат <#80
+#35 00110101 - а) сложение, перенос, переполнение, но результат
+<#80, б) and, но перенос (scf сбрасывает H)
+#43 01000011 - вычитание, перенос, 0, но при этом без half-carry
+#46..#47 0100011x - последняя операция вычитание, переполнение
+(чётности в вычитании нет), 0, но при этом без half-carry
+#86 10000110 - вычитание, переполнение, нет переноса, но
+результат >=#80
+#8e 10001110 - то же
+#96 10010110 - то же
+#9e 10011110 - то же
+#a6 10100110 - то же
+#ae 10101110 - то же
+#b6 10110110 - то же
+#be 10111110 - то же
+#9d 10011101 - а) сложение, перенос (scf сбрасывает H),
+переполнение, но результат >=#80 (есть только scf:ld a,#7f:inc a
+- но там другие F3,F5), б) and, но перенос (scf сбрасывает H)
+#b5,bd 1011x101 - то же
+#c0..#ff получить затруднительно из-за S=1 и одновременно Z=1.

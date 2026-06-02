@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 3689,
+    "article_url": "https://zxpress.ru/article.php?id=3689",
+    "print_url": "https://zxpress.ru/print.php?id=3689",
+    "title_link": "В паутине - О пятой поинтовке...",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "В_паутине_-_О_пятои_поинтовке"
+  },
+  {
+    "article_id": 3691,
+    "article_url": "https://zxpress.ru/article.php?id=3691",
+    "print_url": "https://zxpress.ru/print.php?id=3691",
+    "title_link": "Каракули мозга - Межлокальная контрабанда.\r\n Лечебные заговоры (от пьянства, похмелья, запоя).",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Каракули_мозга_-_Межлокальная_контрабанда_Лечебные_заговоры"
+  },
+  {
+    "article_id": 3690,
+    "article_url": "https://zxpress.ru/article.php?id=3690",
+    "print_url": "https://zxpress.ru/print.php?id=3690",
+    "title_link": "Лаборатория - О подключении внешних устройств к ZX-Spectrum.",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Лаборатория_-_О_подключении_внешних_устроиств_к_ZX-Spectrum"
+  }
+]

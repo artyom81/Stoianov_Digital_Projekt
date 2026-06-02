@@ -1,0 +1,74 @@
+Subliminal Extacy 01 - My +D Power Pack Is Shagged!
+>>>>> My +D Power Pack Is Shagged! <<<<<            
+                                                                
+                    -= By L.A. Of Extacy-3 =-                   
+                                                                
+                                                                
+This short article is merely for informational purposes only.   
+If you choose to do the same hardware modifications as I have,  
+then Extacy-3, as a whole, would like to say that we take no    
+responsibility for any damage you may cause to your hardware,   
+software, etc.  Please note that I am very experienced in the   
+electronics area.                                               
+                                                                
+Now I have that out of the way let me tell you a small story. A
+couple of days ago my +D power pack rather unexpectedly "blew   
+up"!!!  Well, when I say "blew up", I mean It died (quite       
+quietly too!).  I was then left with a great big shitty thought.
+I'd have to buy a new power pack....  Or find a replacement one.
+                                                                
+I then set about trying to find a power pack that had an output 
+of 5 Volts at 500 MilliAmps.  I found many which were around    
+4.5v to 6v.  Also I found the Amps ranging from 5OOmA to ЗAmps. 
+Nothing was near enough the recommended Volts or Amps.          
+                                                                
+I decided to give up.  I had to face up to reality.  I had to go
+back to SLOW old tape!!!                                        
+                                                                
+Until one day whilst taking my Amiga 500 apart (to give it an   
+internal clean) when I had a very stupid idea.  I could try and 
+use my +D drive as the internal of my amiga.  All the plugs and 
+sockets where exactly the same.  Wow! I hooked it all up as     
+quick as I could.  SHIT!  The Amiga wouldn't work with the      
+drive.  It made the +D drive light come on, it span the disk and
+made the Amiga think it was permanently loading!  The main thing
+which stuck in my head was the fact that the Amiga had powered  
+my +D drive....                                                 
+                                                                
+I then got out my Digital VoltMeter (DVM for short) and started 
+checking voltages, etc.  I found out that the amiga has 2 pins  
+on the power supply unit which supply 5 volts at 3 Amps.  Shit! 
+This was almost what I wanted!!!  The only problem was the      
+amount of Amps was 6 times greater than that suppled by the     
+original +D power pack.  I thought that it would be worth the   
+risk of trying it!!  Remember, the +D drive was powered okay by 
+the Amiga.                                                      
+                                                                
+I set to work on a lead that would fit in the back of the +D    
+drive and one that would connect to the correct pins of Amiga   
+power pack. Below is a diagram of the Amiga power pack with     
+relevant notes.                                                 
+                                                                
+                           _____  _____                              
+1 - +5v at 3.0 Amps       /     /                             
+2 - Shield Ground        |   3      4  |                        
+3 - +12v at 1.0 Amp      |             |                        
+4 - Signal Ground        |      5      |                        
+5 - -12v at 0.1 amps     |             |                        
+                         |   2      1  |                        
+                          ____________/                        
+                                                                
+Okay, what I did was connected Pin 4 to the negative lead of my 
++D cable (the one which has 2 wires and is simular to a head    
+phone jack) and pin 1 to the positive lead.                     
+                                                                
+I had some special metal female socket things which I soldered  
+the ends of the wires to.  I then pushed them onto the correct  
+pins.  Et voila!  I powered everything up and it worked first   
+time.  I have been using this power pack ever since I found out 
+I could use it.  I spend long hours on my Speccy and I have had 
+no problems (yet! Touch wood!).                                 
+                                                                
+I hope this has been of some value to somebody out there.       
+Otherwise I've just wasted the past 20 odd minutes typing this  
+out!!!

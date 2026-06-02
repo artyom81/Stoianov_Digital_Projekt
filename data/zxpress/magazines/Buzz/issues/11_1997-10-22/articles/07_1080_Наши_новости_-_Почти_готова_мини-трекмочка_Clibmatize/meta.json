@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "11",
+  "issue_date_iso": "1997-10-22",
+  "order": 7,
+  "article_id": 1080,
+  "title_link": "Наши новости - Почти готова мини-трекмочка Clibmatize.",
+  "title_h1": "Buzz 11 - Наши новости - Почти готова мини-трекмочка Clibmatize.",
+  "print_url": "https://zxpress.ru/print.php?id=1080",
+  "article_url": "https://zxpress.ru/article.php?id=1080",
+  "fetched_at": "2026-05-31T21:47:49Z"
+}

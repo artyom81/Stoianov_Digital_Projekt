@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 5042,
+    "article_url": "https://zxpress.ru/article.php?id=5042",
+    "print_url": "https://zxpress.ru/print.php?id=5042",
+    "title_link": "От автора - О газете и авторах.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_автора_-_О_газете_и_авторах"
+  },
+  {
+    "article_id": 5043,
+    "article_url": "https://zxpress.ru/article.php?id=5043",
+    "print_url": "https://zxpress.ru/print.php?id=5043",
+    "title_link": "Новости - В предверии Инлайта.\r\n В ожидании \"Черного ворона\" и \"Страны драконов\".\r\n Sprinter : Супер-Спектрум или еще одна ошибка ?\r\n О содержании журнала \"Spectrofon-22\"\r\n Крах \"Инфоркома\" ?!",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Новости_-_В_предверии_Инлаита_В_ожидании_Черного_ворона_и_Ст"
+  },
+  {
+    "article_id": 5044,
+    "article_url": "https://zxpress.ru/article.php?id=5044",
+    "print_url": "https://zxpress.ru/print.php?id=5044",
+    "title_link": "Обзор - О новинках Российского рынка : Altere Beast, New Dizzy,\r\n Invasion of the Body Snatchers, Rally Cross.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Обзор_-_О_новинках_Россииского_рынка_Altere_Beast_New_Dizzy"
+  },
+  {
+    "article_id": 5045,
+    "article_url": "https://zxpress.ru/article.php?id=5045",
+    "print_url": "https://zxpress.ru/print.php?id=5045",
+    "title_link": "Афоризмы - 10 лучших цитат из компьютерной прессы.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Афоризмы_-_10_лучших_цитат_из_компьютернои_прессы"
+  },
+  {
+    "article_id": 15211,
+    "article_url": "https://zxpress.ru/article.php?id=15211",
+    "print_url": "https://zxpress.ru/print.php?id=15211",
+    "title_link": "Программистам - Кодинг для начинающих: \"Погружeниe в движeниe\". Часть вторая.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Программистам_-_Кодинг_для_начинающих_Погружeниe_в_движeниe"
+  },
+  {
+    "article_id": 13674,
+    "article_url": "https://zxpress.ru/article.php?id=13674",
+    "print_url": "https://zxpress.ru/print.php?id=13674",
+    "title_link": "SONY - Видеомагнитофоны: SLV-E160EE, SLV-E290EE, SLV-E410EE, SLV-E510EE, SLV-E810EE.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "SONY_-_Видеомагнитофоны_SLV-E160EE_SLV-E290EE_SLV-E410EE_SLV"
+  },
+  {
+    "article_id": 6087,
+    "article_url": "https://zxpress.ru/article.php?id=6087",
+    "print_url": "https://zxpress.ru/print.php?id=6087",
+    "title_link": "Обратная связь - адреса редакции.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Обратная_связь_-_адреса_редакции"
+  },
+  {
+    "article_id": 6785,
+    "article_url": "https://zxpress.ru/article.php?id=6785",
+    "print_url": "https://zxpress.ru/print.php?id=6785",
+    "title_link": "Юмор - анекдоты.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 15474,
+    "article_url": "https://zxpress.ru/article.php?id=15474",
+    "print_url": "https://zxpress.ru/print.php?id=15474",
+    "title_link": "Аперетивчик - Ну вот и вышел \"чертовый номер\" NEXT'а.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Аперетивчик_-_Ну_вот_и_вышел_чертовыи_номер_NEXTа"
+  }
+]

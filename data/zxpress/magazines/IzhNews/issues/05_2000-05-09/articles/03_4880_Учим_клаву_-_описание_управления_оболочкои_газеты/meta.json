@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "2000-05-09",
+  "order": 3,
+  "article_id": 4880,
+  "title_link": "Учим клаву - описание управления оболочкой газеты.",
+  "title_h1": "IzhNews 05 - Учим клаву - описание управления оболочкой газеты.",
+  "print_url": "https://zxpress.ru/print.php?id=4880",
+  "article_url": "https://zxpress.ru/article.php?id=4880",
+  "fetched_at": "2026-05-31T22:15:28Z"
+}

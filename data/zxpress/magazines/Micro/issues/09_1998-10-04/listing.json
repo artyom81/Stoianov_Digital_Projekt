@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 5156,
+    "article_url": "https://zxpress.ru/article.php?id=5156",
+    "print_url": "https://zxpress.ru/print.php?id=5156",
+    "title_link": "Чемпионат - 1-й Запорожский Чемпионат по Вирусам.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "Чемпионат_-_1-и_Запорожскии_Чемпионат_по_Вирусам"
+  },
+  {
+    "article_id": 5157,
+    "article_url": "https://zxpress.ru/article.php?id=5157",
+    "print_url": "https://zxpress.ru/print.php?id=5157",
+    "title_link": "Tape и Disk - Адаптация программ к системе TR-DOS (часть 3).",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Tape_и_Disk_-_Адаптация_программ_к_системе_TR-DOS_часть_3"
+  },
+  {
+    "article_id": 5158,
+    "article_url": "https://zxpress.ru/article.php?id=5158",
+    "print_url": "https://zxpress.ru/print.php?id=5158",
+    "title_link": "Chaos - описание игры \"Хаос - битва волшебников\".",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Chaos_-_описание_игры_Хаос_-_битва_волшебников"
+  },
+  {
+    "article_id": 5159,
+    "article_url": "https://zxpress.ru/article.php?id=5159",
+    "print_url": "https://zxpress.ru/print.php?id=5159",
+    "title_link": "Полезные сведения - описание врагов из игры BARD'S TALE.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Полезные_сведения_-_описание_врагов_из_игры_BARDS_TALE"
+  },
+  {
+    "article_id": 5160,
+    "article_url": "https://zxpress.ru/article.php?id=5160",
+    "print_url": "https://zxpress.ru/print.php?id=5160",
+    "title_link": "Pokes - Poke's к играм.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Pokes_-_Pokes_к_играм"
+  },
+  {
+    "article_id": 5161,
+    "article_url": "https://zxpress.ru/article.php?id=5161",
+    "print_url": "https://zxpress.ru/print.php?id=5161",
+    "title_link": "Анекдоты - парад анекдотов.",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "Анекдоты_-_парад_анекдотов"
+  }
+]

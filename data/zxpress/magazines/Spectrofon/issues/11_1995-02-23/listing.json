@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4530,
+    "article_url": "https://zxpress.ru/article.php?id=4530",
+    "print_url": "https://zxpress.ru/print.php?id=4530",
+    "title_link": "Экспертиза - игра \"Swords & Sorcery\". Это предшественница популярных ролевых игр приятно удивит Вас обширным игровым пространством, обилием монстров, чудовищ и колдунов.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Экспертиза_-_игра_Swords_Sorcery_Это_предшественница_популяр"
+  },
+  {
+    "article_id": 4531,
+    "article_url": "https://zxpress.ru/article.php?id=4531",
+    "print_url": "https://zxpress.ru/print.php?id=4531",
+    "title_link": "Штурм - читатели журнала штурмуют загадочную игру \"MindFighter\".",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Штурм_-_читатели_журнала_штурмуют_загадочную_игру_MindFighte"
+  },
+  {
+    "article_id": 4532,
+    "article_url": "https://zxpress.ru/article.php?id=4532",
+    "print_url": "https://zxpress.ru/print.php?id=4532",
+    "title_link": "Премьера - \"Notebook\" - \"Записная Книжка\" и \"Color Lines\" - логическая игра, аналог игры для IBM PC и комикс \"Смертельное Касание\".",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Премьера_-_Notebook_-_Записная_Книжка_и_Color_Lines_-_логиче"
+  },
+  {
+    "article_id": 4533,
+    "article_url": "https://zxpress.ru/article.php?id=4533",
+    "print_url": "https://zxpress.ru/print.php?id=4533",
+    "title_link": "Обзор - Шахматные игры для \"ZX-SPECTRUM\".",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Обзор_-_Шахматные_игры_для_ZX-SPECTRUM"
+  },
+  {
+    "article_id": 4534,
+    "article_url": "https://zxpress.ru/article.php?id=4534",
+    "print_url": "https://zxpress.ru/print.php?id=4534",
+    "title_link": "С миру по биту - Письма читателей, статья-пародия на \"бегущие строчки\".",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "С_миру_по_биту_-_Письма_читателеи_статья-пародия_на_бегущие"
+  },
+  {
+    "article_id": 4535,
+    "article_url": "https://zxpress.ru/article.php?id=4535",
+    "print_url": "https://zxpress.ru/print.php?id=4535",
+    "title_link": "Система - \"Новое о Z-80 или кое-что о недокументированных командах \r\nпроцессора и архитектуре \"ZX-Spectrum\".",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "Система_-_Новое_о_Z-80_или_кое-что_о_недокументированных_ком"
+  },
+  {
+    "article_id": 4536,
+    "article_url": "https://zxpress.ru/article.php?id=4536",
+    "print_url": "https://zxpress.ru/print.php?id=4536",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 7,
+    "issue_label": "11",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

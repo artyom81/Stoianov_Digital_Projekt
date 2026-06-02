@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 6670,
+    "article_url": "https://zxpress.ru/article.php?id=6670",
+    "print_url": "https://zxpress.ru/print.php?id=6670",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "36",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6671,
+    "article_url": "https://zxpress.ru/article.php?id=6671",
+    "print_url": "https://zxpress.ru/print.php?id=6671",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "36",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6672,
+    "article_url": "https://zxpress.ru/article.php?id=6672",
+    "print_url": "https://zxpress.ru/print.php?id=6672",
+    "title_link": "Рассказ - Ну, юзер, погоди! (продолжение).",
+    "order": 3,
+    "issue_label": "36",
+    "short_slug": "Рассказ_-_Ну_юзер_погоди_продолжение"
+  },
+  {
+    "article_id": 6673,
+    "article_url": "https://zxpress.ru/article.php?id=6673",
+    "print_url": "https://zxpress.ru/print.php?id=6673",
+    "title_link": "Рассказ - Посидим.",
+    "order": 4,
+    "issue_label": "36",
+    "short_slug": "Рассказ_-_Посидим"
+  },
+  {
+    "article_id": 6674,
+    "article_url": "https://zxpress.ru/article.php?id=6674",
+    "print_url": "https://zxpress.ru/print.php?id=6674",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 5,
+    "issue_label": "36",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6675,
+    "article_url": "https://zxpress.ru/article.php?id=6675",
+    "print_url": "https://zxpress.ru/print.php?id=6675",
+    "title_link": "Юмор - анекдоты.",
+    "order": 6,
+    "issue_label": "36",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6676,
+    "article_url": "https://zxpress.ru/article.php?id=6676",
+    "print_url": "https://zxpress.ru/print.php?id=6676",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 7,
+    "issue_label": "36",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6677,
+    "article_url": "https://zxpress.ru/article.php?id=6677",
+    "print_url": "https://zxpress.ru/print.php?id=6677",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 8,
+    "issue_label": "36",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

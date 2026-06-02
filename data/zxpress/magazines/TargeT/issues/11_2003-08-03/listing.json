@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 15363,
+    "article_url": "https://zxpress.ru/article.php?id=15363",
+    "print_url": "https://zxpress.ru/print.php?id=15363",
+    "title_link": "Intro - Вступление.",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Intro_-_Вступление"
+  },
+  {
+    "article_id": 15364,
+    "article_url": "https://zxpress.ru/article.php?id=15364",
+    "print_url": "https://zxpress.ru/print.php?id=15364",
+    "title_link": "Some - В этом разделе TаrgеT хочу в первую очередь передать приветы \"братьям по перу\" в лице изданий GЕИZ и ZX-TIMЕ !",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Some_-_В_этом_разделе_TаrgеT_хочу_в_первую_очередь_передать"
+  },
+  {
+    "article_id": 15365,
+    "article_url": "https://zxpress.ru/article.php?id=15365",
+    "print_url": "https://zxpress.ru/print.php?id=15365",
+    "title_link": "Ideology of - Иногда, во многих изданиях, то тут то там приходится видеть, как все in dоwn, и что же с нами будет.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "Ideology_of_-_Иногда_во_многих_изданиях_то_тут_то_там_приход"
+  },
+  {
+    "article_id": 15366,
+    "article_url": "https://zxpress.ru/article.php?id=15366",
+    "print_url": "https://zxpress.ru/print.php?id=15366",
+    "title_link": "Scene - Почему я вновь затраXиваю эту тему ? Потому что она мне самому очень близка, и зачастую некоторые вещи попросту рвут струны моей души.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Scene_-_Почему_я_вновь_затраXиваю_эту_тему_Потому_что_она_мн"
+  },
+  {
+    "article_id": 15367,
+    "article_url": "https://zxpress.ru/article.php?id=15367",
+    "print_url": "https://zxpress.ru/print.php?id=15367",
+    "title_link": "Money - Долой коммерческий софт! Не губите платформу! Спектрум не продается!",
+    "order": 5,
+    "issue_label": "11",
+    "short_slug": "Money_-_Долои_коммерческии_софт_Не_губите_платформу_Спектрум"
+  },
+  {
+    "article_id": 15368,
+    "article_url": "https://zxpress.ru/article.php?id=15368",
+    "print_url": "https://zxpress.ru/print.php?id=15368",
+    "title_link": "To be or not - Вы Эмуляторщик или Реальщик? Неважно, вы Спектрумист!",
+    "order": 6,
+    "issue_label": "11",
+    "short_slug": "To_be_or_not_-_Вы_Эмуляторщик_или_Реальщик_Неважно_вы_Спектр"
+  }
+]

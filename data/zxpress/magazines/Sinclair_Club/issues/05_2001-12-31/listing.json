@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 6483,
+    "article_url": "https://zxpress.ru/article.php?id=6483",
+    "print_url": "https://zxpress.ru/print.php?id=6483",
+    "title_link": "От авторов - \"Читайте наше издание и ваша Spectrum'овская душа будет кристально \r\nчистой.\"",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "От_авторов_-_Читаите_наше_издание_и_ваша_Spectrumовская_душа"
+  },
+  {
+    "article_id": 6484,
+    "article_url": "https://zxpress.ru/article.php?id=6484",
+    "print_url": "https://zxpress.ru/print.php?id=6484",
+    "title_link": "Демопати - анонс ASCII'2002.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Демопати_-_анонс_ASCII2002"
+  },
+  {
+    "article_id": 6485,
+    "article_url": "https://zxpress.ru/article.php?id=6485",
+    "print_url": "https://zxpress.ru/print.php?id=6485",
+    "title_link": "Программирование - очень эффективный способ повысить производительность интерпретатора бейсика (48 Basic), встроенного в ZX-Spectrum, при обработке больших массивов данных.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Программирование_-_очень_эффективныи_способ_повысить_произво"
+  },
+  {
+    "article_id": 6486,
+    "article_url": "https://zxpress.ru/article.php?id=6486",
+    "print_url": "https://zxpress.ru/print.php?id=6486",
+    "title_link": "Железо - Sprinter? Вопросы и ответы!",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Железо_-_Sprinter_Вопросы_и_ответы"
+  },
+  {
+    "article_id": 6487,
+    "article_url": "https://zxpress.ru/article.php?id=6487",
+    "print_url": "https://zxpress.ru/print.php?id=6487",
+    "title_link": "Конкурс - Внимание конкурс \"Твоя игра\"!!!",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Конкурс_-_Внимание_конкурс_Твоя_игра"
+  },
+  {
+    "article_id": 6488,
+    "article_url": "https://zxpress.ru/article.php?id=6488",
+    "print_url": "https://zxpress.ru/print.php?id=6488",
+    "title_link": "Софт - Странности системных программ: STS 5.1, ALASM 4.1.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Софт_-_Странности_системных_программ_STS_51_ALASM_41"
+  },
+  {
+    "article_id": 6489,
+    "article_url": "https://zxpress.ru/article.php?id=6489",
+    "print_url": "https://zxpress.ru/print.php?id=6489",
+    "title_link": "Chaos Constructions'2001 - Касик делится впечатлениями об очередном фестивале компьютерного искусства.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "Chaos_Constructions2001_-_Касик_делится_впечатлениями_об_оче"
+  },
+  {
+    "article_id": 6490,
+    "article_url": "https://zxpress.ru/article.php?id=6490",
+    "print_url": "https://zxpress.ru/print.php?id=6490",
+    "title_link": "Софт - описание новой версии GFX UTILITY v0.5.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Софт_-_описание_новои_версии_GFX_UTILITY_v05"
+  },
+  {
+    "article_id": 6491,
+    "article_url": "https://zxpress.ru/article.php?id=6491",
+    "print_url": "https://zxpress.ru/print.php?id=6491",
+    "title_link": "phONOmania - база данных по телефонным номерам активных ZX сценеров.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "phONOmania_-_база_данных_по_телефонным_номерам_активных_ZX_с"
+  },
+  {
+    "article_id": 6492,
+    "article_url": "https://zxpress.ru/article.php?id=6492",
+    "print_url": "https://zxpress.ru/print.php?id=6492",
+    "title_link": "Обьявления - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Обьявления_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 6493,
+    "article_url": "https://zxpress.ru/article.php?id=6493",
+    "print_url": "https://zxpress.ru/print.php?id=6493",
+    "title_link": "Авторы - Редакция газеты.",
+    "order": 11,
+    "issue_label": "05",
+    "short_slug": "Авторы_-_Редакция_газеты"
+  }
+]

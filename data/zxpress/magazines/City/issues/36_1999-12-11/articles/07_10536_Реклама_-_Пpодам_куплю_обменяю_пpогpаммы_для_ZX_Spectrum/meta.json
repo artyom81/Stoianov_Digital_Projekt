@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "36",
+  "issue_date_iso": "1999-12-11",
+  "order": 7,
+  "article_id": 10536,
+  "title_link": "Реклама - Пpодам, куплю ,обменяю пpогpаммы для ZX Spectrum.",
+  "title_h1": "City 36 - Реклама - Пpодам, куплю ,обменяю пpогpаммы для ZX Spectrum.",
+  "print_url": "https://zxpress.ru/print.php?id=10536",
+  "article_url": "https://zxpress.ru/article.php?id=10536",
+  "fetched_at": "2026-05-31T21:51:35Z"
+}

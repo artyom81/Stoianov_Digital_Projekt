@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 5732,
+    "article_url": "https://zxpress.ru/article.php?id=5732",
+    "print_url": "https://zxpress.ru/print.php?id=5732",
+    "title_link": "От редактора - о новой оболочке.",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "От_редактора_-_о_новои_оболочке"
+  },
+  {
+    "article_id": 5733,
+    "article_url": "https://zxpress.ru/article.php?id=5733",
+    "print_url": "https://zxpress.ru/print.php?id=5733",
+    "title_link": "Кодерам - Скроллер на бордюре.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Кодерам_-_Скроллер_на_бордюре"
+  },
+  {
+    "article_id": 5734,
+    "article_url": "https://zxpress.ru/article.php?id=5734",
+    "print_url": "https://zxpress.ru/print.php?id=5734",
+    "title_link": "Почта - письма читателей: Александр Фисун, Nuts, DJ\r\nHooligan, Vir ExCite/Myth Corp.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Почта_-_письма_читателеи_Александр_Фисун_Nuts_DJHooligan_Vir"
+  },
+  {
+    "article_id": 5735,
+    "article_url": "https://zxpress.ru/article.php?id=5735",
+    "print_url": "https://zxpress.ru/print.php?id=5735",
+    "title_link": "Дискуссия - Многозадачность и ОС.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Дискуссия_-_Многозадачность_и_ОС"
+  },
+  {
+    "article_id": 5736,
+    "article_url": "https://zxpress.ru/article.php?id=5736",
+    "print_url": "https://zxpress.ru/print.php?id=5736",
+    "title_link": "Новости и старости - местные новости.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Новости_и_старости_-_местные_новости"
+  },
+  {
+    "article_id": 5737,
+    "article_url": "https://zxpress.ru/article.php?id=5737",
+    "print_url": "https://zxpress.ru/print.php?id=5737",
+    "title_link": "Обзор новья - Real Commander v2.1, Trouble v0.243, Nicron 122, Earth Shaker, Global Tracker v1.1, Body #30, Insanity #10.",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "Обзор_новья_-_Real_Commander_v21_Trouble_v0243_Nicron_122_Ea"
+  },
+  {
+    "article_id": 5738,
+    "article_url": "https://zxpress.ru/article.php?id=5738",
+    "print_url": "https://zxpress.ru/print.php?id=5738",
+    "title_link": "PC и Spectrum - сравнение эмуляторов спектрума: Unreal Speccy VS Z80 Stealth Emulator",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "PC_и_Spectrum_-_сравнение_эмуляторов_спектрума_Unreal_Speccy"
+  },
+  {
+    "article_id": 5739,
+    "article_url": "https://zxpress.ru/article.php?id=5739",
+    "print_url": "https://zxpress.ru/print.php?id=5739",
+    "title_link": "О всём про всё - Тайна происхождения Homo Sapiens.",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "О_всем_про_все_-_Таина_происхождения_Homo_Sapiens"
+  },
+  {
+    "article_id": 5740,
+    "article_url": "https://zxpress.ru/article.php?id=5740",
+    "print_url": "https://zxpress.ru/print.php?id=5740",
+    "title_link": "И смех, и грех - приколы с институтских парт.",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "И_смех_и_грех_-_приколы_с_институтских_парт"
+  },
+  {
+    "article_id": 5741,
+    "article_url": "https://zxpress.ru/article.php?id=5741",
+    "print_url": "https://zxpress.ru/print.php?id=5741",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  }
+]

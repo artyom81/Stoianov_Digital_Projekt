@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "1999-01-12",
+  "order": 1,
+  "article_id": 5171,
+  "title_link": "Машинные языки - Языки программирования.",
+  "title_h1": "Micro 12 - Машинные языки - Языки программирования.",
+  "print_url": "https://zxpress.ru/print.php?id=5171",
+  "article_url": "https://zxpress.ru/article.php?id=5171",
+  "fetched_at": "2026-05-31T22:25:32Z"
+}

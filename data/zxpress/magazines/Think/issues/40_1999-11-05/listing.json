@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 3991,
+    "article_url": "https://zxpress.ru/article.php?id=3991",
+    "print_url": "https://zxpress.ru/print.php?id=3991",
+    "title_link": "От автора - Давненько не было газеты...",
+    "order": 1,
+    "issue_label": "40",
+    "short_slug": "От_автора_-_Давненько_не_было_газеты"
+  },
+  {
+    "article_id": 3992,
+    "article_url": "https://zxpress.ru/article.php?id=3992",
+    "print_url": "https://zxpress.ru/print.php?id=3992",
+    "title_link": "NEOS - Описание новой Операционной системы для Спектрума.",
+    "order": 2,
+    "issue_label": "40",
+    "short_slug": "NEOS_-_Описание_новои_Операционнои_системы_для_Спектрума"
+  },
+  {
+    "article_id": 3993,
+    "article_url": "https://zxpress.ru/article.php?id=3993",
+    "print_url": "https://zxpress.ru/print.php?id=3993",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 3,
+    "issue_label": "40",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 3994,
+    "article_url": "https://zxpress.ru/article.php?id=3994",
+    "print_url": "https://zxpress.ru/print.php?id=3994",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "40",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

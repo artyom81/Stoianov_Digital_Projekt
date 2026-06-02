@@ -1,0 +1,259 @@
+02 - Part 1 - Intro.
+________________________________________
+/________________________________________
+:                                        :
+:  -------------------------------       :
+:  :                             :  O O  :
+:  :       E M U L A T E !       :       :
+:  :                             :  O O  :
+:  :The Spectrum Emulator Magazine       :
+:  :                             :  O O  :
+:  :       I S S U E     2       :       :
+:  :                             :       :
+:  :        October 1995         :  ###  :
+:  :                             :  ###  :
+:  -------------------------------       :
+:________________________________________:
+
+
+EDITOR          : Barry Plewa     E-Mail :
+               DOCTOR@DOCBARRY.DEMON.CO.UK
+ASSISTANT EDITOR: Matthew Pimm    E-Mail :
+                M.PIMM@MARKROB.DEMON.CO.UK
+TECHNICAL EDITOR: Philip Reynolds E-Mail :
+                 PHIL@HEDGFORD.DEMON.CO.UK
+CONTRIBUTORS    : Richard Hallas  E-Mail :
+                RICHARD@HALLAS.DEMON.CO.UK
+                  Ruben Martinez  E-Mail :
+                 RUBEN.MARTINEZ@REDERIS.ES
+                  Eldad Petreanu  E-Mail :
+                  PATREL@TAVOR.OPENU.AC.IL
+                  Hynek Med       E-Mail :
+                      XMEDHO2@DRSON.VSE.CZ
+
+
+Support BBS :  FRAZZLE PROJECT BBS,
+             Kidderminster, Worcs, England
+Number (UK   ) :  (01562) 827019
+Number (Other) :  +44 1562 827019
+
+FIDONET ADDRESS : 2:2500/615.4
+
+      _____________________________
+     /                             
+    /-------------------------------
+   /                                 
+  /         C O N T E N T S         / 
+ /                                 / / 
+/_________________________________/_/_/_
+-----------------------------------------
+
+
+If you have any queries, letters, comments
+or  cries  for  help,  all  E-Mail  can be
+directed  to  me  at the following address
+and will be featured in a future issue:
+
+DOCTOR@DOCBARRY.DEMON.CO.UK
+
+Also,  any  interesting  articles you have
+produced about the Spectrum computer, send
+to  the  same  address  for inclusion in a
+future edition of Emulate!
+
+==========================================
+
+CONTENTS
+
+Part 1 - Editorial and News
+Part 2 - Playing Tips -Pyjamarama solution
+Part 3 - Free Games instructions.
+Part 4 - Technial Section.
+Part 5 - Emulate Letters
+Part 6 - Hacking Zone - Dommdarks Revenge
+Part 7 - History of Sinclair Part 2.
+Part 8 - Desert Island Disks / Save Our
+          Software!
+Part 9 - Spectrum Games charts - Past and
+          Present.
+Part 10 - A-Z of Spectrum Games Reviews
+           Part 2.
+Part 11 - Spectrum on the Net!
+Part 12 - Adventures
+Part 13 - Next Issue
+
+==========================================
+==========================================
+
+Welcome  to  another  Issue  of the Speccy
+Emulator   magazine,  Emulate!  Thanks  to
+everyone  who  gave  us  such  a  positive
+response  to  last  months  issue. You can
+take   a  look  at  some  of  the  letters
+received  later  in  the mag. We are lucky
+enough   to   have   two  exclusive  games
+featured  with  the  magazine  this month.
+Firstly, obtained by our Assistant Editor,
+a  pre- release version of Street Hawk and
+Secondly,  an  excellent  new  JSW game by
+Richard  Hallas,  entitled  `Join  the Jet
+Set`. Also featured is the epic Bards Tale
+and  two  great adventures. Thanks also to
+all  who have contributed articles to this
+Issue.  We  have  Part  2  of  our  Speccy
+History  and  also  of  our Spectrum Games
+Guide,  an article on the Database, Desert
+Island   Disks,   a   guide   to  cracking
+Doomdarks  Revenge and, of course, all the
+regulars  such as Playing Tips, Adventures
+and  the  new  Techincal  section. So, sit
+back, put the power pack on a firm surface
+and enjoy the mag!!
+
+==========================================
+==========================================
+
+SPECTRUM NEWS
+
+==========================================
+
+SPECTRUM DATABASE ON NVG
+All  the entries for the Spectrum Database
+are  now  available  on  the  NVG UNIT ftp
+archive.  The  entries  are  organised  in
+alphabetical   directories   and  you  can
+download  all  the  entries  you need. For
+more   details   and  information  on  the
+Database,   see   the   article   by   the
+organiser,  Stephen  Smith,  later in this
+issue of Emulate! Find the database at:
+ftp://ftp.nvg.unit.no/pub/sinclair/docs
+/games-database/
+==========================================
+
+DSNA VERSION 2
+Vesrion  2  of  DSNA  is now available for
+download on the NVG site. This new program
+will  alow  you  to  examine the code in a
+snapshot  and will even show you the basic
+areas  of  code. Version 2.01 corrects and
+small  scroll  bug  in  Version 2. You can
+find it at:
+FTP.NVG.UNIT.NOpubsinclairincomingDSNA
+
+==========================================
+
+SPECCY SENSATIONS PART DEUX
+The  long-awaited  sequel  to  the  CD-ROM
+Speccy  Sensations  should be available by
+the  time  you read this. Part Deux boasts
+emulators  for  all  major computers and a
+massive  collection of over 3000 games! It
+also    includes    games    cheats    and
+instructions.   Everyone  must  find  some
+games  on this CD which they don`t already
+have!  Hopefully, we will include a review
+of  this  CD in a future issue of Emulate!
+but  for  those  who  can`t  wait, you can
+obtain  this  Speccy  collection from EPIC
+Marketing  on  01793  490988  - ask for CD
+CODE 119. This will set you back 17.99.
+
+==========================================
+
+ALT.BINARIES.SINCLAIR
+The   debate  rages  on  in  the  Spectrum
+Newsgroup  about whether or not to start a
+group    simply   for   posting   Spectrum
+binaries.  There  seems  to  be  a similar
+divide  of  people at the moment, so it is
+unlikely to take-off, but we will keep you
+posted here at Emulate!
+
+==========================================
+
+ALCHEMIST NEWS
+A  new addition to the Spectrum archive at
+NVG  UNIT  is the complete set of Alcemist
+News,   a  tape  magazine  all  about  the
+Speccy.  Issues  1-17  can be found in the
+INCOMING   directory   at  NVG  UNIT.  The
+majority  of  issues  are  in standard Z80
+format,  although  Issues 10-17 are in TAP
+and Microdrive format.
+
+==========================================
+
+SPECTRUM FAQS
+Stephen  Smith  has  announced that he has
+overhauled  the  standard  Spectrum  Games
+FAQ.   The  newer  version  is  completely
+HTMLised,   and   will  hopefully  include
+pictures.  You  can  check  out the latest
+version of the FAQ at:
+http://www.catalog.com/sjr/www/ss
+/specfaq.htm
+You  may  also  want to have a look at the
+main  Spectrum  FAQ, conatining more facts
+about  the  technicalities of the Spectrum
+and  news  of  the  current whereabouts of
+some Spectrum "legends"! This can be found
+at:
+http://www.cs.umd.edu/users/fms/stuff
+/spectrum.faq
+
+==========================================
+==========================================
+
+SNAPSHOT REQUESTS
+
+Another   list  of  snapshots  people  are
+desperately  looking  for! If you have any
+of  the  games listed below, please get in
+touch  with either the person directly, or
+let  us  know  here at Emulate! If you are
+looking  for  any games in particular, let
+us  know  and  we  will include you in the
+list.
+
+GAME                   FORMAT
+REQUESTED BY                        E-MAIL
+==========================================
+Behind Closed Doors    48/128
+Barry Plewa    DOCTOR@DOCBARRY.DEMON.CO.UK
+Cluedo                 48/128
+Philip Reynolds  PHIL@HEDGFORD.DEMON.CO.UK
+Dark Empire            48/128
+Josie Haynes    JHAYNES@CENTRAL.MURDOCH.AU
+Denis/Drinking Glass   48/128
+Fredrik Ekman         EKMAN@LYSATOR.LIU.SE
+Fairlight              128k
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Knight Orc             48/128
+Shaun Crouch         SCROUCH@LARK.RU.AC.ZA
+Moria                  48/128
+Fredrik Ekman         EKMAN@LYSATOR.LIU.SE
+Orc Attack             48/128
+Andy Maccallum     MINDBOMB_BBS@DELPHI.COM
+Pang                   48/128
+Ian Collier               IMC@ECS.OX.AC.UK
+Rainbow Islands        128k
+Anton Belenki          ANTON@GYM11.PERM.SU
+Rod Land               48/128
+Anton Belenki          ANTON@GYM11.PERM.SU
+Splitting Images       48/128
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Strangeloop            48/128
+Philip Reynolds  PHIL@HEDGFORD.DEMON.CO.UK
+Street Fighter 2       128k
+Barry Plewa    DOCTOR@DOCBARRY.DEMON.CO.UK
+Sweevo's Whirled       128K
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+The Tebbit             48/128
+Fredrik Ekman         EKMAN@LYSATOR.LIU.SE
+Technician Ted MegaMix 128K
+Richard Hallas  RICHARD@HALLAS.DEMON.CO.UK
+Tobor                  48/128
+Jon Taylor        JON@BIRKHALL.DEMON.CO.UK
+
+==========================================

@@ -1,0 +1,128 @@
+[
+  {
+    "article_id": 500,
+    "article_url": "https://zxpress.ru/article.php?id=500",
+    "print_url": "https://zxpress.ru/print.php?id=500",
+    "title_link": "Автора - Адреса и телефоны авторов статей журнала.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Автора_-_Адреса_и_телефоны_авторов_статеи_журнала"
+  },
+  {
+    "article_id": 496,
+    "article_url": "https://zxpress.ru/article.php?id=496",
+    "print_url": "https://zxpress.ru/print.php?id=496",
+    "title_link": "Интерфейс - Рубрика посвящена письмам читателей. Информация к размышлению о жизни SPECCY.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Интерфеис_-_Рубрика_посвящена_письмам_читателеи_Информация_к"
+  },
+  {
+    "article_id": 499,
+    "article_url": "https://zxpress.ru/article.php?id=499",
+    "print_url": "https://zxpress.ru/print.php?id=499",
+    "title_link": "Между прочим - В этом разделе вы найдете различные \"хитрости\", обнаруженные при работе с программами и POKES.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Между_прочим_-_В_этом_разделе_вы_наидете_различные_хитрости"
+  },
+  {
+    "article_id": 495,
+    "article_url": "https://zxpress.ru/article.php?id=495",
+    "print_url": "https://zxpress.ru/print.php?id=495",
+    "title_link": "Обзор - О новинках программного обеспечения в г.Рыбинске : Octopus,\r\n Lords of Chaos, Pipe Dream, 48 Утюгов, Поле чудес. Лучшая десятка.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Обзор_-_О_новинках_программного_обеспечения_в_гРыбинске_Octo"
+  },
+  {
+    "article_id": 497,
+    "article_url": "https://zxpress.ru/article.php?id=497",
+    "print_url": "https://zxpress.ru/print.php?id=497",
+    "title_link": "Обмен опытом - О достижениях в области освоения ATM-Turbo.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Обмен_опытом_-_О_достижениях_в_области_освоения_ATM-Turbo"
+  },
+  {
+    "article_id": 501,
+    "article_url": "https://zxpress.ru/article.php?id=501",
+    "print_url": "https://zxpress.ru/print.php?id=501",
+    "title_link": "Объявления - Реклама и объявления.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Объявления_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 494,
+    "article_url": "https://zxpress.ru/article.php?id=494",
+    "print_url": "https://zxpress.ru/print.php?id=494",
+    "title_link": "Презентация - О новых игре жанра Adventure - \"Талисман\".",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Презентация_-_О_новых_игре_жанра_Adventure_-_Талисман"
+  },
+  {
+    "article_id": 10672,
+    "article_url": "https://zxpress.ru/article.php?id=10672",
+    "print_url": "https://zxpress.ru/print.php?id=10672",
+    "title_link": "Презентация - О новых игре жанра Adventure \"Ship of Doom\".",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Презентация_-_О_новых_игре_жанра_Adventure_Ship_of_Doom"
+  },
+  {
+    "article_id": 498,
+    "article_url": "https://zxpress.ru/article.php?id=498",
+    "print_url": "https://zxpress.ru/print.php?id=498",
+    "title_link": "Система - О старых и новых системных программах: VU-3D - построение фигур по плоскостям; Mega Screen v1.8 - графический редактор.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Система_-_О_старых_и_новых_системных_программах_VU-3D_-_пост"
+  },
+  {
+    "article_id": 17722,
+    "article_url": "https://zxpress.ru/article.php?id=17722",
+    "print_url": "https://zxpress.ru/print.php?id=17722",
+    "title_link": "Напоследок - Авторы и приветы.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Напоследок_-_Авторы_и_приветы"
+  },
+  {
+    "article_id": 601,
+    "article_url": "https://zxpress.ru/article.php?id=601",
+    "print_url": "https://zxpress.ru/print.php?id=601",
+    "title_link": "О себе - Рассказ о создании Playgear Company.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "О_себе_-_Рассказ_о_создании_Playgear_Company"
+  },
+  {
+    "article_id": 17919,
+    "article_url": "https://zxpress.ru/article.php?id=17919",
+    "print_url": "https://zxpress.ru/print.php?id=17919",
+    "title_link": "How To Contribute To Subliminal Extacy",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "How_To_Contribute_To_Subliminal_Extacy"
+  },
+  {
+    "article_id": 6115,
+    "article_url": "https://zxpress.ru/article.php?id=6115",
+    "print_url": "https://zxpress.ru/print.php?id=6115",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  },
+  {
+    "article_id": 10927,
+    "article_url": "https://zxpress.ru/article.php?id=10927",
+    "print_url": "https://zxpress.ru/print.php?id=10927",
+    "title_link": "Вступление - Вы открыли первую страничку Северодвинской электронной газеты SKIMER.",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Вы_открыли_первую_страничку_Северодвинскои_элек"
+  }
+]

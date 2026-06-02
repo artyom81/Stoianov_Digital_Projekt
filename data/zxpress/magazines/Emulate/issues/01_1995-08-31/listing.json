@@ -1,0 +1,146 @@
+[
+  {
+    "article_id": 17452,
+    "article_url": "https://zxpress.ru/article.php?id=17452",
+    "print_url": "https://zxpress.ru/print.php?id=17452",
+    "title_link": "Part 1 - Intro.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Part_1_-_Intro"
+  },
+  {
+    "article_id": 17453,
+    "article_url": "https://zxpress.ru/article.php?id=17453",
+    "print_url": "https://zxpress.ru/print.php?id=17453",
+    "title_link": "Part 2 - Playing tips.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Part_2_-_Playing_tips"
+  },
+  {
+    "article_id": 17454,
+    "article_url": "https://zxpress.ru/article.php?id=17454",
+    "print_url": "https://zxpress.ru/print.php?id=17454",
+    "title_link": "Part 3 - Instructions.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Part_3_-_Instructions"
+  },
+  {
+    "article_id": 17455,
+    "article_url": "https://zxpress.ru/article.php?id=17455",
+    "print_url": "https://zxpress.ru/print.php?id=17455",
+    "title_link": "Part 4 - Adventure games.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Part_4_-_Adventure_games"
+  },
+  {
+    "article_id": 17456,
+    "article_url": "https://zxpress.ru/article.php?id=17456",
+    "print_url": "https://zxpress.ru/print.php?id=17456",
+    "title_link": "Part 5 - Rebel Star.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Part_5_-_Rebel_Star"
+  },
+  {
+    "article_id": 17457,
+    "article_url": "https://zxpress.ru/article.php?id=17457",
+    "print_url": "https://zxpress.ru/print.php?id=17457",
+    "title_link": "Part 6 - The Dizzy story.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Part_6_-_The_Dizzy_story"
+  },
+  {
+    "article_id": 17458,
+    "article_url": "https://zxpress.ru/article.php?id=17458",
+    "print_url": "https://zxpress.ru/print.php?id=17458",
+    "title_link": "Part 7 - Spectrum history.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Part_7_-_Spectrum_history"
+  },
+  {
+    "article_id": 17459,
+    "article_url": "https://zxpress.ru/article.php?id=17459",
+    "print_url": "https://zxpress.ru/print.php?id=17459",
+    "title_link": "Part 8 - Spectrum on the Net.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Part_8_-_Spectrum_on_the_Net"
+  },
+  {
+    "article_id": 17460,
+    "article_url": "https://zxpress.ru/article.php?id=17460",
+    "print_url": "https://zxpress.ru/print.php?id=17460",
+    "title_link": "Part 9 - September games charts.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Part_9_-_September_games_charts"
+  },
+  {
+    "article_id": 17461,
+    "article_url": "https://zxpress.ru/article.php?id=17461",
+    "print_url": "https://zxpress.ru/print.php?id=17461",
+    "title_link": "Part 10 - A-Z Of Spectrum games reviews.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Part_10_-_A-Z_Of_Spectrum_games_reviews"
+  },
+  {
+    "article_id": 17462,
+    "article_url": "https://zxpress.ru/article.php?id=17462",
+    "print_url": "https://zxpress.ru/print.php?id=17462",
+    "title_link": "Part 11 - Next month.",
+    "order": 11,
+    "issue_label": "01",
+    "short_slug": "Part_11_-_Next_month"
+  },
+  {
+    "article_id": 12379,
+    "article_url": "https://zxpress.ru/article.php?id=12379",
+    "print_url": "https://zxpress.ru/print.php?id=12379",
+    "title_link": "Письма - Обзор минских модемных газет.",
+    "order": 12,
+    "issue_label": "01",
+    "short_slug": "Письма_-_Обзор_минских_модемных_газет"
+  },
+  {
+    "article_id": 2038,
+    "article_url": "https://zxpress.ru/article.php?id=2038",
+    "print_url": "https://zxpress.ru/print.php?id=2038",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 13,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 17619,
+    "article_url": "https://zxpress.ru/article.php?id=17619",
+    "print_url": "https://zxpress.ru/print.php?id=17619",
+    "title_link": "Рассказ - Нетерпение сердца (окончание).",
+    "order": 14,
+    "issue_label": "01",
+    "short_slug": "Рассказ_-_Нетерпение_сердца_окончание"
+  },
+  {
+    "article_id": 7375,
+    "article_url": "https://zxpress.ru/article.php?id=7375",
+    "print_url": "https://zxpress.ru/print.php?id=7375",
+    "title_link": "Система - Обзор системных программ: ассемблер ZXASM v 3.10 demo",
+    "order": 15,
+    "issue_label": "01",
+    "short_slug": "Система_-_Обзор_системных_программ_ассемблер_ZXASM_v_310_dem"
+  },
+  {
+    "article_id": 18330,
+    "article_url": "https://zxpress.ru/article.php?id=18330",
+    "print_url": "https://zxpress.ru/print.php?id=18330",
+    "title_link": "introduction - Вы находитесь на страницах ZX-Chart, посвященного в основном выявлению лучших из лучших во всех\r\nобластях творчества на ZX-Spectrum-компьютере,\r\nизобретенным английским гением, сэром Клайвом\r\nСинклером.",
+    "order": 16,
+    "issue_label": "01",
+    "short_slug": "introduction_-_Вы_находитесь_на_страницах_ZX-Chart_посвященн"
+  }
+]

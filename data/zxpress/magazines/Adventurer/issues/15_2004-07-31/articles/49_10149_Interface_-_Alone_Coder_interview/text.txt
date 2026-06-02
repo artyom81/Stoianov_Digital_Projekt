@@ -1,0 +1,268 @@
+Adventurer 15 - Interface - Alone Coder interview.
+Musicians interrogation room... 
+Alone coder/i8                  
+
+When and why did you start to make
+spectrum music?
+
+I love music and always was occu-
+pied with it, when there was a pos-
+sibility. In a deep childhood, I
+had a one-voiced piano and a few
+child books with the notes
+(however, I didn't learn to play).
+Later, I used it to put notes in a
+Wham. For the first time I wrote
+on AY (in PT3) when I found this
+editor and brought it to John in
+december 1998. We didn't succeed
+to do any music this time. First
+module I wrote, when attached an
+AY chip in 1999. In that time, the
+sound was put to the speaker di-
+rectly from chip, so it was barely
+heared :)
+
+I suppose, the first technical ex-
+perience you gained exploring so-
+meone's tunes for samples, orna-
+ments and other tricks. Who was
+that spectrum musician who influen-
+ced your music and whom you can
+call your teacher?
+
+Those years, certainly, John
+Silver. Later - MMCM, Macros,
+Nik-O, Ironman, D-Juice. Now, I
+borrow good ideas from anyone :).
+
+What was the first music editor
+that you used?
+
+Wham, not the FX version. I made a
+disk version. But, maybe the first
+editor was the one, I don't remem-
+ber the name of - one channel with
+the duration, set for each note.
+Also, I edited data for my pla-
+yers, written because of nothing
+to do (using basic and asm). 
+
+What do you think about your past
+as a spectrum musician, what im-
+portant moments in your progres-
+sion can you note?
+
+I'll repeat exactly the same words
+as I said in Genz#3, but adding,
+that now I'am inclined to the se-
+miclassic - semiambient style from
+the game Unreal. Also, now I pre-
+fer live (acoustic) drums, not
+electronic.
+
+How do you think, do you have any
+fans, and what do you think they
+particularly like in your music?
+Would you like to say some words
+for them?
+
+AY composers, whom I in corres-
+pondence with, know my music and
+have an opinion about it. The main
+mass of people doesn't know it. It
+is mostly experimental, i.e. just
+shows how it could be done - as if
+intended for composers. 
+
+What musical instruments do you
+use (if you ever used) during com-
+posing process? Do you have any ex-
+perience of musicmaking on other
+platforms? What do you think about
+it?
+
+Until this winter, I was drawing a
+samples for each module anew, so-
+metimes doing just 2 modules with
+the same samples. For now I have a
+set of drums, which are tuned suc-
+cessfuly enough, and I store it as
+a samples. One of it - bassdrum ta-
+ken from the track by Slip "Lena
+bay!bay!". On other platforms I
+use programm 'mod plug tracker' to
+convert samples and music into
+wav. Of course, I read notes there
+if it is the point of interest :)
+
+Do you like to criticize yourself?
+What is the weakest spot in your
+techniques (rythm, melody, arran-
+gement or something else)?
+
+I always critical inside and not
+saying much about that :) The bre-
+vity of music is bad for me, my
+tracks always consist of 1-2 repea-
+ting phrases.
+
+What kind of music do you listen,
+what bands/projects affect you,
+what moods and feelings you try to
+put in your own compositions? Re-
+mixes: what do you think of this?
+
+It seems, this question refers not
+to AY music? I have no tape re-
+corder, my pc is broken, that is
+why I can say what I was listening
+to and analyzing formely - tracks
+by A.Brandon and M.van den Bos
+from the games Unreal and Unreal
+Tournament, music by Manwe and
+audio cd by Slip, he send me some
+time ago. If I catch something in-
+teresting on radio or TV, I stay
+and listen. But this is a matter
+of chance. But in principle, I'am
+familiar with the main trends in
+classics, electronics, jazz, pop,
+rock-music and so on. I took some
+CD's from friends, listened the mu-
+sic from consoles... Remixes are
+needed to gain experience and try
+some new methods in sound.
+
+What music compos did you partici-
+pate in, what was the highest rate
+and what do you think about your
+achievements?
+
+I sent tracks to the various par-
+ties very often, but was taken on-
+ly on Paradox'2002, Para-
+digmus'2003 and Antique Toy (not
+taking into account ours virtual
+The Compo, that is still not fi-
+nished because of absence of fil-
+led votelists). The highest (4th)
+place was at Paradigmus, because
+there were only 5 tracks :) But re-
+ally high grade I regard to the
+_last_ place at Paradox'2002.
+
+What do you feel when your track
+is playing on a party? Are you con-
+cerned with sound equipment, peop-
+le that vote or it doesn't bother
+you much?
+
+The sound is very important - I
+use refinements of YM2149F chip. I
+attended Paradigmus and accepted
+the sound, though it was played by
+AY Emul. The point is, that the
+old version of AY Emul plays
+gentle envelope with the stunning
+hiss, but big speakers lowered
+this hiss till the merely pleasant
+level. It (and the amplifier, used
+in a TV set) gave an opportunity
+to hear a sound at all, because it
+was almost 30 times quieter than
+average AY track, i.e. it is he-
+ared, generally speaking, not at
+every home gear :) I have no hope
+to the public, conniving it's tas-
+tes is not my principle.
+
+Do you have any interesting ideas
+about the future of spectrum
+music? Maybe there are some
+hardware or software innovations
+that you would like to have?
+
+New ideas could be realised by the
+means of new methods of editing
+overlayed channels, drum machines
+and so on. Maybe it wouldn't be
+tracking at all. Appearance of
+100Hz music is not excluded. It co-
+uld happen after the mastering of
+1st tempo. Anyhow, I already dis-
+cern 50Hz quantums and trying to
+defeat it by the envelopes... 
+
+What is the most interesting as-
+pect in spectrum music composing
+for you -to perfect your skills
+within the bounds of one 'style'
+or 'genre', or to continue the
+thorny path of experiments with so-
+und and techniques?
+
+I'am writing completely randomly
+and can't answer this question.
+
+Can you tell us some your original
+ideas that you want to realize in
+your music, maybe you want to make
+a demo or a game soundtrack, may
+be just to try what you have never
+tried yet, the new field of apply-
+ing your talent?
+
+I already have an experience in de-
+signing magazines and games :)
+What I want, is to complete majori-
+ty of my tracks to the level, when
+it could be listenable. Then it wo-
+uld become the common property of
+people.
+
+What do you think about co-operati-
+ve composing, is it interesting
+for you?
+
+Yes, I co-operatively composed qui-
+te often (live and in absentia).
+For example, a lot of John's
+tracks, starting from 2001 were
+written in my presence and usually
+contain one or two my notes and a
+pair of samples :) and almost all
+my tracks, written in the begin-
+ning of 2002 were edited by
+Macros.
+
+Whom would you like to make music
+with? Please name 3 authors among
+the contemporary spectrum musici-
+ans that you like most.
+
+Nik-O, C-Jeff, Miguel.
+
+Can you say some words of advise
+for those musicians who are just
+starting out?
+
+My friends! Compose music, that
+will help you to understand it
+better, and to perceive many deta-
+ils of life through it. If your mu-
+sic is turning out bad - do not
+despair. Our music is called ama-
+teur. The major part of mankind
+doesn't even know about it - you
+wouldn't find the name of Ironman
+or Nik-O even in the most thick
+dictionary and wouldn't hear it
+even at the most alternative radio
+channels. But it pushes people not
+lesser than that, commercial, and
+not lesser than the other, eli-
+tist. That is because it is liste-
+ned by people, who can really find
+something in it. Be afraid to go
+the way, pointed by herd.

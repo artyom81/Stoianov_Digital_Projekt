@@ -1,0 +1,15 @@
+{
+  "magazine_id": 103,
+  "magazine_name": "IzhNews",
+  "city": null,
+  "country": null,
+  "issue_label": "06",
+  "issue_date_iso": "2000-08-29",
+  "order": 5,
+  "article_id": 4892,
+  "title_link": "Nonsense - об особенностях ассемблера Alasm 4.2 (макрокоманды,команды условной трансляции и т.д.)",
+  "title_h1": "IzhNews 06 - Nonsense - об особенностях ассемблера Alasm 4.2 (макрокоманды,команды условной трансляции и т.д.)",
+  "print_url": "https://zxpress.ru/print.php?id=4892",
+  "article_url": "https://zxpress.ru/article.php?id=4892",
+  "fetched_at": "2026-05-31T22:15:33Z"
+}

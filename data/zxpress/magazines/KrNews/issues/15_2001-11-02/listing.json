@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 8400,
+    "article_url": "https://zxpress.ru/article.php?id=8400",
+    "print_url": "https://zxpress.ru/print.php?id=8400",
+    "title_link": "INTRO - выход ПОСЛЕДНЕГО номера KrNews.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "INTRO_-_выход_ПОСЛЕДНЕГО_номера_KrNews"
+  },
+  {
+    "article_id": 8401,
+    "article_url": "https://zxpress.ru/article.php?id=8401",
+    "print_url": "https://zxpress.ru/print.php?id=8401",
+    "title_link": "Железо - как избежать глюков со вторым режимом прерываний на машинах с разделением поля памяти.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "Железо_-_как_избежать_глюков_со_вторым_режимом_прерывании_на"
+  },
+  {
+    "article_id": 8402,
+    "article_url": "https://zxpress.ru/article.php?id=8402",
+    "print_url": "https://zxpress.ru/print.php?id=8402",
+    "title_link": "Спектрум - Думы о перспективах платформы Spectrum.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "Спектрум_-_Думы_о_перспективах_платформы_Spectrum"
+  },
+  {
+    "article_id": 8403,
+    "article_url": "https://zxpress.ru/article.php?id=8403",
+    "print_url": "https://zxpress.ru/print.php?id=8403",
+    "title_link": "Рассказ - Любовь зла.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "Рассказ_-_Любовь_зла"
+  },
+  {
+    "article_id": 8404,
+    "article_url": "https://zxpress.ru/article.php?id=8404",
+    "print_url": "https://zxpress.ru/print.php?id=8404",
+    "title_link": "Таланты - PROJECT: Spectrum DEAD. СПЕКРУМ УМИРАЕТ!!!",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "Таланты_-_PROJECT_Spectrum_DEAD_СПЕКРУМ_УМИРАЕТ"
+  },
+  {
+    "article_id": 8406,
+    "article_url": "https://zxpress.ru/article.php?id=8406",
+    "print_url": "https://zxpress.ru/print.php?id=8406",
+    "title_link": "Новелла - 12 ТАЙНЫХ КНИГ (глава 3).",
+    "order": 6,
+    "issue_label": "15",
+    "short_slug": "Новелла_-_12_ТАИНЫХ_КНИГ_глава_3"
+  },
+  {
+    "article_id": 8405,
+    "article_url": "https://zxpress.ru/article.php?id=8405",
+    "print_url": "https://zxpress.ru/print.php?id=8405",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "15",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 8399,
+    "article_url": "https://zxpress.ru/article.php?id=8399",
+    "print_url": "https://zxpress.ru/print.php?id=8399",
+    "title_link": "Outro - Авторы и контакты редакции.",
+    "order": 8,
+    "issue_label": "15",
+    "short_slug": "Outro_-_Авторы_и_контакты_редакции"
+  }
+]

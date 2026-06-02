@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1997-09-16",
+  "order": 10,
+  "article_id": 1071,
+  "title_link": "Новелла - Компьютерная новелла \"The Neverending Story\" часть 1",
+  "title_h1": "Buzz 10 - Новелла - Компьютерная новелла \"The Neverending Story\" часть 1",
+  "print_url": "https://zxpress.ru/print.php?id=1071",
+  "article_url": "https://zxpress.ru/article.php?id=1071",
+  "fetched_at": "2026-05-31T21:47:45Z"
+}

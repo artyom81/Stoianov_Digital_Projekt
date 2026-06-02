@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 2768,
+    "article_url": "https://zxpress.ru/article.php?id=2768",
+    "print_url": "https://zxpress.ru/print.php?id=2768",
+    "title_link": "Игры - Описание игры Seymour Take One.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Игры_-_Описание_игры_Seymour_Take_One"
+  },
+  {
+    "article_id": 2765,
+    "article_url": "https://zxpress.ru/article.php?id=2765",
+    "print_url": "https://zxpress.ru/print.php?id=2765",
+    "title_link": "Модем - Что такое модем ? Какой модем лучше ?..",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "Модем_-_Что_такое_модем_Какои_модем_лучше"
+  },
+  {
+    "article_id": 2764,
+    "article_url": "https://zxpress.ru/article.php?id=2764",
+    "print_url": "https://zxpress.ru/print.php?id=2764",
+    "title_link": "От авторов - В редакции ZX-News заработал первый Hayes модем.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "От_авторов_-_В_редакции_ZX-News_заработал_первыи_Hayes_модем"
+  },
+  {
+    "article_id": 2770,
+    "article_url": "https://zxpress.ru/article.php?id=2770",
+    "print_url": "https://zxpress.ru/print.php?id=2770",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2766,
+    "article_url": "https://zxpress.ru/article.php?id=2766",
+    "print_url": "https://zxpress.ru/print.php?id=2766",
+    "title_link": "Терминалка - Как работать с терминалкой Macro Modem v2.1x",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "Терминалка_-_Как_работать_с_терминалкои_Macro_Modem_v21x"
+  },
+  {
+    "article_id": 2769,
+    "article_url": "https://zxpress.ru/article.php?id=2769",
+    "print_url": "https://zxpress.ru/print.php?id=2769",
+    "title_link": "Хит-парад - 10 лучших программ,по итогам продаж фирмы Welcome.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "Хит-парад_-_10_лучших_программпо_итогам_продаж_фирмы_Welcome"
+  },
+  {
+    "article_id": 2767,
+    "article_url": "https://zxpress.ru/article.php?id=2767",
+    "print_url": "https://zxpress.ru/print.php?id=2767",
+    "title_link": "Юмор - Фидошный юмор - прикол 1 & 2.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "Юмор_-_Фидошныи_юмор_-_прикол_1_2"
+  }
+]

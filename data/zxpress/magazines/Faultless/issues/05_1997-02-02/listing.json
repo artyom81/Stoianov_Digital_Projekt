@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 11308,
+    "article_url": "https://zxpress.ru/article.php?id=11308",
+    "print_url": "https://zxpress.ru/print.php?id=11308",
+    "title_link": "Реклама - Товарищи распространители,разве вам так трудно купить лицензию журнала за 15$?",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Реклама_-_Товарищи_распространителиразве_вам_так_трудно_купи"
+  },
+  {
+    "article_id": 11309,
+    "article_url": "https://zxpress.ru/article.php?id=11309",
+    "print_url": "https://zxpress.ru/print.php?id=11309",
+    "title_link": "Презентация - E-Motion, Spazm, SE-Editor, Perfect, Klademiner, Staketris, Italia.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Презентация_-_E-Motion_Spazm_SE-Editor_Perfect_Klademiner_St"
+  },
+  {
+    "article_id": 11310,
+    "article_url": "https://zxpress.ru/article.php?id=11310",
+    "print_url": "https://zxpress.ru/print.php?id=11310",
+    "title_link": "Новости - к нам пришло письмо из Казани от Г.Рустама из EXCESS Group.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Новости_-_к_нам_пришло_письмо_из_Казани_от_ГРустама_из_EXCES"
+  },
+  {
+    "article_id": 11311,
+    "article_url": "https://zxpress.ru/article.php?id=11311",
+    "print_url": "https://zxpress.ru/print.php?id=11311",
+    "title_link": "Новости - от Mafia, Code Busters, Copper Feet, Flash inc., Omega Hacker Group, Bitmuchers, Virtual Brozers, ETC Groupm, Beermans Hacker Group.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Новости_-_от_Mafia_Code_Busters_Copper_Feet_Flash_inc_Omega"
+  },
+  {
+    "article_id": 11312,
+    "article_url": "https://zxpress.ru/article.php?id=11312",
+    "print_url": "https://zxpress.ru/print.php?id=11312",
+    "title_link": "CPU для вас - процедура быстрого вывода точки. Недокоментированные команды процессора Z80.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "CPU_для_вас_-_процедура_быстрого_вывода_точки_Недокоментиров"
+  },
+  {
+    "article_id": 11313,
+    "article_url": "https://zxpress.ru/article.php?id=11313",
+    "print_url": "https://zxpress.ru/print.php?id=11313",
+    "title_link": "USER'ам - Impetus Led отвечает на вопросы Яламова Сергея из г.Павлограда!",
+    "order": 6,
+    "issue_label": "05",
+    "short_slug": "USERам_-_Impetus_Led_отвечает_на_вопросы_Яламова_Сергея_из_г"
+  },
+  {
+    "article_id": 11314,
+    "article_url": "https://zxpress.ru/article.php?id=11314",
+    "print_url": "https://zxpress.ru/print.php?id=11314",
+    "title_link": "На досуге - КТО ИЗ НАС ХАКЕР: Тест на хакер'а.",
+    "order": 7,
+    "issue_label": "05",
+    "short_slug": "На_досуге_-_КТО_ИЗ_НАС_ХАКЕР_Тест_на_хакера"
+  },
+  {
+    "article_id": 11315,
+    "article_url": "https://zxpress.ru/article.php?id=11315",
+    "print_url": "https://zxpress.ru/print.php?id=11315",
+    "title_link": "Открытие - Мифы и реальность компьютера PC. Компьютер - наша надежда, наше спасение, волшебник, герой ...",
+    "order": 8,
+    "issue_label": "05",
+    "short_slug": "Открытие_-_Мифы_и_реальность_компьютера_PC_Компьютер_-_наша"
+  },
+  {
+    "article_id": 11316,
+    "article_url": "https://zxpress.ru/article.php?id=11316",
+    "print_url": "https://zxpress.ru/print.php?id=11316",
+    "title_link": "Разное - компьютерный жаргонарий: Если вдруг открылся люк - не пугайся, это глюк!",
+    "order": 9,
+    "issue_label": "05",
+    "short_slug": "Разное_-_компьютерныи_жаргонарии_Если_вдруг_открылся_люк_-_н"
+  }
+]

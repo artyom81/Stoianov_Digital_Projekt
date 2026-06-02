@@ -1,0 +1,267 @@
+Proton 44 - Кодинг - Часы для ISDOS&#039;а под SMUC...
+╔══════════════════════════════════════════════════════════════╗
+║
+Кодинг.
+║
+╙──────────────────────────────────────────────────────────────╜
+(C) EVP-SOFT
+Всем  привет.  Написал вот часы для ISDOS'а под SMUC..., а как
+только поставлю себе на GRM м/с ВИ1, то сделаю и под нее...
+
+;
+; Часы под IS-DOS для ZS-SCORPION (только со SMUC), версия 1.00
+; (C) EVP-SOFT,  E-Mail: zxnet@iname.com  To: 500:95/468
+;
+; Date: 1998.07.20.15:40
+;
+;  Часы можно "двигать" по экрану, меняя адреса
+;  по меткам ADR_A1, ADR_A2 и ADR_P
+;
+;
+;
+ORG  50000,0
+;
+; установка/снятие резидента
+;
+MEMOO
+EQU
+$-1
+DEFW
+INIT
+DEFW 0
+        LD   A,#FF
+MEMO1
+EQU
+$
+LD   HL,
+CLOCKF
+LD   C,#1E
+        RST  #10
+        RET
+INIT
+CP   #FE
+        LD   A,#00
+        JR   Z,
+__DEL
+LD   A,#FF
+MEMO2
+EQU
+$
+__DEL
+LD   HL,
+CLOCKF
+LD   C,#1E
+        RST  #10
+        RET
+        DEFW 0
+;
+; счётчик 50-и INT'ов, что-бы меньше тормозить, часы
+; читаются только один раз в секунду
+;
+CLOCKF
+LD   A,1
+CLOCK1
+EQU
+$-1
+DEC  A
+CLOCK8
+LD   (
+CLOCK1
+),A
+        RET  NZ
+        LD   A,#32 ; #32=50
+CLOCK9
+LD   (
+CLOCK1
+),A
+;
+; установка атрибутов циферблата
+;
+ADR_A1
+LD   HL,#581B
+; адрес атрибутов первого знакоместа
+ADR_A2
+LD   DE,#581C
+; DE=HL+1
+LD   BC,4
+CLOCK11
+LD   A,(
+CLOCK10
+)
+; там лежит цвет для UniColor'а
+LD   (HL),A
+        LDIR
+;
+; запрос времени,
+; выход C - сек
+;       B - мин
+;       E - час
+;       L - день недели
+;
+LD   D,#20
+; а если было бы #21 - то вых. ЧИС,МЕС,ГОД
+RST  8
+; сам запрос
+DEFB #89
+;
+; вывод времени
+;
+PUSH BC
+; сохраним мин/сек
+LD   A,E
+; часы для печати
+ADR_P
+LD   DE,#401B
+; адрес верхней строки первого знакоместа
+CLOCKA
+CALL
+CLOCKЧ
+; вывели часы
+POP  AF
+; тут "C" попадает в "F" - теперь bitO в CarryF
+LD   LX,A
+; сохраним минуты
+LD   L," "
+; пробел (для мигания точек)
+JR   C,
+CLOCK7
+; определение не/чётных сек. для мигания
+LD   L,":"
+CLOCK7
+CALL
+CLOCK12
+; выводим пробел или точки
+LD   A,LX
+; восстановили минуты...
+;
+; вывод цифр
+;
+CLOCKЧ
+LD   B,#2F
+;"0"-1
+CLOCKS
+INC  B
+        SUB  10
+        JR   NC,
+CLOCKS
+ADD  A,#3A
+;"0"+10
+EX   AF,AF'
+        LD   L,B
+CLOCKB
+CALL
+CLOCK12
+EX   AF,AF'
+;
+; вычисление адреса фонта в ROM-48, конечно можно печатать
+; и через ядро isdos'а, но так гораздо быстрее...
+;
+CLOCKб
+LD   L,A
+CLOCK12
+LD   H,0
+        ADD  HL,HL
+        ADD  HL,HL
+        ADD  HL,HL
+        LD   A,H
+        ADD  A,#3C
+        LD   H,A
+;
+; вывод символа на экран
+;
+LD   B,8
+        LD   C,D
+CLOCKЗ
+LD   A,(HL)
+        LD   (DE),A
+        INC  L
+        INC  D
+        DJNZ
+CLOCKЗ
+; для экономии места пожертвуем ~110 тактов
+INC  E
+; для следующего вывода
+LD   D,C
+        RET
+;
+; настройка цвета для UniColor'а
+;
+DEFB "UnCo"
+; метка
+DEFB 1
+; количество цветов
+CLOCK10
+DEFB #F8
+; сам цвет (#F8 = FLASH1,BRIGHT1,...)
+;
+; таблица адресов настройки резидента
+;
+DEFW #FFFF
+        DEFW
+CLOCK7,CLOCK8,CLOCK9,CLOCKA,CLOCKB,CLOCK11
+DEFW
+MEMOO,MEMO1,MEMO2
+Ну а ниже приводится файл, в котором зазипованы готовые часы под
+ISDOS и исходник для ALASM'a. Сначала файл надо выгрузить, затем
+разUUEчить,  потом  pacHOBETutb,  и  наконец распаковать в ZXUN-
+ZIP'е.
+──────────────────────────линия отреза──────────────────────────
+section 1 of 1 of file zsclock1.$z  < iS-UUE 1.00 by MK >
+begin 644 zsclock1.$z
+MбE-C;&]C:S%:25`5"``);`=:ЧV-L+FAL<$,``,P!`BT!!ZNSY`,`&X($$8Q#
+M+GT:->G2K<6W7E:Y'GOX=>#?.V:-,BIЗ:L.!ЧEZ]7NOбJ>VG#KVKSRX:=^Z
+MF8<+!B^Z-/CPJ-:/Z1(FS(8-)X<7#[HU:-&K48L&[SYN.I%OЗUHUN_%LP>I
+M&K1JD*Y#KS_?VCб+LSV:]8@4;=&;1XUJ/2`&ORX=бVHBKK]2;M.K</H@6K%
+M.I;MV[%K8RC?4##XЧD&'].M%91720:W@OL[?[/;RK;('.7[TZO$@VZNBSNY=
+M-K14G7C($95S07FIH+2JV[1#WRR]W!/S86W*;*U!M@1IЗEU%!#бYHP^]&E1=
+MB^!>I8I@`,B&*(>F!%G4*IOX_=OHEЗ%?M&7;L&G9Z@2I%Z_;LG2!IGЧ;MFU9
+M%TJC9NF^H;Z&FI:9Z:+VG:Q#$W`."&`UIЗ8VPN<F5SOU##D@`!D@"+A>#Z
+M``!=PP``/OA;L,.'M?)_OX^`"@"/OA;L,.'M?)```^`ЗTR;/`/C(R;,A
+M&U@1'%@!!``ZS<-W[;`6(,^)Q7L1&T#-H/QWбN(#@"+CK-L/=?08O!-8*
+M,/O&.@AHS;/#"&F`"DI*7S&/&<&"$I^$BPЧ$/H<4<E5;D-O`4W__Y[#<<-W
+MPY+#KL.#PT_#SL-EPUIЗ8VQO8VLQSP``N@`!=0`O%@4?`P"UЗAW+UBS:MG!Y
+M#O4)LH7PKTN#+SVZ-бCQ[$&*!IET*M&GЧUE(<]2L2[=V+<J:BM>W8]?&J->&
+M"OZYW+)S_@$(]?9/-2M/)/<=?CRKDFW1JT:).G5[T$&91IT:M.3883>)DVO
+MX81>M.OSH/X]O'CPKEб7RGM:ЧV-L;V-K,4@``#("8D%!7@I.`,`MЧX=R_;M
+MV+ЧQD8`#^?_!GL@G&#_?[O'N_=O#SN8-5N!.H#M!7@8=?CW(UZY)@TPZM271
+MIU-!DE[]'@ЗбMYPZ]*EЧJ$F?.@6)ЧKSKU>QSNP89ЗOBIЗ:L.3<D2I.C2X,.C
+M(C^F2Y@P=?R/OGJO1:U"@?^I42K;*=^R:=BT;'6"U(O7;5FZO-.Z#=NVK,NQ
+M;]M@3_4-]37B/6?-ES1MXORW]QGV)QJб;IGJ8^;,B6/I;[J4"=-ES)HZ:<+0
+M'H9V5]&L79MN=?<B28M&/1JT>/8BSG*0[56#!]UZ7-JS+MWZ'5&#)@V^='C0
+M)-Y-VZO7KQHT:Y!!ВЧК]&COFBV-:)DA$R!Q*UOбKPNЧ!B++@693M'>H?'UX<
+MT[L65?_+<$TO'GSI$$U_&CбIK*O.^X5-BS9!GWE`DBUC&L2<U&E2J@<QC]!7
+MA-0%UF<YTJC1!-:X]L70"^>Y5"FЗX<N-;+M+:/6=2@[0#%BЗUM!?>*74#[
+M1>JI_A56%XB?Y=>O1(LR.1I:QM$.P9HQ#=@#,='E->@Z_/GXXL^CSMS$;XFJ
+M#CNE>@+(L?ES9KAEZ'554O;HC!SSX/1ЧDI-ЗV'9$+T$??%/>O?CP[T$X/@'[
+MHV[SYD&?:OR>OKЗJ:U)C]MZ!G=З5VF,93J&GSG!TP'KЗWCF.+9'@4T=WOЧ)
+MT@YX/@*1^4R9`<*NV'M(UЗF=XQP&ZT.D$4X.BP>/.OOXH)[ZC)*>ZASX-J
+MH]:H`]5G'5D39TPAЧ-OF,W?X5^R+=CU*KT^W!@7DT!SЧKD'T*?K#T?,A]!;$
+M>R)ENB(.30^>)<T:0]$QR)*G2)@IR"V_TGMU:5-22J@8>W&RS:NZЗЗOTЗб,N
+M]ROH?0]%ESN::@GIGP;]&KPKHA:55%ETU"PA1"]Z?ЗGбJ$@6]Q)GAU$,!?R
+M[*RBV#.ZR+/ETЗ$XTR>[7*=/<CбI8Q?CбKK9Y1]/+J2[<ZL():<]"#Z&I7
+MQ';$9<9@-SB7MKHPK!%'9LFXT/"#'1..<'CCP,_N^#*KZ(*71^+,$1U57!15
+MSA81O47$X*ZVV+B<:CEJSECI"[8<@Y%4'K9)GM"913'E:OL<G6(R'BS/,*=
+MNI=SZU1'%X1=JT;E1Q`Y2)$'/63,:08PBG'9ON8T:P<<ET;)0[[Q$-PPN*)Z
+M4&LTPU^D41%?UE)/FY,бFY8NC&D?&E:NW+Q&P#+8NSY>X(#.=[J>/@OZ162;
+MGЗVЧV-%J?OGWH@MLOЧ<ET])LUIKб5+QKF[0@^-TBOO)4=_$5O>JHG%05V"
+MT(=7@#77@;бKR*>43,>4*4"*A%`6-XGJRH:V'>D.151V;!8@--FЧMJ!%L[B_
+M`1,PSG9PSE?8$C7_.]9W(_6+A"GB,5=`SбN:#OB^(.P`D?."O$:7%UTЗHNL`
+MCJE!"Z!+80_38'8!JOQT`V;I^P?B7(A8F#85]CO@EDX_W)JI1Z)!DG<ER'9%
+ME_JT:4N:.`@M.$2DSRбB/2)E^^P1789^;/!2L^P@W]UW?=JY9-_.`:S<&[?O
+M0#76#]2<%.6(X'GITBY=NA@UW$946K^!4@ЗSQYQ`WJE&XLKADJЗSD<@97I(
+ML];-,T`)FS@S<HX7H_MOЧT"2CMQ,],XB@WQCW<V/4-H#15M5.бJOбEZPQZ?
+MYB)M2@BF^++?EG.<40G!)$<,OIN"N)%CTNLO?K!]6$<67;-.=PO[YU`DZWR
+M[M.7'NWJ*.K5)3&&YXF9"F.JUM9ЧIF*9IJ`T#=QJ^F41SCбG.-+R^,7+,91-
+MJ`3O<WZ;T]FSMY_!J@1H;!1G`-F@ЧIбC>':0/4$:91IT*I*ONU"I28BI7(<
+M%CT%Q'83F"*.-&KSH`R?DFSS"D>%<6$.KM7@F>):78HW:-Q&-,YC.D@QK10
+M%H!$3L3$<#@+F<N*62P<(```````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+:````````````````````````````````````
+`
+end
+sum -r/size 31781/3228 section (from "begin" to "end")
+sum -r/size 58472/2321 entire input file
+──────────────────────────линия отреза──────────────────────────

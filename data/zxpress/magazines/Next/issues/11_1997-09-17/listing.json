@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 15466,
+    "article_url": "https://zxpress.ru/article.php?id=15466",
+    "print_url": "https://zxpress.ru/print.php?id=15466",
+    "title_link": "Новости - Ошибется тот, кто посчитает поездку FATALITY в Гродно новостью номер 1",
+    "order": 1,
+    "issue_label": "11",
+    "short_slug": "Новости_-_Ошибется_тот_кто_посчитает_поездку_FATALITY_в_Грод"
+  },
+  {
+    "article_id": 15467,
+    "article_url": "https://zxpress.ru/article.php?id=15467",
+    "print_url": "https://zxpress.ru/print.php?id=15467",
+    "title_link": "Отчёт - Бадун или будун, а впрочем ккакая разница.",
+    "order": 2,
+    "issue_label": "11",
+    "short_slug": "Отчет_-_Бадун_или_будун_а_впрочем_ккакая_разница"
+  },
+  {
+    "article_id": 15468,
+    "article_url": "https://zxpress.ru/article.php?id=15468",
+    "print_url": "https://zxpress.ru/print.php?id=15468",
+    "title_link": "C-Net - Кое-что о Grodno.",
+    "order": 3,
+    "issue_label": "11",
+    "short_slug": "C-Net_-_Кое-что_о_Grodno"
+  },
+  {
+    "article_id": 15469,
+    "article_url": "https://zxpress.ru/article.php?id=15469",
+    "print_url": "https://zxpress.ru/print.php?id=15469",
+    "title_link": "Новости - пару не очень свежих новостей from Brest.",
+    "order": 4,
+    "issue_label": "11",
+    "short_slug": "Новости_-_пару_не_очень_свежих_новостеи_from_Brest"
+  }
+]

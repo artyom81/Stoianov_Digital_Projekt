@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "47",
+  "issue_date_iso": "2006-04-01",
+  "order": 2,
+  "article_id": 18577,
+  "title_link": "о Винни-Пухе - авторские вариант перевода Винни-Пуха",
+  "title_h1": "ACNews 47 - о Винни-Пухе - авторские вариант перевода Винни-Пуха",
+  "print_url": "https://zxpress.ru/print.php?id=18577",
+  "article_url": "https://zxpress.ru/article.php?id=18577",
+  "fetched_at": "2026-05-31T21:31:17Z"
+}

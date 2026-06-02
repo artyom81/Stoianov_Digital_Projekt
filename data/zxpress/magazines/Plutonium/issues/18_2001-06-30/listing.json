@@ -1,0 +1,119 @@
+[
+  {
+    "article_id": 10233,
+    "article_url": "https://zxpress.ru/article.php?id=10233",
+    "print_url": "https://zxpress.ru/print.php?id=10233",
+    "title_link": "Вступление - за последнее время стало появляться порядком. К чему бы это?",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Вступление_-_за_последнее_время_стало_появляться_порядком_К"
+  },
+  {
+    "article_id": 10234,
+    "article_url": "https://zxpress.ru/article.php?id=10234",
+    "print_url": "https://zxpress.ru/print.php?id=10234",
+    "title_link": "Новости - появление диска ЧЕРНЫЙ ВОРОН 2, Выпущен 1-ый номер сценовой газеты Scream, новый эмулятор ZX Spectrum на Sony Playstation.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "Новости_-_появление_диска_ЧЕРНЫИ_ВОРОН_2_Выпущен_1-ыи_номер"
+  },
+  {
+    "article_id": 10235,
+    "article_url": "https://zxpress.ru/article.php?id=10235",
+    "print_url": "https://zxpress.ru/print.php?id=10235",
+    "title_link": "Новости - Random сообщает, что Chaos Constructions 2001 demo party как\r\nминимум в этом году отменяется.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Новости_-_Random_сообщает_что_Chaos_Constructions_2001_demo"
+  },
+  {
+    "article_id": 10236,
+    "article_url": "https://zxpress.ru/article.php?id=10236",
+    "print_url": "https://zxpress.ru/print.php?id=10236",
+    "title_link": "Почта - Ответ mr.Nuts'у. Редакция.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Почта_-_Ответ_mrNutsу_Редакция"
+  },
+  {
+    "article_id": 10237,
+    "article_url": "https://zxpress.ru/article.php?id=10237",
+    "print_url": "https://zxpress.ru/print.php?id=10237",
+    "title_link": "Мысли вслух - КОНЕЦ ИГРЫ (c) Сергей Лукьяненко (Невасильевич)",
+    "order": 5,
+    "issue_label": "18",
+    "short_slug": "Мысли_вслух_-_КОНЕЦ_ИГРЫ_c_Сергеи_Лукьяненко_Невасильевич"
+  },
+  {
+    "article_id": 10238,
+    "article_url": "https://zxpress.ru/article.php?id=10238",
+    "print_url": "https://zxpress.ru/print.php?id=10238",
+    "title_link": "История одного спектрумиста - Я, спектрум и снова спектрум.",
+    "order": 6,
+    "issue_label": "18",
+    "short_slug": "История_одного_спектрумиста_-_Я_спектрум_и_снова_спектрум"
+  },
+  {
+    "article_id": 10239,
+    "article_url": "https://zxpress.ru/article.php?id=10239",
+    "print_url": "https://zxpress.ru/print.php?id=10239",
+    "title_link": "Люди - история Первоуральской группы Studio Stall.",
+    "order": 7,
+    "issue_label": "18",
+    "short_slug": "Люди_-_история_Первоуральскои_группы_Studio_Stall"
+  },
+  {
+    "article_id": 10240,
+    "article_url": "https://zxpress.ru/article.php?id=10240",
+    "print_url": "https://zxpress.ru/print.php?id=10240",
+    "title_link": "Софт - STD-3 - новый монитор отладчик от Studio Stall.",
+    "order": 8,
+    "issue_label": "18",
+    "short_slug": "Софт_-_STD-3_-_новыи_монитор_отладчик_от_Studio_Stall"
+  },
+  {
+    "article_id": 10241,
+    "article_url": "https://zxpress.ru/article.php?id=10241",
+    "print_url": "https://zxpress.ru/print.php?id=10241",
+    "title_link": "Музыка - Антон Кубиков: \"Техно - рай для барабанщика\".",
+    "order": 9,
+    "issue_label": "18",
+    "short_slug": "Музыка_-_Антон_Кубиков_Техно_-_раи_для_барабанщика"
+  },
+  {
+    "article_id": 10242,
+    "article_url": "https://zxpress.ru/article.php?id=10242",
+    "print_url": "https://zxpress.ru/print.php?id=10242",
+    "title_link": "Софт - описание новой операционной системы для спектрума Vrcp Windows.",
+    "order": 10,
+    "issue_label": "18",
+    "short_slug": "Софт_-_описание_новои_операционнои_системы_для_спектрума_Vrc"
+  },
+  {
+    "article_id": 10243,
+    "article_url": "https://zxpress.ru/article.php?id=10243",
+    "print_url": "https://zxpress.ru/print.php?id=10243",
+    "title_link": "Чтиво - Дорожный уЖас пРеТ нА сЕвЕр (СтиВен КинГ).",
+    "order": 11,
+    "issue_label": "18",
+    "short_slug": "Чтиво_-_Дорожныи_уЖас_пРеТ_нА_сЕвЕр_СтиВен_КинГ"
+  },
+  {
+    "article_id": 10244,
+    "article_url": "https://zxpress.ru/article.php?id=10244",
+    "print_url": "https://zxpress.ru/print.php?id=10244",
+    "title_link": "Программирование - как накодить индикаторы музыкального сопрацессора в чанках.",
+    "order": 12,
+    "issue_label": "18",
+    "short_slug": "Программирование_-_как_накодить_индикаторы_музыкального_сопр"
+  },
+  {
+    "article_id": 10245,
+    "article_url": "https://zxpress.ru/article.php?id=10245",
+    "print_url": "https://zxpress.ru/print.php?id=10245",
+    "title_link": "Авторы - авторы газеты.",
+    "order": 13,
+    "issue_label": "18",
+    "short_slug": "Авторы_-_авторы_газеты"
+  }
+]

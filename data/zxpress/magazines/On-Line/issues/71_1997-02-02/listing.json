@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 43,
+    "article_url": "https://zxpress.ru/article.php?id=43",
+    "print_url": "https://zxpress.ru/print.php?id=43",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "71",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2443,
+    "article_url": "https://zxpress.ru/article.php?id=2443",
+    "print_url": "https://zxpress.ru/print.php?id=2443",
+    "title_link": "HOT GAMES - Лучшая десятка от Magic Soft.",
+    "order": 2,
+    "issue_label": "71",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_от_Magic_Soft"
+  },
+  {
+    "article_id": 2445,
+    "article_url": "https://zxpress.ru/article.php?id=2445",
+    "print_url": "https://zxpress.ru/print.php?id=2445",
+    "title_link": "ZXNet - Правила отправки сообщений для пользователей ZXNet.\r\n Правила эхоконференции SPB.SPECCY. Предложение о изменении Устава сети.",
+    "order": 3,
+    "issue_label": "71",
+    "short_slug": "ZXNet_-_Правила_отправки_сообщении_для_пользователеи_ZXNet_П"
+  },
+  {
+    "article_id": 2442,
+    "article_url": "https://zxpress.ru/article.php?id=2442",
+    "print_url": "https://zxpress.ru/print.php?id=2442",
+    "title_link": "Интервью - Интервью с Вячеславом Медноноговым (Copper Feet).",
+    "order": 4,
+    "issue_label": "71",
+    "short_slug": "Интервью_-_Интервью_с_Вячеславом_Медноноговым_Copper_Feet"
+  },
+  {
+    "article_id": 2444,
+    "article_url": "https://zxpress.ru/article.php?id=2444",
+    "print_url": "https://zxpress.ru/print.php?id=2444",
+    "title_link": "Презентация - Презентация новой игры \"Угадай мелодию\".",
+    "order": 5,
+    "issue_label": "71",
+    "short_slug": "Презентация_-_Презентация_новои_игры_Угадаи_мелодию"
+  },
+  {
+    "article_id": 2441,
+    "article_url": "https://zxpress.ru/article.php?id=2441",
+    "print_url": "https://zxpress.ru/print.php?id=2441",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "71",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

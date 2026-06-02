@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 6744,
+    "article_url": "https://zxpress.ru/article.php?id=6744",
+    "print_url": "https://zxpress.ru/print.php?id=6744",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "44",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 6745,
+    "article_url": "https://zxpress.ru/article.php?id=6745",
+    "print_url": "https://zxpress.ru/print.php?id=6745",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "44",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 6746,
+    "article_url": "https://zxpress.ru/article.php?id=6746",
+    "print_url": "https://zxpress.ru/print.php?id=6746",
+    "title_link": "Информация - покупаем билеты на ENLIGHT'97.",
+    "order": 3,
+    "issue_label": "44",
+    "short_slug": "Информация_-_покупаем_билеты_на_ENLIGHT97"
+  },
+  {
+    "article_id": 6747,
+    "article_url": "https://zxpress.ru/article.php?id=6747",
+    "print_url": "https://zxpress.ru/print.php?id=6747",
+    "title_link": "Информация - новая рубрика о новых играх и демах.",
+    "order": 4,
+    "issue_label": "44",
+    "short_slug": "Информация_-_новая_рубрика_о_новых_играх_и_демах"
+  },
+  {
+    "article_id": 6748,
+    "article_url": "https://zxpress.ru/article.php?id=6748",
+    "print_url": "https://zxpress.ru/print.php?id=6748",
+    "title_link": "Разное - Почему он изменяет?",
+    "order": 5,
+    "issue_label": "44",
+    "short_slug": "Разное_-_Почему_он_изменяет"
+  },
+  {
+    "article_id": 6749,
+    "article_url": "https://zxpress.ru/article.php?id=6749",
+    "print_url": "https://zxpress.ru/print.php?id=6749",
+    "title_link": "Разное - \"Что было пороками, теперь нравы\". Размышления о нравственности.",
+    "order": 6,
+    "issue_label": "44",
+    "short_slug": "Разное_-_Что_было_пороками_теперь_нравы_Размышления_о_нравст"
+  },
+  {
+    "article_id": 6750,
+    "article_url": "https://zxpress.ru/article.php?id=6750",
+    "print_url": "https://zxpress.ru/print.php?id=6750",
+    "title_link": "Поиск - поиск игр, программ.",
+    "order": 7,
+    "issue_label": "44",
+    "short_slug": "Поиск_-_поиск_игр_программ"
+  },
+  {
+    "article_id": 6751,
+    "article_url": "https://zxpress.ru/article.php?id=6751",
+    "print_url": "https://zxpress.ru/print.php?id=6751",
+    "title_link": "Юмор - анекдоты.",
+    "order": 8,
+    "issue_label": "44",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 6752,
+    "article_url": "https://zxpress.ru/article.php?id=6752",
+    "print_url": "https://zxpress.ru/print.php?id=6752",
+    "title_link": "Информация - Обманываем таксофоны.",
+    "order": 9,
+    "issue_label": "44",
+    "short_slug": "Информация_-_Обманываем_таксофоны"
+  },
+  {
+    "article_id": 6753,
+    "article_url": "https://zxpress.ru/article.php?id=6753",
+    "print_url": "https://zxpress.ru/print.php?id=6753",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 10,
+    "issue_label": "44",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 6754,
+    "article_url": "https://zxpress.ru/article.php?id=6754",
+    "print_url": "https://zxpress.ru/print.php?id=6754",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 11,
+    "issue_label": "44",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  }
+]

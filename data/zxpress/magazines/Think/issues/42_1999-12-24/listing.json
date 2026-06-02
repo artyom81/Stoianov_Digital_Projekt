@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 4368,
+    "article_url": "https://zxpress.ru/article.php?id=4368",
+    "print_url": "https://zxpress.ru/print.php?id=4368",
+    "title_link": "От автора - В школе каникулы...",
+    "order": 1,
+    "issue_label": "42",
+    "short_slug": "От_автора_-_В_школе_каникулы"
+  },
+  {
+    "article_id": 4369,
+    "article_url": "https://zxpress.ru/article.php?id=4369",
+    "print_url": "https://zxpress.ru/print.php?id=4369",
+    "title_link": "Новости - В городе появились модемы, заканчивается работа на CD-диском.",
+    "order": 2,
+    "issue_label": "42",
+    "short_slug": "Новости_-_В_городе_появились_модемы_заканчивается_работа_на"
+  },
+  {
+    "article_id": 4370,
+    "article_url": "https://zxpress.ru/article.php?id=4370",
+    "print_url": "https://zxpress.ru/print.php?id=4370",
+    "title_link": "Обзор новинок - XIXIT.",
+    "order": 3,
+    "issue_label": "42",
+    "short_slug": "Обзор_новинок_-_XIXIT"
+  },
+  {
+    "article_id": 4371,
+    "article_url": "https://zxpress.ru/article.php?id=4371",
+    "print_url": "https://zxpress.ru/print.php?id=4371",
+    "title_link": "Железо - Viccom modem v2.",
+    "order": 4,
+    "issue_label": "42",
+    "short_slug": "Железо_-_Viccom_modem_v2"
+  },
+  {
+    "article_id": 4372,
+    "article_url": "https://zxpress.ru/article.php?id=4372",
+    "print_url": "https://zxpress.ru/print.php?id=4372",
+    "title_link": "Конструкции Хаоса'2000 - Информация о фестивале.",
+    "order": 5,
+    "issue_label": "42",
+    "short_slug": "Конструкции_Хаоса2000_-_Информация_о_фестивале"
+  },
+  {
+    "article_id": 4373,
+    "article_url": "https://zxpress.ru/article.php?id=4373",
+    "print_url": "https://zxpress.ru/print.php?id=4373",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 6,
+    "issue_label": "42",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4374,
+    "article_url": "https://zxpress.ru/article.php?id=4374",
+    "print_url": "https://zxpress.ru/print.php?id=4374",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "42",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

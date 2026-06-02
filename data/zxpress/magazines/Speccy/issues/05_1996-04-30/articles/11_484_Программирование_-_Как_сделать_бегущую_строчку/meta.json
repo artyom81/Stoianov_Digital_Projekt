@@ -1,0 +1,15 @@
+{
+  "magazine_id": 199,
+  "magazine_name": "Speccy",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1996-04-30",
+  "order": 11,
+  "article_id": 484,
+  "title_link": "Программирование - Как сделать бегущую строчку.",
+  "title_h1": "Speccy 05 - Программирование - Как сделать бегущую строчку.",
+  "print_url": "https://zxpress.ru/print.php?id=484",
+  "article_url": "https://zxpress.ru/article.php?id=484",
+  "fetched_at": "2026-05-31T23:04:17Z"
+}

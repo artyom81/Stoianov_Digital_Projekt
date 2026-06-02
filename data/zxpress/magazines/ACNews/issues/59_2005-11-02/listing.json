@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 17958,
+    "article_url": "https://zxpress.ru/article.php?id=17958",
+    "print_url": "https://zxpress.ru/print.php?id=17958",
+    "title_link": "Новости - John Silver переехал в собственную квартиру. Сейчас я копаюсь в старых бумагах, пытаюсь восстановить цепь\r\nсобытий.",
+    "order": 1,
+    "issue_label": "59",
+    "short_slug": "Новости_-_John_Silver_переехал_в_собственную_квартиру_Сеичас"
+  },
+  {
+    "article_id": 17959,
+    "article_url": "https://zxpress.ru/article.php?id=17959",
+    "print_url": "https://zxpress.ru/print.php?id=17959",
+    "title_link": "Волшебный Мир 2015 - отчет с фестиваля комиксов \"Волшебный Мир 2015\".",
+    "order": 2,
+    "issue_label": "59",
+    "short_slug": "Волшебныи_Мир_2015_-_отчет_с_фестиваля_комиксов_Волшебныи_Ми"
+  },
+  {
+    "article_id": 17960,
+    "article_url": "https://zxpress.ru/article.php?id=17960",
+    "print_url": "https://zxpress.ru/print.php?id=17960",
+    "title_link": "Увеличение памяти под код в EvoSDK - как расширить область памяти кода до\r\nочень больших объёмов.",
+    "order": 3,
+    "issue_label": "59",
+    "short_slug": "Увеличение_памяти_под_код_в_EvoSDK_-_как_расширить_область_п"
+  },
+  {
+    "article_id": 17961,
+    "article_url": "https://zxpress.ru/article.php?id=17961",
+    "print_url": "https://zxpress.ru/print.php?id=17961",
+    "title_link": "Управление флаговым регистром - Управление флаговым регистром в процессоре Z80.",
+    "order": 4,
+    "issue_label": "59",
+    "short_slug": "Управление_флаговым_регистром_-_Управление_флаговым_регистро"
+  },
+  {
+    "article_id": 17962,
+    "article_url": "https://zxpress.ru/article.php?id=17962",
+    "print_url": "https://zxpress.ru/print.php?id=17962",
+    "title_link": "Скрипт с 4-битными командами - скриптование в стиле форт-команд.",
+    "order": 5,
+    "issue_label": "59",
+    "short_slug": "Скрипт_с_4-битными_командами_-_скриптование_в_стиле_форт-ком"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3289,
+    "article_url": "https://zxpress.ru/article.php?id=3289",
+    "print_url": "https://zxpress.ru/print.php?id=3289",
+    "title_link": "BBS List - График работы минских BBS.",
+    "order": 1,
+    "issue_label": "13",
+    "short_slug": "BBS_List_-_График_работы_минских_BBS"
+  },
+  {
+    "article_id": 3294,
+    "article_url": "https://zxpress.ru/article.php?id=3294",
+    "print_url": "https://zxpress.ru/print.php?id=3294",
+    "title_link": "Have a Fun - Орхидея.",
+    "order": 2,
+    "issue_label": "13",
+    "short_slug": "Have_a_Fun_-_Орхидея"
+  },
+  {
+    "article_id": 3293,
+    "article_url": "https://zxpress.ru/article.php?id=3293",
+    "print_url": "https://zxpress.ru/print.php?id=3293",
+    "title_link": "Presentation - Мессаг, набитый в процессе Drink'a...",
+    "order": 3,
+    "issue_label": "13",
+    "short_slug": "Presentation_-_Мессаг_набитыи_в_процессе_Drinka"
+  },
+  {
+    "article_id": 3291,
+    "article_url": "https://zxpress.ru/article.php?id=3291",
+    "print_url": "https://zxpress.ru/print.php?id=3291",
+    "title_link": "Rest In Pain - О глюках, портящих жизнь.",
+    "order": 4,
+    "issue_label": "13",
+    "short_slug": "Rest_In_Pain_-_О_глюках_портящих_жизнь"
+  },
+  {
+    "article_id": 3292,
+    "article_url": "https://zxpress.ru/article.php?id=3292",
+    "print_url": "https://zxpress.ru/print.php?id=3292",
+    "title_link": "Новости - Новости из Гомеля.",
+    "order": 5,
+    "issue_label": "13",
+    "short_slug": "Новости_-_Новости_из_Гомеля"
+  },
+  {
+    "article_id": 3288,
+    "article_url": "https://zxpress.ru/article.php?id=3288",
+    "print_url": "https://zxpress.ru/print.php?id=3288",
+    "title_link": "От авторов - У газеты появился почтовый ящик...о статусе газеты.",
+    "order": 6,
+    "issue_label": "13",
+    "short_slug": "От_авторов_-_У_газеты_появился_почтовыи_ящико_статусе_газеты"
+  },
+  {
+    "article_id": 3290,
+    "article_url": "https://zxpress.ru/article.php?id=3290",
+    "print_url": "https://zxpress.ru/print.php?id=3290",
+    "title_link": "Что нового - О новинках в Минске: Insanity #2, C-Week #19, Born Dead #0B.",
+    "order": 7,
+    "issue_label": "13",
+    "short_slug": "Что_нового_-_О_новинках_в_Минске_Insanity_2_C-Week_19_Born_D"
+  }
+]

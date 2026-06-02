@@ -1,0 +1,550 @@
+Info Guide 11 - Системки - Как приручить IAR C Compiler.
+Как приручить IAR C Compiler
+DimkaM 
+
+   IAR
+'из коробки' совершенно не подходит
+для Спекки и спектрумиста.В нём нет библи─
+отек для Спектрума,он стоит бешеных денег,
+им не удастся  скомпилировать бинарь одной
+строчкой в
+cmd,
+и он не умеет генерировать
+trd/tap/scl
+etc.
+Но всё-таки попробуем его осилить.
+* * *
+
+  С чего начать? Создадим директорию
+"IAR"
+(или какую хотите) и скопируем в неё папку
+"z80" из архива с IAR'ом. Скачиваем свежий
+xlink.exe, с  официального  сайта IAR'а, в
+директорию
+"z8Obin" .  Теперь  создадим
+в  директории
+"IAR"  папочку  с  проектом
+"lesson1", а  в ней  директорию
+"list" для
+всякого полезного мусора.
+   Скопируем   дефолтный
+cstartup.s01  из
+IAR'а
+(z8Oiccz80) в директорию со своим
+проектом.В нём нас интересует два момента:
+первый - это начало бинарника, он же старт
+программы:
+ASEG
+ORG 0
+Соответственно, меняем  на  свой адрес,
+допустим,
+ORG 0x6000:
+ASEG
+ORG 0x6000
+Второй  момент  -  запретим  прерывания
+сразу после метки
+init_C:
+init_C
+DI
+LD SP,.SFE.(CSTACK-1)
+;from high
+                           ;to low address
+
+   На этом изменения закончены.
+
+   Теперь  нам нужно создать файл
+Lnk.xcl,
+пустой, в нём пропишем строчки:
+
+-cZ80 //процессор, под который собираем
+-Z(CODE)RCODE,CODE,CDATAO,CONST,CSTR,
+CCSTR=6000-BFFE
+//сегменты памяти с
+                //константами и кодом
+-Z(DATA)INTVEC=BFFF-COO0 //сегмент с
+//таблицей для прерываний im2
+-Z(DATA)DATAO,IDATAO,UDATAO,ECSTR,
+ALIGN8|8,CSTACK+200=C001-FFFF
+//сегменты
+                //стека, переменных и т.п.
+-e_medium_write=_formatted_write
+//конфигурация printf/sprintf
+-e_medium_read=_formatted_read
+//конфигурация scanf/sscanf
+cstartup //линкуем наш стартап
+-C ../z80/lib/clz80 //подключаем
+//библиотеку, опция '-C' позволит нам
+     //прилинковать свой cstartup
+-Fraw-binary //собрать чистый бинарь
+-l list/cout.html
+-o code.cou //имя бинарника
+-xehinms //включим всё для полноты картины
+Сохраняем,закрываем. Если что-то не по─
+нятно,то всегда можно заглянуть в докумен─
+тацию, там всё подробно описано.
+
+Создадим файл
+main.c:
+//тут всё банально 
+void main(void)
+{
+}
+Создадим  батник
+"make_c.bat", опять же
+не  поленитесь  прочитать описание опций в
+документации: 
+
+..z8Obiniccz80 -v0 -ml -uua -q -e -K
+-gA -s9 -t4 -T -Llist -Alist
+-I"../z80/inc/" main.c
+..z8Obinaz80 Cstartup.s01
+..z8Obinxlink main -f Lnk.xcl
+del *.r01
+И запустим  его. У нас  скомпилировался
+"голый" бинарь
+code.cou (если вы не забыли
+скачать  свежий
+xlink ), который можно за─
+грузить и запустить с адреса
+0x6000. Также
+в папке
+list появился файл main.s01 с чис─
+тым асмом  и файл
+cout.html с картой адре─
+сов, эти файлы могут пригодится для отлад─
+ки.
+   При использовании  оператора
+'?'  (тер─
+нарная  условная операция) со сложными вы─
+ражениями  очень рекомендую оптимизацию не
+выше 7 (
+-s7 либо -z7 ),  так как замечены
+баги.
+
+   Текущий  проект  будем использовать как
+шаблон. Для  создания образа дискеты можно
+воспользоватся утилитой
+trdtool, добавив в
+конец батника:
+
+..z8Obintrdtool # test.scl
+..z8Obintrdtool + test.scl boot.b
+..z8Obintrdtool + test.scl code.cou
+Нда, наблюдать чистый экран очень инте─
+ресно. Тут два варианта: писать всё на Си,
+либо создать библиотеку на асме.
+
+                  * * *
+
+   Рассмотрим первый вариант.
+   Скопируем шаблонный проект.
+   Нам нужны  инициализация экрана, печать
+символа  и статичная  переменная с текущим
+адресом знакоместа:
+
+#include <string.h>
+#include <intrz80.h>
+#include <stdio.h>
+static union {char * w;char b[2];}scrxy;
+void scr_init(char a){
+*((char *)0x5800)=a;
+output8(Oxfe,a>>3);
+memcpy((void *)0x5801,
+(void *)0x5800, 32*24-1);
+scrxy.w=(void *)0x4000;
+*((char *)0x4000)=0;
+memcpy((void *)0x4001,
+(void *)0x4000,
+(unsigned int)256*192/8-1);
+}
+int putchar(int ch){
+switch(ch){
+case 'n':
+scrxy.b[0]+=32;
+case 'r':
+scrxy.b[0]&=OxeO;
+break;
+default:{
+char* s=(char*)
+((ch<<3)+OxЗcOO);
+unsigned char i=8;
+while(i--){
+*scrxy.w=*(s++);
+scrxy.b[1]++;
+}
+}
+scrxy.w-=0x07ff;
+break;
+}
+if(!scrxy.b[0]){
+if((scrxy.b[1]+=8)==0x58)
+scrxy.b[1]=0x40;
+}
+return 1;
+}
+void main(void){
+scr_init(0x07<<3);
+puts("Hello World!");
+while(1) printf(
+"Keyboard scan: 0x%02Xr",
+input(OxOOfe));
+}
+Комментировать код нет смысла, т.к. это
+типичная  печаталка  символов. Наш
+putchar
+подменит собой библиотечный, который испо─
+льзуют
+puts, printf и т.п.
+Чтобы  каждый раз это не компилировать,
+нужно  скомпилировать исходник как библио─
+теку.
+   Удалите  функцию
+main() и переименуйте
+исходник  в
+"mylib.c". Также  переименуем
+директорию  проекта  в
+"mylib". Удалите из
+проекта все файлы, кроме
+"mylib.c". Созда─
+дим  файл
+"make_c.bat"  и пропишем в него
+следующую строчку:
+
+..z8Obiniccz80 -v0 -ml -uua -b -q -x -K
+-gA -z9 -t4 -T -Llist -Alist
+-I"../z80/inc/" mylib.c
+И запустим  его, у нас скомпилировалась
+библиотека
+"mylib.r01".
+Создадим заголовочный файл
+"mylib.h" со
+строкой:
+
+void scr_init(char a);
+Теперь откроем файл
+"Lnk.xcl" из нашего
+шаблонного проекта и перед строчкой
+"-C ../z80/lib/clz80" добавим строку
+"../mylib/mylib". Должно получиться:
+...
+cstartup //линкуем наш стартап
+../mylib/mylib //линкуем собственную
+//библиотеку
+-C ../z80/lib/clz80 //подключаем
+//библиотеку IAR'а, опция '-C' позволит
+   //нам прилинковать свой cstartup.s01
+...
+Можно проверить нашу библиотеку, создав
+новый проект и скомпилировав строчки:
+
+#include <stdio.h>
+#include <intrz80.h>
+#include "../mylib/mylib.h"
+void main(void){
+scr_init(0x07<<3);
+puts("Hello World!");
+while(1) printf(
+"Keyboard scan: 0x%02Xr",input(OxOOfe));
+}
+* * *
+
+   Функции IO обычно пишутся на асме, поэ─
+тому  следующую  функцию  будем  писать на
+нём. Каждую функцию желательно оборачивать
+в модули, чтобы при линковке цеплялись то─
+лько используемые модули:
+MODULE mymod1
+...
+ENDMOD
+MODULE mymod2
+...
+ENDMOD
+MODULE mymodЗ
+...
+END
+;последний в файле модуль
+    ;заканчивается именно так, а не ENDMOD
+        
+   Создадим в проекте
+mylib файл graf.s01,
+с кодом:
+MODULE  fast_set_pix
+PUBLIC  fast_set_pix,
+fast_set_pix_table
+RSEG    CODE
+fast_set_pix
+;http://zxdn.narod.ru/coding/zg1etud2.txt
+push bc
+push de
+ld l,c
+LD H,HIGH(fast_set_pix_table)
+LD D,HIGH(fast_set_pix_table)+2
+LD A,(DE)
+INC D
+OR (HL)
+INC H
+LD H,(HL)
+LD L,A
+LD A,(DE)
+OR (HL)
+LD (HL),A
+pop de
+pop bc
+ret
+RSEG    ALIGN8
+fast_set_pix_table
+DEFS 1024
+ENDMOD
+MODULE  fast_set_pix_init
+PUBLIC  fast_set_pix_init
+EXTERN  fast_set_pix_table
+RSEG    CODE
+fast_set_pix_init
+push bc
+push de
+LD HL,fast_set_pix_table+256
+LD DE,0x4000
+GENO
+LD (HL),D
+DEC H
+LD (HL),E
+INC H
+INC D
+LD A,D
+AND 7
+JR NZ,LABEL
+LD A,E
+SUB OxEO
+LD E,A
+SBC A,A
+AND -8
+ADD A,D
+LD D,A
+LABEL
+LD A,D
+SUB 88
+JR NZ,$+3
+LD D,A
+INC L
+JR NZ,GENO
+INC H
+LD A,128
+GEN1
+LD (HL),E
+INC H
+LD (HL),A
+DEC H
+RRCA
+JR NC,$+3
+INC E
+INC L
+JR NZ,GEN1
+pop de
+pop bc
+ret
+ENDMOD
+MODULE  little_set_pix
+PUBLIC  little_set_pix
+RSEG    CODE
+little_set_pix
+ld a,c
+and 0x07
+or 0x40
+ld h,a
+ld a,c
+rrca
+rrca
+rrca
+ld l,a
+and %00011000
+or h
+ld h,a
+ld a,l
+ld l,e
+rrca
+rr l
+rra
+rr l
+rra
+rr l
+rra
+rrca
+rrca
+and %00111000
+xor %11111110
+ld (l2+1),a
+;конечно, так нельзя
+                    ;делать в либах
+l2      set 0,(hl)
+ret
+END
+Здесь у нас две типичные рисовалки точ─
+ки,одна побыстрее,вторая покороче.Уточнить
+про  параметры  при  вызове  функций можно
+в документации, раздел  "Assembly language
+interface". 
+
+                  * * *
+
+   Чтобы  не плодить библиотеки, будем со─
+бирать их в одну.
+   В новом файле с именем
+mylib.xlib запи─
+шем строчки:
+
+fetch-modules graf.r01 mylib.r01
+list-modules mylib.r01
+quit
+После строчки
+"quit" обязательно должна
+быть пустая  строка, т.к.
+xlib ругается на
+отсутствующий EOF.
+   Это  скрипт  для сборщика библиотек, он
+объединит две либы в одну.
+   Добавим  в
+"make_c.bat" строку компиля─
+ции
+graf.s01 и соберём либу в один файл.
+Батник будет выглядеть:
+
+..z8Obiniccz80 -v0 -ml -uua -b -q -x -K
+-gA -z9 -t4 -T -Llist -Alist
+-I"../z80/inc/" mylib.c
+..z8Obinaz80 -uu -b -v0 graf.s01
+..z8Obinxlib mylib.xlib
+Соответственно в заголовочный файл
+mylib.h добавьте:
+void fast_set_pix_init(void);
+void fast_set_pix(unsigned char x,
+unsigned char y);
+void little_set_pix(unsigned char x,
+unsigned char y);
+#ifdef FASTPIXEL
+#define set_pix fast_set_pix
+#define set_pix_init fast_set_pix_init
+#else
+#define set_pix_init()
+#define set_pix little_set_pix
+#endif
+Теперь  запустим батник и проверим биб─
+лиотеку:
+
+#include <math.h>
+//#define FASTPIXEL 
+#include "../mylib/mylib.h"
+void main(void){
+unsigned char x=0;
+scr_init(0x07<<3);
+set_pix_init();
+do{
+set_pix(x,
+(sin((double)x/20)*20+95));
+}while(++x);
+}
+На  фоне  вычислений  даблов  и синусов
+быстрый  и маленький  пиксели  практически
+неотличимы  по скорости, только по размеру
+занимаемой памяти.
+
+                  * * *
+
+   Ну и напоследок освоим прерывания (дан─
+ный код не будет работать на машинах,у ко─
+торых мусор на шине данных):
+
+#include <intrz80.h>
+unsigned int int_count=0;
+interrupt[0] void myint(void){
+int_count++;
+output8(Oxfe,
+((unsigned char)int_count&0x70)>>4);
+}
+C_task void main(void){
+load_I_register(Oxbf);
+interrupt_mode_2();
+enable_interrupt();
+}
+Для "мусорных" шин  красивого решения я
+не знаю.
+   Как вариант выделить сегмент памяти под
+таблицу  прерываний
+(INTTABLE) и сегмент с
+"зеркальным" (
+Oxbfbf,0x8181 и т.п.) адре─
+сом под
+JP:
+-Z(CODE)RCODE,CODE,CDATAO,CONST,CSTR,
+CCSTR=6000-BEBD
+//сегменты памяти с
+                 //константами и кодом
+-Z(DATA)INTJP=BEBE-BECO //сегмент с JP для
+//прерываний im2
+-Z(DATA)DATAO,IDATAO,UDATAO,ECSTR,
+ALIGN8|8,INTTABLE|8,CSTACK+200=BEC1-FFFF
+//сегменты стека, переменных и т.п. 
+
+   В проект
+mylib добавим myim2.s01, в ко─
+тором  разместим
+JP на обработчик прерыва─
+ния, таблицу векторов и инициализацию:
+MODULE  my_im2
+PUBLIC  my_im2_init
+RSEG    INTJP
+DEFS 3
+RSEG    INTTABLE
+DEFS 257
+RSEG    CODE
+my_im2_init
+di
+ld a,OxcЗ
+ld (SFB(INTJP)),a
+ld (SFB(INTJP)+1),de
+ld a,HIGH(SFB(INTTABLE))
+ld i,a
+inc a
+ld hl,SFB(INTTABLE)-1
+tloop
+inc hl
+ld (hl),HIGH(SFB(INTJP))
+cp h
+jr nz,tloop
+im 2
+ret
+END
+Строка компиляции в батнике:
+
+...
+..z8Obinaz80 -uu -b -v0 myim2.s01
+...
+Строка в
+mylib.xlib:
+...
+fetch-modules myim2.r01 mylib.r01
+...
+Соответственно в
+mylib.h добавим:
+extern void my_im2_init(void *);
+И собственно пример использования:
+
+#include <intrz80.h>
+#include "../mylib/mylib.h"
+unsigned int int_count=0;
+interrupt void myint(void){
+int_count++;
+output8(Oxfe,
+((unsigned char)int_count&0x70)>>4);
+}
+C_task void main(void){
+my_im2_init(myint);
+enable_interrupt();
+}
+* * *
+Все  примеры  вы  можете найти в прило─
+жении к журналу. Для  сборки  используется
+утилита  trdtool
+by Shiru  с исправлениями
+от Trefi
+и DimkaM, к ней прилагаются исхо─
+дники.

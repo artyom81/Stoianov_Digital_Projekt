@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 13365,
+    "article_url": "https://zxpress.ru/article.php?id=13365",
+    "print_url": "https://zxpress.ru/print.php?id=13365",
+    "title_link": "Введение - мы вновь встречаемся на страницах\r\n или на экранах.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Введение_-_мы_вновь_встречаемся_на_страницах_или_на_экранах"
+  },
+  {
+    "article_id": 13366,
+    "article_url": "https://zxpress.ru/article.php?id=13366",
+    "print_url": "https://zxpress.ru/print.php?id=13366",
+    "title_link": "Обзор - Как обычно в этот разделе о новых пос\r\n туплениях программного обеспечения за\r\n прошедшие две недели.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Обзор_-_Как_обычно_в_этот_разделе_о_новых_пос_туплениях_прог"
+  },
+  {
+    "article_id": 13367,
+    "article_url": "https://zxpress.ru/article.php?id=13367",
+    "print_url": "https://zxpress.ru/print.php?id=13367",
+    "title_link": "Хит-Парад - Десятка самых популярных программ в\r\n Чайковском.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Хит-Парад_-_Десятка_самых_популярных_программ_в_Чаиковском"
+  },
+  {
+    "article_id": 13368,
+    "article_url": "https://zxpress.ru/article.php?id=13368",
+    "print_url": "https://zxpress.ru/print.php?id=13368",
+    "title_link": "Проходилка - вот и я с четвертой частью\r\nописания игры \"48 УТЮГОВ\".",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Проходилка_-_вот_и_я_с_четвертои_частьюописания_игры_48_УТЮГ"
+  },
+  {
+    "article_id": 13369,
+    "article_url": "https://zxpress.ru/article.php?id=13369",
+    "print_url": "https://zxpress.ru/print.php?id=13369",
+    "title_link": "Юмор - Анекдоты про Штирлица.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Юмор_-_Анекдоты_про_Штирлица"
+  },
+  {
+    "article_id": 13370,
+    "article_url": "https://zxpress.ru/article.php?id=13370",
+    "print_url": "https://zxpress.ru/print.php?id=13370",
+    "title_link": "Реклама - Мы ждем Ваших писем.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Мы_ждем_Ваших_писем"
+  }
+]

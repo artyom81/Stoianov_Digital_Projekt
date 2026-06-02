@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 88,
+    "article_url": "https://zxpress.ru/article.php?id=88",
+    "print_url": "https://zxpress.ru/print.php?id=88",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "23",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2027,
+    "article_url": "https://zxpress.ru/article.php?id=2027",
+    "print_url": "https://zxpress.ru/print.php?id=2027",
+    "title_link": "Железо - Блокировка порта #1FFD на Sсorpion ZS-256.",
+    "order": 2,
+    "issue_label": "23",
+    "short_slug": "Железо_-_Блокировка_порта_1FFD_на_Sсorpion_ZS-256"
+  },
+  {
+    "article_id": 2025,
+    "article_url": "https://zxpress.ru/article.php?id=2025",
+    "print_url": "https://zxpress.ru/print.php?id=2025",
+    "title_link": "Застрял ? - Описание игры \"North & South\".",
+    "order": 3,
+    "issue_label": "23",
+    "short_slug": "Застрял_-_Описание_игры_North_South"
+  },
+  {
+    "article_id": 2026,
+    "article_url": "https://zxpress.ru/article.php?id=2026",
+    "print_url": "https://zxpress.ru/print.php?id=2026",
+    "title_link": "Мозаика - Взломан отгрузочный блок игры \"Страна Мифов\".\r\n О программах \"на весь диск\" : Last Battle, Пираты.\r\n O регестрации пользователей в телекоммуникац. сети ZXNet.",
+    "order": 4,
+    "issue_label": "23",
+    "short_slug": "Мозаика_-_Взломан_отгрузочныи_блок_игры_Страна_Мифов_О_прогр"
+  },
+  {
+    "article_id": 2028,
+    "article_url": "https://zxpress.ru/article.php?id=2028",
+    "print_url": "https://zxpress.ru/print.php?id=2028",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "23",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2024,
+    "article_url": "https://zxpress.ru/article.php?id=2024",
+    "print_url": "https://zxpress.ru/print.php?id=2024",
+    "title_link": "Страничка пользователя - Один день из жизни пользователя Alex-BBS.",
+    "order": 6,
+    "issue_label": "23",
+    "short_slug": "Страничка_пользователя_-_Один_день_из_жизни_пользователя_Ale"
+  }
+]

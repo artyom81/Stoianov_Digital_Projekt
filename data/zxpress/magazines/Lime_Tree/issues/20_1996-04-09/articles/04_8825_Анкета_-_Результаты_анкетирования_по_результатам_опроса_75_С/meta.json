@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "20",
+  "issue_date_iso": "1996-04-09",
+  "order": 4,
+  "article_id": 8825,
+  "title_link": "Анкета - Результаты анкетирования, по результатам опроса 75 Спектрумистов.",
+  "title_h1": "Lime Tree 20 - Анкета - Результаты анкетирования, по результатам опроса 75 Спектрумистов.",
+  "print_url": "https://zxpress.ru/print.php?id=8825",
+  "article_url": "https://zxpress.ru/article.php?id=8825",
+  "fetched_at": "2026-05-31T22:19:46Z"
+}

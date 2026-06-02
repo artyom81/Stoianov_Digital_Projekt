@@ -1,0 +1,15 @@
+{
+  "magazine_id": 61,
+  "magazine_name": "Dune",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "0000-01-01",
+  "order": 5,
+  "article_id": 5436,
+  "title_link": "Технология спрайтов - часть 8: печать спрайтов (координаты заданы в знакоместах).",
+  "title_h1": "ZX Forum 04 - Технология спрайтов - часть 8: печать спрайтов (координаты заданы в знакоместах).",
+  "print_url": "https://zxpress.ru/print.php?id=5436",
+  "article_url": "https://zxpress.ru/article.php?id=5436",
+  "fetched_at": "2026-05-31T21:59:53Z"
+}

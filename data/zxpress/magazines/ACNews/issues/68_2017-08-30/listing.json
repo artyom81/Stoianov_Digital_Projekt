@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 18491,
+    "article_url": "https://zxpress.ru/article.php?id=18491",
+    "print_url": "https://zxpress.ru/print.php?id=18491",
+    "title_link": "Новости - Изменения в пакете NedoLang, Hippiman сменил квартиру, после чего начал писать игровой движок на NedoLang, John Silver купил студийные колонки-мониторы, венгерские хакеры\r\nпортировали Wolfenstein 2004 на компьютер Enterprise 128.",
+    "order": 1,
+    "issue_label": "68",
+    "short_slug": "Новости_-_Изменения_в_пакете_NedoLang_Hippiman_сменил_кварти"
+  },
+  {
+    "article_id": 18492,
+    "article_url": "https://zxpress.ru/article.php?id=18492",
+    "print_url": "https://zxpress.ru/print.php?id=18492",
+    "title_link": "News - Hippiman changed his residence, then started to make a game, John Silver bought studio speakers, first ATM 8.00 board was finally",
+    "order": 2,
+    "issue_label": "68",
+    "short_slug": "News_-_Hippiman_changed_his_residence_then_started_to_make_a"
+  },
+  {
+    "article_id": 18493,
+    "article_url": "https://zxpress.ru/article.php?id=18493",
+    "print_url": "https://zxpress.ru/print.php?id=18493",
+    "title_link": "Работа с глобальными переменными в Evo SDK - сегодня мы снова будем расширять возможности\r\nEvo SDK",
+    "order": 3,
+    "issue_label": "68",
+    "short_slug": "Работа_с_глобальными_переменными_в_Evo_SDK_-_сегодня_мы_снов"
+  },
+  {
+    "article_id": 18494,
+    "article_url": "https://zxpress.ru/article.php?id=18494",
+    "print_url": "https://zxpress.ru/print.php?id=18494",
+    "title_link": "Handling global variables in Evo SDK - we shall expand Evo SDK possibilities again",
+    "order": 4,
+    "issue_label": "68",
+    "short_slug": "Handling_global_variables_in_Evo_SDK_-_we_shall_expand_Evo_S"
+  },
+  {
+    "article_id": 18495,
+    "article_url": "https://zxpress.ru/article.php?id=18495",
+    "print_url": "https://zxpress.ru/print.php?id=18495",
+    "title_link": "irc.forestnet.org #mhm о демопатях - какието там ЦЦ-Дихальты, это\r\nчисто русские такие тусовки-бухаловки с чисто русским таким менталитетом",
+    "order": 5,
+    "issue_label": "68",
+    "short_slug": "ircforestnetorg_mhm_о_демопатях_-_какието_там_ЦЦ-Дихальты_эт"
+  },
+  {
+    "article_id": 18496,
+    "article_url": "https://zxpress.ru/article.php?id=18496",
+    "print_url": "https://zxpress.ru/print.php?id=18496",
+    "title_link": "irc.forestnet.org #mhm about demoparties - about russian parties",
+    "order": 6,
+    "issue_label": "68",
+    "short_slug": "ircforestnetorg_mhm_about_demoparties_-_about_russian_partie"
+  },
+  {
+    "article_id": 18497,
+    "article_url": "https://zxpress.ru/article.php?id=18497",
+    "print_url": "https://zxpress.ru/print.php?id=18497",
+    "title_link": "О светодиодных лампах - Началось всё с покупки настенного светильника в магазине\r\nIKEA в октябре 2016 года...",
+    "order": 7,
+    "issue_label": "68",
+    "short_slug": "О_светодиодных_лампах_-_Началось_все_с_покупки_настенного_св"
+  }
+]

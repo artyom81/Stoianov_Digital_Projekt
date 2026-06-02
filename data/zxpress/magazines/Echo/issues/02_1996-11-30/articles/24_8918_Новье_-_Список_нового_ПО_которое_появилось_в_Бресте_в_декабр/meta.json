@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "02",
+  "issue_date_iso": "1996-11-30",
+  "order": 24,
+  "article_id": 8918,
+  "title_link": "Новье - Список нового ПО, которое появилось в Бресте в декабре.",
+  "title_h1": "Echo 02 - Новье - Список нового ПО, которое появилось в Бресте в декабре.",
+  "print_url": "https://zxpress.ru/print.php?id=8918",
+  "article_url": "https://zxpress.ru/article.php?id=8918",
+  "fetched_at": "2026-05-31T22:00:22Z"
+}

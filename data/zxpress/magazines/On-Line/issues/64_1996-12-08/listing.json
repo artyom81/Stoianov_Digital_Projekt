@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 30,
+    "article_url": "https://zxpress.ru/article.php?id=30",
+    "print_url": "https://zxpress.ru/print.php?id=30",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "64",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2416,
+    "article_url": "https://zxpress.ru/article.php?id=2416",
+    "print_url": "https://zxpress.ru/print.php?id=2416",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "64",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2418,
+    "article_url": "https://zxpress.ru/article.php?id=2418",
+    "print_url": "https://zxpress.ru/print.php?id=2418",
+    "title_link": "ZXNet - О почтовой системе в Internet.",
+    "order": 3,
+    "issue_label": "64",
+    "short_slug": "ZXNet_-_О_почтовои_системе_в_Internet"
+  },
+  {
+    "article_id": 2415,
+    "article_url": "https://zxpress.ru/article.php?id=2415",
+    "print_url": "https://zxpress.ru/print.php?id=2415",
+    "title_link": "Застрял ? - Описание игры \"Venturama\".",
+    "order": 4,
+    "issue_label": "64",
+    "short_slug": "Застрял_-_Описание_игры_Venturama"
+  },
+  {
+    "article_id": 2414,
+    "article_url": "https://zxpress.ru/article.php?id=2414",
+    "print_url": "https://zxpress.ru/print.php?id=2414",
+    "title_link": "Мозаика - Закончена работа по написанию новой DOOM'овидной игры\r\n \"Return to Home 4\". DemoBit'96 отменяется ...",
+    "order": 5,
+    "issue_label": "64",
+    "short_slug": "Мозаика_-_Закончена_работа_по_написанию_новои_DOOMовиднои_иг"
+  },
+  {
+    "article_id": 2417,
+    "article_url": "https://zxpress.ru/article.php?id=2417",
+    "print_url": "https://zxpress.ru/print.php?id=2417",
+    "title_link": "Презентация - Презентация новых журналов: Oberon 2, Spectrofon 21.",
+    "order": 6,
+    "issue_label": "64",
+    "short_slug": "Презентация_-_Презентация_новых_журналов_Oberon_2_Spectrofon"
+  },
+  {
+    "article_id": 2413,
+    "article_url": "https://zxpress.ru/article.php?id=2413",
+    "print_url": "https://zxpress.ru/print.php?id=2413",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 7,
+    "issue_label": "64",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

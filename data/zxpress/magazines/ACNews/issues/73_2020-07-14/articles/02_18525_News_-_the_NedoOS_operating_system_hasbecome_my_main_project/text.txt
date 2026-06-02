@@ -1,0 +1,170 @@
+ACNews 73 - News - the NedoOS operating system has become my main project. A few more people joined the NedoOS project ( DimkaM, Demige, Lord Vader, etc.)
+News
+                         by Alone Coder
+
+Since the newspaper has not been published for a long time, it
+makes sense to describe in a nutshell what happened during this
+time. And here's what happened: the NedoOS operating system has
+become my main project. A few more people joined the NedoOS
+project ( DimkaM, Demige, Lord Vader, etc.). The site
+http://nedoos.ru/ was created, and I revived my YouTube channel 
+https://www.youtube.com/channel/UCqoatWkMXgxnFWdwRXYEMfw (72 
+subscribers so far) and started Twitch broadcasting about
+programming (22 followers so far). Broadcasts take place almost
+every day at 21:30 at https://twitch.tv/alone_coder/
+
+Programming with NedoOS is much easier than with TR-DOS, so I
+started to drag my old projects onto it and undate them.
+
+In particular:
+- in the WolfЧ8 engine (in its ATM version) sprites and lamps
+finally appeared. Loaded directly from bmp. BigL editor fixed so
+that object codes match those displayed in the editor.
+- network Snake was written based on the usual Snake (DimkaM and
+Demige helped). 
+- Untangle game ("time killer") was implemented, on which Shiru
+once hooked me up :) At the moment, there is the fastest line
+procedure for colour-per-pixel mode. Lord Vader helped with
+optimizing line intersection checking.
+- ZXRar, zxunrar and pkunzip now work with files and archives of
+any size.
+- Instead of MCX viewer, a more universal NedoView was written.
+- instead of JPEG viewer, a web browser was written :) GIF, PNG
+and SVG are also supported there (in part, according to Elph's
+source). DimkaM helped with HTTP and DNS.
+- instead of Unreal Project game engine with 16-pixel
+scroll, a new one was written with 1-2-pixel scroll and 256x64
+map of 16x16 metatiles or using a 1024x512 image that can be
+loaded from bmp.
+- Black Raven is colourized, which I was going to do for years
+since 2000 and for that I even wanted to solder something :) I
+even recorded a complete walkthrough at YouTube (before that
+there was only black and white, blurred, and slow one, with a
+label "Unregistered HyperCam" ). SashaPont, Kotik and Louisa /
+Conscience helped with graphics. 
+- all three versions of Loyd puzzle, which I wrote back in 1998,
+are glued together and also colourized.
+- I finally ported Super Mario from NES to Speccy :) I started
+drawing the first sprites in 1995, then another version around
+1996, then in 2002 I tried to write an engine together with 
+Shiru. But in the end it turned out that the easiest way is to 
+port the original command-by-command - like Prince of Persia
+and Gobliiins. Including even the music player. The game is
+fully passable (including branded cheats and glitches) and
+allows you to record and play the walkthrough. My walkthrough is
+posted on Hippiman's YouTube channel:
+https://www.youtube.com/watch?v=1tlW7kIxPyY . Interestingly, 
+Gogin also revived his Super Mario project (for 128K ) and then 
+completed it too! True, there is not everything that was in the
+original game, but this version successfully participated at
+CAFe'2019. I was there. 
+- NedoLang (see ACNews #63, Info Guide #12 ) now knows how to
+compile projects larger than a floppy disk :) At the same time,
+a third target appeared - an interpreted script. But there is a
+strong desire for an integrated development environment.
+
+In addition to NedoOS, I also did other things on Speccy - I
+started writing another demo for 48K (I didnt finish it),
+experimented with 48K raycasting, released a multicolor game
+Space Monsters meet THE HARDY ( Sand/mHm's project), finalized 
+the Con18pal converter, added the ATM2 driver to the game Land
+of Myths (previously there was only ATM1 ). 
+
+Significantly expanded the list of Soviet software for Speccy
+(see ACNews #65, Info Guide #12 ) - thanks to the disks from
+CPU, vBv and MidiSoft. I searched for the latter for about 15 
+years, it appeared only recently - that's because Newart is
+engaged in "Speccy archeology".
+
+Together with AcidRain ( Maksagor also sponsored, and a lot of
+people corrected the rules) in December 2019 we launched the
+Your Game 6 compo. It has two sites: http://tiб.club/ and 
+http://tiб.nedopc.com/ . For the history I duplicate the rules 
+here (press "3" ). Now Yandex, apparently, decided to lure the
+authors to its own competition. Our term is October 4, they have
+it somewhere in November. It's almost impossible to participate
+in two. In this situation, on TIб any work can win, not a
+biggest game. And the prize fund is 158,000 rubles!
+
+I'm working for the entire period of the coronavirus, except for
+one week. We walk and sit in masks, write entry lists and entry
+forms, constantly wash hands with alcohol or something else,
+wipe the keyboards. Bosses tried to introduce remote jobs, but
+so far not very successfully - only extra reporting in the form
+of Jira and Git. Videoconferences also appeared.
+
+I wrote two articles on linguistics (together with M. S.
+Yastrebov-Pestritsky ). No one has been printed yet. One (in 
+Russian) concerns the chronology of the Balto-Slavic phonetic
+changes, the other (in English) proposes a new method for
+reconstructing the Proto-Indo-European vocabulary (more
+precisely, the narrow Proto-Indo-European - only the lexical
+core common to all central branches) with some results achieved
+and a long list of references. Tables with these results are
+available at http://alonecoder.nedopc.com/ling/PIE/ and are
+updated periodically.
+
+Children are growing up. Dasha has already learned how to manage
+a man in Zelda: Link's Awakening and successfully wins in Galcon
+on a tablet (at an easy level). Sasha is now talking a lot, but
+he presses the buttons completely by accident and when it isn't
+needed!
+
+Louisa/Conscience learns to design sites. She also helped with 
+English translation.
+
+Arwald/Conscience is trying to make a Spectrum website. A 
+copy-book with the script of the game Rusted Souls was never
+found :(
+
+Hippiman/Conscience started porting Evo SDK to NedoOS, but 
+he is very busy at his job.
+
+Nitrofurano/Conscience is experimenting with converting colour 
+video to Speccy.
+
+Ldir writes effects on LED panels. I dont quite understand how 
+they work :)
+
+Cyberdaemon monitors Speccy events, but so far does not code 
+anything.
+
+Finally I was able to take back ZX Evo and TurboSound FM from
+John Silver. I only need to set it up - and I lost the soldering 
+iron somewhere. John now hardly writes music - perhaps because
+no one sends him reviews? In principle, he was not against
+voicing a game. His e-mail address is ljohn149(at)gmail.com .
+
+For my part, I also tried to write something, but got stuck
+after a couple of patterns (one such result is in the noise
+demo). You dont particularly write music with children...
+
+Savelij13 added a "5" button to the Evo Reset Service to quickly 
+start the OS from an SD-card.
+
+Fyrex/mHm fixed one ATM2+ emulation glitch in Unreal Speccy 
+Portable, but there are problems with some software. 
+
+Piotr Marecki was able to release a book about the Spectrum 
+demoscene (see ACNews #64 ). But it is for money yet.
+
+There is a new Spanish emulator with ATM2+ support -
+Es.pectrum. It even supports the DDp's palette (4+4+4), which 
+Unreal Speccy does not! 
+
+In my old version of Unreal Speccy (which is compiled in MSVCб),
+I added export of the current palette data. However, the render
+there was made so cleverly that I dont even know how to add
+4+4+4 there. 
+
+KOE has released a couple of new firmware versions for Pentagon 
+2.6ббLE, but there is no stable version yet. The problem is that 
+some external devices do not work at 28 MHz. He is also engaged
+in firmware for Pentagon 2.666 (this is the one with the real
+Z80 ). 
+
+It turned out that I did not publish the list of books I read
+since 2015 ( ACNews #60 ) - I fill this gap (press "4" ).
+
+Send me your articles for Info Guide #13! The music is almost
+complete.

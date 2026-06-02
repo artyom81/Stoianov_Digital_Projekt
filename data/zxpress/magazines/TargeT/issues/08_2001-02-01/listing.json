@@ -1,0 +1,110 @@
+[
+  {
+    "article_id": 9188,
+    "article_url": "https://zxpress.ru/article.php?id=9188",
+    "print_url": "https://zxpress.ru/print.php?id=9188",
+    "title_link": "Вступление - новый номер Target в новой оболочке.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "Вступление_-_новыи_номер_Target_в_новои_оболочке"
+  },
+  {
+    "article_id": 9189,
+    "article_url": "https://zxpress.ru/article.php?id=9189",
+    "print_url": "https://zxpress.ru/print.php?id=9189",
+    "title_link": "Новости - Fenomen свалили на Пц, Старости из Минска, Новости из Гродно.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Новости_-_Fenomen_свалили_на_Пц_Старости_из_Минска_Новости_и"
+  },
+  {
+    "article_id": 9190,
+    "article_url": "https://zxpress.ru/article.php?id=9190",
+    "print_url": "https://zxpress.ru/print.php?id=9190",
+    "title_link": "Скандал - Breeze (Minisoft) ясно дал всем понять, что с ZX он покончил.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Скандал_-_Breeze_Minisoft_ясно_дал_всем_понять_что_с_ZX_он_п"
+  },
+  {
+    "article_id": 9191,
+    "article_url": "https://zxpress.ru/article.php?id=9191",
+    "print_url": "https://zxpress.ru/print.php?id=9191",
+    "title_link": "Nostalgy - мне сейчас до невыносимости хочется вернуться в 1995 год к Спектрофону, ZX-Format'у... Почему ???",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Nostalgy_-_мне_сеичас_до_невыносимости_хочется_вернуться_в_1"
+  },
+  {
+    "article_id": 9192,
+    "article_url": "https://zxpress.ru/article.php?id=9192",
+    "print_url": "https://zxpress.ru/print.php?id=9192",
+    "title_link": "Coding - доработка ZX-WORD для Беларуского языка.",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "Coding_-_доработка_ZX-WORD_для_Беларуского_языка"
+  },
+  {
+    "article_id": 9193,
+    "article_url": "https://zxpress.ru/article.php?id=9193",
+    "print_url": "https://zxpress.ru/print.php?id=9193",
+    "title_link": "Железо - Подключение каналов музыкального сопроцесора AY/YM к усилителю.",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Железо_-_Подключение_каналов_музыкального_сопроцесора_AYYM_к"
+  },
+  {
+    "article_id": 9194,
+    "article_url": "https://zxpress.ru/article.php?id=9194",
+    "print_url": "https://zxpress.ru/print.php?id=9194",
+    "title_link": "From Internet - о \"небезопасной\" жизни пользователей незарегистрированных модемов.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "From_Internet_-_о_небезопаснои_жизни_пользователеи_незарегис"
+  },
+  {
+    "article_id": 9195,
+    "article_url": "https://zxpress.ru/article.php?id=9195",
+    "print_url": "https://zxpress.ru/print.php?id=9195",
+    "title_link": "Demo - ZX ДемоСцена. Что же это такое ?",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Demo_-_ZX_ДемоСцена_Что_же_это_такое"
+  },
+  {
+    "article_id": 9196,
+    "article_url": "https://zxpress.ru/article.php?id=9196",
+    "print_url": "https://zxpress.ru/print.php?id=9196",
+    "title_link": "Return to Home - Дело было поздним вечером ...",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "Return_to_Home_-_Дело_было_поздним_вечером"
+  },
+  {
+    "article_id": 9197,
+    "article_url": "https://zxpress.ru/article.php?id=9197",
+    "print_url": "https://zxpress.ru/print.php?id=9197",
+    "title_link": "Реклама - реклама и обьявления.",
+    "order": 10,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_реклама_и_обьявления"
+  },
+  {
+    "article_id": 9198,
+    "article_url": "https://zxpress.ru/article.php?id=9198",
+    "print_url": "https://zxpress.ru/print.php?id=9198",
+    "title_link": "Editorial - авторы газеты.",
+    "order": 11,
+    "issue_label": "08",
+    "short_slug": "Editorial_-_авторы_газеты"
+  },
+  {
+    "article_id": 9199,
+    "article_url": "https://zxpress.ru/article.php?id=9199",
+    "print_url": "https://zxpress.ru/print.php?id=9199",
+    "title_link": "Послесловие - Ну вот и достигнута Цель:TargeT получился!",
+    "order": 12,
+    "issue_label": "08",
+    "short_slug": "Послесловие_-_Ну_вот_и_достигнута_ЦельTargeT_получился"
+  }
+]

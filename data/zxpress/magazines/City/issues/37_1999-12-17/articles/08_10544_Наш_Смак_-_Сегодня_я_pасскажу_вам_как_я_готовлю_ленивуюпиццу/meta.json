@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "37",
+  "issue_date_iso": "1999-12-17",
+  "order": 8,
+  "article_id": 10544,
+  "title_link": "Наш Смак - Сегодня я pасскажу вам, как я готовлю ленивую\r\nпиццу.",
+  "title_h1": "City 37 - Наш Смак - Сегодня я pасскажу вам, как я готовлю ленивую пиццу.",
+  "print_url": "https://zxpress.ru/print.php?id=10544",
+  "article_url": "https://zxpress.ru/article.php?id=10544",
+  "fetched_at": "2026-05-31T21:51:38Z"
+}

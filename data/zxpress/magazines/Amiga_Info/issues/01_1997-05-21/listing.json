@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 13042,
+    "article_url": "https://zxpress.ru/article.php?id=13042",
+    "print_url": "https://zxpress.ru/print.php?id=13042",
+    "title_link": "От редакции - Давно пора было сделать газетку про Амигу !",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "От_редакции_-_Давно_пора_было_сделать_газетку_про_Амигу"
+  },
+  {
+    "article_id": 13043,
+    "article_url": "https://zxpress.ru/article.php?id=13043",
+    "print_url": "https://zxpress.ru/print.php?id=13043",
+    "title_link": "Amiga world - Alexey Zhunev рассказывает как он стал Амижником.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Amiga_world_-_Alexey_Zhunev_рассказывает_как_он_стал_Амижник"
+  },
+  {
+    "article_id": 13044,
+    "article_url": "https://zxpress.ru/article.php?id=13044",
+    "print_url": "https://zxpress.ru/print.php?id=13044",
+    "title_link": "Реклама - Электронный журнал 'REALTIME' и другие программы группы JURASSIC SOFTWARE .",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Электронныи_журнал_REALTIME_и_другие_программы_гру"
+  },
+  {
+    "article_id": 12227,
+    "article_url": "https://zxpress.ru/article.php?id=12227",
+    "print_url": "https://zxpress.ru/print.php?id=12227",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 14596,
+    "article_url": "https://zxpress.ru/article.php?id=14596",
+    "print_url": "https://zxpress.ru/print.php?id=14596",
+    "title_link": "Fuck - как Arty кинул ASH'a на деньги.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Fuck_-_как_Arty_кинул_ASHa_на_деньги"
+  },
+  {
+    "article_id": 18457,
+    "article_url": "https://zxpress.ru/article.php?id=18457",
+    "print_url": "https://zxpress.ru/print.php?id=18457",
+    "title_link": "Письмо №313 - Екатеринбург",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Письмо_No313_-_Екатеринбург"
+  },
+  {
+    "article_id": 5041,
+    "article_url": "https://zxpress.ru/article.php?id=5041",
+    "print_url": "https://zxpress.ru/print.php?id=5041",
+    "title_link": "Software for Sale - Купи себе немного Speccy.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Software_for_Sale_-_Купи_себе_немного_Speccy"
+  },
+  {
+    "article_id": 2221,
+    "article_url": "https://zxpress.ru/article.php?id=2221",
+    "print_url": "https://zxpress.ru/print.php?id=2221",
+    "title_link": "Our News - Костяк \"стариков\" развалился.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Our_News_-_Костяк_стариков_развалился"
+  }
+]

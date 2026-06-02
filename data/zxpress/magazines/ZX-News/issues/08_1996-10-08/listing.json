@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 2717,
+    "article_url": "https://zxpress.ru/article.php?id=2717",
+    "print_url": "https://zxpress.ru/print.php?id=2717",
+    "title_link": "FIDO начинающим - Меню работы с файлами.",
+    "order": 1,
+    "issue_label": "08",
+    "short_slug": "FIDO_начинающим_-_Меню_работы_с_фаилами"
+  },
+  {
+    "article_id": 2714,
+    "article_url": "https://zxpress.ru/article.php?id=2714",
+    "print_url": "https://zxpress.ru/print.php?id=2714",
+    "title_link": "Глюки в ZX-News - Летающий \"глюк\" в 7 номере.",
+    "order": 2,
+    "issue_label": "08",
+    "short_slug": "Глюки_в_ZX-News_-_Летающии_глюк_в_7_номере"
+  },
+  {
+    "article_id": 2715,
+    "article_url": "https://zxpress.ru/article.php?id=2715",
+    "print_url": "https://zxpress.ru/print.php?id=2715",
+    "title_link": "Железо - Советы мастера. - Основы паяния.",
+    "order": 3,
+    "issue_label": "08",
+    "short_slug": "Железо_-_Советы_мастера_-_Основы_паяния"
+  },
+  {
+    "article_id": 2716,
+    "article_url": "https://zxpress.ru/article.php?id=2716",
+    "print_url": "https://zxpress.ru/print.php?id=2716",
+    "title_link": "Игры - Описания аркадно-приключенческой игры \"Joe Blade-3\".",
+    "order": 4,
+    "issue_label": "08",
+    "short_slug": "Игры_-_Описания_аркадно-приключенческои_игры_Joe_Blade-3"
+  },
+  {
+    "article_id": 2713,
+    "article_url": "https://zxpress.ru/article.php?id=2713",
+    "print_url": "https://zxpress.ru/print.php?id=2713",
+    "title_link": "От редакции - ZX-News теперь выходит по средам...",
+    "order": 5,
+    "issue_label": "08",
+    "short_slug": "От_редакции_-_ZX-News_теперь_выходит_по_средам"
+  },
+  {
+    "article_id": 2721,
+    "article_url": "https://zxpress.ru/article.php?id=2721",
+    "print_url": "https://zxpress.ru/print.php?id=2721",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "08",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2720,
+    "article_url": "https://zxpress.ru/article.php?id=2720",
+    "print_url": "https://zxpress.ru/print.php?id=2720",
+    "title_link": "Список BBS - Список ныне действующих BBS в городе С.-Петербурге.",
+    "order": 7,
+    "issue_label": "08",
+    "short_slug": "Список_BBS_-_Список_ныне_деиствующих_BBS_в_городе_С-Петербур"
+  },
+  {
+    "article_id": 2718,
+    "article_url": "https://zxpress.ru/article.php?id=2718",
+    "print_url": "https://zxpress.ru/print.php?id=2718",
+    "title_link": "Фидо-разговорчики - История \"никнеймов\" или кто как и почему называется ...",
+    "order": 8,
+    "issue_label": "08",
+    "short_slug": "Фидо-разговорчики_-_История_никнеимов_или_кто_как_и_почему_н"
+  },
+  {
+    "article_id": 2719,
+    "article_url": "https://zxpress.ru/article.php?id=2719",
+    "print_url": "https://zxpress.ru/print.php?id=2719",
+    "title_link": "Юмор - Григорей Остер \"Вредные советы\".",
+    "order": 9,
+    "issue_label": "08",
+    "short_slug": "Юмор_-_Григореи_Остер_Вредные_советы"
+  }
+]

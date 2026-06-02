@@ -1,0 +1,452 @@
+[
+  {
+    "article_id": 14933,
+    "article_url": "https://zxpress.ru/article.php?id=14933",
+    "print_url": "https://zxpress.ru/print.php?id=14933",
+    "title_link": "От редакции - Перспективы развития оболочки.",
+    "order": 1,
+    "issue_label": "09",
+    "short_slug": "От_редакции_-_Перспективы_развития_оболочки"
+  },
+  {
+    "article_id": 14934,
+    "article_url": "https://zxpress.ru/article.php?id=14934",
+    "print_url": "https://zxpress.ru/print.php?id=14934",
+    "title_link": "Soft Group - Бегущие строки вне экрана.",
+    "order": 2,
+    "issue_label": "09",
+    "short_slug": "Soft_Group_-_Бегущие_строки_вне_экрана"
+  },
+  {
+    "article_id": 14935,
+    "article_url": "https://zxpress.ru/article.php?id=14935",
+    "print_url": "https://zxpress.ru/print.php?id=14935",
+    "title_link": "Soft Group - Интересный текст от Ивана Рощина для кодеров.",
+    "order": 3,
+    "issue_label": "09",
+    "short_slug": "Soft_Group_-_Интересныи_текст_от_Ивана_Рощина_для_кодеров"
+  },
+  {
+    "article_id": 14936,
+    "article_url": "https://zxpress.ru/article.php?id=14936",
+    "print_url": "https://zxpress.ru/print.php?id=14936",
+    "title_link": "Hard Group - Доработка Pentagon 128k до 512k.",
+    "order": 4,
+    "issue_label": "09",
+    "short_slug": "Hard_Group_-_Доработка_Pentagon_128k_до_512k"
+  },
+  {
+    "article_id": 14937,
+    "article_url": "https://zxpress.ru/article.php?id=14937",
+    "print_url": "https://zxpress.ru/print.php?id=14937",
+    "title_link": "Hard Group - Kempston mouse.",
+    "order": 5,
+    "issue_label": "09",
+    "short_slug": "Hard_Group_-_Kempston_mouse"
+  },
+  {
+    "article_id": 14938,
+    "article_url": "https://zxpress.ru/article.php?id=14938",
+    "print_url": "https://zxpress.ru/print.php?id=14938",
+    "title_link": "User Group - Обзор утилит из Сибири.",
+    "order": 6,
+    "issue_label": "09",
+    "short_slug": "User_Group_-_Обзор_утилит_из_Сибири"
+  },
+  {
+    "article_id": 14939,
+    "article_url": "https://zxpress.ru/article.php?id=14939",
+    "print_url": "https://zxpress.ru/print.php?id=14939",
+    "title_link": "User Group - РT: шаг вперёд или назад?",
+    "order": 7,
+    "issue_label": "09",
+    "short_slug": "User_Group_-_РT_шаг_вперед_или_назад"
+  },
+  {
+    "article_id": 14940,
+    "article_url": "https://zxpress.ru/article.php?id=14940",
+    "print_url": "https://zxpress.ru/print.php?id=14940",
+    "title_link": "Pot pourri - Welcome: Интервью.",
+    "order": 8,
+    "issue_label": "09",
+    "short_slug": "Pot_pourri_-_Welcome_Интервью"
+  },
+  {
+    "article_id": 14941,
+    "article_url": "https://zxpress.ru/article.php?id=14941",
+    "print_url": "https://zxpress.ru/print.php?id=14941",
+    "title_link": "Info - Каталог системных, прикладных и обучающих программ фирмы \"Kоmel\".",
+    "order": 9,
+    "issue_label": "09",
+    "short_slug": "Info_-_Каталог_системных_прикладных_и_обучающих_программ_фир"
+  },
+  {
+    "article_id": 14942,
+    "article_url": "https://zxpress.ru/article.php?id=14942",
+    "print_url": "https://zxpress.ru/print.php?id=14942",
+    "title_link": "Info - Объявления. Реклама.",
+    "order": 10,
+    "issue_label": "09",
+    "short_slug": "Info_-_Объявления_Реклама"
+  },
+  {
+    "article_id": 14943,
+    "article_url": "https://zxpress.ru/article.php?id=14943",
+    "print_url": "https://zxpress.ru/print.php?id=14943",
+    "title_link": "Info - Анкета ZX-CLUB.",
+    "order": 11,
+    "issue_label": "09",
+    "short_slug": "Info_-_Анкета_ZX-CLUB"
+  },
+  {
+    "article_id": 14944,
+    "article_url": "https://zxpress.ru/article.php?id=14944",
+    "print_url": "https://zxpress.ru/print.php?id=14944",
+    "title_link": "Party - Funtop: On The Eve.",
+    "order": 12,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_On_The_Eve"
+  },
+  {
+    "article_id": 14945,
+    "article_url": "https://zxpress.ru/article.php?id=14945",
+    "print_url": "https://zxpress.ru/print.php?id=14945",
+    "title_link": "Party - Funtop: Первые Ласточки. Очерк.",
+    "order": 13,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Первые_Ласточки_Очерк"
+  },
+  {
+    "article_id": 14946,
+    "article_url": "https://zxpress.ru/article.php?id=14946",
+    "print_url": "https://zxpress.ru/print.php?id=14946",
+    "title_link": "Party - Funtop: Репортаж Сергея Новикова - День первый: Compo.",
+    "order": 14,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Репортаж_Сергея_Новикова_-_День_первыи_Compo"
+  },
+  {
+    "article_id": 14947,
+    "article_url": "https://zxpress.ru/article.php?id=14947",
+    "print_url": "https://zxpress.ru/print.php?id=14947",
+    "title_link": "Party - Funtop: Репортаж Сергея Новикова - День второй: After Funtop.",
+    "order": 15,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Репортаж_Сергея_Новикова_-_День_второи_After"
+  },
+  {
+    "article_id": 14948,
+    "article_url": "https://zxpress.ru/article.php?id=14948",
+    "print_url": "https://zxpress.ru/print.php?id=14948",
+    "title_link": "Party - Funtop: Репортаж Сергея Новикова - Из Несказанного.",
+    "order": 16,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Репортаж_Сергея_Новикова_-_Из_Несказанного"
+  },
+  {
+    "article_id": 14949,
+    "article_url": "https://zxpress.ru/article.php?id=14949",
+    "print_url": "https://zxpress.ru/print.php?id=14949",
+    "title_link": "Party - Funtop: Total table.",
+    "order": 17,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Total_table"
+  },
+  {
+    "article_id": 14950,
+    "article_url": "https://zxpress.ru/article.php?id=14950",
+    "print_url": "https://zxpress.ru/print.php?id=14950",
+    "title_link": "Party - Funtop: Briefly.",
+    "order": 18,
+    "issue_label": "09",
+    "short_slug": "Party_-_Funtop_Briefly"
+  },
+  {
+    "article_id": 14951,
+    "article_url": "https://zxpress.ru/article.php?id=14951",
+    "print_url": "https://zxpress.ru/print.php?id=14951",
+    "title_link": "Party - Chaos Constructions: Правила фестиваля.",
+    "order": 19,
+    "issue_label": "09",
+    "short_slug": "Party_-_Chaos_Constructions_Правила_фестиваля"
+  },
+  {
+    "article_id": 14952,
+    "article_url": "https://zxpress.ru/article.php?id=14952",
+    "print_url": "https://zxpress.ru/print.php?id=14952",
+    "title_link": "Party - Chaos Constructions: Когда утихли страсти.",
+    "order": 20,
+    "issue_label": "09",
+    "short_slug": "Party_-_Chaos_Constructions_Когда_утихли_страсти"
+  },
+  {
+    "article_id": 14953,
+    "article_url": "https://zxpress.ru/article.php?id=14953",
+    "print_url": "https://zxpress.ru/print.php?id=14953",
+    "title_link": "Party - Chaos Constructions: Предмет спора.",
+    "order": 21,
+    "issue_label": "09",
+    "short_slug": "Party_-_Chaos_Constructions_Предмет_спора"
+  },
+  {
+    "article_id": 14954,
+    "article_url": "https://zxpress.ru/article.php?id=14954",
+    "print_url": "https://zxpress.ru/print.php?id=14954",
+    "title_link": "Party - Art Comp: Раскрутка.",
+    "order": 22,
+    "issue_label": "09",
+    "short_slug": "Party_-_Art_Comp_Раскрутка"
+  },
+  {
+    "article_id": 14955,
+    "article_url": "https://zxpress.ru/article.php?id=14955",
+    "print_url": "https://zxpress.ru/print.php?id=14955",
+    "title_link": "Party - Art Comp: Свершилось.",
+    "order": 23,
+    "issue_label": "09",
+    "short_slug": "Party_-_Art_Comp_Свершилось"
+  },
+  {
+    "article_id": 14956,
+    "article_url": "https://zxpress.ru/article.php?id=14956",
+    "print_url": "https://zxpress.ru/print.php?id=14956",
+    "title_link": "Party - Art Comp: Завершающий этап.",
+    "order": 24,
+    "issue_label": "09",
+    "short_slug": "Party_-_Art_Comp_Завершающии_этап"
+  },
+  {
+    "article_id": 14957,
+    "article_url": "https://zxpress.ru/article.php?id=14957",
+    "print_url": "https://zxpress.ru/print.php?id=14957",
+    "title_link": "Party - Dоxycоn-98.",
+    "order": 25,
+    "issue_label": "09",
+    "short_slug": "Party_-_Dоxycоn-98"
+  },
+  {
+    "article_id": 14958,
+    "article_url": "https://zxpress.ru/article.php?id=14958",
+    "print_url": "https://zxpress.ru/print.php?id=14958",
+    "title_link": "Party - Complex Compo.",
+    "order": 26,
+    "issue_label": "09",
+    "short_slug": "Party_-_Complex_Compo"
+  },
+  {
+    "article_id": 14959,
+    "article_url": "https://zxpress.ru/article.php?id=14959",
+    "print_url": "https://zxpress.ru/print.php?id=14959",
+    "title_link": "X-Files - Введение.",
+    "order": 27,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Введение"
+  },
+  {
+    "article_id": 14960,
+    "article_url": "https://zxpress.ru/article.php?id=14960",
+    "print_url": "https://zxpress.ru/print.php?id=14960",
+    "title_link": "X-Files - Типы НЛО.",
+    "order": 28,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Типы_НЛО"
+  },
+  {
+    "article_id": 14961,
+    "article_url": "https://zxpress.ru/article.php?id=14961",
+    "print_url": "https://zxpress.ru/print.php?id=14961",
+    "title_link": "X-Files - Характерные черты.",
+    "order": 29,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Характерные_черты"
+  },
+  {
+    "article_id": 14962,
+    "article_url": "https://zxpress.ru/article.php?id=14962",
+    "print_url": "https://zxpress.ru/print.php?id=14962",
+    "title_link": "X-Files - Свойства НЛО.",
+    "order": 30,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Своиства_НЛО"
+  },
+  {
+    "article_id": 14963,
+    "article_url": "https://zxpress.ru/article.php?id=14963",
+    "print_url": "https://zxpress.ru/print.php?id=14963",
+    "title_link": "X-Files - Воздействие НЛО на почву и растительность.",
+    "order": 31,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Воздеиствие_НЛО_на_почву_и_растительность"
+  },
+  {
+    "article_id": 14964,
+    "article_url": "https://zxpress.ru/article.php?id=14964",
+    "print_url": "https://zxpress.ru/print.php?id=14964",
+    "title_link": "X-Files - Воздействие НЛО на технику.",
+    "order": 32,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Воздеиствие_НЛО_на_технику"
+  },
+  {
+    "article_id": 14965,
+    "article_url": "https://zxpress.ru/article.php?id=14965",
+    "print_url": "https://zxpress.ru/print.php?id=14965",
+    "title_link": "X-Files - Воздействие НЛО на здания, животных, людей.",
+    "order": 33,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Воздеиствие_НЛО_на_здания_животных_людеи"
+  },
+  {
+    "article_id": 14966,
+    "article_url": "https://zxpress.ru/article.php?id=14966",
+    "print_url": "https://zxpress.ru/print.php?id=14966",
+    "title_link": "X-Files - НЛО из атмосферы в гидросферу.",
+    "order": 34,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_НЛО_из_атмосферы_в_гидросферу"
+  },
+  {
+    "article_id": 14967,
+    "article_url": "https://zxpress.ru/article.php?id=14967",
+    "print_url": "https://zxpress.ru/print.php?id=14967",
+    "title_link": "X-Files - НЛО под водой.",
+    "order": 35,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_НЛО_под_водои"
+  },
+  {
+    "article_id": 14968,
+    "article_url": "https://zxpress.ru/article.php?id=14968",
+    "print_url": "https://zxpress.ru/print.php?id=14968",
+    "title_link": "X-Files - НЛО в космосе.",
+    "order": 36,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_НЛО_в_космосе"
+  },
+  {
+    "article_id": 14969,
+    "article_url": "https://zxpress.ru/article.php?id=14969",
+    "print_url": "https://zxpress.ru/print.php?id=14969",
+    "title_link": "X-Files - Действия НЛО на объекты.",
+    "order": 37,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Деиствия_НЛО_на_объекты"
+  },
+  {
+    "article_id": 14970,
+    "article_url": "https://zxpress.ru/article.php?id=14970",
+    "print_url": "https://zxpress.ru/print.php?id=14970",
+    "title_link": "X-Files - Взаимосвязаные действия НЛО.",
+    "order": 38,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Взаимосвязаные_деиствия_НЛО"
+  },
+  {
+    "article_id": 14971,
+    "article_url": "https://zxpress.ru/article.php?id=14971",
+    "print_url": "https://zxpress.ru/print.php?id=14971",
+    "title_link": "X-Files - Появления НЛО во время событий.",
+    "order": 39,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Появления_НЛО_во_время_событии"
+  },
+  {
+    "article_id": 14972,
+    "article_url": "https://zxpress.ru/article.php?id=14972",
+    "print_url": "https://zxpress.ru/print.php?id=14972",
+    "title_link": "X-Files - Реакция НЛО на попытки захвата.",
+    "order": 40,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Реакция_НЛО_на_попытки_захвата"
+  },
+  {
+    "article_id": 14973,
+    "article_url": "https://zxpress.ru/article.php?id=14973",
+    "print_url": "https://zxpress.ru/print.php?id=14973",
+    "title_link": "X-Files - Стремление НЛО к контакту.",
+    "order": 41,
+    "issue_label": "09",
+    "short_slug": "X-Files_-_Стремление_НЛО_к_контакту"
+  },
+  {
+    "article_id": 14974,
+    "article_url": "https://zxpress.ru/article.php?id=14974",
+    "print_url": "https://zxpress.ru/print.php?id=14974",
+    "title_link": "Набат - Дискографии рок-групп.",
+    "order": 42,
+    "issue_label": "09",
+    "short_slug": "Набат_-_Дискографии_рок-групп"
+  },
+  {
+    "article_id": 14975,
+    "article_url": "https://zxpress.ru/article.php?id=14975",
+    "print_url": "https://zxpress.ru/print.php?id=14975",
+    "title_link": "Набат - Конспект: Грани Агни Йоги.",
+    "order": 43,
+    "issue_label": "09",
+    "short_slug": "Набат_-_Конспект_Грани_Агни_Иоги"
+  },
+  {
+    "article_id": 14976,
+    "article_url": "https://zxpress.ru/article.php?id=14976",
+    "print_url": "https://zxpress.ru/print.php?id=14976",
+    "title_link": "Toys - Наш анонс: Пыль звёздных дорог.",
+    "order": 44,
+    "issue_label": "09",
+    "short_slug": "Toys_-_Наш_анонс_Пыль_звездных_дорог"
+  },
+  {
+    "article_id": 14977,
+    "article_url": "https://zxpress.ru/article.php?id=14977",
+    "print_url": "https://zxpress.ru/print.php?id=14977",
+    "title_link": "Toys - Пароли и советы.",
+    "order": 45,
+    "issue_label": "09",
+    "short_slug": "Toys_-_Пароли_и_советы"
+  },
+  {
+    "article_id": 14978,
+    "article_url": "https://zxpress.ru/article.php?id=14978",
+    "print_url": "https://zxpress.ru/print.php?id=14978",
+    "title_link": "Enjoy - Stars: Романтичный констебль Бентон.",
+    "order": 46,
+    "issue_label": "09",
+    "short_slug": "Enjoy_-_Stars_Романтичныи_констебль_Бентон"
+  },
+  {
+    "article_id": 14979,
+    "article_url": "https://zxpress.ru/article.php?id=14979",
+    "print_url": "https://zxpress.ru/print.php?id=14979",
+    "title_link": "Enjoy - Будем знакомы. Случай из жизни.",
+    "order": 47,
+    "issue_label": "09",
+    "short_slug": "Enjoy_-_Будем_знакомы_Случаи_из_жизни"
+  },
+  {
+    "article_id": 14980,
+    "article_url": "https://zxpress.ru/article.php?id=14980",
+    "print_url": "https://zxpress.ru/print.php?id=14980",
+    "title_link": "Enjoy - Военка. Объявленьице. Анекдоты.",
+    "order": 48,
+    "issue_label": "09",
+    "short_slug": "Enjoy_-_Военка_Объявленьице_Анекдоты"
+  },
+  {
+    "article_id": 14981,
+    "article_url": "https://zxpress.ru/article.php?id=14981",
+    "print_url": "https://zxpress.ru/print.php?id=14981",
+    "title_link": "Enjoy - Чернушка. Акулы пера. Computer humor.",
+    "order": 49,
+    "issue_label": "09",
+    "short_slug": "Enjoy_-_Чернушка_Акулы_пера_Computer_humor"
+  },
+  {
+    "article_id": 14982,
+    "article_url": "https://zxpress.ru/article.php?id=14982",
+    "print_url": "https://zxpress.ru/print.php?id=14982",
+    "title_link": "Elders group - Состав выпускающей группы.",
+    "order": 50,
+    "issue_label": "09",
+    "short_slug": "Elders_group_-_Состав_выпускающеи_группы"
+  }
+]

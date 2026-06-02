@@ -1,0 +1,83 @@
+[
+  {
+    "article_id": 9261,
+    "article_url": "https://zxpress.ru/article.php?id=9261",
+    "print_url": "https://zxpress.ru/print.php?id=9261",
+    "title_link": "Новости - новости от Alone coder, Nikphe, Mr.Event, CyberDemon.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Новости_-_новости_от_Alone_coder_Nikphe_MrEvent_CyberDemon"
+  },
+  {
+    "article_id": 9262,
+    "article_url": "https://zxpress.ru/article.php?id=9262",
+    "print_url": "https://zxpress.ru/print.php?id=9262",
+    "title_link": "Мини-анкета - Чего вы больше всего ждёте в новых версиях AC Edit.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Мини-анкета_-_Чего_вы_больше_всего_ждете_в_новых_версиях_AC"
+  },
+  {
+    "article_id": 9263,
+    "article_url": "https://zxpress.ru/article.php?id=9263",
+    "print_url": "https://zxpress.ru/print.php?id=9263",
+    "title_link": "Nikphe - Выбираем новое название для группы Anarchia.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Nikphe_-_Выбираем_новое_название_для_группы_Anarchia"
+  },
+  {
+    "article_id": 9264,
+    "article_url": "https://zxpress.ru/article.php?id=9264",
+    "print_url": "https://zxpress.ru/print.php?id=9264",
+    "title_link": "ACEdit - Список Заслуженных Пользователей AC Edit.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "ACEdit_-_Список_Заслуженных_Пользователеи_AC_Edit"
+  },
+  {
+    "article_id": 3733,
+    "article_url": "https://zxpress.ru/article.php?id=3733",
+    "print_url": "https://zxpress.ru/print.php?id=3733",
+    "title_link": "Новости - о системке \"Paracels Protection System v1.0\", местные новости.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Новости_-_о_системке_Paracels_Protection_System_v10_местные"
+  },
+  {
+    "article_id": 14020,
+    "article_url": "https://zxpress.ru/article.php?id=14020",
+    "print_url": "https://zxpress.ru/print.php?id=14020",
+    "title_link": "мир пц - из жизни писишника.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "мир_пц_-_из_жизни_писишника"
+  },
+  {
+    "article_id": 11344,
+    "article_url": "https://zxpress.ru/article.php?id=11344",
+    "print_url": "https://zxpress.ru/print.php?id=11344",
+    "title_link": "Интервью с нашим гостем - Итак, сегодня у нас в гостях PatSoft of Reflection group.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "Интервью_с_нашим_гостем_-_Итак_сегодня_у_нас_в_гостях_PatSof"
+  },
+  {
+    "article_id": 7795,
+    "article_url": "https://zxpress.ru/article.php?id=7795",
+    "print_url": "https://zxpress.ru/print.php?id=7795",
+    "title_link": "Скелет - Доработка Пентагона - автозагрузка в PENTAGON-128.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "Скелет_-_Доработка_Пентагона_-_автозагрузка_в_PENTAGON-128"
+  },
+  {
+    "article_id": 13365,
+    "article_url": "https://zxpress.ru/article.php?id=13365",
+    "print_url": "https://zxpress.ru/print.php?id=13365",
+    "title_link": "Введение - мы вновь встречаемся на страницах\r\n или на экранах.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Введение_-_мы_вновь_встречаемся_на_страницах_или_на_экранах"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 9752,
+    "article_url": "https://zxpress.ru/article.php?id=9752",
+    "print_url": "https://zxpress.ru/print.php?id=9752",
+    "title_link": "От автора - О истории появления газеты ZX-CLUB.",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "От_автора_-_О_истории_появления_газеты_ZX-CLUB"
+  },
+  {
+    "article_id": 9753,
+    "article_url": "https://zxpress.ru/article.php?id=9753",
+    "print_url": "https://zxpress.ru/print.php?id=9753",
+    "title_link": "Точки над i - О трех направлениях работы клуба.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Точки_над_i_-_О_трех_направлениях_работы_клуба"
+  },
+  {
+    "article_id": 9754,
+    "article_url": "https://zxpress.ru/article.php?id=9754",
+    "print_url": "https://zxpress.ru/print.php?id=9754",
+    "title_link": "ANNOUNCEMENT - О программе просмотрщике электронного каталога из\r\n коллекции ROW.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "ANNOUNCEMENT_-_О_программе_просмотрщике_электронного_каталог"
+  }
+]

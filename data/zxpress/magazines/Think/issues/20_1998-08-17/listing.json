@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 4217,
+    "article_url": "https://zxpress.ru/article.php?id=4217",
+    "print_url": "https://zxpress.ru/print.php?id=4217",
+    "title_link": "От автора - Юбилейный выпуск...",
+    "order": 1,
+    "issue_label": "20",
+    "short_slug": "От_автора_-_Юбилеиныи_выпуск"
+  },
+  {
+    "article_id": 4218,
+    "article_url": "https://zxpress.ru/article.php?id=4218",
+    "print_url": "https://zxpress.ru/print.php?id=4218",
+    "title_link": "Проходилка - Paradise Lost (demo).",
+    "order": 2,
+    "issue_label": "20",
+    "short_slug": "Проходилка_-_Paradise_Lost_demo"
+  },
+  {
+    "article_id": 4219,
+    "article_url": "https://zxpress.ru/article.php?id=4219",
+    "print_url": "https://zxpress.ru/print.php?id=4219",
+    "title_link": "Обзор новинок - Peking, Fisher.",
+    "order": 3,
+    "issue_label": "20",
+    "short_slug": "Обзор_новинок_-_Peking_Fisher"
+  },
+  {
+    "article_id": 4220,
+    "article_url": "https://zxpress.ru/article.php?id=4220",
+    "print_url": "https://zxpress.ru/print.php?id=4220",
+    "title_link": "Анекдоты - Юмор.",
+    "order": 4,
+    "issue_label": "20",
+    "short_slug": "Анекдоты_-_Юмор"
+  },
+  {
+    "article_id": 4221,
+    "article_url": "https://zxpress.ru/article.php?id=4221",
+    "print_url": "https://zxpress.ru/print.php?id=4221",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 5,
+    "issue_label": "20",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4222,
+    "article_url": "https://zxpress.ru/article.php?id=4222",
+    "print_url": "https://zxpress.ru/print.php?id=4222",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "20",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

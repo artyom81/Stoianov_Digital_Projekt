@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 11426,
+    "article_url": "https://zxpress.ru/article.php?id=11426",
+    "print_url": "https://zxpress.ru/print.php?id=11426",
+    "title_link": "Cheats - читы для игр.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Cheats_-_читы_для_игр"
+  },
+  {
+    "article_id": 6756,
+    "article_url": "https://zxpress.ru/article.php?id=6756",
+    "print_url": "https://zxpress.ru/print.php?id=6756",
+    "title_link": "BBS - список станций BBS ZXNet.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "BBS_-_список_станции_BBS_ZXNet"
+  },
+  {
+    "article_id": 18150,
+    "article_url": "https://zxpress.ru/article.php?id=18150",
+    "print_url": "https://zxpress.ru/print.php?id=18150",
+    "title_link": "Coming Soon - содержание следующего номера газеты.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Coming_Soon_-_содержание_следующего_номера_газеты"
+  },
+  {
+    "article_id": 16150,
+    "article_url": "https://zxpress.ru/article.php?id=16150",
+    "print_url": "https://zxpress.ru/print.php?id=16150",
+    "title_link": "Часть четвёртая - Приветы, мессаги...",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Часть_четвертая_-_Приветы_мессаги"
+  },
+  {
+    "article_id": 3310,
+    "article_url": "https://zxpress.ru/article.php?id=3310",
+    "print_url": "https://zxpress.ru/print.php?id=3310",
+    "title_link": "AY Music Hit - 5 лучших музонов.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "AY_Music_Hit_-_5_лучших_музонов"
+  },
+  {
+    "article_id": 4864,
+    "article_url": "https://zxpress.ru/article.php?id=4864",
+    "print_url": "https://zxpress.ru/print.php?id=4864",
+    "title_link": "Клавиши - как рулить в листалке.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Клавиши_-_как_рулить_в_листалке"
+  }
+]

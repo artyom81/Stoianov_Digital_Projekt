@@ -1,0 +1,24 @@
+{
+  "issues": [
+    {
+      "issue_label": "01",
+      "issue_date_iso": "1994-12-31",
+      "articles_count": 13
+    },
+    {
+      "issue_label": "02",
+      "issue_date_iso": "1994-12-31",
+      "articles_count": 7
+    },
+    {
+      "issue_label": "03",
+      "issue_date_iso": "1995-04-30",
+      "articles_count": 9
+    },
+    {
+      "issue_label": "04",
+      "issue_date_iso": "1995-12-31",
+      "articles_count": 8
+    }
+  ]
+}

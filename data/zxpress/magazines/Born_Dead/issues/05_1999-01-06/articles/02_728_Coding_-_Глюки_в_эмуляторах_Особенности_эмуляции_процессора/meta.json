@@ -1,0 +1,15 @@
+{
+  "magazine_id": 31,
+  "magazine_name": "Born Dead",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1999-01-06",
+  "order": 2,
+  "article_id": 728,
+  "title_link": "Coding - Глюки в эмуляторах. Особенности эмуляции процессора Z80.",
+  "title_h1": "Born Dead 05 - Coding - Глюки в эмуляторах. Особенности эмуляции процессора Z80.",
+  "print_url": "https://zxpress.ru/print.php?id=728",
+  "article_url": "https://zxpress.ru/article.php?id=728",
+  "fetched_at": "2026-05-31T21:45:09Z"
+}

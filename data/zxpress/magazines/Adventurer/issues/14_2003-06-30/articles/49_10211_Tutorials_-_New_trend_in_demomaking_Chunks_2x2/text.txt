@@ -1,0 +1,286 @@
+Adventurer 14 - Tutorials - New trend in demomaking: Chunks 2x2.
+Chunks 2x2              
+Poisoned CyberJack/TBK  
+
+New trend in demomaking
+
+Greets to everybody, who reckon
+himself a coder or some kind of
+such! Today i'm gonna amaze you :)
+
+The modern demomaking (Spectrum
+of course) is based mainly on
+chunk engines. And that's right -
+other way it would be very difficu-
+ilt to realize some interesting
+things. I'm not going to explain
+anything, it was made sometime ago
+before me. Moreover, the choice
+has been already done.
+
+Also, I don't want to explain what
+is a 'chunk'. Try to find some in-
+formation in any other sourses,
+cos i'm trying to tell something
+more important and such
+'remembrance' is out of my plans
+here.
+
+So, at the beginning i'd say, that
+there are different kinds of
+chunks. On Spectrum it's usually
+4x4 (pixel - Refresh, Dogma, In-
+between and multicolour - Eye
+Ache 1/2, Rage, Stellar Contour)
+cos it's the most optimal ratio
+between the screen resolution and
+its dimensions. The 8x8 kind of
+chunks, attribute (any demo of
+95-97) and pixel-attribute (Emer-
+gency, 63Bit3, Smile_4K), due to
+low resolution look poorer, cos
+it's harder to make something good
+in 32x24. By the way, here I mean
+3D coding, cos it's the most diffi-
+cuilt (and therefore, the most in-
+teresting) coder's abilities appli-
+cation.
+
+All this has been tested long time
+ago (in 97) and is boring almost
+for everybody. Maybe there is an
+alternative?
+
+And there is a kind of alternative
+and it's well-known for a long ti-
+me too. Remember Higher State/
+3SC, Over The Top/ Enigma, Mat-
+ricks/ Baze? Yes, i'm talking
+about 2x2 chunks.
+
+Many coders, who are far from ama-
+teurs now, can smile
+distrustfully. Of course, at first
+sight there is not so much use of
+such dimensions of chunks, cos
+screen enlarges four times compa-
+ring with 4x4 (and therefore, a
+frame will be drawn 4 times
+slower) - and it's not so easy to
+put such screen in memory. The use
+of windowed mode is not an exit.
+Besides, the main feature of this
+chunks is 5 colours, and it's not
+enough for illumination realiza-
+tion in 3D effects (Phong, Goraud
+and even Flat looks awfully).
+Alongside with all this drawbacks,
+c2p is slower, cos reading has to
+be more often than writing (again
+comparing with 4x4).
+
+But! I shouldn't pay waste your
+time (and mine, which is much valu-
+able), if I haven't realize 2x2
+chunks in our demo, which we co-
+uldn't finish for CAFe'2002 and
+still we can't finish it :((( So,
+here we go...
+
+The most easily solving thing prob-
+lem is the lack of colours. Of co-
+urse it's dithering. In 2000 we ma-
+de a c2p routine for chunks 2x2
+with Baze/3SC which he used in
+his Matricks with 16 colour dithe-
+ring (but his personal c2p is
+slower). c2p is following:
+
+sp - chunk screen
+de - 1st line on spectrum screen (#401F)
+bc - 2nd line on spectrum screen (#4120)
+pop hl
+ld a,(hl)
+pop hl
+ld l,(hl)
+ld h,a
+ldd
+ld a,(hl)
+ld (bc),a
+
+summary: 10+7+10+7+4+16+7+7= 68tct
+
+The main feature of this procedure
+is LDD command that turnes the pic-
+ture horizontally, cos SP increa-
+ses and BC and DE decrease. Chunks
+of %---xxxx0 type. For dithering
+it's necessary to put the gfx tab-
+les in different memory banks and
+to work with a single screen. I
+think there's no use to explain
+it's all well-known :) If you have
+some questions - email me.
+
+As you can see, such speed is high
+enough - the whole screen can be
+drawn in 3 frames. But the problem
+of a too large screen remains - so
+that's not a full solution.
+
+Experimenting with different engi-
+nes and filters, a wonderful tho-
+ught has visited me :) What if we
+will process not a whole screen,
+but just a part of it, and the
+rest of it will fill applying, for
+example, linear interpolation?
+Then there will be no use in a
+slowly working filter (ala
+Sair00s) that helps to hide the
+drawbacks of the engine - so we
+get the benefit in speed and
+screen usage. There's some simila-
+rity with Amiga gfx mode HAM8 (as
+Isee), where's the colour of a
+group of pixels depends on the co-
+lour of nodal pixel - and the la-
+test demos work not in 640x480 or
+320x240 resolution but much
+lesser. As i'm not an Amiga freak
+(at all), Icould say a nonsense -
+it's not the point :) We're tal-
+king about Spectrum.
+
+What I call a 'linear interpola-
+tion'? I calculate every second
+chunk in horizontal direction, and
+the rest of them are average bet-
+ween two certain.
+
+For example:
+
+Usually made:
+
+!c0!c1!c2!c3!c4!c5!c6!c7!c8!
+
+I make like:
+
+!c0!--!c2!--!c4!--!c6!--!c8!
+ (c0+c2)/2   (c4+c6)/2
+
+As a result, a picture is a little
+blured, and I like that :) Anyway,
+it a bit risky to trace the chun-
+ked screen, cos due to the low re-
+solution and simplified shaders
+the screen is usually ugly :) In
+the last demos Sair00s acts like
+this with 2 screens - but I could
+use only one.
+
+There's no benefit in speed in
+using a separate operation for in-
+terpolation, cos it's not too fast
+(get 2 numbers from ram, then addi-
+tion, then according to the table
+recieving the result and then put
+it into ram - about 40 tacts per
+chunk). That's why I tried to com-
+bine interpolation with c2p:
+
+sp - chunk screen
+de - spectrum screen
+ h - previous chunk
+pop bc
+ld a,(bc)
+ld l,a
+ld a,(hl)
+ld (de),a
+inc h
+inc d
+ldi
+dec d
+ld h,b
+
+summary: 10+7+4+7+7+4+4+16+4+4= 67tct
+
+Mmmm... i'll try to exaplain. To
+draw a plot (8x2 pixels) we have
+to consider 3 chunks:
+
+!             !             !
+! -- c0 -- c1 ! -- c2 -- c3 !
+!             !             !
+ ^       ^     ^
+ 
+So we have 16 tables (cos chunk
+can be of different colour in pre-
+vious plot), and graphics adress
+can be calculated as (for the se-
+cond plot):
+
+c1*#0100 + c2*#0010 + c3
+
+Chunks of %1100 kind, i.e.
+#E0-#FE. In the end of the sector
+there's a table of low graphic ad-
+resses, i.e. from #E0E0, #E2E0,
+etc. And the gfx is placed within
+the rest of 32 sectors.
+
+As you can see - gfx and multipli-
+cation table are placed on the sa-
+me adresses. I avoided it by exclu-
+ding of 2 colours :) So i have 14
+colours instead of 16. But it's mo-
+re comfortable to work with 16 co-
+lours, that's why I combined 0
+with 1 and 14 with 15 (the multip-
+lication table has the same va-
+lues). However, it is possible to
+make real 16 colours, but it will
+slow down c2p, so I've picked out
+this method.
+
+Dithering I make with 2 memory
+banks with different chunked gfx -
+for even and uneven lines. It uses
+a lot of memory and works with one
+screen :)))
+
+Finally, what do we have? Compa-
+ring with chunks 4x4 screen increa-
+sed twice (not four), the
+fullscreen is traced in 3 frames
+approx., we don't need additional
+filter, the quality of the screen
+is much higher i.e. we loose in
+speed, but win in quality. This en-
+gine is quite efficient, and we
+tried to proove it in our demo.
+
+In Attachment you can find the so-
+urces of chunked gfx generator and
+c2p with Strom syntax :(( And a
+small engine demonstration.
+
+respect to all spectrum's coders
+and Adventurer's readers!!!
+
+(c) Triebkraft
+
+
+And here is an optimized version
+of this engine, made by JtN/4d.
+Read and think :)
+
+pop hl          ;10
+l,(hl)          ;7
+ld a,h          ;4
+exa             ;4
+ld h,a          ;4
+ldd             ;16
+ld a,(hl)       ;7
+ld (bc),a       ;7
+;=59t!!!!!!!!!!!

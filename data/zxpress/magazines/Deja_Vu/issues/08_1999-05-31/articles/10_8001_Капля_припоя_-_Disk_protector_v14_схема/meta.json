@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "08",
+  "issue_date_iso": "1999-05-31",
+  "order": 10,
+  "article_id": 8001,
+  "title_link": "Капля припоя - Disk protector v1.4 (схема).",
+  "title_h1": "Deja Vu 08 - Капля припоя - Disk protector v1.4 (схема).",
+  "print_url": "https://zxpress.ru/print.php?id=8001",
+  "article_url": "https://zxpress.ru/article.php?id=8001",
+  "fetched_at": "2026-05-31T21:55:31Z"
+}

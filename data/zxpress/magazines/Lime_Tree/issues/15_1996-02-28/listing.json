@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 111,
+    "article_url": "https://zxpress.ru/article.php?id=111",
+    "print_url": "https://zxpress.ru/print.php?id=111",
+    "title_link": "От редакции - Газета круто изменилась.",
+    "order": 1,
+    "issue_label": "15",
+    "short_slug": "От_редакции_-_Газета_круто_изменилась"
+  },
+  {
+    "article_id": 4753,
+    "article_url": "https://zxpress.ru/article.php?id=4753",
+    "print_url": "https://zxpress.ru/print.php?id=4753",
+    "title_link": "WANTED - Розыск программ.",
+    "order": 2,
+    "issue_label": "15",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4754,
+    "article_url": "https://zxpress.ru/article.php?id=4754",
+    "print_url": "https://zxpress.ru/print.php?id=4754",
+    "title_link": "ABOUT - ANDY NIK о газете ABOUT!\r\n Презентация питерского супержурнала ZX-FORMAT.",
+    "order": 3,
+    "issue_label": "15",
+    "short_slug": "ABOUT_-_ANDY_NIK_о_газете_ABOUT_Презентация_питерского_супер"
+  },
+  {
+    "article_id": 4755,
+    "article_url": "https://zxpress.ru/article.php?id=4755",
+    "print_url": "https://zxpress.ru/print.php?id=4755",
+    "title_link": "TREE NEWS - Кто такой CYBORG.\r\n О глюках в работе BBS'ок.",
+    "order": 4,
+    "issue_label": "15",
+    "short_slug": "TREE_NEWS_-_Кто_такои_CYBORG_О_глюках_в_работе_BBSок"
+  },
+  {
+    "article_id": 4756,
+    "article_url": "https://zxpress.ru/article.php?id=4756",
+    "print_url": "https://zxpress.ru/print.php?id=4756",
+    "title_link": "Лит.Страничка - Рассказ \"IT'S I\".\r\n Новые приключения Винни Пуха (глава 7,8).",
+    "order": 5,
+    "issue_label": "15",
+    "short_slug": "ЛитСтраничка_-_Рассказ_ITS_I_Новые_приключения_Винни_Пуха_гл"
+  }
+]

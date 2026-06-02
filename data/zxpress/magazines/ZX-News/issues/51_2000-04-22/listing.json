@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 3057,
+    "article_url": "https://zxpress.ru/article.php?id=3057",
+    "print_url": "https://zxpress.ru/print.php?id=3057",
+    "title_link": "ZX-Party - Монополизация Demoparty и вред демомейкинга для платформы.",
+    "order": 1,
+    "issue_label": "51",
+    "short_slug": "ZX-Party_-_Монополизация_Demoparty_и_вред_демомеикинга_для_п"
+  },
+  {
+    "article_id": 3059,
+    "article_url": "https://zxpress.ru/article.php?id=3059",
+    "print_url": "https://zxpress.ru/print.php?id=3059",
+    "title_link": "Виртуальные миры - лучшая англоязычная адвентюра — \"The Colour Of Magic\"!",
+    "order": 2,
+    "issue_label": "51",
+    "short_slug": "Виртуальные_миры_-_лучшая_англоязычная_адвентюра_The_Colour"
+  },
+  {
+    "article_id": 3058,
+    "article_url": "https://zxpress.ru/article.php?id=3058",
+    "print_url": "https://zxpress.ru/print.php?id=3058",
+    "title_link": "Мнение - Затерянные шедевры: адвентюрные игры.",
+    "order": 3,
+    "issue_label": "51",
+    "short_slug": "Мнение_-_Затерянные_шедевры_адвентюрные_игры"
+  },
+  {
+    "article_id": 3055,
+    "article_url": "https://zxpress.ru/article.php?id=3055",
+    "print_url": "https://zxpress.ru/print.php?id=3055",
+    "title_link": "Новости ПО - игры: Worm World, Dizzy \"A\", Clickmania. Софт: AON v0.5, E-mage Work Station, PIformat v2.1, Sprite Editor v1.01. Журналы: Adventurer 10, RUSH 2.",
+    "order": 4,
+    "issue_label": "51",
+    "short_slug": "Новости_ПО_-_игры_Worm_World_Dizzy_A_Clickmania_Софт_AON_v05"
+  },
+  {
+    "article_id": 3053,
+    "article_url": "https://zxpress.ru/article.php?id=3053",
+    "print_url": "https://zxpress.ru/print.php?id=3053",
+    "title_link": "От редакции - вышел новый сильно затянувшийся номер газеты.",
+    "order": 5,
+    "issue_label": "51",
+    "short_slug": "От_редакции_-_вышел_новыи_сильно_затянувшиися_номер_газеты"
+  },
+  {
+    "article_id": 3056,
+    "article_url": "https://zxpress.ru/article.php?id=3056",
+    "print_url": "https://zxpress.ru/print.php?id=3056",
+    "title_link": "Презентация - анонс новой газеты \"Stonehenge\".",
+    "order": 6,
+    "issue_label": "51",
+    "short_slug": "Презентация_-_анонс_новои_газеты_Stonehenge"
+  },
+  {
+    "article_id": 3054,
+    "article_url": "https://zxpress.ru/article.php?id=3054",
+    "print_url": "https://zxpress.ru/print.php?id=3054",
+    "title_link": "Список BBS - Список станций BBS.",
+    "order": 7,
+    "issue_label": "51",
+    "short_slug": "Список_BBS_-_Список_станции_BBS"
+  }
+]

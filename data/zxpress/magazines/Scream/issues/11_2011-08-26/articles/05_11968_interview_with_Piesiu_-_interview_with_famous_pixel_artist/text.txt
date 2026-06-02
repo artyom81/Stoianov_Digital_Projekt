@@ -1,0 +1,119 @@
+Scream 11 - interview with Piesiu - interview with famous pixel artist.
+interview with Piesiu/Agenda^MysticBytes
+by diver/4d
+Diver:
+Piesiu hi! Please introduce yourself: what is you real name, where are
+you from, etc.
+Piesiu:
+Hi! My name is Piotr Radecki, I live in Poland, I'm 33 years old, I have
+a beautiful wife and wonderful son :).
+Diver:
+How did your scene life was started? Which year? Which platform? What did
+you do? How it was developed until modern years?
+Piesiu:
+I had first contact with the scene in the early 90's. I draw some
+pictures on C64 and Amiga 500/1200, later also on the PC. I have watched for
+other platforms such as ZX Spectrum or Atari XL/XE running the software on
+emulators. At late 90's I've lost the interest for the demoscene. When the time
+passed - comes the nostalgia about my youth. So I've bought a lot of old
+computers, which i've had before or dreamed to have. In 1999 I've started to
+draw again, at the Atari XL/XE for first, then at another classic home
+computers.
+Diver:
+Why did you started doing Spectrum graphics?
+Piesiu:
+I try to draw on all popular retro computers, so also on the ZX.
+Spectrum is my first home computer (in the 80's we had two ZX Spectrum + in the
+school) and this is one of my favorite computers.
+Diver:
+What is your opinion of modern ZX Spectrum graphics scene? Is it similar
+to 8-bit Atari or C64?
+Piesiu:
+In my opinion, a graphic scene of Spectrum is much stronger than the
+Atari. There is many good active artists at ZX scene. If you draw at Atari - you
+need to master a very complicated tool - Graph2Font to obtain a good graphical
+effect (i.e. something more than the standard 4 colors, or graphics with
+interlace). In G2F it's impossible to easy convert graphics - from pictures,
+etc. Unfortunately you can meet copied graphics at the Spectrum much more. C64
+GFX scene well is probably stronger than all the other eight-bit demoscene
+together :).
+Diver:
+What do you know about spectrum scene in Poland?
+Piesiu:
+It's hard to talk about any ZX polish scene, at the moment seems that
+there is only one active group - Hooy-Program. And I have contacted only with
+two polish Spectrumers. Unfortunately in the late 80's and 90's when in Poland
+was some substitute Speccy demoscene (and when The Lyra 2 and other demos was
+created) I was interested others computers.
+Diver:
+Do your Atari friends and groupies intend to do some works for ZX
+Spectrum? Or maybe you plan to coop with any other Spectrum groups?
+Piesiu:
+My friends from Agenda (Atari/C64 group) don't like Speccy palette ;),
+in MysticBytes I never talked about ZX Spectrum (it's a ST/Falcon group). As
+about coop with other groups, my graphics already was used in two prods from
+H-Prg.
+Diver:
+How long will you draw for spectrum? :)
+Piesiu:
+As long, as I can :).
+Diver:
+How did you draw? Please describe the process from the scratch and the
+tools you used.
+Piesiu:
+I draw each image from the scratch using Retro-X tool. I could never
+convince the other ZX graphics tools.
+Diver:
+Do you have any art education?
+Piesiu:
+Ha, ha, of course no :).
+Diver:
+You have a lot of spectrum works for now. What do you think - you're
+Atari artist more or Spectrum artist? :)
+Piesiu:
+I made 27 fullscreen GFXs for Atari and only 9 for ZX in two years, so
+I'm more Atari grahician ;). But seriously I'm multi-retro grafician, I love
+most of 8/16/32-bit retro platforms.
+Diver:
+How did you managed to be so active on the scene? You have a full family
+- the wife and the son and you regularely drawing so much. I am 33 years old too
+and have a wife, but i can't draw so :) What is your secret?
+Piesiu:
+I'm always wondering myself about that ;). It is difficult to draw
+anything during the day. So usually i create these graphics at night, when the
+whole family is already asleep :).
+Diver:
+Question about demoscene. Do you know the ZX Spectrum demoscene? What do
+you think about it?
+Piesiu:
+The Speccy demoscene is the second after the C64 scene of the 8 bit
+platforms, most of that scene are accumulated in Russia, less in Belaruss,
+Ukraine, Slovakia, Czech Republic... . Many, many people are doing absolutely
+amazing stuff for this wonderful little computer. My tribute to the geniuses who
+squeeze such miracles from Z80, ULA, beeper and AY.
+Diver:
+What is your opinion about copy/nocopy graphics? Are you nocopy only
+artist? What do you think about participation of copy works at the parties?
+Piesiu:
+I never copy the entire image. Sometimes I redraw individual elements
+such like a pipe in the "Oldschool" picture, bird in "Rusalka" (somewhere I read
+a comment that the bird's wing is badly placed, but this bird was only redrawn,
+and maybe the bird at the original photo has a broken wing :P), or my local
+church in "Autumn Virtuoso". In simplify I have a three levels of demoscene
+graphics:
+- first - artists - people who draw by hand from their own imagination,
+according to their own ideas, sometimes redraws single elements from the
+original pictures/photos.
+- second - duplicators - people who copy others' ideas, redraw the entire
+picture, but do it manually putting each pixel, and must admit that the image
+has been copied, I don't see this as a problem.
+- third - scammers - who are using appropriate software, in minutes convert a
+image, attributing the authorship of this picture. Artist who drew similar
+graphics spent 10-20-30 hours on manually pixeling, "scammer" did it in 10
+minutes :/.
+Diver:
+And the last question: do you want to say something to ZX Spectrum
+graphucs artists?
+Piesiu:
+You do a great job! And please, less copy, more imagination, that's all
+;).

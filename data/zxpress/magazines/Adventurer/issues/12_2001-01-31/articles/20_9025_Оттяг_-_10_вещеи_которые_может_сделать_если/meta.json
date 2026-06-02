@@ -1,0 +1,15 @@
+{
+  "magazine_id": 9,
+  "magazine_name": "Adventurer",
+  "city": null,
+  "country": null,
+  "issue_label": "12",
+  "issue_date_iso": "2001-01-31",
+  "order": 20,
+  "article_id": 9025,
+  "title_link": "Оттяг - 10 вещей, которые может сделать .. если ...",
+  "title_h1": "Adventurer 12 - Оттяг - 10 вещей, которые может сделать .. если ...",
+  "print_url": "https://zxpress.ru/print.php?id=9025",
+  "article_url": "https://zxpress.ru/article.php?id=9025",
+  "fetched_at": "2026-05-31T21:34:43Z"
+}

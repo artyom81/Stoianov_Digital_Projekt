@@ -1,0 +1,65 @@
+[
+  {
+    "article_id": 1544,
+    "article_url": "https://zxpress.ru/article.php?id=1544",
+    "print_url": "https://zxpress.ru/print.php?id=1544",
+    "title_link": "Non Possumus - О методах ведения дискуссий.",
+    "order": 1,
+    "issue_label": "27",
+    "short_slug": "Non_Possumus_-_О_методах_ведения_дискуссии"
+  },
+  {
+    "article_id": 1543,
+    "article_url": "https://zxpress.ru/article.php?id=1543",
+    "print_url": "https://zxpress.ru/print.php?id=1543",
+    "title_link": "Non Possumus - Об электроудочке.",
+    "order": 2,
+    "issue_label": "27",
+    "short_slug": "Non_Possumus_-_Об_электроудочке"
+  },
+  {
+    "article_id": 1546,
+    "article_url": "https://zxpress.ru/article.php?id=1546",
+    "print_url": "https://zxpress.ru/print.php?id=1546",
+    "title_link": "ZX-Обоз - Обзор электронной прессы: Wall Papper 2,5; Born Dead 7, Nicron 108.",
+    "order": 3,
+    "issue_label": "27",
+    "short_slug": "ZX-Обоз_-_Обзор_электроннои_прессы_Wall_Papper_25_Born_Dead"
+  },
+  {
+    "article_id": 1542,
+    "article_url": "https://zxpress.ru/article.php?id=1542",
+    "print_url": "https://zxpress.ru/print.php?id=1542",
+    "title_link": "Мнение - О создании национального фонда Спектрума.",
+    "order": 4,
+    "issue_label": "27",
+    "short_slug": "Мнение_-_О_создании_национального_фонда_Спектрума"
+  },
+  {
+    "article_id": 1545,
+    "article_url": "https://zxpress.ru/article.php?id=1545",
+    "print_url": "https://zxpress.ru/print.php?id=1545",
+    "title_link": "Обратная связь - ZX-Net - это круто.",
+    "order": 5,
+    "issue_label": "27",
+    "short_slug": "Обратная_связь_-_ZX-Net_-_это_круто"
+  },
+  {
+    "article_id": 1547,
+    "article_url": "https://zxpress.ru/article.php?id=1547",
+    "print_url": "https://zxpress.ru/print.php?id=1547",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 6,
+    "issue_label": "27",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 1805,
+    "article_url": "https://zxpress.ru/article.php?id=1805",
+    "print_url": "https://zxpress.ru/print.php?id=1805",
+    "title_link": "Страницы истории - Пионеры Отечественного Спектрума на подступах к Спектруму.",
+    "order": 7,
+    "issue_label": "27",
+    "short_slug": "Страницы_истории_-_Пионеры_Отечественного_Спектрума_на_подст"
+  }
+]

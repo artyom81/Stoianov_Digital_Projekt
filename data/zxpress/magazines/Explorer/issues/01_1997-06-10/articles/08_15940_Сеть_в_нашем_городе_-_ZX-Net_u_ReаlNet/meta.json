@@ -1,0 +1,15 @@
+{
+  "magazine_id": 69,
+  "magazine_name": "Explorer",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-06-10",
+  "order": 8,
+  "article_id": 15940,
+  "title_link": "Сеть в нашем городе - ZX-Net u ReаlNet.",
+  "title_h1": "Plutonium 12 - Сеть в нашем городе - ZX-Net u ReаlNet.",
+  "print_url": "https://zxpress.ru/print.php?id=15940",
+  "article_url": "https://zxpress.ru/article.php?id=15940",
+  "fetched_at": "2026-05-31T22:03:32Z"
+}

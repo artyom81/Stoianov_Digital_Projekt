@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 90,
+    "article_url": "https://zxpress.ru/article.php?id=90",
+    "print_url": "https://zxpress.ru/print.php?id=90",
+    "title_link": "B.B.S. Новости - О работе нового шлюза для связи со спектрумистами города\r\n Москвы на платформе PC.",
+    "order": 1,
+    "issue_label": "55",
+    "short_slug": "BBS_Новости_-_О_работе_нового_шлюза_для_связи_со_спектрумист"
+  },
+  {
+    "article_id": 2376,
+    "article_url": "https://zxpress.ru/article.php?id=2376",
+    "print_url": "https://zxpress.ru/print.php?id=2376",
+    "title_link": "HOT GAMES - Лучшая десятка oт Magic Soft.",
+    "order": 2,
+    "issue_label": "55",
+    "short_slug": "HOT_GAMES_-_Лучшая_десятка_oт_Magic_Soft"
+  },
+  {
+    "article_id": 2375,
+    "article_url": "https://zxpress.ru/article.php?id=2375",
+    "print_url": "https://zxpress.ru/print.php?id=2375",
+    "title_link": "Достоверная информация - О изменениях в составе редакции журнала \"ZX-Format\".\r\n МПК \"Инфорком\" со спектрумом не завязывает.",
+    "order": 3,
+    "issue_label": "55",
+    "short_slug": "Достоверная_информация_-_О_изменениях_в_составе_редакции_жур"
+  },
+  {
+    "article_id": 2374,
+    "article_url": "https://zxpress.ru/article.php?id=2374",
+    "print_url": "https://zxpress.ru/print.php?id=2374",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "55",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

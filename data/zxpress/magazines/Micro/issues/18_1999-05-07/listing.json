@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 5203,
+    "article_url": "https://zxpress.ru/article.php?id=5203",
+    "print_url": "https://zxpress.ru/print.php?id=5203",
+    "title_link": "Doomdarks Revenge - полное описание ролевой игры, в которой вам предстоит сражаться со злом.",
+    "order": 1,
+    "issue_label": "18",
+    "short_slug": "Doomdarks_Revenge_-_полное_описание_ролевои_игры_в_которои_в"
+  },
+  {
+    "article_id": 5204,
+    "article_url": "https://zxpress.ru/article.php?id=5204",
+    "print_url": "https://zxpress.ru/print.php?id=5204",
+    "title_link": "12 тайных книг - RPG основанная на сказаниях и былях Древней Руси.",
+    "order": 2,
+    "issue_label": "18",
+    "short_slug": "12_таиных_книг_-_RPG_основанная_на_сказаниях_и_былях_Древнеи"
+  },
+  {
+    "article_id": 5205,
+    "article_url": "https://zxpress.ru/article.php?id=5205",
+    "print_url": "https://zxpress.ru/print.php?id=5205",
+    "title_link": "Perfect Commander - полное описание популярной файловой оболочки.",
+    "order": 3,
+    "issue_label": "18",
+    "short_slug": "Perfect_Commander_-_полное_описание_популярнои_фаиловои_обол"
+  },
+  {
+    "article_id": 5206,
+    "article_url": "https://zxpress.ru/article.php?id=5206",
+    "print_url": "https://zxpress.ru/print.php?id=5206",
+    "title_link": "Юмор из Фидо - Дневник юзера Васи.",
+    "order": 4,
+    "issue_label": "18",
+    "short_slug": "Юмор_из_Фидо_-_Дневник_юзера_Васи"
+  }
+]

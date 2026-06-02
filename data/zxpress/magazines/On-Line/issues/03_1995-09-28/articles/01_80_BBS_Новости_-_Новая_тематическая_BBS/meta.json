@@ -1,0 +1,15 @@
+{
+  "magazine_id": 147,
+  "magazine_name": "On-Line",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1995-09-28",
+  "order": 1,
+  "article_id": 80,
+  "title_link": "B.B.S. Новости - Новая тематическая B.B.S.",
+  "title_h1": "On-Line 03 - B.B.S. Новости - Новая тематическая B.B.S.",
+  "print_url": "https://zxpress.ru/print.php?id=80",
+  "article_url": "https://zxpress.ru/article.php?id=80",
+  "fetched_at": "2026-05-31T22:41:39Z"
+}

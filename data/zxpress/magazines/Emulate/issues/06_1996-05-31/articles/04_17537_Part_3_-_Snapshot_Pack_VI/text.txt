@@ -1,0 +1,588 @@
+06 - Part 3 - Snapshot Pack VI.
+==========================================
+********************************
+*  PART 3  - SNAPSHOT PACK VI  *
+********************************
+
+This weeks snapshot pack includes:
+
+MANIC MINER SPECIAL!
+Manic Miner Editor
+Manic Miner III - Exclusive by Blood!!
+
+ALCHEMIST NEWS  - Issue 20 of the
+                  excellent Spectrum tape
+                  -magazine!
+VALHALLA        - Great RPG featuring real
+                  AI! (Well..sort of!)
+FAHRENHEIT 3000 - A Jet Set Willy clone
+                  (Hey - Aren't they all?)
+MONTY PYTHON    - A new breed of snapshot
+                  - the SLT multiload!
+EXOLON          - First in a new series
+                  chronicling the games of
+                  Raf Cecco!
+GARFIELD        - The ever popular cartoon
+                  cat in his first ever
+                  game!
+SPECTACLE 3     - The next in our series
+                  of teletext programs!
+
+RITMAN SPECIAL  - A collection of Jon
+                  Ritman's finest games,
+                  including Head Over
+                  Heels, Batman, Matchday
+                  and his first ever
+                  effort, Namtir Raiders
+                  for the ZX81!
+
+==========================================
+
+MANIC MINER EDITOR
+By Richard Swann
+
+Supplied by Blood
+
+Intro
+-----
+Bored  of  the  continual stream of Jetset
+Willy  editors,  I  recalled from my youth
+owning  a  copy  of an editor called Manic
+Designer which let you change the way your
+Manic   Miner   levels   looked.   I  also
+remembered  a  type-in  editor  for  Manic
+Miner  which  was printed in YS. I decided
+that  it  would be my Quest to provide the
+Internet  Speccy  community with copies of
+these little gems to have and to hold, and
+to show their grandchildren one day.
+
+Having  tracked  down  a  copy  of  the YS
+editor, thanks to Henning (who photocopied
+the  pages  and  sent  them  to me), I set
+about typing it in. And lo, it is here for
+you  all  to  try.  My  fingers are now on
+fire. The instructions from YS are here in
+full,  as  well as some little notes of my
+own.  I STRONGLY SUGGEST that you read ALL
+of  this  file  before  proceeding, or you
+might  feel  a  bit  funny  later  on.  Or
+something.
+
+Unfortunately, the course of my life never
+runs  smooth  and  I  found that my single
+copy of the Manic Designer editor (which I
+also intended to include here) was trashed
+beyond  repair. If ANYONE could provide me
+with a new copy of Manic Designer, I would
+be  eternally  grateful!  It's  very  old,
+released  about  1984,  and  as  far  as I
+recall   was  released  by  a  very  small
+software  house  and  was  written  by two
+authors.  It  was  half MC and half BASIC,
+had  a  bad  loading  screen  with lots of
+flashing  red  and yellow squares, and you
+had  to do LOAD "" CODE to load it. Please
+can someone help to restore this icon from
+my childhood....! ;-)
+
+Enough   of  my  ramblings,  on  with  the
+instructions!
+
+==========================================
+
+Rich Swann's Level Editor
+-------------------------
+These instructions are taken directly from
+YS :
+
+Now  this  is  class!  After four years of
+constant  helping out in Dr Hugo's Clinic,
+Dicky (or Rich, as I believe he prefers to
+be called) of sunny Camberley, has decided
+that  Pitstop  could also benefit from his
+magic  touch.  And  this is what all Manic
+Miner  fans  have  been  longing  for  for
+years  -  it enables you to customise each
+of  the  20  screens,  and  also  lets you
+change the sprites, so that you can have a
+completely  new set of baddies. The editor
+is split into two distinct parts - this is
+the  screen  editor, and the sprite editor
+will   follow  next  month.  However,  the
+clever   thing   is,   each   program   is
+self-supporting, so you can run the screen
+editor, and play your new screens, without
+waiting until next month for the next bit!
+I'm just so considerate.
+
+HOW TO DO IT
+Type  in  the  delicious BASIC listing and
+save  it  to auto-run with SAVE "filename"
+LINE  1.  When run, the editor asks you to
+play  the Manic Miner tape. The actual bit
+it's looking for is the main chunk of code
+called  "MM2", which is the bit that comes
+after  the  "title  screen"  loader.  Once
+loaded,  you  will be asked which level to
+edit, and then you'll see a representation
+of  the  level,  and, hiding down there at
+the bottom...
+
+The Main Menu.1
+This   option  enters  the  actual  editor
+itself  -  study  the  symbols  closely (a
+knowledge  of  the  actual level will help
+here)  and  decide whether you want to add
+floor, wall, poison pansy or whatever.
+
+Press   O,   and   enter   the   character
+corresponding  to the bit you want to add,
+e.g.  $  for  a conveyor, or a blank space
+for  nothing. You can then move the cursor
+around  the  screen  using  5,6,7  and  8,
+pressing  0 to insert your chosen feature,
+be  it a poison pansy, a collapsing floor,
+or   whatever.   There   are  three  other
+features which make up the editor :
+
+Pressing L lets you type in a new name for
+the  level; however, be wary - as the name
+is  poked into memory rather than assigned
+to a string, you'll need to type in enough
+characters  (and  spaces  if necessary) to
+take  it  up to at least the length of the
+original name.
+
+Pressing K lets you change the position of
+the  keys  (shown  as  red  stars  on  the
+screen).   You're   asked   for   new  X,Y
+co-ordinates, but be careful here, as when
+I  gave a Y value of 8 the program stopped
+with  an error message. If this happens to
+you,  just type GOTO 15 to try again (what
+do you want, perfection?).
+
+Finally,   pressing   S  lets  you  change
+Willy's  start position (shown by two cyan
+arrows)  -  enter  new X,Y co-ordinates as
+before.
+
+When  you've finished editing, press SPACE
+to get back to the main menu.
+
+The Main Menu.2
+This option lets you swap between levels -
+note  that  you  don't have to save before
+you swap.
+
+The Main Menu.3
+The  File-handling menu. From this you can
+save  your  levels,  load  ones  you  made
+earlier,  or  print the current level out.
+There is also a Test Game option, but bear
+in  mind  that  you  can't get back to the
+editor  after selecting this, so save your
+levels first, eh?
+
+To  play  your levels simply start loading
+Manic   Miner  as  normal,  and  when  the
+horrible flashing loading screen comes up,
+swap  the game tape for your saved levels,
+and play that instead. One thing I noticed
+when having a brief trial run, was that my
+repositioned  key  in  Central  Cavern was
+made  invisible. Is this a one-off or does
+it  happen  all  the time? (I don't know).
+And  if  it  is  a regular occurence, does
+anyone  know  how  to  get  round  it? All
+suggestions    gratefully   received.   Of
+course,  some  people  might see invisible
+keys  as  a  good  challenge;  other, more
+cynical   people   might   call  it  dodgy
+programming.  I, obviously, wouldn't dream
+of such a thing.
+
+Rich Swann's Sprite Editor
+--------------------------
+These instructions are taken directly from
+YS :
+
+Given  that  z=3+4i,  find the argument of
+1/z,  giving your answer in degrees to one
+decimal place... Oh, this one's easy - you
+just  realise  the  denominator,  er, then
+find  the  arctan... er, or something... I
+know,  let's  have  a  look  at the second
+instalment   of  the  Manic  Miner  editor
+instead!  Infinitely  preferable, I think.
+This  here  is  the  Sprite  Editor, which
+follows  on  directly  from  last  month's
+instalment, but runs independently, giving
+you  a perfectly customised version of the
+ancient  classic. As usual, type it in and
+save  it  with SAVE "filename" LINE 1. Run
+it,  and  you  can  either load in the new
+levels  you created last month, or you can
+start from scratch by loading the original
+tape  in,  and  do  the  levels later. The
+instructions,  I'm  sure you'll be pleased
+to  know,  are  much less complicated than
+last  month's,  so  here they are in their
+entirety...
+
+1/Z  :  Move  memory  pointer up/down by 8
+bytes.  This  is  equivalent  to a "coarse
+tuning"  control,  and  you  can use it to
+scan   through   the  memory  looking  for
+sprites.
+
+Q/A : The "Fine Tune" control - this moves
+the  memory pointer up or down by just one
+byte, for if you come across an incomplete
+sprite.
+
+X  :  Switches  between viewing sprites as
+8x8  or  16x16  types.  There  are some of
+each,  and  generally  speaking,  the  8x8
+sprites  tend  to  come  before  the 16x16
+sprites every level.
+
+E  :  Edit the sprite at current location.
+Use  the  cursors (5,6,7,8) to move around
+the grid, 0 to set a pixel, and 9 to reset
+it. Space stops the editing and writes the
+sprite   into  memory,  but  BE  WARNED  -
+editing  data  that isn't an actual sprite
+may  well  corrupt  the game, so make sure
+you recognise the sprite first!
+
+L/S  :  Load/Save your creations, the same
+as last month's.
+
+2 : Lets you select an address at which to
+look for sprites.
+
+
+And  it's as simple as that! Have fun, and
+I'll  expect  to  see Manic Miner 2 in the
+shops  before Christmas! (Somehow, I think
+not. Ed)
+
+==========================================
+
+Blood's Notes
+-------------
+These instructions are taken directly from
+Blood's Head :
+
+The  editors  are  provided  as  two  .SNA
+snapshots.  To  get  the  most  out of the
+editor,   however,   your   emulator  must
+support  .TAP files (or something similar)
+to  allow you to save data from one of the
+editors  and  load it into the other. It's
+perfectly  possible  to  redesign  screens
+only with a non-TAP editor, though.
+
+I  have  loaded  the  standard Manic Miner
+data  into  both  of the editors. When you
+load  the  snap, the data is there already
+and  you  can begin to edit straight away.
+Should  you  wish  to  load your own data,
+you'll  have to break into the program and
+GOTO 1. This should allow you to load your
+own .TAP file of the MM2 data.
+
+Take  heed  of  the  warnings not to place
+objects with a Y axis of 8! These generate
+an out of range error, as they try to poke
+a  memory  location  with  a value greater
+than  255. The maths to work out the value
+to  poke  is  pretty  darned complex, so I
+haven't  attempted  to fix this. If anyone
+does, please let me have an updated copy!
+
+Funny things may happen if you put objects
+or  ground  in  the  path  of  an oncoming
+monster!  Generally,  it's  best  to avoid
+doing  this.  It's also not a good idea to
+block  off  the  light  beam  in the Solar
+Power Generator...
+
+You may have problems with special ground,
+such   as  conveyor  belts  or  collapsing
+floors   (i.e.   new  conveyor  belts  not
+animating).  The  best  way to learn about
+this is to experiment!
+
+The  screen  names  are  not automatically
+centred! You'll have to do it yourself!
+
+DON'T  TEST  THE  SCREENS  WITHOUT  SAVING
+FIRST!  You'll  end up kicking yourself, I
+know you will.....
+
+POKE 35136,0 should give you infy lives.
+
+POKE  34795,195  :  POKE  34796,241 : POKE
+34797,135:     POKE     36233,195:    POKE
+36234,149  :  POKE 36235,141 will give you
+infinite air.
+
+Send  me  your creations! I'd love to play
+any redesigned Manic Miners....!
+
+Epilogue
+--------
+Errm....that's it really. Thanks to :
+
+Henning - for finding the editor and
+          sending me the photocopies.
+Rich Swann - for writing the editor!
+Matt Smith - for writing the game!
+Craig Broadbent - for publishing the
+                  editor in YS.
+Your Sinclair - for being a top, top, top
+                mag.
+Richard Hallas - for continued support
+                 and encouragment.
+
+Any  questions, write to me at the address
+below.  Now,  let's  all  see if we can do
+better   than  the  AWFUL  Manic  Miner  2
+hacked-up version which is currently doing
+the rounds on the Internet!
+
+==========================================
+==========================================
+
+MANIC MINER 3
+Tales From a Parallel Universe
+
+Designed by the infamous BLOOD!
+        (l.d.tonks@braO202.wins.icl.co.uk)
+(c)1996 Cheese Freak Software
+
+Manic Miner programmed by Matthew Smith
+(c)1983 Bug Byte Software
+
+Title  Screen  produced  by  BLOOD using a
+cartoon  of  Matt  Smith  I  found on NVG,
+PaintShop Pro for Windows, Melbourne Draw,
+and  BMP2SPEC  (a cunning little utility I
+wrote  to  port my Windows graphics to the
+Speccy).
+
+INSTRUCTIONS
+It  is rumoured that there are an infinite
+number  of  parallel universes where every
+possibility is played out. Things in these
+other  dimensions  may  be very similar to
+our  own  reality,  but  subtly  different
+because  of  certain  decisions which were
+taken differently.
+
+Miner  Willy is no exception to this rule.
+Previously, thousands of Speccy owners had
+thrilled  to  his adventures in his battle
+to  escape  the Manic Mining machines, but
+now  Cheese  Freak Software brings you the
+escapades  of  ANOTHER  Miner Willy from a
+parallel    universe!    Just   like   his
+counterpart  in  this  reality,  Willy has
+fallen into a mine packed with dangers and
+must  escape  from  20  lethal  caverns in
+order to locate the untold treasures of an
+ancient  civilisation.  However,  in  this
+universe  things  are  subtly different...
+Can  Miner Willy emulate the antics of his
+trans-dimensional  counterpart, or are the
+Speccy owners of the other universe doomed
+to a life with no Jet Set Willy?
+
+GAME CONTROL
+Three keys are used to control the game:
+Q,E,T,U or O          - Move left
+W,R,Y,I or P          - Move right
+Shift to space        - Jump
+
+Also :
+A to G                - Pause
+H to ENTER            - Music On/Off
+
+FOR THE EASILY FOOLED
+In  case  you  hadn't  noticed,  this is a
+version of Manic Miner which I have edited
+with  the  Manic Miner Editor to produce a
+very  different  game! All 20 screens have
+been  replaced  (and the scrolly message!)
+and  should  prove  a new challenge for MM
+addicts.  I  can't pretend that my screens
+are as good as Matt Smith's originals, but
+I  GUARANTEE that they're much better than
+the  very  crap  'Manic  Miner 2' snapshot
+which  has  been  doing  the rounds on the
+Internet.
+
+I  haven't  changed many graphics, for two
+reasons :
+1) The graphics were very good anyway
+2) I'm crap at drawing
+You  won't  recognise  any  of  the  rooms
+anyway   -   it's   completely  different.
+They're  not  all  rock hard either - some
+are   easy   and   some   are   like   The
+Warehouse.....Eeek!
+
+I'm  not  asking  for  anything for this -
+it's  free, just play it and enjoy it. And
+when  you've  done, why not grab a copy of
+the editor and have a go at redesigning it
+yourself?  The editor's free too. I'm just
+too  nice.  I'd  like  to  see any of your
+creations..... Regards, Blood.
+
+P.S.  The  screens  are as follows. If you
+want  to take a peek at 'em, use the level
+skip      cheat      or      watch     the
+demonstration......
+
+ 1. Slightly to One Side Cavern
+ 2. Brass Penguins?
+ 3. Bernard Matthews' Personal Hell
+ 4. Sealed with a Glasgow Kiss
+ 5. Future Echoes
+ 6. Pac Up Your Troubles
+ 7. Altar of 7th Day Advent Hoppists
+ 8. Alan Sugar's Take-Over Bid
+ 9. Perils of a Bad-Hair Day
+10. Dr. Jones WOOD Believe This!
+11. Revenge of Brian's Phone Bill!
+    (dedicated to Brian 'No Binaries!'
+    Gaff)
+12. Alan Sugar must DIE!
+13. The 'Difficult to Edit' Cavern
+14. Crashing More Often Than a ZX81!
+15. Matthew Smith's Unpaid Royalties
+16. Zucchini! Or Something.... (dedicated
+    to the hard working YS team)
+17. Farmer Barleymow's DDT Store
+18. Eye o' Oktup (dedicated to 'dat ole
+    looney...bwah!)
+19. Warp Core Breach
+20. Join the Jet Set (with apologies to
+    Richard Hallas!)
+
+==========================================
+==========================================
+
+TRAILBLAZER
+
+Determination,  speed,  and  dexterity are
+the   key   assets   needed   to  complete
+TRAILBLAZER successfully.
+
+Thundering  into  the unknown at breakneck
+speed,  are  you agile enough to negotiate
+the  perils?  Roll left and right to avoid
+the  cracks but be careful not to fall off
+the edge of the path as you go. Be sure to
+identify  and avoid the squares which will
+either  speed  you  up  or  make  you jump
+automatically.  Keep  a careful eye on the
+clock  as  the  more time you have left at
+the end of each level, the more bonus time
+you will be awarded.
+
+The  aim  of the game is to guide the ball
+down  each  of  14  courses  as quickly as
+possible,  whilst  avoiding  the holes and
+other  obstacles.  Each course has its own
+time  limit.  Differently  shaded  squares
+have different effects.
+
+(Note:  there's  actually a diagram of the
+different   types   of   square   in   the
+instructions,  but it's a bit difficult to
+draw  in  ASCII,  so I'll try and describe
+the squares as best I can.)
+
+Normal - light pattern
+Reverse controls - darker shaded squares
+                   in a chequered pattern
+Increase speed - lines along the direction
+                 of travel
+Decrease speed - lines across the
+                 direction of travel
+Bounce - solid colour areas
+
+There   are   two  options  which  can  be
+selected - these are:
+
+a)  PLAY  THE  ARCADE - You are limited to
+four  jumps  per  course  and  have a time
+limit  on  each  course.  Your  aim  is to
+complete  as  many courses as possible and
+to accumulate the highest score.
+
+b) THREE COURSE TRIAL - (press 4 to select
+this    option)   this   gives   you   the
+opportunity  to practice any three courses
+with a 99 second time limit on each one.
+
+Scoring
+Your  score  increases  depending  on  the
+speed at which you are travelling.
+
+==========================================
+==========================================
+
+EXOLON
+
+This  is  the  first game in another small
+series  which  will  be running throughout
+the    next   few   issues   of   Emulate!
+chronicling  the games of the infamous Raf
+Cecco!
+
+The  aim  of each level is to get from one
+side  to  the other. There are 125 screens
+in all, divided into 5 levels of 25.
+
+You  can  move  your man (Vitorc) left and
+right  using  the appropriate keys, and up
+will  make  him  jump.  Pressing  the fire
+button  down and then quickly releasing it
+will  fire one shot of the laser. Pressing
+and  holding  the  fire button will launch
+one   of  your  rockets,  which  will  arc
+through   the   sky   and  shoot  forward,
+destroying any scenery in the way.
+
+At  a  certain  point  through each of the
+levels, there is placed a cubicle allowing
+you  to select the exo-skeleton. This will
+give  you  greater  protection, and double
+your  rate  of fire, but it does mean that
+you  will  not  get the score bonus at the
+end.
+
+There  are  also teleporters spread around
+certain screens. Walking into one of these
+and  presing down will teleport you to the
+other teleporter located on the screen.
+
+To replenish you rockets and laser, simply
+walk  into the power packs that are spread
+around the levels. Their colour determines
+which item they will replenish.
+
+When  you get to the end of a level, there
+is  a  small  skill  test.  An  arrow will
+quickly switch between several scores, and
+you  must  press  the  fire  button at the
+right time to select the highest.
+
+==========================================
+==========================================

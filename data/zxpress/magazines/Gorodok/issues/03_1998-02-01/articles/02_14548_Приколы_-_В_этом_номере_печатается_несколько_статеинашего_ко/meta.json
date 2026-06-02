@@ -1,0 +1,15 @@
+{
+  "magazine_id": 92,
+  "magazine_name": "Gorodok",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1998-02-01",
+  "order": 2,
+  "article_id": 14548,
+  "title_link": "Приколы - В этом номере печатается несколько статей\r\nнашего корреспондента - Милёхина Игоря.",
+  "title_h1": "Gorodok 03 - Приколы - В этом номере печатается несколько статей нашего корреспондента - Милёхина Игоря.",
+  "print_url": "https://zxpress.ru/print.php?id=14548",
+  "article_url": "https://zxpress.ru/article.php?id=14548",
+  "fetched_at": "2026-05-31T22:10:39Z"
+}

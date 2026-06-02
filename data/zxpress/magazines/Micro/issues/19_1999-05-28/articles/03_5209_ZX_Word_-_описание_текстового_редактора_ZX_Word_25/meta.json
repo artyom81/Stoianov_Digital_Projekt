@@ -1,0 +1,15 @@
+{
+  "magazine_id": 120,
+  "magazine_name": "Micro",
+  "city": null,
+  "country": null,
+  "issue_label": "19",
+  "issue_date_iso": "1999-05-28",
+  "order": 3,
+  "article_id": 5209,
+  "title_link": "ZX Word - описание текстового редактора ZX Word 2.5.",
+  "title_h1": "Micro 19 - ZX Word - описание текстового редактора ZX Word 2.5.",
+  "print_url": "https://zxpress.ru/print.php?id=5209",
+  "article_url": "https://zxpress.ru/article.php?id=5209",
+  "fetched_at": "2026-05-31T22:25:48Z"
+}

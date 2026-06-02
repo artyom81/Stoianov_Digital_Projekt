@@ -1,0 +1,15 @@
+{
+  "magazine_id": 28,
+  "magazine_name": "Body",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1999-08-07",
+  "order": 5,
+  "article_id": 3292,
+  "title_link": "Новости - Новости из Гомеля.",
+  "title_h1": "Body 13 - Новости - Новости из Гомеля.",
+  "print_url": "https://zxpress.ru/print.php?id=3292",
+  "article_url": "https://zxpress.ru/article.php?id=3292",
+  "fetched_at": "2026-05-31T21:41:20Z"
+}

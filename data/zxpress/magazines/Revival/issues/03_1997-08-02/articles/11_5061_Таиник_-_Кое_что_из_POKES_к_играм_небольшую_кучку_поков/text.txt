@@ -1,0 +1,459 @@
+Revival 03 - Тайник - Кое что из POKES к играм (небольшую кучку поков).
+┌──────────────────────────────────────────────────────────┐
+┌─┴──────────────────────────────────────────────────────────┴─┐
+│                            ТАЙНИК                            │
+└─┬──────────────────────────────────────────────────────────┬─┘
+  └──────────────────────────────────────────────────────────┘
+
+   Хммм...  Если  одноименный  спектрофоновский раздел изобилует
+cheat-кодами  и  паролями, то пока я вам могу  предложить только
+небольшую  кучку  поков.  Небольшую  потому что  это где-то лишь
+одна треть того, что у меня припасено для этого раздела.
+
+   Некоторые  из  этих  поков наверняка уже засветились в Tricks
+ZX,  но  проверить  такой объемный материал я просто не в силах.
+Так  что  если  понадобится  разузнать  чит к какой-то игрушке -
+посмотрите и тут заодно.
+
+  ┌──────────────────────────────────────────────────────────┐
+  │                        ПОЯСНЕНИЯ                         │
+  ├────┬─────────────────────┬───────────────────────────────┤
+  │ BF │ bug fix             │ устраняет кое-какие глюки     │
+  │ EG │ easy game           │ облегчает игру                │
+  │ IM │ immunity            │ неуязвимость                  │
+  │ ML │ maximum lives       │ большее количество жизней     │
+  │ MP │ multi-poke          │ много всяких функций          │
+  │ NC │ no collision        │ вы не сталкиваетесь с врагами │
+  │ NE │ no enemies          │ нет врагов                    │
+  │ NS │ no sound            │ без звуков                    │
+  │ UC │ unlimited credits   │ кредиты                       │
+  │ UD │ unlimited deflector │ защита                        │
+  │ UE │ unlimited energy    │ энергия                       │
+  │ UF │ unlimited fuel      │ топливо                       │
+  │ UL │ unlimited lives     │ жизни                         │
+  │ UM │ unlimited money     │ деньжата                      │
+  │ UO │ unlimited oxygen    │ кислород                      │
+  │ US │ unlimited shots     │ амуниция                      │
+  │ UT │ unlimited time      │ время                         │
+  └────┴─────────────────────┴───────────────────────────────┘
+
+───────────────────────────┬────┬───────────────────────────────
+1942                       │ UL │ 47007,255
+3D Space Wars              │    │ 26244,0   26949,0
+3D Star Strike             │ UE │ 56733,0
+4D Terror Daktyl           │ UL │ 37629,0
+A Day in the Life of a...  │    │ 45525,183
+Abu Simbel                 │ UL │ 47684,0
+Acrojet                    │ UL │ 25148,10
+Action Reflex              │ UT │ 50770,0   50771,0   50772,0
+                           │    │ 50964,0   50965,0   50966,0
+Advanced Pinball Simulator │    │ 35237,0
+Agent X 2                  │ UE │ 57776,0   62499,0   50561,0
+Ah Diddums                 │ UL │ 24786,0
+Airwolf                    │ UL │ 45982,0
+Airwolf 2                  │ UL │ 57391,0   57392,0   57393,0
+Alchemist                  │ UE │ 47414,0
+Alien Attack               │    │ 63178,0   63152,0
+Alien Swarm                │ ML │ 24266,255
+Amazon Women               │ UL │ 57690,167
+Anarchy                    │ ML │ 42405,255
+Android                    │    │ 52249,24  52250,32  53897,0
+Antiriad                   │ UL │ 34270,0
+Aquaplane                  │ UL │ 25448,0   25449,195
+Aquarium                   │    │ 31055,0
+Arc Of Yesod (128)         │ UL │ 48261,205 48262,98  48263,192
+                           │    │ 48264,0
+Arcadia                    │ UL │ 25776,0
+Arctic Fox                 │ US │ 58309,0
+Arkanoid                   │ UL │ 33702,0
+Arkanoid 2                 │ UL │ 37586,0
+Army Moves                 │ UL │ 54597,0
+                           │    │ 53772,0
+Artura                     │ UE │ 32138,0
+Astro Blaster              │ UL │ 47422,0
+Astronaut                  │ UL │ 50808,201 48093,201
+Automania                  │ UL │ 64968,167
+Avalon                     │ UE │ 23782,2   23876,201 23878,204
+                           │    │ 23879,227
+Back To The Future         │    │ 54501,201
+Back To Skool              │    │ 29655,62
+Ball Crazy                 │ UL │ 28489,201
+Barbarian (Palace)         │    │ 51005,255
+Barbarian (Melbourne House)│    │ 37480,12
+Barbarian (Psygnosis)      │ UL │ 50914,0
+Basil                      │    │ 41296,0   41968,201
+Batman                     │ UL │ 36798,0
+Battle Race                │    │ 44641,0
+Batty                      │    │ 47633,0
+Bazooka Bill               │ UL │ 41931,0
+Black Hawk                 │ UL │ 34695,183
+Black Lamp                 │ UL │ 33606,127 34487,127
+Blade Alley                │    │ 58201,0
+Blind Alley                │    │ 25284,0
+Blue Thunder               │ ML │ 41006,255
+BMX Kidz                   │ UE │ 37392,0
+BMX Sim                    │ UT │ 49264,58
+Bobby Bearing              │ UT │ 28094,36
+Bobsleigh                  │ UT │ 43589,0   43549,0   43614,0
+Bomb Jack                  │ UL │ 49984,0
+Bomb Jack 2                │ UL │ 25379,0
+Bomberman                  │ UL │ 33248,0
+Booty                      │ UL │ 58294,4
+Bosconian                  │ UL │ 33356,60
+Boulder Dash 2             │ UL │ 31481,0
+Bounty Bob                 │ ML │ 50155,255
+Bounty Bob Strikes Back    │ UL │ 50955,0
+Brain Ache                 │ UL │ 28064,0
+Bravestarr                 │ UT │ 51803,24  51804,18
+Brick Breaker              │    │ 50624,0
+Brix                       │ UL │ 53712,0
+Bruce Lee                  │ UL │ 51795,0   51803,0
+Buggy Boy (128)            │ UT │ 37973,0
+Buggy Boy (48)             │ UT │ 39086,0
+Butch Hard Guy             │ UL │ 35392,0
+Cannonball                 │ UL │ 32957,0
+Car Wars                   │    │ 32337,0
+Catch 23                   │ US │ 46813,0   61635,0
+Cauldron 2                 │ UL │ 52974,0   52133,0
+Cavelon                    │    │ 24019,146 24080,184
+Cavern Fighter             │ UL │ 31683,0   31684,0
+Chronos                    │ UL │ 56906,167
+Chuckie Egg 2              │ UL │ 35453,0
+Cliff Hanger               │ ML │ 26515,100
+Cobra                      │ UL │ 36515,183 34925,183
+Code Name Mat              │ IL │ 24318,201
+Combat Lynx                │    │ 42525,0   42526,0   42527,0
+Combat School              │ UT │ 37088,0
+Commando                   │ UL │ 27652,0   27653,0   27654,0
+                           │    │ 27655,0   27656,0   27657,0
+Conquest                   │    │ 23225,201
+Cop Out                    │ IM │ 44929,0
+Cosmic War Toad            │ UL │ 35143,167
+Crazy Cars                 │ UT │ 29403,0
+Critical Mass              │ NE │ 57104,24  57108,249
+Crystal Castles            │ UL │ 63733,0
+Cybernoid 2                │ UL │ 36198,0
+Death Chase                │ UL │ 26463,0
+Death Or Glory             │ MP │ 37788,201 37912,201 38117,201
+                           │    │ 38189,201
+Death Racer                │ UL │ 27150,0
+Defender                   │    │ 30822,255 37815,255
+Demon's Revenge            │ UE │ 30699,17
+Digger Dan                 │    │ 25559,0   26363,0
+Doomesday Castle           │    │ 38902,201 29440,201
+Double Dragon              │ UL │ 37693,0   37815,0   37813,0
+                           │    │ 37794,0   37824,0   37818,0
+                           │    │ 37979,0
+Double Take                │ UL │ 40243,201 39475,201
+Dragon's Lair              │ UL │ 51867,0
+Droids                     │ UL │ 28127,175
+Druid                      │ UE │ 24890,201
+Duet                       │ UE │ 44114,0   46185,0
+Dukes Of Hazard            │    │ 44246,0
+Eidolon                    │ IM │ 41317,0   41318,0   36117,201
+                           │    │ 40232,78  41455,17
+Elevator Action            │ IM │ 42085,0
+Eliminator                 │ UL │ 39295,0
+Empire Strikes Back        │ US │ 43624,0
+Equinox                    │ UL │ 41917,52
+Eric And The Floaters      │ UL │ 33245,167
+Eskimo Eddie               │ UL │ 24686,24  24687,76
+Everyone's A Wally         │ UE │ 58215,182
+Executor                   │ UL │ 54017,0   53538,0
+Factory Breakout           │ ML │ 30439,100
+Fahrenheit 3000            │ UL │ 30818,0
+Fast Food                  │ UL │ 47844,167
+Fast'n'Furious             │    │ 60770,201 59526,58  59553,24
+                           │    │ 59554,75  59353,58
+Fairlight 2                │    │ 30429,0   32027,0   31341,0
+Fighting Warrior           │    │ 61212,16
+Finders Keepers            │ UL │ 34252,0
+Firebirds                  │    │ 27235,0
+Fist                       │ UT │ 44793,255
+Flunky                     │    │ 36320,183
+Footballer Of The Year     │    │ 50253,0
+Fort Apocalypse            │    │ 36939,0
+Foxx Strikes Back          │ UE │ 48071,0
+Frank'n'Stein              │ UL │ 34142,0
+Free Climb                 │ UL │ 48073,255
+Freez Bees                 │ UL │ 34610,0
+Frontline                  │ UL │ 62499,0
+Fruit Machine              │ UM │ 49386,0
+Full Throttle              │    │ 45161,0   48427,201
+Fury                       │ UM │ 24525,255 24526,254
+Future Knight              │    │ 31683,0
+Galvan                     │ UL │ 23290,0   23414,0
+Game Over 2                │ UL │ 54216,0   57606,0
+Garfield                   │    │ 33545,0
+Gee Bee Rally              │ UT │ 41402,0   41403,0   41404,0
+Ghost Hunters              │ UE │ 55510,0
+Ghostbusters               │ UL │ 40191,0   40192,167 40625,0
+                           │    │ 40845,0   42173,0
+Ghostly Grange             │ UL │ 40654,12
+Giant's Revenge            │    │ 24504,0
+Goonies                    │    │ 33400,183
+Gotcha                     │    │ 55926,0
+Gothic                     │    │ 43934,58  42110,58
+Great Escape               │    │ 41953,167
+Great Gurianos             │    │ 34962,0
+Greyfell                   │ UL │ 57318,0
+Ground Attack              │ UL │ 29063,0
+Gryzor                     │ UL │ 34919,0
+Gun Fighter                │ UM │ 58357,48  58358,118
+Gutz                       │ UL │ 38915,62
+Gyron                      │ UE │ 29552,201 29089,0
+H.E.R.O.                   │ UL │ 44322,182 44512,182
+Hack Hawk                  │    │ 34695,183
+Hades Nebula               │ UL │ 61998,0
+Hall Of Things             │ UE │ 32717,0
+Harrier Attack             │    │ 27048,201
+Havoc                      │    │ 25613,0   25614,0   25615,0
+He-Man                     │ MP │ 24576,0   24580,0   24581,0
+Heavy On The Magick        │    │ 33152,24
+Heist 2012                 │ UL │ 36106,12  36190,12
+Herbert's Dummy Run        │ ML │ 36739,255
+Highlander                 │ UE │ 55860,0
+Highway                    │ UT │ 37268,43
+Hive                       │ IM │ 34069,167
+Hopper Copper              │ UL │ 28961,0
+Hopping Mad                │ UL │ 41968,0
+Horace And The Spiders     │ UL │ 27680,167
+How To Be a Cool Boy       │ UE │ 65356,195 34582,62
+Howard The Duck            │ UL │ 57213,0
+Hydrofool                  │ IM │ 25883,0   25887,0   25891,0
+                           │    │ 25900,0   25906,0
+Hyperaction                │ UL │ 25099,0   25100,0
+Hysteria                   │    │ 44588,201
+Impact                     │ UL │ 54500,36
+Indiana Jones              │    │ 33948,0
+Inspector Gadget           │ UE │ 54933,0
+Intensity                  │ UL │ 49629,0   49714,0
+Jack And The Beanstalk     │ UL │ 56115,0   56116,0   56388,52
+                           │    │ 56389,27  56390,0
+Jack The Nipper            │ IM │ 44278,58  44285,0
+Jail Break                 │ UL │ 50651,0
+Jangler                    │ UL │ 29848,0
+Jet Bike Sim               │    │ 27156,201
+Jock And Time Rings        │ MP │ 57547,0   57548,0   56101,0
+Judge Dredd                │ UL │ 24936,24
+Jumping Jack               │    │ 30094,102
+Kai Temple                 │ UL │ 47783,0   47824,0
+Kat-Trap                   │ MP │ 31039,45
+Kick Boxing                │    │ 56741,0   55748,0
+Kikstart 2                 │ UL │ 47780,20
+Killer Ring                │ UL │ 33636,0
+Killing Strontium          │ UL │ 52156,0
+Kinetik                    │ UL │ 61998,0
+Knight Mare                │ UE │ 38686,16  38693,16
+Knuckle Busters            │ UL │ 35991,0
+Kong 2                     │    │ 42523,0   42524,0   42525,0
+                           │    │ 43100,0   43101,0   43102,0
+                           │    │ 44111,0   44112,0   44113,0
+Kosmic Kanga               │ UL │ 36212,0
+Kraheck                    │    │ 22538,54
+Krakout                    │ UL │ 46565,167
+Lap Of The Gods            │ MP │ 54421,0
+Laser Tag                  │    │ 43142,195
+Laser Wheel                │ UL │ 32849,0
+Last Ninja 2               │ UL │ 40777,0
+Lazy Jones                 │ UL │ 56693,0
+Legend Of Amazon Women     │    │ 57960,183
+Legend Of Kage             │ UL │ 37065,0
+Light Force                │ UL │ 40725,0
+Lil Alien                  │    │ 26627,0
+Living Daylights           │ UL │ 38913,201
+Locomotion                 │ UT │ 39112,195
+Lunar Jetman               │ UL │ 36965,0   23439,201
+Lunattack                  │ UL │ 23792,62  23793,255 23794,50
+                           │    │ 23795,119 23796,207 23797,205
+                           │    │ 23798,8   23799,207
+Mad Max                    │ UL │ 58475,0
+Mad Mix                    │ UL │ 40296,0
+Maglaxians                 │    │ 59354,7
+Magnetron                  │    │ 42671,235 42672,160
+Marble Madness             │    │ 59579,0
+Mario Bros                 │ UL │ 44079,0
+Martianoids                │ UL │ 46793,0
+Mask One                   │ IM │ 43747,62  43748,201 43749,50
+                           │    │ 43750,36  43751,134
+Max Headroom               │ UE │ 31391,0
+Mega Apocalypse            │ UL │ 23578,0
+Merlin                     │ UL │ 36562,0
+Metal Army                 │ UL │ 48518,0   42198,0
+Metaplex                   │ MP │ 39691,0   36778,0   39671,167
+                           │    │ 36536,201 48122,201
+Metrocross                 │ UT │ 43006,0   44490,0
+Mikie                      │ ML │ 46259,255
+Moley XMas                 │ UL │ 38302,0   38352,0
+Moon Buggy                 │ UL │ 26647,183
+Moon Strike                │ UL │ 52221,0
+Motorbike Madness          │ UL │ 33551,195
+Movie                      │    │ 64275,195
+Mugsy                      │ UL │ 43012,0   42906,0
+Muncher                    │ UL │ 30532,0
+Mutant Monty               │ UL │ 54933,0
+Mutants                    │ UL │ 29667,0
+N.O.M.A.D.                 │ UL │ 32620,0   32621,0   32622,0
+                           │    │ 32623,0
+Nemesis                    │ UE │ 51479,1
+Nether Earth               │    │ 51812,0   51813,0   51814,0
+                           │    │ 51815,0
+Nexor                      │ UL │ 36212,0
+Ninja Scooter Sim          │ UL │ 45128,0   45864,201
+Nodes Of Yesod             │ UL │ 32661,0
+Nuclear Countdown          │ UE │ 47788,0   47789,0
+Octan                      │ UL │ 58411,0   58412,0   58289,0
+Olly And Lissa             │    │ 34569,0   34570,0   34571,0
+                           │    │ 37610,24  34343,0   34344,0
+                           │    │ 34345,0
+Operation Wolf (48)        │ MP │ 40691,0   40710,0
+Operation Wolf (128)       │ MP │ 40722,0   40756,0
+Orbix                      │ UL │ 65529,0   32127,0   32188,0
+Orion                      │ UL │ 37319,201
+Out Run                    │ UT │ 40623,0
+Overkill                   │ UL │ 42968,0
+Panama Joe                 │    │ 38633,167
+Parabola                   │ UL │ 38303,0
+Park Patrol                │ UL │ 53949,0
+Phantom Club               │ UE │ 49803,237
+Phantom Soldier            │ IM │ 41401,201
+Pheenix                    │    │ 29375,0
+Pi-Balled                  │    │ 44416,5   46441,0   46457,0
+Pinball                    │    │ 31566,0
+Pinball Simulator          │    │ 35237,0
+Pinball Wizard             │ UL │ 51566,0
+Play For Your Life         │ UL │ 30066,0
+Plexar                     │ UL │ 47754,167
+Pogo                       │ UL │ 44259,0   44260,33
+Potty Pigeon               │ ML │ 25931,47
+Powerama                   │ UL │ 33791,0
+Pro BMX                    │ UT │ 31784,24  36231,201
+Pssst                      │ UL │ 24985,0   27250,1
+Psycho Soldier             │ UL │ 40123,0   40807,0
+Psyton                     │    │ 41100,1
+Pud Pud                    │ UL │ 49287,0
+Punchy                     │    │ 45632,0
+Pyracurse                  │ UE │ 33446,201
+Pyramid                    │ UE │ 44685,0
+R-Type                     │ UL │ 37374,0
+Raid Over Moscow           │ UL │ 46512,182 30414,182
+Raiders                    │ UL │ 25962,0
+Rampage                    │ UL │ 56692,0   56693,0   56694,0
+Reflex                     │    │ 58153,183
+Renegade                   │    │ 41048,185
+Ricochet                   │ UL │ 37385,0
+River Rescue               │ UL │ 33420,0   33452,0
+Road Racer                 │ UL │ 27150,0
+Road Wars                  │    │ 43059,183 43078,183
+Robin Of The Wood          │ UL │ 49911,0
+Rocky Horror Show          │ UT │ 48800,167
+Roll-Around                │ UL │ 30900,0
+Roller Coaster             │ UL │ 36594,50  36868,70  36869,0
+Romel's Revenge            │    │ 42976,0
+Rygar                      │    │ 51216,0   61577,0
+Sabotage                   │ UL │ 43396,255
+Sai Combat                 │ UL │ 63364,201 32421,201
+Sam Spade                  │    │ 25215,0   26381,0
+Samantha Fox               │    │ 23408,6   23392,255
+Samurai Warrior            │ UL │ 37866,183
+Savage                     │    │ 37299,99  35803,99  34398,99
+Sceptre Of Bagdad          │ UL │ 59858,0
+Schizoids                  │    │ 25102,0
+Scooby Doo                 │ UL │ 29614,0
+Scuba Dive                 │ UL │ 55845,0
+Sentinel                   │ UE │ 32458,62  32459,150 34106,150
+                           │    │ 37407,62  37408,150 37490,0
+Shadow Skimmer             │ UL │ 53872,0   53873,24
+Shao Lin's Road            │ UL │ 44843,0   44844,0
+Shockway Rider             │ UL │ 46219,167
+Sidewalk                   │ UT │ 52877,100
+Sidewize                   │ IM │ 52637,9   52647,9
+Sigma 7                    │ UL │ 34202,19  58524,19  58852,19
+Skyranger                  │ UL │ 31802,62
+Slap Fight                 │ UL │ 48873,0
+Snowman                    │    │ 63197,0
+Soft'n'Cuddly              │ UL │ 60344,0   60561,0
+Soul Of A Robot            │ ML │ 25812,255
+Space Harrier              │ UL │ 51755,194 51756,191
+Space Raiders              │ UL │ 25962,0
+Space Zombies              │    │ 29553,0
+Spectral Invaders          │ UL │ 25062,254
+Spectres                   │    │ 25690,183
+Spellbound                 │ MP │ 55066,0   55070,0   55071,0
+                           │    │ 55072,0   27871,0   36133,0
+Spindizzy                  │ UT │ 48401,201
+Spitfire 40                │    │ 29030,201
+Spitting Image             │    │ 54399,183
+Split Personalities        │ UL │ 54397,99  54398,2
+Spy Vs Spy (Island)        │ UL │ 59307,0   50980,0   50868,0
+Star Firebirds             │ UL │ 48879,0   48880,0   48881,0
+Star Fox                   │ UF │ 35876,0
+Star Pilot                 │ UL │ 44130,0   44393,0
+Star Raiders 2             │ UL │ 46214,195
+Star Runners               │ UT │ 49560,0
+Star Wars                  │ UD │ 45268,0
+Starbike                   │ UD │ 47548,33
+Starclash                  │    │ 25381,183
+Starfighter                │    │ 35714,167
+Starion                    │ UL │ 46601,181
+Stein                      │    │ 33723,0
+Stonkers                   │    │ 24576,0
+Stop The Express           │ UL │ 34464,183 34926,183 35257,0
+Strangeloop                │ UL │ 63159,0   63160,0   63161,0
+Streaker                   │ UL │ 50218,0
+Street Hassle              │ UL │ 36861,36
+Street Hawk                │ UE │ 39990,91
+Sub                        │ ML │ 25663,255
+Subterranean Nightmare     │    │ 43435,0
+Super Cycle                │ UT │ 43560,150
+Super Stunt Man            │ UT │ 27262,0
+Supertest (128)            │ UL │ 37298,167
+Sweevo's Whirled           │ UL │ 48153,0   48154,0
+Sweevo's World             │ UL │ 33219,0
+Tank Duel                  │ UL │ 51311,0
+Tantalus                   │ UE │ 42826,0
+Tapper                     │ UL │ 23618,0   23619,0   23620,0
+Tempest                    │ ML │ 33462,255
+Terminus                   │ UE │ 46970,201
+Three Weeks In Paradise    │ UL │ 50066,201
+Thrust                     │ UF │ 39219,0
+Thrust 2                   │ UL │ 34200,0
+Thunderblade               │ UL │ 41964,0   42018,0
+Thunderceptor              │ UL │ 54487,201
+Time Flies                 │ IM │ 35113,0
+Time Flight                │ UL │ 34699,127
+Top Gun                    │ UL │ 26460,0
+Transmuter                 │ UL │ 28878,0
+Tranz Am                   │ UL │ 25446,0
+Trashman 2                 │ UL │ 38656,142
+Travel With Trashman       │ UL │ 38656,142
+Tremor                     │ UL │ 52744,0
+Triaxos                    │ UE │ 42826,0
+Tribble Trubble            │ UT │ 31981,0   31984,24
+Tunnel                     │    │ 29711,0
+Tut Ankh Ammun             │ UL │ 27783,0
+Typhoon                    │ UL │ 40459,99
+UCM                        │    │ 27832,0   30884,24  34198,24
+                           │    │ 34293,24  34367,24  36195,24
+                           │    │ 36299,58  36519,62
+Voidrunner                 │ UL │ 39935,0
+Way Of The Exploding Fist  │    │ 44793,255
+West Bank                  │ UL │ 52573,167
+Wheelie                    │ UL │ 30037,201
+Where Time Stood Still     │ UE │ 54945,0
+Wild West Hero             │ ML │ 23821,30
+Wriggler                   │    │ 50173,0
+Xarax                      │ UL │ 41352,0
+Xen                        │ UL │ 34814,182
+Xeno                       │ UL │ 22225,1
+Xevious                    │ UL │ 53592,0
+Yabba Dabba Dooo           │ UL │ 43612,0
+Yogi Bear                  │ IM │ 33912,24
+Zarjas                     │    │ 30230,183 30256,183
+Zaxxon                     │ UL │ 50224,0   50245,0   50246,0
+                           │    │ 50247,0
+Zip Zap                    │ UL │ 54605,0
+Zorro                      │    │ 53729,0
+Zub                        │    │ 37473,201
+Zzoom                      │ UL │ 24743,0
+───────────────────────────┴────┴───────────────────────────────

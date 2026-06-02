@@ -1,0 +1,15 @@
+{
+  "magazine_id": 269,
+  "magazine_name": "ZX-News",
+  "city": null,
+  "country": null,
+  "issue_label": "47",
+  "issue_date_iso": "1999-04-02",
+  "order": 2,
+  "article_id": 3022,
+  "title_link": "Горячая линия - Где можно найти свежие номера газеты?",
+  "title_h1": "ZX-News 47 - Горячая линия - Где можно найти свежие номера газеты?",
+  "print_url": "https://zxpress.ru/print.php?id=3022",
+  "article_url": "https://zxpress.ru/article.php?id=3022",
+  "fetched_at": "2026-05-31T23:30:11Z"
+}

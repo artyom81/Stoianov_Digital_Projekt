@@ -1,0 +1,294 @@
+Adventurer 15 - News - actual news from: Research, Arhon, Gasman, Fatal Snipe, Skrju, ZX Time team, Newart, Elph.
+i wasn't born for you scene...  
+elfh/CyberPunks Unity           
+
+i wasn't born for you...
+elfh/cpu
+
+hello. what are the reasons to wri-
+te this text? don't even know. you
+are  looking here to get something
+new about scene projects, but i'll
+turn it  another way.
+
+after receiving a lot of letters
+with replies to my request of news
+for  this adventurer, i became a
+bit upset. no, no one wrote
+nothing sad, but  there were no
+scene news as it intended to be.
+everyone was caught by  life, the
+same for all, different for eve-
+ryone. and at the early  morning,
+when bright summer sun has risen
+at the sky, i just felt that
+right now, at that moment, everyo-
+ne of us lives and feels the same
+lust for life, forcing us to move
+forward, perceive the world, share
+discoveries and experiences with
+close friends. that is why we wish
+mikezt success in his exams, to
+slavka kalinin - never get into
+hospital; luck and good fortune to
+the whole spectre's family;
+ellvis,  of course, will find a
+good work; sq, kq, nq will write
+beautifull  books, set insane per-
+formances and meet live at party,
+at last; diver  will find his for-
+tune in family life, and all
+4d+tbk will spend a lot of  great
+summer days and nights at cyber-
+jack's residence; slip will repair
+speccy and publish his novels;
+ay-riders will have a lot of per-
+formances  and no borders would
+prevent them to do this together,
+live; and at  least all we will be
+happy with the release of this is-
+sue of adventurer.  that's right
+scene, i wasn't born for you. our
+life is infinitely deep  and diffe-
+rent periods of it are bringing a
+lot of new things, that  capture
+our attention, thus we have no
+strength to concentrate on  so-
+mething, important and needfull,
+but illusory and demanding a lot
+of  efforts to be released. that
+is why you not have to wait for
+this  chapter in future issues of
+adventurer. visit www.sce-
+nergy.natm.ru,  www.zx.da.ru,
+www.raww.org, www.ojuice.net,
+www.pouet.net to have  on-the-fly
+news, and we will continue our
+explorations in various not  time
+critical directions.
+
+but for now i have something to
+tell you about projects, that are
+ready  to splash out in the forese-
+eable future.
+
+back from the dead       
+research@volgasoft.org
+
+as i had already expected, an old
+teams, that were known a lot time
+ago,  are starting to reestablish
+their activity. this process will
+grow  slowly, but inevitable. and
+now research/volgasoft is repor-
+ting very  good news - he has re-
+commenced the work on famous
+game 'Land of  Dragons', for now -
+'In Utero'. work is not going
+fast, but 50% line is  already
+over. the main problem is absence
+of designer, because renko -  the
+former speccy grafician is profes-
+sionally working in 'Mill' studio,
+which is known for film 'Cuckoo'
+and 'Midget Nose' cartoon. so, he
+have  no free time, for the speccy
+activities. it is possible, to see
+demo  version of game at cc04. pa-
+rallel to that he reworked FLN uti-
+lities - a  set of tools to work
+with the sprites, of course it is
+used to make the  game creation ea-
+sier. i'll remind, that previous
+version of this packet  you could
+find in addition to adventurer11,
+for now it is possible to  use RLE
+compression on sprites and do the
+screen output almost without  per-
+formance loss. look some screen-
+shots (1, 2, 3) and do not forget
+to contact volgasoft, if you can
+help in production. also, research
+is planning to release a music
+disk, containing all released and
+unreleased works of volgasoft for
+AY, and may be a demo for CC04.
+
+hardworks
+Arhon <arholet@mail.ru>
+
+despite not so good state of affa-
+irs in GreenBitGroup - practi-
+cally, not one of the started pro-
+jects is not completed and there
+is only little hope to see it rele-
+ased, a hardware man - arc, amazed
+everyone with his new develop-
+ments.
+
+arhon> he has elaborated and relea-
+sed in hardware a Slot-1 construc-
+tion.  it consists of 3 boards,
+including:
+AY+SoundDrive/NemoHDD/Kempston
+mouse  ps/2 + Kempston joystick +
+Cmos. those boards assembled,
+using slot  technology. it is con-
+nected to transfer-slot, which is
+put into  processor socket on
+motherboard. that leads to compa-
+tibility with almost  all speccy
+clones. the author has full docu-
+mentation to produce this  device.
+everything is accurate and harmo-
+nious.
+
+so, write to the author, i have
+all the more hope to rejoice you
+with  new hardware discoveries in
+nearest future.
+
+riding the envelopes 
+Matthew Westcott
+<gasman@raww.org>
+
+i think, you understand, that
+ay-riders are not planning to stop
+on one  successfull performance.
+according to yerz and gasman, the
+next concert  is planned to be in
+Zurich, but there are no specific
+dates still.  gasman himself conti-
+nues his experiments on field of
+new sounding of AY  chip, using on-
+ly programming techniques. sour-
+ces and documentation of  his 6
+channel player and editor used in
+'apology' intro could be found  at
+http://www.west.co.tt/matt/spec
+cy/apology/. further developments
+of  this idea we will hear at as-
+sembly04, where he will be presen-
+ted at  oldschool music compo, and
+maybe at cc04, where he is also
+planning to  be. unfortunately,
+h-prg is not doing a demo for asm
+this year, but  someone will pre-
+sent speccy there at oldschool de-
+mocompo. music disk  with general
+sound modules is also sheduled
+this year.
+
+trust in chip           
+Denis <snipe@tut.by>
+
+as fatal snipe/fenomen said to me
+practically, he is the only one,
+who  is doing something on speccy.
+long time ago announced demo pro-
+ject  'Oxygene' was given up, beca-
+use all coders are being busy in
+commercial  game making. but snipe
+himself is continuing to create,
+using available  technologies of
+sound processing. his album 'Suxi-
+nesex'n'sience' being  composed on
+AY and then carried to completion
+on pc. release is planned  at
+cc04, where fatal snipe is coming
+alone, probably bringing a pc demo
+by fenomen.
+
+updating your vision     
+sq76 <sq76@yandex.ru>
+
+i will not write any concrete in-
+formation about skrju - what facts
+and  words could be said after
+their last work - 'Idiot'? answe-
+ring my  question 'what plans do
+you have, concerning speccy?', sq
+answered 'love  people and do
+demos'. that is all, i can finish
+here, but in refutation  of ru-
+mours, hovering in the scene,
+about total submersion of skrju in
+[v]arga, i assure you - this is
+not true. kq, sq and nq are spend
+their  time, perceiving the world
+through music, literature and
+love.
+
+rise from the slumber      
+6y/'deaz(TH)er
+zxtime@torba.com
+
+long-suffering AWAKEN (huge 3D
+more_than_elite game with filled
+graphics) sources, consisting of 6
+disks of assembler texts in vari-
+ous  formats, can't rest in peace.
+it is known, that 4-5 groups held
+it in  their hands, but no one ne-
+ver spoke about any developments
+in this  direction. and now, after
+a few years it turns out, that Kar-
+lo Computers  Software + Sty Deth
+Crew had also touched the unknown,
+and they have the  courage to con-
+tinue work on this project. i
+don't know more, but hope,  that
+nearest issue of zx-time will save
+us from the burden of ignorance.
+anyway, we wish them successful
+completion of this project.
+
+walking in the mist       
+Slava Kalinin <newart@hotbox.ru>
+
+dizzy has experienced a lot of ad-
+ventures in his time. fate presen-
+ting  him another one - work on
+the sequel of this game, started
+by the team,  who created 'fire
+and ice', have gone into dead end.
+for some resaons  (it seems to be
+internal discrepancy) graphician
+Kirill Kagan stopped  his work on
+the project. but this doesn't
+stops newart, who nevertheless
+founds a man, able to continue
+work at a desired level. but, nea-
+rest  dizzy's reincarnation on
+speccy remains in a fog. more
+exactly i can say  about upcoming
+release of 'fire and ice' final
+version. there would be  corrected
+bugs, extra levels and final cut.
+the happy moment of speccy  scene
+music site realisation is also co-
+ming closer and closer.
+
+strike me down again          
+elphecy@softhome.net
+
+i have reasons to assume, that sud-
+den directional leap in development
+of speccy demoscene, seen at
+cafe03, will initiate appearance of
+more interesting works this year.
+for now, i know that placebo, 4th di-
+mension+triebkraft, skrju, cpu, in-
+ward and volgasoft will try to do
+their chaos constructions works in
+time. that is why, if everything will
+go as it should be, democompo pro-
+mises to be very solid. more to say,
+analysing splash of gamemaker's ac-
+tivities, we can wait a lot of game
+compo entries. i have very optimis-
+tic thoughts about forthcoming
+party. we'll be there. there will be a
+lot of us. come.
+
+30.07.04

@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 15437,
+    "article_url": "https://zxpress.ru/article.php?id=15437",
+    "print_url": "https://zxpress.ru/print.php?id=15437",
+    "title_link": "Обман дня - Сегодня 10.09 звонил Layer...",
+    "order": 1,
+    "issue_label": "05",
+    "short_slug": "Обман_дня_-_Сегодня_1009_звонил_Layer"
+  },
+  {
+    "article_id": 15438,
+    "article_url": "https://zxpress.ru/article.php?id=15438",
+    "print_url": "https://zxpress.ru/print.php?id=15438",
+    "title_link": "Ремонты/поломки - Вчера было анонсировано о сегодняшнем возврате в Net Оборотня.",
+    "order": 2,
+    "issue_label": "05",
+    "short_slug": "Ремонтыполомки_-_Вчера_было_анонсировано_о_сегодняшнем_возвр"
+  },
+  {
+    "article_id": 15439,
+    "article_url": "https://zxpress.ru/article.php?id=15439",
+    "print_url": "https://zxpress.ru/print.php?id=15439",
+    "title_link": "Новость дня - Несколько минут назад закончился телефонный разговор с VfNG.",
+    "order": 3,
+    "issue_label": "05",
+    "short_slug": "Новость_дня_-_Несколько_минут_назад_закончился_телефонныи_ра"
+  },
+  {
+    "article_id": 15440,
+    "article_url": "https://zxpress.ru/article.php?id=15440",
+    "print_url": "https://zxpress.ru/print.php?id=15440",
+    "title_link": "Новости - В прошлом номере допущена погрешность в отношении газеты Paradox.",
+    "order": 4,
+    "issue_label": "05",
+    "short_slug": "Новости_-_В_прошлом_номере_допущена_погрешность_в_отношении"
+  },
+  {
+    "article_id": 15441,
+    "article_url": "https://zxpress.ru/article.php?id=15441",
+    "print_url": "https://zxpress.ru/print.php?id=15441",
+    "title_link": "Разное - Zx-Net. Объявления.",
+    "order": 5,
+    "issue_label": "05",
+    "short_slug": "Разное_-_Zx-Net_Объявления"
+  }
+]

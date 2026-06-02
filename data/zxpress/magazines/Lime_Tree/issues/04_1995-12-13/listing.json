@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 99,
+    "article_url": "https://zxpress.ru/article.php?id=99",
+    "print_url": "https://zxpress.ru/print.php?id=99",
+    "title_link": "BBS NEWS - Список действующих серверов.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "BBS_NEWS_-_Список_деиствующих_серверов"
+  },
+  {
+    "article_id": 8759,
+    "article_url": "https://zxpress.ru/article.php?id=8759",
+    "print_url": "https://zxpress.ru/print.php?id=8759",
+    "title_link": "Wante - поиск спектрумоских игр и программ.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Wante_-_поиск_спектрумоских_игр_и_программ"
+  },
+  {
+    "article_id": 8760,
+    "article_url": "https://zxpress.ru/article.php?id=8760",
+    "print_url": "https://zxpress.ru/print.php?id=8760",
+    "title_link": "Лит.Страничка - Трагедия \"Король Бардик Пятый\".",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "ЛитСтраничка_-_Трагедия_Король_Бардик_Пятыи"
+  }
+]

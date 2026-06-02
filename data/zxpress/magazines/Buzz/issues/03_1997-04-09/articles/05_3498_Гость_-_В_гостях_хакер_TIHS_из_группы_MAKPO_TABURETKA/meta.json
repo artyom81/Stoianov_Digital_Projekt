@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "03",
+  "issue_date_iso": "1997-04-09",
+  "order": 5,
+  "article_id": 3498,
+  "title_link": "Гость - В гостях хакер TIHS из группы \"MAKPO TABURETKA\".",
+  "title_h1": "Buzz 03 - Гость - В гостях хакер TIHS из группы \"MAKPO TABURETKA\".",
+  "print_url": "https://zxpress.ru/print.php?id=3498",
+  "article_url": "https://zxpress.ru/article.php?id=3498",
+  "fetched_at": "2026-05-31T21:47:19Z"
+}

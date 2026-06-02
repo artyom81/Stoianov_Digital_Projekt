@@ -1,0 +1,559 @@
+RUSH 01 - AMIGA NEWS -  События 1998 года (обзор событий).
+Материал  подготовлен на основе данных
+с русскоязычного амига-сайта:
+
+http://amigaworld.cch.pmc.ru
+
+    Благодарим  его  создателей и искренне
+надеемся  на  сотрудничество и налаживание
+контактов...
+
+    В  этом номере собран обзор событий за
+начало    и   середину   1998   года.   По
+техническим    причинам    продолжение   -
+обозрение за конец 1998, и первую половину
+1999  года, будет опубликовано в следующем
+номере.   Подробное   освещение   наиболее
+важных  событий  платформы  Amiga мы будем
+публиковать постоянно, из номера в номер.
+
+                  Январь
+
+    Начало 1998 года. Года, который принес
+AMIGA   платформе   немало   положительных
+изменений,  вселил в сердца ее поклонников
+уверенность,  в  том,  что AMIGA продолжит
+свое разитие с новой энергией.
+
+14.01
+    Компания  Lotus  Pacific  заявила, что
+планирует  произвести  и продать в Китае в
+1998  году  300 000 машин Wonder TW A6000,
+представляющих собой set-top box на основе
+AMIGA,  со  встроенным  MPEG  декодером  и
+прочими дополнениями.
+
+22.01
+     Компания Paxtron анонсировала Access-
+новый клон A1200, для применения в мульти-
+медийных киосках.
+
+28.01
+    Компания  Vulcan  Software  обьявила о
+кооперации   с   ATO   (Amiga  Translators
+Organisation  -  организацией занимающейся
+переводом   информации   в  программах  на
+различные   языки).   Это   означает,  что
+будущие  релизы  Vulcan будут и на русском
+языке.
+
+games:
+
+-Sword - игра в стиле jump & run
+-Amiga Quake от Klick Boom
+-Doom под PPC
+
+systems:
+
+-Picture Manager Professional
+-ImageFx v.3.0 от Nova Design
+-StFax v 3.0
+-Mik Mod - трекер для проигрывания мелодий
+ формата MOD, STM, S3M, MTM, XM и др.
+-PGP 5.0
+
+                 Февраль
+
+04.02
+    Появилась   информация   и  конкретные
+данные  о  компьютере  BoXeR - новом клоне
+Амиги.
+
+05.02
+    Persuasive  Softwarx создает datatypes
+для JPEG и PNG под процессоры PPC.
+
+06.02
+    Phase     5     начала    производство
+двухпроцессорных   акселераторов  Blizzard
+603e/ 603e+ для A1200.
+
+20.02
+    Обьявили,  что  BoXeR будет иметь слот
+для    процессора    PowerPC,   в   рамках
+сотрудничества с Phase 5.
+
+games:
+
+-Star Fighter от Geosync Media, демоверсия
+-Gilbert Goodmate от Alive Mediasoft,  де-
+ моверсия. Квест.
+-Blitz Bombers
+-Zha Doom для PPC
+-Counter Strike (разрабатывается). В стиле
+ "Command & Concueror"
+-Amiga Descent альфа-версия
+-Orion Wars (обьявлено о разработке). В 
+ стиле "Elite", "Wing Commander"
+-Forgotten Forever (создается)
+-Max Rally (разрабатывается)
+-Myst v1.1 от Click Boom
+
+systems:
+
+-Isis PPC v2.1 - Mpeg player
+-UAE - эмулятор классических Amiga для
+ эмуляции на быстрых машинах
+-Monsoon - программа для чтения почты 
+ USENET и Fido Net
+-X-DVE & Font Mashine
+-Miami v3.0
+
+                   Март
+
+10.03
+    Phase  5 получила лицензию на Amiga OS
+3.1.  Это означает, что она имеет право не
+только производить железо для Amiga машин,
+но   и   включать   в   комплект  поставки
+операционную систему.
+
+20.03
+    Hurricane    Software   обьявляет,   о
+поддержке   во   всех  своих  новых  играх
+процессора PowerPC.
+
+games:
+
+-Caveman Species (разрабатывается).
+ Стратегия
+-Moon Bases (разрабатывается). В стиле
+ "Dune II"
+-Great Nations (разрабатывается). В стиле
+ "Civilisation"
+-Phoenix (разрабатывается). Имитатор
+ полета + адвентюра
+-Engine-X
+-Wasted Dreams (разрабатывается). От фирмы
+ Vulkan. В стиле "Diablo"
+-Claws of the Devil (разрабатывается).
+ В стиле "Tomb Rider"
+-Wingnuts
+-Bermuda (разрабатывается). Квест
+-Acsys (разрабатывается).
+-Shadow of the Third Moon 2
+
+systems:
+
+-MasterSO v2.0 - пакет для работы с CD-R
+-Photogenic NG
+-Reflections - пакет для анимации
+-Tornado 3D v1.5
+-MPD Mail post v2b - для работы с эл.
+ почтой
+-Word Worth 7 - текстовый процессор
+-IBrowse 1.2 - web-браузер
+-Fusion v3.1 - эмулятор MAC'а
+-Vojager v2.95 - браузер
+-MySNES - эмулятор Super Nintendo
+-AWeb v3.1
+
+                  Апрель
+
+06.04
+    Появились  сетевые  карточки Amiga net
+Z-II , Z-III и Amiga net PCMCIA.
+
+24.04
+    Вышли  аудиокарты  для  A1200 - Melody
+1200 Pro / 1200 Plus.
+
+games:
+
+-The Boom Room - футбол
+-Testament 2 - думовудная
+-Marian Tales
+-Olofight (разрабатывается)
+-StarFighter (демоверсия)
+-Phoenix
+-Napalm: The Crimson Crisis 
+ (разрабатывается). Реалтайм стратегия
+ от Click Boom
+-Moon Bases - стратегия
+-Virtual Carting 2 (разрабатывается)
+-Wingnuts
+-Marblelous 2
+-Final Step (разрабатывается). Адвентюра
+
+systems:
+
+-Elastic Dreams от Motion Studios
+-CYCAS - пакет для 2D, 3D графики
+-GUI extension v1.70
+-Amplifier - аудио MPEG плеер
+
+
+                   Май
+
+16.05
+     Прошла выставка World of Amiga в Лон-
+доне.
+
+20.05
+    Компания  Access Innovation обьявила о
+том,  что  в своей дальнейшей деятельнсти,
+приоритетным   она  считает  использование
+процессоров  PowerPC. Также было обьявлено
+о  кооперации  и сотрудничестве в развитии
+Amiga  платформы  между  фирмами  Phase 5,
+Haage Partner и Access Innovation.
+
+games:
+
+-Sambo World Cup - спорт
+-Virtual Carting II
+-Genetic Species
+-Enforce (демоверсия)
+-Foundation - в стиле "Settlers"
+-Golem - адвентюра
+-Amiga Descent v 0.43
+-Z - реалтайм стратегия от Bitmap Brothers
+-Fortress of Fear - в стиле "Diablo"
+
+systems:
+
+-Barfly 2.0 - ассемблер под PPC
+-Shapeshifter v3.9 - эмулятор MAC'а
+-Air Mail Pro 3.0
+-Samplitude Opus v3.5L7 - программа для
+ обработки звука
+-Frodo PPC v4.1 - эмулятор Commodore-64
+
+demos для PPC:
+
+-VA_EDies PPC
+-VA_Ghost PPC
+-Mega 4 PPC
+
+
+                   Июнь
+
+    Phase  5 обьявила, что больше не будут
+выпускаться  акселераторы  Blizzard  PPC с
+частотой    процессора   ниже   240   Мгц,
+CyberStorm PPC с частотой ниже 233 Мгц.
+
+    Ожидается    выход   акселератора   на
+процессоре G3 (750) с кэшем второго уровня
+и   с  возможностью  программной  эмуляции
+процессоров   серии   68К  быстрее  самого
+быстрого MC68060.
+
+    Готовится  выход  видеокарт  от  Phase
+5CyberVision  PPC  и  BVision PPC, которые
+будут    подключаться    к   акселераторам
+CyberStorm     PPC    и    Blizzard    PPC
+соответственно.   Для  них  пишутся  новые
+библиотеки поддержки - Rave 3d.library
+
+    Access    Innovation    приступила   к
+разработке   чипсета  AA+.  Данный  чипсет
+будет  обеспечивать полную совместимость с
+AGA,   скорость   работы  с  CHIP  памятью
+увеличится   в   20   раз,  соответственно
+увеличится  и  скорость  Blitter'а. Чипсет
+будет  совмесыим с CPU 68020/30/40/60/PPC.
+Память  Simm/Dimm.  Шина  PCI. Графическое
+разрешение  до  1024  Х  768  Х 16 бит, 16
+битный   звук,  поддержка  HD,  FDD,  EIDE
+Ultra-DMA и шины USB.
+
+    Разрабатывается     аудиокарта     для
+A1200Delfina 1200.
+
+games:
+
+-Net War - сетевая игра ( до 8'ми человек)
+-Trauma Zero - в духе "Super StarDust"
+-Space Station 3000
+-Scoolboy Sixes 3.1 - спорт
+-AMR Voxel - гонки под PPC
+-War Blood 2 (разрабатывается). Стратегия
+-Savage (разрабатывается). В стиле "Ufo"
+
+systems:
+
+-Linux для Amiga PPC
+-Easy Writer - текстовый процессор
+-Amiga AMP v2.0 - MP3 плеер для
+ процессоров M68K и PPC
+-Video FX
+-MUI base
+-PPaint 8 (разрабатывается). Ожидаются
+ координальные переработки
+-Master Gear 1.3 PPC - эмулятор Sega
+
+
+                  Июль
+
+08.07
+    Вышли  видеокарты  CyberVision  PPC  с
+8-мью      мб      видеопамяти      SGRAM.
+Устанавливаются     на    высокоскоростную
+локальную   шину  акселератора  Cyberstorm
+PPC.
+
+09.07
+    Вышла    версия   1.3.2   операционной
+системы NetBSD.
+
+14.07
+    Новые версии библиотек 68060.library и
+PPC.library.
+
+19.07
+    Выпущена PCMCIA Ethernet карта NIMIQ.
+
+    Выпущена Ariadne II - сетевая Ethernet
+карта для шины Zorro II.
+
+games:
+
+-Ultra Violent Worlds
+-Blade - RPG
+-In Shadow of Time (демоверсия)
+-The Dark Zone (разрабатывается).
+ RPG/Action
+-Imperator (демоверсия) - стратегия
+-Putty Squad - platforms
+
+systems:
+
+-AWeb v3.2
+-STFax Professional
+-PCx PPC (разрабатывается) - эмулятор
+ Pentium MMX
+
+
+                  Август
+
+05.08
+    Опубликовали  подробности  о  Amiga OS
+5.0.  Будет содержать абсолютно новое ядро
+и   новые  API.  Ядро  написан  на  C++  с
+подсистемами   независимых   Java-классов.
+Философия и внутренние принципы построения
+Amiga  OS  будут  сохранены.  В  API будут
+включены  как  новые, так и индустриальные
+стандарты, например, Open GL.
+
+10.08
+    Завершилось   Demo   Compo,   ежегодно
+проводимое   в  Финляндии  -  Assembly'98.
+Первое место на Амиге заняло demo "Relic",
+группы  Nerve  Axis, набравшая 2757 очков,
+что  оказалось  лучшим  результатом  среди
+всех платформ.
+
+27.08
+    Официально  опровергли  появившуюся  в
+разных  источниках  информацию  о том, что
+компьютеры  Amiga  нового  поколения будут
+основываться на процессорах фирмы Intel.
+
+    Digital  Images  заявила  о  намерении
+портировать  на Амигу две игры - "Wide Out
+2097" и "Tomb Rider 3".
+
+games:
+
+-Day Dreaming (разрабатывается) - квест
+-3D Racing (демоверсия) - под M68K, PPC
+-Tales of Tamar (разрабатывается)
+-Exor - The Extreme Ordeal
+ (разрабатывается) - в стиле "Master of
+ Orion"
+-Gord (разрабатывается) - адвентюра
+-Virtual Ball Fighter (разрабатывается)
+-Gun Bee F99 (демоверсия)
+-Fubar (разрабатывается) - реалтайм
+ стратегия
+-Napalm: The Criмson Crisis (демоверсия)
+-Trauma Zero
+-Expansion
+
+systems:
+
+-Sound FX 3.70
+-Net connect v2
+-Isis PPC 2.11 - плеер MPEG video/audio
+-Video FX 2.0
+-Make CD 3.2a
+-Image FX 3.2
+-Amiga Writer
+-Storm C DSK
+-News Rog v1.1
+
+
+                 Сентябрь
+
+09.09
+    20-ти   битные  аудиокарты  для  A1200
+Melody  1200, 1200 Pro поступили в продажу
+по  цене  309  DM  ($170),  430  DM ($238)
+соответственно.
+
+    Стало   известно,  что  идет  активная
+работа  над  Amiga  OS  3.5.  Одна  группа
+программистов  работает  над  версией PPC,
+другая - MC680x0.
+
+demos под PPC:
+
+-The Field Where I Died
+-Absolon - от Venus Arts
+
+games:
+
+-Descent PPC
+-Wasted Dreams (demo)
+-Whales Voyage 2 (разрабатывается)
+
+systems:
+
+-Strl CQ v0.722
+-IDE fix97 v2.10
+-Gold ED Studio 5
+-Amiga AWT
+-MonZoom3D
+-VRML editor
+-Body Guard (разрабатывается) - система
+ защиты памяти для Amiga OS
+-Moo Vld - плеер AVI файлов
+-Ripley - MPEG плеер с поддержкой разных
+ форматов, M68K, PPC, граф. карты
+-Mesa GL v3.0
+-Regina - новая версия интерпритатора REXX
+-Samplitude Opus v3.5L9
+-ScalOS v1.1
+
+
+                  Октябрь
+
+    Разработчиком   Amiga   OS   -  Карлом
+Сэрэнсеном    выпущен   Rebol   -   мощный
+платформонезависимый язык
+
+04.10
+    Bill McEwen из Amiga Inc, обьявил, что
+Amiga  OS  3.5  будет  выпущена  в  первом
+квартале  1999г.  В ней будет реализованна
+поддержка  PPC, Warp OS, PowerUP, эмулятор
+М68К  для  PPC.  Будет  включать поддержку
+RTG,  RTA,  Internet средства, CDFS, новый
+пользовательский  интерфейс.  Операционная
+система будет распостраняться на CD.
+
+12.10
+    Фирма    Micronik    выпустила   новый
+тауэркит для апгрейда Amiga A1200 в A1200T
+Infinitiv  MK-II. Стоимость набора включая
+металлический корпус футуристического вида
+и адаптер PS/2 клавиатуры - 289 DM
+
+    Ожидается  выход  kickflash  -  замена
+существующих  ROM на FLASH память, - можно
+будет зашивать любой kickstart.
+
+26.10
+    Готовится к выходу аудиокарта Atlantis
+(18/20 битный аудиокодек, 96кб статической
+памяти,  встроенный DSP процессор Motorola
+DSP56002,  работающий  на частоте 80 Mhz -
+для   создания   эффектов  и  проигрывания
+аудиофайлов формата MPEG-2, MPEG-3.
+
+29.10
+    Фирма   Quik   Pak   будет  налаживать
+производство  A4000T  в  Европе.  Они  уже
+выпускают их в США.
+
+30.10
+    ACT    Electronics   начала   серийное
+производство  аудиокарты  Prelude 1200 для
+Amiga 1200.
+
+games:
+
+-The Hole Trinity  (разрабатывается) - RPG
+-Fubar (демоверсия)
+-Max Rally
+-Creepz (разрабатывается)
+
+systems:
+
+-RayStorm v2.2
+-WildFire v7
+-Ray Lab
+-Digital Universe v1.03
+-Octamed Soundstudio v2 beta 016
+-Light View v1.0
+-PasTeX - текстовый процессор
+-VRML Viewer
+-Page Stream v3.4b1
+-MAVI
+-RA v2.0 - декодер формата Real Audio
+-Worse Format
+-X-DVE v3.50 PPC - пакет для создания
+ видеоприложений
+
+demo:
+
+-TFWID -под PPC, от группы Venus Arts
+
+
+                     Ноябрь
+
+4.11
+    Готовится    выход   двухпроцессорного
+акселератора  для  Amiga 3000/4000 на базе
+процессора  G3.  Прямое  обращение  к шине
+Zorro III. Применяемая OS - Warp OS. Автор
+компания  Escena, производитель - немецкая
+фирма  DCE.  Может устанавливаться до двух
+процессоров  G3  233-400  MHz.  Програмная
+эмуляция  M68K. Ожидаемая цена - около 750
+DM.
+
+6.11
+    Blittersoft     обьявили     некоторые
+характеристики     разрабатываемого    ими
+компьютера  Boxer  - полностью 64-х битная
+архитектура,    двойной   IDE   контролер,
+повышение  производительности Chip  памяти
+и т.д.
+
+    Фирма  ACT выпустиля новый акселератор
+для A1200 - Apollo 1230 MK III.
+
+    Немецкая компания Villagetronik начала
+разработку   3Dfx-модуля  на  основе  чипа
+Voodoo 2 / 8 Мб для видеокарты Picasso IV.
+Цена   около  249  DM.  Она  же  выпустила
+сетевую  карту  для Ammy с Zorro II, Zorro
+III - Ariadne II.
+
+systems:
+
+-Pov Ray v3.1
+-Amuga AMP v2.2
+-Dopus Magellan II
+-RayStorm v2.22
+-BlizzKick v1.16
+-Web Design v2.0
+-PFS 2 v4.2 - файловая система
+-Master ISO v2.2
+-Envoy v3
+-P96Speed v1.0
+-Amiga Writer v1.2
+-Miami v3.2b

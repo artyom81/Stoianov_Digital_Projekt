@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1999-04-10",
+  "order": 4,
+  "article_id": 10369,
+  "title_link": "Бук - Похождения Штирлица и другие приключения Бормана.",
+  "title_h1": "City 10 - Бук - Похождения Штирлица и другие приключения Бормана.",
+  "print_url": "https://zxpress.ru/print.php?id=10369",
+  "article_url": "https://zxpress.ru/article.php?id=10369",
+  "fetched_at": "2026-05-31T21:50:19Z"
+}

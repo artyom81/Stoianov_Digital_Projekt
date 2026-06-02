@@ -1,0 +1,185 @@
+Buzz 13 - Ассемблер - Процедуры : Stretch texture engine, Texture mapping engine,    Texture mapping + gourauds hading engine, Gouraudmapping engine for Z80.
+▓▓░ ▓▓▓▓▓▓▓▓▓▓▓▓▓ ░▓▓
+                   ▓▓▓▓░ ▓▓░         ░▓▓ ░▓▓
+                  ▓▓░ ▓▓░ ▓▓▓▓▓▓▓▓▓ ░▓▓ ░▓▓▓▓
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▓▓░   ▓▓░     ░▓▓ ░▓▓ ░▓▓ ░▓▓ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▓▓▓▓▓▓░ ▓▓░   ░▓▓ ░▓▓▓▓▓▓   ░▓▓ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀           ▓▓░ ░▓▓ ░▓▓ ░▓▓     ░▓▓ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+              ▓▓░         ▓▓░▓▓ ░▓▓   ░▓▓     ░▓▓
+             ▓▓░  RULEZ!   ▓▓▓ ░▓▓     ░▓▓     ░▓▓
+
+   Мы продолжаем печатать ultra faaaaast алгоритмы by  Exploder/
+MegaCode/Extreme.
+
+ +------------------------------------------------------------+
+ |           - Stretch texture engine for Z80 CPU -           |
+ |             - last n'joyment date: 11-JUL-97 -             |
+ +------------------------------------------------------------+
+
+And now...
+Ultra faaaaast stretch texture algorythm 
+
+ver_1:
+        POP     HL              ; Read XY shifts 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      A,(HL)          ; Read texel from texture
+        LD      (DE),A          ; Write texel to chunky buffer
+        INC     E               ;
+
+About 39 takts of CPU power
+
+Really needed:
+        SP = Pointer to shifts-tab
+        BC = YX-increase
+        DE = Pointer to destination chunky buffer
+
+ver_2:
+        LD      HL,#0000        ; XY shifts data 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      D,(HL)          ; Read texel from texture
+        LD      HL,#0000        ; XY shifts data 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      E,(HL)          ; Read texel from texture
+        PUSH    DE              ; Write 2texels to chunky buffer
+
+About 67 takts of CPU power
+
+Really needed:
+        BC = YX-increase
+        SP = Pointer to destination chunky buffer
+
+ver_3: with light map mix
+        POP     HL              ; Read XY shifts 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      L,(HL)          ; Read texel from texture
+        LD      H,(IX+#00)      ; Read light tab pointer
+        LD      (DE),A          ; Write texel to chunky buffer
+        INC     E               ;
+
+About 58 takts of CPU power
+
+Really needed:
+        SP = Pointer to shifts-tab
+        BC = YX-increase
+        DE = Pointer to destination chunky buffer
+        IX = Pointer to light tab
+
+ver_4: with light map mix
+        LD      HL,#0000        ; XY shifts data 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      L,(HL)          ; Read texel from texture
+        LD      H,#00           ; Light pointer data
+        LD      D,(HL)          ; Read mixed texel
+        LD      HL,#0000        ; XY shifts data 
+        ADD     HL,BC           ; Increase YX pos in texture
+        LD      L,(HL)          ; Read texel from texture
+        LD      H,#00           ; Light pointer data
+        LD      E,(HL)          ; Read mixed texel
+        PUSH    DE              ; Write 2texels to chunky buffer
+
+About 93 takts of CPU power
+
+Really needed:
+        BC = YX-increase
+        SP = Pointer to destination chunky buffer
+
+   Is the fastest stretch texture code for Z80. Nothing else.
+
+ +------------------------------------------------------------+
+ |            - Texturemapping engine for Z80 CPU  -          |
+ |              - last n'joyment date: 25-NOV-97 -            |
+ +------------------------------------------------------------+
+
+And now...
+Ultra faaaaast texturemapped algorythm 
+
+        LD      A,H             ;
+        ADD     HL,BC           ; Increase Y-pos in texture
+        EXX                     ;
+        LD      D,A             ; Set Y-pos
+        LD      E,H             ; Set X-pos
+        LD      A,(DE)          ; Get texel from texture
+        ADD     HL,BC           ; Increase X-pos in texture
+        EXX                     ;
+        LD      (DE),A          ; Write texel to chunky buffer
+        INC     E               ; 
+
+About 60 takts of CPU power
+
+Really needed:
+        HL = Y-position on texture
+        BC = Y-increase
+        DE = Pointer to destination chunky buffer
+        HL'= X-position on texture
+        BC'= X-increase
+
+
+   Is the fastest texturemapping code for Z80. Nothing else.
+
+ +------------------------------------------------------------+
+ |   - Texturemapping + gouraudshading engine for Z80 CPU -   |
+ |             - last n'joyment date: 06-DEC-97 -             |
+ +------------------------------------------------------------+
+
+And now...
+Ultra faaaaast tmap+gouraudshading algorythm 
+
+        LD      A,H             ;
+        ADD     HL,BC           ; Increase Y-pos in texture
+        EXX                     ;
+        LD      D,A             ; Set Y-pos
+        LD      E,H             ; Set X-pos
+        LD      A,(DE)          ; Get texel from texture
+        LD      HL,BC           ; Increase X-pos in texture
+        LD      E,A             ;
+        LD      D,(IX+#00)      ; Get shading pointer
+        LD      A,(DE)          ; Get shaded texel
+        EXX                     ;
+        ADD     IX,DE           ; Increase shading-table pointer
+        LD      (IY+#00),A      ; Write shaded texel to buffer
+
+About 113 takts of CPU power
+
+Really needed:
+        HL = Y-position on texture
+        BC = Y-increase
+        IX = Pointer to shading-table
+        DE = Shading-increase
+        HL'= X-position on texture
+        BC'= X-increase
+        IY = Pointer to destination chunky buffer
+
+ Is the fastest tmap+gouraudshading code for Z80. Nothing else.
+
+ +------------------------------------------------------------+
+ |           - Gouraudmapping engine for Z80 CPU  -           |
+ |             - last n'joyment date: 05-DEC-97 -             |
+ +------------------------------------------------------------+
+
+And now...
+Ultra faaaaast gouraudmapping algorythm 
+
+ver_1: extra fast
+        LDI                     ; Write shaded pixel to buffer
+        ADD      HL,BC          ; Increase shading-table pointer
+
+About 27 takts of CPU power
+
+ver_2: full correctly
+        LD      A,(HL)          ; Read data from shading-table
+        LD      (DE),A          ; Write shaded pixel to buffer
+        INC     E
+        ADD     HL,BC           ; Increase shading-table pointer
+
+About 29 takts of CPU power
+
+Really needed:
+        HL = Pointer to shading-table
+        BC = Shading-increase
+        DE = Pointer to destination chunky buffer
+
+   Is the fastest gouraudmapping code for Z80. Nothing else.
+
+ +----------------------------------------*Exploder/Extreme*--+
+ |     - exploder_xtm@usa.net -   - +7 (0922) 29-04-25 -      |
+ +-------------------------------------------<ZX128,A1200>----+

@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1998-02-12",
+  "order": 5,
+  "article_id": 1120,
+  "title_link": "Enlight'97 - Результаты голосования на Enlight.",
+  "title_h1": "Buzz 13 - Enlight'97 - Результаты голосования на Enlight.",
+  "print_url": "https://zxpress.ru/print.php?id=1120",
+  "article_url": "https://zxpress.ru/article.php?id=1120",
+  "fetched_at": "2026-05-31T21:47:59Z"
+}

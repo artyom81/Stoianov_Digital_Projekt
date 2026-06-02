@@ -1,0 +1,15 @@
+{
+  "magazine_id": 302,
+  "magazine_name": "Info Guide",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "2007-04-30",
+  "order": 11,
+  "article_id": 8660,
+  "title_link": "For Coderz - Построение графического пользовательского интерфейса.",
+  "title_h1": "Info Guide 10 - For Coderz - Построение графического пользовательского интерфейса.",
+  "print_url": "https://zxpress.ru/print.php?id=8660",
+  "article_url": "https://zxpress.ru/article.php?id=8660",
+  "fetched_at": "2026-05-31T23:43:22Z"
+}

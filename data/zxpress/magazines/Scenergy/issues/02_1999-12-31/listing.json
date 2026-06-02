@@ -1,0 +1,911 @@
+[
+  {
+    "article_id": 3570,
+    "article_url": "https://zxpress.ru/article.php?id=3570",
+    "print_url": "https://zxpress.ru/print.php?id=3570",
+    "title_link": "A.O.S.S. - \"Сцена больна\" переживания Random'a.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_Сцена_больна_переживания_Randoma"
+  },
+  {
+    "article_id": 3572,
+    "article_url": "https://zxpress.ru/article.php?id=3572",
+    "print_url": "https://zxpress.ru/print.php?id=3572",
+    "title_link": "A.O.S.S. - Raver рассуждает о сценовой журналистике.",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_Raver_рассуждает_о_сценовои_журналистике"
+  },
+  {
+    "article_id": 3566,
+    "article_url": "https://zxpress.ru/article.php?id=3566",
+    "print_url": "https://zxpress.ru/print.php?id=3566",
+    "title_link": "A.O.S.S. - аналитическая статья о музыкальной сцене от Andy Fer.",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_аналитическая_статья_о_музыкальнои_сцене_от_Andy_Fer"
+  },
+  {
+    "article_id": 3571,
+    "article_url": "https://zxpress.ru/article.php?id=3571",
+    "print_url": "https://zxpress.ru/print.php?id=3571",
+    "title_link": "A.O.S.S. - легко ли быть органайзером группы?",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_легко_ли_быть_органаизером_группы"
+  },
+  {
+    "article_id": 3567,
+    "article_url": "https://zxpress.ru/article.php?id=3567",
+    "print_url": "https://zxpress.ru/print.php?id=3567",
+    "title_link": "A.O.S.S. - О журналах (мысли вслух).",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_О_журналах_мысли_вслух"
+  },
+  {
+    "article_id": 3573,
+    "article_url": "https://zxpress.ru/article.php?id=3573",
+    "print_url": "https://zxpress.ru/print.php?id=3573",
+    "title_link": "A.O.S.S. - о канонах демосцены на примере журнала Deja Vu #9.",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_о_канонах_демосцены_на_примере_журнала_Deja_Vu_9"
+  },
+  {
+    "article_id": 3569,
+    "article_url": "https://zxpress.ru/article.php?id=3569",
+    "print_url": "https://zxpress.ru/print.php?id=3569",
+    "title_link": "A.O.S.S. - Сегодня и Завтра отечественной демосцены.",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_Сегодня_и_Завтра_отечественнои_демосцены"
+  },
+  {
+    "article_id": 3568,
+    "article_url": "https://zxpress.ru/article.php?id=3568",
+    "print_url": "https://zxpress.ru/print.php?id=3568",
+    "title_link": "A.O.S.S. - спектрумовская банерная сеть.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "AOSS_-_спектрумовская_банерная_сеть"
+  },
+  {
+    "article_id": 3627,
+    "article_url": "https://zxpress.ru/article.php?id=3627",
+    "print_url": "https://zxpress.ru/print.php?id=3627",
+    "title_link": "Charts - all time favorites.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Charts_-_all_time_favorites"
+  },
+  {
+    "article_id": 3626,
+    "article_url": "https://zxpress.ru/article.php?id=3626",
+    "print_url": "https://zxpress.ru/print.php?id=3626",
+    "title_link": "Charts - current rules (fall edition 1999).",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Charts_-_current_rules_fall_edition_1999"
+  },
+  {
+    "article_id": 3624,
+    "article_url": "https://zxpress.ru/article.php?id=3624",
+    "print_url": "https://zxpress.ru/print.php?id=3624",
+    "title_link": "Charts - indexed.",
+    "order": 11,
+    "issue_label": "02",
+    "short_slug": "Charts_-_indexed"
+  },
+  {
+    "article_id": 3628,
+    "article_url": "https://zxpress.ru/article.php?id=3628",
+    "print_url": "https://zxpress.ru/print.php?id=3628",
+    "title_link": "Charts - voting rules.",
+    "order": 12,
+    "issue_label": "02",
+    "short_slug": "Charts_-_voting_rules"
+  },
+  {
+    "article_id": 3607,
+    "article_url": "https://zxpress.ru/article.php?id=3607",
+    "print_url": "https://zxpress.ru/print.php?id=3607",
+    "title_link": "Coding - 16-битная процедура быстрого возведения в степень.",
+    "order": 13,
+    "issue_label": "02",
+    "short_slug": "Coding_-_16-битная_процедура_быстрого_возведения_в_степень"
+  },
+  {
+    "article_id": 3614,
+    "article_url": "https://zxpress.ru/article.php?id=3614",
+    "print_url": "https://zxpress.ru/print.php?id=3614",
+    "title_link": "Coding - Flying представляет макробиблиотеку: Memory Management Library.",
+    "order": 14,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Flying_представляет_макробиблиотеку_Memory_Manageme"
+  },
+  {
+    "article_id": 3610,
+    "article_url": "https://zxpress.ru/article.php?id=3610",
+    "print_url": "https://zxpress.ru/print.php?id=3610",
+    "title_link": "Coding - Texture Mapping - реализация от SaiR00S/EI.",
+    "order": 15,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Texture_Mapping_-_реализация_от_SaiR00SEI"
+  },
+  {
+    "article_id": 3609,
+    "article_url": "https://zxpress.ru/article.php?id=3609",
+    "print_url": "https://zxpress.ru/print.php?id=3609",
+    "title_link": "Coding - Texture mapping + Phong shading реализация от Senat/Eternity Industry.",
+    "order": 16,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Texture_mapping_Phong_shading_реализация_от_SenatEt"
+  },
+  {
+    "article_id": 3616,
+    "article_url": "https://zxpress.ru/article.php?id=3616",
+    "print_url": "https://zxpress.ru/print.php?id=3616",
+    "title_link": "Coding - ZXA library: библиотека, предназначенная для создания и\r\nпроигрывания анимаций.",
+    "order": 17,
+    "issue_label": "02",
+    "short_slug": "Coding_-_ZXA_library_библиотека_предназначенная_для_создания"
+  },
+  {
+    "article_id": 3612,
+    "article_url": "https://zxpress.ru/article.php?id=3612",
+    "print_url": "https://zxpress.ru/print.php?id=3612",
+    "title_link": "Coding - Баг в STS?",
+    "order": 18,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Баг_в_STS"
+  },
+  {
+    "article_id": 3611,
+    "article_url": "https://zxpress.ru/article.php?id=3611",
+    "print_url": "https://zxpress.ru/print.php?id=3611",
+    "title_link": "Coding - Комментарии к исходникам, опубликованным в Scenergy #1",
+    "order": 19,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Комментарии_к_исходникам_опубликованным_в_Scenergy"
+  },
+  {
+    "article_id": 3613,
+    "article_url": "https://zxpress.ru/article.php?id=3613",
+    "print_url": "https://zxpress.ru/print.php?id=3613",
+    "title_link": "Coding - о библиотеках в программировании на спектруме.",
+    "order": 20,
+    "issue_label": "02",
+    "short_slug": "Coding_-_о_библиотеках_в_программировании_на_спектруме"
+  },
+  {
+    "article_id": 3615,
+    "article_url": "https://zxpress.ru/article.php?id=3615",
+    "print_url": "https://zxpress.ru/print.php?id=3615",
+    "title_link": "Coding - Принцип упаковки анимаций в демо JAM.",
+    "order": 21,
+    "issue_label": "02",
+    "short_slug": "Coding_-_Принцип_упаковки_анимации_в_демо_JAM"
+  },
+  {
+    "article_id": 3606,
+    "article_url": "https://zxpress.ru/article.php?id=3606",
+    "print_url": "https://zxpress.ru/print.php?id=3606",
+    "title_link": "Coding - процедура быстрого умножения.",
+    "order": 22,
+    "issue_label": "02",
+    "short_slug": "Coding_-_процедура_быстрого_умножения"
+  },
+  {
+    "article_id": 3608,
+    "article_url": "https://zxpress.ru/article.php?id=3608",
+    "print_url": "https://zxpress.ru/print.php?id=3608",
+    "title_link": "Coding - разбор интро Daingy от Cryss/Razzlers.",
+    "order": 23,
+    "issue_label": "02",
+    "short_slug": "Coding_-_разбор_интро_Daingy_от_CryssRazzlers"
+  },
+  {
+    "article_id": 3581,
+    "article_url": "https://zxpress.ru/article.php?id=3581",
+    "print_url": "https://zxpress.ru/print.php?id=3581",
+    "title_link": "Demo Party - Cafe'2000: Официальное приглашение",
+    "order": 24,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_Cafe2000_Официальное_приглашение"
+  },
+  {
+    "article_id": 3654,
+    "article_url": "https://zxpress.ru/article.php?id=3654",
+    "print_url": "https://zxpress.ru/print.php?id=3654",
+    "title_link": "Demo Party - CC999.999 information (eng).",
+    "order": 25,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_CC999999_information_eng"
+  },
+  {
+    "article_id": 3590,
+    "article_url": "https://zxpress.ru/article.php?id=3590",
+    "print_url": "https://zxpress.ru/print.php?id=3590",
+    "title_link": "Demo Party - D-Man/EI: отчет о Di:Halt:99.",
+    "order": 26,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_D-ManEI_отчет_о_DiHalt99"
+  },
+  {
+    "article_id": 3584,
+    "article_url": "https://zxpress.ru/article.php?id=3584",
+    "print_url": "https://zxpress.ru/print.php?id=3584",
+    "title_link": "Demo Party - Hartman: отчет о CC'999.",
+    "order": 27,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_Hartman_отчет_о_CC999"
+  },
+  {
+    "article_id": 3585,
+    "article_url": "https://zxpress.ru/article.php?id=3585",
+    "print_url": "https://zxpress.ru/print.php?id=3585",
+    "title_link": "Demo Party - Maxwell и Mr. John: отчет о CC'999.",
+    "order": 28,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_Maxwell_и_Mr_John_отчет_о_CC999"
+  },
+  {
+    "article_id": 3586,
+    "article_url": "https://zxpress.ru/article.php?id=3586",
+    "print_url": "https://zxpress.ru/print.php?id=3586",
+    "title_link": "Demo Party - Merlin/CC: отчет о CC'999.",
+    "order": 29,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_MerlinCC_отчет_о_CC999"
+  },
+  {
+    "article_id": 3598,
+    "article_url": "https://zxpress.ru/article.php?id=3598",
+    "print_url": "https://zxpress.ru/print.php?id=3598",
+    "title_link": "Demo Party - Paradox'99 - как это было, но лучше б он mUst dIe!!!",
+    "order": 30,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_Paradox99_-_как_это_было_но_лучше_б_он_mUst_dIe"
+  },
+  {
+    "article_id": 3603,
+    "article_url": "https://zxpress.ru/article.php?id=3603",
+    "print_url": "https://zxpress.ru/print.php?id=3603",
+    "title_link": "Demo Party - PHAT'9: список посетителей.",
+    "order": 31,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_PHAT9_список_посетителеи"
+  },
+  {
+    "article_id": 3589,
+    "article_url": "https://zxpress.ru/article.php?id=3589",
+    "print_url": "https://zxpress.ru/print.php?id=3589",
+    "title_link": "Demo Party - POL/PHT: отчет о Doxycon '99.",
+    "order": 32,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_POLPHT_отчет_о_Doxycon_99"
+  },
+  {
+    "article_id": 3587,
+    "article_url": "https://zxpress.ru/article.php?id=3587",
+    "print_url": "https://zxpress.ru/print.php?id=3587",
+    "title_link": "Demo Party - Random/CC: обьемный отчет о CC'999.",
+    "order": 33,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_RandomCC_обьемныи_отчет_о_CC999"
+  },
+  {
+    "article_id": 3588,
+    "article_url": "https://zxpress.ru/article.php?id=3588",
+    "print_url": "https://zxpress.ru/print.php?id=3588",
+    "title_link": "Demo Party - SerzhSoft: сказание о CC'999.",
+    "order": 34,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_SerzhSoft_сказание_о_CC999"
+  },
+  {
+    "article_id": 3605,
+    "article_url": "https://zxpress.ru/article.php?id=3605",
+    "print_url": "https://zxpress.ru/print.php?id=3605",
+    "title_link": "Demo Party - Zlincon 2e3 party: минирепортаж.",
+    "order": 35,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_Zlincon_2e3_party_минирепортаж"
+  },
+  {
+    "article_id": 3604,
+    "article_url": "https://zxpress.ru/article.php?id=3604",
+    "print_url": "https://zxpress.ru/print.php?id=3604",
+    "title_link": "Demo Party - информация о предстоящем пати PHAT'0.",
+    "order": 36,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_информация_о_предстоящем_пати_PHAT0"
+  },
+  {
+    "article_id": 3655,
+    "article_url": "https://zxpress.ru/article.php?id=3655",
+    "print_url": "https://zxpress.ru/print.php?id=3655",
+    "title_link": "Demo Party - информация по демопарти CC999.999.",
+    "order": 37,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_информация_по_демопарти_CC999999"
+  },
+  {
+    "article_id": 3591,
+    "article_url": "https://zxpress.ru/article.php?id=3591",
+    "print_url": "https://zxpress.ru/print.php?id=3591",
+    "title_link": "Demo Party - неофициальные результаты Di:Halt'99 с коментариями Diver'a.",
+    "order": 38,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_неофициальные_результаты_DiHalt99_с_коментариям"
+  },
+  {
+    "article_id": 3578,
+    "article_url": "https://zxpress.ru/article.php?id=3578",
+    "print_url": "https://zxpress.ru/print.php?id=3578",
+    "title_link": "Demo Party - обзор демосцены за 1999 год.",
+    "order": 39,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_обзор_демосцены_за_1999_год"
+  },
+  {
+    "article_id": 3580,
+    "article_url": "https://zxpress.ru/article.php?id=3580",
+    "print_url": "https://zxpress.ru/print.php?id=3580",
+    "title_link": "Demo Party - отчет организаторов CAFe'99.",
+    "order": 40,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_отчет_организаторов_CAFe99"
+  },
+  {
+    "article_id": 3601,
+    "article_url": "https://zxpress.ru/article.php?id=3601",
+    "print_url": "https://zxpress.ru/print.php?id=3601",
+    "title_link": "Demo Party - пресс релиз Латвийского демопати PHAT'9.",
+    "order": 41,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_пресс_релиз_Латвииского_демопати_PHAT9"
+  },
+  {
+    "article_id": 3600,
+    "article_url": "https://zxpress.ru/article.php?id=3600",
+    "print_url": "https://zxpress.ru/print.php?id=3600",
+    "title_link": "Demo Party - приглашение на латвийское демопати PHAT'9.",
+    "order": 42,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_приглашение_на_латвииское_демопати_PHAT9"
+  },
+  {
+    "article_id": 3579,
+    "article_url": "https://zxpress.ru/article.php?id=3579",
+    "print_url": "https://zxpress.ru/print.php?id=3579",
+    "title_link": "Demo Party - рассказ о поездке Antares в Казань на CAFe'99",
+    "order": 43,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_рассказ_о_поездке_Antares_в_Казань_на_CAFe99"
+  },
+  {
+    "article_id": 3656,
+    "article_url": "https://zxpress.ru/article.php?id=3656",
+    "print_url": "https://zxpress.ru/print.php?id=3656",
+    "title_link": "Demo Party - результаты CC.999.999",
+    "order": 44,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_CC999999"
+  },
+  {
+    "article_id": 3653,
+    "article_url": "https://zxpress.ru/article.php?id=3653",
+    "print_url": "https://zxpress.ru/print.php?id=3653",
+    "title_link": "Demo Party - результаты CC999.999.",
+    "order": 45,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_CC999999"
+  },
+  {
+    "article_id": 3582,
+    "article_url": "https://zxpress.ru/article.php?id=3582",
+    "print_url": "https://zxpress.ru/print.php?id=3582",
+    "title_link": "Demo Party - результаты Chaos Construction 999.",
+    "order": 46,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Chaos_Construction_999"
+  },
+  {
+    "article_id": 3583,
+    "article_url": "https://zxpress.ru/article.php?id=3583",
+    "print_url": "https://zxpress.ru/print.php?id=3583",
+    "title_link": "Demo Party - результаты Computer Art Festival 1999.",
+    "order": 47,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Computer_Art_Festival_1999"
+  },
+  {
+    "article_id": 3592,
+    "article_url": "https://zxpress.ru/article.php?id=3592",
+    "print_url": "https://zxpress.ru/print.php?id=3592",
+    "title_link": "Demo Party - результаты Doxycon'99.",
+    "order": 48,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Doxycon99"
+  },
+  {
+    "article_id": 3595,
+    "article_url": "https://zxpress.ru/article.php?id=3595",
+    "print_url": "https://zxpress.ru/print.php?id=3595",
+    "title_link": "Demo Party - результаты Millenium Party.",
+    "order": 49,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Millenium_Party"
+  },
+  {
+    "article_id": 3599,
+    "article_url": "https://zxpress.ru/article.php?id=3599",
+    "print_url": "https://zxpress.ru/print.php?id=3599",
+    "title_link": "Demo Party - результаты Paradox'2k demoparty.",
+    "order": 50,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Paradox2k_demoparty"
+  },
+  {
+    "article_id": 3602,
+    "article_url": "https://zxpress.ru/article.php?id=3602",
+    "print_url": "https://zxpress.ru/print.php?id=3602",
+    "title_link": "Demo Party - результаты Латвийского демопати PHAT'9.",
+    "order": 51,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Латвииского_демопати_PHAT9"
+  },
+  {
+    "article_id": 3597,
+    "article_url": "https://zxpress.ru/article.php?id=3597",
+    "print_url": "https://zxpress.ru/print.php?id=3597",
+    "title_link": "Demo Party - результаты Ростовского пати Paradox'99.",
+    "order": 52,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_результаты_Ростовского_пати_Paradox99"
+  },
+  {
+    "article_id": 3594,
+    "article_url": "https://zxpress.ru/article.php?id=3594",
+    "print_url": "https://zxpress.ru/print.php?id=3594",
+    "title_link": "Demo Party - репортаж Gasman'a с Forever 2e3.",
+    "order": 53,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_репортаж_Gasmana_с_Forever_2e3"
+  },
+  {
+    "article_id": 3596,
+    "article_url": "https://zxpress.ru/article.php?id=3596",
+    "print_url": "https://zxpress.ru/print.php?id=3596",
+    "title_link": "Demo Party - репортаж с Минского демопати Millennium'2000.",
+    "order": 54,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_репортаж_с_Минского_демопати_Millennium2000"
+  },
+  {
+    "article_id": 3593,
+    "article_url": "https://zxpress.ru/article.php?id=3593",
+    "print_url": "https://zxpress.ru/print.php?id=3593",
+    "title_link": "Demo Party - финальные результаты Forever 2E3.",
+    "order": 55,
+    "issue_label": "02",
+    "short_slug": "Demo_Party_-_финальные_результаты_Forever_2E3"
+  },
+  {
+    "article_id": 3555,
+    "article_url": "https://zxpress.ru/article.php?id=3555",
+    "print_url": "https://zxpress.ru/print.php?id=3555",
+    "title_link": "Editorial - вступительное слово от Arty.",
+    "order": 56,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_вступительное_слово_от_Arty"
+  },
+  {
+    "article_id": 3556,
+    "article_url": "https://zxpress.ru/article.php?id=3556",
+    "print_url": "https://zxpress.ru/print.php?id=3556",
+    "title_link": "Editorial - выступительное слово от Random.",
+    "order": 57,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_выступительное_слово_от_Random"
+  },
+  {
+    "article_id": 3557,
+    "article_url": "https://zxpress.ru/article.php?id=3557",
+    "print_url": "https://zxpress.ru/print.php?id=3557",
+    "title_link": "Editorial - загоны Raver'а на тему Сцены.",
+    "order": 58,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_загоны_Raverа_на_тему_Сцены"
+  },
+  {
+    "article_id": 3629,
+    "article_url": "https://zxpress.ru/article.php?id=3629",
+    "print_url": "https://zxpress.ru/print.php?id=3629",
+    "title_link": "Groups - анкеты действующих групп: Amaltiya Incoropration Software.",
+    "order": 59,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Amaltiya_Incoropration_Sof"
+  },
+  {
+    "article_id": 3630,
+    "article_url": "https://zxpress.ru/article.php?id=3630",
+    "print_url": "https://zxpress.ru/print.php?id=3630",
+    "title_link": "Groups - анкеты действующих групп: Antares.",
+    "order": 60,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Antares"
+  },
+  {
+    "article_id": 3631,
+    "article_url": "https://zxpress.ru/article.php?id=3631",
+    "print_url": "https://zxpress.ru/print.php?id=3631",
+    "title_link": "Groups - анкеты действующих групп: Ascendancy Creative Labs.",
+    "order": 61,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Ascendancy_Creative_Labs"
+  },
+  {
+    "article_id": 3632,
+    "article_url": "https://zxpress.ru/article.php?id=3632",
+    "print_url": "https://zxpress.ru/print.php?id=3632",
+    "title_link": "Groups - анкеты действующих групп: Crushers.",
+    "order": 62,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Crushers"
+  },
+  {
+    "article_id": 3633,
+    "article_url": "https://zxpress.ru/article.php?id=3633",
+    "print_url": "https://zxpress.ru/print.php?id=3633",
+    "title_link": "Groups - анкеты действующих групп: E-mage.",
+    "order": 63,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_E-mage"
+  },
+  {
+    "article_id": 3634,
+    "article_url": "https://zxpress.ru/article.php?id=3634",
+    "print_url": "https://zxpress.ru/print.php?id=3634",
+    "title_link": "Groups - анкеты действующих групп: Eternity Industry.",
+    "order": 64,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Eternity_Industry"
+  },
+  {
+    "article_id": 3635,
+    "article_url": "https://zxpress.ru/article.php?id=3635",
+    "print_url": "https://zxpress.ru/print.php?id=3635",
+    "title_link": "Groups - анкеты действующих групп: Excess team.",
+    "order": 65,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Excess_team"
+  },
+  {
+    "article_id": 3636,
+    "article_url": "https://zxpress.ru/article.php?id=3636",
+    "print_url": "https://zxpress.ru/print.php?id=3636",
+    "title_link": "Groups - анкеты действующих групп: Extreme Entertainment.",
+    "order": 66,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Extreme_Entertainment"
+  },
+  {
+    "article_id": 3637,
+    "article_url": "https://zxpress.ru/article.php?id=3637",
+    "print_url": "https://zxpress.ru/print.php?id=3637",
+    "title_link": "Groups - анкеты действующих групп: Fatality.",
+    "order": 67,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Fatality"
+  },
+  {
+    "article_id": 3638,
+    "article_url": "https://zxpress.ru/article.php?id=3638",
+    "print_url": "https://zxpress.ru/print.php?id=3638",
+    "title_link": "Groups - анкеты действующих групп: Jupiter 77.",
+    "order": 68,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Jupiter_77"
+  },
+  {
+    "article_id": 3639,
+    "article_url": "https://zxpress.ru/article.php?id=3639",
+    "print_url": "https://zxpress.ru/print.php?id=3639",
+    "title_link": "Groups - анкеты действующих групп: Proxima Centauri.",
+    "order": 69,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Proxima_Centauri"
+  },
+  {
+    "article_id": 3641,
+    "article_url": "https://zxpress.ru/article.php?id=3641",
+    "print_url": "https://zxpress.ru/print.php?id=3641",
+    "title_link": "Groups - анкеты действующих групп: RaZZLeRs.",
+    "order": 70,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_RaZZLeRs"
+  },
+  {
+    "article_id": 3640,
+    "article_url": "https://zxpress.ru/article.php?id=3640",
+    "print_url": "https://zxpress.ru/print.php?id=3640",
+    "title_link": "Groups - анкеты действующих групп: RUSH.",
+    "order": 71,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_RUSH"
+  },
+  {
+    "article_id": 3642,
+    "article_url": "https://zxpress.ru/article.php?id=3642",
+    "print_url": "https://zxpress.ru/print.php?id=3642",
+    "title_link": "Groups - анкеты действующих групп: Smash Hackers Band.",
+    "order": 72,
+    "issue_label": "02",
+    "short_slug": "Groups_-_анкеты_деиствующих_групп_Smash_Hackers_Band"
+  },
+  {
+    "article_id": 3574,
+    "article_url": "https://zxpress.ru/article.php?id=3574",
+    "print_url": "https://zxpress.ru/print.php?id=3574",
+    "title_link": "Illegal Corner - Razzlers оправдываются за релиз демки First Association.",
+    "order": 73,
+    "issue_label": "02",
+    "short_slug": "Illegal_Corner_-_Razzlers_оправдываются_за_релиз_демки_First"
+  },
+  {
+    "article_id": 3576,
+    "article_url": "https://zxpress.ru/article.php?id=3576",
+    "print_url": "https://zxpress.ru/print.php?id=3576",
+    "title_link": "Illegal Corner - Scenergy Release Charts - конкурс крэков.",
+    "order": 74,
+    "issue_label": "02",
+    "short_slug": "Illegal_Corner_-_Scenergy_Release_Charts_-_конкурс_крэков"
+  },
+  {
+    "article_id": 3577,
+    "article_url": "https://zxpress.ru/article.php?id=3577",
+    "print_url": "https://zxpress.ru/print.php?id=3577",
+    "title_link": "Illegal Corner - Welcome to Scenergy Release Charts (SRC).",
+    "order": 75,
+    "issue_label": "02",
+    "short_slug": "Illegal_Corner_-_Welcome_to_Scenergy_Release_Charts_SRC"
+  },
+  {
+    "article_id": 3575,
+    "article_url": "https://zxpress.ru/article.php?id=3575",
+    "print_url": "https://zxpress.ru/print.php?id=3575",
+    "title_link": "Illegal Corner - софтография Fatality Group.",
+    "order": 76,
+    "issue_label": "02",
+    "short_slug": "Illegal_Corner_-_софтография_Fatality_Group"
+  },
+  {
+    "article_id": 3648,
+    "article_url": "https://zxpress.ru/article.php?id=3648",
+    "print_url": "https://zxpress.ru/print.php?id=3648",
+    "title_link": "Lits - Pussy: история создания знаменитой игры от Fatality.",
+    "order": 77,
+    "issue_label": "02",
+    "short_slug": "Lits_-_Pussy_история_создания_знаменитои_игры_от_Fatality"
+  },
+  {
+    "article_id": 3650,
+    "article_url": "https://zxpress.ru/article.php?id=3650",
+    "print_url": "https://zxpress.ru/print.php?id=3650",
+    "title_link": "Lits - Scenergized beyond the belief.",
+    "order": 78,
+    "issue_label": "02",
+    "short_slug": "Lits_-_Scenergized_beyond_the_belief"
+  },
+  {
+    "article_id": 3651,
+    "article_url": "https://zxpress.ru/article.php?id=3651",
+    "print_url": "https://zxpress.ru/print.php?id=3651",
+    "title_link": "Lits - speed.",
+    "order": 79,
+    "issue_label": "02",
+    "short_slug": "Lits_-_speed"
+  },
+  {
+    "article_id": 3646,
+    "article_url": "https://zxpress.ru/article.php?id=3646",
+    "print_url": "https://zxpress.ru/print.php?id=3646",
+    "title_link": "Lits - история образования Ростовской ассоциации PartyZans.",
+    "order": 80,
+    "issue_label": "02",
+    "short_slug": "Lits_-_история_образования_Ростовскои_ассоциации_PartyZans"
+  },
+  {
+    "article_id": 3647,
+    "article_url": "https://zxpress.ru/article.php?id=3647",
+    "print_url": "https://zxpress.ru/print.php?id=3647",
+    "title_link": "Lits - история создания игры \"Белый орел - товарищ известен\".",
+    "order": 81,
+    "issue_label": "02",
+    "short_slug": "Lits_-_история_создания_игры_Белыи_орел_-_товарищ_известен"
+  },
+  {
+    "article_id": 3649,
+    "article_url": "https://zxpress.ru/article.php?id=3649",
+    "print_url": "https://zxpress.ru/print.php?id=3649",
+    "title_link": "Lits - рассказ о том как Fatality выпускает игрушки.",
+    "order": 82,
+    "issue_label": "02",
+    "short_slug": "Lits_-_рассказ_о_том_как_Fatality_выпускает_игрушки"
+  },
+  {
+    "article_id": 3652,
+    "article_url": "https://zxpress.ru/article.php?id=3652",
+    "print_url": "https://zxpress.ru/print.php?id=3652",
+    "title_link": "Mail Box - письма: Ellvis и Fatality довольны Scenergy #1, Ulterior поносит Antares и BrainWave, Realtimer разочарован.",
+    "order": 83,
+    "issue_label": "02",
+    "short_slug": "Mail_Box_-_письма_Ellvis_и_Fatality_довольны_Scenergy_1_Ulte"
+  },
+  {
+    "article_id": 3563,
+    "article_url": "https://zxpress.ru/article.php?id=3563",
+    "print_url": "https://zxpress.ru/print.php?id=3563",
+    "title_link": "News - Doom'a не будет!",
+    "order": 84,
+    "issue_label": "02",
+    "short_slug": "News_-_Dooma_не_будет"
+  },
+  {
+    "article_id": 3565,
+    "article_url": "https://zxpress.ru/article.php?id=3565",
+    "print_url": "https://zxpress.ru/print.php?id=3565",
+    "title_link": "News - Виртуальное пати Millennium, X-Raizor вернулся на сцену, Andrew Fer организовал новую группу, провал Германского пати Spectrology, новости от 3SC, Zero Team, Extreme.",
+    "order": 85,
+    "issue_label": "02",
+    "short_slug": "News_-_Виртуальное_пати_Millennium_X-Raizor_вернулся_на_сцен"
+  },
+  {
+    "article_id": 3562,
+    "article_url": "https://zxpress.ru/article.php?id=3562",
+    "print_url": "https://zxpress.ru/print.php?id=3562",
+    "title_link": "News - мнение Megus'a о dentro compo СС'2000.",
+    "order": 86,
+    "issue_label": "02",
+    "short_slug": "News_-_мнение_Megusa_о_dentro_compo_СС2000"
+  },
+  {
+    "article_id": 3564,
+    "article_url": "https://zxpress.ru/article.php?id=3564",
+    "print_url": "https://zxpress.ru/print.php?id=3564",
+    "title_link": "News - новости от OHG, Delta Hackers Group, Die Crupps, Волгодонских спектрумисто и от группы SpeedWay.",
+    "order": 87,
+    "issue_label": "02",
+    "short_slug": "News_-_новости_от_OHG_Delta_Hackers_Group_Die_Crupps_Волгодо"
+  },
+  {
+    "article_id": 3561,
+    "article_url": "https://zxpress.ru/article.php?id=3561",
+    "print_url": "https://zxpress.ru/print.php?id=3561",
+    "title_link": "Scenergy - адреса для связи с редакцией.",
+    "order": 88,
+    "issue_label": "02",
+    "short_slug": "Scenergy_-_адреса_для_связи_с_редакциеи"
+  },
+  {
+    "article_id": 3559,
+    "article_url": "https://zxpress.ru/article.php?id=3559",
+    "print_url": "https://zxpress.ru/print.php?id=3559",
+    "title_link": "Scenergy - благодарности соавторам журнала.",
+    "order": 89,
+    "issue_label": "02",
+    "short_slug": "Scenergy_-_благодарности_соавторам_журнала"
+  },
+  {
+    "article_id": 3558,
+    "article_url": "https://zxpress.ru/article.php?id=3558",
+    "print_url": "https://zxpress.ru/print.php?id=3558",
+    "title_link": "Scenergy - новое в облочке журнала.",
+    "order": 90,
+    "issue_label": "02",
+    "short_slug": "Scenergy_-_новое_в_облочке_журнала"
+  },
+  {
+    "article_id": 3560,
+    "article_url": "https://zxpress.ru/article.php?id=3560",
+    "print_url": "https://zxpress.ru/print.php?id=3560",
+    "title_link": "Scenergy - обещанного видео в статьях не будет...",
+    "order": 91,
+    "issue_label": "02",
+    "short_slug": "Scenergy_-_обещанного_видео_в_статьях_не_будет"
+  },
+  {
+    "article_id": 3622,
+    "article_url": "https://zxpress.ru/article.php?id=3622",
+    "print_url": "https://zxpress.ru/print.php?id=3622",
+    "title_link": "V.I.P. - Random берет интервью у Unbel!ever/Sage/XTM.",
+    "order": 92,
+    "issue_label": "02",
+    "short_slug": "VIP_-_Random_берет_интервью_у_UnbeleverSageXTM"
+  },
+  {
+    "article_id": 3619,
+    "article_url": "https://zxpress.ru/article.php?id=3619",
+    "print_url": "https://zxpress.ru/print.php?id=3619",
+    "title_link": "V.I.P. - The most noble tale of the scene.",
+    "order": 93,
+    "issue_label": "02",
+    "short_slug": "VIP_-_The_most_noble_tale_of_the_scene"
+  },
+  {
+    "article_id": 3620,
+    "article_url": "https://zxpress.ru/article.php?id=3620",
+    "print_url": "https://zxpress.ru/print.php?id=3620",
+    "title_link": "V.I.P. - интервью с Arny и Mythos, создателями клона Elite игры Awaken.",
+    "order": 94,
+    "issue_label": "02",
+    "short_slug": "VIP_-_интервью_с_Arny_и_Mythos_создателями_клона_Elite_игры"
+  },
+  {
+    "article_id": 3621,
+    "article_url": "https://zxpress.ru/article.php?id=3621",
+    "print_url": "https://zxpress.ru/print.php?id=3621",
+    "title_link": "V.I.P. - Интервью с Fatality, широко известными крэкерами и\r\nгейм-мэйкерами",
+    "order": 95,
+    "issue_label": "02",
+    "short_slug": "VIP_-_Интервью_с_Fatality_широко_известными_крэкерами_игеим-"
+  },
+  {
+    "article_id": 3618,
+    "article_url": "https://zxpress.ru/article.php?id=3618",
+    "print_url": "https://zxpress.ru/print.php?id=3618",
+    "title_link": "V.I.P. - интервью с одним из авторов игры Elite.",
+    "order": 96,
+    "issue_label": "02",
+    "short_slug": "VIP_-_интервью_с_одним_из_авторов_игры_Elite"
+  },
+  {
+    "article_id": 3617,
+    "article_url": "https://zxpress.ru/article.php?id=3617",
+    "print_url": "https://zxpress.ru/print.php?id=3617",
+    "title_link": "V.I.P. - интервью с одним из самых прогрессивных художников на спектруме Diver/4D.",
+    "order": 97,
+    "issue_label": "02",
+    "short_slug": "VIP_-_интервью_с_одним_из_самых_прогрессивных_художников_на"
+  },
+  {
+    "article_id": 3623,
+    "article_url": "https://zxpress.ru/article.php?id=3623",
+    "print_url": "https://zxpress.ru/print.php?id=3623",
+    "title_link": "V.I.P. - Интервью, взятое у Random'а каким-то PC-журналом",
+    "order": 98,
+    "issue_label": "02",
+    "short_slug": "VIP_-_Интервью_взятое_у_Randomа_каким-то_PC-журналом"
+  },
+  {
+    "article_id": 3643,
+    "article_url": "https://zxpress.ru/article.php?id=3643",
+    "print_url": "https://zxpress.ru/print.php?id=3643",
+    "title_link": "Warez Pack - описание Inertia Player.",
+    "order": 99,
+    "issue_label": "02",
+    "short_slug": "Warez_Pack_-_описание_Inertia_Player"
+  },
+  {
+    "article_id": 3644,
+    "article_url": "https://zxpress.ru/article.php?id=3644",
+    "print_url": "https://zxpress.ru/print.php?id=3644",
+    "title_link": "Warez Pack - описание демо 1140.",
+    "order": 100,
+    "issue_label": "02",
+    "short_slug": "Warez_Pack_-_описание_демо_1140"
+  },
+  {
+    "article_id": 3645,
+    "article_url": "https://zxpress.ru/article.php?id=3645",
+    "print_url": "https://zxpress.ru/print.php?id=3645",
+    "title_link": "Warez Pack - описание импортной демки 'no work'.",
+    "order": 101,
+    "issue_label": "02",
+    "short_slug": "Warez_Pack_-_описание_импортнои_демки_no_work"
+  }
+]

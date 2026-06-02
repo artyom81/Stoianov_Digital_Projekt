@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1999-05-29",
+  "order": 5,
+  "article_id": 10388,
+  "title_link": "Ликбез - полное описание и полный дизассемблер ПЗУ (часть 8).",
+  "title_h1": "City 13 - Ликбез - полное описание и полный дизассемблер ПЗУ (часть 8).",
+  "print_url": "https://zxpress.ru/print.php?id=10388",
+  "article_url": "https://zxpress.ru/article.php?id=10388",
+  "fetched_at": "2026-05-31T21:50:27Z"
+}

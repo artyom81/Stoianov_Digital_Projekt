@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 11067,
+    "article_url": "https://zxpress.ru/article.php?id=11067",
+    "print_url": "https://zxpress.ru/print.php?id=11067",
+    "title_link": "HDD - драйвер работы с HDD.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "HDD_-_драивер_работы_с_HDD"
+  },
+  {
+    "article_id": 11068,
+    "article_url": "https://zxpress.ru/article.php?id=11068",
+    "print_url": "https://zxpress.ru/print.php?id=11068",
+    "title_link": "Новости - Общаясь с Surfin Bird-ом я рассказал ему, что установил в PS2\r\nжёсткий диск, и SB подал мне идею установить на приставку Linux.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Общаясь_с_Surfin_Bird-ом_я_рассказал_ему_что_устан"
+  },
+  {
+    "article_id": 11066,
+    "article_url": "https://zxpress.ru/article.php?id=11066",
+    "print_url": "https://zxpress.ru/print.php?id=11066",
+    "title_link": "Новости - Сегодня умер жёсткий диск на ПЦ, Пробовал организовать Фидо средствами ZX, Посмотрел схему Скорпа и определил вероятные причины неисправности...",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Сегодня_умер_жесткии_диск_на_ПЦ_Пробовал_организов"
+  }
+]

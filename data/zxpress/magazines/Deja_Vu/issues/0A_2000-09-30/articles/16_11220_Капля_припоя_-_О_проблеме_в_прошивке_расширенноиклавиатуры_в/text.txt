@@ -1,0 +1,161 @@
+Deja Vu 0A - Капля припоя - О проблеме в прошивке расширенной клавиатуры (в "таганрогской" схеме) в IS-DOS.
+__________________________________________
+(C) Овсянников Андрей
+__________________________________________
+... О проблеме в  прошивке  расширенной
+клавиатуры (в "таганрогской" схеме). Драй-
+веры в iS-DOS для обнаружения факта  нажа-
+тия клавиши используют что-то  вроде такой
+конструкции:
+LD BC, #00FE
+IN A, (C)
+CPL
+AND #1F
+RET Z
+на что будет  неверный  отклик, вернее,
+никакого  отклика. Ниже  привожу  табличку
+адресов для некоторых комбинаций с исправ-
+лением этого бага:
+0  1  3  4  4  5  5  5  5  5  6  7  7  7  7
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+0  F  7  0  F  7  B  D  E  F  F  7  B  D  E
+CS+1 FE FF FE FE FF FF FF FF FF FF FF FE FE FF FF
+CS+2 FC FF FE FC FF FF FF FF FF FF FF FE FD FF FF
+CS+3 FA FF FE FA FF FF FF FF FF FF FF FE FB FF FF
+CS+4 F6 FF FE F6 FF FF FF FF FF FF FF FE F7 FF FF
+CS+5 EE FF FE EE FF FF FF FF FF FF FF FE EF FF FF
+CS+6 EE FF FE EE FF FF FF FF FF FF FF FE FF FF EF
+CS+7 F6 FF FE F6 FF FF FF FF FF FF FF FE FF FF F7
+CS+8 FA FF FE FA FF FF FF FF FF FF FF FE FF FF FB
+CS+9 FC FF FE FC FF FF FF FF FF FF FF FE FF FF FD
+CS+0 FE FF FE FE FF FF FF FF FF FF FF FE FF FF FE
+CS+SSFC FD FE FC FD FD FD FD FD FD FF FF FF FF FF
+CS+ENFE FF FE FE FF FF FF FF FF FF FE FE FF FF FF
+CS+SPFE FF FE FE FF FF FF FF FF FE FF FE FF FF FF
+SS+1 FC FD FF FC FF FF FF FF FF FD FF FF FE FF FF
+SS+2 FD FD FF FD FF FF FF FF FF FD FF FF FD FF FF
+SS+3 F9 FD FF F9 FF FF FF FF FF FD FF FF FB FF FF
+SS+4 F5 FD FF F5 FF FF FF FF FF FD FF FF F7 FF FF
+SS+5 ED FD FF ED FF FF FF FF FF FD FF FF EF FF FF
+SS+8 F9 FD FF F9 FF FF FF FF FF FD FF FF FF FF FB
+SS+9 FD FD FF FD FF FF FF FF FF FD FF FF FF FF FD
+SS+0 FC FD FF FC FF FF FF FF FF FD FF FF FF FF FE
+SS+P FC FD FF FC FF FF FF FF FF FD FF FF FF FE FF
+SS+O FD FD FF FD FF FF FF FF FF FD FF FF FF FD FF
+SS+ENFC FD FF FC FF FF FF FF FF FD FE FF FF FF FF
+SS+L FD FD FF FD FF FF FF FF FF FD FD FF FF FF FF
+SS+K F9 FD FF F9 FF FF FF FF FF FD FB FF FF FF FF
+SS+J F5 FD FF F5 FF FF FF FF FF FD F7 FF FF FF FF
+SS+SPFC FD FF FC FF FF FF FF FF FC FF FF FF FF FF
+SS+M F9 FD FF F9 FF FF FF FF FF F9 FF FF FF FF FF
+SS+N F5 FD FF F5 FF FF FF FF FF F5 FF FF FF FF FF
+SS+B ED FD FF ED FF FF FF FF FF ED FF FF FF FF FF
+SS+Z FD FD FF FD FF FF FF FF FF FD FF FD FF FF FF
+SS+X F9 FD FF F9 FF FF FF FF FF FD FF F9 FF FF FF
+SS+V ED FD FF ED FF FF FF FF FF FD FF F5 FF FF FF
+Вверху таблицы - адреса в ПЗУ, где нуж-
+но прошить ячейку. Вместо
+X
+нужно  подста-
+вить порядковый  номер  клавиши  от
+0
+до
+F
+(для всех адресов в строке одинаковый).
+
+   Что же касается увеличения числа клавиш
+до 32,то можно сделать так:распаять допол-
+нительные
+561КП2
+(можно "по-голубому",мас-
+сы и сигналы со  счетчиков - вместе, входы
+и  выходы - раздельно) и
+573РФ2
+(все ноги
+вместе, кроме  тех, куда  приходят  выходы
+561КП2).
+Подадим третьи ноги КП'шек каждая
+на "свое" ПЗУ, а на счетчики пустим  через
+элемент
+ЛИ.
+┌────┐
+3 нога КП2 ─┬──│ &  │──── к 561ИЕ10
+3 нога КП2'─│┬─│    │
+││ └────┘
+││
+│└──────── к 20 573РФ2'
+└───────── к 20 573РФ2
+(это я еще не делал, но работать должно)
+
+   Еще один "баг" я "откопал" в схеме пор-
+та
+#7FFD
+на  чтение ( газета
+WP#7,
+о
+DOS
+v6.05
+). Я  проанализировал схему и сделал
+дешифратор  порта  на
+555ЛЛ1
+(все  сигналы
+для  выборки должны  быть в "0"), не  стал
+заводить  сигнал  DOS ( с  ним в
+TEST 4.30
+порт не определялся ), но все  заработало,
+когда на 11 ногу
+ИР22
+подал
+лог."1".
+Теперь  о последней "шизе". В
+ZX-GUIDE
+#02
+прочитал статьи о доработке  экрана  и
+подвеске "SOUND" девайса. После  обретения
+способности мыслить я подумал:
+1.
+За  вывод  картинки/бордюра отвечают
+мультиплексоры ULA, но не процессор, а ре-
+гистры картинки/атрибутов читают из памяти
+постоянно. И почему бы при стандартном по-
+ложении ( и разрешении ) экрана, во  время
+бордюра и обратного  хода  не  переключать
+экран  аппаратно ( скажем, с
+#6000
+). При
+этом, на строку картинки  уходит
+32
+такта
+(CPU/VIDEO/CPU/ATTR), на обратный ход -
+24
+(в стандартном экране подбордюрная область
+начинается с адреса
+#4008
+- так устанавли-
+ваются счетчики).
+2.
+Звук нужно выводить со строго фикси-
+рованного адреса этой области (для каждого
+канала, of coz, адрес свой). При этом,час-
+тота дискретизации постоянна -
+15625
+герц,
+и отсутствует  пауза  в
+36
+мкс (на  время
+строки пикселей).
+3.
+Использовать этот  режим для  вывода
+триколорных  картинок, закатав то, что чи-
+тается во время бордюра и обратного хода в
+какие-нибудь ОЗУ на 32 байта (пара
+155РУ2)
+и выводя  вместе  с  картинкой. Запоминать
+нужно всего лишь  строку. При  этом, можно
+еще отказаться от  атрибутов, сканируя  во
+время их тактов еще одну область памяти.
+4.
+Подвесить  весь  этот "бред  старого
+маразматика" на некий порт, и отрубать всю
+эту беду неким тумблером.
+------------------------------------------

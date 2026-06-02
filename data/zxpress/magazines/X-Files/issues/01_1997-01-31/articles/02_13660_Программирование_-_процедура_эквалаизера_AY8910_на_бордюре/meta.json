@@ -1,0 +1,15 @@
+{
+  "magazine_id": 244,
+  "magazine_name": "X-Files",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-01-31",
+  "order": 2,
+  "article_id": 13660,
+  "title_link": "Программирование - процедура эквалайзера AY8910 на бордюре.",
+  "title_h1": "X-Files 01 - Программирование - процедура эквалайзера AY8910 на бордюре.",
+  "print_url": "https://zxpress.ru/print.php?id=13660",
+  "article_url": "https://zxpress.ru/article.php?id=13660",
+  "fetched_at": "2026-05-31T23:18:04Z"
+}

@@ -1,0 +1,178 @@
+Adventurer 15 - Interface - Nik-O interview.
+When and why did you start to make spectrum music?
+
+I  began  to  'beep'  around of 92-93, on AY since 95. I didn't
+reach  any  results  in asm comprehension, made a few pictures,
+then  I  decided to stop at right time and everything went into
+music.
+
+I  suppose, the first technical experience you gained exploring
+someone's  tunes  for  samples, ornaments and other tricks. Who
+was  that  spectrum musician who influenced your music and whom
+you can call your teacher?
+
+At  the  beginning,  almost  all  of  my  music was copied from
+classic  transcriptions of a music school basis, during 95-96 I
+barely  understood anybody's tracks so I almost had no interest
+in  them.  Only  when  I tried to make my own music I realised,
+that  I hadn't been taught everything :)) I picked more or less
+from  different  authors,  but  the  first  and the most strong
+emotions  caused  'narko-tragedy',  I  got an emotional stupor,
+I've  been listening a single track for a few hours, looking at
+the jumping ball. That was Ironman.
+
+What was the first music editor that you used?
+
+Pro Tracker 2.1
+
+What  do you think about your past as a spectrum musician, what
+important moments in your progression can you note?
+
+I've  been  approaching  towards to realising, that I only will
+learn  more  when  making  my own music, than copying someone's
+another,  for  too long time, from the other side, on the other
+hand  -  I barely could make my own music in the way I can make
+it now if I hadn't copied so much.
+
+How  do  you think, do you have any fans, and what do you think
+they  particularly  like  in  your music? Would you like to say
+some words for them?
+
+Maybe  someone  among  my familiars are my fans :) I don't know
+anybody  else?  I  think everybody finds something for himself,
+time passes, I get rid of something in my music, find something
+new,  but  there  is always something constant and unchangeable
+and  this makes us remain in some psychological contant between
+me  and  my  listener,  somebody  can  say  that he ceased from
+recognizing me, but I hope we'll reconnect sometime later.
+
+What  musical  instruments do you use (if you ever used) during
+composing prosess? Do you have any experience of musicmaking on
+other platforms? What do you think about it?
+
+Usually,  I make samples from scratch, if you have some certain
+melody  it's easy to make an appropriate sample, and if there's
+nothing  -  the  simpliest  sample  can suit while you making a
+melody. I tried to compose on Amiga, the situation with samples
+harder  there,  I  don't  want to use somebody's else :)) And I
+still  want  to  make music with AY. Sometime ago I learned sid
+and  thx  better,  I'll  try  to  make something on thx, sample
+editor  is  a  bit complex there ;) And I became indifferent to
+the  fact,  that  some more powerful and expensive computer can
+turn  me  away from Spectrum :) This is not worth of attention,
+getting  acquainted with other platforms, I guess, only expands
+the  understanding  about  sound, gfx and so on. I.e. to enrich
+one's inner world.
+
+Do  you like to criticize yourself? What is the weakest spot in
+your techniques (rythm, melody, arrangement or something else)?
+
+Yes,  but  within reasonable limits :) I had some problems with
+all  that  stuff  mentioned  above  at the different periods of
+time,  today,  for  example,  if I'm making a nokopy track, the
+hardest  is to chose the possible options of track development,
+and  it  leads  the following consequences: to chose the proper
+tempo,  arrangement, the melody composing and all this needs to
+be   done  in  a  complex,  like  a  whole  thing,  but  it  is
+conditionally enough, cos usually the development of a track is
+built on the simple things, upgrading slowly in the process.
+
+What  kind  of  music do you listen, what bands/projects affect
+you,  what  moods  and  feelings  you  try  to  put in your own
+compositions? Remixes: what do you think of this?
+
+Different music, not so much, I can't say that I have some kind
+of aversion to some certain kind of music or styles, even if it
+is  too  simple  and  maybe  stupid  sometimes,  simplicity  is
+delusive :)
+
+I  began to try to deliver any moods not so long time ago and I
+regret  about  it.  Usually it happens this way: if I have some
+form to put some mood into it, then it can be done easily :)
+
+Remixes  teach,  it resebles the way that some artists act when
+they  re-make  some  famous  works.  You  can  add  or put away
+something  in  your  remix,  then appear the capability to make
+different variations - the next step to improvisation.
+
+What  music compos did you participate in, what was the highest
+rate and what do you think about your achievements?
+
+Real  or  virtual  :) The highest was the second at Nuo, and in
+co-operation  with  c-jeff  we  took the first place at Antique
+Toy.  There was some place at CC'00, ah, also I took some place
+in  4  channel  compo  at  CAFe'2003, where I got the prize for
+being a total outsider at the bottom of the compo results list.
+I'm not sure about ASCII parties results, I think I took some.
+
+Party  is  a fun, the special atmosphere, friends and beer help
+to keep it.
+
+What do you feel when your track is playing on a party? Are you
+concerned  with sound equipment, people that vote or it doesn't
+bother you much?
+
+It's  interesting for me to listen my music at the party place,
+to  compare  it  with  the other tracks, to see and to hear the
+audience,  its  opinion,  so  I  wouldn't  say,  that bad sound
+quality is a good thing.
+
+Do  you have any interesting ideas about the future of spectrum
+music?  Maybe  there  are some hardware or software innovations
+that you would like to have?
+
+I'm  very  interested in the PT3.x development, there was a lot
+of  requests  sent  to  Alone  Coder,  first  - the 'pattern to
+sample'  function  or  the full realization of 1st tempo by the
+player.  Newart  proposed  to  add  a possibility to double the
+playing speed, there is an analogue in CACOFONY PRO SYSTEM:
+
+'QUARK  is  the  minimum element of the composition, defined by
+the  delay  between  two  cycles  of music processor registers'
+alteration.  The  communication between Z80 and AY8912 performs
+periodicaly  once in an interrupt, that's why the minimum QUARK
+length  is  1/50th  of  a second. The longitude is fixed and is
+being   used   in   ALL  editors.  However,  CACOFONY  has  the
+possibility  to  set  the  QUARK  value to 1/100th of a second,
+which  allows to increase the frequency of registers alteration
+and to increase the sound capabilities twice.'
+
+Ordinary  sounds  in this mode are strongly transformed :) This
+is  one  of  the  ways  to  give  AY  some new possibilities in
+addition to convenience of PT3.x.
+
+What is the most interesting aspect in spectrum music composing
+for  you  -  to  perfect  your  skills within the bounds of one
+'style'   or  'genre',  or  to  continue  the  thorny  path  of
+experiments with sound and techniques?
+
+I  want to avoid (or to change) the common ZX sound conception,
+I have to experiment with it.
+
+Can  you  tell  us  some  your  original ideas that you want to
+realize  in your music, maybe you want to make a demo or a game
+soundtrack,  maybe  just  to try what you have never tried yet,
+the new field of applying your talent?
+
+I  like  to associate music with certain things, imagination or
+mood,  demo  or game tracks. I'll try to settle deeper in these
+affairs of sound and visuals.
+
+What   do   you  think  about  co-operative  composing,  is  it
+interesting  for  you,  whom would you like to make music with?
+Please name 3 authors among the contemporary spectrum musicians
+that you like most.
+
+The  co-operative  composing  helps  to  understand  your  mate
+better,  his way of thinking, to learn something from him or to
+give some lessons :)
+
+Siril,  Macros  (sunny  meadows  with  berries and a river...),
+c-jeff  (just  wandekid).  And another five: Alone coder, risk,
+miguel, fatal snipe, justinas.
+
+Can  you  say  some words of advise for those musicians who are
+just starting out?
+
+You  have a whole world beneath your feet... (here follow a lot
+of beautiful and kind words)

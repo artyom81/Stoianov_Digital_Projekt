@@ -1,0 +1,235 @@
+ZX Pilot 39 - Coding - драйвер мышки Kempston mouse.
+C O D I N G
+
+──────────────────────────────────────────
+
+(C) SERGIUS PUZZLER
+
+
+     Снова о драйвере kempston mouse.
+
+   Уж  сколько  раз твердили миру кодеров,
+но  они  ни в какую не желают верить в то,
+что существуют контролеры с двумя способа-
+ми подключения кнопок, и  не учитывают при
+написании  софта  оба варианта. Разве  это
+так трудно? Выходит, что да. Наверное, бу-
+дет легче уговорить всех  владельцев мышек
+поставить  переключатель,  меняющий  левую
+кнопку с правой. Но вот беда, не хватит на
+всех  переключателей. Так где  же выход? А
+он давно известен, но почему-то многие его
+до сих пор игнорируют.
+   Оказывается, и эксперименты это подтве-
+рждают,  можно написать программу, которая
+очень  хитрым  способом умудряется опреде-
+лить и при этом не ошибиться, какая кнопка
+вашей  мыши подключена к 0-му биту контро-
+лера  kempston  mouse. Но трудность в том,
+что эта прога занимает около 16к, и време-
+ни  на  ee инсталяцию уходит почти столько
+же,  сколько  требуется для установки Win-
+dows. :(
+   Но  результат  стоит того, чтобы подож-
+дать часик-другой. :( Первая нажатая кноп-
+ка  мыши после успешной инсталяции, а надо
+заметить, это случается довольно таки час-
+то  по сравнению с Windows, будет отвечать
+за функцию Fire.
+   Ладно, последние два абзаца были непри-
+крытой шуткой. Но в каждой шутке есть доля
+правды.  А отыскать придется ее вам самос-
+тоятельно. :]
+   Если вам лень писать новый или изменять
+свой  старый  драйвер,  то, ради бога, ис-
+пользуйте  уже  написанные,  тем паче, что
+они  уже давно ходят по стране, проверенны
+и   используются  более  доброжелательными
+программистами.
+   Мы  уже публиковали подобную прогу Анд-
+рея Рачкина, но в ней была маленькая недо-
+работка, которую и  недоделкой-то не назо-
+вешь.  А  именно - отсутствие  возможности
+изменения  ограничения минимальных коорди-
+нат окна (во, сказанул-то), в пределах ко-
+торого возможно перемещение стрелки на эк-
+ране  (с  максимальными там все впорядке).
+Я устранил этот недостаток и добавил фраг-
+менты  кода,  превратившие этот драйвер из
+простого в турбо, так ставший модным в по-
+следнее время.
+   Если  такая возможность вам не требует-
+ся,  то просто  удалите из листинга строки
+помеченные  в поле комментариев знаком '*'
+или измените старое значение RANGE на #FF.
+Другие могут на свой вкус настроить следу-
+ющие параметры драйвера:
+
+   - RANGE - максимальное одноинтовое сме-
+   щение  мыши, в пределах которого эффект
+   "турбо" не срабатывает;
+
+   - ACCEL - смещение,  добавляемое  к ре-
+   альному,  при превышении параметра RAN-
+   GE,   для  более  быстрого  перемещения
+   стрелки по экрану.
+
+   Будем  считать, что остальные параметры
+в пояснениях  не нуждаются. А чтобы вам не
+было  скучно, предлагаю самим разобраться,
+как опрашивать  ячейки  драйвера, хранящие
+текущие значения кнопок мыши, поверте, это
+чертовски сложно. :)
+   Только  хочу  обратить ваше внимание на
+"переменную" DIRECT, биты которой соответ-
+ствуют битам порта kempston joystick (#1F)
+и interface II  (#EFFE,  sinclair joystick
+right).  Это на тот случай, если вам пона-
+добится узнать,  в какую  сторону побежала
+мышь, чтобы потом легче было ее найти. :)
+   Вместо NOP можно поставить команду RET,
+тогда  CALL  M_BUTT  будет работать только
+с кнопками, а CALL M_MOVE - только с коор-
+динатами мыши, такое разделение бывает по-
+лезным.
+
+------------------------------------------
+; Kempstone Mouse Turbo Driver With Button
+; Autoconfig
+; (C) Dictator
+; (I) Sergius Puzzler
+
+MIN_X   EQU  0
+MAX_X   EQU  #B8
+MIN_Y   EQU  0
+MAX_Y   EQU  #F8
+RANGE   EQU  8           ;*
+ACCEL   EQU  #10         ;*
+
+MOUSE
+M_BUTT
+        JR   INI_KMD
+BUTTON  DB   0           ;fire   button
+        DB   0           ;cansel   ~
+        DB   0           ;middle   ~
+DIRECT
+        DB   0           ;76543210 bits
+                         ; MCLRDUF directs
+
+A_COOR  DW   0           ;arrow coord
+M_PORT  DW   0           ;mouse coord
+
+NO_DEF  AND  3           ;fire not def
+        JR   Z,NO_PUSH   ;not press
+        CP   1
+        JR   Z,PUSH_ON
+        XOR  A
+        LD   (BIT_1),A
+        INC  A
+        LD   (BIT_0),A
+PUSH_ON
+        LD   HL,0
+        LD   (BLANK),HL
+        POP  IX
+INI_KMD
+        PUSH IX
+        LD   HL,BUTTON
+        PUSH HL
+        POP  IX
+        XOR  A
+DUP  3
+        LD   (HL),A      ;clearing
+        INC  HL          ;of direct buffer
+EDUP
+        LD   (HL),A
+        LD   BC,#FADF    ;button control
+        IN   A,(C)       ;port of buttond
+        CPL
+BLANK
+        JR   NO_DEF      ;until not def
+        RRA
+BIT_0   EQU  $+2
+        RL   (IX+0)
+        RRA
+BIT_1   EQU  $+2
+        RL   (IX+1)
+        RRA
+        RL   (IX+2)      ;BIT_2
+NO_PUSH
+        POP  IX
+        NOP
+M_MOVE
+        LD   HL,(A_COOR) ;last a_coord
+        LD   DE,(M_PORT) ;last m_coord
+        LD   BC,#FBDF
+        IN   A,(C)   ;port X (0-#FF)
+        LD   (M_PORT),A
+        SUB  E
+        JR   Z,READ_Y    ;no move
+        JP   P,MOVE_RT
+        CP   -RANGE      ;*
+        JR   NC,TURB_LT  ;*
+        ADD  A,-ACCEL    ;*
+TURB_LT                  ;*
+        SET  4,(IX+3)    ;move left
+        ADD  A,L
+        JR   NC,SET_MIN_X
+        CP   MIN_X       ;minimum X-coord
+        JR   NC,NO_SET_X
+SET_MIN_X
+        LD   A,MIN_X     ;minimum X-coord
+        JR   NO_SET_X
+MOVE_RT
+        CP   RANGE       ;*
+        JR   C,TURB_RT   ;*
+        ADD  A,ACCEL     ;*
+TURB_RT                  ;*
+        SET  3,(IX+3)    ;move right
+        ADD  A,L
+        JR   C,SET_MAX_X
+        CP   MAX_X       ;maximum X-coord
+        JR   C,NO_SET_X
+SET_MAX_X
+        LD   A,MAX_X     ;maximum X-coord
+NO_SET_X
+        LD   L,A
+READ_Y
+        LD   B,#FF
+        IN   A,(C)       ;port Y (0-#FF)
+        LD   (M_PORT+1),A
+        SUB  D
+        JR   Z,ALL_READ  ;no move
+        NEG
+        JP   P,MOVE_DN
+        CP   -RANGE      ;*
+        JR   NC,TURB_UP  ;*
+        ADD  A,-ACCEL    ;*
+TURB_UP                  ;*
+        SET  1,(IX+3)    ;move up
+        ADD  A,H
+        JR   NC,SET_MIN_Y
+        CP   MIN_Y       ;minimum Y-coord
+        JR   NC,NO_SET_Y
+SET_MIN_Y
+        LD   A,MIN_Y     ;minimum Y-coord
+        JR   NO_SET_Y
+MOVE_DN
+        CP   RANGE       ;*
+        JR   C,TURB_DN   ;*
+        ADD  A,ACCEL     ;*
+TURB_DN                  ;*
+        SET  2,(IX+3)    ;move down
+        ADD  A,H
+        JR   C,SET_MAX_Y
+        CP   MAX_Y       ;maximum Y-coord
+        JR   C,NO_SET_Y
+SET_MAX_Y
+        LD   A,MAX_Y     ;maximum Y-coord
+NO_SET_Y
+        LD   H,A
+ALL_READ
+        LD   (A_COOR),HL ;new a_coord
+        RET
+------------------------------------------
+
+That's all.

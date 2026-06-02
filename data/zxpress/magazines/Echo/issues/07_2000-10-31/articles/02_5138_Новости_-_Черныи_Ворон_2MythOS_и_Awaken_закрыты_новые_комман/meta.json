@@ -1,0 +1,15 @@
+{
+  "magazine_id": 63,
+  "magazine_name": "Echo",
+  "city": null,
+  "country": null,
+  "issue_label": "07",
+  "issue_date_iso": "2000-10-31",
+  "order": 2,
+  "article_id": 5138,
+  "title_link": "Новости - Черный Ворон 2,MythOS и Awaken закрыты, новые коммандеры Real Commander 2.0 и Turbo Commander, новая печатная газета Абзац, готовится к выпуску Demoniada.",
+  "title_h1": "Echo 07 - Новости - Черный Ворон 2,MythOS и Awaken закрыты, новые коммандеры Real Commander 2.0 и Turbo Commander, новая печатная газета Абзац, готовится к выпуску Demoniada.",
+  "print_url": "https://zxpress.ru/print.php?id=5138",
+  "article_url": "https://zxpress.ru/article.php?id=5138",
+  "fetched_at": "2026-05-31T22:00:57Z"
+}

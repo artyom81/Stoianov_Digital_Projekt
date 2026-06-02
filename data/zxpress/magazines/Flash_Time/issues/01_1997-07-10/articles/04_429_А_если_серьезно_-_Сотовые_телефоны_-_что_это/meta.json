@@ -1,0 +1,15 @@
+{
+  "magazine_id": 80,
+  "magazine_name": "Flash Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-07-10",
+  "order": 4,
+  "article_id": 429,
+  "title_link": "А если серьёзно - Сотовые телефоны - что это?",
+  "title_h1": "Flash Time 01 - А если серьёзно - Сотовые телефоны - что это?",
+  "print_url": "https://zxpress.ru/print.php?id=429",
+  "article_url": "https://zxpress.ru/article.php?id=429",
+  "fetched_at": "2026-05-31T22:07:02Z"
+}

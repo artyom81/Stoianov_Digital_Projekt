@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 4232,
+    "article_url": "https://zxpress.ru/article.php?id=4232",
+    "print_url": "https://zxpress.ru/print.php?id=4232",
+    "title_link": "От автора - Начинается новый учебный год...",
+    "order": 1,
+    "issue_label": "22",
+    "short_slug": "От_автора_-_Начинается_новыи_учебныи_год"
+  },
+  {
+    "article_id": 4233,
+    "article_url": "https://zxpress.ru/article.php?id=4233",
+    "print_url": "https://zxpress.ru/print.php?id=4233",
+    "title_link": "Проходилка - Crime Santa Clause 2 (demo).",
+    "order": 2,
+    "issue_label": "22",
+    "short_slug": "Проходилка_-_Crime_Santa_Clause_2_demo"
+  },
+  {
+    "article_id": 4234,
+    "article_url": "https://zxpress.ru/article.php?id=4234",
+    "print_url": "https://zxpress.ru/print.php?id=4234",
+    "title_link": "Обзор новинок - A Last Hero of the Light Force (pre release).",
+    "order": 3,
+    "issue_label": "22",
+    "short_slug": "Обзор_новинок_-_A_Last_Hero_of_the_Light_Force_pre_release"
+  },
+  {
+    "article_id": 4235,
+    "article_url": "https://zxpress.ru/article.php?id=4235",
+    "print_url": "https://zxpress.ru/print.php?id=4235",
+    "title_link": "Анекдоты - Юмор.",
+    "order": 4,
+    "issue_label": "22",
+    "short_slug": "Анекдоты_-_Юмор"
+  },
+  {
+    "article_id": 4236,
+    "article_url": "https://zxpress.ru/article.php?id=4236",
+    "print_url": "https://zxpress.ru/print.php?id=4236",
+    "title_link": "WANTED - Розыск программ...",
+    "order": 5,
+    "issue_label": "22",
+    "short_slug": "WANTED_-_Розыск_программ"
+  },
+  {
+    "article_id": 4237,
+    "article_url": "https://zxpress.ru/article.php?id=4237",
+    "print_url": "https://zxpress.ru/print.php?id=4237",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 6,
+    "issue_label": "22",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

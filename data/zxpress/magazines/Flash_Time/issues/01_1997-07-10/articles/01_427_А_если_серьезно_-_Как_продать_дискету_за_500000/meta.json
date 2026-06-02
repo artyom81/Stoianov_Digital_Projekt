@@ -1,0 +1,15 @@
+{
+  "magazine_id": 80,
+  "magazine_name": "Flash Time",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1997-07-10",
+  "order": 1,
+  "article_id": 427,
+  "title_link": "А если серьёзно - Как \"продать\" дискету за 500.000",
+  "title_h1": "Flash Time 01 - А если серьёзно - Как \"продать\" дискету за 500.000",
+  "print_url": "https://zxpress.ru/print.php?id=427",
+  "article_url": "https://zxpress.ru/article.php?id=427",
+  "fetched_at": "2026-05-31T22:07:01Z"
+}

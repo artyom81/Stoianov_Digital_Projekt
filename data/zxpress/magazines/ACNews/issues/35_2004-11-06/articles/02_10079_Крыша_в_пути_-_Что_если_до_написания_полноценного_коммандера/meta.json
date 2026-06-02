@@ -1,0 +1,15 @@
+{
+  "magazine_id": 8,
+  "magazine_name": "ACNews",
+  "city": null,
+  "country": null,
+  "issue_label": "35",
+  "issue_date_iso": "2004-11-06",
+  "order": 2,
+  "article_id": 10079,
+  "title_link": "Крыша в пути - Что, если до написания полноценного коммандера под FAT32 поддержать винт как TR-DOS диск с \"гиперпереходами\"?",
+  "title_h1": "ACNews 35 - Крыша в пути - Что, если до написания полноценного коммандера под FAT32 поддержать винт как TR-DOS диск с \"гиперпереходами\"?",
+  "print_url": "https://zxpress.ru/print.php?id=10079",
+  "article_url": "https://zxpress.ru/article.php?id=10079",
+  "fetched_at": "2026-05-31T21:31:02Z"
+}

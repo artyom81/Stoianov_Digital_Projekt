@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 69,
+    "article_url": "https://zxpress.ru/article.php?id=69",
+    "print_url": "https://zxpress.ru/print.php?id=69",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "78",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2473,
+    "article_url": "https://zxpress.ru/article.php?id=2473",
+    "print_url": "https://zxpress.ru/print.php?id=2473",
+    "title_link": "Железо - Описание доработки,которая позволит подключить к вашему\r\n компьютеру любое внешнее устройство,расчитанное на последовательный порт (мышь, модем, принтер).",
+    "order": 2,
+    "issue_label": "78",
+    "short_slug": "Железо_-_Описание_доработкикоторая_позволит_подключить_к_ваш"
+  },
+  {
+    "article_id": 2474,
+    "article_url": "https://zxpress.ru/article.php?id=2474",
+    "print_url": "https://zxpress.ru/print.php?id=2474",
+    "title_link": "Непроверенные сведенья - Газета от FX-Illusion. Almaz group готовит новый ассемблер.",
+    "order": 3,
+    "issue_label": "78",
+    "short_slug": "Непроверенные_сведенья_-_Газета_от_FX-Illusion_Almaz_group_г"
+  },
+  {
+    "article_id": 2471,
+    "article_url": "https://zxpress.ru/article.php?id=2471",
+    "print_url": "https://zxpress.ru/print.php?id=2471",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 4,
+    "issue_label": "78",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2472,
+    "article_url": "https://zxpress.ru/article.php?id=2472",
+    "print_url": "https://zxpress.ru/print.php?id=2472",
+    "title_link": "Система - Персональный компьютер АТМ-ТURBO 1 (платы версии 4.50):\r\n Структура памяти и портов ввода-вывода, аппаратные ошибки платы.",
+    "order": 5,
+    "issue_label": "78",
+    "short_slug": "Система_-_Персональныи_компьютер_АТМ-ТURBO_1_платы_версии_45"
+  },
+  {
+    "article_id": 2475,
+    "article_url": "https://zxpress.ru/article.php?id=2475",
+    "print_url": "https://zxpress.ru/print.php?id=2475",
+    "title_link": "Чемпионат VIRUS-2 - Создание и редактирование вирусов - с чего начинать ?..\r\n Чемпионат недели с участием 32 вирусов.",
+    "order": 6,
+    "issue_label": "78",
+    "short_slug": "Чемпионат_VIRUS-2_-_Создание_и_редактирование_вирусов_-_с_че"
+  }
+]

@@ -1,0 +1,10 @@
+MSD 03 - Игры - коды к игре Boovie 2.
+BOOVIE 2
+Прямо незнаю, в прошлом выпуске я обозвал эту игру польской,
+а в OBERON #? ее назвали словакской. Хотя какая разница. Для не-
+посвещенных сообщаю, эта игра смесь SOKOBAN и BOULDER DASH. Вот
+коды последних 20 уровней, хотя рекомендую проходить самим.
+21-BUDVAR  25-TAMPAX  29-ZLASKY  33-FUCKON  37-BRUSLE
+     22-XOROSH  26-FILTER  30-BORDEL  34-CHLUPY  38-PIRATE
+     23-DEMENT  27-MOSCOW  31-WAGINA  35-MAKEUP  39-KOSTEJ
+     24-CONDOM  28-PAREGU  32-PLECHY  36-SPACEX  40-EXUSSR

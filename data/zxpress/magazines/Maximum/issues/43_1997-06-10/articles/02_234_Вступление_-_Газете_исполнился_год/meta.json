@@ -1,0 +1,15 @@
+{
+  "magazine_id": 118,
+  "magazine_name": "Maximum",
+  "city": null,
+  "country": null,
+  "issue_label": "43",
+  "issue_date_iso": "1997-06-10",
+  "order": 2,
+  "article_id": 234,
+  "title_link": "Вступление - Газете исполнился год.",
+  "title_h1": "Maximum 43 - Вступление - Газете исполнился год.",
+  "print_url": "https://zxpress.ru/print.php?id=234",
+  "article_url": "https://zxpress.ru/article.php?id=234",
+  "fetched_at": "2026-05-31T22:24:43Z"
+}

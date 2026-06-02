@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 18508,
+    "article_url": "https://zxpress.ru/article.php?id=18508",
+    "print_url": "https://zxpress.ru/print.php?id=18508",
+    "title_link": "Новости - занимаюсь компилятором NedoLang, AmoNik измерил потребление разных устройств",
+    "order": 1,
+    "issue_label": "66",
+    "short_slug": "Новости_-_занимаюсь_компилятором_NedoLang_AmoNik_измерил_пот"
+  },
+  {
+    "article_id": 18509,
+    "article_url": "https://zxpress.ru/article.php?id=18509",
+    "print_url": "https://zxpress.ru/print.php?id=18509",
+    "title_link": "News - AmoNik has measured the power consumption of\r\nIDE different devices, I am mostly occupied with NedoLang compiler",
+    "order": 2,
+    "issue_label": "66",
+    "short_slug": "News_-_AmoNik_has_measured_the_power_consumption_ofIDE_diffe"
+  },
+  {
+    "article_id": 18510,
+    "article_url": "https://zxpress.ru/article.php?id=18510",
+    "print_url": "https://zxpress.ru/print.php?id=18510",
+    "title_link": "История программного обеспечения под ATM Turbo - 1992-2014 года",
+    "order": 3,
+    "issue_label": "66",
+    "short_slug": "История_программного_обеспечения_под_ATM_Turbo_-_1992-2014_г"
+  },
+  {
+    "article_id": 18511,
+    "article_url": "https://zxpress.ru/article.php?id=18511",
+    "print_url": "https://zxpress.ru/print.php?id=18511",
+    "title_link": "History of ATM Turbo software - 1992-2014 years",
+    "order": 4,
+    "issue_label": "66",
+    "short_slug": "History_of_ATM_Turbo_software_-_1992-2014_years"
+  },
+  {
+    "article_id": 18512,
+    "article_url": "https://zxpress.ru/article.php?id=18512",
+    "print_url": "https://zxpress.ru/print.php?id=18512",
+    "title_link": "Мощность, потребляемая бытовыми приборами и компьютерами - ZX Spectrum, PC, ноутбуки",
+    "order": 5,
+    "issue_label": "66",
+    "short_slug": "Мощность_потребляемая_бытовыми_приборами_и_компьютерами_-_ZX"
+  },
+  {
+    "article_id": 18513,
+    "article_url": "https://zxpress.ru/article.php?id=18513",
+    "print_url": "https://zxpress.ru/print.php?id=18513",
+    "title_link": "Power consumption of household devices and computers",
+    "order": 6,
+    "issue_label": "66",
+    "short_slug": "Power_consumption_of_household_devices_and_computers"
+  }
+]

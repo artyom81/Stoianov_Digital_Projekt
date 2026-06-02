@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 10758,
+    "article_url": "https://zxpress.ru/article.php?id=10758",
+    "print_url": "https://zxpress.ru/print.php?id=10758",
+    "title_link": "Вступление - Блин, если так дальше пойдет, то у меня\r\nскоро кончится фантазия!",
+    "order": 1,
+    "issue_label": "03",
+    "short_slug": "Вступление_-_Блин_если_так_дальше_поидет_то_у_меняскоро_конч"
+  },
+  {
+    "article_id": 10759,
+    "article_url": "https://zxpress.ru/article.php?id=10759",
+    "print_url": "https://zxpress.ru/print.php?id=10759",
+    "title_link": "Новости - Новости от FLASH на 08.06.97 года.",
+    "order": 2,
+    "issue_label": "03",
+    "short_slug": "Новости_-_Новости_от_FLASH_на_080697_года"
+  },
+  {
+    "article_id": 10760,
+    "article_url": "https://zxpress.ru/article.php?id=10760",
+    "print_url": "https://zxpress.ru/print.php?id=10760",
+    "title_link": "Новости - несколько ново стей из других городов.",
+    "order": 3,
+    "issue_label": "03",
+    "short_slug": "Новости_-_несколько_ново_стеи_из_других_городов"
+  },
+  {
+    "article_id": 10761,
+    "article_url": "https://zxpress.ru/article.php?id=10761",
+    "print_url": "https://zxpress.ru/print.php?id=10761",
+    "title_link": "Реклама - Изучаем спрос на MODEM'ы, SOUNDRIVE'ы.",
+    "order": 4,
+    "issue_label": "03",
+    "short_slug": "Реклама_-_Изучаем_спрос_на_MODEMы_SOUNDRIVEы"
+  }
+]

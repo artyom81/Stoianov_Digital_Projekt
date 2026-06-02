@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "00",
+  "issue_date_iso": "1997-03-17",
+  "order": 6,
+  "article_id": 17419,
+  "title_link": "Послесловие - А на последок я скажу...",
+  "title_h1": "Deja Vu 00 - Послесловие - А на последок я скажу...",
+  "print_url": "https://zxpress.ru/print.php?id=17419",
+  "article_url": "https://zxpress.ru/article.php?id=17419",
+  "fetched_at": "2026-05-31T21:53:58Z"
+}

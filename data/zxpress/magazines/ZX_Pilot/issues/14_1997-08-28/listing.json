@@ -1,0 +1,74 @@
+[
+  {
+    "article_id": 7655,
+    "article_url": "https://zxpress.ru/article.php?id=7655",
+    "print_url": "https://zxpress.ru/print.php?id=7655",
+    "title_link": "Наши новости - Поздравляем Вас с почти началом нового учебного года.",
+    "order": 1,
+    "issue_label": "14",
+    "short_slug": "Наши_новости_-_Поздравляем_Вас_с_почти_началом_нового_учебно"
+  },
+  {
+    "article_id": 7656,
+    "article_url": "https://zxpress.ru/article.php?id=7656",
+    "print_url": "https://zxpress.ru/print.php?id=7656",
+    "title_link": "TOP TEN - Десяточка лучших игр.",
+    "order": 2,
+    "issue_label": "14",
+    "short_slug": "TOP_TEN_-_Десяточка_лучших_игр"
+  },
+  {
+    "article_id": 7657,
+    "article_url": "https://zxpress.ru/article.php?id=7657",
+    "print_url": "https://zxpress.ru/print.php?id=7657",
+    "title_link": "Обзор - О новых играх: BOULDER DASH COLLECTION , BATMAM COLLECTION , BARBARIAN COLLECTION.",
+    "order": 3,
+    "issue_label": "14",
+    "short_slug": "Обзор_-_О_новых_играх_BOULDER_DASH_COLLECTION_BATMAM_COLLECT"
+  },
+  {
+    "article_id": 7658,
+    "article_url": "https://zxpress.ru/article.php?id=7658",
+    "print_url": "https://zxpress.ru/print.php?id=7658",
+    "title_link": "Разберемся - Описание игры NARCOPOLICE.",
+    "order": 4,
+    "issue_label": "14",
+    "short_slug": "Разберемся_-_Описание_игры_NARCOPOLICE"
+  },
+  {
+    "article_id": 7659,
+    "article_url": "https://zxpress.ru/article.php?id=7659",
+    "print_url": "https://zxpress.ru/print.php?id=7659",
+    "title_link": "AMIGA vs PC - Сборник вопросов-ответов из ZX-FORMATa",
+    "order": 5,
+    "issue_label": "14",
+    "short_slug": "AMIGA_vs_PC_-_Сборник_вопросов-ответов_из_ZX-FORMATa"
+  },
+  {
+    "article_id": 7660,
+    "article_url": "https://zxpress.ru/article.php?id=7660",
+    "print_url": "https://zxpress.ru/print.php?id=7660",
+    "title_link": "COMICS - Анекдоты и юмор.",
+    "order": 6,
+    "issue_label": "14",
+    "short_slug": "COMICS_-_Анекдоты_и_юмор"
+  },
+  {
+    "article_id": 7661,
+    "article_url": "https://zxpress.ru/article.php?id=7661",
+    "print_url": "https://zxpress.ru/print.php?id=7661",
+    "title_link": "HARD and SOFT - Турбирование ВГ93.",
+    "order": 7,
+    "issue_label": "14",
+    "short_slug": "HARD_and_SOFT_-_Турбирование_ВГ93"
+  },
+  {
+    "article_id": 7662,
+    "article_url": "https://zxpress.ru/article.php?id=7662",
+    "print_url": "https://zxpress.ru/print.php?id=7662",
+    "title_link": "Реклама - Реклама и объявления...",
+    "order": 8,
+    "issue_label": "14",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

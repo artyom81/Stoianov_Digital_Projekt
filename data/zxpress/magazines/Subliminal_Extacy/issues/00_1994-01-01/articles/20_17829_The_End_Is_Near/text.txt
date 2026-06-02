@@ -1,0 +1,49 @@
+Subliminal Extacy 00 - The End Is Near
+<<<<< The End Is Near >>>>>                  
+                   ===========================                  
+                                                                
+                                                                
+                   -= By Bogie Of Extacy-3 =-                   
+                   ==========================                   
+                                                                
+                                                                
+Well now as the end of the first issue of Subliminal Extacy     
+draws to an end I thought it would be nice for you to know      
+exactly how much memory that this disk mag takes up!!!!         
+ First of all I shall break it down into what the memory was    
+used for!!!                                                     
+                                                                
+From 25000-30000 the menu text and the nescessary varaibles for 
+the mag was kept!                                               
+                                                                
+From 30000-58000 is the article buffer!                         
+                                                                
+From 58000-65535 is the music and menu code with the page       
+printer routine!!!                                              
+                                                                
+All the usefull 16K memory pages will be used but in this one,  
+one was left empty!                                             
+                                                                
+The amount of article text was  113149 bytes!                   
+The amount of menu code ect was  12535 bytes!                   
+The amount of code the end part takes up is 11000 bytes         
+                                                                
+The total amount of uncompressed memory used is a staggering... 
+                                                                
+                          136684 bytes                          
+                                                                
+That is all the info I am going to give you and now all I have  
+left to say is goodbye!!                                        
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                            End.

@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 3,
+    "article_url": "https://zxpress.ru/article.php?id=3",
+    "print_url": "https://zxpress.ru/print.php?id=3",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "84",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2501,
+    "article_url": "https://zxpress.ru/article.php?id=2501",
+    "print_url": "https://zxpress.ru/print.php?id=2501",
+    "title_link": "ZXNet - Гейтование почты с новой сети SuperNet.",
+    "order": 2,
+    "issue_label": "84",
+    "short_slug": "ZXNet_-_Геитование_почты_с_новои_сети_SuperNet"
+  },
+  {
+    "article_id": 2498,
+    "article_url": "https://zxpress.ru/article.php?id=2498",
+    "print_url": "https://zxpress.ru/print.php?id=2498",
+    "title_link": "Горячая 10-ка цитат - \"Удачные\" фразы из компьютерной прессы.",
+    "order": 3,
+    "issue_label": "84",
+    "short_slug": "Горячая_10-ка_цитат_-_Удачные_фразы_из_компьютернои_прессы"
+  },
+  {
+    "article_id": 2499,
+    "article_url": "https://zxpress.ru/article.php?id=2499",
+    "print_url": "https://zxpress.ru/print.php?id=2499",
+    "title_link": "Мозаика - MMA Soft об оговорках в журнале \"Оберон\".",
+    "order": 4,
+    "issue_label": "84",
+    "short_slug": "Мозаика_-_MMA_Soft_об_оговорках_в_журнале_Оберон"
+  },
+  {
+    "article_id": 2497,
+    "article_url": "https://zxpress.ru/article.php?id=2497",
+    "print_url": "https://zxpress.ru/print.php?id=2497",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "84",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 2500,
+    "article_url": "https://zxpress.ru/article.php?id=2500",
+    "print_url": "https://zxpress.ru/print.php?id=2500",
+    "title_link": "Чемпионат VIRUS-2 - Чемпионат недели с участием 16 вирусов.",
+    "order": 6,
+    "issue_label": "84",
+    "short_slug": "Чемпионат_VIRUS-2_-_Чемпионат_недели_с_участием_16_вирусов"
+  }
+]

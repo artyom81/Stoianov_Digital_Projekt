@@ -1,0 +1,164 @@
+05 - Part 5 - Emulate letters.
+==========================================
+*****************************
+*  PART 5 - EMULATE LETTERS *
+*****************************
+
+==========================================
+==========================================
+
+Do  you know of a Sinclair QL emulator for
+the  PC?  I'd  really  like to get hold of
+one.  If you do, perhaps you could give me
+details of how I can get it. Thanks,
+
+N Wittering
+==========================================
+
+There  is  not,  as  far  as  I know, a QL
+emulator  for  the PC. However, there is a
+large amount of resources for the Sinclair
+QL on the web if you know where to look. I
+have  expanded the Internet section of the
+magazine,  adding  more QL sites for those
+interested and also the location of the QL
+FAQ.  If  there  is an emulator for the QL
+out there (PC), please let me know!!
+
+==========================================
+==========================================
+
+Just a quick note to congratulate you on a
+great  magazine. I've just come across the
+spectrum  emulator  stuff on the internet,
+and  at the moment I'm having a great time
+playing old classics like JetPac and Manic
+Miner.  I  bought  my 16K spectrum back in
+1983,  and  upgraded  to  a  mammoth 48K a
+couple of years later. Now I have the best
+parts  of this computer, without the dodgy
+ariel  lead or the games that wouldnt load
+until   my   volume/tone   settings   were
+_exactly_ correct. Keep up the great work,
+
+Rick Bishop
+==========================================
+
+Having  an  emulator does take some of the
+pain  of  loading  games  away, as we know
+they  are  virtually  all  going  to  load
+properly. But...sniff...it also takes away
+some of the magic of the Speccy...!
+
+==========================================
+==========================================
+
+I've  just  been  reading  your  fantastic
+'e-zine'.  What a "blast from the past" it
+has  been.  To me, as I am sure to so many
+people,  the Spectrum evokes feelings of a
+time  when  computers  were  exciting  and
+*cheap*  and  available  to  the masses. I
+never  actually  owned  a Spectrum, but my
+friend  had  one, and we spent many a long
+hour  playing  the latest games, typing in
+games from C&VG (Remember when they were a
+"computer" mag ?), and just mucking about.
+Reading  your  'e-zine'  brings  back many
+happy  memories,  and  not  only about the
+Spectrum. (I was a lot younger then ;) )
+
+My  first  computer  was  the  Amiga  500,
+bought  at  a  time  when they cost 500. I
+then  went on to an Acorn A310M, A500, and
+now the latest RiscPC. So what now!? Well,
+I've  just  to  get  hold  of  a  Spectrum
+emulator  so  that  I can relive a mispent
+youth.  As  Boris Donko says, your'e-zine'
+is part of the buzz.
+
+Well  done  on an excellent magazine, keep
+up the good work!
+
+Paul Irvine
+
+==========================================
+==========================================
+
+This   is  sort  of  a  followup  to  some
+comments in Issue 4.
+What   people  seem  to  want  is  a  sort
+stand-alone (for their machine) executable
+version  of  emulate  (or  failing  that a
+common format that can be read by all)
+Of  course  until  people  wanted embedded
+pictures...  the  current format is ideal,
+although  the  HTML  version  is  nice for
+browsing.
+I  have  made a quick look through most of
+the  relevant  sites  and  have found that
+there is no common hypertext format...
+So  it  looks  like  someone  should write
+one...  Although  if you have the cash you
+could  try  Adobe  PDF  although  that may
+annoy those amiga owners...
+
+Ben Baylis
+==========================================
+
+After  my  comments in a previous issue, I
+have  has  quite  a  few suggestions as to
+what to do with the magazine (some of them
+unprintable....only  kidding!)  It is hard
+to find a modern computer platform to use,
+as  if  I  opt  for  a  PC  display, other
+computer owners would be left out and vice
+versa.  It  is  possible  that in the near
+future  I  will  be producing a version of
+Emulate in the form of a Spectrum file, as
+all  the computers have an emulator and it
+seems the only "universal" thing to use!
+
+==========================================
+==========================================
+
+Hey!  Alright there? I'm a twenty two year
+old    english    student   at   sheffield
+university  with  too  much  time  on  his
+hands.  A year ago, in the middle of a big
+remeniscence  with my house mate about the
+speccy,  she  admitted she still, actually
+had  hers  in  the loft at her mums house.
+Thats  how it began. I thought I'd left it
+all  behind  me in 1988 but no. These days
+myself  and  all my friends spend too much
+of  our spare time playing bloody Arkanoid
+and  Operation Wolf. Anyway, I wondered if
+you  could  count  me  as  a subscriber to
+emulate,  and if you might be able to tell
+me  where  if  poss I could buy old speecy
+games  in  their  original taped format. I
+don't   have   an  emulator  or  anything,
+neither   am   I   particularly   computer
+literate,  I  just  get allowed to use the
+pc's  for  writing  up essays for the most
+part.  That's  very  much  for  your time,
+anyway! Hope to hear from you, I guess!
+
+Rob Barker
+
+==========================================
+
+You can find games on tapes at second hand
+shops  and  boot sales, where you can pick
+up  cheap  lots  of  games quite cheap. It
+might  also  be  worth checking classified
+ads.  You  could also find someone with an
+emulator and use the TAP2VOC utility which
+transfers TAP files back onto tape.
+
+==========================================
+
+More letters next issue...
+
+==========================================

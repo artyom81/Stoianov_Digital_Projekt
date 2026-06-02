@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 7861,
+    "article_url": "https://zxpress.ru/article.php?id=7861",
+    "print_url": "https://zxpress.ru/print.php?id=7861",
+    "title_link": "Сцена - дайджест ZX Spectrum новостей 2000 года с сайта SCENERGY.NM.RU",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Сцена_-_даиджест_ZX_Spectrum_новостеи_2000_года_с_саита_SCEN"
+  },
+  {
+    "article_id": 15665,
+    "article_url": "https://zxpress.ru/article.php?id=15665",
+    "print_url": "https://zxpress.ru/print.php?id=15665",
+    "title_link": "Гороскоп - Гороскоп для программистов (с 21 декабря по 2О января).",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Гороскоп_-_Гороскоп_для_программистов_с_21_декабря_по_2О_янв"
+  },
+  {
+    "article_id": 4885,
+    "article_url": "https://zxpress.ru/article.php?id=4885",
+    "print_url": "https://zxpress.ru/print.php?id=4885",
+    "title_link": "Nonsense in BASIC - программиррование калькулятора Citizen SPR-145.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Nonsense_in_BASIC_-_программиррование_калькулятора_Citizen_S"
+  },
+  {
+    "article_id": 18130,
+    "article_url": "https://zxpress.ru/article.php?id=18130",
+    "print_url": "https://zxpress.ru/print.php?id=18130",
+    "title_link": "Вестник - Страсти по ZX Next У западников очередное обострение войны\r\nкопирайтов.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Вестник_-_Страсти_по_ZX_Next_У_западников_очередное_обострен"
+  },
+  {
+    "article_id": 7892,
+    "article_url": "https://zxpress.ru/article.php?id=7892",
+    "print_url": "https://zxpress.ru/print.php?id=7892",
+    "title_link": "Тема - Проект спасения и развития сцены.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Тема_-_Проект_спасения_и_развития_сцены"
+  },
+  {
+    "article_id": 116,
+    "article_url": "https://zxpress.ru/article.php?id=116",
+    "print_url": "https://zxpress.ru/print.php?id=116",
+    "title_link": "Платный сервер - О преимуществах и недостатках платных BBS.",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "Платныи_сервер_-_О_преимуществах_и_недостатках_платных_BBS"
+  }
+]

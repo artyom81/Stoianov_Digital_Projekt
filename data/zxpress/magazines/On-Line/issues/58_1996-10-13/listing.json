@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 42,
+    "article_url": "https://zxpress.ru/article.php?id=42",
+    "print_url": "https://zxpress.ru/print.php?id=42",
+    "title_link": "B.B.S. Новости - О работе B.B.S.'ок.",
+    "order": 1,
+    "issue_label": "58",
+    "short_slug": "BBS_Новости_-_О_работе_BBSок"
+  },
+  {
+    "article_id": 2389,
+    "article_url": "https://zxpress.ru/article.php?id=2389",
+    "print_url": "https://zxpress.ru/print.php?id=2389",
+    "title_link": "Интервью - Интервью с Сергем Зоновым и Андреем Ларченко (разработчиками компьютера \"Скорпион\")",
+    "order": 2,
+    "issue_label": "58",
+    "short_slug": "Интервью_-_Интервью_с_Сергем_Зоновым_и_Андреем_Ларченко_разр"
+  },
+  {
+    "article_id": 2387,
+    "article_url": "https://zxpress.ru/article.php?id=2387",
+    "print_url": "https://zxpress.ru/print.php?id=2387",
+    "title_link": "Мозаика - Коловрать Soft о версиях программы CDOS.",
+    "order": 3,
+    "issue_label": "58",
+    "short_slug": "Мозаика_-_Коловрать_Soft_о_версиях_программы_CDOS"
+  },
+  {
+    "article_id": 2388,
+    "article_url": "https://zxpress.ru/article.php?id=2388",
+    "print_url": "https://zxpress.ru/print.php?id=2388",
+    "title_link": "Мозаика - Пара сображений по поводу общения между SysOp'ами и user'\r\n ами.",
+    "order": 4,
+    "issue_label": "58",
+    "short_slug": "Мозаика_-_Пара_сображении_по_поводу_общения_между_SysOpами_и"
+  },
+  {
+    "article_id": 2386,
+    "article_url": "https://zxpress.ru/article.php?id=2386",
+    "print_url": "https://zxpress.ru/print.php?id=2386",
+    "title_link": "Реклама - Реклама и объявления ...",
+    "order": 5,
+    "issue_label": "58",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  }
+]

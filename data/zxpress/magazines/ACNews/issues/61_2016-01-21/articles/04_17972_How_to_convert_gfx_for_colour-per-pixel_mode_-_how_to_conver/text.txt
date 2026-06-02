@@ -1,0 +1,76 @@
+ACNews 61 -  How to convert gfx for colour-per-pixel mode - how to convert gfx to "EGA" mode of ATM Turbo.
+How to convert gfx for colour-per-pixel mode
+by Alone Coder
+I was asked a question, how to convert gfx to "EGA" mode of
+ATM Turbo. 
+
+If you want just a photo with dithering:
+
+1. Tune up brightness/contrast/saturation more vivid.
+2. In Photoshop, convert to adaptive palette of ~30 colours.
+Don't apply this palette though. Do edit it. 
+
+3. Change every color by hand to match ATM Turbo's colours (i.e.
+with components equal to 0/85/170/255 - however
+LVD
+measures 
+there 0/93/162/255, but I'm not sure the authors of ATM Turbo 
+wanted these exact values; the difference is subtle though). If 
+there is uncertainty how to round - make a couple of versions of 
+the colour (anyway the palette will have a lot of identical 
+colours). 
+
+4. See how many colours we get (apply, convert to RGB, then to
+"exact" palette). If there are less than 16, add colour 
+variants. If there are more, remove the rare shades (if they can 
+be simulated with dithering). 
+
+5. Apply the palette. Try dithering between 30% and 100%.
+6. Convert to RGB.
+7. Convert to "exact" palette - 16 colours.
+8. Save as a 4-bit BMP.
+While you select a palette, you can time to time save it, apply,
+undo the result...
+
+Hippiman suggests the following method:
+───────────────────────────────────────────────────────────────┐ 
+You must reduce the number of colour in the image to the
+minimum. The best way is to do it gradually, in few steps.
+First, experimentally convert the image to "adaptive" palette
+with almost the original quality. Generally there are 60 to 70
+colours.
+Then "join" the similar colours, possibly to ATM colours. Try to
+avoid small areas of rare colours.
+Then convert to RGB and repeat many times, until you have around
+30 colours.
+───────────────────────────────────────────────────────────────┘ 
+
+If you have to convert pixel art (as in Nedodemo 2 ), there is
+more to do. You must try by hand several versions of colour
+grades for each of the colour grades of the original palette.
+Sometimes you must lose one colour or two (join it with
+another). If you need 50% textures, first convert the picture to
+~30 colours with components 0/42/85/128/170/212/255, then find
+an ATM Turbo palette that covers all of your colours with 50%
+textures, then convert every colour area to 50% texture (not all
+at once - Photoshop can't make a clear 50% texture everywhere).
+I found no better method than to copy the area to another
+document (initially white) then setting a 3-colour palette
+(white plus two colours, the given colour must be exactly in the
+middle between them) then apply with diamond dithering. Then
+copy the converted area back to the original picture.
+
+Converting to
+DDp's palette (RЧGЧB4) is easier - just apply the
+"adaptive" palette and save. When you remove the least
+significant bits, there will be a little difference. If you want
+it better, correct the "adaptive" colours by hand before you
+apply them.
+
+DiHalt Visitors' software for group conversion of BMPs to packed
+memory dumps is there:
+http://alonecoder.nedopc.com/zx/convega.rar
+There is also a special utility by
+TmK that converts a picture
+to two flickering screens, colour-per-pixel. However it can't
+find the best palette

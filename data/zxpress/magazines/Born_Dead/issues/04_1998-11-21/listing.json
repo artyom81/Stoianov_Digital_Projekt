@@ -1,0 +1,29 @@
+[
+  {
+    "article_id": 716,
+    "article_url": "https://zxpress.ru/article.php?id=716",
+    "print_url": "https://zxpress.ru/print.php?id=716",
+    "title_link": "Новости - Газета из Коврова - BUZZ. Artcomp'98 - результаты.",
+    "order": 1,
+    "issue_label": "04",
+    "short_slug": "Новости_-_Газета_из_Коврова_-_BUZZ_Artcomp98_-_результаты"
+  },
+  {
+    "article_id": 715,
+    "article_url": "https://zxpress.ru/article.php?id=715",
+    "print_url": "https://zxpress.ru/print.php?id=715",
+    "title_link": "От редакции - О планах редакции.",
+    "order": 2,
+    "issue_label": "04",
+    "short_slug": "От_редакции_-_О_планах_редакции"
+  },
+  {
+    "article_id": 717,
+    "article_url": "https://zxpress.ru/article.php?id=717",
+    "print_url": "https://zxpress.ru/print.php?id=717",
+    "title_link": "Чёрный Ворон 2 - Новелла к игре.",
+    "order": 3,
+    "issue_label": "04",
+    "short_slug": "Черныи_Ворон_2_-_Новелла_к_игре"
+  }
+]

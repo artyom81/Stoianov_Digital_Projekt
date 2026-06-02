@@ -1,0 +1,15 @@
+{
+  "magazine_id": 36,
+  "magazine_name": "Buzz",
+  "city": null,
+  "country": null,
+  "issue_label": "13",
+  "issue_date_iso": "1998-02-12",
+  "order": 12,
+  "article_id": 1126,
+  "title_link": "Гороскоп - Гороскоп для программистов.",
+  "title_h1": "Buzz 13 - Гороскоп - Гороскоп для программистов.",
+  "print_url": "https://zxpress.ru/print.php?id=1126",
+  "article_url": "https://zxpress.ru/article.php?id=1126",
+  "fetched_at": "2026-05-31T21:48:02Z"
+}

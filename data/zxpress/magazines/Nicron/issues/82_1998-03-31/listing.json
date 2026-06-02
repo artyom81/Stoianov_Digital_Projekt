@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 7024,
+    "article_url": "https://zxpress.ru/article.php?id=7024",
+    "print_url": "https://zxpress.ru/print.php?id=7024",
+    "title_link": "Вступление - содержание номера.",
+    "order": 1,
+    "issue_label": "82",
+    "short_slug": "Вступление_-_содержание_номера"
+  },
+  {
+    "article_id": 7025,
+    "article_url": "https://zxpress.ru/article.php?id=7025",
+    "print_url": "https://zxpress.ru/print.php?id=7025",
+    "title_link": "BBS - деятельность BBS ZXNet приостановлена.",
+    "order": 2,
+    "issue_label": "82",
+    "short_slug": "BBS_-_деятельность_BBS_ZXNet_приостановлена"
+  },
+  {
+    "article_id": 7026,
+    "article_url": "https://zxpress.ru/article.php?id=7026",
+    "print_url": "https://zxpress.ru/print.php?id=7026",
+    "title_link": "Рассказы - Бортжурнал.",
+    "order": 3,
+    "issue_label": "82",
+    "short_slug": "Рассказы_-_Бортжурнал"
+  },
+  {
+    "article_id": 7027,
+    "article_url": "https://zxpress.ru/article.php?id=7027",
+    "print_url": "https://zxpress.ru/print.php?id=7027",
+    "title_link": "Юмор - правила использования дискет.",
+    "order": 4,
+    "issue_label": "82",
+    "short_slug": "Юмор_-_правила_использования_дискет"
+  },
+  {
+    "article_id": 7028,
+    "article_url": "https://zxpress.ru/article.php?id=7028",
+    "print_url": "https://zxpress.ru/print.php?id=7028",
+    "title_link": "Юмор - что такое программист.",
+    "order": 5,
+    "issue_label": "82",
+    "short_slug": "Юмор_-_что_такое_программист"
+  },
+  {
+    "article_id": 7029,
+    "article_url": "https://zxpress.ru/article.php?id=7029",
+    "print_url": "https://zxpress.ru/print.php?id=7029",
+    "title_link": "Юмор - сказка \"Жил-был программист...\"",
+    "order": 6,
+    "issue_label": "82",
+    "short_slug": "Юмор_-_сказка_Жил-был_программист"
+  },
+  {
+    "article_id": 7030,
+    "article_url": "https://zxpress.ru/article.php?id=7030",
+    "print_url": "https://zxpress.ru/print.php?id=7030",
+    "title_link": "Полезное - лексикон хороших манер. Проблемы этикета.",
+    "order": 7,
+    "issue_label": "82",
+    "short_slug": "Полезное_-_лексикон_хороших_манер_Проблемы_этикета"
+  },
+  {
+    "article_id": 7031,
+    "article_url": "https://zxpress.ru/article.php?id=7031",
+    "print_url": "https://zxpress.ru/print.php?id=7031",
+    "title_link": "Юмор - анекдоты.",
+    "order": 8,
+    "issue_label": "82",
+    "short_slug": "Юмор_-_анекдоты"
+  },
+  {
+    "article_id": 7032,
+    "article_url": "https://zxpress.ru/article.php?id=7032",
+    "print_url": "https://zxpress.ru/print.php?id=7032",
+    "title_link": "Реклама - реклама и объявления.",
+    "order": 9,
+    "issue_label": "82",
+    "short_slug": "Реклама_-_реклама_и_объявления"
+  },
+  {
+    "article_id": 7033,
+    "article_url": "https://zxpress.ru/article.php?id=7033",
+    "print_url": "https://zxpress.ru/print.php?id=7033",
+    "title_link": "Обратная связь - контакты редакции.",
+    "order": 10,
+    "issue_label": "82",
+    "short_slug": "Обратная_связь_-_контакты_редакции"
+  },
+  {
+    "article_id": 7034,
+    "article_url": "https://zxpress.ru/article.php?id=7034",
+    "print_url": "https://zxpress.ru/print.php?id=7034",
+    "title_link": "Бонус - скрытая часть первоапрельского выпуска.",
+    "order": 11,
+    "issue_label": "82",
+    "short_slug": "Бонус_-_скрытая_часть_первоапрельского_выпуска"
+  }
+]

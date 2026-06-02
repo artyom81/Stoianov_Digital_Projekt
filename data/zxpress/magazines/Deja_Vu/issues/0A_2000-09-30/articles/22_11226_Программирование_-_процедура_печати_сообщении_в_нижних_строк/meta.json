@@ -1,0 +1,15 @@
+{
+  "magazine_id": 50,
+  "magazine_name": "Deja Vu",
+  "city": null,
+  "country": null,
+  "issue_label": "0A",
+  "issue_date_iso": "2000-09-30",
+  "order": 22,
+  "article_id": 11226,
+  "title_link": "Программирование - процедура печати сообщений в нижних строках экрана.",
+  "title_h1": "Deja Vu 0A - Программирование - процедура печати сообщений в нижних строках экрана.",
+  "print_url": "https://zxpress.ru/print.php?id=11226",
+  "article_url": "https://zxpress.ru/article.php?id=11226",
+  "fetched_at": "2026-05-31T21:56:12Z"
+}

@@ -1,0 +1,713 @@
+[
+  {
+    "article_id": 5631,
+    "article_url": "https://zxpress.ru/article.php?id=5631",
+    "print_url": "https://zxpress.ru/print.php?id=5631",
+    "title_link": "Editorial - я с планеты Майга.",
+    "order": 1,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_я_с_планеты_Маига"
+  },
+  {
+    "article_id": 5632,
+    "article_url": "https://zxpress.ru/article.php?id=5632",
+    "print_url": "https://zxpress.ru/print.php?id=5632",
+    "title_link": "Editorial - две триады кристая: \"...Однако я люблю крик2! Он получился немного наивным, возможно, абсурдным, но для меня он характерен прежде всего теплотой...\"",
+    "order": 2,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_две_триады_кристая_Однако_я_люблю_крик2_Он_получ"
+  },
+  {
+    "article_id": 5633,
+    "article_url": "https://zxpress.ru/article.php?id=5633",
+    "print_url": "https://zxpress.ru/print.php?id=5633",
+    "title_link": "Editorial - индустриальные капли бархатного сока мозговых извилин: \"Два дня назад я вернулся с cc1 и с тех пор меня гложет что-то непонятное, необъяснимое, неподдающееся пониманию...\"",
+    "order": 3,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_индустриальные_капли_бархатного_сока_мозговых_из"
+  },
+  {
+    "article_id": 5634,
+    "article_url": "https://zxpress.ru/article.php?id=5634",
+    "print_url": "https://zxpress.ru/print.php?id=5634",
+    "title_link": "Editorial - make a clean breast of it: \"что касается моей музыки здесь - то я хотел чтобы она дарила людям душевное тепло, то, которое у меня было в детстве и то,\r\nкоторое я сумел сохранить до настоящего дня...\"",
+    "order": 4,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_make_a_clean_breast_of_it_что_касается_моеи_музы"
+  },
+  {
+    "article_id": 5635,
+    "article_url": "https://zxpress.ru/article.php?id=5635",
+    "print_url": "https://zxpress.ru/print.php?id=5635",
+    "title_link": "Editorial - Unbeliever: \"С трудом я вспоминаю о каких-либо шоковых программных продуктах\r\nпоследнего времени. Очередная версия Best View, быстро развивающийся BGE, HRiP и AcEditor, это наверное все, что достойно внимания...\"",
+    "order": 5,
+    "issue_label": "02",
+    "short_slug": "Editorial_-_Unbeliever_С_трудом_я_вспоминаю_о_каких-либо_шок"
+  },
+  {
+    "article_id": 5636,
+    "article_url": "https://zxpress.ru/article.php?id=5636",
+    "print_url": "https://zxpress.ru/print.php?id=5636",
+    "title_link": "Крик - charts index: \"я наконец-то решил посчитать все пришедшие чарты. Да уж, не густо - всего 18 vote-листов, но зато какие люди голосовали!\"",
+    "order": 6,
+    "issue_label": "02",
+    "short_slug": "Крик_-_charts_index_я_наконец-то_решил_посчитать_все_пришедш"
+  },
+  {
+    "article_id": 5637,
+    "article_url": "https://zxpress.ru/article.php?id=5637",
+    "print_url": "https://zxpress.ru/print.php?id=5637",
+    "title_link": "Крик - charts результаты: \"Безумная работа, скажу я вам! Целый день в моей голове крутятся \r\nодни чертовы цифры, целый день я считал, изучал, исправлял, стрелял, убивал...\"",
+    "order": 7,
+    "issue_label": "02",
+    "short_slug": "Крик_-_charts_результаты_Безумная_работа_скажу_я_вам_Целыи_д"
+  },
+  {
+    "article_id": 5638,
+    "article_url": "https://zxpress.ru/article.php?id=5638",
+    "print_url": "https://zxpress.ru/print.php?id=5638",
+    "title_link": "Крик - credits.",
+    "order": 8,
+    "issue_label": "02",
+    "short_slug": "Крик_-_credits"
+  },
+  {
+    "article_id": 5639,
+    "article_url": "https://zxpress.ru/article.php?id=5639",
+    "print_url": "https://zxpress.ru/print.php?id=5639",
+    "title_link": "Zoom - новости: создатели газеты Абзац делают игру, Phantom Family cвалили на pc, новый состав группы 4D, Вячеслав Медноногов потерян для спектрума окончательно, Davos забил на спектрум, Lynx работает над HTML вьювером, у группы Sage \"полный негативизм\", Kvazar прекращает выпуск газеты \"Полесье\" и т.д.",
+    "order": 9,
+    "issue_label": "02",
+    "short_slug": "Zoom_-_новости_создатели_газеты_Абзац_делают_игру_Phantom_Fa"
+  },
+  {
+    "article_id": 5640,
+    "article_url": "https://zxpress.ru/article.php?id=5640",
+    "print_url": "https://zxpress.ru/print.php?id=5640",
+    "title_link": "Zoom - интервью с Baze/3sc.",
+    "order": 10,
+    "issue_label": "02",
+    "short_slug": "Zoom_-_интервью_с_Baze3sc"
+  },
+  {
+    "article_id": 5641,
+    "article_url": "https://zxpress.ru/article.php?id=5641",
+    "print_url": "https://zxpress.ru/print.php?id=5641",
+    "title_link": "Zoom - Wlodek Balck о ситуации со Спектрумом в Москве.",
+    "order": 11,
+    "issue_label": "02",
+    "short_slug": "Zoom_-_Wlodek_Balck_о_ситуации_со_Спектрумом_в_Москве"
+  },
+  {
+    "article_id": 5642,
+    "article_url": "https://zxpress.ru/article.php?id=5642",
+    "print_url": "https://zxpress.ru/print.php?id=5642",
+    "title_link": "Scene - Internet vs Speccy: победила дружба! \"Чем же так привлекателен интернет для создания новых проектов посвященных нашему любимому компьютеру?\"",
+    "order": 12,
+    "issue_label": "02",
+    "short_slug": "Scene_-_Internet_vs_Speccy_победила_дружба_Чем_же_так_привле"
+  },
+  {
+    "article_id": 5643,
+    "article_url": "https://zxpress.ru/article.php?id=5643",
+    "print_url": "https://zxpress.ru/print.php?id=5643",
+    "title_link": "Scene - Insanity Zer0: \"Реальных демомейкеров за всю историю спектрума - не больше десятка имен, с натяжкой можно назвать двадцать! Геймемйкеров - еще\r\nменьше...\"",
+    "order": 13,
+    "issue_label": "02",
+    "short_slug": "Scene_-_Insanity_Zer0_Реальных_демомеикеров_за_всю_историю_с"
+  },
+  {
+    "article_id": 5644,
+    "article_url": "https://zxpress.ru/article.php?id=5644",
+    "print_url": "https://zxpress.ru/print.php?id=5644",
+    "title_link": "Scene - leet?! Определения элитного \"сценера\".",
+    "order": 14,
+    "issue_label": "02",
+    "short_slug": "Scene_-_leet_Определения_элитного_сценера"
+  },
+  {
+    "article_id": 5645,
+    "article_url": "https://zxpress.ru/article.php?id=5645",
+    "print_url": "https://zxpress.ru/print.php?id=5645",
+    "title_link": "Scene - плацебоги: \"placebo: вы плацебоги, мы вас любим\".",
+    "order": 15,
+    "issue_label": "02",
+    "short_slug": "Scene_-_плацебоги_placebo_вы_плацебоги_мы_вас_любим"
+  },
+  {
+    "article_id": 5646,
+    "article_url": "https://zxpress.ru/article.php?id=5646",
+    "print_url": "https://zxpress.ru/print.php?id=5646",
+    "title_link": "Scene - каннибализм на сцене: \"лагерь спектрума разбит на две тусовки: западную, европейскую сцену и русскую...\"",
+    "order": 16,
+    "issue_label": "02",
+    "short_slug": "Scene_-_каннибализм_на_сцене_лагерь_спектрума_разбит_на_две"
+  },
+  {
+    "article_id": 5647,
+    "article_url": "https://zxpress.ru/article.php?id=5647",
+    "print_url": "https://zxpress.ru/print.php?id=5647",
+    "title_link": "Pro-обзор - press.scene.review: Kosme 0, Psyhoz 5, Body 2f, Plutonium 19, Черная Ворона 6, Subliminal Extacy 3, IzhNews 0C, ZX-time 2, Lamergy 1, MSF 22, Стекло.",
+    "order": 17,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_pressscenereview_Kosme_0_Psyhoz_5_Body_2f_Pluton"
+  },
+  {
+    "article_id": 5648,
+    "article_url": "https://zxpress.ru/article.php?id=5648",
+    "print_url": "https://zxpress.ru/print.php?id=5648",
+    "title_link": "Pro-обзор - cc01.gfx заложник пикселей: \"Я ждал этого компо, честно признаюсь, без каких-либо особых переживаний...\"",
+    "order": 18,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_cc01gfx_заложник_пикселеи_Я_ждал_этого_компо_чес"
+  },
+  {
+    "article_id": 5649,
+    "article_url": "https://zxpress.ru/article.php?id=5649",
+    "print_url": "https://zxpress.ru/print.php?id=5649",
+    "title_link": "Pro-обзор - CC1 music или 'дело было вечером...' - Gas 13 vs Nik-O.",
+    "order": 19,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_CC1_music_или_дело_было_вечером_-_Gas_13_vs_Nik-"
+  },
+  {
+    "article_id": 5650,
+    "article_url": "https://zxpress.ru/article.php?id=5650",
+    "print_url": "https://zxpress.ru/print.php?id=5650",
+    "title_link": "Pro-обзор - Nuotrauka music compo review: \"Написание обзоров графики с прошедших party уже стало хорошей традицией, но почему-то не получило большого развития в музыке...\"",
+    "order": 20,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_Nuotrauka_music_compo_review_Написание_обзоров_г"
+  },
+  {
+    "article_id": 5651,
+    "article_url": "https://zxpress.ru/article.php?id=5651",
+    "print_url": "https://zxpress.ru/print.php?id=5651",
+    "title_link": "Pro-обзор - Nuotrauka GFX compo review: \"наслушавшись мнений художников-техников, очевидно\r\nнебезынтересно будет узнать мнение тех, кто видит работы под несколько другим углом зрения\"",
+    "order": 21,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_Nuotrauka_GFX_compo_review_наслушавшись_мнении_х"
+  },
+  {
+    "article_id": 5652,
+    "article_url": "https://zxpress.ru/article.php?id=5652",
+    "print_url": "https://zxpress.ru/print.php?id=5652",
+    "title_link": "Pro-обзор - Nuotrauka'tm compo stuff review: \"Обзоры - штука довольно сложная, потому что говорить не лицеприятные вещи людям, с которыми ты в хороших дружеских отношениях, сложно всегда\"...",
+    "order": 22,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_Nuotraukatm_compo_stuff_review_Обзоры_-_штука_до"
+  },
+  {
+    "article_id": 5653,
+    "article_url": "https://zxpress.ru/article.php?id=5653",
+    "print_url": "https://zxpress.ru/print.php?id=5653",
+    "title_link": "Pro-обзор - Millennium'1901 Demoparty ... Обзор графики от Ice'Di.",
+    "order": 23,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_Millennium1901_Demoparty_Обзор_графики_от_IceDi"
+  },
+  {
+    "article_id": 5654,
+    "article_url": "https://zxpress.ru/article.php?id=5654",
+    "print_url": "https://zxpress.ru/print.php?id=5654",
+    "title_link": "Pro-обзор - phat1 gfx compo review.",
+    "order": 24,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_phat1_gfx_compo_review"
+  },
+  {
+    "article_id": 5655,
+    "article_url": "https://zxpress.ru/article.php?id=5655",
+    "print_url": "https://zxpress.ru/print.php?id=5655",
+    "title_link": "Pro-обзор - phat0 gfx compo review: \"Графика в этот раз? Не очень. Помнится, в прошлый раз было лучше\"",
+    "order": 25,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_phat0_gfx_compo_review_Графика_в_этот_раз_Не_оче"
+  },
+  {
+    "article_id": 5656,
+    "article_url": "https://zxpress.ru/article.php?id=5656",
+    "print_url": "https://zxpress.ru/print.php?id=5656",
+    "title_link": "Pro-обзор - insanity#9 review: \"Этот номер хотя и не был изначально ожидаем мною как скандальный, но после выхода таковым стал. Лично я остался если не избитым до смерти, то по крайней мере покалеченным\"",
+    "order": 26,
+    "issue_label": "02",
+    "short_slug": "Pro-обзор_-_insanity9_review_Этот_номер_хотя_и_не_был_изнача"
+  },
+  {
+    "article_id": 5657,
+    "article_url": "https://zxpress.ru/article.php?id=5657",
+    "print_url": "https://zxpress.ru/print.php?id=5657",
+    "title_link": "Demoparty - chaos construstions'oo1 report: \"в Петербурге царила просто непередаваемая атмосфера духа сцены, дружбы, сплочённости, и так хорошо мне, наверное, никогда ещё не было\"",
+    "order": 27,
+    "issue_label": "02",
+    "short_slug": "Demoparty_-_chaos_construstionsoo1_report_в_Петербурге_царил"
+  },
+  {
+    "article_id": 5658,
+    "article_url": "https://zxpress.ru/article.php?id=5658",
+    "print_url": "https://zxpress.ru/print.php?id=5658",
+    "title_link": "Demoparty - Chaos Constructions 001: Party было... было rulez! \"возвратившись домой с CC'001, я не могу поверить в то, что все происходило наяву\"",
+    "order": 28,
+    "issue_label": "02",
+    "short_slug": "Demoparty_-_Chaos_Constructions_001_Party_было_было_rulez_во"
+  },
+  {
+    "article_id": 5659,
+    "article_url": "https://zxpress.ru/article.php?id=5659",
+    "print_url": "https://zxpress.ru/print.php?id=5659",
+    "title_link": "Demoparty - Megus: Отчет о demoparty Chaos Constructions'2001.",
+    "order": 29,
+    "issue_label": "02",
+    "short_slug": "Demoparty_-_Megus_Отчет_о_demoparty_Chaos_Constructions2001"
+  },
+  {
+    "article_id": 5660,
+    "article_url": "https://zxpress.ru/article.php?id=5660",
+    "print_url": "https://zxpress.ru/print.php?id=5660",
+    "title_link": "Demoparty - nuotrauka'tm details: \"Так получилось, что я стал одним из органайзеров этой парти, а потому и отмазываться от части придется мне\"",
+    "order": 30,
+    "issue_label": "02",
+    "short_slug": "Demoparty_-_nuotraukatm_details_Так_получилось_что_я_стал_од"
+  },
+  {
+    "article_id": 5661,
+    "article_url": "https://zxpress.ru/article.php?id=5661",
+    "print_url": "https://zxpress.ru/print.php?id=5661",
+    "title_link": "Interview - интервью с poisoned CyberJack/Triebkraft (часть 1).",
+    "order": 31,
+    "issue_label": "02",
+    "short_slug": "Interview_-_интервью_с_poisoned_CyberJackTriebkraft_часть_1"
+  },
+  {
+    "article_id": 5662,
+    "article_url": "https://zxpress.ru/article.php?id=5662",
+    "print_url": "https://zxpress.ru/print.php?id=5662",
+    "title_link": "Interview - интервью с poisoned CyberJack/Triebkraft (часть 2).",
+    "order": 32,
+    "issue_label": "02",
+    "short_slug": "Interview_-_интервью_с_poisoned_CyberJackTriebkraft_часть_2"
+  },
+  {
+    "article_id": 5663,
+    "article_url": "https://zxpress.ru/article.php?id=5663",
+    "print_url": "https://zxpress.ru/print.php?id=5663",
+    "title_link": "Interview - интервью c Blade, Steelzer, Ice'di / Ttriumph.",
+    "order": 33,
+    "issue_label": "02",
+    "short_slug": "Interview_-_интервью_c_Blade_Steelzer_Icedi_Ttriumph"
+  },
+  {
+    "article_id": 5664,
+    "article_url": "https://zxpress.ru/article.php?id=5664",
+    "print_url": "https://zxpress.ru/print.php?id=5664",
+    "title_link": "Interview - гоны за сцену: \"почему Chasm/CPU урод, и кто вообще решил, что он - урод?\"",
+    "order": 34,
+    "issue_label": "02",
+    "short_slug": "Interview_-_гоны_за_сцену_почему_ChasmCPU_урод_и_кто_вообще"
+  },
+  {
+    "article_id": 5665,
+    "article_url": "https://zxpress.ru/article.php?id=5665",
+    "print_url": "https://zxpress.ru/print.php?id=5665",
+    "title_link": "Tutorials - coding: реализация эффекта \"Mirror rotator\" (статья рассчитана на довольно подготовленного демо-кодера).",
+    "order": 35,
+    "issue_label": "02",
+    "short_slug": "Tutorials_-_coding_реализация_эффекта_Mirror_rotator_статья"
+  },
+  {
+    "article_id": 5666,
+    "article_url": "https://zxpress.ru/article.php?id=5666",
+    "print_url": "https://zxpress.ru/print.php?id=5666",
+    "title_link": "Tutorials - ascii scene: \"Ascii сцена... Как же я тебя безумно люблю! Наверное, ты как никакая другая сцена смогла зародиться так рано\"",
+    "order": 36,
+    "issue_label": "02",
+    "short_slug": "Tutorials_-_ascii_scene_Ascii_сцена_Как_же_я_тебя_безумно_лю"
+  },
+  {
+    "article_id": 5667,
+    "article_url": "https://zxpress.ru/article.php?id=5667",
+    "print_url": "https://zxpress.ru/print.php?id=5667",
+    "title_link": "Tutorials - под прессом прессы: \"Когда тебя учат писать, рассказывая о литературных тонкостях и приемах, это отлично, это здорово! Когда у тебя кроме этих познаний нет ничего, нет базовых понятий, это куда хуже\"",
+    "order": 37,
+    "issue_label": "02",
+    "short_slug": "Tutorials_-_под_прессом_прессы_Когда_тебя_учат_писать_расска"
+  },
+  {
+    "article_id": 5668,
+    "article_url": "https://zxpress.ru/article.php?id=5668",
+    "print_url": "https://zxpress.ru/print.php?id=5668",
+    "title_link": "Сладкие - index.",
+    "order": 38,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_index"
+  },
+  {
+    "article_id": 5669,
+    "article_url": "https://zxpress.ru/article.php?id=5669",
+    "print_url": "https://zxpress.ru/print.php?id=5669",
+    "title_link": "Сладкие - одиночество.",
+    "order": 39,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_одиночество"
+  },
+  {
+    "article_id": 5670,
+    "article_url": "https://zxpress.ru/article.php?id=5670",
+    "print_url": "https://zxpress.ru/print.php?id=5670",
+    "title_link": "Сладкие - son.",
+    "order": 40,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_son"
+  },
+  {
+    "article_id": 5671,
+    "article_url": "https://zxpress.ru/article.php?id=5671",
+    "print_url": "https://zxpress.ru/print.php?id=5671",
+    "title_link": "Сладкие - треугольный кабинет.",
+    "order": 41,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_треугольныи_кабинет"
+  },
+  {
+    "article_id": 5672,
+    "article_url": "https://zxpress.ru/article.php?id=5672",
+    "print_url": "https://zxpress.ru/print.php?id=5672",
+    "title_link": "Сладкие - три испачканных розы.",
+    "order": 42,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_три_испачканных_розы"
+  },
+  {
+    "article_id": 5673,
+    "article_url": "https://zxpress.ru/article.php?id=5673",
+    "print_url": "https://zxpress.ru/print.php?id=5673",
+    "title_link": "Сладкие - сам.",
+    "order": 43,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_сам"
+  },
+  {
+    "article_id": 5674,
+    "article_url": "https://zxpress.ru/article.php?id=5674",
+    "print_url": "https://zxpress.ru/print.php?id=5674",
+    "title_link": "Сладкие - вася.",
+    "order": 44,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_вася"
+  },
+  {
+    "article_id": 5675,
+    "article_url": "https://zxpress.ru/article.php?id=5675",
+    "print_url": "https://zxpress.ru/print.php?id=5675",
+    "title_link": "Сладкие - осуждение.",
+    "order": 45,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_осуждение"
+  },
+  {
+    "article_id": 5676,
+    "article_url": "https://zxpress.ru/article.php?id=5676",
+    "print_url": "https://zxpress.ru/print.php?id=5676",
+    "title_link": "Сладкие - добро.",
+    "order": 46,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_добро"
+  },
+  {
+    "article_id": 5677,
+    "article_url": "https://zxpress.ru/article.php?id=5677",
+    "print_url": "https://zxpress.ru/print.php?id=5677",
+    "title_link": "Сладкие - приход.",
+    "order": 47,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_приход"
+  },
+  {
+    "article_id": 5678,
+    "article_url": "https://zxpress.ru/article.php?id=5678",
+    "print_url": "https://zxpress.ru/print.php?id=5678",
+    "title_link": "Сладкие - алюминиевая ложка.",
+    "order": 48,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_алюминиевая_ложка"
+  },
+  {
+    "article_id": 5679,
+    "article_url": "https://zxpress.ru/article.php?id=5679",
+    "print_url": "https://zxpress.ru/print.php?id=5679",
+    "title_link": "Сладкие - ботинок.",
+    "order": 49,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_ботинок"
+  },
+  {
+    "article_id": 5680,
+    "article_url": "https://zxpress.ru/article.php?id=5680",
+    "print_url": "https://zxpress.ru/print.php?id=5680",
+    "title_link": "Сладкие - внезапность.",
+    "order": 50,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_внезапность"
+  },
+  {
+    "article_id": 5681,
+    "article_url": "https://zxpress.ru/article.php?id=5681",
+    "print_url": "https://zxpress.ru/print.php?id=5681",
+    "title_link": "Сладкие - ДРАМА13.",
+    "order": 51,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_ДРАМА13"
+  },
+  {
+    "article_id": 5682,
+    "article_url": "https://zxpress.ru/article.php?id=5682",
+    "print_url": "https://zxpress.ru/print.php?id=5682",
+    "title_link": "Сладкие - холодильник заснеженных идеалов.",
+    "order": 52,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_холодильник_заснеженных_идеалов"
+  },
+  {
+    "article_id": 5683,
+    "article_url": "https://zxpress.ru/article.php?id=5683",
+    "print_url": "https://zxpress.ru/print.php?id=5683",
+    "title_link": "Сладкие - моя оля.",
+    "order": 53,
+    "issue_label": "02",
+    "short_slug": "Сладкие_-_моя_оля"
+  },
+  {
+    "article_id": 5684,
+    "article_url": "https://zxpress.ru/article.php?id=5684",
+    "print_url": "https://zxpress.ru/print.php?id=5684",
+    "title_link": "Иной - index.",
+    "order": 54,
+    "issue_label": "02",
+    "short_slug": "Инои_-_index"
+  },
+  {
+    "article_id": 5685,
+    "article_url": "https://zxpress.ru/article.php?id=5685",
+    "print_url": "https://zxpress.ru/print.php?id=5685",
+    "title_link": "Иной - dnewnik-ol.",
+    "order": 55,
+    "issue_label": "02",
+    "short_slug": "Инои_-_dnewnik-ol"
+  },
+  {
+    "article_id": 5686,
+    "article_url": "https://zxpress.ru/article.php?id=5686",
+    "print_url": "https://zxpress.ru/print.php?id=5686",
+    "title_link": "Иной - e-dnewnik-oz.",
+    "order": 56,
+    "issue_label": "02",
+    "short_slug": "Инои_-_e-dnewnik-oz"
+  },
+  {
+    "article_id": 5687,
+    "article_url": "https://zxpress.ru/article.php?id=5687",
+    "print_url": "https://zxpress.ru/print.php?id=5687",
+    "title_link": "Иной - скеси-ссака.",
+    "order": 57,
+    "issue_label": "02",
+    "short_slug": "Инои_-_скеси-ссака"
+  },
+  {
+    "article_id": 5688,
+    "article_url": "https://zxpress.ru/article.php?id=5688",
+    "print_url": "https://zxpress.ru/print.php?id=5688",
+    "title_link": "Иной - скеси-ссака (2).",
+    "order": 58,
+    "issue_label": "02",
+    "short_slug": "Инои_-_скеси-ссака_2"
+  },
+  {
+    "article_id": 5689,
+    "article_url": "https://zxpress.ru/article.php?id=5689",
+    "print_url": "https://zxpress.ru/print.php?id=5689",
+    "title_link": "Иной - скеси-ссака (3).",
+    "order": 59,
+    "issue_label": "02",
+    "short_slug": "Инои_-_скеси-ссака_3"
+  },
+  {
+    "article_id": 5690,
+    "article_url": "https://zxpress.ru/article.php?id=5690",
+    "print_url": "https://zxpress.ru/print.php?id=5690",
+    "title_link": "Иной - скеси-ссака (4) или кристов любит роню.",
+    "order": 60,
+    "issue_label": "02",
+    "short_slug": "Инои_-_скеси-ссака_4_или_кристов_любит_роню"
+  },
+  {
+    "article_id": 5691,
+    "article_url": "https://zxpress.ru/article.php?id=5691",
+    "print_url": "https://zxpress.ru/print.php?id=5691",
+    "title_link": "Иной - его губы.",
+    "order": 61,
+    "issue_label": "02",
+    "short_slug": "Инои_-_его_губы"
+  },
+  {
+    "article_id": 5692,
+    "article_url": "https://zxpress.ru/article.php?id=5692",
+    "print_url": "https://zxpress.ru/print.php?id=5692",
+    "title_link": "Иной - Пойми сигу.",
+    "order": 62,
+    "issue_label": "02",
+    "short_slug": "Инои_-_Поими_сигу"
+  },
+  {
+    "article_id": 5693,
+    "article_url": "https://zxpress.ru/article.php?id=5693",
+    "print_url": "https://zxpress.ru/print.php?id=5693",
+    "title_link": "Иной - Чем пахнет сига?.",
+    "order": 63,
+    "issue_label": "02",
+    "short_slug": "Инои_-_Чем_пахнет_сига"
+  },
+  {
+    "article_id": 5694,
+    "article_url": "https://zxpress.ru/article.php?id=5694",
+    "print_url": "https://zxpress.ru/print.php?id=5694",
+    "title_link": "Иной - Дым-шептун.",
+    "order": 64,
+    "issue_label": "02",
+    "short_slug": "Инои_-_Дым-шептун"
+  },
+  {
+    "article_id": 5695,
+    "article_url": "https://zxpress.ru/article.php?id=5695",
+    "print_url": "https://zxpress.ru/print.php?id=5695",
+    "title_link": "Биться - безумные оправдания: \"Думаю, ты еще не знаешь, что в insanity#9 бОльшая часть материалов - выдержки из личной переписки автора с различными сценерами\"",
+    "order": 65,
+    "issue_label": "02",
+    "short_slug": "Биться_-_безумные_оправдания_Думаю_ты_еще_не_знаешь_что_в_in"
+  },
+  {
+    "article_id": 5696,
+    "article_url": "https://zxpress.ru/article.php?id=5696",
+    "print_url": "https://zxpress.ru/print.php?id=5696",
+    "title_link": "Биться - Трахальщик Frunze: \"Увидели мы значит в сетях рекламу от \"товарища Frunze\",\r\nкасающуюся видео с CC'999. Итак, подкопив некоторый капитал в размере 100 р. заказали видео_кассету\"",
+    "order": 66,
+    "issue_label": "02",
+    "short_slug": "Биться_-_Трахальщик_Frunze_Увидели_мы_значит_в_сетях_рекламу"
+  },
+  {
+    "article_id": 5697,
+    "article_url": "https://zxpress.ru/article.php?id=5697",
+    "print_url": "https://zxpress.ru/print.php?id=5697",
+    "title_link": "Мозги - skene anexx.",
+    "order": 67,
+    "issue_label": "02",
+    "short_slug": "Мозги_-_skene_anexx"
+  },
+  {
+    "article_id": 5698,
+    "article_url": "https://zxpress.ru/article.php?id=5698",
+    "print_url": "https://zxpress.ru/print.php?id=5698",
+    "title_link": "Мозги - dick is out of my pants!.",
+    "order": 68,
+    "issue_label": "02",
+    "short_slug": "Мозги_-_dick_is_out_of_my_pants"
+  },
+  {
+    "article_id": 5699,
+    "article_url": "https://zxpress.ru/article.php?id=5699",
+    "print_url": "https://zxpress.ru/print.php?id=5699",
+    "title_link": "Мозги - сладкие члены.",
+    "order": 69,
+    "issue_label": "02",
+    "short_slug": "Мозги_-_сладкие_члены"
+  },
+  {
+    "article_id": 5700,
+    "article_url": "https://zxpress.ru/article.php?id=5700",
+    "print_url": "https://zxpress.ru/print.php?id=5700",
+    "title_link": "Sobaka.ру - postbox: \"собственно, вот и оно, то, ради чего отчасти и делался [крик -\r\nваши отзывы, эмоции и даже Зло. Писем пришло много...\"",
+    "order": 70,
+    "issue_label": "02",
+    "short_slug": "Sobakaру_-_postbox_собственно_вот_и_оно_то_ради_чего_отчасти"
+  },
+  {
+    "article_id": 5701,
+    "article_url": "https://zxpress.ru/article.php?id=5701",
+    "print_url": "https://zxpress.ru/print.php?id=5701",
+    "title_link": "Миска - \"Самое прекрасное в том, что сюда ты можешь писать даже не зная\r\nничего о сцене!\"",
+    "order": 71,
+    "issue_label": "02",
+    "short_slug": "Миска_-_Самое_прекрасное_в_том_что_сюда_ты_можешь_писать_даж"
+  },
+  {
+    "article_id": 5702,
+    "article_url": "https://zxpress.ru/article.php?id=5702",
+    "print_url": "https://zxpress.ru/print.php?id=5702",
+    "title_link": "Миска - Тривиальное чтиво: \"Декларации демократического общества сами по себе как обещания ничeго не стоят. У нас привыкли верить красивым словам, но в поступки верить почему то не принято\"",
+    "order": 72,
+    "issue_label": "02",
+    "short_slug": "Миска_-_Тривиальное_чтиво_Декларации_демократического_общест"
+  },
+  {
+    "article_id": 5703,
+    "article_url": "https://zxpress.ru/article.php?id=5703",
+    "print_url": "https://zxpress.ru/print.php?id=5703",
+    "title_link": "Миска - ОС будущего для SPECCY.",
+    "order": 73,
+    "issue_label": "02",
+    "short_slug": "Миска_-_ОС_будущего_для_SPECCY"
+  },
+  {
+    "article_id": 5704,
+    "article_url": "https://zxpress.ru/article.php?id=5704",
+    "print_url": "https://zxpress.ru/print.php?id=5704",
+    "title_link": "Миска - \"Ты - слизняк. Да, да, это так, не нужно отрицательно мотать головой и отмазываться тупыми фразами. Ты дохляк! Ты маструбируешь на голых девок из zx-stag'а\"",
+    "order": 74,
+    "issue_label": "02",
+    "short_slug": "Миска_-_Ты_-_слизняк_Да_да_это_так_не_нужно_отрицательно_мот"
+  },
+  {
+    "article_id": 5705,
+    "article_url": "https://zxpress.ru/article.php?id=5705",
+    "print_url": "https://zxpress.ru/print.php?id=5705",
+    "title_link": "Миска - About girls.",
+    "order": 75,
+    "issue_label": "02",
+    "short_slug": "Миска_-_About_girls"
+  },
+  {
+    "article_id": 5706,
+    "article_url": "https://zxpress.ru/article.php?id=5706",
+    "print_url": "https://zxpress.ru/print.php?id=5706",
+    "title_link": "Лоzhение - index: \"Возможно, ты не оценишь то, как я сократил слово \"приложение\",\r\nно...\"",
+    "order": 76,
+    "issue_label": "02",
+    "short_slug": "Лоzhение_-_index_Возможно_ты_не_оценишь_то_как_я_сократил_сл"
+  },
+  {
+    "article_id": 5707,
+    "article_url": "https://zxpress.ru/article.php?id=5707",
+    "print_url": "https://zxpress.ru/print.php?id=5707",
+    "title_link": "Лоzhение - about ACEdit0.59.",
+    "order": 77,
+    "issue_label": "02",
+    "short_slug": "Лоzhение_-_about_ACEdit059"
+  },
+  {
+    "article_id": 5708,
+    "article_url": "https://zxpress.ru/article.php?id=5708",
+    "print_url": "https://zxpress.ru/print.php?id=5708",
+    "title_link": "Лоzheние - Группа CRUSHERS представляет свою мини\r\nигру: Flintstones: Fred in the magic wood.",
+    "order": 78,
+    "issue_label": "02",
+    "short_slug": "Лоzheние_-_Группа_CRUSHERS_представляет_свою_миниигру_Flints"
+  },
+  {
+    "article_id": 5709,
+    "article_url": "https://zxpress.ru/article.php?id=5709",
+    "print_url": "https://zxpress.ru/print.php?id=5709",
+    "title_link": "Лоzheние - [В]арга lit packs 13, 14, 15, 16 and 17: \"Я безумно тебе завидую - ведь у тебя все еще \r\nвпереди, ведь тебе еще только предстоит окунуться в сказочно\r\nпрекрасный мир, созданный талантливыми писателями из команды\r\n[В]арга\".",
+    "order": 79,
+    "issue_label": "02",
+    "short_slug": "Лоzheние_-_Варга_lit_packs_13_14_15_16_and_17_Я_безумно_тебе"
+  }
+]

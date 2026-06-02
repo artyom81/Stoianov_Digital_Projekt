@@ -1,0 +1,15 @@
+{
+  "magazine_id": 111,
+  "magazine_name": "Lime Tree",
+  "city": null,
+  "country": null,
+  "issue_label": "10",
+  "issue_date_iso": "1996-01-19",
+  "order": 1,
+  "article_id": 106,
+  "title_link": "BBS NEWS - Графика работы станций.",
+  "title_h1": "Lime Tree 10 - BBS NEWS - Графика работы станций.",
+  "print_url": "https://zxpress.ru/print.php?id=106",
+  "article_url": "https://zxpress.ru/article.php?id=106",
+  "fetched_at": "2026-05-31T22:19:24Z"
+}

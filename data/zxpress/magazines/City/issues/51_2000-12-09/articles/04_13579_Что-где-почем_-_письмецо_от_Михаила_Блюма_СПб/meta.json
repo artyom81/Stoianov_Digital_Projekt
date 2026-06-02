@@ -1,0 +1,15 @@
+{
+  "magazine_id": 42,
+  "magazine_name": "City",
+  "city": null,
+  "country": null,
+  "issue_label": "51",
+  "issue_date_iso": "2000-12-09",
+  "order": 4,
+  "article_id": 13579,
+  "title_link": "Что-где-почем - письмецо от Михаила Блюма (СПб).",
+  "title_h1": "City 51 - Что-где-почем - письмецо от Михаила Блюма (СПб).",
+  "print_url": "https://zxpress.ru/print.php?id=13579",
+  "article_url": "https://zxpress.ru/article.php?id=13579",
+  "fetched_at": "2026-05-31T21:52:23Z"
+}

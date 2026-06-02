@@ -1,0 +1,101 @@
+[
+  {
+    "article_id": 4584,
+    "article_url": "https://zxpress.ru/article.php?id=4584",
+    "print_url": "https://zxpress.ru/print.php?id=4584",
+    "title_link": "Экспертиза - подробный разбор второй часть игры \"HACKER\". Вам \r\nпредстоит стать участником захватывающей детективной истории.",
+    "order": 1,
+    "issue_label": "17",
+    "short_slug": "Экспертиза_-_подробныи_разбор_второи_часть_игры_HACKER_Вам_п"
+  },
+  {
+    "article_id": 4585,
+    "article_url": "https://zxpress.ru/article.php?id=4585",
+    "print_url": "https://zxpress.ru/print.php?id=4585",
+    "title_link": "Обзор - обзор новых поступлений на рынки Москвы: Navy Seals, Abadia, Пираты, Wild West Seymour. А также английский хит-парад лучших игр конца 80-х - начала 90-х годов.",
+    "order": 2,
+    "issue_label": "17",
+    "short_slug": "Обзор_-_обзор_новых_поступлении_на_рынки_Москвы_Navy_Seals_A"
+  },
+  {
+    "article_id": 4586,
+    "article_url": "https://zxpress.ru/article.php?id=4586",
+    "print_url": "https://zxpress.ru/print.php?id=4586",
+    "title_link": "С миру по биту - Вячеслав Меднаногов отвечает на письма читалетелей по игре НЛО - Враг Неизвестен.",
+    "order": 3,
+    "issue_label": "17",
+    "short_slug": "С_миру_по_биту_-_Вячеслав_Меднаногов_отвечает_на_письма_чита"
+  },
+  {
+    "article_id": 4587,
+    "article_url": "https://zxpress.ru/article.php?id=4587",
+    "print_url": "https://zxpress.ru/print.php?id=4587",
+    "title_link": "Премьера - премьера двух системных программ: \"Esperanto-48\" и \"Gemmini Commander v.3.2\".",
+    "order": 4,
+    "issue_label": "17",
+    "short_slug": "Премьера_-_премьера_двух_системных_программ_Esperanto-48_и_G"
+  },
+  {
+    "article_id": 4588,
+    "article_url": "https://zxpress.ru/article.php?id=4588",
+    "print_url": "https://zxpress.ru/print.php?id=4588",
+    "title_link": "Система - обсуждение насущных вопросов стандартизации\r\nСпектрум-совместимых компьютеров.",
+    "order": 5,
+    "issue_label": "17",
+    "short_slug": "Система_-_обсуждение_насущных_вопросов_стандартизацииСпектру"
+  },
+  {
+    "article_id": 18080,
+    "article_url": "https://zxpress.ru/article.php?id=18080",
+    "print_url": "https://zxpress.ru/print.php?id=18080",
+    "title_link": "Конструктор - вопросы рассширения ОЗУ до 512 кб.",
+    "order": 6,
+    "issue_label": "17",
+    "short_slug": "Конструктор_-_вопросы_рассширения_ОЗУ_до_512_кб"
+  },
+  {
+    "article_id": 4589,
+    "article_url": "https://zxpress.ru/article.php?id=4589",
+    "print_url": "https://zxpress.ru/print.php?id=4589",
+    "title_link": "Конструктор - о проблемах, связанных с портом #FD.",
+    "order": 7,
+    "issue_label": "17",
+    "short_slug": "Конструктор_-_о_проблемах_связанных_с_портом_FD"
+  },
+  {
+    "article_id": 18081,
+    "article_url": "https://zxpress.ru/article.php?id=18081",
+    "print_url": "https://zxpress.ru/print.php?id=18081",
+    "title_link": "Конструктор - реализация ПСЕВДО-ПЗУ.",
+    "order": 8,
+    "issue_label": "17",
+    "short_slug": "Конструктор_-_реализация_ПСЕВДО-ПЗУ"
+  },
+  {
+    "article_id": 4590,
+    "article_url": "https://zxpress.ru/article.php?id=4590",
+    "print_url": "https://zxpress.ru/print.php?id=4590",
+    "title_link": "Фантазия - компьютерная новелла по игре \"Lords of Chaos\".",
+    "order": 9,
+    "issue_label": "17",
+    "short_slug": "Фантазия_-_компьютерная_новелла_по_игре_Lords_of_Chaos"
+  },
+  {
+    "article_id": 4591,
+    "article_url": "https://zxpress.ru/article.php?id=4591",
+    "print_url": "https://zxpress.ru/print.php?id=4591",
+    "title_link": "Горячий привет - интервью с фирмой Mythos Games, известной по \r\nтаким играм, как \"Laser Squad\", \"Rebel Star\", \"Lords of Chaos\" и др.",
+    "order": 10,
+    "issue_label": "17",
+    "short_slug": "Горячии_привет_-_интервью_с_фирмои_Mythos_Games_известнои_по"
+  },
+  {
+    "article_id": 4592,
+    "article_url": "https://zxpress.ru/article.php?id=4592",
+    "print_url": "https://zxpress.ru/print.php?id=4592",
+    "title_link": "Реклама - раздел бесплатных обьявлений.",
+    "order": 11,
+    "issue_label": "17",
+    "short_slug": "Реклама_-_раздел_бесплатных_обьявлении"
+  }
+]

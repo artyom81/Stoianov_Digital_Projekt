@@ -1,0 +1,210 @@
+ACNews 65 - News - John Silver recovered his broken leg and returned to his job, Deathsoft continues to reverse engineer the schematics of 1818VG93 disk controller using microphotographs, Hippiman/Conscience has translated his PC game Dizzy Rescues, vBv has released his famous collection of ZX Spectrum software
+News
+by Alone Coder
+Winter vacations are over.
+
+John Silver recovered his broken leg and returned to his job. In
+our old group
+Invaders8 three people broke legs: he, I, and his
+brother
+Basil. Together with Codex group, we even wrote two gift
+demos to
+Basil because of this, they were released with ZX-Guide
+#2.5 Trash. One of the gifts was even labelled
+"Invalids8 group"
+:)
+
+DimkaM has joined the branches of Unreal Speccy emulator: from
+DeathSoft and from
+Lord Vader.
+NedoPC develops a new version of TurboSoundFM sound card named
+TurboFM Pro, with SAA chip added. 
+
+Deathsoft continues to reverse engineer the schematics of
+1818VG93 disk controller using microphotographs. 
+
+I continue to develop NedoLang programming language, changing
+its syntax again:
+- the typecast is now with '
++ ' (not in function parameters).
+Functions differ from variables by parentheses around
+(parentheses after them don't help because the identifiers can
+contain a number of words):
++(type)(expr) vs.
++(type)funcname(...) vs.
++(type)num .
+- function paramenters are no more named:
+funcname((type)num,
+(type)(expr)), (type)funcname(...)) .
+- constants appeared:
+const type varname=num .
+- boolean constants are written this way:
++TRUE, +FALSE .
+- forwarded procedures and functions added (
+forward is written
+before the parenthesized argument list).
+- unpaired quotes in comments can be used.
+I gradually translate the NedoLang compiler source into NedoLang
+(I already translated 3 low-level modules and almost finished
+the main module). However I have a feeling that the compiler
+will not be used at my job.
+NedoAsm is still at the same stage because there isn't loader or 
+linker for object files, to theck the output. I'm debugging the
+compiler using its error messages and comparing the output to
+the output of previous versions.
+
+Hippiman/Conscience has translated his PC game Dizzy Rescues
+Santa in English. I corrected the translation. Anybody to port 
+DizzyAGE engine to Speccy? 
+
+After a year,
+Arwald/Conscience continues to develop Rusted
+Souls, a text adventure. At the same time he writes his magister 
+thesis. I colourized two pictures that
+Louisa/Conscience drew in
+black and white.
+
+Louisa has photographed two more of my old copy-books. All in
+all she photographed around
+1500 pictures, including all the
+other copy-books and papers.
+
+AmoNik finished his IDE driver mentioned in the previous issue.
+See it in the supplement.
+┌──────────────────────────────────────────────────────────────┐ 
+In 2015 I wrote a driver for iS-DOS to work with CompactFlash
+cards, attached to SMUC controller instead of HDD. That driver
+only supported CHS addressing.
+The driver supported two IDE channels at the same time and
+required controller ports to be always open, i.e. IDE controller
+in SMUC should be always accessible outside DOS ROM. This
+feature is possible in the modern version named SMUC v2.
+Later few more versions of the driver were released. The changes
+were mostly for adding compatibility with different memory cards
+I had.
+During the New Year vacations, when everybody were celebrating
+around a table (or below), I occupied myself with assembler and
+wrote a new driver that supports LBA28 addressing. This driver
+became shorter, simpler, faster and more compatible with
+different cards.
+I wanted to test the new driver with all my CompactFlash cards,
+but three of them had various operating systems installed so I
+didn't touch them. Four cards didn't work even with Scorpion
+shadow monitor, and I couldn't create partitions there. I
+skipped them too. One more card appeared so slow that I decided
+to leave it too. Its write speed via 3D13 emulation was around 3
+KB/s. I tested the remaining five cards for reading and writing
+by copying my iS-DOS system partition there, that is 8 MB. After
+the writing, I cheched the filesystem for integrity with arzt+
+utility in Verify mode, then I tested checksums with ch+2
+utility. One of five cards had several errors. I couldn't make
+it work well.
+Just in case, I made a CHS version based on the latest LBA
+version, but I don't plan to support it. I don't see why - all
+the modern devices have LBA addressing, and the driver was
+written for them first.
+The following CompactFlash cards proved well:
+Sandisk 32 Mb, Sandisk 64 Mb, Silicon Power 1 Gb 80x, Silicon
+Power 2 Gb 200x
+Worked with errors:
+Transcend 1 Gb
+Couldn't format:
+Kingston 1 Gb, Kingston 4 Gb, Lexar
+Professional 2 Gb 300x, Sandisk Ultra 2 Gb 1SMb/s
+Was slow:
+A-Data Speedy 1 Gb
+See the drivers in the addendum: HDDSMUC
+(CHS version 1.03)
+and
+HDDLSMUC
+(LBA version 1.01).
+└──────────────────────────────────────────────────────────────┘ 
+
+vBv has released his famous collection of ZX Spectrum software
+(now with video) in the Internet:
+
+Software, infos, photos:
+https://yadi.sk/d/wC8KMdP139XCdc
+https://yadi.sk/d/CiG_xY9D39XGUR
+https://yadi.sk/d/FUYб2G6039XREL
+https://yadi.sk/d/nsjHZGekЗ9XaxK
+https://yadi.sk/d/2nkEkob139aZht
+https://yadi.sk/d/yPLuhN2y39YuFL
+https://yadi.sk/d/OGsXtg2Z39YuFc
+https://yadi.sk/d/PTPaSwJЧЗ9WxKu
+https://yadi.sk/d/MdalhyqЧЗ9XAed
+https://yadi.sk/d/_4-nЗeptЗ9XCHW
+Video:
+https://yadi.sk/d/ltgHAwl139hkcV
+https://yadi.sk/d/rWpdkGM-39g7gh
+https://yadi.sk/d/2VCDLF8g39hJHS
+https://yadi.sk/d/legUIVEyЗ9n8Q4
+https://yadi.sk/d/HgtSaaqmЗ9iSiH
+https://yadi.sk/d/VtZocoA139hW5Ч
+The latter archive didn't open at AmoNik's, so here are its
+contents:
+https://yadi.sk/d/ЗDELSbyPЗAHNЧW
+https://yadi.sk/d/hSBUU9JPЗAHNf9
+vBv has moved from Krasnoyarsk to Sochi keeping his old e-mail.
+Using this collection, I wrote a list of Speccy software from
+USSR (see the next article). This is the list v0.2. If you know
+other programs, please make me know about them!
+In addition I also found old articles about history of
+ATM-Turbo, not used in Info Guide #11. I added new information 
+into one of them and put it here. Another one is yet to be
+translated.
+
+FlashZX released the full version of his game DinoRun (based on
+easter egg in Chrome, I suppose). The demoversion was shown in
+2016.
+
+┌──────────────────────────────────────────────────────────────┐ 
+Hello all! 
+
+This simple game appeared when I tried to write something for 
+ZX Evolution, to test gfx, palette etc. 
+
+The game is for ZX Evolution/Baseconf but must work at 
+ATM Turbo 2+ too. 
+
+You control a dino running from imminent catastrophe. Your plot 
+is to get to a high plateau, where your friends are awaiting you 
+and you can be saved... Or, if you select the mode "игра на 
+рекорд" (second option), you must run as far as you can to 
+collect the record number of points. 
+New kinds of opponents appear while game, and the speed 
+increases... So everything is like arcade classics. 
+
+Control: up/down cursor keys. 
+Additional keys in game: 
+"M" - music on/off,
+"ENTER" - pause/resume,
+"Q" - quit to start menu.
+Thanks to all the authors of the materials I used in the game. 
+Mostly for music that was written by Andrew Fer, MmcM, SnowMan, 
+ByteMan, Mast/Ftl. 
+I might forget somebody because everything has changed a hundred 
+times... I hope you will excuse me. 
+Thanks to Hippiman for his help to master EvoSDK... for code 
+snippets etc. Live hints are always better than manuals! 
+I also thank the authors of EvoSDK! 
+
+The game: 
+https://yadi.sk/d/g7NEN1GPЗ8nAXz
+The game with an emulator (run DINORUN.BAT to start the game): 
+https://yadi.sk/d/be_Xбm8V38nBzi
+Cheat: adds lives. Decide yourself, do you want it :) 
+In intro, when "Presents" fully apeared - type "morelives". 
+If you could do before the menu, you will hear sound. Afer that, 
+you will have 10 lives instead of 30. 
+
+WARNING! - When you run it at ZX Evo, set 14 MHz speed, or the 
+samples will play wrong. 
+The emulator has a problem with this, and the samples are played 
+too fast. Better play on a real machine. 
+
+The game has an ending, so try to complete it faily! 
+
+Anyway, please indulge... Happy New Year again! and... have a 
+nice run. 
+└──────────────────────────────────────────────────────────────┘

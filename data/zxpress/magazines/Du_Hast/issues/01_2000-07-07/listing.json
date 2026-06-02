@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": 12799,
+    "article_url": "https://zxpress.ru/article.php?id=12799",
+    "print_url": "https://zxpress.ru/print.php?id=12799",
+    "title_link": "Введение - пока ТЫ ЕСТЬ, спектрум будет жить и процветать!",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Введение_-_пока_ТЫ_ЕСТЬ_спектрум_будет_жить_и_процветать"
+  },
+  {
+    "article_id": 12800,
+    "article_url": "https://zxpress.ru/article.php?id=12800",
+    "print_url": "https://zxpress.ru/print.php?id=12800",
+    "title_link": "О музыке - Результаты MILLENIUM PARTY AY MUSIC COMPO оказались несколько странными и подозрительными...",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "О_музыке_-_Результаты_MILLENIUM_PARTY_AY_MUSIC_COMPO_оказали"
+  },
+  {
+    "article_id": 12801,
+    "article_url": "https://zxpress.ru/article.php?id=12801",
+    "print_url": "https://zxpress.ru/print.php?id=12801",
+    "title_link": "Новости - ALEX ART'а забрали в армию 22 июня.",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Новости_-_ALEX_ARTа_забрали_в_армию_22_июня"
+  },
+  {
+    "article_id": 12802,
+    "article_url": "https://zxpress.ru/article.php?id=12802",
+    "print_url": "https://zxpress.ru/print.php?id=12802",
+    "title_link": "Кое-что еще - TIME KEEPER пишет все новые и новые версии эксгуматоров файлов, доделывает журнал, дописывает марио.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Кое-что_еще_-_TIME_KEEPER_пишет_все_новые_и_новые_версии_экс"
+  },
+  {
+    "article_id": 12803,
+    "article_url": "https://zxpress.ru/article.php?id=12803",
+    "print_url": "https://zxpress.ru/print.php?id=12803",
+    "title_link": "Заключение - Авторы газеты.",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Заключение_-_Авторы_газеты"
+  },
+  {
+    "article_id": 7878,
+    "article_url": "https://zxpress.ru/article.php?id=7878",
+    "print_url": "https://zxpress.ru/print.php?id=7878",
+    "title_link": "ANOTHER WORLD - Аргументы и факты (AMIGA vs PC).",
+    "order": 6,
+    "issue_label": "01",
+    "short_slug": "ANOTHER_WORLD_-_Аргументы_и_факты_AMIGA_vs_PC"
+  },
+  {
+    "article_id": 1920,
+    "article_url": "https://zxpress.ru/article.php?id=1920",
+    "print_url": "https://zxpress.ru/print.php?id=1920",
+    "title_link": "WANTED !!! - Разыскиваются все те же программы.",
+    "order": 7,
+    "issue_label": "01",
+    "short_slug": "WANTED_-_Разыскиваются_все_те_же_программы"
+  },
+  {
+    "article_id": 13611,
+    "article_url": "https://zxpress.ru/article.php?id=13611",
+    "print_url": "https://zxpress.ru/print.php?id=13611",
+    "title_link": "БУК - Откудова у Герасима появилась энта Му-му.",
+    "order": 8,
+    "issue_label": "01",
+    "short_slug": "БУК_-_Откудова_у_Герасима_появилась_энта_Му-му"
+  },
+  {
+    "article_id": 4147,
+    "article_url": "https://zxpress.ru/article.php?id=4147",
+    "print_url": "https://zxpress.ru/print.php?id=4147",
+    "title_link": "Музыкальный хит-парад недели - юмористический хит-парад.",
+    "order": 9,
+    "issue_label": "01",
+    "short_slug": "Музыкальныи_хит-парад_недели_-_юмористическии_хит-парад"
+  },
+  {
+    "article_id": 15456,
+    "article_url": "https://zxpress.ru/article.php?id=15456",
+    "print_url": "https://zxpress.ru/print.php?id=15456",
+    "title_link": "Разное - Обломы. Завтра. Правила.",
+    "order": 10,
+    "issue_label": "01",
+    "short_slug": "Разное_-_Обломы_Завтра_Правила"
+  }
+]

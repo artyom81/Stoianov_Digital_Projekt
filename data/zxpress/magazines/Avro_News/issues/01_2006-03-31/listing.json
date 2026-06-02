@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": 11054,
+    "article_url": "https://zxpress.ru/article.php?id=11054",
+    "print_url": "https://zxpress.ru/print.php?id=11054",
+    "title_link": "Вступление - Несмотря на дату выхода газеты в этом номере не будет ни одной шутки.",
+    "order": 1,
+    "issue_label": "01",
+    "short_slug": "Вступление_-_Несмотря_на_дату_выхода_газеты_в_этом_номере_не"
+  },
+  {
+    "article_id": 11055,
+    "article_url": "https://zxpress.ru/article.php?id=11055",
+    "print_url": "https://zxpress.ru/print.php?id=11055",
+    "title_link": "Новости - ZXMC никак не установить во второй слот платы, конфликт ZXMC и SMUC, Потихоньку выкачиваю с TZXVAULT.RETROGAMES.COM, на потолке в большой комнате, появились\r\nподтёки ржавого цвета.",
+    "order": 2,
+    "issue_label": "01",
+    "short_slug": "Новости_-_ZXMC_никак_не_установить_во_второи_слот_платы_конф"
+  },
+  {
+    "article_id": 11056,
+    "article_url": "https://zxpress.ru/article.php?id=11056",
+    "print_url": "https://zxpress.ru/print.php?id=11056",
+    "title_link": "Welcome - о том как я работал на дедушку Welcome (часть 1).",
+    "order": 3,
+    "issue_label": "01",
+    "short_slug": "Welcome_-_о_том_как_я_работал_на_дедушку_Welcome_часть_1"
+  },
+  {
+    "article_id": 11057,
+    "article_url": "https://zxpress.ru/article.php?id=11057",
+    "print_url": "https://zxpress.ru/print.php?id=11057",
+    "title_link": "Книги - Что я читал в феврале-марте.",
+    "order": 4,
+    "issue_label": "01",
+    "short_slug": "Книги_-_Что_я_читал_в_феврале-марте"
+  },
+  {
+    "article_id": 11058,
+    "article_url": "https://zxpress.ru/article.php?id=11058",
+    "print_url": "https://zxpress.ru/print.php?id=11058",
+    "title_link": "Игры - В марте я играл в следующие игры...",
+    "order": 5,
+    "issue_label": "01",
+    "short_slug": "Игры_-_В_марте_я_играл_в_следующие_игры"
+  }
+]

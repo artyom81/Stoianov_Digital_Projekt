@@ -1,0 +1,15 @@
+{
+  "magazine_id": 70,
+  "magazine_name": "Fanat",
+  "city": null,
+  "country": null,
+  "issue_label": "01",
+  "issue_date_iso": "1999-08-05",
+  "order": 15,
+  "article_id": 15143,
+  "title_link": "Реклама - Текст рекламного объявления принимается в формате текста ZX-WORD или DOS-кодировке, а также в виде стандартных спектрумовских экранов.",
+  "title_h1": "Fanat 01 - Реклама - Текст рекламного объявления принимается в формате текста ZX-WORD или DOS-кодировке, а также в виде стандартных спектрумовских экранов.",
+  "print_url": "https://zxpress.ru/print.php?id=15143",
+  "article_url": "https://zxpress.ru/article.php?id=15143",
+  "fetched_at": "2026-05-31T22:03:52Z"
+}

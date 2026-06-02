@@ -1,0 +1,15 @@
+{
+  "magazine_id": 19,
+  "magazine_name": "Aspect",
+  "city": null,
+  "country": null,
+  "issue_label": "05",
+  "issue_date_iso": "1998-01-29",
+  "order": 6,
+  "article_id": 2580,
+  "title_link": "Программирование - Вывод текста терминальным способом на фоне бегущих квадратиков.",
+  "title_h1": "Aspect 05 - Программирование - Вывод текста терминальным способом на фоне бегущих квадратиков.",
+  "print_url": "https://zxpress.ru/print.php?id=2580",
+  "article_url": "https://zxpress.ru/article.php?id=2580",
+  "fetched_at": "2026-05-31T21:38:03Z"
+}

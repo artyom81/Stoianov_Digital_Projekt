@@ -1,0 +1,56 @@
+[
+  {
+    "article_id": 16583,
+    "article_url": "https://zxpress.ru/article.php?id=16583",
+    "print_url": "https://zxpress.ru/print.php?id=16583",
+    "title_link": "Список BBS - ZX-Net 095, Независимые BBS, SuperNet.",
+    "order": 1,
+    "issue_label": "10",
+    "short_slug": "Список_BBS_-_ZX-Net_095_Независимые_BBS_SuperNet"
+  },
+  {
+    "article_id": 16584,
+    "article_url": "https://zxpress.ru/article.php?id=16584",
+    "print_url": "https://zxpress.ru/print.php?id=16584",
+    "title_link": "Разное - Погода.",
+    "order": 2,
+    "issue_label": "10",
+    "short_slug": "Разное_-_Погода"
+  },
+  {
+    "article_id": 16585,
+    "article_url": "https://zxpress.ru/article.php?id=16585",
+    "print_url": "https://zxpress.ru/print.php?id=16585",
+    "title_link": "Юмор - Анекдоты.",
+    "order": 3,
+    "issue_label": "10",
+    "short_slug": "Юмор_-_Анекдоты"
+  },
+  {
+    "article_id": 16586,
+    "article_url": "https://zxpress.ru/article.php?id=16586",
+    "print_url": "https://zxpress.ru/print.php?id=16586",
+    "title_link": "Игрушки - ROBOCOP 2.",
+    "order": 4,
+    "issue_label": "10",
+    "short_slug": "Игрушки_-_ROBOCOP_2"
+  },
+  {
+    "article_id": 16587,
+    "article_url": "https://zxpress.ru/article.php?id=16587",
+    "print_url": "https://zxpress.ru/print.php?id=16587",
+    "title_link": "Реклама - Реклама и объявления.",
+    "order": 5,
+    "issue_label": "10",
+    "short_slug": "Реклама_-_Реклама_и_объявления"
+  },
+  {
+    "article_id": 16588,
+    "article_url": "https://zxpress.ru/article.php?id=16588",
+    "print_url": "https://zxpress.ru/print.php?id=16588",
+    "title_link": "От авторов - Редакция.",
+    "order": 6,
+    "issue_label": "10",
+    "short_slug": "От_авторов_-_Редакция"
+  }
+]
