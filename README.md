@@ -3,27 +3,22 @@
 ## Inhalt
 
 - [Überblick](#überblick)
-- [Ziel des Repositories](#ziel-des-repositories)
 - [Projektstruktur](#projektstruktur)
   - [Grundstruktur](#grundstruktur)
   - [Zentrale Verzeichnisse](#zentrale-verzeichnisse)
-  - [Wichtige Log-Unterordner](#wichtige-log-unterordner)
 - [Voraussetzungen](#voraussetzungen)
 - [Lokale und harte Pfade](#lokale-und-harte-pfade)
 - [Prüfwege](#prüfwege)
   - [Prüffall A: Endzustand direkt prüfen](#prüffall-a-endzustand-direkt-prüfen)
   - [Prüffall B: Verarbeitung ohne neues Korpusziehen](#prüffall-b-verarbeitung-ohne-neues-korpusziehen)
   - [Prüffall C: Neuaufbau mit Scraper in Testumgebung](#prüffall-c-neuaufbau-mit-scraper-in-testumgebung)
-- [Wichtige Skripte](#wichtige-skripte)
-- [Bekannte Einschränkungen](#bekannte-einschränkungen)
-- [Status des Endpoint-Teils](#status-des-endpoint-teils)
-- [Empfohlene Reihenfolge](#empfohlene-reihenfolge)
+- [Zusätzliche Skripte](#zusätzliche-skripte)
 
 ---
 
 ## Überblick
 
-Dieses Repository dokumentiert Aufbau, Bereinigung, Validierung, Indexierung und prototypische Bereitstellung eines Korpus russischsprachiger ZX-Spectrum-Diskmags auf Grundlage von ZXPress.
+Dieses Repository dokumentiert Aufbau, Bereinigung, Validierung, Indexierung und prototypische Bereitstellung eines Korpus russischsprachiger ZX-Spectrum Diskmags auf Grundlage von Webseite zxpress: https://zxpress.ru
 
 Die vier praktischen Hauptbereiche sind:
 
@@ -46,7 +41,7 @@ Der **FCS-/SRU-Teil** ist als **prototypisch** zu verstehen. Er wurde lokal und 
 
 ---
 
-## Ziel des Repositories
+### Ziel des Repositories
 
 Das Repository soll für die Prüfung drei Dinge ermöglichen:
 
@@ -60,8 +55,8 @@ Dafür gibt es in diesem README drei getrennte Prüfwege.
 
 ## Projektstruktur
 
-Der Korpus ist hierarchisch aufgebaut. Ausgangspunkt ist ein Magazin, darunter liegen die einzelnen Ausgaben, darunter wiederum die einzelnen Artikel.  
-Zusätzlich existieren JSON-Metadaten auf mehreren Ebenen, damit der Bestand nicht nur als Dateisammlung, sondern auch als strukturierter Forschungskorpus nutzbar ist.
+Der Korpus ist hierarchisch aufgebaut: **Magazin -> Ausgaben -> Artikel -> Volltext**.  
+Zusätzlich existieren JSON-Metadaten auf mehreren Ebenen, damit der Bestand als strukturierter Forschungskorpus nutzbar ist.
 
 Die Grundidee lautet:
 
@@ -71,7 +66,7 @@ Die Grundidee lautet:
 
 ---
 
-# Grundstruktur
+### Grundstruktur
 
 ```text
 data/
@@ -100,69 +95,16 @@ data/
 
 ---
 
-## Ebenen des Korpus
-
-## 1. Magazin-Ebene
-
-Beispiel:
-
-```text
-data/zxpress/magazines/Z80/
-├── magazine.json
-├── listing.json
-└── issues/
-```
-
-### Zweck
+#### 1. Magazin-Ebene
 
 Diese Ebene beschreibt ein gesamtes Magazin oder Periodikum.
 
-### Wichtige Dateien
+- **`magazine.json`**: zentrale Metadatenquelle für das Magazin als Ganzes.
+- **`listing.json`**: Magazinweites Issue-Verzeichnis.  
 
-#### `magazine.json`
+#### 2. Issue-Ebene
 
-Enthält Grundinformationen zum Magazin, zum Beispiel:
-
-- Magazinname
-- Magazin-ID
-- Quelle bzw. URL
-- Erscheinungsform
-- Stadt/Land
-- grober Erscheinungszeitraum
-- Anzahl der Issues
-- Sprache
-
-Typische Funktion:
-Diese Datei ist die zentrale Metadatenquelle für das Magazin als Ganzes.
-
-#### `listing.json`
-
-Magazinweites Issue-Verzeichnis.  
-Hier wird festgehalten, welche Ausgaben zu diesem Magazin gehören.
-
-Typischer Inhalt:
-
-- `issue_label`
-- `issue_date_iso`
-- `articles_count`
-
-Typische Funktion:
-Diese Datei ist eine kompakte Übersicht aller bekannten Ausgaben eines Magazins.
-
----
-
-## 2. Issue-Ebene
-
-Beispiel:
-
-```text
-data/zxpress/magazines/Z80/issues/01_1996-04-14/
-├── issue.json
-├── listing.json
-└── articles/
-```
-
-### Benennung des Issue-Ordners
+**Benennung des Issue-Ordners**
 
 Die Ordner sind in der Regel nach folgendem Muster aufgebaut:
 
@@ -170,292 +112,107 @@ Die Ordner sind in der Regel nach folgendem Muster aufgebaut:
 <issue_label>_<issue_date_iso>
 ```
 
-Beispiel:
-
-```text
-01_1996-04-14
-```
-
-### Zweck
-
 Diese Ebene beschreibt eine konkrete Ausgabe eines Magazins.
 
-### Wichtige Dateien
+- **`issue.json`**: Enthält Metadaten zur Ausgabe
+- **`listing.json`**: Liste der Artikel, die in dieser Ausgabe enthalten sind.
 
-#### `issue.json`
+#### 3. Artikel-Ebene
 
-Enthält Metadaten zur Ausgabe, zum Beispiel:
-
-- `issue_label`
-- `issue_date_iso`
-- `issue_date_human`
-- `articles_count`
-
-Typische Funktion:
-Diese Datei definiert die Ausgabe als bibliographische Einheit.
-
-#### `listing.json`
-
-Liste der Artikel, die in dieser Ausgabe enthalten sind.
-
-Typische Felder:
-
-- `order`
-- `article_id`
-- `title_link`
-- `article_url`
-- `print_url`
-
-Typische Funktion:
-Diese Datei verbindet die Ausgabe mit ihren Artikeln und hält deren Reihenfolge fest.
-
-#### `articles/`
-
-Unterordner mit allen Artikeln dieser Ausgabe.
-
----
-
-## 3. Artikel-Ebene
-
-Beispiel:
-
-```text
-data/zxpress/magazines/Z80/issues/01_1996-04-14/articles/01_12345_Beispielartikel/
-├── meta.json
-└── text.txt
-```
-
-### Benennung des Artikelordners
+**Benennung des Artikelordners**
 
 Artikelordner enthalten typischerweise:
 
 ```text
 <Reihenfolge>_<Artikel-ID>_<Kurzslug>
 ```
-
 Beispiel:
-
 ```text
 01_12345_Beispielartikel
 ```
 
-### Zweck
+Enthält den eigentlichen nutzbaren Forschungsinhalt: Metadaten und Volltext eines Artikels.
 
-Diese Ebene enthält den eigentlichen nutzbaren Forschungsinhalt: Metadaten und Volltext eines Artikels.
+- **`meta.json`**: Metadaten eines einzelnen Artikels, bibliographisch und technisch.
+- **`text.txt`**: Der gespeicherte Volltext des Artikels.
 
-### Wichtige Dateien
-
-#### `meta.json`
-
-Metadaten eines einzelnen Artikels, zum Beispiel:
-
-- `article_id`
-- `order`
-- `title_link`
-- `title_h1`
-- `article_url`
-- `print_url`
-- `issue_label`
-- `issue_date_iso`
-- `magazine_id`
-- `magazine_name`
-
-Typische Funktion:
-Diese Datei beschreibt den Artikel bibliographisch und technisch.
-
-#### `text.txt`
-
-Der gespeicherte Volltext des Artikels.
-
-Typische Funktion:
-Dies ist die wichtigste Textquelle für:
+.txt sind die wichtigsten Textquellen für:
 
 - Volltextsuche
 - Indexierung
 - KWIC-Ausgabe
 - spätere Forschungsauswertung
 
----
-
-## Warum diese Struktur sinnvoll ist
-
-Die Struktur ist für Digital-Humanities-Arbeit praktisch, weil sie mehrere Dinge zugleich ermöglicht:
-
-### 1. Nachvollziehbarkeit
-
-Man kann jeden Artikel bis zu seiner Ausgabe und seinem Magazin zurückverfolgen.
-
-### 2. Technische Weiterverarbeitung
-
-Die Struktur lässt sich relativ leicht für folgende Schritte nutzen:
-
-- Validierung
-- Audit
-- Katalogbau
-- Indexierung
-- lokale Suche
-- prototypische Endpoint-Bereitstellung
-
-### 3. Trennung von Metadaten und Volltext
-
-Die Metadaten liegen als JSON vor, der eigentliche Text separat als `text.txt`.  
-Dadurch bleiben beide Ebenen klar unterscheidbar.
-
-### 4. Flexible Rekonstruktion
-
-Auch wenn einzelne Teile fehlen oder unvollständig sind, kann häufig anhand der übrigen Struktur rekonstruiert werden:
+Die Struktur erlaubt jeden Artikel bis zu seiner Ausgabe und seinem Magazin zurückzuverfolgen. Auch wenn einzelne Teile fehlen oder unvollständig sind, kann häufig anhand der übrigen Struktur rekonstruiert werden:
 
 - zu welchem Magazin ein Artikel gehört
 - zu welcher Ausgabe er gehört
 - welche Metadaten vorhanden oder fehlend sind
 
----
-
-## Beziehung der Dateien zueinander
-
-Die Ebenen hängen logisch zusammen:
-
-- `magazine.json` beschreibt das Magazin
-- `listing.json` auf Magazin-Ebene beschreibt die vorhandenen Issues
-- `issue.json` beschreibt eine konkrete Ausgabe
-- `listing.json` auf Issue-Ebene beschreibt die Artikel dieser Ausgabe
-- `meta.json` beschreibt den einzelnen Artikel
-- `text.txt` enthält seinen Volltext
-
-Kurz gesagt:
-
-```text
-Magazin → Issue → Artikel → Volltext
-```
-
----
-
-## Beispiel eines vollständigen Pfads
+**Beispiel eines vollständigen Pfads:**
 
 ```text
 data/zxpress/magazines/Z80/issues/01_1996-04-14/articles/01_12345_Beispielartikel/text.txt
 ```
 
-Dieser Pfad bedeutet:
-
 - `Z80` = Magazin
 - `01_1996-04-14` = konkrete Ausgabe
 - `01_12345_Beispielartikel` = konkreter Artikel
-- `text.txt` = Volltext dieses Artikels
-
-Der zugehörige Metadatenpfad wäre:
-
-```text
-data/zxpress/magazines/Z80/issues/01_1996-04-14/articles/01_12345_Beispielartikel/meta.json
-```
 
 ---
 
 ### Zentrale Verzeichnisse
 
-**`data/`**  
-Bereits befüllter Hauptkorpus. Dies ist der wichtigste Datenbestand der Abgabe.
+- **`data/`**: Bereits befüllter Hauptkorpus.
 
-**`data_small/`**  
-Kleinerer Teilbestand für kurze Kontrollen oder schnellere Tests.
+- **`data_small/`**: Kleinerer Teilbestand für kurze Kontrollen oder schnellere Tests.
 
-**`_catalog/`**  
-CSV-Kataloge des Korpus:
+- **`_catalog/`**: CSV-Kataloge des Korpus
 
-- `magazines.csv`
-- `issues.csv`
-- `articles.csv`
+  Diese Dateien werden mit `scripts/light/build_catalog.py` erzeugt.
+  Sie dienen als flache tabellarische Sicht auf den Korpus und können vom Indexer verwendet werden.
 
-Diese Dateien werden mit `scripts/light/build_catalog.py` erzeugt. 
-Sie dienen als flache tabellarische Sicht auf den Korpus und können vom Indexer verwendet werden.
+- **`index_dir/`**: Lucene-Index für die lokale Volltextsuche.
 
-**`index_dir/`**  
-Lucene-Index für die lokale Volltextsuche.
+- **`logs/`**: Ausgabeordner für Prüf- und Diagnoseergebnisse.
 
-**`logs/`**  
-Ausgabeordner für Prüf- und Diagnoseergebnisse.
+  **`logs/validation/`**: Einzelne Validierungsprotokolle pro Magazin.
 
-**`logs/validation/`**  
-Einzelne Validierungsprotokolle pro Magazin
+  **`logs/health/`**: Struktur- und Audit-Logs des Korpus.
 
-Diese Dateien entstehen durch `validate_corpus.py`, meist indirekt Health-/Audit-Kontext.
+  Wichtige Dateien:
 
-**`logs/health/`**  
-Struktur- und Audit-Logs des Korpus.
+  - `issues_missing.log`: Issues mit fehlender `issue.json`, `listing.json` oder fehlendem `articles/`
 
-Wichtige Dateien:
+  - `articles_missing.log`: Artikelordner mit fehlender `meta.json` oder `text.txt`
 
-- `issues_missing.log`  
-  Issues mit fehlender `issue.json`, `listing.json` oder fehlendem `articles/`
+  - `placeholders_0000-01-01.log`: Issues mit Platzhalterdatum `0000-01-01`
 
-- `articles_missing.log`  
-  Artikelordner mit fehlender `meta.json` oder `text.txt`
+  - `magazines_empty.log`: Magazine ohne Issues oder mit fehlendem `issues/`
 
-- `placeholders_0000-01-01.log`  
-  Issues mit Platzhalterdatum `0000-01-01`
+  - `audit_summary.csv`: Gesamttabelle des Audit-Laufs
 
-- `magazines_empty.log`  
-  Magazine ohne Issues oder mit fehlendem `issues/`
+  - `audit_problematic_magazines.csv und .log`: Nur problematische Magazine, die man manuell überprüfen sollte.
 
-- `audit_summary.csv`  
-  Gesamttabelle des Audit-Laufs
+  - `audit_stdout.log`: Konsolenausgabe des Audit-Laufs
 
-- `audit_problematic_magazines.csv`  
-  Nur problematische Magazine
+  - `summary.txt`: Hauptzusammenfassung des Health-Checks
 
-- `audit_problematic_magazines.log`  
-  Lesbare Zusammenfassung problematischer Fälle
+  **`logs/textsearch/`**: Logs für die Suchschicht.
 
-- `audit_stdout.log`  
-  Konsolenausgabe des Audit-Laufs
+- **`scripts/light/`**: Korpusbezogene Hauptskripte
 
-- `summary.txt`  
-  Hauptzusammenfassung des Health-Checks
+- **`scripts/TextSearch/`**: Suchschicht `Indexer.py` + `Searcher.py`
 
-**`logs/textsearch/`**  
-Logs für die Suchschicht.
+  **`scripts/TextSearch/_tools/`**: Prüfwerkzeuge für den Index
 
-Wichtige Datei:
+  - `..._tools/full_healthcheck.py`: Erstellt zusammenfassung der Indexierung.
 
-- 
+- **`scripts/FCS/`**: Erster FCS-/SRU-Prototyp.
 
-
-**`scripts/light/`**  
-Korpusbezogene Hauptskripte:
-
-- `run_light_pipeline.py`
-- `scrape_issue_listing_light.py`
-- `patch_metadata_light.py`
-- `fetch_articles_light.py`
-- `validate_corpus.py`
-- `health_zxpress.sh`
-- `audit_corpus.py`
-- `build_catalog.py`
-- `repair_psychoz_12.py`
-
-**`scripts/TextSearch/`**  
-Suchschicht:
-
-- `Indexer.py`
-- `Searcher.py`
-
-**`scripts/TextSearch/_tools/`**  
-Prüfwerkzeuge für den Index:
-
-- `feldabdeckung.py`
-- `indexueberpruefen.py`
-- `full_healthcheck.py`
-
-`full_healthcheck.txt`: Zusammenfassung des TextSearch-Healthchecks
-
-**`scripts/FCS/`**  
-Erster FCS-/SRU-Prototyp.
-
-**`scripts/FCS_Server/`**  
-Zweiter Endpoint-Versuch. Dokumentiert, aber nicht der primäre Prüfpfad.
+- **`scripts/FCS_Server/`**: Zweiter Endpoint-Versuch. Dokumentiert, aber nicht der primäre Prüfpfad.
 
 ---
-
 
 ## Voraussetzungen
 
@@ -497,9 +254,9 @@ pip install -r requirements.txt
 
 ## Lokale und harte Pfade
 
-Einige Skripte sind bereits per CLI-Parameter steuerbar und damit relativ portabel. Andere enthalten harte lokale Pfade und müssen auf einem anderen Rechner angepasst werden.
+Einige Skripte enthalten harte lokale Pfade und müssen auf eigenem Rechner angepasst werden.
 
-### Sicher vorhandene harte Pfade
+### Harte Pfade
 
 `scripts/FCS/fcs_endpoint.py`
 
@@ -507,8 +264,6 @@ Einige Skripte sind bereits per CLI-Parameter steuerbar und damit relativ portab
 INDEX_DIR = "/Users/stoia1/Desktop/Website/DigitProject/index_dir"
 CONFIG_PATH = "/Users/stoia1/Desktop/Website/DigitProject/config/zxpress.yaml"
 ```
-
-Diese Stellen müssen auf einem anderen Rechner angepasst werden, wenn der Endpoint gestartet werden soll.
 
 `scripts/light/repair_psychoz_12.py`
 
@@ -518,39 +273,18 @@ MAG = "data/zxpress/magazines/Psychoz"
 
 Spezialskript für einen Einzelfall, nicht Teil des allgemeinen Workflows.
 
-`scripts/TextSearch/_tools/textsuche klein.py`
-
-```python
-dir = FSDirectory.open(Paths.get("/Users/stoia1/Desktop/Website/DigitProject/index_dir"))
-```
-
-Kein zentraler Prüfpfad.
-
-### Portablere Hauptskripte
-
-Die folgenden Hauptskripte arbeiten über Parameter und sind für die Prüfung besser geeignet:
-
-- `scripts/light/health_zxpress.sh`
-- `scripts/light/build_catalog.py`
-- `scripts/TextSearch/Indexer.py`
-- `scripts/TextSearch/Searcher.py`
-- `scripts/TextSearch/_tools/full_healthcheck.py`
-
 ---
 
 ## Prüfwege
 
 ### Prüffall A: Endzustand direkt prüfen
 
-Dies ist der sicherste und einfachste Prüfweg.  
-Es wird nichts neu aufgebaut, sondern der abgegebene Projektstand direkt betrachtet und getestet.
+Dies ist der einfachste Prüfweg.  
+Der abgegebene Projektstand wird direkt betrachtet und getestet, ohne den Korpus neu aufzubauen.
 
-#### Wichtige Bestände
+#### Wichtige Bestände zum Untersuchen
 
-Korpus:
-
-- `data/`
-- `data_small/`
+Korpus: `data/`, `data_small/`
 
 Katalog:
 
@@ -569,6 +303,13 @@ Index:
 
 - `index_dir/`
 
+#### TextSearch-Healthcheck
+
+```bash
+python scripts/TextSearch/_tools/full_healthcheck.py --index-dir "index_dir"
+```
+Wenn dieser Schritt erfolgreich ist, ist der vorhandene Index lesbar und der Searcher lokal nutzbar.
+
 #### Lokale Suche testen
 
 ```bash
@@ -576,14 +317,6 @@ python scripts/TextSearch/Searcher.py --index-dir "index_dir" --q "спектр�
 python scripts/TextSearch/Searcher.py --index-dir "index_dir" --q "covox OR ковокс" --limit 3
 python scripts/TextSearch/Searcher.py --index-dir "index_dir" --q "игра" --year-from 1995 --year-to 1997 --limit 3
 ```
-
-#### TextSearch-Healthcheck
-
-```bash
-python scripts/TextSearch/_tools/full_healthcheck.py --index-dir "index_dir"
-```
-
-Wenn dieser Schritt erfolgreich ist, ist der vorhandene Lucene-Index lesbar und der Searcher lokal nutzbar.
 
 #### Endpoint lokal starten
 
@@ -593,7 +326,7 @@ Vorher harte Pfade in `scripts/FCS/fcs_endpoint.py` prüfen.
 python scripts/FCS/fcs_endpoint.py
 ```
 
-Danach lokal testen:
+Dann lokal testen:
 
 ```bash
 curl -i "http://127.0.0.1:8088/health"
@@ -604,7 +337,7 @@ curl -i "http://127.0.0.1:8088/sru?operation=searchRetrieve&version=2.0&query=cq
 
 #### ngrok verwenden
 
-Voraussetzung: Der Endpoint läuft lokal.
+Voraussetzung: Der Endpoint läuft bereits lokal.
 
 1. Account bei ngrok anlegen  
 2. ngrok installieren  
@@ -619,16 +352,16 @@ ngrok http 8088
 Danach zeigt ngrok eine öffentliche URL an, z. B.:
 
 ```text
-https://<deine-adresse>.ngrok-free.dev
+https://<ihre-adresse>.ngrok-free.dev
 ```
 
 #### Endpoint über ngrok testen
 
 ```bash
-curl -i "https://<deine-adresse>.ngrok-free.dev/health"
-curl -i "https://<deine-adresse>.ngrok-free.dev/sru?operation=explain&version=2.0"
-curl -i "https://<deine-adresse>.ngrok-free.dev/sru?x-fcs-endpoint-description=true"
-curl -i "https://<deine-adresse>.ngrok-free.dev/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/health"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=explain&version=2.0"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?x-fcs-endpoint-description=true"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
 ```
 
 #### Validator reproduzieren
@@ -641,23 +374,22 @@ https://fcs-validator.data.saw-leipzig.de/
 
 Dort eintragen:
 
-- Endpoint BaseURL: `https://<deine-adresse>.ngrok-free.dev/sru`
-- Search Term: `спектрум`
+- Endpoint BaseURL: `https://<ihre-adresse>.ngrok-free.dev/sru`
+- Search Term: `спектрум` (en:spectrum)
 
 Dann `Evaluate` starten.
 
-**Hinweis:**  
-Der Validatorfehler ist reproduzierbar und gehört zum dokumentierten Projektstand. Der Endpoint funktioniert lokal und über ngrok, wurde aber nicht vollständig validator-konform abgeschlossen.
+Der Validatorfehler ist reproduzierbar und gehört zum dokumentierten Projektstand.
 
 ---
 
 ### Prüffall B: Verarbeitung ohne neues Korpusziehen
 
-Dieser Prüfweg nutzt den vorhandenen Korpus, ohne ihn neu zu scrapen.
+Dieser Prüfweg nutzt den vorhandenen Korpus unter `/data`, ohne ihn neu zu scrapen.
 
 #### Vorher löschen
 
-Nur generierte Artefakte löschen, nicht den Korpus:
+Nur generierte logs löschen:
 
 ```bash
 rm -rf _catalog
@@ -673,6 +405,8 @@ rm -rf logs/textsearch
 bash scripts/light/health_zxpress.sh data/zxpress/magazines logs/health logs/validation
 ```
 
+Der Healthcheck macht sichtbar, welche Teile des Korpus besonders problematisch sind. Anhand der Logs kann der Forscher gezielt reagieren und bei Bedarf zusätzliche Patches oder manuelle Korrekturen für die weitere Bereinigung erstellen.
+
 Dabei werden geprüft:
 
 - Struktur des Korpus
@@ -684,7 +418,7 @@ Dabei werden geprüft:
 
 **Hinweis:**  
 `health_zxpress.sh` nutzt vorhandene Validierungslogs in `logs/validation`, wenn diese existieren.  
-Neue Validierungslogs müssen separat über `validate_corpus.py` oder die Pipeline erzeugt werden.
+Neue Validierungslogs müssen separat über `validate_corpus.py` oder automatisch über Scrapper Pipeline erzeugt werden.
 
 #### Schritt 2: Katalog bauen
 
@@ -698,9 +432,7 @@ Ergebnis:
 - `_catalog/issues.csv`
 - `_catalog/articles.csv`
 
-Der Katalog dient als tabellarische Repräsentation des Korpus und kann vom Indexer verwendet werden.
-
-#### Schritt 3: Index neu bauen
+#### Schritt 3: Index neu bauen 
 
 Legacy-Modus:
 
@@ -710,7 +442,9 @@ python scripts/TextSearch/Indexer.py \
   --index-dir "index_dir"
 ```
 
-Katalogmodus:
+oder
+
+Katalogmodus (Katalogdaten müssen vorhanden sein):
 
 ```bash
 python scripts/TextSearch/Indexer.py \
@@ -720,16 +454,11 @@ python scripts/TextSearch/Indexer.py \
   --index-dir "index_dir"
 ```
 
-#### Schritt 4: TextSearch-Healthcheck
+#### Schritt 4: TextSearch-Healthcheck (Bestand, Felder und Index überprüfen)
 
 ```bash
 python scripts/TextSearch/_tools/full_healthcheck.py --index-dir "index_dir"
 ```
-
-Dieser Schritt enthält bereits:
-
-- `feldabdeckung.py`
-- `indexueberpruefen.py`
 
 #### Schritt 5: Searcher testen
 
@@ -744,19 +473,40 @@ Vorher harte Pfade in `scripts/FCS/fcs_endpoint.py` prüfen.
 ```bash
 python scripts/FCS/fcs_endpoint.py
 ```
-
-Danach lokale `curl`-Tests wie in Prüffall A.
+```bash
+curl -i "http://127.0.0.1:8088/health"
+curl -i "http://127.0.0.1:8088/sru?operation=explain&version=2.0"
+curl -i "http://127.0.0.1:8088/sru?x-fcs-endpoint-description=true"
+curl -i "http://127.0.0.1:8088/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
+```
 
 #### Schritt 7: ngrok + Validator
 
 Wie in Prüffall A beschrieben.
 
+```bash
+ngrok http 8088
+```
+
+```bash
+curl -i "https://<ihre-adresse>.ngrok-free.dev/health"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=explain&version=2.0"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?x-fcs-endpoint-description=true"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
+```
+
+Online-Validator: https://fcs-validator.data.saw-leipzig.de/
+
+- Endpoint BaseURL: `https://<ihre-adresse>.ngrok-free.dev/sru`
+- Search Term: `спектрум` (en:spectrum)
+- `Evaluate` starten.
+
+
 ---
 
 ### Prüffall C: Neuaufbau mit Scraper in Testumgebung
 
-Dies ist der aufwendigste und riskanteste Prüfweg.  
-Er sollte nicht direkt auf `data/` ausgeführt werden.
+Dies ist der aufwendigste Prüfweg. Er sollte nicht direkt auf `data/` ausgeführt werden.
 
 Empfohlene Teststruktur:
 
@@ -769,17 +519,21 @@ Empfohlene Teststruktur:
 ```bash
 rm -rf data_test
 rm -rf _catalog_test
+rm -rf _catalog
 rm -rf index_dir_test
+rm -rf index_dir
 rm -rf logs/health
 rm -rf logs/validation
 rm -rf logs/textsearch
 ```
 
-#### Pipeline-Modi
+#### WebScrapper Pipeline-Modi
 
 ##### Single-Run
 
 Ein einzelnes Magazin:
+
+auf https://zxpress.ru nach Link des Magazins mit ID suchen, als Output unter `magazines/` Magazinnamen eingeben (ohne Sonderzeichen)
 
 ```bash
 python scripts/light/run_light_pipeline.py \
@@ -791,35 +545,28 @@ python scripts/light/run_light_pipeline.py \
 
 ##### All-Run
 
-Kompletter Katalog von `ezines.php`:
+Kompletter zxpress Katalog von `ezines.php`:
 
 ```bash
 python scripts/light/run_light_pipeline.py \
   --mode all \
   --config "config/zxpress.yaml" \
+  --root "data_test/zxpress/magazines" \
   --validate
 ```
 
 **Wichtiger Hinweis zum All-Run:**
 
-- `--mode all` verarbeitet den ZXPress-Katalog vollständig
-- der Lauf kann deutlich länger dauern
+- `--mode all` verarbeitet den Webkatalog vollständig
 - ein kompletter Lauf kann über eine Stunde benötigen
 - Dauer und Erfolg hängen auch von Netzverbindung und Quellverfügbarkeit ab
 
 #### Was die Pipeline intern macht
 
-Die Pipeline ruft nacheinander auf:
-
-1. `scrape_issue_listing_light.py`
-2. `patch_metadata_light.py`
-3. `fetch_articles_light.py`
-4. optional `validate_corpus.py`
-
-Damit passiert eine erste Bereinigung bereits im Pipeline-Lauf.  
+Die Pipeline ruft mehrere Skripte unter `/light`nacheinander auf. Damit passiert eine erste Bereinigung bereits im Pipeline-Lauf.  
 Trotzdem sollte danach immer noch ein `health_zxpress.sh`-Lauf folgen.
 
-#### Nach dem Scraperlauf
+#### Nach dem Lauf
 
 ##### Schritt 1: Health-Check
 
@@ -859,84 +606,42 @@ python scripts/TextSearch/Searcher.py --index-dir "index_dir_test" --q "спек
 
 Falls der Endpoint mit Testdaten geprüft werden soll, müssen die harten Pfade in `scripts/FCS/fcs_endpoint.py` angepasst werden.
 
+```bash
+python scripts/FCS/fcs_endpoint.py
+```
+```bash
+curl -i "http://127.0.0.1:8088/health"
+curl -i "http://127.0.0.1:8088/sru?operation=explain&version=2.0"
+curl -i "http://127.0.0.1:8088/sru?x-fcs-endpoint-description=true"
+curl -i "http://127.0.0.1:8088/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
+```
+
+#### Schritt 7: ngrok + Validator
+
+```bash
+ngrok http 8088
+```
+```bash
+curl -i "https://<ihre-adresse>.ngrok-free.dev/health"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=explain&version=2.0"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?x-fcs-endpoint-description=true"
+curl -i "https://<ihre-adresse>.ngrok-free.dev/sru?operation=searchRetrieve&version=2.0&query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&maximumRecords=3"
+```
+
+Online-Validator: https://fcs-validator.data.saw-leipzig.de/
+
+- Endpoint BaseURL: `https://<ihre-adresse>.ngrok-free.dev/sru`
+- Search Term: `спектрум` (en:spectrum)
+- `Evaluate` starten.
+
 ---
 
-## Wichtige Skripte
+## Zusätzliche Skripte
 
-`scripts/light/validate_corpus.py`  
-Validiert ein einzelnes Magazin.
+**`scripts/light/validate_corpus.py`**. Validiert ein einzelnes Magazin.
 
 Beispiel:
 
 ```bash
 python scripts/light/validate_corpus.py --mag-root "data/zxpress/magazines/Psychoz"
 ```
-
-`scripts/light/health_zxpress.sh`  
-Gesamtprüfung des Korpusbestands:
-
-- Struktur
-- fehlende Dateien
-- Platzhalterdaten
-- leere Magazine
-- Audit
-
-`scripts/light/audit_corpus.py`  
-Audit-Zusammenfassung über Magazine. Wird im Normalfall über `health_zxpress.sh` mit aufgerufen.
-
-`scripts/light/build_catalog.py`  
-Erzeugt die drei CSV-Kataloge.
-
-`scripts/TextSearch/Indexer.py`  
-Baut den Lucene-Index.
-
-`scripts/TextSearch/Searcher.py`  
-Lokale Volltextsuche über den Lucene-Index.
-
-`scripts/TextSearch/_tools/full_healthcheck.py`  
-Gesamttest der Suchschicht. Wenn dieser Schritt erfolgreich ist, ist die lokale Suchschicht nutzbar.
-
-`scripts/FCS/fcs_endpoint.py`  
-Erster FCS-/SRU-Prototyp. Lokal funktionsfähig, aber validator-seitig nicht vollständig abgeschlossen.
-
----
-
-## Bekannte Einschränkungen
-
-- Der Scraper ist von ZXPress als externer Quelle abhängig.
-- Ein kompletter Rebuild kann scheitern, wenn sich die Quellseite verändert oder nicht erreichbar ist.
-- Einige Skripte enthalten harte Pfade.
-- Der FCS-Endpoint ist nur prototypisch abgeschlossen.
-- Der Validatorfehler ist Teil des dokumentierten Projektstands.
-- `requirements.txt`, `pyproject.toml` und `setup.py` waren im Projektverlauf noch nicht vollständig ausgereift.
-
----
-
-## Status des Endpoint-Teils
-
-**Gesichert belegt sind:**
-
-- lokaler Start des Endpoints
-- erfolgreiche lokale `curl`-Tests
-- erfolgreiche ngrok-Freigabe
-- reproduzierbare Validator-Tests
-- mehrere Anpassungsversuche an `fcs_xml.py` und `fcs_endpoint.py`
-
-**Nicht erreicht wurde:**
-
-- eine vollständig validator-konforme Endfassung
-
-Für die Abgabe bedeutet das:
-
-- lokal funktionsfähiger Prototyp: **ja**
-- vollständig abgeschlossene CLARIN-FCS-Standardintegration: **nein**
-
----
-
-## Empfohlene Reihenfolge
-
-Am sinnvollsten ist diese Reihenfolge:
-
-- **Prüffall A** – schnellster und sicherster Einstieg
-- **Prüffall B** – technisch nachvollziehbarer Neuaufbau ohne Netzrisiko
-- **Prüffall C** – vollständiger Neuaufbau mit externem Risiko
