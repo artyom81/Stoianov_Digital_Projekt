@@ -4,7 +4,7 @@
 
 - [Überblick](#überblick)
 - [Projektstruktur](#projektstruktur)
-  - [Grundstruktur](#grundstruktur)
+  - [Grundstruktur des Korpus](#grundstruktur-des-korpus)
   - [Zentrale Verzeichnisse](#zentrale-verzeichnisse)
 - [Voraussetzungen](#voraussetzungen)
 - [Lokale und harte Pfade](#lokale-und-harte-pfade)
@@ -51,6 +51,9 @@ Das Repository soll für die Prüfung drei Dinge ermöglichen:
 
 Dafür gibt es in diesem README drei getrennte Prüfwege.
 
+
+[↑ Zurück zum Inhalt](#inhalt)
+
 ---
 
 ## Projektstruktur
@@ -66,7 +69,7 @@ Die Grundidee lautet:
 
 ---
 
-### Grundstruktur
+### Grundstruktur des Korpus
 
 ```text
 data/
@@ -212,6 +215,9 @@ data/zxpress/magazines/Z80/issues/01_1996-04-14/articles/01_12345_Beispielartike
 
 - **`scripts/FCS_Server/`**: Zweiter Endpoint-Versuch. Dokumentiert, aber nicht der primäre Prüfpfad.
 
+
+[↑ Zurück zum Inhalt](#inhalt)
+
 ---
 
 ## Voraussetzungen
@@ -272,6 +278,9 @@ MAG = "data/zxpress/magazines/Psychoz"
 ```
 
 Spezialskript für einen Einzelfall, nicht Teil des allgemeinen Workflows.
+
+
+[↑ Zurück zum Inhalt](#inhalt)
 
 ---
 
@@ -380,6 +389,9 @@ Dort eintragen:
 Dann `Evaluate` starten.
 
 Der Validatorfehler ist reproduzierbar und gehört zum dokumentierten Projektstand.
+
+
+[↑ Zurück zum Inhalt](#inhalt)
 
 ---
 
@@ -501,6 +513,8 @@ Online-Validator: https://fcs-validator.data.saw-leipzig.de/
 - Search Term: `спектрум` (en:spectrum)
 - `Evaluate` starten.
 
+
+[↑ Zurück zum Inhalt](#inhalt)
 
 ---
 
@@ -645,3 +659,5 @@ Beispiel:
 ```bash
 python scripts/light/validate_corpus.py --mag-root "data/zxpress/magazines/Psychoz"
 ```
+
+[↑ Zurück zum Inhalt](#inhalt)
