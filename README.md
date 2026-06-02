@@ -1,20 +1,10 @@
-<table width="100%">
-  <tr>
-    <td align="left" valign="top">
-      <h1 style="margin-bottom: 0;">Freies Digitales Projekt</h1>
-      <p><strong>Im Bereich der Digital Humanities</strong></p>
-      <p>Korpusbau und Wissenschaftliche Infrastrukturen</p>
-    </td>
-    <td align="right" valign="top">
-      <p><strong>Artem Stoianov</strong><br>
-      Julius-Maximilians-Universität Würzburg<br>
-      Philosophische Fakultät<br>
-      Digital Humanities<br><br>
-      Sommersemester 2026<br>
-      Stand: Juni 2026</p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Freies Digitales Projekt</h1>
+<br>
+<p align="center">
+  <strong>Artem Stoianov</strong><br>
+  Julius-Maximilians-Universität Würzburg · Philosophische Fakultät · Digital Humanities<br>
+  Sommersemester 2026 · Stand: Juni 2026
+</p>
 <br>
 <p align="center">
   <strong>Aufbau, Erschließung und prototypische Suchbereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage von ZXpress.ru</strong>
