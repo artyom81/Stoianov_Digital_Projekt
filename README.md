@@ -1,9 +1,23 @@
-<br>
-
-# Stoianov Digital Project
+<table width="100%">
+  <tr>
+    <td align="left" valign="top">
+      <h1 style="margin-bottom: 0;">Freies Digitales Projekt</h1>
+      <p><strong>Im Bereich der Digital Humanities</strong></p>
+      <p>Korpusbau und Wissenschaftliche Infrastrukturen</p>
+    </td>
+    <td align="right" valign="top">
+      <p><strong>Artem Stoianov</strong><br>
+      Julius-Maximilians-Universität Würzburg<br>
+      Philosophische Fakultät<br>
+      Digital Humanities<br><br>
+      Sommersemester 2026<br>
+      Stand: Juni 2026</p>
+    </td>
+  </tr>
+</table>
 <br>
 <p align="center">
-  <strong>Digital-Humanities-Projekt zur Rekonstruktion, Strukturprüfung, Indexierung und prototypischen Bereitstellung eines ZXPress-Korpus</strong>
+  <strong>Aufbau, Erschließung und prototypische Suchbereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage von ZXpress.ru</strong>
 </p>
 <br>
 <p align="center">
@@ -41,7 +55,7 @@
 
 ## Überblick
 
-Dieses Repository dokumentiert Aufbau, Bereinigung, Validierung, Indexierung und prototypische Bereitstellung eines Korpus russischsprachiger ZX-Spectrum-Diskmags auf Grundlage der Website <a href="zxpress.ru">zxpress.ru</a>
+Dieses Repository dokumentiert technische Schritte der Bereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage der Website <a href="zxpress.ru">zxpress.ru</a>
 
 Die vier praktischen Hauptbereiche sind:
 
