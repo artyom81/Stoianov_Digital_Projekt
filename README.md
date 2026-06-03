@@ -528,18 +528,6 @@ Validator: <a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-vali
 > **Ziel:** kompletten Neuaufbau in separater Teststruktur durchführen  
 > **Geeignet für:** vollständige Reproduktion mit externer Quelle
 
-#### Checkliste
-
-- [ ] Teststruktur leeren
-- [ ] Pipeline im Single- oder All-Modus ausführen
-- [ ] Health-Check laufen lassen
-- [ ] Katalog bauen
-- [ ] Index bauen
-- [ ] TextSearch prüfen
-- [ ] Searcher testen
-- [ ] Endpoint optional lokal testen
-- [ ] ngrok und Validator optional reproduzieren
-
 #### Empfohlene Teststruktur
 
 - `data_test/`
