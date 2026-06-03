@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="center">
-  <strong>Aufbau, Erschließung und prototypische Suchbereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage von ZXpress.ru</strong>
+  <strong>Aufbau, Erschließung und prototypische Suchbereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage von ZXpress</strong>
 </p>
 <br>
 <p align="center">
@@ -40,12 +40,15 @@
   - [Prüffall B: Verarbeitung ohne neues Korpusziehen](#prüffall-b-verarbeitung-ohne-neues-korpusziehen)
   - [Prüffall C: Neuaufbau mit Scraper in Testumgebung](#prüffall-c-neuaufbau-mit-scraper-in-testumgebung)
 - [Zusätzliche Skripte](#zusätzliche-skripte)
+- [Tipps für Webquelle: weitere Forschung](#tipps-für-webquelle:-weitere-forschung)
 
 ---
 
 ## Überblick
 
-Dieses Repository dokumentiert technische Schritte der Bereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage der Website <a href="zxpress.ru">zxpress.ru</a>
+Dieses Repository dokumentiert technische Schritte der Bereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage der Website <a href="zxpress.ru/ezines.php">zxpress.ru</a>
+
+Das ausführliche Projektprotokoll ist hier abgelegt:[Stoianov_Protokoll_Groß.pdf](Stoianov_Protokoll_Groß.pdf)
 
 Die vier praktischen Hauptbereiche sind:
 
@@ -56,7 +59,7 @@ Die vier praktischen Hauptbereiche sind:
 
 Das Repository ist ein gewachsener Projektstand. Entsprechend sind einige Komponenten stabil und gut prüfbar, andere experimentell oder unvollständig abgeschlossen.
 
-> **Am zuverlässigsten prüfbar sind:**  
+> **Am schnellsten prüfbar sind:**  
 > der lokal vorliegende Korpus, die Strukturprüfung, der Katalogbau, die Indexierung und die lokale Lucene-Suche.
 
 > **Status des FCS-/SRU-Teils:**  
@@ -88,6 +91,10 @@ Die Grundidee lautet:
 - **Artikel-Ebene** = Volltext und Metadaten eines einzelnen Artikels
 
 ---
+
+> **Wichtig!**
+> Das Korpus bildet Publikationsfolge der **Ausgaben/Issues** von <a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> chronologisch von **oben nach unten** ab;
+> Auf der Webseite selbst werden diese aber **von unten nach oben** gemacht. D.h. die **ältere bzw. erste** Ausgabe des Magazins wird ganz unten in der Liste stehen!
 
 ### Grundstruktur des Korpus
 
@@ -558,7 +565,7 @@ rm -rf logs/textsearch
 
 Ein einzelnes Magazin:
 
-Auf <a href="zxpress.ru">zxpress.ru</a> nach Link des Magazins mit ID suchen; als Output unter `magazines/` einen passenden Magazinordnernamen ohne problematische Sonderzeichen verwenden.
+Auf <a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> nach Link des Magazins mit ID suchen; als Output unter `magazines/` einen passenden Magazinordnernamen ohne problematische Sonderzeichen verwenden.
 
 ```bash
 python scripts/light/run_light_pipeline.py \
@@ -677,5 +684,19 @@ Validator: <a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-vali
 ```bash
 python scripts/light/validate_corpus.py --mag-root "data/zxpress/magazines/Psychoz"
 ```
+
+## Tipps für Webquelle: weitere Forschung
+
+- Auf den Magazinebenen kann man Magazinarchive für Start in Emulator herunterladen. Die Option heißt: "Скачать архив газеты для запуска в эмуляторе".
+- Auf den Artikelebenen können einzelne Artikel ins Druckansicht überführt oder als .txt heruntergeladen werden.
+- In der rechten Leistenmenü sind häufige Themen der Artikel aufgelistet: "Темы", z.B. Spiele, Software, Demoszene.
+- Oben rechts gibt es mehrere Weiterleitungen:
+  - "Пресса" sind Magazine, die in diesem Projekt bearbeitet wurden;
+  - "Книги" sind Bücher, die dem Thema ZX Spectrum gewidmet sind;
+  - "Письма" sind Papierbriefe von Teilnehmer der ZX Spectrum Szene;
+  - „ZXNet“ archiviert Echo-Konferenzen eines nichtkommerziellen ZX-Spectrum-Netzwerks, also historische thematische Nachrichten- und Diskussionsbestände der Szene.
+- Im selben Navigationsbereich befinden sich außerdem die Seiten:
+  - „Хронология“ bietet eine zeitliche Übersicht der Zeitungen und Magazine, inklusive Jahresgrafik und detaillierter Ausgabenliste.
+  - „Статистика“ fasst quantitative Informationen zum Archiv zusammen, etwa Artikelzahlen, Screenshots, Umfang des Pressearchivs, besonders gelesene Artikel sowie langlebige Magazine und Zeitungen.
 
 <p align="right"><a href="#inhalt">↑ Zurück zum Inhalt</a></p>

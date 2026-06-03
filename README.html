@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Stoianov Digital Project</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Stoianov Digital Project</h1>
+</header>
+<h1 align="center">
+Freies Digitales Projekt
+</h1>
+<br>
+<p align="center">
+<strong>Artem Stoianov</strong><br> Julius-Maximilians-Universität
+Würzburg · Philosophische Fakultät · Digital Humanities<br>
+Sommersemester 2026 · Stand: Juni 2026
+</p>
+<br>
+<p align="center">
+<strong>Aufbau, Erschließung und prototypische Suchbereitstellung eines
+Korpus russischsprachiger Diskmags auf Grundlage von ZXpress</strong>
+</p>
+<br>
+<p align="center">
+<a href="#inhalt">Inhalt</a> • <a href="#überblick">Überblick</a> •
+<a href="#projektstruktur">Projektstruktur</a> •
+<a href="#prüfwege">Prüfwege</a> •
+<a href="#zusätzliche-skripte">Zusätzliche Skripte</a>
+</p>
+<p align="center">
+<img alt="Status Korpus" src="https://img.shields.io/badge/Korpus-vorhanden-2ea44f">
+<img alt="Status Lucene" src="https://img.shields.io/badge/Lucene-lokal%20testbar-2ea44f">
+<img alt="Status Endpoint" src="https://img.shields.io/badge/FCS%2FSRU-prototypisch-f0ad4e">
+<img alt="Status Validator" src="https://img.shields.io/badge/Validator-nicht%20vollständig%20konform-d9534f">
+</p>
+<hr />
+<h2 id="inhalt">Inhalt</h2>
+<ul>
+<li><a href="#überblick">Überblick</a></li>
+<li><a href="#projektstruktur">Projektstruktur</a>
+<ul>
+<li><a href="#grundstruktur-des-korpus">Grundstruktur des
+Korpus</a></li>
+<li><a href="#zentrale-verzeichnisse">Zentrale Verzeichnisse</a></li>
+</ul></li>
+<li><a href="#voraussetzungen">Voraussetzungen</a></li>
+<li><a href="#lokale-und-harte-pfade">Lokale und harte Pfade</a></li>
+<li><a href="#prüfwege">Prüfwege</a>
+<ul>
+<li><a href="#prüffall-a-endzustand-direkt-prüfen">Prüffall A:
+Endzustand direkt prüfen</a></li>
+<li><a href="#prüffall-b-verarbeitung-ohne-neues-korpusziehen">Prüffall
+B: Verarbeitung ohne neues Korpusziehen</a></li>
+<li><a href="#prüffall-c-neuaufbau-mit-scraper-in-testumgebung">Prüffall
+C: Neuaufbau mit Scraper in Testumgebung</a></li>
+</ul></li>
+<li><a href="#zusätzliche-skripte">Zusätzliche Skripte</a></li>
+<li><a href="#tipps-für-webquelle:-weitere-forschung">Tipps für
+Webquelle: weitere Forschung</a></li>
+</ul>
+<hr />
+<h2 id="überblick">Überblick</h2>
+<p>Dieses Repository dokumentiert technische Schritte der Bereitstellung
+eines Korpus russischsprachiger Diskmags auf Grundlage der Website
+<a href="zxpress.ru/ezines.php">zxpress.ru</a></p>
+<p>Das ausführliche Projektprotokoll ist hier abgelegt:<a
+href="Stoianov_Protokoll_Groß.pdf">Stoianov_Protokoll_Groß.pdf</a></p>
+<p>Die vier praktischen Hauptbereiche sind:</p>
+<ul>
+<li>Korpusaufbau und Korpusspeicherung</li>
+<li>Bereinigung, Validierung und Audit</li>
+<li>Lokale Volltextsuche mit Lucene</li>
+<li>Prototypische FCS-/SRU-Bereitstellung</li>
+</ul>
+<p>Das Repository ist ein gewachsener Projektstand. Entsprechend sind
+einige Komponenten stabil und gut prüfbar, andere experimentell oder
+unvollständig abgeschlossen.</p>
+<blockquote>
+<p><strong>Am schnellsten prüfbar sind:</strong><br />
+der lokal vorliegende Korpus, die Strukturprüfung, der Katalogbau, die
+Indexierung und die lokale Lucene-Suche.</p>
+</blockquote>
+<blockquote>
+<p><strong>Status des FCS-/SRU-Teils:</strong><br />
+prototypisch; lokal und über ngrok getestet, aber nicht vollständig
+validator-konform abgeschlossen.</p>
+</blockquote>
+<h3 id="ziel-des-repositories">Ziel des Repositories</h3>
+<p>Das Repository soll für die Prüfung drei Dinge ermöglichen:</p>
+<ol type="1">
+<li>den abgegebenen Endzustand direkt nachzuvollziehen</li>
+<li>die lokale Verarbeitungskette ohne erneutes Korpusziehen zu
+testen</li>
+<li>auf Wunsch auch einen scraper-basierten Neuaufbau in einer
+Testumgebung nachzuvollziehen</li>
+</ol>
+<p>Dafür gibt es in diesem README drei getrennte Prüfwege.</p>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h2 id="projektstruktur">Projektstruktur</h2>
+<p>Der Korpus ist hierarchisch aufgebaut: <strong>Magazin → Ausgaben →
+Artikel → Volltext</strong>.<br />
+Zusätzlich existieren JSON-Metadaten auf mehreren Ebenen, damit der
+Bestand als strukturierter Forschungskorpus nutzbar ist.</p>
+<p>Die Grundidee lautet:</p>
+<ul>
+<li><strong>Magazin-Ebene</strong> = allgemeine Informationen zu einem
+Periodikum</li>
+<li><strong>Issue-Ebene</strong> = Informationen zu einer konkreten
+Ausgabe</li>
+<li><strong>Artikel-Ebene</strong> = Volltext und Metadaten eines
+einzelnen Artikels</li>
+</ul>
+<hr />
+<blockquote>
+<p><strong>Wichtig!</strong> Das Korpus bildet Publikationsfolge der
+<strong>Ausgaben/Issues</strong> von
+<a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> chronologisch
+von <strong>oben nach unten</strong> ab; Auf der Webseite selbst werden
+diese aber <strong>von unten nach oben</strong> gemacht. D.h. die
+<strong>ältere bzw. erste</strong> Ausgabe des Magazins wird ganz unten
+in der Liste stehen!</p>
+</blockquote>
+<h3 id="grundstruktur-des-korpus">Grundstruktur des Korpus</h3>
+<pre class="text"><code>data/
+└── zxpress/
+    └── magazines/
+        ├── &lt;Magazin_A&gt;/
+        │   ├── magazine.json
+        │   ├── listing.json
+        │   └── issues/
+        │       ├── &lt;Issue_1&gt;/
+        │       │   ├── issue.json
+        │       │   ├── listing.json
+        │       │   └── articles/
+        │       │       ├── &lt;Artikel_1&gt;/
+        │       │       │   ├── meta.json
+        │       │       │   └── text.txt
+        │       │       ├── &lt;Artikel_2&gt;/
+        │       │       │   ├── meta.json
+        │       │       │   └── text.txt
+        │       │       └── ...
+        │       ├── &lt;Issue_2&gt;/
+        │       └── ...
+        ├── &lt;Magazin_B&gt;/
+        └── ...</code></pre>
+<br>
+<details>
+<summary>
+<strong>Magazin-, Issue- und Artikel-Ebene anzeigen</strong>
+</summary>
+<h4 id="magazin-ebene">1. Magazin-Ebene</h4>
+<p>Diese Ebene beschreibt ein gesamtes Magazin oder Periodikum.</p>
+<ul>
+<li><strong><code>magazine.json</code></strong>: zentrale
+Metadatenquelle für das Magazin als Ganzes</li>
+<li><strong><code>listing.json</code></strong>: magazinweites
+Issue-Verzeichnis</li>
+</ul>
+<h4 id="issue-ebene">2. Issue-Ebene</h4>
+<p><strong>Benennung des Issue-Ordners</strong></p>
+<pre class="text"><code>&lt;issue_label&gt;_&lt;issue_date_iso&gt;</code></pre>
+<p>Diese Ebene beschreibt eine konkrete Ausgabe eines Magazins.</p>
+<ul>
+<li><strong><code>issue.json</code></strong>: Metadaten zur Ausgabe</li>
+<li><strong><code>listing.json</code></strong>: Liste der Artikel dieser
+Ausgabe</li>
+</ul>
+<h4 id="artikel-ebene">3. Artikel-Ebene</h4>
+<p><strong>Benennung des Artikelordners</strong></p>
+<pre class="text"><code>&lt;Reihenfolge&gt;_&lt;Artikel-ID&gt;_&lt;Kurzslug&gt;</code></pre>
+<p>Beispiel:</p>
+<pre class="text"><code>01_12345_Beispielartikel</code></pre>
+<p>Diese Ebene enthält den eigentlichen Forschungsinhalt:</p>
+<ul>
+<li><strong><code>meta.json</code></strong>: Metadaten eines einzelnen
+Artikels</li>
+<li><strong><code>text.txt</code></strong>: gespeicherter Volltext</li>
+</ul>
+<p><code>text.txt</code> ist zentral für:</p>
+<ul>
+<li>Volltextsuche</li>
+<li>Indexierung</li>
+<li>KWIC-Ausgabe</li>
+<li>spätere Forschungsauswertung</li>
+</ul>
+<p><strong>Beispiel eines vollständigen Pfads</strong></p>
+<pre class="text"><code>data/zxpress/magazines/Z80/issues/01_1996-04-14/articles/01_12345_Beispielartikel/text.txt</code></pre>
+<ul>
+<li><code>Z80</code> = Magazin</li>
+<li><code>01_1996-04-14</code> = Ausgabe</li>
+<li><code>01_12345_Beispielartikel</code> = Artikel</li>
+</ul>
+</details>
+<hr />
+<h3 id="zentrale-verzeichnisse">Zentrale Verzeichnisse</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Pfad</th>
+<th>Inhalt</th>
+<th>Rolle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>data/</code></td>
+<td>bereits befüllter Hauptkorpus</td>
+<td>zentral</td>
+</tr>
+<tr>
+<td><code>data_small/</code></td>
+<td>kleinerer Teilbestand für Kurztests</td>
+<td>optional</td>
+</tr>
+<tr>
+<td><code>_catalog/</code></td>
+<td>CSV-Kataloge des Korpus</td>
+<td>wichtig für Indexer</td>
+</tr>
+<tr>
+<td><code>index_dir/</code></td>
+<td>Lucene-Index</td>
+<td>zentral für Searcher</td>
+</tr>
+<tr>
+<td><code>logs/</code></td>
+<td>Prüf- und Diagnoseergebnisse</td>
+<td>zentral</td>
+</tr>
+<tr>
+<td><code>scripts/light/</code></td>
+<td>Korpusaufbau, Bereinigung, Audit</td>
+<td>zentral</td>
+</tr>
+<tr>
+<td><code>scripts/TextSearch/</code></td>
+<td>Indexer und Searcher</td>
+<td>zentral</td>
+</tr>
+<tr>
+<td><code>scripts/TextSearch/_tools/</code></td>
+<td>Prüfwerkzeuge für den Index</td>
+<td>zentral</td>
+</tr>
+<tr>
+<td><code>scripts/FCS/</code></td>
+<td>erster FCS-/SRU-Prototyp</td>
+<td>prototypisch</td>
+</tr>
+<tr>
+<td><code>scripts/FCS_Server/</code></td>
+<td>zweiter Endpoint-Versuch</td>
+<td>dokumentiert, nicht primärer Prüfpfad</td>
+</tr>
+</tbody>
+</table>
+<br>
+<details>
+<summary>
+<strong>Wichtige Log-Dateien anzeigen</strong>
+</summary>
+<h3 id="logsvalidation"><code>logs/validation/</code></h3>
+<p>Einzelne Validierungsprotokolle pro Magazin.</p>
+<h3 id="logshealth"><code>logs/health/</code></h3>
+<p>Struktur- und Audit-Logs des Korpus.</p>
+<p>Wichtige Dateien:</p>
+<ul>
+<li><code>issues_missing.log</code>: Issues mit fehlender
+<code>issue.json</code>, <code>listing.json</code> oder fehlendem
+<code>articles/</code></li>
+<li><code>articles_missing.log</code>: Artikelordner mit fehlender
+<code>meta.json</code> oder <code>text.txt</code></li>
+<li><code>placeholders_0000-01-01.log</code>: Issues mit
+Platzhalterdatum <code>0000-01-01</code></li>
+<li><code>magazines_empty.log</code>: Magazine ohne Issues oder mit
+fehlendem <code>issues/</code></li>
+<li><code>audit_summary.csv</code>: Gesamttabelle des Audit-Laufs</li>
+<li><code>audit_problematic_magazines.csv</code> und <code>.log</code>:
+problematische Magazine zur manuellen Sichtung</li>
+<li><code>audit_stdout.log</code>: Konsolenausgabe des Audit-Laufs</li>
+<li><code>summary.txt</code>: Hauptzusammenfassung des
+Health-Checks</li>
+</ul>
+<h3 id="logstextsearch"><code>logs/textsearch/</code></h3>
+<p>Logs für die Suchschicht.</p>
+<ul>
+<li><code>full_healthcheck.txt</code>: Zusammenfassung des
+TextSearch-Healthchecks</li>
+</ul>
+</details>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h2 id="voraussetzungen">Voraussetzungen</h2>
+<h3 id="python">Python</h3>
+<p>Im Projektverlauf wurde mit <strong>Python 3.11.13</strong>
+gearbeitet.</p>
+<div class="sourceCode" id="cb6"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> <span class="at">--version</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">which</span> python</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="fu">which</span> python3</span></code></pre></div>
+<h3 id="java">Java</h3>
+<p>Für Lucene, Indexer, Searcher und Endpoint wurde <strong>Java
+21</strong> verwendet.</p>
+<div class="sourceCode" id="cb7"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">java</span> <span class="at">-version</span></span></code></pre></div>
+<h3 id="abhängigkeiten">Abhängigkeiten</h3>
+<p>Für Scraper und Light-Skripte:</p>
+<div class="sourceCode" id="cb8"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install <span class="at">-r</span> requirements-scraper.txt</span></code></pre></div>
+<p>Für Suche, Lucene und Endpoint:</p>
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install <span class="at">-r</span> requirements.txt</span></code></pre></div>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h2 id="lokale-und-harte-pfade">Lokale und harte Pfade</h2>
+<p>Einige Skripte enthalten harte lokale Pfade und müssen auf eigenem
+Rechner angepasst werden.</p>
+<h3 id="harte-pfade">Harte Pfade</h3>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Datei</th>
+<th>Stelle</th>
+<th>Hinweis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>scripts/FCS/fcs_endpoint.py</code></td>
+<td><code>INDEX_DIR</code>, <code>CONFIG_PATH</code></td>
+<td>vor Endpoint-Test anpassen</td>
+</tr>
+<tr>
+<td><code>scripts/light/repair_psychoz_12.py</code></td>
+<td><code>MAG</code></td>
+<td>Spezialskript für Einzelfall</td>
+</tr>
+</tbody>
+</table>
+<p><br> <code>scripts/FCS/fcs_endpoint.py</code></p>
+<div class="sourceCode" id="cb10"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>INDEX_DIR <span class="op">=</span> <span class="st">&quot;/Users/stoia1/Desktop/Website/DigitProject/index_dir&quot;</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>CONFIG_PATH <span class="op">=</span> <span class="st">&quot;/Users/stoia1/Desktop/Website/DigitProject/config/zxpress.yaml&quot;</span></span></code></pre></div>
+<p><code>scripts/light/repair_psychoz_12.py</code></p>
+<div class="sourceCode" id="cb11"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>MAG <span class="op">=</span> <span class="st">&quot;data/zxpress/magazines/Psychoz&quot;</span></span></code></pre></div>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h2 id="prüfwege">Prüfwege</h2>
+<hr />
+<h3 id="prüffall-a-endzustand-direkt-prüfen">Prüffall A: Endzustand
+direkt prüfen</h3>
+<blockquote>
+<p><strong>Ziel:</strong> vorhandenen Projektstand direkt ansehen und
+benutzen<br />
+<strong>Geeignet für:</strong> schnelle Prüfung ohne Neuaufbau</p>
+</blockquote>
+<h4 id="wichtige-bestände-zum-untersuchen">Wichtige Bestände zum
+Untersuchen</h4>
+<p><strong>1. Korpus ansehen</strong> - <code>data/</code> -
+<code>data_small/</code></p>
+<p><strong>2. Katalog ansehen</strong> -
+<code>_catalog/magazines.csv</code> - <code>_catalog/issues.csv</code> -
+<code>_catalog/articles.csv</code></p>
+<p><strong>3. Logs ansehen</strong> -
+<code>logs/health/summary.txt</code> -
+<code>logs/health/audit_problematic_magazines.log</code> -
+<code>logs/textsearch/full_healthcheck.txt</code> - einzelne Dateien in
+<code>logs/validation/</code></p>
+<p><strong>4. Index</strong> - <code>index_dir/</code></p>
+<h4 id="textsearch-healthcheck">TextSearch-Healthcheck</h4>
+<div class="sourceCode" id="cb12"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/_tools/full_healthcheck.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span></span></code></pre></div>
+<p>Wenn dieser Schritt erfolgreich ist, ist der vorhandene Index lesbar
+und der Searcher lokal nutzbar.</p>
+<h4 id="lokale-suche-testen">Lokale Suche testen</h4>
+<div class="sourceCode" id="cb13"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Searcher.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span> <span class="at">--q</span> <span class="st">&quot;спектрум&quot;</span> <span class="at">--limit</span> 3</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Searcher.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span> <span class="at">--q</span> <span class="st">&quot;covox OR ковокс&quot;</span> <span class="at">--limit</span> 3</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Searcher.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span> <span class="at">--q</span> <span class="st">&quot;игра&quot;</span> <span class="at">--year-from</span> 1995 <span class="at">--year-to</span> 1997 <span class="at">--limit</span> 3</span></code></pre></div>
+<h4 id="endpoint-lokal-starten">Endpoint lokal starten</h4>
+<p>Vorher harte Pfade in <code>scripts/FCS/fcs_endpoint.py</code>
+prüfen.</p>
+<div class="sourceCode" id="cb14"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/FCS/fcs_endpoint.py</span></code></pre></div>
+<p>Dann lokal testen:</p>
+<div class="sourceCode" id="cb15"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/health&quot;</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<h4 id="ngrok-verwenden">ngrok verwenden</h4>
+<p>Voraussetzung: Der Endpoint läuft bereits lokal.</p>
+<ol type="1">
+<li>Account bei ngrok anlegen<br />
+</li>
+<li>ngrok installieren<br />
+</li>
+<li>Auth-Token setzen, falls nötig</li>
+</ol>
+<p>Tunnel starten:</p>
+<div class="sourceCode" id="cb16"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ngrok</span> http 8088</span></code></pre></div>
+<p>Danach zeigt ngrok eine öffentliche URL an, z. B.:</p>
+<pre class="text"><code>https://&lt;ihre-adresse&gt;.ngrok-free.dev</code></pre>
+<h4 id="endpoint-über-ngrok-testen">Endpoint über ngrok testen</h4>
+<div class="sourceCode" id="cb18"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/health&quot;</span></span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<h4 id="validator-reproduzieren">Validator reproduzieren</h4>
+<p>Validator:
+<a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-validator.data.saw-leipzig.de/</a></p>
+<p>Eintragen:</p>
+<ul>
+<li>Endpoint BaseURL:
+<code>https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru</code></li>
+<li>Search Term: <code>спектрум</code> (<code>spectrum</code>)</li>
+</ul>
+<p>Dann <code>Evaluate</code> starten.</p>
+<blockquote>
+<p><strong>Wichtig:</strong> Der Validatorfehler ist reproduzierbar und
+gehört zum dokumentierten Projektstand.</p>
+</blockquote>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h3 id="prüffall-b-verarbeitung-ohne-neues-korpusziehen">Prüffall B:
+Verarbeitung ohne neues Korpusziehen</h3>
+<blockquote>
+<p><strong>Ziel:</strong> vorhandenen Korpus neu prüfen und verarbeiten,
+ohne ihn neu zu scrapen<br />
+<strong>Geeignet für:</strong> technische Nachvollziehbarkeit ohne
+Netzrisiko</p>
+</blockquote>
+<h4 id="vorher-löschen">Vorher löschen</h4>
+<p>Nur generierte Artefakte löschen:</p>
+<div class="sourceCode" id="cb19"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> _catalog</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> index_dir</span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/health</span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/validation</span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/textsearch</span></code></pre></div>
+<h4 id="schritt-1-health-check-mit-audit">Schritt 1: Health-Check mit
+Audit</h4>
+<div class="sourceCode" id="cb20"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a><span class="fu">bash</span> scripts/light/health_zxpress.sh data/zxpress/magazines logs/health logs/validation</span></code></pre></div>
+<p>Dabei werden geprüft:</p>
+<ul>
+<li>Struktur des Korpus</li>
+<li>fehlende Issue-Dateien</li>
+<li>fehlende Artikeldateien</li>
+<li>Platzhalterdaten</li>
+<li>leere Magazine</li>
+<li>Audit-Zusammenfassung</li>
+</ul>
+<blockquote>
+<p><strong>Hinweis:</strong> <code>health_zxpress.sh</code> nutzt
+vorhandene Validierungslogs in <code>logs/validation</code>, wenn diese
+existieren.<br />
+Neue Validierungslogs müssen separat über
+<code>validate_corpus.py</code> oder automatisch über die
+Scraper-Pipeline erzeugt werden.</p>
+</blockquote>
+<h4 id="schritt-2-katalog-bauen">Schritt 2: Katalog bauen</h4>
+<div class="sourceCode" id="cb21"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/light/build_catalog.py <span class="at">--root</span> <span class="st">&quot;data/zxpress&quot;</span> <span class="at">--out</span> <span class="st">&quot;_catalog&quot;</span></span></code></pre></div>
+<p>Ergebnis:</p>
+<ul>
+<li><code>_catalog/magazines.csv</code></li>
+<li><code>_catalog/issues.csv</code></li>
+<li><code>_catalog/articles.csv</code></li>
+</ul>
+<h4 id="schritt-3-index-neu-bauen">Schritt 3: Index neu bauen</h4>
+<p><strong>Legacy-Modus</strong></p>
+<div class="sourceCode" id="cb22"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Indexer.py <span class="dt">\</span></span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--data-root</span> <span class="st">&quot;data/zxpress/magazines&quot;</span> <span class="dt">\</span></span>
+<span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span></span></code></pre></div>
+<p><strong>Katalogmodus</strong></p>
+<div class="sourceCode" id="cb23"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Indexer.py <span class="dt">\</span></span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--from-catalog</span> <span class="dt">\</span></span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">--catalog-articles</span> <span class="st">&quot;_catalog/articles.csv&quot;</span> <span class="dt">\</span></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">--data-root</span> <span class="st">&quot;data/zxpress&quot;</span> <span class="dt">\</span></span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span></span></code></pre></div>
+<h4 id="schritt-4-textsearch-healthcheck">Schritt 4:
+TextSearch-Healthcheck</h4>
+<div class="sourceCode" id="cb24"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/_tools/full_healthcheck.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span></span></code></pre></div>
+<h4 id="schritt-5-searcher-testen">Schritt 5: Searcher testen</h4>
+<div class="sourceCode" id="cb25"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Searcher.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir&quot;</span> <span class="at">--q</span> <span class="st">&quot;спектрум&quot;</span> <span class="at">--limit</span> 3</span></code></pre></div>
+<h4 id="schritt-6-endpoint-lokal-testen">Schritt 6: Endpoint lokal
+testen</h4>
+<p>Vorher harte Pfade in <code>scripts/FCS/fcs_endpoint.py</code>
+prüfen.</p>
+<div class="sourceCode" id="cb26"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/FCS/fcs_endpoint.py</span></code></pre></div>
+<div class="sourceCode" id="cb27"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/health&quot;</span></span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<h4 id="schritt-7-ngrok-validator">Schritt 7: ngrok + Validator</h4>
+<div class="sourceCode" id="cb28"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ngrok</span> http 8088</span></code></pre></div>
+<div class="sourceCode" id="cb29"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/health&quot;</span></span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<p>Validator:
+<a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-validator.data.saw-leipzig.de/</a></p>
+<ul>
+<li>Endpoint BaseURL:
+<code>https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru</code></li>
+<li>Search Term: <code>спектрум</code> (<code>spectrum</code>)</li>
+<li><code>Evaluate</code> starten</li>
+</ul>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h3 id="prüffall-c-neuaufbau-mit-scraper-in-testumgebung">Prüffall C:
+Neuaufbau mit Scraper in Testumgebung</h3>
+<blockquote>
+<p><strong>Ziel:</strong> kompletten Neuaufbau in separater Teststruktur
+durchführen<br />
+<strong>Geeignet für:</strong> vollständige Reproduktion mit externer
+Quelle</p>
+</blockquote>
+<h4 id="checkliste">Checkliste</h4>
+<ul class="task-list">
+<li><label><input type="checkbox" />Teststruktur leeren</label></li>
+<li><label><input type="checkbox" />Pipeline im Single- oder All-Modus
+ausführen</label></li>
+<li><label><input type="checkbox" />Health-Check laufen
+lassen</label></li>
+<li><label><input type="checkbox" />Katalog bauen</label></li>
+<li><label><input type="checkbox" />Index bauen</label></li>
+<li><label><input type="checkbox" />TextSearch prüfen</label></li>
+<li><label><input type="checkbox" />Searcher testen</label></li>
+<li><label><input type="checkbox" />Endpoint optional lokal
+testen</label></li>
+<li><label><input type="checkbox" />ngrok und Validator optional
+reproduzieren</label></li>
+</ul>
+<h4 id="empfohlene-teststruktur">Empfohlene Teststruktur</h4>
+<ul>
+<li><code>data_test/</code></li>
+<li><code>_catalog_test/</code></li>
+<li><code>index_dir_test/</code></li>
+</ul>
+<h4 id="vorher-löschen-1">Vorher löschen</h4>
+<div class="sourceCode" id="cb30"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> data_test</span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> _catalog_test</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> _catalog</span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> index_dir_test</span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> index_dir</span>
+<span id="cb30-6"><a href="#cb30-6" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/health</span>
+<span id="cb30-7"><a href="#cb30-7" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/validation</span>
+<span id="cb30-8"><a href="#cb30-8" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span> <span class="at">-rf</span> logs/textsearch</span></code></pre></div>
+<h4 id="webscraper-pipeline-modi">WebScraper Pipeline-Modi</h4>
+<h5 id="single-run">Single-Run</h5>
+<p>Ein einzelnes Magazin:</p>
+<p>Auf <a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> nach
+Link des Magazins mit ID suchen; als Output unter
+<code>magazines/</code> einen passenden Magazinordnernamen ohne
+problematische Sonderzeichen verwenden.</p>
+<div class="sourceCode" id="cb31"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/light/run_light_pipeline.py <span class="dt">\</span></span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--mode</span> single <span class="dt">\</span></span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">--mag-url</span> <span class="st">&quot;https://zxpress.ru/issue.php?id=1&quot;</span> <span class="dt">\</span></span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">--out-root</span> <span class="st">&quot;data_test/zxpress/magazines/Z80&quot;</span> <span class="dt">\</span></span>
+<span id="cb31-5"><a href="#cb31-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">--validate</span></span></code></pre></div>
+<h5 id="all-run">All-Run</h5>
+<p>Kompletter ZXPress-Katalog von <code>ezines.php</code>:</p>
+<div class="sourceCode" id="cb32"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/light/run_light_pipeline.py <span class="dt">\</span></span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--mode</span> all <span class="dt">\</span></span>
+<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">--config</span> <span class="st">&quot;config/zxpress.yaml&quot;</span> <span class="dt">\</span></span>
+<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">--root</span> <span class="st">&quot;data_test/zxpress/magazines&quot;</span> <span class="dt">\</span></span>
+<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">--validate</span></span></code></pre></div>
+<br>
+<details>
+<summary>
+<strong>Hinweise zum All-Run</strong>
+</summary>
+<ul>
+<li><code>--mode all</code> verarbeitet den Webkatalog vollständig</li>
+<li>ein kompletter Lauf kann über eine Stunde benötigen</li>
+<li>Dauer und Erfolg hängen von Netzverbindung und Quellverfügbarkeit
+ab</li>
+</ul>
+</details>
+<h4 id="was-die-pipeline-intern-macht">Was die Pipeline intern
+macht</h4>
+<p>Die Pipeline ruft mehrere Skripte unter <code>scripts/light/</code>
+nacheinander auf.<br />
+Damit passiert eine erste Bereinigung bereits im Pipeline-Lauf. Danach
+sollte trotzdem immer noch ein <code>health_zxpress.sh</code>-Lauf
+folgen.</p>
+<h4 id="nach-dem-lauf">Nach dem Lauf</h4>
+<h5 id="schritt-1-health-check">Schritt 1: Health-Check</h5>
+<div class="sourceCode" id="cb33"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="fu">bash</span> scripts/light/health_zxpress.sh data_test/zxpress/magazines logs/health logs/validation</span></code></pre></div>
+<h5 id="schritt-2-katalog-bauen-1">Schritt 2: Katalog bauen</h5>
+<div class="sourceCode" id="cb34"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/light/build_catalog.py <span class="at">--root</span> <span class="st">&quot;data_test/zxpress&quot;</span> <span class="at">--out</span> <span class="st">&quot;_catalog_test&quot;</span></span></code></pre></div>
+<h5 id="schritt-3-index-bauen">Schritt 3: Index bauen</h5>
+<div class="sourceCode" id="cb35"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Indexer.py <span class="dt">\</span></span>
+<span id="cb35-2"><a href="#cb35-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--from-catalog</span> <span class="dt">\</span></span>
+<span id="cb35-3"><a href="#cb35-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">--catalog-articles</span> <span class="st">&quot;_catalog_test/articles.csv&quot;</span> <span class="dt">\</span></span>
+<span id="cb35-4"><a href="#cb35-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">--data-root</span> <span class="st">&quot;data_test/zxpress&quot;</span> <span class="dt">\</span></span>
+<span id="cb35-5"><a href="#cb35-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">--index-dir</span> <span class="st">&quot;index_dir_test&quot;</span></span></code></pre></div>
+<h5 id="schritt-4-textsearch-healthcheck-1">Schritt 4:
+TextSearch-Healthcheck</h5>
+<div class="sourceCode" id="cb36"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/_tools/full_healthcheck.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir_test&quot;</span></span></code></pre></div>
+<h5 id="schritt-5-searcher-testen-1">Schritt 5: Searcher testen</h5>
+<div class="sourceCode" id="cb37"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/TextSearch/Searcher.py <span class="at">--index-dir</span> <span class="st">&quot;index_dir_test&quot;</span> <span class="at">--q</span> <span class="st">&quot;спектрум&quot;</span> <span class="at">--limit</span> 3</span></code></pre></div>
+<h5 id="schritt-6-endpoint">Schritt 6: Endpoint</h5>
+<p>Falls der Endpoint mit Testdaten geprüft werden soll, müssen die
+harten Pfade in <code>scripts/FCS/fcs_endpoint.py</code> angepasst
+werden.</p>
+<div class="sourceCode" id="cb38"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/FCS/fcs_endpoint.py</span></code></pre></div>
+<div class="sourceCode" id="cb39"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/health&quot;</span></span>
+<span id="cb39-2"><a href="#cb39-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb39-3"><a href="#cb39-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb39-4"><a href="#cb39-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;http://127.0.0.1:8088/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<h5 id="schritt-7-ngrok-validator-1">Schritt 7: ngrok + Validator</h5>
+<div class="sourceCode" id="cb40"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="ex">ngrok</span> http 8088</span></code></pre></div>
+<div class="sourceCode" id="cb41"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/health&quot;</span></span>
+<span id="cb41-2"><a href="#cb41-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=explain&amp;version=2.0&quot;</span></span>
+<span id="cb41-3"><a href="#cb41-3" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?x-fcs-endpoint-description=true&quot;</span></span>
+<span id="cb41-4"><a href="#cb41-4" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-i</span> <span class="st">&quot;https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru?operation=searchRetrieve&amp;version=2.0&amp;query=cql.serverChoice=%22%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D1%83%D0%BC%22&amp;maximumRecords=3&quot;</span></span></code></pre></div>
+<p>Validator:
+<a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-validator.data.saw-leipzig.de/</a></p>
+<ul>
+<li>Endpoint BaseURL:
+<code>https://&lt;ihre-adresse&gt;.ngrok-free.dev/sru</code></li>
+<li>Search Term: <code>спектрум</code> (<code>spectrum</code>)</li>
+<li><code>Evaluate</code> starten</li>
+</ul>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+<hr />
+<h2 id="zusätzliche-skripte">Zusätzliche Skripte</h2>
+<p><strong><code>scripts/light/validate_corpus.py</code></strong>:
+validiert ein einzelnes Magazin</p>
+<p><strong>Beispiel</strong></p>
+<div class="sourceCode" id="cb42"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> scripts/light/validate_corpus.py <span class="at">--mag-root</span> <span class="st">&quot;data/zxpress/magazines/Psychoz&quot;</span></span></code></pre></div>
+<h2 id="tipps-für-webquelle-weitere-forschung">Tipps für Webquelle:
+weitere Forschung</h2>
+<ul>
+<li>Auf den Magazinebenen kann man Magazinarchive für Start in Emulator
+herunterladen. Die Option heißt: “Скачать архив газеты для запуска в
+эмуляторе”.</li>
+<li>Auf den Artikelebenen können einzelne Artikel ins Druckansicht
+überführt oder als .txt heruntergeladen werden.</li>
+<li>In der rechten Leistenmenü sind häufige Themen der Artikel
+aufgelistet: “Темы”, z.B. Spiele, Software, Demoszene.</li>
+<li>Oben rechts gibt es mehrere Weiterleitungen:
+<ul>
+<li>“Пресса” sind Magazine, die in diesem Projekt bearbeitet
+wurden;</li>
+<li>“Книги” sind Bücher, die dem Thema ZX Spectrum gewidmet sind;</li>
+<li>“Письма” sind Papierbriefe von Teilnehmer der ZX Spectrum
+Szene;</li>
+<li>„ZXNet“ archiviert Echo-Konferenzen eines nichtkommerziellen
+ZX-Spectrum-Netzwerks, also historische thematische Nachrichten- und
+Diskussionsbestände der Szene.</li>
+</ul></li>
+<li>Im selben Navigationsbereich befinden sich außerdem die Seiten:
+<ul>
+<li>„Хронология“ bietet eine zeitliche Übersicht der Zeitungen und
+Magazine, inklusive Jahresgrafik und detaillierter Ausgabenliste.</li>
+<li>„Статистика“ fasst quantitative Informationen zum Archiv zusammen,
+etwa Artikelzahlen, Screenshots, Umfang des Pressearchivs, besonders
+gelesene Artikel sowie langlebige Magazine und Zeitungen.</li>
+</ul></li>
+</ul>
+<p align="right">
+<a href="#inhalt">↑ Zurück zum Inhalt</a>
+</p>
+</body>
+</html>
