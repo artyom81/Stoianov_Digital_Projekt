@@ -40,7 +40,7 @@
   - [Prüffall B: Verarbeitung ohne neues Korpusziehen](#prüffall-b-verarbeitung-ohne-neues-korpusziehen)
   - [Prüffall C: Neuaufbau mit Scraper in Testumgebung](#prüffall-c-neuaufbau-mit-scraper-in-testumgebung)
 - [Zusätzliche Skripte](#zusätzliche-skripte)
-- [Tipps für Webquelle: weitere Forschung](#tipps-für-webquelle:-weitere-forschung)
+- [Tipps für Webquelle, weitere Forschung](#tipps-für-webquelle,-weitere-forschung)
 
 ---
 
@@ -685,7 +685,7 @@ Validator: <a href="https://fcs-validator.data.saw-leipzig.de/">https://fcs-vali
 python scripts/light/validate_corpus.py --mag-root "data/zxpress/magazines/Psychoz"
 ```
 
-## Tipps für Webquelle: weitere Forschung
+## Tipps für Webquelle, weitere Forschung
 
 - Auf den Magazinebenen kann man Magazinarchive für Start in Emulator herunterladen. Die Option heißt: "Скачать архив газеты для запуска в эмуляторе".
 - Auf den Artikelebenen können einzelne Artikel ins Druckansicht überführt oder als .txt heruntergeladen werden.
