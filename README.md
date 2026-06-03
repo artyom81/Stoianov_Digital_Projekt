@@ -46,7 +46,7 @@
 
 ## Überblick
 
-Dieses Repository dokumentiert technische Schritte der Bereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage der Website <a href="zxpress.ru/ezines.php">zxpress.ru</a>
+Dieses Repository dokumentiert technische Schritte der Bereitstellung eines Korpus russischsprachiger Diskmags auf Grundlage der Website <a href="https://zxpress.ru/ezines.php">zxpress.ru</a>
 
 Das ausführliche Projektprotokoll ist hier abgelegt:[Stoianov_Protokoll_Groß.pdf](Stoianov_Protokoll_Groß.pdf)
 
@@ -93,7 +93,7 @@ Die Grundidee lautet:
 ---
 
 > **Wichtig!**
-> Das Korpus bildet Publikationsfolge der **Ausgaben/Issues** von <a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> chronologisch von **oben nach unten** ab;
+> Das Korpus bildet Publikationsfolge der **Ausgaben/Issues** von <a href="https://zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> chronologisch von **oben nach unten** ab;
 > Auf der Webseite selbst werden diese aber **von unten nach oben** gemacht. D.h. die **ältere bzw. erste** Ausgabe des Magazins wird ganz unten in der Liste stehen!
 
 ### Grundstruktur des Korpus
@@ -565,7 +565,7 @@ rm -rf logs/textsearch
 
 Ein einzelnes Magazin:
 
-Auf <a href="zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> nach Link des Magazins mit ID suchen; als Output unter `magazines/` einen passenden Magazinordnernamen ohne problematische Sonderzeichen verwenden.
+Auf <a href="https://zxpress.ru/ezines.php">zxpress.ru/ezines.php</a> nach Link des Magazins mit ID suchen; als Output unter `magazines/` einen passenden Magazinordnernamen ohne problematische Sonderzeichen verwenden.
 
 ```bash
 python scripts/light/run_light_pipeline.py \
