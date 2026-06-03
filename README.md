@@ -687,16 +687,23 @@ python scripts/light/validate_corpus.py --mag-root "data/zxpress/magazines/Psych
 
 ## Tipps für Webquelle und weitere Forschung
 
-- Auf den Magazinebenen kann man Magazinarchive für Start in Emulator herunterladen. Die Option heißt: "Скачать архив газеты для запуска в эмуляторе".
-- Auf den Artikelebenen können einzelne Artikel ins Druckansicht überführt oder als .txt heruntergeladen werden.
-- In der rechten Leistenmenü sind häufige Themen der Artikel aufgelistet: "Темы", z.B. Spiele, Software, Demoszene.
-- Oben rechts gibt es mehrere Weiterleitungen:
+Auf den Magazinebenen kann man Magazinarchive für Start in Emulator herunterladen. Die Option heißt: "Скачать архив газеты для запуска в эмуляторе".
+
+Auf den Artikelebenen können einzelne Artikel ins Druckansicht überführt oder als .txt heruntergeladen werden.
+
+In der rechten Leistenmenü sind häufige Themen der Artikel aufgelistet: "Темы", z.B. Spiele, Software, Demoszene.
+
+Oben rechts gibt es mehrere Weiterleitungen:
   - "Пресса" sind Magazine, die in diesem Projekt bearbeitet wurden;
   - "Книги" sind Bücher, die dem Thema ZX Spectrum gewidmet sind;
   - "Письма" sind Papierbriefe von Teilnehmer der ZX Spectrum Szene;
   - „ZXNet“ archiviert Echo-Konferenzen eines nichtkommerziellen ZX-Spectrum-Netzwerks, also historische thematische Nachrichten- und Diskussionsbestände der Szene.
-- Im selben Navigationsbereich befinden sich außerdem die Seiten:
-  - „Хронология“ bietet eine zeitliche Übersicht der Zeitungen und Magazine, inklusive Jahresgrafik und detaillierter Ausgabenliste.
-  - „Статистика“ fasst quantitative Informationen zum Archiv zusammen, etwa Artikelzahlen, Screenshots, Umfang des Pressearchivs, besonders gelesene Artikel sowie langlebige Magazine und Zeitungen.
+
+Im selben Navigationsbereich befinden sich außerdem die Seiten:
+
+„Хронология“ bietet eine zeitliche Übersicht der Zeitungen und Magazine, inklusive Jahresgrafik und detaillierter Ausgabenliste.
+
+„Статистика“ fasst quantitative Informationen zum Archiv zusammen, etwa Artikelzahlen, Screenshots, Umfang des Pressearchivs, besonders gelesene Artikel sowie langlebige Magazine und Zeitungen.
+
 
 <p align="right"><a href="#inhalt">↑ Zurück zum Inhalt</a></p>
